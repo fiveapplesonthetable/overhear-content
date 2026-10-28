@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Денис | Вика, привет, это звонит Денис. | Vika, hi, this is Denis calling. | #140: Вик, привет. Это Денис | adapted: adapted for A1 clarity |
+| 1 | Макс | Вика, привет, это звонит Денис. | Vika, hi, this is Denis calling. | #140: Вик, привет. Это Денис | adapted: adapted for A1 clarity |
 | 2 | Денис | Извините, пожалуйста, что звоню так поздно. | Excuse me, please, for calling so late. | #141: Извините, что так поздно | adapted: adapted for A1 clarity |
 | 3 | Денис | Я не могу дозвониться до Макса. | I cannot get through to Max on the phone. | #141: Не могу до Макса дозвониться | adapted: adapted for A1 clarity |
 | 4 | Денис | Костя тут упал и ногу подвернул. | Kostya fell here and twisted his ankle. | #142: Костя упал, и ногу подвернул | adapted: adapted for A1 clarity |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, hi, this is Denis calling.' Saying that this is Denis calling is how Denis sets the tone with Kostya.
-- 'Excuse me, please, for calling so late.' Between the car and the kitchen, Denis gives Kostya a quick, grounded response.
-- 'I cannot get through to Max on the phone.' Denis mentions that he cannot get through to Max on the phone so Kostya sees what is at stake.
-- 'Kostya fell here and twisted his ankle.' Even though Kostya fell here and twisted his ankle, Denis keeps a steady face in front of Kostya.
-- 'Max, I have never lied at such length before!' Insisting that he has never lied at such length shows Denis is not backing down. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'I told her that Kostya twisted his ankle.' Saying that he told her that Kostya twisted his ankle is how Denis sets the tone with Kostya.
-- 'Got it, Kostya, yes, I will come right now.' Once got it Kostya yes he will come right now, Max can finally tell Denis what he means.
-- 'Vikulya, may I take your car?' Asking whether someone may he takes Denis's car puts Denis right on the defensive. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Kostyan, hey, are you asleep already?' Wondering if someone hey are Denis asleep already shows Max caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I will ask you a favor, just do not ask questions.' Since he will ask Denis a favor just do not ask questions, Max does not waste words on excuses.
-- 'If Vika asks, you dislocated your foot.' Mentioning that if Vika asks Denis dislocated Denis's foot moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Wait, and why did I dislocate my foot?' Here asking why he dislocate his foot shows Kostya looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And which leg, the right one or the left one?' Asking whether which leg the right one or the left one puts Denis right on the defensive.
-- 'Any leg at all, I will explain everything later!' Max declares that any leg at all he will explain everything later as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Vika, hi, this is Denis calling.' Max conveys a pointed course on the spot, building the phrase around "zvonit" ("is calling") and "vika" ("Vika") for a crisp, natural delivery.
+- 'Excuse me, please, for calling so late.' Denis shares a direct posture at once, leaning on "izvinite" ("sorry, excuse me") before closing the thought with "zvonyu" ("call").
+- 'I cannot get through to Max on the phone.' Denis shares a serious view right away, putting "mogu" ("can") alongside "dozvonitsya" ("to get through") in a tight, everyday turn of phrase.
+- 'Kostya fell here and twisted his ankle.' Denis takes a playful bearing at once, putting "tut" ("here") alongside "upal" ("fell") in a tight, everyday turn of phrase.
+- 'Max, I have never lied at such length before!' Denis sustains an emphatic approach in this beat, building the phrase around "dolgo" ("for a long time") and "nikogda" ("never") for a crisp, natural delivery.
+- 'I told her that Kostya twisted his ankle.' Denis maintains a candid posture during the exchange, leaning on "skazal" ("said") before closing the thought with "podvernul" ("twisted, sprained").
+- 'Got it, Kostya, yes, I will come right now.' Max shares a natural tone as the scene unfolds, combining "ponyal" ("understood") and "seychas" ("now") so the key meaning lands right away.
+- 'Vikulya, may I take your car?' Max probes plainly as the talk turns, weaving "mozhno" ("may, can") together with "mashinu" ("car") just the way native speakers do.
+- 'Kostyan, hey, are you asleep already?' Max inquires earnestly in this moment, leaning on "zdorovo" ("great, cool") before closing the thought with "uzhe" ("already, now").
+- 'I will ask you a favor, just do not ask questions.' Max conveys a firm style beside Kostya, using "poproshu" (from "poprosit", "will ask") alongside "tolko" ("only") to shape the meaning.
+- 'If Vika asks, you dislocated your foot.' Max displays a serious mood in their talk, weaving "sprosit" ("asks") together with "vyvikhnul" ("to foot") just the way native speakers do.
+- 'Wait, and why did I dislocate my foot?' Kostya quizzes directly for Max's benefit, combining "podozhdi" ("wait") and "zachem" ("what for") so the key meaning lands right away.
+- 'And which leg, the right one or the left one?' Kostya questions lightly in this moment, using "nogu" (from "noga", "foot") alongside "pravuyu" ("right") to shape the meaning.
+- 'Any leg at all, I will explain everything later!' Max adopts a firm tempo right away, combining the conversational booster "voobshche" ("in general, overall") with "lyubuyu" ("any") to give the line its natural spoken rhythm.

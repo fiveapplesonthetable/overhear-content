@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, my friend is in here.' Admitting that his friend is in here shows Barinov being honest for a change.
-- 'Vitya, is it really you who came?' By checking whether it really Barinov who came, Mikhail presses Barinov for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Can you imagine, I lost everything.' Once can Barinov imagines he lost everything, Mikhail can finally tell Barinov what he means.
-- 'I lost everything that I had.' Adding that he lost everything that he had fills in the missing piece for Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Why did I even sit down to play with him?' Here wondering why he even sits down to play with him shows Mikhail looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Did you not win him too?' By asking whether Kostya not win him, Barinov presses Kostya for a straight answer.
-- 'Too bad, then I am taking him away.' Mentioning that too bad then he is taking him away moves the talk in a new direction.
-- 'Nastya, you forgot your phone at home.' Kostya reminds Barinov that Barinov forgot Barinov's phone at home before the moment passes. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Thank you very much, my dear.' Over the room and the phone, Barinov answers Kostya without a second thought.
-- 'Tell me the truth, please.' Telling Barinov to tell him the truth please is how Kostya lays out the situation for Barinov.
-- 'The guests at the table are already waiting.' Barinov mentions that the guests at the table are already waiting so Kostya sees what is at stake.
-- 'Go quickly and take their order.' Going quickly and take their order moves the conversation forward without extra drama.
+- 'Excuse me, my friend is in here.' Barinov strikes a clear angle beside Kostya, building the phrase around "proshu" ("beg, ask") and "proshcheniya" ("forgiveness") for a crisp, natural delivery.
+- 'Vitya, is it really you who came?' Mikhail checks plainly right away, linking "pravda" ("honestly"), "prishyol" ("came, have come"), and "vitya" ("Vitya") in one brisk exchange.
+- 'Can you imagine, I lost everything.' Mikhail offers a grounded mood for Barinov, linking "predstavlyayesh" ("can you imagine"), "proigral" ("lost"), and "ty" ("you") in one brisk exchange.
+- 'I lost everything that I had.' Mikhail displays a direct mood in front of Kostya, pairing "proigral" ("lost") with "bylo" ("was") to get the point across in plain spoken Russian.
+- 'Why did I even sit down to play with him?' Mikhail inquires directly as the beat lands, combining "zachem" ("what for") and "voobshche" ("at all") so the key meaning lands right away.
+- 'Did you not win him too?' Barinov tests candidly to keep things clear, combining "samogo" ("the very") and "vyigrali" ("won") so the key meaning lands right away.
+- 'Too bad, then I am taking him away.' Barinov holds a thoughtful manner without hesitation, joining "zhal" ("it is a pity") to "togda" ("back then") so every word pulls its weight.
+- 'Nastya, you forgot your phone at home.' Kostya displays a sharp view during the exchange, joining "telefon" ("phone") to "doma" ("at home") so every word pulls its weight.
+- 'Thank you very much, my dear.' Barinov projects a lively tack at once, weaving "spasibo" ("thank you") together with "bolshoye" ("big, very much") just the way native speakers do.
+- 'Tell me the truth, please.' Kostya adopts a lively rhythm beside Mikhail, pairing "skazhi" ("say") with "pravdu" ("truth") to get the point across in plain spoken Russian.
+- 'The guests at the table are already waiting.' Barinov adopts a grounded stance in the scene, pairing "gosti" ("visitors, guests") with "stolikom" ("table") to get the point across in plain spoken Russian.
+- 'Go quickly and take their order.' Barinov displays a playful mood in the scene, pairing "idi" ("go") with "bystreye" ("faster") to get the point across in plain spoken Russian.

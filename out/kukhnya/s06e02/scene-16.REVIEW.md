@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, are you alive?' By checking whether Lyova alive, Gulya presses Lyova for a straight answer.
-- 'Yes, wait a second.' Over the room and the situation, Lyova answers Gulya without a second thought.
-- 'She almost spotted me.' Between the situation and the truth, Lyova gives Gulya a quick, grounded response.
-- 'Who almost spotted you?' With the point and work hanging in the air, Gulya puts Lyova on the spot.
-- 'Why, my mom.' With the situation and work in play, Lyova keeps this short reply brisk and direct.
-- 'Ah, I get it, are you ashamed of me?' Questioning whether she gets it are Lyova ashamed is how Gulya tests Lyova's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Must we meet so that nobody sees us?' Wondering if must they meet so that nobody sees them shows Gulya caught off guard.
-- 'No, you are the most beautiful girl in the world.' Once Gulya is the most beautiful girl in the world, Lyova can finally tell Gulya what he means. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I simply lied to my mom that I was at work.' Adding that he simply lied to his that he was at work fills in the missing piece for Gulya.
-- 'Lyova, what are you doing?' Asking what Lyova doing is cuts straight through the tension between Gulya and Lyova.
-- 'I want to kiss you.' Admitting that he wants to kiss Gulya shows Lyova being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You will see for yourself right now.' Mentioning that Gulya will see for themselves right now moves the talk in a new direction.
+- 'Lyova, are you alive?' Gulya checks boldly at this point, weaving "zhiv" ("alive") together with "lyova" ("Lyova") just the way native speakers do.
+- 'Yes, wait a second.' Lyova strikes a lively manner beside Gulya, weaving "podozhdi" ("wait") together with "sekundu" ("second") just the way native speakers do.
+- 'She almost spotted me.' Lyova favors a candid line at this moment, weaving "chut" ("almost, nearly") together with "zametila" ("to notice, spot") just the way native speakers do.
+- 'Who almost spotted you?' Gulya queries warmly in front of Lyova, leaning on "zametil" ("noticed") before closing the thought with "kto" ("who").
+- 'Why, my mom.' Lyova maintains a lively angle in front of Gulya, leaning on "mama" ("mum, mother") before closing the thought with "da" ("yes").
+- 'Ah, I get it, are you ashamed of me?' Gulya quizzes frankly in their exchange, joining "ponyala" ("understood") to "stesnyayeshsya" ("are embarrassed by") so every word pulls its weight.
+- 'Must we meet so that nobody sees us?' Gulya wonders honestly in this moment, using "dolzhny" (from "dolzhen", "must, should") alongside "vstrechatsya" ("to meet") to shape the meaning.
+- 'No, you are the most beautiful girl in the world.' Lyova chooses an honest approach without hesitation, weaving "samaya" ("most") together with "krasivaya" ("pretty, beautiful") just the way native speakers do.
+- 'I simply lied to my mom that I was at work.' Lyova conveys a warm approach on the spot, weaving "prosto" ("just") together with "mame" ("mother, mum") just the way native speakers do.
+- 'Lyova, what are you doing?' Gulya questions steadily right away, weaving "delayesh" ("are you doing") together with "lyova" ("Lyova") just the way native speakers do.
+- 'I want to kiss you.' Lyova sets a steady approach in their talk, anchoring the Russian line on "khochu" ("want") and "potselovat" ("to kiss") without extra filler.
+- 'You will see for yourself right now.' Lyova picks a natural stance in the scene, putting "seychas" ("now") alongside "uvidish" ("see") in a tight, everyday turn of phrase.

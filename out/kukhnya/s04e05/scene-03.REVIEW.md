@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to talk with you in person.' Max tells German that he wanted to talk with German in person without dressing it up. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Well all right, I am listening to you closely.' Because all right he is listening to Max closely, German treats the matter as settled.
-- 'Right now you do not have a sous-chef in the kitchen.' Explaining that right now German does not have a in the kitchen lays the cards on the table for German. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I could try this job.' Max mentions that he could try this job so German sees what is at stake.
-- 'Of course, if you do not mind at all.' Claiming that if German does not mind at all sounds confident, even if German has doubts.
-- 'You want to become my new sous-chef?' Questioning whether Max wants to become his new is how German tests Max's story. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Well, if not, then excuse me right away.' With the work and answer in play, Max keeps this short reply brisk and direct.
-- 'Oh no, why would it be no right away?' Asking why it be no right away would cuts straight through the tension between German and Max.
-- 'I happen to need just such a sous-chef.' Since he happens to need just, German does not waste words on excuses.
-- 'A young and self-confident person.' Over the work and the answer, German answers Max without a second thought.
-- 'But I see you are not very glad.' Once he sees Max is not very glad, German can finally tell Max what he means.
-- 'I am simply a very reserved and serious cook.' Noting that he is simply a very reserved and serious cook keeps Max's side of the story simple and clear.
+- 'I wanted to talk with you in person.' Max favors a brisk footing during the exchange, building the phrase around "khotel" ("wanted") and "pogovorit" ("to talk") for a crisp, natural delivery.
+- 'Well all right, I am listening to you closely.' German shares a frank note during the exchange, building the phrase around "khorosho" ("good, fine") and "vnimatelno" ("carefully, attentively") for a crisp, natural delivery.
+- 'Right now you do not have a sous-chef in the kitchen.' Max favors a grounded footing across the room, joining "seychas" ("now") to "kukhne" ("kitchen") so every word pulls its weight.
+- 'I could try this job.' Max offers a pointed stance straight away, building the phrase around "mog" ("can, to be able") and "poprobovat" ("to taste") for a crisp, natural delivery.
+- 'Of course, if you do not mind at all.' Max favors a lively position straight away, linking "konechno" ("of course"), "sovsem" ("at all"), and "yesli" ("if") in one brisk exchange.
+- 'You want to become my new sous-chef?' German prompts pointedly without a pause, anchoring the Russian line on "khotite" ("want") and "stat" ("to become") without extra filler.
+- 'Well, if not, then excuse me right away.' Max conveys an earnest position right away, leaning on "togda" ("back then") before closing the thought with "srazu" ("at once").
+- 'Oh no, why would it be no right away?' German challenges naturally during the talk, linking "pochemu" ("why"), "srazu" ("at once"), and "da" ("yes") in one brisk exchange.
+- 'I happen to need just such a sous-chef.' German maintains an earnest style in the room, combining "kak" ("how") and "raz" ("time, once") so the key meaning lands right away.
+- 'A young and self-confident person.' German adopts a frank position as the scene unfolds, putting "molodoy" ("young") alongside "uverennyy" ("confident") in a tight, everyday turn of phrase.
+- 'But I see you are not very glad.' German adopts a resolute direction with Max, putting "vizhu" ("see") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
+- 'I am simply a very reserved and serious cook.' Max projects a brisk view during the exchange, placing "prosto" ("just") straight beside "ochen" ("very much") with no word for "to be" needed.

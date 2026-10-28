@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Viktor Petrovich.' Around the moment and doctor, the doctor sets a calm, everyday tone with Barinov.
-- 'And what do you call this?' By asking what Barinov calls this, the doctor presses Barinov for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What brings you here?' Wondering if what brings the doctor here shows Barinov caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And what is this here in the trash?' Asking what this here in the trash is is how the doctor puts Barinov on the spot.
-- 'After all, I warned you, Vitya.' With the moment and visit in play, the doctor keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'If you do not stop working like a horse, it will all end with an orchestra.' Explaining that if Barinov does not stop working like a horse it will all end with an orchestra lays the cards on the table for Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And mournful music.' Around the moment and shift, the doctor sets a calm, everyday tone with Barinov.
-- 'Tell me, are you at least taking what I prescribed for you?' Wondering if tell him are Barinov at least taking what he prescribed for Barinov shows the doctor caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Of course, three times a day instead of food.' Between the work and the doctor, Barinov gives the doctor a quick, grounded response.
-- 'Did you come to check on me or to monitor me?' By asking whether the doctor comes to check on him or to monitor him, Barinov presses the doctor for a straight answer.
-- 'Hello, may I steal my dad from you?' Katya asks whether may she steals her dad from Barinov, refusing to let the point slide. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Of course, go right ahead.' Even though Barinov should go right ahead, the doctor keeps a steady face in front of Barinov.
+- 'Hello, Viktor Petrovich.' The doctor keeps an earnest posture during the exchange, leaning on "zdravstvuyte" ("hello") before closing the thought with "viktor" ("Viktor").
+- 'And what do you call this?' The doctor challenges earnestly across the room, weaving "kak" ("how") together with "nazyvayesh" ("to call, to name") just the way native speakers do.
+- 'What brings you here?' Barinov tests earnestly in their exchange, combining "sudbami" ("fates") and "zdes" ("here") so the key meaning lands right away.
+- 'And what is this here in the trash?' The doctor questions naturally as the talk turns, building the phrase around "musorke" ("trash can") and "vot" ("there, here") for a crisp, natural delivery.
+- 'After all, I warned you, Vitya.' The doctor chooses a frank manner right away, leaning on "preduprezhdal" ("warned") before closing the thought with "ved" ("after all").
+- 'If you do not stop working like a horse, it will all end with an orchestra.' The doctor sustains a direct attitude on the spot, leaning on "perestanesh" ("you stop") before closing the thought with "rabotat" ("to work").
+- 'And mournful music.' The doctor takes an honest posture as they talk, building the phrase around "pechalnoy" ("sad, mournful") and "muzykoy" ("music") for a crisp, natural delivery.
+- 'Tell me, are you at least taking what I prescribed for you?' The doctor asks firmly without hesitation, building the phrase around "skazhi" ("say") and "prinimayesh" ("take, mistake for") for a crisp, natural delivery.
+- 'Of course, three times a day instead of food.' Barinov chooses a frank view with the doctor, building the phrase around "konechno" ("of course") and "raza" ("time") for a crisp, natural delivery.
+- 'Did you come to check on me or to monitor me?' Barinov tests naturally for Katya's benefit, leaning on "provedat" ("to check on") before closing the thought with "prishel" ("came, arrived").
+- 'Hello, may I steal my dad from you?' Katya queries sharply in the room, leaning on "zdravstvuyte" ("hello") before closing the thought with "razreshite" ("allow").
+- 'Of course, go right ahead.' The doctor conveys an earnest manner beside Katya, building the phrase around "konechno" ("of course") and "pozhaluysta" ("please") for a crisp, natural delivery.

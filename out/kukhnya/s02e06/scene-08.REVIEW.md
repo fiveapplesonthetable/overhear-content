@@ -16,26 +16,26 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Шеф | И Лёве очень хотелось узнать мой рецепт. | And Lyova badly wanted to find out my secret recipe. | #132: И Лёве очень хотелось узнать мой рецепт | verbatim |
 | 5 | Лёва | Почему у меня получается, а у него нет? | Why does it work for me, and not for him? | #133: Почему у меня получается, а у него нет | verbatim |
 | 6 | Тимур | Лёв, тебе что, делать нечего? | Lyova, do you have nothing better to do? | #134: Лёв, тебе что, делать нечего | verbatim |
-| 7 | Шеф | Шеф, там Тимур продукты привёз. | Chef, Timur just brought the produce delivery. | #135: Шеф, там Тимур продукты привёз | verbatim |
+| 7 | Лёва | Шеф, там Тимур продукты привёз. | Chef, Timur just brought the produce delivery. | #135: Шеф, там Тимур продукты привёз | verbatim |
 | 8 | Лёва | Я могу принять. | I can sign for it. | #136: Я могу принять | verbatim |
 | 9 | Тимур | У меня точно такой же. | Mine tastes the exact same. | #137: У меня точно такой же | verbatim |
 | 10 | Шеф | Не понимаю. | I do not understand it. | #138: Не понимаю | verbatim |
-| 11 | Лёва | Лёв, ты что делаешь? | Lyova, what are you doing? | #139: Лёв, ты что делаешь | verbatim |
+| 11 | Тимур | Лёв, ты что делаешь? | Lyova, what are you doing? | #139: Лёв, ты что делаешь | verbatim |
 | 12 | Тимур | Ты что, съел весь салат? | Did you eat the whole salad? | #140: Ты что<br>#140: весь салат | adapted: adapted |
 | 13 | Шеф | Сейчас ты узнаешь. | You are about to find out right now. | #142: Сейчас ты узнаешь | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I would like to order the warm seafood salad.' Barinov mentions that he would like to order the warm seafood salad so Lyova sees what is at stake.
-- 'And not his assistant.' With the shift and story in play, Lyova keeps this short reply brisk and direct.
-- 'That day the salad was a flop.' Pointing out that that day the salad was a flop gives Barinov a sobering reality check.
-- 'And Lyova badly wanted to find out my secret recipe.' Barinov explains that Lyova badly wanted to find out his secret recipe, keeping his voice calm and direct.
-- 'Why does it work for me, and not for him?' By wondering why it work for him and not for him, Lyova presses Barinov for a straight answer. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Lyova, do you have nothing better to do?' Asking whether Barinov has nothing better to do cuts straight through the tension between Timur and Barinov.
-- 'Chef, Timur just brought the produce delivery.' Even though Timur just brought the produce delivery, Barinov keeps a steady face in front of Lyova.
-- 'I can sign for it.' Admitting that he can sign for it shows Lyova being honest for a change.
-- 'Mine tastes the exact same.' Saying that his tastes the exact same is how Timur sets the tone with Barinov.
-- 'I do not understand it.' Once he does not understand it, Barinov can finally tell Lyova what he means.
-- 'Lyova, what are you doing?' Asking what Barinov doing is is how Lyova puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Did you eat the whole salad?' Here asking whether Barinov eats the whole salad shows Timur looking for the real truth.
-- 'You are about to find out right now.' Since Lyova is about to find out right now, Barinov does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I would like to order the warm seafood salad.' Barinov strikes a sharp stance beside Lyova, using "khotel" (from "khotet", "wanted") alongside "zakazat" ("to order") to shape the meaning.
+- 'And not his assistant.' Lyova brings a lively tack in this beat, putting "pomoshchnik" ("assistant") alongside "ne" ("not") in a tight, everyday turn of phrase.
+- 'That day the salad was a flop.' Timur strikes an easygoing attitude without hesitation, leaning on "raz" ("time, once") before closing the thought with "salat" ("salad").
+- 'And Lyova badly wanted to find out my secret recipe.' Barinov presents a thoughtful manner for Timur, pairing "ochen" ("very much") with "khotelos" ("to feel like") to get the point across in plain spoken Russian.
+- 'Why does it work for me, and not for him?' Lyova prompts openly in front of Barinov, anchoring the Russian line on "pochemu" ("why") and "poluchayetsya" ("works out") without extra filler.
+- 'Lyova, do you have nothing better to do?' Timur tests evenly in this moment, building the phrase around "delat" ("do") and "lyov" ("Lyova") for a crisp, natural delivery.
+- 'Chef, Timur just brought the produce delivery.' Lyova brings an honest posture toward Barinov, joining "tam" ("there") to "produkty" ("groceries") so every word pulls its weight.
+- 'I can sign for it.' Lyova takes a sharp mood for Timur, weaving "mogu" ("can") together with "prinyat" ("to accept, hire") just the way native speakers do.
+- 'Mine tastes the exact same.' Timur replies honestly beside Barinov, using the everyday "u menya" ("by me") alongside "tochno" ("definitely") to show what belongs to the speaker.
+- 'I do not understand it.' Barinov maintains a frank manner during the exchange, combining "ponimayu" ("understand") and "ne" ("not") so the key meaning lands right away.
+- 'Lyova, what are you doing?' Timur checks honestly during the talk, anchoring the Russian line on "delayesh" ("are you doing") and "lyov" ("Lyova") without extra filler.
+- 'Did you eat the whole salad?' Timur quizzes directly from the start, pairing "syel" ("ate") with "salat" ("salad") to get the point across in plain spoken Russian.
+- 'You are about to find out right now.' Barinov chooses an honest line as they talk, pairing "seychas" ("now") with "uznayesh" ("will learn") so the "-sya" ending carries the action.

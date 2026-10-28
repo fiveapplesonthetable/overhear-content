@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What do you think you are doing?' Here asking what Max thinks Max is doing shows Kostya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I need two hairs from your head.' Adding that he needs two hairs from Kostya's head fills in the missing piece for Kostya. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Better make it two, just in case I lose one.' Mentioning that better make it two just in case he loses one moves the talk in a new direction.
-- 'Why do you need my hair?' Wondering why Kostya needs his hair cuts straight through the tension between Max and Kostya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'To look at them and remember you whenever I feel lonely.' Because to look at them and remember Max whenever he feels lonely, Kostya treats the matter as settled.
-- 'Very funny.' With the shift and dinner in play, Max keeps this short reply brisk and direct.
-- 'That is one down.' Kostya mentions that that is one down so Max sees what is at stake.
-- 'I need two hairs.' Claiming that he needs two hairs sounds confident, even if Kostya has doubts.
-- 'Kostya, hello.' With the moment and dinner in play, Kostya keeps this short reply brisk and direct.
-- 'A surprise is waiting for you tonight.' Max explains that a surprise is waiting for Kostya tonight, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Vitya, maybe we have had enough surprises for one day.' Realizing that maybe they have had enough surprises for one day changes how Kostya handles the situation.
-- 'Well, that was supposed to be my surprise.' Noting that that was supposed to be his surprise keeps Max's side of the story simple and clear.
-- 'Go ahead, ask me as if I did not know.' Pointing out that Kostya should go ahead ask her as if she did not know gives Kostya a sobering reality check. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'What do you think you are doing?' Kostya asks honestly in front of Max, pairing "delayesh" ("are you doing") with "ty" ("you") to get the point across in plain spoken Russian.
+- 'I need two hairs from your head.' Max shows a natural manner in their talk, pairing "nuzhno" ("necessary") with "volosa" ("hair") to get the point across in plain spoken Russian.
+- 'Better make it two, just in case I lose one.' Kostya picks an unhurried tack as they talk, weaving "luchshe" ("better") together with "vdrug" ("suddenly, what if") just the way native speakers do.
+- 'Why do you need my hair?' Max questions steadily as they speak, putting "zachem" ("what for") alongside "volos" ("hair") in a tight, everyday turn of phrase.
+- 'To look at them and remember you whenever I feel lonely.' Kostya presents a brisk posture in their talk, weaving "kogda" ("when") together with "odinoko" ("lonely") just the way native speakers do.
+- 'Very funny.' Max presents a steady note for Vika, putting "ochen" ("very much") alongside "smeshno" ("ridiculous") in a tight, everyday turn of phrase.
+- 'That is one down.' Kostya maintains a frank footing as they talk, leaning on "gotov" ("ready") before closing the thought with "odin" ("one").
+- 'I need two hairs.' Max favors a firm style in the scene, linking "volosa" ("hair"), "dva" ("two"), and "mne" ("to me") in one brisk exchange.
+- 'Kostya, hello.' Kostya chooses a lively attitude toward Max, weaving "kost" ("bones") together with "allo" ("hello") just the way native speakers do.
+- 'A surprise is waiting for you tonight.' Max presents a natural footing right away, joining "segodnya" ("today") to "vecherom" ("in the evening") so every word pulls its weight.
+- 'Vitya, maybe we have had enough surprises for one day.' Kostya sets a sharp approach at this moment, pairing "mozhet" ("can") with "khvatit" ("enough") to get the point across in plain spoken Russian.
+- 'Well, that was supposed to be my surprise.' Max favors a lively posture as they talk, weaving "byl" ("was") together with "syurpriz" ("surprise") just the way native speakers do.
+- 'Go ahead, ask me as if I did not know.' Vika brings a brisk position beside Kostya, linking "davay" ("let's"), "kak" ("how"), and "znala" ("knew") in one brisk exchange.

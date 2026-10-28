@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, there is a beauty sitting in the dining room.' Even though there is a beauty sitting in the dining room, Senya keeps a steady face in front of Barinov.
-- 'We believe in you, everything will work out.' Claiming that they believe in Barinov everything will work out sounds confident, even if Barinov has doubts.
-- 'Because you are handsome and smart.' Saying that because Barinov is handsome and smart is how Senya sets the tone with Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Good afternoon, I am the head chef of this restaurant.' Because he is the head of this restaurant, Barinov treats the matter as settled.
-- 'May I offer you something?' Barinov asks whether may he offers the guest something, refusing to let the point slide.
-- 'Oh, you are the one who hosts the cooking show!' Insisting that Barinov is the one who hosts the cooking show shows the guest is not backing down. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'That was a long time ago, I was young.' Since that was a long time ago he was young, Barinov does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'My name is Sveta, and what is yours?' Wondering if his name is Sveta and what is shows the guest caught off guard.
-- 'My name is Victor Petrovich Barinov.' Barinov reminds the guest that his name is Victor Petrovich Barinov before the moment passes.
-- 'How formal, will you keep me company?' When the guest asks if how formal will Barinov keeps him company, Barinov has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Vitya, you are such a funny man!' The guest declares that Barinov is such a funny man as the tension in the room peaks.
-- 'Svetochka, I will step away for a minute, do not be bored.' Barinov mentions that someone he will step away for a minute do not be bored so the guest sees what is at stake.
+- 'Chef, there is a beauty sitting in the dining room.' Senya strikes a wry rhythm at this moment, combining "tam" ("there") and "zale" ("hall") so the key meaning lands right away.
+- 'We believe in you, everything will work out.' Senya displays a clear approach in their talk, putting "verim" ("believe") alongside "poluchitsya" ("will come out") in a tight, everyday turn of phrase.
+- 'Because you are handsome and smart.' Senya shows an earnest posture with Barinov, building the phrase around "potomu" ("because") and "krasivyy" ("beautiful") for a crisp, natural delivery.
+- 'Good afternoon, I am the head chef of this restaurant.' Barinov picks a grounded footing on the spot, linking "dobryy" ("good"), "den" ("day"), and "shef-povar" ("head chef") in one brisk exchange.
+- 'May I offer you something?' Barinov checks plainly beside the guest, using "mogu" (from "moch", "can") alongside "predlozhit" ("to offer") to shape the meaning.
+- 'Oh, you are the one who hosts the cooking show!' The guest establishes an emphatic tone in the scene, pairing "vedyote" ("conduct, behave") with "kulinarnoye" ("culinary, cooking") to get the point across in plain spoken Russian.
+- 'That was a long time ago, I was young.' Barinov keeps a calm manner in the conversation, building the phrase around "bylo" ("was") and "davno" ("for a long time") for a crisp, natural delivery.
+- 'My name is Sveta, and what is yours?' The guest wonders plainly without holding back, using "sveta" (from "svet", "electricity") alongside "zovut" ("call") to shape the meaning.
+- 'My name is Victor Petrovich Barinov.' Barinov keeps a calm mood at this moment, weaving "zovut" ("call") together with "menya" ("me") just the way native speakers do.
+- 'How formal, will you keep me company?' The guest questions briskly during the talk, combining "kak" ("how") and "ofitsialno" ("official, officially") so the key meaning lands right away.
+- 'Vitya, you are such a funny man!' The guest takes an unhurried attitude right away, building the phrase around "smeshnoy" ("funny") and "muzhchina" ("man") for a crisp, natural delivery.
+- 'Svetochka, I will step away for a minute, do not be bored.' Barinov maintains a sharp attitude as the scene unfolds, anchoring the Russian line on "minutku" ("a minute") and "otoydu" ("will step") without extra filler.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dad was not there, so I let Lyova know.' Even though dad was not there so she lets Lyova know, Katya keeps a steady face in front of Denis.
-- 'Katya, listen, Katya, I cannot do this.' Refusing to do this moves the conversation forward without extra drama.
-- 'I have to tell you something very important.' Claiming that he has to tell Eleonora something very important sounds confident, even if Eleonora has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And can this important thing not wait an hour or so?' Asking whether this important thing not wait an hour is how Katya puts Denis on the spot.
-- 'No, it cannot. Katya, I must tell you the truth.' Adding that Katya he must tell Eleonora the truth fills in the missing piece for Eleonora. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Denis Andreyevich Krylov, you are found guilty of depriving Yekaterina of her mother.' Saying that Denis Andreyevich Krylov Denis is found guilty of depriving of her mother is how Eleonora sets the tone with Denis. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'What do you mean? I did not kill you.' Asking what Eleonora means cuts straight through the tension between Denis and Eleonora.
-- 'Yes, but after your truth I am practically dead to her.' Mentioning that after Denis's truth she is practically dead moves the talk in a new direction.
-- 'Guilty of destroying a family.' Between the work and the family, Eleonora gives Denis a quick, grounded response.
-- 'The truth is that I' Because the truth is that he, Denis treats the matter as settled.
-- 'do not love you.' Explaining that do not love Eleonora lays the cards on the table for Eleonora. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'We need to break up.' Needing to break up is how Denis lays out the situation for Eleonora. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'That is not funny.' Asking whether that is not funny puts Denis right on the defensive.
-- 'The truth is not a funny thing at all.' Pointing out that the truth is not a funny thing at all gives Eleonora a sobering reality check.
+- 'Dad was not there, so I let Lyova know.' Katya picks a frank view across the room, pairing "papy" ("dad") with "bylo" ("was") to get the point across in plain spoken Russian.
+- 'Katya, listen, Katya, I cannot do this.' Denis keeps a sharp rhythm straight away, weaving "poslushay" ("listen") together with "mogu" ("can") just the way native speakers do.
+- 'I have to tell you something very important.' Denis keeps a lively posture in the conversation, leaning on "dolzhen" ("has to, must") before closing the thought with "skazat" ("tell").
+- 'And can this important thing not wait an hour or so?' Katya presses firmly on the spot, anchoring the Russian line on "vazhno" ("important, mattering") and "mozhet" ("can") without extra filler.
+- 'No, it cannot. Katya, I must tell you the truth.' Denis favors an easygoing direction at once, weaving "mozhet" ("can") together with "dolzhen" ("has to, must") just the way native speakers do.
+- 'Denis Andreyevich Krylov, you are found guilty of depriving Yekaterina of her mother.' Eleonora strikes an honest tone toward Katya, leaning on "krylov" ("Krylov") before closing the thought with "andreyevich" ("andreyevich").
+- 'What do you mean? I did not kill you.' Denis challenges directly as they speak, weaving "smysle" ("sense") together with "ubil" ("killed") just the way native speakers do.
+- 'Yes, but after your truth I am practically dead to her.' Eleonora shows a direct position at once, using "pravdy" (from "pravda", "truth") alongside "prakticheski" ("practically") to shape the meaning.
+- 'Guilty of destroying a family.' Eleonora brings a brisk note beside Denis, pairing "razrushenii" ("destruction") with "semi" ("family") to get the point across in plain spoken Russian.
+- 'The truth is that I' Denis offers a pointed posture at once, putting "pravda" ("honestly") alongside "tom" ("that") in a tight, everyday turn of phrase.
+- 'do not love you.' Denis conveys an honest line in front of Eleonora, building the phrase around "lyublyu" ("love") and "tebya" ("you") for a crisp, natural delivery.
+- 'We need to break up.' Denis presents a sharp course in front of Katya, anchoring the Russian line on "nuzhno" ("necessary") and "rasstatsya" ("to break up") without extra filler.
+- 'That is not funny.' Katya prompts frankly to Denis here, linking "smeshno" ("ridiculous") directly with "eto" ("this"), since Russian drops "is" and "are" in the present.
+- 'The truth is not a funny thing at all.' Denis sets a steady attitude straight away, weaving "pravda" ("honestly") together with "voobshche" ("at all") just the way native speakers do.

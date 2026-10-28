@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, why are you smiling so cheerfully?' Asking whether tell her why are Barinov smiling so cheerfully puts Barinov right on the defensive.
-- 'And why are you not smiling at all?' By asking why Barinov not smiling at all is, Eleonora presses Barinov for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You are both fired as of this minute!' Saying that Barinov is both fired as of this minute is how Eleonora takes charge of the moment. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Viktor, she fired seven maids in three days.' Over the call and the conversation, Mikhail answers Barinov without a second thought.
-- 'And what do you want from me right now?' By wondering what Eleonora wants from him right now, Barinov presses Eleonora for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Talk to her, because our business is suffering.' Talking to her because their business is suffering is how Mikhail lays out the situation for Barinov.
-- 'Misha, I have no time to babysit her today.' Having no time to babysit her today is how Barinov lays out the situation for Eleonora.
-- 'I have a wedding for fifty people today.' Mentioning that he has a wedding for fifty people today moves the talk in a new direction. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'It is fine, she will cry a little and calm down soon.' Since it is fine she will cry a little and calm down soon, Barinov does not waste words on excuses.
-- 'Misha, find a television where they do not show Nagiyev!' Once Barinov should find a television where they do not show Nagiyev, Eleonora makes sure Barinov hears every word.
-- 'Misha, urgently call her personal doctor.' With the truth and call in play, Barinov keeps this short reply brisk and direct.
-- 'Exactly, before the guests call the police to the hotel.' Between the truth and the call, Mikhail gives Barinov a quick, grounded response.
-- 'Otherwise she will tear the whole hotel apart today!' Insisting that otherwise she will tear the whole hotel apart today shows Barinov is not backing down.
+- 'Tell me, why are you smiling so cheerfully?' Eleonora tests bluntly on the spot, leaning on "skazhi" ("say") before closing the thought with "radostno" ("joyfully").
+- 'And why are you not smiling at all?' Eleonora tests briskly during the talk, linking "sovsem" ("at all"), "ulybayeshsya" ("are smiling"), and "ty" ("you") in one brisk exchange.
+- 'You are both fired as of this minute!' Eleonora sustains a grounded tack as the scene unfolds, joining "minuty" ("minutes") to "uvoleny" ("to fire") so every word pulls its weight.
+- 'Viktor, she fired seven maids in three days.' Mikhail maintains a firm line in the scene, combining "uvolila" ("fired") and "gornichnykh" ("maids") so the key meaning lands right away.
+- 'And what do you want from me right now?' Barinov presses decisively as the beat lands, putting "seychas" ("now") alongside "khochesh" ("do you want") in a tight, everyday turn of phrase.
+- 'Talk to her, because our business is suffering.' Mikhail presents a candid style for Eleonora, pairing "pogovori" ("talk") with "biznes" ("business") to get the point across in plain spoken Russian.
+- 'Misha, I have no time to babysit her today.' Barinov adopts an unhurried attitude straight away, weaving "segodnya" ("today") together with "nekogda" ("there's no time") just the way native speakers do.
+- 'I have a wedding for fifty people today.' Barinov chooses an unhurried posture without hesitation, linking "segodnya" ("today"), "svadba" ("wedding"), and "chelovek" ("a man, a person") in one brisk exchange.
+- 'It is fine, she will cry a little and calm down soon.' Barinov brings a serious manner beside Eleonora, pairing "nemnogo" ("a bit") with "poplachet" ("will cry") to get the point across in plain spoken Russian.
+- 'Misha, find a television where they do not show Nagiyev!' Eleonora shares a calm tempo at this moment, putting "naydi" ("find") alongside "televizor" ("television") in a tight, everyday turn of phrase.
+- 'Misha, urgently call her personal doctor.' Barinov adopts a steady footing in the conversation, building the phrase around "srochno" ("urgent, urgently") and "vyzyvay" ("to cause, to raise") for a crisp, natural delivery.
+- 'Exactly, before the guests call the police to the hotel.' Mikhail maintains a warm posture as the scene unfolds, putting "tochno" ("definitely") alongside "poka" ("bye") in a tight, everyday turn of phrase.
+- 'Otherwise she will tear the whole hotel apart today!' Barinov presents a lively manner beside Eleonora, joining "inache" ("otherwise") to "segodnya" ("today") so every word pulls its weight.

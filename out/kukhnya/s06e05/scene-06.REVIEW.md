@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today I received a big promotion.' Over the room and the news, Barinov answers Elena without a second thought.
-- 'And what did you answer them?' By asking what Barinov answers them, Elena presses Barinov for a straight answer.
-- 'And what do you think yourself?' Wondering what Elena thinks themselves cuts straight through the tension between Barinov and Elena. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I think that the restaurant gained an owner.' Claiming that she thinks that the restaurant gained an owner sounds confident, even if Barinov has doubts.
-- 'More accurately, the restaurant gained a new co-owner.' Around the room and news, Barinov sets a calm, everyday tone with Elena.
-- 'How wonderful all of this is!' Elena declares that how wonderful all of this is as the tension in the room peaks. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'They offered me a column in a magazine.' With the news and conversation in play, Elena keeps this short reply brisk and direct.
-- 'I would write about the restaurants of Moscow.' Saying that she would write about the restaurants of Moscow is how Elena sets the tone with Barinov.
-- 'They liked my book very much.' Because they liked her book very much, Elena treats the matter as settled.
-- 'I congratulate you from the bottom of my heart!' By congratulating Elena from the bottom of his heart, Barinov raises the stakes in the room at once. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Thank you very much, my dear.' Around the news and conversation, Elena sets a calm, everyday tone with Barinov.
-- 'Though I already turned them down.' Claiming that though she already turned them down sounds confident, even if Barinov has doubts.
+- 'Today I received a big promotion.' Barinov maintains a firm view as the scene unfolds, pairing "segodnya" ("today") with "poluchil" ("received, learned") to get the point across in plain spoken Russian.
+- 'And what did you answer them?' Elena inquires naturally at this point, anchoring the Russian line on "otvetil" ("answered") and "chto" ("what") without extra filler.
+- 'And what do you think yourself?' Barinov checks honestly without a pause, weaving "kak" ("how") together with "dumayesh" ("think") just the way native speakers do.
+- 'I think that the restaurant gained an owner.' Elena projects a serious direction right away, linking "dumayu" ("I think"), "restoran" ("restaurant"), and "priobryol" ("acquired, bought") in one brisk exchange.
+- 'More accurately, the restaurant gained a new co-owner.' Barinov maintains a warm rhythm at this moment, anchoring the Russian line on "tochneye" ("definitely") and "restoran" ("restaurant") without extra filler.
+- 'How wonderful all of this is!' Elena establishes a calm tack in this beat, pairing "krasota" ("beauty") with "kakaya" ("what, which") to get the point across in plain spoken Russian.
+- 'They offered me a column in a magazine.' Elena projects an unhurried approach for Barinov, using "predlozhili" (from "predlozhit", "offered") alongside "vesti" ("to conduct") to shape the meaning.
+- 'I would write about the restaurants of Moscow.' Elena presents a pointed mood at this moment, joining "nado" ("it is necessary") to "pisat" ("to write") so every word pulls its weight.
+- 'They liked my book very much.' Elena favors a steady angle in front of Barinov, linking "ochen" ("very much"), "ponravilas" ("pleased"), and "kniga" ("book") in one brisk exchange.
+- 'I congratulate you from the bottom of my heart!' Barinov brings a clear angle without hesitation, pairing "dushi" ("soul, heart") with "pozdravlyayu" ("congratulations") to get the point across in plain spoken Russian.
+- 'Thank you very much, my dear.' Elena sustains a natural angle beside Barinov, building the phrase around "spasibo" ("thank you") and "bolshoye" ("big, very much") for a crisp, natural delivery.
+- 'Though I already turned them down.' Elena takes an unhurried style with Barinov, joining "pravda" ("honestly") to "uzhe" ("already, now") so every word pulls its weight.

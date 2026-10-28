@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, tonight we are celebrating!' Declaring that tonight they are celebrating brings Max's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Nagiyev hired me as a musician.' Between the car and the shift, Max gives Kostya a quick, grounded response.
-- 'Congratulations, that is great!' Saying that congratulations that is great is how Kostya takes charge of the moment. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Only we are not staying out long today.' Adding that only they are not staying out long today fills in the missing piece for Max.
-- 'Hello, my beloved wife.' Turning from the car to the truth, Max keeps the exchange moving.
-- 'Did you even look at the clock?' Here checking whether Kostya even look at the clock shows Vika looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I do not even have a watch.' Claiming that he does not even have a watch sounds confident, even if Kostya has doubts. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Vikulya, forgive me, please.' With the kitchen and job in play, Max keeps this short reply brisk and direct.
-- 'Fine, come inside quietly.' Over the kitchen and the job, Vika answers Kostya without a second thought.
-- 'Did you change the wheels on the car?' Here asking whether Kostya changes the wheels on the car shows Vika looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'No, I will change them tomorrow.' Max mentions that he will change them tomorrow so Kostya sees what is at stake.
-- 'There was a huge line there today.' Claiming that there was a huge line there today sounds confident, even if Kostya has doubts.
+- 'Guys, tonight we are celebrating!' Max maintains an earnest note toward Kostya, putting "patsany" ("boys, lads") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
+- 'Nagiyev hired me as a musician.' Max shares a frank tempo in front of Vika, pairing "vzyal" ("took") with "muzykantom" ("musician") to get the point across in plain spoken Russian.
+- 'Congratulations, that is great!' Kostya picks a lively manner right away, pairing "pozdravlyayu" ("congratulations") with "otlichno" ("perfect, great") to get the point across in plain spoken Russian.
+- 'Only we are not staying out long today.' Kostya sustains a frank bearing during the exchange, joining "tolko" ("only") to "sidim" ("we are sitting") so every word pulls its weight.
+- 'Hello, my beloved wife.' Max presents a playful manner for Kostya, anchoring the Russian line on "lyubimaya" ("favourite, beloved") and "zhena" ("wife") without extra filler.
+- 'Did you even look at the clock?' Vika questions candidly right away, putting "voobshche" ("at all") alongside "chasy" ("watch") in a tight, everyday turn of phrase.
+- 'I do not even have a watch.' Max pushes back candidly in the room, using the everyday "u menya" ("by me") alongside "chasov" ("o'clock") to show what belongs to the speaker.
+- 'Vikulya, forgive me, please.' Max establishes a serious stance as the scene unfolds, putting "prosti" ("sorry, forgive me") alongside "vikulya" ("Vikulya") in a tight, everyday turn of phrase.
+- 'Fine, come inside quietly.' Vika shows a serious rhythm in their talk, leaning on "tikho" ("easy, quiet") before closing the thought with "zakhodi" ("come in").
+- 'Did you change the wheels on the car?' Vika queries dryly at this point, joining "kolyosa" ("wheels") to "mashine" ("car") so every word pulls its weight.
+- 'No, I will change them tomorrow.' Max chooses an unhurried view on the spot, anchoring the Russian line on "zavtra" ("tomorrow") and "pomenyayu" ("to change, to swap") without extra filler.
+- 'There was a huge line there today.' Max presents an earnest tempo in front of Vika, building the phrase around "tam" ("there") and "segodnya" ("today") for a crisp, natural delivery.

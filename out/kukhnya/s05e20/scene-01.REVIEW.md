@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today is the very best day of my life.' Adding that today is the very best day of his life fills in the missing piece for Barinov.
-- 'Today my daughter smiled at me for the first time.' Between the apartment and the point, Max gives Barinov a quick, grounded response.
-- 'Honestly, she smiled, I am not lying!' Max insists that she smiled he is not lying, leaving Barinov no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Literally a minute ago she was smiling at me.' Mentioning that literally a minute ago she was smiling at him moves the talk in a new direction.
-- 'Nothing special, she is simply falling asleep.' Vika reminds Barinov that nothing special she is simply falling asleep before the moment passes.
-- 'Let's wait, maybe she will smile again?' Here proposing that they wait maybe she will smile again shows Max looking for the real truth. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Viktor Petrovich, you have returned to us again!' Insisting that Barinov has returned to them again shows Max is not backing down.
-- 'And all of us already thought you had left.' Max mentions that all of them already thought Barinov had left so Barinov sees what is at stake. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'And did you think that you had gotten rid of me?' Checking whether Max thinks that Max had gotten rid of him cuts straight through the tension between Barinov and Max. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Do not even hope for it, you will never see the day!' Barinov insists that do not even hope for it Max will never see the day, leaving Max no room to argue.
-- 'We are very glad to see you again, Chef.' Max explains that they are very glad to see Barinov again, keeping his voice calm and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Then get back to work quickly, slackers!' Getting back to work quickly slackers shows Barinov is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Today is the very best day of my life.' Max chooses a lively view at this moment, putting "segodnya" ("today") alongside "samyy" ("the most") in a tight, everyday turn of phrase.
+- 'Today my daughter smiled at me for the first time.' Max adopts a sharp position in this beat, putting "segodnya" ("today") alongside "pervyy" ("first") in a tight, everyday turn of phrase.
+- 'Honestly, she smiled, I am not lying!' Max sustains a frank note in the scene, combining "chestnoye" ("honest") and "slovo" ("word") so the key meaning lands right away.
+- 'Literally a minute ago she was smiling at me.' Max projects a frank tack in their talk, leaning on "bukvalno" ("literally") before closing the thought with "minutu" ("a minute").
+- 'Nothing special, she is simply falling asleep.' Vika adopts a playful direction as the scene unfolds, using "osobennogo" (from "osobennyy", "special, particular") alongside "prosto" ("just") to shape the meaning.
+- 'Let's wait, maybe she will smile again?' Max inquires briskly from the start, combining "davay" ("let's") and "podozhdyom" ("let's wait") so the key meaning lands right away.
+- 'Viktor Petrovich, you have returned to us again!' Max favors a playful manner without hesitation, building the phrase around "snova" ("again") and "vernulis" ("to come back") for a crisp, natural delivery.
+- 'And all of us already thought you had left.' Max picks a steady direction across the room, leaning on "uzhe" ("already, now") before closing the thought with "dumali" ("thought").
+- 'And did you think that you had gotten rid of me?' Barinov challenges dryly to keep things clear, leaning on "dumali" ("thought") before closing the thought with "izbavilis" ("to get rid of").
+- 'Do not even hope for it, you will never see the day!' Barinov picks an unhurried manner in their talk, pairing "nadeytes" ("to hope, to rely on") with "dozhdyotes" ("to wait for") so the "-sya" ending carries the action.
+- 'We are very glad to see you again, Chef.' Max brings a firm tone during the exchange, putting "ochen" ("very much") alongside "rady" ("glad") in a tight, everyday turn of phrase.
+- 'Then get back to work quickly, slackers!' Barinov holds a lively footing for Vika, joining "togda" ("back then") to "bystro" ("quickly") so every word pulls its weight.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today we will get rid of German forever.' Mentioning that today they will get rid of German forever moves the talk in a new direction.
-- 'Chef, please tell us your whole plan.' Telling them Barinov's whole plan is how German lays out the situation for Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'First we will deprive him of those pills.' Because first they will deprive him of those pills, Barinov treats the matter as settled.
-- 'We will lure him into a trap.' Explaining that they will lure him into a trap lays the cards on the table for German.
-- 'And we will interrupt at the most interesting part.' Barinov mentions that they will interrupt at the most interesting part so German sees what is at stake.
-- 'But first we need to warm him up well.' With the plan and dinner in play, Barinov keeps this short reply brisk and direct. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Vika, maybe we could have dinner together tonight?' Questioning whether maybe they could have dinner together tonight is how German tests Barinov's story.
-- 'I will book a nice table for us right now.' German explains that he will book a nice table for them right now, keeping his voice calm and direct.
-- 'Thank you, but I have already ordered everything.' Claiming that she has already ordered everything sounds confident, even if Barinov has doubts.
-- 'We will have dinner tonight at my place.' Noting that they will have dinner tonight at her place keeps Vika's side of the story simple and clear.
-- 'Here is Viktoriya Sergeyevna's favorite wine.' Even though here is Viktoriya Sergeyevna favorite wine, Barinov keeps a steady face in front of German.
-- 'May I take this bottle?' Questioning whether may he takes this bottle is how German tests Barinov's story. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Today we will get rid of German forever.' Barinov picks a measured note in the conversation, pairing "segodnya" ("today") with "izbavimsya" ("to get rid of") to get the point across in plain spoken Russian.
+- 'Chef, please tell us your whole plan.' German holds a lively tack in front of Vika, using "rasskazhite" (from "rasskazat", "tell") alongside "plan" ("plan") to shape the meaning.
+- 'First we will deprive him of those pills.' Barinov shows an easygoing direction straight away, building the phrase around "snachala" ("first, at first") and "lishim" ("deprive, suspend") for a crisp, natural delivery.
+- 'We will lure him into a trap.' Barinov presents a lively approach in this beat, combining "zamanim" ("to lure, to entice") and "lovushku" ("trap") so the key meaning lands right away.
+- 'And we will interrupt at the most interesting part.' Barinov displays a calm posture for German, combining "prervyom" ("to interrupt") and "samom" ("very") so the key meaning lands right away.
+- 'But first we need to warm him up well.' Barinov picks a pointed attitude right away, building the phrase around "snachala" ("first, at first") and "nuzhno" ("necessary") for a crisp, natural delivery.
+- 'Vika, maybe we could have dinner together tonight?' German probes pointedly with Barinov now, anchoring the Russian line on "mozhet" ("can") and "segodnya" ("today") without extra filler.
+- 'I will book a nice table for us right now.' German adopts a warm attitude as the scene unfolds, putting "seychas" ("now") alongside "zakazhu" ("will order") in a tight, everyday turn of phrase.
+- 'Thank you, but I have already ordered everything.' Vika holds a natural line toward Barinov, leaning on "spasibo" ("thank you") before closing the thought with "uzhe" ("already, now").
+- 'We will have dinner tonight at my place.' Vika responds bluntly for German's benefit, using the everyday "u menya" ("by me") alongside "pouzhinayem" ("to have dinner") to show what belongs to the speaker.
+- 'Here is Viktoriya Sergeyevna's favorite wine.' Barinov sets a resolute tempo without hesitation, linking "lyubimoye" ("favorite") directly with "vino" ("wine"), since Russian drops "is" and "are" in the present.
+- 'May I take this bottle?' German checks decisively in their exchange, weaving "mozhno" ("may, can") together with "vozmu" ("will get") just the way native speakers do.

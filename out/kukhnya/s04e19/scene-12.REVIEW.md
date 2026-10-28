@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Vika, do you need help again?' Here asking whether Katya needs help again shows Denis looking for the real truth. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'I need to move the couch in the office.' Because she needs to move the couch in the office, Katya treats the matter as settled.
-- 'Oh, I dreamed about that dog again!' With the apartment and shift at stake, Denis reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Listen, maybe you should go see a doctor?' Questioning whether maybe Denis should go see a doctor is how Katya tests Denis's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No, everything is fine with me.' Mentioning that everything is fine with him moves the talk in a new direction.
-- 'Let me make you some hot tea.' Admitting that Denis should let her make Denis some hot tea shows Katya being honest for a change. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'No, thank you, let's just go back to sleep.' Noting that they should just go back to sleep keeps Denis's side of the story simple and clear. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'The ship requests permission to come ashore.' With the office and apartment in play, Denis keeps this short reply brisk and direct.
-- 'Nothing is going to happen between us tonight.' Nastya mentions that nothing is going to happen between them tonight so Denis sees what is at stake. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'First you will agree to a second child.' Claiming that first Denis will agree to a second child sounds confident, even if Denis has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Only then will I allow you everything.' Pointing out that only then will she allows Denis everything gives Denis a sobering reality check.
-- 'Nastya, come on, why are you starting like that?' Asking whether come on why are Katya starting like puts Katya right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Hi, Vika, do you need help again?' Denis asks wryly without hesitation, pairing "snova" ("again") with "nuzhno" ("necessary") to get the point across in plain spoken Russian.
+- 'I need to move the couch in the office.' Katya sustains a natural rhythm in front of Nastya, linking "kabinete" ("office"), "nado" ("it is necessary"), and "divan" ("sofa, couch") in one brisk exchange.
+- 'Oh, I dreamed about that dog again!' Denis shares an earnest position in this beat, putting "opyat" ("again") alongside "prisnilas" ("to dog") in a tight, everyday turn of phrase.
+- 'Listen, maybe you should go see a doctor?' Katya wonders calmly without holding back, using "slushay" (from "slushat", "listen") alongside "mozhet" ("can") to shape the meaning.
+- 'No, everything is fine with me.' Denis shares an unhurried direction for Katya, anchoring the Russian line on "poryadke" ("order") and "net" ("no") without extra filler.
+- 'Let me make you some hot tea.' Katya maintains a frank attitude on the spot, weaving "davay" ("let's") together with "goryachiy" ("hot") just the way native speakers do.
+- 'No, thank you, let's just go back to sleep.' Denis maintains a direct mood in their talk, leaning on "spasibo" ("thank you") before closing the thought with "davay" ("let's").
+- 'The ship requests permission to come ashore.' Denis maintains a warm posture during the exchange, weaving "korabl" ("left") together with "prosit" ("is asking for") just the way native speakers do.
+- 'Nothing is going to happen between us tonight.' Nastya favors a calm posture in the conversation, pairing "segodnya" ("today") with "vecherom" ("in the evening") to get the point across in plain spoken Russian.
+- 'First you will agree to a second child.' Nastya establishes a grounded mood in front of Katya, putting "snachala" ("first, at first") alongside "soglasishsya" ("to agree") in a tight, everyday turn of phrase.
+- 'Only then will I allow you everything.' Nastya sets a calm view in front of Denis, joining "tolko" ("only") to "togda" ("back then") so every word pulls its weight.
+- 'Nastya, come on, why are you starting like that?' Denis challenges naturally in this moment, linking "zachem" ("what for"), "nachinayesh" ("are starting"), and "nastya" ("Nastya") in one brisk exchange.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will not tell anyone anything.' Adding that she will not tell anyone anything fills in the missing piece for Kostya. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'I do not know the Russian language at all.' Because she does not know the Russian language at all, Gulya treats the matter as settled.
-- 'Which room did they carry him to?' Kostya asks whether which room did they carry him, refusing to let the point slide.
-- 'To that same cursed room.' Around the moment and room, Gulya sets a calm, everyday tone with Kostya.
-- 'Let her undress him herself.' Letting her undress him herself moves the conversation forward without extra drama.
-- 'She has more experience in that.' Here having more experience sets up the next turn in their exchange.
-- 'They wanted to put me to sleep too!' Insisting that they wanted to put him to sleep shows Kostya is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And I have waffles in my pocket.' Saying that he has waffles in his pocket is how Kostya sets the tone with Gulya. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Better tell us where they dragged Denis!' With the truth and shift hanging in the air, Nastya puts Gulya on the spot.
-- 'I already told you.' Pointing out that she already told Kostya gives Kostya a sobering reality check. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Eleonora just will not calm down.' Nastya explains that Eleonora just will not calm down, keeping her voice calm and direct. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Run to the room, save Denis!' Here running to the room save Denis lets Kostya's real feelings break through.
-- 'Let's save nature and save ourselves!' Nastya declares that they should save nature and save themselves as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'I will not tell anyone anything.' Gulya favors a direct manner beside Kostya, linking "rasskazhu" ("will tell"), "ya" ("I"), and "nikomu" ("anyone, no one") in one brisk exchange.
+- 'I do not know the Russian language at all.' Gulya establishes a candid direction right away, combining the conversational booster "voobshche" ("in general, overall") with "russkiy" ("Russian") to give the line its natural spoken rhythm.
+- 'Which room did they carry him to?' Kostya challenges pointedly across the room, weaving "nomer" ("number") together with "ponesli" ("to carry, to take") just the way native speakers do.
+- 'To that same cursed room.' Gulya keeps an earnest direction in front of Nastya, putting "samyy" ("the most") alongside "proklyatyy" ("cursed") in a tight, everyday turn of phrase.
+- 'Let her undress him herself.' Gulya displays a candid style in the conversation, pairing "razdevayet" ("undresses") with "pust" ("let") to get the point across in plain spoken Russian.
+- 'She has more experience in that.' Gulya maintains a brisk angle straight away, putting "opyta" ("experience") alongside "bolshe" ("more") in a tight, everyday turn of phrase.
+- 'They wanted to put me to sleep too!' Kostya displays a clear rhythm without hesitation, pairing "khoteli" ("wanted") with "usypit" ("to first") to get the point across in plain spoken Russian.
+- 'And I have waffles in my pocket.' Kostya favors a thoughtful position toward Nastya, using the everyday "u menya" ("by me") alongside "vafli" ("waffles") to show what belongs to the speaker.
+- 'Better tell us where they dragged Denis!' Nastya asks pointedly in the room, combining "luchshe" ("better") and "skazhi" ("say") so the key meaning lands right away.
+- 'I already told you.' Gulya presents a resolute bearing in front of Nastya, weaving "uzhe" ("already, now") together with "skazala" ("told") just the way native speakers do.
+- 'Eleonora just will not calm down.' Nastya picks a candid manner in the scene, putting "nikak" ("in no way") alongside "uspokaivayetsya" ("calms down") in a tight, everyday turn of phrase.
+- 'Run to the room, save Denis!' Kostya sustains a resolute tack beside Nastya, linking "begite" ("run"), "nomer" ("number"), and "spasayte" ("to save, to rescue") in one brisk exchange.
+- 'Let's save nature and save ourselves!' Nastya displays a brisk posture beside Gulya, putting "spasyom" ("we will save") alongside "prirodu" ("nature") in a tight, everyday turn of phrase.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening! How do you like our new cuisine?' Asking how Katya likes their new cuisine cuts straight through the tension between Kostya and Katya. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'May we invite the cook Katya here right now?' Wondering if may they invite the cook Katya here right now shows Kostya caught off guard. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Good evening! Did you not like something today?' Here checking whether Kostya not like something today shows Katya looking for the real truth.
-- 'No, not at all, everything is simply great!' Kostya declares that not at all everything is simply great as the tension in the room peaks. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'How does your dish hold its shape like that?' Wondering how Katya's dish hold its shape like cuts straight through the tension between Kostya and Katya. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'What is the secret? I can show you everything!' Asking what the secret is is how Katya puts Kostya on the spot.
-- 'He said that there is old furniture here.' Saying that he said that there is old furniture here is how Katya sets the tone with Kostya.
-- 'The guest will now go with me to the kitchen.' Once the guest will now go with her to the kitchen, Katya can finally tell Kostya what she means.
-- 'Nagiyev told Vika that the furniture needs to be changed.' Adding that Nagiyev told Vika that the furniture needs to be changed fills in the missing piece for Katya.
-- 'Kostya, I am sure that Katya is lying.' Even though he is sure that Katya is lying, Max keeps a steady face in front of Katya.
-- 'You should have seen her face this afternoon!' Max declares that Katya should have seen her face this afternoon as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'She thinks that only she knows how to bluff.' Mentioning that she thinks that only she knows how to bluff moves the talk in a new direction.
-- 'Never mind, we have already been through this before!' Insisting that never mind they have already been through this shows Max is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Good evening! How do you like our new cuisine?' Kostya prompts earnestly to make the point, combining "dobryy" ("good") and "vecher" ("evening") so the key meaning lands right away.
+- 'May we invite the cook Katya here right now?' Kostya presses steadily to keep things clear, linking "mozhno" ("may, can"), "seychas" ("now"), and "priglasit" ("to invite") in one brisk exchange.
+- 'Good evening! Did you not like something today?' Katya questions lightly to make the point, anchoring the Russian line on "dobryy" ("good") and "vecher" ("evening") without extra filler.
+- 'No, not at all, everything is simply great!' Kostya strikes a direct line in this beat, building the phrase around "prosto" ("just") and "otlichno" ("perfect, great") for a crisp, natural delivery.
+- 'How does your dish hold its shape like that?' Kostya quizzes steadily as they speak, joining "kak" ("how") to "blyudo" ("dish") so every word pulls its weight.
+- 'What is the secret? I can show you everything!' Katya checks lightly during the talk, joining "sekret" ("secret") to "mogu" ("can") so every word pulls its weight.
+- 'He said that there is old furniture here.' Katya strikes an emphatic stance with Kostya, building the phrase around "skazal" ("said") and "zdes" ("here") for a crisp, natural delivery.
+- 'The guest will now go with me to the kitchen.' Katya brings a measured bearing as they talk, pairing "gost" ("guest") with "seychas" ("now") to get the point across in plain spoken Russian.
+- 'Nagiyev told Vika that the furniture needs to be changed.' Kostya brings an earnest course in the scene, combining "govoril" ("said, were saying") and "mebel" ("furniture") so the key meaning lands right away.
+- 'Kostya, I am sure that Katya is lying.' Max chooses a lively course for Kostya, pairing "uveren" ("sure, confident") with "vryot" ("is lying") to get the point across in plain spoken Russian.
+- 'You should have seen her face this afternoon!' Max brings a serious line in this beat, leaning on "videl" ("saw, have seen") before closing the thought with "litso" ("face").
+- 'She thinks that only she knows how to bluff.' Max offers an emphatic posture at once, using "dumayet" (from "dumat", "thinks") alongside "tolko" ("only") to shape the meaning.
+- 'Never mind, we have already been through this before!' Max maintains a clear posture across the room, joining "uzhe" ("already, now") to "ranshe" ("earlier, previously") so every word pulls its weight.

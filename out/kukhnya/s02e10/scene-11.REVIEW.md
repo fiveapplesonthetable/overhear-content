@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He is in his office.' Because he is in his office, Barinov treats the matter as settled.
-- 'He asked not to be disturbed.' Pointing out that he asked not to be disturbed gives Barinov a sobering reality check.
-- 'I told you not to disturb me.' Barinov explains that he told Max not to disturb him, keeping his voice calm and direct.
-- 'I am preparing the new menu.' Saying that he is preparing the new menu is how Max sets the tone with Barinov.
-- 'What do you want?' Wondering what Max wants cuts straight through the tension between Barinov and Max. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'You are the head chef.' Even though Barinov is the head, Max keeps a steady face in front of Barinov.
-- 'Yes, I am the head chef.' Even though he is the head, Barinov keeps a steady face in front of Max.
-- 'Then why are you not paying back your debt?' By wondering why Barinov not paying back Barinov's debt is, Max presses Barinov for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What debt?' With the kitchen and truth hanging in the air, Barinov puts Max on the spot.
-- 'A hundred thousand.' Between the room and the conversation, Max gives Barinov a quick, grounded response.
-- 'It is just a complicated situation here.' Saying that it is just a complicated situation here is how Barinov sets the tone with Max.
-- 'Yes, you can ask anyone here.' Since Barinov can ask anyone here, Max does not waste words on excuses.
-- 'Is this the head chef?' Checking whether this the head cuts straight through the tension between Barinov and Max. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'He is in his office.' Barinov establishes a serious manner in their talk, joining "kabinete" ("office") to "on" ("he") so every word pulls its weight.
+- 'He asked not to be disturbed.' Max takes an easygoing tempo in the scene, building the phrase around "prosil" ("ask for") and "bespokoit" ("to bother") for a crisp, natural delivery.
+- 'I told you not to disturb me.' Barinov conveys a sharp line during the exchange, linking "prosil" ("ask for"), "bespokoit" ("to bother"), and "ya" ("I") in one brisk exchange.
+- 'I am preparing the new menu.' Max offers a steady line across the room, linking "gotovlyu" ("prepare"), "novoye" ("new"), and "minimum" ("at least, minimum") in one brisk exchange.
+- 'What do you want?' Barinov prompts bluntly during the talk, building the phrase around "vam" ("you") and "chego" ("what") for a crisp, natural delivery.
+- 'You are the head chef.' Max conveys a thoughtful style during the exchange, leaning on "shef-povar" ("head chef") before closing the thought with "ty" ("you").
+- 'Yes, I am the head chef.' Barinov picks a grounded angle at once, combining "shef-povar" ("head chef") and "da" ("yes") so the key meaning lands right away.
+- 'Then why are you not paying back your debt?' Max presses openly in the scene, building the phrase around "dolg" ("debt") and "otdayesh" ("to hand over") for a crisp, natural delivery.
+- 'What debt?' Barinov asks pointedly with Max now, leaning on "dolg" ("debt") before closing the thought with "kakoy" ("what a, how").
+- 'A hundred thousand.' Max maintains a measured bearing in this beat, leaning on "tysyach" ("thousand") before closing the thought with "sto" ("hundred").
+- 'It is just a complicated situation here.' Barinov sustains a sharp style at once, joining "tut" ("here") to "prosto" ("just") so every word pulls its weight.
+- 'Yes, you can ask anyone here.' Max maintains a wry position in the scene, putting "mozhete" ("can, may") alongside "lyubogo" ("any") in a tight, everyday turn of phrase.
+- 'Is this the head chef?' Barinov checks briskly from the start, pairing "shef-povar" ("head chef") with "eto" ("this") to get the point across in plain spoken Russian.

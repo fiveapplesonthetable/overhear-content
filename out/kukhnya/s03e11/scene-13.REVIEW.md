@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, but this simply cannot be!' Max insists that this simply cannot be, leaving Barinov no room to argue.
-- 'The test always shows a very accurate result.' Barinov explains that the test always shows a very accurate result, keeping his voice calm and direct.
-- 'Lyova, I am telling you, there was nothing between us!' Once he is telling Barinov there was nothing between them, Max makes sure Barinov hears every word. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'That is it, Max, now you have lost your money.' Noting that that is it Max now Max has lost Max's money keeps Barinov's side of the story simple and clear.
-- 'Chef, this is definitely not my child!' Insisting that this is definitely not his child shows Max is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Do whatever you want with me, Chef.' Admitting that do whatever Barinov wants with him shows Max being honest for a change.
-- 'But I will not marry her!' Declaring that he will not marry brings Max's temper right to the surface.
-- 'You will do everything that I say!' Barinov insists that Max will do everything that he says, leaving Max no room to argue. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Alright, friends, what is going on here right now?' Wondering if Alright friends what is going on here right now shows Nagiyev caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Why are you shouting across the whole restaurant?' Here asking why Barinov shouting across the whole restaurant is shows Nagiyev looking for the real truth.
-- 'Tonight a serious conversation awaits the two of us.' Between the point and the test, Nagiyev gives Barinov a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Dima, believe me, I am completely fine.' Believing him he is completely fine is how Barinov lays out the situation for Max.
-- 'I decide for myself whether you are fine or not.' Realizing that he decides for himself whether Barinov is fine or not changes how Nagiyev handles the situation.
-- 'Go home, Vitya, until tonight!' Going home Vitya until tonight is Nagiyev's blunt reaction in front of Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Wait, but this simply cannot be!' Max brings a serious stance as the scene unfolds, combining the softening word "prosto" ("simply, just") with "podozhdi" ("wait") to give the line its natural spoken rhythm.
+- 'The test always shows a very accurate result.' Barinov displays an earnest course with Nagiyev, building the phrase around "test" ("test") and "vsegda" ("always") for a crisp, natural delivery.
+- 'Lyova, I am telling you, there was nothing between us!' Max sets an unhurried view in their talk, combining "govoryu" ("am telling") and "bylo" ("was") so the key meaning lands right away.
+- 'That is it, Max, now you have lost your money.' Barinov chooses a measured tone straight away, putting "teper" ("now") alongside "poteryal" ("lost") in a tight, everyday turn of phrase.
+- 'Chef, this is definitely not my child!' Max holds a resolute note in their talk, linking "tochno" ("definitely"), "rebyonok" ("a child"), and "shef" ("Chef") in one brisk exchange.
+- 'Do whatever you want with me, Chef.' Max adopts a direct tone at this moment, combining "delayte" ("do") and "so" ("with") so the key meaning lands right away.
+- 'But I will not marry her!' Max projects a clear stance in this beat, joining "zhenitsya" ("to marry") to "budu" ("will be") so every word pulls its weight.
+- 'You will do everything that I say!' Barinov adopts a pointed tone in front of Nagiyev, combining "budesh" ("will") and "delat" ("do") so the key meaning lands right away.
+- 'Alright, friends, what is going on here right now?' Nagiyev presses firmly to Barinov here, weaving "druzya" ("friends") together with "zdes" ("here") just the way native speakers do.
+- 'Why are you shouting across the whole restaurant?' Nagiyev prompts warmly beside Max, combining "pochemu" ("why") and "krichish" ("are shouting") so the key meaning lands right away.
+- 'Tonight a serious conversation awaits the two of us.' Nagiyev offers an emphatic tack as they talk, anchoring the Russian line on "vecherom" ("in the evening") and "zhdyot" ("is waiting") without extra filler.
+- 'Dima, believe me, I am completely fine.' Barinov projects a natural mood toward Nagiyev, joining "pover" ("believe") to "polnom" ("full") so every word pulls its weight.
+- 'I decide for myself whether you are fine or not.' Nagiyev displays a serious note at once, anchoring the Russian line on "reshayu" ("decide") and "poryadke" ("order") without extra filler.
+- 'Go home, Vitya, until tonight!' Nagiyev picks an earnest rhythm without hesitation, leaning on "idi" ("go") before closing the thought with "domoy" ("home").

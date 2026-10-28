@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The time has come to do some work!' Barinov declares that the time has come to do some work as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'In a couple of hours the owner has an important meeting.' Mentioning that in a couple of hours the owner has an important meeting moves the talk in a new direction.
-- 'Senya, Fedya, you take the appetizers.' Barinov reminds Denis that Denis takes the appetizers before the moment passes.
-- 'Louis, dessert is on you.' Because dessert is on Denis, Barinov treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Alright, chef. And who has the hot entrees?' Wondering if and who has the hot entrees shows Senya caught off guard.
-- 'And Artyom is cooking all the main courses!' Barinov insists that Artyom is cooking all the main courses, leaving Denis no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'She promised to stop by the kitchen for an inspection.' Claiming that she promised to stop by the kitchen for an inspection sounds confident, even if Denis has doubts.
-- 'So you will have to cook personally.' Adding that Denis will have to cook personally fills in the missing piece for Denis.
-- 'But do not worry, I will taste everything and coach you.' Noting that do not worry he will taste everything and coach Denis keeps Barinov's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Alright, chef.' Around the dinner and truth, Denis sets a calm, everyday tone with Barinov.
-- 'I believe in you!' Barinov declares that he believes in Denis as the tension in the room peaks.
-- 'This is going to be interesting.' Even though this is going to be interesting, Senya keeps a steady face in front of Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'The time has come to do some work!' Barinov adopts a clear note in the room, anchoring the Russian line on "prishlo" ("to come, to arrive") and "vremya" ("time") without extra filler.
+- 'In a couple of hours the owner has an important meeting.' Barinov favors an honest tack in front of Senya, joining "khozyayki" ("landlady, hostess") to "paru" ("couple") so every word pulls its weight.
+- 'Senya, Fedya, you take the appetizers.' Barinov favors a resolute stance beside Denis, weaving "beryote" ("take") together with "zakuski" ("appetizer, snack") just the way native speakers do.
+- 'Louis, dessert is on you.' Barinov maintains a playful position during the exchange, weaving "desert" ("dessert") together with "lui" ("Louis") just the way native speakers do.
+- 'Alright, chef. And who has the hot entrees?' Senya tests evenly in the scene, building the phrase around "khorosho" ("good, fine") and "goryacheye" ("hot") for a crisp, natural delivery.
+- 'And Artyom is cooking all the main courses!' Barinov maintains a candid stance straight away, combining "glavnyye" ("important") and "blyuda" ("of dish") so the key meaning lands right away.
+- 'She promised to stop by the kitchen for an inspection.' Barinov offers an emphatic approach as the scene unfolds, joining "obeshchala" ("promised") to "zayti" ("to approach") so every word pulls its weight.
+- 'So you will have to cook personally.' Barinov brings a frank position straight away, putting "pridyotsya" ("you'll have to") alongside "gotovit" ("to cook") in a tight, everyday turn of phrase.
+- 'But do not worry, I will taste everything and coach you.' Barinov chooses a thoughtful note toward Denis, linking "volnuysya" ("worry"), "budu" ("will be"), and "probovat" ("to try, to taste") in one brisk exchange.
+- 'Alright, chef.' Denis conveys a playful angle in the conversation, leaning on "khorosho" ("good, fine") before closing the thought with "shef" ("Chef").
+- 'I believe in you!' Barinov offers an easygoing line without hesitation, using "veryu" (from "verit", "believe") alongside "ya" ("I") to shape the meaning.
+- 'This is going to be interesting.' Senya strikes a warm style for Denis, joining "budet" ("will be") to "interesno" ("interesting") so every word pulls its weight.

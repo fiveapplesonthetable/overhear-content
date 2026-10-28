@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Гость | Так что тащи уже ребрышки. | So bring out the ribs already. | #134: тащи уже ребрышки | adapted: adapted |
 | 4 | Шеф | Высокая кухня — это вам не закуска. | Haute cuisine is not a snack for you. | #136: высокая кухня | adapted: adapted |
 | 5 | Гость | А в-третьих, что, Витя? | And thirdly, what, Vitya? | #137: А в-третьих, что, Витя? | adapted: exact |
-| 6 | Шеф | Не Витя, а Виктор Петрович. | Not Vitya, but Viktor Petrovich. | #138: не Витя, а Виктор Петрович | adapted: adapted |
+| 6 | Гость | Не Витя, а Виктор Петрович. | Not Vitya, but Viktor Petrovich. | #138: не Витя, а Виктор Петрович | adapted: adapted |
 | 7 | Гость | Зря ты так, Виктор Петрович. | You should not act like that, Viktor Petrovich. | #139: Зря ты так, Виктор Петрович | adapted: exact |
 | 8 | Гость | Земля ведь круглая. | After all, the earth is round. | #140: круглая | adapted: adapted |
 | 9 | Шеф | А оплатить кто будет? | And who is going to pay? | #142: оплатить кто будет? | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how do you like the dish?' By wondering how the guest likes the dish, Barinov presses the guest for a straight answer. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'For a starter it will do.' The guest explains that for a starter it will do, keeping his voice calm and direct.
-- 'So bring out the ribs already.' By telling Barinov to bring out the ribs already, the guest keeps his side of the story grounded.
-- 'Haute cuisine is not a snack for you.' Noting that haute cuisine is not a snack for the guest keeps Barinov's side of the story simple and clear. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'And thirdly, what, Vitya?' Around the conversation and situation, the guest wants to know where Barinov really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Not Vitya, but Viktor Petrovich.' Between the plan and the work, Barinov gives the guest a quick, grounded response.
-- 'You should not act like that, Viktor Petrovich.' Saying that Barinov should not act like that Viktor Petrovich is how the guest sets the tone with Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'After all, the earth is round.' Once after all the earth is round, the guest can finally tell Barinov what he means.
-- 'And who is going to pay?' By wondering who going to pay is, Barinov presses the guest for a straight answer.
-- 'Why, I did not even eat anything.' The guest tells Barinov that why he did not even eat anything without dressing it up. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'I will be back here yet.' Since he will be back here yet, the guest does not waste words on excuses.
-- 'Good riddance!' With the point and moment at stake, Barinov reacts without holding back.
+- 'Well, how do you like the dish?' Barinov asks promptly across the room, combining "kak" ("how") and "blyudo" ("dish") so the key meaning lands right away.
+- 'For a starter it will do.' The guest projects a grounded course right away, building the phrase around "nachala" ("beginning") and "poydet" ("to go") for a crisp, natural delivery.
+- 'So bring out the ribs already.' The guest adopts a measured posture toward Barinov, anchoring the Russian line on "tashchi" ("drag, bring") and "uzhe" ("already, now") without extra filler.
+- 'Haute cuisine is not a snack for you.' Barinov sustains a serious line on the spot, linking "vysokaya" ("high, tall"), "kukhnya" ("kitchen"), and "zakuska" ("appetizer, snack") in one brisk exchange.
+- 'And thirdly, what, Vitya?' The guest quizzes steadily as they speak, joining "v-tretikh" ("thirdly, third of all") to "chto" ("what") so every word pulls its weight.
+- 'Not Vitya, but Viktor Petrovich.' The guest shows a natural bearing in the conversation, weaving "ne" ("not") together with "vitya" ("Vitya") just the way native speakers do.
+- 'You should not act like that, Viktor Petrovich.' The guest sustains a brisk direction in the room, anchoring the Russian line on "zrya" ("for nothing") and "ty" ("you") without extra filler.
+- 'After all, the earth is round.' The guest favors a direct attitude beside Barinov, joining "zemlya" ("land") to "kruglaya" ("round") so every word pulls its weight.
+- 'And who is going to pay?' Barinov tests earnestly across the room, putting "oplatit" ("will pay for") alongside "budet" ("will be") in a tight, everyday turn of phrase.
+- 'Why, I did not even eat anything.' The guest establishes a thoughtful tempo for Barinov, doubling the negative with "ne" ("not") and "yel" ("ate"), which is standard and required in Russian.
+- 'I will be back here yet.' The guest chooses a clear stance straight away, pairing "yeshche" ("still") with "vernus" ("will come back") to get the point across in plain spoken Russian.
+- 'Good riddance!' Barinov shares a calm mood beside the guest, building the phrase around "skatertyu" ("like a tablecloth") and "doroga" ("dear, precious") for a crisp, natural delivery.

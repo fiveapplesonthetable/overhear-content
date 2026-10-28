@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You prepare the cookies from this recipe.' Even though Nastya prepares the cookies from this recipe, Barinov keeps a steady face in front of Nastya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I beg you, try very hard.' Explaining that he begs Nastya tries very hard lays the cards on the table for Nastya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And why is it so expensive?' Here asking why it so expensive is shows Nikita looking for the real truth.
-- 'Six boxes of flower petals.' With the conversation and family in play, Nastya keeps this short reply brisk and direct.
-- 'They picked apart every flower.' Around the work and news, Nastya sets a calm, everyday tone with Barinov.
-- 'Congratulations on the promotion, Nikita.' Between the work and the news, Nastya gives Barinov a quick, grounded response.
-- 'Do not bother, I am going to quit anyway.' Since do not bother he is going to quit anyway, Nikita does not waste words on excuses.
-- 'Why do you want to leave?' By asking why Barinov wants to leave, Nastya presses Barinov for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Nothing is working out with Katya.' Nikita reminds Barinov that nothing is working out with Katya before the moment passes.
-- 'Come on, do not even think of it!' By coming on do not even think of it, Nastya raises the stakes in the room at once. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Katya told her mom that she likes you very much.' Explaining that Katya told her that she likes Barinov very much lays the cards on the table for Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Are you serious?' Here checking whether Barinov serious shows Nikita looking for the real truth.
+- 'You prepare the cookies from this recipe.' Barinov takes a serious tempo as the scene unfolds, building the phrase around "gotov" ("prepare") and "pechenye" ("cookies, pastry") for a crisp, natural delivery.
+- 'I beg you, try very hard.' Barinov chooses a resolute manner in front of Nikita, building the phrase around "proshu" ("beg, ask") and "ochen" ("very much") for a crisp, natural delivery.
+- 'And why is it so expensive?' Nikita prompts bluntly without a pause, leaning on "pochemu" ("why") before closing the thought with "dorogo" ("expensive").
+- 'Six boxes of flower petals.' Nastya establishes an easygoing course during the exchange, leaning on "korobok" ("boxes") before closing the thought with "lepestkami" ("petals").
+- 'They picked apart every flower.' Nastya takes a measured course across the room, building the phrase around "kazhdyy" ("every") and "tsvetok" ("flower") for a crisp, natural delivery.
+- 'Congratulations on the promotion, Nikita.' Nastya offers a clear view straight away, linking "pozdravlyayu" ("congratulations"), "povysheniyem" ("to promotion"), and "nikita" ("Nikita") in one brisk exchange.
+- 'Do not bother, I am going to quit anyway.' Nikita sustains a wry attitude as they talk, building the phrase around "stoit" ("is parked") and "ravno" ("the same") for a crisp, natural delivery.
+- 'Why do you want to leave?' Nastya queries directly as the talk turns, leaning on "pochemu" ("why") before closing the thought with "khochesh" ("do you want").
+- 'Nothing is working out with Katya.' Nikita conveys a wry footing at this moment, pairing "poluchayetsya" ("works out") with "katey" ("Katya") so the "-sya" ending carries the action.
+- 'Come on, do not even think of it!' Nastya shows a playful tempo in the room, using "vzdumay" (from "vzdumat", "don't even think") alongside "da" ("yes") to shape the meaning.
+- 'Katya told her mom that she likes you very much.' Nastya sets a warm rhythm right away, using "govorila" (from "govorit", "said") alongside "mame" ("mother, mum") to shape the meaning.
+- 'Are you serious?' Nikita quizzes quietly in the scene, linking "seryezno" ("seriously") directly with "ty" ("you"), since Russian drops "is" and "are" in the present.

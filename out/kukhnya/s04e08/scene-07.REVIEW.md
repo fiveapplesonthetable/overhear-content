@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Marina, darling, I wanted to ask your advice.' Pointing out that darling he wanted to ask Marina's advice gives Marina a sobering reality check.
-- 'I am telling you right away, I will not give you money!' Marina insists that she is telling Senya right away she will not give Senya money, leaving Senya no room to argue. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What does money have to do with it, the guy has a terrible grief!' Senya declares that what does money have to do with it the guy has a terrible grief as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Can a guy from work stay at our place for a little while?' Checking whether a guy from work stay at their place for a little is how Senya puts Marina on the spot.
-- 'The poor guy lost his entire family very recently.' Even though the poor guy lost his entire family very recently, Senya keeps a steady face in front of Marina.
-- 'And then they even took his apartment away from him!' Once they even took his apartment away from him, Senya makes sure Marina hears every word. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Poor man, how hard it must be for him right now!' Declaring that poor man how hard it must be for him right now brings Marina's temper right to the surface.
-- 'He even offered to pay us five thousand a month.' Between the point and the secret, Senya gives Marina a quick, grounded response.
-- 'Why, what are you saying, Senya, let him live with us for free!' Saying that why what are Senya saying Senya let him live with them for free is how Marina takes charge of the moment. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'All right, Marina, let him live at our place for free.' Saying that all right Marina let him live at their place for free is how Senya sets the tone with Marina.
-- 'In short, old pal, the room costs twenty-five thousand.' Since in short old pal the room costs twenty five thousand, Senya does not waste words on excuses.
-- 'My wife refused to agree to twenty thousand at all!' Over the story and the family, Senya lets his real feelings show. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'Marina, darling, I wanted to ask your advice.' Senya brings a candid manner in the conversation, putting "dorogaya" ("expensive") alongside "khotel" ("wanted") in a tight, everyday turn of phrase.
+- 'I am telling you right away, I will not give you money!' Marina conveys a direct rhythm in their talk, joining "srazu" ("at once") to "govoryu" ("am telling") so every word pulls its weight.
+- 'What does money have to do with it, the guy has a terrible grief!' Senya establishes a thoughtful line toward Marina, linking "tut" ("here"), "dengi" ("money"), and "parnya" ("boyfriend") in one brisk exchange.
+- 'Can a guy from work stay at our place for a little while?' Senya asks bluntly to Marina here, anchoring the Russian line on "mozhno" ("may, can") and "paren" ("boyfriend") without extra filler.
+- 'The poor guy lost his entire family very recently.' Senya chooses an honest stance as they talk, combining "bednyy" ("poor") and "paren" ("boyfriend") so the key meaning lands right away.
+- 'And then they even took his apartment away from him!' Senya sets an easygoing rhythm toward Marina, joining "potom" ("then") to "yeshchyo" ("more, still") so every word pulls its weight.
+- 'Poor man, how hard it must be for him right now!' Marina holds a pointed tack as the scene unfolds, building the phrase around "bednyy" ("poor") and "chelovek" ("a man, a person") for a crisp, natural delivery.
+- 'He even offered to pay us five thousand a month.' Senya presents a clear tack in this beat, putting "predlagal" ("to suggest") alongside "platit" ("to pay") in a tight, everyday turn of phrase.
+- 'Why, what are you saying, Senya, let him live with us for free!' Marina strikes a resolute manner at once, putting "zhivyot" ("lives") alongside "besplatno" ("for free") in a tight, everyday turn of phrase.
+- 'All right, Marina, let him live at our place for free.' Senya sets a resolute position in the conversation, combining "zhivyot" ("lives") and "besplatno" ("for free") so the key meaning lands right away.
+- 'In short, old pal, the room costs twenty-five thousand.' Senya sets a lively tone right away, leaning on "obshchem" ("short, so") before closing the thought with "starik" ("old man").
+- 'My wife refused to agree to twenty thousand at all!' Senya projects an honest bearing straight away, leaning on "zhena" ("wife") before closing the thought with "tysyach" ("thousand").

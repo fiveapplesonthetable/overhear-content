@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Have you finished work already, Lyova?' Checking whether Ainura finished work already cuts straight through the tension between Gulya and Ainura. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'We still need to wash all the stoves.' With the plan and doctor in play, Ainura keeps this short reply brisk and direct. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'The two of you have a rather strange relationship.' Claiming that the two of Elena has a rather strange relationship sounds confident, even if Elena has doubts.
-- 'Lyova is simply a bit shy and kind.' Pointing out that Lyova is simply a bit shy and kind gives Ainura a sobering reality check.
-- 'We are not rushing into that.' Gulya explains that they are not rushing, keeping her voice calm and direct.
-- 'Your parents raised you well at home.' Over the kitchen and the doctor, Ainura answers Elena without a second thought.
-- 'Tomorrow at two o'clock at the clinic?' With the point and friend hanging in the air, Elena puts Ainura on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, that time suits us very well.' Around the kitchen and doctor, Elena sets a calm, everyday tone with Ainura. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'He is my very close friend.' Admitting that he is her very close friend shows Elena being honest for a change.
-- 'He is tall and has a handsome mustache.' Saying that he is tall and has a handsome mustache is how Elena sets the tone with Ainura.
-- 'I will tell you everything in detail later.' Once she will tell Ainura everything in detail later, Elena can finally tell Ainura what she means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Vitya, tomorrow Lyova will cover for you at work.' Adding that tomorrow Lyova will cover for Ainura at work fills in the missing piece for Ainura.
+- 'Have you finished work already, Lyova?' Gulya probes wryly at this point, weaving "uzhe" ("already, now") together with "zakonchil" ("finished") just the way native speakers do.
+- 'We still need to wash all the stoves.' Ainura chooses a direct tack without hesitation, weaving "yeshchyo" ("more, still") together with "nado" ("it is necessary") just the way native speakers do.
+- 'The two of you have a rather strange relationship.' Ainura conveys a serious approach without hesitation, weaving "strannyye" ("strange") together with "otnosheniya" ("relations, relationship") just the way native speakers do.
+- 'Lyova is simply a bit shy and kind.' Gulya picks a measured stance in their talk, linking "prosto" ("just") directly with "nemnogo" ("a bit"), since Russian drops "is" and "are" in the present.
+- 'We are not rushing into that.' Gulya displays a candid tone in the scene, leaning on "delom" ("case") before closing the thought with "speshim" ("are hurrying").
+- 'Your parents raised you well at home.' Ainura shows a grounded tone for Gulya, building the phrase around "khorosho" ("good, fine") and "doma" ("at home") for a crisp, natural delivery.
+- 'Tomorrow at two o'clock at the clinic?' Elena queries promptly during the talk, putting "zavtra" ("tomorrow") alongside "chasa" ("hours") in a tight, everyday turn of phrase.
+- 'Yes, that time suits us very well.' Elena presents an earnest manner at once, putting "vremya" ("time") alongside "otlichno" ("perfect, great") in a tight, everyday turn of phrase.
+- 'He is my very close friend.' Elena holds an unhurried mood toward Ainura, combining "ochen" ("very much") and "blizkiy" ("close") so the key meaning lands right away.
+- 'He is tall and has a handsome mustache.' Elena strikes a wry view in front of Gulya, leaning on "vysokiy" ("high") before closing the thought with "krasivymi" ("beautiful, handsome").
+- 'I will tell you everything in detail later.' Elena favors a frank direction in the conversation, joining "potom" ("then") to "podrobno" ("in detail") so every word pulls its weight.
+- 'Vitya, tomorrow Lyova will cover for you at work.' Elena projects a grounded manner at once, anchoring the Russian line on "zavtra" ("tomorrow") and "rabote" ("work") without extra filler.

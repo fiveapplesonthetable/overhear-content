@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey there, who do we have here?' When Senya asks if there who do they have here, Denis has to answer fast. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Hello, I was giving her tea.' Saying that he was giving her tea is how Denis sets the tone with Katya.
-- 'Good morning to all of you.' With the apartment and guest in play, Katya keeps this short reply brisk and direct.
-- 'Senya, why are you embarrassing people?' Asking why Katya embarrassing people is cuts straight through the tension between Denis and Katya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'All right, let's go have breakfast together.' Senya mentions that all right let them go have breakfast together so Denis sees what is at stake.
-- 'Have you two been dating for a long time?' Here checking whether Denis two been dating for a long time shows Senya looking for the real truth.
-- 'Well, there is a very long story there.' Explaining that there is a very long story there lays the cards on the table for Katya.
-- 'We have been friends for a very long time.' Denis explains that they have been friends for a very long time, keeping his voice calm and direct.
-- 'And we are only dating starting today.' Realizing that they are only dating starting today changes how Denis handles the situation.
-- 'Today will be our first day.' Noting that today will be their first day keeps Denis's side of the story simple and clear.
-- 'Yes, Katyusha, eat up, eat.' Over the apartment and the guest, Denis answers Katya without a second thought. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Thank you, everything is very tasty.' Admitting that everything is very tasty shows Katya being honest for a change.
+- 'Hey there, who do we have here?' Senya probes wryly beside Denis, linking "zdorovo" ("great, cool"), "tut" ("here"), and "kto" ("who") in one brisk exchange.
+- 'Hello, I was giving her tea.' Denis sustains a measured course as the scene unfolds, combining "zdravstvuyte" ("hello") and "chayem" ("tea") so the key meaning lands right away.
+- 'Good morning to all of you.' Katya establishes a playful footing during the exchange, combining "dobroye" ("good") and "utro" ("morning") so the key meaning lands right away.
+- 'Senya, why are you embarrassing people?' Denis wonders decisively in the room, using "lyudey" (from "chelovek", "people") alongside "smushchayesh" ("to people") to shape the meaning.
+- 'All right, let's go have breakfast together.' Senya brings a serious course as the scene unfolds, putting "poydyomte" ("come on, let's go") alongside "vmeste" ("together") in a tight, everyday turn of phrase.
+- 'Have you two been dating for a long time?' Senya queries honestly for Katya's benefit, putting "uzhe" ("already, now") alongside "davno" ("for a long time") in a tight, everyday turn of phrase.
+- 'Well, there is a very long story there.' Denis brings an easygoing style as the scene unfolds, joining "tam" ("there") to "ochen" ("very much") so every word pulls its weight.
+- 'We have been friends for a very long time.' Denis holds a measured posture straight away, weaving "druzhim" ("be friends") together with "uzhe" ("already, now") just the way native speakers do.
+- 'And we are only dating starting today.' Denis takes a calm view in the scene, linking "vstrechayemsya" ("have been going out"), "tolko" ("only"), and "segodnya" ("today") in one brisk exchange.
+- 'Today will be our first day.' Denis holds a grounded angle as they talk, pairing "segodnya" ("today") with "budet" ("will be") to get the point across in plain spoken Russian.
+- 'Yes, Katyusha, eat up, eat.' Denis picks a warm direction in their talk, pairing "katyusha" ("eat") with "yesh" ("eat") to get the point across in plain spoken Russian.
+- 'Thank you, everything is very tasty.' Katya shares a lively tone during the exchange, combining "spasibo" ("thank you") and "ochen" ("very much") so the key meaning lands right away.

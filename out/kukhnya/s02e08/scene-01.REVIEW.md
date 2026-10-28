@@ -13,7 +13,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Костя | Пойдемте они вечером в кино. | Let us go to the movies together tonight. | #1: Пойдемте они вечером в кино | verbatim |
 | 2 | Настя | Я бы так и сказала. | That is exactly what I would have said. | #3: я бы так и сказала | verbatim |
 | 3 | Костя | Спина, Кость, пойдем в кино. | Behind your back, Kostya, let us go to the movies. | #4: Спина, Кость, пойдем в кино | verbatim |
-| 4 | Настя | Настя, я вообще-то верность тебе храню. | Nastya, I am actually staying completely faithful to you. | #5: Настя, я вообще-то верность тебе храню | verbatim |
+| 4 | Костя | Настя, я вообще-то верность тебе храню. | Nastya, I am actually staying completely faithful to you. | #5: Настя, я вообще-то верность тебе храню | verbatim |
 | 5 | Костя | Она глазки мне строит. | She keeps making eyes at me. | #6: она глазки мне строит | verbatim |
 | 6 | Настя | А я не обращаю внимания. | And I am paying no attention to her at all. | #7: А я не обращаю внимания | verbatim |
 | 7 | Костя | Сейчас я с ней поговорю. | I am going to go have a word with her right now. | #8: Сейчас я с ней поговорю | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let us go to the movies together tonight.' By going to the movies together tonight, Kostya keeps his side of the story grounded.
-- 'That is exactly what I would have said.' Adding that that is exactly what she would have said fills in the missing piece for Kostya.
-- 'Behind your back, Kostya, let us go to the movies.' Kostya tells Nastya that behind Nastya's back Kostya let them go to the movies without dressing it up.
-- 'Nastya, I am actually staying completely faithful to you.' Saying that she is actually staying completely faithful to Kostya is how Nastya sets the tone with Kostya.
-- 'She keeps making eyes at me.' Mentioning that she keeps making eyes at him moves the talk in a new direction.
-- 'And I am paying no attention to her at all.' Noting that she is paying no attention to her at all keeps Nastya's side of the story simple and clear.
-- 'I am going to go have a word with her right now.' Even though he is going to go have a word with her right now, Kostya keeps a steady face in front of Nastya.
-- 'Mom, what are you doing here?' When Nastya asks if Mom what are Kostya doing here, Kostya has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'No, Vitya, have you seen this, huh?' Checking whether Nastya seen this huh cuts straight through the tension between Kostya and Nastya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'A two-page interview on top of that.' With the shift and guest in play, Nastya keeps this short reply brisk and direct.
-- 'Why did they pick her instead of you?' Here asking why they pick her instead of Nastya shows Kostya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'On that question I trust you completely.' Nastya explains that on that question she trusts Kostya completely, keeping her voice calm and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'While somebody sits around here acting smart.' Realizing that while somebody sits around here acting smart changes how Kostya handles the situation.
+- 'Let us go to the movies together tonight.' Kostya establishes an easygoing course in the conversation, pairing "poydemte" ("come on, let's go") with "vecherom" ("in the evening") to get the point across in plain spoken Russian.
+- 'That is exactly what I would have said.' Nastya keeps a clear footing as the scene unfolds, joining "skazala" ("told") to "ya" ("I") so every word pulls its weight.
+- 'Behind your back, Kostya, let us go to the movies.' Kostya maintains a brisk course for Nastya, linking "spina" ("back"), "kost" ("bones"), and "poydem" ("let's go") in one brisk exchange.
+- 'Nastya, I am actually staying completely faithful to you.' Kostya adopts a natural tone as they talk, combining "voobshche-to" ("actually") and "vernost" ("loyalty") so the key meaning lands right away.
+- 'She keeps making eyes at me.' Kostya presents a measured stance in the conversation, anchoring the Russian line on "glazki" ("eyes") and "stroit" ("to build") without extra filler.
+- 'And I am paying no attention to her at all.' Nastya keeps an earnest direction as the scene unfolds, linking "obrashchayu" ("to turn, to direct"), "vnimaniya" ("attention"), and "ya" ("I") in one brisk exchange.
+- 'I am going to go have a word with her right now.' Kostya shares a wry tone at this moment, pairing "seychas" ("now") with "pogovoryu" ("I'll talk") so the "-sya" ending carries the action.
+- 'Mom, what are you doing here?' Nastya asks calmly at this point, weaving "mam" ("Mum") together with "zdes" ("here") just the way native speakers do.
+- 'No, Vitya, have you seen this, huh?' Kostya prompts sharply as they speak, building the phrase around "videl" ("saw, have seen") and "ne" ("not") for a crisp, natural delivery.
+- 'A two-page interview on top of that.' Nastya conveys a grounded posture in the room, building the phrase around "yeshche" ("still") and "intervyu" ("interview") for a crisp, natural delivery.
+- 'Why did they pick her instead of you?' Kostya checks pointedly for Nastya's benefit, weaving "pochemu" ("why") together with "ona" ("it") just the way native speakers do.
+- 'On that question I trust you completely.' Nastya maintains a measured note in front of Kostya, combining "voprose" ("question, matter") and "polnostyu" ("completely") so the key meaning lands right away.
+- 'While somebody sits around here acting smart.' Kostya sustains a pointed course right away, putting "poka" ("bye") alongside "tut" ("here") in a tight, everyday turn of phrase.

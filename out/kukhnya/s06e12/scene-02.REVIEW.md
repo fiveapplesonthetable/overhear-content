@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Anna Petrovna, tell me, what happened at your place?' With the apartment and moment hanging in the air, Lyova puts the guest on the spot. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I merely slipped by accident in the bathroom.' Around the work and apartment, the guest sets a calm, everyday tone with Gulya.
-- 'Nothing terrible, you did not need to run so fast.' Because nothing terrible Gulya did not need to run so fast, the guest treats the matter as settled.
-- 'The doctor says that I have a small fracture.' Explaining that the doctor says that he has a small fracture lays the cards on the table for Gulya. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'They ordered me to lie in bed for a whole month and not get up.' Around the truth and apartment, the guest sets a calm, everyday tone with Gulya.
-- 'Well and how will you be alone for a whole month?' Asking how the guest is alone for a whole month will cuts straight through the tension between Lyova and the guest.
-- 'The doctor says rightly, she needs good care.' Pointing out that the doctor says rightly she needs good care gives the guest a sobering reality check.
-- 'Mom, let us forget all old grievances right now.' Saying that Mom let them forget all old grievances right now is how Lyova sets the tone with the guest. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Alright, son, let us forget our old grievances.' Realizing that Alright son let them forget their old grievances changes how the guest handles the situation.
-- 'Then Gulya and I are moving in with you together.' Explaining that Gulya and he are moving in with the guest together lays the cards on the table for the guest. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Certainly not, I am saying this for the last time!' Insisting that certainly not he is saying this for the last time shows the guest is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Choose right now: either her or me!' Choosing right now either her or him shows the guest is done holding back.
+- 'Anna Petrovna, tell me, what happened at your place?' Lyova quizzes honestly beside the guest, anchoring the Russian line on "skazhite" ("tell") and "sluchilos" ("happened") without extra filler.
+- 'I merely slipped by accident in the bathroom.' The guest displays a natural mood without hesitation, pairing "sluchayno" ("by any chance") with "poskolznulas" ("slipped") to get the point across in plain spoken Russian.
+- 'Nothing terrible, you did not need to run so fast.' The guest chooses a direct position at this moment, joining "strashnogo" ("terrible, serious") to "nado" ("it is necessary") so every word pulls its weight.
+- 'The doctor says that I have a small fracture.' The guest displays a serious manner with Lyova, leaning on "vrach" ("doctor") before closing the thought with "govorit" ("talks").
+- 'They ordered me to lie in bed for a whole month and not get up.' The guest adopts a steady stance toward Gulya, leaning on "veleli" ("they ordered") before closing the thought with "tselyy" ("whole, all").
+- 'Well and how will you be alone for a whole month?' Lyova quizzes naturally as the talk turns, pairing "mesyats" ("month") with "kak" ("how") so the "-sya" ending carries the action.
+- 'The doctor says rightly, she needs good care.' Gulya projects a measured course during the exchange, combining "vrach" ("doctor") and "pravilno" ("right") so the key meaning lands right away.
+- 'Mom, let us forget all old grievances right now.' Lyova chooses a firm view with Gulya, combining the everyday invitation "davay" ("come on, let us") with "mama" ("mum, mother") to give the line its natural spoken rhythm.
+- 'Alright, son, let us forget our old grievances.' The guest keeps a natural tempo in the scene, leaning on "khorosho" ("good, fine") before closing the thought with "synok" ("son").
+- 'Then Gulya and I are moving in with you together.' Lyova shares a grounded style in the room, weaving "togda" ("back then") together with "vmeste" ("together") just the way native speakers do.
+- 'Certainly not, I am saying this for the last time!' The guest strikes an earnest approach on the spot, leaning on "posledniy" ("last") before closing the thought with "raz" ("time, once").
+- 'Choose right now: either her or me!' The guest brings a firm tack during the exchange, using "vybiray" (from "vybirat", "to choose, select") alongside "pryamo" ("right, just") to shape the meaning.

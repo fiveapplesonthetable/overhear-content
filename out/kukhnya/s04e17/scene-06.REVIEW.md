@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich, did you call for me?' Here asking whether Nagiyev calls for him shows Denis looking for the real truth. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'I adore all this music.' With the conversation and date in play, Nagiyev keeps this short reply brisk and direct.
-- 'Only I do not know how to play at all.' Pointing out that only he does not know how to play at all gives Denis a sobering reality check.
-- 'I used to know how, but I already forgot.' Nagiyev explains that he used to know how but he already forgot, keeping his voice calm and direct.
-- 'Can you teach me quickly?' Here checking whether Denis teaches him quickly shows Nagiyev looking for the real truth.
-- 'Well, theoretically in about four months.' Around the conversation and date, Denis sets a calm, everyday tone with Nagiyev.
-- 'I need it by the evening after tomorrow.' Admitting that he needs it by the evening after tomorrow shows Nagiyev being honest for a change. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'I have a date with a certain pianist.' Having a date with a certain pianist is how Nagiyev lays out the situation for Denis.
-- 'Maybe you should hire a tutor instead?' Denis asks whether maybe Nagiyev should hire a tutor instead, refusing to let the point slide. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Well, you simply have no choice.' Once Denis simply have no choice, Nagiyev can finally tell Denis what he means. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Either you will teach me right now.' Adding that either Denis will teach him right now fills in the missing piece for Denis.
-- 'All right, I already caught the scale.' Saying that all right he already caught the scale is how Denis sets the tone with Nagiyev.
+- 'Dmitry Vladimirovich, did you call for me?' Denis questions boldly in front of Nagiyev, weaving "zvali" ("called") together with "dmitriy" ("Dmitry") just the way native speakers do.
+- 'I adore all this music.' Nagiyev sets a warm stance in their talk, combining "obozhayu" ("adore") and "muzyku" ("music") so the key meaning lands right away.
+- 'Only I do not know how to play at all.' Nagiyev strikes an earnest posture with Denis, leaning on "tolko" ("only") before closing the thought with "igrat" ("to play").
+- 'I used to know how, but I already forgot.' Nagiyev picks a clear angle in front of Denis, putting "ranshe" ("earlier, previously") alongside "umel" ("to know how to") in a tight, everyday turn of phrase.
+- 'Can you teach me quickly?' Nagiyev asks honestly in the scene, joining "mozhesh" ("can") to "bystro" ("quickly") so every word pulls its weight.
+- 'Well, theoretically in about four months.' Denis sustains an earnest rhythm toward Nagiyev, leaning on "teoreticheski" ("about") before closing the thought with "mesyatsa" ("months").
+- 'I need it by the evening after tomorrow.' Nagiyev establishes an unhurried manner on the spot, joining "nuzhno" ("necessary") to "uzhe" ("already, now") so every word pulls its weight.
+- 'I have a date with a certain pianist.' Nagiyev adopts an honest tone on the spot, using the everyday "u menya" ("by me") alongside "svidaniye" ("date") to show what belongs to the speaker.
+- 'Maybe you should hire a tutor instead?' Denis tests decisively with Nagiyev now, weaving "mozhet" ("can") together with "luchshe" ("better") just the way native speakers do.
+- 'Well, you simply have no choice.' Nagiyev keeps a wry position without hesitation, weaving "prosto" ("just") together with "vybora" ("choice") just the way native speakers do.
+- 'Either you will teach me right now.' Nagiyev displays a warm posture across the room, pairing "seychas" ("now") with "nauchish" ("to teach") to get the point across in plain spoken Russian.
+- 'All right, I already caught the scale.' Denis picks an earnest direction in the conversation, joining "khorosho" ("good, fine") to "gammu" ("right") so every word pulls its weight.

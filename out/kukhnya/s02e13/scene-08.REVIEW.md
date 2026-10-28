@@ -18,7 +18,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Федя | И поверьте мне. | And believe me. | #122: И поверьте мне | verbatim |
 | 7 | Шеф | Я не могу говорить. | I cannot talk right now. | #123: я не могу говорить | verbatim |
 | 8 | Вика | Иуда. Предатель. | Judas. Traitor. | #124: Иуда. Предатель | verbatim |
-| 9 | Федя | Алло, Федя, срочно привези мне в больницу стейк. | Hello, Fedya, urgently bring a steak to me at the hospital. | #126: Алло, Федя, срочно привези мне в больницу стейк | verbatim |
+| 9 | Шеф | Алло, Федя, срочно привези мне в больницу стейк. | Hello, Fedya, urgently bring a steak to me at the hospital. | #126: Алло, Федя, срочно привези мне в больницу стейк | verbatim |
 | 10 | Шеф | Какой только есть в ресторане. | Whatever steak we have in the restaurant. | #127: какой только есть в ресторане | verbatim |
 | 11 | Вика | Не могу говорить. | I cannot talk now. | #128: Не могу говорить | verbatim |
 | 12 | Федя | Очень занят. | I am very busy. | #129: Очень занят | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Lyova.' With the truth and work in play, Barinov keeps this short reply brisk and direct.
-- 'Bring me some normal food.' Claiming that Barinov should bring her some normal food sounds confident, even if Barinov has doubts.
-- 'Viktor Petrovich.' Over the phone and the hospital, Fedya answers Barinov without a second thought.
-- 'More than in the last three years.' Between the phone and the kitchen, Barinov gives Fedya a quick, grounded response.
-- 'I call the doctor and I know everything.' Here calling the doctor and she knows everything sets up the next turn in their exchange.
-- 'And believe me.' Pointing out that Barinov should believe him gives Barinov a sobering reality check.
-- 'I cannot talk right now.' Saying that he cannot talk right now is how Barinov sets the tone with Fedya.
-- 'Judas. Traitor.' Over the phone and the point, Vika answers Barinov without a second thought.
-- 'Hello, Fedya, urgently bring a steak to me at the hospital.' Between the phone and the truth, Fedya gives Barinov a quick, grounded response.
-- 'Whatever steak we have in the restaurant.' Because whatever steak they have in the restaurant, Barinov treats the matter as settled.
-- 'I cannot talk now.' Pointing out that she cannot talk now gives Barinov a sobering reality check.
-- 'I am very busy.' Fedya explains that he is very busy, keeping his voice calm and direct.
-- 'Everyone has betrayed me.' Claiming that everyone has betrayed him sounds confident, even if Fedya has doubts.
+- 'Hello, Lyova.' Barinov takes a grounded footing beside Fedya, putting "allo" ("hello") alongside "lyova" ("Lyova") in a tight, everyday turn of phrase.
+- 'Bring me some normal food.' Vika sustains an easygoing bearing on the spot, weaving "privezi" ("to bring") together with "normalnoy" ("normal") just the way native speakers do.
+- 'Viktor Petrovich.' Fedya takes a playful rhythm in this beat, putting "viktor" ("Viktor") alongside "petrovich" ("Petrovich") in a tight, everyday turn of phrase.
+- 'More than in the last three years.' Barinov sets a calm tempo as the scene unfolds, anchoring the Russian line on "posledniye" ("last") and "goda" ("years") without extra filler.
+- 'I call the doctor and I know everything.' Vika favors a natural tone during the exchange, joining "zvonyu" ("call") to "vrachu" ("the doctor") so every word pulls its weight.
+- 'And believe me.' Fedya presents a candid footing on the spot, leaning on "poverte" ("believe") before closing the thought with "mne" ("to me").
+- 'I cannot talk right now.' Barinov picks a pointed note on the spot, anchoring the Russian line on "mogu" ("can") and "govorit" ("to talk") without extra filler.
+- 'Judas. Traitor.' Vika presents a warm angle for Fedya, putting "predatel" ("traitor") alongside "iuda" ("Judas") in a tight, everyday turn of phrase.
+- 'Hello, Fedya, urgently bring a steak to me at the hospital.' Barinov maintains a resolute line toward Fedya, combining "srochno" ("urgent, urgently") and "privezi" ("to bring") so the key meaning lands right away.
+- 'Whatever steak we have in the restaurant.' Barinov offers an earnest attitude across the room, linking "tolko" ("only"), "yest" ("there is"), and "restorane" ("restaurant") in one brisk exchange.
+- 'I cannot talk now.' Vika strikes an unhurried direction in the scene, building the phrase around "mogu" ("can") and "govorit" ("to talk") for a crisp, natural delivery.
+- 'I am very busy.' Fedya maintains a resolute direction for Vika, linking "ochen" ("very much") directly with "zanyat" ("busy"), since Russian drops "is" and "are" in the present.
+- 'Everyone has betrayed me.' Barinov favors a brisk mood without hesitation, using "predali" (from "predat", "to betray") alongside "vse" ("all") to shape the meaning.

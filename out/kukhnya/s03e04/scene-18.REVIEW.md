@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lena, forgive me, please.' With the restaurant and point in play, Barinov keeps this short reply brisk and direct.
-- 'Have you seen my little elephant?' Asking whether Nagiyev seen his little elephant cuts straight through the tension between Barinov and Nagiyev.
-- 'Vika, did you want to talk with me?' Checking whether Nagiyev wants to talk with him is how Barinov puts Nagiyev on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What is this? Some kind of prank, huh?' With the truth and office hanging in the air, Nagiyev puts Barinov on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Well, and who am I going to punish, huh?' With the truth and restaurant hanging in the air, Nagiyev puts Barinov on the spot.
-- 'Vika, at least tell me what is going on here?' Wondering if at least tell him what is going on here shows Nagiyev caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'The only reasonable person!' With the truth and kitchen at stake, Nagiyev reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Who never stole.' Nagiyev explains that who never stole, keeping his voice calm and direct.
-- 'Never betrayed me.' Around the shift and office, Nagiyev sets a calm, everyday tone with Barinov. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Never secretly fried my zucchini.' Between the shift and the office, Nagiyev gives Barinov a quick, grounded response. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'So beautiful.' Over the moment and the office, Nagiyev answers Barinov without a second thought.
-- 'Dmitry Vladimirovich, it is time for you to go home.' Admitting that it is time for Barinov to go home shows Vika being honest for a change. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Lena, forgive me, please.' Barinov adopts a steady course in their talk, combining "prosti" ("sorry, forgive me") and "lena" ("Lena") so the key meaning lands right away.
+- 'Have you seen my little elephant?' Barinov quizzes dryly from the start, putting "videla" ("saw") alongside "slonika" ("little elephant figurine") in a tight, everyday turn of phrase.
+- 'Vika, did you want to talk with me?' Barinov queries briskly in their exchange, linking "khotela" ("wanted, meant"), "pogovorit" ("to talk"), and "vika" ("Vika") in one brisk exchange.
+- 'What is this? Some kind of prank, huh?' Nagiyev quizzes wryly in front of Vika, building the phrase around "rozygrysh" ("prank") and "chto" ("what") for a crisp, natural delivery.
+- 'Well, and who am I going to punish, huh?' Nagiyev challenges plainly from the start, anchoring the Russian line on "nakazhu" ("to punish") and "nu" ("oh, come on") without extra filler.
+- 'Vika, at least tell me what is going on here?' Nagiyev probes openly for Vika's benefit, using "skazhi" (from "skazat", "say") alongside "proiskhodit" ("is going on") to shape the meaning.
+- 'The only reasonable person!' Nagiyev sustains an easygoing rhythm as the scene unfolds, putting "yedinstvennyy" ("only") alongside "adekvatnyy" ("reasonable") in a tight, everyday turn of phrase.
+- 'Who never stole.' Nagiyev presents a clear rhythm without hesitation, combining "nikogda" ("never") and "voroval" ("stole") so the key meaning lands right away.
+- 'Never betrayed me.' Nagiyev brings a brisk bearing in the scene, putting "nikogda" ("never") alongside "predaval" ("betrayed") in a tight, everyday turn of phrase.
+- 'Never secretly fried my zucchini.' Nagiyev keeps a candid footing for Vika, weaving "nikogda" ("never") together with "kabachki" ("zucchini") just the way native speakers do.
+- 'So beautiful.' Nagiyev strikes a candid position as they talk, combining "krasivaya" ("pretty, beautiful") and "takaya" ("one like her") so the key meaning lands right away.
+- 'Dmitry Vladimirovich, it is time for you to go home.' Vika chooses an unhurried line at this moment, leaning on "pora" ("it's time") before closing the thought with "domoy" ("home").

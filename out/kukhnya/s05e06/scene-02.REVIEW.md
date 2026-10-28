@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Olive oil, two bottles.' Over the kitchen and the point, Barinov answers Lyova without a second thought.
-- 'Shrimp, one pack.' Around the kitchen and truth, Barinov sets a calm, everyday tone with Lyova.
-- 'Oysters, five pieces, salt and pepper.' With the kitchen and situation in play, Barinov keeps this short reply brisk and direct.
-- 'This is what you tried to steal this week.' Claiming that this is what Lyova tried to steal this week sounds confident, even if Lyova has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Or maybe he has kleptomania?' Asking whether maybe he has kleptomania puts Barinov right on the defensive. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Maybe he needs to be treated?' Wondering if maybe he needs to be treated shows Lyova caught off guard.
-- 'For starters, I will fire him.' Realizing that for starters he will fire him changes how Barinov handles the situation.
-- 'And after that let him get treated.' Noting that after that let him get treated keeps Barinov's side of the story simple and clear.
-- 'I will not do that anymore, I swear.' Even though he will not do that anymore he swears, Senya keeps a steady face in front of Barinov.
-- 'If you catch me one more time, fire me.' Admitting that if Barinov catches him one more time fire him shows Senya being honest for a change.
-- 'Fine.' With the moment and kitchen in play, Barinov keeps this short reply brisk and direct.
-- 'Well, this time does not count, alright?' Questioning whether this time does not count alright is how Senya tests Barinov's story.
+- 'Olive oil, two bottles.' Barinov adopts a natural stance in this beat, putting "maslo" ("butter") alongside "olivkovoye" ("olive") in a tight, everyday turn of phrase.
+- 'Shrimp, one pack.' Barinov sets a thoughtful bearing at once, combining "krevetki" ("shrimp, prawns") and "pachka" ("pack") so the key meaning lands right away.
+- 'Oysters, five pieces, salt and pepper.' Barinov shares a measured position at this moment, pairing "perets" ("pepper") with "ustritsy" ("waste") so the "-sya" ending carries the action.
+- 'This is what you tried to steal this week.' Barinov shares a brisk mood as they talk, weaving "pytalsya" ("tried") together with "ukrast" ("to steal") just the way native speakers do.
+- 'Or maybe he has kleptomania?' Lyova queries boldly to Barinov here, pairing "mozhet" ("can") with "kleptomaniya" ("kleptomania") to get the point across in plain spoken Russian.
+- 'Maybe he needs to be treated?' Lyova wonders naturally as they speak, putting "mozhet" ("can") alongside "lechit" ("to lecture") in a tight, everyday turn of phrase.
+- 'For starters, I will fire him.' Barinov shows a warm tone without hesitation, building the phrase around "nachala" ("beginning") and "uvolyu" ("will fire") for a crisp, natural delivery.
+- 'And after that let him get treated.' Barinov conveys a thoughtful line in the conversation, joining "potom" ("then") to "lechitsya" ("is treated") so every word pulls its weight.
+- 'I will not do that anymore, I swear.' Senya chooses an earnest footing toward Barinov, pairing "klyanus" ("I swear") with "bolshe" ("more") so the "-sya" ending carries the action.
+- 'If you catch me one more time, fire me.' Senya strikes an honest approach on the spot, weaving "yeshchyo" ("more, still") together with "raz" ("time, once") just the way native speakers do.
+- 'Fine.' Barinov conveys an unhurried course in their talk, using "khorosho" ("good, fine") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Well, this time does not count, alright?' Senya presses firmly beside Lyova, joining "raz" ("time, once") to "schyot" ("counting, account") so every word pulls its weight.

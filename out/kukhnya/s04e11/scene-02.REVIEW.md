@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good, put the wardrobe right here.' Admitting that good put the wardrobe right here shows Vika being honest for a change.
-- 'Wait, let me tell them myself.' Letting him tell them himself is how Max lays out the situation for Vika. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'And what should we do with the old furniture?' Here wondering what they do with the old furniture should shows Max looking for the real truth.
-- 'Just throw it out onto the street.' With the apartment and car in play, Vika keeps this short reply brisk and direct.
-- 'Vika, let me do everything myself.' Telling Vika to let him do everything himself moves the conversation forward without extra drama. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Yes, of course, and just when will that be?' Wondering if just when will that be shows Vika caught off guard.
-- 'You have not been able to change the tires for half a year.' Mentioning that Max has not been able to change the tires for half a year moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'The car just stands there in the courtyard.' Vika reminds Max that the car just stands there in the courtyard before the moment passes.
-- 'Vika, I will definitely change them today.' Because he will definitely change them today, Max treats the matter as settled.
-- 'We will see how you do that.' Explaining that they will see how Max does lays the cards on the table for Max. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You will see, by evening everything will be ready.' Max mentions that Vika will see by evening everything will be ready so Vika sees what is at stake.
-- 'Then take the keys to the car.' Here telling Max to take the keys to the car sets up the next turn in their exchange.
+- 'Good, put the wardrobe right here.' Vika projects a pointed attitude in the scene, linking "khorosho" ("good, fine"), "stavte" ("to put, to place"), and "shkaf" ("wardrobe") in one brisk exchange.
+- 'Wait, let me tell them myself.' Max projects a pointed tone in the conversation, linking "podozhdi" ("wait"), "davay" ("let's"), and "skazhu" ("I'll tell") in one brisk exchange.
+- 'And what should we do with the old furniture?' Max challenges bluntly across the room, anchoring the Russian line on "staroy" ("old") and "mebelyu" ("furniture") without extra filler.
+- 'Just throw it out onto the street.' Vika picks a grounded course in this beat, combining "prosto" ("just") and "vybrosit" ("to throw out") so the key meaning lands right away.
+- 'Vika, let me do everything myself.' Max keeps an earnest view at this moment, anchoring the Russian line on "davay" ("let's") and "sdelayu" ("I'll do") without extra filler.
+- 'Yes, of course, and just when will that be?' Vika presses sharply beside Max, leaning on "konechno" ("of course") before closing the thought with "kogda" ("when").
+- 'You have not been able to change the tires for half a year.' Vika shares an honest note on the spot, pairing "polgoda" ("six months") with "rezinu" ("tires") to get the point across in plain spoken Russian.
+- 'The car just stands there in the courtyard.' Vika sustains a playful approach in this beat, linking "mashina" ("a car"), "stoit" ("is parked"), and "dvore" ("yard, courtyard") in one brisk exchange.
+- 'Vika, I will definitely change them today.' Max displays a thoughtful tempo in this beat, pairing "segodnya" ("today") with "obyazatelno" ("surely, without fail") to get the point across in plain spoken Russian.
+- 'We will see how you do that.' Vika favors a sharp stance during the exchange, using "posmotrim" (from "posmotret", "have a look") alongside "kak" ("how") to shape the meaning.
+- 'You will see, by evening everything will be ready.' Max shows a clear position with Vika, using "uvidish" (from "uvidet", "see") alongside "vecherom" ("in the evening") to shape the meaning.
+- 'Then take the keys to the car.' Vika takes a frank stance at this moment, linking "togda" ("back then"), "beri" ("take, grab"), and "klyuchi" ("the keys") in one brisk exchange.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, sit down quickly at the table next to us!' Telling Barinov to sit down quickly at the table next to them is Katya's blunt reaction in front of Barinov. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Take a free chair, there is tasty sausage and salads here.' Taking a free chair there is tasty sausage and salads here moves the conversation forward without extra drama.
-- 'Eva, sit down with us, the workday is finished!' Once German should sit down with them the workday is finished, Barinov makes sure German hears every word.
-- 'Ainura, why are you standing there so sad, come here!' Declaring that why are German standing there so sad come here brings Barinov's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'German Mikhailovich, come join us at the table too.' Noting that Barinov should come join them at the table keeps Katya's side of the story simple and clear.
-- 'Come on, really, everyone is already waiting for you!' Coming on really everyone is already waiting for German shows Barinov is done holding back.
-- 'Well all right, thank you very much for the invitation.' Around the truth and table, German sets a calm, everyday tone with Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Now that is another matter entirely, pour for everyone!' Because that is another matter entirely pour for everyone, Barinov does not bother softening the blow for German. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Chef, let's bury the hatchet for today.' Proposing that they bury the hatchet for today is how German lays out the situation for Barinov.
-- 'Senya, pour for the guests quickly, do not drag it out!' Barinov declares that German should pour for the guests quickly do not drag it out as the tension in the room peaks. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Lyova, and tasty compote for you, you are driving!' Declaring that tasty compote for Barinov Barinov is driving brings Katya's temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Friends, we raise our glasses, we drink to our chef!' Here raising their glasses they drink lets German's real feelings break through.
+- 'Denis, sit down quickly at the table next to us!' Katya holds a firm rhythm right away, weaving "sadis" ("sit down") together with "skoreye" ("quickly, right away") just the way native speakers do.
+- 'Take a free chair, there is tasty sausage and salads here.' Barinov holds a wry position as the scene unfolds, linking "beri" ("take, grab"), "svobodnyy" ("free"), and "stul" ("chair") in one brisk exchange.
+- 'Eva, sit down with us, the workday is finished!' Barinov establishes a steady position at this moment, linking "sadis" ("sit down"), "rabochiy" ("working"), and "den" ("day") in one brisk exchange.
+- 'Ainura, why are you standing there so sad, come here!' Barinov favors a warm view in this beat, weaving "stoish" ("stand") together with "grustnaya" ("sad") just the way native speakers do.
+- 'German Mikhailovich, come join us at the table too.' Katya picks a pointed stance on the spot, pairing "poydyomte" ("come on, let's go") with "tozhe" ("too") to get the point across in plain spoken Russian.
+- 'Come on, really, everyone is already waiting for you!' Barinov sets a calm note right away, leaning on "idyomte" ("let us go") before closing the thought with "samom" ("very").
+- 'Well all right, thank you very much for the invitation.' German projects a resolute mood in the conversation, pairing "khorosho" ("good, fine") with "spasibo" ("thank you") to get the point across in plain spoken Russian.
+- 'Now that is another matter entirely, pour for everyone!' Barinov offers an easygoing direction at once, linking "sovsem" ("at all"), "drugoye" ("another, other"), and "delo" ("matter") in one brisk exchange.
+- 'Chef, let's bury the hatchet for today.' German brings a wry approach toward Barinov, combining the polite invitation "davayte" ("let us") with "segodnya" ("today") to give the line its natural spoken rhythm.
+- 'Senya, pour for the guests quickly, do not drag it out!' Barinov takes a steady manner without hesitation, using "davay" (from "davat", "let's") alongside "bystreye" ("faster") to shape the meaning.
+- 'Lyova, and tasty compote for you, you are driving!' Katya presents a firm stance in their talk, linking "vkusnyy" ("delicious") directly with "kompot" ("compote"), since Russian drops "is" and "are" in the present.
+- 'Friends, we raise our glasses, we drink to our chef!' German offers a candid tone at this moment, using "druzya" (from "drug", "friends") alongside "podnimayem" ("to raise") to shape the meaning.

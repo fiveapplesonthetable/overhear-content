@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Someone make me a tuna sandwich.' Between the conversation and the phone, Vika gives Max a quick, grounded response.
-- 'We will make it right now, Victoria Sergeyevna.' Since they will make it right now Victoria Sergeyevna, Max does not waste words on excuses.
-- 'You said you were leaving, you deceived me again.' Mentioning that Max said Max was leaving Max deceived her again moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Just as you deceived me.' Around the work and car, Max sets a calm, everyday tone with Vika.
-- 'I know for sure that this is my child.' Explaining that he knows for sure that this is his child lays the cards on the table for Vika. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I personally heard how you told this to your sister.' Explaining that he personally heard how Vika told this to Vika's sister lays the cards on the table for Vika. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I am staying for the sake of Yevgeny Maximovich Lavrov.' Mentioning that he is staying for the sake of Lavrov moves the talk in a new direction.
-- 'Sounds great, right?' When Max asks if sounds great right, Vika has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Disgusting.' Between the work and the car, Vika gives Max a quick, grounded response.
-- 'That is alright, you will get used to it.' Max explains that that is alright Vika will get used to it, keeping his voice calm and direct.
-- 'You need to stop driving behind the wheel.' Realizing that Vika needs to stop driving behind the wheel changes how Max handles the situation. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'It is dangerous for the baby.' Noting that it is dangerous for the baby keeps Max's side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Someone make me a tuna sandwich.' Vika holds a warm bearing in this beat, building the phrase around "sdelayte" ("make") and "buterbrod" ("sandwich") for a crisp, natural delivery.
+- 'We will make it right now, Victoria Sergeyevna.' Max keeps a clear angle as they talk, weaving "seychas" ("now") together with "sdelayem" ("we'll do") just the way native speakers do.
+- 'You said you were leaving, you deceived me again.' Vika chooses an honest manner for Max, combining "skazal" ("said") and "uyezzhayesh" ("are leaving") so the key meaning lands right away.
+- 'Just as you deceived me.' Max chooses a direct angle across the room, joining "kak" ("how") to "ty" ("you") so every word pulls its weight.
+- 'I know for sure that this is my child.' Max favors an earnest tempo during the exchange, joining "tochno" ("definitely") to "znayu" ("know") so every word pulls its weight.
+- 'I personally heard how you told this to your sister.' Max maintains an earnest direction toward Vika, combining "lichno" ("personally") and "slyshal" ("heard") so the key meaning lands right away.
+- 'I am staying for the sake of Yevgeny Maximovich Lavrov.' Max favors a measured manner at this moment, weaving "ostayus" ("am staying") together with "ya" ("I") just the way native speakers do.
+- 'Sounds great, right?' Max wonders pointedly across the room, pairing "klassno" ("great, cool") with "zvuchit" ("sounds") to get the point across in plain spoken Russian.
+- 'Disgusting.' Vika takes a thoughtful note as they talk, putting all the weight on "otvratitelno" ("disgusting") so the reply lands immediately.
+- 'That is alright, you will get used to it.' Max conveys an emphatic angle during the exchange, joining "privyknesh" ("will get used to it") to "nichego" ("nothing") so every word pulls its weight.
+- 'You need to stop driving behind the wheel.' Max picks a resolute rhythm in the conversation, weaving "nuzhno" ("necessary") together with "prekratit" ("to stop, put an end to") just the way native speakers do.
+- 'It is dangerous for the baby.' Max chooses a direct direction at this moment, anchoring the Russian line on "opasno" ("dangerous") and "rebyonka" ("child") without extra filler.

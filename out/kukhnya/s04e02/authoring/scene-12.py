@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e02.ru.srt'
 INTRO = "Lifting the cloche on the prank dish, Viktor explodes in the dining room, causing Nagiyev to call security and fire Denis, while outside in the courtyard Elena Pavlovna witnesses the aftermath. Let's hear the Russian dialogue."
 OPENER = 'Time to unpack every phrase from the exchange you just heard.'
 TRANSITION = "Now let's replay the complete scene in Russian without interruption."
-OUTRO = "That completes Viktor's outburst in the dining room and his conversation with Elena Pavlovna outside. Notice how Russian uses dative pronouns with adjectives of need. See you next time!"
+OUTRO = "That completes Viktor's outburst in the dining room and his conversation with Elena Pavlovna outside. Notice how Russian uses indirect forms with descriptive words of need. See you next time!"
 CLOSING = ('elena', 'До завтра!')
 STORY = [
     ('barinov', 'Это вы мне это приготовили!', 'You are the ones who cooked this for me!', [(157, 'Это вы!'), (158, 'мне это приготовили!')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Я что, похож на человека, которому нужна помощь?', 'Do I look like a man who needs help?', [(170, 'Я что, похож на человека, которому нужна помощь?')], ''),
 ]
 WALK = [
-    (0, None, '\'You are the ones who cooked this for me!\' Barinov insists that Elena is the ones who cooked this for him, leaving Elena no room to argue. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (1, None, "'Security, quickly escort him out of here!' With the job and shift at stake, Nagiyev reacts without holding back."),
-    (2, None, '\'You cannot throw me out that easily, got it?\' Barinov asks whether Elena cannot throw him out that easily got it, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (3, None, "'They will escort you out alright.' Since they will escort Barinov out alright, Nagiyev does not waste words on excuses."),
-    (4, None, "'I never want to see Barinov in here ever again.' Mentioning that he never wants to see Barinov in here ever again moves the talk in a new direction."),
-    (5, None, '\'You do not work here anymore.\' Saying that Barinov does not work here anymore is how Nagiyev sets the tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (6, None, "'Hey, take it easy!' Barinov insists that Elena should take it easy, leaving Elena no room to argue. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (7, None, "'Viktor Petrovich, are you alright?' Here checking whether Barinov alright shows Elena looking for the real truth."),
-    (8, None, "'Completely fine.' With the shift and scandal in play, Barinov keeps this short reply brisk and direct."),
-    (9, None, "'And this pit will rot without me.' Claiming that this pit will rot without him sounds confident, even if Elena has doubts."),
-    (10, None, "'Vitya, if you need a job, I can help.' Pointing out that if Barinov needs a job she can help gives Barinov a sobering reality check."),
-    (11, None, '\'Do I look like a man who needs help?\' Here asking whether he looks like a man who needs help shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (0, None, '\'You are the ones who cooked this for me!\' Barinov adopts a frank tone at this moment, leaning on "prigotovili" ("cooked, prepared") before closing the thought with "eto" ("this").'),
+    (1, None, '\'Security, quickly escort him out of here!\' Nagiyev sustains a direct footing across the room, putting "okhrana" ("security, the guards") alongside "skoreye" ("quickly, right away") in a tight, everyday turn of phrase.'),
+    (2, None, '\'You cannot throw me out that easily, got it?\' Barinov checks pointedly in the scene, putting "prosto" ("just") alongside "vyvedesh" ("to got") in a tight, everyday turn of phrase.'),
+    (3, None, '\'They will escort you out alright.\' Nagiyev displays a clear attitude beside Elena, putting all the weight on "vyvedesh" ("to got") so the reply lands immediately.'),
+    (4, None, '\'I never want to see Barinov in here ever again.\' Nagiyev projects a calm approach with Barinov, joining "zdes" ("here") to "bolshe" ("more") so every word pulls its weight.'),
+    (5, None, '\'You do not work here anymore.\' Nagiyev shows a calm line on the spot, putting "bolshe" ("more") alongside "zdes" ("here") in a tight, everyday turn of phrase.'),
+    (6, None, '\'Hey, take it easy!\' Barinov adopts a lively posture on the spot, anchoring the Russian line on "polegche" ("easier, better") and "ey" ("hey") without extra filler.'),
+    (7, None, '\'Viktor Petrovich, are you alright?\' Elena probes sharply toward Nagiyev here, combining "poryadke" ("order") and "viktor" ("Viktor") so the key meaning lands right away.'),
+    (8, None, '\'Completely fine.\' Barinov displays a grounded mood without hesitation, letting the single Russian word "polnom" ("full") carry the entire reaction on its own.'),
+    (9, None, '\'And this pit will rot without me.\' Barinov brings a candid bearing straight away, joining "yama" ("pit, pothole") to "sgniyot" ("without") so every word pulls its weight.'),
+    (10, None, '\'Vitya, if you need a job, I can help.\' Elena strikes a steady note in the conversation, joining "nuzhna" ("needed") to "rabota" ("job") so every word pulls its weight.'),
+    (11, None, '\'Do I look like a man who needs help?\' Barinov probes candidly in the room, building the phrase around "pokhozh" ("look like, similar") and "cheloveka" ("a man, a person") for a crisp, natural delivery.'),
 ]

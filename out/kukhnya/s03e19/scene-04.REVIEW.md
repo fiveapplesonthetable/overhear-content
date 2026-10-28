@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, Katya, is there something going on between you and Max?' Here checking whether there something going on between Barinov and Max shows Max looking for the real truth.
-- 'There is nothing between us and there never was.' Noting that there is nothing between them and there never was keeps Max's side of the story simple and clear. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Bon appétit to me! Vitya, what did you want?' With the plan and bet hanging in the air, Nagiyev puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Well, I wanted to settle one little question with you.' Admitting that he wanted to settle one little question with Max shows Barinov being honest for a change.
-- 'But then I remembered that Andrey decides everything now.' Saying that he remembered that Andrey decides everything now is how Barinov sets the tone with Max.
-- 'Sit down at the table, what is your question?' When Nagiyev asks if sit down at the table what is Barinov's question, Barinov has to answer fast. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Ask him not to touch our homeless man.' Once Max should ask him not to touch their homeless man, Barinov can finally tell Max what he means.
-- 'We have a homeless man? The one who lives in the courtyard?' Asking whether they have a homeless man puts Barinov right on the defensive. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'He does not remember at all who he is or where he is from.' Since he does not remember at all who he is or where he is, Barinov does not waste words on excuses.
-- 'Do not worry, he is healthy, we got him his shots.' Mentioning that do not worry he is healthy they got him his shots moves the talk in a new direction.
-- 'Although Andrey is unlikely to listen to you at all.' Barinov reminds Max that although Andrey is unlikely to listen to Max at all before the moment passes. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Why are you getting on my nerves? Check the clock!' Asking why Barinov getting on his nerves is is how Nagiyev puts Barinov on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Listen, Katya, is there something going on between you and Max?' Max presses lightly on the spot, combining "u tebya" (literally "by you") with "slushay" ("listen") rather than a separate word for "have".
+- 'There is nothing between us and there never was.' Max offers an unhurried manner right away, joining "nikogda" ("never") to "bylo" ("was") so every word pulls its weight.
+- 'Bon appétit to me! Vitya, what did you want?' Nagiyev inquires firmly without a pause, weaving "priyatnogo" ("pleasant") together with "appetita" ("appetite") just the way native speakers do.
+- 'Well, I wanted to settle one little question with you.' Barinov maintains a grounded direction in the conversation, anchoring the Russian line on "khotel" ("wanted") and "voprosik" ("little question") without extra filler.
+- 'But then I remembered that Andrey decides everything now.' Barinov conveys a thoughtful tempo with Max, building the phrase around "potom" ("then") and "vspomnil" ("remembered") for a crisp, natural delivery.
+- 'Sit down at the table, what is your question?' Nagiyev probes honestly toward Max here, anchoring the Russian line on "sadis" ("sit down") and "stol" ("table") without extra filler.
+- 'Ask him not to touch our homeless man.' Barinov establishes an honest approach during the exchange, putting "poprosi" ("ask") alongside "bomzha" ("homeless man") in a tight, everyday turn of phrase.
+- 'We have a homeless man? The one who lives in the courtyard?' Nagiyev tests promptly with Max now, linking "yest" ("there is"), "bomzh" ("homeless man"), and "dvore" ("yard, courtyard") in one brisk exchange.
+- 'He does not remember at all who he is or where he is from.' Barinov picks a playful posture toward Max, anchoring the Russian line on "sovsem" ("at all") and "pomnit" ("remembers") without extra filler.
+- 'Do not worry, he is healthy, we got him his shots.' Barinov takes a candid course across the room, anchoring the Russian line on "volnuysya" ("worry") and "zdorovyy" ("healthy") without extra filler.
+- 'Although Andrey is unlikely to listen to you at all.' Barinov shows a lively direction on the spot, joining "vryad" ("hardly, unlikely") to "voobshche" ("at all") so every word pulls its weight.
+- 'Why are you getting on my nerves? Check the clock!' Nagiyev inquires openly as the beat lands, using "nervam" (from "nerv", "on the nerves") alongside "khodish" ("can walk, are walking") to shape the meaning.

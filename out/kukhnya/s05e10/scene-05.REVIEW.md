@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is something wrong?' Here checking whether something wrong shows Mikhail looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Your corridor must be five centimeters wider.' The inspector mentions that Mikhail's corridor must be five centimeters wider so Mikhail sees what is at stake. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Everything is fixed!' Mikhail declares that everything is fixed as the tension in the room peaks.
-- 'The bed is rumpled.' Pointing out that the bed is rumpled gives Mikhail a sobering reality check.
-- 'Room housekeeping is three points.' The inspector explains that room housekeeping is three points, keeping his voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Those are such trifles!' Once those are such trifles, Mikhail makes sure the inspector hears every word.
-- 'Everything with us is excellent, worthy of five stars.' Noting that everything with them is excellent worthy of five stars keeps Mikhail's side of the story simple and clear. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'We did not know that this suite was occupied.' Even though they did not know that this suite was occupied, Mikhail keeps a steady face in front of the inspector.
-- 'Let us proceed to another one.' By proposing that they proceed to another one, Mikhail keeps his side of the story grounded.
-- 'Are you not aware?' By asking whether Mikhail not aware, the inspector presses Mikhail for a straight answer. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Which rooms of yours are vacant and which are occupied?' Wondering if which rooms of Mikhail's are vacant and which are occupied shows the inspector caught off guard. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'We will check everything right now!' Insisting that they will check everything right now shows Mikhail is not backing down.
+- 'Is something wrong?' Mikhail quizzes bluntly to keep things clear, joining "chto-to" ("somehow") to "ne" ("not") so every word pulls its weight.
+- 'Your corridor must be five centimeters wider.' The inspector picks an honest rhythm at this moment, combining "koridor" ("hall, corridor") and "dolzhen" ("has to, must") so the key meaning lands right away.
+- 'Everything is fixed!' Mikhail shares a warm tempo at once, anchoring the Russian line on "ispravleno" ("fixed, corrected") and "vsyo" ("everything") without extra filler.
+- 'The bed is rumpled.' The inspector keeps a resolute posture in the conversation, pairing "postel" ("bed") with "pomyata" ("rumpled, wrinkled") to get the point across in plain spoken Russian.
+- 'Room housekeeping is three points.' The inspector offers an emphatic stance straight away, joining "uborka" ("cleaning, clean-up") to "nomerov" ("of rooms") so every word pulls its weight.
+- 'Those are such trifles!' Mikhail sets a clear style as they talk, anchoring the Russian line on "pustyaki" ("trifles, minor things") and "eto" ("this") without extra filler.
+- 'Everything with us is excellent, worthy of five stars.' Mikhail keeps a frank tack at this moment, putting "otlichno" ("perfect, great") alongside "zvyozd" ("stars") in a tight, everyday turn of phrase.
+- 'We did not know that this suite was occupied.' Mikhail displays a measured manner for the inspector, leaning on "znali" ("to know") before closing the thought with "lyuks" ("luxury suite").
+- 'Let us proceed to another one.' Mikhail favors a brisk course toward the inspector, weaving "proydyomte" ("let's go, come with me") together with "drugoy" ("other") just the way native speakers do.
+- 'Are you not aware?' The inspector probes honestly in their exchange, anchoring the Russian line on "kurse" ("course, regimen") and "vy" ("you") without extra filler.
+- 'Which rooms of yours are vacant and which are occupied?' The inspector checks warmly at this point, weaving "nomera" ("number, phone number") together with "svobodny" ("free") just the way native speakers do.
+- 'We will check everything right now!' Mikhail holds a thoughtful mood in the scene, leaning on "seychas" ("now") before closing the thought with "proverim" ("we will check").

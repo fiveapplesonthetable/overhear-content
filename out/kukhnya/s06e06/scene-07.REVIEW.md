@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, you speak French well after all.' Ainura explains that Barinov speaks French well after all, keeping her voice calm and direct.
-- 'Here, we almost sent this to the cleaners with the jacket.' Realizing that here they almost sent this to the cleaners with the jacket changes how Ainura handles the situation.
-- 'Read it, maybe he is some kind of spy?' When Ainura asks if read it maybe he is some kind of spy, Barinov has to answer fast. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Olivier Dubois is a Michelin inspector!' Insisting that Olivier is a Michelin inspector shows Barinov is not backing down.
-- 'So he really is a foreign spy?' Asking whether he really is a foreign spy puts Barinov right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, Ainura, this is much worse!' Declaring that this is much worse brings Barinov's temper right to the surface. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'What diagnosis are we going to give?' Questioning whether what diagnosis are they going to give is how Ainura tests Barinov's story.
-- 'That is what I am paying you money for.' Adding that that is what he is paying Ainura money fills in the missing piece for Ainura. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Mom, hello, what happened to you?' Over the truth and the inspector, Katya presses Ainura for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Doctor, what is wrong with my mother right now?' Wondering if doctor what is wrong with her mother right now shows Ainura caught off guard.
-- 'She had a severe blood pressure spike today.' Mentioning that she had a severe blood pressure spike today moves the talk in a new direction. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'And what now, does she need a hospital?' Questioning whether what now does she need a hospital is how Katya tests Ainura's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Chef, you speak French well after all.' Ainura conveys a candid direction without hesitation, building the phrase around "po-frantsuzski" ("in French") and "khorosho" ("good, fine") for a crisp, natural delivery.
+- 'Here, we almost sent this to the cleaners with the jacket.' Ainura establishes a grounded position in this beat, leaning on "chut" ("almost, nearly") before closing the thought with "vmeste" ("together").
+- 'Read it, maybe he is some kind of spy?' Ainura wonders dryly toward Barinov here, joining "prochitay" ("to read") to "mozhet" ("can") so every word pulls its weight.
+- 'Olivier Dubois is a Michelin inspector!' Barinov sets a thoughtful direction at this moment, anchoring the Russian line on "inspektor" ("inspector") and "olivye" ("Olivier") without extra filler.
+- 'So he really is a foreign spy?' Ainura inquires promptly for Barinov's benefit, anchoring the Russian line on "znachit" ("then, so") and "pravda" ("honestly") without extra filler.
+- 'No, Ainura, this is much worse!' Barinov sustains a serious course right away, combining "namnogo" ("much, far") and "khuzhe" ("worse") so the key meaning lands right away.
+- 'What diagnosis are we going to give?' Ainura challenges quietly without hesitation, putting "budem" ("will") alongside "stavit" ("to put, to place") in a tight, everyday turn of phrase.
+- 'That is what I am paying you money for.' Barinov displays a steady style as the scene unfolds, leaning on "dengi" ("money") before closing the thought with "plachu" ("pay").
+- 'Mom, hello, what happened to you?' Katya quizzes warmly to make the point, weaving "mama" ("mum, mother") together with "sluchilos" ("happened") just the way native speakers do.
+- 'Doctor, what is wrong with my mother right now?' Ainura wonders pointedly in the scene, joining "doktor" ("Doctor") to "seychas" ("now") so every word pulls its weight.
+- 'She had a severe blood pressure spike today.' Barinov shows an emphatic bearing beside Ainura, putting "segodnya" ("today") alongside "silnyy" ("the strong") in a tight, everyday turn of phrase.
+- 'And what now, does she need a hospital?' Katya presses briskly toward Barinov here, building the phrase around "teper" ("now") and "nuzhna" ("needed") for a crisp, natural delivery.

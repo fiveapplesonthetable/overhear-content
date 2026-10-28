@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where did you come here from?' Here asking where Kristina comes here shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'From Voronezh.' With the plan and moment in play, Nastya keeps this short reply brisk and direct.
-- 'What is your name?' Asking what Max's name is cuts straight through the tension between Kristina and Max.
-- 'Take your hand off!' Because Kristina should take Kristina's hand off, Max does not bother softening the blow for Kristina. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Your real name!' Between the job and the room, Nastya delivers a sharp reaction. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Tell that Kristina to go to hell.' Telling that Kristina to go to hell is how Kristina lays out the situation for Max.
-- 'Come on now.' Pointing out that Kristina should come on now gives Kristina a sobering reality check.
-- 'We will find a new job.' Since they will find a new job, Nastya does not waste words on excuses.
-- 'You are not an animal, after all.' Mentioning that Max is not an animal after all moves the talk in a new direction.
-- 'To be forced into something just like that.' With the room and work in play, Max keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well, yes.' Around the room and point, Nastya sets a calm, everyday tone with Kristina.
-- 'All right, I will go talk to her.' Explaining that all right she will go talk lays the cards on the table for Max.
-- 'Lavrov, did I warn you?' Here checking whether he warns Kristina shows Max looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Where did you come here from?' Max inquires wryly to keep things clear, pairing "otkuda" ("where from") with "priyekhal" ("came") to get the point across in plain spoken Russian.
+- 'From Voronezh.' Nastya strikes a pointed style beside Max, putting "iz" ("from, out of") alongside "voronezha" ("Voronezh") in a tight, everyday turn of phrase.
+- 'What is your name?' Kristina checks candidly in the room, leaning on "kak" ("how") before closing the thought with "zovut" ("call").
+- 'Take your hand off!' Max strikes a steady attitude without hesitation, using "ruku" (from "ruka", "hand") alongside "uberi" ("take away, put away") to shape the meaning.
+- 'Your real name!' Nastya conveys a candid posture with Kristina, leaning on "nastoyashcheye" ("real") before closing the thought with "imya" ("name").
+- 'Tell that Kristina to go to hell.' Kristina favors a sharp angle in the room, using "poshli" (from "poyti", "let's go") alongside "ty" ("you") to shape the meaning.
+- 'Come on now.' Max favors a resolute footing in the room, combining "da" ("yes") and "ladno" ("all right") so the key meaning lands right away.
+- 'We will find a new job.' Nastya strikes a frank stance at this moment, building the phrase around "rabotu" ("job") and "novuyu" ("new") for a crisp, natural delivery.
+- 'You are not an animal, after all.' Kristina picks a sharp mood at once, placing "zhivotnoye" ("animal") straight beside "ty" ("you") with no word for "to be" needed.
+- 'To be forced into something just like that.' Max favors a direct rhythm right away, building the phrase around "prosto" ("just") and "zastavit" ("to force, make") for a crisp, natural delivery.
+- 'Well, yes.' Nastya maintains a sharp tone during the exchange, pairing "nu" ("oh, come on") with "da" ("yes") to get the point across in plain spoken Russian.
+- 'All right, I will go talk to her.' Kristina conveys a sharp position for Nastya, combining the easygoing tag "ladno" ("okay, fine") with "pogovoryu" ("I'll talk") to give the line its natural spoken rhythm.
+- 'Lavrov, did I warn you?' Max challenges quietly across the room, pairing "preduprezhdal" ("warned") with "lavrov" ("Lavrov") to get the point across in plain spoken Russian.

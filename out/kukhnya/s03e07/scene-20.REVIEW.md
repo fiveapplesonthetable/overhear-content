@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, we brought you a delicious lunch.' Claiming that they brought Kostya a delicious lunch sounds confident, even if Kostya has doubts. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Thank you very much, pleasant appetite to everyone.' Between the work and the room, Max gives Kostya a quick, grounded response.
-- 'Tell us, how are things with you?' Asking whether tell them how are things with Kostya puts Kostya right on the defensive.
-- 'Everything is fine, our factory is working, everything is going well.' Realizing that everything is fine their factory is working everything is going well changes how Kostya handles the situation.
-- 'Alright, you eat, and we will head out now.' Noting that Alright Kostya eats and they will head out now keeps Nastya's side of the story simple and clear. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'We still need to pick up the kids from school.' Over the point and the work, Nastya answers Kostya without a second thought.
-- 'The car does not just drive now, it flies!' Max insists that the car does not just drive now it flies, leaving Kostya no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I should have thought earlier, Vika.' Saying that he should have thought earlier is how Max sets the tone with Kostya. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'At times we need to make a difficult decision.' Around the point and situation, Max sets a calm, everyday tone with Kostya.
-- 'A decision on which our fate will depend.' Adding that a decision on which their fate will depend fills in the missing piece for Kostya.
-- 'To make a person happy, it is more right to let them go.' Max tells Kostya that to make a person happy it is more right to let them go without dressing it up.
-- 'Yes, that way it will be much better.' Since that way it will be much better, Max does not waste words on excuses.
+- 'Look, we brought you a delicious lunch.' Nastya chooses an easygoing view as the scene unfolds, anchoring the Russian line on "smotrite" ("look") and "vkusnyy" ("delicious") without extra filler.
+- 'Thank you very much, pleasant appetite to everyone.' Max presents a warm style toward Nastya, combining "spasibo" ("thank you") and "bolshoye" ("big, very much") so the key meaning lands right away.
+- 'Tell us, how are things with you?' Max inquires pointedly in their exchange, using "skazhite" (from "skazat", "tell") alongside "kak" ("how") to shape the meaning.
+- 'Everything is fine, our factory is working, everything is going well.' Kostya sets a calm direction in this beat, pairing "normalno" ("fine, OK") with "zavod" ("factory, plant") to get the point across in plain spoken Russian.
+- 'Alright, you eat, and we will head out now.' Nastya chooses a brisk tack in front of Kostya, using "kushayte" (from "kushat", "eat") alongside "seychas" ("now") to shape the meaning.
+- 'We still need to pick up the kids from school.' Nastya brings a warm tempo in the conversation, weaving "yeshchyo" ("more, still") together with "detey" ("children") just the way native speakers do.
+- 'The car does not just drive now, it flies!' Max conveys a direct position straight away, building the phrase around "mashina" ("a car") and "teper" ("now") for a crisp, natural delivery.
+- 'I should have thought earlier, Vika.' Max strikes a warm view in their talk, linking "ranshe" ("earlier, previously"), "nado" ("it is necessary"), and "bylo" ("was") in one brisk exchange.
+- 'At times we need to make a difficult decision.' Max picks a playful tempo right away, combining "poroy" ("at times, occasionally") and "nuzhno" ("necessary") so the key meaning lands right away.
+- 'A decision on which our fate will depend.' Max takes a steady rhythm for Nastya, building the phrase around "resheniye" ("decision") and "budet" ("will be") for a crisp, natural delivery.
+- 'To make a person happy, it is more right to let them go.' Max chooses an honest tack in the conversation, linking "sdelat" ("to do"), "cheloveka" ("a man, a person"), and "schastlivym" ("happy") in one brisk exchange.
+- 'Yes, that way it will be much better.' Max chooses a playful tone in this beat, combining "budet" ("will be") and "namnogo" ("much, far") so the key meaning lands right away.

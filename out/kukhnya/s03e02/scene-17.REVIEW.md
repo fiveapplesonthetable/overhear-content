@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, I understand we will not manage to reach an agreement.' Nagiyev reminds Kristina that he understands they will not manage to reach an agreement before the moment passes.
-- 'In dividing the property we will act according to the law.' Noting that in dividing the property they will act according to the law keeps Kristina's side of the story simple and clear.
-- 'Well, all right.' Over the dish and the restaurant, Nagiyev answers Kristina without a second thought.
-- 'Since you have started to rob me, let me treat you to lunch.' Admitting that since Kristina has started to rob him let him treat Kristina to lunch shows Nagiyev being honest for a change. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'We have molecular cuisine.' Saying that they have molecular cuisine is how Nagiyev sets the tone with Kristina. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'A delight! Molecule to molecule.' With the conversation and point at stake, Nagiyev reacts without holding back.
-- 'Vitya, how well-timed! Can you spare a second?' Checking whether Kristina spare a second cuts straight through the tension between Nagiyev and Kristina. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Please prepare for us that dish with the pearls.' Telling Kristina to prepare for them that dish with the pearls is how Nagiyev lays out the situation for Kristina.
-- 'Here, two portions for our guests.' With the restaurant and dish in play, Nagiyev keeps this short reply brisk and direct.
-- 'And do not spare the secret ingredient.' Mentioning that do not spare the secret ingredient moves the talk in a new direction.
-- 'In short, just like for yourself.' Between the restaurant and the shift, Nagiyev gives Kristina a quick, grounded response.
-- 'Off you go.' Because off Kristina goes, Nagiyev treats the matter as settled.
+- 'Well, I understand we will not manage to reach an agreement.' Nagiyev favors a firm rhythm as the scene unfolds, pairing "dogovoritsya" ("to reach an agreement") with "ponimayu" ("understand") so the "-sya" ending carries the action.
+- 'In dividing the property we will act according to the law.' Kristina presents a firm direction in this beat, combining "razdele" ("division") and "imushchestva" ("property, assets") so the key meaning lands right away.
+- 'Well, all right.' Nagiyev maintains a playful manner at once, pairing "nu" ("oh, come on") with "ladno" ("all right") to get the point across in plain spoken Russian.
+- 'Since you have started to rob me, let me treat you to lunch.' Nagiyev projects a sharp angle at once, linking "raz" ("time, once"), "ograbit" ("to rob"), and "nachali" ("started") in one brisk exchange.
+- 'We have molecular cuisine.' Nagiyev picks a pointed footing as the scene unfolds, putting "molekulyarnaya" ("molecular") alongside "kukhnya" ("kitchen") in a tight, everyday turn of phrase.
+- 'A delight! Molecule to molecule.' Nagiyev presents a serious manner straight away, anchoring the Russian line on "prelest" ("charm, delight") and "molekula" ("molecule") without extra filler.
+- 'Vitya, how well-timed! Can you spare a second?' Nagiyev wonders openly across the room, pairing "kak" ("how") with "udachno" ("successfully") to get the point across in plain spoken Russian.
+- 'Please prepare for us that dish with the pearls.' Nagiyev shows a pointed stance beside Kristina, weaving "prigotov" ("prepare") together with "blyudo" ("dish") just the way native speakers do.
+- 'Here, two portions for our guests.' Nagiyev brings a pointed bearing in this beat, leaning on "gostey" ("guests") before closing the thought with "portsii" ("portions").
+- 'And do not spare the secret ingredient.' Nagiyev sustains a direct angle toward Kristina, building the phrase around "sekretnogo" ("secret") and "ingrediyenta" ("ingredient") for a crisp, natural delivery.
+- 'In short, just like for yourself.' Nagiyev sustains a candid stance during the exchange, weaving "obshchem" ("short, so") together with "kak" ("how") just the way native speakers do.
+- 'Off you go.' Nagiyev conveys a frank course in the conversation, letting the single Russian word "stupay" ("go on, off you go") carry the entire reaction on its own.

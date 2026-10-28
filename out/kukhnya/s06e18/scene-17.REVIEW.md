@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I got acquainted with your nephew.' Even though he got acquainted with Eleonora's nephew, Denis keeps a steady face in front of Eleonora.
-- 'Denis, you are simply a shameless nephew!' Once Denis is simply a shameless nephew, Eleonora makes sure Denis hears every word. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You came to Moscow and kept quiet.' Saying that Denis came to Moscow and kept quiet is how Eleonora sets the tone with Denis.
-- 'You did not even call your beloved aunt!' Once Denis did not even call Denis's beloved aunt, Eleonora makes sure Denis hears every word. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'How very much I have missed you!' Declaring that how very much she has missed Denis brings Eleonora's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'I missed you very much too, Aunt.' Over the conversation and the shift, Denis answers Eleonora without a second thought.
-- 'He was here, but he left.' Since he was here but he left, Katya does not waste words on excuses.
-- 'It seems he fell slightly ill today.' Mentioning that it seems he fell slightly ill today moves the talk in a new direction.
-- 'Strange, why did he not call?' Wondering if strange why did he not call shows Eleonora caught off guard.
-- 'Thank you for the pleasant company.' With the conversation and plan in play, Denis keeps this short reply brisk and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Mom, thank you very much right now.' Between the conversation and the room, Katya gives Denis a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'This is all because of your horse!' Declaring that this is all because of Denis's horse brings Eleonora's temper right to the surface.
+- 'I got acquainted with your nephew.' Denis keeps a measured bearing in the conversation, putting "poznakomilsya" ("to get acquainted") alongside "plemyannikom" ("nephew") in a tight, everyday turn of phrase.
+- 'Denis, you are simply a shameless nephew!' Eleonora shares a warm tack on the spot, combining the softening word "prosto" ("simply, just") with "bessovestnyy" ("shameless") to give the line its natural spoken rhythm.
+- 'You came to Moscow and kept quiet.' Eleonora picks a measured bearing beside Denis, leaning on "priyekhal" ("came") before closing the thought with "molchal" ("to be silent").
+- 'You did not even call your beloved aunt!' Eleonora picks a firm note in the scene, putting "pozvonil" ("phoned, called") alongside "lyubimoy" ("favourite, beloved") in a tight, everyday turn of phrase.
+- 'How very much I have missed you!' Eleonora displays a firm view in this beat, anchoring the Russian line on "kak" ("how") and "silno" ("strongly, much") without extra filler.
+- 'I missed you very much too, Aunt.' Denis maintains a warm style toward Katya, putting "tozhe" ("too") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
+- 'He was here, but he left.' Katya displays an emphatic style beside Denis, combining "byl" ("was") and "zdes" ("here") so the key meaning lands right away.
+- 'It seems he fell slightly ill today.' Katya brings a brisk manner toward Eleonora, weaving "kazhetsya" ("it seems, I think") together with "segodnya" ("today") just the way native speakers do.
+- 'Strange, why did he not call?' Eleonora asks pointedly to keep things clear, combining "stranno" ("strange") and "pochemu" ("why") so the key meaning lands right away.
+- 'Thank you for the pleasant company.' Denis shows a brisk stance toward Katya, pairing "spasibo" ("thank you") with "priyatnuyu" ("pleasant, nice") to get the point across in plain spoken Russian.
+- 'Mom, thank you very much right now.' Katya projects a pointed rhythm in the room, building the phrase around "mama" ("mum, mother") and "bolshoye" ("big, very much") for a crisp, natural delivery.
+- 'This is all because of your horse!' Eleonora displays a brisk line during the exchange, joining "loshadi" ("from the horse") to "eto" ("this") so every word pulls its weight.

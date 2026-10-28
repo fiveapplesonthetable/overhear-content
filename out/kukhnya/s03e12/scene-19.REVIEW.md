@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here you go, here is the money for last month.' Because here Max goes here is the money for last month, Kostya treats the matter as settled.
-- 'And would you like to see how we redid the nursery?' Here asking whether Max likes to see how they redid the nursery shows Kostya looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We did everything here with our own hands.' Kostya mentions that they did everything here with their own hands so Max sees what is at stake.
-- 'Except according to the lease, children and pets are not allowed in this apartment.' Claiming that except according to the lease children and pets are not allowed in this apartment sounds confident, even if Kostya has doubts.
-- 'Let us pay you extra money instead.' Realizing that they should pay Max extra money instead changes how Kostya handles the situation. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Under no circumstances, he will ruin all the walls.' Vika explains that under no circumstances he will ruin all the walls, keeping her voice calm and direct.
-- 'You live out this month, and then you move out.' Realizing that Kostya lives out this month and then Kostya moves out changes how Vika handles the situation.
-- 'And be sure to restore everything here to the way it was.' Noting that be sure to restore everything here to the way it was keeps Vika's side of the story simple and clear.
-- 'Max, and what are you doing here?' With the plan and apartment hanging in the air, Vika puts Kostya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I live in this apartment now.' Even though he lives in this apartment now, Max keeps a steady face in front of Kostya.
-- 'Nastya gave me the keys to the apartment.' Saying that Nastya gave him the keys to the apartment is how Max sets the tone with Kostya.
-- 'Alright, I will pack what is left and go.' Once Alright she will pack what is left and go, Vika can finally tell Kostya what she means.
+- 'Here you go, here is the money for last month.' Kostya sustains a lively mood at this moment, putting "dengi" ("money") alongside "proshlyy" ("last, previous") in a tight, everyday turn of phrase.
+- 'And would you like to see how we redid the nursery?' Kostya questions promptly without hesitation, weaving "khotite" ("want") together with "posmotret" ("to look up") just the way native speakers do.
+- 'We did everything here with our own hands.' Kostya holds a firm posture beside Max, combining "tut" ("here") and "sdelali" ("did, have done") so the key meaning lands right away.
+- 'Except according to the lease, children and pets are not allowed in this apartment.' Vika conveys a steady tone in front of Max, combining "tolko" ("only") and "dogovoru" ("contract, agreement") so the key meaning lands right away.
+- 'Let us pay you extra money instead.' Kostya favors a resolute tone right away, leaning on "davayte" ("let's") before closing the thought with "luchshe" ("better").
+- 'Under no circumstances, he will ruin all the walls.' Vika sustains a playful angle in front of Max, using "sluchaye" (from "sluchay", "case, event") alongside "steny" ("walls") to shape the meaning.
+- 'You live out this month, and then you move out.' Vika maintains a natural rhythm as they talk, pairing "zhivyote" ("live") with "mesyats" ("month") to get the point across in plain spoken Russian.
+- 'And be sure to restore everything here to the way it was.' Vika holds a clear note toward Max, building the phrase around "obyazatelno" ("surely, without fail") and "vernite" ("return, pay back") for a crisp, natural delivery.
+- 'Max, and what are you doing here?' Vika queries plainly in this moment, building the phrase around "zdes" ("here") and "delayesh" ("are you doing") for a crisp, natural delivery.
+- 'I live in this apartment now.' Max conveys a natural tone across the room, joining "teper" ("now") to "kvartire" ("flat") so every word pulls its weight.
+- 'Nastya gave me the keys to the apartment.' Max strikes a warm rhythm with Kostya, linking "klyuchi" ("the keys"), "kvartiry" ("flat"), and "dala" ("gave") in one brisk exchange.
+- 'Alright, I will pack what is left and go.' Vika keeps an easygoing manner at once, leaning on "soberu" ("I will pack") before closing the thought with "ostalos" ("was left").

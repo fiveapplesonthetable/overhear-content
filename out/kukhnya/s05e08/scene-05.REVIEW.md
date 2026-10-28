@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, is it ready? I will serve it myself.' Checking whether it ready cuts straight through the tension between Barinov and Katya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Damn, how do I explain everything to her?' Asking whether damn how do he explains everything puts Katya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Pops, take it easy with your words.' Between the moment and the dish, Katya gives Barinov a quick, grounded response.
-- 'Wait, are you Russian?' By checking whether Katya Russian, Barinov presses Katya for a straight answer. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Excuse me, I saw nothing, I will go redo everything.' Barinov tells Katya that he saw nothing he will go redo everything without dressing it up. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Stop, bring me a drink, huh?' With the truth and dish hanging in the air, Katya puts Barinov on the spot.
-- 'They empty the minibar in every hotel.' With the moment and shock in play, Katya keeps this short reply brisk and direct.
-- 'I cannot, they frisk everyone at the entrance.' Saying that he cannot they frisk everyone at the entrance is how Barinov sets the tone with Katya.
-- 'Help me somehow, I have been in the harem for a year already.' Katya mentions that Barinov should help her somehow she has been in the harem for a year already so Barinov sees what is at stake.
-- 'Can you imagine how badly I want a drink?' Asking whether Barinov imagines how badly she wants a drink is how Katya puts Barinov on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I can imagine, but I cannot help you with anything.' Barinov mentions that he can imagine but he cannot help Katya with anything so Katya sees what is at stake.
-- 'Otherwise I will tell my husband that you saw me naked.' Claiming that otherwise she will tell her husband that Barinov saw her naked sounds confident, even if Barinov has doubts.
+- 'Well, is it ready? I will serve it myself.' Barinov questions openly as the talk turns, leaning on "gotovo" ("ready") before closing the thought with "podam" ("will file").
+- 'Damn, how do I explain everything to her?' Barinov checks warmly on the spot, linking "chyort" ("darn, heck"), "kak" ("how"), and "obyasnit" ("to explain") in one brisk exchange.
+- 'Pops, take it easy with your words.' Katya sets a playful mood for Barinov, joining "papasha" ("daddy, pop") to "slovami" ("words") so every word pulls its weight.
+- 'Wait, are you Russian?' Barinov probes quietly in the room, anchoring the Russian line on "russkaya" ("Russian") and "vy" ("you") without extra filler.
+- 'Excuse me, I saw nothing, I will go redo everything.' Barinov chooses a steady angle right away, linking "izvinite" ("sorry, excuse me"), "videl" ("saw, have seen"), and "poydu" ("go") in one brisk exchange.
+- 'Stop, bring me a drink, huh?' Katya presses quietly in the scene, using "stoy" (from "stoyat", "stop, wait") alongside "prinesi" ("bring") to shape the meaning.
+- 'They empty the minibar in every hotel.' Katya keeps a natural posture in this beat, weaving "otelyakh" ("hotels") together with "bar" ("bar") just the way native speakers do.
+- 'I cannot, they frisk everyone at the entrance.' Barinov conveys a playful style on the spot, using "mogu" (from "moch", "can") alongside "vkhode" ("entrance") to shape the meaning.
+- 'Help me somehow, I have been in the harem for a year already.' Katya favors a brisk view toward Barinov, joining "pomogi" ("help") to "kak-nibud" ("somehow") so every word pulls its weight.
+- 'Can you imagine how badly I want a drink?' Katya prompts promptly toward Barinov here, building the phrase around "predstavlyayesh" ("can you imagine") and "kak" ("how") for a crisp, natural delivery.
+- 'I can imagine, but I cannot help you with anything.' Barinov shares an honest tack with Katya, leaning on "predstavlyayu" ("imagine, picture") before closing the thought with "smogu" ("will be able to").
+- 'Otherwise I will tell my husband that you saw me naked.' Katya offers a calm rhythm toward Barinov, building the phrase around "rasskazhu" ("will tell") and "muzhu" ("husband") for a crisp, natural delivery.

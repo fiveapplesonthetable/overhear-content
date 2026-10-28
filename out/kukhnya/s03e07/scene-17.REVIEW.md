@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How did it happen that someone calls from your phone?' Asking how it happen that someone calls from Barinov's phone is how Nagiyev puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Hello, tell me, did you call for me?' Barinov asks whether tell him did the guest calls for him, refusing to let the point slide. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Immediately explain this outrage to me.' Around the shift and phone, the guest sets a calm, everyday tone with Barinov.
-- 'Excuse me, and what are you talking about right now?' Asking what Barinov talking about right now is cuts straight through the tension between Nagiyev and Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'You understand, I am a journalist, and all of Moscow will find out about this.' Noting that Barinov understands he is a journalist and all of Moscow will find out about this keeps the guest's side of the story simple and clear. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'And no one will come to your restaurant anymore.' Even though one will come to Barinov's restaurant anymore, the guest keeps a steady face in front of Barinov.
-- 'Listen, this is not a cockroach at all.' Admitting that this is not a cockroach at all shows Barinov being honest for a change. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'This is simply our delicious fried onion.' Saying that this is simply their delicious fried onion is how Barinov sets the tone with the guest. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'But then you will have to eat my phone too.' Once Barinov will have to eat his phone, Nagiyev can finally tell Barinov what he means.
-- 'Because your phone must be in your hands!' Declaring that because Barinov's phone must be in Barinov's hands brings Nagiyev's temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Dmitry Vladimirovich, someone accidentally bumped your car out there.' Around the conversation and car, Barinov sets a calm, everyday tone with the guest.
-- 'Come on, I will look for myself right now!' Here coming on he will look for himself right now lets Nagiyev's real feelings break through.
+- 'How did it happen that someone calls from your phone?' Nagiyev checks plainly in front of Barinov, pairing "poluchilos" ("worked out") with "kak" ("how") so the "-sya" ending carries the action.
+- 'Hello, tell me, did you call for me?' Barinov quizzes promptly to keep things clear, weaving "zdravstvuyte" ("hello") together with "skazhite" ("tell") just the way native speakers do.
+- 'Immediately explain this outrage to me.' The guest adopts a pointed footing with Barinov, weaving "nemedlenno" ("immediately") together with "obyasnite" ("to explain") just the way native speakers do.
+- 'Excuse me, and what are you talking about right now?' Nagiyev inquires pointedly at this point, joining "prostite" ("excuse me") to "seychas" ("now") so every word pulls its weight.
+- 'You understand, I am a journalist, and all of Moscow will find out about this.' The guest takes a sharp attitude at once, joining "ponimayete" ("do you understand") to "zhurnalist" ("journalist") so every word pulls its weight.
+- 'And no one will come to your restaurant anymore.' The guest picks a warm course on the spot, combining "restoran" ("restaurant") and "bolshe" ("more") so the key meaning lands right away.
+- 'Listen, this is not a cockroach at all.' Barinov chooses an honest rhythm toward the guest, combining "poslushayte" ("listen") and "vovse" ("at all") so the key meaning lands right away.
+- 'This is simply our delicious fried onion.' Barinov shows a candid tone across the room, anchoring the Russian line on "prosto" ("just") and "vkusnyy" ("delicious") without extra filler.
+- 'But then you will have to eat my phone too.' Nagiyev holds a firm manner in the scene, linking "togda" ("back then"), "pridyotsya" ("you'll have to"), and "syest" ("to eat") in one brisk exchange.
+- 'Because your phone must be in your hands!' Nagiyev adopts a resolute rhythm without hesitation, combining "potomu" ("because") and "telefon" ("phone") so the key meaning lands right away.
+- 'Dmitry Vladimirovich, someone accidentally bumped your car out there.' Barinov presents a firm attitude across the room, joining "tam" ("there") to "mashinu" ("car") so every word pulls its weight.
+- 'Come on, I will look for myself right now!' Nagiyev establishes a calm footing on the spot, building the phrase around "seychas" ("now") and "posmotryu" ("have a look") for a crisp, natural delivery.

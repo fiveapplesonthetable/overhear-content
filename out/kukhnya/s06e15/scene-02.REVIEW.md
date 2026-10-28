@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, did you dislike something?' Checking whether the guest dislike something cuts straight through the tension between Lyova and the guest. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'On the contrary, I decided to thank you personally.' Pointing out that on the contrary he decided to thank Lyova personally gives Lyova a sobering reality check. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Thank you for the wonderful dish from the chef.' Around the shift and dish, the guest sets a calm, everyday tone with Lyova.
-- 'Honestly speaking, today it is from the sous-chef.' Realizing that speaking today it is changes how Lyova handles the situation.
-- 'I know very well who you are.' Mentioning that he knows very well who Lyova is moves the talk in a new direction. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Most likely, you have already heard about me.' Even though most likely Lyova has already heard about him, the guest keeps a steady face in front of Lyova.
-- 'I am launching an interesting new project.' Adding that he is launching an interesting new project fills in the missing piece for Lyova.
-- 'I want to invite you to work for me.' Wanting to invite Lyova to work for him is how the guest lays out the situation for Lyova. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'To work as head chef, I do not know.' Once to work as head he does not know, Lyova can finally tell the guest what he means.
-- 'You do not need to know, you just need to think.' Admitting that Lyova does not need to know Lyova just need to think shows the guest being honest for a change. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'I will give you my business card right now.' Saying that he will give Lyova his business card right now is how the guest sets the tone with Lyova. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Think it over well and call me tomorrow.' Explaining that Lyova should think it over well and call him tomorrow lays the cards on the table for Lyova.
+- 'Good evening, did you dislike something?' Lyova challenges sharply from the start, pairing "ponravilos" ("pleased, was liked") with "dobryy" ("good") so the "-sya" ending carries the action.
+- 'On the contrary, I decided to thank you personally.' The guest adopts a serious tack as the scene unfolds, leaning on "reshil" ("has decided") before closing the thought with "lichno" ("personally").
+- 'Thank you for the wonderful dish from the chef.' The guest takes a thoughtful manner in this beat, anchoring the Russian line on "spasibo" ("thank you") and "prekrasnoye" ("wonderful, fine") without extra filler.
+- 'Honestly speaking, today it is from the sous-chef.' Lyova establishes a lively mood in the scene, pairing "chestno" ("honestly") with "govorya" ("speaking") to get the point across in plain spoken Russian.
+- 'I know very well who you are.' The guest shows an honest stance at this moment, linking "prekrasno" ("perfectly"), "znayu" ("know"), and "ya" ("I") in one brisk exchange.
+- 'Most likely, you have already heard about me.' The guest presents a firm posture beside Lyova, pairing "skoreye" ("quickly, right away") with "slyshali" ("did you hear") to get the point across in plain spoken Russian.
+- 'I am launching an interesting new project.' The guest sustains a brisk rhythm without hesitation, using "zapuskayu" (from "zapuskat", "launch, start up") alongside "novyy" ("new") to shape the meaning.
+- 'I want to invite you to work for me.' The guest establishes an earnest attitude on the spot, leaning on "khochu" ("want") before closing the thought with "priglasit" ("to invite").
+- 'To work as head chef, I do not know.' Lyova displays a lively note right away, linking "rabotat" ("to work"), "glavnym" ("important"), and "shef-povarom" ("head chef") in one brisk exchange.
+- 'You do not need to know, you just need to think.' The guest strikes a firm tone at this moment, linking "nado" ("it is necessary"), "znat" ("to know"), and "prosto" ("just") in one brisk exchange.
+- 'I will give you my business card right now.' The guest shares a wry mood in the room, anchoring the Russian line on "seychas" ("now") and "dam" ("will give") without extra filler.
+- 'Think it over well and call me tomorrow.' The guest picks a thoughtful bearing beside Lyova, pairing "khoroshenko" ("properly, thoroughly") with "podumayte" ("think") to get the point across in plain spoken Russian.

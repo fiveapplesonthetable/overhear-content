@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mom, hello, so where is your friend?' Asking whether Mom hello so where is the guest's friend puts the guest right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, here she is coming toward us.' Once here she is coming toward them, the guest can finally tell Lyova what he means.
-- 'Hello, I am very pleased to meet you.' Being very pleased to meet the guest moves the conversation forward without extra drama.
-- 'Meet her, son, this is my friend Larisa.' Here meeting her son this is his friend Larisa sets up the next turn in their exchange. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I just did not expect to see at all.' Since he just did not expect to see at all, Lyova does not waste words on excuses.
-- 'Do not be nervous, she is a very nice girl.' Mentioning that do not be nervous she is a very nice girl moves the talk in a new direction.
-- 'It seems to me you are exaggerating a little right now.' Claiming that it seems to him the guest is exaggerating a little right now sounds confident, even if the guest has doubts. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'No, I am telling the pure truth.' Since he is telling the pure truth, the guest does not waste words on excuses.
-- 'Mom, I would rather sit next to you.' Explaining that Mom he would rather sit next to the guest lays the cards on the table for the guest.
-- 'Larisa is the most caring nurse at the clinic.' The guest mentions that Larisa is the most caring nurse at the clinic so Lyova sees what is at stake.
-- 'Mom, stop praising me so loudly.' With the family and friend in play, Lyova keeps this short reply brisk and direct.
-- 'Well, you already know everything about Lyova.' Around the family and friend, the guest sets a calm, everyday tone with Lyova.
-- 'Let us better look at our menu for today.' Pointing out that they should better look at their menu for today gives the guest a sobering reality check. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Mom, hello, so where is your friend?' Lyova prompts decisively beside the guest, pairing "mama" ("mum, mother") with "gde" ("where") to get the point across in plain spoken Russian.
+- 'Well, here she is coming toward us.' The guest presents a wry rhythm straight away, pairing "idyot" ("goes, is going") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
+- 'Hello, I am very pleased to meet you.' Lyova chooses an earnest approach across the room, anchoring the Russian line on "zdravstvuyte" ("hello") and "ochen" ("very much") without extra filler.
+- 'Meet her, son, this is my friend Larisa.' The guest adopts a steady rhythm beside Lyova, joining "poznakomsya" ("to get acquainted") to "synok" ("son") so every word pulls its weight.
+- 'I just did not expect to see at all.' Lyova adopts a warm manner as they talk, putting "prosto" ("just") alongside "sovsem" ("at all") in a tight, everyday turn of phrase.
+- 'Do not be nervous, she is a very nice girl.' The guest takes a natural stance toward Lyova, joining "nervnichay" ("be nervous") to "ochen" ("very much") so every word pulls its weight.
+- 'It seems to me you are exaggerating a little right now.' Lyova keeps an honest tone beside the guest, putting "kazhetsya" ("it seems, I think") alongside "seychas" ("now") in a tight, everyday turn of phrase.
+- 'No, I am telling the pure truth.' The guest presents a clear tone without hesitation, combining "govoryu" ("am telling") and "chistuyu" ("clean") so the key meaning lands right away.
+- 'Mom, I would rather sit next to you.' Lyova chooses a calm posture as the scene unfolds, weaving "mama" ("mum, mother") together with "luchshe" ("better") just the way native speakers do.
+- 'Larisa is the most caring nurse at the clinic.' The guest displays an easygoing mood in this beat, weaving "samaya" ("most") together with "zabotlivaya" ("caring") just the way native speakers do.
+- 'Mom, stop praising me so loudly.' Lyova sets a candid posture toward the guest, linking "mama" ("mum, mother"), "khvatit" ("enough"), and "gromko" ("on speaker") in one brisk exchange.
+- 'Well, you already know everything about Lyova.' The guest establishes a clear posture at this moment, putting "lyovu" ("lyova") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
+- 'Let us better look at our menu for today.' Lyova offers a playful manner on the spot, anchoring the Russian line on "davayte" ("let's") and "luchshe" ("better") without extra filler.

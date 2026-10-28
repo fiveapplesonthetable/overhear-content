@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, this is a very old story.' Mentioning that this is a very old story moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Why are you laughing at someone else's grief?' Asking why Barinov laughing at someone else grief is cuts straight through the tension between Nagiyev and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'That cook stole German's wife from him.' Because that cook stole German wife from him, Nagiyev treats the matter as settled.
-- 'And they stole all his money from him.' Explaining that they stole all his money from him lays the cards on the table for Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'And then they decided to leave quickly.' Nagiyev mentions that they decided to leave quickly so Barinov sees what is at stake.
-- 'Any man would have acted the exact same way.' Claiming that any man would have acted the exact same way sounds confident, even if Barinov has doubts.
-- 'Just look at the blacklist.' Around the point and story, Barinov sets a calm, everyday tone with Nagiyev. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Vityusha, after you, I check everyone.' Nagiyev explains that someone after Barinov he checks everyone, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'He is not there on our list.' By being not there on their list, Nagiyev keeps his side of the story grounded.
-- 'Well, look in Latvia.' Around the point and money, Barinov sets a calm, everyday tone with Nagiyev. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Deal with that yourself, kiddo.' Pointing out that Barinov should deal with that themselves kiddo gives Barinov a sobering reality check. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Better go work quietly in the kitchen.' With the truth and story in play, Nagiyev keeps this short reply brisk and direct.
+- 'Vitya, this is a very old story.' Nagiyev adopts a clear tempo beside Barinov, linking "ochen" ("very much") directly with "staraya" ("old"), since Russian drops "is" and "are" in the present.
+- 'Why are you laughing at someone else's grief?' Nagiyev prompts briskly in the scene, leaning on "zachem" ("what for") before closing the thought with "smeyoshsya" ("are laughing").
+- 'That cook stole German's wife from him.' Nagiyev shows a calm angle right away, linking "povar" ("chef, cook"), "uvyol" ("to lead away"), and "germana" ("german") in one brisk exchange.
+- 'And they stole all his money from him.' Nagiyev adopts an easygoing line as the scene unfolds, weaving "dengi" ("money") together with "ukrali" ("stole") just the way native speakers do.
+- 'And then they decided to leave quickly.' Nagiyev holds a sharp view toward Barinov, anchoring the Russian line on "potom" ("then") and "reshili" ("decided") without extra filler.
+- 'Any man would have acted the exact same way.' Nagiyev picks a brisk stance as the scene unfolds, leaning on "lyuboy" ("any") before closing the thought with "muzhchina" ("man").
+- 'Just look at the blacklist.' Barinov establishes a pointed angle right away, combining "chyornom" ("black") and "spiske" ("list") so the key meaning lands right away.
+- 'Vityusha, after you, I check everyone.' Nagiyev takes a grounded line toward Barinov, leaning on "vityusha" ("vityusha") before closing the thought with "proveryayu" ("to check, test").
+- 'He is not there on our list.' Nagiyev establishes a sharp attitude in the conversation, pairing "tam" ("there") with "spiske" ("list") to get the point across in plain spoken Russian.
+- 'Well, look in Latvia.' Barinov offers a pointed tack as the scene unfolds, linking "latvii" ("blacklist"), "posmotri" ("look"), and "ty" ("you") in one brisk exchange.
+- 'Deal with that yourself, kiddo.' Nagiyev presents a pointed direction straight away, combining "zanimaysya" ("attend to, deal with") and "malysh" ("kid, little one") so the key meaning lands right away.
+- 'Better go work quietly in the kitchen.' Nagiyev maintains a sharp view in their talk, leaning on "idi" ("go") before closing the thought with "luchshe" ("better").

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You cannot imagine what trouble I am in.' Barinov reminds Mikhail that Mikhail cannot imagine what trouble he is before the moment passes. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Alright, thank you very much, everyone.' Over the room and the hotel, Mikhail answers Barinov without a second thought.
-- 'What is happening over there right now?' By wondering what happening over there right now is, Mikhail presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We have a small problem in the room.' Vika mentions that they have a small problem in the room so Barinov sees what is at stake. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'The fire alarm went off up there.' Claiming that the fire alarm went off up there sounds confident, even if Barinov has doubts.
-- 'Our head chef went in there.' Pointing out that their head went in there gives Barinov a sobering reality check.
-- 'What did he do in there again?' By asking what he do in there again, Mikhail presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Have you completely lost your mind?' With the kitchen and hotel hanging in the air, Mikhail puts Barinov on the spot.
-- 'I was simply doing your job for you.' Noting that he was simply doing Mikhail's job for Mikhail keeps Barinov's side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It is very cold here in the room.' Even though it is very cold here in the room, Barinov keeps a steady face in front of Mikhail.
-- 'What is going on here at all?' Here wondering what going on here at all is shows Mikhail looking for the real truth.
-- 'Have you never heard about the holiday?' Asking whether Mikhail never heard about the holiday cuts straight through the tension between Barinov and Mikhail. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'You cannot imagine what trouble I am in.' Barinov shows an easygoing stance as the scene unfolds, joining "predstavlyayesh" ("can you imagine") to "kak" ("how") so every word pulls its weight.
+- 'Alright, thank you very much, everyone.' Mikhail projects a playful course straight away, using "bolshoye" (from "bolshoy", "big, very much") alongside "spasibo" ("thank you") to shape the meaning.
+- 'What is happening over there right now?' Mikhail probes frankly during the talk, pairing "seychas" ("now") with "tam" ("there") so the "-sya" ending carries the action.
+- 'We have a small problem in the room.' Vika picks a thoughtful stance in the conversation, weaving "nomere" ("in the hotel room") together with "nebolshaya" ("small") just the way native speakers do.
+- 'The fire alarm went off up there.' Vika shows a resolute bearing with Barinov, leaning on "tam" ("there") before closing the thought with "srabotala" ("went off, triggered").
+- 'Our head chef went in there.' Vika shares a lively tone with Mikhail, weaving "tuda" ("there") together with "prishyol" ("came, have come") just the way native speakers do.
+- 'What did he do in there again?' Mikhail queries sharply on the spot, putting "tam" ("there") alongside "opyat" ("again") in a tight, everyday turn of phrase.
+- 'Have you completely lost your mind?' Mikhail presses dryly as the talk turns, anchoring the Russian line on "sovsem" ("at all") and "uma" ("mind") without extra filler.
+- 'I was simply doing your job for you.' Barinov offers a sharp posture in the room, building the phrase around "prosto" ("just") and "delal" ("were doing") for a crisp, natural delivery.
+- 'It is very cold here in the room.' Barinov sets a sharp stance in this beat, linking "zdes" ("here") directly with "nomere" ("in the hotel room"), since Russian drops "is" and "are" in the present.
+- 'What is going on here at all?' Mikhail queries firmly with Barinov now, combining "zdes" ("here") and "voobshche" ("at all") so the key meaning lands right away.
+- 'Have you never heard about the holiday?' Barinov queries wryly across the room, combining "nikogda" ("never") and "slyshali" ("did you hear") so the key meaning lands right away.

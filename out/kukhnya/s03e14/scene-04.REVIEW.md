@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Stop hitting me, you will break my spine!' Insisting that Kostya should stop hitting him Kostya will break his spine shows Max is not backing down.
-- 'Wait, do you actually have a spine?' Checking whether Kostya actually have a spine cuts straight through the tension between Senya and Kostya. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Senya, that is very funny.' Once that is very funny, Max can finally tell Kostya what he means. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'What, did you swallow a toad this morning?' Here asking what Kostya swallow a toad this morning shows Senya looking for the real truth.
-- 'Leave me alone, Senya!' Here telling Kostya to leave him alone lets Max's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'You need to hold your breath for a long time.' Since Kostya needs to hold Kostya's breath for a long time, Senya does not waste words on excuses. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Wait, I know what to do.' Knowing what to do is how Senya lays out the situation for Kostya.
-- 'It seems to have passed, now I am fine!' Because it seems to have passed now he is fine, Max does not bother softening the blow for Kostya. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Maxim, they are calling for you from Table Seven.' Because Maxim they are calling for Max from table seven, Kostya treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'From the seventh, but I did not cook for the seventh.' Explaining that from the seventh but he did not cook for the seventh lays the cards on the table for Kostya.
-- 'Kostya, are they definitely calling for me?' Asking whether they definitely calling for him is how Max puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Definitely, they said to call the big-eared and impudent cook.' Claiming that definitely they said to call the big and impudent cook sounds confident, even if Max has doubts.
+- 'Stop hitting me, you will break my spine!' Max presents a calm angle as the scene unfolds, building the phrase around "khvatit" ("enough") and "bit" ("to hit, beat") for a crisp, natural delivery.
+- 'Wait, do you actually have a spine?' Senya challenges quietly in their exchange, leaning on "yest" ("there is") before closing the thought with "pozvonochnik" ("spine, backbone").
+- 'Senya, that is very funny.' Max favors a calm direction in front of Kostya, building the phrase around "ochen" ("very much") and "smeshno" ("ridiculous") for a crisp, natural delivery.
+- 'What, did you swallow a toad this morning?' Senya asks promptly to make the point, pairing "utrom" ("this morning") with "zhabu" ("toad") to get the point across in plain spoken Russian.
+- 'Leave me alone, Senya!' Max projects a clear course on the spot, joining "otstan" ("leave alone") to "ot" ("from") so every word pulls its weight.
+- 'You need to hold your breath for a long time.' Senya shares a candid stance in the room, building the phrase around "nado" ("it is necessary") and "dykhaniye" ("breath, breathing") for a crisp, natural delivery.
+- 'Wait, I know what to do.' Senya conveys an earnest tone right away, using "podozhdi" (from "podozhdat", "wait") alongside "znayu" ("know") to shape the meaning.
+- 'It seems to have passed, now I am fine!' Max sustains a firm course as they talk, joining "proshlo" ("have passed") to "teper" ("now") so every word pulls its weight.
+- 'Maxim, they are calling for you from Table Seven.' Kostya conveys a candid view at once, linking "tam" ("there"), "sedmogo" ("of the seventh"), and "stolika" ("table") in one brisk exchange.
+- 'From the seventh, but I did not cook for the seventh.' Max conveys a candid course beside Senya, linking "sedmogo" ("of the seventh"), "gotovil" ("prepared, made"), and "no" ("but") in one brisk exchange.
+- 'Kostya, are they definitely calling for me?' Max questions firmly to Kostya here, combining "tochno" ("definitely") and "zovut" ("call") so the key meaning lands right away.
+- 'Definitely, they said to call the big-eared and impudent cook.' Kostya maintains a measured style in the conversation, putting "tochno" ("definitely") alongside "skazali" ("told") in a tight, everyday turn of phrase.

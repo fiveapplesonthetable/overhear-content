@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What happened?' With the moment and story hanging in the air, Kostya puts Denis on the spot.
-- 'Katya and I broke up.' Around the story and conversation, Denis sets a calm, everyday tone with Kostya.
-- 'Stay strong, buddy.' Claiming that Denis should stay strong buddy sounds confident, even if Denis has doubts.
-- 'You cannot tell Katya the truth anyway.' Noting that Kostya cannot tell Katya the truth anyway keeps Denis's side of the story simple and clear.
-- 'What truth can you not tell Katya?' When Nastya asks if what truth can Denis not tell Katya, Denis has to answer fast. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Nastya, well I cannot tell you.' Refusing to tell Denis is how Kostya lays out the situation for Denis. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Den has a family in Voronezh.' Saying that someone has a family in Voronezh is how Kostya sets the tone with Denis.
-- 'Is Den married?' With the work and secret hanging in the air, Nastya puts Denis on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'His wife left him.' Adding that his wife left him fills in the missing piece for Denis.
-- 'She left him alone with a daughter.' Kostya tells Denis that she left him alone with a daughter without dressing it up.
-- 'And where is the daughter right now?' Here wondering where the daughter right now is shows Nastya looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'With her grandmother and grandfather.' Around the shift and secret, Kostya sets a calm, everyday tone with Denis.
+- 'What happened?' Kostya inquires pointedly without hesitation, combining "sluchilos" ("happened") and "chto" ("what") so the key meaning lands right away.
+- 'Katya and I broke up.' Denis projects a warm mood at this moment, weaving "rasstalis" ("broke up, separated") together with "my" ("we") just the way native speakers do.
+- 'Stay strong, buddy.' Kostya strikes a firm footing in the room, using "krepis" (from "krepitsya", "stay strong") alongside "starik" ("old man") to shape the meaning.
+- 'You cannot tell Katya the truth anyway.' Denis maintains a natural view in the room, combining "ravno" ("the same") and "pravdu" ("truth") so the key meaning lands right away.
+- 'What truth can you not tell Katya?' Nastya checks calmly to keep things clear, leaning on "pravdu" ("truth") before closing the thought with "rasskazhesh" ("you will tell").
+- 'Nastya, well I cannot tell you.' Kostya sustains a playful bearing right away, linking "mogu" ("can"), "rasskazat" ("to tell"), and "nastya" ("Nastya") in one brisk exchange.
+- 'Den has a family in Voronezh.' Kostya sets an earnest mood in their talk, putting "dena" ("Dan") alongside "yest" ("there is") in a tight, everyday turn of phrase.
+- 'Is Den married?' Nastya wonders firmly as the beat lands, pairing "zhenat" ("married") with "den" ("Den") to get the point across in plain spoken Russian.
+- 'His wife left him.' Kostya displays a brisk footing during the exchange, combining "zhena" ("wife") and "ushla" ("left, walked out") so the key meaning lands right away.
+- 'She left him alone with a daughter.' Kostya sets a pointed direction toward Nastya, anchoring the Russian line on "ostavila" ("left") and "dochkoy" ("daughter") without extra filler.
+- 'And where is the daughter right now?' Nastya probes quietly in this moment, combining "gde" ("where") and "seychas" ("now") so the key meaning lands right away.
+- 'With her grandmother and grandfather.' Kostya keeps a warm tone at this moment, weaving "babushki" ("grandmothers") together with "dedushkoy" ("grandfather") just the way native speakers do.

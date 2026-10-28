@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And pass my words on to the warrant officer.' Since Max should pass her words on to the warrant officer, Katya does not waste words on excuses.
-- 'Let him beg forgiveness on his knees.' Telling Max to let him beg forgiveness on his knees is how Katya lays out the situation for Max.
-- 'He tried to buy a Soviet officer!' Because he tried to buy a Soviet officer, Katya does not bother softening the blow for Max. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'He wants to put me on my knees?' Wondering if he wants to put him on his knees shows Nagiyev caught off guard.
-- 'I will put anyone I want on their knees myself.' Pointing out that he will put anyone he wants on their knees himself gives Katya a sobering reality check.
-- 'Hello, bring the guys and drive over to my place.' Bringing the guys and drive over to his place is how Nagiyev lays out the situation for Katya.
-- 'Alright, so be it, live here.' Between the work and the apartment, Nagiyev gives Katya a quick, grounded response.
-- 'I can see you are a good person.' Noting that he can see Katya is a good person keeps Nagiyev's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Most importantly, pay on time and do not bring men here.' Even though most importantly pay on time and do not bring men here, Nagiyev keeps a steady face in front of Katya.
-- 'Max, come inside the apartment quickly.' Because Max should come inside the apartment quickly, Katya treats the matter as settled.
-- 'Finally, well where is my thank you?' When Katya asks if finally well where is her thank Max, Max has to answer fast. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It is your duty, so we are even.' Once it is Katya's duty so they are even, Max can finally tell Katya what he means. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'And pass my words on to the warrant officer.' Katya brings a calm course on the spot, pairing "praporshchiku" ("to the warrant officer") with "pereday" ("pass on, give") to get the point across in plain spoken Russian.
+- 'Let him beg forgiveness on his knees.' Katya sustains a natural attitude right away, joining "kolenyakh" ("knees") to "proshcheniya" ("forgiveness") so every word pulls its weight.
+- 'He tried to buy a Soviet officer!' Katya establishes an emphatic note in the conversation, putting "sovetskogo" ("Soviet") alongside "ofitsera" ("officer") in a tight, everyday turn of phrase.
+- 'He wants to put me on my knees?' Nagiyev probes lightly in front of Max, putting "khochet" ("wants") alongside "postavit" ("to put in, to install") in a tight, everyday turn of phrase.
+- 'I will put anyone I want on their knees myself.' Nagiyev shows a frank manner in the scene, building the phrase around "khochesh" ("do you want") and "koleni" ("knees") for a crisp, natural delivery.
+- 'Hello, bring the guys and drive over to my place.' Nagiyev strikes a pointed footing at this moment, using "vozmi" (from "vzyat", "take, pick up") alongside "rebyat" ("kids, guys") to shape the meaning.
+- 'Alright, so be it, live here.' Nagiyev keeps a firm mood beside Katya, linking "byt" ("be"), "zhivi" ("to live"), and "zdes" ("here") in one brisk exchange.
+- 'I can see you are a good person.' Nagiyev picks a serious course during the exchange, joining "chelovek" ("a man, a person") to "vizhu" ("see") so every word pulls its weight.
+- 'Most importantly, pay on time and do not bring men here.' Nagiyev presents a steady direction during the exchange, anchoring the Russian line on "glavnoye" ("important") and "plati" ("to pay") without extra filler.
+- 'Max, come inside the apartment quickly.' Katya takes an earnest posture at once, building the phrase around "zakhodi" ("come in") and "skoreye" ("quickly, right away") for a crisp, natural delivery.
+- 'Finally, well where is my thank you?' Katya tests decisively in the room, pairing "nakonets-to" ("at last, finally") with "gde" ("where") to get the point across in plain spoken Russian.
+- 'It is your duty, so we are even.' Max establishes a candid course without hesitation, combining "dolg" ("debt") and "raschete" ("even, square") so the key meaning lands right away.

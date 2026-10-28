@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You forgot to add nutmeg to the sauce again!' Barinov declares that the guest forgot to add nutmeg to the sauce again as the tension in the room peaks.
-- 'I have not taught you enough in the kitchen!' By having not taught the guest enough in the kitchen, Barinov raises the stakes in the room at once. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You scoundrel, where do you think you are going!' Insisting that the guest scoundrel where do the guest thinks the guest is going shows Barinov is not backing down. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What a wild man, God forbid working for him!' Around the truth and kitchen, the guest makes his point loud and clear.
-- 'Somehow I am afraid to go back in there now.' The guest tells Barinov that somehow he is afraid to go back in there now without dressing it up.
-- 'If I take the fork in the wrong hand, he will stab me right away!' The guest insists that if he takes the fork in the wrong hand he will stab him right away, leaving Barinov no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Alright, fellas, take care, good luck to everyone!' With the truth and plan at stake, the guest reacts without holding back.
-- 'Thank you so much for your help, Chef!' Around the plan and sauce, Max makes his point loud and clear. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Get back into the kitchen and work immediately!' By telling the guest to get back into the kitchen and work immediately, Barinov raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I think I will head home right now too.' Since he thinks he will head home right now, Max does not waste words on excuses.
-- 'In short, Katya, you and I need to break up.' Max mentions that in short Katya Barinov and he needs to break up so Barinov sees what is at stake. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'I am not right for you, I wish you happiness in your personal life!' By being not right for Barinov he wishes Barinov happiness in Barinov's personal life, Max raises the stakes in the room at once. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'You forgot to add nutmeg to the sauce again!' Barinov establishes an unhurried position as the scene unfolds, building the phrase around "opyat" ("again") and "zabyl" ("forgot") for a crisp, natural delivery.
+- 'I have not taught you enough in the kitchen!' Barinov sets a pointed angle toward Max, joining "malo" ("little, not enough") to "uchil" ("to learn, to teach") so every word pulls its weight.
+- 'You scoundrel, where do you think you are going!' Barinov adopts a wry position with the guest, pairing "negodyay" ("scoundrel, rascal") with "kuda" ("where to") to get the point across in plain spoken Russian.
+- 'What a wild man, God forbid working for him!' The guest presents an unhurried footing across the room, building the phrase around "muzhik" ("a real man") and "day" ("give") for a crisp, natural delivery.
+- 'Somehow I am afraid to go back in there now.' The guest chooses a frank rhythm as they talk, anchoring the Russian line on "uzhe" ("already, now") and "boyus" ("am afraid") without extra filler.
+- 'If I take the fork in the wrong hand, he will stab me right away!' The guest holds a thoughtful footing toward Max, joining "ruku" ("hand") to "vilku" ("a fork") so every word pulls its weight.
+- 'Alright, fellas, take care, good luck to everyone!' The guest chooses a grounded position at once, weaving "muzhiki" ("lads, guys") together with "davayte" ("let's") just the way native speakers do.
+- 'Thank you so much for your help, Chef!' Max picks a candid tempo for the guest, leaning on "ogromnoye" ("huge, so very much") before closing the thought with "spasibo" ("thank you").
+- 'Get back into the kitchen and work immediately!' Barinov brings a resolute stance in the scene, pairing "nemedlenno" ("immediately") with "poshyol" ("went, set off") to get the point across in plain spoken Russian.
+- 'I think I will head home right now too.' Max sustains a candid approach as they talk, joining "tozhe" ("too") to "seychas" ("now") so every word pulls its weight.
+- 'In short, Katya, you and I need to break up.' Max sustains a clear footing without hesitation, putting "obshchem" ("short, so") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.
+- 'I am not right for you, I wish you happiness in your personal life!' Max brings a measured direction for the guest, pairing "podkhozhu" ("walk up, approach") with "schastya" ("happiness") to get the point across in plain spoken Russian.

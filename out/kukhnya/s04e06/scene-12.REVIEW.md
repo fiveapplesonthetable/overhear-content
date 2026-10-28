@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is a good thing I forgot to take out the trash yesterday!' Declaring that it is a good thing he forgot to take out the trash yesterday brings Max's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'A little sleight of hand, and the bottle is full again!' Max insists that a little sleight of hand and the bottle is full again, leaving Barinov no room to argue.
-- 'As soon as a good chef left, the lamb is not the same.' Since as soon as a good left the lamb is not the same, Barinov does not waste words on excuses.
-- 'Vitya, will you reveal your secret to me now?' Here checking whether Barinov reveal Barinov's secret to her now shows Elena looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What did you want to talk with me about so badly?' Wondering what Barinov wants to talk with her about so badly is how Elena puts Barinov on the spot.
-- 'Lena, let's order a tasty dessert first.' Because someone let them order a tasty dessert first, Barinov treats the matter as settled. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Bring a light bouchee pastry for my lady.' Because Elena should bring a light bouchee pastry for his lady, Barinov treats the matter as settled.
-- 'But after all that pastry takes an eternity to make!' Declaring that after all that pastry takes an eternity to make brings Elena's temper right to the surface.
-- 'We are not rushing anywhere and will wait calmly.' Claiming that they are not rushing anywhere and will wait calmly sounds confident, even if Elena has doubts.
-- 'Denis, the chef ordered a bouchee pastry for the dining room.' With the wine and dessert in play, Max keeps this short reply brisk and direct.
-- 'It is not in the fridge, they bake it to order!' Max declares that it is not in the fridge they bake it to order as the tension in the room peaks.
-- 'Oh, it seems there is something wrong with my stomach.' Realizing that it seems there is something wrong with his stomach changes how Barinov handles the situation. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Excuse me, Lena, I will be right back.' Noting that someone he will be right back keeps Barinov's side of the story simple and clear.
+- 'It is a good thing I forgot to take out the trash yesterday!' Max presents a steady position for Barinov, joining "khorosho" ("good, fine") to "vchera" ("yesterday") so every word pulls its weight.
+- 'A little sleight of hand, and the bottle is full again!' Max holds a lively footing right away, pairing "nemnogo" ("a bit") with "lovkosti" ("to sleight") to get the point across in plain spoken Russian.
+- 'As soon as a good chef left, the lamb is not the same.' Barinov sets a direct tone right away, putting "stoilo" ("to cost, to be worth") alongside "khoroshemu" ("good") in a tight, everyday turn of phrase.
+- 'Vitya, will you reveal your secret to me now?' Elena probes firmly in the scene, weaving "teper" ("now") together with "otkroyesh" ("to open") just the way native speakers do.
+- 'What did you want to talk with me about so badly?' Elena questions earnestly in front of Barinov, leaning on "khotel" ("wanted") before closing the thought with "pogovorit" ("to talk").
+- 'Lena, let's order a tasty dessert first.' Barinov conveys a direct rhythm with Max, putting "davay" ("let's") alongside "snachala" ("first, at first") in a tight, everyday turn of phrase.
+- 'Bring a light bouchee pastry for my lady.' Barinov favors an earnest footing during the exchange, joining "prinesite" ("bring") to "damy" ("lady, woman") so every word pulls its weight.
+- 'But after all that pastry takes an eternity to make!' Elena strikes an emphatic style during the exchange, building the phrase around "pirozhnoye" ("pastries, cakes") and "gotovitsya" ("is preparing") for a crisp, natural delivery.
+- 'We are not rushing anywhere and will wait calmly.' Barinov favors a lively stance during the exchange, joining "nikuda" ("nowhere, anywhere") to "toropimsya" ("are hurrying") so every word pulls its weight.
+- 'Denis, the chef ordered a bouchee pastry for the dining room.' Max shows a thoughtful stance straight away, combining "zakazal" ("ordered") and "zal" ("hall") so the key meaning lands right away.
+- 'It is not in the fridge, they bake it to order!' Max projects a playful manner right away, linking "kholodilnike" ("fridge"), "gotovyat" ("are preparing"), and "zakaz" ("order") in one brisk exchange.
+- 'Oh, it seems there is something wrong with my stomach.' Barinov maintains a firm attitude in the scene, using "kazhetsya" (from "kazatsya", "it seems, I think") alongside "zheludkom" ("stomach") to shape the meaning.
+- 'Excuse me, Lena, I will be right back.' Barinov brings an earnest approach as they talk, joining "izvini" ("sorry, excuse me") to "seychas" ("now") so every word pulls its weight.

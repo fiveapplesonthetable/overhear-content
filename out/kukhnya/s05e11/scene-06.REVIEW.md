@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And can we use all of this?' Asking whether they use all of this cuts straight through the tension between the guest and Max. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Grandma, it is all yours! Why did you not tell them about us?' Asking whether grandma it is all puts the guest right on the defensive.
-- 'Grandpa has a weak heart. He had a heart attack.' Vika reminds the guest that Grandpa has a weak heart before the moment passes.
-- 'They came for one day. Do not tell them, okay?' Questioning whether they came for one day is how Vika tests the guest's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And what is this? Vodka!' By wondering what this is, the guest presses Max for a straight answer.
-- 'Here is your vodka, just as bitter and strong. Drink!' The guest declares that here is Max's vodka just as bitter and strong as the tension in the room peaks. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I cannot stand the sight of these drops! They make me nauseous.' Refusing to stand the sight of these drops shows Max is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Do not look and drink!' Insisting that do not look and drink shows the guest is not backing down.
-- 'Maxim, Vika, do something with him!' Once Maxim Vika do something with him, the guest makes sure Max hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'The doctors strictly forbade eating meat.' With the work and news in play, the guest keeps this short reply brisk and direct.
-- 'Maxim, in an hour we need to go to the doctor.' Around the work and breakup, the guest sets a calm, everyday tone with Max.
-- 'Alright, grandma, we will keep an eye on him.' Even though Alright grandma they will keep an eye on him, Max keeps a steady face in front of the guest.
+- 'And can we use all of this?' The guest inquires firmly in the room, leaning on "mozhno" ("may, can") before closing the thought with "polzovatsya" ("to use").
+- 'Grandma, it is all yours! Why did you not tell them about us?' Max prompts steadily as the talk turns, combining "babushka" ("old lady") and "pochemu" ("why") so the key meaning lands right away.
+- 'Grandpa has a weak heart. He had a heart attack.' Vika maintains a resolute angle on the spot, anchoring the Russian line on "deda" ("grandfathers") and "slaboye" ("weak") without extra filler.
+- 'They came for one day. Do not tell them, okay?' Vika wonders honestly for Max's benefit, pairing "den" ("day") with "priyekhali" ("we've arrived") to get the point across in plain spoken Russian.
+- 'And what is this? Vodka!' The guest queries bluntly in this moment, combining "vodka" ("vodka") and "eto" ("this") so the key meaning lands right away.
+- 'Here is your vodka, just as bitter and strong. Drink!' The guest chooses a direct style in this beat, putting "vodka" ("vodka") alongside "gorkaya" ("bitter") in a tight, everyday turn of phrase.
+- 'I cannot stand the sight of these drops! They make me nauseous.' Max offers an earnest line at this moment, weaving "kapel" ("drops") together with "videt" ("to see") just the way native speakers do.
+- 'Do not look and drink!' The guest shares an honest position in front of Vika, leaning on "smotri" ("look") before closing the thought with "pey" ("drink").
+- 'Maxim, Vika, do something with him!' The guest sets a measured attitude during the exchange, leaning on "sdelayte" ("make") before closing the thought with "maksim" ("Maksim").
+- 'The doctors strictly forbade eating meat.' The guest shows a frank note for Vika, linking "vrachi" ("doctors"), "strogo" ("sternly, strictly"), and "zapretili" ("to forbid, to ban") in one brisk exchange.
+- 'Maxim, in an hour we need to go to the doctor.' The guest takes a sharp approach straight away, combining "chas" ("hour") and "nado" ("it is necessary") so the key meaning lands right away.
+- 'Alright, grandma, we will keep an eye on him.' Max maintains a calm direction at once, building the phrase around "khorosho" ("good, fine") and "babushka" ("old lady") for a crisp, natural delivery.

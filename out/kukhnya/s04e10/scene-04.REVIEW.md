@@ -16,24 +16,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Нагиев | А сейчас прошу всех в зал. | And now I ask everyone into the dining room. | #38: А сейчас я попрошу всех пройти в зал | adapted: adapted for A1 clarity |
 | 5 | Костя | Ты слышала про стокгольмский синдром? | Have you heard about Stockholm syndrome? | #40: про стольгольмский синдром | adapted: adapted for A1 clarity |
 | 6 | Костя | Жертвы испытывают симпатию к захватчикам. | Victims feel sympathy toward their captors. | #40: жертвы испытывают симпатий | adapted: adapted for A1 clarity |
-| 7 | Вика | Извините, пожалуйста, можно вопрос? | Excuse me, please, may I ask a question? | #41: Извините, пожалуйста, а можно | adapted: adapted for A1 clarity |
-| 8 | Вика | Можно бармена ко мне привязать? | Could you tie the bartender to me instead? | #41: а можно бармена не к ней, а ко мне привязать | adapted: adapted for A1 clarity |
+| 7 | Сеня | Извините, пожалуйста, можно вопрос? | Excuse me, please, may I ask a question? | #41: Извините, пожалуйста, а можно | adapted: adapted for A1 clarity |
+| 8 | Сеня | Можно бармена ко мне привязать? | Could you tie the bartender to me instead? | #41: а можно бармена не к ней, а ко мне привязать | adapted: adapted for A1 clarity |
 | 9 | Нагиев | По списку не хватает повара. | According to the list, one cook is missing. | #42: По списку не хватает одного повара | adapted: adapted for A1 clarity |
 | 10 | Нагиев | Его зовут Арсений Чуганин. | His name is Arseny Chuganin. | #43: Арсений Чуганин | adapted: adapted for A1 clarity |
 | 11 | Нагиев | Где этот опасный повар? | Where is this dangerous cook? | #42: не хватает одного повара | adapted: adapted for A1 clarity |
-| 12 | Вика | Он сегодня на кухне. | He is in the kitchen today. | #42: одного повара | adapted: adapted for A1 clarity |
+| 12 | Сеня | Он сегодня на кухне. | He is in the kitchen today. | #42: одного повара | adapted: adapted for A1 clarity |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, gentlemen and ladies.' With the truth and boss in play, Nagiyev keeps this short reply brisk and direct.
-- 'I will allow myself to correct you.' Since he will allow himself to correct Kostya, Nagiyev does not waste words on excuses. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'We are not terrorists, we are businessmen.' Mentioning that they are not terrorists they are businessmen moves the talk in a new direction.
-- 'And now I ask everyone into the dining room.' Because he asks everyone into the dining room, Nagiyev treats the matter as settled.
-- 'Have you heard about Stockholm syndrome?' By checking whether Nagiyev heard about syndrome, Kostya presses Nagiyev for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Victims feel sympathy toward their captors.' With the restaurant and boss in play, Kostya keeps this short reply brisk and direct.
-- 'Excuse me, please, may I ask a question?' Asking whether may she asks a question puts Kostya right on the defensive.
-- 'Could you tie the bartender to me instead?' Here checking whether Kostya tie the bartender to her instead shows Vika looking for the real truth. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'According to the list, one cook is missing.' Pointing out that according to the list one cook is missing gives Kostya a sobering reality check.
-- 'His name is Arseny Chuganin.' Nagiyev explains that his name is Chuganin, keeping his voice calm and direct.
-- 'Where is this dangerous cook?' Asking where this dangerous cook is is how Nagiyev puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'He is in the kitchen today.' Noting that he is in the kitchen today keeps Vika's side of the story simple and clear.
+- 'Good afternoon, gentlemen and ladies.' Nagiyev establishes a measured line at once, leaning on "dobryy" ("good") before closing the thought with "den" ("day").
+- 'I will allow myself to correct you.' Nagiyev brings a pointed stance at once, putting "pozvolyu" ("will allow") alongside "popravit" ("to straighten") in a tight, everyday turn of phrase.
+- 'We are not terrorists, we are businessmen.' Nagiyev takes a firm tone for Kostya, joining "terroristy" ("terrorists") to "biznesmeny" ("businessmen") so every word pulls its weight.
+- 'And now I ask everyone into the dining room.' Nagiyev shares a frank style with Senya, pairing "seychas" ("now") with "proshu" ("beg, ask") to get the point across in plain spoken Russian.
+- 'Have you heard about Stockholm syndrome?' Kostya presses boldly in front of Nagiyev, pairing "slyshala" ("to hear") with "stokgolmskiy" ("syndrome") to get the point across in plain spoken Russian.
+- 'Victims feel sympathy toward their captors.' Kostya chooses an honest angle in front of Senya, anchoring the Russian line on "zhertvy" ("victim, sacrifice") and "ispytyvayut" ("to experience") without extra filler.
+- 'Excuse me, please, may I ask a question?' Senya questions openly as the beat lands, linking "izvinite" ("sorry, excuse me"), "mozhno" ("may, can"), and "vopros" ("question, matter") in one brisk exchange.
+- 'Could you tie the bartender to me instead?' Senya checks boldly as the talk turns, joining "mozhno" ("may, can") to "barmena" ("bartender") so every word pulls its weight.
+- 'According to the list, one cook is missing.' Nagiyev holds an honest footing straight away, using "spisku" (from "spisok", "list") alongside "khvatayet" ("grabs") to shape the meaning.
+- 'His name is Arseny Chuganin.' Nagiyev adopts an honest attitude in their talk, anchoring the Russian line on "zovut" ("call") and "yego" ("him") without extra filler.
+- 'Where is this dangerous cook?' Nagiyev quizzes honestly in front of Kostya, combining "gde" ("where") and "opasnyy" ("dangerous") so the key meaning lands right away.
+- 'He is in the kitchen today.' Senya conveys a calm manner with Nagiyev, placing "segodnya" ("today") straight beside "kukhne" ("kitchen") with no word for "to be" needed.

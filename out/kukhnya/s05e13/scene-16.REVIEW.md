@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maxim is my friend and a very good person.' Realizing that Maxim is his friend and a very good person changes how Kostya handles the situation.
-- 'Why then is a good person in the dock?' Questioning whether why then is a good person in the dock is how Nastya tests Barinov's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, everyone has their own minor flaws.' Kostya mentions that everyone has their own minor flaws so Barinov sees what is at stake.
-- 'Answer faster, you cannot drink water forever!' Nastya declares that Barinov should answer faster Barinov cannot drink water forever as the tension in the room peaks.
-- 'You will still have to answer honestly.' Saying that Barinov will still have to answer honestly is how Nastya sets the tone with Barinov. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'May I quickly step out to the restroom first?' Wondering if may he quickly step out to the restroom first shows Kostya caught off guard. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'No! Tell us, what are his flaws?' Questioning whether tell them what are his flaws is how Nastya tests Barinov's story.
-- 'He does not wash the dishes after himself at home.' Saying that he does not wash the dishes after himself at home is how Kostya sets the tone with Barinov.
-- 'I warn you, you are under oath!' Barinov declares that he warns Kostya Kostya is under oath as the tension in the room peaks. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'And could such a person kiss Sasha?' Asking whether such a person kiss Sasha is how Nastya puts Barinov on the spot.
-- 'He could, because he used to date her before.' Kostya reminds Barinov that he could because he used to date before the moment passes.
-- 'Yes! I have no further questions!' Nastya declares that she has no further questions as the tension in the room peaks. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Maxim is my friend and a very good person.' Kostya maintains a steady style right away, joining "drug" ("friend") to "ochen" ("very much") so every word pulls its weight.
+- 'Why then is a good person in the dock?' Nastya challenges bluntly to keep things clear, pairing "pochemu" ("why") with "khoroshiy" ("good") to get the point across in plain spoken Russian.
+- 'Well, everyone has their own minor flaws.' Kostya keeps a frank direction across the room, weaving "kazhdogo" ("everyone") together with "yest" ("there is") just the way native speakers do.
+- 'Answer faster, you cannot drink water forever!' Nastya holds a measured note in front of Kostya, building the phrase around "otvechayte" ("answer") and "bystreye" ("faster") for a crisp, natural delivery.
+- 'You will still have to answer honestly.' Nastya projects a brisk position right away, linking "ravno" ("the same"), "pridyotsya" ("you'll have to"), and "chestno" ("honestly") in one brisk exchange.
+- 'May I quickly step out to the restroom first?' Kostya probes earnestly in the scene, linking "mozhno" ("may, can"), "snachala" ("first, at first"), and "bystro" ("quickly") in one brisk exchange.
+- 'No! Tell us, what are his flaws?' Nastya checks honestly at this point, leaning on "skazhite" ("tell") before closing the thought with "nedostatki" ("flaws, shortcomings").
+- 'He does not wash the dishes after himself at home.' Kostya adopts a direct bearing in this beat, leaning on "doma" ("at home") before closing the thought with "moyet" ("washes").
+- 'I warn you, you are under oath!' Barinov takes a clear mood in front of Kostya, building the phrase around "preduprezhdayu" ("to warn") and "nakhodites" ("to be located") for a crisp, natural delivery.
+- 'And could such a person kiss Sasha?' Nastya presses honestly across the room, anchoring the Russian line on "mozhet" ("can") and "chelovek" ("a man, a person") without extra filler.
+- 'He could, because he used to date her before.' Kostya brings a playful direction as they talk, pairing "mog" ("can, to be able") with "ranshe" ("earlier, previously") to get the point across in plain spoken Russian.
+- 'Yes! I have no further questions!' Nastya holds a frank angle toward Kostya, leaning on "bolshe" ("more") before closing the thought with "voprosov" ("questions").

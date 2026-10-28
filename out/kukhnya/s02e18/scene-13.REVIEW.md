@@ -21,21 +21,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Шеф | Рюмки тер. | Wiping shot glasses at the bar. | #224: Рюмки тер | verbatim |
 | 10 | Настя | Положил в урну и свалил. | I put it in the trash bin and took off. | #226: Положил в урну и свалил | verbatim |
 | 11 | Шеф | Дома ждать Настю? | Wait at home for Nastya? | #227: Дома ждать Настю | verbatim |
-| 12 | Настя | Так что скоро узнаем, где бабки и Настя. | So we will find out very soon where the cash and Nastya are. | #229: Так что скоро узнаем, где бабки и Настя | verbatim |
+| 12 | Макс | Так что скоро узнаем, где бабки и Настя. | So we will find out very soon where the cash and Nastya are. | #229: Так что скоро узнаем, где бабки и Настя | verbatim |
 | 13 | Шеф | Ну, где Настя и бабки? | Well, where are Nastya and the cash? | #230: Ну, где Настя и бабки | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You will not have enough snails for everyone.' Barinov explains that Nastya will not have enough snails for everyone, keeping his voice calm and direct.
-- 'Nothing except snails.' Between the conversation and the table, Nastya gives Barinov a quick, grounded response.
-- 'I am not going to do it by myself anyway.' Being not going to do it by himself anyway is how Barinov lays out the situation for Nastya.
-- 'Today we are going to cook Burgundy snails together.' Even though today they are going to cook Burgundy snails together, Nastya keeps a steady face in front of Barinov.
-- 'Well, how did everything go out there?' Here wondering how everything go out there shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You were not even there.' Saying that Barinov was not even there is how Nastya sets the tone with Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I am actually really worried about Nastya too.' Being actually really worried about Nastya is how Barinov lays out the situation for Nastya.
-- 'Where were you when it was time to worry about her?' Asking where Barinov when it was time to worry was is how Nastya puts Barinov on the spot. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Wiping shot glasses at the bar.' Barinov tells Nastya that wiping shot glasses at the bar without dressing it up.
-- 'I put it in the trash bin and took off.' Claiming that she puts it in the trash bin and took off sounds confident, even if Barinov has doubts.
-- 'Wait at home for Nastya?' With the room and table hanging in the air, Barinov puts Nastya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'So we will find out very soon where the cash and Nastya are.' Saying that they will find out very soon where the cash and Nastya are is how Nastya sets the tone with Barinov.
-- 'Well, where are Nastya and the cash?' Here wondering where Nastya and the cash is shows Barinov looking for the real truth.
+- 'You will not have enough snails for everyone.' Barinov keeps a frank attitude on the spot, pairing "ulitok" ("snail, escargot") with "khvatit" ("enough") to get the point across in plain spoken Russian.
+- 'Nothing except snails.' Nastya projects a playful style in their talk, anchoring the Russian line on "ulitok" ("snail, escargot") and "krome" ("except") without extra filler.
+- 'I am not going to do it by myself anyway.' Barinov shows an unhurried style straight away, using "budu" (from "byt", "will be") alongside "ya" ("I") to shape the meaning.
+- 'Today we are going to cook Burgundy snails together.' Nastya adopts a sharp posture straight away, combining "segodnya" ("today") and "budem" ("will") so the key meaning lands right away.
+- 'Well, how did everything go out there?' Barinov challenges directly for Max's benefit, joining "kak" ("how") to "proshlo" ("have passed") so every word pulls its weight.
+- 'You were not even there.' Nastya establishes a playful manner toward Max, pairing "tam" ("there") with "bylo" ("was") to get the point across in plain spoken Russian.
+- 'I am actually really worried about Nastya too.' Barinov establishes a measured stance right away, pairing "voobshche" ("at all") with "tozhe" ("too") to get the point across in plain spoken Russian.
+- 'Where were you when it was time to worry about her?' Nastya wonders honestly in their exchange, pairing "gde" ("where") with "byl" ("was") to get the point across in plain spoken Russian.
+- 'Wiping shot glasses at the bar.' Barinov holds a firm direction beside Max, combining "ryumki" ("shot glasses") and "ter" ("to rub, to scrub") so the key meaning lands right away.
+- 'I put it in the trash bin and took off.' Nastya establishes a natural footing with Max, combining "polozhil" ("laid, put down") and "urnu" ("trash bin") so the key meaning lands right away.
+- 'Wait at home for Nastya?' Barinov presses briskly to Max here, leaning on "doma" ("at home") before closing the thought with "zhdat" ("to wait").
+- 'So we will find out very soon where the cash and Nastya are.' Max favors a brisk attitude during the exchange, joining "skoro" ("soon") to "uznayem" ("will find out") so every word pulls its weight.
+- 'Well, where are Nastya and the cash?' Barinov presses evenly without holding back, linking "gde" ("where"), "babki" ("grand"), and "nu" ("oh, come on") in one brisk exchange.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Or am I bad, Lyova?' Over the shift and the truth, Barinov presses Lyova for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You just have a hard time admitting your mistakes.' Once Barinov just have a hard time admitting Barinov's mistakes, Sasha can finally tell Barinov what she means.
-- 'Give me three.' Mentioning that Barinov should give him three moves the talk in a new direction.
-- 'But the truth is.' Barinov tells Lyova that the truth is without dressing it up.
-- 'That we ourselves choose.' Between the kitchen and the car, Sasha gives Barinov a quick, grounded response.
-- 'Whether to live in a world of illusions.' With the kitchen and apartment in play, Lyova keeps this short reply brisk and direct.
-- 'Or leave the past behind and move forward.' By telling Lyova to leave the past behind and move forward, Barinov keeps his side of the story grounded.
-- 'Sometimes making that choice is very simple.' Because sometimes making that choice is very simple, Sasha treats the matter as settled.
-- 'Did you order pizza?' Checking whether Barinov orders pizza is how Lyova puts Barinov on the spot.
-- 'Finally, come on in.' Between the shift and the sauce, Barinov gives Lyova a quick, grounded response.
-- 'Come in. Hi.' With the shift and car in play, Sasha keeps this short reply brisk and direct.
-- 'Where are your bags?' Wondering where Barinov's bags are cuts straight through the tension between Lyova and Barinov.
-- 'I am sorry, okay?' Asking whether he is sorry okay puts Lyova right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Or am I bad, Lyova?' Barinov probes sharply in the room, leaning on "plokhoy" ("bad") before closing the thought with "ili" ("or").
+- 'You just have a hard time admitting your mistakes.' Sasha shares a clear approach with Lyova, anchoring the Russian line on "tolko" ("only") and "oshibki" ("mistakes") without extra filler.
+- 'Give me three.' Lyova projects a calm angle straight away, building the phrase around "davay" ("let's") and "tri" ("three") for a crisp, natural delivery.
+- 'But the truth is.' Barinov sets a playful line without hesitation, linking "pravda" ("honestly"), "no" ("but"), and "tom" ("that") in one brisk exchange.
+- 'That we ourselves choose.' Sasha shows an earnest manner for Barinov, using "vybirayem" (from "vybirat", "choose") alongside "chto" ("what") to shape the meaning.
+- 'Whether to live in a world of illusions.' Lyova establishes a playful footing during the exchange, joining "zhit" ("to live") to "mire" ("world") so every word pulls its weight.
+- 'Or leave the past behind and move forward.' Barinov maintains a thoughtful direction for Lyova, pairing "dvigatsya" ("to move") with "ostavit" ("to keep, to leave") so the "-sya" ending carries the action.
+- 'Sometimes making that choice is very simple.' Sasha displays a pointed stance in the room, combining the softening word "prosto" ("simply, just") with "inogda" ("sometimes, at times") to give the line its natural spoken rhythm.
+- 'Did you order pizza?' Lyova inquires lightly without holding back, building the phrase around "pitstsu" ("pizza, pizza place") and "zakazali" ("ordered") for a crisp, natural delivery.
+- 'Finally, come on in.' Barinov chooses a natural view beside Sasha, building the phrase around "nakonets-to" ("at last, finally") and "zakhodi" ("come in") for a crisp, natural delivery.
+- 'Come in. Hi.' Sasha sustains a candid angle for Barinov, pairing "zakhodi" ("come in") with "privet" ("hi") to get the point across in plain spoken Russian.
+- 'Where are your bags?' Lyova prompts candidly to make the point, weaving "veshchi" ("things") together with "gde" ("where") just the way native speakers do.
+- 'I am sorry, okay?' Barinov queries naturally with Lyova now, building the phrase around "izvini" ("sorry, excuse me") and "ty" ("you") for a crisp, natural delivery.

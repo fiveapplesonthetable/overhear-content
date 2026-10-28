@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nothing brings our team together so well.' Fedya reminds Max that nothing brings their team together so well before the moment passes.
-- 'Guys, what is this banquet we have here?' By wondering what this banquet they have here is, Max presses Fedya for a straight answer.
-- 'We are drinking to our brave new sous-chef!' Insisting that they are drinking to their brave new shows Senya is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Max, we need to ask German for a salary raise!' Needing to ask German for a salary raise shows Fedya is done holding back. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Strike while the iron is still hot!' Declaring that strike while the iron is still hot brings Senya's temper right to the surface.
-- 'Guys, come on, what raise right now?' Over the story and the apartment, Max presses Fedya for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Come on, finish up quickly and let's go work.' Here coming on finish up quickly and let them go work sets up the next turn in their exchange. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'What, has our brave leader gotten scared already?' Fedya asks whether what has their brave leader gotten scared already, refusing to let the point slide.
-- 'No big deal, then we will go ourselves!' Because big deal then they will go themselves, Senya does not bother softening the blow for Fedya. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Guys, all right, wait here for one second!' Around the story and kitchen, Max makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I simply did not want to tell you until evening.' Realizing that he simply did not want to tell Fedya until evening changes how Max handles the situation.
-- 'I already got a bonus out of German today!' Declaring that he already got a bonus out of German today brings Max's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Here is your money, take it and sign for it.' Once here is Fedya's money take it and sign for it, Max can finally tell Fedya what he means. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Nothing brings our team together so well.' Fedya offers a firm view at this moment, combining "khorosho" ("good, fine") and "sblizhayet" ("closer") so the key meaning lands right away.
+- 'Guys, what is this banquet we have here?' Max asks earnestly during the talk, combining "parni" ("guys, boys") and "zdes" ("here") so the key meaning lands right away.
+- 'We are drinking to our brave new sous-chef!' Senya shares a lively direction for Fedya, combining "pyom" ("to drink") and "smelogo" ("brave, bold") so the key meaning lands right away.
+- 'Max, we need to ask German for a salary raise!' Fedya offers a candid tack with Senya, combining "nado" ("it is necessary") and "germana" ("german") so the key meaning lands right away.
+- 'Strike while the iron is still hot!' Senya adopts a clear line toward Fedya, leaning on "kuy" ("strike") before closing the thought with "zhelezo" ("while").
+- 'Guys, come on, what raise right now?' Max checks steadily as they speak, combining "parni" ("guys, boys") and "broste" ("to throw, to leave") so the key meaning lands right away.
+- 'Come on, finish up quickly and let's go work.' Max chooses a clear line across the room, joining "davayte" ("let's") to "bystro" ("quickly") so every word pulls its weight.
+- 'What, has our brave leader gotten scared already?' Fedya questions naturally from the start, combining "smelyy" ("brave") and "lider" ("leader") so the key meaning lands right away.
+- 'No big deal, then we will go ourselves!' Senya maintains a sharp tone in the scene, combining "strashnogo" ("terrible, serious") and "togda" ("back then") so the key meaning lands right away.
+- 'Guys, all right, wait here for one second!' Max conveys a candid approach toward Senya, leaning on "parni" ("guys, boys") before closing the thought with "podozhdite" ("wait").
+- 'I simply did not want to tell you until evening.' Max establishes an earnest position as they talk, anchoring the Russian line on "prosto" ("just") and "khotel" ("wanted") without extra filler.
+- 'I already got a bonus out of German today!' Max chooses a lively view in the room, leaning on "uzhe" ("already, now") before closing the thought with "segodnya" ("today").
+- 'Here is your money, take it and sign for it.' Max offers a measured view in the conversation, leaning on "dengi" ("money") before closing the thought with "poluchite" ("you will get").

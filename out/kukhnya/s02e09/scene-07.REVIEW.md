@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Probably. When?' With the point and work hanging in the air, Vika puts Nagiyev on the spot.
-- 'Tomorrow. Tomorrow?' With the point and plan hanging in the air, Nagiyev puts Vika on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I might not make it in time.' Admitting that she might not make it in time shows Vika being honest for a change.
-- 'What, is there nowhere else to get it?' Wondering what there nowhere else to get it is cuts straight through the tension between Nagiyev and Vika.
-- 'Otherwise, you have to wait.' Once otherwise Nagiyev has to wait, Vika can finally tell Nagiyev what she means. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Have to wait. Why is that?' Here asking whether to wait shows Nagiyev looking for the real truth. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'What do you think?' Here wondering what Nagiyev thinks shows Vika looking for the real truth.
-- 'All right, all right, do your best.' Since all right all right do Vika's best, Nagiyev does not waste words on excuses.
-- 'Just make sure you do not say a word about this to anyone.' Mentioning that just make sure Nagiyev does not say a word about this to anyone moves the talk in a new direction.
-- 'Look wherever you want.' Nagiyev reminds Vika that wherever Vika wants before the moment passes.
-- 'And make sure it is fresh.' Noting that Nagiyev should make sure it is fresh keeps Vika's side of the story simple and clear.
-- 'What did he order from you?' Wondering what he order from Vika cuts straight through the tension between Nagiyev and Vika. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Just not us.' With the truth and secret in play, Vika keeps this short reply brisk and direct.
+- 'Probably. When?' Vika inquires quietly to make the point, pairing "navernoye" ("probably") with "kogda" ("when") to get the point across in plain spoken Russian.
+- 'Tomorrow. Tomorrow?' Nagiyev prompts candidly to make the point, leaning on "zavtra" ("tomorrow") as a compact, one-word response that needs no extra words.
+- 'I might not make it in time.' Vika chooses a candid approach in the room, putting "mogu" ("can") alongside "uspet" ("to make it") in a tight, everyday turn of phrase.
+- 'What, is there nowhere else to get it?' Nagiyev queries decisively on the spot, leaning on "bolshe" ("more") before closing the thought with "negde" ("nowhere").
+- 'Otherwise, you have to wait.' Vika establishes a pointed manner without hesitation, combining "nado" ("it is necessary") and "podozhdat" ("to wait") so the key meaning lands right away.
+- 'Have to wait. Why is that?' Nagiyev challenges briskly in the scene, linking "nado" ("it is necessary"), "podozhdat" ("to wait"), and "chto" ("what") in one brisk exchange.
+- 'What do you think?' Vika queries wryly from the start, leaning on "dumayesh" ("think") before closing the thought with "ty" ("you").
+- 'All right, all right, do your best.' Nagiyev conveys an unhurried position in the scene, using "postaraysya" (from "postaratsya", "try") alongside "nu" ("oh, come on") to shape the meaning.
+- 'Just make sure you do not say a word about this to anyone.' Vika conveys an earnest line as they talk, leaning on "tolko" ("only") before closing the thought with "smotri" ("look").
+- 'Look wherever you want.' Nagiyev picks a resolute line in front of Vika, putting "ishchi" ("look for") alongside "gde" ("where") in a tight, everyday turn of phrase.
+- 'And make sure it is fresh.' Vika holds a playful style at once, putting all the weight on "svezhaya" ("fresh") so the reply lands immediately.
+- 'What did he order from you?' Nagiyev tests decisively in this moment, leaning on "zakazal" ("ordered") before closing the thought with "chto" ("what").
+- 'Just not us.' Vika shares a playful manner toward Nagiyev, anchoring the Russian line on "no" ("but") and "ne" ("not") without extra filler.

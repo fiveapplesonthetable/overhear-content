@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today I am accepting the fish myself.' Even though today he is accepting the fish himself, Senya keeps a steady face in front of Fedya.
-- 'It has a rather exhausted look.' Admitting that it has a rather exhausted look shows Senya being honest for a change. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Ride half a day in a truck, you will get tired.' Saying that ride half a day in a truck Fedya will get tired is how Timur sets the tone with Fedya.
-- 'Fyodor, I will sort this out without you.' Once someone he will sort this out without Fedya, Senya can finally tell Fedya what he means. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Why, it is completely fresh, for sure.' Adding that why it is completely fresh for sure fills in the missing piece for Fedya.
-- 'I will also give you a good discount.' Saying that he will also give Fedya a good discount is how Timur sets the tone with Fedya.
-- 'Fine, but take two crates.' With the fish and morning in play, Timur keeps this short reply brisk and direct.
-- 'Listen, well done, you know how to bargain well.' Mentioning that done Fedya knows how to bargain well moves the talk in a new direction.
-- 'Why did you take so much fish?' Here asking why Senya takes so much fish shows Fedya looking for the real truth.
-- 'A Japanese delegation has checked in with us.' Because a Japanese delegation has checked in with them, Senya treats the matter as settled.
-- 'Mikhail Jekovich demands that we prepare fish.' Explaining that Mikhail Jekovich demands that they prepare fish lays the cards on the table for Fedya.
-- 'And tomorrow we will buy even more fish.' Senya mentions that tomorrow they will buy even more fish so Fedya sees what is at stake.
+- 'Today I am accepting the fish myself.' Senya offers a firm tack in the room, joining "segodnya" ("today") to "prinimayu" ("to receive") so every word pulls its weight.
+- 'It has a rather exhausted look.' Senya adopts an easygoing footing for Timur, pairing "zamuchennyy" ("exhausted, worn-out") with "vid" ("view") to get the point across in plain spoken Russian.
+- 'Ride half a day in a truck, you will get tired.' Timur displays a calm tone in the room, linking "pokataysya" ("go for a ride"), "poldnya" ("half a day"), and "gruzovike" ("truck") in one brisk exchange.
+- 'Fyodor, I will sort this out without you.' Senya keeps a frank view without hesitation, building the phrase around "razberus" ("I will sort out") and "fyodor" ("Fyodor") for a crisp, natural delivery.
+- 'Why, it is completely fresh, for sure.' Timur strikes a grounded course in this beat, placing "sovsem" ("at all") straight beside "svezhaya" ("fresh") with no word for "to be" needed.
+- 'I will also give you a good discount.' Timur chooses a pointed tack in front of Senya, putting "yeshchyo" ("more, still") alongside "khoroshuyu" ("good") in a tight, everyday turn of phrase.
+- 'Fine, but take two crates.' Timur presents a sharp mood for Fedya, joining "beri" ("take, grab") to "yashchika" ("box, crate") so every word pulls its weight.
+- 'Listen, well done, you know how to bargain well.' Timur strikes a frank position in front of Senya, pairing "slushay" ("listen") with "molodets" ("well done, good boy") to get the point across in plain spoken Russian.
+- 'Why did you take so much fish?' Fedya wonders promptly to make the point, anchoring the Russian line on "kuda" ("where to") and "stolko" ("so many") without extra filler.
+- 'A Japanese delegation has checked in with us.' Senya shows an unhurried tack in their talk, using "zayekhala" (from "zayekhat", "stopped by") alongside "yaponskaya" ("Japanese") to shape the meaning.
+- 'Mikhail Jekovich demands that we prepare fish.' Senya sustains a brisk rhythm in the conversation, weaving "trebuyet" ("demands") together with "prigotovit" ("to cook, to prepare") just the way native speakers do.
+- 'And tomorrow we will buy even more fish.' Senya keeps a direct note in front of Timur, leaning on "zavtra" ("tomorrow") before closing the thought with "yeshchyo" ("more, still").

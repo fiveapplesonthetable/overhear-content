@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Kostya!' With the conversation and exchange at stake, Denis reacts without holding back.
-- 'I confessed everything to Katya after all.' Between the exchange and the work, Denis gives Kostya a quick, grounded response.
-- 'Really? You made a big mistake doing that.' Wondering if Denis made a big mistake doing shows Kostya caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Nastya is still not speaking to me.' Kostya mentions that Nastya is still not speaking to him so Denis sees what is at stake.
-- 'I even slept on the floor today.' Claiming that he even slept on the floor today sounds confident, even if Denis has doubts.
-- 'Are you saying that seriously?' By checking whether Kostya saying that seriously, Denis presses Kostya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Here is what I thought last night.' Kostya mentions that here is what he thought last night so Denis sees what is at stake.
-- 'I will come home and give her a massage.' Realizing that he will come home and give her a massage changes how Kostya handles the situation.
-- 'She did not let me give her a massage.' Noting that she did not let him give her a massage keeps Kostya's side of the story simple and clear.
-- 'In short, listen to my new advice.' With the shift and exchange in play, Kostya keeps this short reply brisk and direct.
-- 'You must never tell them anything at all.' Admitting that Denis must never tell them anything at all shows Kostya being honest for a change. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Do not tell under any circumstances!' Once do not tell under any circumstances, Kostya makes sure Denis hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Hi, Kostya!' Denis sets an emphatic style for Kostya, putting "privet" ("hi") alongside "kostya" ("Kostya") in a tight, everyday turn of phrase.
+- 'I confessed everything to Katya after all.' Denis sustains an easygoing tack straight away, building the phrase around "priznalsya" ("did he confess") and "ya" ("I") for a crisp, natural delivery.
+- 'Really? You made a big mistake doing that.' Kostya queries sharply in their exchange, leaning on "ochen" ("very much") before closing the thought with "zrya" ("for nothing").
+- 'Nastya is still not speaking to me.' Kostya shows an easygoing view right away, weaving "por" ("time") together with "razgovarivayet" ("to talk, to speak") just the way native speakers do.
+- 'I even slept on the floor today.' Kostya shares a natural direction on the spot, putting "spal" ("slept") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
+- 'Are you saying that seriously?' Denis asks warmly without a pause, weaving "govorish" ("you say") together with "seryozno" ("seriously") just the way native speakers do.
+- 'Here is what I thought last night.' Kostya shares an earnest style right away, pairing "vchera" ("yesterday") with "vecherom" ("in the evening") to get the point across in plain spoken Russian.
+- 'I will come home and give her a massage.' Kostya chooses a thoughtful angle in the scene, combining "pridu" ("will come") and "domoy" ("home") so the key meaning lands right away.
+- 'She did not let me give her a massage.' Kostya picks a candid tone at once, linking "massazh" ("a massage"), "sdelat" ("to do"), and "pustila" ("to let go, to let in") in one brisk exchange.
+- 'In short, listen to my new advice.' Kostya projects a warm attitude on the spot, linking "koroche" ("long story short"), "slushay" ("listen"), and "novyy" ("new") in one brisk exchange.
+- 'You must never tell them anything at all.' Kostya projects a calm direction in their talk, linking "nelzya" ("not allowed"), "voobshche" ("at all"), and "rasskazyvat" ("to tell") in one brisk exchange.
+- 'Do not tell under any circumstances!' Kostya holds a natural style in front of Denis, building the phrase around "sluchaye" ("case, event") and "govori" ("say, talk") for a crisp, natural delivery.

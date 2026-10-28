@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She feels awful right now after that whole story.' Explaining that she feels awful right now after that whole story lays the cards on the table for Kostya.
-- 'Katya definitely needs a reliable man's shoulder.' Nastya mentions that Katya definitely needs a reliable man shoulder so Kostya sees what is at stake.
-- 'Maybe this is the right time for Denis to approach her?' Wondering if maybe this is the right time for Denis to approach shows Kostya caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What are you talking about, anyone but Denis!' Declaring that what are Kostya talking about anyone but Denis brings Nastya's temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Now Nikita is a completely different matter.' Saying that Nikita is a completely different matter is how Nastya sets the tone with Kostya.
-- 'There is no telling what to expect from him.' Realizing that there is no telling what to expect from him changes how Kostya handles the situation.
-- 'Denis left her once and will leave her again.' Noting that Denis left her once and will leave her again keeps Nastya's side of the story simple and clear.
-- 'No, Nikita suits her much better.' With the match and kitchen in play, Nastya keeps this short reply brisk and direct.
-- 'Nastya, let us stay out of other people's lives.' Because they should stay out of other people lives, Kostya treats the matter as settled. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'You and I are not matchmakers after all.' Saying that Nastya and he are not matchmakers after all is how Kostya sets the tone with Nastya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'No, of course, we will not interfere.' Once they will not interfere, Nastya can finally tell Kostya what she means.
-- 'Let them figure everything out by themselves.' Letting them figure everything out by themselves is how Kostya lays out the situation for Nastya.
+- 'She feels awful right now after that whole story.' Nastya projects an easygoing tack at once, linking "seychas" ("now"), "ochen" ("very much"), and "plokho" ("badly") in one brisk exchange.
+- 'Katya definitely needs a reliable man's shoulder.' Nastya shows a sharp style in front of Kostya, linking "tochno" ("definitely"), "nuzhno" ("necessary"), and "nadyozhnoye" ("safe, secure") in one brisk exchange.
+- 'Maybe this is the right time for Denis to approach her?' Kostya questions firmly to make the point, weaving "mozhet" ("can") together with "samoye" ("the most") just the way native speakers do.
+- 'What are you talking about, anyone but Denis!' Nastya brings a frank stance right away, putting "tolko" ("only") alongside "ty" ("you") in a tight, everyday turn of phrase.
+- 'Now Nikita is a completely different matter.' Nastya strikes a warm angle without hesitation, placing "sovsem" ("at all") straight beside "drugoye" ("another, other") with no word for "to be" needed.
+- 'There is no telling what to expect from him.' Kostya takes an earnest tack in the room, weaving "voobshche" ("at all") together with "neponyatno" ("unclear") just the way native speakers do.
+- 'Denis left her once and will leave her again.' Nastya offers an easygoing posture in the scene, leaning on "raz" ("time, once") before closing the thought with "brosil" ("threw").
+- 'No, Nikita suits her much better.' Nastya establishes a candid tempo with Kostya, building the phrase around "podkhodit" ("is coming up") and "gorazdo" ("much") for a crisp, natural delivery.
+- 'Nastya, let us stay out of other people's lives.' Kostya strikes a wry manner beside Nastya, joining "davay" ("let's") to "budem" ("will") so every word pulls its weight.
+- 'You and I are not matchmakers after all.' Kostya presents a warm course on the spot, building the phrase around "svodniki" ("matchmakers") and "my" ("we") for a crisp, natural delivery.
+- 'No, of course, we will not interfere.' Nastya takes a thoughtful direction without hesitation, building the phrase around "konechno" ("of course") and "vmeshivatsya" ("to interfere") for a crisp, natural delivery.
+- 'Let them figure everything out by themselves.' Kostya conveys a steady tempo right away, building the phrase around "luchshe" ("better") and "razbirayutsya" ("understand") for a crisp, natural delivery.

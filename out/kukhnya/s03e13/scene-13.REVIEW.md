@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In short, Katya, I got the wrong guy drunk.' Max tells Katya that in short Katya he got the wrong guy drunk without dressing it up.
-- 'Listen, you have a habit of plying the wrong people with drinks.' Since Max has a habit of plying the wrong people with drinks, Katya does not waste words on excuses. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I am speaking seriously, what should we do?' Being speaking seriously what should they do cuts straight through the tension between Max and Katya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We have to go and confess honestly.' Katya tells Max that they have to go and confess honestly without dressing it up.
-- 'You have to know how to confess, let's go.' Because Max has to know how to confess let them go, Katya treats the matter as settled. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Congratulations, Vitya, your daughter and Max robbed the bar.' With the room and office in play, Vika keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Wait until Dima gets here.' Vika mentions that until Dima gets here so Katya sees what is at stake.
-- 'He will gladly have a laugh with you.' Claiming that he will gladly have a laugh with Katya sounds confident, even if Katya has doubts. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Forgive us, please, it was us.' Forgiving them please it was them is how Max lays out the situation for Katya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'We already know all about it.' Over the room and the office, Vika answers Katya without a second thought.
-- 'Why did you not tell us right away?' Asking why Katya not tell them right away is how Vika puts Katya on the spot. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Honestly speaking, we did not remember right away.' Noting that speaking they did not remember right away keeps Katya's side of the story simple and clear.
-- 'That is it, I am calling Dmitry Vladimirovich.' Even though that is it she is calling Dmitry Vladimirovich, Vika keeps a steady face in front of Katya.
+- 'In short, Katya, I got the wrong guy drunk.' Max displays a frank tempo in front of Katya, leaning on "koroche" ("long story short") before closing the thought with "napoil" ("got drunk").
+- 'Listen, you have a habit of plying the wrong people with drinks.' Katya favors a thoughtful course straight away, combining "u tebya" (literally "by you") with "slushay" ("listen") rather than a separate word for "have".
+- 'I am speaking seriously, what should we do?' Max challenges directly for Katya's benefit, linking "seryozno" ("seriously"), "govoryu" ("am telling"), and "delat" ("do") in one brisk exchange.
+- 'We have to go and confess honestly.' Katya keeps an easygoing course across the room, building the phrase around "nado" ("it is necessary") and "chestno" ("honestly") for a crisp, natural delivery.
+- 'You have to know how to confess, let's go.' Katya presents a pointed manner in this beat, putting "nado" ("it is necessary") alongside "umet" ("to know how") in a tight, everyday turn of phrase.
+- 'Congratulations, Vitya, your daughter and Max robbed the bar.' Vika shows a resolute tack in the conversation, using "pozdravlyayu" (from "pozdravlyat", "congratulations") alongside "doch" ("daughter") to shape the meaning.
+- 'Wait until Dima gets here.' Vika projects an easygoing direction in the scene, building the phrase around "podozhdi" ("wait") and "poka" ("bye") for a crisp, natural delivery.
+- 'He will gladly have a laugh with you.' Vika maintains a brisk line at this moment, anchoring the Russian line on "udovolstviyem" ("pleasure") and "posmeyotsya" ("to have a laugh") without extra filler.
+- 'Forgive us, please, it was us.' Max presents a candid line as they talk, anchoring the Russian line on "prostite" ("excuse me") and "nas" ("us") without extra filler.
+- 'We already know all about it.' Vika conveys a steady mood for Max, putting "uzhe" ("already, now") alongside "kurse" ("course, regimen") in a tight, everyday turn of phrase.
+- 'Why did you not tell us right away?' Vika prompts candidly in the scene, anchoring the Russian line on "pochemu" ("why") and "srazu" ("at once") without extra filler.
+- 'Honestly speaking, we did not remember right away.' Katya strikes a resolute manner in the scene, linking "chestno" ("honestly"), "govorya" ("speaking"), and "srazu" ("at once") in one brisk exchange.
+- 'That is it, I am calling Dmitry Vladimirovich.' Vika sets a grounded bearing at this moment, pairing "zvonyu" ("call") with "vsyo" ("everything") to get the point across in plain spoken Russian.

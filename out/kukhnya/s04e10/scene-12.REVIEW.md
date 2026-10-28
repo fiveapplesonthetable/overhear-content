@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Barricade the doors, let's stick together!' Once barricade the doors let them stick together, Vika makes sure Max hears every word. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Vika, what did you hit me for?' Wondering what Senya hits him cuts straight through the tension between Max and Senya.
-- 'Oh, Max, forgive me.' Around the shift and truth, Vika sets a calm, everyday tone with Max.
-- 'Vika, I am not a zombie at all!' Being not a zombie at all shows Max is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I am simply tired of your lying.' Because she is simply tired of Max's lying, Vika treats the matter as settled.
-- 'Why are you looking at me like that?' Asking why Max looking at him like is cuts straight through the tension between Senya and Max. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'It is only just a finger.' Senya mentions that it is only just a finger so Max sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I will chop it off quickly right now.' Claiming that he will chop it off quickly right now sounds confident, even if Max has doubts.
-- 'Right now I am definitely going to chop.' Explaining that right now he is definitely going to chop lays the cards on the table for Max.
-- 'Yes, I am almost chopping it already.' Noting that he is almost chopping it already keeps Senya's side of the story simple and clear.
-- 'Senya, you will not be able to do that.' Realizing that Senya will not be able to do changes how Max handles the situation.
-- 'Lower the big knife, Senya.' Over the conversation and the kitchen, Vika answers Max without a second thought.
+- 'Barricade the doors, let's stick together!' Vika sustains a grounded stance as the scene unfolds, joining "zakryvayte" ("to close, to shut") to "dveri" ("door") so every word pulls its weight.
+- 'Vika, what did you hit me for?' Max questions naturally for Vika's benefit, pairing "udarila" ("to hit, to strike") with "vika" ("Vika") to get the point across in plain spoken Russian.
+- 'Oh, Max, forgive me.' Vika favors a lively approach with Max, linking "prosti" ("sorry, forgive me"), "oy" ("oh"), and "maks" ("Max") in one brisk exchange.
+- 'Vika, I am not a zombie at all!' Max establishes a direct tempo in the room, building the phrase around "sovsem" ("at all") and "zombi" ("matter") for a crisp, natural delivery.
+- 'I am simply tired of your lying.' Vika adopts an honest course for Max, pairing "prosto" ("just") with "ustala" ("are tired, got tired") to get the point across in plain spoken Russian.
+- 'Why are you looking at me like that?' Senya questions directly to Vika here, weaving "smotrite" ("look") together with "vy" ("you") just the way native speakers do.
+- 'It is only just a finger.' Senya chooses an unhurried note during the exchange, combining "palets" ("finger") and "eto" ("this") so the key meaning lands right away.
+- 'I will chop it off quickly right now.' Senya sustains a steady posture in their talk, building the phrase around "seychas" ("now") and "bystro" ("quickly") for a crisp, natural delivery.
+- 'Right now I am definitely going to chop.' Senya chooses a firm tone in their talk, anchoring the Russian line on "seychas" ("now") and "tochno" ("definitely") without extra filler.
+- 'Yes, I am almost chopping it already.' Senya sets a frank mood in this beat, anchoring the Russian line on "uzhe" ("already, now") and "pochti" ("almost") without extra filler.
+- 'Senya, you will not be able to do that.' Max holds an honest angle in the room, building the phrase around "smozhesh" ("will you be able") and "sdelat" ("to do") for a crisp, natural delivery.
+- 'Lower the big knife, Senya.' Vika maintains a candid attitude right away, pairing "opusti" ("to lower") with "bolshoy" ("big") to get the point across in plain spoken Russian.

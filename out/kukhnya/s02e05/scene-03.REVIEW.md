@@ -22,20 +22,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Шеф | Жарят его только идиоты. | Only idiots fry it. | #43: Жарят его только идиоты | verbatim |
 | 11 | Вика | Лёва, я идиот? | Lyova, am I an idiot? | #44: Лёва, я идиот | verbatim |
 | 12 | Костя | Что за пауза? | What was that pause for? | #45: Что за пауза | verbatim |
-| 13 | Шеф | Нет, шеф. | No, Chef. | #46: Нет, шеф | verbatim |
+| 13 | Вика | Нет, шеф. | No, Chef. | #46: Нет, шеф | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I just do not know.' Realizing that he just does not know changes how Barinov handles the situation.
-- 'You see, Kostyan, with Vika...' Between the dish and the plan, Vika gives Barinov a quick, grounded response.
-- 'Yes, with Vika it is complicated, with Sasha it is simple.' Even though with Vika it is complicated with Sasha it is simple, Kostya keeps a steady face in front of Barinov.
-- 'I have heard that already.' Having heard that already is how Barinov lays out the situation for Kostya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I do not know what to do.' Saying that she does not know what to do is how Vika sets the tone with Barinov.
-- 'Wait, do you have an idea?' Here asking whether Barinov has an idea shows Kostya looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Go on, get out of here, Kostyan.' Saying that Kostya should go on get out of here is how Barinov sets the tone with Kostya. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Steak tartare is a raw dish.' Vika tells Barinov that steak tartare is a raw dish without dressing it up.
-- 'You do not fry it.' Since Barinov does not fry it, Kostya does not waste words on excuses.
-- 'Only idiots fry it.' With the moment and dish in play, Barinov keeps this short reply brisk and direct.
-- 'Lyova, am I an idiot?' Around the conversation and kitchen, Vika wants to know where Barinov really stands.
-- 'What was that pause for?' Wondering what that pause was cuts straight through the tension between Kostya and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, Chef.' With the moment and point in play, Barinov keeps this short reply brisk and direct.
+- 'I just do not know.' Barinov holds a lively posture for Kostya, linking "znayu" ("know"), "ne" ("not"), and "ya" ("I") in one brisk exchange.
+- 'You see, Kostyan, with Vika...' Vika establishes a brisk position on the spot, combining "ponimayesh" ("do you understand") and "kostyan" ("Kostyan") so the key meaning lands right away.
+- 'Yes, with Vika it is complicated, with Sasha it is simple.' Kostya takes an easygoing position as the scene unfolds, anchoring the Russian line on "slozhno" ("difficult") and "prosto" ("just") without extra filler.
+- 'I have heard that already.' Barinov picks a sharp angle in front of Vika, building the phrase around "uzhe" ("already, now") and "slyshal" ("heard") for a crisp, natural delivery.
+- 'I do not know what to do.' Vika takes a candid view across the room, joining "znayu" ("know") to "delat" ("do") so every word pulls its weight.
+- 'Wait, do you have an idea?' Kostya presses sharply to keep things clear, combining "ideya" ("idea") and "che" ("what") so the key meaning lands right away.
+- 'Go on, get out of here, Kostyan.' Barinov offers an honest tempo during the exchange, leaning on "davay" ("let's") before closing the thought with "idi" ("go").
+- 'Steak tartare is a raw dish.' Vika holds a resolute attitude as they talk, building the phrase around "tartar" ("tartare") and "syroye" ("raw, uncooked") for a crisp, natural delivery.
+- 'You do not fry it.' Kostya displays a pointed direction as they talk, leaning on "zharyat" ("to fry, to roast") before closing the thought with "yego" ("him").
+- 'Only idiots fry it.' Barinov holds a direct stance as the scene unfolds, weaving "zharyat" ("to fry, to roast") together with "tolko" ("only") just the way native speakers do.
+- 'Lyova, am I an idiot?' Vika prompts earnestly on the spot, weaving "idiot" ("idiot") together with "lyova" ("Lyova") just the way native speakers do.
+- 'What was that pause for?' Kostya quizzes plainly right away, linking "pauza" ("pause, break"), "chto" ("what"), and "za" ("for") in one brisk exchange.
+- 'No, Chef.' Vika brings a grounded view as the scene unfolds, anchoring the Russian line on "net" ("no") and "shef" ("Chef") without extra filler.

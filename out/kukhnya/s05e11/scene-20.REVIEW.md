@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quiet, sit down. Why did you tell her?' Over the moment and the shock, Max presses Lyova for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I did not tell them anything!' Once she did not tell them anything, Vika makes sure Lyova hears every word. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Grandma, who told you about everything? Call a doctor quickly!' Max asks whether grandma who told Lyova about everything, refusing to let the point slide.
-- 'She had an attack, but it is nothing terrible.' Because she had an attack but it is nothing terrible, Vika treats the matter as settled. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'For now we need to avoid physical strain and buy these medicines.' Between the hotel and the moment, Vika gives Lyova a quick, grounded response. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'All the best, thank you!' Between the conversation and the doctor, Max delivers a sharp reaction.
-- 'Listen, now I am even afraid to be late for work.' Here being even afraid to be late for work sets up the next turn in their exchange.
-- 'Of course the ancients were right, but one should not forget about life either.' Pointing out that the ancients were right but one should not forget about life either gives Lyova a sobering reality check.
-- 'You should have seen his face!' Once Max should have seen his face, Lyova makes sure Max hears every word.
-- 'Buy flowers for your wife!' By telling Lyova to buy flowers for Lyova's wife, Vika raises the stakes in the room at once. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'We are not married. So what, not give flowers now? Give me all of them!' Questioning whether they are not married is how Lyova tests Max's story. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Here you go!' Saying that here Max goes is how Lyova takes charge of the moment.
+- 'Quiet, sit down. Why did you tell her?' Max checks calmly across the room, putting "tikho" ("easy, quiet") alongside "sadis" ("sit down") in a tight, everyday turn of phrase.
+- 'I did not tell them anything!' Vika offers an unhurried line straight away, using "govorila" (from "govorit", "said") alongside "ya" ("I") to shape the meaning.
+- 'Grandma, who told you about everything? Call a doctor quickly!' Max tests warmly at this point, leaning on "babushka" ("old lady") before closing the thought with "rasskazal" ("told").
+- 'She had an attack, but it is nothing terrible.' Vika chooses a sharp mood at this moment, combining "byl" ("was") and "pristup" ("attack, fit") so the key meaning lands right away.
+- 'For now we need to avoid physical strain and buy these medicines.' Vika sustains an earnest attitude in front of Lyova, combining "poka" ("bye") and "nuzhno" ("necessary") so the key meaning lands right away.
+- 'All the best, thank you!' Max sets a serious tempo at once, putting "dobrogo" ("good") alongside "spasibo" ("thank you") in a tight, everyday turn of phrase.
+- 'Listen, now I am even afraid to be late for work.' Lyova projects a steady position beside Max, weaving "slushay" ("listen") together with "teper" ("now") just the way native speakers do.
+- 'Of course the ancients were right, but one should not forget about life either.' Max establishes a natural line in front of Vika, putting "konechno" ("of course") alongside "drevniye" ("ancient, antique") in a tight, everyday turn of phrase.
+- 'You should have seen his face!' Lyova keeps a lively stance as they talk, weaving "videla" ("saw") together with "litso" ("face") just the way native speakers do.
+- 'Buy flowers for your wife!' Vika sets a grounded tone as they talk, anchoring the Russian line on "kupite" ("buy") and "supruge" ("spouse, wife") without extra filler.
+- 'We are not married. So what, not give flowers now? Give me all of them!' Lyova questions promptly as they speak, joining "zhenaty" ("married") to "teper" ("now") so every word pulls its weight.
+- 'Here you go!' Lyova keeps a resolute tempo in the room, putting all the weight on "proshu" ("beg, ask") so the reply lands immediately.

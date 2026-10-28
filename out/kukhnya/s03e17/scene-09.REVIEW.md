@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who are you hiding from right here, Max?' By asking who Max hiding from right here is, Katya presses Max for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I am not hiding from anyone at all.' Noting that he is not hiding from anyone at all keeps Max's side of the story simple and clear.
-- 'Chef just gave me urgent work.' Max reminds Katya that Chef just gave him urgent work before the moment passes.
-- 'I need to urgently check the electricity here.' Pointing out that he needs to urgently check the electricity here gives Katya a sobering reality check. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'And why do you have to be the one to do that?' By wondering why Max has to be the one to do, Katya presses Max for a straight answer.
-- 'Because I studied to be an electrician in Voronezh.' Between the work and the point, Max gives Katya a quick, grounded response.
-- 'Alright then, go ahead and fix it in front of me.' Over the work and the plan, Katya answers Max without a second thought. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Now I have really gotten myself into trouble.' Mentioning that he has really gotten himself into trouble moves the talk in a new direction.
-- 'Well, you will not understand anything anyway.' Max mentions that Katya will not understand anything anyway so Katya sees what is at stake. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Let us see what looks the most harmless in here.' Seeing what looks the most harmless in here together moves the conversation forward without extra drama.
-- 'Whoa, and is that all of your work?' Wondering if someone and is that all of Max's work shows Katya caught off guard.
-- 'One fuse is alive, now we will check the others.' Even though one fuse is alive now they will check the others, Max keeps a steady face in front of Katya.
+- 'Who are you hiding from right here, Max?' Katya questions briskly in front of Max, pairing "tut" ("here") with "seychas" ("now") to get the point across in plain spoken Russian.
+- 'I am not hiding from anyone at all.' Max establishes a frank bearing in front of Katya, combining "vovse" ("at all") and "pryachus" ("to hide") so the key meaning lands right away.
+- 'Chef just gave me urgent work.' Max maintains a grounded angle on the spot, combining the softening word "prosto" ("simply, just") with "dal" ("to give") to give the line its natural spoken rhythm.
+- 'I need to urgently check the electricity here.' Max establishes a calm approach straight away, putting "nado" ("it is necessary") alongside "srochno" ("urgent, urgently") in a tight, everyday turn of phrase.
+- 'And why do you have to be the one to do that?' Katya challenges honestly at this point, joining "pochemu" ("why") to "dolzhen" ("has to, must") so every word pulls its weight.
+- 'Because I studied to be an electrician in Voronezh.' Max takes a steady tone without hesitation, weaving "elektrika" ("electrician") together with "uchilsya" ("studied") just the way native speakers do.
+- 'Alright then, go ahead and fix it in front of me.' Katya adopts a steady tack as the scene unfolds, anchoring the Russian line on "khorosho" ("good, fine") and "togda" ("back then") without extra filler.
+- 'Now I have really gotten myself into trouble.' Max sets a playful line in their talk, putting "seychas" ("now") alongside "seryozno" ("seriously") in a tight, everyday turn of phrase.
+- 'Well, you will not understand anything anyway.' Max sets a clear attitude right away, doubling the negative with "ne" ("not") and "ravno" ("the same"), which is standard and required in Russian.
+- 'Let us see what looks the most harmless in here.' Max maintains a lively stance in front of Katya, putting "posmotrim" ("have a look") alongside "tut" ("here") in a tight, everyday turn of phrase.
+- 'Whoa, and is that all of your work?' Katya queries bluntly in the scene, anchoring the Russian line on "rabota" ("job") and "ogo" ("wow") without extra filler.
+- 'One fuse is alive, now we will check the others.' Max brings an unhurried manner for Katya, putting "predokhranitel" ("fuse") alongside "zhivoy" ("alive") in a tight, everyday turn of phrase.

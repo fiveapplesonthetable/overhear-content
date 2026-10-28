@@ -14,28 +14,28 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Вика | Ты пропал на полгода? | You disappeared for six months! | #188: Ты пропал на полгода | verbatim |
 | 3 | Саша | А теперь вот так просто прости. | And now you expect me to just forgive you like that. | #189: а теперь вот так просто прости | verbatim |
 | 4 | Макс | Я не сбежал. | I did not run away. | #190: Я не сбежал | verbatim |
-| 5 | Вика | Я испугался, но я испугался своих чувств. | I got scared, because I was afraid of my own feelings. | #191: Я испугался, но я испугался своих чувств | verbatim |
-| 6 | Саша | Я готов идти дальше. | I am ready to move forward now. | #194: Я готов идти дальше | verbatim |
+| 5 | Макс | Я испугался, но я испугался своих чувств. | I got scared, because I was afraid of my own feelings. | #191: Я испугался, но я испугался своих чувств | verbatim |
+| 6 | Макс | Я готов идти дальше. | I am ready to move forward now. | #194: Я готов идти дальше | verbatim |
 | 7 | Макс | Если, конечно, ты тоже этого хочешь. | Provided, of course, that you want that too. | #195: Если, конечно, ты тоже этого хочешь | verbatim |
 | 8 | Вика | Извините, что заказывать будете? | Excuse me, what would you like to order? | #196: Извините, что заказывать будете | verbatim |
 | 9 | Саша | Неважно, молодой человек. | It does not matter, young man. | #197: Неважно, молодой человек | verbatim |
 | 10 | Макс | Что-то как-то не сильно она на него обижается. | Somehow she does not look all that angry with him. | #198: Что-то как-то не сильно она на него обижается | verbatim |
 | 11 | Вика | А сойдутся вообще супер будет. | And if they get back together, that will be awesome. | #199: А сойдутся вообще супер будет | verbatim |
 | 12 | Саша | Всем хорошо. | Everyone wins. | #201: Всем хорошо | verbatim |
-| 13 | Макс | Макс, ты? | Max, what are you doing? | #203: Макс, ты | verbatim |
+| 13 | Вика | Макс, ты? | Max, what are you doing? | #203: Макс, ты | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am begging you, please forgive me.' Adding that he is begging Sasha pleases forgive him fills in the missing piece for Sasha. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You disappeared for six months!' With the moment and conversation hanging in the air, Vika puts Max on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And now you expect me to just forgive you like that.' Realizing that Max expects her to just forgive Max likes changes how Sasha handles the situation.
-- 'I did not run away.' Noting that he did not run away keeps Max's side of the story simple and clear.
-- 'I got scared, because I was afraid of my own feelings.' Even though she got scared because she was afraid of her own feelings, Vika keeps a steady face in front of Max.
-- 'I am ready to move forward now.' Being ready to move forward now moves the conversation forward without extra drama.
-- 'Provided, of course, that you want that too.' Saying that provided of course that Sasha wants is how Max sets the tone with Sasha. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Excuse me, what would you like to order?' By asking what Max likes to order would, Vika presses Max for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It does not matter, young man.' Adding that it does not matter young man fills in the missing piece for Max.
-- 'Somehow she does not look all that angry with him.' Max tells Sasha that somehow she does not look all that angry with him without dressing it up.
-- 'And if they get back together, that will be awesome.' Since if they get back together that will be awesome, Vika does not waste words on excuses.
-- 'Everyone wins.' Around the shift and room, Sasha sets a calm, everyday tone with Max.
-- 'Max, what are you doing?' By asking what Sasha doing is, Max presses Sasha for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I am begging you, please forgive me.' Max maintains an earnest tack during the exchange, pairing "proshu" ("beg, ask") with "prosti" ("sorry, forgive me") to get the point across in plain spoken Russian.
+- 'You disappeared for six months!' Vika checks boldly as the talk turns, joining "propal" ("is missing") to "polgoda" ("six months") so every word pulls its weight.
+- 'And now you expect me to just forgive you like that.' Sasha keeps a calm stance across the room, linking "teper" ("now"), "prosto" ("just"), and "prosti" ("sorry, forgive me") in one brisk exchange.
+- 'I did not run away.' Max chooses a warm course on the spot, putting "sbezhal" ("escaped, ran away") alongside "ya" ("I") in a tight, everyday turn of phrase.
+- 'I got scared, because I was afraid of my own feelings.' Max conveys a thoughtful rhythm on the spot, anchoring the Russian line on "ispugalsya" ("got scared") and "chuvstv" ("feelings") without extra filler.
+- 'I am ready to move forward now.' Max keeps a measured tempo on the spot, using "gotov" (from "gotovyy", "ready") alongside "idti" ("to go") to shape the meaning.
+- 'Provided, of course, that you want that too.' Max holds a clear position as the scene unfolds, building the phrase around "konechno" ("of course") and "tozhe" ("too") for a crisp, natural delivery.
+- 'Excuse me, what would you like to order?' Vika asks quietly in their exchange, combining "izvinite" ("sorry, excuse me") and "zakazyvat" ("to order") so the key meaning lands right away.
+- 'It does not matter, young man.' Sasha picks an emphatic posture across the room, linking "nevazhno" ("never mind"), "molodoy" ("young"), and "chelovek" ("a man, a person") in one brisk exchange.
+- 'Somehow she does not look all that angry with him.' Max displays an easygoing tone as the scene unfolds, anchoring the Russian line on "kak-to" ("somehow, a bit") and "silno" ("strongly, much") without extra filler.
+- 'And if they get back together, that will be awesome.' Vika sets a calm course right away, pairing "soydutsya" ("to converge") with "voobshche" ("at all") so the "-sya" ending carries the action.
+- 'Everyone wins.' Sasha brings a frank manner without hesitation, weaving "khorosho" ("good, fine") together with "vsem" ("everyone") just the way native speakers do.
+- 'Max, what are you doing?' Vika inquires quietly for Max's benefit, pairing "maks" ("Max") with "ty" ("you") to get the point across in plain spoken Russian.

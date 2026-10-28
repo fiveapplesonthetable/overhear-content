@@ -20,22 +20,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Шеф | А твое какое дело? | And what business is it of yours? | #318: А твое какое дело | verbatim |
 | 9 | Вика | И что ты здесь стоишь? | Why are you standing around here? | #319: И что ты здесь стоишь | verbatim |
 | 10 | Макс | А ты что, там допьешь? | Are you going to finish drinking that? | #321: А ты что, там допьешь | verbatim |
-| 11 | Шеф | Зря вы с ним так, Виктор Петрович. | You should not treat him like that, Viktor Petrovich. | #322: Зря вы с ним так, Виктор Петрович | verbatim |
+| 11 | Вика | Зря вы с ним так, Виктор Петрович. | You should not treat him like that, Viktor Petrovich. | #322: Зря вы с ним так, Виктор Петрович | verbatim |
 | 12 | Вика | И без обид. | And no hard feelings. | #324: И без обид | verbatim |
 | 13 | Макс | В вашем лице, Виктор Петрович. | In your person, Viktor Petrovich. | #326: В вашем лице, Виктор Петрович | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If you had not played along with us, I think.' Mentioning that if Barinov had not played along with them he thinks moves the talk in a new direction.
-- 'Because of you, she was threatening to move out of the apartment.' Barinov reminds Max that because of Max she was threatening to move out of the apartment before the moment passes. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'It is a pleasure doing business with you, Maxim Leonidovich.' Because it is a pleasure doing business with Barinov Maxim, Vika treats the matter as settled. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'And from work as well.' Turning from the plan to the moment, Max keeps the exchange moving.
-- 'Listen, that is a very good offer.' Barinov mentions that that is a very good offer so Max sees what is at stake.
-- 'Take the metro instead.' Taking the metro instead moves the conversation forward without extra drama.
-- 'You are looking great today, Chef.' Pointing out that Barinov is looking great today gives Barinov a sobering reality check.
-- 'And what business is it of yours?' When Barinov asks if what business is it, Max has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Why are you standing around here?' By wondering why Barinov standing around here is, Vika presses Barinov for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Are you going to finish drinking that?' Asking whether Barinov going to finish drinking cuts straight through the tension between Max and Barinov.
-- 'You should not treat him like that, Viktor Petrovich.' Even though Max should not treat him like that Viktor Petrovich, Barinov keeps a steady face in front of Max. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'And no hard feelings.' With the room and point in play, Vika keeps this short reply brisk and direct.
-- 'In your person, Viktor Petrovich.' Around the room and truth, Max sets a calm, everyday tone with Barinov.
+- 'If you had not played along with us, I think.' Max takes a direct manner straight away, weaving "podygrali" ("to play along") together with "dumayu" ("I think") just the way native speakers do.
+- 'Because of you, she was threatening to move out of the apartment.' Barinov picks an earnest direction right away, leaning on "grozilas" ("to threaten") before closing the thought with "doma" ("at home").
+- 'It is a pleasure doing business with you, Maxim Leonidovich.' Vika favors a natural tempo with Barinov, building the phrase around "priyatno" ("pleasant") and "imet" ("to have, to do") for a crisp, natural delivery.
+- 'And from work as well.' Max sets a frank posture in their talk, leaning on "raboty" ("of work") before closing the thought with "tozhe" ("too").
+- 'Listen, that is a very good offer.' Barinov strikes an easygoing posture in the room, building the phrase around "slushayte" ("listen") and "khorosheye" ("lovely, good") for a crisp, natural delivery.
+- 'Take the metro instead.' Vika chooses an unhurried footing for Max, leaning on "poyedite" ("to eat") before closing the thought with "metro" ("metro").
+- 'You are looking great today, Chef.' Max offers a clear rhythm during the exchange, anchoring the Russian line on "segodnya" ("today") and "otlichno" ("perfect, great") without extra filler.
+- 'And what business is it of yours?' Barinov prompts boldly without holding back, putting "delo" ("matter") alongside "tvoye" ("your") in a tight, everyday turn of phrase.
+- 'Why are you standing around here?' Vika questions promptly right away, pairing "zdes" ("here") with "stoish" ("stand") to get the point across in plain spoken Russian.
+- 'Are you going to finish drinking that?' Max inquires earnestly to Vika here, building the phrase around "tam" ("there") and "dopyesh" ("to finish drinking") for a crisp, natural delivery.
+- 'You should not treat him like that, Viktor Petrovich.' Vika brings an honest posture on the spot, linking "zrya" ("for nothing"), "vy" ("you"), and "nim" ("him") in one brisk exchange.
+- 'And no hard feelings.' Vika sustains a candid bearing at once, combining "obid" ("hard feelings") and "bez" ("without") so the key meaning lands right away.
+- 'In your person, Viktor Petrovich.' Max sustains a frank direction beside Barinov, weaving "litse" ("face, person") together with "vashem" ("your") just the way native speakers do.

@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Макс | В смысле, дома не страшно. | I mean, at home you are not afraid. | #58: В смысле, дома не страшно | verbatim |
 | 5 | Шеф | Ну да. | Right, exactly. | #59: Ну да | verbatim |
 | 6 | Вика | Вдруг кто-нибудь войдёт. | Someone might walk in at any moment. | #62: Вдруг кто-нибудь войдёт | verbatim |
-| 7 | Макс | Макс, ты супер! | Max, you are the best! | #63: Макс, ты супер | verbatim |
+| 7 | Шеф | Макс, ты супер! | Max, you are the best! | #63: Макс, ты супер | verbatim |
 | 8 | Шеф | Как ты узнал? | How did you know? | #64: Как ты узнал | verbatim |
 | 9 | Вика | Ой, у меня тоже скоро День Ангела. | Oh, my name day is coming up soon too. | #65: Ой, у меня тоже скоро День Ангела | verbatim |
 | 10 | Макс | Подаришь мне тоже что-нибудь? | Will you get me a present too? | #66: Подаришь мне тоже что-нибудь | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That was awesome.' Because that was awesome, Max treats the matter as settled.
-- 'Though a bit scary.' Over the restaurant and the kitchen, Barinov answers Max without a second thought.
-- 'Well yeah, it is not like being at home.' Vika mentions that yeah it is not like being at home so Barinov sees what is at stake.
-- 'I mean, at home you are not afraid.' Pointing out that he means at home Barinov is not afraid gives Barinov a sobering reality check.
-- 'Right, exactly.' Around the restaurant and work, Barinov sets a calm, everyday tone with Max.
-- 'Someone might walk in at any moment.' Vika explains that someone might walk in at any moment, keeping her voice calm and direct.
-- 'Max, you are the best!' Once Barinov is the best, Max makes sure Barinov hears every word.
-- 'How did you know?' Wondering how Max knows cuts straight through the tension between Barinov and Max. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Oh, my name day is coming up soon too.' Even though her name day is coming up soon, Vika keeps a steady face in front of Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Will you get me a present too?' By asking whether Barinov gets him a present, Max presses Barinov for a straight answer.
-- 'They would not suit me.' Saying that they would not suit him is how Barinov sets the tone with Max.
-- 'Get out of here.' Realizing that Barinov should get out of here changes how Vika handles the situation.
-- 'I am going, thank you.' Being going thank Barinov is how Max lays out the situation for Barinov.
+- 'That was awesome.' Max conveys a candid posture during the exchange, combining "klassno" ("great, cool") and "bylo" ("was") so the key meaning lands right away.
+- 'Though a bit scary.' Barinov strikes a serious stance in the scene, pairing "strashno" ("scary, frightening") with "no" ("but") to get the point across in plain spoken Russian.
+- 'Well yeah, it is not like being at home.' Vika displays a candid position as they talk, weaving "doma" ("at home") together with "nu" ("oh, come on") just the way native speakers do.
+- 'I mean, at home you are not afraid.' Max takes an earnest attitude on the spot, combining "smysle" ("sense") and "doma" ("at home") so the key meaning lands right away.
+- 'Right, exactly.' Barinov favors a lively view right away, building the phrase around "nu" ("oh, come on") and "da" ("yes") for a crisp, natural delivery.
+- 'Someone might walk in at any moment.' Vika favors a brisk mood during the exchange, weaving "vdrug" ("suddenly, what if") together with "voydyot" ("will come in") just the way native speakers do.
+- 'Max, you are the best!' Barinov establishes a brisk footing at once, pairing "super" ("super, great") with "maks" ("Max") to get the point across in plain spoken Russian.
+- 'How did you know?' Barinov inquires openly for Vika's benefit, leaning on "kak" ("how") before closing the thought with "uznal" ("recognised").
+- 'Oh, my name day is coming up soon too.' Vika keeps a direct note right away, leaning on "tozhe" ("too") before closing the thought with "skoro" ("soon").
+- 'Will you get me a present too?' Max presses calmly as they speak, building the phrase around "podarish" ("to give") and "tozhe" ("too") for a crisp, natural delivery.
+- 'They would not suit me.' Barinov projects a candid position in the conversation, building the phrase around "idut" ("go") and "ne" ("not") for a crisp, natural delivery.
+- 'Get out of here.' Vika brings a sharp footing with Max, pairing "idi" ("go") with "otsyuda" ("from here") to get the point across in plain spoken Russian.
+- 'I am going, thank you.' Max brings a frank direction straight away, pairing "idu" ("going, running") with "spasibo" ("thank you") to get the point across in plain spoken Russian.

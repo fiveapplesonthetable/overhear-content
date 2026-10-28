@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I made tiny holes specially for you.' Claiming that he made tiny holes specially for Barinov sounds confident, even if Barinov has doubts.
-- 'Tell me, why did you even do that?' Over the room and the bet, Barinov presses Lyova for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I bet a thousand on you after all.' Noting that he bets a thousand on Barinov after all keeps Senya's side of the story simple and clear. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'So now I am protecting my money.' Even though he is protecting his money, Senya keeps a steady face in front of Barinov.
-- 'Do you have a brain, I will win anyway!' Barinov declares that do Lyova has a brain he will win anyway as the tension in the room peaks. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Well then, can we start already?' Here checking whether they start already shows Lyova looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Or did our brilliant chef suddenly get scared?' By asking whether their brilliant suddenly get scared, Lyova presses Barinov for a straight answer.
-- 'Senya, go on and give us the start command quickly!' Declaring that Lyova should go on and give them the start command quickly brings Barinov's temper right to the surface. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'I am asking you for the last time.' Mentioning that he is asking Barinov for the last time moves the talk in a new direction. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Tell me, do you not want to make up right now?' With the bet and kitchen hanging in the air, Senya puts Barinov on the spot.
-- 'No, we are not going to make up right now!' Saying that they are not going to make up right now is how Barinov takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Good, then start cooking right now!' With the bet and conversation at stake, Senya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Chef, I made tiny holes specially for you.' Senya chooses a direct bearing in front of Barinov, weaving "spetsialno" ("on purpose") together with "sdelal" ("did") just the way native speakers do.
+- 'Tell me, why did you even do that?' Barinov checks steadily beside Senya, combining the conversational booster "voobshche" ("in general, overall") with "skazhi" ("say") to give the line its natural spoken rhythm.
+- 'I bet a thousand on you after all.' Senya presents a direct tone at once, leaning on "tysyachu" ("thousand") before closing the thought with "postavil" ("put").
+- 'So now I am protecting my money.' Senya maintains an honest angle as they talk, joining "teper" ("now") to "zashchishchayu" ("to defend, protect") so every word pulls its weight.
+- 'Do you have a brain, I will win anyway!' Barinov conveys an emphatic stance on the spot, combining "u tebya" (literally "by you") with "yest" ("there is") rather than a separate word for "have".
+- 'Well then, can we start already?' Lyova prompts wryly without hesitation, anchoring the Russian line on "uzhe" ("already, now") and "mozhem" ("can") without extra filler.
+- 'Or did our brilliant chef suddenly get scared?' Lyova presses plainly in the scene, pairing "genialnyy" ("brilliant") with "vdrug" ("suddenly, what if") to get the point across in plain spoken Russian.
+- 'Senya, go on and give us the start command quickly!' Barinov offers a resolute course in this beat, putting "davay" ("let's") alongside "bystreye" ("faster") in a tight, everyday turn of phrase.
+- 'I am asking you for the last time.' Senya favors a candid position in the scene, pairing "posledniy" ("last") with "raz" ("time, once") to get the point across in plain spoken Russian.
+- 'Tell me, do you not want to make up right now?' Senya questions briskly as the beat lands, combining "skazhite" ("tell") and "khotite" ("want") so the key meaning lands right away.
+- 'No, we are not going to make up right now!' Barinov chooses a warm line as they talk, pairing "miritsya" ("to make peace") with "seychas" ("now") so the "-sya" ending carries the action.
+- 'Good, then start cooking right now!' Senya takes a thoughtful mood during the exchange, leaning on "khorosho" ("good, fine") before closing the thought with "togda" ("back then").

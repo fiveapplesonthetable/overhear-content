@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's go carefully, breathe deeply right now.' Saying that they should go carefully breathe deeply right now is how the doctor sets the tone with Max. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Max, do not leave, I am very scared.' Even though do not leave she is very scared, Vika keeps a steady face in front of the doctor.
-- 'He can stay, come on, breathe deeply.' Admitting that he can stay come on breathe deeply shows the doctor being honest for a change.
-- 'Critical situations test our feelings.' With the point and moment in play, Max keeps this short reply brisk and direct.
-- 'To some they say that the experiment should end.' Once to some they say that the experiment should end, Max can finally tell the doctor what he means. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'To others they show that they are on the right path.' Adding that to others they show that they are on the right path fills in the missing piece for the doctor.
-- 'And the main discovery still lies ahead.' Max tells the doctor that the main discovery still lies ahead without dressing it up.
-- 'And our main result is a new life.' Since their main result is a new life, Max does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Look how beautiful she is.' Mentioning that how beautiful she is moves the talk in a new direction.
-- 'What will you and I name her?' Asking what the doctor and he name will is how Max puts the doctor on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Did you say we will name her together?' Here asking whether the doctor says they will name her together shows Vika looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'This is our child, thank you, my darling.' Explaining that this is their child thank the doctor his darling lays the cards on the table for the doctor.
+- 'Let's go carefully, breathe deeply right now.' The doctor adopts a frank course in their talk, joining "davayte" ("let's") to "akkuratnenko" ("carefully, gently") so every word pulls its weight.
+- 'Max, do not leave, I am very scared.' Vika takes a serious tone as they talk, joining "ukhodi" ("go away") to "ochen" ("very much") so every word pulls its weight.
+- 'He can stay, come on, breathe deeply.' The doctor strikes a candid approach at this moment, combining "mozhno" ("may, can") and "ostatsya" ("to remain, to be left") so the key meaning lands right away.
+- 'Critical situations test our feelings.' Max offers an earnest mood across the room, linking "kriticheskiye" ("critical"), "situatsii" ("situation"), and "proveryayut" ("to check, test") in one brisk exchange.
+- 'To some they say that the experiment should end.' Max offers a grounded view for the doctor, linking "govoryat" ("talks, says"), "opyt" ("experience"), and "pora" ("it's time") in one brisk exchange.
+- 'To others they show that they are on the right path.' Max offers an emphatic posture in their talk, linking "drugim" ("other"), "dayut" ("they give"), and "ponyat" ("to understand") in one brisk exchange.
+- 'And the main discovery still lies ahead.' Max shows a measured approach at once, joining "glavnoye" ("important") to "issledovaniye" ("discovery") so every word pulls its weight.
+- 'And our main result is a new life.' Max maintains a steady angle in the scene, linking "glavnyy" ("main, chief") directly with "itog" ("result, total"), since Russian drops "is" and "are" in the present.
+- 'Look how beautiful she is.' Vika establishes a pointed angle at this moment, combining "posmotri" ("look") and "krasivaya" ("pretty, beautiful") so the key meaning lands right away.
+- 'What will you and I name her?' Max quizzes naturally as they speak, weaving "kak" ("how") together with "nazovyom" ("will name") just the way native speakers do.
+- 'Did you say we will name her together?' Vika probes boldly without a pause, putting "skazal" ("said") alongside "vmeste" ("together") in a tight, everyday turn of phrase.
+- 'This is our child, thank you, my darling.' Max shares an unhurried angle in this beat, placing "rebyonok" ("a child") straight beside "spasibo" ("thank you") with no word for "to be" needed.

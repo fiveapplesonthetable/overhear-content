@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is that foolish animal right now?' By asking where that foolish animal right now is, Mikhail presses Denis for a straight answer. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'What is this horse's name at least?' Wondering what this horse name at least is cuts straight through the tension between Mikhail and Denis.
-- 'Look for him upstairs quickly!' With the room and work at stake, Mikhail reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'We have two kinds of ballots.' Once they have two kinds of ballots, Timur can finally tell Denis what he means. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Take a ballot and go vote.' By taking a ballot and go vote, Timur keeps his side of the story grounded.
-- 'In the booth I am an independent observer.' Saying that in the booth he is an independent observer is how Timur sets the tone with Denis.
-- 'Hello, they postponed my flight today.' Between the shift and the kitchen, Denis gives Mikhail a quick, grounded response.
-- 'That is why I am not in Japan yet.' Realizing that that is why he is not yet changes how Denis handles the situation.
-- 'There is time before the business meeting.' Saying that there is time before the business meeting is how Mikhail sets the tone with Denis.
-- 'So we can have lunch.' Because they can have lunch, Mikhail treats the matter as settled.
-- 'I cannot, I am on a diet.' Explaining that he cannot he is on a diet lays the cards on the table for Mikhail.
-- 'Let us drink a glass of cognac.' Drinking a glass of cognac together is how Mikhail lays out the situation for Denis. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Where is that foolish animal right now?' Mikhail questions frankly in this moment, leaning on "gde" ("where") before closing the thought with "glupoye" ("silly, foolish").
+- 'What is this horse's name at least?' Mikhail checks firmly during the talk, joining "kak" ("how") to "konya" ("horse, knight") so every word pulls its weight.
+- 'Look for him upstairs quickly!' Mikhail sustains a wry attitude in the conversation, using "ishchite" (from "iskat", "look for, search") alongside "bystreye" ("faster") to shape the meaning.
+- 'We have two kinds of ballots.' Timur presents a measured direction across the room, putting "vida" ("show, appearance") alongside "byulleteney" ("ballots") in a tight, everyday turn of phrase.
+- 'Take a ballot and go vote.' Timur takes an easygoing bearing as they talk, using "vzyal" (from "vzyat", "took") alongside "byulleten" ("ballot") to shape the meaning.
+- 'In the booth I am an independent observer.' Timur keeps a sharp manner at this moment, linking "kabinke" ("booth") directly with "nezavisimyy" ("independent"), since Russian drops "is" and "are" in the present.
+- 'Hello, they postponed my flight today.' Denis keeps a grounded posture in the room, anchoring the Russian line on "zdravstvuyte" ("hello") and "reys" ("flight") without extra filler.
+- 'That is why I am not in Japan yet.' Denis offers an easygoing mood at this moment, building the phrase around "poetomu" ("that's why") and "yeshchyo" ("more, still") for a crisp, natural delivery.
+- 'There is time before the business meeting.' Mikhail picks a steady bearing in the scene, linking "delovoy" ("business, businesslike"), "vstrechi" ("meeting, next time"), and "yest" ("there is") in one brisk exchange.
+- 'So we can have lunch.' Mikhail conveys a pointed note without hesitation, joining "mozhem" ("can") to "poobedat" ("to have lunch") so every word pulls its weight.
+- 'I cannot, I am on a diet.' Denis takes a warm line beside Mikhail, building the phrase around "mogu" ("can") and "diyete" ("diet") for a crisp, natural delivery.
+- 'Let us drink a glass of cognac.' Mikhail chooses a natural mood in the room, combining "davay" ("let's") and "vypyem" ("will drink") so the key meaning lands right away.

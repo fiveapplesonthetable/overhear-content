@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Not to be born a woman.' Over the conversation and the phone, Barinov answers Nagiyev without a second thought.
-- 'And why do you have no moustache?' By asking why Nagiyev has no moustache, Barinov presses Nagiyev for a straight answer.
-- 'I only hire cooks with moustaches.' Adding that he only hires cooks with moustaches fills in the missing piece for Nagiyev.
-- 'I will find you a cook with one phone call.' Saying that he will find Barinov a cook with one phone call is how Nagiyev sets the tone with Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Where is my phone?' Here asking where his phone is shows Nagiyev looking for the real truth.
-- 'Yes, good afternoon. Who am I speaking with?' Around the call and conversation, Vika wants to know where Barinov really stands. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'How can I help you?' Asking how she helps Barinov can cuts straight through the tension between Vika and Barinov. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Thank you, of course.' With the work and job in play, Vika keeps this short reply brisk and direct.
-- 'But I am not planning to change jobs.' Noting that she is not planning to change jobs keeps Vika's side of the story simple and clear.
-- 'I will think about it later.' Vika mentions that she will think about it later so Barinov sees what is at stake.
-- 'All right. Excellent.' Around the work and job, Vika sets a calm, everyday tone with Barinov.
-- 'Goodbye.' Between the point and the call, Vika gives Barinov a quick, grounded response.
+- 'Not to be born a woman.' Barinov brings a direct position during the exchange, combining "roditsya" ("to be born") and "zhenshchinoy" ("a woman") so the key meaning lands right away.
+- 'And why do you have no moustache?' Barinov prompts firmly beside Vika, combining "pochemu" ("why") and "usov" ("moustache") so the key meaning lands right away.
+- 'I only hire cooks with moustaches.' Barinov keeps an earnest note in the scene, linking "beru" ("to take"), "tolko" ("only"), and "povarov" ("cooks") in one brisk exchange.
+- 'I will find you a cook with one phone call.' Nagiyev offers a serious mood in front of Vika, linking "zvonok" ("call, bell"), "naydu" ("find"), and "povara" ("cook") in one brisk exchange.
+- 'Where is my phone?' Nagiyev quizzes warmly on the spot, linking "telefon" ("phone"), "gde" ("where"), and "moy" ("my") in one brisk exchange.
+- 'Yes, good afternoon. Who am I speaking with?' Vika asks pointedly as they speak, pairing "dobryy" ("good") with "den" ("day") to get the point across in plain spoken Russian.
+- 'How can I help you?' Vika asks bluntly to Barinov here, putting "mogu" ("can") alongside "pomoch" ("to help") in a tight, everyday turn of phrase.
+- 'Thank you, of course.' Vika chooses a frank angle as they talk, joining "spasibo" ("thank you") to "konechno" ("of course") so every word pulls its weight.
+- 'But I am not planning to change jobs.' Vika adopts a wry line during the exchange, weaving "sobirayus" ("am planning") together with "menyat" ("to change") just the way native speakers do.
+- 'I will think about it later.' Vika displays a natural stance on the spot, combining "podumayu" ("to think") and "pozzhe" ("later") so the key meaning lands right away.
+- 'All right. Excellent.' Vika chooses an easygoing direction with Barinov, joining "khorosho" ("good, fine") to "otlichno" ("perfect, great") so every word pulls its weight.
+- 'Goodbye.' Vika offers an earnest stance in their talk, anchoring the Russian line on "svidaniya" ("meeting") and "do" ("until") without extra filler.

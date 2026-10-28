@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sit at the table and tell me, how are things, Dima?' Questioning whether sit at the table and tell her how are things Dima is how Eleonora tests Nagiyev's story.
-- 'How can things be, I am suffering badly.' Noting that how can things be he is suffering badly keeps Nagiyev's side of the story simple and clear.
-- 'For whole days I pace from corner to corner.' With the moment and forgiveness in play, Nagiyev keeps this short reply brisk and direct.
-- 'Viktor said that I could come over and apologize.' Admitting that Viktor said that he could come over and apologize shows Nagiyev being honest for a change.
-- 'Viktor said that, and what do you think yourself?' Wondering if Viktor said that and what do Nagiyev thinks themselves shows Eleonora caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I will tell you honestly, this is completely my fault.' Once he will tell Eleonora honestly this is completely his fault, Nagiyev can finally tell Eleonora what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'If you want, hit me, just not in the face.' Adding that if Eleonora wants hit him just not in the face fills in the missing piece for Eleonora.
-- 'Because I have an important shoot tomorrow morning.' Nagiyev tells Eleonora that because he has an important shoot tomorrow morning without dressing it up. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Dima, tell me honestly, do you really love me?' Asking whether tell her honestly do Nagiyev really love puts Nagiyev right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Of course, my sunshine, I love you very much!' Because his sunshine he loves Eleonora very much, Nagiyev does not bother softening the blow for Eleonora.
-- 'And can you speak calmly and sincerely right now?' Asking whether Nagiyev speaks calmly and sincerely right now cuts straight through the tension between Eleonora and Nagiyev. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Say it in a way that makes me believe you.' Since Nagiyev should say it in a way that makes her believe Nagiyev, Eleonora does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Sit at the table and tell me, how are things, Dima?' Eleonora presses naturally as they speak, anchoring the Russian line on "sadis" ("sit down") and "stol" ("table") without extra filler.
+- 'How can things be, I am suffering badly.' Nagiyev establishes a frank position in front of Eleonora, leaning on "mogut" ("can") before closing the thought with "byt" ("be").
+- 'For whole days I pace from corner to corner.' Nagiyev holds a candid style during the exchange, linking "tselymi" ("whole, entire"), "dnyami" ("day"), and "khozhu" ("walks") in one brisk exchange.
+- 'Viktor said that I could come over and apologize.' Nagiyev presents a direct angle without hesitation, leaning on "skazal" ("said") before closing the thought with "mogu" ("can").
+- 'Viktor said that, and what do you think yourself?' Eleonora inquires wryly right away, using "skazal" (from "skazat", "said") alongside "kak" ("how") to shape the meaning.
+- 'I will tell you honestly, this is completely my fault.' Nagiyev brings a brisk stance at this moment, putting "skazhu" ("I'll tell") alongside "chestno" ("honestly") in a tight, everyday turn of phrase.
+- 'If you want, hit me, just not in the face.' Nagiyev picks a warm attitude during the exchange, combining "khochesh" ("do you want") and "udar" ("hit, strike") so the key meaning lands right away.
+- 'Because I have an important shoot tomorrow morning.' Nagiyev brings a brisk note at this moment, leaning on "potomu" ("because") before closing the thought with "zavtra" ("tomorrow").
+- 'Dima, tell me honestly, do you really love me?' Eleonora questions decisively to keep things clear, weaving "skazhi" ("say") together with "chestno" ("honestly") just the way native speakers do.
+- 'Of course, my sunshine, I love you very much!' Nagiyev holds a warm course in this beat, leaning on "konechno" ("of course") before closing the thought with "solntse" ("sun").
+- 'And can you speak calmly and sincerely right now?' Eleonora presses naturally with Nagiyev now, anchoring the Russian line on "mozhesh" ("can") and "seychas" ("now") without extra filler.
+- 'Say it in a way that makes me believe you.' Eleonora takes a sharp note as they talk, using "skazhi" (from "skazat", "say") alongside "poverila" ("I believed") to shape the meaning.

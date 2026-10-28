@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, my name is Chef Viktor Barinov.' Claiming that his name is Chef Viktor Barinov sounds confident, even if the guest has doubts.
-- 'Very nice to meet you, what do I owe the pleasure to?' Asking whether very nice to meet Barinov what do he owes the pleasure puts Barinov right on the defensive.
-- 'I wanted to talk about our sous-chef.' Noting that he wanted to talk keeps Barinov's side of the story simple and clear.
-- 'Very interesting, I am listening to you attentively.' Realizing that very interesting he is listening to Barinov attentively changes how the guest handles the situation. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'It seems to me that Lyova is still young.' Because it seems to him that Lyova is still young, Barinov treats the matter as settled.
-- 'What is that you are saying about me there?' Wondering what that Barinov is saying about him there is is how Lyova puts Barinov on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Lyova, and what are you doing over there?' By wondering what the guest doing over there is, Barinov presses the guest for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I see they really do not want to let you go.' Because he sees they really do not want to let Barinov goes, the guest treats the matter as settled.
-- 'And after all, that is the very best recommendation!' Because after all that is the very best recommendation, the guest does not bother softening the blow for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Please, help yourself today on the house.' Saying that Barinov should help themselves today on the house is how Lyova sets the tone with Barinov.
-- 'Nastya went to visit her parents today after all.' Lyova tells Barinov that Nastya went to visit her parents today after all without dressing it up.
-- 'So I thought we could sit calmly together.' Since he thought they could sit calmly together, Lyova does not waste words on excuses.
+- 'Hello, my name is Chef Viktor Barinov.' Barinov takes a grounded angle toward the guest, anchoring the Russian line on "zdravstvuyte" ("hello") and "zovut" ("call") without extra filler.
+- 'Very nice to meet you, what do I owe the pleasure to?' The guest prompts decisively to keep things clear, anchoring the Russian line on "ochen" ("very much") and "priyatno" ("pleasant") without extra filler.
+- 'I wanted to talk about our sous-chef.' Barinov presents a measured attitude as the scene unfolds, putting "khotel" ("wanted") alongside "pogovorit" ("to talk") in a tight, everyday turn of phrase.
+- 'Very interesting, I am listening to you attentively.' The guest establishes a clear direction right away, combining "ochen" ("very much") and "interesno" ("interesting") so the key meaning lands right away.
+- 'It seems to me that Lyova is still young.' Barinov keeps a calm mood straight away, building the phrase around "kazhetsya" ("it seems, I think") and "yeshchyo" ("more, still") for a crisp, natural delivery.
+- 'What is that you are saying about me there?' Lyova challenges promptly from the start, joining "tam" ("there") to "govorite" ("say, speak") so every word pulls its weight.
+- 'Lyova, and what are you doing over there?' Barinov tests calmly in the scene, leaning on "tam" ("there") before closing the thought with "delayesh" ("are you doing").
+- 'I see they really do not want to let you go.' The guest sets a resolute position in this beat, anchoring the Russian line on "smotryu" ("look") and "ochen" ("very much") without extra filler.
+- 'And after all, that is the very best recommendation!' The guest presents an easygoing rhythm in the scene, joining "samaya" ("most") to "luchshaya" ("best") so every word pulls its weight.
+- 'Please, help yourself today on the house.' Lyova shares an emphatic stance as they talk, leaning on "ugoshchaytes" ("help yourselves") before closing the thought with "segodnya" ("today").
+- 'Nastya went to visit her parents today after all.' Lyova displays an unhurried style on the spot, leaning on "segodnya" ("today") before closing the thought with "uyekhala" ("left, drove away").
+- 'So I thought we could sit calmly together.' Lyova shares a brisk view beside the guest, anchoring the Russian line on "podumal" ("would think") and "spokoyno" ("calmly") without extra filler.

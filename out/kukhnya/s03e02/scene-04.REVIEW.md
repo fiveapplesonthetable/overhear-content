@@ -13,7 +13,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Федя | Там сложная формула. | There is a complex formula there. | #46: Там сложная формула | verbatim |
 | 2 | Федя | У нас появился ещё один шутник. | We have got ourselves another prankster. | #47: У нас появился еще один шутник | verbatim |
 | 3 | Федя | Хочешь войны? Будет тебе торпеда в борт. | Do you want war? You will get a torpedo to the hull. | #48: Хочешь войны? Будет тебе торпеда в борт | verbatim |
-| 4 | Сеня | Сеня, ну не надо. | Senya, come on, don't. | #49: Сеня, ну не надо | verbatim |
+| 4 | Шеф | Сеня, ну не надо. | Senya, come on, don't. | #49: Сеня, ну не надо | verbatim |
 | 5 | Шеф | Алло, как дела? | Hello, how are things? | #50: Как дела<br>#56: Алло | adapted: adapted |
 | 6 | Шеф | Особо ничего. | Nothing special. | #51: Особо ничего | verbatim |
 | 7 | Шеф | Ты когда прилетаешь? Завтра? | When do you fly in? Tomorrow? | #52: Ты когда прилетаешь? Завтра | verbatim |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There is a complex formula there.' Realizing that there is a complex formula there changes how Fedya handles the situation.
-- 'We have got ourselves another prankster.' Noting that they have got themselves another prankster keeps Fedya's side of the story simple and clear. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Do you want war? You will get a torpedo to the hull.' Checking whether Barinov wants war is how Fedya puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Senya, come on, don't.' Because Barinov should come on do not, Senya treats the matter as settled.
-- 'Hello, how are things?' By asking how things are, Barinov presses Fedya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Nothing special.' Between the point and the phone, Barinov gives Fedya a quick, grounded response.
-- 'When do you fly in? Tomorrow?' Asking when Fedya flies is how Barinov puts Fedya on the spot.
-- 'Nagiyev gave me a surprise here.' Barinov tells Fedya that Nagiyev gave him a surprise here without dressing it up.
-- 'Well, when you arrive, I will tell you.' Since when Fedya arrives he will tell Fedya, Barinov does not waste words on excuses.
-- 'Lena, I will call you back.' Mentioning that someone he will call Fedya back moves the talk in a new direction.
-- 'Knock it off right now!' Over the surprise and the plan, Barinov lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Everyone get to work!' Between the kitchen and the phone, Barinov delivers a sharp reaction. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'There is a complex formula there.' Fedya maintains a lively note right away, anchoring the Russian line on "tam" ("there") and "slozhnaya" ("complicated") without extra filler.
+- 'We have got ourselves another prankster.' Fedya establishes an unhurried tack in their talk, pairing "poyavilsya" ("appeared") with "yeshchyo" ("more, still") to get the point across in plain spoken Russian.
+- 'Do you want war? You will get a torpedo to the hull.' Fedya questions boldly from the start, joining "khochesh" ("do you want") to "voyny" ("of war") so every word pulls its weight.
+- 'Senya, come on, don't.' Barinov presents a warm view toward Fedya, weaving "nado" ("it is necessary") together with "senya" ("Senya") just the way native speakers do.
+- 'Hello, how are things?' Barinov checks openly for Fedya's benefit, joining "kak" ("how") to "dela" ("things, affairs") so every word pulls its weight.
+- 'Nothing special.' Barinov sustains an honest view as the scene unfolds, building the phrase around "osobo" ("particularly") and "nichego" ("nothing") for a crisp, natural delivery.
+- 'When do you fly in? Tomorrow?' Barinov presses openly right away, putting "kogda" ("when") alongside "priletayesh" ("arrive by plane") in a tight, everyday turn of phrase.
+- 'Nagiyev gave me a surprise here.' Barinov maintains a frank attitude in the scene, combining "tut" ("here") and "syurpriz" ("surprise") so the key meaning lands right away.
+- 'Well, when you arrive, I will tell you.' Barinov sustains a grounded approach as they talk, using "priyedesh" (from "priyekhat", "to arrive") alongside "rasskazhu" ("will tell") to shape the meaning.
+- 'Lena, I will call you back.' Barinov strikes a sharp direction with Fedya, weaving "perezvonyu" ("will call back") together with "lena" ("Lena") just the way native speakers do.
+- 'Knock it off right now!' Barinov presents a natural attitude with Fedya, joining "bystro" ("quickly") to "prekratili" ("stopped, knock it off") so every word pulls its weight.
+- 'Everyone get to work!' Barinov shares a pointed course without hesitation, pairing "rabotat" ("to work") with "vsem" ("everyone") to get the point across in plain spoken Russian.

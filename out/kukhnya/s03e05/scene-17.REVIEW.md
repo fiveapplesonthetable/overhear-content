@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, may I go home a bit earlier today?' Asking whether may he goes home a bit earlier today puts Fedya right on the defensive. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'My tooth hurts, I really cannot stand it.' Adding that his tooth hurts he really cannot stand it fills in the missing piece for Fedya.
-- 'Yes, of course, go home.' Going home is how Lyova lays out the situation for Fedya.
-- 'Listen, our friend's teeth hurt.' Since their friend teeth hurt, Fedya does not waste words on excuses.
-- 'Right now he will examine your mouth for free.' Mentioning that right now he will examine Lyova's mouth for free moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Oh no, thank you very much.' With the shift and friend in play, Senya keeps this short reply brisk and direct.
-- 'He is a veterinarian, and I am a cook.' Being a veterinarian and he is a cook is how Senya lays out the situation for Fedya.
-- 'And why are you so very nervous?' Here asking why Fedya so very nervous is shows Lyova looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Maybe nothing hurts you at all?' When Lyova asks if maybe nothing hurts Fedya at all, Fedya has to answer fast.
-- 'What do you mean it does not hurt?' Asking what Fedya means it does not hurt cuts straight through the tension between Senya and Fedya. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Honestly, this is not mine at all.' Pointing out that this is not his at all gives Fedya a sobering reality check. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I swear, they simply framed me.' Realizing that he swears they simply framed him changes how Senya handles the situation.
+- 'Lyova, may I go home a bit earlier today?' Senya challenges calmly with Fedya now, linking "mozhno" ("may, can"), "poranshe" ("a bit earlier"), and "segodnya" ("today") in one brisk exchange.
+- 'My tooth hurts, I really cannot stand it.' Senya shares a calm tone in their talk, weaving "zub" ("a tooth") together with "bolit" ("hurts, aches") just the way native speakers do.
+- 'Yes, of course, go home.' Lyova presents a sharp manner without hesitation, leaning on "konechno" ("of course") before closing the thought with "idi" ("go").
+- 'Listen, our friend's teeth hurt.' Fedya picks a candid rhythm as the scene unfolds, putting "slushay" ("listen") alongside "druga" ("the friend") in a tight, everyday turn of phrase.
+- 'Right now he will examine your mouth for free.' Fedya offers an honest manner as the scene unfolds, weaving "seychas" ("now") together with "rot" ("mouth") just the way native speakers do.
+- 'Oh no, thank you very much.' Senya favors a calm angle in the conversation, weaving "bolshoye" ("big, very much") together with "spasibo" ("thank you") just the way native speakers do.
+- 'He is a veterinarian, and I am a cook.' Senya favors a steady mood in this beat, joining "veterinar" ("veterinarian") to "povar" ("chef, cook") so every word pulls its weight.
+- 'And why are you so very nervous?' Lyova inquires decisively to keep things clear, putting "pochemu" ("why") alongside "silno" ("strongly, much") in a tight, everyday turn of phrase.
+- 'Maybe nothing hurts you at all?' Lyova checks firmly in the scene, leaning on "mozhet" ("can") before closing the thought with "bolit" ("hurts, aches").
+- 'What do you mean it does not hurt?' Senya wonders bluntly as they speak, building the phrase around "kak" ("how") and "bolit" ("hurts, aches") for a crisp, natural delivery.
+- 'Honestly, this is not mine at all.' Senya establishes a calm direction toward Fedya, using "chestnoye" (from "chestnyy", "honest") alongside "slovo" ("word") to shape the meaning.
+- 'I swear, they simply framed me.' Senya chooses an earnest bearing without hesitation, putting "klyanus" ("I swear") alongside "prosto" ("just") in a tight, everyday turn of phrase.

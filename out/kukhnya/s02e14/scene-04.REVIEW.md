@@ -22,20 +22,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Костя | Ну, что у них с Сашей было? | So what was going on between him and Sasha? | #77: Ну, что у них с Сашей было | verbatim |
 | 11 | Саша | Ну, они года два, наверное, встречались. | Well, they dated for about two years, probably. | #78: Ну, они года два, наверное, встречались | verbatim |
 | 12 | Илья | Все думали даже, что они поженятся. | Everyone even thought that they were going to get married. | #79: Все думали даже, что они поженятся | verbatim |
-| 13 | Костя | Костя, а прими заказ, пожалуйста. | Kostya, please take this order for me. | #81: Костя, а прими заказ, пожалуйста | verbatim |
+| 13 | Саша | Костя, а прими заказ, пожалуйста. | Kostya, please take this order for me. | #81: Костя, а прими заказ, пожалуйста | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sorry I did not invite you in.' Pointing out that he did not invite Ilya gives Ilya a sobering reality check.
-- 'My place is a mess inside.' Sasha explains that her place is a mess inside, keeping her voice calm and direct. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Well, thank you once again for the travel voucher.' With the story and trip in play, Ilya keeps this short reply brisk and direct.
-- 'You are very welcome for the voucher.' Noting that Ilya is very welcome for the voucher keeps Kostya's side of the story simple and clear.
-- 'I do not like this guy one bit.' Even though she does not like this guy one bit, Sasha keeps a steady face in front of Ilya.
-- 'By the way, he is the one who got me the job at the restaurant.' Mentioning that he is the one who got him the job at the restaurant moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'He is a great guy.' Being a great guy is how Kostya lays out the situation for Ilya.
-- 'And what am I, then?' Over the friend and the trip, Sasha presses Ilya for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You are my best friend by far.' Adding that Kostya is his best friend by far fills in the missing piece for Kostya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'So what was going on between him and Sasha?' Asking what going on between him and Sasha was cuts straight through the tension between Kostya and Ilya.
-- 'Well, they dated for about two years, probably.' Around the story and point, Sasha sets a calm, everyday tone with Ilya.
-- 'Everyone even thought that they were going to get married.' Mentioning that everyone even thought that they were going to get married moves the talk in a new direction.
-- 'Kostya, please take this order for me.' Explaining that Ilya should take this order for him lays the cards on the table for Ilya.
+- 'Sorry I did not invite you in.' Kostya establishes a calm view in this beat, anchoring the Russian line on "izvinite" ("sorry, excuse me") and "priglasil" ("invited") without extra filler.
+- 'My place is a mess inside.' Sasha projects a sharp footing in the scene, weaving "tam" ("there") together with "besporyadok" ("mess") just the way native speakers do.
+- 'Well, thank you once again for the travel voucher.' Ilya strikes a measured view as the scene unfolds, using "yeshche" (from "yeshchyo", "still") alongside "raz" ("time, once") to shape the meaning.
+- 'You are very welcome for the voucher.' Kostya chooses an emphatic view beside Sasha, placing "putevku" ("holiday voucher") straight beside "pozhaluysta" ("please") with no word for "to be" needed.
+- 'I do not like this guy one bit.' Sasha picks a calm mood at this moment, combining "nravitsya" ("is pleasing") and "tip" ("guy, fellow") so the key meaning lands right away.
+- 'By the way, he is the one who got me the job at the restaurant.' Ilya holds a clear angle as they talk, building the phrase around "kstati" ("by the way") and "restoran" ("restaurant") for a crisp, natural delivery.
+- 'He is a great guy.' Kostya establishes a thoughtful direction toward Ilya, combining "paren" ("boyfriend") and "vot" ("there, here") so the key meaning lands right away.
+- 'And what am I, then?' Sasha questions directly as they speak, linking "ya" ("I") directly with "kto" ("who"), since Russian drops "is" and "are" in the present.
+- 'You are my best friend by far.' Ilya adopts a serious style in this beat, pairing "luchshiy" ("best") with "drug" ("friend") to get the point across in plain spoken Russian.
+- 'So what was going on between him and Sasha?' Kostya quizzes evenly to Sasha here, anchoring the Russian line on "bylo" ("was") and "nu" ("oh, come on") without extra filler.
+- 'Well, they dated for about two years, probably.' Sasha presents a thoughtful tempo at this moment, putting "goda" ("years") alongside "navernoye" ("probably") in a tight, everyday turn of phrase.
+- 'Everyone even thought that they were going to get married.' Ilya establishes an emphatic angle beside Sasha, pairing "pozhenyatsya" ("will get married") with "dumali" ("thought") so the "-sya" ending carries the action.
+- 'Kostya, please take this order for me.' Sasha presents an honest manner with Ilya, pairing "primi" ("take, accept") with "zakaz" ("order") to get the point across in plain spoken Russian.

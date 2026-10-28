@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I already told Katya about you.' Explaining that she already told Katya about Denis lays the cards on the table for Denis. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'That is all, I am waiting for you eagerly.' Katya mentions that that is all she is waiting for Denis eagerly so Denis sees what is at stake. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Denis, is that you in here again?' Asking whether that Denis in here again is how Katya puts Denis on the spot.
-- 'I stopped by here at night.' Noting that he stopped by here at night keeps Denis's side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I stole your dress yesterday.' Even though he stole Katya's dress yesterday, Denis keeps a steady face in front of Katya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I wanted to ruin the wedding, but returned it.' Admitting that he wanted to ruin the wedding but returned it shows Denis being honest for a change.
-- 'What, did you change your mind about ruining my wedding?' Wondering what Denis changes Denis's mind about ruining her wedding is how Katya puts Denis on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Tell me honestly, are you happy with him?' Asking whether tell him honestly are Katya happy with him puts Katya right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Denis stopped by to wish us happiness.' Adding that Denis stopped by to wish them happiness fills in the missing piece for Denis.
-- 'Yes, I wish great happiness to you both.' By wishing great happiness to Katya both, Denis keeps his side of the story grounded. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Thank you for the kind words.' With the kitchen and dress in play, Nikita keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Farewell, Denis, and be happy.' Over the kitchen and the dress, Katya answers Denis without a second thought.
+- 'I already told Katya about you.' Katya favors a firm note without hesitation, using "rasskazala" (from "rasskazat", "told") alongside "ya" ("I") to shape the meaning.
+- 'That is all, I am waiting for you eagerly.' Katya establishes a sharp angle at this moment, putting "ochen" ("very much") alongside "zhdu" ("I wait, expect") in a tight, everyday turn of phrase.
+- 'Denis, is that you in here again?' Katya inquires boldly right away, anchoring the Russian line on "opyat" ("again") and "zdes" ("here") without extra filler.
+- 'I stopped by here at night.' Denis strikes a frank tone across the room, pairing "tut" ("here") with "nochyu" ("night") to get the point across in plain spoken Russian.
+- 'I stole your dress yesterday.' Denis shows a candid mood beside Katya, putting "vchera" ("yesterday") alongside "platye" ("a dress") in a tight, everyday turn of phrase.
+- 'I wanted to ruin the wedding, but returned it.' Denis offers a lively line in this beat, weaving "khotel" ("wanted") together with "svadbu" ("wedding") just the way native speakers do.
+- 'What, did you change your mind about ruining my wedding?' Katya challenges briskly with Denis now, using "peredumal" (from "peredumat", "changed your mind") alongside "sryvat" ("tear off, ruin") to shape the meaning.
+- 'Tell me honestly, are you happy with him?' Denis wonders evenly toward Nikita here, putting "skazhi" ("say") alongside "chestno" ("honestly") in a tight, everyday turn of phrase.
+- 'Denis stopped by to wish us happiness.' Katya displays a candid note in their talk, linking "zashyol" ("stopped by"), "pozhelat" ("to wish"), and "schastya" ("happiness") in one brisk exchange.
+- 'Yes, I wish great happiness to you both.' Denis offers a measured line in this beat, using "zhelayu" (from "zhelat", "I wish") alongside "bolshogo" ("big") to shape the meaning.
+- 'Thank you for the kind words.' Nikita maintains an earnest tone for Denis, pairing "spasibo" ("thank you") with "dobryye" ("good, kind") to get the point across in plain spoken Russian.
+- 'Farewell, Denis, and be happy.' Katya shows a lively attitude straight away, combining "bud" ("were he") and "schastliv" ("happy, lucky") so the key meaning lands right away.

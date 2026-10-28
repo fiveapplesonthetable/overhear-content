@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Children, please forgive me.' With the trip and conversation in play, Lyova keeps this short reply brisk and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'It is not nice to make a beautiful lady wait a long time.' Explaining that it is not nice to make a beautiful lady wait a long time lays the cards on the table for Barinov.
-- 'Thank you very much for your care.' Over the trip and the conversation, Lyova answers Barinov without a second thought.
-- 'Viktor Petrovich, I must apologize to you.' Realizing that he must apologize to Barinov changes how Lyova handles the situation. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I wonder, and what are you apologizing for?' By wondering and what are Katya apologizing, Barinov presses Katya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'During the bet I could see a little bit.' Even though during the bet he could see a little bit, Lyova keeps a steady face in front of Barinov.
-- 'My blindfold was slightly transparent.' Admitting that his blindfold was slightly transparent shows Lyova being honest for a change.
-- 'I am very ashamed that I cheated.' Realizing that he is very ashamed that he cheated changes how Lyova handles the situation.
-- 'It is nothing terrible, Lyova, take this money.' Once it is nothing terrible Lyova take this money, Barinov can finally tell Katya what he means.
-- 'How good that we no longer have to lie.' Adding that how good that they no longer have to lie fills in the missing piece for Barinov. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Actually, Nikita does not know yet.' Saying that Nikita does not know yet is how Katya sets the tone with Barinov.
-- 'He flew away on a long business trip this morning.' Since he flew away on a long business trip this morning, Katya does not waste words on excuses.
+- 'Children, please forgive me.' Lyova shows a serious footing at once, weaving "deti" ("kids") together with "prostite" ("excuse me") just the way native speakers do.
+- 'It is not nice to make a beautiful lady wait a long time.' Lyova picks a grounded course right away, linking "nekhorosho" ("not nice, wrong"), "zastavlyat" ("to force, make"), and "krasivuyu" ("pretty") in one brisk exchange.
+- 'Thank you very much for your care.' Lyova sustains a serious mood with Barinov, using "bolshoye" (from "bolshoy", "big, very much") alongside "spasibo" ("thank you") to shape the meaning.
+- 'Viktor Petrovich, I must apologize to you.' Lyova chooses an unhurried note at this moment, combining "dolzhen" ("has to, must") and "izvinitsya" ("to apologise") so the key meaning lands right away.
+- 'I wonder, and what are you apologizing for?' Barinov probes dryly in the room, building the phrase around "interesno" ("interesting") and "izvinyayeshsya" ("apologize") for a crisp, natural delivery.
+- 'During the bet I could see a little bit.' Lyova favors a lively tone at this moment, leaning on "vremya" ("time") before closing the thought with "spora" ("bet").
+- 'My blindfold was slightly transparent.' Lyova sets a thoughtful direction right away, combining "povyazka" ("blindfold, bandage") and "byla" ("was") so the key meaning lands right away.
+- 'I am very ashamed that I cheated.' Lyova takes a grounded line across the room, pairing "ochen" ("very much") with "stydno" ("shameful") to get the point across in plain spoken Russian.
+- 'It is nothing terrible, Lyova, take this money.' Barinov presents a steady direction in this beat, pairing "strashnogo" ("terrible, serious") with "vozmi" ("take, pick up") to get the point across in plain spoken Russian.
+- 'How good that we no longer have to lie.' Katya conveys a candid line right away, linking "kak" ("how"), "khorosho" ("good, fine"), and "bolshe" ("more") in one brisk exchange.
+- 'Actually, Nikita does not know yet.' Katya favors a pointed direction at once, linking "voobshche-to" ("actually"), "poka" ("bye"), and "yeshchyo" ("more, still") in one brisk exchange.
+- 'He flew away on a long business trip this morning.' Katya holds a steady angle in this beat, combining "utrom" ("this morning") and "uletel" ("to fly away") so the key meaning lands right away.

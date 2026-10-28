@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well then, Vitya, now you are my servant.' Claiming that Barinov is his servant sounds confident, even if Barinov has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'At least give my office back.' Over the bet and the key, Barinov answers Mikhail without a second thought.
-- 'I will return the office, but you will remember.' Mikhail explains that he will return the office but Barinov will remember, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Remember what place you are sitting in.' Remembering what place Barinov is sitting is how Mikhail lays out the situation for Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Today the prefect will be at the grand opening.' Noting that today the prefect will be at the grand opening keeps Mikhail's side of the story simple and clear.
-- 'I want you to make a pizza.' Wanting Barinov to make a pizza moves the conversation forward without extra drama. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'He simply adores it.' Over the restaurant and the bet, Mikhail answers Barinov without a second thought.
-- 'Have you completely lost your mind?' With the exchange and office hanging in the air, Barinov puts Mikhail on the spot.
-- 'We have a French restaurant.' Once they have a French restaurant, Barinov can finally tell Mikhail what he means. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'What kind of pizza could there be here?' Wondering if what kind of pizza could there be here shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Be quiet right now, servant!' Around the exchange and conversation, Mikhail makes his point loud and clear.
-- 'Who is the master here now?' Asking who the master here now is cuts straight through the tension between Mikhail and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I said pizza, so pizza it is.' Mentioning that he said pizza so pizza it is moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Well then, Vitya, now you are my servant.' Mikhail favors a brisk stance at once, building the phrase around "teper" ("now") and "rab" ("slave, servant") for a crisp, natural delivery.
+- 'At least give my office back.' Barinov presents a steady footing in their talk, combining "kabinet" ("office") and "verni" ("return") so the key meaning lands right away.
+- 'I will return the office, but you will remember.' Mikhail keeps an earnest mood right away, joining "kabinet" ("office") to "vernu" ("I'll return") so every word pulls its weight.
+- 'Remember what place you are sitting in.' Mikhail sets a grounded stance as the scene unfolds, pairing "pomni" ("remember") with "meste" ("place") to get the point across in plain spoken Russian.
+- 'Today the prefect will be at the grand opening.' Mikhail presents a firm style across the room, linking "segodnya" ("today"), "otkrytii" ("at the grand opening"), and "budet" ("will be") in one brisk exchange.
+- 'I want you to make a pizza.' Mikhail shares a steady course toward Barinov, putting "khochu" ("want") alongside "prigotovil" ("cooked") in a tight, everyday turn of phrase.
+- 'He simply adores it.' Mikhail holds a resolute bearing at once, leaning on "prosto" ("just") before closing the thought with "obozhayet" ("adores, loves").
+- 'Have you completely lost your mind?' Barinov questions pointedly in the scene, combining the intensifier "sovsem" ("completely, at all") with "uma" ("mind") to give the line its natural spoken rhythm.
+- 'We have a French restaurant.' Barinov maintains an earnest rhythm with Mikhail, anchoring the Russian line on "frantsuzskiy" ("French") and "restoran" ("restaurant") without extra filler.
+- 'What kind of pizza could there be here?' Barinov quizzes openly from the start, weaving "yeshchyo" ("more, still") together with "zdes" ("here") just the way native speakers do.
+- 'Be quiet right now, servant!' Mikhail keeps a sharp attitude in the room, pairing "molchat" ("be quiet") with "rab" ("slave, servant") to get the point across in plain spoken Russian.
+- 'Who is the master here now?' Mikhail presses promptly beside Barinov, placing "zdes" ("here") straight beside "teper" ("now") with no word for "to be" needed.
+- 'I said pizza, so pizza it is.' Mikhail sustains an honest line without hesitation, weaving "skazal" ("said") together with "pitstsu" ("pizza, pizza place") just the way native speakers do.

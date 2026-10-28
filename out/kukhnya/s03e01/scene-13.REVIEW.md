@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Right, then as usual.' Between the plan and the truth, Barinov gives Fedya a quick, grounded response.
-- 'Milk-fed lamb on the grill.' With the plan and situation in play, Barinov keeps this short reply brisk and direct.
-- 'Baked plums with berries.' Around the room and work, Barinov sets a calm, everyday tone with Fedya.
-- 'Rabbit with rosemary.' Turning from the room to the kitchen, Barinov keeps the exchange moving.
-- 'Is that clear to everyone?' By asking whether that clear to everyone, Barinov presses Fedya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, Chef!' With the moment and kitchen at stake, Fedya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Right, Yekaterina.' With the room and truth in play, Barinov keeps this short reply brisk and direct.
-- 'You must not stand around and loaf.' Because Fedya must not stand around and loaf, Barinov treats the matter as settled. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'But there are no orders.' Explaining that there are no orders lays the cards on the table for Barinov.
-- 'So what? Fedya, please.' With the conversation and situation hanging in the air, Barinov puts Fedya on the spot.
-- 'We will find work for everyone here.' Claiming that they will find work for everyone here sounds confident, even if Fedya has doubts. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Go ahead!' Telling Fedya to go ahead shows Barinov is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Right, then as usual.' Barinov presents a resolute bearing in their talk, putting "togda" ("back then") alongside "kak" ("how") in a tight, everyday turn of phrase.
+- 'Milk-fed lamb on the grill.' Barinov chooses a firm attitude in front of Katya, pairing "molochnyy" ("milk-fed, dairy") with "yagnyonok" ("lamb") to get the point across in plain spoken Russian.
+- 'Baked plums with berries.' Barinov shows an easygoing footing at once, building the phrase around "pechyonyye" ("baked, roasted") and "slivy" ("plums") for a crisp, natural delivery.
+- 'Rabbit with rosemary.' Barinov strikes a brisk attitude across the room, anchoring the Russian line on "krolik" ("rabbit") and "rozmarinom" ("rosemary") without extra filler.
+- 'Is that clear to everyone?' Barinov tests lightly beside Fedya, leaning on "ponyatno" ("clear") before closing the thought with "vsem" ("everyone").
+- 'Yes, Chef!' Fedya establishes a sharp angle right away, building the phrase around "da" ("yes") and "shef" ("Chef") for a crisp, natural delivery.
+- 'Right, Yekaterina.' Barinov favors a steady tone as the scene unfolds, building the phrase around "tak" ("so") and "yekaterina" ("Yekaterina") for a crisp, natural delivery.
+- 'You must not stand around and loaf.' Barinov shares a candid stance with Katya, leaning on "dolzhny" ("must, should") before closing the thought with "stoyat" ("to stand").
+- 'But there are no orders.' Katya chooses a grounded manner without hesitation, using "zakazov" (from "zakaz", "orders") alongside "tak" ("so") to shape the meaning.
+- 'So what? Fedya, please.' Barinov probes lightly on the spot, weaving "chto" ("what") together with "fedya" ("Fedya") just the way native speakers do.
+- 'We will find work for everyone here.' Barinov picks a frank bearing during the exchange, anchoring the Russian line on "rabota" ("job") and "naydyotsya" ("is found") without extra filler.
+- 'Go ahead!' Barinov shows a pointed mood at once, using "vperyod" ("ahead of") by itself, a common way spoken Russian keeps fast dialogue punchy.

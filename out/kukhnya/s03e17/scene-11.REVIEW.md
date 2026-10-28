@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What was that? Louis, do not touch me!' With the situation and shift hanging in the air, Barinov puts Katya on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Now I understand why you are not an electrician.' Katya mentions that she understands why Barinov is not an electrician so Barinov sees what is at stake. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Katya, did you happen to gain weight recently?' By asking whether Barinov happens to gain weight recently, Max presses Barinov for a straight answer.
-- 'It is somehow quite heavy for me to hold you.' Because it is somehow quite heavy for him to hold Barinov, Max treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You are being rude to me like a plumber right now.' Explaining that Barinov is being rude to her like a plumber right now lays the cards on the table for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What happened to our lights?' With the situation and point hanging in the air, Barinov puts Katya on the spot.
-- 'Chef, the electricity in our restaurant broke down.' Over the shift and the conversation, Max answers Barinov without a second thought. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'But that is not enough, go and check quickly.' Pointing out that that is not enough go and check quickly gives Katya a sobering reality check.
-- 'Max, tell me, are you even alive over there?' Katya asks whether tell her are Barinov even alive over there, refusing to let the point slide.
-- 'Alive, I am completely alive, everything is fine.' Realizing that alive he is completely alive everything is fine changes how Max handles the situation.
-- 'I even feel a little sorry for you right now.' Noting that she even feels a little sorry for Barinov right now keeps Katya's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Come on, run from here before Chef sees.' Because Barinov should come on run from here before Chef sees, Katya treats the matter as settled.
+- 'What was that? Louis, do not touch me!' Barinov quizzes naturally toward Katya here, linking "bylo" ("was"), "trogay" ("touch"), and "chto" ("what") in one brisk exchange.
+- 'Now I understand why you are not an electrician.' Katya strikes an emphatic approach in the conversation, pairing "teper" ("now") with "ponyala" ("understood") to get the point across in plain spoken Russian.
+- 'Katya, did you happen to gain weight recently?' Max checks dryly right away, joining "sluchayno" ("by any chance") to "nedavno" ("returned") so every word pulls its weight.
+- 'It is somehow quite heavy for me to hold you.' Max sets a lively approach across the room, pairing "sovsem" ("at all") with "tyazhelo" ("hard") to get the point across in plain spoken Russian.
+- 'You are being rude to me like a plumber right now.' Katya shows a wry footing in front of Barinov, building the phrase around "seychas" ("now") and "grubish" ("to be rude") for a crisp, natural delivery.
+- 'What happened to our lights?' Barinov wonders honestly at this point, using "sluchilos" (from "sluchitsya", "happened") alongside "svetom" ("light, electricity") to shape the meaning.
+- 'Chef, the electricity in our restaurant broke down.' Max shares an emphatic line during the exchange, weaving "restorane" ("restaurant") together with "elektrichestvo" ("electricity") just the way native speakers do.
+- 'But that is not enough, go and check quickly.' Barinov adopts an honest note in the scene, joining "malo" ("little, not enough") to "poydi" ("let's go") so every word pulls its weight.
+- 'Max, tell me, are you even alive over there?' Katya probes wryly at this point, leaning on "skazhi" ("say") before closing the thought with "tam" ("there").
+- 'Alive, I am completely alive, everything is fine.' Max establishes an honest approach toward Katya, linking "zhivoy" ("alive") directly with "sovershenno" ("quite, completely"), since Russian drops "is" and "are" in the present.
+- 'I even feel a little sorry for you right now.' Katya projects a lively course as they talk, weaving "seychas" ("now") together with "nemnogo" ("a bit") just the way native speakers do.
+- 'Come on, run from here before Chef sees.' Katya projects a brisk posture on the spot, combining "davay" ("let's") and "begi" ("run") so the key meaning lands right away.

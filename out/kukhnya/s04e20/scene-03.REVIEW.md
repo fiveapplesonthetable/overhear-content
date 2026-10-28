@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, will you explain to me what that was?' Here asking whether Denis explains to her what that was shows Vika looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I am afraid you will not like this, Vika.' Pointing out that he is afraid Vika will not like this gives Vika a sobering reality check.
-- 'Enough keeping silent, tell me right now!' With the room and rumor at stake, Vika reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Katya thinks that we were together.' Saying that Katya thinks that they were together is how Denis sets the tone with Vika.
-- 'What? What kind of foolish nonsense is that?' Wondering if what kind of foolish nonsense is shows Vika caught off guard.
-- 'What idiot spread this stupid rumor?' Over the rumor and the kitchen, Vika presses Denis for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I was just telling Kostya about my dreams.' Saying that he was just telling Kostya about his dreams is how Denis sets the tone with Vika.
-- 'I dreamed that we were in the office.' Since he dreamed that they were in the office, Denis does not waste words on excuses.
-- 'And Katya happened to walk in and overheard.' Over the room and the rumor, Denis answers Vika without a second thought.
-- 'Now she does not want to speak with me.' Mentioning that she does not want to speak with him moves the talk in a new direction.
-- 'Vika, tell me, what should I do now?' Questioning whether tell him what should he does now is how Denis tests Vika's story.
-- 'You stirred up this mess yourself.' Around the room and rumor, Vika sets a calm, everyday tone with Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Denis, will you explain to me what that was?' Vika quizzes pointedly as the beat lands, using "obyasnish" (from "obyasnit", "to explain") alongside "bylo" ("was") to shape the meaning.
+- 'I am afraid you will not like this, Vika.' Denis keeps a brisk position beside Vika, linking "boyus" ("am afraid"), "ponravitsya" ("will please"), and "vika" ("Vika") in one brisk exchange.
+- 'Enough keeping silent, tell me right now!' Vika strikes a serious bearing at this moment, building the phrase around "khvatit" ("enough") and "molchat" ("be quiet") for a crisp, natural delivery.
+- 'Katya thinks that we were together.' Denis projects a lively direction as the scene unfolds, building the phrase around "dumayet" ("thinks") and "byli" ("be") for a crisp, natural delivery.
+- 'What? What kind of foolish nonsense is that?' Vika quizzes warmly in front of Denis, leaning on "yeshchyo" ("more, still") before closing the thought with "glupyy" ("stupid").
+- 'What idiot spread this stupid rumor?' Vika questions dryly during the talk, combining "idiot" ("idiot") and "raspustil" ("to spread") so the key meaning lands right away.
+- 'I was just telling Kostya about my dreams.' Denis shows a frank style in their talk, building the phrase around "prosto" ("just") and "rasskazyval" ("told, recounted") for a crisp, natural delivery.
+- 'I dreamed that we were in the office.' Denis strikes an emphatic line in their talk, anchoring the Russian line on "snilos" ("to appear in a dream") and "kabinete" ("office") without extra filler.
+- 'And Katya happened to walk in and overheard.' Denis sustains a measured direction in front of Vika, linking "sluchayno" ("by any chance"), "zashla" ("dropped in"), and "uslyshala" ("to hear") in one brisk exchange.
+- 'Now she does not want to speak with me.' Denis chooses a thoughtful attitude in the conversation, putting "teper" ("now") alongside "khochet" ("wants") in a tight, everyday turn of phrase.
+- 'Vika, tell me, what should I do now?' Denis prompts decisively on the spot, pairing "skazhi" ("say") with "teper" ("now") to get the point across in plain spoken Russian.
+- 'You stirred up this mess yourself.' Vika shares a lively style in the room, pairing "kashu" ("porridge") with "zavaril" ("brew, steep") to get the point across in plain spoken Russian.

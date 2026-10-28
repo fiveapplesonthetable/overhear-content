@@ -19,21 +19,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Элеонора | Дисциплина и ещё раз дисциплина. | Discipline and once again discipline. | #51: Дисциплина. Еще раз дисциплина | adapted: verbatim |
 | 8 | Элеонора | Надеюсь, мы избежим таких разговоров. | I hope we will avoid such conversations. | #52: мы избежим<br>#52: разговоров | adapted: adapted |
 | 9 | Элеонора | А где сейчас ваш шеф? | And where is your head chef right now? | #53: Где шеф | adapted: adapted |
-| 10 | Михаил | Он очень перед вами извинялся. | He apologized to you profusely. | #54: Он очень извинялся | adapted: adapted |
-| 11 | Михаил | Он решает проблемы с поставщиками. | He is solving problems with suppliers. | #55: Решает какие-то проблемы с поставщиками | adapted: adapted |
+| 10 | Шеф | Он очень перед вами извинялся. | He apologized to you profusely. | #54: Он очень извинялся | adapted: adapted |
+| 11 | Шеф | Он решает проблемы с поставщиками. | He is solving problems with suppliers. | #55: Решает какие-то проблемы с поставщиками | adapted: adapted |
 | 12 | Сеня | Где же сейчас наш шеф? | Where is our chef right now, though? | #56: Ты | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yesterday's grand opening was a total failure.' Eleonora reminds Mikhail that yesterday grand opening was a total failure before the moment passes. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'This happened in front of the prefect himself.' Over the hotel and the kitchen, Eleonora answers Mikhail without a second thought. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I am not going to tolerate this.' Mentioning that she is not going to tolerate this moves the talk in a new direction.
-- 'What a strict owner we have.' Senya mentions that what a strict owner they have so Eleonora sees what is at stake. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'This concerns everyone here.' Around the hotel and kitchen, Eleonora sets a calm, everyday tone with Mikhail. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'The main thing in a hotel is discipline.' Explaining that the main thing in a hotel is discipline lays the cards on the table for Mikhail.
-- 'Discipline and once again discipline.' Turning from the hotel to the kitchen, Eleonora keeps the exchange moving.
-- 'I hope we will avoid such conversations.' Eleonora tells Mikhail that she hopes they will avoid such conversations without dressing it up.
-- 'And where is your head chef right now?' Here wondering where Mikhail's head right now is shows Eleonora looking for the real truth.
-- 'He apologized to you profusely.' With the hotel and point in play, Mikhail keeps this short reply brisk and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'He is solving problems with suppliers.' Realizing that he is solving problems with suppliers changes how Mikhail handles the situation.
-- 'Where is our chef right now, though?' Asking where their right now though is is how Senya puts Eleonora on the spot.
+- 'Yesterday's grand opening was a total failure.' Eleonora projects a firm position in the room, using "vcherashneye" (from "vcherashniy", "yesterday") alongside "otkrytiye" ("opening") to shape the meaning.
+- 'This happened in front of the prefect himself.' Eleonora chooses a grounded note across the room, building the phrase around "sluchilos" ("happened") and "samom" ("very") for a crisp, natural delivery.
+- 'I am not going to tolerate this.' Eleonora favors a candid rhythm as the scene unfolds, weaving "budu" ("will be") together with "terpet" ("to hold on") just the way native speakers do.
+- 'What a strict owner we have.' Senya establishes an earnest view without hesitation, weaving "strogaya" ("strict, stern") together with "khozyayka" ("landlady") just the way native speakers do.
+- 'This concerns everyone here.' Eleonora chooses an emphatic posture straight away, weaving "kasayetsya" ("concerns, applies to") together with "zdes" ("here") just the way native speakers do.
+- 'The main thing in a hotel is discipline.' Eleonora sets a grounded tone in this beat, weaving "glavnoye" ("important") together with "otele" ("in the hotel") just the way native speakers do.
+- 'Discipline and once again discipline.' Eleonora favors a steady direction at this moment, linking "distsiplina" ("discipline"), "yeshchyo" ("more, still"), and "raz" ("time, once") in one brisk exchange.
+- 'I hope we will avoid such conversations.' Eleonora displays a pointed rhythm at this moment, anchoring the Russian line on "nadeyus" ("hope so") and "izbezhim" ("we will avoid") without extra filler.
+- 'And where is your head chef right now?' Eleonora presses steadily on the spot, linking "gde" ("where") directly with "seychas" ("now"), since Russian drops "is" and "are" in the present.
+- 'He apologized to you profusely.' Barinov favors a lively direction at once, weaving "ochen" ("very much") together with "izvinyalsya" ("apologized") just the way native speakers do.
+- 'He is solving problems with suppliers.' Barinov conveys a candid direction without hesitation, weaving "reshayet" ("decides") together with "problemy" ("problems") just the way native speakers do.
+- 'Where is our chef right now, though?' Senya questions steadily without hesitation, putting "gde" ("where") alongside "seychas" ("now") in a tight, everyday turn of phrase.

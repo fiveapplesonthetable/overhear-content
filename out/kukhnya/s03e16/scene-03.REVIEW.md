@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kristina is back, Grandpa Kirill is definitely taking revenge on us!' Max insists that Kristina is back Grandpa Kirill is definitely taking revenge on them, leaving Kristina no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Well here we are, this is Viktoria's former office.' Nagiyev mentions that here they are this is Viktoria former office so Kristina sees what is at stake.
-- 'Now this office is completely yours.' Claiming that this office is completely sounds confident, even if Kristina has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'How sweet, the former office of your ex!' Over the conversation and the office, Kristina lets her real feelings show. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Come on, maybe I can toss some extra money your way?' Questioning whether come on maybe he can toss some extra money Kristina's way is how Nagiyev tests Kristina's story.
-- 'No, Dima, thank you very much.' With the truth and money in play, Kristina keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You know, I have changed a lot, after all.' Having changed a lot after all moves the conversation forward without extra drama. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Now I want to live on what I earned myself.' Claiming that she wants to live on what she earned herself sounds confident, even if Max has doubts.
-- 'By the way, tell me, when is our payday?' Wondering if tell her when is their payday shows Kristina caught off guard. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Payday for everyone will be in a little week.' Saying that payday for everyone will be in a little week is how Nagiyev sets the tone with Kristina.
-- 'Such a long wait, and what about the others?' With the work and office hanging in the air, Kristina puts Max on the spot.
-- 'What kind of director am I if I separate myself from the team?' Over the work and the money, Kristina presses Max for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Kristina is back, Grandpa Kirill is definitely taking revenge on us!' Max favors an earnest line as the scene unfolds, weaving "vernulas" ("returned") together with "tochno" ("definitely") just the way native speakers do.
+- 'Well here we are, this is Viktoria's former office.' Nagiyev displays a firm posture at this moment, combining "byvshiy" ("ex") and "kabinet" ("office") so the key meaning lands right away.
+- 'Now this office is completely yours.' Nagiyev projects a natural note right away, linking "teper" ("now"), "kabinet" ("office"), and "polnostyu" ("completely") in one brisk exchange.
+- 'How sweet, the former office of your ex!' Kristina picks a pointed tack for Nagiyev, joining "kak" ("how") to "milo" ("nice, sweet") so every word pulls its weight.
+- 'Come on, maybe I can toss some extra money your way?' Nagiyev quizzes briskly from the start, using "davay" (from "davat", "let's") alongside "mozhet" ("can") to shape the meaning.
+- 'No, Dima, thank you very much.' Kristina offers a serious line at this moment, joining "bolshoye" ("big, very much") to "spasibo" ("thank you") so every word pulls its weight.
+- 'You know, I have changed a lot, after all.' Kristina adopts an earnest attitude beside Max, anchoring the Russian line on "znayesh" ("know") and "silno" ("strongly, much") without extra filler.
+- 'Now I want to live on what I earned myself.' Kristina sets a wry view in front of Nagiyev, anchoring the Russian line on "teper" ("now") and "khochu" ("want") without extra filler.
+- 'By the way, tell me, when is our payday?' Kristina challenges pointedly toward Max here, pairing "kstati" ("by the way") with "skazhi" ("say") to get the point across in plain spoken Russian.
+- 'Payday for everyone will be in a little week.' Nagiyev brings an emphatic note across the room, putting "zarplata" ("salary, wages") alongside "budet" ("will be") in a tight, everyday turn of phrase.
+- 'Such a long wait, and what about the others?' Kristina probes frankly to keep things clear, weaving "dolgo" ("for a long time") together with "zhdat" ("to wait") just the way native speakers do.
+- 'What kind of director am I if I separate myself from the team?' Kristina wonders candidly without a pause, pairing "direktor" ("head teacher") with "budu" ("will be") to get the point across in plain spoken Russian.

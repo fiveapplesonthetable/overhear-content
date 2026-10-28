@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, friends, thank you for coming!' Between the truth and the kitchen, Barinov delivers a sharp reaction.
-- 'Chef, we congratulate you with all our heart!' By congratulating Barinov with all their heart, Alisa raises the stakes in the room at once. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'And you are never late for a party either!' Once Alisa is never late for a party either, Barinov makes sure Alisa hears every word. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Chef, you said there would be twelve people.' Because Barinov said there would be twelve people, Alisa treats the matter as settled.
-- 'The remaining guests simply ran over for the treats!' Barinov insists that the remaining guests simply ran over for the treats, leaving Alisa no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Beloved Daddy, happy birthday to you!' Over the plan and the shift, Alisa lets her real feelings show. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Thank you very much, my sweet little daughter!' With the plan and moment at stake, Barinov reacts without holding back.
-- 'I did not think that you had so many friends.' Explaining that she did not think that Alisa had so many friends lays the cards on the table for Alisa. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Vitya, did you pay back all your debts or what?' Here checking whether Alisa pays back all Alisa's debts shows Tanya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I promised to pay them back today, so they came running!' Once he promised to pay them back today so they came running, Barinov makes sure Alisa hears every word.
-- 'Daddy, and why do they have leopards everywhere?' Wondering if daddy and why do they have leopards everywhere shows Alisa caught off guard. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Because I was born in the Year of the Leopard!' Barinov insists that because he was born in the year of the Leopard, leaving Alisa no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Good evening, friends, thank you for coming!' Barinov displays an emphatic note toward Alisa, weaving "dobryy" ("good") together with "vecher" ("evening") just the way native speakers do.
+- 'Chef, we congratulate you with all our heart!' Alisa projects a sharp footing in the room, linking "dushi" ("soul, heart"), "pozdravlyayem" ("we congratulate"), and "shef" ("Chef") in one brisk exchange.
+- 'And you are never late for a party either!' Barinov shows a lively tone in the scene, weaving "pyanku" ("drinking party") together with "opazdyvayete" ("are late") just the way native speakers do.
+- 'Chef, you said there would be twelve people.' Alisa projects a resolute position without hesitation, linking "govorili" ("talked"), "budet" ("will be"), and "chelovek" ("a man, a person") in one brisk exchange.
+- 'The remaining guests simply ran over for the treats!' Barinov maintains a pointed stance toward Alisa, building the phrase around "ostalnyye" ("remaining, other") and "gosti" ("visitors, guests") for a crisp, natural delivery.
+- 'Beloved Daddy, happy birthday to you!' Alisa chooses a thoughtful view in the conversation, joining "papochka" ("daddy, folder") to "lyubimyy" ("favourite") so every word pulls its weight.
+- 'Thank you very much, my sweet little daughter!' Barinov holds a grounded manner in their talk, anchoring the Russian line on "spasibo" ("thank you") and "bolshoye" ("big, very much") without extra filler.
+- 'I did not think that you had so many friends.' Tanya presents an unhurried tempo as they talk, weaving "dumala" ("thought") together with "stolko" ("so many") just the way native speakers do.
+- 'Vitya, did you pay back all your debts or what?' Tanya presses quietly as they speak, combining "razdal" ("to all") and "dolgi" ("debt, duty") so the key meaning lands right away.
+- 'I promised to pay them back today, so they came running!' Barinov projects a warm tone at this moment, joining "poobeshchal" ("promised") to "razdat" ("to back") so every word pulls its weight.
+- 'Daddy, and why do they have leopards everywhere?' Alisa challenges bluntly in this moment, linking "papochka" ("daddy, folder"), "pochemu" ("why"), and "vezde" ("everywhere") in one brisk exchange.
+- 'Because I was born in the Year of the Leopard!' Barinov presents a sharp approach for Tanya, combining "potomu" ("because") and "rodilsya" ("was born") so the key meaning lands right away.

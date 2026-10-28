@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What happened, Viktor Petrovich?' With the hotel and secret hanging in the air, Kostya puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'A woman ordered champagne to the room here.' With the hotel and secret in play, Kostya keeps this short reply brisk and direct.
-- 'Hand it here and get out of here.' Barinov mentions that Kostya should hand it here and get out of here so Kostya sees what is at stake.
-- 'I understood, you are busy in here.' Mentioning that he understood Barinov is busy in here moves the talk in a new direction. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Yes, just do not tell anyone.' Saying that just do not tell anyone is how Barinov sets the tone with Kostya.
-- 'You offend me, Viktor Petrovich.' Around the hotel and secret, Kostya sets a calm, everyday tone with Barinov.
-- 'You and I are men, after all.' Admitting that Barinov and he are men after all shows Kostya being honest for a change. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'We are true keepers of secrets.' Kostya mentions that they are true keepers of secrets so Barinov sees what is at stake.
-- 'Today I am covering for you here.' Claiming that today he is covering for Barinov here sounds confident, even if Barinov has doubts.
-- 'Kostya, get out of here quickly!' Getting out of here quickly shows Barinov is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Chef, do not throw the bottle away.' Senya explains that do not throw the bottle away, keeping his voice calm and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'In case we have to stun someone else.' Realizing that in case they have to stun someone else changes how Senya handles the situation.
+- 'What happened, Viktor Petrovich?' Kostya challenges decisively during the talk, pairing "sluchilos" ("happened") with "chto" ("what") to get the point across in plain spoken Russian.
+- 'A woman ordered champagne to the room here.' Kostya sets a resolute bearing in this beat, building the phrase around "tut" ("here") and "zhenshchina" ("woman") for a crisp, natural delivery.
+- 'Hand it here and get out of here.' Barinov favors a frank stance at once, joining "davay" ("let's") to "syuda" ("here") so every word pulls its weight.
+- 'I understood, you are busy in here.' Kostya chooses a brisk attitude as the scene unfolds, leaning on "ponyal" ("understood") before closing the thought with "tut" ("here").
+- 'Yes, just do not tell anyone.' Barinov projects a steady view across the room, anchoring the Russian line on "tolko" ("only") and "rasskazyvay" ("tell") without extra filler.
+- 'You offend me, Viktor Petrovich.' Kostya keeps an easygoing manner across the room, joining "obizhayete" ("you mistreat") to "menya" ("me") so every word pulls its weight.
+- 'You and I are men, after all.' Kostya adopts an earnest tempo as the scene unfolds, using "muzhiki" (from "muzhik", "lads, guys") alongside "my" ("we") to shape the meaning.
+- 'We are true keepers of secrets.' Kostya offers a calm stance in the scene, linking "nastoyashchiye" ("real"), "khraniteli" ("keepers, guardians"), and "sekretov" ("secrets") in one brisk exchange.
+- 'Today I am covering for you here.' Kostya brings a thoughtful direction during the exchange, putting "segodnya" ("today") alongside "tut" ("here") in a tight, everyday turn of phrase.
+- 'Kostya, get out of here quickly!' Barinov holds a wry rhythm on the spot, combining "bystro" ("quickly") and "idi" ("go") so the key meaning lands right away.
+- 'Chef, do not throw the bottle away.' Senya establishes a direct angle in this beat, combining "butylochku" ("bottle") and "vybrasyvayte" ("to throw out") so the key meaning lands right away.
+- 'In case we have to stun someone else.' Senya offers a resolute manner at this moment, leaning on "vdrug" ("suddenly, what if") before closing the thought with "yeshchyo" ("more, still").

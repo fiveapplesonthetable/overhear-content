@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So this is your future wife?' When the guest asks if this is Barinov's future wife, Barinov has to answer fast. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'She really looks wonderful today.' Because she really looks wonderful today, the guest treats the matter as settled.
-- 'You Russians have very complicated last names.' Explaining that Barinov Russians have very complicated last names lays the cards on the table for Barinov.
-- 'My Elena will simply be very happy.' Barinov mentions that his Elena will simply be very happy so the guest sees what is at stake.
-- 'Thank you, when will she come for a fitting?' Asking when she come for a fitting will is how the guest puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Unfortunately, she will not be able to come herself.' Explaining that she will not be able to come herself lays the cards on the table for the guest.
-- 'She is very busy every day right now.' Barinov explains that she is very busy every day right now, keeping his voice calm and direct.
-- 'She has constant concerts and filming.' Realizing that she has constant concerts and filming changes how Barinov handles the situation. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'But I will definitely think of something today.' Noting that he will definitely think of something today keeps Barinov's side of the story simple and clear.
-- 'Miss, you have had enough to drink today.' Here telling Barinov to miss Barinov has had enough to drink today sets up the next turn in their exchange. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Do not worry about me, Kostya.' Admitting that do not worry about him shows the guest being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I know how much I can drink.' The guest mentions that he knows how much he can drink so Barinov sees what is at stake.
+- 'So this is your future wife?' The guest inquires openly as they speak, joining "znachit" ("then, so") to "budushchaya" ("future, next") so every word pulls its weight.
+- 'She really looks wonderful today.' The guest picks a playful line on the spot, pairing "segodnya" ("today") with "deystvitelno" ("really, indeed") to get the point across in plain spoken Russian.
+- 'You Russians have very complicated last names.' The guest projects a measured mood in their talk, using "russkikh" (from "russkiy", "Russian") alongside "ochen" ("very much") to shape the meaning.
+- 'My Elena will simply be very happy.' Barinov maintains a playful position in this beat, pairing "budet" ("will be") with "prosto" ("just") to get the point across in plain spoken Russian.
+- 'Thank you, when will she come for a fitting?' The guest probes firmly to keep things clear, anchoring the Russian line on "blagodaryu" ("to thank") and "kogda" ("when") without extra filler.
+- 'Unfortunately, she will not be able to come herself.' Barinov shares a firm manner beside Kostya, anchoring the Russian line on "sozhaleniyu" ("regret") and "priyti" ("to come") without extra filler.
+- 'She is very busy every day right now.' Barinov maintains a serious stance toward the guest, joining "seychas" ("now") to "kazhdyy" ("every") so every word pulls its weight.
+- 'She has constant concerts and filming.' Barinov chooses a natural footing with Kostya, combining "postoyannyye" ("regular, permanent") and "kontserty" ("concert") so the key meaning lands right away.
+- 'But I will definitely think of something today.' Barinov favors an unhurried position in this beat, putting "obyazatelno" ("surely, without fail") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
+- 'Miss, you have had enough to drink today.' Kostya holds a thoughtful approach in the conversation, building the phrase around "devushka" ("girlfriend") and "uzhe" ("already, now") for a crisp, natural delivery.
+- 'Do not worry about me, Kostya.' The guest keeps a calm manner at once, joining "perezhivay" ("worry") to "ty" ("you") so every word pulls its weight.
+- 'I know how much I can drink.' The guest brings an unhurried line in their talk, leaning on "znayu" ("know") before closing the thought with "skolko" ("how much, so much").

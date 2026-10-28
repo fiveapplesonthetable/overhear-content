@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse us for disturbing you.' Saying that the inspector should excuse them for disturbing the inspector is how Mikhail sets the tone with the inspector. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'The commission is in the hotel. We are leaving right now.' Mikhail mentions that the commission is in the hotel so the inspector sees what is at stake.
-- 'Oh, the commission! Well I will show you everything right now.' Saying that well he will show the inspector everything right now is how Nagiyev takes charge of the moment. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Here the little sofas are soft.' Pointing out that here the little sofas are soft gives the inspector a sobering reality check.
-- 'Oh, only it is empty.' Nagiyev explains that only it is empty, keeping his voice calm and direct.
-- 'Yes, let us go.' Adding that they should go fills in the missing piece for the inspector.
-- 'Let us go. Well, where are you going?' Proposing that they go cuts straight through the tension between Nagiyev and the inspector. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Wait! Oh, excuse me.' Telling the inspector to excuse him is Nagiyev's blunt reaction in front of the inspector.
-- 'What is going on here?' Around the shift and situation, the inspector wants to know where Mikhail really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'In their homeland there is prohibition.' Saying that in their homeland there is prohibition is how Mikhail sets the tone with the inspector.
-- 'Right now everything will be fine.' Once right now everything will be fine, Mikhail can finally tell the inspector what he means.
-- 'Let us move on.' Moving together is how the inspector lays out the situation for Mikhail.
+- 'Excuse us for disturbing you.' Mikhail holds a candid approach at this moment, joining "izvinite" ("sorry, excuse me") to "pobespokoili" ("disturbed, bothered") so every word pulls its weight.
+- 'The commission is in the hotel. We are leaving right now.' Mikhail offers a warm tempo on the spot, joining "komissiya" ("commission") to "otele" ("in the hotel") so every word pulls its weight.
+- 'Oh, the commission! Well I will show you everything right now.' Nagiyev shows a brisk view across the room, leaning on "komissiya" ("commission") before closing the thought with "seychas" ("now").
+- 'Here the little sofas are soft.' Nagiyev establishes a brisk rhythm straight away, combining "divanchiki" ("little sofas") and "myagkiye" ("soft") so the key meaning lands right away.
+- 'Oh, only it is empty.' Nagiyev sets an easygoing stance on the spot, placing "tolko" ("only") straight beside "pustoy" ("empty-handed") with no word for "to be" needed.
+- 'Yes, let us go.' Mikhail takes a firm bearing toward Nagiyev, combining "poydyomte" ("come on, let's go") and "da" ("yes") so the key meaning lands right away.
+- 'Let us go. Well, where are you going?' Nagiyev presses boldly toward the inspector here, joining "poydyom" ("let's go") to "kuda" ("where to") so every word pulls its weight.
+- 'Wait! Oh, excuse me.' Nagiyev adopts a playful note in the conversation, combining "podozhdite" ("wait") and "izvinite" ("sorry, excuse me") so the key meaning lands right away.
+- 'What is going on here?' The inspector wonders pointedly right away, anchoring the Russian line on "zdes" ("here") and "proiskhodit" ("is going on") without extra filler.
+- 'In their homeland there is prohibition.' Mikhail takes a thoughtful attitude in the scene, linking "rodine" ("motherland"), "sukhoy" ("dry"), and "zakon" ("law") in one brisk exchange.
+- 'Right now everything will be fine.' Mikhail strikes a direct posture without hesitation, weaving "seychas" ("now") together with "budet" ("will be") just the way native speakers do.
+- 'Let us move on.' The inspector brings a brisk angle as they talk, building the phrase around "idyomte" ("let us go") and "dalshe" ("next, go on") for a crisp, natural delivery.

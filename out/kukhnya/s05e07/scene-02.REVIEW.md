@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, you braked just in time.' Around the phone and hotel, Max sets a calm, everyday tone with Vika. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You need to be more careful behind the wheel.' Since Vika needs to be more careful behind the wheel, Max does not waste words on excuses. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'I will manage without your advice.' Mentioning that she will manage without Max's advice moves the talk in a new direction.
-- 'Vika, I thought about it here and decided.' Saying that he thought about it here and decided is how Max sets the tone with Vika.
-- 'I am ready to accept this child.' Once he is ready to accept this child, Max can finally tell Vika what he means.
-- 'I will raise him as my own.' Explaining that he will raise him as his own lays the cards on the table for Vika.
-- 'You know, I thought about it here and decided.' Vika tells Max that she thought about it here and decided without dressing it up. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I do not want to see you anymore.' Because she does not want to see Max anymore, Vika treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Are you sure?' Asking whether Vika sure cuts straight through the tension between Max and Vika.
-- 'In that case, there is nothing left for me to do here.' Max explains that in that case there is nothing left for him to do here, keeping his voice calm and direct.
-- 'I am leaving.' Max mentions that he is leaving so Vika sees what is at stake.
-- 'Next to a woman there should be a man she can lean on.' Noting that next to a woman there should be a man she can lean keeps Vika's side of the story simple and clear.
+- 'Hi, you braked just in time.' Max brings a brisk bearing beside Vika, putting "vovremya" ("at the right time") alongside "tormoznula" ("braked, stopped") in a tight, everyday turn of phrase.
+- 'You need to be more careful behind the wheel.' Max chooses a calm angle in the scene, combining "vnimatelneye" ("more careful") and "nuzhno" ("necessary") so the key meaning lands right away.
+- 'I will manage without your advice.' Vika offers a candid attitude beside Max, anchoring the Russian line on "oboydus" ("will manage") and "sovetov" ("advice, tips") without extra filler.
+- 'Vika, I thought about it here and decided.' Max shares an honest approach on the spot, anchoring the Russian line on "tut" ("here") and "podumal" ("would think") without extra filler.
+- 'I am ready to accept this child.' Max establishes a brisk position with Vika, combining "gotov" ("ready") and "prinyat" ("to accept, hire") so the key meaning lands right away.
+- 'I will raise him as my own.' Max chooses a resolute bearing toward Vika, putting "budu" ("will be") alongside "vospityvat" ("educate") in a tight, everyday turn of phrase.
+- 'You know, I thought about it here and decided.' Vika strikes a brisk style at this moment, building the phrase around "znayesh" ("know") and "tut" ("here") for a crisp, natural delivery.
+- 'I do not want to see you anymore.' Vika offers a calm line with Max, building the phrase around "khochu" ("want") and "bolshe" ("more") for a crisp, natural delivery.
+- 'Are you sure?' Max wonders briskly across the room, putting all the weight on "uverena" ("sure, confident") so the reply lands immediately.
+- 'In that case, there is nothing left for me to do here.' Max keeps a direct posture in this beat, linking "sluchaye" ("case, event"), "zdes" ("here"), and "bolshe" ("more") in one brisk exchange.
+- 'I am leaving.' Max projects an easygoing view right away, weaving "uyezzhayu" ("am leaving") together with "ya" ("I") just the way native speakers do.
+- 'Next to a woman there should be a man she can lean on.' Vika takes an emphatic posture in their talk, leaning on "ryadom" ("nearby") before closing the thought with "zhenshchinoy" ("a woman").

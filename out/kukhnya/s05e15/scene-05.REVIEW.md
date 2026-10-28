@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, did something happen to you? You look pale.' Checking whether something happen to Vika is how Max puts Vika on the spot. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Eleonora said that we need to make an edible menu.' Saying that Eleonora said that they need to make an edible menu is how Vika sets the tone with Max. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'And I have no idea at all how to make it.' Once she has no idea at all how to make it, Vika can finally tell Max what she means.
-- 'If you want, let me make it? I have seen one before.' Max asks whether if Vika wants let him make it, refusing to let the point slide. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Thank you, Lavrov, but I will figure everything out myself.' Vika mentions that she will figure everything out herself so Max sees what is at stake.
-- 'Vika, stop showing your proud temper already!' By telling Vika to stop showing Vika's proud temper already, Max raises the stakes in the room at once.
-- 'I told you clearly that I will make it myself!' Because he told Vika clearly that he will make it himself, Max does not bother softening the blow for Vika. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Fine! Then this evening the edible menu must be ready!' Insisting that then this evening the edible menu must be ready shows Vika is not backing down. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'That is great, you are always welcome, Victoria Sergeyevna!' Once that is great Vika is always welcome Victoria Sergeyevna, Max makes sure Vika hears every word.
-- 'And while you are at it, clean this whole kitchen spotless!' Declaring that while Max is at it clean this whole kitchen spotless brings Vika's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Alright, only I did not sign up to clean the kitchen!' Max insists that Alright only he did not sign up to clean the kitchen, leaving Vika no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I just wanted to test if that would work too.' Admitting that she just wanted to test if that would work shows Vika being honest for a change.
+- 'Vika, did something happen to you? You look pale.' Max wonders naturally to make the point, using "sluchilos" (from "sluchitsya", "happened") alongside "blednaya" ("pale, pallid") to shape the meaning.
+- 'Eleonora said that we need to make an edible menu.' Vika shares a grounded attitude for Max, leaning on "skazala" ("told") before closing the thought with "nuzhno" ("necessary").
+- 'And I have no idea at all how to make it.' Vika favors a lively approach at this moment, leaning on "voobshche" ("at all") before closing the thought with "znayu" ("know").
+- 'If you want, let me make it? I have seen one before.' Max tests calmly beside Vika, joining "khochesh" ("do you want") to "davay" ("let's") so every word pulls its weight.
+- 'Thank you, Lavrov, but I will figure everything out myself.' Vika displays a wry view as they talk, putting "spasibo" ("thank you") alongside "razberus" ("I will sort out") in a tight, everyday turn of phrase.
+- 'Vika, stop showing your proud temper already!' Max keeps a warm line at once, anchoring the Russian line on "khvatit" ("enough") and "uzhe" ("already, now") without extra filler.
+- 'I told you clearly that I will make it myself!' Max adopts an earnest line in the scene, building the phrase around "yasno" ("clear, got it") and "skazal" ("said") for a crisp, natural delivery.
+- 'Fine! Then this evening the edible menu must be ready!' Vika displays a resolute stance at this moment, leaning on "khorosho" ("good, fine") before closing the thought with "togda" ("back then").
+- 'That is great, you are always welcome, Victoria Sergeyevna!' Max holds an honest course in the room, combining "otlichno" ("perfect, great") and "vsegda" ("always") so the key meaning lands right away.
+- 'And while you are at it, clean this whole kitchen spotless!' Vika adopts a grounded bearing at once, linking "zaodno" ("at the same time"), "chisto" ("clean"), and "uberi" ("take away, put away") in one brisk exchange.
+- 'Alright, only I did not sign up to clean the kitchen!' Max shares a firm stance as they talk, leaning on "tolko" ("only") before closing the thought with "kukhnyu" ("kitchen").
+- 'I just wanted to test if that would work too.' Vika picks an earnest direction as they talk, leaning on "prosto" ("just") before closing the thought with "khotela" ("wanted, meant").

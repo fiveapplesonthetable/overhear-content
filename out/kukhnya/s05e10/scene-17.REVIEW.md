@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nothing. In short, it did not work.' Explaining that in short it did not work lays the cards on the table for Kostya. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'What do you mean?' Around the shift and smile, Kostya wants to know where Max really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'She paid with money.' Claiming that she paid with money sounds confident, even if Kostya has doubts.
-- 'And besides, she does not look much like a hypnotist.' Pointing out that besides she does not look much like a hypnotist gives Kostya a sobering reality check.
-- 'How does she not look like one? You said so yourself!' Here wondering how she not look like one shows Kostya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What am I, a detective?' Around the moment and money, Max wants to know where Kostya really stands.
-- 'In short, come on, let us all disperse.' Noting that in short come on let them all disperse keeps Max's side of the story simple and clear. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Wait, what if it is her after all?' Questioning whether what if it is her after all is how Nastya tests Kostya's story. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And right now we will let her slip away!' Because right now they will let her slip away, Nastya does not bother softening the blow for Kostya.
-- 'Listen, let us do it this way.' Once they should do it this way, Max can finally tell Kostya what he means. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'You watch her yourselves, and I pass.' Once Kostya watches her yourselves and he passes, Max can finally tell Kostya what he means. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I already screwed up in front of Vika anyway.' Over the money and the truth, Max answers Kostya without a second thought.
+- 'Nothing. In short, it did not work.' Max projects a natural view for Kostya, joining "koroche" ("long story short") to "prokatilo" ("worked out") so every word pulls its weight.
+- 'What do you mean?' Kostya presses decisively to Nastya here, letting the single Russian word "smysle" ("sense") carry the entire reaction on its own.
+- 'She paid with money.' Max strikes a wry direction straight away, building the phrase around "dengami" ("the money, funding") and "rasplatilas" ("paid") for a crisp, natural delivery.
+- 'And besides, she does not look much like a hypnotist.' Max favors a natural position toward Nastya, building the phrase around "voobshche" ("at all") and "ochen" ("very much") for a crisp, natural delivery.
+- 'How does she not look like one? You said so yourself!' Kostya wonders warmly as the beat lands, combining "kak" ("how") and "pokhozha" ("similar, like") so the key meaning lands right away.
+- 'What am I, a detective?' Max wonders wryly as they speak, putting "detektiv" ("detective") alongside "ya" ("I") in a tight, everyday turn of phrase.
+- 'In short, come on, let us all disperse.' Max offers a natural manner beside Kostya, pairing "koroche" ("long story short") with "davayte" ("let's") to get the point across in plain spoken Russian.
+- 'Wait, what if it is her after all?' Nastya challenges calmly right away, putting "podozhdite" ("wait") alongside "yesli" ("if") in a tight, everyday turn of phrase.
+- 'And right now we will let her slip away!' Nastya sustains a playful footing during the exchange, joining "seychas" ("now") to "upustim" ("will let slip") so every word pulls its weight.
+- 'Listen, let us do it this way.' Max offers a wry course as they talk, weaving "slushayte" ("listen") together with "davayte" ("let's") just the way native speakers do.
+- 'You watch her yourselves, and I pass.' Max maintains a calm approach across the room, anchoring the Russian line on "sledite" ("are watching") and "pas" ("pass") without extra filler.
+- 'I already screwed up in front of Vika anyway.' Max establishes a lively mood across the room, combining "uzhe" ("already, now") and "oblazhalsya" ("screw up, mess up") so the key meaning lands right away.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Make sure I have the hundred thousand tomorrow.' Making sure he has the hundred thousand tomorrow is how Barinov lays out the situation for Lyova. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Otherwise we will be having a very different conversation.' Pointing out that otherwise they will be having a very different conversation gives Barinov a sobering reality check.
-- 'Why are you worrying so much?' Asking why Lyova worrying so much is is how Barinov puts Lyova on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You are not the one who borrowed it.' Realizing that Barinov is not the one who borrowed it changes how Lyova handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yeah, right, I was not the one who borrowed it.' Noting that yeah right he was not the one who borrowed it keeps Barinov's side of the story simple and clear.
-- 'The Chef is in the hospital, what can you get from him now?' Asking whether the Chef is in the hospital what can Barinov gets from him now puts Barinov right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Why are you getting so worked up?' Wondering why Lyova getting so worked up is is how Barinov puts Lyova on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Oh, I am in.' Around the plan and moment, Lyova sets a calm, everyday tone with Barinov.
-- 'Here, take ten thousand.' With the plan and work in play, Barinov keeps this short reply brisk and direct.
-- 'Why are you all looking at me like that?' Wondering why Barinov all looking at him like is cuts straight through the tension between Lyova and Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'The Chef already owes me ten thousand.' Barinov tells Lyova that the Chef already owes him ten thousand without dressing it up.
-- 'So I have actually put in even more than you did.' Saying that he has actually put in even more than Barinov did is how Lyova sets the tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'All right, here you go.' Mentioning that all right here Lyova goes moves the talk in a new direction.
+- 'Make sure I have the hundred thousand tomorrow.' Barinov shows a direct posture as they talk, leaning on "tysyach" ("thousand") before closing the thought with "zavtra" ("tomorrow").
+- 'Otherwise we will be having a very different conversation.' Lyova offers a direct tack straight away, joining "inache" ("otherwise") to "razgovarivat" ("to talk, to speak") so every word pulls its weight.
+- 'Why are you worrying so much?' Barinov tests steadily with Lyova now, joining "volnuyeshsya" ("to worry") to "nu" ("oh, come on") so every word pulls its weight.
+- 'You are not the one who borrowed it.' Lyova keeps a sharp direction for Barinov, weaving "zanimal" ("occupy, take up") together with "ne" ("not") just the way native speakers do.
+- 'Yeah, right, I was not the one who borrowed it.' Barinov presents a serious posture at once, putting "zanimal" ("occupy, take up") alongside "aga" ("yeah, right") in a tight, everyday turn of phrase.
+- 'The Chef is in the hospital, what can you get from him now?' Lyova challenges frankly as they speak, combining "bolnitse" ("the hospital") and "vozmesh" ("to take") so the key meaning lands right away.
+- 'Why are you getting so worked up?' Barinov checks steadily across the room, joining "razvolnovalsya" ("to get nervous") to "da" ("yes") so every word pulls its weight.
+- 'Oh, I am in.' Lyova picks an honest tack during the exchange, weaving "oy" ("oh") together with "ya" ("I") just the way native speakers do.
+- 'Here, take ten thousand.' Barinov offers a resolute style in front of Lyova, building the phrase around "tysyach" ("thousand") and "desyat" ("ten") for a crisp, natural delivery.
+- 'Why are you all looking at me like that?' Lyova asks earnestly in the scene, combining "smotrite" ("look") and "chto" ("what") so the key meaning lands right away.
+- 'The Chef already owes me ten thousand.' Barinov establishes a grounded attitude as the scene unfolds, putting "tysyach" ("thousand") alongside "dolzhen" ("has to, must") in a tight, everyday turn of phrase.
+- 'So I have actually put in even more than you did.' Lyova maintains a calm posture in their talk, pairing "yeshche" ("still") with "bolshe" ("more") to get the point across in plain spoken Russian.
+- 'All right, here you go.' Barinov keeps a wry note at once, leaning on "ladno" ("all right") before closing the thought with "vot" ("there, here").

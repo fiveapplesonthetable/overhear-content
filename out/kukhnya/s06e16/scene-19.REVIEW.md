@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is a shame that we fed her, and everyone looked.' Saying that it is a shame that they fed her and everyone looked is how Barinov sets the tone with Elena.
-- 'Ladies and gentlemen, the show has come to an end.' Because ladies and gentlemen the show has come to an end, the guest treats the matter as settled.
-- 'I invite all the models onto the stage.' Inviting all the models onto the stage moves the conversation forward without extra drama.
-- 'I thank everyone who helped organize the show.' Claiming that he thanks everyone who helped organize the show sounds confident, even if Barinov has doubts.
-- 'Let us get out of here, a crowd is about to start.' Realizing that they should get out of here a crowd is about to start changes how Barinov handles the situation.
-- 'I want to thank the head chef of the restaurant, Viktor Barinov!' Here wanting to thank the head of the restaurant Viktor Barinov lets the guest's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And introduce to you his fiancée Elena!' With the shift and gift at stake, the guest reacts without holding back.
-- 'Elena, this wonderful dress is for you.' Realizing that this wonderful dress is for Barinov changes how the guest handles the situation. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Thank you very much for such a gift.' Around the shift and gift, Elena sets a calm, everyday tone with Barinov. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Maybe you will sing something for us?' The guest asks whether maybe Barinov will sing something for them, refusing to let the point slide.
-- 'Or else I will not give you the dress!' The guest insists that else he will not give Barinov the dress, leaving Barinov no room to argue. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Lena, sing quickly, this is an expensive dress!' Saying that someone sing quickly this is an expensive dress is how Barinov takes charge of the moment. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'It is a shame that we fed her, and everyone looked.' Barinov sustains an honest line at once, combining "obidno" ("hurtful, bitter") and "kormili" ("to feed") so the key meaning lands right away.
+- 'Ladies and gentlemen, the show has come to an end.' The guest favors an unhurried tack beside Elena, using "damy" (from "dama", "lady, woman") alongside "gospoda" ("gentlemen") to shape the meaning.
+- 'I invite all the models onto the stage.' The guest shows a serious line in this beat, using "priglashayu" (from "priglashat", "invite") alongside "modeley" ("models") to shape the meaning.
+- 'I thank everyone who helped organize the show.' The guest conveys a sharp footing as they talk, weaving "blagodaryu" ("to thank") together with "pomog" ("helped") just the way native speakers do.
+- 'Let us get out of here, a crowd is about to start.' Barinov presents a thoughtful posture in the room, leaning on "poydyom" ("let's go") before closing the thought with "otsyuda" ("from here").
+- 'I want to thank the head chef of the restaurant, Viktor Barinov!' The guest chooses an honest course straight away, combining "khochu" ("want") and "poblagodarit" ("to thank") so the key meaning lands right away.
+- 'And introduce to you his fiancée Elena!' The guest shares a direct posture in front of Barinov, building the phrase around "predstavit" ("to imagine") and "nevestu" ("bride, fiancée") for a crisp, natural delivery.
+- 'Elena, this wonderful dress is for you.' The guest strikes a clear manner right away, joining "prekrasnoye" ("wonderful, fine") to "platye" ("a dress") so every word pulls its weight.
+- 'Thank you very much for such a gift.' Elena takes an earnest manner without hesitation, weaving "bolshoye" ("big, very much") together with "spasibo" ("thank you") just the way native speakers do.
+- 'Maybe you will sing something for us?' The guest wonders boldly in this moment, joining "mozhet" ("can") to "byt" ("be") so every word pulls its weight.
+- 'Or else I will not give you the dress!' The guest sets a firm line in this beat, pairing "otdam" ("I give back") with "platye" ("a dress") to get the point across in plain spoken Russian.
+- 'Lena, sing quickly, this is an expensive dress!' Barinov brings a candid view without hesitation, using "spoy" (from "spa", "spa") alongside "bystro" ("quickly") to shape the meaning.

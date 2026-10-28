@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No, he is not alive.' Noting that he is not alive keeps Fedya's side of the story simple and clear.
-- 'Wait, no, he seems to be alive.' Admitting that he seems to be alive shows Vika being honest for a change.
-- 'That is it, I cannot take this anymore, I give up.' Saying that that is it he cannot take this anymore he gives up is how Fedya sets the tone with Vika.
-- 'Be quiet right now, understand?' Around the kitchen and truth, Vika wants to know where Fedya really stands.
-- 'Just stay quiet and sit still.' Around the car and relief, Fedya sets a calm, everyday tone with Vika. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Let us see what is on there right now.' Since they should see what is on there right now, Vika does not waste words on excuses.
-- 'What are you doing, we must delete this!' Declaring that what are Vika doing they must delete this brings Fedya's temper right to the surface.
-- 'What is going to happen to us now?' Wondering what going to happen to them now is cuts straight through the tension between Vika and Fedya. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'As our captain used to say.' Fedya reminds Vika that as their used to say before the moment passes.
-- 'Get out of the car.' Mentioning that Fedya should get out of the car moves the talk in a new direction.
-- 'Can I just go home?' By checking whether he just goes home, Fedya presses Vika for a straight answer. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Get out of the car right now.' Noting that Fedya should get out of the car right now keeps Vika's side of the story simple and clear.
-- 'Right now, how?' Over the moment and the relief, Fedya presses Vika for a straight answer.
+- 'No, he is not alive.' Fedya displays a natural line without hesitation, linking "zhivoy" ("alive"), "net" ("no"), and "ne" ("not") in one brisk exchange.
+- 'Wait, no, he seems to be alive.' Vika shares a sharp attitude across the room, pairing "zhivoy" ("alive") with "net" ("no") to get the point across in plain spoken Russian.
+- 'That is it, I cannot take this anymore, I give up.' Fedya projects a playful position in front of Vika, leaning on "bolshe" ("more") before closing the thought with "mogu" ("can").
+- 'Be quiet right now, understand?' Vika inquires openly during the talk, weaving "pomolchi" ("to be quiet") together with "seychas" ("now") just the way native speakers do.
+- 'Just stay quiet and sit still.' Fedya takes an earnest style without hesitation, linking "pomolchi" ("to be quiet"), "sidi" ("sit, stay sitting"), and "spokoyno" ("calmly") in one brisk exchange.
+- 'Let us see what is on there right now.' Vika keeps a sharp line as they talk, linking "seychas" ("now"), "posmotrim" ("have a look"), and "tam" ("there") in one brisk exchange.
+- 'What are you doing, we must delete this!' Fedya picks an earnest view straight away, anchoring the Russian line on "delayesh" ("are you doing") and "udalit" ("to remove") without extra filler.
+- 'What is going to happen to us now?' Vika checks candidly during the talk, joining "teper" ("now") to "budet" ("will be") so every word pulls its weight.
+- 'As our captain used to say.' Fedya brings a measured manner during the exchange, linking "kak" ("how"), "govoril" ("said, were saying"), and "kapitan" ("captain") in one brisk exchange.
+- 'Get out of the car.' Vika projects a pointed bearing in their talk, linking "vykhodi" ("go out, marry"), "mashiny" ("cars"), and "iz" ("from, out of") in one brisk exchange.
+- 'Can I just go home?' Fedya tests steadily across the room, leaning on "mozhno" ("may, can") before closing the thought with "domoy" ("home").
+- 'Get out of the car right now.' Vika presents a wry stance in their talk, leaning on "vyshel" ("stepped out") before closing the thought with "mashiny" ("cars").
+- 'Right now, how?' Fedya inquires bluntly for Vika's benefit, leaning on "seychas" ("now") before closing the thought with "kak" ("how").

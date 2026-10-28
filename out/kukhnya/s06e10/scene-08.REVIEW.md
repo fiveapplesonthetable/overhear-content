@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, hi, these beautiful flowers are for you.' Realizing that these beautiful flowers are for Katya changes how Denis handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'How about a late dinner in good company?' With the dinner and moment hanging in the air, Denis puts Katya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Listen, you already talked with Sveta, right?' Denis asks whether Katya already talked with Sveta right, refusing to let the point slide.
-- 'What is the problem, do you really not see a problem?' Here wondering what the problem do Denis really not see a problem is shows Katya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well what, are we not supposed to talk to her at all now?' By asking what they not supposed to talk to her at all now are, Denis presses Katya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Listen, after all these are normal friendly relations.' Once after all these are normal friendly relations, Denis can finally tell Katya what he means.
-- 'If you consider this normal, you are out of your mind!' Once if Denis consider this normal Denis is out of Denis's mind, Katya makes sure Denis hears every word. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You are the one who completely lost your head from jealousy!' Declaring that Katya is the one who completely lost Katya's head from jealousy brings Denis's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Katya, tell me, is everything alright with you?' Questioning whether tell him is everything alright with Denis is how Nikita tests Denis's story.
-- 'Do not interfere, you see people are talking.' Mentioning that do not interfere Katya sees people are talking moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'We already talked, Nikita, will you give me a ride home?' Questioning whether they already talked Nikita will Denis gives her a ride home is how Katya tests Denis's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No problem, get into my car quickly.' With the restaurant and dinner in play, Nikita keeps this short reply brisk and direct.
-- 'As a dear guest they gave you the best spot on top!' Insisting that as a dear guest they gave Denis the best spot on top shows Katya is not backing down. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Katya, hi, these beautiful flowers are for you.' Denis takes a calm angle in the conversation, using "krasivyye" (from "krasivyy", "beautiful") alongside "tsvety" ("the flowers") to shape the meaning.
+- 'How about a late dinner in good company?' Denis questions candidly for Nikita's benefit, anchoring the Russian line on "kak" ("how") and "pozdnego" ("late") without extra filler.
+- 'Listen, you already talked with Sveta, right?' Denis quizzes promptly from the start, anchoring the Russian line on "slushay" ("listen") and "uzhe" ("already, now") without extra filler.
+- 'What is the problem, do you really not see a problem?' Katya probes honestly to keep things clear, weaving "problema" ("problem") together with "pravda" ("honestly") just the way native speakers do.
+- 'Well what, are we not supposed to talk to her at all now?' Denis queries warmly in their exchange, putting "teper" ("now") alongside "voobshche" ("at all") in a tight, everyday turn of phrase.
+- 'Listen, after all these are normal friendly relations.' Denis presents a pointed stance for Nikita, pairing "slushay" ("listen") with "normalnyye" ("normal") to get the point across in plain spoken Russian.
+- 'If you consider this normal, you are out of your mind!' Katya conveys a thoughtful note for Denis, linking "schitayesh" ("to count, to think"), "normalnym" ("normal"), and "bezumets" ("madman") in one brisk exchange.
+- 'You are the one who completely lost your head from jealousy!' Denis favors a lively footing during the exchange, weaving "sovsem" ("at all") together with "golovu" ("head") just the way native speakers do.
+- 'Katya, tell me, is everything alright with you?' Nikita wonders frankly across the room, linking "skazhi" ("say"), "poryadke" ("order"), and "katya" ("Katya") in one brisk exchange.
+- 'Do not interfere, you see people are talking.' Denis offers a direct line in their talk, joining "vmeshivaysya" ("to interfere") to "vidish" ("see") so every word pulls its weight.
+- 'We already talked, Nikita, will you give me a ride home?' Katya checks frankly to keep things clear, weaving "uzhe" ("already, now") together with "pogovorili" ("had a talk") just the way native speakers do.
+- 'No problem, get into my car quickly.' Nikita chooses an emphatic style at once, pairing "vopros" ("question, matter") with "sadis" ("sit down") so the "-sya" ending carries the action.
+- 'As a dear guest they gave you the best spot on top!' Katya adopts a natural angle as they talk, weaving "kak" ("how") together with "dorogomu" ("expensive, dear") just the way native speakers do.

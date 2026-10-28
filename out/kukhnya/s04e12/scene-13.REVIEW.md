@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, did you drag me out because of Sasha?' Checking whether Max drag him out because of Sasha cuts straight through the tension between Denis and Max.
-- 'Max, are you even a normal person?' Asking whether Max even a normal person is how Denis puts Max on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I lied to Vika because of you!' Over the work and the car, Denis lets his real feelings show. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Stop and let me out of the car.' Stopping and let him out of the car is how Denis lays out the situation for Max.
-- 'I do not want to take part in your little affairs.' Admitting that he does not want to take part in Max's little affairs shows Denis being honest for a change.
-- 'Listen, what little affairs are you talking about?' Max asks whether what little affairs are Denis talking, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Sasha asked for help, I could not refuse her.' Once Sasha asked for help he could not refuse, Max can finally tell Denis what he means.
-- 'Max, hi, forgive me for being so late.' With the work and car in play, Sasha keeps this short reply brisk and direct.
-- 'I do not know what to do with him.' Mentioning that she does not know what to do with him moves the talk in a new direction.
-- 'Come on, get up, do you hear me!' Coming on get up do Denis hears him shows Max is done holding back.
-- 'Hey, who are these guys?' Here asking who these guys are shows Denis looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Boys, easy, he is completely drunk!' Insisting that boys easy he is completely drunk shows Sasha is not backing down. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Wait, did you drag me out because of Sasha?' Denis prompts sharply for Max's benefit, joining "podozhdi" ("wait") to "vydernul" ("to sasha") so every word pulls its weight.
+- 'Max, are you even a normal person?' Denis tests frankly for Sasha's benefit, leaning on "voobshche" ("at all") before closing the thought with "normalnyy" ("decent, normal").
+- 'I lied to Vika because of you!' Denis strikes a direct tack for Max, building the phrase around "sovral" ("lied") and "ya" ("I") for a crisp, natural delivery.
+- 'Stop and let me out of the car.' Denis shows an emphatic direction at once, weaving "ostanovi" ("stop") together with "vysadi" ("out") just the way native speakers do.
+- 'I do not want to take part in your little affairs.' Denis favors a direct bearing as the scene unfolds, joining "intrizhkakh" ("little") to "uchastvovat" ("to participate") so every word pulls its weight.
+- 'Listen, what little affairs are you talking about?' Max tests directly in the scene, anchoring the Russian line on "slushay" ("listen") and "yeshchyo" ("more, still") without extra filler.
+- 'Sasha asked for help, I could not refuse her.' Max offers a sharp tone at once, using "poprosila" (from "poprosit", "asked") alongside "pomoch" ("to help") to shape the meaning.
+- 'Max, hi, forgive me for being so late.' Sasha establishes an easygoing mood during the exchange, putting "prosti" ("sorry, forgive me") alongside "pozdno" ("too late, late") in a tight, everyday turn of phrase.
+- 'I do not know what to do with him.' Sasha sustains a firm tack with Denis, linking "znayu" ("know"), "delat" ("do"), and "ya" ("I") in one brisk exchange.
+- 'Come on, get up, do you hear me!' Max maintains a grounded bearing across the room, using "davay" (from "davat", "let's") alongside "vstavay" ("get up, stand up") to shape the meaning.
+- 'Hey, who are these guys?' Denis queries pointedly right away, placing "yeshchyo" ("more, still") straight beside "lyudi" ("people") with no word for "to be" needed.
+- 'Boys, easy, he is completely drunk!' Sasha brings a grounded view in this beat, anchoring the Russian line on "malchiki" ("boys") and "tikho" ("easy, quiet") without extra filler.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to give the money to Timur.' Needing to give the money to Timur moves the conversation forward without extra drama. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'In short, he knows what it is for.' Pointing out that in short he knows what it is gives Nastya a sobering reality check.
-- 'Victoria Sergeevna, people came to see you.' Nastya explains that people came to see Kostya, keeping her voice calm and direct.
-- 'Regarding which banquet?' Around the order and secret, Vika wants to know where Kostya really stands. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'They came yesterday and placed an order.' Noting that they came yesterday and placed an order keeps Nastya's side of the story simple and clear.
-- 'They wanted to make changes to the menu.' Even though they wanted to make changes to the menu, Nastya keeps a steady face in front of Kostya.
-- 'Were they here yesterday?' Here asking whether they here yesterday shows Vika looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Do not worry, I took the order.' Saying that do not worry she took the order is how Nastya sets the tone with Kostya. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'You must not get nervous right now.' Once Kostya must not get nervous right now, Nastya can finally tell Kostya what she means.
-- 'How do you know? Does it show already?' Asking how Kostya knows is how Vika puts Kostya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No, not very much yet.' Between the secret and the work, Nastya gives Kostya a quick, grounded response.
-- 'Kostya and I started to suspect.' Since Kostya and she started to suspect, Nastya does not waste words on excuses.
-- 'Please make coffee for the tables.' Telling Kostya to make coffee for the tables moves the conversation forward without extra drama.
+- 'We need to give the money to Timur.' Kostya conveys a grounded posture in front of Nastya, weaving "timuru" ("timur") together with "nado" ("it is necessary") just the way native speakers do.
+- 'In short, he knows what it is for.' Kostya adopts a serious course in the conversation, weaving "koroche" ("long story short") together with "znayet" ("knows") just the way native speakers do.
+- 'Victoria Sergeevna, people came to see you.' Nastya displays a natural rhythm with Kostya, anchoring the Russian line on "prikhodili" ("to come") and "viktoriya" ("Victoria") without extra filler.
+- 'Regarding which banquet?' Vika checks calmly without a pause, weaving "povodu" ("matter") together with "banketa" ("banquet") just the way native speakers do.
+- 'They came yesterday and placed an order.' Nastya chooses a thoughtful line at this moment, combining "vchera" ("yesterday") and "prikhodili" ("to come") so the key meaning lands right away.
+- 'They wanted to make changes to the menu.' Nastya conveys an earnest view in their talk, weaving "khoteli" ("wanted") together with "vnesti" ("to pay in, to carry in") just the way native speakers do.
+- 'Were they here yesterday?' Vika wonders bluntly right away, joining "byli" ("be") to "zdes" ("here") so every word pulls its weight.
+- 'Do not worry, I took the order.' Nastya shares a warm line across the room, leaning on "volnuytes" ("worry") before closing the thought with "prinyala" ("accepted, made").
+- 'You must not get nervous right now.' Nastya brings an honest stance in this beat, putting "seychas" ("now") alongside "nelzya" ("not allowed") in a tight, everyday turn of phrase.
+- 'How do you know? Does it show already?' Vika asks directly in their exchange, anchoring the Russian line on "otkuda" ("where from") and "znayesh" ("know") without extra filler.
+- 'No, not very much yet.' Nastya presents an easygoing manner at this moment, combining "poka" ("bye") and "yeshchyo" ("more, still") so the key meaning lands right away.
+- 'Kostya and I started to suspect.' Nastya strikes an unhurried tempo at this moment, building the phrase around "nachali" ("started") and "podozrevat" ("to suspect") for a crisp, natural delivery.
+- 'Please make coffee for the tables.' Vika brings a brisk posture as the scene unfolds, leaning on "sdelay" ("make, do") before closing the thought with "kofe" ("of coffee").

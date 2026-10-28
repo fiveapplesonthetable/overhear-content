@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Immediately leave this establishment.' With the peace and scandal in play, the guest keeps this short reply brisk and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'You are bothering us very much here.' Even though Max is bothering them very much here, the guest keeps a steady face in front of Max. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Why is it that we must leave the establishment?' Wondering why it that they must leave the establishment is cuts straight through the tension between Max and the guest.
-- 'We were promised this entire restaurant.' Saying that they were promised this entire restaurant is how the guest sets the tone with Max.
-- 'Please, go to your table.' Pointing out that the guest should go to the guest's table gives the guest a sobering reality check.
-- 'And take your friends with you too, please.' Vika explains that the guest should take the guest's friends with the guest too please, keeping her voice calm and direct.
-- 'I will definitely complain about you!' Once he will definitely complain about Max, the guest makes sure Max hears every word. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Friends, let us peacefully settle this misunderstanding.' Mentioning that they should peacefully settle this misunderstanding moves the talk in a new direction. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'If you do not mind, you leave yourselves.' Mentioning that if Max does not mind Max leaves yourselves moves the talk in a new direction.
-- 'Please put down that sharp knife.' Realizing that the guest should put down that sharp knife changes how Max handles the situation.
-- 'Honestly, I did that completely by accident.' Because he did that completely by accident, the guest treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'What is going on here with you?' Asking what going on here with the guest is is how Max puts the guest on the spot.
+- 'Immediately leave this establishment.' The guest chooses a candid angle without hesitation, pairing "nemedlenno" ("immediately") with "pokinte" ("leave, vacate") to get the point across in plain spoken Russian.
+- 'You are bothering us very much here.' The guest strikes a lively line as the scene unfolds, pairing "tut" ("here") with "ochen" ("very much") to get the point across in plain spoken Russian.
+- 'Why is it that we must leave the establishment?' Max quizzes dryly as they speak, weaving "pochemu" ("why") together with "dolzhny" ("must, should") just the way native speakers do.
+- 'We were promised this entire restaurant.' The guest brings a sharp rhythm as they talk, combining "voobshche" ("at all") and "obeshchali" ("promised") so the key meaning lands right away.
+- 'Please, go to your table.' Vika adopts a thoughtful bearing beside the guest, leaning on "idite" ("come") before closing the thought with "stolik" ("table").
+- 'And take your friends with you too, please.' Vika adopts an emphatic tempo at once, leaning on "druzey" ("friends") before closing the thought with "tozhe" ("too").
+- 'I will definitely complain about you!' The guest sustains an emphatic position straight away, leaning on "obyazatelno" ("surely, without fail") before closing the thought with "budu" ("will be").
+- 'Friends, let us peacefully settle this misunderstanding.' Vika presents an easygoing angle straight away, using "druzya" (from "drug", "friends") alongside "davayte" ("let's") to shape the meaning.
+- 'If you do not mind, you leave yourselves.' The guest sets a direct tone during the exchange, leaning on "ukhodite" ("leave, go away") before closing the thought with "yesli" ("if").
+- 'Please put down that sharp knife.' Max presents a pointed tack in front of Vika, leaning on "polozhite" ("put, serve") before closing the thought with "ostryy" ("sharp").
+- 'Honestly, I did that completely by accident.' The guest brings a direct direction in the scene, anchoring the Russian line on "chestnoye" ("honest") and "slovo" ("word") without extra filler.
+- 'What is going on here with you?' Max presses sharply to make the point, leaning on "zdes" ("here") before closing the thought with "proiskhodit" ("is going on").

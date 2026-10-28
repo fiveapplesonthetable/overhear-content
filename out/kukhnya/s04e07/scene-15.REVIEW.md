@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, can you distract them for a moment?' By asking whether Barinov distract them for a moment, Senya presses Barinov for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And meanwhile I will unnoticeably pour some sugar in there!' Senya declares that meanwhile he will unnoticeably pour some sugar in there as the tension in the room peaks.
-- 'Just how am I supposed to distract them for you?' Over the secret and the soup, Fedya presses Barinov for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Fine, give it here, I will distract them right now!' Insisting that fine give it here he will distract them right now shows Fedya is not backing down. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Enjoy your meal, taste our new hot dish!' Insisting that Fedya should enjoy Fedya's meal taste their new hot dish shows Barinov is not backing down.
-- 'The guest said that this is a completely different matter!' Declaring that the guest said that this is a completely different matter brings Fedya's temper right to the surface. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'In every bite the hand of a master is immediately visible!' Fedya insists that in every bite the hand of a master is immediately visible, leaving Barinov no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I would say that I worked with both hands!' Saying that he would say that he worked with both hands is how Barinov takes charge of the moment.
-- 'Senya, what are you doing near the soup right now?' By asking what Fedya doing near the soup right now is, Barinov presses Fedya for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And I thought, what if you need sugar?' Questioning whether he thought what if Barinov needs sugar is how Senya tests Barinov's story. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'What do I need sugar for in hot onion soup?' Asking what he needs sugar for in hot onion soup is how Barinov puts Fedya on the spot.
-- 'Forgive me, Chef, I am already going back to my station!' Declaring that he is already going back to his station brings Senya's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Fedya, can you distract them for a moment?' Senya inquires candidly without holding back, anchoring the Russian line on "mozhesh" ("can") and "nemnogo" ("a bit") without extra filler.
+- 'And meanwhile I will unnoticeably pour some sugar in there!' Senya strikes a calm course in their talk, joining "poka" ("bye") to "nezametno" ("inconspicuously") so every word pulls its weight.
+- 'Just how am I supposed to distract them for you?' Fedya inquires calmly as they speak, placing "kak" ("how") straight beside "otvleku" ("distract") with no word for "to be" needed.
+- 'Fine, give it here, I will distract them right now!' Fedya maintains a firm tempo right away, pairing "seychas" ("now") with "davay" ("let's") so the "-sya" ending carries the action.
+- 'Enjoy your meal, taste our new hot dish!' Barinov adopts a serious rhythm in the room, pairing "priyatnogo" ("pleasant") with "appetita" ("appetite") to get the point across in plain spoken Russian.
+- 'The guest said that this is a completely different matter!' Fedya brings a measured course in front of Senya, putting "gost" ("guest") alongside "skazal" ("said") in a tight, everyday turn of phrase.
+- 'In every bite the hand of a master is immediately visible!' Fedya presents a natural rhythm at this moment, leaning on "kazhdom" ("every") before closing the thought with "kusochke" ("slice, little piece").
+- 'I would say that I worked with both hands!' Barinov keeps a measured mood as the scene unfolds, using "skazal" (from "skazat", "said") alongside "rabotal" ("worked") to shape the meaning.
+- 'Senya, what are you doing near the soup right now?' Barinov wonders honestly across the room, leaning on "seychas" ("now") before closing the thought with "delayesh" ("are you doing").
+- 'And I thought, what if you need sugar?' Senya asks warmly with Fedya now, weaving "podumal" ("would think") together with "vdrug" ("suddenly, what if") just the way native speakers do.
+- 'What do I need sugar for in hot onion soup?' Barinov tests boldly without hesitation, building the phrase around "zachem" ("what for") and "sakhar" ("sugar") for a crisp, natural delivery.
+- 'Forgive me, Chef, I am already going back to my station!' Senya takes an earnest line as the scene unfolds, linking "prostite" ("excuse me"), "uzhe" ("already, now"), and "ukhozhu" ("am leaving") in one brisk exchange.

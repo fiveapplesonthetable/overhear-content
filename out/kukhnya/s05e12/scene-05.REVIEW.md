@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Forgive me, I did not notice you. You broke my nose!' Because she did not notice Barinov, Eleonora does not bother softening the blow for Barinov. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'It hurts me too, I did not notice you.' Once it hurts her too she did not notice Barinov, Elena can finally tell Barinov what she means. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'You should watch where you are going!' Once Barinov should watch where Barinov is going, Eleonora makes sure Barinov hears every word.
-- 'What happened? How interesting this turned out!' Wondering if how interesting this turned out shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'The ex-wife nearly killed the future one.' Between the plan and the phone, Barinov gives Elena a quick, grounded response.
-- 'Future? I am not in that status yet.' Here being not in that status yet shows Elena looking for the real truth.
-- 'Careful! Lena, are you alright?' Barinov asks whether someone are Elena alright, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I am fine. I bumped into her myself. Until tonight!' By being fine, Elena raises the stakes in the room at once. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Everything is fine, girls.' Explaining that everything is fine girls lays the cards on the table for Elena.
-- 'You always ruin everything!' With the moment and phone at stake, Eleonora reacts without holding back. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Today is Lena's birthday.' Claiming that today is birthday sounds confident, even if Elena has doubts.
-- 'It is morning, and you are not celebrating yet?' Eleonora asks whether it is morning and Barinov is not celebrating yet, refusing to let the point slide.
+- 'Forgive me, I did not notice you. You broke my nose!' Eleonora holds a sharp angle as the scene unfolds, linking "prostite" ("excuse me"), "zametila" ("to notice, spot"), and "nos" ("nose") in one brisk exchange.
+- 'It hurts me too, I did not notice you.' Elena presents a frank manner on the spot, pairing "tozhe" ("too") with "bolno" ("it hurts") to get the point across in plain spoken Russian.
+- 'You should watch where you are going!' Eleonora keeps a playful style at this moment, joining "nado" ("it is necessary") to "smotret" ("to watch") so every word pulls its weight.
+- 'What happened? How interesting this turned out!' Barinov inquires sharply for Eleonora's benefit, weaving "sluchilos" ("happened") together with "kak" ("how") just the way native speakers do.
+- 'The ex-wife nearly killed the future one.' Barinov shares an honest position across the room, pairing "byvshaya" ("former") with "zhena" ("wife") to get the point across in plain spoken Russian.
+- 'Future? I am not in that status yet.' Elena tests earnestly as they speak, leaning on "budushchuyu" ("future") before closing the thought with "yeshchyo" ("more, still").
+- 'Careful! Lena, are you alright?' Barinov tests warmly in the scene, weaving "ostorozhno" ("careful, carefully") together with "poryadke" ("order") just the way native speakers do.
+- 'I am fine. I bumped into her myself. Until tonight!' Elena chooses a resolute style across the room, anchoring the Russian line on "normalno" ("fine, OK") and "vrezalas" ("crashed into") without extra filler.
+- 'Everything is fine, girls.' Barinov favors a direct style as they talk, putting "khorosho" ("good, fine") alongside "devochki" ("girl's") in a tight, everyday turn of phrase.
+- 'You always ruin everything!' Eleonora adopts an earnest attitude across the room, combining "vechno" ("always") and "portite" ("ruin, spoil") so the key meaning lands right away.
+- 'Today is Lena's birthday.' Barinov maintains a thoughtful footing at once, placing "segodnya" ("today") straight beside "den" ("day") with no word for "to be" needed.
+- 'It is morning, and you are not celebrating yet?' Eleonora queries firmly as the talk turns, putting "utro" ("morning") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.

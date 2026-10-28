@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Beauty! Even in the boxes.' With the room and moment at stake, Nagiyev reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Dima, what is this?' Wondering what this is is how Barinov puts Nagiyev on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'You want to be fashionable, don't you.' Adding that Barinov wants to be fashionable do not Barinov fills in the missing piece for Barinov.
-- 'This is equipment for molecular cuisine.' Saying that this is equipment for molecular cuisine is how Nagiyev sets the tone with Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'For molecular cuisine. Clear?' With the situation and kitchen hanging in the air, Nagiyev puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Who am I talking to about fashion?' With the situation and moment hanging in the air, Nagiyev puts Barinov on the spot.
-- 'We are a classic French restaurant.' Barinov reminds Nagiyev that they are a classic French restaurant before the moment passes.
-- 'And classics never go out of fashion.' Between the kitchen and the situation, Barinov gives Nagiyev a quick, grounded response. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'We do not need this cuisine.' Explaining that they do not need this cuisine lays the cards on the table for Nagiyev.
-- 'People are tired of eating the same thing.' Nagiyev mentions that people are tired of eating the same thing so Barinov sees what is at stake.
-- 'Look for a person this very day.' With the truth and shift in play, Nagiyev keeps this short reply brisk and direct.
-- 'Yes, my little chicken.' Around the truth and moment, Barinov sets a calm, everyday tone with Nagiyev.
+- 'Beauty! Even in the boxes.' Nagiyev offers a calm angle across the room, linking "krasota" ("beauty"), "korobkakh" ("boxes"), and "dazhe" ("even") in one brisk exchange.
+- 'Dima, what is this?' Barinov wonders dryly to keep things clear, weaving "dima" ("Dima") together with "chto" ("what") just the way native speakers do.
+- 'You want to be fashionable, don't you.' Nagiyev keeps a calm footing at this moment, weaving "khochesh" ("do you want") together with "byt" ("be") just the way native speakers do.
+- 'This is equipment for molecular cuisine.' Nagiyev conveys a serious line with Barinov, pairing "oborudovaniye" ("equipment") with "molekulyarnoy" ("molecular") to get the point across in plain spoken Russian.
+- 'For molecular cuisine. Clear?' Nagiyev quizzes evenly during the talk, weaving "molekulyarnoy" ("molecular") together with "kukhni" ("kitchen") just the way native speakers do.
+- 'Who am I talking to about fashion?' Nagiyev presses earnestly to Barinov here, putting "govoryu" ("am telling") alongside "mode" ("fashion") in a tight, everyday turn of phrase.
+- 'We are a classic French restaurant.' Barinov establishes a clear posture in front of Nagiyev, placing "klassicheskiy" ("classic, classical") straight beside "frantsuzskiy" ("French") with no word for "to be" needed.
+- 'And classics never go out of fashion.' Barinov holds a wry view as they talk, leaning on "klassika" ("classics") before closing the thought with "nikogda" ("never").
+- 'We do not need this cuisine.' Barinov takes a pointed manner straight away, combining "kukhnya" ("kitchen") and "nuzhna" ("needed") so the key meaning lands right away.
+- 'People are tired of eating the same thing.' Nagiyev favors a thoughtful tack in this beat, using "ustali" (from "ustat", "got tired") alongside "lyudi" ("people") to shape the meaning.
+- 'Look for a person this very day.' Nagiyev adopts a grounded line in this beat, combining "segodnya" ("today") and "ishchi" ("look for") so the key meaning lands right away.
+- 'Yes, my little chicken.' Barinov shows a playful tack with Nagiyev, anchoring the Russian line on "kurochka" ("little chicken") and "da" ("yes") without extra filler.

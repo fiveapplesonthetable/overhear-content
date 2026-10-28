@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good night to you and sweet dreams.' With the work and kitchen in play, Denis keeps this short reply brisk and direct.
-- 'Right now everything looks very bad.' Pointing out that right now everything looks very bad gives Denis a sobering reality check.
-- 'Therefore we must tell everything honestly.' Katya explains that therefore they must tell everything honestly, keeping her voice calm and direct.
-- 'You will tell Sveta, and I will tell Nikita.' Realizing that Denis will tell Sveta and she will tell Nikita changes how Katya handles the situation.
-- 'It is time for us to finally stop hiding like this.' Because it is time for them to finally stop hiding like this, Katya treats the matter as settled. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'I am all for such a good decision.' By being all for such a good decision, Denis keeps his side of the story grounded.
-- 'Denis, hurry, we are running late for the cinema!' Telling Denis to hurry they are running late for the cinema shows Sveta is done holding back.
-- 'Katya, are you completely ready already?' Asking whether Denis completely ready already cuts straight through the tension between Sveta and Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Are you not coming with us?' Checking whether Denis not coming with them is how Sveta puts Denis on the spot. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Well, in principle, we can go.' Adding that in principle they can go fills in the missing piece for Denis.
-- 'Let us go, we will wait for you outside.' Saying that they should go they will wait for Denis outside is how Sveta sets the tone with Denis. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Alright, then we will tell everything tomorrow.' Since Alright then they will tell everything tomorrow, Denis does not waste words on excuses.
-- 'Of course, since today we are going to the cinema.' Mentioning that since today they are going to the cinema moves the talk in a new direction.
+- 'Good night to you and sweet dreams.' Denis picks a natural stance on the spot, pairing "spokoynoy" ("good") with "nochi" ("night") to get the point across in plain spoken Russian.
+- 'Right now everything looks very bad.' Katya shares a natural direction toward Sveta, combining "seychas" ("now") and "vyglyadit" ("looks") so the key meaning lands right away.
+- 'Therefore we must tell everything honestly.' Katya presents a natural attitude at once, leaning on "poetomu" ("that's why") before closing the thought with "dolzhny" ("must, should").
+- 'You will tell Sveta, and I will tell Nikita.' Katya maintains a firm manner right away, anchoring the Russian line on "skazhesh" ("will you say") and "svete" ("world") without extra filler.
+- 'It is time for us to finally stop hiding like this.' Katya keeps a steady mood for Denis, leaning on "pora" ("it's time") before closing the thought with "nakonets" ("at last, finally").
+- 'I am all for such a good decision.' Denis displays a clear line beside Sveta, leaning on "tolko" ("only") before closing the thought with "khorosheye" ("lovely, good").
+- 'Denis, hurry, we are running late for the cinema!' Sveta maintains a lively line for Denis, using "skoreye" (from "skoro", "quickly, right away") alongside "kino" ("cinema, movies") to shape the meaning.
+- 'Katya, are you completely ready already?' Sveta prompts lightly during the talk, anchoring the Russian line on "uzhe" ("already, now") and "sovsem" ("at all") without extra filler.
+- 'Are you not coming with us?' Sveta wonders steadily beside Denis, anchoring the Russian line on "poydyote" ("will go") and "vy" ("you") without extra filler.
+- 'Well, in principle, we can go.' Katya establishes an earnest approach during the exchange, putting "printsipe" ("principle") alongside "mozhno" ("may, can") in a tight, everyday turn of phrase.
+- 'Let us go, we will wait for you outside.' Sveta shows an unhurried position as the scene unfolds, joining "poydyom" ("let's go") to "ulitse" ("street") so every word pulls its weight.
+- 'Alright, then we will tell everything tomorrow.' Denis picks a clear rhythm with Sveta, anchoring the Russian line on "togda" ("back then") and "uzhe" ("already, now") without extra filler.
+- 'Of course, since today we are going to the cinema.' Katya projects an easygoing footing in the scene, anchoring the Russian line on "konechno" ("of course") and "segodnya" ("today") without extra filler.

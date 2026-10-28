@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Was that not the fish at all?' Here checking whether that not the fish at all shows Mikhail looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'In the morning I ate expired yogurt.' Admitting that in the morning he ate expired yogurt shows Mikhail being honest for a change.
-- 'Come on inside here, stubborn horse.' Because Denis should come on inside here stubborn horse, Mikhail treats the matter as settled.
-- 'I am leading him in here for the night.' Claiming that he is leading him in here for the night sounds confident, even if Denis has doubts.
-- 'I cannot leave him in the courtyard.' By refusing to leave him in the courtyard, Mikhail keeps his side of the story grounded. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'The sight in here is not very pleasant.' Mikhail tells Denis that the sight in here is not very pleasant without dressing it up.
-- 'It is fine, he will endure until morning.' Since it is fine he will endure until morning, Mikhail does not waste words on excuses.
-- 'Katya, did you talk with Nikita?' Here asking whether Katya talks with Nikita shows Denis looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No, it did not work out again today.' Katya reminds Denis that it did not work out again today before the moment passes.
-- 'I spent half the day with my father.' Because she spent half the day with her father, Katya treats the matter as settled.
-- 'And then Nikita left for Saint Petersburg.' Explaining that Nikita left for Saint Petersburg lays the cards on the table for Denis.
-- 'Do not be offended, this is important to me.' Saying that do not be offended this is important is how Katya sets the tone with Denis.
+- 'Was that not the fish at all?' Mikhail probes warmly to Denis here, anchoring the Russian line on "voobshche" ("at all") and "byla" ("was") without extra filler.
+- 'In the morning I ate expired yogurt.' Mikhail strikes a warm approach in the conversation, combining "utrom" ("this morning") and "prosrochennyy" ("expired") so the key meaning lands right away.
+- 'Come on inside here, stubborn horse.' Mikhail maintains a warm line across the room, pairing "davay" ("let's") with "zakhodi" ("come in") to get the point across in plain spoken Russian.
+- 'I am leading him in here for the night.' Mikhail takes a measured approach in the scene, joining "vedu" ("lead, am ahead") to "syuda" ("here") so every word pulls its weight.
+- 'I cannot leave him in the courtyard.' Mikhail brings a sharp attitude as they talk, combining "nelzya" ("not allowed") and "dvore" ("yard, courtyard") so the key meaning lands right away.
+- 'The sight in here is not very pleasant.' Mikhail sustains a sharp line in the conversation, building the phrase around "zrelishche" ("sight, spectacle") and "tut" ("here") for a crisp, natural delivery.
+- 'It is fine, he will endure until morning.' Mikhail sets a firm approach in the scene, pairing "utra" ("morning") with "poterpit" ("will endure") to get the point across in plain spoken Russian.
+- 'Katya, did you talk with Nikita?' Denis asks briskly across the room, using "pogovorila" (from "pogovorit", "talked, had a talk") alongside "katya" ("Katya") to shape the meaning.
+- 'No, it did not work out again today.' Katya holds a direct direction toward Denis, pairing "segodnya" ("today") with "opyat" ("again") to get the point across in plain spoken Russian.
+- 'I spent half the day with my father.' Katya chooses a measured stance for Mikhail, weaving "poldnya" ("half a day") together with "provela" ("to spend, to lead") just the way native speakers do.
+- 'And then Nikita left for Saint Petersburg.' Katya sustains a measured direction toward Denis, linking "potom" ("then"), "uyekhal" ("left, went away"), and "piter" ("petersburg") in one brisk exchange.
+- 'Do not be offended, this is important to me.' Katya picks a playful rhythm in the scene, anchoring the Russian line on "obizhaysya" ("take offence") and "vazhno" ("important, mattering") without extra filler.

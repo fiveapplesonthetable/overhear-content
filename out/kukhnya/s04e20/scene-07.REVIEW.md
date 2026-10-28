@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, and where is our cook Barinov?' Here wondering where their cook Barinov is shows Barinov looking for the real truth.
-- 'I do not know, he is probably sleeping at home.' Once he does not know he is probably sleeping at home, Nagiyev can finally tell Barinov what he means.
-- 'And why are you wearing a hat today?' Wondering why Nagiyev wearing a hat today is cuts straight through the tension between Barinov and Nagiyev. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Good grief, Dima, what is that on you?' When Barinov asks if good grief Dima what is that on Nagiyev, Nagiyev has to answer fast.
-- 'What is this? It is my big brain.' Over the morning and the plan, Nagiyev presses Barinov for a straight answer. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'It is too smart, so it bulges out.' Adding that it is too smart so it bulges out fills in the missing piece for Barinov.
-- 'Excuse me for being late, I am here already!' Because for being late he is here already, Barinov does not bother softening the blow for Nagiyev.
-- 'Viktor Petrovich, and what happened to you?' Over the exchange and the conversation, Nagiyev presses Barinov for a straight answer. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Nothing serious, I accidentally slipped on a bald head.' With the morning and exchange in play, Barinov keeps this short reply brisk and direct.
-- 'Do not worry, I will film today.' Saying that do not worry he will film today is how Barinov sets the tone with Nagiyev.
-- 'Dima, guess which finger I am showing?' Asking whether guess which finger he is showing puts Nagiyev right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'All right, everyone take your places quickly!' With the shift and morning at stake, Nagiyev reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Dima, and where is our cook Barinov?' Barinov questions openly toward Nagiyev here, linking "gde" ("where"), "povar" ("chef, cook"), and "dima" ("Dima") in one brisk exchange.
+- 'I do not know, he is probably sleeping at home.' Nagiyev brings a natural style straight away, leaning on "znayu" ("know") before closing the thought with "spit" ("is sleeping").
+- 'And why are you wearing a hat today?' Barinov probes decisively with Nagiyev now, linking "segodnya" ("today"), "shapke" ("hat, winter cap"), and "ty" ("you") in one brisk exchange.
+- 'Good grief, Dima, what is that on you?' Barinov probes firmly for Nagiyev's benefit, pairing "gospodi" ("Good Lord") with "dima" ("Dima") to get the point across in plain spoken Russian.
+- 'What is this? It is my big brain.' Nagiyev quizzes steadily at this point, weaving "bolshoy" ("big") together with "mozg" ("brain") just the way native speakers do.
+- 'It is too smart, so it bulges out.' Nagiyev chooses a sharp position as they talk, placing "slishkom" ("too") straight beside "umnyy" ("smart, clever") with no word for "to be" needed.
+- 'Excuse me for being late, I am here already!' Barinov keeps a sharp tack in this beat, building the phrase around "izvinite" ("sorry, excuse me") and "opozdaniye" ("being late") for a crisp, natural delivery.
+- 'Viktor Petrovich, and what happened to you?' Nagiyev challenges warmly as the beat lands, weaving "viktor" ("Viktor") together with "petrovich" ("Petrovich") just the way native speakers do.
+- 'Nothing serious, I accidentally slipped on a bald head.' Barinov shares a candid angle in the scene, combining "strashnogo" ("terrible, serious") and "sluchayno" ("by any chance") so the key meaning lands right away.
+- 'Do not worry, I will film today.' Barinov presents a clear attitude toward Nagiyev, pairing "volnuytes" ("worry") with "segodnya" ("today") to get the point across in plain spoken Russian.
+- 'Dima, guess which finger I am showing?' Barinov inquires earnestly without holding back, putting "ugaday" ("to guess correctly") alongside "palets" ("finger") in a tight, everyday turn of phrase.
+- 'All right, everyone take your places quickly!' Nagiyev establishes a grounded stance beside Barinov, anchoring the Russian line on "bystro" ("quickly") and "zanimayte" ("take") without extra filler.

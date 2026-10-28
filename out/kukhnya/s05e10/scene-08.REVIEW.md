@@ -17,7 +17,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Костя | Можно мне американо с молоком? | Can I have an Americano with milk? | #131: Можно мне американо с молоком | adapted: adapted |
 | 6 | Макс | Вы проходите, садитесь, мы сейчас вам принесём. | Go ahead and sit down, we will bring it to you right now. | #132: вы проходите, садитесь, мы сейчас вам принесем | adapted: adapted |
 | 7 | Шеф | Садись в такси, чтобы я тебя больше не видел! | Get in the taxi so that I do not see you anymore! | #134: Садись в такси, чтоб я тебя больше<br>#134: не видел | adapted: adapted |
-| 8 | Шеф | Витя, ты был бы отличным управляющим отеля. | Vitya, you would be an excellent hotel manager. | #135: Витя, ты был бы отличным управляющим отеля | adapted: adapted |
+| 8 | Макс | Витя, ты был бы отличным управляющим отеля. | Vitya, you would be an excellent hotel manager. | #135: Витя, ты был бы отличным управляющим отеля | adapted: adapted |
 | 9 | Костя | Какой у нас план? | What is our plan? | #138: Какой у нас план | adapted: adapted |
 | 10 | Макс | Надо его выманить и без лишнего шума взять. | We need to lure him out and grab him without extra noise. | #139: Надо его выманить и без лишнего шума взять | adapted: adapted |
 | 11 | Костя | Он же гипнотизёр! Он тебе в глаза посмотрит. | He is a hypnotist! He will look into your eyes. | #140: Он же гипнотизер. Он тебе в глаза посмотрит | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In our hotel employees do not drink at the workplace.' Explaining that in their hotel employees do not drink at the workplace lays the cards on the table for Kostya.
-- 'Maybe we should search all the rooms?' Asking whether maybe they should search all the rooms puts Barinov right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I have just put together a sketch.' Mentioning that he has just put together a sketch moves the talk in a new direction.
-- 'Very funny! In my opinion, it looks like him.' Kostya insists that in his opinion it looks like him, leaving Barinov no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Can I have an Americano with milk?' By checking whether he has an with milk, Kostya presses Barinov for a straight answer. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Go ahead and sit down, we will bring it to you right now.' Going ahead and sit down they will bring it to Barinov right now is how Max lays out the situation for Barinov.
-- 'Get in the taxi so that I do not see you anymore!' Getting in the taxi so that he does not see Kostya anymore shows Barinov is done holding back. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Vitya, you would be an excellent hotel manager.' Even though Kostya would be an excellent hotel manager, Barinov keeps a steady face in front of Kostya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What is our plan?' By asking what their plan is, Kostya presses Barinov for a straight answer.
-- 'We need to lure him out and grab him without extra noise.' Needing to lure him out and grab him without extra noise moves the conversation forward without extra drama. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'He is a hypnotist! He will look into your eyes.' Insisting that he is a hypnotist shows Kostya is not backing down. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Hypnosis has had no effect on me since childhood.' Adding that hypnosis has had no effect on him since childhood fills in the missing piece for Barinov.
+- 'In our hotel employees do not drink at the workplace.' Barinov maintains a warm course with Kostya, combining "otele" ("in the hotel") and "sotrudniki" ("employees") so the key meaning lands right away.
+- 'Maybe we should search all the rooms?' Max tests lightly beside Kostya, joining "mozhet" ("can") to "nomera" ("number, phone number") so every word pulls its weight.
+- 'I have just put together a sketch.' Max sets a clear bearing during the exchange, putting "kak" ("how") alongside "raz" ("time, once") in a tight, everyday turn of phrase.
+- 'Very funny! In my opinion, it looks like him.' Kostya adopts a pointed tone during the exchange, building the phrase around "ochen" ("very much") and "smeshno" ("ridiculous") for a crisp, natural delivery.
+- 'Can I have an Americano with milk?' Kostya asks quietly in this moment, pairing "mozhno" ("may, can") with "amerikano" ("Americano coffee") to get the point across in plain spoken Russian.
+- 'Go ahead and sit down, we will bring it to you right now.' Max adopts an easygoing footing in the conversation, pairing "prokhodite" ("come in") with "sadites" ("sit down") to get the point across in plain spoken Russian.
+- 'Get in the taxi so that I do not see you anymore!' Barinov adopts a steady tempo without hesitation, joining "sadis" ("sit down") to "taksi" ("taxi") so every word pulls its weight.
+- 'Vitya, you would be an excellent hotel manager.' Max offers an easygoing note on the spot, building the phrase around "byl" ("was") and "otlichnym" ("excellent") for a crisp, natural delivery.
+- 'What is our plan?' Kostya wonders naturally with Barinov now, weaving "plan" ("plan") together with "kakoy" ("what a, how") just the way native speakers do.
+- 'We need to lure him out and grab him without extra noise.' Max displays a measured tack beside Kostya, pairing "nado" ("it is necessary") with "vymanit" ("to lure out") to get the point across in plain spoken Russian.
+- 'He is a hypnotist! He will look into your eyes.' Kostya holds an earnest posture in the conversation, weaving "gipnotizyor" ("hypnotist") together with "glaza" ("eyes") just the way native speakers do.
+- 'Hypnosis has had no effect on me since childhood.' Max adopts a frank style straight away, anchoring the Russian line on "gipnoz" ("hypnosis") and "detstva" ("childhood") without extra filler.

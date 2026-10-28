@@ -7,7 +7,7 @@ SCENE = 7
 TITLE = 'Поиски жениха  (Searching for a Fiancé)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'denis': 'Денис', 'katya': 'Катя', 'nagiyev': 'Нагиев'}
+LABELS = {'denis': 'Денис', 'katya': 'Катя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S4.17'
 SOURCE_FILE = 'sources/kukhnya/s04/e17.ru.srt'
 INTRO = "Desperate to find a presentable man to play her fiancé at dinner with Lilya, Katya looks around the kitchen. After imagining how badly Senya or pastry chef Louis would embarrass her, she walks up to Denis and asks him directly. Let's listen to her proposal in Russian."
@@ -24,22 +24,22 @@ STORY = [
     ('denis', 'Что ты сейчас мне сказала?', 'What did you just say to me?', [], 'new'),
     ('katya', 'Я так понимаю, это значит да?', 'I take it that means yes?', [(90, 'Ну, я так понимаю, это да')], 'adapted'),
     ('denis', 'Ну, а что вы хотите сыграть?', 'Well, and what do you want to play?', [(92, 'Ну, а что вы хотите сыграть')], ''),
-    ('nagiyev', 'Ну, не знаю, придумай что-нибудь.', 'Well, I do not know, think of something.', [(93, 'Ну, не знаю')], 'adapted'),
-    ('nagiyev', 'Нужна очень красивая и страстная музыка.', 'We need very beautiful and passionate music.', [], 'new'),
-    ('nagiyev', 'Чтобы она сразу захотела меня.', 'So that she wants me right away.', [(95, 'Захотела меня')], 'adapted'),
+    ('senya', 'Ну, не знаю, придумай что-нибудь.', 'Well, I do not know, think of something.', [(93, 'Ну, не знаю')], 'adapted'),
+    ('senya', 'Нужна очень красивая и страстная музыка.', 'We need very beautiful and passionate music.', [], 'new'),
+    ('senya', 'Чтобы она сразу захотела меня.', 'So that she wants me right away.', [(95, 'Захотела меня')], 'adapted'),
     ('denis', 'Понял, тогда начнём с простой мелодии.', "Got it, then let's start with a simple melody.", [], 'new'),
 ]
 WALK = [
-    (0, None, "'Meet my future husband Arseny.' Because Denis should meet her future husband, Katya treats the matter as settled."),
-    (1, None, '\'And this is my future husband Louis.\' Claiming that this is her future husband Louis sounds confident, even if Denis has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (2, None, "'Oh, it is very nice for me too.' Pointing out that it is very nice for him gives Katya a sobering reality check."),
-    (3, None, "'No, these options do not suit at all.' Katya explains that these options do not suit at all, keeping her voice calm and direct."),
-    (4, None, '\'Denis, will you be my fiancé?\' Asking whether Denis is is how Katya puts Denis on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (5, None, '\'What did you just say to me?\' Wondering what Katya just say to him is how Denis puts Katya on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (6, None, "'I take it that means yes?' Taking it that means yes is how Katya puts Denis on the spot."),
-    (7, None, '\'Well, and what do you want to play?\' Asking what Katya wants to play cuts straight through the tension between Denis and Katya. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (8, None, "'Well, I do not know, think of something.' Because he does not know think of something, Nagiyev treats the matter as settled."),
-    (9, None, "'We need very beautiful and passionate music.' Here needing very beautiful and passionate music sets up the next turn in their exchange."),
-    (10, None, "'So that she wants me right away.' Adding that that she wants him right away fills in the missing piece for Denis."),
-    (11, None, "'Got it, then let's start with a simple melody.' Denis tells Katya that got it then let them start with a simple melody without dressing it up."),
+    (0, None, '\'Meet my future husband Arseny.\' Katya chooses a lively approach as the scene unfolds, linking "znakomtes" ("meet"), "budushchiy" ("future"), and "muzh" ("husband") in one brisk exchange.'),
+    (1, None, '\'And this is my future husband Louis.\' Katya presents an easygoing mood in this beat, leaning on "budushchiy" ("future") before closing the thought with "muzh" ("husband").'),
+    (2, None, '\'Oh, it is very nice for me too.\' Denis shares a direct approach on the spot, leaning on "tozhe" ("too") before closing the thought with "ochen" ("very much").'),
+    (3, None, '\'No, these options do not suit at all.\' Katya displays a firm tack beside Senya, leaning on "varianty" ("option, variant") before closing the thought with "sovsem" ("at all").'),
+    (4, None, '\'Denis, will you be my fiancé?\' Katya questions directly without hesitation, anchoring the Russian line on "budesh" ("will") and "zhenikhom" ("bridegroom") without extra filler.'),
+    (5, None, '\'What did you just say to me?\' Denis probes bluntly in front of Senya, pairing "seychas" ("now") with "skazala" ("told") to get the point across in plain spoken Russian.'),
+    (6, None, '\'I take it that means yes?\' Katya inquires sharply in the room, linking "ponimayu" ("understand"), "znachit" ("then, so"), and "ya" ("I") in one brisk exchange.'),
+    (7, None, '\'Well, and what do you want to play?\' Denis prompts plainly in front of Senya, linking "khotite" ("want"), "sygrat" ("to play"), and "nu" ("oh, come on") in one brisk exchange.'),
+    (8, None, '\'Well, I do not know, think of something.\' Senya chooses a firm tempo in front of Denis, putting "znayu" ("know") alongside "pridumay" ("think up, figure out") in a tight, everyday turn of phrase.'),
+    (9, None, '\'We need very beautiful and passionate music.\' Senya sets an emphatic position during the exchange, pairing "nuzhna" ("needed") with "ochen" ("very much") to get the point across in plain spoken Russian.'),
+    (10, None, '\'So that she wants me right away.\' Senya keeps a warm footing in the conversation, weaving "srazu" ("at once") together with "zakhotela" ("wanted") just the way native speakers do.'),
+    (11, None, '\'Got it, then let\'s start with a simple melody.\' Denis shows a frank manner in the room, weaving "ponyal" ("understood") together with "togda" ("back then") just the way native speakers do.'),
 ]

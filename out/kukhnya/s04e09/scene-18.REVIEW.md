@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And what just happened out here?' Over the moment and the key, Elena presses Barinov for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Nothing happened, we are breathing fresh air.' Explaining that nothing happened they are breathing fresh air lays the cards on the table for Elena.
-- 'Chef, we tried very hard.' Senya mentions that they tried very hard so Barinov sees what is at stake.
-- 'Everything is fine, guys.' Claiming that everything is fine guys sounds confident, even if Elena has doubts.
-- 'I have the sauté pan, here it is.' Realizing that she has the pan here it is changes how Elena handles the situation.
-- 'Vitya, do not behave like a child.' Elena explains that do not behave like a child, keeping her voice calm and direct.
-- 'And will German not cry?' Asking whether German not cry cuts straight through the tension between Barinov and Elena. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I took your sauté pan out of the safe.' Noting that she took Barinov's pan out of the safe keeps Elena's side of the story simple and clear.
-- 'And I bought him an exact same one.' Even though she bought him an exact same one, Elena keeps a steady face in front of Barinov.
-- 'A toy for each of you.' Over the conversation and the key, Elena answers Barinov without a second thought. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Wait, why did you fight then?' Wondering why Barinov fights then cuts straight through the tension between Senya and Barinov.
-- 'So that he would not call the police!' Once that he would not call the police, Barinov makes sure Elena hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'So say thank you to me.' Saying that Elena should say thank Elena to him is how Barinov sets the tone with Elena.
-- 'Get ready, we are going to the banya!' Getting ready they are going to the banya shows Barinov is done holding back.
+- 'And what just happened out here?' Elena inquires bluntly as the beat lands, leaning on "zdes" ("here") before closing the thought with "tolko" ("only").
+- 'Nothing happened, we are breathing fresh air.' Barinov keeps a warm footing toward Senya, using "bylo" (from "byt", "was") alongside "vozdukhom" ("air") to shape the meaning.
+- 'Chef, we tried very hard.' Senya maintains a wry attitude at once, pairing "ochen" ("very much") with "staralis" ("tried") to get the point across in plain spoken Russian.
+- 'Everything is fine, guys.' Barinov shares a sharp stance for Senya, linking "poryadke" ("order") directly with "rebyata" ("the boys, the lads"), since Russian drops "is" and "are" in the present.
+- 'I have the sauté pan, here it is.' Elena answers dryly toward Barinov here, using the everyday "u menya" ("by me") alongside "soteynik" ("pan") to show what belongs to the speaker.
+- 'Vitya, do not behave like a child.' Elena sustains an earnest note straight away, using "vedi" (from "vesti", "lead, behave") alongside "kak" ("how") to shape the meaning.
+- 'And will German not cry?' Barinov wonders wryly as the talk turns, pairing "plakat" ("to cry") with "budet" ("will be") to get the point across in plain spoken Russian.
+- 'I took your sauté pan out of the safe.' Elena shows a serious approach as they talk, linking "zabrala" ("took away"), "seyfa" ("all"), and "soteynik" ("pan") in one brisk exchange.
+- 'And I bought him an exact same one.' Elena displays a lively footing straight away, leaning on "kupila" ("bought") before closing the thought with "tochno" ("definitely").
+- 'A toy for each of you.' Elena strikes an earnest rhythm in the room, weaving "kazhdogo" ("everyone") together with "igrushke" ("toy") just the way native speakers do.
+- 'Wait, why did you fight then?' Senya probes frankly to Barinov here, using "podozhdite" (from "podozhdat", "wait") alongside "zachem" ("what for") to shape the meaning.
+- 'So that he would not call the police!' Barinov offers an honest position straight away, using "politsiyu" (from "politsiya", "the police") alongside "vyzval" ("called, summoned") to shape the meaning.
+- 'So say thank you to me.' Barinov conveys a measured course in the conversation, weaving "skazhite" ("tell") together with "spasibo" ("thank you") just the way native speakers do.
+- 'Get ready, we are going to the banya!' Barinov brings a serious direction in the scene, leaning on "sobiraytes" ("to intend") before closing the thought with "yedem" ("are going").

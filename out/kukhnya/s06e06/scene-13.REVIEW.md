@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Open the door immediately, this is the police!' The inspector declares that Barinov should open the door immediately this is the police as the tension in the room peaks.
-- 'Tell me, is this your hotel room?' Asking whether tell him is this Barinov's hotel room puts Barinov right on the defensive. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Excuse me, I do not understand you at all.' Claiming that he does not understand Barinov at all sounds confident, even if Barinov has doubts. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'And what on earth is going on here right now?' Over the police and the room, Barinov presses the guest for a straight answer.
-- 'Why have I not been informed yet?' Questioning whether why have he not been informed yet is how Barinov tests the guest's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I do not understand what they want.' Because he does not understand what they want, the guest treats the matter as settled.
-- 'Excuse me, and who are you yourself?' Asking who Barinov themselves is cuts straight through the tension between the inspector and Barinov.
-- 'I am the general manager of this hotel.' Pointing out that he is the general manager of this hotel gives the guest a sobering reality check.
-- 'Then why are you wearing a chef's hat?' Here wondering why Barinov wearing a hat is shows the inspector looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Because I am also the head chef.' Since because he is also the head, Barinov does not waste words on excuses.
-- 'There is a crisis now, so I have to combine jobs.' Mentioning that there is a crisis now so he has to combine jobs moves the talk in a new direction.
-- 'And I am also the husband of the hotel owner.' Mentioning that he is also the husband of the hotel owner moves the talk in a new direction.
+- 'Open the door immediately, this is the police!' The inspector establishes an easygoing line in front of Barinov, pairing "nemedlenno" ("immediately") with "otkroyte" ("open") to get the point across in plain spoken Russian.
+- 'Tell me, is this your hotel room?' The inspector challenges calmly during the talk, pairing "skazhite" ("tell") with "gostinichnyy" ("hotel") to get the point across in plain spoken Russian.
+- 'Excuse me, I do not understand you at all.' The guest sustains a wry position at once, anchoring the Russian line on "prostite" ("excuse me") and "sovsem" ("at all") without extra filler.
+- 'And what on earth is going on here right now?' Barinov queries earnestly without a pause, anchoring the Russian line on "tut" ("here") and "voobshche" ("at all") without extra filler.
+- 'Why have I not been informed yet?' Barinov prompts pointedly in their exchange, anchoring the Russian line on "pochemu" ("why") and "por" ("time") without extra filler.
+- 'I do not understand what they want.' The guest sustains a playful manner across the room, weaving "ponimayu" ("understand") together with "khotyat" ("want") just the way native speakers do.
+- 'Excuse me, and who are you yourself?' The inspector queries firmly in this moment, linking "prostite" ("excuse me"), "vy" ("you"), and "sami" ("yourselves") in one brisk exchange.
+- 'I am the general manager of this hotel.' Barinov brings an emphatic angle in this beat, linking "glavnyy" ("main, chief"), "upravlyayushchiy" ("manager"), and "otelya" ("of the hotel") in one brisk exchange.
+- 'Then why are you wearing a chef's hat?' The inspector presses plainly with Barinov now, combining "pochemu" ("why") and "togda" ("back then") so the key meaning lands right away.
+- 'Because I am also the head chef.' Barinov strikes an unhurried bearing in this beat, joining "potomu" ("because") to "yeshchyo" ("more, still") so every word pulls its weight.
+- 'There is a crisis now, so I have to combine jobs.' Barinov sustains a thoughtful note in this beat, leaning on "seychas" ("now") before closing the thought with "krizis" ("crisis").
+- 'And I am also the husband of the hotel owner.' Barinov keeps an earnest tone in front of the inspector, placing "yeshchyo" ("more, still") straight beside "muzh" ("husband") with no word for "to be" needed.

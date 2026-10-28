@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you mopping the floors with cognac?' Asking whether Kostya mopping the floors with cognac cuts straight through the tension between Barinov and Kostya.
-- 'Chef, someone trashed the bar last night.' Around the shift and coffee, Kostya sets a calm, everyday tone with Barinov.
-- 'Do you know who it could have been?' Here checking whether Barinov knows who it could have been shows Kostya looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'How should I know, I have no idea.' Barinov reminds Kostya that how should he knows he has no idea before the moment passes.
-- 'Kostya, pour me a cold beer.' Pouring him a cold beer moves the conversation forward without extra drama.
-- 'Why are you torturing yourselves here, friends?' Asking why Kostya torturing yourselves here is is how Barinov puts Kostya on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Check the security camera recording.' Checking the security camera recording is how Barinov lays out the situation for Kostya.
-- 'There is no beer today, Chef.' Claiming that there is no beer today sounds confident, even if Barinov has doubts.
-- 'Well then give me at least some coffee.' Even though Kostya should give him at least some coffee, Barinov keeps a steady face in front of Kostya.
-- 'Chef, the coffee machine broke down too.' Over the conversation and the coffee, Kostya answers Barinov without a second thought.
-- 'And where is the key to the server room?' Here wondering where the key to the server room is shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Vika has it, who else would have it?' Kostya asks whether Vika has it who else would have it, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'She called and said that she would be late.' Even though she called and said that she would be late, Kostya keeps a steady face in front of Barinov.
-- 'The restaurant is a mess, the manager is late!' Insisting that the restaurant is a mess the manager is late shows Barinov is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Are you mopping the floors with cognac?' Barinov presses dryly on the spot, using "konyakom" (from "konyak", "cognac") alongside "poly" ("floors") to shape the meaning.
+- 'Chef, someone trashed the bar last night.' Kostya presents a steady tempo in the conversation, anchoring the Russian line on "nochyu" ("night") and "ustroil" ("caused") without extra filler.
+- 'Do you know who it could have been?' Kostya queries plainly as the beat lands, linking "znayete" ("know"), "mog" ("can, to be able"), and "byt" ("be") in one brisk exchange.
+- 'How should I know, I have no idea.' Barinov sustains a grounded attitude at this moment, anchoring the Russian line on "otkuda" ("where from") and "znayu" ("know") without extra filler.
+- 'Kostya, pour me a cold beer.' Barinov sustains a direct bearing at once, joining "naley" ("pour") to "kholodnogo" ("cold, chilly") so every word pulls its weight.
+- 'Why are you torturing yourselves here, friends?' Barinov prompts calmly to keep things clear, weaving "tut" ("here") together with "muchayetes" ("are torturing yourselves") just the way native speakers do.
+- 'Check the security camera recording.' Barinov shares a frank tone toward Kostya, building the phrase around "posmotrite" ("look") and "zapis" ("the recording") for a crisp, natural delivery.
+- 'There is no beer today, Chef.' Kostya keeps a resolute bearing across the room, weaving "piva" ("of beer") together with "segodnya" ("today") just the way native speakers do.
+- 'Well then give me at least some coffee.' Barinov establishes a wry stance at once, leaning on "togda" ("back then") before closing the thought with "day" ("give").
+- 'Chef, the coffee machine broke down too.' Kostya establishes a brisk stance as they talk, putting "kofemashina" ("coffee machine") alongside "tozhe" ("too") in a tight, everyday turn of phrase.
+- 'And where is the key to the server room?' Max tests evenly without hesitation, anchoring the Russian line on "gde" ("where") and "klyuch" ("key") without extra filler.
+- 'Vika has it, who else would have it?' Kostya quizzes boldly in front of Max, joining "yeshchyo" ("more, still") to "on" ("he") so every word pulls its weight.
+- 'She called and said that she would be late.' Kostya takes a firm angle during the exchange, weaving "pozvonila" ("phoned") together with "skazala" ("told") just the way native speakers do.
+- 'The restaurant is a mess, the manager is late!' Barinov displays a playful attitude toward Max, anchoring the Russian line on "restorane" ("restaurant") and "pogrom" ("devastation") without extra filler.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am betting everything on the line right now.' Pointing out that he is betting everything on the line right now gives Mikhail a sobering reality check.
-- 'And I am not going to take a risk right now.' Being not going to take a risk right now is how Mikhail lays out the situation for the guest.
-- 'I simply pass this time.' Saying that he simply passes this time is how Mikhail sets the tone with the guest.
-- 'Let us quickly show our cards already.' The guest mentions that they should quickly show their cards already so Mikhail sees what is at stake.
-- 'Wait a second, please, do not rush like that.' Mentioning that a second please do not rush like moves the talk in a new direction.
-- 'You are not alone here at the table.' Pointing out that the guest is not alone here at the table gives the guest a sobering reality check. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Just like that, he has the higher hand.' Because just like that he has the higher hand, Mikhail treats the matter as settled.
-- 'Do not get so terribly upset.' Explaining that do not get so terribly upset lays the cards on the table for the guest. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'After all, this is only a game.' Mikhail mentions that after all this is only a game so the guest sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I suggest you calm your nerves a little.' Suggesting the guest calms the guest's nerves a little is how Mikhail lays out the situation for the guest.
-- 'You must give me a chance to win it back.' Pointing out that Mikhail must give him a chance to win it back gives Mikhail a sobering reality check. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'But you have already lost everything.' Mikhail explains that the guest has already lost everything, keeping his voice calm and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'I still have something valuable left.' Realizing that he still has something valuable left changes how the guest handles the situation.
+- 'I am betting everything on the line right now.' The guest establishes a natural mood right away, combining "seychas" ("now") and "stavlyu" ("put") so the key meaning lands right away.
+- 'And I am not going to take a risk right now.' Mikhail shows a candid posture without hesitation, linking "seychas" ("now"), "riskovat" ("to risk"), and "budu" ("will be") in one brisk exchange.
+- 'I simply pass this time.' Mikhail maintains an earnest manner for the guest, combining "raz" ("time, once") and "prosto" ("just") so the key meaning lands right away.
+- 'Let us quickly show our cards already.' The guest projects a brisk posture for Mikhail, leaning on "davayte" ("let's") before closing the thought with "uzhe" ("already, now").
+- 'Wait a second, please, do not rush like that.' Mikhail brings a direct manner during the exchange, weaving "podozhdite" ("wait") together with "sekundochku" ("one little second") just the way native speakers do.
+- 'You are not alone here at the table.' Mikhail keeps a serious style as they talk, joining "zdes" ("here") to "stolom" ("the table") so every word pulls its weight.
+- 'Just like that, he has the higher hand.' Mikhail strikes a brisk rhythm in their talk, linking "starshaya" ("older, elder"), "karta" ("bank card, map"), and "vot" ("there, here") in one brisk exchange.
+- 'Do not get so terribly upset.' Mikhail adopts an easygoing rhythm with the guest, weaving "rasstraivaytes" ("to get upset") together with "silno" ("strongly, much") just the way native speakers do.
+- 'After all, this is only a game.' Mikhail picks a grounded posture in their talk, using "kontse" (from "konets", "end") alongside "kontsov" ("of ends") to shape the meaning.
+- 'I suggest you calm your nerves a little.' Mikhail establishes a clear stance on the spot, anchoring the Russian line on "predlagayu" ("suggest") and "nemnogo" ("a bit") without extra filler.
+- 'You must give me a chance to win it back.' The guest sustains a pointed line on the spot, using "dolzhny" (from "dolzhen", "must, should") alongside "dat" ("to give") to shape the meaning.
+- 'But you have already lost everything.' Mikhail shows a brisk angle in front of the guest, leaning on "uzhe" ("already, now") before closing the thought with "proigrali" ("lost").
+- 'I still have something valuable left.' The guest takes an earnest footing in front of Mikhail, weaving "yeshchyo" ("more, still") together with "tsennoye" ("valuable") just the way native speakers do.

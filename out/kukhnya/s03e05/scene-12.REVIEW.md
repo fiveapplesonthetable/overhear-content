@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'At your age do people still watch TV series?' Asking whether at Vika's age do people still watch series puts Vika right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Vitya, by the way, we have problems.' Adding that they have problems fills in the missing piece for Barinov.
-- 'They ordered a molecular banquet for tomorrow.' Around the news and banquet, Vika sets a calm, everyday tone with Barinov.
-- 'What do I have to do with it, go to Katya.' Since what do he has to do with it go to Katya, Barinov does not waste words on excuses.
-- 'She will already be working at another place.' Mentioning that she will already be working at another place moves the talk in a new direction.
-- 'Why is she so quick?' Asking why she so quick is is how Barinov puts Vika on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Vitya, try to persuade her.' By telling Barinov to try to persuade, Vika keeps her side of the story grounded.
-- 'Let her stay and prepare the banquet.' Because Barinov should let her stay and prepare the banquet, Vika treats the matter as settled.
-- 'I am not going to persuade her.' Being not going to persuade is how Barinov lays out the situation for Vika.
-- 'She is a grown person, it is her decision.' Claiming that she is a grown person it is her decision sounds confident, even if Vika has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Vitya, and what about our banquet?' Over the truth and the banquet, Vika presses Barinov for a straight answer.
-- 'I will do everything great myself.' Barinov explains that he will do everything great himself, keeping his voice calm and direct.
-- 'I said I will manage, go and do not bother me.' Realizing that he said he will manage go and do not bother him changes how Barinov handles the situation.
+- 'At your age do people still watch TV series?' Barinov questions boldly during the talk, putting "vozraste" ("age") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
+- 'Vitya, by the way, we have problems.' Vika strikes a candid view in their talk, leaning on "u nas" ("by us, at our place") and "prochim" ("other") the way natural Russian does.
+- 'They ordered a molecular banquet for tomorrow.' Vika brings an unhurried bearing in the scene, anchoring the Russian line on "zavtra" ("tomorrow") and "zakazali" ("ordered") without extra filler.
+- 'What do I have to do with it, go to Katya.' Barinov shares a wry tempo at this moment, building the phrase around "tut" ("here") and "idi" ("go") for a crisp, natural delivery.
+- 'She will already be working at another place.' Vika establishes a calm attitude as the scene unfolds, anchoring the Russian line on "uzhe" ("already, now") and "budet" ("will be") without extra filler.
+- 'Why is she so quick?' Barinov queries steadily without holding back, leaning on "pochemu" ("why") before closing the thought with "bystraya" ("fast, quick").
+- 'Vitya, try to persuade her.' Vika adopts a measured note across the room, putting "poprobuy" ("to try, to taste") alongside "ugovorit" ("persuade") in a tight, everyday turn of phrase.
+- 'Let her stay and prepare the banquet.' Vika conveys a playful approach at once, pairing "ostanetsya" ("will remain") with "prigotovit" ("makes, cooks") to get the point across in plain spoken Russian.
+- 'I am not going to persuade her.' Barinov projects a playful style in this beat, joining "budu" ("will be") to "ugovarivat" ("persuade") so every word pulls its weight.
+- 'She is a grown person, it is her decision.' Barinov holds a firm bearing at once, linking "vzroslyy" ("grown-up, adult"), "chelovek" ("a man, a person"), and "resheniye" ("decision") in one brisk exchange.
+- 'Vitya, and what about our banquet?' Vika quizzes decisively with Barinov now, linking "kak" ("how"), "banket" ("banquet"), and "vitya" ("Vitya") in one brisk exchange.
+- 'I will do everything great myself.' Barinov takes a direct tone as the scene unfolds, leaning on "otlichno" ("perfect, great") before closing the thought with "sdelayu" ("I'll do").
+- 'I said I will manage, go and do not bother me.' Barinov presents an earnest footing in their talk, pairing "spravlyus" ("will manage") with "skazal" ("said") so the "-sya" ending carries the action.

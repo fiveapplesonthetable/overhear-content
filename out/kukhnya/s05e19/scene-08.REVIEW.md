@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It says here that Senya feeds the next clue.' Katya reminds Barinov that it says here that Senya feeds the next clue before the moment passes.
-- 'Look, we continue saving on ingredients.' By continuing saving on ingredients, Barinov keeps his side of the story grounded.
-- 'Here is a caviar sandwich without butter or bread.' Explaining that here is a caviar sandwich without butter or bread lays the cards on the table for Katya.
-- 'Fedya, tell me, what should I do next?' Asking whether tell her what should she does next puts Barinov right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Buy a bottle of port wine and come over this evening.' Telling Katya to buy a bottle of port wine and come over this evening moves the conversation forward without extra drama.
-- 'Fedya, what on earth are you talking about right now?' Around the car and room, Katya wants to know where Barinov really stands.
-- 'Vitya, why do I not see my car?' Wondering why he not see his car cuts straight through the tension between Nagiyev and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Admit it, did you already go for a ride in it?' When Nagiyev asks if admit it did Barinov already go for a ride in it, Barinov has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I just reparked it in another spot.' Over the car and the shift, Barinov answers Katya without a second thought.
-- 'Your car really is very good.' Even though Katya's car really is very good, Barinov keeps a steady face in front of Katya. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Well then, shall we start our new countdown?' With the conversation and car hanging in the air, Nagiyev puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Come back to me as soon as possible.' Here telling Barinov to come back to him as soon as possible sets up the next turn in their exchange.
+- 'It says here that Senya feeds the next clue.' Katya adopts a frank course in this beat, leaning on "tut" ("here") before closing the thought with "napisano" ("is written").
+- 'Look, we continue saving on ingredients.' Barinov presents a wry line with Nagiyev, pairing "smotri" ("look") with "prodolzhayem" ("we continue") to get the point across in plain spoken Russian.
+- 'Here is a caviar sandwich without butter or bread.' Barinov strikes a frank style with Katya, pairing "buterbrod" ("sandwich") with "ikroy" ("caviar") to get the point across in plain spoken Russian.
+- 'Fedya, tell me, what should I do next?' Katya prompts candidly as they speak, putting "skazhi" ("say") alongside "delat" ("do") in a tight, everyday turn of phrase.
+- 'Buy a bottle of port wine and come over this evening.' Barinov maintains an unhurried direction toward Katya, putting "kupi" ("buy") alongside "butylku" ("a bottle") in a tight, everyday turn of phrase.
+- 'Fedya, what on earth are you talking about right now?' Katya questions directly at this point, linking "voobshche" ("at all") directly with "seychas" ("now"), since Russian drops "is" and "are" in the present.
+- 'Vitya, why do I not see my car?' Nagiyev probes pointedly beside Barinov, joining "pochemu" ("why") to "mashinu" ("car") so every word pulls its weight.
+- 'Admit it, did you already go for a ride in it?' Nagiyev asks firmly from the start, putting "priznavaysya" ("confess") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
+- 'I just reparked it in another spot.' Barinov establishes a measured attitude with Katya, combining the softening word "prosto" ("simply, just") with "pereparkoval" ("reparked") to give the line its natural spoken rhythm.
+- 'Your car really is very good.' Barinov displays an earnest manner at once, putting "mashina" ("a car") alongside "deystvitelno" ("really, indeed") in a tight, everyday turn of phrase.
+- 'Well then, shall we start our new countdown?' Nagiyev queries steadily on the spot, joining "nachnyom" ("we start") to "novyy" ("new") so every word pulls its weight.
+- 'Come back to me as soon as possible.' Nagiyev takes a thoughtful tack on the spot, using "vozvrashchaysya" (from "vozvrashchatsya", "return") alongside "skoreye" ("quickly, right away") to shape the meaning.

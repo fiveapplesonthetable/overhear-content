@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We begin the trial of Maxim Lavrov!' Beginning the trial of Maxim Lavrov is Barinov's blunt reaction in front of Kostya. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I object, Your Honor, that is an insult!' Kostya declares that he object Barinov's honor that is an insult as the tension in the room peaks.
-- 'Kostya, we are overruling the objection right now.' Even though they are overruling the objection right now, Barinov keeps a steady face in front of Kostya.
-- 'Victim, tell us what happened that evening.' With the wedding and room in play, Barinov keeps this short reply brisk and direct.
-- 'That evening was Sasha's wedding.' Saying that that evening was Sasha wedding is how Vika sets the tone with Barinov.
-- 'Sasha was his former beloved girlfriend.' Once Sasha was his former beloved girlfriend, Vika can finally tell Barinov what she means.
-- 'I immediately felt that something was wrong.' Adding that she immediately felt that something was wrong fills in the missing piece for Barinov.
-- 'His old feelings had probably returned to him.' Vika tells Barinov that his old feelings had probably returned to him without dressing it up.
-- 'And that evening in that cursed storage room...' With the wedding and moment in play, Vika keeps this short reply brisk and direct.
-- 'He betrayed me and our future child!' With the work and wedding at stake, Vika reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'I object, Your Honor, turn off that music!' With the point and wedding at stake, Kostya reacts without holding back.
-- 'Sad music heightens the dramatic effect in court!' Over the truth and the wedding, Kostya lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'We begin the trial of Maxim Lavrov!' Barinov maintains a thoughtful tempo as the scene unfolds, pairing "nachinayem" ("are starting") with "sud" ("the court") to get the point across in plain spoken Russian.
+- 'I object, Your Honor, that is an insult!' Kostya adopts an honest line as they talk, combining "protestuyu" ("object, protest") and "chest" ("honor") so the key meaning lands right away.
+- 'Kostya, we are overruling the objection right now.' Barinov favors an earnest rhythm in the room, joining "seychas" ("now") to "bystro" ("quickly") so every word pulls its weight.
+- 'Victim, tell us what happened that evening.' Barinov strikes a clear footing in the conversation, putting "poterpevshaya" ("female victim") alongside "rasskazhite" ("tell") in a tight, everyday turn of phrase.
+- 'That evening was Sasha's wedding.' Vika shares a direct rhythm right away, joining "vecher" ("evening") to "byla" ("was") so every word pulls its weight.
+- 'Sasha was his former beloved girlfriend.' Vika projects an unhurried rhythm right away, linking "byla" ("was"), "prezhney" ("the same as before"), and "lyubimoy" ("favourite, beloved") in one brisk exchange.
+- 'I immediately felt that something was wrong.' Vika conveys a grounded angle as the scene unfolds, anchoring the Russian line on "srazu" ("at once") and "pochuvstvovala" ("to feel, sense") without extra filler.
+- 'His old feelings had probably returned to him.' Vika conveys a serious attitude as they talk, leaning on "navernoye" ("probably") before closing the thought with "vernulis" ("to come back").
+- 'And that evening in that cursed storage room...' Vika offers a resolute note in front of Barinov, leaning on "vecherom" ("in the evening") before closing the thought with "proklyatom" ("cursed").
+- 'He betrayed me and our future child!' Vika conveys a calm tone toward Kostya, linking "predal" ("betrayed"), "budushchego" ("future, next"), and "rebyonka" ("child") in one brisk exchange.
+- 'I object, Your Honor, turn off that music!' Kostya brings an earnest tempo beside Barinov, pairing "protestuyu" ("object, protest") with "chest" ("honor") to get the point across in plain spoken Russian.
+- 'Sad music heightens the dramatic effect in court!' Kostya keeps a warm angle at once, linking "grustnaya" ("sad"), "muzyka" ("music"), and "usilivayet" ("heighten, intensify") in one brisk exchange.

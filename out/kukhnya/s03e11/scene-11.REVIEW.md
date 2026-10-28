@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, what are you doing here right now?' Here wondering what Barinov doing here right now is shows Nagiyev looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Vitya, I am actually talking to you!' Because he is actually talking to Barinov, Nagiyev does not bother softening the blow for Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It is already two o'clock in the afternoon outside!' Insisting that it is already two o'clock in the afternoon outside shows Nagiyev is not backing down.
-- 'Were you drinking here all night again?' Here checking whether Barinov drinking here all night again shows Nagiyev looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'No, Dima, I did not drink at all.' Even though he did not drink at all, Barinov keeps a steady face in front of Nagiyev.
-- 'I was making the new menu all night!' Barinov insists that he was making the new menu all night, leaving Nagiyev no room to argue.
-- 'I see very well what kind of menu you made.' Even though he sees very well what kind of menu Barinov made, Nagiyev keeps a steady face in front of Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I will cook a new dish for you right now!' Barinov declares that he will cook a new dish for Nagiyev right now as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What will you cook when you are so tired?' By wondering what Barinov cooks when Barinov is so tired will, Nagiyev presses Barinov for a straight answer.
-- 'Dima, for some reason I cannot feel my arm!' Insisting that for some reason he cannot feel his arm shows Barinov is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Wait, Dima, look, I am fine.' Barinov mentions that he is fine so Nagiyev sees what is at stake.
-- 'Come on, I just slept badly.' Since Nagiyev should come on he just slept badly, Barinov does not waste words on excuses.
-- 'Here look, water got on me too.' Barinov reminds Nagiyev that here look water got on him before the moment passes.
+- 'Vitya, what are you doing here right now?' Nagiyev inquires briskly to make the point, linking "zdes" ("here"), "seychas" ("now"), and "delayesh" ("are you doing") in one brisk exchange.
+- 'Vitya, I am actually talking to you!' Nagiyev picks an unhurried tempo in front of Barinov, combining "voobshche-to" ("actually") and "razgovarivayu" ("to talk, to speak") so the key meaning lands right away.
+- 'It is already two o'clock in the afternoon outside!' Nagiyev sets an emphatic tack at this moment, linking "uzhe" ("already, now") directly with "chasa" ("hours"), since Russian drops "is" and "are" in the present.
+- 'Were you drinking here all night again?' Nagiyev presses boldly during the talk, leaning on "opyat" ("again") before closing the thought with "pil" ("was drinking").
+- 'No, Dima, I did not drink at all.' Barinov establishes a playful tempo as the scene unfolds, pairing "sovsem" ("at all") with "pil" ("was drinking") to get the point across in plain spoken Russian.
+- 'I was making the new menu all night!' Barinov chooses a wry footing right away, combining "noch" ("night") and "novoye" ("new") so the key meaning lands right away.
+- 'I see very well what kind of menu you made.' Nagiyev adopts a steady rhythm for Barinov, combining "prekrasno" ("perfectly") and "vizhu" ("see") so the key meaning lands right away.
+- 'I will cook a new dish for you right now!' Barinov conveys a steady tone straight away, linking "seychas" ("now"), "novoye" ("new"), and "blyudo" ("dish") in one brisk exchange.
+- 'What will you cook when you are so tired?' Nagiyev quizzes plainly during the talk, joining "prigotovish" ("will prepare") to "kogda" ("when") so every word pulls its weight.
+- 'Dima, for some reason I cannot feel my arm!' Barinov takes an earnest tack right away, putting "pochemu-to" ("for some reason") alongside "chuvstvuyu" ("feel") in a tight, everyday turn of phrase.
+- 'Wait, Dima, look, I am fine.' Barinov favors a wry posture across the room, using "podozhdi" (from "podozhdat", "wait") alongside "smotri" ("look") to shape the meaning.
+- 'Come on, I just slept badly.' Barinov maintains a clear posture in front of Nagiyev, pairing "prosto" ("just") with "plokho" ("badly") to get the point across in plain spoken Russian.
+- 'Here look, water got on me too.' Barinov takes a warm style in the scene, building the phrase around "smotri" ("look") and "tozhe" ("too") for a crisp, natural delivery.

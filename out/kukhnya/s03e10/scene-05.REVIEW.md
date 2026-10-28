@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, do you not believe me?' Here checking whether Nagiyev not believe him shows Barinov looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'The main thing is just do not get so nervous.' Realizing that the main thing is just do not get so nervous changes how Nagiyev handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Alright, I really need to get going.' Saying that Alright he really needs to get going is how Nagiyev sets the tone with Barinov.
-- 'Let us bet a month's salary on it!' Barinov declares that they should bet a month salary on it as the tension in the room peaks. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Just how much time do you need?' Asking whether just how much time do Barinov needs puts Barinov right on the defensive. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'This very day I will have a woman.' Barinov tells Nagiyev that this very day he will have a woman without dressing it up.
-- 'Excellent, that suits me just fine.' With the point and dinner in play, Nagiyev keeps this short reply brisk and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Alright, until this evening then.' Over the point and the dinner, Nagiyev answers Barinov without a second thought.
-- 'And what is this gathering you have here?' Here wondering what this gathering Nagiyev has here is shows Barinov looking for the real truth.
-- 'Chef, Timur has brought the groceries out there.' Because Timur has brought the groceries out there, Senya treats the matter as settled.
-- 'What? Oh, groceries, then go receive them.' With the dinner and work hanging in the air, Barinov puts Nagiyev on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'By tonight he has to find a woman.' Senya mentions that by tonight he has to find a woman so Barinov sees what is at stake.
+- 'Wait, do you not believe me?' Barinov asks bluntly to Nagiyev here, using "pogodi" (from "pogodit", "wait") alongside "verish" ("do you believe") to shape the meaning.
+- 'The main thing is just do not get so nervous.' Nagiyev displays a warm course in their talk, combining "glavnoye" ("important") and "tolko" ("only") so the key meaning lands right away.
+- 'Alright, I really need to get going.' Nagiyev offers a grounded rhythm in this beat, joining "pravda" ("honestly") to "idti" ("to go") so every word pulls its weight.
+- 'Let us bet a month's salary on it!' Barinov conveys a calm line right away, anchoring the Russian line on "davay" ("let's") and "posporim" ("let's bet, wager") without extra filler.
+- 'Just how much time do you need?' Nagiyev asks quietly to make the point, anchoring the Russian line on "skolko" ("how much, so much") and "nado" ("it is necessary") without extra filler.
+- 'This very day I will have a woman.' Barinov chooses a lively view in the scene, using the everyday "u menya" ("by me") alongside "segodnya" ("today") to show what belongs to the speaker.
+- 'Excellent, that suits me just fine.' Nagiyev takes a brisk footing at this moment, weaving "otlichno" ("perfect, great") together with "vpolne" ("quite") just the way native speakers do.
+- 'Alright, until this evening then.' Nagiyev strikes a clear direction in this beat, leaning on "togda" ("back then") before closing the thought with "segodnyashnego" ("of today's").
+- 'And what is this gathering you have here?' Barinov quizzes boldly in the room, joining "tut" ("here") to "sborishche" ("crowd, gathering") so every word pulls its weight.
+- 'Chef, Timur has brought the groceries out there.' Senya maintains a steady tack with Nagiyev, linking "tam" ("there"), "produkty" ("groceries"), and "privyoz" ("brought") in one brisk exchange.
+- 'What? Oh, groceries, then go receive them.' Barinov presses promptly without a pause, leaning on "produkty" ("groceries") before closing the thought with "togda" ("back then").
+- 'By tonight he has to find a woman.' Senya adopts a steady position for Nagiyev, anchoring the Russian line on "vecheru" ("evening") and "dolzhen" ("has to, must") without extra filler.

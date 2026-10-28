@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I can see by your eyes that you don't understand.' Mentioning that he can see by Barinov's eyes that Barinov does not understand moves the talk in a new direction.
-- 'A film producer is coming.' Nagiyev reminds Barinov that a film producer is coming before the moment passes.
-- 'He wants to film War and Peace.' Because he wants to film war and peace, Nagiyev treats the matter as settled.
-- 'With me in the leading role.' With the kitchen and exchange in play, Nagiyev keeps this short reply brisk and direct.
-- 'I am going to play Napoleon.' Mentioning that he is going to play Napoleon moves the talk in a new direction.
-- 'You have to feed him so well.' Claiming that Barinov has to feed him so well sounds confident, even if Barinov has doubts.
-- 'I am begging you, Vitya, don't mess this up.' Admitting that he is begging Barinov Vitya do not mess this up shows Nagiyev being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yes, got it.' With the guest and peace in play, Barinov keeps this short reply brisk and direct.
-- 'What did I just say?' By asking what he just says, Nagiyev presses Barinov for a straight answer.
-- 'Onto the French throne.' Around the guest and kitchen, Barinov sets a calm, everyday tone with Nagiyev.
-- 'I said do not mess it up.' Even though he said do not mess it up, Nagiyev keeps a steady face in front of Barinov.
-- 'Ah, that too.' Over the guest and the moment, Barinov answers Nagiyev without a second thought.
+- 'I can see by your eyes that you don't understand.' Nagiyev maintains an easygoing direction in the scene, pairing "vizhu" ("see") with "glazam" ("eye") to get the point across in plain spoken Russian.
+- 'A film producer is coming.' Nagiyev takes a pointed stance for Barinov, combining "prodyuser" ("producer") and "pridyot" ("will come") so the key meaning lands right away.
+- 'He wants to film War and Peace.' Nagiyev favors an easygoing tempo for Barinov, linking "khochet" ("wants"), "snimat" ("to film"), and "voynu" ("the war") in one brisk exchange.
+- 'With me in the leading role.' Nagiyev favors an emphatic rhythm in their talk, linking "glavnoy" ("main"), "roli" ("role, part"), and "so" ("with") in one brisk exchange.
+- 'I am going to play Napoleon.' Nagiyev picks an unhurried stance beside Barinov, joining "napoleona" ("going") to "budu" ("will be") so every word pulls its weight.
+- 'You have to feed him so well.' Nagiyev maintains a calm tone beside Barinov, putting "dolzhen" ("has to, must") alongside "nakormit" ("to feed") in a tight, everyday turn of phrase.
+- 'I am begging you, Vitya, don't mess this up.' Nagiyev adopts an unhurried style on the spot, pairing "oblazhaysya" ("up") with "proshu" ("beg, ask") so the "-sya" ending carries the action.
+- 'Yes, got it.' Barinov projects a direct angle during the exchange, using "da" ("yes") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'What did I just say?' Nagiyev questions honestly in this moment, anchoring the Russian line on "seychas" ("now") and "skazal" ("said") without extra filler.
+- 'Onto the French throne.' Barinov displays an unhurried tone in the conversation, building the phrase around "frantsuzskiy" ("French") and "prestol" ("throne") for a crisp, natural delivery.
+- 'I said do not mess it up.' Nagiyev strikes a brisk tempo during the exchange, pairing "oblazhaysya" ("up") with "skazal" ("said") so the "-sya" ending carries the action.
+- 'Ah, that too.' Barinov offers a serious tack as the scene unfolds, using "tozhe" ("too") by itself, a common way spoken Russian keeps fast dialogue punchy.

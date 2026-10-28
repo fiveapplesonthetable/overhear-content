@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today for lunch there will be your favorite pilaf.' Fedya mentions that today for lunch there will be Denis's favorite pilaf so Denis sees what is at stake.
-- 'Your pilaf always turns out simply wonderful.' Claiming that Denis's pilaf always turns out simply wonderful sounds confident, even if Denis has doubts. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Look, what kind of blue paint is this?' Asking whether what kind of blue paint is this puts Fedya right on the defensive. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'An acquaintance from the bank brought me this yesterday.' Fedya explains that an acquaintance from the bank brought him this yesterday, keeping his voice calm and direct.
-- 'He works at the bank transporting money.' Realizing that he works at the bank transporting money changes how Fedya handles the situation.
-- 'They put such paint in bags in case of theft.' Realizing that they put such paint in bags in case of theft changes how Fedya handles the situation.
-- 'And how am I supposed to work now? The shower broke!' With the moment and key hanging in the air, Denis puts Fedya on the spot.
-- 'Take the key, you can take a shower in my hotel room.' Because Denis should take the key Denis can take a shower in her hotel room, Katya treats the matter as settled.
-- 'Katya, did you move into our hotel?' By asking whether Denis moves into their hotel, Fedya presses Denis for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Yes, there is a small renovation at my home right now.' Once there is a small renovation at her home right now, Katya can finally tell Denis what she means.
-- 'The plus is that my mom is the owner of the hotel.' Adding that the plus is that her is the owner of the hotel fills in the missing piece for Denis.
-- 'Cool, you are lucky to have a mom like that!' Insisting that cool Denis is lucky to have a like shows Fedya is not backing down. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Today for lunch there will be your favorite pilaf.' Fedya favors an earnest footing on the spot, building the phrase around "segodnya" ("today") and "obed" ("lunch") for a crisp, natural delivery.
+- 'Your pilaf always turns out simply wonderful.' Fedya strikes a thoughtful style across the room, anchoring the Russian line on "plov" ("pilaf") and "vsegda" ("always") without extra filler.
+- 'Look, what kind of blue paint is this?' Denis challenges firmly without hesitation, using "posmotrite" (from "posmotret", "look") alongside "sinyaya" ("blue, dark blue") to shape the meaning.
+- 'An acquaintance from the bank brought me this yesterday.' Fedya offers an easygoing position straight away, building the phrase around "vchera" ("yesterday") and "znakomyy" ("familiar") for a crisp, natural delivery.
+- 'He works at the bank transporting money.' Fedya offers a serious approach in the room, linking "banke" ("bank"), "rabotayet" ("works"), and "perevozke" ("transport, carriage") in one brisk exchange.
+- 'They put such paint in bags in case of theft.' Fedya displays a candid attitude at once, leaning on "krasku" ("paint, dye") before closing the thought with "sluchay" ("case, occasion").
+- 'And how am I supposed to work now? The shower broke!' Denis questions lightly in the scene, joining "kak" ("how") to "teper" ("now") so every word pulls its weight.
+- 'Take the key, you can take a shower in my hotel room.' Katya projects a playful line as the scene unfolds, joining "derzhi" ("here you go") to "klyuch" ("key") so every word pulls its weight.
+- 'Katya, did you move into our hotel?' Fedya probes decisively without holding back, pairing "otele" ("in the hotel") with "poselilas" ("move in, settle") to get the point across in plain spoken Russian.
+- 'Yes, there is a small renovation at my home right now.' Katya offers a pointed manner in their talk, linking "doma" ("at home") directly with "seychas" ("now"), since Russian drops "is" and "are" in the present.
+- 'The plus is that my mom is the owner of the hotel.' Katya projects a sharp approach without hesitation, anchoring the Russian line on "mama" ("mum, mother") and "khozyayka" ("landlady") without extra filler.
+- 'Cool, you are lucky to have a mom like that!' Fedya sets a brisk line at this moment, anchoring the Russian line on "klass" ("cool, great") and "povezlo" ("it was lucky") without extra filler.

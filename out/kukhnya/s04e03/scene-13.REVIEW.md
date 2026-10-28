@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What do you want, my good man?' Wondering what German wants his good man is how Barinov puts German on the spot.
-- 'To introduce myself and get acquainted.' With the room and guest in play, German keeps this short reply brisk and direct.
-- 'You know, between us, I admire you.' Between the room and the guest, German gives Barinov a quick, grounded response. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I am completely serious.' Noting that he is completely serious keeps German's side of the story simple and clear.
-- 'To get in a car and run over the owner of the restaurant.' Around the guest and room, German sets a calm, everyday tone with Barinov.
-- 'Wait, I am already here.' Pointing out that he is already here gives Barinov a sobering reality check.
-- 'Yes, I am here, right here, darling.' German explains that he is here right here, keeping his voice calm and direct.
-- 'I will be right there, don't worry.' Since he will be right there do not worry, German does not waste words on excuses.
-- 'At least don't run over the owner of Arcobaleno, huh?' When German asks if at least do not run over the owner of Arcobaleno huh, Barinov has to answer fast. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Otherwise they will fire you. And Elena Pavlovna won't be able to help.' German reminds Barinov that otherwise they will fire Barinov before the moment passes.
-- 'Listen here! Though you are right, she won't help.' Barinov insists that though German is right she will not help, leaving German no room to argue. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I would kiss you right now, for giving me that idea, if I weren't afraid of getting dirty.' Explaining that he would kiss German right now for giving him that idea if he were not afraid of getting dirty lays the cards on the table for German. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'What do you want, my good man?' Barinov presses sharply without a pause, building the phrase around "nado" ("it is necessary") and "lyubeznyy" ("kind, polite") for a crisp, natural delivery.
+- 'To introduce myself and get acquainted.' German strikes a steady style in front of Max, weaving "predstavitsya" ("to introduce oneself") together with "poznakomitsya" ("to meet") just the way native speakers do.
+- 'You know, between us, I admire you.' German presents a sharp mood in the room, using "znayete" (from "znat", "know") alongside "voskhishchayus" ("to admire") to shape the meaning.
+- 'I am completely serious.' German conveys a measured bearing for Max, putting "seryozno" ("seriously") alongside "ya" ("I") in a tight, everyday turn of phrase.
+- 'To get in a car and run over the owner of the restaurant.' German keeps a natural manner straight away, linking "sest" ("to sit down"), "mashinu" ("car"), and "proyekhatsya" ("to owner") in one brisk exchange.
+- 'Wait, I am already here.' Max establishes a measured stance beside German, anchoring the Russian line on "podozhdi" ("wait") and "zdes" ("here") without extra filler.
+- 'Yes, I am here, right here, darling.' German favors an earnest manner during the exchange, anchoring the Russian line on "zdes" ("here") and "dorogaya" ("expensive") without extra filler.
+- 'I will be right there, don't worry.' German favors a wry angle on the spot, linking "seychas" ("now"), "budu" ("will be"), and "volnuysya" ("worry") in one brisk exchange.
+- 'At least don't run over the owner of Arcobaleno, huh?' German presses firmly during the talk, joining "khozyaina" ("owner") to "zadavite" ("to run over") so every word pulls its weight.
+- 'Otherwise they will fire you. And Elena Pavlovna won't be able to help.' German adopts a warm tone in the room, pairing "uvolyat" ("will fire") with "pomozhet" ("will help") to get the point across in plain spoken Russian.
+- 'Listen here! Though you are right, she won't help.' Barinov offers a direct line at once, weaving "slysh" ("listen") together with "prav" ("right") just the way native speakers do.
+- 'I would kiss you right now, for giving me that idea, if I weren't afraid of getting dirty.' Barinov keeps a firm line across the room, building the phrase around "pryamo" ("right, just") and "rastseloval" ("to right") for a crisp, natural delivery.

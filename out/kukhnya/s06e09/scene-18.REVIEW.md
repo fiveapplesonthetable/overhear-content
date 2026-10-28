@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, this girl poured cold okroshka soup on me!' Over the moment and the choice, the guest lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And rudely tells me to get out of here.' Once rudely tells him to get out of here, the guest can finally tell Gulya what he means.
-- 'Do not believe her, because she is a real con artist!' Gulya insists that do not believe her because she is a real con artist, leaving the guest no room to argue. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'She simply wants to take your apartment by deceit.' Saying that she simply wants to take the guest's apartment by deceit is how Gulya sets the tone with the guest.
-- 'Why, you do not know her at all!' The guest declares that why Gulya does not know her at all as the tension in the room peaks.
-- 'Mom, listen, Gulya could not have acted like that.' Mentioning that Mom listen Gulya could not have acted like moves the talk in a new direction.
-- 'Lyova, right now you are defending the wrong person.' The guest reminds Gulya that right now Gulya is defending the wrong person before the moment passes. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Whom I sincerely love, that is whom I defend.' Because whom he sincerely love that is whom he defend, Lyova treats the matter as settled.
-- 'Then you will have to choose who is more important to you.' Realizing that Gulya will have to choose who is more important to Gulya changes how the guest handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Choose right now: either her or me!' Telling Gulya to choose right now either her or him is the guest's blunt reaction in front of Gulya. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Gulya, take your things, let us go from here.' Taking the guest's things let them go from here moves the conversation forward without extra drama.
-- 'Lyova, son, wait, come back home immediately!' Over the work and the choice, the guest lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'We are leaving, since you do not believe me.' Lyova explains that they are leaving since the guest does not believe him, keeping his voice calm and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Look, this girl poured cold okroshka soup on me!' The guest maintains an easygoing tone at this moment, leaning on "smotrite" ("look") before closing the thought with "devushka" ("girlfriend").
+- 'And rudely tells me to get out of here.' The guest maintains an emphatic angle as they talk, pairing "ubiralas" ("to clear out") with "grubo" ("rudely") so the "-sya" ending carries the action.
+- 'Do not believe her, because she is a real con artist!' Gulya conveys an easygoing tone straight away, linking "verte" ("to believe"), "nastoyashchaya" ("real, genuine"), and "aferistka" ("con artist") in one brisk exchange.
+- 'She simply wants to take your apartment by deceit.' Gulya establishes a wry direction right away, pairing "prosto" ("just") with "khochet" ("wants") to get the point across in plain spoken Russian.
+- 'Why, you do not know her at all!' The guest displays a sharp style across the room, combining "sovsem" ("at all") and "znayete" ("know") so the key meaning lands right away.
+- 'Mom, listen, Gulya could not have acted like that.' Lyova adopts a calm footing with Gulya, combining "mama" ("mum, mother") and "poslushay" ("listen") so the key meaning lands right away.
+- 'Lyova, right now you are defending the wrong person.' The guest shares a sharp view in the room, pairing "seychas" ("now") with "zashchishchayesh" ("defend, protect") so the "-sya" ending carries the action.
+- 'Whom I sincerely love, that is whom I defend.' Lyova favors an honest footing with Gulya, putting "iskrenne" ("sincerely") alongside "lyublyu" ("love") in a tight, everyday turn of phrase.
+- 'Then you will have to choose who is more important to you.' The guest offers an unhurried tack beside Gulya, joining "togda" ("back then") to "pridyotsya" ("you'll have to") so every word pulls its weight.
+- 'Choose right now: either her or me!' The guest offers a firm tack without hesitation, leaning on "vybiray" ("to choose, select") before closing the thought with "pryamo" ("right, just").
+- 'Gulya, take your things, let us go from here.' Lyova sets a calm note in the room, anchoring the Russian line on "beri" ("take, grab") and "veshchi" ("things") without extra filler.
+- 'Lyova, son, wait, come back home immediately!' The guest holds an emphatic style with Lyova, linking "synok" ("son"), "podozhdi" ("wait"), and "nemedlenno" ("immediately") in one brisk exchange.
+- 'We are leaving, since you do not believe me.' Lyova displays a brisk position in their talk, putting "ukhodim" ("are leaving") alongside "raz" ("time, once") in a tight, everyday turn of phrase.

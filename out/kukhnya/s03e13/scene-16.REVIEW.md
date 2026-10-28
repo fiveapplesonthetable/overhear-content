@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today I have no time at all.' Vika tells Katya that today she has no time at all without dressing it up.
-- 'And why a marriage proposal all of a sudden?' Over the point and the promise, Vika presses Katya for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Vitya, do you think I should marry him?' Checking whether Katya thinks she should marry him is how Vika puts Katya on the spot. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'You are already a grown girl, decide for yourself.' Saying that Katya is already a grown girl decide for themselves is how Max sets the tone with Katya.
-- 'What on earth are you doing here in the kitchen?' Over the truth and the promise, Max presses Katya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Why did you put thyme in there?' Wondering why Katya puts thyme in there is how Max puts Katya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'That is it, Max, we are not drinking like that anymore.' Katya mentions that that is it Max they are not drinking like that anymore so Max sees what is at stake.
-- 'It is one thing when you do not remember that you are guilty.' Claiming that it is one thing when Max does not remember that Max is guilty sounds confident, even if Max has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'But not remembering that you are innocent is strange.' Pointing out that not remembering that Max is innocent is strange gives Max a sobering reality check. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'All that is left is to remember whether we slept together or not.' Max explains that all that is left is to remember whether they slept together or not, keeping his voice calm and direct.
-- 'Even if something did happen, you liked it.' Realizing that even if something did happen Max liked it changes how Katya handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Is it really normal to say that?' By checking whether it really normal to say, Max presses Katya for a straight answer. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Today I have no time at all.' Vika picks a frank stance in the scene, anchoring the Russian line on "segodnya" ("today") and "sovershenno" ("quite, completely") without extra filler.
+- 'And why a marriage proposal all of a sudden?' Vika quizzes warmly in this moment, linking "pochemu" ("why"), "vdrug" ("suddenly, what if"), and "srazu" ("at once") in one brisk exchange.
+- 'Vitya, do you think I should marry him?' Vika asks warmly without holding back, joining "dumayesh" ("think") to "nado" ("it is necessary") so every word pulls its weight.
+- 'You are already a grown girl, decide for yourself.' Max adopts a natural mood across the room, linking "uzhe" ("already, now"), "vzroslaya" ("grown-up, adult"), and "devochka" ("girl") in one brisk exchange.
+- 'What on earth are you doing here in the kitchen?' Max challenges openly toward Katya here, weaving "tut" ("here") together with "delayesh" ("are you doing") just the way native speakers do.
+- 'Why did you put thyme in there?' Max presses calmly to Vika here, building the phrase around "zachem" ("what for") and "tuda" ("there") for a crisp, natural delivery.
+- 'That is it, Max, we are not drinking like that anymore.' Katya conveys a brisk attitude in the conversation, linking "bolshe" ("more"), "pyom" ("to drink"), and "vsyo" ("everything") in one brisk exchange.
+- 'It is one thing when you do not remember that you are guilty.' Katya sets an earnest tempo in front of Vika, putting "kogda" ("when") alongside "pomnish" ("do you remember") in a tight, everyday turn of phrase.
+- 'But not remembering that you are innocent is strange.' Katya sets a serious attitude as they talk, pairing "pomnit" ("to remember") with "vinovat" ("at fault, guilty") to get the point across in plain spoken Russian.
+- 'All that is left is to remember whether we slept together or not.' Max keeps a sharp position for Vika, using "ostalos" (from "ostatsya", "was left") alongside "tolko" ("only") to shape the meaning.
+- 'Even if something did happen, you liked it.' Katya shares a grounded note beside Max, pairing "ponravilos" ("pleased, was liked") with "bylo" ("was") so the "-sya" ending carries the action.
+- 'Is it really normal to say that?' Max presses quietly in their exchange, anchoring the Russian line on "voobshche" ("at all") and "normalno" ("fine, OK") without extra filler.

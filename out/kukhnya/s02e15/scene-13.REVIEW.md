@@ -11,31 +11,31 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Шеф | Но я же на работе. | But I am on shift at work. | #215: Но я же на работе | verbatim |
-| 2 | Вика | Был, Лёва. | You were, Lyova. | #216: Был, Лёва | verbatim |
+| 2 | Макс | Был, Лёва. | You were, Lyova. | #216: Был, Лёва | verbatim |
 | 3 | Лёва | А сейчас начался у тебя выходной. | Right now your day off has officially started. | #217: А сейчас начался у тебя выходной | verbatim |
 | 4 | Шеф | Вернее, два выходных. | Or rather, two days off. | #218: Вернее, два выходных | verbatim |
-| 5 | Вика | А как же морковь? | Wait, what about the carrots? | #219: А как же морковь | verbatim |
+| 5 | Макс | А как же морковь? | Wait, what about the carrots? | #219: А как же морковь | verbatim |
 | 6 | Лёва | Давай, дуй быстро. | Come on, hurry up and get going. | #221: Давай, дуй быстро | verbatim |
 | 7 | Шеф | Ну что ещё? | What else now? | #222: Ну что ещё | verbatim |
-| 8 | Вика | Обижаешь, Лёва. | You wound me, Lyova. | #223: Обижаешь, Лёва | verbatim |
+| 8 | Макс | Обижаешь, Лёва. | You wound me, Lyova. | #223: Обижаешь, Лёва | verbatim |
 | 9 | Лёва | А мы тут просто так. | We are just hanging out here. | #227: А мы тут просто так | verbatim |
 | 10 | Шеф | А, вы туда. | Ah, you are heading in there. | #228: А, вы туда | verbatim |
-| 11 | Вика | Он, у кого занимать-то надо. | There is the man I should borrow money from. | #229: Он, у кого занимать-то надо | verbatim |
+| 11 | Макс | Он, у кого занимать-то надо. | There is the man I should borrow money from. | #229: Он, у кого занимать-то надо | verbatim |
 | 12 | Лёва | Ну, ты понял, Дмитрий Владимирович? | So you got all that, Dmitry Vladimirovich? | #231: Ну, ты понял, Дмитрий Владимирович | verbatim |
 | 13 | Шеф | Чего надо? | What do you want? | #232: Чего надо | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'But I am on shift at work.' Being on shift at work is how Barinov lays out the situation for Lyova.
-- 'You were, Lyova.' Between the office and the truth, Vika gives Barinov a quick, grounded response.
-- 'Right now your day off has officially started.' Lyova mentions that right now Barinov's day off has officially started so Barinov sees what is at stake. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Or rather, two days off.' Around the kitchen and office, Barinov sets a calm, everyday tone with Lyova.
-- 'Wait, what about the carrots?' Over the work and the holiday, Vika presses Barinov for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Come on, hurry up and get going.' By coming on hurry up and get going, Lyova keeps his side of the story grounded. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'What else now?' Around the work and trip, Barinov wants to know where Lyova really stands.
-- 'You wound me, Lyova.' With the shift and holiday in play, Vika keeps this short reply brisk and direct.
-- 'We are just hanging out here.' Even though they are just hanging out here, Lyova keeps a steady face in front of Barinov.
-- 'Ah, you are heading in there.' Admitting that Lyova is heading in there shows Barinov being honest for a change.
-- 'There is the man I should borrow money from.' Saying that there is the man she should borrow money is how Vika sets the tone with Barinov. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'So you got all that, Dmitry Vladimirovich?' When Lyova asks if Barinov got all that Dmitry Vladimirovich, Barinov has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What do you want?' Wondering what Lyova wants is how Barinov puts Lyova on the spot.
+- 'But I am on shift at work.' Barinov maintains an emphatic note in the room, anchoring the Russian line on "rabote" ("work") and "no" ("but") without extra filler.
+- 'You were, Lyova.' Max picks an easygoing position at this moment, building the phrase around "byl" ("was") and "lyova" ("Lyova") for a crisp, natural delivery.
+- 'Right now your day off has officially started.' Lyova maintains a lively note in the conversation, joining "seychas" ("now") to "nachalsya" ("started, broke out") so every word pulls its weight.
+- 'Or rather, two days off.' Barinov chooses a wry attitude toward Max, putting "verneye" ("more accurately") alongside "vykhodnykh" ("weekend") in a tight, everyday turn of phrase.
+- 'Wait, what about the carrots?' Max presses evenly to Barinov here, building the phrase around "kak" ("how") and "morkov" ("carrot") for a crisp, natural delivery.
+- 'Come on, hurry up and get going.' Lyova sets a playful manner in the scene, linking "davay" ("let's"), "duy" ("blow"), and "bystro" ("quickly") in one brisk exchange.
+- 'What else now?' Barinov asks sharply in the room, anchoring the Russian line on "yeshchyo" ("more, still") and "nu" ("oh, come on") without extra filler.
+- 'You wound me, Lyova.' Max shares a calm footing in this beat, joining "obizhayesh" ("are insulting") to "lyova" ("Lyova") so every word pulls its weight.
+- 'We are just hanging out here.' Lyova takes a calm view right away, placing "tut" ("here") straight beside "prosto" ("just") with no word for "to be" needed.
+- 'Ah, you are heading in there.' Barinov holds an honest view beside Max, joining "tuda" ("there") to "vy" ("you") so every word pulls its weight.
+- 'There is the man I should borrow money from.' Max presents a warm tack in this beat, combining "zanimat-to" ("occupy, take up") and "nado" ("it is necessary") so the key meaning lands right away.
+- 'So you got all that, Dmitry Vladimirovich?' Lyova prompts openly in the room, pairing "ponyal" ("understood") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
+- 'What do you want?' Barinov asks bluntly without holding back, anchoring the Russian line on "nado" ("it is necessary") and "chego" ("what") without extra filler.

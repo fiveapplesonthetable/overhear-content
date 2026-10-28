@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, I was warned that he is not entirely normal.' Claiming that she was warned that he is not entirely normal sounds confident, even if Vika has doubts.
-- 'Indeed, he is rarely in a good mood.' Pointing out that indeed he is rarely in a good mood gives Nastya a sobering reality check.
-- 'Just like my boss.' With the moment and boss in play, Nastya keeps this short reply brisk and direct.
-- 'Could you perhaps speak with me after all?' By checking whether Nastya perhaps speak with her after all, Vika presses Nastya for a straight answer.
-- 'My boss is a huge fan of exotic cuisine.' Noting that her boss is a huge fan of exotic cuisine keeps Nastya's side of the story simple and clear.
-- 'You see, we do not have turtle soup on our menu.' Even though they do not have turtle soup on their menu, Vika keeps a steady face in front of Nastya. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'We are a French restaurant.' Admitting that they are a French restaurant shows Nastya being honest for a change.
-- 'We already took care of that.' Saying that they already took care is how Vika sets the tone with Nastya.
-- 'I understand.' With the conversation and boss in play, Nastya keeps this short reply brisk and direct.
-- 'The thing is.' Adding that the thing is fills in the missing piece for Nastya.
-- 'Think about it very carefully.' Thinking about it very carefully is how Nastya lays out the situation for Vika.
-- 'Either a generous tip, or big problems.' With the work and order in play, Vika keeps this short reply brisk and direct.
-- 'Well, figure something out.' Over the work and the order, Nastya answers Vika without a second thought.
+- 'Yes, I was warned that he is not entirely normal.' Nastya adopts a natural bearing straight away, weaving "preduprezhdali" ("to warn") together with "sovsem" ("at all") just the way native speakers do.
+- 'Indeed, he is rarely in a good mood.' Vika displays a lively manner on the spot, building the phrase around "redko" ("rarely") and "byvayet" ("there can be") for a crisp, natural delivery.
+- 'Just like my boss.' Nastya sustains a steady bearing in the room, using "pryam" (from "pryamo", "right, really") alongside "kak" ("how") to shape the meaning.
+- 'Could you perhaps speak with me after all?' Vika checks warmly toward Nastya here, using "mozhet" (from "moch", "can") alongside "byt" ("be") to shape the meaning.
+- 'My boss is a huge fan of exotic cuisine.' Nastya offers a playful posture across the room, combining "boss" ("boss") and "bolshoy" ("big") so the key meaning lands right away.
+- 'You see, we do not have turtle soup on our menu.' Vika conveys a measured direction in the room, pairing "ponimayete" ("do you understand") with "menyu" ("menu") to get the point across in plain spoken Russian.
+- 'We are a French restaurant.' Nastya takes a serious tack in their talk, linking "frantsuzskiy" ("French"), "restoran" ("restaurant"), and "nas" ("us") in one brisk exchange.
+- 'We already took care of that.' Vika offers a direct position across the room, linking "pozabotilis" ("to take care of"), "my" ("we"), and "ob" ("about") in one brisk exchange.
+- 'I understand.' Nastya projects a brisk note right away, building the phrase around "ponimayu" ("understand") and "ya" ("I") for a crisp, natural delivery.
+- 'The thing is.' Vika conveys a brisk tone in the scene, putting "delo" ("matter") alongside "tom" ("that") in a tight, everyday turn of phrase.
+- 'Think about it very carefully.' Nastya conveys a thoughtful angle straight away, using "podumayte" (from "podumat", "think") alongside "khoroshenko" ("properly, thoroughly") to shape the meaning.
+- 'Either a generous tip, or big problems.' Vika sets a thoughtful posture beside Nastya, putting "chayevyye" ("tips") alongside "bolshiye" ("big, serious") in a tight, everyday turn of phrase.
+- 'Well, figure something out.' Nastya picks a thoughtful line for Vika, combining "pridumay" ("think up, figure out") and "nu" ("oh, come on") so the key meaning lands right away.

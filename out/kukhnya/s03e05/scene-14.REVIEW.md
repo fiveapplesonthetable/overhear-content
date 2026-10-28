@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to talk with you.' Once he wanted to talk with Nagiyev, Max can finally tell Nagiyev what he means. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Well wonderful, let us talk.' Adding that wonderful let them talk fills in the missing piece for Max. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Have a seat right here, please.' Saying that have a seat right here please is how Nagiyev sets the tone with Max.
-- 'I decided to court Victoria Sergeyevna.' Since he decided to court Victoria Sergeyevna, Nagiyev does not waste words on excuses.
-- 'Yes, I already noticed that.' Around the kitchen and situation, Max sets a calm, everyday tone with Nagiyev. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I noticed that you noticed.' Turning from the shift to the conversation, Nagiyev keeps the exchange moving.
-- 'I invited her to Paris.' Over the shift and the moment, Nagiyev answers Max without a second thought.
-- 'And she refused to fly with me.' Between the shift and the work, Nagiyev gives Max a quick, grounded response.
-- 'Wait, how did she refuse?' Here asking how she refuse shows Max looking for the real truth.
-- 'I had the exact same foolish expression on my face.' Claiming that he had the exact same foolish expression on his face sounds confident, even if Max has doubts. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'She simply went and refused right away.' Pointing out that she simply went and refused right away gives Max a sobering reality check.
-- 'And when exactly did she refuse?' Asking whether when exactly did she refuse puts Nagiyev right on the defensive.
-- 'I offered, and she immediately refused.' Between the moment and the kitchen, Nagiyev gives Max a quick, grounded response.
+- 'I wanted to talk with you.' Max brings a warm attitude at this moment, putting "khotel" ("wanted") alongside "pogovorit" ("to talk") in a tight, everyday turn of phrase.
+- 'Well wonderful, let us talk.' Nagiyev shares a grounded bearing as they talk, anchoring the Russian line on "zamechatelno" ("wonderful") and "davay" ("let's") without extra filler.
+- 'Have a seat right here, please.' Nagiyev favors a calm course beside Max, pairing "prisazhivaysya" ("to take a seat") with "syuda" ("here") so the "-sya" ending carries the action.
+- 'I decided to court Victoria Sergeyevna.' Nagiyev strikes an earnest course with Max, weaving "poukhazhivat" ("court, woo") together with "reshil" ("has decided") just the way native speakers do.
+- 'Yes, I already noticed that.' Max adopts an easygoing style beside Nagiyev, joining "uzhe" ("already, now") to "zametil" ("noticed") so every word pulls its weight.
+- 'I noticed that you noticed.' Nagiyev sets a natural stance during the exchange, putting "zametil" ("noticed") alongside "ya" ("I") in a tight, everyday turn of phrase.
+- 'I invited her to Paris.' Nagiyev projects a natural direction for Max, joining "priglasil" ("invited") to "ya" ("I") so every word pulls its weight.
+- 'And she refused to fly with me.' Nagiyev picks a measured approach in the scene, anchoring the Russian line on "otkazalas" ("refused") and "letet" ("fly") without extra filler.
+- 'Wait, how did she refuse?' Max asks warmly as they speak, weaving "podozhdite" ("wait") together with "kak" ("how") just the way native speakers do.
+- 'I had the exact same foolish expression on my face.' Nagiyev strikes a natural angle on the spot, pairing "glupoye" ("silly, foolish") with "vyrazheniye" ("expression") to get the point across in plain spoken Russian.
+- 'She simply went and refused right away.' Nagiyev conveys a sharp style during the exchange, weaving "prosto" ("just") together with "vzyala" ("took") just the way native speakers do.
+- 'And when exactly did she refuse?' Max wonders wryly without a pause, leaning on "kogda" ("when") before closing the thought with "otkazalas" ("refused").
+- 'I offered, and she immediately refused.' Nagiyev conveys a candid note straight away, joining "predlozhil" ("suggested") to "srazu" ("at once") so every word pulls its weight.

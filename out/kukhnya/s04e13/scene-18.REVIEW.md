@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Please, take a napkin, I beg you.' Realizing that Nastya should take a napkin he begs Nastya changes how the guest handles the situation. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Well, that is enough, dear, stop crying like that.' The guest mentions that that is enough dear stop crying like so Nastya sees what is at stake.
-- 'I understand you, I went through this myself.' Pointing out that he understands Nastya he went through this himself gives Nastya a sobering reality check. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'I have not seen my husband for over a year.' The guest explains that he has not seen his husband for over a year, keeping his voice calm and direct.
-- 'Did he also cheat on you constantly?' Here checking whether he also cheat on the guest constantly shows Vika looking for the real truth.
-- 'No, dear, my husband has already died.' Realizing that dear his husband has already died changes how the guest handles the situation.
-- 'But during his life he constantly cheated on me!' Around the plan and tears, the guest makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'He was a terrible womanizer to me.' Even though he was a terrible womanizer to him, the guest keeps a steady face in front of Nastya.
-- 'That is why I got myself a little dog.' Admitting that that is why he got himself a little dog shows the guest being honest for a change.
-- 'One wants to give one's love to at least someone.' Saying that one wants to give one love to at least someone is how the guest sets the tone with Nastya.
-- 'Girls, there is going to be a real flood here right now!' Because girls there is going to be a real flood here right now, Nastya does not bother softening the blow for the guest.
-- 'Thank you for the kind words.' With the plan and tears in play, Vika keeps this short reply brisk and direct. Notice how she sticks to the formal "you", keeping a professional line between them.
+- 'Please, take a napkin, I beg you.' The guest brings a direct manner for Nastya, putting "vozmite" ("take") alongside "salfetku" ("napkin") in a tight, everyday turn of phrase.
+- 'Well, that is enough, dear, stop crying like that.' The guest favors a warm view at this moment, weaving "dorogaya" ("expensive") together with "khvatit" ("enough") just the way native speakers do.
+- 'I understand you, I went through this myself.' The guest chooses a resolute bearing in this beat, putting "ponimayu" ("understand") alongside "proshla" ("went, passed") in a tight, everyday turn of phrase.
+- 'I have not seen my husband for over a year.' The guest picks an honest tone in their talk, pairing "muzha" ("husband") with "bolshe" ("more") to get the point across in plain spoken Russian.
+- 'Did he also cheat on you constantly?' Vika inquires firmly to make the point, putting "tozhe" ("too") alongside "postoyanno" ("constantly") in a tight, everyday turn of phrase.
+- 'No, dear, my husband has already died.' The guest sets a measured direction at this moment, putting "dorogaya" ("expensive") alongside "muzh" ("husband") in a tight, everyday turn of phrase.
+- 'But during his life he constantly cheated on me!' The guest picks an emphatic manner in the room, pairing "zhizni" ("life") with "postoyanno" ("constantly") to get the point across in plain spoken Russian.
+- 'He was a terrible womanizer to me.' The guest brings a lively footing in front of Vika, putting "byl" ("was") alongside "strashnym" ("terrible, scary") in a tight, everyday turn of phrase.
+- 'That is why I got myself a little dog.' The guest sustains a brisk approach beside Nastya, linking "poetomu" ("that's why"), "sobachku" ("little dog"), and "zavela" ("to acquire") in one brisk exchange.
+- 'One wants to give one's love to at least someone.' The guest keeps a candid mood for Vika, putting "khochetsya" ("want, feel like") alongside "podarit" ("give as a gift") in a tight, everyday turn of phrase.
+- 'Girls, there is going to be a real flood here right now!' Nastya sets a calm posture across the room, combining "devochki" ("girl's") and "seychas" ("now") so the key meaning lands right away.
+- 'Thank you for the kind words.' Vika sets a measured tone at this moment, joining "spasibo" ("thank you") to "dobryye" ("good, kind") so every word pulls its weight.

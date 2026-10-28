@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today is a scheduled check for alcohol.' Adding that today is a scheduled check for alcohol fills in the missing piece for Barinov.
-- 'Listen, drink a little olive oil.' Because Gulya should drink a little olive oil, Barinov treats the matter as settled.
-- 'It always helps wonderfully.' Since it always helps wonderfully, Barinov does not waste words on excuses.
-- 'Now you, go ahead and blow.' Mentioning that Barinov goes ahead and blow moves the talk in a new direction. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'And what is going on here with you?' Wondering what going on here with Gulya is is how Barinov puts Gulya on the spot. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'This is a new order from management.' Because this is a new order from management, Mikhail treats the matter as settled.
-- 'Well, if management ordered us.' Between the guest and the conversation, Barinov gives Gulya a quick, grounded response.
-- 'Mikhail, show us a personal example.' Saying that Gulya should show them a personal example is how Barinov sets the tone with Gulya.
-- 'Blow into this tube yourself.' Around the guest and truth, Barinov sets a calm, everyday tone with Gulya.
-- 'And I already blew today.' With the kitchen and surprise in play, Mikhail keeps this short reply brisk and direct.
-- 'I still have to inspect the whole hotel.' Mikhail explains that he still has to inspect the whole hotel, keeping his voice calm and direct.
-- 'Has anyone seen where all the carts are?' Here checking whether anyone seen where all the carts are shows Gulya looking for the real truth.
-- 'Denis, can you help me, please?' By asking whether Barinov helps her please, Gulya presses Barinov for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Thank you, here is the key card for you.' Even though here is the key card for Barinov, Gulya keeps a steady face in front of Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Today is a scheduled check for alcohol.' Mikhail maintains a brisk rhythm during the exchange, building the phrase around "segodnya" ("today") and "planovaya" ("scheduled") for a crisp, natural delivery.
+- 'Listen, drink a little olive oil.' Barinov adopts an easygoing tone in this beat, anchoring the Russian line on "slushay" ("listen") and "vypey" ("drink") without extra filler.
+- 'It always helps wonderfully.' Barinov brings a measured mood across the room, pairing "vsegda" ("always") with "otlichno" ("perfect, great") to get the point across in plain spoken Russian.
+- 'Now you, go ahead and blow.' Mikhail offers an easygoing approach in the scene, leaning on "teper" ("now") before closing the thought with "davay" ("let's").
+- 'And what is going on here with you?' Barinov questions frankly without a pause, anchoring the Russian line on "tut" ("here") and "proiskhodit" ("is going on") without extra filler.
+- 'This is a new order from management.' Mikhail maintains a playful style straight away, weaving "novoye" ("new") together with "rasporyazheniye" ("order") just the way native speakers do.
+- 'Well, if management ordered us.' Barinov establishes a sharp course in this beat, joining "nachalstvo" ("management") to "prikazalo" ("ordered") so every word pulls its weight.
+- 'Mikhail, show us a personal example.' Barinov shares a wry stance in front of Mikhail, pairing "pokazhite" ("show") with "lichnyy" ("personal") to get the point across in plain spoken Russian.
+- 'Blow into this tube yourself.' Barinov adopts a sharp tempo at this moment, putting "duyte" ("to blow") alongside "trubochku" ("breathalyzer tube") in a tight, everyday turn of phrase.
+- 'And I already blew today.' Mikhail sets a wry tempo across the room, leaning on "segodnya" ("today") before closing the thought with "uzhe" ("already, now").
+- 'I still have to inspect the whole hotel.' Mikhail brings a frank bearing at once, joining "yeshchyo" ("more, still") to "otel" ("hotel") so every word pulls its weight.
+- 'Has anyone seen where all the carts are?' Gulya inquires naturally at this point, linking "videl" ("saw, have seen"), "gde" ("where"), and "telezhki" ("carts, trolleys") in one brisk exchange.
+- 'Denis, can you help me, please?' Gulya checks candidly to keep things clear, building the phrase around "mozhesh" ("can") and "pomoch" ("to help") for a crisp, natural delivery.
+- 'Thank you, here is the key card for you.' Gulya shows a candid course in the room, leaning on "spasibo" ("thank you") before closing the thought with "kartochka" ("key card").

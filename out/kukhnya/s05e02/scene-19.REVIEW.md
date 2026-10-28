@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I did not expect something like this from you.' Eleonora tells Denis that she did not expect something like this from Denis without dressing it up.
-- 'You get a fine of one month's salary.' Because Denis gets a fine of one month salary, Eleonora treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Pass the exact same thing on to our chef.' Passing the exact same thing is how Eleonora lays out the situation for Denis.
-- 'Yes, please, come in.' Between the point and the office, Eleonora gives Denis a quick, grounded response.
-- 'Katya, I need to tell you something.' Once he needs to tell Eleonora something, Denis can finally tell Eleonora what he means. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Mom, wait one minute.' With the plan and office in play, Katya keeps this short reply brisk and direct.
-- 'Earlier there was no convenient moment.' Katya explains that earlier there was no convenient moment, keeping her voice calm and direct.
-- 'Please, get acquainted now.' Here getting acquainted now sets up the next turn in their exchange.
-- 'Denis, this is my mom.' Around the plan and office, Katya sets a calm, everyday tone with Denis. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Mom, this is my boyfriend Denis.' Even though Mom this is her boyfriend Denis, Katya keeps a steady face in front of Denis.
-- 'Very nice to meet you, Denis.' Between the plan and the office, Eleonora gives Denis a quick, grounded response.
-- 'Very nice to meet you too.' With the office and moment in play, Denis keeps this short reply brisk and direct.
+- 'I did not expect something like this from you.' Eleonora sets a direct tone for Denis, leaning on "ozhidala" ("to expect, to wait for") before closing the thought with "ot" ("from").
+- 'You get a fine of one month's salary.' Eleonora sustains a natural bearing with Katya, anchoring the Russian line on "shtraf" ("fine") and "razmere" ("in the amount") without extra filler.
+- 'Pass the exact same thing on to our chef.' Eleonora displays a lively view across the room, leaning on "samoye" ("the most") before closing the thought with "pereday" ("pass on, give").
+- 'Yes, please, come in.' Eleonora establishes a frank course in the room, pairing "zakhodite" ("come in") with "da" ("yes") to get the point across in plain spoken Russian.
+- 'Katya, I need to tell you something.' Denis offers an honest stance toward Eleonora, putting "nado" ("it is necessary") alongside "skazat" ("tell") in a tight, everyday turn of phrase.
+- 'Mom, wait one minute.' Katya sustains a direct tack in their talk, linking "mama" ("mum, mother"), "podozhdi" ("wait"), and "minutu" ("a minute") in one brisk exchange.
+- 'Earlier there was no convenient moment.' Katya offers a measured mood as the scene unfolds, combining "ranshe" ("earlier, previously") and "bylo" ("was") so the key meaning lands right away.
+- 'Please, get acquainted now.' Katya sustains a playful position on the spot, leaning on "znakomtes" ("meet") before closing the thought with "seychas" ("now").
+- 'Denis, this is my mom.' Katya takes a playful angle during the exchange, pairing "denis" ("Denis") with "mama" ("mum, mother") so the "-sya" ending carries the action.
+- 'Mom, this is my boyfriend Denis.' Katya adopts a frank view in the scene, pairing "denis" ("Denis") with "mama" ("mum, mother") so the "-sya" ending carries the action.
+- 'Very nice to meet you, Denis.' Eleonora strikes a thoughtful tone in their talk, linking "ochen" ("very much"), "priyatno" ("pleasant"), and "poznakomitsya" ("to meet") in one brisk exchange.
+- 'Very nice to meet you too.' Denis maintains a grounded posture at once, linking "tozhe" ("too"), "ochen" ("very much"), and "priyatno" ("pleasant") in one brisk exchange.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, please make a pot of tea.' By making a pot of tea, Max keeps his side of the story grounded.
-- 'Hey there, Max.' With the shift and peace in play, Kostya keeps this short reply brisk and direct.
-- 'Listen, Sashulya, please forgive me.' Over the shift and the peace, Sasha answers Kostya without a second thought. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I have thought everything through.' Because he has thought everything, Max treats the matter as settled.
-- 'Of course it is foolish to be jealous of you over Ilya.' Saying that it is foolish to be jealous of Max over Ilya is how Kostya sets the tone with Max. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'The past stays in the past.' Since the past stays in the past, Sasha does not waste words on excuses.
-- 'Will you forgive me?' By checking whether Kostya forgives him, Max presses Kostya for a straight answer.
-- 'I am still upset with you.' Once he is still upset with Max, Kostya can finally tell Max what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'But I am not holding a grudge.' Noting that she is not holding a grudge keeps Sasha's side of the story simple and clear.
-- 'This is for you.' Explaining that this is for Kostya lays the cards on the table for Kostya.
-- 'Sasha, let us tell Max everything.' Mentioning that they should tell Max everything moves the talk in a new direction. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'What are you two discussing?' Wondering what Kostya two discussing is cuts straight through the tension between Sasha and Kostya. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Kostya, please make a pot of tea.' Max favors a pointed approach in front of Kostya, using "delay" (from "delat", "do") alongside "chaynik-chay" ("teapot, kettle") to shape the meaning.
+- 'Hey there, Max.' Kostya strikes an emphatic course with Sasha, anchoring the Russian line on "privet" ("hi") and "maks" ("Max") without extra filler.
+- 'Listen, Sashulya, please forgive me.' Sasha picks a measured view as they talk, combining "slushay" ("listen") and "prosti" ("sorry, forgive me") so the key meaning lands right away.
+- 'I have thought everything through.' Max establishes an emphatic mood without hesitation, leaning on "osoznal" ("to realize") before closing the thought with "no" ("but").
+- 'Of course it is foolish to be jealous of you over Ilya.' Kostya brings a brisk rhythm beside Max, combining "konechno" ("of course") and "glupo" ("stupid") so the key meaning lands right away.
+- 'The past stays in the past.' Sasha offers a frank course in their talk, linking "proshloye" ("last, past"), "ostalos" ("was left"), and "proshlom" ("last, past") in one brisk exchange.
+- 'Will you forgive me?' Max prompts lightly with Kostya now, pairing "prostish" ("to forgive") with "menya" ("me") to get the point across in plain spoken Russian.
+- 'I am still upset with you.' Kostya presents a calm footing across the room, leaning on "obizhena" ("offended, hurt") before closing the thought with "ya" ("I").
+- 'But I am not holding a grudge.' Sasha presents a calm tone in their talk, pairing "zla" ("evil, harm") with "derzhu" ("keep, hold") to get the point across in plain spoken Russian.
+- 'This is for you.' Max picks a warm tack for Sasha, placing "eto" ("this") straight beside "tebe" ("for you, to you") with no word for "to be" needed.
+- 'Sasha, let us tell Max everything.' Kostya conveys a natural line without hesitation, using "davay" (from "davat", "let's") alongside "rasskazhem" ("to tell") to shape the meaning.
+- 'What are you two discussing?' Sasha challenges plainly in their exchange, joining "obsuzhdayete" ("to discuss") to "chto" ("what") so every word pulls its weight.

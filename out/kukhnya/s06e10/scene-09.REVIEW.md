@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, wake up and get out of bed quickly.' Telling the doctor to wake up and get out of bed quickly is how Gulya lays out the situation for the doctor.
-- 'Tell me, are you going to the shower right now this morning?' Wondering if tell her are the doctor going to the shower right now this morning shows Gulya caught off guard.
-- 'I specially saved a spot in line for you there in advance.' With the apartment and hotel in play, Gulya keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Come on, run quickly, you are third in line right now.' Mentioning that the doctor should come on run quickly the doctor is third in line right now moves the talk in a new direction. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'I need to urgently look for an apartment today!' Declaring that he needs to urgently look for an apartment today brings Lyova's temper right to the surface.
-- 'Tell me, do you feel at least a little better right now?' The doctor asks whether tell him do Gulya feels at least a little better right now, refusing to let the point slide. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Or maybe we will take the opposite approach?' Asking whether maybe they will take the opposite approach puts Gulya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Try to calmly understand and forgive your husband.' Here telling Gulya to try to calmly understand and forgive Gulya's husband sets up the next turn in their exchange.
-- 'Still, it was a big mistake for me to hire you back!' Declaring that still it was a big mistake for her to hire the doctor back brings Gulya's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'The most important thing is to exclude the ex-husband from her life.' Mentioning that the most important thing is to exclude the ex husband from her life moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'So that she does not see him either in magazines or on television.' The doctor reminds Gulya that that she does not see him either in magazines or on television before the moment passes.
-- 'Otherwise it will simply be unsafe for everyone.' Because otherwise it will simply be unsafe for everyone, the doctor treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Lyova, wake up and get out of bed quickly.' Gulya takes a natural manner right away, putting "prosypaysya" ("wake up") alongside "vstavay" ("get up, stand up") in a tight, everyday turn of phrase.
+- 'Tell me, are you going to the shower right now this morning?' Gulya wonders earnestly to Lyova here, using "skazhi" (from "skazat", "say") alongside "seychas" ("now") to shape the meaning.
+- 'I specially saved a spot in line for you there in advance.' Gulya shares a warm course during the exchange, linking "tam" ("there"), "spetsialno" ("on purpose"), and "ochered" ("turn in the queue") in one brisk exchange.
+- 'Come on, run quickly, you are third in line right now.' Gulya picks a grounded course on the spot, linking "davay" ("let's"), "begi" ("run"), and "skoreye" ("quickly, right away") in one brisk exchange.
+- 'I need to urgently look for an apartment today!' Lyova holds a measured position in the conversation, anchoring the Russian line on "nado" ("it is necessary") and "segodnya" ("today") without extra filler.
+- 'Tell me, do you feel at least a little better right now?' The doctor checks evenly during the talk, building the phrase around "skazhite" ("tell") and "seychas" ("now") for a crisp, natural delivery.
+- 'Or maybe we will take the opposite approach?' The doctor challenges earnestly from the start, building the phrase around "mozhet" ("can") and "byt" ("be") for a crisp, natural delivery.
+- 'Try to calmly understand and forgive your husband.' The doctor brings a brisk line for Lyova, putting "poprobuyte" ("try, taste") alongside "spokoyno" ("calmly") in a tight, everyday turn of phrase.
+- 'Still, it was a big mistake for me to hire you back!' Gulya takes a firm position during the exchange, linking "ochen" ("very much"), "zrya" ("for nothing"), and "nazad" ("ago") in one brisk exchange.
+- 'The most important thing is to exclude the ex-husband from her life.' The doctor picks a clear style toward Lyova, leaning on "samoye" ("the most") before closing the thought with "glavnoye" ("important").
+- 'So that she does not see him either in magazines or on television.' The doctor holds an unhurried attitude toward Gulya, using "zhurnalakh" (from "zhurnal", "log, register") alongside "televizoru" ("television") to shape the meaning.
+- 'Otherwise it will simply be unsafe for everyone.' The doctor chooses a thoughtful style in the conversation, pairing "inache" ("otherwise") with "budet" ("will be") to get the point across in plain spoken Russian.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Monsieur, this wine is just right for dinner.' Adding that monsieur this wine is just right for dinner fills in the missing piece for Max.
-- 'It was specially created to delight women.' Louis tells Max that it was specially created to delight women without dressing it up.
-- 'But after all this wine is sitting at the bar.' Since after all this wine is sitting at the bar, Max does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Take this bottle tonight, Maksim.' Taking this bottle tonight Maksim is how Louis lays out the situation for Max.
-- 'And tomorrow buy Konstantin the exact same bottle.' Over the work and the wine, Louis answers Max without a second thought.
-- 'And then nobody will notice anything at all.' Because nobody will notice anything at all, Louis treats the matter as settled. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Thank you, Louis, you helped me a lot!' Declaring that Louis helped him a lot brings Max's temper right to the surface.
-- 'Senya, take a tasty dessert in exchange for your kidneys.' Because Louis should take a tasty dessert in exchange for Louis's kidneys, Max treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'All right, restaurant menace, take the fresh kidneys.' Around the work and wine, Senya sets a calm, everyday tone with Louis.
-- 'Tonight we will have a wonderful dinner.' Pointing out that tonight they will have a wonderful dinner gives Louis a sobering reality check.
-- 'Just make sure you do not overcook them in the pan.' Senya explains that just make sure Louis does not overcook them in the pan, keeping his voice calm and direct.
-- 'Do not worry, I will cook everything perfectly!' Insisting that do not worry he will cook everything perfectly shows Max is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Monsieur, this wine is just right for dinner.' Louis presents a wry note with Max, linking "mesye" ("monsieur"), "vino" ("wine"), and "kak" ("how") in one brisk exchange.
+- 'It was specially created to delight women.' Louis chooses a candid angle across the room, pairing "spetsialno" ("on purpose") with "sozdano" ("delight") to get the point across in plain spoken Russian.
+- 'But after all this wine is sitting at the bar.' Max shares a direct tone at once, anchoring the Russian line on "vino" ("wine") and "lezhit" ("is lying") without extra filler.
+- 'Take this bottle tonight, Maksim.' Louis offers a serious stance toward Senya, linking "vozmite" ("take"), "butylku" ("a bottle"), and "segodnya" ("today") in one brisk exchange.
+- 'And tomorrow buy Konstantin the exact same bottle.' Louis establishes a wry mood across the room, putting "zavtra" ("tomorrow") alongside "kupite" ("buy") in a tight, everyday turn of phrase.
+- 'And then nobody will notice anything at all.' Louis brings a sharp manner toward Senya, joining "togda" ("back then") to "sovsem" ("at all") so every word pulls its weight.
+- 'Thank you, Louis, you helped me a lot!' Max shows an unhurried view straight away, combining "spasibo" ("thank you") and "ochen" ("very much") so the key meaning lands right away.
+- 'Senya, take a tasty dessert in exchange for your kidneys.' Max sets a sharp style as they talk, anchoring the Russian line on "derzhi" ("here you go") and "vkusnyy" ("delicious") without extra filler.
+- 'All right, restaurant menace, take the fresh kidneys.' Senya holds an honest stance in this beat, joining "restorannyy" ("restaurant") to "vreditel" ("restaurant") so every word pulls its weight.
+- 'Tonight we will have a wonderful dinner.' Max shares a serious posture in their talk, leaning on "u nas" ("by us, at our place") and "segodnya" ("today") the way natural Russian does.
+- 'Just make sure you do not overcook them in the pan.' Senya chooses a lively stance beside Louis, combining "smotri" ("look") and "tolko" ("only") so the key meaning lands right away.
+- 'Do not worry, I will cook everything perfectly!' Max holds a natural mood for Senya, pairing "volnuysya" ("worry") with "prigotovlyu" ("will prepare") to get the point across in plain spoken Russian.

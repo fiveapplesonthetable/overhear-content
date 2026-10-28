@@ -12,12 +12,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Макс | Так я знал, что ей понравится. | I knew she would like it. | #75: Так я знал, что ей понравится | verbatim |
 | 2 | Шеф | Подробностях. Так я знал. | In full detail. Just as I knew. | #75: подробностях. Так я знал | verbatim |
-| 3 | Настя | Я же сказал, медленно и в подробностях. | I told you, slowly and in full detail. | #78: Я же сказал, медленно и в подробностях | verbatim |
+| 3 | Макс | Я же сказал, медленно и в подробностях. | I told you, slowly and in full detail. | #78: Я же сказал, медленно и в подробностях | verbatim |
 | 4 | Макс | Да не вопрос. | No problem at all. | #79: Да не вопрос | verbatim |
 | 5 | Шеф | Социальная сеть. | It is a social network. | #79: социальная сеть | verbatim |
 | 6 | Настя | А вот комментарий к ее фотографиям. | And here is a comment under her photographs. | #81: А вот комментарий к ее фотографиям | verbatim |
 | 7 | Макс | Баран. Вообще-то он. | What a sheep. Actually, he is. | #84: Баран. Вообще-то он | verbatim |
-| 8 | Шеф | Шеф, хотите я вас зарегистрирую? | Chef, would you like me to register an account for you? | #85: Шеф, хотите я вас зарегистрирую | verbatim |
+| 8 | Настя | Шеф, хотите я вас зарегистрирую? | Chef, would you like me to register an account for you? | #85: Шеф, хотите я вас зарегистрирую | verbatim |
 | 9 | Настя | Баран. Шеф? | A sheep. Chef? | #85: Баран. Шеф | verbatim |
 | 10 | Макс | На свидание пригласите по сети, а? | You can ask her out on a date online, huh? | #87: На свидание пригласите по сети, а | verbatim |
 | 11 | Шеф | Второй пошел вон за полдня. | That is the second 'get out' in half a day. | #90: Второй пошел вон за полдня | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I knew she would like it.' Once he knew she would like it, Max can finally tell Barinov what he means.
-- 'In full detail. Just as I knew.' With the conversation and room in play, Barinov keeps this short reply brisk and direct.
-- 'I told you, slowly and in full detail.' Nastya tells Barinov that she told Barinov slowly and in full detail without dressing it up.
-- 'No problem at all.' With the work and shift in play, Max keeps this short reply brisk and direct.
-- 'It is a social network.' Mentioning that it is a social network moves the talk in a new direction.
-- 'And here is a comment under her photographs.' Nastya reminds Barinov that here is a comment under her photographs before the moment passes.
-- 'What a sheep. Actually, he is.' With the work and truth in play, Max keeps this short reply brisk and direct.
-- 'Chef, would you like me to register an account for you?' By checking whether Max likes him to register an account for Max, Barinov presses Max for a straight answer. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'A sheep. Chef?' With the truth and conversation hanging in the air, Nastya puts Barinov on the spot.
-- 'You can ask her out on a date online, huh?' When Max asks if Barinov can ask her out on a date online huh, Barinov has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'That is the second 'get out' Pointing out that that is the second out gives Max a sobering reality check.
-- 'Not on any network.' Over the point and the conversation, Nastya answers Barinov without a second thought.
-- 'You have to ask women out on a date the good old-fashioned way.' Realizing that Barinov has to ask women out on a date the good old way changes how Max handles the situation. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'I knew she would like it.' Max maintains a resolute tempo toward Barinov, leaning on "znal" ("knew") before closing the thought with "ponravitsya" ("will please").
+- 'In full detail. Just as I knew.' Barinov offers a steady angle without hesitation, using "podrobnostyakh" (from "podrobnost", "detail") alongside "znal" ("knew") to shape the meaning.
+- 'I told you, slowly and in full detail.' Max presents a lively tone in their talk, anchoring the Russian line on "skazal" ("said") and "medlenno" ("slowly") without extra filler.
+- 'No problem at all.' Max displays a resolute style during the exchange, pairing "vopros" ("question, matter") with "da" ("yes") so the "-sya" ending carries the action.
+- 'It is a social network.' Barinov brings a clear attitude across the room, putting "sotsialnaya" ("social") alongside "set" ("net, network") in a tight, everyday turn of phrase.
+- 'And here is a comment under her photographs.' Nastya holds a brisk attitude in this beat, building the phrase around "kommentariy" ("comment") and "fotografiyam" ("photograph") for a crisp, natural delivery.
+- 'What a sheep. Actually, he is.' Max chooses an earnest line with Barinov, pairing "baran" ("sheep") with "voobshche-to" ("actually") to get the point across in plain spoken Russian.
+- 'Chef, would you like me to register an account for you?' Nastya inquires lightly for Max's benefit, putting "khotite" ("want") alongside "zaregistriruyu" ("to register") in a tight, everyday turn of phrase.
+- 'A sheep. Chef?' Nastya challenges directly to make the point, anchoring the Russian line on "baran" ("sheep") and "shef" ("Chef") without extra filler.
+- 'You can ask her out on a date online, huh?' Max challenges pointedly for Nastya's benefit, joining "svidaniye" ("date") to "priglasite" ("call in, invite") so every word pulls its weight.
+- 'That is the second 'get out' Barinov projects a serious course in the conversation, pairing "vtoroy" ("second") with "poshel" ("go, off you go") to get the point across in plain spoken Russian.
+- 'Not on any network.' Nastya sustains a playful tack in this beat, leaning on "seti" ("nets") before closing the thought with "ni" ("not even, nor").
+- 'You have to ask women out on a date the good old-fashioned way.' Max establishes a playful view as they talk, anchoring the Russian line on "zhenshchin" ("women") and "nado" ("it is necessary") without extra filler.

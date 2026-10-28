@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not understand, what is going on here?' With the plan and friend hanging in the air, Senya puts Fedya on the spot.
-- 'I did not understand either!' Declaring that she did not understand either brings Gulya's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'He started kissing me himself!' Gulya insists that he started kissing her himself, leaving Fedya no room to argue. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'He was talking about some boat too, Senya.' Noting that he was talking about some boat keeps Gulya's side of the story simple and clear.
-- 'Shut your mouth!' Senya insists that Fedya should shut Fedya's mouth, leaving Fedya no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'What a day this has turned out to be.' Explaining that what a day this has turned out to be lays the cards on the table for Fedya.
-- 'I lost both a friend and a wife.' Senya mentions that he lost both a friend and a wife so Fedya sees what is at stake.
-- 'Senya, stop it, help!' Stopping it help is Fedya's blunt reaction in front of Gulya. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Senechka, he started it himself!' Declaring that someone he started it himself brings Gulya's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Everything is fine, everything is fine.' Gulya explains that everything is fine everything is fine, keeping her voice calm and direct.
-- 'Senechka, my darling, little bunny, listen.' Over the point and the friend, Gulya answers Fedya without a second thought.
-- 'Quit this job right now!' Quitting this job right now shows Senya is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'I do not understand, what is going on here?' Senya asks steadily in their exchange, weaving "ponyal" ("understood") together with "zdes" ("here") just the way native speakers do.
+- 'I did not understand either!' Gulya offers a warm stance straight away, combining "tozhe" ("too") and "ponyala" ("understood") so the key meaning lands right away.
+- 'He started kissing me himself!' Gulya favors a direct tack straight away, weaving "stal" ("to become") together with "tselovat" ("to kiss") just the way native speakers do.
+- 'He was talking about some boat too, Senya.' Gulya displays a serious position without hesitation, combining "yeshchyo" ("more, still") and "barkas" ("launch, boat") so the key meaning lands right away.
+- 'Shut your mouth!' Senya favors a wry course with Fedya, pairing "rot" ("mouth") with "zakroy" ("shut, close") to get the point across in plain spoken Russian.
+- 'What a day this has turned out to be.' Senya picks a direct position at this moment, putting "denyok" ("day, little day") alongside "vydalsya" ("to day") in a tight, everyday turn of phrase.
+- 'I lost both a friend and a wife.' Senya holds an honest posture at once, using "druga" (from "drug", "the friend") alongside "poteryal" ("lost") to shape the meaning.
+- 'Senya, stop it, help!' Fedya picks a calm note in this beat, pairing "prekrati" ("stop it") with "pomogite" ("help") to get the point across in plain spoken Russian.
+- 'Senechka, he started it himself!' Gulya takes a grounded stance with Fedya, linking "nachal" ("started"), "senechka" ("Senechka"), and "on" ("he") in one brisk exchange.
+- 'Everything is fine, everything is fine.' Gulya conveys a brisk bearing as they talk, anchoring the Russian line on "normalno" ("fine, OK") and "nu" ("oh, come on") without extra filler.
+- 'Senechka, my darling, little bunny, listen.' Gulya projects a calm note without hesitation, linking "milyy" ("darling"), "zaychik" ("little bunny"), and "poslushay" ("listen") in one brisk exchange.
+- 'Quit this job right now!' Senya projects an unhurried line in the scene, weaving "uvolnyaysya" ("quit, resign") together with "otsyuda" ("from here") just the way native speakers do.

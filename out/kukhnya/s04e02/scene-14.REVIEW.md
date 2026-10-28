@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sorry that I left. I let everyone down.' Once that he left, Max can finally tell Lyova what he means.
-- 'But I am ready to fix everything.' Being ready to fix everything moves the conversation forward without extra drama.
-- 'Here, meet Denis, my brother.' With the point and exchange in play, Max keeps this short reply brisk and direct.
-- 'Let's take him on for vegetable prep, huh?' Wondering if they should take him on for vegetable prep huh shows Max caught off guard. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Lyova, you said yourself that we are short-handed.' Mentioning that Lyova said themselves that they are short handed moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And he is a responsible person.' Here being a responsible person sets up the next turn in their exchange.
-- 'And what about work experience?' Over the point and the exchange, Lyova presses Max for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, he worked as a cook at the best restaurant in Voronezh.' Explaining that he worked as a cook at the best restaurant in Voronezh lays the cards on the table for Lyova.
-- 'So he can definitely handle prep work, right?' Max asks whether he can definitely handle prep work right, refusing to let the point slide.
-- 'I don't know, I need to ask first.' Because he does not know he needs to ask first, Lyova treats the matter as settled. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Ask whom? Now you decide everything here.' Wondering if now Lyova decides everything here shows Max caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Alright, let him come tomorrow for a trial period.' Lyova explains that Alright let him come tomorrow for a trial period, keeping his voice calm and direct.
+- 'Sorry that I left. I let everyone down.' Max offers a warm footing for Lyova, building the phrase around "izvini" ("sorry, excuse me") and "uyekhal" ("left, went away") for a crisp, natural delivery.
+- 'But I am ready to fix everything.' Max conveys a thoughtful rhythm at this moment, joining "gotov" ("ready") to "ispravit" ("to fix, to correct") so every word pulls its weight.
+- 'Here, meet Denis, my brother.' Max brings a candid bearing as they talk, using "poznakomsya" (from "poznakomitsya", "to get acquainted") alongside "brat" ("brother") to shape the meaning.
+- 'Let's take him on for vegetable prep, huh?' Max challenges earnestly in front of Lyova, combining the everyday invitation "davay" ("come on, let us") with "vozmyom" ("will take") to give the line its natural spoken rhythm.
+- 'Lyova, you said yourself that we are short-handed.' Max brings a resolute angle at this moment, anchoring the Russian line on "govoril" ("said, were saying") and "ruk" ("arms") without extra filler.
+- 'And he is a responsible person.' Max holds a measured direction as they talk, linking "chelovek" ("a man, a person") directly with "otvetstvennyy" ("responsible"), since Russian drops "is" and "are" in the present.
+- 'And what about work experience?' Lyova challenges wryly to keep things clear, anchoring the Russian line on "opyt" ("experience") and "raboty" ("of work") without extra filler.
+- 'Well, he worked as a cook at the best restaurant in Voronezh.' Max strikes a serious tack across the room, weaving "rabotal" ("worked") together with "povarom" ("as a cook") just the way native speakers do.
+- 'So he can definitely handle prep work, right?' Max presses briskly as the talk turns, putting "zagotovke" ("preparation") alongside "tochno" ("definitely") in a tight, everyday turn of phrase.
+- 'I don't know, I need to ask first.' Lyova projects a firm line at this moment, linking "znayu" ("know"), "nuzhno" ("necessary"), and "sprosit" ("to ask") in one brisk exchange.
+- 'Ask whom? Now you decide everything here.' Max quizzes dryly across the room, joining "sprosit-to" ("whom") to "teper" ("now") so every word pulls its weight.
+- 'Alright, let him come tomorrow for a trial period.' Lyova strikes a frank tempo at once, building the phrase around "zavtra" ("tomorrow") and "prikhodit" ("comes by") for a crisp, natural delivery.

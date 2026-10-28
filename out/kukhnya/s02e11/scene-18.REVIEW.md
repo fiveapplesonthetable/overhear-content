@@ -10,9 +10,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Костя, а у тебя ничего не болит? | Kostya, does anything hurt? | #298: Костя, а у тебя ничего не болит | verbatim |
+| 1 | Родион | Костя, а у тебя ничего не болит? | Kostya, does anything hurt? | #298: Костя, а у тебя ничего не болит | verbatim |
 | 2 | Родион | Моя сломанная рука. | My broken arm. | #299: Моя сломанная рука | verbatim |
-| 3 | Костя | Костя, ну ты артист, а? | Kostya, you really are an actor, huh? | #300: Костя, ну ты | adapted: adapted |
+| 3 | Макс | Костя, ну ты артист, а? | Kostya, you really are an actor, huh? | #300: Костя, ну ты | adapted: adapted |
 | 4 | Родион | Отличный план. | Great plan. | #302: Отличный план | verbatim |
 | 5 | Костя | Ну, друзья, что тут сказать? | Well, friends, what can you say? | #303: что сказать | adapted: adapted |
 | 6 | Родион | Мы просто хотели сделать как лучше. | We just wanted to make things better. | #305: Мы просто хотели сделать как лучше | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, does anything hurt?' Asking whether anything hurt cuts straight through the tension between Kostya and Rodion. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'My broken arm.' With the argument and kitchen in play, Rodion keeps this short reply brisk and direct.
-- 'Kostya, you really are an actor, huh?' Asking whether Rodion really are an actor huh puts Rodion right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Great plan.' With the argument and moment in play, Rodion keeps this short reply brisk and direct.
-- 'Well, friends, what can you say?' Questioning whether friends what can Rodion says is how Kostya tests Rodion's story.
-- 'We just wanted to make things better.' Pointing out that they just wanted to make things better gives Kostya a sobering reality check.
-- 'Better for the two of you?' With the shift and truth hanging in the air, Kostya puts Rodion on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Very manly of you.' Around the kitchen and peace, Rodion sets a calm, everyday tone with Kostya.
-- 'You always risk losing yourself.' With the kitchen and hospital in play, Kostya keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'There is only one way to win someone else's argument.' Even though there is only one way to win someone else argument, Rodion keeps a steady face in front of Kostya. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'To sacrifice yourself.' Around the kitchen and point, Kostya sets a calm, everyday tone with Rodion.
-- 'There are few of them, but they exist.' Saying that there are few of them but they exist is how Rodion sets the tone with Kostya.
-- 'And sometimes you win.' Once sometimes Rodion wins, Kostya can finally tell Rodion what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Kostya, does anything hurt?' Rodion inquires evenly to Kostya here, combining "bolit" ("hurts, aches") and "kostya" ("Kostya") so the key meaning lands right away.
+- 'My broken arm.' Rodion takes a clear tone during the exchange, weaving "slomannaya" ("broken") together with "ruka" ("hand, arm") just the way native speakers do.
+- 'Kostya, you really are an actor, huh?' Max checks bluntly during the talk, anchoring the Russian line on "artist" ("performer") and "kostya" ("Kostya") without extra filler.
+- 'Great plan.' Rodion takes a natural approach on the spot, anchoring the Russian line on "otlichnyy" ("excellent, great") and "plan" ("plan") without extra filler.
+- 'Well, friends, what can you say?' Kostya prompts plainly in their exchange, joining "druzya" ("friends") to "tut" ("here") so every word pulls its weight.
+- 'We just wanted to make things better.' Rodion maintains a thoughtful tack in the conversation, combining the softening word "prosto" ("simply, just") with "khoteli" ("wanted") to give the line its natural spoken rhythm.
+- 'Better for the two of you?' Kostya checks pointedly without a pause, linking "kak" ("how"), "luchshe" ("better"), and "dlya" ("for") in one brisk exchange.
+- 'Very manly of you.' Rodion offers a sharp bearing in this beat, building the phrase around "ochen" ("very much") and "po-muzhski" ("like a man") for a crisp, natural delivery.
+- 'You always risk losing yourself.' Kostya holds a frank direction in the scene, anchoring the Russian line on "vsegda" ("always") and "riskuyesh" ("risk") without extra filler.
+- 'There is only one way to win someone else's argument.' Rodion sets a warm style in front of Max, leaning on "pobedit" ("to win") before closing the thought with "chuzhom" ("someone else's").
+- 'To sacrifice yourself.' Kostya shows an honest manner in the conversation, joining "prinesti" ("to bring, offer") to "zhertvu" ("sacrifice") so every word pulls its weight.
+- 'There are few of them, but they exist.' Rodion adopts an earnest direction toward Max, combining "malo" ("little, not enough") and "yest" ("there is") so the key meaning lands right away.
+- 'And sometimes you win.' Kostya sustains a frank mood in the scene, leaning on "poroy" ("at times, occasionally") before closing the thought with "pobezhdayesh" ("to win, triumph").

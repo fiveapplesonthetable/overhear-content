@@ -19,21 +19,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Макс | Алло, можно заказать билет на поезд до Воронежа? | Hello, may I book a train ticket to Voronezh? | #235: Можно заказать | adapted: adapted |
 | 8 | Макс | Мне нужен один ночной билет на сегодня. | I need one night ticket for today. | #236: Ночной | adapted: adapted |
 | 9 | Макс | Да, мне обязательно нужна быстрая доставка. | Yes, I definitely need fast delivery. | #238: Доставка нужна | adapted: adapted |
-| 10 | Елена | Прекрасно, у вас получился просто прекрасный удар! | Wonderful, you made a simply wonderful shot! | #242: Прекрасно. Прекрасный удар | adapted: adapted |
-| 11 | Елена | Ну что, друзья, пойдём спокойно дальше? | Well then, friends, shall we walk on calmly? | #244: Ну что, пойдем дальше | adapted: adapted |
-| 12 | Елена | Будьте осторожнее, вы такой большой шутник! | Be more careful, you are such a big joker! | #245: Это вы шутник | adapted: adapted |
+| 10 | Нагиев | Прекрасно, у вас получился просто прекрасный удар! | Wonderful, you made a simply wonderful shot! | #242: Прекрасно. Прекрасный удар | adapted: adapted |
+| 11 | Нагиев | Ну что, друзья, пойдём спокойно дальше? | Well then, friends, shall we walk on calmly? | #244: Ну что, пойдем дальше | adapted: adapted |
+| 12 | Нагиев | Будьте осторожнее, вы такой большой шутник! | Be more careful, you are such a big joker! | #245: Это вы шутник | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, maybe we will eat a little later?' Questioning whether maybe they will eat a little later is how Vika tests Elena's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We will eat later, when we actually get hungry.' Because they will eat later when they actually get hungry, Vika treats the matter as settled.
-- 'Dima, let us not rush right now.' Noting that they should not rush right now keeps Vika's side of the story simple and clear.
-- 'After all, we will still have time for everything.' Vika mentions that after all they will still have time for everything so Elena sees what is at stake. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Alright, I will probably drive home right now.' Claiming that Alright he will probably drive home right now sounds confident, even if Elena has doubts.
-- 'That kid ruined everything for me again!' With the ticket and conversation at stake, Max reacts without holding back.
-- 'Hello, may I book a train ticket to Voronezh?' When Max asks if may he book a train ticket to Voronezh, Elena has to answer fast. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'I need one night ticket for today.' Max mentions that he needs one night ticket for today so Elena sees what is at stake.
-- 'Yes, I definitely need fast delivery.' Over the shift and the ticket, Max answers Elena without a second thought.
-- 'Wonderful, you made a simply wonderful shot!' Elena insists that wonderful Max made a simply wonderful shot, leaving Max no room to argue. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Well then, friends, shall we walk on calmly?' Over the date and the conversation, Elena presses Max for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Be more careful, you are such a big joker!' Elena declares that be more careful Max is such a big joker as the tension in the room peaks.
+- 'Dima, maybe we will eat a little later?' Vika prompts pointedly with Max now, linking "mozhet" ("can"), "poyedim" ("will eat"), and "nemnogo" ("a bit") in one brisk exchange.
+- 'We will eat later, when we actually get hungry.' Vika offers a pointed footing as the scene unfolds, weaving "poyedim" ("will eat") together with "potom" ("then") just the way native speakers do.
+- 'Dima, let us not rush right now.' Vika sets a steady stance in the room, using "davay" (from "davat", "let's") alongside "budem" ("will") to shape the meaning.
+- 'After all, we will still have time for everything.' Vika shares a brisk tone in this beat, pairing "yeshchyo" ("more, still") with "budet" ("will be") to get the point across in plain spoken Russian.
+- 'Alright, I will probably drive home right now.' Max displays an honest note during the exchange, linking "navernoye" ("probably"), "seychas" ("now"), and "domoy" ("home") in one brisk exchange.
+- 'That kid ruined everything for me again!' Max keeps a sharp rhythm right away, building the phrase around "opyat" ("again") and "malchishka" ("boy, kid") for a crisp, natural delivery.
+- 'Hello, may I book a train ticket to Voronezh?' Max quizzes wryly beside Nagiyev, weaving "mozhno" ("may, can") together with "zakazat" ("to order") just the way native speakers do.
+- 'I need one night ticket for today.' Max conveys a playful position for Vika, using "nuzhen" (from "nuzhnyy", "is needed") alongside "nochnoy" ("night") to shape the meaning.
+- 'Yes, I definitely need fast delivery.' Max sustains a warm attitude toward Nagiyev, building the phrase around "obyazatelno" ("surely, without fail") and "nuzhna" ("needed") for a crisp, natural delivery.
+- 'Wonderful, you made a simply wonderful shot!' Nagiyev maintains a frank mood for Vika, pairing "poluchilsya" ("to turn out") with "prekrasno" ("perfectly") so the "-sya" ending carries the action.
+- 'Well then, friends, shall we walk on calmly?' Nagiyev questions decisively as they speak, pairing "druzya" ("friends") with "poydyom" ("let's go") to get the point across in plain spoken Russian.
+- 'Be more careful, you are such a big joker!' Nagiyev brings a direct direction at this moment, pairing "budte" ("be") with "ostorozhneye" ("more carefully") to get the point across in plain spoken Russian.

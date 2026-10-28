@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our head chef is a contender to receive a star.' Even though their head is a contender to receive a star, Eleonora keeps a steady face in front of Barinov.
-- 'Eleonora Andreyevna, this is my wedding gift.' Admitting that this is his wedding gift shows Barinov being honest for a change. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Why, these are Mom's cookies!' Insisting that why these are Mom cookies shows Eleonora is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Congratulations once again.' Between the conversation and the tears, Barinov gives Eleonora a quick, grounded response.
-- 'Vitya, wait!' Around the shift and wedding, Eleonora makes her point loud and clear. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'I hope this is the last time wedding cookies are made for you.' Barinov reminds Eleonora that he hopes this is the last time wedding cookies are made for Eleonora before the moment passes. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Mom told me that at every wedding.' Since Mom told her that at every wedding, Eleonora does not waste words on excuses.
-- 'And Dima is the last train car for me.' Mentioning that Dima is the last train car moves the talk in a new direction.
-- 'My bald last train car.' Between the work and the forgiveness, Eleonora gives Barinov a quick, grounded response.
-- 'Old age with him will not be boring.' Because old age with him will not be boring, Eleonora treats the matter as settled.
-- 'Believe me, I am truly happy.' Admitting that Barinov should believe her she is truly happy shows Eleonora being honest for a change.
-- 'Thank you, and forgive me for everything.' With the wedding and forgiveness in play, Eleonora keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Our head chef is a contender to receive a star.' Eleonora takes a steady manner without hesitation, weaving "shef-povar" ("head chef") together with "pretendent" ("contender, candidate") just the way native speakers do.
+- 'Eleonora Andreyevna, this is my wedding gift.' Barinov establishes a serious manner as they talk, building the phrase around "svadebnyy" ("wedding") and "podarok" ("gift, voucher") for a crisp, natural delivery.
+- 'Why, these are Mom's cookies!' Eleonora offers a serious tone on the spot, linking "mamino" ("Mom's") directly with "pechenye" ("cookies, pastry"), since Russian drops "is" and "are" in the present.
+- 'Congratulations once again.' Barinov strikes an emphatic tone across the room, weaving "yeshche" ("still") together with "raz" ("time, once") just the way native speakers do.
+- 'Vitya, wait!' Eleonora projects a serious direction as the scene unfolds, combining "podozhdi" ("wait") and "vitya" ("Vitya") so the key meaning lands right away.
+- 'I hope this is the last time wedding cookies are made for you.' Barinov adopts a playful manner without hesitation, linking "nadeyus" ("hope so"), "posledniy" ("last"), and "raz" ("time, once") in one brisk exchange.
+- 'Mom told me that at every wedding.' Eleonora shares an earnest stance in their talk, anchoring the Russian line on "mama" ("mum, mother") and "kazhduyu" ("every, each") without extra filler.
+- 'And Dima is the last train car for me.' Eleonora presents an earnest tone in the conversation, joining "posledniy" ("last") to "vagon" ("train") so every word pulls its weight.
+- 'My bald last train car.' Eleonora projects a firm stance in the conversation, joining "lysyy" ("bald") to "posledniy" ("last") so every word pulls its weight.
+- 'Old age with him will not be boring.' Eleonora sustains a measured view in this beat, combining "starost" ("old age") and "budet" ("will be") so the key meaning lands right away.
+- 'Believe me, I am truly happy.' Eleonora presents a calm course right away, putting "verish" ("do you believe") alongside "samom" ("very") in a tight, everyday turn of phrase.
+- 'Thank you, and forgive me for everything.' Eleonora brings an easygoing tone at this moment, anchoring the Russian line on "spasibo" ("thank you") and "prosti" ("sorry, forgive me") without extra filler.

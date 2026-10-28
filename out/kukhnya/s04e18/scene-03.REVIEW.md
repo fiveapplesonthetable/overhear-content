@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They ordered a horsemeat steak out there.' With the point and conversation in play, Barinov keeps this short reply brisk and direct.
-- 'Look, there is one more video clip.' Saying that there is one more video clip is how Senya sets the tone with Barinov.
-- 'It has the exact same title.' Because it has the exact same title, Fedya treats the matter as settled. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Wait, is that our German or what?' By asking whether that their German, Senya presses Barinov for a straight answer. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I wonder where all this took place?' Wondering if he wonders where all this took place shows Fedya caught off guard.
-- 'Stop it, I know him well.' Even though Fedya should stop it he knows him well, Barinov keeps a steady face in front of Fedya.
-- 'He used to work in Riga.' Pointing out that he used to work in Riga gives Fedya a sobering reality check.
-- 'That is my acquaintance Markus.' Barinov explains that that is his acquaintance Markus, keeping his voice calm and direct.
-- 'Give me the phone, I will call him.' Here giving him the phone he will call him sets up the next turn in their exchange.
-- 'Hello, Markus, hi there, my friend.' Around the truth and plan, Barinov sets a calm, everyday tone with Fedya.
-- 'Tell me about this German.' Telling him about this German is how Barinov lays out the situation for Fedya.
-- 'Thank you very much for the information.' Over the plan and the kitchen, Barinov answers Fedya without a second thought. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'They ordered a horsemeat steak out there.' Barinov strikes a candid style on the spot, joining "tam" ("there") to "steyk" ("steak") so every word pulls its weight.
+- 'Look, there is one more video clip.' Senya sets a direct mood at once, combining "smotri" ("look") and "yest" ("there is") so the key meaning lands right away.
+- 'It has the exact same title.' Fedya takes a wry tone in their talk, leaning on "nazvaniye" ("name, title") before closing the thought with "nego" ("him").
+- 'Wait, is that our German or what?' Senya queries briskly in the scene, weaving "eto" ("this") together with "chto" ("what") just the way native speakers do.
+- 'I wonder where all this took place?' Fedya queries bluntly toward Barinov here, building the phrase around "interesno" ("interesting") and "gde" ("where") for a crisp, natural delivery.
+- 'Stop it, I know him well.' Barinov displays a wry footing in the room, leaning on "ostanovi" ("stop") before closing the thought with "khorosho" ("good, fine").
+- 'He used to work in Riga.' Barinov conveys a natural approach right away, leaning on "ranshe" ("earlier, previously") before closing the thought with "rige" ("riga").
+- 'That is my acquaintance Markus.' Barinov adopts a measured line without hesitation, combining "znakomyy" ("familiar") and "markus" ("markus") so the key meaning lands right away.
+- 'Give me the phone, I will call him.' Barinov displays an honest tempo beside Fedya, putting "day" ("give") alongside "telefon" ("phone") in a tight, everyday turn of phrase.
+- 'Hello, Markus, hi there, my friend.' Barinov chooses a measured tempo during the exchange, pairing "markus" ("markus") with "dorogoy" ("dear") to get the point across in plain spoken Russian.
+- 'Tell me about this German.' Barinov conveys a serious note at this moment, weaving "rasskazhi" ("tell") together with "germana" ("german") just the way native speakers do.
+- 'Thank you very much for the information.' Barinov conveys a thoughtful tempo in the room, linking "spasibo" ("thank you"), "bolshoye" ("big, very much"), and "informatsiyu" ("information") in one brisk exchange.

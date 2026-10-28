@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e09.ru.srt'
 INTRO = "In the chef's office, Senya teases Viktor Barinov that moving in with Elena Pavlovna has tamed his rebellious spirit and forced him onto a diet. Viktor insists it was his own decision after finding his old suit, though he daydreams of Elena mocking him."
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "That finishes the conversation in the chef's office. Notice how Viktor defends his independence with the adverb for on one's own while Senya plants doubts in his head. See you next time!"
+OUTRO = "That finishes the conversation in the chef's office. Notice how Viktor defends his independence with the expression for on one's own while Senya plants doubts in his head. See you next time!"
 CLOSING = ('barinov', 'До встречи!')
 STORY = [
     ('senya', 'Шеф, а что вы решили, что надо худеть?', 'Chef, why did you decide that you need to lose weight?', [(98, 'Шеф, а что вы вообще решили, что вам надо худеть')], 'adapted'),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Я сейчас такой жирный?', 'Am I so fat right now?', [(119, 'Я сейчас такой жирный')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'Chef, why did you decide that you need to lose weight?' Asking why Barinov decides that Barinov needs to lose weight cuts straight through the tension between Senya and Barinov. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
-    (1, None, "'Ever since you moved in with Elena Pavlovna, you changed.' Realizing that ever since Barinov moved in with Elena Pavlovna Barinov changed changes how Senya handles the situation."),
-    (2, None, "'What? I have not changed at all.' Questioning whether he has not changed at all is how Barinov tests Elena's story."),
-    (3, None, '\'Maybe she is influencing you like that?\' Senya asks whether maybe she is influencing Barinov likes, refusing to let the point slide. Notice how he sticks to the formal "you", keeping a professional line between them.'),
-    (4, None, '\'You never went on a diet before, chef.\' Admitting that Barinov never went on a diet shows Senya being honest for a change. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.'),
-    (5, None, "'You are a rebel!' Insisting that Barinov is a rebel shows Senya is not backing down."),
-    (6, None, '\'Senya, go take a hike!\' By going take a hike, Barinov raises the stakes in the room at once. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (7, None, "'Elena Pavlovna found my old suit.' Adding that Elena Pavlovna found his old suit fills in the missing piece for Elena."),
-    (8, None, "'I did not fit into it. So I decided to lose weight.' Saying that he did not fit into it is how Barinov sets the tone with Elena."),
-    (9, None, "'On my own!' Over the suit and the conversation, Barinov lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (10, None, '\'Maybe she is the one who decided?\' Wondering if maybe she is the one who decided shows Senya caught off guard. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (11, None, "'Listen, what a handsome suit!' Around the suit and truth, Elena makes her point loud and clear."),
-    (12, None, '\'Am I so fat right now?\' Over the kitchen and the suit, Barinov presses Elena for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (0, None, '\'Chef, why did you decide that you need to lose weight?\' Senya asks wryly in the room, joining "reshili" ("decided") to "nado" ("it is necessary") so every word pulls its weight.'),
+    (1, None, '\'Ever since you moved in with Elena Pavlovna, you changed.\' Senya conveys a measured posture as they talk, weaving "kak" ("how") together with "pereyekhali" ("to move") just the way native speakers do.'),
+    (2, None, '\'What? I have not changed at all.\' Barinov probes wryly on the spot, anchoring the Russian line on "izmenilsya" ("have changed") and "chego" ("what") without extra filler.'),
+    (3, None, '\'Maybe she is influencing you like that?\' Senya inquires plainly as they speak, leaning on "mozhet" ("can") before closing the thought with "vliyayet" ("influences").'),
+    (4, None, '\'You never went on a diet before, chef.\' Senya sustains a resolute tone in the room, putting "nikogda" ("never") alongside "diyetu" ("diet") in a tight, everyday turn of phrase.'),
+    (5, None, '\'You are a rebel!\' Senya keeps a frank line across the room, pairing "buntar" ("rebel") with "vy" ("you") to get the point across in plain spoken Russian.'),
+    (6, None, '\'Senya, go take a hike!\' Barinov holds a serious approach in their talk, building the phrase around "idi" ("go") and "sad" ("the park, garden") for a crisp, natural delivery.'),
+    (7, None, '\'Elena Pavlovna found my old suit.\' Barinov offers a frank tack as they talk, linking "nashla" ("found, did you find"), "staryy" ("old"), and "kostyum" ("suit") in one brisk exchange.'),
+    (8, None, '\'I did not fit into it. So I decided to lose weight.\' Barinov offers a serious tempo as the scene unfolds, using "vlez" (from "vlezt", "fit into") alongside "reshil" ("has decided") to shape the meaning.'),
+    (9, None, '\'On my own!\' Barinov holds a serious line as the scene unfolds, using "samostoyatelno" ("independently") by itself, a common way spoken Russian keeps fast dialogue punchy.'),
+    (10, None, '\'Maybe she is the one who decided?\' Senya presses wryly during the talk, building the phrase around "mozhet" ("can") and "reshila" ("decided") for a crisp, natural delivery.'),
+    (11, None, '\'Listen, what a handsome suit!\' Elena establishes an easygoing stance at once, putting "slushay" ("listen") alongside "krasivyy" ("beautiful") in a tight, everyday turn of phrase.'),
+    (12, None, '\'Am I so fat right now?\' Barinov checks calmly as they speak, building the phrase around "seychas" ("now") and "zhirnyy" ("fat, greasy") for a crisp, natural delivery.'),
 ]

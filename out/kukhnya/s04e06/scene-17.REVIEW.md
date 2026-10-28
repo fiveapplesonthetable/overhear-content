@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, give me the bottle, the important guest has arrived!' Giving him the bottle the important guest has arrived is Nagiyev's blunt reaction in front of Kostya. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Why are you silent, give me my wine quickly!' Nagiyev declares that why are Kostya silent give him his wine quickly as the tension in the room peaks. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Kostya, is it time to carry this bottle to the hall already?' Asking whether it time to carry this bottle to the hall already cuts straight through the tension between Max and Kostya.
-- 'What on earth is going on with you here, guys?' Over the wine and the guest, Nagiyev presses Kostya for a straight answer. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Kostya asked us to keep your bottle in the storeroom.' Max reminds Kostya that Kostya asked them to keep Kostya's bottle in the storeroom before the moment passes.
-- 'A lock accidentally broke at his bar.' Around the wine and kitchen, Max sets a calm, everyday tone with Kostya.
-- 'Come on, carry it to the dining room very fast!' Because Kostya should come on carry it to the dining room very fast, Nagiyev does not bother softening the blow for Kostya. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Do you even understand who is sitting in the hall today?' Asking whether Kostya even understand who is sitting in the hall today is how Nagiyev puts Kostya on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'That is the very best sommelier in all of Moscow!' Insisting that that is the very best sommelier in all of Moscow shows Nagiyev is not backing down.
-- 'I want to lure him over to our restaurant.' Admitting that he wants to lure him over to their restaurant shows Nagiyev being honest for a change.
-- 'Let him drink some of our good elite wine today!' Insisting that Kostya should let him drink some of their good elite wine today shows Nagiyev is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Vika, did the courier finally bring your new wine?' Checking whether the courier finally bring Max's new wine is how Kostya puts Max on the spot.
-- 'Too late, Kostya has already opened my bottle!' Declaring that too late Kostya has already opened his bottle brings Max's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Kostya, give me the bottle, the important guest has arrived!' Nagiyev adopts a sharp tempo in front of Kostya, putting "davay" ("let's") alongside "butylku" ("a bottle") in a tight, everyday turn of phrase.
+- 'Why are you silent, give me my wine quickly!' Nagiyev displays a playful angle at once, using "molchish" (from "molchat", "are silent") alongside "davay" ("let's") to shape the meaning.
+- 'Kostya, is it time to carry this bottle to the hall already?' Max probes openly to Kostya here, weaving "butylku" ("a bottle") together with "uzhe" ("already, now") just the way native speakers do.
+- 'What on earth is going on with you here, guys?' Nagiyev queries honestly in front of Max, joining "zdes" ("here") to "voobshche" ("at all") so every word pulls its weight.
+- 'Kostya asked us to keep your bottle in the storeroom.' Max sustains a measured bearing as they talk, using "prosil" (from "prosit", "ask for") alongside "poderzhat" ("to keep") to shape the meaning.
+- 'A lock accidentally broke at his bar.' Max adopts an easygoing tack across the room, joining "bare" ("bar") to "sluchayno" ("by any chance") so every word pulls its weight.
+- 'Come on, carry it to the dining room very fast!' Nagiyev maintains a direct tempo in the scene, combining "davay" ("let's") and "nesi" ("bring") so the key meaning lands right away.
+- 'Do you even understand who is sitting in the hall today?' Nagiyev prompts directly at this point, joining "ponimayesh" ("do you understand") to "segodnya" ("today") so every word pulls its weight.
+- 'That is the very best sommelier in all of Moscow!' Nagiyev presents a pointed line for Kostya, linking "samyy" ("the most"), "luchshiy" ("best"), and "somelye" ("moscow") in one brisk exchange.
+- 'I want to lure him over to our restaurant.' Nagiyev shows a brisk mood in the room, weaving "khochu" ("want") together with "peremanit" ("to over") just the way native speakers do.
+- 'Let him drink some of our good elite wine today!' Nagiyev holds a candid line in this beat, using "popyot" (from "popit", "to have a drink") alongside "segodnya" ("today") to shape the meaning.
+- 'Vika, did the courier finally bring your new wine?' Kostya asks promptly to make the point, putting "kuryer" ("courier, errand boy") alongside "nakonets" ("at last, finally") in a tight, everyday turn of phrase.
+- 'Too late, Kostya has already opened my bottle!' Max offers a clear tone across the room, joining "slishkom" ("too") to "pozdno" ("too late, late") so every word pulls its weight.

@@ -13,7 +13,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Шеф | Господи, за что меня наказываешь? | Lord, why are you punishing me? | #321: Господи, за что ты меня наказываешь | adapted: adapted |
 | 2 | Врач | Нет дыхания, начинаем реанимацию. | No breathing, we are starting resuscitation. | #322: Нет дыхания, нет. Начинаем | adapted: adapted |
 | 3 | Шеф | У нас Лёва опять заклинил. | Our Lyova jammed up again. | #324: он опять заклинил | adapted: adapted |
-| 4 | Шеф | Витя, что ты за человек? | Vitya, what kind of person are you? | #325: Витя, вот что ты за человек | adapted: adapted |
+| 4 | Врач | Витя, что ты за человек? | Vitya, what kind of person are you? | #325: Витя, вот что ты за человек | adapted: adapted |
 | 5 | Шеф | Всю свадьбу испортил похоронами. | You ruined the whole wedding with a funeral. | #326: Всю свадьбу испортил своими похоронами | adapted: adapted |
 | 6 | Шеф | Давай выпьем за наш оптимизм. | Let us drink to our optimism. | #329: Выпьем за оптимизм | adapted: adapted |
 | 7 | Врач | Виктор Петрович находится в коме. | Viktor Petrovich is in a coma. | #330: Виктор Петрович сейчас находится в коме | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lord, why are you punishing me?' When Barinov asks if someone why are the doctor punishing him, the doctor has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No breathing, we are starting resuscitation.' The doctor tells Barinov that breathing they are starting resuscitation without dressing it up.
-- 'Our Lyova jammed up again.' With the doctor and conversation in play, Barinov keeps this short reply brisk and direct.
-- 'Vitya, what kind of person are you?' Wondering if what kind of person are the doctor shows Barinov caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You ruined the whole wedding with a funeral.' With the doctor and truth in play, Barinov keeps this short reply brisk and direct.
-- 'Let us drink to our optimism.' Noting that they should drink to their optimism keeps Barinov's side of the story simple and clear.
-- 'Viktor Petrovich is in a coma.' Explaining that Viktor Petrovich is in a coma lays the cards on the table for Barinov.
-- 'His condition is stable but serious.' The doctor mentions that his condition is stable but serious so Barinov sees what is at stake.
-- 'Vitya, forgive me, please.' Around the shift and doctor, Eleonora sets a calm, everyday tone with Barinov.
-- 'That inspector was not real.' Pointing out that that inspector was not real gives Barinov a sobering reality check.
-- 'I staged all of this myself.' Between the shift and the doctor, Eleonora gives Barinov a quick, grounded response. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Who could have known it would turn out like this.' Realizing that who could have known it would turn out like this changes how Eleonora handles the situation.
+- 'Lord, why are you punishing me?' Barinov checks decisively to make the point, joining "nakazyvayesh" ("you punish") to "gospodi" ("Good Lord") so every word pulls its weight.
+- 'No breathing, we are starting resuscitation.' The doctor adopts an honest mood on the spot, putting "dykhaniya" ("breath") alongside "nachinayem" ("are starting") in a tight, everyday turn of phrase.
+- 'Our Lyova jammed up again.' Barinov sustains a clear footing during the exchange, linking "opyat" ("again"), "zaklinil" ("jammed"), and "nas" ("us") in one brisk exchange.
+- 'Vitya, what kind of person are you?' The doctor tests evenly in this moment, anchoring the Russian line on "chelovek" ("a man, a person") and "vitya" ("Vitya") without extra filler.
+- 'You ruined the whole wedding with a funeral.' Barinov offers an easygoing bearing straight away, weaving "svadbu" ("wedding") together with "isportil" ("to spoil, ruin") just the way native speakers do.
+- 'Let us drink to our optimism.' Barinov presents an easygoing attitude in this beat, combining the everyday invitation "davay" ("come on, let us") with "vypyem" ("will drink") to give the line its natural spoken rhythm.
+- 'Viktor Petrovich is in a coma.' The doctor projects a thoughtful posture as they talk, building the phrase around "nakhoditsya" ("to be located") and "kome" ("coma") for a crisp, natural delivery.
+- 'His condition is stable but serious.' The doctor establishes a measured style beside Eleonora, anchoring the Russian line on "sostoyaniye" ("state") and "stabilno" ("stably") without extra filler.
+- 'Vitya, forgive me, please.' Eleonora chooses an easygoing angle straight away, putting "prosti" ("sorry, forgive me") alongside "vitya" ("Vitya") in a tight, everyday turn of phrase.
+- 'That inspector was not real.' Eleonora shows a sharp footing straight away, combining "inspektor" ("inspector") and "byl" ("was") so the key meaning lands right away.
+- 'I staged all of this myself.' Eleonora sets a measured tone with Barinov, pairing "podstroila" ("to set up") with "eto" ("this") to get the point across in plain spoken Russian.
+- 'Who could have known it would turn out like this.' Eleonora establishes a pointed note beside the doctor, leaning on "znal" ("knew") before closing the thought with "poluchitsya" ("will come out").

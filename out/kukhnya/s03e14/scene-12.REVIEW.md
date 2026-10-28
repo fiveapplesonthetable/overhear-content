@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, I will just finish stuffing the dish right now and come out.' Admitting that Alright he will just finish stuffing the dish right now and come out shows Max being honest for a change.
-- 'Well done, I knew that you are not a coward.' Saying that done he knew that Louis is not a coward is how Fedya sets the tone with Louis.
-- 'In short, I am waiting for you in the courtyard, Max.' Once in short he is waiting for Louis in the courtyard, Fedya can finally tell Louis what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Listen, we have to do something about this!' Once they have to do something about this, Max makes sure Fedya hears every word. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'There is one excellent French method.' Saying that there is one excellent French method is how Louis sets the tone with Fedya.
-- 'You have to give the person a very strong fright.' Since Fedya has to give the person a very strong fright, Louis does not waste words on excuses. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'And then nobody will hiccup anymore!' Saying that nobody will hiccup anymore is how Louis takes charge of the moment. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'A good option, let's try it.' Fedya reminds Louis that a good option let them try it before the moment passes.
-- 'Only if he has a heart attack, you came up with it.' Because only if he has a heart attack Louis came up with it, Fedya treats the matter as settled. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Hi, pops, we have already arrived at the restaurant.' Explaining that pops they have already arrived at the restaurant lays the cards on the table for Fedya.
-- 'I brought a couple of friends along with me here.' Max mentions that he brought a couple of friends along with him here so Fedya sees what is at stake.
-- 'I hope you do not mind at all today?' When Max asks if he hopes Fedya does not mind at all today, Fedya has to answer fast. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Alright, I will just finish stuffing the dish right now and come out.' Max offers a resolute style during the exchange, linking "khorosho" ("good, fine"), "seychas" ("now"), and "tolko" ("only") in one brisk exchange.
+- 'Well done, I knew that you are not a coward.' Fedya takes a sharp footing toward Max, building the phrase around "molodets" ("well done, good boy") and "znal" ("knew") for a crisp, natural delivery.
+- 'In short, I am waiting for you in the courtyard, Max.' Fedya picks a natural line beside Louis, anchoring the Russian line on "obshchem" ("short, so") and "zhdu" ("I wait, expect") without extra filler.
+- 'Listen, we have to do something about this!' Max displays an unhurried direction without hesitation, combining "slushay" ("listen") and "nado" ("it is necessary") so the key meaning lands right away.
+- 'There is one excellent French method.' Louis strikes a steady posture in the conversation, building the phrase around "yest" ("there is") and "otlichnyy" ("excellent, great") for a crisp, natural delivery.
+- 'You have to give the person a very strong fright.' Louis keeps an easygoing footing during the exchange, weaving "nado" ("it is necessary") together with "sdelat" ("to do") just the way native speakers do.
+- 'And then nobody will hiccup anymore!' Louis conveys a serious approach with Fedya, building the phrase around "togda" ("back then") and "bolshe" ("more") for a crisp, natural delivery.
+- 'A good option, let's try it.' Fedya takes an earnest mood straight away, leaning on "khoroshiy" ("good") before closing the thought with "variant" ("option, variant").
+- 'Only if he has a heart attack, you came up with it.' Fedya sets a serious manner with Louis, combining "tolko" ("only") and "infarkt" ("heart attack") so the key meaning lands right away.
+- 'Hi, pops, we have already arrived at the restaurant.' Max strikes an honest tack in the conversation, building the phrase around "batya" ("Dad, the old man") and "uzhe" ("already, now") for a crisp, natural delivery.
+- 'I brought a couple of friends along with me here.' Max brings a natural note in front of Fedya, pairing "tut" ("here") with "paru" ("couple") to get the point across in plain spoken Russian.
+- 'I hope you do not mind at all today?' Max questions quietly in the scene, leaning on "nadeyus" ("hope so") before closing the thought with "segodnya" ("today").

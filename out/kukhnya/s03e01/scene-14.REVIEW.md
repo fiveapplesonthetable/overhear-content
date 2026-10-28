@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We will see about that yet!' Once they will see about that yet, Katya makes sure the guest hears every word. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'I have gotten hungry.' Having gotten hungry moves the conversation forward without extra drama.
-- 'Gentlemen, let's take a lunch break.' Here taking a lunch break together sets up the next turn in their exchange.
-- 'We will sign afterward.' The guest tells Katya that they will sign afterward without dressing it up.
-- 'Maxim, what do you have that is delicious here?' The guest asks whether Maxim what do Katya has that is delicious here, refusing to let the point slide. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'You know, we have a new menu.' Mentioning that they have a new menu moves the talk in a new direction.
-- 'Molecular cuisine. Here you go.' Max reminds the guest that here the guest goes before the moment passes.
-- 'Chemicals?' Over the menu and the truth, the guest presses Katya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, everything is natural.' Explaining that everything is natural lays the cards on the table for the guest.
-- 'Like in your sausage? Then bring it.' Around the shift and revenge, the guest wants to know where Katya really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Spaghetti and duck, four portions!' With the shift and moment at stake, Max reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Order received!' By telling the guest to order received, Katya raises the stakes in the room at once.
+- 'We will see about that yet!' Katya offers a clear style in their talk, putting "yeshchyo" ("more, still") alongside "posmotrim" ("have a look") in a tight, everyday turn of phrase.
+- 'I have gotten hungry.' The guest establishes a warm tone beside Max, putting "progolodalsya" ("got hungry") alongside "ya" ("I") in a tight, everyday turn of phrase.
+- 'Gentlemen, let's take a lunch break.' The guest takes a thoughtful tack at this moment, putting "gospoda" ("gentlemen") alongside "davayte" ("let's") in a tight, everyday turn of phrase.
+- 'We will sign afterward.' The guest displays a steady mood beside Max, pairing "potom" ("then") with "podpishem" ("will sign") to get the point across in plain spoken Russian.
+- 'Maxim, what do you have that is delicious here?' The guest quizzes quietly right away, combining "tut" ("here") and "vkusnogo" ("tasty, delicious") so the key meaning lands right away.
+- 'You know, we have a new menu.' Max displays a brisk stance for Katya, combining "znayete" ("know") and "poyavilos" ("appeared") so the key meaning lands right away.
+- 'Molecular cuisine. Here you go.' Max sustains a pointed manner toward the guest, joining "molekulyarnaya" ("molecular") to "kukhnya" ("kitchen") so every word pulls its weight.
+- 'Chemicals?' The guest tests lightly with Max now, putting all the weight on "khimiya" ("chemicals, chemistry") so the reply lands immediately.
+- 'No, everything is natural.' Max strikes a direct note during the exchange, combining "naturalnoye" ("natural") and "net" ("no") so the key meaning lands right away.
+- 'Like in your sausage? Then bring it.' The guest checks earnestly as they speak, linking "kak" ("how"), "kolbase" ("sausage"), and "togda" ("back then") in one brisk exchange.
+- 'Spaghetti and duck, four portions!' Max conveys a serious note for the guest, linking "spagetti" ("spaghetti"), "utka" ("duck"), and "portsii" ("portions") in one brisk exchange.
+- 'Order received!' Katya conveys an earnest bearing for Max, putting all the weight on "prinyato" ("accepted, copy that") so the reply lands immediately.

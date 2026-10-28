@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Or simply ask the chef for a promotion.' Turning from the coffee to the conversation, Kostya keeps the exchange moving.
-- 'Yeah, promote me from rookie to senior rookie.' Over the coffee and the point, Max answers Katya without a second thought.
-- 'Find a way to reduce the kitchen's expenses.' Finding a way to reduce the kitchen expenses is how Kostya lays out the situation for Katya.
-- 'Then the chef will definitely raise your salary.' Kostya mentions that the will definitely raise Katya's salary so Katya sees what is at stake.
-- 'For instance, I removed one olive from a cocktail.' Over the shift and the coffee, Kostya answers Katya without a second thought.
-- 'That is a nice savings every month.' Pointing out that that is a nice savings every month gives Katya a sobering reality check. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Alright, let's talk a little later.' Kostya mentions that Alright let them talk a little later so Katya sees what is at stake. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Denis, is there nothing you want to tell me?' Here asking whether there nothing Kostya wants to tell shows Katya looking for the real truth.
-- 'What happened, did you decide to perk up this morning?' Max asks whether what happened did Katya decides to perk up this morning, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'So you were not the one who wrote this note?' Asking whether Kostya was not the one who wrote this note puts Kostya right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I have no idea what you are talking about.' By having no idea what Katya is talking, Max keeps his side of the story grounded.
-- 'Alright, let's see what happens next.' Saying that Alright let them see what happens next is how Katya sets the tone with Kostya.
+- 'Or simply ask the chef for a promotion.' Kostya holds a candid mood beside Katya, joining "prosto" ("just") to "poprosi" ("ask") so every word pulls its weight.
+- 'Yeah, promote me from rookie to senior rookie.' Max sustains an emphatic approach with Kostya, pairing "povysit" ("to promote") with "oguzka" ("rump, runt") to get the point across in plain spoken Russian.
+- 'Find a way to reduce the kitchen's expenses.' Kostya picks a resolute posture across the room, pairing "naydi" ("find") with "sposob" ("a way, a method") to get the point across in plain spoken Russian.
+- 'Then the chef will definitely raise your salary.' Kostya keeps a pointed note with Max, pairing "togda" ("back then") with "tochno" ("definitely") to get the point across in plain spoken Russian.
+- 'For instance, I removed one olive from a cocktail.' Kostya presents a steady stance as they talk, leaning on "ubral" ("to remove, to take away") before closing the thought with "kokteylya" ("cocktail").
+- 'That is a nice savings every month.' Kostya adopts a warm direction as they talk, anchoring the Russian line on "khoroshaya" ("good") and "ekonomiya" ("savings") without extra filler.
+- 'Alright, let's talk a little later.' Kostya takes an easygoing course without hesitation, linking "davay" ("let's"), "popozzhe" ("later"), and "pogovorim" ("we'll have a talk") in one brisk exchange.
+- 'Denis, is there nothing you want to tell me?' Katya probes calmly to Max here, anchoring the Russian line on "khochesh" ("do you want") and "skazat" ("tell") without extra filler.
+- 'What happened, did you decide to perk up this morning?' Max probes bluntly in this moment, pairing "sluchilos" ("happened") with "reshila" ("decided") so the "-sya" ending carries the action.
+- 'So you were not the one who wrote this note?' Katya challenges honestly in the room, weaving "znachit" ("then, so") together with "zapisku" ("note") just the way native speakers do.
+- 'I have no idea what you are talking about.' Max displays a playful attitude without hesitation, putting "ponyatiya" ("concept, idea") alongside "imeyu" ("have") in a tight, everyday turn of phrase.
+- 'Alright, let's see what happens next.' Katya chooses a playful rhythm at this moment, using "posmotrim" (from "posmotret", "have a look") alongside "budet" ("will be") to shape the meaning.

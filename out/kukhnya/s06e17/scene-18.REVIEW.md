@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, our Lyova jammed up.' Between the room and the wedding, Senya gives Barinov a quick, grounded response. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Wait, is Lyova a robot?' By asking whether Lyova a robot, Barinov presses Katya for a straight answer.
-- 'A human would not have been able to work.' Since a human would not have been able to work, Senya does not waste words on excuses.
-- 'Tell me, where is Katya?' Wondering if tell him where is Katya shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'In the hall, it is her wedding.' Senya tells Barinov that in the hall it is her wedding without dressing it up.
-- 'What wedding today?' With the plan and wedding hanging in the air, Barinov puts Katya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Dad, I love him very much.' Explaining that dad she loves him very much lays the cards on the table for Barinov.
-- 'I always loved him deeply.' Katya mentions that she always loved him deeply so Barinov sees what is at stake.
-- 'Vitya, be happy for your daughter.' Between the wedding and the kitchen, Katya gives Barinov a quick, grounded response.
-- 'So all of this is completely untrue!' Once all of this is completely untrue, Barinov makes sure Katya hears every word. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'So I am just imagining all of this.' Mentioning that he is just imagining all of this moves the talk in a new direction.
-- 'Do you not remember anything?' Asking whether Barinov not remember anything is how Katya puts Barinov on the spot. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'Chef, our Lyova jammed up.' Senya chooses a direct rhythm in their talk, putting "lyovu" ("lyova") alongside "zaklinilo" ("jammed, froze up") in a tight, everyday turn of phrase.
+- 'Wait, is Lyova a robot?' Barinov inquires frankly without hesitation, building the phrase around "podozhdi" ("wait") and "robot" ("robot") for a crisp, natural delivery.
+- 'A human would not have been able to work.' Senya takes a grounded bearing in this beat, building the phrase around "chelovek" ("a man, a person") and "smog" ("to be able") for a crisp, natural delivery.
+- 'Tell me, where is Katya?' Barinov queries directly as the talk turns, joining "skazhi" ("say") to "gde" ("where") so every word pulls its weight.
+- 'In the hall, it is her wedding.' Senya conveys an emphatic course with Barinov, building the phrase around "zale" ("hall") and "svadba" ("wedding") for a crisp, natural delivery.
+- 'What wedding today?' Barinov asks pointedly without hesitation, anchoring the Russian line on "yeshchyo" ("more, still") and "segodnya" ("today") without extra filler.
+- 'Dad, I love him very much.' Katya picks a calm tempo with Barinov, anchoring the Russian line on "papa" ("Dad") and "ochen" ("very much") without extra filler.
+- 'I always loved him deeply.' Katya brings a measured posture at this moment, anchoring the Russian line on "vsegda" ("always") and "silno" ("strongly, much") without extra filler.
+- 'Vitya, be happy for your daughter.' Katya shares a wry course as the scene unfolds, linking "poraduysya" ("to rejoice"), "dochku" ("daughter"), and "vitya" ("Vitya") in one brisk exchange.
+- 'So all of this is completely untrue!' Barinov keeps a measured stance at once, leaning on "znachit" ("then, so") before closing the thought with "sovsem" ("at all").
+- 'So I am just imagining all of this.' Barinov brings a brisk stance as they talk, putting "znachit" ("then, so") alongside "kazhetsya" ("it seems, I think") in a tight, everyday turn of phrase.
+- 'Do you not remember anything?' Katya quizzes frankly in this moment, pairing "pomnish" ("do you remember") with "ty" ("you") to get the point across in plain spoken Russian.

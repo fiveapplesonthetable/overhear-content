@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Лёва | Вы издеваетесь? | Are you making fun of me? | #323: Вы издеваетесь | verbatim |
 | 4 | Макс | Но нет. Ты молодой. | Not at all. You are young. | #324: но нет. Ты молодой | verbatim |
 | 5 | Шеф | Он, как соображаешь, быстро. | Look how quickly you think on your feet. | #325: Он, как соображаешь, быстро | verbatim |
-| 6 | Лёва | Лёва бы так точно не смог. | Lyova definitely could not have pulled that off. | #326: Лёва бы так точно не смог | verbatim |
+| 6 | Макс | Лёва бы так точно не смог. | Lyova definitely could not have pulled that off. | #326: Лёва бы так точно не смог | verbatim |
 | 7 | Макс | Где ему и место. | Right where he belongs. | #327: где ему и место | verbatim |
 | 8 | Шеф | А Лёва будет просто поваром. | And Lyova will simply be a regular cook. | #327: А Лёва будет просто поваром | verbatim |
 | 9 | Лёва | Нет, шеф. | No, Chef. | #328: Нет, шеф | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lavrov, step into my office for a couple of words.' Max mentions that Barinov should step into his office for a couple of words so Barinov sees what is at stake.
-- 'Are you ready to become sous-chef instead of Lyova?' Checking whether Lyova ready to become instead of Lyova is how Barinov puts Lyova on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Are you making fun of me?' Here checking whether Barinov making fun of him shows Lyova looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Not at all. You are young.' With the point and test in play, Max keeps this short reply brisk and direct.
-- 'Look how quickly you think on your feet.' Admitting that how quickly Lyova thinks on Lyova's feet shows Barinov being honest for a change.
-- 'Lyova definitely could not have pulled that off.' Saying that Lyova definitely could not have pulled that off is how Lyova sets the tone with Barinov.
-- 'Right where he belongs.' Over the point and the test, Max answers Barinov without a second thought.
-- 'And Lyova will simply be a regular cook.' Adding that Lyova will simply be a regular cook fills in the missing piece for Lyova.
-- 'No, Chef.' Over the point and the job, Lyova answers Barinov without a second thought.
-- 'That is not right.' Since that is not right, Max does not waste words on excuses.
-- 'Just in case.' With the truth and test in play, Barinov keeps this short reply brisk and direct.
-- 'Kitchen, attention please!' With the kitchen and moment at stake, Lyova reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Oguzok has passed the test.' Because Oguzok has passed the test, Max treats the matter as settled.
+- 'Lavrov, step into my office for a couple of words.' Max strikes a grounded footing in the room, building the phrase around "zaydi" ("come in") and "paru" ("couple") for a crisp, natural delivery.
+- 'Are you ready to become sous-chef instead of Lyova?' Barinov asks honestly in the room, using "gotov" (from "gotovyy", "ready") alongside "stat" ("to become") to shape the meaning.
+- 'Are you making fun of me?' Lyova quizzes honestly as they speak, anchoring the Russian line on "izdevayetes" ("are you mocking") and "vy" ("you") without extra filler.
+- 'Not at all. You are young.' Max displays a brisk course at once, placing "molodoy" ("young") straight beside "no" ("but") with no word for "to be" needed.
+- 'Look how quickly you think on your feet.' Barinov favors a measured posture at this moment, building the phrase around "kak" ("how") and "soobrazhayesh" ("understand") for a crisp, natural delivery.
+- 'Lyova definitely could not have pulled that off.' Max takes a steady posture in the scene, putting "tochno" ("definitely") alongside "smog" ("to be able") in a tight, everyday turn of phrase.
+- 'Right where he belongs.' Max projects a warm direction for Barinov, putting "gde" ("where") alongside "mesto" ("place, post") in a tight, everyday turn of phrase.
+- 'And Lyova will simply be a regular cook.' Barinov picks a direct note with Max, building the phrase around "budet" ("will be") and "prosto" ("just") for a crisp, natural delivery.
+- 'No, Chef.' Lyova projects a sharp tempo in their talk, building the phrase around "net" ("no") and "shef" ("Chef") for a crisp, natural delivery.
+- 'That is not right.' Max favors a frank mood without hesitation, putting "nepravilno" ("wrongly") alongside "eto" ("this") in a tight, everyday turn of phrase.
+- 'Just in case.' Barinov offers a warm bearing at this moment, putting "sluchay" ("case, occasion") alongside "na" ("on, onto") in a tight, everyday turn of phrase.
+- 'Kitchen, attention please!' Lyova keeps a playful manner in the scene, combining "kukhnya" ("kitchen") and "vnimaniye" ("attention") so the key meaning lands right away.
+- 'Oguzok has passed the test.' Max strikes an honest style in their talk, linking "aguzok" ("rookie, greenhorn"), "proshel" ("passed"), and "proverku" ("inspection") in one brisk exchange.

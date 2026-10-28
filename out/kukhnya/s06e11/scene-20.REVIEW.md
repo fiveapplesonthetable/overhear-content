@@ -17,23 +17,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Элеонора | Она отвечает на кухне за молекулярную кухню. | In the kitchen she is in charge of molecular cuisine. | #338: Она отвечает за молекулярную кухню | adapted: adapted |
 | 6 | Элеонора | И у неё впереди очень большое будущее. | And she has a very big future ahead of her. | #339: И у нее очень большое будущее | adapted: adapted |
 | 7 | Катя | Мама, ну не преувеличивай, я просто обычный повар. | Mom, do not exaggerate, I am just an ordinary chef. | #340: Мам, ну не преувеличивай<br>#341: Я простой | adapted: adapted |
-| 8 | Гость | Простите меня, Катя, я вёл себя очень глупо. | Forgive me, Katya, I behaved very foolishly. | #343: Простите меня, Катя, я вел себя как старый дурак | adapted: adapted |
-| 9 | Гость | И вы меня поймите, я сегодня немного запаниковал. | And understand me too, I panicked a bit today. | #344: Ну, и вы меня поймите, я немного запаниковал | adapted: adapted |
-| 10 | Гость | Ведь вы первая девушка, с которой меня знакомит Никита. | After all, you are the first girl Nikita has introduced me to. | #345: Вы ведь первая девушка, с которой меня знакомит Никита | adapted: adapted |
-| 11 | Гость | Я даже подумать не мог, что всё так серьёзно. | I could not even imagine that everything was so serious. | #346: Я даже подумать не мог о том, насколько у вас все серьезно | adapted: adapted |
-| 12 | Гость | Ещё раз простите меня и всего вам доброго! | Forgive me once again and all the best to you! | #347: Всего доброго | adapted: adapted |
+| 8 | Никита | Простите меня, Катя, я вёл себя очень глупо. | Forgive me, Katya, I behaved very foolishly. | #343: Простите меня, Катя, я вел себя как старый дурак | adapted: adapted |
+| 9 | Никита | И вы меня поймите, я сегодня немного запаниковал. | And understand me too, I panicked a bit today. | #344: Ну, и вы меня поймите, я немного запаниковал | adapted: adapted |
+| 10 | Элеонора | Ведь вы первая девушка, с которой меня знакомит Никита. | After all, you are the first girl Nikita has introduced me to. | #345: Вы ведь первая девушка, с которой меня знакомит Никита | adapted: adapted |
+| 11 | Никита | Я даже подумать не мог, что всё так серьёзно. | I could not even imagine that everything was so serious. | #346: Я даже подумать не мог о том, насколько у вас все серьезно | adapted: adapted |
+| 12 | Никита | Ещё раз простите меня и всего вам доброго! | Forgive me once again and all the best to you! | #347: Всего доброго | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Andrey, please meet my beloved daughter Katya.' Around the hotel and truth, Eleonora sets a calm, everyday tone with the guest. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Hello, Andrey Nikolaevich, I have heard very much about you.' Claiming that Andrey Nikolaevich she has heard very much about Eleonora sounds confident, even if Eleonora has doubts. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Probably you have also heard a lot about me today.' Pointing out that probably Eleonora has also heard a lot about her today gives Eleonora a sobering reality check.
-- 'Katya works as a chef right here in our restaurant.' Eleonora explains that Katya works as a right here in their restaurant, keeping her voice calm and direct. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'In the kitchen she is in charge of molecular cuisine.' Realizing that in the kitchen she is in charge of molecular cuisine changes how Eleonora handles the situation.
-- 'And she has a very big future ahead of her.' Since she has a very big future ahead, Eleonora does not waste words on excuses.
-- 'Mom, do not exaggerate, I am just an ordinary chef.' Even though Mom do not exaggerate she is just an ordinary, Katya keeps a steady face in front of Eleonora.
-- 'Forgive me, Katya, I behaved very foolishly.' Around the room and hotel, the guest sets a calm, everyday tone with Eleonora.
-- 'And understand me too, I panicked a bit today.' Even though Eleonora should understand him too he panicked a bit today, the guest keeps a steady face in front of Eleonora.
-- 'After all, you are the first girl Nikita has introduced me to.' Once after all Eleonora is the first girl Nikita has introduced him, the guest can finally tell Eleonora what he means. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I could not even imagine that everything was so serious.' Adding that he could not even imagine that everything was so serious fills in the missing piece for Eleonora.
-- 'Forgive me once again and all the best to you!' Around the room and moment, the guest makes his point loud and clear.
+- 'Andrey, please meet my beloved daughter Katya.' Eleonora chooses a firm manner with Katya, combining "poznakomsya" ("to get acquainted") and "lyubimaya" ("favourite, beloved") so the key meaning lands right away.
+- 'Hello, Andrey Nikolaevich, I have heard very much about you.' Katya presents a pointed note in front of Nikita, building the phrase around "zdravstvuyte" ("hello") and "ochen" ("very much") for a crisp, natural delivery.
+- 'Probably you have also heard a lot about me today.' Katya takes a natural bearing straight away, joining "navernoye" ("probably") to "tozhe" ("too") so every word pulls its weight.
+- 'Katya works as a chef right here in our restaurant.' Eleonora maintains a steady posture in this beat, leaning on "u nas" ("by us, at our place") and "rabotayet" ("works") the way natural Russian does.
+- 'In the kitchen she is in charge of molecular cuisine.' Eleonora projects a sharp mood with Katya, building the phrase around "otvechayet" ("is responsible") and "kukhne" ("kitchen") for a crisp, natural delivery.
+- 'And she has a very big future ahead of her.' Eleonora offers a measured footing in their talk, linking "vperedi" ("ahead, in front"), "ochen" ("very much"), and "bolshoye" ("big, very much") in one brisk exchange.
+- 'Mom, do not exaggerate, I am just an ordinary chef.' Katya sets a steady stance in the conversation, combining the softening word "prosto" ("simply, just") with "mama" ("mum, mother") to give the line its natural spoken rhythm.
+- 'Forgive me, Katya, I behaved very foolishly.' Nikita picks a lively tack on the spot, combining "prostite" ("excuse me") and "vyol" ("led, behaved") so the key meaning lands right away.
+- 'And understand me too, I panicked a bit today.' Nikita shares a calm position on the spot, combining "poymite" ("understand") and "segodnya" ("today") so the key meaning lands right away.
+- 'After all, you are the first girl Nikita has introduced me to.' Eleonora shares a direct tempo across the room, putting "pervaya" ("the first one") alongside "devushka" ("girlfriend") in a tight, everyday turn of phrase.
+- 'I could not even imagine that everything was so serious.' Nikita establishes a grounded note in the conversation, combining "podumat" ("to think") and "mog" ("can, to be able") so the key meaning lands right away.
+- 'Forgive me once again and all the best to you!' Nikita shows a wry stance as they talk, linking "yeshchyo" ("more, still"), "raz" ("time, once"), and "prostite" ("excuse me") in one brisk exchange.

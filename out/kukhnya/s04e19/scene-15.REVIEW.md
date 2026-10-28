@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, respected Dmitry Vladimirovich.' With the dish and exchange in play, Elena keeps this short reply brisk and direct.
-- 'Lena, I simply did not know!' Declaring that someone he simply did not know brings Nagiyev's temper right to the surface.
-- 'I did not know that this was your dish.' Saying that he did not know that this was Elena's dish is how Nagiyev sets the tone with Elena. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'But after all, that is the point of your contest.' Since after all that is the point of Nagiyev's contest, Elena does not waste words on excuses.
-- 'It is nothing serious, anything happens in life.' Mentioning that it is nothing serious anything happens in life moves the talk in a new direction.
-- 'I am truly very sorry, Elena Pavlovna.' Here being truly very sorry Elena Pavlovna sets up the next turn in their exchange.
-- 'You are a wonderful and very talented chef.' Because Elena is a wonderful and very talented, Nagiyev treats the matter as settled. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Friends, let's support our contestant!' Here supporting their contestant together lets Nagiyev's real feelings break through.
-- 'Definitely come back to us next year.' Over the dish and the truth, Nagiyev answers Elena without a second thought.
-- 'Thank you very much to you and all the viewers.' With the exchange and dish in play, Elena keeps this short reply brisk and direct. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'I wish you great luck in everything!' By wishing Elena great luck in everything, Nagiyev raises the stakes in the room at once.
-- 'Goodbye, all the very best to you.' Around the exchange and shift, Elena sets a calm, everyday tone with Nagiyev. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'Hello, respected Dmitry Vladimirovich.' Elena conveys a warm style on the spot, pairing "zdravstvuyte" ("hello") with "uvazhayemyy" ("respected, esteemed") to get the point across in plain spoken Russian.
+- 'Lena, I simply did not know!' Nagiyev offers a brisk tone without hesitation, leaning on "prosto" ("just") before closing the thought with "znal" ("knew").
+- 'I did not know that this was your dish.' Nagiyev chooses a frank tack toward Elena, anchoring the Russian line on "znal" ("knew") and "blyudo" ("dish") without extra filler.
+- 'But after all, that is the point of your contest.' Elena takes an earnest course in their talk, building the phrase around "smysl" ("meaning") and "konkursa" ("contest") for a crisp, natural delivery.
+- 'It is nothing serious, anything happens in life.' Elena adopts a playful angle as the scene unfolds, leaning on "strashnogo" ("terrible, serious") before closing the thought with "zhizni" ("life").
+- 'I am truly very sorry, Elena Pavlovna.' Nagiyev takes a firm footing in the room, combining "pravda" ("honestly") and "ochen" ("very much") so the key meaning lands right away.
+- 'You are a wonderful and very talented chef.' Nagiyev brings a direct manner as the scene unfolds, putting "prekrasnyy" ("beautiful") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
+- 'Friends, let's support our contestant!' Nagiyev establishes a pointed footing right away, combining "druzya" ("friends") and "davayte" ("let's") so the key meaning lands right away.
+- 'Definitely come back to us next year.' Nagiyev picks a warm tone as the scene unfolds, pairing "obyazatelno" ("surely, without fail") with "prikhodite" ("come") to get the point across in plain spoken Russian.
+- 'Thank you very much to you and all the viewers.' Elena shows a brisk position as the scene unfolds, putting "spasibo" ("thank you") alongside "bolshoye" ("big, very much") in a tight, everyday turn of phrase.
+- 'I wish you great luck in everything!' Nagiyev strikes a clear angle beside Elena, weaving "zhelayu" ("I wish") together with "bolshoy" ("big") just the way native speakers do.
+- 'Goodbye, all the very best to you.' Elena maintains a brisk mood right away, leaning on "svidaniya" ("meeting") before closing the thought with "samogo" ("the very").

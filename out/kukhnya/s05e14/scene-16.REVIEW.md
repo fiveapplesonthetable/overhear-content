@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, tell me, would you like anything today?' Questioning whether tell him would Barinov likes anything today is how Kostya tests Barinov's story.
-- 'Kostya, well, what did she just order from you?' Asking what she just order from Eleonora cuts straight through the tension between Barinov and Eleonora. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Nothing yet, she is just sitting and waiting for someone.' Pointing out that nothing yet she is just sitting and waiting for someone gives Barinov a sobering reality check.
-- 'Eleonora, are you aware of who is sitting in the hall?' Asking whether Eleonora aware of who is sitting in the hall is how Barinov puts Eleonora on the spot.
-- 'Yes, and did Elena decide to moonlight with us today?' By asking whether Elena decide to moonlight with them today, Eleonora presses Barinov for a straight answer. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Show me quickly, where is this guest sitting?' Questioning whether show her quickly where is this guest sitting is how Eleonora tests Barinov's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Wait, Vitya, that is not Friedman's wife!' Saying that that is not Friedman wife is how Eleonora takes charge of the moment.
-- 'I have known her personally very well for many years.' Pointing out that she has known her personally very well for many years gives Barinov a sobering reality check.
-- 'Well, that is his new young wife!' Because that is his new young wife, Barinov does not bother softening the blow for Eleonora. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'So all those high-society rumors are the pure truth!' Insisting that all those high rumors are the pure truth shows Eleonora is not backing down.
-- 'Then all the more reason to give her a warm welcome!' Over the guest and the shift, Eleonora lets her real feelings show. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Hello, Katya, I cannot talk right now.' Mentioning that he cannot talk right now moves the talk in a new direction.
+- 'Good evening, tell me, would you like anything today?' Kostya challenges wryly as they speak, linking "dobryy" ("good"), "vecher" ("evening"), and "skazhite" ("tell") in one brisk exchange.
+- 'Kostya, well, what did she just order from you?' Barinov checks dryly for Kostya's benefit, pairing "seychas" ("now") with "zakazala" ("to order") so the "-sya" ending carries the action.
+- 'Nothing yet, she is just sitting and waiting for someone.' Kostya brings a warm position in the scene, combining "poka" ("bye") and "prosto" ("just") so the key meaning lands right away.
+- 'Eleonora, are you aware of who is sitting in the hall?' Barinov wonders briskly as the talk turns, using "kurse" (from "kurs", "course, regimen") alongside "sidit" ("sits") to shape the meaning.
+- 'Yes, and did Elena decide to moonlight with us today?' Eleonora wonders dryly across the room, building the phrase around "reshila" ("decided") and "segodnya" ("today") for a crisp, natural delivery.
+- 'Show me quickly, where is this guest sitting?' Eleonora questions plainly toward Kostya here, leaning on "pokazhite" ("show") before closing the thought with "skoreye" ("quickly, right away").
+- 'Wait, Vitya, that is not Friedman's wife!' Eleonora brings a resolute stance in the scene, pairing "podozhdi" ("wait") with "zhena" ("wife") to get the point across in plain spoken Russian.
+- 'I have known her personally very well for many years.' Eleonora keeps a brisk footing in the room, putting "prekrasno" ("perfectly") alongside "lichno" ("personally") in a tight, everyday turn of phrase.
+- 'Well, that is his new young wife!' Barinov establishes a thoughtful posture as the scene unfolds, combining "novaya" ("new") and "molodaya" ("young") so the key meaning lands right away.
+- 'So all those high-society rumors are the pure truth!' Eleonora displays an emphatic stance toward Kostya, weaving "znachit" ("then, so") together with "svetskiye" ("high-society") just the way native speakers do.
+- 'Then all the more reason to give her a warm welcome!' Eleonora picks a measured posture in the room, pairing "togda" ("back then") with "boleye" ("more") to get the point across in plain spoken Russian.
+- 'Hello, Katya, I cannot talk right now.' Kostya maintains a resolute view on the spot, joining "mogu" ("can") to "seychas" ("now") so every word pulls its weight.

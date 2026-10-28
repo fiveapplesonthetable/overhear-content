@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That was amazing.' Noting that that was amazing keeps Kristina's side of the story simple and clear.
-- 'We should get divorced more often.' Even though they should get divorced more often, Max keeps a steady face in front of Kristina.
-- 'Why did you come here anyway?' Wondering why Max comes here anyway cuts straight through the tension between Kristina and Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You know why.' With the room and truth in play, Max keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'That is true.' Once that is true, Kristina can finally tell Max what she means.
-- 'Oh, shoot.' With the wine and shift in play, Max keeps this short reply brisk and direct.
-- 'Phew, thank goodness.' Over the wine and the moment, Kristina answers Max without a second thought.
-- 'Here is the thing.' Since here is the thing, Max does not waste words on excuses.
-- 'Could you possibly give me yours?' Here checking whether Max possibly give shows Kristina looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Of course, my dear.' Around the wine and truth, Max sets a calm, everyday tone with Kristina.
-- 'Thank you very much.' With the wine and room in play, Kristina keeps this short reply brisk and direct.
-- 'Yes, who is a bitch?' Asking who a bitch is is how Max puts Kristina on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Why did I not text you earlier?' Here asking why she not text Max earlier shows Kristina looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'That was amazing.' Kristina chooses a frank approach without hesitation, joining "bylo" ("was") to "kruto" ("cool, awesome") so every word pulls its weight.
+- 'We should get divorced more often.' Max takes a sharp posture right away, leaning on "nado" ("it is necessary") before closing the thought with "pochashche" ("more often").
+- 'Why did you come here anyway?' Kristina prompts candidly in their exchange, anchoring the Russian line on "zachem" ("what for") and "prishel-to" ("arrived") without extra filler.
+- 'You know why.' Max sustains an earnest manner in their talk, putting "znayesh" ("know") alongside "ty" ("you") in a tight, everyday turn of phrase.
+- 'That is true.' Kristina favors a warm style for Max, leaning on "eto" ("this") before closing the thought with "da" ("yes").
+- 'Oh, shoot.' Max chooses an unhurried mood toward Kristina, joining "yelki" ("fir tree") to "oy" ("oh") so every word pulls its weight.
+- 'Phew, thank goodness.' Kristina chooses a pointed attitude with Max, anchoring the Russian line on "yelki" ("fir tree") and "fu" ("drop it") without extra filler.
+- 'Here is the thing.' Max takes an earnest attitude during the exchange, placing "tut" ("here") straight beside "delo" ("matter") with no word for "to be" needed.
+- 'Could you possibly give me yours?' Kristina queries calmly with Max now, joining "mogla" ("could") to "dat" ("to give") so every word pulls its weight.
+- 'Of course, my dear.' Max establishes a wry tack without hesitation, combining "konechno" ("of course") and "milaya" ("darling") so the key meaning lands right away.
+- 'Thank you very much.' Kristina presents a calm manner toward Max, putting "spasibo" ("thank you") alongside "bolshoye" ("big, very much") in a tight, everyday turn of phrase.
+- 'Yes, who is a bitch?' Max probes sharply in the room, building the phrase around "sterva" ("shrew, mean woman") and "da" ("yes") for a crisp, natural delivery.
+- 'Why did I not text you earlier?' Kristina checks promptly in the room, leaning on "ranshe-to" ("earlier") before closing the thought with "napisala" ("to write").

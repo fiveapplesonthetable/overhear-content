@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And what kind of banquet is it today?' Asking whether what kind of banquet is it today puts Nagiyev right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'They finished filming a movie with me.' Around the room and banquet, Nagiyev sets a calm, everyday tone with Max.
-- 'I have the lead role in it.' Admitting that he has the lead role in it shows Nagiyev being honest for a change.
-- 'The comedy is truly very funny.' Nagiyev reminds Max that the comedy is truly very funny before the moment passes.
-- 'Let's not get distracted from work.' Realizing that they should not get distracted from work changes how Nagiyev handles the situation. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'We prepare the salads and appetizers quickly.' Here preparing the salads and appetizers quickly sets up the next turn in their exchange.
-- 'Well, everything is clear with this movie.' Senya mentions that everything is clear with this movie so Max sees what is at stake.
-- 'They filmed some nonsense again.' With the banquet and moment in play, Senya keeps this short reply brisk and direct.
-- 'And it will collect the whole box office.' Pointing out that it will collect the whole box office gives Max a sobering reality check.
-- 'Does anyone else think so?' Here asking whether anyone else think shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'This movie pays for itself before release.' Realizing that this movie pays for itself before release changes how Senya handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'They just cram commercials into it.' With the banquet and kitchen in play, Senya keeps this short reply brisk and direct.
+- 'And what kind of banquet is it today?' Max checks honestly at this point, combining "banket" ("banquet") and "segodnya" ("today") so the key meaning lands right away.
+- 'They finished filming a movie with me.' Nagiyev displays a candid position with Senya, anchoring the Russian line on "kino" ("cinema, movies") and "zakonchili" ("to finish, to complete") without extra filler.
+- 'I have the lead role in it.' Nagiyev chooses a brisk posture in this beat, building the phrase around "tam" ("there") and "glavnoy" ("main") for a crisp, natural delivery.
+- 'The comedy is truly very funny.' Nagiyev presents an honest tempo for Senya, pairing "komediya" ("comedy") with "pravda" ("honestly") to get the point across in plain spoken Russian.
+- 'Let's not get distracted from work.' Nagiyev conveys a warm note in the room, combining the polite invitation "davayte" ("let us") with "otvlekayemsya" ("to distracted") to give the line its natural spoken rhythm.
+- 'We prepare the salads and appetizers quickly.' Nagiyev sets a warm rhythm with Senya, pairing "salaty" ("salad") with "zakuski" ("appetizer, snack") to get the point across in plain spoken Russian.
+- 'Well, everything is clear with this movie.' Senya maintains a steady tack in this beat, building the phrase around "ponyatno" ("clear") and "kino" ("cinema, movies") for a crisp, natural delivery.
+- 'They filmed some nonsense again.' Senya offers a firm tempo during the exchange, building the phrase around "opyat" ("again") and "snyali" ("fire, remove") for a crisp, natural delivery.
+- 'And it will collect the whole box office.' Senya sets a wry mood as the scene unfolds, combining "kassu" ("cash register") and "soberyot" ("to collect") so the key meaning lands right away.
+- 'Does anyone else think so?' Max questions frankly in the scene, pairing "yeshchyo" ("more, still") with "dumayet" ("thinks") to get the point across in plain spoken Russian.
+- 'This movie pays for itself before release.' Senya shares a candid manner at this moment, pairing "okupayetsya" ("to itself") with "kino" ("cinema, movies") so the "-sya" ending carries the action.
+- 'They just cram commercials into it.' Senya holds a direct direction for Nagiyev, weaving "tuda" ("there") together with "prosto" ("just") just the way native speakers do.

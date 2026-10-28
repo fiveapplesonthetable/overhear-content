@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, come on, don't start.' Once Nagiyev should come on do not start, Max can finally tell Nagiyev what he means.
-- 'Today I will get him a job.' Adding that today he will get him a job fills in the missing piece for Nagiyev.
-- 'He will start earning money and move out.' Saying that he will start earning money and move out is how Max sets the tone with Nagiyev.
-- 'You will get him a job? And where?' Wondering if Max will get him a job shows Vika caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'No, I will pull some strings.' Mentioning that he will pull some strings moves the talk in a new direction.
-- 'My wife is the director at a certain French restaurant.' Max reminds Nagiyev that his wife is the director at a certain French restaurant before the moment passes.
-- 'I will ask her and she will hire him as a waiter.' Because he will ask her and she will hire him as a waiter, Max treats the matter as settled.
-- 'So you decided to shift the whole problem onto me?' Asking whether Max decided to shift the whole problem puts Max right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It is me. It was slippery, but everything is fine now.' Nagiyev mentions that it is him so Max sees what is at stake.
-- 'Hello, Aslan.' Between the kitchen and the friend, Nagiyev gives Max a quick, grounded response.
-- 'Hello, my dear friend.' Over the kitchen and the calm, Nagiyev answers Max without a second thought.
-- 'Well, I will call back. Take care.' Nagiyev explains that he will call back, keeping his voice calm and direct.
+- 'Vika, come on, don't start.' Max chooses a lively angle for Nagiyev, putting "nachinay" ("start") alongside "vik" ("Vika") in a tight, everyday turn of phrase.
+- 'Today I will get him a job.' Max offers a thoughtful mood in their talk, building the phrase around "segodnya" ("today") and "ustroyu" ("to arrange") for a crisp, natural delivery.
+- 'He will start earning money and move out.' Max chooses a calm approach in the scene, leaning on "nachnyot" ("to begin, to start") before closing the thought with "zarabatyvat" ("to earn money").
+- 'You will get him a job? And where?' Vika presses calmly in their exchange, combining "ustroish" ("arrange, put on") and "kuda" ("where to") so the key meaning lands right away.
+- 'No, I will pull some strings.' Max brings a brisk note in the conversation, leaning on "svyazi" ("of the connection") before closing the thought with "podklyuchu" ("strings").
+- 'My wife is the director at a certain French restaurant.' Max displays an easygoing manner for Vika, anchoring the Russian line on "frantsuzskom" ("French") and "restorane" ("restaurant") without extra filler.
+- 'I will ask her and she will hire him as a waiter.' Max brings a pointed angle in front of Nagiyev, leaning on "poproshu" ("will ask") before closing the thought with "ofitsiantom" ("waiter, server").
+- 'So you decided to shift the whole problem onto me?' Vika presses firmly in the scene, building the phrase around "yest" ("there is") and "reshil" ("has decided") for a crisp, natural delivery.
+- 'It is me. It was slippery, but everything is fine now.' Nagiyev projects a warm attitude in this beat, joining "skolzko" ("fine") to "uzhe" ("already, now") so every word pulls its weight.
+- 'Hello, Aslan.' Nagiyev takes a steady mood in the conversation, putting "aslan" ("aslan") alongside "allo" ("hello") in a tight, everyday turn of phrase.
+- 'Hello, my dear friend.' Nagiyev keeps a steady note in front of Max, weaving "dorogoy" ("dear") together with "zdravstvuy" ("hello") just the way native speakers do.
+- 'Well, I will call back. Take care.' Nagiyev sets a direct position in this beat, pairing "perezvonyu" ("will call back") with "davay" ("let's") to get the point across in plain spoken Russian.

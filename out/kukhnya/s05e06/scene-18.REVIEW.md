@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Stellate sturgeon, in person!' With the fish and moment at stake, Senya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Senya, where did you get such a beauty?' Here asking where Senya gets such a beauty shows Fedya looking for the real truth.
-- 'Oh, I earned this with my own wit!' Around the fish and point, Senya makes his point loud and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'What will you do with the spoiled fish?' Asking what Fedya does with the spoiled fish will cuts straight through the tension between Timur and Fedya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I threw it out.' Pointing out that he threw it out gives Fedya a sobering reality check.
-- 'Can you give it to me?' Here checking whether Fedya gives it to him shows Timur looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Five hundred rubles.' Around the plan and fish, Senya sets a calm, everyday tone with Fedya.
-- 'What do you mean five hundred rubles?' Wondering what Fedya means five hundred rubles cuts straight through the tension between Timur and Fedya.
-- 'You were going to throw it out!' Because Fedya was going to throw it out, Timur does not bother softening the blow for Fedya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Now a demand for it has appeared.' Admitting that a demand for it has appeared shows Senya being honest for a change.
-- 'Take it, it is a good fish.' Saying that Fedya should take it it is a good fish is how Senya sets the tone with Fedya.
-- 'It just spoiled a little.' Between the plan and the fish, Senya gives Fedya a quick, grounded response.
+- 'Stellate sturgeon, in person!' Senya strikes a thoughtful tempo in this beat, linking "sevryuga" ("stellate sturgeon"), "sobstvennoy" ("own, proper"), and "personoy" ("in person") in one brisk exchange.
+- 'Senya, where did you get such a beauty?' Fedya questions boldly from the start, pairing "gde" ("where") with "krasotu" ("beauty") to get the point across in plain spoken Russian.
+- 'Oh, I earned this with my own wit!' Senya keeps a firm view toward Fedya, using "zarabotal" (from "zarabotat", "to start working") alongside "sobstvennym" ("own") to shape the meaning.
+- 'What will you do with the spoiled fish?' Timur queries briskly with Senya now, joining "propavshuyu" ("missing, lost") to "rybu" ("fish") so every word pulls its weight.
+- 'I threw it out.' Senya establishes an easygoing footing toward Fedya, putting all the weight on "vykinul" ("threw away") so the reply lands immediately.
+- 'Can you give it to me?' Timur probes quietly during the talk, linking "mozhesh" ("can"), "otdat" ("give, hand over"), and "mne" ("to me") in one brisk exchange.
+- 'Five hundred rubles.' Senya shows a frank line with Fedya, joining "rubley" ("roubles") to "pyatsot" ("five hundred") so every word pulls its weight.
+- 'What do you mean five hundred rubles?' Timur challenges wryly beside Senya, anchoring the Russian line on "rubley" ("roubles") and "pyatsot" ("five hundred") without extra filler.
+- 'You were going to throw it out!' Timur establishes a direct angle on the spot, putting "vykidyvat" ("to throw out") alongside "sobralsya" ("got ready, planned") in a tight, everyday turn of phrase.
+- 'Now a demand for it has appeared.' Senya shows a measured attitude in the room, joining "seychas" ("now") to "spros" ("demand") so every word pulls its weight.
+- 'Take it, it is a good fish.' Senya strikes a warm mood at once, linking "beri" ("take, grab"), "khoroshaya" ("good"), and "ryba" ("fish") in one brisk exchange.
+- 'It just spoiled a little.' Senya shares a pointed mood on the spot, combining "tolko" ("only") and "nemnogo" ("a bit") so the key meaning lands right away.

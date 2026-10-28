@@ -16,7 +16,7 @@ TRANSITION = "Alright, let's listen to all those lines again from the top."
 OUTRO = 'That wraps up this scene as at the apartment, Rodion Sergeyevich teaches Max the proper Italian ice-bath method for cooking al dente vegetables and bonds with Max and Kostya over drinks. Until next time!'
 CLOSING = ('vika', 'Пока!')
 STORY = [
-    ('max', 'Опять вы передерживаете овощи, Максим Леонидович.', 'You are overcooking the vegetables again, Maxim Leonidovich.', [(234, 'Опять вы передерживаете овощи, Максим Леонидович')], ''),
+    ('vika', 'Опять вы передерживаете овощи, Максим Леонидович.', 'You are overcooking the vegetables again, Maxim Leonidovich.', [(234, 'Опять вы передерживаете овощи, Максим Леонидович')], ''),
     ('vika', 'Это уж будет не аль денте.', 'That will not be al dente anymore.', [(235, 'Это уж будет не аль денте')], ''),
     ('max', 'Можно я?', 'May I show you?', [(236, 'Можно я')], ''),
     ('vika', 'После того, как вы слили воду.', 'Right after you drain the boiling water.', [(237, 'После того, как вы слили воду')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Я там у вас в холодильнике видел.', 'I spotted something in your refrigerator earlier.', [(249, 'Я там у вас в холодильнике видел')], ''),
 ]
 WALK = [
-    (0, None, '\'You are overcooking the vegetables again, Maxim Leonidovich.\' Mentioning that Vika is overcooking the vegetables again Maxim moves the talk in a new direction. Notice how he sticks to the formal "you", keeping a professional line between them.'),
-    (1, None, "'That will not be al dente anymore.' Vika reminds Max that that will not be al dente anymore before the moment passes."),
-    (2, None, '\'May I show you?\' Asking whether may he shows Vika puts Vika right on the defensive. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
-    (3, None, '\'Right after you drain the boiling water.\' Around the work and kitchen, Vika sets a calm, everyday tone with Max. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.'),
-    (4, None, "'You have to plunge the vegetables into ice water.' Max mentions that Vika has to plunge the vegetables into ice water so Vika sees what is at stake."),
-    (5, None, '\'That is what is called al dente.\' Claiming that that is what is called al dente sounds confident, even if Max has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (6, None, "'Which translated from Italian means...' Pointing out that which translated from Italian means gives Vika a sobering reality check."),
-    (7, None, "'Do you taste the difference? Not bad, right?' Here checking whether Max tastes the difference shows Vika looking for the real truth."),
-    (8, None, '\'I never would have thought of that.\' Realizing that he never would have thought changes how Max handles the situation. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.'),
-    (9, None, '\'You know what.\' With the point and kitchen in play, Vika keeps this short reply brisk and direct. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.'),
-    (10, None, "'No offense, Rodion Sergeyevich.' Over the point and the table, Max answers Vika without a second thought."),
-    (11, None, '\'None taken at all.\' Turning from the masterclass to the conversation, Vika asks Max directly. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (12, None, '\'I spotted something in your refrigerator earlier.\' With the point and conversation in play, Max keeps this short reply brisk and direct. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
+    (0, None, '\'You are overcooking the vegetables again, Maxim Leonidovich.\' Vika establishes an emphatic tempo on the spot, weaving "opyat" ("again") together with "perederzhivayete" ("to overcook") just the way native speakers do.'),
+    (1, None, '\'That will not be al dente anymore.\' Vika maintains a steady view without hesitation, combining "budet" ("will be") and "dente" ("dente") so the key meaning lands right away.'),
+    (2, None, '\'May I show you?\' Max queries honestly to make the point, weaving "mozhno" ("may, can") together with "ya" ("I") just the way native speakers do.'),
+    (3, None, '\'Right after you drain the boiling water.\' Vika picks a lively attitude in front of Max, anchoring the Russian line on "kak" ("how") and "slili" ("to pour off") without extra filler.'),
+    (4, None, '\'You have to plunge the vegetables into ice water.\' Max holds a grounded manner during the exchange, leaning on "nado" ("it is necessary") before closing the thought with "opustit" ("to lower, put down").'),
+    (5, None, '\'That is what is called al dente.\' Vika conveys a measured mood in this beat, building the phrase around "nazyvayetsya" ("is called") and "dente" ("dente") for a crisp, natural delivery.'),
+    (6, None, '\'Which translated from Italian means...\' Max chooses an honest note in the room, leaning on "perevode" ("translation") before closing the thought with "italyanskogo" ("Italian").'),
+    (7, None, '\'Do you taste the difference? Not bad, right?\' Vika presses quietly right away, leaning on "chuvstvuyete" ("feel") before closing the thought with "neplokho" ("not bad").'),
+    (8, None, '\'I never would have thought of that.\' Max takes a firm view in this beat, leaning on "nikogda" ("never") before closing the thought with "podumal" ("would think").'),
+    (9, None, '\'You know what.\' Vika holds a steady note in this beat, using "znayete" (from "znat", "know") alongside "vy" ("you") to shape the meaning.'),
+    (10, None, '\'No offense, Rodion Sergeyevich.\' Max keeps a wry note straight away, weaving "obid" ("hard feelings") together with "bez" ("without") just the way native speakers do.'),
+    (11, None, '\'None taken at all.\' Vika inquires quietly in the scene, leaning on "obidy" ("offense, resentment") before closing the thought with "kakiye" ("what").'),
+    (12, None, '\'I spotted something in your refrigerator earlier.\' Max shares a calm style at once, leaning on "tam" ("there") before closing the thought with "kholodilnike" ("fridge").'),
 ]

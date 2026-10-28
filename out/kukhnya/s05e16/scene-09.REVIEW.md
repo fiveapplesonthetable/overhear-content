@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, wait a minute, we need to talk seriously.' Over the ring and the point, Max answers Vika without a second thought. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Is that why you put your wedding ring back on your finger?' Checking whether that why Max puts Max's wedding ring back on Max's finger is how Vika puts Max on the spot.
-- 'I did not even take it off yesterday in front of that girl!' Declaring that he did not even take it off yesterday in front of that girl brings Max's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I lied to her on purpose that it does not come off.' Since he lied to her on purpose that it does not come off, Max does not waste words on excuses.
-- 'Now the part about you lying I readily believe!' With the point and ring at stake, Vika reacts without holding back.
-- 'That was my former classmate, nothing happened between us!' Because that was his former classmate nothing happened between them, Max does not bother softening the blow for Vika. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'She tried to kiss me, but I honestly held back.' Because she tried to kiss him but he honestly held back, Max treats the matter as settled.
-- 'Because I still love only you!' Once because he still loves only Vika, Max makes sure Vika hears every word.
-- 'Too bad you did not hold back when we were married.' Vika mentions that too bad Max did not hold back when they were married so Max sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And now it is too late, I no longer love you.' Claiming that it is too late she no longer love Max sounds confident, even if Max has doubts. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Be a real man at last and stop humiliating yourself!' Between the truth and the ring, Vika delivers a sharp reaction.
-- 'Hello, Dasha, is your offer about Sochi still open?' Wondering if Dasha is Vika's offer about Sochi still open shows Max caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Vika, wait a minute, we need to talk seriously.' Max maintains a sharp line as the scene unfolds, pairing "podozhdi" ("wait") with "minutu" ("a minute") to get the point across in plain spoken Russian.
+- 'Is that why you put your wedding ring back on your finger?' Vika wonders promptly in the scene, combining "poetomu" ("that's why") and "snova" ("again") so the key meaning lands right away.
+- 'I did not even take it off yesterday in front of that girl!' Max displays an easygoing posture in the scene, combining "snimal" ("to take off") and "vchera" ("yesterday") so the key meaning lands right away.
+- 'I lied to her on purpose that it does not come off.' Max chooses a calm view at once, anchoring the Russian line on "spetsialno" ("on purpose") and "sovral" ("lied") without extra filler.
+- 'Now the part about you lying I readily believe!' Vika holds a pointed bearing toward Max, building the phrase around "sovral" ("lied") and "okhotno" ("gladly, willingly") for a crisp, natural delivery.
+- 'That was my former classmate, nothing happened between us!' Max brings a grounded mood with Vika, pairing "byla" ("was") with "byvshaya" ("former") to get the point across in plain spoken Russian.
+- 'She tried to kiss me, but I honestly held back.' Max strikes a firm course for Vika, combining "pytalas" ("tried") and "potselovat" ("to kiss") so the key meaning lands right away.
+- 'Because I still love only you!' Max picks a frank tack in the room, weaving "potomu" ("because") together with "por" ("time") just the way native speakers do.
+- 'Too bad you did not hold back when we were married.' Vika sets an easygoing direction in the scene, pairing "zhal" ("it is a pity") with "sderzhalsya" ("hold back") to get the point across in plain spoken Russian.
+- 'And now it is too late, I no longer love you.' Vika sets a clear footing in the room, linking "teper" ("now"), "uzhe" ("already, now"), and "pozdno" ("too late, late") in one brisk exchange.
+- 'Be a real man at last and stop humiliating yourself!' Vika favors a resolute tempo right away, anchoring the Russian line on "bud" ("were he") and "nakonets" ("at last, finally") without extra filler.
+- 'Hello, Dasha, is your offer about Sochi still open?' Max wonders wryly in the room, joining "predlozheniye" ("offer, proposal") to "yeshchyo" ("more, still") so every word pulls its weight.

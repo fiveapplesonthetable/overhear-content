@@ -7,7 +7,7 @@ SCENE = 19
 TITLE = 'Мужской разговор на лестнице и коньяк  (Man-to-Man Talk on the Stairs and Cognac)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
+LABELS = {'kostya': 'Костя', 'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.08'
 SOURCE_FILE = 'sources/kukhnya/s02/e08.ru.srt'
 INTRO = "When Stepan Andreyevich loses his temper and shouts at Nastya at the table, Kostya firmly tells him not to yell at his daughter and invites him to step outside into the hallway. Impressed that Kostya is brave enough to defend Nastya's principles against him, Stepan Andreyevich pulls out a bottle of cognac and meat snacks on the stairs."
@@ -18,7 +18,7 @@ CLOSING = ('kostya', 'Увидимся!')
 STORY = [
     ('kostya', 'То это его дело.', 'Then that is his own business.', [(327, 'то это его дело')], ''),
     ('nastya', 'И не надо на Настю орать.', 'And there is no need to yell at Nastya.', [(328, 'И не надо на Настю орать')], ''),
-    ('kostya', 'Настя, Костя, перестаньте.', 'Nastya, Kostya, please stop.', [(330, 'Настя, Костя, перестаньте')], ''),
+    ('max', 'Настя, Костя, перестаньте.', 'Nastya, Kostya, please stop.', [(330, 'Настя, Костя, перестаньте')], ''),
     ('nastya', 'Ты кто такой?', 'Who do you think you are?', [(331, 'Ты кто такой')], ''),
     ('kostya', 'Ну-ка, пойдем выйдем.', 'Come on, let us step outside.', [(332, 'Ну-ка, пойдем выйдем')], ''),
     ('nastya', 'Ты что думаешь?', 'What do you think you are doing?', [(333, 'Ты что думаешь')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Коньяк будешь?', 'Want some cognac?', [(339, 'Коньяк будешь')], ''),
 ]
 WALK = [
-    (0, None, "'Then that is his own business.' Once that is his own business, Kostya can finally tell Nastya what he means."),
-    (1, None, "'And there is no need to yell at Nastya.' Adding that there is no need to yell at Nastya fills in the missing piece for Kostya. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
-    (2, None, "'Nastya, Kostya, please stop.' With the truth and table in play, Kostya keeps this short reply brisk and direct."),
-    (3, None, "'Who do you think you are?' Asking who Kostya thinks Kostya is is how Nastya puts Kostya on the spot."),
-    (4, None, "'Come on, let us step outside.' By telling Nastya to come on let them step outside, Kostya keeps his side of the story grounded."),
-    (5, None, '\'What do you think you are doing?\' By wondering what Kostya thinks Kostya is doing, Nastya presses Kostya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (6, None, "'And what will she do for you?' Asking what she do for Nastya will cuts straight through the tension between Kostya and Nastya."),
-    (7, None, '\'Love you more for it?\' Over the meat and the shift, Nastya presses Kostya for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (8, None, '\'Those are her principles, right?\' Asking whether those are her principles right puts Nastya right on the defensive. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (9, None, "'I respect them, and you ought to respect them too.' Nastya reminds Kostya that she respects them and Kostya ought to respect them before the moment passes."),
-    (10, None, "'You will not have to beg me for long.' Pointing out that Nastya will not have to beg him for long gives Nastya a sobering reality check."),
-    (11, None, "'Dad, we do not drink alcohol.' Nastya explains that dad they do not drink alcohol, keeping her voice calm and direct."),
-    (12, None, "'Want some cognac?' Around the kitchen and moment, Kostya wants to know where Nastya really stands."),
+    (0, None, '\'Then that is his own business.\' Kostya sets an emphatic note for Max, building the phrase around "delo" ("matter") and "to" ("that") for a crisp, natural delivery.'),
+    (1, None, '\'And there is no need to yell at Nastya.\' Nastya shares an unhurried view as the scene unfolds, putting "nado" ("it is necessary") alongside "orat" ("to yell, to bellow") in a tight, everyday turn of phrase.'),
+    (2, None, '\'Nastya, Kostya, please stop.\' Max sustains a natural posture as they talk, weaving "perestante" ("stop it") together with "nastya" ("Nastya") just the way native speakers do.'),
+    (3, None, '\'Who do you think you are?\' Nastya presses frankly beside Max, putting "ty" ("you") alongside "kto" ("who") in a tight, everyday turn of phrase.'),
+    (4, None, '\'Come on, let us step outside.\' Kostya presents a firm tack during the exchange, putting "poydem" ("let\'s go") alongside "vyydem" ("to go out, to get out") in a tight, everyday turn of phrase.'),
+    (5, None, '\'What do you think you are doing?\' Nastya inquires pointedly as the talk turns, putting "dumayesh" ("think") alongside "ty" ("you") in a tight, everyday turn of phrase.'),
+    (6, None, '\'And what will she do for you?\' Kostya checks quietly as the talk turns, linking "ona" ("it"), "tebya" ("you"), and "chto" ("what") in one brisk exchange.'),
+    (7, None, '\'Love you more for it?\' Nastya asks decisively without holding back, anchoring the Russian line on "lyubit" ("love") and "bolshe" ("more") without extra filler.'),
+    (8, None, '\'Those are her principles, right?\' Kostya presses evenly right away, placing "printsipy" ("principles") straight beside "eto" ("this") with no word for "to be" needed.'),
+    (9, None, '\'I respect them, and you ought to respect them too.\' Nastya sustains a warm stance without hesitation, joining "uvazhayu" ("to respect") to "dolzhny" ("must, should") so every word pulls its weight.'),
+    (10, None, '\'You will not have to beg me for long.\' Kostya chooses a lively course toward Max, pairing "pridetsya" ("will have to") with "prosit" ("to ask, to beg") so the "-sya" ending carries the action.'),
+    (11, None, '\'Dad, we do not drink alcohol.\' Nastya presents a measured note in the conversation, joining "papa" ("Dad") to "pyem" ("to drink") so every word pulls its weight.'),
+    (12, None, '\'Want some cognac?\' Kostya questions directly to Max here, pairing "konyak" ("cognac, brandy") with "budesh" ("will") to get the point across in plain spoken Russian.'),
 ]

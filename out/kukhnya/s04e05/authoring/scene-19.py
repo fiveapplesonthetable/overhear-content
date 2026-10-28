@@ -7,7 +7,7 @@ SCENE = 19
 TITLE = 'Разоблачение во дворе  (Exposure in the Courtyard)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'german': 'Герман', 'max': 'Макс', 'vika': 'Вика'}
+LABELS = {'denis': 'Денис', 'german': 'Герман', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S4.05'
 SOURCE_FILE = 'sources/kukhnya/s04/e05.ru.srt'
 INTRO = 'Out in the courtyard, German catches the cooks smoking instead of exercising. When Max frantically orders them to do gymnastics bends, the whole truth comes out, costing Max his sous-chef title—and things get even worse at home when Denis asks for his rent money.'
@@ -25,21 +25,21 @@ STORY = [
     ('max', 'Герман Михайлович, я сейчас всё вам объясню.', 'German Mikhailovich, I will explain everything to you right now.', [(298, 'Герман Михайлович, парни, я сейчас все объясню.')], 'adapted'),
     ('german', 'Лавров, вы обманули весь наш коллектив.', 'Lavrov, you deceived our entire staff.', [(300, 'Во-первых, вы оманули коллектив')], 'adapted'),
     ('german', 'Короче, вы больше не мой су-шеф!', 'In short, you are no longer my sous-chef!', [(302, 'Короче, вы больше не из-за шефа.')], 'adapted'),
-    ('vika', 'Макс, ты всегда в своём репертуаре.', 'Max, you are always true to form.', [(311, 'Ты, как всегда, в своем репертуаре.')], 'adapted'),
+    ('denis', 'Макс, ты всегда в своём репертуаре.', 'Max, you are always true to form.', [(311, 'Ты, как всегда, в своем репертуаре.')], 'adapted'),
     ('max', 'Денис, прости, я случайно потратил твои деньги.', 'Denis, forgive me, I accidentally spent your money.', [(315, 'Короче, я их потратил.')], 'adapted'),
-    ('vika', 'Что ты наделал, ведь это мои деньги!', 'What have you done, after all that is my money!', [(318, 'И ты же их давала.'), (319, 'Вообще-то она.')], 'adapted'),
+    ('denis', 'Что ты наделал, ведь это мои деньги!', 'What have you done, after all that is my money!', [(318, 'И ты же их давала.'), (319, 'Вообще-то она.')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'Lavrov, and what is going on here right now?' Wondering what going on here right now is is how German puts Max on the spot."),
-    (1, None, "'We came out to do some workplace gymnastics!' Max declares that they came out to do some workplace gymnastics as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (2, None, '\'Guys, let\'s quickly do bends to the right and left!\' By proposing that they quickly do bends to the right and left, Max raises the stakes in the room at once. Starting with "davay" is the everyday Russian way to say "come on, let us do this".'),
-    (3, None, "'They asked for gymnastics, and instead arranged smoke breaks.' German mentions that they asked for gymnastics and instead arranged smoke breaks so Max sees what is at stake."),
-    (4, None, '\'And what was the demonstration by my office about?\' Asking what the demonstration by his office was is how German puts Max on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (5, None, '\'Who said that I want to cut your salary?\' German asks whether who said that he wants to cut Max\'s salary, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (6, None, "'German Mikhailovich, I will explain everything to you right now.' Max mentions that he will explain everything to German right now so German sees what is at stake."),
-    (7, None, '\'Lavrov, you deceived our entire staff.\' With the money and truth in play, German keeps this short reply brisk and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (8, None, '\'In short, you are no longer my sous-chef!\' German declares that in short Max is no longer as the tension in the room peaks. Notice how he sticks to the formal "you", keeping a professional line between them.'),
-    (9, None, "'Max, you are always true to form.' Even though German is always true to form, Vika keeps a steady face in front of German."),
-    (10, None, '\'Denis, forgive me, I accidentally spent your money.\' Admitting that he accidentally spent German\'s money shows Max being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (11, None, '\'What have you done, after all that is my money!\' Once what have German done after all that is her money, Vika makes sure German hears every word. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (0, None, '\'Lavrov, and what is going on here right now?\' German challenges plainly to keep things clear, pairing "zdes" ("here") with "seychas" ("now") to get the point across in plain spoken Russian.'),
+    (1, None, '\'We came out to do some workplace gymnastics!\' Max offers an emphatic posture without hesitation, pairing "vyshli" ("came out") with "pozanimatsya" ("to workplace") to get the point across in plain spoken Russian.'),
+    (2, None, '\'Guys, let\'s quickly do bends to the right and left!\' Max brings a pointed attitude as the scene unfolds, combining "parni" ("guys, boys") and "davayte" ("let\'s") so the key meaning lands right away.'),
+    (3, None, '\'They asked for gymnastics, and instead arranged smoke breaks.\' German holds an earnest tone as the scene unfolds, linking "prosili" ("asked, requested"), "gimnastiku" ("gymnastics"), and "ustroili" ("to arrange") in one brisk exchange.'),
+    (4, None, '\'And what was the demonstration by my office about?\' German prompts evenly to Denis here, anchoring the Russian line on "demonstratsiya" ("demonstration") and "kabineta" ("office") without extra filler.'),
+    (5, None, '\'Who said that I want to cut your salary?\' German presses earnestly for Max\'s benefit, weaving "skazal" ("said") together with "khochu" ("want") just the way native speakers do.'),
+    (6, None, '\'German Mikhailovich, I will explain everything to you right now.\' Max strikes an earnest line straight away, building the phrase around "seychas" ("now") and "obyasnyu" ("I\'ll explain") for a crisp, natural delivery.'),
+    (7, None, '\'Lavrov, you deceived our entire staff.\' German brings a candid approach for Max, combining "obmanuli" ("cheated") and "kollektiv" ("staff, collective") so the key meaning lands right away.'),
+    (8, None, '\'In short, you are no longer my sous-chef!\' German presents a thoughtful attitude in this beat, joining "koroche" ("long story short") to "bolshe" ("more") so every word pulls its weight.'),
+    (9, None, '\'Max, you are always true to form.\' Denis shows a wry position in the room, building the phrase around "vsegda" ("always") and "repertuare" ("form") for a crisp, natural delivery.'),
+    (10, None, '\'Denis, forgive me, I accidentally spent your money.\' Max strikes a lively line as the scene unfolds, combining "prosti" ("sorry, forgive me") and "sluchayno" ("by any chance") so the key meaning lands right away.'),
+    (11, None, '\'What have you done, after all that is my money!\' Denis takes a thoughtful angle straight away, weaving "nadelal" ("make, cause") together with "dengi" ("money") just the way native speakers do.'),
 ]

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing? Drinking tea.' Over the hotel and the conversation, Nastya presses Barinov for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Come on, spill it. Trouble with Denis?' Around the hotel and work, Nastya wants to know where Barinov really stands.
-- 'No, everything is fine with Denis.' Saying that everything is fine with Denis is how Katya sets the tone with Barinov.
-- 'Come on, fine. When things were fine, we could hear the two of you every single night.' Once Barinov should come on fine, Nastya can finally tell Barinov what she means. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Alright, this conversation is not going to work over plain tea.' Adding that Alright this conversation is not going to work over plain tea fills in the missing piece for Barinov.
-- 'Lena, I am really glad you called.' Saying that someone he is really glad Katya called is how Barinov sets the tone with Katya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And you are not glad I stopped by? That you stopped by makes me downright thrilled.' Questioning whether Katya is not glad he stopped is how Barinov tests Katya's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'A crazy thought just flashed through my mind.' Mentioning that a crazy thought just flashed through his mind moves the talk in a new direction.
-- 'Why don't we try starting things over from the beginning?' Here wondering why not they try starting things over from the beginning shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Secondly, you are never going to change anyway.' Because secondly Katya is never going to change anyway, Barinov treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I have already changed.' Barinov explains that he has already changed, keeping his voice calm and direct.
-- 'At least give me a chance to invite you on a date.' Between the morning and the work, Barinov gives Katya a quick, grounded response. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Fine. Let us have a date.' Since they should have a date, Barinov does not waste words on excuses.
-- 'Tomorrow right here in the restaurant.' With the hotel and chance in play, Barinov keeps this short reply brisk and direct.
+- 'What are you doing? Drinking tea.' Nastya presses honestly in front of Barinov, using "delayesh" (from "delat", "are you doing") alongside "chay" ("tea") to shape the meaning.
+- 'Come on, spill it. Trouble with Denis?' Nastya tests openly in their exchange, joining "rasskazyvay" ("tell") to "denisom" ("time") so every word pulls its weight.
+- 'No, everything is fine with Denis.' Katya takes an easygoing approach in this beat, pairing "denisom" ("time") with "normalno" ("fine, OK") to get the point across in plain spoken Russian.
+- 'Come on, fine. When things were fine, we could hear the two of you every single night.' Nastya offers a clear manner in this beat, weaving "normalno" ("fine, OK") together with "kogda" ("when") just the way native speakers do.
+- 'Alright, this conversation is not going to work over plain tea.' Nastya chooses a lively bearing across the room, anchoring the Russian line on "chay" ("tea") and "razgovor" ("conversation") without extra filler.
+- 'Lena, I am really glad you called.' Barinov favors a candid manner across the room, putting "len" ("Lena") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
+- 'And you are not glad I stopped by? That you stopped by makes me downright thrilled.' Barinov checks wryly without hesitation, anchoring the Russian line on "zayekhala" ("stopped by") and "rad" ("glad") without extra filler.
+- 'A crazy thought just flashed through my mind.' Barinov takes a firm line as the scene unfolds, pairing "tut" ("here") with "shalnaya" ("crazy, wild") to get the point across in plain spoken Russian.
+- 'Why don't we try starting things over from the beginning?' Barinov questions decisively in the room, combining "poprobovat" ("to taste") and "snachala" ("first, at first") so the key meaning lands right away.
+- 'Secondly, you are never going to change anyway.' Barinov picks a playful posture without hesitation, putting "vo-vtorykh" ("second") alongside "ravno" ("the same") in a tight, everyday turn of phrase.
+- 'I have already changed.' Barinov takes an unhurried tone across the room, building the phrase around "uzhe" ("already, now") and "izmenilsya" ("have changed") for a crisp, natural delivery.
+- 'At least give me a chance to invite you on a date.' Barinov presents a steady style at this moment, pairing "shans" ("chance") with "priglasit" ("to invite") to get the point across in plain spoken Russian.
+- 'Fine. Let us have a date.' Barinov adopts a wry view at once, combining the easygoing tag "ladno" ("okay, fine") with "budet" ("will be") to give the line its natural spoken rhythm.
+- 'Tomorrow right here in the restaurant.' Barinov favors a natural angle with Nastya, pairing "zavtra" ("tomorrow") with "zdes" ("here") to get the point across in plain spoken Russian.

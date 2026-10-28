@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, go on, get to work.' Turning from the office to the match, Barinov keeps the exchange moving.
-- 'Thank you, Chef.' Over the office and the kitchen, Fedya answers Barinov without a second thought.
-- 'Forgive me for earlier.' Between the office and the luck, Barinov gives Fedya a quick, grounded response.
-- 'It turned out to be a dumb joke.' Fedya explains that it turned out to be a dumb joke, keeping his voice calm and direct.
-- 'Well, forgive me too if anything was wrong.' Realizing that too if anything was wrong changes how Barinov handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Why did you call me over to you?' By wondering why Barinov calls him over to Barinov, Fedya presses Barinov for a straight answer.
-- 'And why does this always happen on my shift?' Asking why this always happen on his shift cuts straight through the tension between Barinov and Fedya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Wait, what is wrong with him?' Wondering what wrong with him is is how Fedya puts Barinov on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Spartak lost again, when will they ever...' Saying that Spartak lost again when will they ever is how Barinov sets the tone with Fedya.
-- 'Learn how to play football.' Claiming that Barinov should learn how to play football sounds confident, even if Barinov has doubts.
-- 'Why am I surrounded exclusively by invalids?' With the moment and point hanging in the air, Barinov puts Fedya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You say your beard is lucky, huh!' Declaring that Barinov says Barinov's beard is lucky huh brings Fedya's temper right to the surface.
-- 'It does not help you at all!' Barinov insists that it does not help Fedya at all, leaving Fedya no room to argue. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'All right, go on, get to work.' Barinov chooses a candid rhythm across the room, anchoring the Russian line on "khorosho" ("good, fine") and "idi" ("go") without extra filler.
+- 'Thank you, Chef.' Fedya establishes an honest bearing in this beat, pairing "spasibo" ("thank you") with "shef" ("Chef") to get the point across in plain spoken Russian.
+- 'Forgive me for earlier.' Barinov conveys an honest direction beside Fedya, weaving "izvini" ("sorry, excuse me") together with "ty" ("you") just the way native speakers do.
+- 'It turned out to be a dumb joke.' Fedya picks a grounded rhythm as they talk, linking "tupaya" ("stupid, obtuse"), "shutka" ("joke, prank"), and "poluchilas" ("turned out") in one brisk exchange.
+- 'Well, forgive me too if anything was wrong.' Barinov maintains a serious rhythm straight away, anchoring the Russian line on "tozhe" ("too") and "izvini" ("sorry, excuse me") without extra filler.
+- 'Why did you call me over to you?' Fedya checks evenly as they speak, joining "zachem" ("what for") to "pozval" ("invited") so every word pulls its weight.
+- 'And why does this always happen on my shift?' Barinov quizzes decisively from the start, linking "pochemu" ("why"), "opyat" ("again"), and "proiskhodit" ("is going on") in one brisk exchange.
+- 'Wait, what is wrong with him?' Fedya questions decisively in this moment, anchoring the Russian line on "nu" ("oh, come on") and "chto" ("what") without extra filler.
+- 'Spartak lost again, when will they ever...' Barinov keeps a resolute posture in their talk, weaving "opyat" ("again") together with "proigral" ("lost") just the way native speakers do.
+- 'Learn how to play football.' Fedya establishes an earnest mood without hesitation, weaving "igrat" ("to play") together with "nauchitsya" ("to learn") just the way native speakers do.
+- 'Why am I surrounded exclusively by invalids?' Barinov presses directly without hesitation, putting "pochemu" ("why") alongside "okruzhayut" ("to surround") in a tight, everyday turn of phrase.
+- 'You say your beard is lucky, huh!' Fedya keeps a clear line beside Barinov, building the phrase around "schastlivyy" ("lucky") and "govorish" ("you say") for a crisp, natural delivery.
+- 'It does not help you at all!' Barinov chooses a playful course straight away, combining "sovsem" ("at all") and "pomogayet" ("helps") so the key meaning lands right away.

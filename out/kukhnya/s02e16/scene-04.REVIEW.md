@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, son, hello.' Over the phone and the call, Barinov answers Vika without a second thought.
-- 'Are you at work?' Here asking whether Barinov at work shows Vika looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Please keep quiet for a moment.' Here telling Vika to keep quiet for a moment sets up the next turn in their exchange.
-- 'I am fine. Only the fridge here is empty.' Noting that she is fine keeps Vika's side of the story simple and clear.
-- 'Did you put on your warm socks?' Checking whether Vika puts on Vika's warm socks is how Barinov puts Vika on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I am not five years old, mom.' Pointing out that she is not five years old gives Barinov a sobering reality check.
-- 'Lena, now you are the one acting like a child.' Barinov mentions that someone now Vika is the one acting like a child so Vika sees what is at stake.
-- 'What do you mean, heading to work?' Wondering what Barinov means heading to work cuts straight through the tension between Vika and Barinov. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What about breakfast?' With the moment and truth hanging in the air, Barinov puts Vika on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'That sounds so appetizing.' Vika explains that that sounds so appetizing, keeping her voice calm and direct.
-- 'That is my favorite pizza.' Realizing that that is his favorite pizza changes how Barinov handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Well, of course.' Between the order and the work, Vika gives Barinov a quick, grounded response.
-- 'At least we will have another half hour together.' Even though at least they will have another half hour together, Barinov keeps a steady face in front of Vika.
+- 'Yes, son, hello.' Barinov projects a playful angle in this beat, joining "synok" ("son") to "da" ("yes") so every word pulls its weight.
+- 'Are you at work?' Vika quizzes evenly in their exchange, using "rabote" (from "rabota", "work") alongside "ty" ("you") to shape the meaning.
+- 'Please keep quiet for a moment.' Barinov sustains a serious attitude during the exchange, building the phrase around "tikho" ("easy, quiet") and "proshu" ("beg, ask") for a crisp, natural delivery.
+- 'I am fine. Only the fridge here is empty.' Vika favors a firm note at once, joining "normalno" ("fine, OK") to "tolko" ("only") so every word pulls its weight.
+- 'Did you put on your warm socks?' Barinov asks earnestly at this point, pairing "noski" ("socks") with "nadel" ("put on") to get the point across in plain spoken Russian.
+- 'I am not five years old, mom.' Vika holds a clear position without hesitation, anchoring the Russian line on "let" ("years") and "pyat" ("five") without extra filler.
+- 'Lena, now you are the one acting like a child.' Barinov shares a natural rhythm as the scene unfolds, putting "leda" ("ice") alongside "vedesh" ("lead, behave") in a tight, everyday turn of phrase.
+- 'What do you mean, heading to work?' Vika challenges naturally beside Barinov, joining "kak" ("how") to "rabotu" ("job") so every word pulls its weight.
+- 'What about breakfast?' Barinov inquires decisively during the talk, letting the single Russian word "zavtrak" ("breakfast") carry the entire reaction on its own.
+- 'That sounds so appetizing.' Vika shares an emphatic stance in this beat, building the phrase around "kak" ("how") and "appetitno" ("appetizingly") for a crisp, natural delivery.
+- 'That is my favorite pizza.' Barinov keeps a calm footing beside Vika, building the phrase around "lyubimaya" ("favourite, beloved") and "pitstsa" ("pizza") for a crisp, natural delivery.
+- 'Well, of course.' Vika shows a steady mood toward Barinov, building the phrase around "konechno" ("of course") and "nu" ("oh, come on") for a crisp, natural delivery.
+- 'At least we will have another half hour together.' Barinov displays a brisk direction in front of Vika, joining "budet" ("will be") to "yeshche" ("still") so every word pulls its weight.

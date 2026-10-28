@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, Kostya, I think my contractions have just started!' Nastya declares that she thinks her contractions have just started as the tension in the room peaks.
-- 'Then we are urgently going to the hospital right now!' Saying that they are urgently going to the hospital right now is how Kostya takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Kostya, no! We will definitely sign the marriage registry here first!' Nastya declares that they will definitely sign the marriage registry here first as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Do you, Konstantin, agree to take Anastasia as your wife?' Checking whether Kostya Konstantin agree to take as Kostya's wife cuts straight through the tension between Max and Kostya.
-- 'Yes, I agree, just please hurry up!' Kostya declares that he agrees just please hurry up as the tension in the room peaks. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Do you, Anastasia, agree to take Konstantin as your husband?' Here asking whether Kostya agrees to take Konstantin as Kostya's husband shows Max looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Yes! Hurry and pronounce us husband and wife!' Nastya declares that Kostya should hurry and pronounce them husband and wife as the tension in the room peaks.
-- 'Kiss, exchange rings, sign the registry, and go quickly!' Saying that Kostya should kiss exchange rings sign the registry and go quickly is how Max takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Here is your ring, let us kiss quickly!' Saying that here is Max's ring let them kiss quickly is how Kostya takes charge of the moment. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'That is it, my love, now I am picking you up in my arms!' Kostya declares that that is it his love now he is picking Max up in his arms as the tension in the room peaks.
-- 'Wait, guys, is there going to be a wedding banquet today or not?' When Max asks if guys is there going to be a wedding banquet today or not, Kostya has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Friends, let us drink to the newlyweds and to our victory!' Declaring that they should drink to the newlyweds and to their victory brings Max's temper right to the surface. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Oh, Kostya, I think my contractions have just started!' Nastya presents a natural rhythm with Kostya, using "kazhetsya" (from "kazatsya", "it seems, I think") alongside "seychas" ("now") to shape the meaning.
+- 'Then we are urgently going to the hospital right now!' Kostya conveys a pointed style in front of Nastya, leaning on "togda" ("back then") before closing the thought with "pryamo" ("right, just").
+- 'Kostya, no! We will definitely sign the marriage registry here first!' Nastya chooses a candid angle on the spot, anchoring the Russian line on "obyazatelno" ("surely, without fail") and "raspishemsya" ("we will sign the marriage registry") without extra filler.
+- 'Do you, Konstantin, agree to take Anastasia as your wife?' Max challenges wryly in this moment, building the phrase around "soglasny" ("agree") and "vzyat" ("to take") for a crisp, natural delivery.
+- 'Yes, I agree, just please hurry up!' Kostya favors a serious tone as the scene unfolds, putting "soglasen" ("agreed") alongside "davayte" ("let's") in a tight, everyday turn of phrase.
+- 'Do you, Anastasia, agree to take Konstantin as your husband?' Max wonders decisively without a pause, building the phrase around "soglasny" ("agree") and "vzyat" ("to take") for a crisp, natural delivery.
+- 'Yes! Hurry and pronounce us husband and wife!' Nastya holds a frank line as they talk, weaving "skoreye" ("quickly, right away") together with "obyavlyayte" ("to declare") just the way native speakers do.
+- 'Kiss, exchange rings, sign the registry, and go quickly!' Max conveys a brisk attitude at once, weaving "potseluytes" ("to kiss") together with "obmenyaytes" ("exchange") just the way native speakers do.
+- 'Here is your ring, let us kiss quickly!' Kostya favors a calm tack at this moment, leaning on "koltso" ("ring") before closing the thought with "davay" ("let's").
+- 'That is it, my love, now I am picking you up in my arms!' Kostya strikes a warm tempo in the conversation, linking "lyubimaya" ("favourite, beloved"), "teper" ("now"), and "beru" ("to take") in one brisk exchange.
+- 'Wait, guys, is there going to be a wedding banquet today or not?' Max queries openly in front of Kostya, putting "podozhdite" ("wait") alongside "rebyata" ("the boys, the lads") in a tight, everyday turn of phrase.
+- 'Friends, let us drink to the newlyweds and to our victory!' Max offers an emphatic note for Nastya, pairing "druzya" ("friends") with "davayte" ("let's") to get the point across in plain spoken Russian.

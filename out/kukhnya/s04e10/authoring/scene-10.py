@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e10.ru.srt'
 INTRO = 'Back in the kitchen, Max and the cooks try to guess what kind of movies their stern boss German watches at home, and his eerie answer plunges the restaurant into a zombie horror story.'
 OPENER = "Let's go through each line as German describes his love of zombie films."
 TRANSITION = "Now let's hear the whole scene again from start to finish."
-OUTRO = "Remember that Russian uses the exact same feminine noun for both 'hand' and 'arm', just as one word covers both 'foot' and 'leg'. See you next time!"
+OUTRO = "Remember that Russian uses the exact same feminine word for both 'hand' and 'arm', just as one word covers both 'foot' and 'leg'. See you next time!"
 CLOSING = ('german', 'До свидания!')
 STORY = [
     ('max', 'Понятно, какое кино вы дома смотрите.', 'It is clear what kind of movies you watch at home.', [(101, 'Понятно, какое вы кино дома смотрите')], 'adapted for A1 clarity'),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Что это за шутки, Лёва?', 'What kind of jokes are these, Lyova?', [(110, 'Что за шутки-то, Лев')], 'adapted for A1 clarity'),
 ]
 WALK = [
-    (0, None, "'It is clear what kind of movies you watch at home.' Saying that it is clear what kind of movies German watches at home is how Max sets the tone with German."),
-    (1, None, '\'No, that is completely untrue.\' Since that is completely untrue, German does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (2, None, '\'Then what, sweet cartoons?\' Around the boss and restaurant, Max wants to know where German really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (3, None, "'Cartoons give a mistaken impression of people.' Between the boss and the answer, German gives Lyova a quick, grounded response."),
-    (4, None, '\'Movies about zombies are another matter.\' Because movies about zombies are another matter, German treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (5, None, "'In those, everything is honest and real.' Explaining that in those everything is honest and real lays the cards on the table for Lyova."),
-    (6, None, "'People are ready to eat each other up.' German mentions that people are ready to eat each other up so Lyova sees what is at stake."),
-    (7, None, '\'Lyova, your glove fell.\' Claiming that German\'s glove fell sounds confident, even if German has doubts. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
-    (8, None, "'And your arm fell off too!' Saying that German's arm fell off is how Max takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (9, None, "'Oh, pick it up, please.' Telling German to pick it up please moves the conversation forward without extra drama."),
-    (10, None, "'Quiet, do not scare me like that!' Because quiet do not scare him like, Max does not bother softening the blow for German. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (11, None, '\'What kind of jokes are these, Lyova?\' Questioning whether what kind of jokes are these is how Max tests German\'s story. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (0, None, '\'It is clear what kind of movies you watch at home.\' Max maintains a lively tack toward German, putting "ponyatno" ("clear") alongside "kino" ("cinema, movies") in a tight, everyday turn of phrase.'),
+    (1, None, '\'No, that is completely untrue.\' German adopts a serious course for Max, anchoring the Russian line on "sovsem" ("at all") and "nepravda" ("untrue, a lie") without extra filler.'),
+    (2, None, '\'Then what, sweet cartoons?\' Max inquires pointedly as the talk turns, leaning on "togda" ("back then") before closing the thought with "dobryye" ("good, kind").'),
+    (3, None, '\'Cartoons give a mistaken impression of people.\' German conveys a candid manner in this beat, building the phrase around "multiki" ("cartoon, animated film") and "dayut" ("they give") for a crisp, natural delivery.'),
+    (4, None, '\'Movies about zombies are another matter.\' German chooses an earnest style at once, pairing "drugoye" ("another, other") with "delo" ("matter") to get the point across in plain spoken Russian.'),
+    (5, None, '\'In those, everything is honest and real.\' German takes a natural attitude as they talk, weaving "tam" ("there") together with "po-chestnomu" ("honestly") just the way native speakers do.'),
+    (6, None, '\'People are ready to eat each other up.\' German takes a natural course with Lyova, using "lyudi" (from "chelovek", "people") alongside "gotovy" ("ready") to shape the meaning.'),
+    (7, None, '\'Lyova, your glove fell.\' Max strikes a brisk position in the scene, linking "perchatka" ("glove"), "upala" ("to fall, to drop"), and "lyova" ("Lyova") in one brisk exchange.'),
+    (8, None, '\'And your arm fell off too!\' Max establishes an emphatic view right away, building the phrase around "ruka" ("hand, arm") and "tozhe" ("too") for a crisp, natural delivery.'),
+    (9, None, '\'Oh, pick it up, please.\' Lyova adopts a pointed footing beside Max, combining "podnimi" ("raise") and "oy" ("oh") so the key meaning lands right away.'),
+    (10, None, '\'Quiet, do not scare me like that!\' Max displays a calm style on the spot, weaving "tikho" ("easy, quiet") together with "pugay" ("to scare, frighten") just the way native speakers do.'),
+    (11, None, '\'What kind of jokes are these, Lyova?\' Max asks honestly with Lyova now, placing "shutki" ("jokes") straight beside "chto" ("what") with no word for "to be" needed.'),
 ]

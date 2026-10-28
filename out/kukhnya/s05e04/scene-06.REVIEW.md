@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, not a bad place. Was it tasty?' Around the restaurant and work, the guest wants to know where Barinov really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'A good restaurant, and a good head chef.' With the dress and friend in play, Elena keeps this short reply brisk and direct.
-- 'You bet it is.' Elena asks whether Barinov bets it is, refusing to let the point slide. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Viktor Barinov.' Over the dress and the friend, Elena answers Barinov without a second thought.
-- 'Wait, is that not the Barinov you were seeing?' By checking whether that not the Barinov Barinov was seeing, the guest presses Barinov for a straight answer.
-- 'And the two of you are back together...' The guest tells Barinov that the two of Barinov is back together without dressing it up. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'And is that not him by any chance?' Checking whether that not him by any chance is how the guest puts Barinov on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Let us get out of here.' Admitting that they should get out of here shows Elena being honest for a change.
-- 'Lena, it is just a joke.' Barinov reminds Elena that someone it is just a joke before the moment passes. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I lost at cards.' Because he lost at cards, Barinov treats the matter as settled.
-- 'How familiar does that sound to me? Lost at cards.' Questioning whether how familiar does that sound is how Elena tests Barinov's story.
-- 'You know, I almost believed that you had changed.' Elena mentions that she almost believed that Barinov had changed so Barinov sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Listen, not a bad place. Was it tasty?' The guest queries steadily at this point, using "slushay" (from "slushat", "listen") alongside "neplokhoye" ("not bad, decent") to shape the meaning.
+- 'A good restaurant, and a good head chef.' Elena establishes an honest approach as the scene unfolds, weaving "khoroshiy" ("good") together with "restoran" ("restaurant") just the way native speakers do.
+- 'You bet it is.' Elena challenges bluntly from the start, building the phrase around "kak" ("how") and "to" ("that") for a crisp, natural delivery.
+- 'Viktor Barinov.' Elena sets a clear direction at once, anchoring the Russian line on "viktor" ("Viktor") and "barinov" ("Barinov") without extra filler.
+- 'Wait, is that not the Barinov you were seeing?' The guest asks firmly beside Barinov, putting "podozhdi" ("wait") alongside "tut" ("here") in a tight, everyday turn of phrase.
+- 'And the two of you are back together...' The guest conveys a natural style at once, weaving "snova" ("again") together with "vmeste" ("together") just the way native speakers do.
+- 'And is that not him by any chance?' The guest probes firmly in the room, combining "sluchayno" ("by any chance") and "eto" ("this") so the key meaning lands right away.
+- 'Let us get out of here.' Elena favors an earnest tempo as the scene unfolds, leaning on "poydem" ("let's go") before closing the thought with "otsyuda" ("from here").
+- 'Lena, it is just a joke.' Barinov shows a lively position at this moment, pairing "min" ("Lena") with "prosto" ("just") to get the point across in plain spoken Russian.
+- 'I lost at cards.' Barinov displays a wry view in their talk, pairing "karty" ("cards") with "proigral" ("lost") to get the point across in plain spoken Russian.
+- 'How familiar does that sound to me? Lost at cards.' Elena queries briskly in the room, leaning on "kak" ("how") before closing the thought with "znakomo" ("familiar").
+- 'You know, I almost believed that you had changed.' Elena presents a firm style in their talk, pairing "izmenilsya" ("have changed") with "znayesh" ("know") so the "-sya" ending carries the action.

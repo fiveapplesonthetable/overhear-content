@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you remember that you have a daughter?' Checking whether Eleonora remembers that Eleonora has a daughter cuts straight through the tension between Barinov and Eleonora. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I always remembered her.' Eleonora tells Barinov that she always remembered without dressing it up.
-- 'And did you ever think of me?' Here asking whether Barinov ever think shows Eleonora looking for the real truth.
-- 'I thought of you constantly.' Mentioning that he thought of Eleonora constantly moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'There were difficult moments in life.' Barinov reminds Eleonora that there were difficult moments in life before the moment passes.
-- 'One remembers you, and things do not seem so bad.' Because one remembers Eleonora and things do not seem so bad, Barinov treats the matter as settled.
-- 'I will go, bite each other without me.' Explaining that she will go bite each other lays the cards on the table for Barinov.
-- 'Wait, you did not really tell me anything.' Eleonora mentions that Barinov did not really tell her anything so Barinov sees what is at stake. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Everything is fine with her at the new place.' Claiming that everything is fine with her at the new place sounds confident, even if Eleonora has doubts.
-- 'You can go stroll around for another five years.' Pointing out that Eleonora can go stroll around for another five years gives Eleonora a sobering reality check.
-- 'Vitya, meet her right now.' Adding that Barinov should meet her right now fills in the missing piece for Barinov.
-- 'This is the owner of our hotel, Eleonora Andreevna.' Realizing that this is the owner of their hotel Eleonora Andreevna changes how Katya handles the situation.
-- 'I beg your pardon.' By begging Eleonora's pardon, Barinov keeps his side of the story grounded. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Did you remember that you have a daughter?' Barinov questions lightly to make the point, using "vspomnili" (from "vspomnit", "remembered") alongside "yest" ("there is") to shape the meaning.
+- 'I always remembered her.' Eleonora keeps a calm posture in their talk, putting "vsegda" ("always") alongside "pomnila" ("remembered") in a tight, everyday turn of phrase.
+- 'And did you ever think of me?' Eleonora presses promptly on the spot, linking "vspominal" ("remembered"), "ty" ("you"), and "menya" ("me") in one brisk exchange.
+- 'I thought of you constantly.' Barinov shares an honest footing on the spot, pairing "vspominal" ("remembered") with "postoyanno" ("constantly") to get the point across in plain spoken Russian.
+- 'There were difficult moments in life.' Barinov adopts a natural bearing straight away, combining "byvali" ("to happen, to be") and "trudnyye" ("difficult, hard") so the key meaning lands right away.
+- 'One remembers you, and things do not seem so bad.' Barinov establishes a calm position right away, putting "vspomnish" ("will remember") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
+- 'I will go, bite each other without me.' Katya sustains an honest rhythm for Barinov, building the phrase around "poydu" ("go") and "kusaytes" ("bite each other") for a crisp, natural delivery.
+- 'Wait, you did not really tell me anything.' Eleonora sets a serious posture across the room, doubling the negative with "ne" ("not") and "podozhdi" ("wait"), which is standard and required in Russian.
+- 'Everything is fine with her at the new place.' Barinov strikes an unhurried angle beside Eleonora, putting "novom" ("new") alongside "meste" ("place") in a tight, everyday turn of phrase.
+- 'You can go stroll around for another five years.' Barinov establishes an earnest rhythm in the conversation, combining "mozhesh" ("can") and "yeshchyo" ("more, still") so the key meaning lands right away.
+- 'Vitya, meet her right now.' Katya holds a measured direction in the conversation, weaving "poznakomsya" ("to get acquainted") together with "pryamo" ("right, just") just the way native speakers do.
+- 'This is the owner of our hotel, Eleonora Andreevna.' Katya sets a playful rhythm beside Eleonora, anchoring the Russian line on "khozyayka" ("landlady") and "otelya" ("of the hotel") without extra filler.
+- 'I beg your pardon.' Barinov holds a candid tone right away, using "proshu" (from "prosit", "beg, ask") alongside "proshcheniya" ("forgiveness") to shape the meaning.

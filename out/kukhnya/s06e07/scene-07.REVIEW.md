@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you having a private party here?' By asking whether Katya having a private party here, Nikita presses Katya for a straight answer.
-- 'Actually we wanted to sit quietly with the girls.' Katya mentions that they wanted to sit quietly with the girls so Nastya sees what is at stake.
-- 'Alright, I will go then, I will not bother you.' Claiming that Alright he will go then he will not bother Katya sounds confident, even if Katya has doubts.
-- 'What a fine fellow, he just got up and left!' Nastya declares that what a fine fellow he just got up and left as the tension in the room peaks.
-- 'He always knows how to disappear so suddenly.' Nastya explains that he always knows how to disappear so suddenly, keeping her voice calm and direct.
-- 'Forgive me for reminding you of that again.' Around the table and doctor, Nastya sets a calm, everyday tone with Katya.
-- 'Work is over, and you are still here?' When Nikita asks if work is over and Katya is still here, Katya has to answer fast.
-- 'Are you making extra revenue for our bar today?' Here checking whether Katya making extra revenue for their bar today shows Nikita looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We wanted to sit in female company.' Admitting that they wanted to sit in female company shows Katya being honest for a change.
-- 'Katya, come on, Nikita is our boss!' Coming on Nikita is their boss shows Nastya is done holding back.
-- 'Let him sit with us for a little while.' Because Katya should let him sit with them for a little, Nastya treats the matter as settled.
-- 'Yes, Anechka, what is up with the test results?' When Katya asks if someone what is up with the test results, Nastya has to answer fast. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Are you having a private party here?' Nikita quizzes plainly in this moment, linking "tut" ("here"), "zakrytaya" ("closed, classified"), and "vecherinka" ("party") in one brisk exchange.
+- 'Actually we wanted to sit quietly with the girls.' Katya sets a serious posture in the conversation, combining the conversational booster "voobshche" ("in general, overall") with "voobshche-to" ("actually") to give the line its natural spoken rhythm.
+- 'Alright, I will go then, I will not bother you.' Nikita presents a sharp tempo in the room, combining the easygoing tag "ladno" ("okay, fine") with "togda" ("back then") to give the line its natural spoken rhythm.
+- 'What a fine fellow, he just got up and left!' Nastya chooses a direct footing on the spot, pairing "molodets" ("well done, good boy") with "prosto" ("just") so the "-sya" ending carries the action.
+- 'He always knows how to disappear so suddenly.' Nastya keeps a playful manner during the exchange, building the phrase around "vsegda" ("always") and "umeyet" ("knows how to") for a crisp, natural delivery.
+- 'Forgive me for reminding you of that again.' Nastya conveys a playful angle beside Nikita, linking "izvini" ("sorry, excuse me"), "snova" ("again"), and "napomnila" ("reminded") in one brisk exchange.
+- 'Work is over, and you are still here?' Nikita checks steadily at this point, building the phrase around "rabota" ("job") and "zakonchilas" ("ended") for a crisp, natural delivery.
+- 'Are you making extra revenue for our bar today?' Nikita asks sharply as the beat lands, using "delayete" (from "delat", "are doing") alongside "segodnya" ("today") to shape the meaning.
+- 'We wanted to sit in female company.' Katya shares a pointed posture at once, putting "khoteli" ("wanted") alongside "posidet" ("to babysit") in a tight, everyday turn of phrase.
+- 'Katya, come on, Nikita is our boss!' Nastya projects a calm stance beside Nikita, linking "boss" ("boss"), "katya" ("Katya"), and "nu" ("oh, come on") in one brisk exchange.
+- 'Let him sit with us for a little while.' Nastya sustains a calm bearing in the scene, putting "nemnogo" ("a bit") alongside "posidit" ("to sit for a while") in a tight, everyday turn of phrase.
+- 'Yes, Anechka, what is up with the test results?' Katya inquires quietly as the beat lands, linking "tam" ("there"), "analizami" ("test, analysis"), and "da" ("yes") in one brisk exchange.

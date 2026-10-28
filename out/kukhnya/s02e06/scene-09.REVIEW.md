@@ -22,20 +22,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Лёва | Шеф, когда будет готов мой салат? | Chef, when will my salad be ready? | #158: Шеф, когда будет готов мой салат | verbatim |
 | 11 | Шеф | Гость уже нервничает. | The guest is getting impatient already. | #159: Гость уже нервничает | verbatim |
 | 12 | Лёва | Скажи через семь минут. | Tell him in seven minutes. | #160: Скажи через семь минут | verbatim |
-| 13 | Шеф | Шеф, а что мне делать? | Chef, what am I supposed to do now? | #161: Шеф, а что мне делать | verbatim |
+| 13 | Лёва | Шеф, а что мне делать? | Chef, what am I supposed to do now? | #161: Шеф, а что мне делать | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, you want to know what I add in there?' Asking whether Lyova wants to know what he adds in there puts Lyova right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'How old is our regular guest?' Wondering if how old is their regular guest shows Lyova caught off guard.
-- 'Well, yes.' With the shift and conversation in play, Barinov keeps this short reply brisk and direct.
-- 'And what do you think about that?' Wondering what Barinov thinks is how Lyova puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'He sleeps with them, Lyova.' Realizing that he sleeps with them changes how Barinov handles the situation.
-- 'And I help him out with that.' Lyova explains that he helps him out, keeping his voice calm and direct.
-- 'Do you know how?' Checking whether Lyova knows cuts straight through the tension between Barinov and Lyova. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Wait, does that mean that right now I...' Admitting that does that mean that right now he shows Lyova being honest for a change.
-- 'Yes, Lyova, yes.' Around the moment and shift, Barinov sets a calm, everyday tone with Lyova.
-- 'Chef, when will my salad be ready?' By wondering when his salad be ready will, Lyova presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'The guest is getting impatient already.' Adding that the guest is getting impatient already fills in the missing piece for Lyova.
-- 'Tell him in seven minutes.' By telling Barinov to tell him in seven minutes, Lyova keeps his side of the story grounded.
-- 'Chef, what am I supposed to do now?' Questioning whether what am he supposed to do now is how Barinov tests Lyova's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'So, you want to know what I add in there?' Barinov queries pointedly at this point, building the phrase around "znachit" ("then, so") and "khochesh" ("do you want") for a crisp, natural delivery.
+- 'How old is our regular guest?' Lyova tests sharply across the room, pairing "skolko" ("how much, so much") with "let" ("years") to get the point across in plain spoken Russian.
+- 'Well, yes.' Barinov chooses a frank attitude without hesitation, combining "nu" ("oh, come on") and "da" ("yes") so the key meaning lands right away.
+- 'And what do you think about that?' Lyova presses quietly from the start, combining "dumayesh" ("think") and "chto" ("what") so the key meaning lands right away.
+- 'He sleeps with them, Lyova.' Barinov offers a playful note in the conversation, using "spit" (from "spat", "is sleeping") alongside "on" ("he") to shape the meaning.
+- 'And I help him out with that.' Lyova takes a resolute footing toward Barinov, using "pomogayu" (from "pomogat", "to help") alongside "ya" ("I") to shape the meaning.
+- 'Do you know how?' Barinov probes wryly as they speak, joining "znayesh" ("know") to "kak" ("how") so every word pulls its weight.
+- 'Wait, does that mean that right now I...' Lyova picks a calm view without hesitation, pairing "poluchayetsya" ("works out") with "eto" ("this") so the "-sya" ending carries the action.
+- 'Yes, Lyova, yes.' Barinov conveys a serious attitude in their talk, pairing "da" ("yes") with "lyova" ("Lyova") to get the point across in plain spoken Russian.
+- 'Chef, when will my salad be ready?' Lyova asks calmly as the talk turns, combining "kogda" ("when") and "budet" ("will be") so the key meaning lands right away.
+- 'The guest is getting impatient already.' Barinov takes a thoughtful view with Lyova, linking "gost" ("guest"), "uzhe" ("already, now"), and "nervnichayet" ("gets nervous") in one brisk exchange.
+- 'Tell him in seven minutes.' Lyova adopts an honest approach as they talk, anchoring the Russian line on "skazhi" ("say") and "minut" ("minutes") without extra filler.
+- 'Chef, what am I supposed to do now?' Lyova checks decisively without holding back, linking "delat" ("do"), "shef" ("Chef"), and "chto" ("what") in one brisk exchange.

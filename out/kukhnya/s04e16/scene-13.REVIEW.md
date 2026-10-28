@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, guys, the costume fits simply perfectly!' With the plan and kitchen at stake, Nagiyev reacts without holding back.
-- 'Even my new Italian moccasins matched excellently!' Over the plan and the moment, Nagiyev lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And what a funny wooden chest is standing nearby!' Saying that what a funny wooden chest is standing nearby is how Nagiyev takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Why did you hang a heavy lock on it?' By asking why German hangs a heavy lock on it, Nagiyev presses German for a straight answer.
-- 'That is needed according to our festive script, Dima.' Saying that that is needed according to their festive script Dima is how Vika sets the tone with German. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'In a she-devil costume, I will open this lock.' Once in a she devil costume she will open this lock, Vika can finally tell German what she means.
-- 'And I will ceremoniously release Count Dracula to freedom!' Once she will ceremoniously release count Dracula to freedom, Vika makes sure German hears every word.
-- 'Wait, who will you release from this coffin?' By wondering who German release from this coffin will, Nagiyev presses German for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'No, guys, I am not climbing into a coffin!' Nagiyev insists that guys he is not climbing into a coffin, leaving German no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'But the main client himself suggested this number!' With the situation and plan at stake, Vika reacts without holding back.
-- 'On the other hand, after all, it is a vampire's home!' German declares that on the other hand after all it is a vampire home as the tension in the room peaks. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'All right, Vika, just do not lose the only key!' Because all right Vika just do not lose the only key, Nagiyev does not bother softening the blow for German. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Look, guys, the costume fits simply perfectly!' Nagiyev sets a lively approach in front of German, anchoring the Russian line on "smotrite" ("look") and "rebyata" ("the boys, the lads") without extra filler.
+- 'Even my new Italian moccasins matched excellently!' Nagiyev conveys a lively view right away, building the phrase around "novyye" ("new") and "italyanskiye" ("Italian") for a crisp, natural delivery.
+- 'And what a funny wooden chest is standing nearby!' Nagiyev holds an earnest bearing in the conversation, putting "smeshnoy" ("funny") alongside "derevyannyy" ("wooden") in a tight, everyday turn of phrase.
+- 'Why did you hang a heavy lock on it?' Nagiyev checks steadily as the beat lands, weaving "zachem" ("what for") together with "povesili" ("to noses") just the way native speakers do.
+- 'That is needed according to our festive script, Dima.' Vika sustains a pointed course right away, combining "nuzhno" ("necessary") and "prazdnichnomu" ("festive") so the key meaning lands right away.
+- 'In a she-devil costume, I will open this lock.' Vika sustains a lively mood in their talk, building the phrase around "kostyume" ("costume") and "dyavolitsy" ("lock") for a crisp, natural delivery.
+- 'And I will ceremoniously release Count Dracula to freedom!' Vika sets a resolute attitude in the conversation, building the phrase around "torzhestvenno" ("solemnly, ceremoniously") and "vypushchu" ("will let out") for a crisp, natural delivery.
+- 'Wait, who will you release from this coffin?' Nagiyev quizzes quietly during the talk, weaving "podozhdi" ("wait") together with "vypustish" ("will release") just the way native speakers do.
+- 'No, guys, I am not climbing into a coffin!' Nagiyev sustains a natural line with German, anchoring the Russian line on "rebyata" ("the boys, the lads") and "grob" ("coffin") without extra filler.
+- 'But the main client himself suggested this number!' Vika sets an easygoing bearing in the room, putting "nomer" ("number") alongside "predlozhil" ("suggested") in a tight, everyday turn of phrase.
+- 'On the other hand, after all, it is a vampire's home!' German shares an unhurried approach in the scene, putting "drugoy" ("other") alongside "storony" ("side") in a tight, everyday turn of phrase.
+- 'All right, Vika, just do not lose the only key!' Nagiyev offers a wry bearing in their talk, leaning on "tolko" ("only") before closing the thought with "poteryay" ("only").

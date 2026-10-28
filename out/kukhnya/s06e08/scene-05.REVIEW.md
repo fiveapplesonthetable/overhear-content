@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, what do you think I should give Katya?' Asking what Fedya thinks he should give Katya cuts straight through the tension between Denis and Fedya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Step back, you are keeping me from concentrating right now.' Realizing that Denis should step back Denis is keeping him from concentrating right now changes how Senya handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Listen, try grating your finger on the grater.' Trying grating Denis's finger on the grater moves the conversation forward without extra drama.
-- 'We are just short on fresh minced meat.' Because they are just short on fresh minced meat, Fedya treats the matter as settled. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Stop laughing, you had better help me instead!' Here stopping laughing Denis had better help him instead lets Senya's real feelings break through. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Give me thirty thousand and you are without a finger.' Noting that Denis should give him thirty thousand and Denis is without a finger keeps Fedya's side of the story simple and clear.
-- 'Thank you, it was very nice being friends with you.' Claiming that it was very nice being friends with Denis sounds confident, even if Denis has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I would rather handle this myself somehow.' Explaining that he would rather handle this himself somehow lays the cards on the table for Denis.
-- 'Would I really break a friend's finger for free?' Asking whether he really breaks a friend finger for free cuts straight through the tension between Fedya and Denis.
-- 'So I give you the money and break even?' Giving Denis the money and break even cuts straight through the tension between Senya and Denis. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well yes, that is exactly what I am proposing.' Explaining that that is exactly what he is proposing lays the cards on the table for Denis.
-- 'Get lost with that kind of help!' Telling Denis to get lost with that kind of help is Senya's blunt reaction in front of Denis.
+- 'Senya, what do you think I should give Katya?' Denis challenges steadily to Fedya here, joining "kak" ("how") to "dumayesh" ("think") so every word pulls its weight.
+- 'Step back, you are keeping me from concentrating right now.' Senya keeps a warm approach at once, anchoring the Russian line on "otoydi" ("to step back") and "meshayesh" ("to be in the way") without extra filler.
+- 'Listen, try grating your finger on the grater.' Fedya picks a serious mood straight away, linking "slushay" ("listen"), "poprobuy" ("to try, to taste"), and "poteret" ("to grate, rub") in one brisk exchange.
+- 'We are just short on fresh minced meat.' Fedya holds a candid direction without hesitation, linking "kak" ("how"), "raz" ("time, once"), and "svezhego" ("fresh") in one brisk exchange.
+- 'Stop laughing, you had better help me instead!' Senya adopts a natural manner in their talk, pairing "smeyatsya" ("to laugh") with "khvatit" ("enough") so the "-sya" ending carries the action.
+- 'Give me thirty thousand and you are without a finger.' Fedya shows a sharp view as they talk, building the phrase around "dash" ("to give") and "tysyach" ("thousand") for a crisp, natural delivery.
+- 'Thank you, it was very nice being friends with you.' Senya favors a sharp footing for Denis, building the phrase around "spasibo" ("thank you") and "bylo" ("was") for a crisp, natural delivery.
+- 'I would rather handle this myself somehow.' Senya brings a playful footing in their talk, putting "luchshe" ("better") alongside "kak-nibud" ("somehow") in a tight, everyday turn of phrase.
+- 'Would I really break a friend's finger for free?' Fedya quizzes quietly without holding back, pairing "palets" ("finger") with "stanu" ("will become") so the "-sya" ending carries the action.
+- 'So I give you the money and break even?' Senya inquires honestly in the scene, weaving "yest" ("there is") together with "otdam" ("I give back") just the way native speakers do.
+- 'Well yes, that is exactly what I am proposing.' Fedya adopts a warm view in front of Denis, combining "predlagayu" ("suggest") and "nu" ("oh, come on") so the key meaning lands right away.
+- 'Get lost with that kind of help!' Senya adopts an unhurried line for Fedya, pairing "idi" ("go") with "banyu" ("bathhouse") to get the point across in plain spoken Russian.

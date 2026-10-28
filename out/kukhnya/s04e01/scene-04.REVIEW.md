@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Action, let's begin!' Because action let them begin, Barinov does not bother softening the blow for Nagiyev.
-- 'My career climb was long and difficult.' Barinov reminds Nagiyev that his career climb was long and difficult before the moment passes.
-- 'I cooked for the presidents of Russia and France.' Over the restaurant and the interview, Barinov answers Nagiyev without a second thought.
-- 'Vitya, what is going on here, pal?' Here asking what going on here pal is shows Nagiyev looking for the real truth.
-- 'I do not meddle in your kitchen.' Saying that he does not meddle in Barinov's kitchen is how Nagiyev sets the tone with Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Listen to me very carefully now.' With the restaurant and truth in play, Nagiyev keeps this short reply brisk and direct.
-- 'Tomorrow a very important guest is coming to us.' Pointing out that tomorrow a very important guest is coming to them gives Barinov a sobering reality check.
-- 'Haven't all the important guests visited us already?' By checking whether not all the important guests visited them already, Barinov presses Nagiyev for a straight answer. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'No, not all of them wanted this.' Realizing that not all of them wanted this changes how Nagiyev handles the situation.
-- 'He wants to make me a general of the army.' Noting that he wants to make him a general of the army keeps Nagiyev's side of the story simple and clear.
-- 'And Emperor of France.' Over the moment and the interview, Nagiyev answers Barinov without a second thought.
-- 'Do you understand?' Here asking whether Barinov understands shows Nagiyev looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Action, let's begin!' Barinov favors a serious tack at this moment, leaning on "nachali" ("started") as a compact, one-word response that needs no extra words.
+- 'My career climb was long and difficult.' Barinov shows a pointed style straight away, leaning on "karyernyy" ("climb") before closing the thought with "rost" ("growth").
+- 'I cooked for the presidents of Russia and France.' Barinov shows a steady approach in the room, weaving "gotovil" ("prepared, made") together with "prezidentov" ("president") just the way native speakers do.
+- 'Vitya, what is going on here, pal?' Nagiyev queries honestly as the beat lands, building the phrase around "proiskhodit" ("is going on") and "malysh" ("kid, little one") for a crisp, natural delivery.
+- 'I do not meddle in your kitchen.' Nagiyev adopts a measured manner right away, anchoring the Russian line on "kukhnyu" ("kitchen") and "lezu" ("am climbing") without extra filler.
+- 'Listen to me very carefully now.' Nagiyev shows a steady note in the conversation, joining "slushay" ("listen") to "vnimatelno" ("carefully, attentively") so every word pulls its weight.
+- 'Tomorrow a very important guest is coming to us.' Nagiyev maintains a thoughtful view in front of Barinov, joining "zavtra" ("tomorrow") to "pridyot" ("will come") so every word pulls its weight.
+- 'Haven't all the important guests visited us already?' Barinov asks earnestly as they speak, combining "gosti" ("visitors, guests") and "pobyvali" ("to already") so the key meaning lands right away.
+- 'No, not all of them wanted this.' Nagiyev takes a measured bearing without hesitation, linking "khoteli" ("wanted"), "net" ("no"), and "ne" ("not") in one brisk exchange.
+- 'He wants to make me a general of the army.' Nagiyev holds a candid note across the room, linking "khochet" ("wants"), "sdelat" ("to do"), and "generalom" ("general") in one brisk exchange.
+- 'And Emperor of France.' Nagiyev conveys an earnest manner as they talk, putting "imperatorom" ("france") alongside "frantsii" ("France") in a tight, everyday turn of phrase.
+- 'Do you understand?' Nagiyev wonders sharply as they speak, using "ponimayesh" ("do you understand") by itself, a common way spoken Russian keeps fast dialogue punchy.

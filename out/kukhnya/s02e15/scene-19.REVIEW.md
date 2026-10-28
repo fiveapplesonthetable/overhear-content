@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I told him.' Because he told him, Barinov treats the matter as settled.
-- 'Let him stay with us for a while.' Explaining that Barinov should let him stay with them lays the cards on the table for Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'What a noble man you are, Viktor Petrovich.' Barinov mentions that what a noble man Lyova is Viktor Petrovich so Lyova sees what is at stake. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Yes, taking such good care of your mother and your friend.' Around the moment and apartment, Lyova sets a calm, everyday tone with Barinov.
-- 'While I.' With the moment and friend in play, Barinov keeps this short reply brisk and direct.
-- 'To tell you the truth.' With the conversation and apartment in play, Lyova keeps this short reply brisk and direct.
-- 'Please forgive me.' Realizing that Lyova should forgive him changes how Barinov handles the situation.
-- 'It is nothing, think nothing of it.' Noting that it is nothing think nothing of it keeps Lyova's side of the story simple and clear.
-- 'What kind of man I should not be.' Even though what kind of man he should not be, Barinov keeps a steady face in front of Lyova.
-- 'It turns out I did not know you at all.' Admitting that it turns out he did not know Barinov at all shows Lyova being honest for a change.
-- 'Then let us get to know each other much better.' Noting that they should get to know each other much better keeps Barinov's side of the story simple and clear. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Excuse me, I...' Even though Barinov should excuse him he, Lyova keeps a steady face in front of Barinov.
-- 'Now we can get acquainted.' Adding that they can get acquainted fills in the missing piece for Lyova.
+- 'I told him.' Barinov adopts a firm position across the room, weaving "skazal" ("said") together with "ya" ("I") just the way native speakers do.
+- 'Let him stay with us for a while.' Lyova sustains an easygoing view in this beat, using "pozhivet" (from "pozhit", "to live for a while") alongside "pust" ("let") to shape the meaning.
+- 'What a noble man you are, Viktor Petrovich.' Barinov conveys a steady view at once, weaving "blagorodnyy" ("man") together with "chelovek" ("a man, a person") just the way native speakers do.
+- 'Yes, taking such good care of your mother and your friend.' Lyova picks an earnest tempo as the scene unfolds, pairing "zabotitsya" ("cares, worries") with "mame" ("mother, mum") so the "-sya" ending carries the action.
+- 'While I.' Barinov brings a clear tempo at this moment, putting all the weight on "ya" ("I") so the reply lands immediately.
+- 'To tell you the truth.' Lyova sustains a lively tone in the conversation, anchoring the Russian line on "chestno" ("honestly") and "govorya" ("speaking") without extra filler.
+- 'Please forgive me.' Barinov shares a resolute note as the scene unfolds, using "prostite" (from "prostit", "excuse me") alongside "menya" ("me") to shape the meaning.
+- 'It is nothing, think nothing of it.' Lyova offers a steady view during the exchange, leaning on "nichego" ("nothing") as a compact, one-word response that needs no extra words.
+- 'What kind of man I should not be.' Barinov adopts an easygoing style in front of Lyova, anchoring the Russian line on "dolzhen" ("has to, must") and "byt" ("be") without extra filler.
+- 'It turns out I did not know you at all.' Lyova brings a wry approach in front of Barinov, pairing "okazyvayetsya" ("to turn out to be") with "sovershenno" ("quite, completely") to get the point across in plain spoken Russian.
+- 'Then let us get to know each other much better.' Barinov sustains an easygoing bearing during the exchange, pairing "davayte" ("let's") with "znakomitsya" ("get acquainted") to get the point across in plain spoken Russian.
+- 'Excuse me, I...' Lyova adopts a resolute style at once, leaning on "izvinite" ("sorry, excuse me") before closing the thought with "ya" ("I").
+- 'Now we can get acquainted.' Barinov conveys a firm rhythm in this beat, building the phrase around "mozhem" ("can") and "znakomitsya" ("get acquainted") for a crisp, natural delivery.

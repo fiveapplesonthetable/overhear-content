@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is useless, he will not sell anything.' Saying that it is useless he will not sell anything is how the guest sets the tone with Barinov. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Russia is a brand-new market for him.' Because Russia is a brand new market for him, the guest treats the matter as settled.
-- 'Only stars wear his dresses.' With the truth and coffee in play, the guest keeps this short reply brisk and direct.
-- 'Be so kind, bring me a hot coffee.' Over the truth and the coffee, the guest answers Barinov without a second thought.
-- 'Excuse me, but my dresses are not for sale.' Claiming that his dresses are not for sale sounds confident, even if Barinov has doubts.
-- 'It is a great pity that the dresses are not for sale.' Explaining that it is a great pity that the dresses are not for sale lays the cards on the table for the guest.
-- 'My wife wanted to give a big concert.' Barinov explains that his wife wanted to give a big concert, keeping his voice calm and direct.
-- 'She dreamed of singing in your dress specifically.' With the plan and coffee in play, Barinov keeps this short reply brisk and direct.
-- 'Wait, is your wife a big celebrity?' Here checking whether Barinov's wife a big celebrity shows the guest looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Yes, her name is the singer Elena.' Even though her name is the singer Elena, Barinov keeps a steady face in front of the guest.
-- 'She is a very famous singer in our country.' Admitting that she is a very famous singer in their country shows Barinov being honest for a change.
-- 'I beg your pardon, I have never heard of her.' The guest explains that he begs Barinov's pardon he has never heard, keeping his voice calm and direct. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'It is useless, he will not sell anything.' The guest picks an unhurried posture during the exchange, combining "bespolezno" ("useless, pointless") and "prodast" ("will sell") so the key meaning lands right away.
+- 'Russia is a brand-new market for him.' The guest keeps a natural attitude in front of Barinov, building the phrase around "sovsem" ("at all") and "novyy" ("new") for a crisp, natural delivery.
+- 'Only stars wear his dresses.' The guest conveys an earnest manner in this beat, linking "platyakh" ("dress, gown"), "khodyat" ("to walk, to go"), and "tolko" ("only") in one brisk exchange.
+- 'Be so kind, bring me a hot coffee.' The guest sustains a pointed view in the room, linking "bud" ("were he"), "dobr" ("kind, good"), and "prinesi" ("bring") in one brisk exchange.
+- 'Excuse me, but my dresses are not for sale.' The guest presents a warm manner at this moment, joining "izvinite" ("sorry, excuse me") to "platya" ("dress, gown") so every word pulls its weight.
+- 'It is a great pity that the dresses are not for sale.' Barinov keeps a wry bearing in the scene, building the phrase around "ochen" ("very much") and "zhal" ("it is a pity") for a crisp, natural delivery.
+- 'My wife wanted to give a big concert.' Barinov strikes a firm style toward the guest, anchoring the Russian line on "zhena" ("wife") and "khotela" ("wanted, meant") without extra filler.
+- 'She dreamed of singing in your dress specifically.' Barinov brings a playful line on the spot, combining "mechtala" ("dreamed") and "pet" ("to sing") so the key meaning lands right away.
+- 'Wait, is your wife a big celebrity?' The guest wonders bluntly right away, anchoring the Russian line on "podozhdite" ("wait") and "zhena" ("wife") without extra filler.
+- 'Yes, her name is the singer Elena.' Barinov projects a lively bearing straight away, building the phrase around "zovut" ("call") and "pevitsa" ("singer") for a crisp, natural delivery.
+- 'She is a very famous singer in our country.' Barinov conveys a brisk posture in front of the guest, linking "ochen" ("very much"), "izvestnaya" ("famous, well-known"), and "pevitsa" ("singer") in one brisk exchange.
+- 'I beg your pardon, I have never heard of her.' The guest favors a sharp mood at once, building the phrase around "proshu" ("beg, ask") and "proshcheniya" ("forgiveness") for a crisp, natural delivery.

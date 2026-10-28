@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Вика | Здравствуйте, Кристина. | Hello, Kristina. | #54: Здравствуйте, Кристина | verbatim |
 | 3 | Кристина | Проходите, ознакомьтесь, это команда моих поваров. | Come on in and take a look, this is my team of cooks. | #57: Проходите, ознакомьтесь, это команда моих поваров | verbatim |
 | 4 | Шеф | Очень приятно, отличные парни. | Very nice to meet you, great guys. | #58: Очень приятно, отличные парни | verbatim |
-| 5 | Вика | Я сам отвечу. | I will answer it myself. | #60: я сам отвечу | verbatim |
+| 5 | Шеф | Я сам отвечу. | I will answer it myself. | #60: я сам отвечу | verbatim |
 | 6 | Кристина | А во-вторых. | And secondly. | #62: А во-вторых | verbatim |
 | 7 | Шеф | Ну, как после этого не приезжать в Россию? | Well, how could one not visit Russia after that? | #63: Ну, как после этого не приезжать в Россию | verbatim |
 | 8 | Вика | Вот, Вальдемар, проходите. | Right this way, Valdemar, come in. | #65: Вот, Вальдемар, проходите | verbatim |
@@ -22,20 +22,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Шеф | Ну, разве что чуть-чуть больше. | Well, maybe just a little bit bigger. | #68: Ну, разве что чуть-чуть больше | verbatim |
 | 11 | Вика | Ну, чтобы готовить и такой достаточно. | Well, for cooking, even one like this is enough. | #69: Ну, чтобы готовить и такой достаточно | verbatim |
 | 12 | Кристина | А чтобы книги писать. | Whereas for writing books. | #70: А чтобы книги писать | verbatim |
-| 13 | Шеф | А это наш шеф-повар Виктор Петрович. | And this is our head chef, Viktor Petrovich. | #71: А это наш шеф-повар Виктор Петрович | verbatim |
+| 13 | Вика | А это наш шеф-повар Виктор Петрович. | And this is our head chef, Viktor Petrovich. | #71: А это наш шеф-повар Виктор Петрович | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am Kristina.' Noting that he is Kristina keeps Barinov's side of the story simple and clear.
-- 'Hello, Kristina.' With the restaurant and conversation in play, Vika keeps this short reply brisk and direct.
-- 'Come on in and take a look, this is my team of cooks.' Realizing that Barinov should come on in and take a look this is her team of cooks changes how Kristina handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Very nice to meet you, great guys.' Between the restaurant and the point, Barinov gives Kristina a quick, grounded response.
-- 'I will answer it myself.' Since she will answer it herself, Vika does not waste words on excuses.
-- 'And secondly.' Around the restaurant and room, Kristina sets a calm, everyday tone with Barinov.
-- 'Well, how could one not visit Russia after that?' By wondering how one not visit Russia could, Barinov presses Kristina for a straight answer.
-- 'Right this way, Valdemar, come in.' Over the shift and the moment, Vika answers Barinov without a second thought.
-- 'This is our wonderful kitchen.' Explaining that this is their wonderful kitchen lays the cards on the table for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Well, maybe just a little bit bigger.' With the shift and point in play, Barinov keeps this short reply brisk and direct.
-- 'Well, for cooking, even one like this is enough.' Claiming that for cooking even one like this is enough sounds confident, even if Barinov has doubts.
-- 'Whereas for writing books.' Turning from the shift to the plan, Kristina keeps the exchange moving.
-- 'And this is our head chef, Viktor Petrovich.' Barinov explains that this is their head Viktor Petrovich, keeping his voice calm and direct.
+- 'I am Kristina.' Barinov takes a serious rhythm beside Kristina, putting "ya" ("I") alongside "kristina" ("Kristina") in a tight, everyday turn of phrase.
+- 'Hello, Kristina.' Vika shares an unhurried line as they talk, joining "zdravstvuyte" ("hello") to "kristina" ("Kristina") so every word pulls its weight.
+- 'Come on in and take a look, this is my team of cooks.' Kristina favors an unhurried mood at this moment, linking "prokhodite" ("come in"), "oznakomtes" ("familiarize yourself"), and "komanda" ("team") in one brisk exchange.
+- 'Very nice to meet you, great guys.' Barinov favors a candid line at this moment, combining "ochen" ("very much") and "priyatno" ("pleasant") so the key meaning lands right away.
+- 'I will answer it myself.' Barinov favors a lively manner as they talk, building the phrase around "otvechu" ("will answer") and "ya" ("I") for a crisp, natural delivery.
+- 'And secondly.' Kristina keeps a calm angle at this moment, putting all the weight on "vo-vtorykh" ("second") so the reply lands immediately.
+- 'Well, how could one not visit Russia after that?' Barinov probes calmly right away, joining "kak" ("how") to "priyezzhat" ("to come, to arrive") so every word pulls its weight.
+- 'Right this way, Valdemar, come in.' Vika adopts a measured tack with Kristina, pairing "prokhodite" ("come in") with "vot" ("there, here") to get the point across in plain spoken Russian.
+- 'This is our wonderful kitchen.' Kristina strikes a serious note as the scene unfolds, building the phrase around "prekrasnaya" ("wonderful") and "kukhnya" ("kitchen") for a crisp, natural delivery.
+- 'Well, maybe just a little bit bigger.' Barinov offers a wry footing in front of Vika, pairing "chut-chut" ("a little bit") with "bolshe" ("more") to get the point across in plain spoken Russian.
+- 'Well, for cooking, even one like this is enough.' Vika shares a firm style in the conversation, pairing "gotovit" ("to cook") with "dostatochno" ("enough") to get the point across in plain spoken Russian.
+- 'Whereas for writing books.' Kristina conveys a measured view toward Vika, using "knigi" (from "kniga", "books") alongside "pisat" ("to write") to shape the meaning.
+- 'And this is our head chef, Viktor Petrovich.' Vika strikes an unhurried angle with Barinov, joining "shef-povar" ("head chef") to "eto" ("this") so every word pulls its weight.

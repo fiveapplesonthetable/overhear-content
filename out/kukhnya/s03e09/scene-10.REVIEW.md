@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maximka was playing in a casino all night.' Adding that someone was playing in a casino all night fills in the missing piece for Barinov.
-- 'How do you know all of that?' By wondering how Barinov knows all, Max presses Barinov for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Because that is a well-known stage.' Since because that is a well known stage, Senya does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Have a friend with a healthy kidney.' Mentioning that have a friend with a healthy kidney moves the talk in a new direction.
-- 'What kind of nonsense are you talking?' Questioning whether what kind of nonsense are Barinov talking is how Max tests Barinov's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And is he still living at Lyova's place?' By asking whether he still living at Lyova place, Max presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Now the big housewarming stage is going to begin.' Explaining that the big housewarming stage is going to begin lays the cards on the table for Barinov.
-- 'Good morning, respected Victor Petrovich.' Over the work and the apartment, Max answers Barinov without a second thought.
-- 'And why are you still in your uniform?' Here asking why Max still in Max's uniform is shows Barinov looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Go change your clothes, we are moving my things.' Once Max should go change Max's clothes they are moving his things, Barinov can finally tell Max what he means.
-- 'And afterwards we will celebrate our housewarming.' Barinov explains that afterwards they will celebrate their housewarming, keeping his voice calm and direct.
-- 'Come on, pal, hang in there tight now.' Because Barinov should come on pal hang in there tight now, Senya treats the matter as settled. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Maximka was playing in a casino all night.' Senya strikes an emphatic position during the exchange, combining "noch" ("night") and "kazino" ("casino") so the key meaning lands right away.
+- 'How do you know all of that?' Max presses plainly in this moment, leaning on "otkuda" ("where from") before closing the thought with "znayete" ("know").
+- 'Because that is a well-known stage.' Senya picks a clear angle as the scene unfolds, pairing "izvestnyy" ("famous, well-known") with "etap" ("stage, phase") to get the point across in plain spoken Russian.
+- 'Have a friend with a healthy kidney.' Senya favors a frank note in the scene, using "imey" (from "imet", "have") alongside "druga" ("the friend") to shape the meaning.
+- 'What kind of nonsense are you talking?' Max wonders openly from the start, building the phrase around "nesyosh" ("are carrying") and "da" ("yes") for a crisp, natural delivery.
+- 'And is he still living at Lyova's place?' Max queries frankly during the talk, joining "zhivyot" ("lives") to "yeshchyo" ("more, still") so every word pulls its weight.
+- 'Now the big housewarming stage is going to begin.' Senya shares a brisk rhythm during the exchange, putting "seychas" ("now") alongside "nachnyotsya" ("will begin") in a tight, everyday turn of phrase.
+- 'Good morning, respected Victor Petrovich.' Max strikes a natural angle straight away, using "dobroye" (from "dobryy", "good") alongside "utro" ("morning") to shape the meaning.
+- 'And why are you still in your uniform?' Barinov probes honestly to keep things clear, weaving "pochemu" ("why") together with "yeshchyo" ("more, still") just the way native speakers do.
+- 'Go change your clothes, we are moving my things.' Barinov sets a frank mood straight away, weaving "davay" ("let's") together with "pereodevaysya" ("change clothes") just the way native speakers do.
+- 'And afterwards we will celebrate our housewarming.' Barinov sets a wry attitude in front of Max, linking "potom" ("then"), "otmetim" ("to celebrate"), and "novoselye" ("housewarming") in one brisk exchange.
+- 'Come on, pal, hang in there tight now.' Senya keeps a pointed position in the scene, linking "davay" ("let's"), "paren" ("boyfriend"), and "derzhis" ("hang in there") in one brisk exchange.

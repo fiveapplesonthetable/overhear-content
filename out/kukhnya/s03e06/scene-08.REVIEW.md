@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, dear Dmitry Vladimirovich.' Between the conversation and the work, Max gives Nagiyev a quick, grounded response.
-- 'Dima, this is not what you thought.' Even though this is not what Max thought, Vika keeps a steady face in front of Max. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yes, and what am I supposed to think?' With the truth and kitchen hanging in the air, Nagiyev puts Max on the spot.
-- 'There is a man standing in your bathroom.' Saying that there is a man standing in Max's bathroom is how Nagiyev sets the tone with Max. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'And what is more, he is standing in just his underwear.' Once what is more he is standing in just his underwear, Nagiyev can finally tell Max what he means.
-- 'He is probably fixing the faucet here.' Being probably fixing the faucet here moves the conversation forward without extra drama.
-- 'There was nothing between us.' Vika tells Max that there was nothing between them without dressing it up. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'He and I are simply old friends.' Since he and she are simply old friends, Vika does not waste words on excuses.
-- 'What kind of friends are we, we broke up long ago.' Mentioning that what kind of friends are they they broke up long ago moves the talk in a new direction.
-- 'Dima, I swear to you, there was nothing between us.' Here swearing to Max there was nothing between them sets up the next turn in their exchange. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'He simply came over drunk yesterday and fell asleep.' Because he simply came over drunk yesterday and fell asleep, Vika treats the matter as settled.
-- 'Alright, guys, I will drive to work now.' Explaining that Alright guys he will drive to work now lays the cards on the table for Max.
+- 'Hello, dear Dmitry Vladimirovich.' Max establishes an unhurried style in this beat, weaving "zdravstvuyte" ("hello") together with "uvazhayemyy" ("respected, esteemed") just the way native speakers do.
+- 'Dima, this is not what you thought.' Vika chooses a pointed course with Nagiyev, putting "podumal" ("would think") alongside "dima" ("Dima") in a tight, everyday turn of phrase.
+- 'Yes, and what am I supposed to think?' Nagiyev challenges honestly on the spot, joining "dolzhen" ("has to, must") to "podumat" ("to think") so every word pulls its weight.
+- 'There is a man standing in your bathroom.' Nagiyev projects an emphatic tempo for Vika, building the phrase around "vannoy" ("bathtub, bath") and "stoit" ("is parked") for a crisp, natural delivery.
+- 'And what is more, he is standing in just his underwear.' Nagiyev takes a clear line for Max, linking "stoit" ("is parked"), "trusakh" ("underwear, shorts"), and "odnikh" ("one") in one brisk exchange.
+- 'He is probably fixing the faucet here.' Nagiyev projects an emphatic posture during the exchange, building the phrase around "navernoye" ("probably") and "tut" ("here") for a crisp, natural delivery.
+- 'There was nothing between us.' Vika adopts an easygoing position beside Max, putting "bylo" ("was") alongside "da" ("yes") in a tight, everyday turn of phrase.
+- 'He and I are simply old friends.' Vika shows a lively mood on the spot, anchoring the Russian line on "prosto" ("just") and "staryye" ("old") without extra filler.
+- 'What kind of friends are we, we broke up long ago.' Max sets a wry attitude as they talk, using "druzya" (from "drug", "friends") alongside "davno" ("for a long time") to shape the meaning.
+- 'Dima, I swear to you, there was nothing between us.' Vika sustains a lively posture in their talk, joining "klyanus" ("I swear") to "bylo" ("was") so every word pulls its weight.
+- 'He simply came over drunk yesterday and fell asleep.' Vika strikes a playful approach in their talk, weaving "prosto" ("just") together with "vchera" ("yesterday") just the way native speakers do.
+- 'Alright, guys, I will drive to work now.' Nagiyev sustains a warm angle in the conversation, anchoring the Russian line on "rebyata" ("the boys, the lads") and "seychas" ("now") without extra filler.

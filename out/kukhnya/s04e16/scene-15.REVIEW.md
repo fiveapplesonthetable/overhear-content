@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'After the first number we invite the guests onto the veranda.' Around the plan and banquet, Vika sets a calm, everyday tone with German.
-- 'Viktoriya Sergeyevna, they are urgently calling you to the entrance.' Noting that Viktoriya Sergeyevna they are urgently calling Vika to the entrance keeps German's side of the story simple and clear.
-- 'They just delivered artificial blood there for the show.' Between the plan and the banquet, German gives Vika a quick, grounded response.
-- 'Oh, they called me, I completely forgot!' Vika insists that they called her she completely forgot, leaving German no room to argue. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Guys, please come over here for one minute!' Coming over here for one minute is Vika's blunt reaction in front of German.
-- 'What is this box doing in the middle of the narrow corridor?' By asking what this box doing in the middle of the narrow corridor is, Vika presses German for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Carry it down to the quiet basement for now.' Here carrying it down to the quiet basement for now sets up the next turn in their exchange.
-- 'Just carry it carefully, this is a very important prop!' Insisting that just carry it carefully this is a very important prop shows Vika is not backing down.
-- 'Why did this coffin suddenly become so heavy?' Here asking why this coffin suddenly become so heavy shows German looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It is probably made of very solid oak.' Mentioning that it is probably made of very solid oak moves the talk in a new direction.
-- 'Put it downstairs and return to the hall right away.' Vika mentions that German should put it downstairs and return to the hall right away so German sees what is at stake.
-- 'Good, Viktoriya Sergeyevna, we will do everything quickly right now!' Saying that good Viktoriya Sergeyevna they will do everything quickly right now is how German takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'After the first number we invite the guests onto the veranda.' Vika projects a resolute direction in front of German, linking "pervogo" ("first"), "nomera" ("number, phone number"), and "priglashayem" ("to invite") in one brisk exchange.
+- 'Viktoriya Sergeyevna, they are urgently calling you to the entrance.' German projects a wry note straight away, weaving "srochno" ("urgent, urgently") together with "zovut" ("call") just the way native speakers do.
+- 'They just delivered artificial blood there for the show.' German adopts a lively direction in the room, putting "tuda" ("there") alongside "tolko" ("only") in a tight, everyday turn of phrase.
+- 'Oh, they called me, I completely forgot!' Vika shares a grounded tack right away, combining "zvonili" ("called") and "sovsem" ("at all") so the key meaning lands right away.
+- 'Guys, please come over here for one minute!' Vika favors a measured course right away, combining "rebyata" ("the boys, the lads") and "podoydite" ("come over") so the key meaning lands right away.
+- 'What is this box doing in the middle of the narrow corridor?' Vika questions openly across the room, pairing "yashchik" ("box, crate") with "delayet" ("does") to get the point across in plain spoken Russian.
+- 'Carry it down to the quiet basement for now.' Vika holds a thoughtful line beside German, building the phrase around "otnesite" ("to carry to") and "poka" ("bye") for a crisp, natural delivery.
+- 'Just carry it carefully, this is a very important prop!' Vika favors a grounded posture in the conversation, building the phrase around "tolko" ("only") and "nesite" ("bring") for a crisp, natural delivery.
+- 'Why did this coffin suddenly become so heavy?' German questions steadily without holding back, pairing "pochemu" ("why") with "grob" ("coffin") to get the point across in plain spoken Russian.
+- 'It is probably made of very solid oak.' Vika conveys a serious footing in front of German, building the phrase around "navernoye" ("probably") and "sdelan" ("solid") for a crisp, natural delivery.
+- 'Put it downstairs and return to the hall right away.' Vika takes a thoughtful bearing without hesitation, combining "postavte" ("put") and "vnizu" ("downstairs") so the key meaning lands right away.
+- 'Good, Viktoriya Sergeyevna, we will do everything quickly right now!' German conveys a wry angle for Vika, joining "khorosho" ("good, fine") to "seychas" ("now") so every word pulls its weight.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My beloved man is cooking me a delicious dinner.' Explaining that her beloved man is cooking her a delicious dinner lays the cards on the table for Barinov.
-- 'Especially since I am a brilliant head chef.' Barinov mentions that especially since he is a brilliant head so Elena sees what is at stake.
-- 'Look, your sous-chef is calling right now.' Claiming that Barinov's is calling right now sounds confident, even if Barinov has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Put the phone on speakerphone.' Here putting the phone on speakerphone sets up the next turn in their exchange.
-- 'Yes, Lyova, what happened over there?' With the point and dinner hanging in the air, Barinov puts Elena on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Tomorrow you do not have to come to work at all.' Realizing that tomorrow Barinov does not have to come to work at all changes how Lyova handles the situation.
-- 'You had better rest quietly at home.' Noting that Barinov had better rest quietly at home keeps Lyova's side of the story simple and clear.
-- 'Lyova, what nonsense are you talking right now?' Questioning whether what nonsense are Elena talking right now is how Barinov tests Elena's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I know that you must not work.' Knowing that Barinov must not work moves the conversation forward without extra drama. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'I made that up so I could leave early.' Saying that he made that up so he could leave early is how Barinov sets the tone with Elena.
-- 'You will definitely undergo a full medical checkup.' Once Barinov will definitely undergo a full medical checkup, Elena can finally tell Barinov what she means. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'My friend works as chief doctor at the clinic.' Adding that her friend works as chief doctor at the clinic fills in the missing piece for Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'My beloved man is cooking me a delicious dinner.' Elena shows a grounded position in the room, leaning on "lyubimyy" ("favourite") before closing the thought with "muzhchina" ("man").
+- 'Especially since I am a brilliant head chef.' Barinov favors a steady course as the scene unfolds, joining "boleye" ("more") to "genialnyy" ("brilliant") so every word pulls its weight.
+- 'Look, your sous-chef is calling right now.' Elena presents a measured attitude for Barinov, putting "smotri" ("look") alongside "su-shef" ("sous-chef") in a tight, everyday turn of phrase.
+- 'Put the phone on speakerphone.' Barinov keeps a sharp approach in this beat, using "postav" (from "postavit", "place, put") alongside "telefon" ("phone") to shape the meaning.
+- 'Yes, Lyova, what happened over there?' Barinov questions lightly without hesitation, pairing "sluchilos" ("happened") with "tam" ("there") so the "-sya" ending carries the action.
+- 'Tomorrow you do not have to come to work at all.' Lyova presents a natural footing at this moment, anchoring the Russian line on "zavtra" ("tomorrow") and "mozhete" ("can, may") without extra filler.
+- 'You had better rest quietly at home.' Lyova displays an easygoing posture in the scene, linking "luchshe" ("better"), "spokoyno" ("calmly"), and "doma" ("at home") in one brisk exchange.
+- 'Lyova, what nonsense are you talking right now?' Barinov challenges pointedly as they speak, joining "yerundu" ("nonsense") to "seychas" ("now") so every word pulls its weight.
+- 'I know that you must not work.' Lyova establishes an honest mood on the spot, pairing "znayu" ("know") with "nelzya" ("not allowed") to get the point across in plain spoken Russian.
+- 'I made that up so I could leave early.' Barinov shares a calm manner as the scene unfolds, leaning on "sovral" ("lied") before closing the thought with "uyti" ("to leave").
+- 'You will definitely undergo a full medical checkup.' Elena favors an emphatic stance beside Barinov, combining "obyazatelno" ("surely, without fail") and "proydyosh" ("to go through") so the key meaning lands right away.
+- 'My friend works as chief doctor at the clinic.' Elena maintains a wry footing right away, weaving "podruga" ("female friend") together with "rabotayet" ("works") just the way native speakers do.

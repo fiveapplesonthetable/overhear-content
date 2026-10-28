@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Before you is our new hotel.' Denis reminds Barinov that before Barinov is their new hotel before the moment passes.
-- 'Our restaurant is located right here.' Because their restaurant is located right here, Denis treats the matter as settled.
-- 'We now work in this hotel.' With the restaurant and hotel in play, Denis keeps this short reply brisk and direct.
-- 'How does a hotel restaurant differ?' Wondering how a hotel restaurant differ is how Denis puts Barinov on the spot.
-- 'In a hotel there are always breakfasts.' Claiming that in a hotel there are always breakfasts sounds confident, even if Barinov has doubts.
-- 'The cooks have to get up early.' Pointing out that the cooks have to get up early gives Barinov a sobering reality check.
-- 'We get up early every morning.' Getting up early every morning moves the conversation forward without extra drama.
-- 'Restaurant guests are not just casual visitors.' Realizing that restaurant guests are not just casual visitors changes how Denis handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'They are also hotel residents.' Noting that they are also hotel residents keeps Denis's side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'We must feed all the guests.' Even though they must feed all the guests, Denis keeps a steady face in front of Barinov.
-- 'Someone does not want to get out of bed.' Admitting that someone does not want to get out of bed shows Denis being honest for a change.
-- 'They are too lazy to come down to the restaurant!' Because they are too lazy to come down to the restaurant, Barinov does not bother softening the blow for Denis. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Before you is our new hotel.' Denis sustains a playful tempo in the room, linking "novyy" ("new") directly with "otel" ("hotel"), since Russian drops "is" and "are" in the present.
+- 'Our restaurant is located right here.' Denis establishes a clear position in their talk, pairing "nakhoditsya" ("to be located") with "zdes" ("here") so the "-sya" ending carries the action.
+- 'We now work in this hotel.' Denis offers an honest attitude in their talk, combining "teper" ("now") and "rabotayem" ("we work, let's work") so the key meaning lands right away.
+- 'How does a hotel restaurant differ?' Denis questions plainly as the talk turns, using "otlichayetsya" (from "otlichatsya", "differs") alongside "restoran" ("restaurant") to shape the meaning.
+- 'In a hotel there are always breakfasts.' Denis offers a sharp rhythm in the room, building the phrase around "otele" ("in the hotel") and "vsegda" ("always") for a crisp, natural delivery.
+- 'The cooks have to get up early.' Denis projects an easygoing note for Barinov, combining "povaram" ("cooks") and "prikhoditsya" ("to have to") so the key meaning lands right away.
+- 'We get up early every morning.' Barinov takes a candid mood with Denis, joining "vstayom" ("we get up, let's get up") to "kazhdoye" ("every, each") so every word pulls its weight.
+- 'Restaurant guests are not just casual visitors.' Denis conveys an emphatic direction in the scene, building the phrase around "gosti" ("visitors, guests") and "restorana" ("restaurant") for a crisp, natural delivery.
+- 'They are also hotel residents.' Denis shows a pointed style at this moment, anchoring the Russian line on "yeshchyo" ("more, still") and "postoyaltsy" ("hotel guests") without extra filler.
+- 'We must feed all the guests.' Denis sustains an honest footing straight away, linking "dolzhny" ("must, should"), "kormit" ("to feed"), and "gostey" ("guests") in one brisk exchange.
+- 'Someone does not want to get out of bed.' Denis shows an honest mood on the spot, linking "khochet" ("wants"), "vstavat" ("to get up"), and "krovati" ("bed") in one brisk exchange.
+- 'They are too lazy to come down to the restaurant!' Barinov offers a thoughtful bearing in front of Denis, weaving "len" ("laziness, too lazy") together with "spustitsya" ("to come downstairs") just the way native speakers do.

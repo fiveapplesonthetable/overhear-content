@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, why did you take so long?' Questioning whether tell him why did Denis takes so long is how Mikhail tests Denis's story. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Do you think it is very easy to lose to them on purpose?' Checking whether Denis thinks it is very easy to lose to them on purpose cuts straight through the tension between Mikhail and Denis. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'They had to rejoice first.' Mikhail tells Denis that they had to rejoice first without dressing it up.
-- 'Katya, I have a serious reason.' By having a serious reason, Denis keeps his side of the story grounded. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Are you simply running away from Sveta right now?' By checking whether Denis simply running away from Sveta right now, Katya presses Denis for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You supposedly proposed to her.' Between the room and the situation, Katya gives Denis a quick, grounded response.
-- 'No, she mixed everything up back then.' Between the situation and the kitchen, Denis gives Katya a quick, grounded response.
-- 'We simply misunderstood each other.' Around the situation and point, Denis sets a calm, everyday tone with Katya.
-- 'So there is nothing between you and Sveta?' Wondering if there is nothing between Denis and Sveta shows Katya caught off guard.
-- 'I do not know how it happened like this.' Because he does not know how it happened like this, Denis treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'But I love you very much, Katya.' Even though he loves Katya very much, Denis keeps a steady face in front of Katya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Denis, I have decided, I am going with you.' Pointing out that she has decided she is going with Denis gives Denis a sobering reality check.
-- 'Nothing holds me here anymore.' Realizing that nothing holds her here anymore changes how Katya handles the situation. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'Tell me, why did you take so long?' Mikhail challenges sharply in their exchange, combining "skazhite" ("tell") and "pochemu" ("why") so the key meaning lands right away.
+- 'Do you think it is very easy to lose to them on purpose?' Mikhail checks dryly across the room, weaving "dumayete" ("think") together with "ochen" ("very much") just the way native speakers do.
+- 'They had to rejoice first.' Mikhail maintains a lively view beside Denis, building the phrase around "dolzhny" ("must, should") and "byli" ("be") for a crisp, natural delivery.
+- 'Katya, I have a serious reason.' Denis picks a candid line right away, pairing "yest" ("there is") with "seryoznaya" ("serious") to get the point across in plain spoken Russian.
+- 'Are you simply running away from Sveta right now?' Katya queries steadily with Denis now, combining "seychas" ("now") and "prosto" ("just") so the key meaning lands right away.
+- 'You supposedly proposed to her.' Katya adopts a steady tack right away, putting "predlozheniye" ("offer, proposal") alongside "sdelal" ("did") in a tight, everyday turn of phrase.
+- 'No, she mixed everything up back then.' Denis takes a thoughtful posture toward Katya, pairing "togda" ("back then") with "pereputala" ("to mix up, to confuse") to get the point across in plain spoken Russian.
+- 'We simply misunderstood each other.' Denis presents a sharp stance for Mikhail, anchoring the Russian line on "prosto" ("just") and "nepravilno" ("wrongly") without extra filler.
+- 'So there is nothing between you and Sveta?' Katya inquires honestly at this point, combining "znachit" ("then, so") and "vas" ("you") so the key meaning lands right away.
+- 'I do not know how it happened like this.' Denis displays a calm stance across the room, pairing "znayu" ("know") with "kak" ("how") to get the point across in plain spoken Russian.
+- 'But I love you very much, Katya.' Denis favors a grounded position during the exchange, leaning on "ochen" ("very much") before closing the thought with "lyublyu" ("love").
+- 'Denis, I have decided, I am going with you.' Katya sets a thoughtful style toward Mikhail, linking "reshila" ("decided"), "yedu" ("am driving"), and "denis" ("Denis") in one brisk exchange.
+- 'Nothing holds me here anymore.' Katya brings a frank angle as the scene unfolds, combining "zdes" ("here") and "bolshe" ("more") so the key meaning lands right away.

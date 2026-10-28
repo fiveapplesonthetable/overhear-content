@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, in thyme there is one nasty substance.' Explaining that in thyme there is one nasty substance lays the cards on the table for Max.
-- 'That is what causes nausea, do you understand now?' Wondering if that is what causes nausea do Max understands now shows Katya caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'With the help of chemistry we can remove this substance from the thyme.' Claiming that with the help of chemistry they can remove this substance from the thyme sounds confident, even if Max has doubts.
-- 'And the taste of the sauce will remain the same, do you get it?' When Katya asks if the taste of the sauce will remain the same do Max gets it, Max has to answer fast. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, I almost got it, I will bring fresh thyme right now!' Max insists that he almost got it he will bring fresh thyme right now, leaving Katya no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Look at the screen, are you not scared yet?' Asking whether at the screen are Katya not scared yet puts Katya right on the defensive.
-- 'I do not believe in those ghosts!' Max declares that he does not believe in those ghosts as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Somehow I am having no luck at all in cards tonight.' Even though somehow he is having no luck at all in cards tonight, Nagiyev keeps a steady face in front of Katya.
-- 'On the other hand, I got very lucky in love, right, sweetheart?' When Nagiyev asks if on the other hand he got very lucky in love right sweetheart, Katya has to answer fast.
-- 'Dima, at this rate you will soon be left without a restaurant!' Once at this rate Max will soon be left without a restaurant, Katya makes sure Max hears every word. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Right now I will drink a little more and relax.' Once right now he will drink a little more and relax, Nagiyev can finally tell Katya what he means.
-- 'You will see, soon my luck will definitely turn!' Nagiyev insists that Katya will see soon his luck will definitely turn, leaving Katya no room to argue.
+- 'Max, in thyme there is one nasty substance.' Katya shows an unhurried manner for Max, weaving "timyane" ("in thyme") together with "yest" ("there is") just the way native speakers do.
+- 'That is what causes nausea, do you understand now?' Katya wonders bluntly as they speak, anchoring the Russian line on "vyzyvayet" ("raises, causes") and "toshnotu" ("nausea") without extra filler.
+- 'With the help of chemistry we can remove this substance from the thyme.' Katya favors a frank note for Max, using "pomoshchyu" (from "pomoshch", "help") alongside "khimii" ("chemistry, chemicals") to shape the meaning.
+- 'And the taste of the sauce will remain the same, do you get it?' Katya inquires boldly right away, combining "vkus" ("taste") and "sousa" ("sauce") so the key meaning lands right away.
+- 'Well, I almost got it, I will bring fresh thyme right now!' Max shares an honest tone with Katya, putting "pochti" ("almost") alongside "ponyal" ("understood") in a tight, everyday turn of phrase.
+- 'Look at the screen, are you not scared yet?' Max probes lightly at this point, linking "smotri" ("look"), "ekran" ("screen, display"), and "yeshchyo" ("more, still") in one brisk exchange.
+- 'I do not believe in those ghosts!' Max shows a brisk angle in front of Katya, joining "veryu" ("believe") to "prizrakov" ("ghosts") so every word pulls its weight.
+- 'Somehow I am having no luck at all in cards tonight.' Nagiyev holds a sharp line during the exchange, weaving "sovsem" ("at all") together with "vezyot" ("is lucky") just the way native speakers do.
+- 'On the other hand, I got very lucky in love, right, sweetheart?' Nagiyev probes boldly for Katya's benefit, anchoring the Russian line on "lyubvi" ("love") and "ochen" ("very much") without extra filler.
+- 'Dima, at this rate you will soon be left without a restaurant!' Katya holds a sharp tack right away, pairing "tempami" ("at this pace") with "skoro" ("soon") to get the point across in plain spoken Russian.
+- 'Right now I will drink a little more and relax.' Nagiyev presents a wry view in the conversation, anchoring the Russian line on "seychas" ("now") and "yeshchyo" ("more, still") without extra filler.
+- 'You will see, soon my luck will definitely turn!' Nagiyev maintains a wry tack in this beat, combining "uvidish" ("see") and "skoro" ("soon") so the key meaning lands right away.

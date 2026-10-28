@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to talk with you alone this evening.' Claiming that he wanted to talk with Denis alone this evening sounds confident, even if Denis has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Alright, then see you this evening.' Between the plan and the secret, Katya gives Denis a quick, grounded response.
-- 'Is everything going to happen right here today?' Here asking whether everything going to happen right here today shows Denis looking for the real truth.
-- 'Yes, have you been here before?' By checking whether Denis been here, Nikita presses Denis for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Yes, this is a very familiar place.' Pointing out that this is a very familiar place gives Katya a sobering reality check. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Do you live here in the hotel?' Checking whether Katya lives here in the hotel is how Denis puts Katya on the spot.
-- 'Well no, I work here as a waiter.' Realizing that he works here as a waiter changes how Nikita handles the situation.
-- 'I see, so you are doing this for a girl.' Seeing so Katya is doing this for a girl moves the conversation forward without extra drama.
-- 'Listen, stand right here for five minutes.' Noting that Denis should stand right here for five minutes keeps Nikita's side of the story simple and clear.
-- 'I will bring the money out to you right now.' Adding that he will bring the money out to Denis right now fills in the missing piece for Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Alright, I will wait for you by the car.' Saying that Alright he will wait for Katya by the car is how Denis sets the tone with Katya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Do not go anywhere from here.' Since do not go anywhere from here, Nikita does not waste words on excuses.
+- 'I wanted to talk with you alone this evening.' Nikita favors an honest approach during the exchange, linking "khotel" ("wanted"), "vecherom" ("in the evening"), and "pogovorit" ("to talk") in one brisk exchange.
+- 'Alright, then see you this evening.' Katya favors a warm tempo at this moment, linking "khorosho" ("good, fine"), "togda" ("back then"), and "uvidimsya" ("will see each other") in one brisk exchange.
+- 'Is everything going to happen right here today?' Denis checks lightly to keep things clear, weaving "zdes" ("here") together with "segodnya" ("today") just the way native speakers do.
+- 'Yes, have you been here before?' Nikita probes quietly to Katya here, linking "uzhe" ("already, now"), "byval" ("to happen, to be"), and "tut" ("here") in one brisk exchange.
+- 'Yes, this is a very familiar place.' Denis takes a frank tack in the conversation, leaning on "ochen" ("very much") before closing the thought with "znakomoye" ("familiar, known").
+- 'Do you live here in the hotel?' Denis wonders naturally at this point, anchoring the Russian line on "zdes" ("here") and "otele" ("in the hotel") without extra filler.
+- 'Well no, I work here as a waiter.' Nikita takes a lively angle beside Denis, leaning on "zdes" ("here") before closing the thought with "ofitsiantom" ("waiter, server").
+- 'I see, so you are doing this for a girl.' Denis maintains a measured position in front of Nikita, putting "ponyatno" ("clear") alongside "znachit" ("then, so") in a tight, everyday turn of phrase.
+- 'Listen, stand right here for five minutes.' Nikita holds an honest stance across the room, joining "slushay" ("listen") to "postoy" ("wait") so every word pulls its weight.
+- 'I will bring the money out to you right now.' Nikita brings a grounded approach in front of Katya, pairing "seychas" ("now") with "dengi" ("money") so the "-sya" ending carries the action.
+- 'Alright, I will wait for you by the car.' Denis adopts a brisk style in the room, combining "khorosho" ("good, fine") and "podozhdu" ("will wait") so the key meaning lands right away.
+- 'Do not go anywhere from here.' Nikita holds an emphatic posture without hesitation, weaving "nikuda" ("nowhere, anywhere") together with "otsyuda" ("from here") just the way native speakers do.

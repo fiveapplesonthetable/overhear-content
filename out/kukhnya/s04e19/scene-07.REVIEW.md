@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, tell me, am I disturbing you?' Over the plan and the fear, Vika presses Denis for a straight answer.
-- 'Maybe it is none of my business, of course.' Adding that maybe it is none of her business of course fills in the missing piece for Denis. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I do not advise telling your dreams around here.' Saying that she does not advise telling Denis's dreams around here is how Vika sets the tone with Denis.
-- 'Yes, you are probably completely right.' Since Senya is probably completely right, Denis does not waste words on excuses.
-- 'Your strange dreams are simply fear.' Mentioning that Denis's strange dreams are simply fear moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You are afraid of losing what you have.' Saying that Denis is afraid of losing what Denis has is how Vika sets the tone with Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Small hands are a lack of confidence in yourself.' Because small hands are a lack of confidence in themselves, Vika treats the matter as settled.
-- 'You are afraid of not holding on to your happiness.' Explaining that Denis is afraid of not holding on to Denis's happiness lays the cards on the table for Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You need to think about something pleasant more often.' Vika reminds Denis that Denis needs to think about something pleasant more often before the moment passes. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'And then all the nightmares will pass quickly.' Claiming that all the nightmares will pass quickly sounds confident, even if Denis has doubts.
-- 'Viktoriya Sergeyevna, will you explain my dream too?' Senya asks whether Viktoriya Sergeyevna will Denis explains his dream, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Senya, go work in the kitchen right now!' Telling Denis to go work in the kitchen right now is Vika's blunt reaction in front of Denis. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Denis, tell me, am I disturbing you?' Vika queries warmly in the scene, combining "skazhi" ("say") and "pomeshayu" ("to disturb") so the key meaning lands right away.
+- 'Maybe it is none of my business, of course.' Vika shares a direct view in their talk, leaning on "mozhet" ("can") before closing the thought with "konechno" ("of course").
+- 'I do not advise telling your dreams around here.' Vika projects an unhurried view in front of Denis, using "sovetuyu" (from "sovetovat", "advise") alongside "rasskazyvat" ("to tell") to shape the meaning.
+- 'Yes, you are probably completely right.' Denis maintains a warm posture beside Vika, joining "navernoye" ("probably") to "sovershenno" ("quite, completely") so every word pulls its weight.
+- 'Your strange dreams are simply fear.' Vika sustains a playful note in this beat, weaving "strannyye" ("strange") together with "sny" ("dreams") just the way native speakers do.
+- 'You are afraid of losing what you have.' Vika projects a resolute attitude at this moment, pairing "boishsya" ("you are afraid") with "poteryat" ("to lose") so the "-sya" ending carries the action.
+- 'Small hands are a lack of confidence in yourself.' Vika sustains a grounded approach straight away, building the phrase around "malenkiye" ("little ones") and "ruki" ("hands") for a crisp, natural delivery.
+- 'You are afraid of not holding on to your happiness.' Vika sets a calm line as they talk, leaning on "boishsya" ("you are afraid") before closing the thought with "uderzhat" ("to happiness").
+- 'You need to think about something pleasant more often.' Vika maintains a pointed note straight away, linking "nuzhno" ("necessary"), "chashche" ("more often"), and "dumat" ("to think") in one brisk exchange.
+- 'And then all the nightmares will pass quickly.' Vika maintains an honest tone in their talk, anchoring the Russian line on "togda" ("back then") and "koshmary" ("nightmare, horror") without extra filler.
+- 'Viktoriya Sergeyevna, will you explain my dream too?' Senya inquires earnestly to Denis here, building the phrase around "son" ("dream") and "obyasnite" ("to explain") for a crisp, natural delivery.
+- 'Senya, go work in the kitchen right now!' Vika strikes a natural course toward Senya, linking "idi" ("go"), "bystro" ("quickly"), and "rabotay" ("work") in one brisk exchange.

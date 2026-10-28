@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, is that made from banana?' By asking whether that made from banana, Kostya presses Denis for a straight answer.
-- 'No, Kostya, this is made from egg yolk.' Because this is made from egg yolk, Katya treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Listen, I just wanted to ask you.' Mentioning that he just wanted to ask Denis moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Kostya, is everything alright with you?' Here asking whether everything alright with Denis shows Katya looking for the real truth.
-- 'And what if you make jelly from buckwheat?' Asking whether what if Denis makes jelly from buckwheat puts Denis right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What will that look like?' Asking what that look like will cuts straight through the tension between Katya and Denis. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Kostya, go away and do not distract me.' Claiming that Denis should go away and do not distract sounds confident, even if Denis has doubts.
-- 'Has anyone seen my phone here?' Here checking whether anyone seen her phone here shows Katya looking for the real truth. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'I left it right here on the table.' Noting that she left it right here on the table keeps Katya's side of the story simple and clear.
-- 'No, here it is, this one is mine.' Even though here it is this one is, Katya keeps a steady face in front of Denis.
-- 'Let me make a call, I need to urgently.' Because Katya should let him make a call he needs to urgently, Denis treats the matter as settled. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Well, of course, take it. Thank you.' Katya explains that Denis should take it, keeping her voice calm and direct.
+- 'Katya, is that made from banana?' Kostya asks promptly as they speak, linking "banana" ("from banana"), "katya" ("Katya"), and "eto" ("this") in one brisk exchange.
+- 'No, Kostya, this is made from egg yolk.' Katya chooses a grounded line right away, pairing "zheltka" ("from egg yolk") with "net" ("no") to get the point across in plain spoken Russian.
+- 'Listen, I just wanted to ask you.' Kostya sets an unhurried approach in the room, pairing "slushay" ("listen") with "prosto" ("just") to get the point across in plain spoken Russian.
+- 'Kostya, is everything alright with you?' Katya inquires briskly to Kostya here, pairing "khorosho" ("good, fine") with "kostya" ("Kostya") to get the point across in plain spoken Russian.
+- 'And what if you make jelly from buckwheat?' Kostya wonders directly as the beat lands, anchoring the Russian line on "sdelat" ("to do") and "zhele" ("jelly") without extra filler.
+- 'What will that look like?' Katya tests frankly right away, joining "budet" ("will be") to "pokhozhe" ("like, similar") so every word pulls its weight.
+- 'Kostya, go away and do not distract me.' Katya chooses a playful rhythm without hesitation, pairing "idi" ("go") with "otvlekay" ("losing") to get the point across in plain spoken Russian.
+- 'Has anyone seen my phone here?' Katya presses sharply as they speak, combining "telefon" ("phone") and "zdes" ("here") so the key meaning lands right away.
+- 'I left it right here on the table.' Katya presents an earnest tack at once, anchoring the Russian line on "zdes" ("here") and "stole" ("table") without extra filler.
+- 'No, here it is, this one is mine.' Katya holds a steady mood during the exchange, putting "net" ("no") alongside "vot" ("there, here") in a tight, everyday turn of phrase.
+- 'Let me make a call, I need to urgently.' Denis maintains an earnest course in front of Katya, anchoring the Russian line on "day" ("give") and "pozvonit" ("to call") without extra filler.
+- 'Well, of course, take it. Thank you.' Katya presents a clear note in the scene, pairing "konechno" ("of course") with "vozmi" ("take, pick up") to get the point across in plain spoken Russian.

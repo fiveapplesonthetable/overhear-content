@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What kind of nonsense is this?' Asking whether what kind of nonsense is this puts Lyova right on the defensive.
-- 'Who are you?' Asking who Barinov is cuts straight through the tension between Lyova and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What are you doing in here?' Wondering what Lyova doing in here is is how Barinov puts Lyova on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'By the way, I already passed, the Chef hired me.' Around the kitchen and match, Lyova sets a calm, everyday tone with Barinov.
-- 'I am having my job interview!' Because he is having his job interview, Barinov does not bother softening the blow for Lyova. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Chef, please forgive me, there was a little mistake.' Noting that there was a little mistake keeps Lyova's side of the story simple and clear.
-- 'You are hired.' Even though Lyova is hired, Barinov keeps a steady face in front of Lyova.
-- 'You will work two days on, two days off.' Admitting that Barinov will work two days on two days off shows Lyova being honest for a change.
-- 'Cooks are not allowed to wear beards in the kitchen.' Saying that cooks are not allowed to wear beards in the kitchen is how Barinov sets the tone with Lyova. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'First of all, I am the head chef.' Once first of all he is the head, Lyova can finally tell Barinov what he means.
-- 'And what about yours?' With the moment and shift hanging in the air, Barinov puts Lyova on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'And secondly.' Between the shift and the moment, Lyova gives Barinov a quick, grounded response.
-- 'You see, my beard brings good luck.' Since his beard brings good luck, Barinov does not waste words on excuses.
+- 'What kind of nonsense is this?' Barinov queries earnestly to Lyova here, joining "yeshchyo" ("more, still") to "yerunda" ("trifle, nothing") so every word pulls its weight.
+- 'Who are you?' Lyova prompts decisively to keep things clear, putting "ty" ("you") alongside "kto" ("who") in a tight, everyday turn of phrase.
+- 'What are you doing in here?' Barinov wonders earnestly as the talk turns, anchoring the Russian line on "zdes" ("here") and "delayesh" ("are you doing") without extra filler.
+- 'By the way, I already passed, the Chef hired me.' Lyova conveys a measured rhythm at once, using "prochim" (from "prochiy", "other") alongside "uzhe" ("already, now") to shape the meaning.
+- 'I am having my job interview!' Barinov conveys a pointed stance at once, anchoring the Russian line on "sobesedovaniye" ("interview") and "prokhozhu" ("to go through") without extra filler.
+- 'Chef, please forgive me, there was a little mistake.' Lyova offers a pointed attitude in the conversation, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "oshibochka" ("little mistake") to shape the meaning.
+- 'You are hired.' Barinov shares a playful line at once, leaning on "prinyat" ("accepted") before closing the thought with "ty" ("you").
+- 'You will work two days on, two days off.' Lyova holds a clear course without hesitation, weaving "budesh" ("will") together with "rabotat" ("to work") just the way native speakers do.
+- 'Cooks are not allowed to wear beards in the kitchen.' Barinov brings a resolute rhythm toward Lyova, leaning on "povaram" ("cooks") before closing the thought with "kukhne" ("kitchen").
+- 'First of all, I am the head chef.' Lyova chooses a candid direction across the room, linking "vo-pervykh" ("first of all") directly with "ya" ("I"), since Russian drops "is" and "are" in the present.
+- 'And what about yours?' Barinov inquires firmly for Lyova's benefit, letting the single Russian word "vy" ("you") carry the entire reaction on its own.
+- 'And secondly.' Lyova shows a thoughtful tack at this moment, putting all the weight on "vo-vtorykh" ("second") so the reply lands immediately.
+- 'You see, my beard brings good luck.' Barinov projects a wry mood as the scene unfolds, linking "ponimayete" ("do you understand"), "udachu" ("luck"), and "prinosit" ("offers, brings") in one brisk exchange.

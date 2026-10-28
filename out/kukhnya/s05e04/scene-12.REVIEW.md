@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Unexpected. Is that your new uniform, or did someone lose at cards again?' Asking whether that Barinov's new uniform or did someone lose at cards again is how Elena puts Barinov on the spot. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'What are you doing here?' With the truth and surprise hanging in the air, Barinov puts Elena on the spot.
-- 'You are a man of your word, and so am I.' Saying that Barinov is a man of Barinov's word and so am she is how Elena sets the tone with Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'If I promised to give you a second chance, then I am obligated to do so.' Once if she promised to give Barinov a second chance then she is obligated to do, Elena can finally tell Barinov what she means. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'So we are having our date right here?' Barinov asks whether they are having their date right here, refusing to let the point slide.
-- 'Well, why not? You are already wearing an evening dress.' Elena asks whether Barinov is already wearing an evening dress, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'All that is left is for me to find a tuxedo and we can begin.' Since all that is left is for her to find a tuxedo and they can begin, Elena does not waste words on excuses.
-- 'Lenochka, you will not regret this.' Mentioning that lenochka Elena will not regret this moves the talk in a new direction.
-- 'Give me five minutes. I will be back in a flash.' By giving him five minutes, Barinov keeps his side of the story grounded.
-- 'Hold on. That is the connecting door to the adjoining suite.' Because that is the connecting door to the adjoining suite, Elena treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Vitya, will you take the key?' By checking whether Barinov takes the key, Elena presses Barinov for a straight answer.
-- 'Vitya, promise me there will be no more surprises like this.' Pointing out that Barinov should promise her there will be no more surprises like this gives Barinov a sobering reality check.
-- 'Good evening, Eleonora Andreyevna.' Around the conversation and truth, the hostess sets a calm, everyday tone with Barinov.
-- 'Suite 313 was booked, and 311 is free.' Pointing out that suite was booked and is free gives Barinov a sobering reality check.
+- 'Unexpected. Is that your new uniform, or did someone lose at cards again?' Elena quizzes quietly as the beat lands, linking "neozhidanno" ("unexpected"), "novaya" ("new"), and "uniforma" ("uniform") in one brisk exchange.
+- 'What are you doing here?' Barinov quizzes pointedly in this moment, joining "tut" ("here") to "delayesh" ("are you doing") so every word pulls its weight.
+- 'You are a man of your word, and so am I.' Elena brings a natural mood in the scene, building the phrase around "chelovek" ("a man, a person") and "slova" ("words") for a crisp, natural delivery.
+- 'If I promised to give you a second chance, then I am obligated to do so.' Elena establishes a lively angle as they talk, building the phrase around "poobeshchala" ("promised") and "dat" ("to give") for a crisp, natural delivery.
+- 'So we are having our date right here?' Barinov inquires dryly to keep things clear, pairing "tut" ("here") with "svidaniye" ("date") to get the point across in plain spoken Russian.
+- 'Well, why not? You are already wearing an evening dress.' Elena checks dryly in the scene, joining "pochemu" ("why") to "uzhe" ("already, now") so every word pulls its weight.
+- 'All that is left is for me to find a tuxedo and we can begin.' Elena holds a firm posture in the room, pairing "ostalos" ("was left") with "smoking" ("tuxedo") to get the point across in plain spoken Russian.
+- 'Lenochka, you will not regret this.' Barinov presents a steady approach for the hostess, joining "lenochka" ("lenochka") to "pozhaleyesh" ("regret") so every word pulls its weight.
+- 'Give me five minutes. I will be back in a flash.' Barinov adopts a steady stance at once, putting "day" ("give") alongside "minut" ("minutes") in a tight, everyday turn of phrase.
+- 'Hold on. That is the connecting door to the adjoining suite.' Elena chooses a natural manner during the exchange, pairing "ponyal" ("understood") with "smezhnaya" ("adjoining, connecting") to get the point across in plain spoken Russian.
+- 'Vitya, will you take the key?' Elena tests sharply without hesitation, leaning on "klyuch" ("key") before closing the thought with "vozmesh" ("to take").
+- 'Vitya, promise me there will be no more surprises like this.' Elena holds a firm attitude with the hostess, using "poobeshchay" (from "poobeshchat", "promise") alongside "syurprizov" ("surprise") to shape the meaning.
+- 'Good evening, Eleonora Andreyevna.' The hostess displays a direct style with Barinov, linking "dobryy" ("good"), "vecher" ("evening"), and "leonar" ("Léonard") in one brisk exchange.
+- 'Suite 313 was booked, and 311 is free.' The hostess takes a measured tempo without hesitation, joining "snyali" ("fire, remove") to "svoboden" ("free") so every word pulls its weight.

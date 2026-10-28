@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, guys, camera, rolling!' Coming on guys camera rolling shows Nagiyev is done holding back. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Scene nine, take four, action!' Over the truth and the idea, Nagiyev lets his real feelings show.
-- 'Now you will meet your brother.' Barinov mentions that Nagiyev will meet Nagiyev's brother so Nagiyev sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Cut, one second, how are you holding the pistol?' Questioning whether cut one second how are Barinov holding the pistol is how Nagiyev tests Barinov's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Ready, let's roll, take five!' Because ready let them roll take five, Nagiyev does not bother softening the blow for Barinov.
-- 'Cut, cut!' Declaring that Barinov should cut cut brings Nagiyev's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'What is wrong again?' Asking what wrong again is is how Barinov puts Nagiyev on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Guys, we are filming a boring movie.' Noting that they are filming a boring movie keeps Nagiyev's side of the story simple and clear.
-- 'He shot at me and hit me in the chest.' Even though he shot at him and hit him in the chest, Nagiyev keeps a steady face in front of Barinov.
-- 'I have seen that a thousand times in movies, it did not kill the hero.' By having seen that a thousand times in movies it did not kill the hero, Nagiyev keeps his side of the story grounded. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Let's film it in a new, modern way.' Because they should film it in a new modern way, Nagiyev treats the matter as settled.
-- 'So, he shoots me straight in the mouth!' Because he shoots him straight in the mouth, Nagiyev does not bother softening the blow for Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Come on, guys, camera, rolling!' Nagiyev shows a firm footing without hesitation, linking "davayte" ("let's"), "rebyata" ("the boys, the lads"), and "kamera" ("camera") in one brisk exchange.
+- 'Scene nine, take four, action!' Nagiyev adopts an honest approach in the conversation, leaning on "stsena" ("stage, scene") before closing the thought with "dubl" ("take").
+- 'Now you will meet your brother.' Barinov chooses a resolute bearing straight away, pairing "seychas" ("now") with "vstretishsya" ("will meet") so the "-sya" ending carries the action.
+- 'Cut, one second, how are you holding the pistol?' Nagiyev tests naturally in this moment, leaning on "sekundu" ("second") before closing the thought with "kak" ("how").
+- 'Ready, let's roll, take five!' Nagiyev presents a firm course straight away, leaning on "gotovy" ("ready") before closing the thought with "poyekhali" ("here we go").
+- 'Cut, cut!' Nagiyev shows a frank stance at once, letting the single Russian word "stop" ("stop, cut") carry the entire reaction on its own.
+- 'What is wrong again?' Barinov probes calmly to keep things clear, placing "opyat" ("again") straight beside "chto" ("what") with no word for "to be" needed.
+- 'Guys, we are filming a boring movie.' Nagiyev keeps a playful course on the spot, anchoring the Russian line on "rebyata" ("the boys, the lads") and "snimayem" ("to take off") without extra filler.
+- 'He shot at me and hit me in the chest.' Nagiyev sustains a steady manner in the conversation, linking "vystrelil" ("shot"), "popal" ("hit"), and "grud" ("chest") in one brisk exchange.
+- 'I have seen that a thousand times in movies, it did not kill the hero.' Nagiyev takes an honest stance toward Barinov, linking "videl" ("saw, have seen"), "tysyachu" ("thousand"), and "raz" ("time, once") in one brisk exchange.
+- 'Let's film it in a new, modern way.' Nagiyev projects an unhurried view in front of Barinov, combining "davayte" ("let's") and "po-novomu" ("in a new way") so the key meaning lands right away.
+- 'So, he shoots me straight in the mouth!' Nagiyev takes a measured style during the exchange, building the phrase around "znachit" ("then, so") and "strelyayet" ("to shoot, to fire") for a crisp, natural delivery.

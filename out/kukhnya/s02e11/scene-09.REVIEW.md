@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Smoking is forbidden in the hospital.' Max reminds Barinov that smoking is forbidden in the hospital before the moment passes.
-- 'And what did I tell you?' Here asking what he tells Max shows Barinov looking for the real truth.
-- 'Excuse me, that is amazing.' Explaining that that is amazing lays the cards on the table for Barinov.
-- 'Is everything all right?' Asking whether everything all right cuts straight through the tension between Max and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I am feeling a little dizzy.' Being feeling a little dizzy moves the conversation forward without extra drama.
-- 'Well, there you go, just like I said.' Pointing out that there Barinov goes just like she said gives Barinov a sobering reality check.
-- 'Good job, punk.' Between the plan and the kitchen, Max gives Barinov a quick, grounded response.
-- 'You have to use your head.' Realizing that Max has to use Max's head changes how Barinov handles the situation.
-- 'No, no, no.' Around the plan and work, Vika sets a calm, everyday tone with Barinov.
-- 'Two partridges simply will not do.' Even though two partridges simply will not do, Max keeps a steady face in front of Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Four at the very minimum.' Between the plan and the truth, Barinov gives Max a quick, grounded response.
-- 'All right then.' Between the secret and the hospital, Vika gives Barinov a quick, grounded response.
-- 'Okay, four it is.' Once Okay four it is, Max can finally tell Barinov what he means.
+- 'Smoking is forbidden in the hospital.' Max favors a lively tone for Barinov, linking "bolnitse" ("the hospital"), "kurit" ("to smoke"), and "zapreshcheno" ("to forbid, to ban") in one brisk exchange.
+- 'And what did I tell you?' Barinov questions directly without a pause, leaning on "govoril" ("said, were saying") before closing the thought with "ya" ("I").
+- 'Excuse me, that is amazing.' Vika keeps an honest angle at once, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "potryasayushche" ("incredible") to shape the meaning.
+- 'Is everything all right?' Max inquires boldly as the beat lands, building the phrase around "poryadke" ("order") and "vse" ("all") for a crisp, natural delivery.
+- 'I am feeling a little dizzy.' Barinov maintains an earnest manner during the exchange, putting "kak-to" ("somehow, a bit") alongside "golova" ("head") in a tight, everyday turn of phrase.
+- 'Well, there you go, just like I said.' Vika maintains a candid manner in their talk, combining "govoril" ("said, were saying") and "nu" ("oh, come on") so the key meaning lands right away.
+- 'Good job, punk.' Max takes a steady line in the conversation, anchoring the Russian line on "molodets" ("well done, good boy") and "oguzok" ("Rump") without extra filler.
+- 'You have to use your head.' Barinov chooses an honest rhythm in this beat, combining "nado" ("it is necessary") and "dumat" ("to think") so the key meaning lands right away.
+- 'No, no, no.' Vika strikes a grounded mood beside Barinov, using "net" ("no") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Two partridges simply will not do.' Max keeps a grounded mood as the scene unfolds, combining the softening word "prosto" ("simply, just") with "kuropatki" ("partridges") to give the line its natural spoken rhythm.
+- 'Four at the very minimum.' Barinov chooses an easygoing posture as they talk, joining "minimum" ("at least, minimum") to "chetyre" ("four") so every word pulls its weight.
+- 'All right then.' Vika chooses a brisk posture with Max, building the phrase around "khorosho" ("good, fine") and "nu" ("oh, come on") for a crisp, natural delivery.
+- 'Okay, four it is.' Max keeps a pointed tempo on the spot, weaving "chetyre" ("four") together with "nu" ("oh, come on") just the way native speakers do.

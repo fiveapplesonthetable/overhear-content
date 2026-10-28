@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vera Ivanovna, I washed all the windows.' Over the friend and the work, Gulya answers the guest without a second thought.
-- 'Thank you, Gulya.' Between the friend and the point, the guest gives Gulya a quick, grounded response. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Rest for now, sit for a bit.' Claiming that Gulya should rest for now sit for a bit sounds confident, even if Gulya has doubts.
-- 'You can watch television in the room.' Saying that Gulya can watch television in the room is how the guest sets the tone with Gulya.
-- 'Alright, thank you very much.' With the money and shift in play, Gulya keeps this short reply brisk and direct.
-- 'Of course, be glad, but still be careful.' Over the money and the moment, the guest answers Gulya without a second thought.
-- 'My friend also had a housekeeper just like this.' The guest mentions that his friend also had a housekeeper just like this so Gulya sees what is at stake.
-- 'Such a quiet and modest girl.' With the money and point in play, the guest keeps this short reply brisk and direct.
-- 'And one day suddenly all the money disappeared.' Around the money and truth, the guest sets a calm, everyday tone with Gulya.
-- 'I am not like that at all.' Since she is not like that at all, Gulya does not waste words on excuses.
-- 'Vera, will you lend me five thousand until my pension?' The guest asks whether Vera will Gulya lends him five thousand until his pension, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yes, I will bring it right now.' Noting that he will bring it right now keeps the guest's side of the story simple and clear.
+- 'Vera Ivanovna, I washed all the windows.' Gulya brings a serious line with the guest, anchoring the Russian line on "pomyla" ("to wash") and "okna" ("window") without extra filler.
+- 'Thank you, Gulya.' The guest adopts a thoughtful position in the conversation, anchoring the Russian line on "spasibo" ("thank you") and "tebe" ("for you, to you") without extra filler.
+- 'Rest for now, sit for a bit.' The guest brings a serious rhythm in this beat, putting "otdokhni" ("rest") alongside "poka" ("bye") in a tight, everyday turn of phrase.
+- 'You can watch television in the room.' The guest picks an unhurried tack beside Gulya, pairing "mozhesh" ("can") with "televizor" ("television") to get the point across in plain spoken Russian.
+- 'Alright, thank you very much.' Gulya favors a thoughtful angle beside the guest, putting "khorosho" ("good, fine") alongside "spasibo" ("thank you") in a tight, everyday turn of phrase.
+- 'Of course, be glad, but still be careful.' The guest displays an honest style in the conversation, pairing "konechno" ("of course") with "raduysya" ("rejoice, celebrate") to get the point across in plain spoken Russian.
+- 'My friend also had a housekeeper just like this.' The guest holds a natural approach at this moment, joining "podrugi" ("female friends") to "tozhe" ("too") so every word pulls its weight.
+- 'Such a quiet and modest girl.' The guest favors a lively note across the room, building the phrase around "tikhaya" ("quiet") and "skromnaya" ("modest, humble") for a crisp, natural delivery.
+- 'And one day suddenly all the money disappeared.' The guest sets an emphatic footing at once, leaning on "den" ("day") before closing the thought with "vdrug" ("suddenly, what if").
+- 'I am not like that at all.' Gulya sustains a measured footing for the guest, combining "sovsem" ("at all") and "ya" ("I") so the key meaning lands right away.
+- 'Vera, will you lend me five thousand until my pension?' The guest wonders honestly across the room, combining "tysyach" ("thousand") and "dash" ("to give") so the key meaning lands right away.
+- 'Yes, I will bring it right now.' The guest holds a warm bearing as the scene unfolds, linking "seychas" ("now"), "prinesu" ("I will bring"), and "da" ("yes") in one brisk exchange.

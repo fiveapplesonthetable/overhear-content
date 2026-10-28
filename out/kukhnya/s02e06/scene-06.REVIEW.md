@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh come on, do not take it to heart.' Noting that Kostya should come on do not take it to heart keeps Barinov's side of the story simple and clear.
-- 'It actually worked out better for you.' Claiming that it actually worked out better for Barinov sounds confident, even if Barinov has doubts.
-- 'That is it, I quit.' Pointing out that that is it he quits gives Kostya a sobering reality check.
-- 'Attention, Chef!' With the shift and point at stake, Kostya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Good morning!' Over the moment and the joke, Barinov lets his real feelings show.
-- 'Good morning, Chef.' Around the shift and story, Kostya sets a calm, everyday tone with Barinov.
-- 'All right, I salute you.' Over the shift and the kitchen, Barinov answers Kostya without a second thought.
-- 'Workers of the knife and the cleaver.' Around the shift and moment, Kostya sets a calm, everyday tone with Barinov.
-- 'You guys are having fun in here, huh?' Questioning whether Kostya guys are having fun in here huh is how Barinov tests Kostya's story. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Well, how do you like this?' Here asking how Barinov likes this shows Kostya looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I thought alcohol would destroy your liver first.' Adding that he thought alcohol would destroy Kostya's liver first fills in the missing piece for Kostya.
-- 'But alcohol is a cunning thing.' Kostya tells Barinov that alcohol is a cunning thing without dressing it up.
-- 'It started with your brain instead.' Since it started with Kostya's brain instead, Barinov does not waste words on excuses.
+- 'Oh come on, do not take it to heart.' Barinov favors a lively rhythm at this moment, leaning on "beri" ("take, grab") before closing the thought with "golovu" ("head").
+- 'It actually worked out better for you.' Kostya establishes an honest tone in front of Barinov, putting "togda" ("back then") alongside "luchshe" ("better") in a tight, everyday turn of phrase.
+- 'That is it, I quit.' Barinov keeps a pointed view across the room, building the phrase around "uvolnyayus" ("quit, resign") and "vsyo" ("everything") for a crisp, natural delivery.
+- 'Attention, Chef!' Kostya picks a grounded line right away, anchoring the Russian line on "tak" ("so") and "shef" ("Chef") without extra filler.
+- 'Good morning!' Barinov shows a lively note beside Kostya, pairing "dobroye" ("good") with "utro" ("morning") to get the point across in plain spoken Russian.
+- 'Good morning, Chef.' Kostya shows an honest stance as the scene unfolds, using "dobroye" (from "dobryy", "good") alongside "utro" ("morning") to shape the meaning.
+- 'All right, I salute you.' Barinov offers a natural tempo in their talk, using "privetstvuyu" (from "privetstvovat", "greet") alongside "tak" ("so") to shape the meaning.
+- 'Workers of the knife and the cleaver.' Kostya shows a firm stance in the conversation, joining "rabotnikov" ("workers") to "nozha" ("knife") so every word pulls its weight.
+- 'You guys are having fun in here, huh?' Barinov inquires frankly without a pause, linking "veselo" ("merrily") directly with "tut" ("here"), since Russian drops "is" and "are" in the present.
+- 'Well, how do you like this?' Kostya tests dryly without holding back, pairing "kak" ("how") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
+- 'I thought alcohol would destroy your liver first.' Barinov favors an unhurried line as they talk, using "dumal" (from "dumat", "thought") alongside "alkogol" ("alcohol") to shape the meaning.
+- 'But alcohol is a cunning thing.' Kostya brings a frank approach at this moment, placing "khitryy" ("cunning") straight beside "alkogol" ("alcohol") with no word for "to be" needed.
+- 'It started with your brain instead.' Barinov establishes a candid posture on the spot, putting "mozga" ("brain") alongside "nachal" ("started") in a tight, everyday turn of phrase.

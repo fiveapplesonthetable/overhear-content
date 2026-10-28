@@ -10,14 +10,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Тимур | Тихо, не надо сейчас спорить. | Quiet, there is no need to argue now. | #51: Тихо, тихо | adapted: adapted |
-| 2 | Тимур | Устроим здесь честные выборы. | Let us hold fair elections here. | #53: выборы | adapted: adapted |
-| 3 | Тимур | Пусть каждый побудет немного главным. | Let each of you be the boss for a bit. | #54: Пусть каждый побудет | adapted: adapted |
-| 4 | Тимур | Народ посмотрит и потом выберет. | The people will watch and then choose. | #55: Народ потом посмотрит и выберет | adapted: adapted |
+| 1 | Михаил | Тихо, не надо сейчас спорить. | Quiet, there is no need to argue now. | #51: Тихо, тихо | adapted: adapted |
+| 2 | Михаил | Устроим здесь честные выборы. | Let us hold fair elections here. | #53: выборы | adapted: adapted |
+| 3 | Михаил | Пусть каждый побудет немного главным. | Let each of you be the boss for a bit. | #54: Пусть каждый побудет | adapted: adapted |
+| 4 | Михаил | Народ посмотрит и потом выберет. | The people will watch and then choose. | #55: Народ потом посмотрит и выберет | adapted: adapted |
 | 5 | Сеня | Значит, я буду первый главный. | So I will be the first boss. | #56: Значит, я первый главный | adapted: adapted |
 | 6 | Федя | А я буду второй главный. | And I will be the second boss. | #57: А я второй главный | adapted: adapted |
-| 7 | Тимур | Всё, регистрация кандидатов уже окончена. | That is it, candidate registration is already closed. | #58: регистрация кандидатов окончена | adapted: adapted |
-| 8 | Тимур | Вечером мы проведём наши выборы. | In the evening we will hold our elections. | #59: Выбор | adapted: adapted |
+| 7 | Михаил | Всё, регистрация кандидатов уже окончена. | That is it, candidate registration is already closed. | #58: регистрация кандидатов окончена | adapted: adapted |
+| 8 | Михаил | Вечером мы проведём наши выборы. | In the evening we will hold our elections. | #59: Выбор | adapted: adapted |
 | 9 | Сеня | А если будут большие пробки? | And what if there is heavy traffic? | #60: если пробки будут | adapted: adapted |
 | 10 | Федя | Ну, сегодня повезло тебе, Миша. | Well, you got lucky today, Misha. | #61: повезло тебе | adapted: adapted |
 | 11 | Федя | Михаил Джекович коня в карты выиграл. | Mikhail Jekovich won a horse at cards. | #63: Михаил Джекович, коня в карты выиграл | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quiet, there is no need to argue now.' Even though quiet there is no need to argue now, Timur keeps a steady face in front of Fedya. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Let us hold fair elections here.' Claiming that they should hold fair elections here sounds confident, even if Fedya has doubts.
-- 'Let each of you be the boss for a bit.' By letting each of Fedya is the boss for a bit, Timur keeps his side of the story grounded.
-- 'The people will watch and then choose.' Once the people will watch and then choose, Timur can finally tell Fedya what he means.
-- 'So I will be the first boss.' Adding that he will be the first boss fills in the missing piece for Fedya.
-- 'And I will be the second boss.' Saying that he will be the second boss is how Fedya sets the tone with Senya.
-- 'That is it, candidate registration is already closed.' Since that is it candidate registration is already closed, Timur does not waste words on excuses.
-- 'In the evening we will hold our elections.' Mentioning that in the evening they will hold their elections moves the talk in a new direction.
-- 'And what if there is heavy traffic?' Senya asks whether what if there is heavy traffic, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, you got lucky today, Misha.' Because Senya got lucky today Misha, Fedya treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Mikhail Jekovich won a horse at cards.' Explaining that Mikhail Jekovich won a horse at cards lays the cards on the table for Senya.
-- 'Did the horse arrive to pay off an old debt?' By asking whether the horse arrive to pay off an old debt, Senya presses Fedya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Quiet, there is no need to argue now.' Mikhail sustains a calm mood straight away, leaning on "tikho" ("easy, quiet") before closing the thought with "nado" ("it is necessary").
+- 'Let us hold fair elections here.' Mikhail adopts an emphatic angle during the exchange, combining "ustroim" ("arrange") and "zdes" ("here") so the key meaning lands right away.
+- 'Let each of you be the boss for a bit.' Mikhail conveys a sharp position in their talk, joining "kazhdyy" ("every") to "pobudet" ("to stay for a while") so every word pulls its weight.
+- 'The people will watch and then choose.' Mikhail picks a serious footing at this moment, building the phrase around "narod" ("the people") and "posmotrit" ("will examine") for a crisp, natural delivery.
+- 'So I will be the first boss.' Senya establishes a frank style during the exchange, weaving "znachit" ("then, so") together with "budu" ("will be") just the way native speakers do.
+- 'And I will be the second boss.' Fedya maintains a sharp tone beside Senya, pairing "budu" ("will be") with "vtoroy" ("second") to get the point across in plain spoken Russian.
+- 'That is it, candidate registration is already closed.' Mikhail displays a candid direction as they talk, combining "registratsiya" ("registration") and "kandidatov" ("candidates") so the key meaning lands right away.
+- 'In the evening we will hold our elections.' Mikhail picks a warm style in their talk, building the phrase around "vecherom" ("in the evening") and "provedyom" ("will spend") for a crisp, natural delivery.
+- 'And what if there is heavy traffic?' Senya checks boldly without holding back, building the phrase around "budut" ("there will be") and "bolshiye" ("big, serious") for a crisp, natural delivery.
+- 'Well, you got lucky today, Misha.' Fedya takes a resolute course on the spot, joining "segodnya" ("today") to "povezlo" ("it was lucky") so every word pulls its weight.
+- 'Mikhail Jekovich won a horse at cards.' Fedya takes an emphatic stance right away, weaving "konya" ("horse, knight") together with "karty" ("cards") just the way native speakers do.
+- 'Did the horse arrive to pay off an old debt?' Senya queries candidly without hesitation, leaning on "kon" ("knight, horse") before closing the thought with "priyekhal" ("came").

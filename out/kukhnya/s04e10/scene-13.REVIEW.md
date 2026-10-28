@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, guys, let's do it differently.' Saying that all right guys let them do it differently is how Senya sets the tone with Fedya.
-- 'Just tie me up tightly.' Between the shift and the plan, Senya gives Fedya a quick, grounded response. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'What if I do not turn into one after all?' Asking whether what if he does not turn into one after all puts Fedya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Or scientists will invent a vaccine soon.' Senya reminds Fedya that scientists will invent a vaccine soon before the moment passes.
-- 'And you will always have time to shoot me.' Because Fedya will always have time to shoot him, Senya treats the matter as settled.
-- 'Hold him tighter, guys!' By holding him tighter guys, Fedya raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'The zombies are already breaking down the doors!' Because the zombies are already breaking down the doors, Fedya does not bother softening the blow for Senya.
-- 'Everyone get into the van quickly!' With the situation and truth at stake, Timur reacts without holding back. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'I will drive you to the safe zone.' Pointing out that he will drive Fedya to the safe zone gives Fedya a sobering reality check. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Does everyone have eight hundred rubles each?' By checking whether everyone have eight hundred rubles each, Timur presses Fedya for a straight answer.
-- 'Timur, are you bargaining even now?' Asking whether Senya bargaining even now cuts straight through the tension between Fedya and Senya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Gasoline is very expensive right now, brother.' Noting that gasoline is very expensive right now brother keeps Timur's side of the story simple and clear.
+- 'All right, guys, let's do it differently.' Senya shares an easygoing rhythm at this moment, combining the polite invitation "davayte" ("let us") with "rebyata" ("the boys, the lads") to give the line its natural spoken rhythm.
+- 'Just tie me up tightly.' Senya sets a grounded bearing for Timur, putting "prosto" ("just") alongside "krepko" ("tightly") in a tight, everyday turn of phrase.
+- 'What if I do not turn into one after all?' Senya asks quietly in their exchange, building the phrase around "vdrug" ("suddenly, what if") and "yeshchyo" ("more, still") for a crisp, natural delivery.
+- 'Or scientists will invent a vaccine soon.' Senya sustains a warm tack in this beat, joining "uchyonyye" ("scientist, scholar") to "vaktsinu" ("vaccine") so every word pulls its weight.
+- 'And you will always have time to shoot me.' Senya establishes an emphatic approach during the exchange, linking "pristrelit" ("to time"), "vsegda" ("always"), and "uspeyete" ("to make it") in one brisk exchange.
+- 'Hold him tighter, guys!' Fedya takes a warm footing in the scene, joining "derzhite" ("hold") to "krepche" ("tighter") so every word pulls its weight.
+- 'The zombies are already breaking down the doors!' Fedya presents a steady course with Senya, weaving "zombi" ("matter") together with "uzhe" ("already, now") just the way native speakers do.
+- 'Everyone get into the van quickly!' Timur establishes an easygoing bearing on the spot, putting "davayte" ("let's") alongside "bystreye" ("faster") in a tight, everyday turn of phrase.
+- 'I will drive you to the safe zone.' Timur projects an honest angle at this moment, linking "otvezu" ("I'll drive"), "bezopasnuyu" ("safe, secure"), and "zonu" ("zone") in one brisk exchange.
+- 'Does everyone have eight hundred rubles each?' Timur quizzes naturally in the room, weaving "vosemsot" ("eight") together with "rubley" ("roubles") just the way native speakers do.
+- 'Timur, are you bargaining even now?' Fedya queries openly from the start, weaving "seychas" ("now") together with "torguyeshsya" ("to bargain") just the way native speakers do.
+- 'Gasoline is very expensive right now, brother.' Timur sustains a candid tempo without hesitation, pairing "seychas" ("now") with "benzin" ("gasoline") so the "-sya" ending carries the action.

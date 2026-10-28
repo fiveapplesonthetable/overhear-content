@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was told you can organize a game.' Once he was told Barinov can organize a game, the guest can finally tell Barinov what he means. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Interesting, and who whispered that to you?' With the conversation and secret hanging in the air, Mikhail puts Barinov on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Well, that is not so important right now.' Saying that that is not so important right now is how the guest sets the tone with Barinov.
-- 'So can you help me or not?' Checking whether Barinov helps him or not cuts straight through the tension between the guest and Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Fine, I will definitely think of something for you.' Mentioning that fine he will definitely think of something for Barinov moves the talk in a new direction. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'And how can I find you later?' Here asking how he finds Barinov later can shows the guest looking for the real truth.
-- 'All the phone numbers are on my business card.' Because all the phone numbers are on his business card, Mikhail treats the matter as settled.
-- 'Look, he has the exact same suit.' Explaining that he has the exact same suit lays the cards on the table for Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'We gave my suit to the dry cleaners.' Mikhail mentions that they gave his suit to the dry cleaners so Barinov sees what is at stake.
-- 'I have not had such good luck in a long time.' Mentioning that he has not had such good luck in a long time moves the talk in a new direction.
-- 'Please, do not worry at all.' Mentioning that do not worry at all moves the talk in a new direction. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Excuse me, I came in just to ask quickly.' Barinov explains that he came in just to ask quickly, keeping his voice calm and direct.
+- 'I was told you can organize a game.' The guest displays a frank course with Barinov, combining "skazali" ("told") and "mozhete" ("can, may") so the key meaning lands right away.
+- 'Interesting, and who whispered that to you?' Mikhail challenges firmly in front of the guest, linking "interesno" ("interesting"), "shepnul" ("whispered"), and "kto" ("who") in one brisk exchange.
+- 'Well, that is not so important right now.' The guest conveys a candid bearing across the room, pairing "seychas" ("now") with "vazhno" ("important, mattering") to get the point across in plain spoken Russian.
+- 'So can you help me or not?' The guest prompts naturally from the start, linking "mozhete" ("can, may"), "pomoch" ("to help"), and "tak" ("so") in one brisk exchange.
+- 'Fine, I will definitely think of something for you.' Mikhail sets a resolute direction in their talk, pairing "khorosho" ("good, fine") with "obyazatelno" ("surely, without fail") to get the point across in plain spoken Russian.
+- 'And how can I find you later?' The guest wonders earnestly without a pause, anchoring the Russian line on "kak" ("how") and "potom" ("then") without extra filler.
+- 'All the phone numbers are on my business card.' Mikhail adopts a thoughtful angle beside Barinov, pairing "telefony" ("telephone, phone") with "yest" ("there is") to get the point across in plain spoken Russian.
+- 'Look, he has the exact same suit.' Mikhail shares a playful approach beside the guest, pairing "smotri" ("look") with "kostyum" ("suit") to get the point across in plain spoken Russian.
+- 'We gave my suit to the dry cleaners.' Mikhail takes a calm approach for Barinov, using "otdali" (from "otdat", "to give, to hand over") alongside "kostyum" ("suit") to shape the meaning.
+- 'I have not had such good luck in a long time.' The guest sets a playful attitude right away, joining "davno" ("for a long time") to "khorosho" ("good, fine") so every word pulls its weight.
+- 'Please, do not worry at all.' The guest brings a pointed bearing in their talk, combining "sovershenno" ("quite, completely") and "bespokoytes" ("worry") so the key meaning lands right away.
+- 'Excuse me, I came in just to ask quickly.' Barinov sets an emphatic position in the scene, putting "izvinite" ("sorry, excuse me") alongside "zashyol" ("stopped by") in a tight, everyday turn of phrase.

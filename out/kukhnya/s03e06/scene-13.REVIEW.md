@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, what is going on with us?' Wondering what going on with them is is how Vika puts Barinov on the spot.
-- 'Kristina just came up to me.' Even though Kristina just came up, Vika keeps a steady face in front of Barinov.
-- 'She said that the restaurant is closing tomorrow.' Admitting that she said that the restaurant is closing tomorrow shows Vika being honest for a change.
-- 'And if Dima comes up, to send him far away.' Saying that if Dima comes up to send him far away is how Vika sets the tone with Barinov.
-- 'Then Dima came up and said the exact same thing.' Once Dima came up and said the exact same thing, Vika can finally tell Barinov what she means.
-- 'We do not need to send anyone anywhere.' Adding that they do not need to send anyone anywhere fills in the missing piece for Max. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Tomorrow we will have two banquets at once.' Barinov tells Max that tomorrow they will have two banquets at once without dressing it up.
-- 'They will not even see each other.' Since they will not even see each other, Barinov does not waste words on excuses.
-- 'Max, what are you doing right now?' Here asking what Barinov doing right now is shows Vika looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Vika, forgive me, I did not mean to at all.' Max reminds Barinov that he did not mean to at all before the moment passes.
-- 'Here, I brought you clean salt.' Because here he brought Barinov cleans salt, Max treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Listen, you still have sauce on you, let me hold it.' Explaining that Barinov still have sauce on Barinov lets him hold it lays the cards on the table for Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Vitya, what is going on with us?' Vika challenges dryly in front of Barinov, leaning on "u nas" ("by us, at our place") and "proiskhodit" ("is going on") the way natural Russian does.
+- 'Kristina just came up to me.' Vika sets a clear position toward Max, anchoring the Russian line on "seychas" ("now") and "podoshla" ("approached") without extra filler.
+- 'She said that the restaurant is closing tomorrow.' Vika offers a firm line across the room, combining "skazala" ("told") and "zavtra" ("tomorrow") so the key meaning lands right away.
+- 'And if Dima comes up, to send him far away.' Vika presents an earnest tempo in front of Max, pairing "podoydyot" ("to come up") with "poslat" ("send") to get the point across in plain spoken Russian.
+- 'Then Dima came up and said the exact same thing.' Vika holds a steady rhythm in this beat, leaning on "potom" ("then") before closing the thought with "podoshyol" ("to come up").
+- 'We do not need to send anyone anywhere.' Barinov establishes a playful note across the room, weaving "nikuda" ("nowhere, anywhere") together with "posylat" ("send") just the way native speakers do.
+- 'Tomorrow we will have two banquets at once.' Barinov picks an unhurried view beside Max, putting "zavtra" ("tomorrow") alongside "budet" ("will be") in a tight, everyday turn of phrase.
+- 'They will not even see each other.' Barinov sets a serious style toward Vika, putting "uvidyat" ("will see") alongside "drug" ("friend") in a tight, everyday turn of phrase.
+- 'Max, what are you doing right now?' Vika queries pointedly from the start, pairing "seychas" ("now") with "tvorish" ("are doing, creating") to get the point across in plain spoken Russian.
+- 'Vika, forgive me, I did not mean to at all.' Max sets a clear position for Vika, using "prosti" (from "prostit", "sorry, forgive me") alongside "sovsem" ("at all") to shape the meaning.
+- 'Here, I brought you clean salt.' Max sets a clear position in the room, building the phrase around "chistuyu" ("clean") and "sol" ("salt") for a crisp, natural delivery.
+- 'Listen, you still have sauce on you, let me hold it.' Max shares an unhurried style at this moment, weaving "slushay" ("listen") together with "yeshchyo" ("more, still") just the way native speakers do.

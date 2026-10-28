@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Write: yesterday I was lucky enough to visit the restaurant.' Admitting that Fedya should write yesterday he was lucky enough to visit the restaurant shows Barinov being honest for a change.
-- 'This is a true sacred place of French cuisine.' Once this is a true sacred place of French cuisine, Mikhail can finally tell Barinov what he means.
-- 'Misha, no, such words do not sound good.' Adding that such words do not sound good fills in the missing piece for Fedya.
-- 'Then let us write the citadel of French cuisine.' Fedya mentions that they should write the citadel of French cuisine so Barinov sees what is at stake. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Exactly, citadel sounds much better and nicer.' Since exactly citadel sounds much better and nicer, Barinov does not waste words on excuses.
-- 'And the great culinary genius of Chef Viktor Barinov.' Around the restaurant and office, Mikhail sets a calm, everyday tone with Barinov.
-- 'Will amaze all guests with the most exquisite dishes.' Fedya reminds Barinov that will amaze all guests with the most exquisite dishes before the moment passes.
-- 'Let us add one more beautiful word here.' Claiming that they should add one more beautiful word here sounds confident, even if Barinov has doubts.
-- 'Oops, I think I accidentally pressed the button.' Explaining that someone he thinks he accidentally pressed the button lays the cards on the table for Barinov.
-- 'Wait, what did you just do?' Wondering what Fedya just do is how Barinov puts Fedya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Chef, I accidentally published this post.' Between the restaurant and the office, Fedya gives Barinov a quick, grounded response.
-- 'Why did you press it, come on, erase it quickly!' Saying that why did Barinov press it come on erase it quickly is how Mikhail takes charge of the moment. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Erase it immediately before Lena sees it!' Barinov declares that erase it immediately before sees it as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Write: yesterday I was lucky enough to visit the restaurant.' Barinov conveys a natural tone in this beat, building the phrase around "pishi" ("write") and "vchera" ("yesterday") for a crisp, natural delivery.
+- 'This is a true sacred place of French cuisine.' Mikhail holds an easygoing mood in their talk, placing "nastoyashcheye" ("real") straight beside "svyatoye" ("holy, sacred") with no word for "to be" needed.
+- 'Misha, no, such words do not sound good.' Barinov chooses an honest line straight away, putting "slova" ("words") alongside "zvuchat" ("to sound, to ring out") in a tight, everyday turn of phrase.
+- 'Then let us write the citadel of French cuisine.' Fedya strikes a resolute direction for Mikhail, joining "togda" ("back then") to "davay" ("let's") so every word pulls its weight.
+- 'Exactly, citadel sounds much better and nicer.' Barinov holds a direct posture in the room, leaning on "tochno" ("definitely") before closing the thought with "tsitadel" ("citadel").
+- 'And the great culinary genius of Chef Viktor Barinov.' Mikhail conveys a firm attitude in front of Fedya, pairing "velikiy" ("great") with "kulinarnyy" ("culinary") to get the point across in plain spoken Russian.
+- 'Will amaze all guests with the most exquisite dishes.' Fedya establishes a firm direction during the exchange, linking "udivit" ("to surprise"), "gostey" ("guests"), and "samymi" ("the most, the very") in one brisk exchange.
+- 'Let us add one more beautiful word here.' Mikhail establishes a warm posture at once, putting "davayte" ("let's") alongside "dobavim" ("will add") in a tight, everyday turn of phrase.
+- 'Oops, I think I accidentally pressed the button.' Fedya maintains a serious view in this beat, anchoring the Russian line on "kazhetsya" ("it seems, I think") and "sluchayno" ("by any chance") without extra filler.
+- 'Wait, what did you just do?' Barinov challenges bluntly across the room, building the phrase around "podozhdi" ("wait") and "tolko" ("only") for a crisp, natural delivery.
+- 'Chef, I accidentally published this post.' Fedya sustains a clear bearing in the scene, weaving "sluchayno" ("by any chance") together with "opublikoval" ("published") just the way native speakers do.
+- 'Why did you press it, come on, erase it quickly!' Mikhail shows a pointed bearing in this beat, leaning on "zachem" ("what for") before closing the thought with "nazhal" ("pressed").
+- 'Erase it immediately before Lena sees it!' Barinov keeps a candid course toward Fedya, using "stiray" (from "stirat", "erase") alongside "nemedlenno" ("immediately") to shape the meaning.

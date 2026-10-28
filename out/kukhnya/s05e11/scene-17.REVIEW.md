@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how do you like the food?' Wondering how Denis likes the food is how Eleonora puts Denis on the spot. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'You know, it was magnificent!' Saying that it was magnificent is how Lyova takes charge of the moment. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Yes, I liked it very much too.' Eleonora reminds Denis that she liked it very much before the moment passes.
-- 'And here is the prize for the winner!' Because here is the prize for the winner, Denis does not bother softening the blow for Eleonora. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'What are you doing tonight?' Asking what Eleonora doing tonight is is how Denis puts Eleonora on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Take your hands off!' Taking Denis's hands off is Lyova's blunt reaction in front of Denis.
-- 'Immediately take your hands off her!' Declaring that immediately take Denis's hands off brings Lyova's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'She does not like that.' Mentioning that she does not like moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Old man, everything I do with my hands women like very much.' Denis explains that old man everything he does with his hands women like very much, keeping his voice calm and direct.
-- 'I said, take your hands off!' Lyova declares that he said take Denis's hands off as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I demand that you apologize to the girl!' Demanding that Denis apologizes to the girl shows Lyova is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Listen, this is over the line.' Even though this is over the line, Denis keeps a steady face in front of Eleonora.
+- 'Well, how do you like the food?' Eleonora checks frankly on the spot, weaving "kak" ("how") together with "yeda" ("food") just the way native speakers do.
+- 'You know, it was magnificent!' Lyova shares a wry stance at this moment, anchoring the Russian line on "znayete" ("know") and "bylo" ("was") without extra filler.
+- 'Yes, I liked it very much too.' Eleonora brings a resolute manner in their talk, pairing "ponravilos" ("pleased, was liked") with "tozhe" ("too") so the "-sya" ending carries the action.
+- 'And here is the prize for the winner!' Denis shows a firm line in the scene, joining "priz" ("prize") to "pobeditelya" ("winner") so every word pulls its weight.
+- 'What are you doing tonight?' Denis queries plainly in the scene, building the phrase around "segodnya" ("today") and "delayesh" ("are you doing") for a crisp, natural delivery.
+- 'Take your hands off!' Lyova establishes a playful view in their talk, putting "uberi" ("take away, put away") alongside "ruki" ("hands") in a tight, everyday turn of phrase.
+- 'Immediately take your hands off her!' Lyova displays a thoughtful position across the room, linking "nemedlenno" ("immediately"), "uberi" ("take away, put away"), and "ruki" ("hands") in one brisk exchange.
+- 'She does not like that.' Lyova strikes a wry note right away, weaving "nravitsya" ("is pleasing") together with "yey" ("to her") just the way native speakers do.
+- 'Old man, everything I do with my hands women like very much.' Denis establishes an unhurried tempo straight away, anchoring the Russian line on "starik" ("old man") and "delayu" ("I make") without extra filler.
+- 'I said, take your hands off!' Lyova establishes a measured direction straight away, leaning on "skazal" ("said") before closing the thought with "uberi" ("take away, put away").
+- 'I demand that you apologize to the girl!' Lyova projects a clear view toward Denis, pairing "trebuyu" ("demand") with "izvinitsya" ("to apologise") to get the point across in plain spoken Russian.
+- 'Listen, this is over the line.' Denis shows a brisk mood in the room, building the phrase around "slushay" ("listen") and "perebor" ("too much, overkill") for a crisp, natural delivery.

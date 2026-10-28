@@ -11,8 +11,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Костя | Он просто все законы знает, в университете учится. | He simply knows all the laws, he studies at the university. | #143: Он просто все законы знает | adapted: adapted |
-| 2 | Нагиев | Ну понятно, на красный свет ехать нельзя. | Well I see, you cannot drive on a red light. | #144: Ну, понятно. На красный, значит, свет нельзя | adapted: adapted |
-| 3 | Нагиев | Зато в таком виде можно по Москве разъезжать. | Yet in that outfit you can drive around Moscow. | #145: по Москве разъезжать | adapted: adapted |
+| 2 | Макс | Ну понятно, на красный свет ехать нельзя. | Well I see, you cannot drive on a red light. | #144: Ну, понятно. На красный, значит, свет нельзя | adapted: adapted |
+| 3 | Макс | Зато в таком виде можно по Москве разъезжать. | Yet in that outfit you can drive around Moscow. | #145: по Москве разъезжать | adapted: adapted |
 | 4 | Костя | Всё, Настя, мне сейчас срочно надо ехать. | That is it, Nastya, I urgently need to go right now. | #146: Все. Настя, мне надо ехать | adapted: adapted |
 | 5 | Настя | Конечно, ты просто уходишь от разговора, да? | Of course, you are simply walking away from the conversation, right? | #147: Конечно. Уходишь от разговора, да | adapted: adapted |
 | 6 | Костя | Настя, называй сына как хочешь, только не Кузьма. | Nastya, name our son whatever you want, just not Kuzma. | #148: Настя, называй, как хочешь | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He simply knows all the laws, he studies at the university.' Claiming that he simply knows all the laws he studies at the university sounds confident, even if Nagiyev has doubts.
-- 'Well I see, you cannot drive on a red light.' Explaining that he sees Kostya cannot drive on a red light lays the cards on the table for Kostya. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Yet in that outfit you can drive around Moscow.' Nagiyev explains that yet in that outfit Kostya can drive around Moscow, keeping his voice calm and direct.
-- 'That is it, Nastya, I urgently need to go right now.' Realizing that that is it Nastya he urgently need to go right now changes how Kostya handles the situation. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Of course, you are simply walking away from the conversation, right?' Nastya asks whether Kostya is simply walking away from the conversation right, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Nastya, name our son whatever you want, just not Kuzma.' Even though name their son whatever Nagiyev wants just not Kuzma, Kostya keeps a steady face in front of Nagiyev.
-- 'And I will name him Kuzma anyway!' Nastya declares that she will name him Kuzma anyway as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'If it is Kuzma, I renounce Kuzma.' Saying that if it is Kuzma he renounce Kuzma is how Kostya sets the tone with Nagiyev.
-- 'Wait, are you rejecting our son?' By asking whether Kostya rejecting their son, Nastya presses Kostya for a straight answer.
-- 'Go away, I do not want to see you anymore!' Nastya declares that Kostya should go away she does not want to see Kostya anymore as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Nastya, listen, not from our son!' With the room and truth at stake, Kostya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I am only rejecting the name Kuzma.' Claiming that he is only rejecting the name Kuzma sounds confident, even if Nagiyev has doubts.
+- 'He simply knows all the laws, he studies at the university.' Kostya sets a candid tone in their talk, joining "prosto" ("just") to "zakony" ("laws") so every word pulls its weight.
+- 'Well I see, you cannot drive on a red light.' Max shares a calm posture in the conversation, combining "ponyatno" ("clear") and "krasnyy" ("red") so the key meaning lands right away.
+- 'Yet in that outfit you can drive around Moscow.' Max picks an easygoing view straight away, leaning on "vide" ("state") before closing the thought with "mozhno" ("may, can").
+- 'That is it, Nastya, I urgently need to go right now.' Kostya sets a clear stance right away, anchoring the Russian line on "seychas" ("now") and "srochno" ("urgent, urgently") without extra filler.
+- 'Of course, you are simply walking away from the conversation, right?' Nastya tests directly at this point, putting "konechno" ("of course") alongside "prosto" ("just") in a tight, everyday turn of phrase.
+- 'Nastya, name our son whatever you want, just not Kuzma.' Kostya maintains a firm line in front of Nastya, anchoring the Russian line on "nazyvay" ("name, call") and "syna" ("son") without extra filler.
+- 'And I will name him Kuzma anyway!' Nastya strikes an honest direction as the scene unfolds, building the phrase around "ravno" ("the same") and "nazovu" ("will name") for a crisp, natural delivery.
+- 'If it is Kuzma, I renounce Kuzma.' Kostya picks a firm rhythm beside Nastya, joining "budet" ("will be") to "otkazyvayus" ("refuse") so every word pulls its weight.
+- 'Wait, are you rejecting our son?' Nastya probes evenly in their exchange, pairing "otkazyvayeshsya" ("refuse, reject") with "podozhdi" ("wait") so the "-sya" ending carries the action.
+- 'Go away, I do not want to see you anymore!' Nastya takes a direct attitude straight away, joining "ukhodi" ("go away") to "bolshe" ("more") so every word pulls its weight.
+- 'Nastya, listen, not from our son!' Kostya holds a firm tone in the scene, linking "poslushay" ("listen"), "syna" ("son"), and "nastya" ("Nastya") in one brisk exchange.
+- 'I am only rejecting the name Kuzma.' Kostya shares a calm rhythm as they talk, pairing "otkazyvayus" ("refuse") with "tolko" ("only") to get the point across in plain spoken Russian.

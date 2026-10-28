@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He left right through the ventilation shaft.' Adding that he left right through the ventilation shaft fills in the missing piece for Barinov.
-- 'Who is going to climb in after him now?' By wondering who going to climb in after him now is, Barinov presses Lyova for a straight answer.
-- 'I might get stuck at the turn.' Since he might get stuck at the turn, Senya does not waste words on excuses.
-- 'Wait, how will I recognize him?' Wondering how he recognizes him will is how Lyova puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'There are no other people inside there.' Saying that there are no other people inside there is how Barinov sets the tone with Lyova.
-- 'Meanwhile we will study the ventilation plan.' Because meanwhile they will study the ventilation plan, Barinov treats the matter as settled.
-- 'Lyova, are you alright in there?' Checking whether Lyova alright in there cuts straight through the tension between Barinov and Lyova. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'He will definitely crawl to the end.' Saying that he will definitely crawl to the end is how Senya sets the tone with Barinov.
-- 'Keep the fruits and vegetables separate.' Here keeping the fruits and vegetables separate sets up the next turn in their exchange.
-- 'I did just that yesterday.' Pointing out that he did just that yesterday gives Barinov a sobering reality check.
-- 'Who unloaded those boxes over there?' Over the inspector and the kitchen, Senya presses Barinov for a straight answer.
-- 'Look, he is still right there!' Barinov declares that he is still right there as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'He left right through the ventilation shaft.' Senya displays a wry bearing straight away, putting "ushyol" ("left, departed") alongside "pryamo" ("right, just") in a tight, everyday turn of phrase.
+- 'Who is going to climb in after him now?' Barinov challenges bluntly on the spot, linking "teper" ("now"), "polezet" ("to climb"), and "kto" ("who") in one brisk exchange.
+- 'I might get stuck at the turn.' Senya conveys a candid angle with Barinov, building the phrase around "povorote" ("turn, bend") and "mogu" ("can") for a crisp, natural delivery.
+- 'Wait, how will I recognize him?' Lyova challenges quietly as the talk turns, using "podozhdite" (from "podozhdat", "wait") alongside "kak" ("how") to shape the meaning.
+- 'There are no other people inside there.' Barinov takes a playful posture on the spot, weaving "tam" ("there") together with "drugikh" ("other") just the way native speakers do.
+- 'Meanwhile we will study the ventilation plan.' Barinov offers an earnest rhythm during the exchange, combining "poka" ("bye") and "izuchim" ("we will study") so the key meaning lands right away.
+- 'Lyova, are you alright in there?' Barinov quizzes pointedly right away, building the phrase around "tam" ("there") and "poryadke" ("order") for a crisp, natural delivery.
+- 'He will definitely crawl to the end.' Senya shows an honest view in this beat, building the phrase around "obyazatelno" ("surely, without fail") and "dopolzyot" ("he will crawl there") for a crisp, natural delivery.
+- 'Keep the fruits and vegetables separate.' Barinov sustains a measured view with Lyova, building the phrase around "derzhi" ("here you go") and "frukty" ("fruit") for a crisp, natural delivery.
+- 'I did just that yesterday.' Senya establishes a thoughtful rhythm for Lyova, anchoring the Russian line on "sdelal" ("did") and "vchera" ("yesterday") without extra filler.
+- 'Who unloaded those boxes over there?' Senya queries evenly to make the point, joining "korobki" ("boxes") to "tuda" ("there") so every word pulls its weight.
+- 'Look, he is still right there!' Barinov projects an earnest mood as they talk, linking "smotri" ("look"), "yeshchyo" ("more, still"), and "tam" ("there") in one brisk exchange.

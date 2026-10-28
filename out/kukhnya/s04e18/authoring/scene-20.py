@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e18.ru.srt'
 INTRO = "For the final blow, Viktor Petrovich sends his Latvian acquaintance Markus—the very cook German beat up in Riga—straight into the office. Without his calming pills, German immediately attacks Markus again, giving Barinov the leverage to force German's resignation. Let's listen to the climax of the episode in Russian."
 OPENER = "Now let's examine German's downfall and Denis's closing thoughts line by line."
 TRANSITION = "Let's hear the final scene of the episode again from beginning to end."
-OUTRO = "German resigns from Claude Monet to avoid prison, clearing the way for Viktor Petrovich's return, while Denis and Katya reconcile by staying true to themselves. Listen for the reflexive verb meaning to resign and the noun meaning truth. See you next time!"
+OUTRO = "German resigns from Claude Monet to avoid prison, clearing the way for Viktor Petrovich's return, while Denis and Katya reconcile by staying true to themselves. Listen for the everyday expression meaning to resign and the word meaning truth. See you next time!"
 CLOSING = ('german', 'Увидимся!')
 STORY = [
     ('barinov', 'Маркус, спасибо большое, что ты приехал.', 'Markus, thank you very much for coming.', [(239, 'Спасибо, что приехал')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('denis', 'Мудрее всегда оставаться самим собой.', 'It is wiser to always remain yourself.', [(257, 'Мудрее всех поступает тот, кто всегда остается самим собой')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'Markus, thank you very much for coming.\' Between the office and the shift, Barinov gives Denis a quick, grounded response. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (1, None, "'I dreamed of taking revenge on him for two years.' With the office and conversation in play, Denis keeps this short reply brisk and direct."),
-    (2, None, "'Well then, German, this is a repeat offense now.' Because this is a repeat offense now, Barinov treats the matter as settled."),
-    (3, None, "'So make your own choice right now, German.' Mentioning that Denis should make Denis's own choice right now German moves the talk in a new direction."),
-    (4, None, '\'Either you quietly leave the restaurant.\' Over the office and the plan, Barinov answers Denis without a second thought. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (5, None, "'Or your suspended sentence will become real prison time.' Claiming that Denis's suspended sentence will become real prison time sounds confident, even if Denis has doubts."),
-    (6, None, '\'Hello, Dmitry Vladimirovich, this is German.\' Pointing out that this is German gives Barinov a sobering reality check. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (7, None, "'Dmitry Vladimirovich, I am resigning today.' Pointing out that he is resigning today gives Barinov a sobering reality check."),
-    (8, None, "'I am leaving for personal reasons.' German explains that he is leaving for personal reasons, keeping his voice calm and direct."),
-    (9, None, "'Sometimes for the sake of truth a clever deception is needed.' Noting that sometimes for the sake of truth a clever deception is needed keeps Denis's side of the story simple and clear."),
-    (10, None, "'But whoever lies often always loses.' Even though whoever lies often always loses, Denis keeps a steady face in front of Barinov."),
-    (11, None, "'It is wiser to always remain yourself.' Admitting that it is wiser to always remain themselves shows Denis being honest for a change."),
+    (0, None, '\'Markus, thank you very much for coming.\' Barinov chooses an honest mood as the scene unfolds, pairing "markus" ("markus") with "spasibo" ("thank you") to get the point across in plain spoken Russian.'),
+    (1, None, '\'I dreamed of taking revenge on him for two years.\' Denis adopts a playful angle in the conversation, combining "goda" ("years") and "mechtal" ("dreamed") so the key meaning lands right away.'),
+    (2, None, '\'Well then, German, this is a repeat offense now.\' Barinov sets a natural bearing at this moment, joining "uzhe" ("already, now") to "retsidiv" ("offense") so every word pulls its weight.'),
+    (3, None, '\'So make your own choice right now, German.\' Barinov shares a steady position toward German, pairing "vybiray" ("to choose, select") with "seychas" ("now") to get the point across in plain spoken Russian.'),
+    (4, None, '\'Either you quietly leave the restaurant.\' Barinov maintains a candid tack as the scene unfolds, combining "tikho" ("easy, quiet") and "ukhodish" ("are leaving") so the key meaning lands right away.'),
+    (5, None, '\'Or your suspended sentence will become real prison time.\' Barinov chooses a firm tack at once, joining "uslovnyy" ("suspended") to "srok" ("term") so every word pulls its weight.'),
+    (6, None, '\'Hello, Dmitry Vladimirovich, this is German.\' German conveys a pointed view with Barinov, weaving "allo" ("hello") together with "dmitriy" ("Dmitry") just the way native speakers do.'),
+    (7, None, '\'Dmitry Vladimirovich, I am resigning today.\' German establishes a brisk note as the scene unfolds, pairing "segodnya" ("today") with "uvolnyayus" ("quit, resign") to get the point across in plain spoken Russian.'),
+    (8, None, '\'I am leaving for personal reasons.\' German favors a thoughtful tack in the scene, joining "ukhozhu" ("am leaving") to "lichnym" ("personal") so every word pulls its weight.'),
+    (9, None, '\'Sometimes for the sake of truth a clever deception is needed.\' Denis strikes a lively tempo right away, linking "inogda" ("sometimes, at times"), "pravdy" ("truth"), and "nuzhen" ("is needed") in one brisk exchange.'),
+    (10, None, '\'But whoever lies often always loses.\' Denis conveys a clear view with Barinov, anchoring the Russian line on "chasto" ("often") and "vryot" ("is lying") without extra filler.'),
+    (11, None, '\'It is wiser to always remain yourself.\' Denis projects a lively angle with German, combining "mudreye" ("wiser") and "vsegda" ("always") so the key meaning lands right away.'),
 ]

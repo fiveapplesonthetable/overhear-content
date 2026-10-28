@@ -10,8 +10,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гость | Извините, я только на минутку. | Excuse me, I will just be a minute. | #222: Извините, я на минутку | adapted: adapted |
-| 2 | Гость | По-моему, голубь немного сухой, но я не эксперт. | In my opinion, the pigeon is a bit dry, though I am no expert. | #223: По-моему, голубь немного<br>#224: не эксперт | adapted: adapted |
+| 1 | Катя | Извините, я только на минутку. | Excuse me, I will just be a minute. | #222: Извините, я на минутку | adapted: adapted |
+| 2 | Катя | По-моему, голубь немного сухой, но я не эксперт. | In my opinion, the pigeon is a bit dry, though I am no expert. | #223: По-моему, голубь немного<br>#224: не эксперт | adapted: adapted |
 | 3 | Шеф | Оливье, давайте прекратим эту комедию. | Olivier, let's stop this charade. | #225: Оливье, давайте прекратим эту комедию | adapted: exact |
 | 4 | Шеф | Вы же инспектор! | After all, you are the inspector! | #226: Вы инспектор | adapted: adapted |
 | 5 | Шеф | И от вас зависит, получим мы звезду или нет. | And it depends on you whether we get a star or not. | #227: И от вас зависит, получим мы звезду или нет | adapted: exact |
@@ -21,19 +21,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Луи | Катя, я хочу тебе кое-что показать. | Katya, I want to show you something. | #232: я хочу тебе кое-что показать | adapted: adapted |
 | 10 | Луи | Кто это на фото? | Who is this in the photo? | #233: Кто это? | adapted: adapted |
 | 11 | Луи | Это настоящий инспектор, мне отец фото прислал. | That is the real inspector, my father sent me the photo. | #233: Это настоящий инспектор<br>#234: Мне отец<br>#234: прислал | adapted: adapted |
-| 12 | Гость | Спасибо за вино, Виктор. | Thank you for the wine, Viktor. | #231: бутылку вина | adapted: adapted |
+| 12 | Катя | Спасибо за вино, Виктор. | Thank you for the wine, Viktor. | #231: бутылку вина | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, I will just be a minute.' Saying that he will just be a minute is how the guest sets the tone with Barinov.
-- 'In my opinion, the pigeon is a bit dry, though I am no expert.' Since in his opinion the pigeon is a bit dry though he is no expert, the guest does not waste words on excuses.
-- 'Olivier, let's stop this charade.' Mentioning that Olivier let them stop this charade moves the talk in a new direction.
-- 'After all, you are the inspector!' Saying that after all the guest is the inspector is how Barinov takes charge of the moment. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'And it depends on you whether we get a star or not.' Over the table and the moment, Barinov answers the guest without a second thought. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'We have a great desire to be the best.' Explaining that they have a great desire to be the best lays the cards on the table for the guest.
-- 'And you see how badly I want my restaurant to become better.' Barinov mentions that how badly he wants his restaurant to become better so the guest sees what is at stake. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Kostya, bring another bottle of wine for the inspector!' Saying that the guest should bring another bottle of wine for the inspector is how Barinov takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Katya, I want to show you something.' Once he wants to show Barinov something, Louis can finally tell Barinov what he means.
-- 'Who is this in the photo?' Asking who this in the photo is cuts straight through the tension between Louis and Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'That is the real inspector, my father sent me the photo.' Realizing that that is the real inspector his father sent him the photo changes how Louis handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Thank you for the wine, Viktor.' Turning from the inspector to the moment, the guest keeps the exchange moving.
+- 'Excuse me, I will just be a minute.' Katya displays a playful stance at this moment, anchoring the Russian line on "izvinite" ("sorry, excuse me") and "tolko" ("only") without extra filler.
+- 'In my opinion, the pigeon is a bit dry, though I am no expert.' Katya takes a pointed tone beside Louis, building the phrase around "po-moyemu" ("in my opinion") and "golub" ("hands") for a crisp, natural delivery.
+- 'Olivier, let's stop this charade.' Barinov chooses a resolute line in the scene, joining "davayte" ("let's") to "prekratim" ("let us stop") so every word pulls its weight.
+- 'After all, you are the inspector!' Barinov takes a lively angle in their talk, placing "inspektor" ("inspector") straight beside "vy" ("you") with no word for "to be" needed.
+- 'And it depends on you whether we get a star or not.' Barinov keeps a warm direction in the room, joining "zavisit" ("depends") to "poluchim" ("will get, receive") so every word pulls its weight.
+- 'We have a great desire to be the best.' Barinov takes an earnest footing without hesitation, building the phrase around "yest" ("there is") and "bolshoye" ("big, very much") for a crisp, natural delivery.
+- 'And you see how badly I want my restaurant to become better.' Barinov offers an easygoing attitude at this moment, weaving "vidite" ("see") together with "kak" ("how") just the way native speakers do.
+- 'Kostya, bring another bottle of wine for the inspector!' Barinov conveys a warm position in the conversation, linking "prinesi" ("bring"), "yeshche" ("still"), and "butylku" ("a bottle") in one brisk exchange.
+- 'Katya, I want to show you something.' Louis shows a brisk direction on the spot, weaving "khochu" ("want") together with "pokazat" ("to show") just the way native speakers do.
+- 'Who is this in the photo?' Louis prompts decisively from the start, linking "foto" ("photo"), "kto" ("who"), and "eto" ("this") in one brisk exchange.
+- 'That is the real inspector, my father sent me the photo.' Louis establishes an emphatic approach right away, anchoring the Russian line on "nastoyashchiy" ("real, genuine") and "inspektor" ("inspector") without extra filler.
+- 'Thank you for the wine, Viktor.' Katya sustains a brisk stance in their talk, combining "spasibo" ("thank you") and "vino" ("wine") so the key meaning lands right away.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, Viktor Petrovich, why are you frowning?' Asking why Barinov frowning is is how Eva puts Barinov on the spot. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Do not worry so much over this nonsense!' Saying that do not worry so much over this nonsense is how Eva takes charge of the moment.
-- 'Around you I always get myself into some kind of mess!' Barinov declares that around Eva he always gets himself into some kind of mess as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Careful, do not step on my new shoes!' Because careful do not step on his new shoes, Nagiyev does not bother softening the blow for Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'What are those red slippers? Did you buy them at the market?' Wondering what those red slippers are is how Barinov puts Eva on the spot.
-- 'Have you completely lost your mind, Viktor Petrovich?' Over the truth and the morning, Nagiyev presses Barinov for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Look closely, this is fine handmade work!' Declaring that closely this is fine handmade work brings Nagiyev's temper right to the surface. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'The best craftsmen from sunny Italy sewed them!' With the truth and secret at stake, Nagiyev reacts without holding back.
-- 'These moccasins cost exactly two hundred thousand rubles!' Around the truth and car, Nagiyev makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'You are not even allowed to breathe on them without permission!' Nagiyev declares that Barinov is not even allowed to breathe on them without permission as the tension in the room peaks. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Then wash my old car at the same time too!' Washing his old car at the same time is Barinov's blunt reaction in front of Eva.
-- 'All right, guys, everyone is dismissed for now, go work!' Insisting that all right guys everyone is dismissed for now go work shows Nagiyev is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Good morning, Viktor Petrovich, why are you frowning?' Eva challenges promptly right away, weaving "dobroye" ("good") together with "utro" ("morning") just the way native speakers do.
+- 'Do not worry so much over this nonsense!' Eva establishes a candid course without hesitation, combining "perezhivayte" ("worry") and "yerundy" ("nonsense, trifle") so the key meaning lands right away.
+- 'Around you I always get myself into some kind of mess!' Barinov keeps an easygoing bearing in this beat, pairing "vlyapayus" ("kind") with "vechno" ("always") so the "-sya" ending carries the action.
+- 'Careful, do not step on my new shoes!' Nagiyev shares an earnest posture beside Eva, building the phrase around "ostorozhno" ("careful, carefully") and "nastupi" ("new") for a crisp, natural delivery.
+- 'What are those red slippers? Did you buy them at the market?' Barinov queries wryly right away, building the phrase around "krasnyye" ("red") and "tapki" ("the slippers") for a crisp, natural delivery.
+- 'Have you completely lost your mind, Viktor Petrovich?' Nagiyev queries evenly without holding back, combining the intensifier "sovsem" ("completely, at all") with "uma" ("mind") to give the line its natural spoken rhythm.
+- 'Look closely, this is fine handmade work!' Nagiyev shows a grounded posture at once, joining "posmotri" ("look") to "vnimatelno" ("carefully, attentively") so every word pulls its weight.
+- 'The best craftsmen from sunny Italy sewed them!' Nagiyev shares an earnest view with Eva, putting "sshili" ("craftsmen") alongside "luchshiye" ("best") in a tight, everyday turn of phrase.
+- 'These moccasins cost exactly two hundred thousand rubles!' Nagiyev sustains a sharp approach beside Barinov, linking "mokasiny" ("moccasins"), "stoyat" ("cost"), and "rovno" ("exactly") in one brisk exchange.
+- 'You are not even allowed to breathe on them without permission!' Nagiyev strikes an honest bearing straight away, linking "dyshat" ("to breathe"), "sprosa" ("asking, permission"), and "nelzya" ("not allowed") in one brisk exchange.
+- 'Then wash my old car at the same time too!' Barinov displays a firm posture straight away, putting "togda" ("back then") alongside "pomoy" ("to wash") in a tight, everyday turn of phrase.
+- 'All right, guys, everyone is dismissed for now, go work!' Nagiyev sets a sharp tack in this beat, combining the easygoing tag "ladno" ("okay, fine") with "rebyata" ("the boys, the lads") to give the line its natural spoken rhythm.

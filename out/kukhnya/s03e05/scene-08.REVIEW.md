@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, I congratulate you.' Admitting that he congratulates Max shows Nagiyev being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You are the first woman who refused to go.' Adding that Max is the first woman who refused to go fills in the missing piece for Max. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Why don't you take Viktor Petrovich with you.' Vika tells Max that why do not Max takes Viktor Petrovich with Max without dressing it up.
-- 'Hi, why are you not picking up the phone?' By wondering why Nagiyev not picking up the phone is, Max presses Nagiyev for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I want to talk with you.' Claiming that he wants to talk with Nagiyev sounds confident, even if Nagiyev has doubts. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Hi, it is me again.' Saying that it is him again is how Max sets the tone with Nagiyev.
-- 'Are you surprised that this is not Nagiyev?' Here checking whether Nagiyev surprised that this is not Nagiyev shows Max looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I want to know the whole truth.' Here wanting to know the whole truth sets up the next turn in their exchange.
-- 'Will you go with him to Paris?' Checking whether Nagiyev goes with him to Paris cuts straight through the tension between Max and Nagiyev.
-- 'Max, what do you want from me?' Asking what Max wants cuts straight through the tension between Vika and Max. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'May I go to the restroom in peace?' Questioning whether may she goes to the restroom in peace is how Vika tests Max's story. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Then I am going with him, honestly.' Noting that she is going with him honestly keeps Vika's side of the story simple and clear.
+- 'Vika, I congratulate you.' Nagiyev maintains a frank manner straight away, pairing "pozdravlyayu" ("congratulations") with "vika" ("Vika") to get the point across in plain spoken Russian.
+- 'You are the first woman who refused to go.' Nagiyev takes a wry line at this moment, combining "pervaya" ("the first one") and "zhenshchina" ("woman") so the key meaning lands right away.
+- 'Why don't you take Viktor Petrovich with you.' Vika adopts a direct style at this moment, pairing "vozmite" ("take") with "vy" ("you") to get the point across in plain spoken Russian.
+- 'Hi, why are you not picking up the phone?' Max asks bluntly as the beat lands, using "trubku" (from "trubka", "the receiver") alongside "beryosh" ("do you take") to shape the meaning.
+- 'I want to talk with you.' Max strikes a grounded approach in their talk, linking "khochu" ("want"), "razgovarivat" ("to talk, to speak"), and "ya" ("I") in one brisk exchange.
+- 'Hi, it is me again.' Max presents a pointed tack on the spot, weaving "snova" ("again") together with "privet" ("hi") just the way native speakers do.
+- 'Are you surprised that this is not Nagiyev?' Max probes decisively without a pause, using "udivlena" (from "udivit", "to surprise") alongside "ty" ("you") to shape the meaning.
+- 'I want to know the whole truth.' Max displays a thoughtful bearing right away, putting "khochu" ("want") alongside "znat" ("to know") in a tight, everyday turn of phrase.
+- 'Will you go with him to Paris?' Max presses boldly in their exchange, pairing "poyedesh" ("will go") with "ty" ("you") to get the point across in plain spoken Russian.
+- 'Max, what do you want from me?' Vika probes bluntly as the talk turns, linking "nado" ("it is necessary"), "maks" ("Max"), and "chego" ("what") in one brisk exchange.
+- 'May I go to the restroom in peace?' Vika queries briskly beside Max, leaning on "mozhno" ("may, can") before closing the thought with "spokoyno" ("calmly").
+- 'Then I am going with him, honestly.' Vika strikes a sharp view at this moment, leaning on "potom" ("then") before closing the thought with "yedu" ("am driving").

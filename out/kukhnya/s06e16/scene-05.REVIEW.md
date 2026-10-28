@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, I will bring the oil faster right now.' Saying that he will bring the oil faster right now is how Senya sets the tone with Fedya.
-- 'What is this, I do not understand!' Once what is this he does not understand, Senya makes sure Fedya hears every word. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Guys, we are on a strict diet before the show.' Explaining that they are on a strict diet before the show lays the cards on the table for Fedya.
-- 'The designer watches us all day long.' The guest mentions that the designer watches them all day long so Fedya sees what is at stake.
-- 'He is afraid we will not fit into the new collection.' Even though he is afraid they will not fit into the new collection, the guest keeps a steady face in front of Fedya.
-- 'I will turn green soon from this salad!' The guest declares that he will turn green soon from this salad as the tension in the room peaks.
-- 'If you want, can we feed you in your room?' When Senya asks if if Fedya wants can they feed Fedya in Fedya's room, Fedya has to answer fast. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'We will bring delicious meat completely unnoticed.' Realizing that they will bring delicious meat completely unnoticed changes how Fedya handles the situation.
-- 'And I will pay you directly.' Noting that he will pay Fedya directly keeps the guest's side of the story simple and clear.
-- 'That is very good, we like the idea.' Even though that is very good they like the idea, Senya keeps a steady face in front of Fedya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Wait, we do not need your money.' Admitting that they do not need the guest's money shows Fedya being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Alright, guys, then we have a deal.' Saying that Alright guys then they have a deal is how the guest sets the tone with Fedya.
+- 'Wait, I will bring the oil faster right now.' Senya strikes a measured course at once, anchoring the Russian line on "podozhdi" ("wait") and "seychas" ("now") without extra filler.
+- 'What is this, I do not understand!' Senya picks a sharp view at once, pairing "ponyal" ("understood") with "chto" ("what") to get the point across in plain spoken Russian.
+- 'Guys, we are on a strict diet before the show.' The guest chooses a pointed mood without hesitation, leaning on "rebyata" ("the boys, the lads") before closing the thought with "zhyostkaya" ("tough, hard").
+- 'The designer watches us all day long.' The guest sets an easygoing attitude with Senya, putting "modelyer" ("fashion designer") alongside "den" ("day") in a tight, everyday turn of phrase.
+- 'He is afraid we will not fit into the new collection.' The guest brings a playful mood for Fedya, building the phrase around "boitsya" ("is afraid") and "vlezem" ("to climb in") for a crisp, natural delivery.
+- 'I will turn green soon from this salad!' The guest maintains a thoughtful tempo in this beat, putting "salata" ("salad") alongside "skoro" ("soon") in a tight, everyday turn of phrase.
+- 'If you want, can we feed you in your room?' Senya wonders sharply as the beat lands, linking "khochesh" ("do you want"), "nomere" ("in the hotel room"), and "pokormim" ("to feed") in one brisk exchange.
+- 'We will bring delicious meat completely unnoticed.' Fedya shows a brisk bearing beside Senya, pairing "prinesyom" ("will bring") with "vkusnoye" ("tasty, delicious") to get the point across in plain spoken Russian.
+- 'And I will pay you directly.' The guest maintains a measured note without hesitation, combining "budu" ("will be") and "platit" ("to pay") so the key meaning lands right away.
+- 'That is very good, we like the idea.' Senya projects a playful approach in front of the guest, weaving "ochen" ("very much") together with "khorosho" ("good, fine") just the way native speakers do.
+- 'Wait, we do not need your money.' Fedya sustains an unhurried view in the conversation, building the phrase around "podozhdi" ("wait") and "dengi" ("money") for a crisp, natural delivery.
+- 'Alright, guys, then we have a deal.' The guest displays an earnest tempo in this beat, combining "rebyata" ("the boys, the lads") and "togda" ("back then") so the key meaning lands right away.

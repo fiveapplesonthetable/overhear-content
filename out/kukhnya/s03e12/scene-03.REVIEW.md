@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sometimes he calms down right away.' Because sometimes he calms down right away, Barinov treats the matter as settled.
-- 'Prepare the seafood dish quickly!' Saying that Nastya should prepare the seafood dish quickly is how Barinov takes charge of the moment.
-- 'Chef, nobody brought us orders like that.' Nastya mentions that nobody brought them orders like so Barinov sees what is at stake.
-- 'This is for Grandpa Kirill.' Claiming that this is for Grandpa Kirill sounds confident, even if Nastya has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Guys, I am moving out of my apartment.' Saying that she is moving out of her apartment is how Vika sets the tone with Barinov.
-- 'Everything there is paid through the end of the year.' Vika explains that everything there is paid through the end of the year, keeping her voice calm and direct.
-- 'Are you moving in with Dmitry Vladimirovich?' Asking whether Barinov moving in with Dmitry Vladimirovich cuts straight through the tension between Nastya and Barinov. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'We really need this apartment.' Around the work and apartment, Nastya sets a calm, everyday tone with Barinov.
-- 'Our baby will arrive soon, he needs comfort.' Even though their baby will arrive soon he needs comfort, Nastya keeps a steady face in front of Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Great, here are the keys to the apartment.' Admitting that great here are the keys to the apartment shows Vika being honest for a change.
-- 'I will give you the second set tomorrow.' Saying that she will give Barinov the second set tomorrow is how Vika sets the tone with Barinov.
-- 'You may get back to work.' Once Barinov may get back to work, Vika can finally tell Barinov what she means.
+- 'Sometimes he calms down right away.' Barinov offers a frank tack at this moment, joining "inogda" ("sometimes, at times") to "srazu" ("at once") so every word pulls its weight.
+- 'Prepare the seafood dish quickly!' Barinov adopts an honest tack beside Vika, putting "gotovte" ("cook") alongside "blyudo" ("dish") in a tight, everyday turn of phrase.
+- 'Chef, nobody brought us orders like that.' Nastya maintains a clear manner with Barinov, pairing "zakazov" ("orders") with "prinosili" ("to bring") to get the point across in plain spoken Russian.
+- 'This is for Grandpa Kirill.' Barinov favors a steady stance at once, pairing "deda" ("grandfathers") with "kirilla" ("Kirill") to get the point across in plain spoken Russian.
+- 'Guys, I am moving out of my apartment.' Vika maintains a brisk footing at once, joining "rebyata" ("the boys, the lads") to "kvartiry" ("flat") so every word pulls its weight.
+- 'Everything there is paid through the end of the year.' Vika brings an earnest manner at once, linking "tam" ("there"), "oplacheno" ("paid for"), and "kontsa" ("ending") in one brisk exchange.
+- 'Are you moving in with Dmitry Vladimirovich?' Nastya queries bluntly right away, weaving "pereyezzhayete" ("you are moving") together with "vy" ("you") just the way native speakers do.
+- 'We really need this apartment.' Nastya takes a serious course as the scene unfolds, combining "ochen" ("very much") and "nuzhna" ("needed") so the key meaning lands right away.
+- 'Our baby will arrive soon, he needs comfort.' Nastya establishes a calm rhythm in front of Barinov, combining "skoro" ("soon") and "malysh" ("kid, little one") so the key meaning lands right away.
+- 'Great, here are the keys to the apartment.' Vika maintains a frank position as they talk, leaning on "otlichno" ("perfect, great") before closing the thought with "klyuchi" ("the keys").
+- 'I will give you the second set tomorrow.' Vika picks a steady tempo at this moment, leaning on "vtoroy" ("second") before closing the thought with "komplekt" ("set").
+- 'You may get back to work.' Vika brings a resolute style as the scene unfolds, putting "mozhete" ("can, may") alongside "pristupat" ("to get started") in a tight, everyday turn of phrase.

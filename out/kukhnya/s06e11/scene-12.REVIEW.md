@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No, Katya, this is simply a serious warning.' The guest reminds Barinov that this is simply a serious warning before the moment passes. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'My plans for my only son are more ambitious.' Claiming that his plans for his only son are more ambitious sounds confident, even if Barinov has doubts.
-- 'Than marrying him off to a mere simple cook.' Around the work and money, the guest sets a calm, everyday tone with Barinov.
-- 'Did you already go to the bank for the money?' Checking whether Barinov already go to the bank for the money is how the guest puts Barinov on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Great, now take the envelope to the hotel to Valentin Barinov.' Over the work and the mistake, the guest answers Barinov without a second thought.
-- 'And where exactly can I find him there?' Wondering if where exactly can she finds him there shows Katya caught off guard. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Hello, yes, I am listening to you very carefully.' Barinov explains that he is listening to the guest very carefully, keeping his voice calm and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Hello, take this, this is for you from Andrey Nikolaevich.' Taking this this is for Barinov from Andrey Nikolaevich is how the guest lays out the situation for Barinov.
-- 'Thank you, and are you sure that this is for me?' Here asking whether the guest sure that this is for him shows Barinov looking for the real truth. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Of course, after all you are Mr. Barinov Valentin, right?' Asking whether after all Barinov is Mr puts Barinov right on the defensive. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Yes, I am Barinov, hand your envelope over here.' Barinov mentions that he is Barinov hand the guest's envelope over here so the guest sees what is at stake.
-- 'Sorry for the trouble, have a good day today!' Insisting that for the trouble have a good day today shows the guest is not backing down. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'No, Katya, this is simply a serious warning.' The guest offers a measured position across the room, anchoring the Russian line on "prosto" ("just") and "seryoznoye" ("serious") without extra filler.
+- 'My plans for my only son are more ambitious.' The guest projects an earnest course as the scene unfolds, building the phrase around "plany" ("plans") and "yedinstvennogo" ("only, sole") for a crisp, natural delivery.
+- 'Than marrying him off to a mere simple cook.' The guest takes a calm posture right away, weaving "zhenit" ("to marry off") together with "samom" ("very") just the way native speakers do.
+- 'Did you already go to the bank for the money?' The guest tests wryly in this moment, putting "uzhe" ("already, now") alongside "syezdil" ("went, drove") in a tight, everyday turn of phrase.
+- 'Great, now take the envelope to the hotel to Valentin Barinov.' The guest sets an earnest tempo in the room, building the phrase around "otlichno" ("perfect, great") and "teper" ("now") for a crisp, natural delivery.
+- 'And where exactly can I find him there?' Katya asks sharply in front of the guest, pairing "gde" ("where") with "tam" ("there") to get the point across in plain spoken Russian.
+- 'Hello, yes, I am listening to you very carefully.' Barinov strikes a wry footing in front of the guest, joining "ochen" ("very much") to "vnimatelno" ("carefully, attentively") so every word pulls its weight.
+- 'Hello, take this, this is for you from Andrey Nikolaevich.' The guest strikes a resolute angle across the room, weaving "zdravstvuyte" ("hello") together with "vozmite" ("take") just the way native speakers do.
+- 'Thank you, and are you sure that this is for me?' Barinov wonders sharply beside the guest, leaning on "spasibo" ("thank you") before closing the thought with "tochno" ("definitely").
+- 'Of course, after all you are Mr. Barinov Valentin, right?' The guest prompts frankly in this moment, linking "konechno" ("of course") directly with "gospodin" ("Mr, sir"), since Russian drops "is" and "are" in the present.
+- 'Yes, I am Barinov, hand your envelope over here.' Barinov adopts a grounded view as they talk, anchoring the Russian line on "davayte" ("let's") and "konvert" ("the envelope") without extra filler.
+- 'Sorry for the trouble, have a good day today!' The guest shares a serious rhythm without hesitation, anchoring the Russian line on "izvinite" ("sorry, excuse me") and "bespokoystvo" ("trouble, inconvenience") without extra filler.

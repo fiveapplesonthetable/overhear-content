@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is this normal? Your waiter wanted to overcharge me!' Checking whether this normal cuts straight through the tension between Nagiyev and Max.
-- 'Do you value your reputation at all?' Asking whether Max value Max's reputation at all is how Nagiyev puts Max on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'She is the one who served me.' Even though she is the one who served him, Nagiyev keeps a steady face in front of Max. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'No, well this is some kind of mistake!' Saying that this is some kind of mistake is how Sasha takes charge of the moment.
-- 'I was simply framed!' Sasha declares that she was simply framed as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'I beg your pardon, we will sort this out right now.' Here begging Max's pardon they will sort this out right now sets up the next turn in their exchange.
-- 'I apologize, I am the owner of this mess.' Since he apologizes he is the owner of this mess, Nagiyev does not waste words on excuses.
-- 'Did something happen? They tried to overcharge me.' Here asking whether something happen shows Nagiyev looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You are fired. Shut your mouth and hand in your badge.' Since Max is fired, Nagiyev does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Our life is always the result of our choice.' Mentioning that their life is always the result of their choice moves the talk in a new direction.
-- 'We choose to tell the truth or to keep silent.' Here choosing to tell the truth or to keep silent sets up the next turn in their exchange.
-- 'Or to turn everything into a joke that you will remember for a long time.' Because to turn everything into a joke that Nagiyev will remember for a long time, Max treats the matter as settled.
+- 'Is this normal? Your waiter wanted to overcharge me!' Nagiyev inquires earnestly as the beat lands, putting "normalno" ("fine, OK") alongside "ofitsiant" ("waiter") in a tight, everyday turn of phrase.
+- 'Do you value your reputation at all?' Nagiyev asks lightly during the talk, building the phrase around "voobshche" ("at all") and "dorozhite" ("value, treasure") for a crisp, natural delivery.
+- 'She is the one who served me.' Nagiyev picks an honest note without hesitation, anchoring the Russian line on "obsluzhivala" ("served") and "eto" ("this") without extra filler.
+- 'No, well this is some kind of mistake!' Sasha shares a resolute mood right away, joining "oshibka" ("mistake") to "net" ("no") so every word pulls its weight.
+- 'I was simply framed!' Sasha presents a measured note in this beat, pairing "prosto" ("just") with "podstavili" ("framed, set up") to get the point across in plain spoken Russian.
+- 'I beg your pardon, we will sort this out right now.' Nagiyev takes a thoughtful manner in the conversation, pairing "proshu" ("beg, ask") with "proshcheniya" ("forgiveness") to get the point across in plain spoken Russian.
+- 'I apologize, I am the owner of this mess.' Nagiyev brings a direct rhythm during the exchange, building the phrase around "izvinyayus" ("apologize") and "khozyain" ("owner") for a crisp, natural delivery.
+- 'Did something happen? They tried to overcharge me.' Nagiyev presses wryly in their exchange, putting "proizoshlo" ("happened") alongside "pytalis" ("tried") in a tight, everyday turn of phrase.
+- 'You are fired. Shut your mouth and hand in your badge.' Nagiyev holds a clear footing at this moment, building the phrase around "uvolena" ("fired") and "rot" ("mouth") for a crisp, natural delivery.
+- 'Our life is always the result of our choice.' Max holds an honest tempo in front of Sasha, placing "zhizn" ("life") straight beside "vsegda" ("always") with no word for "to be" needed.
+- 'We choose to tell the truth or to keep silent.' Max sustains a wry rhythm beside Nagiyev, building the phrase around "vybirayem" ("choose") and "skazat" ("tell") for a crisp, natural delivery.
+- 'Or to turn everything into a joke that you will remember for a long time.' Max holds a resolute style as the scene unfolds, weaving "prevratit" ("to turn into") together with "shutku" ("joke") just the way native speakers do.

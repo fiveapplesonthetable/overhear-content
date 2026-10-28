@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They say a dog is man's best friend.' Max reminds Barinov that they say a dog is man best friend before the moment passes.
-- 'A dog, not some cat.' Between the point and the argument, Barinov gives Max a quick, grounded response.
-- 'Hold on a second, a friend does not attack a person.' By holding on a second a friend does not attack a person, Max keeps his side of the story grounded.
-- 'Have you ever heard of that?' Checking whether Max ever heard is how Barinov puts Max on the spot.
-- 'They have their own functions.' Claiming that they have their own functions sounds confident, even if Barinov has doubts.
-- 'Well, and what other functions are those?' Asking whether what other functions are those puts Max right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Listen, are you arguing just for the sake of arguing?' Checking whether Barinov arguing just for the sake of arguing cuts straight through the tension between Max and Barinov.
-- 'And you are not arguing just for the sake of it.' Realizing that Max is not arguing just for the sake of it changes how Barinov handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'The Americans do not need that anyway.' Noting that the do not need that anyway keeps Max's side of the story simple and clear. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Of course, way more.' With the truth and shift in play, Barinov keeps this short reply brisk and direct.
-- 'And do you know how much Galkin has?' Asking whether Barinov knows how much Galkin has cuts straight through the tension between Max and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'That is him over there.' Saying that that is him over there is how Barinov sets the tone with Max. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'What did you just say?' Here wondering what Barinov just say shows Max looking for the real truth.
+- 'They say a dog is man's best friend.' Max establishes a measured course with Barinov, putting "govoryat" ("talks, says") alongside "sobaka" ("dog") in a tight, everyday turn of phrase.
+- 'A dog, not some cat.' Barinov presents a clear tack straight away, anchoring the Russian line on "sobaka" ("dog") and "tam" ("there") without extra filler.
+- 'Hold on a second, a friend does not attack a person.' Max shares a measured attitude beside Barinov, pairing "nabrasyvayetsya" ("to pounce on") with "sekundochku" ("one little second") so the "-sya" ending carries the action.
+- 'Have you ever heard of that?' Barinov prompts evenly to make the point, pairing "kogda-nibud" ("someday, one day") with "slyshal" ("heard") to get the point across in plain spoken Russian.
+- 'They have their own functions.' Max chooses an unhurried attitude straight away, combining "funktsii" ("function, duty") and "nikh" ("them") so the key meaning lands right away.
+- 'Well, and what other functions are those?' Barinov questions decisively right away, building the phrase around "drugiye" ("other") and "funktsii" ("function, duty") for a crisp, natural delivery.
+- 'Listen, are you arguing just for the sake of arguing?' Max wonders frankly across the room, linking "slushay" ("listen"), "sporish" ("to argue, to dispute"), and "prosto" ("just") in one brisk exchange.
+- 'And you are not arguing just for the sake of it.' Barinov projects a lively tone during the exchange, weaving "sporish" ("to argue, to dispute") together with "prosto" ("just") just the way native speakers do.
+- 'The Americans do not need that anyway.' Max sustains a playful course right away, weaving "nado" ("it is necessary") together with "amerikantsam" ("American") just the way native speakers do.
+- 'Of course, way more.' Barinov projects a direct note beside Max, anchoring the Russian line on "konechno" ("of course") and "bolshe" ("more") without extra filler.
+- 'And do you know how much Galkin has?' Max queries bluntly right away, leaning on "znayesh" ("know") before closing the thought with "galkina" ("Galkin").
+- 'That is him over there.' Barinov favors a natural bearing as they talk, putting "tam" ("there") alongside "eto" ("this") in a tight, everyday turn of phrase.
+- 'What did you just say?' Max probes quietly with Barinov now, joining "skazal" ("said") to "chyo" ("what") so every word pulls its weight.

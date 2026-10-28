@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'But this little box is completely empty.' Even though this little box is completely empty, Vika keeps a steady face in front of Nagiyev.
-- 'Because the key ring would not fit in there.' Admitting that because the key ring would not fit in there shows Nagiyev being honest for a change.
-- 'These are the keys to my apartment.' Saying that these are the keys to his apartment is how Nagiyev sets the tone with Vika. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'To our apartment, if only you want that.' Once to their apartment if only Vika wants, Nagiyev can finally tell Vika what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'If you and I start living together.' Adding that if Vika and he starts living together fills in the missing piece for Vika.
-- 'Then everything will start moving faster for us.' Saying that everything will start moving faster for them is how Nagiyev sets the tone with Vika. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Dima, I do not know, are we not rushing things?' Questioning whether she does not know are they not rushing things is how Vika tests Nagiyev's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We are rushing, you and I have to rush.' Mentioning that they are rushing Vika and he has to rush moves the talk in a new direction.
-- 'After all, I am not a boy anymore.' Saying that after all he is not a boy anymore is how Nagiyev sets the tone with Vika.
-- 'After all, I did not buy a plot at the cemetery.' Because after all he did not buy a plot at the cemetery, Nagiyev treats the matter as settled.
-- 'This is the key to the second door.' Explaining that this is the key to the second door lays the cards on the table for Vika.
-- 'Do not lock it, otherwise the cleaning lady will not get in.' Nagiyev mentions that do not lock it otherwise the cleaning lady will not get so Vika sees what is at stake. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'But this little box is completely empty.' Vika maintains an easygoing direction straight away, pairing "korobochka" ("little box") with "sovsem" ("at all") to get the point across in plain spoken Russian.
+- 'Because the key ring would not fit in there.' Nagiyev chooses a direct bearing during the exchange, anchoring the Russian line on "potomu" ("because") and "svyazka" ("ligament, vocal cord") without extra filler.
+- 'These are the keys to my apartment.' Nagiyev takes an unhurried posture beside Vika, combining "klyuchi" ("the keys") and "kvartiry" ("flat") so the key meaning lands right away.
+- 'To our apartment, if only you want that.' Nagiyev picks a lively manner in front of Vika, combining "kvartiry" ("flat") and "zakhochesh" ("you want") so the key meaning lands right away.
+- 'If you and I start living together.' Nagiyev projects a serious footing as they talk, joining "nachnyom" ("we start") to "zhit" ("to live") so every word pulls its weight.
+- 'Then everything will start moving faster for us.' Nagiyev favors a firm direction at this moment, combining "togda" ("back then") and "bystreye" ("faster") so the key meaning lands right away.
+- 'Dima, I do not know, are we not rushing things?' Vika quizzes bluntly beside Nagiyev, combining "znayu" ("know") and "toropimsya" ("are hurrying") so the key meaning lands right away.
+- 'We are rushing, you and I have to rush.' Nagiyev holds a sharp stance as they talk, leaning on "toropimsya" ("are hurrying") before closing the thought with "dolzhny" ("must, should").
+- 'After all, I am not a boy anymore.' Nagiyev presents a sharp tone in the conversation, leaning on "uzhe" ("already, now") before closing the thought with "sovsem" ("at all").
+- 'After all, I did not buy a plot at the cemetery.' Nagiyev keeps a sharp course for Vika, linking "kladbishche" ("cemetery"), "zemlyu" ("land"), and "kupil" ("bought") in one brisk exchange.
+- 'This is the key to the second door.' Nagiyev maintains an honest style in the scene, weaving "klyuch" ("key") together with "vtoroy" ("second") just the way native speakers do.
+- 'Do not lock it, otherwise the cleaning lady will not get in.' Nagiyev picks a thoughtful rhythm for Vika, pairing "zakryvay" ("close") with "inache" ("otherwise") to get the point across in plain spoken Russian.

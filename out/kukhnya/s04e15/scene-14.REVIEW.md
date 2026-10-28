@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, respected ladies and gentlemen!' With the point and table at stake, German reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Today you will see and taste unusual dishes.' Once today the inspector will see and taste unusual dishes, German can finally tell the inspector what he means. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'This evening will change your perception of reality!' German declares that this evening will change the inspector's perception of reality as the tension in the room peaks.
-- 'And so, friends, we are beginning our culinary show!' Because friends they are beginning their culinary show, German does not bother softening the blow for the inspector. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Tell me, miss, what kind of powders are those?' The inspector asks whether tell him miss what kind of powders are those, refusing to let the point slide. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'That is our main culinary secret of the evening.' Mentioning that that is their main culinary secret of the evening moves the talk in a new direction.
-- 'I can tell you only one thing right now.' Katya reminds German that she can tell German only one thing right now before the moment passes. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'It is precisely these powders that create all the magic of the kitchen!' Katya insists that it is precisely these powders that create all the magic of the kitchen, leaving German no room to argue. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Please, taste our first hot dish.' Because German should taste their first hot dish, Katya treats the matter as settled.
-- 'Listen, this really is very tasty after all!' The inspector declares that this really is very tasty after all as the tension in the room peaks. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Eva, and your homemade cutlets are simply a miracle!' Because the inspector's homemade cutlets are simply a miracle, German does not bother softening the blow for the inspector. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Thank you very much, I am very pleased right now!' Insisting that very much she is very pleased right now shows Katya is not backing down.
+- 'Good evening, respected ladies and gentlemen!' German keeps a grounded note beside the inspector, building the phrase around "dobryy" ("good") and "vecher" ("evening") for a crisp, natural delivery.
+- 'Today you will see and taste unusual dishes.' German keeps a measured view during the exchange, pairing "segodnya" ("today") with "uvidite" ("will see") to get the point across in plain spoken Russian.
+- 'This evening will change your perception of reality!' German brings a natural approach in front of the inspector, linking "vecher" ("evening"), "izmenit" ("will change"), and "vospriyatiye" ("reality") in one brisk exchange.
+- 'And so, friends, we are beginning our culinary show!' German conveys a pointed attitude for Katya, using "druzya" (from "drug", "friends") alongside "nachinayem" ("are starting") to shape the meaning.
+- 'Tell me, miss, what kind of powders are those?' The inspector checks honestly across the room, weaving "skazhite" ("tell") together with "devushka" ("girlfriend") just the way native speakers do.
+- 'That is our main culinary secret of the evening.' Katya establishes a calm mood straight away, combining "glavnyy" ("main, chief") and "kulinarnyy" ("culinary") so the key meaning lands right away.
+- 'I can tell you only one thing right now.' Katya chooses an emphatic stance as the scene unfolds, pairing "mogu" ("can") with "seychas" ("now") to get the point across in plain spoken Russian.
+- 'It is precisely these powders that create all the magic of the kitchen!' Katya picks an earnest attitude with the inspector, putting "poroshki" ("powder") alongside "sozdayut" ("to create, cause") in a tight, everyday turn of phrase.
+- 'Please, taste our first hot dish.' Katya keeps an emphatic tack in front of German, using "poprobuyte" (from "poprobovat", "try, taste") alongside "pervoye" ("first") to shape the meaning.
+- 'Listen, this really is very tasty after all!' The inspector adopts a candid tempo in the conversation, leaning on "slushay" ("listen") before closing the thought with "deystvitelno" ("really, indeed").
+- 'Eva, and your homemade cutlets are simply a miracle!' German conveys a steady tempo straight away, combining "domashniye" ("home, domestic") and "kotletki" ("miracle") so the key meaning lands right away.
+- 'Thank you very much, I am very pleased right now!' Katya offers a warm attitude across the room, building the phrase around "spasibo" ("thank you") and "bolshoye" ("big, very much") for a crisp, natural delivery.

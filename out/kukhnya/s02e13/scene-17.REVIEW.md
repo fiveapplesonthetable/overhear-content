@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Макс | Там такое? | What is in there? | #270: там такое | verbatim |
 | 2 | Нагиев | Как мясо? | What do you mean, meat? | #271: Как мясо | verbatim |
-| 3 | Макс | Максим, ты положил ему мясо? | Maksim, did you put meat in his food? | #272: Максим, ты положил ему мясо | verbatim |
+| 3 | Нагиев | Максим, ты положил ему мясо? | Maksim, did you put meat in his food? | #272: Максим, ты положил ему мясо | verbatim |
 | 4 | Нагиев | Да он рад, не расстраивайся. | He is happy with it, do not get upset. | #273: Да он рад, не расстраивайся | verbatim |
 | 5 | Макс | Как ты мог? | How could you do that? | #274: Как ты мог | verbatim |
 | 6 | Нагиев | Если ничего... | If nothing happens... | #275: Если ничего | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is in there?' By asking what in there is, Max presses Nagiyev for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What do you mean, meat?' Wondering what Max means meat cuts straight through the tension between Nagiyev and Max. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Maksim, did you put meat in his food?' Asking whether Nagiyev puts meat in his food is how Max puts Nagiyev on the spot.
-- 'He is happy with it, do not get upset.' Being happy with it do not get upset is how Nagiyev lays out the situation for Max.
-- 'How could you do that?' By wondering how Nagiyev does could, Max presses Nagiyev for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'If nothing happens...' Nagiyev tells Max that if nothing happens without dressing it up.
-- 'I have been waiting for you for an hour already.' Admitting that he has been waiting for Nagiyev for an hour already shows Max being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Where have you been wandering?' Asking whether where have Max been wandering puts Max right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I am sitting inside the walk-in fridge.' Realizing that he is sitting inside the walk in fridge changes how Max handles the situation.
-- 'Oh, it really stinks in there, guys.' Around the guest and moment, Nagiyev sets a calm, everyday tone with Max. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'First it stinks in there, and then it is freezing cold.' Explaining that first it stinks in there and then it is freezing cold lays the cards on the table for Nagiyev.
-- 'So who is she?' Here asking who she is shows Nagiyev looking for the real truth.
-- 'Oh, let us say so.' Realizing that they should say changes how Max handles the situation.
+- 'What is in there?' Max quizzes steadily to make the point, pairing "tam" ("there") with "takoye" ("on earth") to get the point across in plain spoken Russian.
+- 'What do you mean, meat?' Nagiyev inquires sharply without hesitation, joining "kak" ("how") to "myaso" ("meat") so every word pulls its weight.
+- 'Maksim, did you put meat in his food?' Nagiyev presses sharply in the room, weaving "polozhil" ("laid, put down") together with "myaso" ("meat") just the way native speakers do.
+- 'He is happy with it, do not get upset.' Nagiyev maintains an earnest tempo at this moment, putting "rad" ("glad") alongside "rasstraivaysya" ("be upset, worry") in a tight, everyday turn of phrase.
+- 'How could you do that?' Max presses decisively as they speak, building the phrase around "kak" ("how") and "mog" ("can, to be able") for a crisp, natural delivery.
+- 'If nothing happens...' Nagiyev maintains a warm footing beside Max, pairing "yesli" ("if") with "nichego" ("nothing") to get the point across in plain spoken Russian.
+- 'I have been waiting for you for an hour already.' Max chooses a clear line across the room, leaning on "uzhe" ("already, now") before closing the thought with "chas" ("hour").
+- 'Where have you been wandering?' Nagiyev prompts plainly for Max's benefit, anchoring the Russian line on "gde" ("where") and "khodish" ("can walk, are walking") without extra filler.
+- 'I am sitting inside the walk-in fridge.' Max holds a candid course in the conversation, linking "kholodilnike" ("fridge"), "sizhu" ("am sitting"), and "ya" ("I") in one brisk exchange.
+- 'Oh, it really stinks in there, guys.' Nagiyev picks a measured tempo during the exchange, putting "von" ("stench, bad smell") alongside "tam" ("there") in a tight, everyday turn of phrase.
+- 'First it stinks in there, and then it is freezing cold.' Max shows a pointed posture in the scene, putting "tam" ("there") alongside "vonyayet" ("like") in a tight, everyday turn of phrase.
+- 'So who is she?' Nagiyev inquires earnestly from the start, building the phrase around "nu" ("oh, come on") and "kto" ("who") for a crisp, natural delivery.
+- 'Oh, let us say so.' Max shares a serious position as they talk, combining "dopusti" ("to allow, to suppose") and "akh" ("ah, oh") so the key meaning lands right away.

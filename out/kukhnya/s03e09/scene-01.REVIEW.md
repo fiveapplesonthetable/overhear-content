@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What am I doing here?' Around the shift and morning, Barinov wants to know where Lyova really stands.
-- 'Maxim knows, this is his room.' Lyova tells Barinov that Maxim knows this is his room without dressing it up. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Hello, Chef, how are things?' Asking how things are is how Max puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'How did I end up here?' Here asking how he end up here shows Barinov looking for the real truth.
-- 'There is nothing left to drink together!' Declaring that there is nothing left to drink together brings Barinov's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Alright, that is it, I am leaving now.' Because Alright that is it he is leaving now, Lyova treats the matter as settled.
-- 'Where is everyone? You will come with me.' Wondering where everyone is is how Barinov puts Lyova on the spot.
-- 'We will find something to drink now.' Barinov mentions that they will find something to drink now so Lyova sees what is at stake.
-- 'We have nothing at home.' Claiming that they have nothing at home sounds confident, even if Barinov has doubts. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Get ready, let us go cure this hangover together.' Claiming that Lyova should get ready let them go cure this hangover together sounds confident, even if Lyova has doubts.
-- 'Chef, I am going to be late for work.' Max mentions that he is going to be late for work so Barinov sees what is at stake.
-- 'Just warn me, and I will allow you to be late.' Realizing that just warn him and he will allow Lyova to be late changes how Barinov handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'What am I doing here?' Barinov presses plainly with Lyova now, leaning on "zdes" ("here") before closing the thought with "delayu" ("I make").
+- 'Maxim knows, this is his room.' Lyova sustains a candid direction across the room, building the phrase around "znayet" ("knows") and "komnata" ("room") for a crisp, natural delivery.
+- 'Hello, Chef, how are things?' Max challenges sharply across the room, linking "zdravstvuyte" ("hello"), "kak" ("how"), and "dela" ("things, affairs") in one brisk exchange.
+- 'How did I end up here?' Barinov quizzes evenly without a pause, putting "kak" ("how") alongside "zdes" ("here") in a tight, everyday turn of phrase.
+- 'There is nothing left to drink together!' Barinov keeps an easygoing mood for Lyova, combining "vmeste" ("together") and "uzhe" ("already, now") so the key meaning lands right away.
+- 'Alright, that is it, I am leaving now.' Lyova adopts a brisk approach at once, combining "uzhe" ("already, now") and "poshyol" ("went, set off") so the key meaning lands right away.
+- 'Where is everyone? You will come with me.' Barinov probes lightly on the spot, joining "gde" ("where") to "poydyosh" ("will you go") so every word pulls its weight.
+- 'We will find something to drink now.' Barinov takes an honest line during the exchange, pairing "seychas" ("now") with "naydyom" ("we'll find") so the "-sya" ending carries the action.
+- 'We have nothing at home.' Max picks a lively footing beside Barinov, leaning on "u nas" ("by us, at our place") and "doma" ("at home") the way natural Russian does.
+- 'Get ready, let us go cure this hangover together.' Barinov shares a wry manner at once, putting "sobiraysya" ("gather yourself") alongside "poydyom" ("let's go") in a tight, everyday turn of phrase.
+- 'Chef, I am going to be late for work.' Max projects a lively approach for Barinov, joining "rabotu" ("job") to "opozdayu" ("will be late") so every word pulls its weight.
+- 'Just warn me, and I will allow you to be late.' Barinov offers a resolute course toward Max, joining "predupredi" ("warn, let know") to "razreshu" ("I will allow") so every word pulls its weight.

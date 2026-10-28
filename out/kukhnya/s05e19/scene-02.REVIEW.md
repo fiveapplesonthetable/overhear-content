@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, have you seen my hat today?' Checking whether Kostya seen her hat today cuts straight through the tension between Katya and Kostya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'If you want to find the hat, follow the clues.' Because if Kostya wants to find the hat follow the clues, Katya treats the matter as settled.
-- 'The first clue will perk you up early in the morning.' Explaining that the first clue will perk Kostya up early in the morning lays the cards on the table for Kostya.
-- 'Okay, we need diapers, baby powder, and a car seat.' With the shift and coffee in play, Max keeps this short reply brisk and direct.
-- 'Vika, is it not too early to buy a seat?' Asking whether it not too early to buy a seat cuts straight through the tension between Max and Katya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Alright, do not worry, I will buy everything today.' Pointing out that Alright do not worry he will buy everything today gives Katya a sobering reality check.
-- 'Kostya, how much money goes into supporting a child?' Asking whether how much money goes into supporting a child puts Katya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Honestly speaking, absolutely everything goes to the child.' Realizing that speaking absolutely everything goes to the child changes how Kostya handles the situation.
-- 'And how do I support a daughter on a cook's salary?' Wondering how he supports a daughter on a cook salary cuts straight through the tension between Max and Katya.
-- 'Well, that depends on what exactly you cook.' Even though that depends on what exactly Katya cooks, Kostya keeps a steady face in front of Katya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I urgently need to earn more money.' With the work and coffee in play, Max keeps this short reply brisk and direct. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Then think about how to get a raise.' Telling Katya to think about how to get a raise moves the conversation forward without extra drama.
+- 'Senya, have you seen my hat today?' Katya challenges directly for Kostya's benefit, pairing "shlyapku" ("little hat") with "segodnya" ("today") to get the point across in plain spoken Russian.
+- 'If you want to find the hat, follow the clues.' Katya displays an earnest stance with Max, putting "khochesh" ("do you want") alongside "nayti" ("to find") in a tight, everyday turn of phrase.
+- 'The first clue will perk you up early in the morning.' Katya displays a clear note without hesitation, combining "pervaya" ("the first one") and "podskazka" ("clue") so the key meaning lands right away.
+- 'Okay, we need diapers, baby powder, and a car seat.' Max favors a firm rhythm as the scene unfolds, joining "nuzhny" ("needed") to "podguzniki" ("diapers") so every word pulls its weight.
+- 'Vika, is it not too early to buy a seat?' Max wonders warmly in front of Katya, combining "kreslo" ("chair, seat") and "pokupat" ("buy") so the key meaning lands right away.
+- 'Alright, do not worry, I will buy everything today.' Max chooses a grounded direction for Kostya, building the phrase around "volnuysya" ("worry") and "segodnya" ("today") for a crisp, natural delivery.
+- 'Kostya, how much money goes into supporting a child?' Max presses lightly to Katya here, building the phrase around "skolko" ("how much, so much") and "deneg" ("money") for a crisp, natural delivery.
+- 'Honestly speaking, absolutely everything goes to the child.' Kostya projects a playful style as they talk, joining "chestno" ("honestly") to "govorya" ("speaking") so every word pulls its weight.
+- 'And how do I support a daughter on a cook's salary?' Max inquires earnestly to keep things clear, leaning on "kak" ("how") before closing the thought with "soderzhat" ("to support financially").
+- 'Well, that depends on what exactly you cook.' Kostya keeps a serious tack at once, using "smotrya" (from "smotret", "depending on") alongside "varit" ("to boil, cook") to shape the meaning.
+- 'I urgently need to earn more money.' Max takes a serious tack beside Katya, putting "srochno" ("urgent, urgently") alongside "nuzhno" ("necessary") in a tight, everyday turn of phrase.
+- 'Then think about how to get a raise.' Kostya adopts a frank tone toward Max, leaning on "togda" ("back then") before closing the thought with "podumay" ("think").

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktoriya Sergeyevna, your flowers ended up with me.' With the moment and truth in play, German keeps this short reply brisk and direct. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Are these really my flowers, German Mikhailovich?' By asking whether these really her flowers German Mikhailovich, Vika presses Ainura for a straight answer. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'They bloomed in order to lift your mood.' With the moment and situation in play, German keeps this short reply brisk and direct.
-- 'Thank you, of course, for the kind words.' Between the conversation and the kitchen, Vika gives Ainura a quick, grounded response. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Believe me, I have nothing to do with it at all.' By telling Ainura to believe him he has nothing to do with it at all, German keeps his side of the story grounded.
-- 'These lovely flowers chose you themselves.' Over the conversation and the work, German answers Ainura without a second thought.
-- 'I really appreciate your kind attention.' Between the conversation and the point, Vika gives Ainura a quick, grounded response. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'But I will not take this bouquet.' Pointing out that she will not take this bouquet gives Ainura a sobering reality check.
-- 'Excuse me, it is already time for me to go.' Vika explains that it is already time for her to go, keeping her voice calm and direct.
-- 'Ainura, take these, please, this is for you now.' Noting that Ainura should take these please this is for Ainura now keeps German's side of the story simple and clear. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Oh, thank you very much, German Mikhailovich!' With the point and shift at stake, Ainura reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'What do you need here, go to work!' Saying that what do Ainura needs here go to work is how German takes charge of the moment.
+- 'Viktoriya Sergeyevna, your flowers ended up with me.' German opens up promptly from the start, using the everyday "u menya" ("by me") alongside "okazalis" ("to turn out to be") to show what belongs to the speaker.
+- 'Are these really my flowers, German Mikhailovich?' Vika inquires lightly toward German here, combining "tsvety" ("the flowers") and "razve" ("really, can it be") so the key meaning lands right away.
+- 'They bloomed in order to lift your mood.' German offers a playful stance during the exchange, linking "raspustilis" ("to order"), "podnyat" ("to lift, to raise"), and "nastroyeniye" ("mood") in one brisk exchange.
+- 'Thank you, of course, for the kind words.' Vika shows a brisk attitude in the conversation, weaving "spasibo" ("thank you") together with "konechno" ("of course") just the way native speakers do.
+- 'Believe me, I have nothing to do with it at all.' German chooses a lively approach without hesitation, anchoring the Russian line on "poverte" ("believe") and "tut" ("here") without extra filler.
+- 'These lovely flowers chose you themselves.' German shows a clear manner straight away, weaving "prekrasnyye" ("wonderful, fine") together with "tsvety" ("the flowers") just the way native speakers do.
+- 'I really appreciate your kind attention.' Vika holds an easygoing attitude right away, leaning on "ochen" ("very much") before closing the thought with "tsenyu" ("appreciate").
+- 'But I will not take this bouquet.' Vika presents an unhurried attitude for German, joining "buket" ("bouquet") to "vozmu" ("will get") so every word pulls its weight.
+- 'Excuse me, it is already time for me to go.' Vika brings a calm style in this beat, putting "izvinite" ("sorry, excuse me") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
+- 'Ainura, take these, please, this is for you now.' German strikes a pointed direction in front of Vika, building the phrase around "vozmite" ("take") and "teper" ("now") for a crisp, natural delivery.
+- 'Oh, thank you very much, German Mikhailovich!' Ainura favors a measured stance in the conversation, linking "spasibo" ("thank you"), "bolshoye" ("big, very much"), and "oy" ("oh") in one brisk exchange.
+- 'What do you need here, go to work!' German projects an easygoing direction beside Vika, joining "tut" ("here") to "nado" ("it is necessary") so every word pulls its weight.

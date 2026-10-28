@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We carefully put jigsaw puzzles together.' Max tells Katya that they carefully put jigsaw puzzles together without dressing it up.
-- 'We want to put together a picture of our happiness.' Max tells Katya that they want to put together a picture of their happiness without dressing it up.
-- 'Puzzles do not always come together the right way.' Mentioning that puzzles do not always come together the right way moves the talk in a new direction.
-- 'Holy cow, where am I?' Over the morning and the work, Max presses Katya for a straight answer.
-- 'Good morning, Max.' Around the kitchen and morning, Katya sets a calm, everyday tone with Max.
-- 'Good morning, Katya.' Between the kitchen and the morning, Max gives Katya a quick, grounded response.
-- 'Well, that depends on who you ask today.' Nagiyev mentions that that depends on who Katya asks today so Katya sees what is at stake.
-- 'If only I had known about my fate.' Claiming that if only he had known about his fate sounds confident, even if Katya has doubts.
-- 'Fate turned its back on me.' Pointing out that fate turned its back on him gives Katya a sobering reality check.
-- 'Of course, I would have bought a fold-out sofa.' Nagiyev explains that he would have bought a fold out sofa, keeping his voice calm and direct.
-- 'How did you sleep last night?' Wondering how Max sleeps last night is how Katya puts Max on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Not bad, thank you.' With the shift and morning in play, Max keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Have you seen my jeans?' By asking whether Katya seen his jeans, Max presses Katya for a straight answer.
+- 'We carefully put jigsaw puzzles together.' Max shows an earnest rhythm during the exchange, joining "staratelno" ("diligently") to "sobirayem" ("we gather") so every word pulls its weight.
+- 'We want to put together a picture of our happiness.' Max sets a candid footing during the exchange, weaving "khochetsya" ("want, feel like") together with "sostavit" ("to put together") just the way native speakers do.
+- 'Puzzles do not always come together the right way.' Max offers a sharp tack in the scene, joining "vsegda" ("always") to "pazly" ("jigsaw puzzles") so every word pulls its weight.
+- 'Holy cow, where am I?' Max inquires candidly right away, pairing "gde" ("where") with "nifiga" ("holy cow") to get the point across in plain spoken Russian.
+- 'Good morning, Max.' Katya brings a clear line as the scene unfolds, leaning on "dobroye" ("good") before closing the thought with "utro" ("morning").
+- 'Good morning, Katya.' Max shares a clear rhythm with Nagiyev, putting "dobroye" ("good") alongside "utro" ("morning") in a tight, everyday turn of phrase.
+- 'Well, that depends on who you ask today.' Nagiyev brings a wry angle straight away, putting "kak" ("how") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
+- 'If only I had known about my fate.' Nagiyev picks an easygoing view in the room, combining "znal" ("knew") and "sudbu" ("fate") so the key meaning lands right away.
+- 'Fate turned its back on me.' Nagiyev offers an emphatic posture in the conversation, leaning on "sudba" ("fate, destiny") before closing the thought with "povernulas" ("turned").
+- 'Of course, I would have bought a fold-out sofa.' Nagiyev shows an honest note beside Max, joining "konechno" ("of course") to "divan" ("sofa, couch") so every word pulls its weight.
+- 'How did you sleep last night?' Katya checks evenly at this point, building the phrase around "kak" ("how") and "spalos" ("slept") for a crisp, natural delivery.
+- 'Not bad, thank you.' Max takes a serious manner beside Nagiyev, building the phrase around "neplokho" ("not bad") and "spasibo" ("thank you") for a crisp, natural delivery.
+- 'Have you seen my jeans?' Max queries evenly across the room, putting "dzhinsy" ("jeans") alongside "videla" ("saw") in a tight, everyday turn of phrase.

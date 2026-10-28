@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'For some reason the sheikh did not like it.' Admitting that for some reason the sheikh did not like it shows Senya being honest for a change.
-- 'He did not like your impudent smile.' Saying that he did not like Barinov's impudent smile is how Fedya sets the tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Take a look at your own face.' Admitting that Barinov should take a look at Barinov's own face shows Senya being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Turn me toward him, I will spit at him.' Turning him toward him he will spit at him is how Fedya lays out the situation for Barinov.
-- 'Thank you, taste it yourself.' Explaining that Fedya should taste it themselves lays the cards on the table for Fedya.
-- 'There is nothing to taste here, got it?' Questioning whether there is nothing to taste here got it is how Barinov tests Fedya's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Let us make it one more time.' Saying that they should make it one more time is how Senya sets the tone with Barinov.
-- 'Do you want to taste some more?' Asking whether Fedya wants to taste some cuts straight through the tension between Barinov and Fedya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Today is your day off.' Because today is Fedya's day off, Barinov treats the matter as settled. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'I will make everything myself.' Explaining that he will make everything himself lays the cards on the table for Fedya.
-- 'Lyova, bring the cheese and the pear.' By bringing the cheese and the pear, Barinov keeps his side of the story grounded.
-- 'Listen, now the Chef will get our ring.' Claiming that the Chef will get their ring sounds confident, even if Barinov has doubts.
+- 'For some reason the sheikh did not like it.' Senya establishes a wry rhythm toward Barinov, combining "sheykhu" ("sheikh") and "ponravilos" ("pleased, was liked") so the key meaning lands right away.
+- 'He did not like your impudent smile.' Fedya establishes a thoughtful approach straight away, combining "ulybka" ("smile") and "naglaya" ("impudent, insolent") so the key meaning lands right away.
+- 'Take a look at your own face.' Senya picks an emphatic rhythm in their talk, building the phrase around "litso" ("face") and "posmotri" ("look") for a crisp, natural delivery.
+- 'Turn me toward him, I will spit at him.' Fedya establishes a lively tone across the room, pairing "poverni" ("turn") with "plyunu" ("will spit") to get the point across in plain spoken Russian.
+- 'Thank you, taste it yourself.' Barinov holds a resolute attitude in the scene, joining "spasibo" ("thank you") to "poprobuy" ("to try, to taste") so every word pulls its weight.
+- 'There is nothing to taste here, got it?' Barinov quizzes calmly without holding back, joining "tut" ("here") to "probovat" ("to try, to taste") so every word pulls its weight.
+- 'Let us make it one more time.' Senya sustains a pointed footing in the room, using "davayte" (from "davat", "let's") alongside "sdelayem" ("we'll do") to shape the meaning.
+- 'Do you want to taste some more?' Barinov tests dryly on the spot, building the phrase around "yeshchyo" ("more, still") and "khochesh" ("do you want") for a crisp, natural delivery.
+- 'Today is your day off.' Barinov favors a calm stance across the room, leaning on "segodnya" ("today") before closing the thought with "vykhodnoy" ("a day off").
+- 'I will make everything myself.' Barinov offers a measured tone straight away, weaving "sdelayu" ("I'll do") together with "ya" ("I") just the way native speakers do.
+- 'Lyova, bring the cheese and the pear.' Barinov shows an unhurried position toward Fedya, joining "tashchi" ("drag, bring") to "syr" ("cheese") so every word pulls its weight.
+- 'Listen, now the Chef will get our ring.' Senya keeps a brisk line in this beat, weaving "slushay" ("listen") together with "seychas" ("now") just the way native speakers do.

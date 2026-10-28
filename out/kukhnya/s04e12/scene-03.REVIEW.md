@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, hi, how glad I am!' Because how glad she is, Sasha does not bother softening the blow for Kostya. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Sasha, this is our new cook Denis.' Realizing that this is their new cook Denis changes how Kostya handles the situation.
-- 'Hi, Denis, very nice to meet you.' Around the room and truth, Sasha sets a calm, everyday tone with Kostya.
-- 'German Mikhailovich asked for an espresso.' Even though German Mikhailovich asked for an espresso, Kostya keeps a steady face in front of Max.
-- 'Oh, Sashka, hi, how are things?' When Max asks if someone hi how are things, Kostya has to answer fast.
-- 'Everything is great, I am getting married!' Saying that everything is great she is getting married is how Sasha takes charge of the moment. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Over there stands my fiancé.' Once over there stands, Sasha can finally tell Kostya what she means.
-- 'I sincerely congratulate you on the wedding!' With the kitchen and plan at stake, Max reacts without holding back.
-- 'Thank you, I congratulate you too.' Explaining that she congratulates Kostya lays the cards on the table for Kostya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Lavrov, why are you standing around here?' Here wondering why Max standing around here is shows Kostya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Do you have nothing at all to keep you busy?' Asking whether Max has nothing at all to keep Max busy cuts straight through the tension between Kostya and Max.
-- 'You do not have to hang around in the dining room.' Pointing out that Max does not have to hang around in the dining room gives Max a sobering reality check.
+- 'Kostya, hi, how glad I am!' Sasha takes a frank attitude straight away, pairing "kak" ("how") with "rada" ("glad") to get the point across in plain spoken Russian.
+- 'Sasha, this is our new cook Denis.' Kostya establishes a wry mood in the scene, anchoring the Russian line on "novyy" ("new") and "povar" ("chef, cook") without extra filler.
+- 'Hi, Denis, very nice to meet you.' Sasha holds a warm mood in their talk, building the phrase around "ochen" ("very much") and "priyatno" ("pleasant") for a crisp, natural delivery.
+- 'German Mikhailovich asked for an espresso.' Kostya takes a natural bearing at this moment, linking "poprosil" ("asked"), "sdelat" ("to do"), and "espresso" ("espresso") in one brisk exchange.
+- 'Oh, Sashka, hi, how are things?' Max presses boldly to Kostya here, anchoring the Russian line on "kak" ("how") and "dela" ("things, affairs") without extra filler.
+- 'Everything is great, I am getting married!' Sasha holds a candid stance as the scene unfolds, putting "otlichno" ("perfect, great") alongside "zamuzh" ("in marriage") in a tight, everyday turn of phrase.
+- 'Over there stands my fiancé.' Sasha sets a sharp approach beside Kostya, building the phrase around "tam" ("there") and "stoit" ("is parked") for a crisp, natural delivery.
+- 'I sincerely congratulate you on the wedding!' Max chooses a lively posture on the spot, anchoring the Russian line on "iskrenne" ("sincerely") and "pozdravlyayu" ("congratulations") without extra filler.
+- 'Thank you, I congratulate you too.' Sasha adopts a playful footing toward Kostya, anchoring the Russian line on "spasibo" ("thank you") and "tozhe" ("too") without extra filler.
+- 'Lavrov, why are you standing around here?' Kostya asks evenly as they speak, anchoring the Russian line on "tut" ("here") and "stoish" ("stand") without extra filler.
+- 'Do you have nothing at all to keep you busy?' Kostya questions naturally to Max here, combining "sovsem" ("at all") and "zanyatsya" ("to attend to") so the key meaning lands right away.
+- 'You do not have to hang around in the dining room.' Kostya chooses a pointed approach during the exchange, pairing "obyazatelno" ("surely, without fail") with "torchat" ("to dining") to get the point across in plain spoken Russian.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Has the Chef not arrived yet today?' By checking whether the Chef not arrived yet today, Max presses Barinov for a straight answer.
-- 'He will probably arrive right now.' Noting that he will probably arrive right now keeps Katya's side of the story simple and clear.
-- 'Yesterday I went to see Elena Pavlovna.' Even though yesterday he went to see Elena Pavlovna, Barinov keeps a steady face in front of Katya.
-- 'I made her a proper marriage proposal.' Admitting that he made her a proper marriage proposal shows Barinov being honest for a change.
-- 'And she immediately said yes to me!' Barinov declares that she immediately said yes to him as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Senya and Fedya, prepare the snacks!' With the moment and conversation at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Louis, quickly bring the shot glasses here!' Insisting that quickly bring the shot glasses here shows Barinov is not backing down.
-- 'Do you need a special invitation, Maxim?' Here asking whether Katya needs a special invitation Maxim shows Barinov looking for the real truth. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Dad, Max got divorced from Vika today.' Since dad Max got divorced from Vika today, Katya does not waste words on excuses.
-- 'Then we have all the more reason to drink!' Barinov insists that they have all the more reason to drink, leaving Katya no room to argue.
-- 'Thank you, Viktor Petrovich, I agree.' Between the room and the point, Max gives Barinov a quick, grounded response.
-- 'Come with me to the office, Maxim.' Because Katya should come with him to the office Maxim, Barinov treats the matter as settled.
+- 'Has the Chef not arrived yet today?' Max questions wryly beside Barinov, anchoring the Russian line on "segodnya" ("today") and "yeshchyo" ("more, still") without extra filler.
+- 'He will probably arrive right now.' Katya shares an unhurried stance in front of Max, combining "navernoye" ("probably") and "seychas" ("now") so the key meaning lands right away.
+- 'Yesterday I went to see Elena Pavlovna.' Barinov holds an emphatic attitude in the conversation, building the phrase around "vchera" ("yesterday") and "poshyol" ("went, set off") for a crisp, natural delivery.
+- 'I made her a proper marriage proposal.' Barinov picks a steady course as the scene unfolds, putting "sdelal" ("did") alongside "normalnoye" ("normal") in a tight, everyday turn of phrase.
+- 'And she immediately said yes to me!' Barinov sustains a resolute view for Katya, pairing "srazu" ("at once") with "skazala" ("told") to get the point across in plain spoken Russian.
+- 'Senya and Fedya, prepare the snacks!' Barinov brings a serious rhythm in their talk, anchoring the Russian line on "gotovte" ("cook") and "zakuski" ("appetizer, snack") without extra filler.
+- 'Louis, quickly bring the shot glasses here!' Barinov holds a calm rhythm on the spot, building the phrase around "bystro" ("quickly") and "nesi" ("bring") for a crisp, natural delivery.
+- 'Do you need a special invitation, Maxim?' Barinov queries steadily as the talk turns, putting "nuzhno" ("necessary") alongside "osoboye" ("special") in a tight, everyday turn of phrase.
+- 'Dad, Max got divorced from Vika today.' Katya displays an unhurried style during the exchange, anchoring the Russian line on "papa" ("Dad") and "segodnya" ("today") without extra filler.
+- 'Then we have all the more reason to drink!' Barinov brings a sharp rhythm at this moment, anchoring the Russian line on "togda" ("back then") and "boleye" ("more") without extra filler.
+- 'Thank you, Viktor Petrovich, I agree.' Max adopts a grounded mood beside Barinov, combining "spasibo" ("thank you") and "soglasen" ("agreed") so the key meaning lands right away.
+- 'Come with me to the office, Maxim.' Barinov displays a thoughtful view in the room, combining "poydyom" ("let's go") and "kabinet" ("office") so the key meaning lands right away.

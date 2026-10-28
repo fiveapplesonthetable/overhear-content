@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And what are you giving Katya today yourselves?' Here wondering what Denis giving Katya today yourselves is shows Barinov looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'We are chipping in a thousand rubles each, as usual.' Mentioning that they are chipping in a thousand rubles each as usual moves the talk in a new direction.
-- 'Would you like to chip in for the gift with us?' Checking whether Barinov likes to chip in for the gift with them cuts straight through the tension between Lyova and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Lyova, you are the most generous person among us.' Because Denis is the most generous person among them, Barinov treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Denis, and what is that you have over there?' Here asking what that Denis has over there is shows Barinov looking for the real truth.
-- 'The mirror on Katya's motorcycle broke recently.' Around the money and truth, Denis sets a calm, everyday tone with Barinov.
-- 'So I bought her a brand-new mirror.' Claiming that he bought her a brand new mirror sounds confident, even if Barinov has doubts.
-- 'That is an excellent gift from her own father!' Saying that that is an excellent gift from her own father is how Barinov takes charge of the moment.
-- 'Give that box here to me immediately.' Saying that Denis should give that box here to him immediately is how Barinov sets the tone with Denis.
-- 'And you chip in for the gift with everyone else.' With the gift and shift in play, Barinov keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'There is no reason for you to separate yourself from our team!' Insisting that there is no reason for Denis to separate themselves from their team shows Barinov is not backing down.
-- 'I will pay you back for the mirror later.' Even though he will pay Denis back for the mirror later, Barinov keeps a steady face in front of Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'And what are you giving Katya today yourselves?' Barinov wonders pointedly during the talk, combining "segodnya" ("today") and "darite" ("to give") so the key meaning lands right away.
+- 'We are chipping in a thousand rubles each, as usual.' Lyova sustains a wry position without hesitation, anchoring the Russian line on "skidyvayemsya" ("are chipping in") and "tysyache" ("thousand") without extra filler.
+- 'Would you like to chip in for the gift with us?' Lyova questions boldly toward Barinov here, joining "khotite" ("want") to "skinutsya" ("to money") so every word pulls its weight.
+- 'Lyova, you are the most generous person among us.' Barinov strikes a natural tack in front of Lyova, combining "samyy" ("the most") and "shchedryy" ("generous") so the key meaning lands right away.
+- 'Denis, and what is that you have over there?' Barinov quizzes steadily in the scene, anchoring the Russian line on "tam" ("there") and "denis" ("Denis") without extra filler.
+- 'The mirror on Katya's motorcycle broke recently.' Denis favors a brisk approach for Lyova, pairing "razbilos" ("to crash, to get killed") with "mototsikle" ("motorcycle") so the "-sya" ending carries the action.
+- 'So I bought her a brand-new mirror.' Denis presents a firm angle in the scene, putting "kupil" ("bought") alongside "novoye" ("new") in a tight, everyday turn of phrase.
+- 'That is an excellent gift from her own father!' Barinov shares an easygoing posture in their talk, linking "otlichnyy" ("excellent, great"), "podarok" ("gift, voucher"), and "rodnogo" ("dear, family") in one brisk exchange.
+- 'Give that box here to me immediately.' Barinov chooses a sharp course in the scene, weaving "nemedlenno" ("immediately") together with "day" ("give") just the way native speakers do.
+- 'And you chip in for the gift with everyone else.' Barinov holds an emphatic mood as the scene unfolds, weaving "skidyvaysya" ("to chip in") together with "podarok" ("gift, voucher") just the way native speakers do.
+- 'There is no reason for you to separate yourself from our team!' Barinov adopts a warm tack toward Denis, combining "otryvatsya" ("to detach oneself") and "kollektiva" ("collective") so the key meaning lands right away.
+- 'I will pay you back for the mirror later.' Barinov strikes a frank view during the exchange, anchoring the Russian line on "dengi" ("money") and "zerkalo" ("mirror") without extra filler.

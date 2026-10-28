@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning.' Around the conversation and doctor, Elena sets a calm, everyday tone with Barinov.
-- 'Go have breakfast later.' Since Barinov should go have breakfast later, Elena does not waste words on excuses.
-- 'You have an incomplete rib fracture.' Noting that Barinov has an incomplete rib fracture keeps the doctor's side of the story simple and clear. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Just as I assumed.' Around the conversation and moment, the doctor sets a calm, everyday tone with Barinov.
-- 'You said it was a crack.' Admitting that the doctor said it was a crack shows Barinov being honest for a change. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Well, that is what it is.' Saying that that is what it is is how the doctor sets the tone with Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Be glad. How was the injury sustained?' Wondering how the injury sustained was is how the doctor puts Barinov on the spot.
-- 'Only a wardrobe fell.' Adding that only a wardrobe fell fills in the missing piece for the doctor.
-- 'A big one?' Around the plan and truth, the doctor wants to know where Barinov really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'About a hundred kilograms.' With the point and doctor in play, Barinov keeps this short reply brisk and direct.
-- 'It is even heavier than that.' Mentioning that it is even heavier than moves the talk in a new direction.
-- 'One hundred and twenty.' Around the point and doctor, Barinov sets a calm, everyday tone with the doctor.
+- 'Good morning.' Elena picks an earnest stance with Barinov, putting "dobroye" ("good") alongside "utro" ("morning") in a tight, everyday turn of phrase.
+- 'Go have breakfast later.' Elena shows a serious footing at this moment, joining "idi" ("go") to "potom" ("then") so every word pulls its weight.
+- 'You have an incomplete rib fracture.' The doctor conveys a candid approach across the room, putting "nepolnyy" ("incomplete") alongside "perelom" ("fracture") in a tight, everyday turn of phrase.
+- 'Just as I assumed.' The doctor adopts an easygoing mood with Elena, combining "kak" ("how") and "predpolagal" ("supposed, assumed") so the key meaning lands right away.
+- 'You said it was a crack.' Barinov adopts a steady position across the room, pairing "skazali" ("told") with "treshchina" ("crack, fissure") to get the point across in plain spoken Russian.
+- 'Well, that is what it is.' The doctor holds a lively stance in the scene, building the phrase around "yest" ("there is") and "nu" ("oh, come on") for a crisp, natural delivery.
+- 'Be glad. How was the injury sustained?' The doctor queries dryly across the room, building the phrase around "raduytes" ("rejoice, be glad") and "kak" ("how") for a crisp, natural delivery.
+- 'Only a wardrobe fell.' Barinov keeps a frank manner during the exchange, pairing "tolko" ("only") with "shkaf" ("wardrobe") to get the point across in plain spoken Russian.
+- 'A big one?' The doctor queries dryly in the room, leaning on "bolshoy" ("big") as a compact, one-word response that needs no extra words.
+- 'About a hundred kilograms.' Barinov picks a playful course with Elena, building the phrase around "kilogrammov" ("kilograms") and "sto" ("hundred") for a crisp, natural delivery.
+- 'It is even heavier than that.' Elena establishes an easygoing manner on the spot, combining "pobolshe" ("bit") and "budet" ("will be") so the key meaning lands right away.
+- 'One hundred and twenty.' Barinov adopts an emphatic line at this moment, pairing "sto" ("hundred") with "dvadtsat" ("twenty") to get the point across in plain spoken Russian.

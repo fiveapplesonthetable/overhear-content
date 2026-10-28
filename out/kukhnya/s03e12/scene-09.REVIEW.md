@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how do you like my little apartment?' Wondering how Barinov likes her little apartment cuts straight through the tension between the hostess and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Alright, one can live here.' Explaining that Alright one can live here lays the cards on the table for Barinov.
-- 'Who can live here?' Here asking who live here can shows the hostess looking for the real truth. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'I can live here.' Claiming that he can live here sounds confident, even if Barinov has doubts. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'You are not allowed to live here.' Explaining that Barinov is not allowed to live here lays the cards on the table for Barinov.
-- 'But why am I not allowed?' Over the moment and the peace, Max presses Barinov for a straight answer. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'I only rent the apartment out to girls.' Around the work and conversation, the hostess sets a calm, everyday tone with Barinov.
-- 'Then why did you show me the apartment?' By asking why Barinov shows him the apartment, Max presses Barinov for a straight answer.
-- 'Because you paid the money for the viewing.' Even though because Barinov paid the money for the viewing, the hostess keeps a steady face in front of Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And everything turned out so well.' Admitting that everything turned out so well shows Barinov being honest for a change.
-- 'They gave him a brand-new motorcycle.' Saying that they gave him a brand new motorcycle is how Barinov sets the tone with the hostess.
-- 'Well then, Kirill Ilyich, is it peace now?' Questioning whether Kirill Ilyich is it peace now is how Barinov tests the hostess's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Well, how do you like my little apartment?' The hostess prompts pointedly for Barinov's benefit, pairing "kak" ("how") with "kvartirka" ("little apartment") to get the point across in plain spoken Russian.
+- 'Alright, one can live here.' Max presents a brisk footing in the scene, pairing "tut" ("here") with "zhit" ("to live") to get the point across in plain spoken Russian.
+- 'Who can live here?' The hostess inquires lightly across the room, putting "tut" ("here") alongside "zhit" ("to live") in a tight, everyday turn of phrase.
+- 'I can live here.' Max conveys an easygoing footing right away, weaving "zdes" ("here") together with "zhit" ("to live") just the way native speakers do.
+- 'You are not allowed to live here.' The hostess projects a lively course beside Barinov, pairing "zdes" ("here") with "zhit" ("to live") to get the point across in plain spoken Russian.
+- 'But why am I not allowed?' Max queries earnestly at this point, building the phrase around "pochemu" ("why") and "nelzya" ("not allowed") for a crisp, natural delivery.
+- 'I only rent the apartment out to girls.' The hostess favors a natural style right away, using "kvartiru" (from "kvartira", "flat") alongside "tolko" ("only") to shape the meaning.
+- 'Then why did you show me the apartment?' Max queries candidly as they speak, putting "zachem" ("what for") alongside "togda" ("back then") in a tight, everyday turn of phrase.
+- 'Because you paid the money for the viewing.' The hostess takes a brisk tone straight away, putting "dengi" ("money") alongside "prosmotr" ("the audition") in a tight, everyday turn of phrase.
+- 'And everything turned out so well.' Barinov favors a sharp direction without hesitation, building the phrase around "khorosho" ("good, fine") and "poluchilos" ("worked out") for a crisp, natural delivery.
+- 'They gave him a brand-new motorcycle.' Barinov picks an earnest footing for the hostess, pairing "dali" ("gave") with "novenkiy" ("newcomer") to get the point across in plain spoken Russian.
+- 'Well then, Kirill Ilyich, is it peace now?' Barinov presses openly without hesitation, leaning on "kirill" ("Kirill") before closing the thought with "ilich" ("Ilyich").

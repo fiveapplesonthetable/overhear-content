@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, what happened?' Around the guest and work, Vika wants to know where Barinov really stands. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'My name is Viktoria. I am the director of this restaurant.' Claiming that her name is Viktoria sounds confident, even if Barinov has doubts.
-- 'You are a terrible director if you hire such people.' Pointing out that Fedya is a terrible director if Fedya hires such people gives Fedya a sobering reality check. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Watch your tongue!' Insisting that Barinov should watch Barinov's tongue shows Vika is not backing down. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'If you don't like our cuisine, nobody is keeping you here.' Realizing that if Barinov does not like their cuisine nobody is keeping Barinov here changes how Vika handles the situation.
-- 'You can look for a new job. Both of you!' Because Fedya can look for a new job, Barinov does not bother softening the blow for Fedya. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'What kind of rally is this?' Wondering if what kind of rally is this shows Barinov caught off guard. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Chef, we have a show here!' Once they have a show here, Fedya makes sure Barinov hears every word.
-- 'Right, and now it is my turn.' Saying that right and now it is his turn is how Fedya sets the tone with Barinov.
-- 'Well, was it scary? No, there are such airbags there.' Asking whether it scary cuts straight through the tension between Fedya and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Awesome, I would give her a ride on my motorcycle too.' Adding that awesome he would give her a ride on his motorcycle fills in the missing piece for Barinov.
-- 'Get to work right now, or I will tear your heads off!' Here telling Fedya to get to work right now or he will tear Fedya's heads off lets Barinov's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Hello, what happened?' Vika questions quietly from the start, joining "zdravstvuyte" ("hello") to "sluchilos" ("happened") so every word pulls its weight.
+- 'My name is Viktoria. I am the director of this restaurant.' Vika brings a frank rhythm as the scene unfolds, anchoring the Russian line on "zovut" ("call") and "direktor" ("head teacher") without extra filler.
+- 'You are a terrible director if you hire such people.' Barinov takes a resolute style without hesitation, leaning on "otvratitelnyy" ("terrible, disgusting") before closing the thought with "direktor" ("head teacher").
+- 'Watch your tongue!' Vika chooses a steady posture in the scene, anchoring the Russian line on "yazykom" ("language") and "sledite" ("are watching") without extra filler.
+- 'If you don't like our cuisine, nobody is keeping you here.' Vika establishes a serious position in their talk, linking "nravitsya" ("is pleasing"), "kukhnya" ("kitchen"), and "zdes" ("here") in one brisk exchange.
+- 'You can look for a new job. Both of you!' Barinov displays a calm manner in their talk, leaning on "mozhete" ("can, may") before closing the thought with "iskat" ("to look for").
+- 'What kind of rally is this?' Barinov challenges evenly right away, pairing "miting" ("rally") with "eto" ("this") to get the point across in plain spoken Russian.
+- 'Chef, we have a show here!' Fedya displays a candid view beside Vika, combining "tut" ("here") and "shou" ("show") so the key meaning lands right away.
+- 'Right, and now it is my turn.' Fedya sets a sharp course beside Barinov, combining "ochered" ("turn in the queue") and "tak" ("so") so the key meaning lands right away.
+- 'Well, was it scary? No, there are such airbags there.' Fedya checks firmly to make the point, joining "strashno" ("scary, frightening") to "bylo" ("was") so every word pulls its weight.
+- 'Awesome, I would give her a ride on my motorcycle too.' Fedya shows a thoughtful footing during the exchange, weaving "klass" ("cool, great") together with "tozhe" ("too") just the way native speakers do.
+- 'Get to work right now, or I will tear your heads off!' Barinov takes a steady tone without hesitation, linking "idite" ("come"), "rabotat" ("to work"), and "otorvu" ("to tear off") in one brisk exchange.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Climb out of the car quickly, terrorist.' Around the room and car, Barinov sets a calm, everyday tone with Eleonora.
-- 'Dad, what happened, is he wounded?' Wondering if dad what happened is he wounded shows Katya caught off guard. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, by a liter of whiskey straight to the head.' Between the room and the car, Barinov gives Eleonora a quick, grounded response.
-- 'You had better crawl away quietly right now.' Saying that Eleonora had better crawl away quietly right now is how Barinov sets the tone with Eleonora.
-- 'Sit there completely quietly.' Noting that Eleonora should sit there completely quietly keeps Barinov's side of the story simple and clear.
-- 'What is going on with you here?' Asking what going on with Barinov here is is how Eleonora puts Barinov on the spot. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Elya, only I am to blame for this.' Barinov tells Eleonora that someone only he is to blame for this without dressing it up.
-- 'I drove into it completely by accident.' Since he drove into it completely by accident, Barinov does not waste words on excuses.
-- 'So you drove into my car?' When Eleonora asks if Barinov drove into her car, Barinov has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Thank goodness, I mean what the heck?' Eleonora asks whether thank goodness she means what the heck, refusing to let the point slide.
-- 'Alright, you two sort it out here yourselves.' Over the car and the kitchen, Barinov answers Eleonora without a second thought. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Thanks, Dad, we will get going then.' Explaining that dad they will get going then lays the cards on the table for Barinov.
+- 'Climb out of the car quickly, terrorist.' Barinov shows a frank direction on the spot, linking "vylezay" ("out"), "skoreye" ("quickly, right away"), and "mashiny" ("cars") in one brisk exchange.
+- 'Dad, what happened, is he wounded?' Katya inquires lightly beside Eleonora, building the phrase around "papa" ("Dad") and "sluchilos" ("happened") for a crisp, natural delivery.
+- 'Yes, by a liter of whiskey straight to the head.' Barinov sets a grounded rhythm as the scene unfolds, leaning on "litrom" ("liter") before closing the thought with "viski" ("whisky").
+- 'You had better crawl away quietly right now.' Barinov projects a steady course as they talk, building the phrase around "luchshe" ("better") and "seychas" ("now") for a crisp, natural delivery.
+- 'Sit there completely quietly.' Barinov establishes a measured posture right away, weaving "sidi" ("sit, stay sitting") together with "tam" ("there") just the way native speakers do.
+- 'What is going on with you here?' Eleonora queries bluntly right away, putting "zdes" ("here") alongside "proiskhodit" ("is going on") in a tight, everyday turn of phrase.
+- 'Elya, only I am to blame for this.' Barinov adopts an unhurried footing in the conversation, joining "tolko" ("only") to "vinovat" ("at fault, guilty") so every word pulls its weight.
+- 'I drove into it completely by accident.' Barinov adopts a playful tack in front of Katya, leaning on "sovershenno" ("quite, completely") before closing the thought with "sluchayno" ("by any chance").
+- 'So you drove into my car?' Eleonora queries briskly in their exchange, building the phrase around "yest" ("there is") and "vyekhal" ("drove into") for a crisp, natural delivery.
+- 'Thank goodness, I mean what the heck?' Eleonora tests boldly in their exchange, building the phrase around "slava" ("glory") and "bogu" ("to God") for a crisp, natural delivery.
+- 'Alright, you two sort it out here yourselves.' Barinov shows a firm stance in their talk, weaving "tut" ("here") together with "razbiraytes" ("to understand well") just the way native speakers do.
+- 'Thanks, Dad, we will get going then.' Katya chooses an emphatic attitude in front of Eleonora, linking "spasibo" ("thank you"), "papa" ("Dad"), and "togda" ("back then") in one brisk exchange.

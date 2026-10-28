@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gulya, I cannot talk right now.' Explaining that he cannot talk right now lays the cards on the table for Barinov.
-- 'Wait, this is very important right now.' Gulya explains that this is very important right now, keeping her voice calm and direct.
-- 'I tried to tell you today.' Realizing that she tried to tell Barinov today changes how Gulya handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I am leaving for Bishkek forever.' Being leaving for Bishkek forever is how Gulya lays out the situation for Barinov.
-- 'Farewell, Lyova, do not look for me.' Even though farewell Lyova do not look, Gulya keeps a steady face in front of Barinov.
-- 'Wait, what do you mean you are leaving?' Here wondering what Barinov means Barinov is leaving shows Lyova looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Chef, forgive me for the dish.' With the chaos and truth in play, Lyova keeps this short reply brisk and direct.
-- 'Lyova, where are you running off to now?' By asking where Gulya running off to now is, Barinov presses Gulya for a straight answer.
-- 'Look ahead, open your eyes wide!' Over the dish and the chaos, Barinov lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'There is no point in continuing the duel now.' Saying that there is no point in continuing the duel now is how Barinov sets the tone with Gulya.
-- 'Gulya, tell me, were you joking just now?' Lyova asks whether tell him were Barinov joking just now, refusing to let the point slide.
-- 'If you were joking, it is not funny.' Mentioning that if Barinov was joking it is not funny moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Gulya, I cannot talk right now.' Lyova presents a frank mood straight away, putting "mogu" ("can") alongside "govorit" ("to talk") in a tight, everyday turn of phrase.
+- 'Wait, this is very important right now.' Gulya holds a thoughtful style in their talk, anchoring the Russian line on "podozhdi" ("wait") and "seychas" ("now") without extra filler.
+- 'I tried to tell you today.' Gulya shows a frank rhythm right away, pairing "pytalas" ("tried") with "segodnya" ("today") to get the point across in plain spoken Russian.
+- 'I am leaving for Bishkek forever.' Gulya conveys a sharp tempo right away, building the phrase around "uyezzhayu" ("am leaving") and "navsegda" ("forever") for a crisp, natural delivery.
+- 'Farewell, Lyova, do not look for me.' Gulya displays a pointed bearing without hesitation, pairing "ishchi" ("look for") with "proshchay" ("farewell") to get the point across in plain spoken Russian.
+- 'Wait, what do you mean you are leaving?' Lyova queries bluntly in front of Gulya, building the phrase around "podozhdi" ("wait") and "kak" ("how") for a crisp, natural delivery.
+- 'Chef, forgive me for the dish.' Lyova displays a brisk footing at once, pairing "prostite" ("excuse me") with "blyudo" ("dish") to get the point across in plain spoken Russian.
+- 'Lyova, where are you running off to now?' Barinov presses openly in front of Lyova, anchoring the Russian line on "kuda" ("where to") and "seychas" ("now") without extra filler.
+- 'Look ahead, open your eyes wide!' Barinov establishes an easygoing line in their talk, pairing "smotri" ("look") with "vperyod" ("ahead of") to get the point across in plain spoken Russian.
+- 'There is no point in continuing the duel now.' Barinov adopts a natural note across the room, weaving "prodolzhat" ("to continue") together with "poyedinok" ("duel, match") just the way native speakers do.
+- 'Gulya, tell me, were you joking just now?' Lyova questions lightly at this point, pairing "skazhi" ("say") with "seychas" ("now") to get the point across in plain spoken Russian.
+- 'If you were joking, it is not funny.' Lyova chooses a firm stance as they talk, anchoring the Russian line on "poshutila" ("was joking") and "smeshno" ("ridiculous") without extra filler.

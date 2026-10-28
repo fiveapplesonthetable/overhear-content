@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how are you feeling right now?' Asking how Nastya feeling right now is is how Kostya puts Nastya on the spot.
-- 'Thank you, today I feel much better already.' Nastya mentions that today she feels much better already so Kostya sees what is at stake.
-- 'I lay down quietly at home for a bit.' Claiming that she lay down quietly at home for a bit sounds confident, even if Kostya has doubts.
-- 'It is a good thing I asked for today off from work.' Explaining that it is a good thing she asked for today off from work lays the cards on the table for Kostya.
-- 'Hello, hi, Katya, how are you doing?' Wondering how Nastya doing is is how Kostya puts Nastya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yes, we are having a housewarming party tonight.' Claiming that they are having a housewarming party tonight sounds confident, even if Nastya has doubts. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Nastya, I just invited Katya over.' Around the secret and truth, Kostya sets a calm, everyday tone with Nastya.
-- 'Did you invite her for our housewarming?' Checking whether Kostya invites her for their housewarming cuts straight through the tension between Nastya and Kostya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What kind of housewarming are we having today?' Questioning whether what kind of housewarming are they having today is how Nastya tests Kostya's story. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'We should have set the table first!' Nastya declares that they should have set the table first as the tension in the room peaks.
-- 'Everything will be just fine, dear Nastya.' Once everything will be just fine dear Nastya, Kostya can finally tell Nastya what he means.
-- 'The thing is that I invited Katya too.' Admitting that the thing is that she invited Katya shows Nastya being honest for a change.
+- 'Well, how are you feeling right now?' Kostya prompts firmly without hesitation, linking "kak" ("how"), "seychas" ("now"), and "chuvstvuyesh" ("feel") in one brisk exchange.
+- 'Thank you, today I feel much better already.' Nastya maintains a resolute attitude as they talk, building the phrase around "spasibo" ("thank you") and "segodnya" ("today") for a crisp, natural delivery.
+- 'I lay down quietly at home for a bit.' Nastya chooses a grounded note across the room, combining "doma" ("at home") and "spokoyno" ("calmly") so the key meaning lands right away.
+- 'It is a good thing I asked for today off from work.' Nastya maintains an honest manner in the scene, combining "khorosho" ("good, fine") and "segodnya" ("today") so the key meaning lands right away.
+- 'Hello, hi, Katya, how are you doing?' Kostya queries warmly beside Nastya, joining "kak" ("how") to "dela" ("things, affairs") so every word pulls its weight.
+- 'Yes, we are having a housewarming party tonight.' Kostya displays a lively mood during the exchange, leaning on "u nas" ("by us, at our place") and "segodnya" ("today") the way natural Russian does.
+- 'Nastya, I just invited Katya over.' Kostya maintains an earnest tone right away, building the phrase around "tolko" ("only") and "pozval" ("invited") for a crisp, natural delivery.
+- 'Did you invite her for our housewarming?' Nastya wonders bluntly toward Kostya here, building the phrase around "pozdravil" ("congratulated") and "novoselyem" ("housewarming") for a crisp, natural delivery.
+- 'What kind of housewarming are we having today?' Nastya presses quietly without holding back, leaning on "u nas" ("by us, at our place") and "yeshchyo" ("more, still") the way natural Russian does.
+- 'We should have set the table first!' Nastya shows a frank stance at this moment, joining "nado" ("it is necessary") to "bylo" ("was") so every word pulls its weight.
+- 'Everything will be just fine, dear Nastya.' Kostya displays a candid posture in their talk, building the phrase around "normalno" ("fine, OK") and "budet" ("will be") for a crisp, natural delivery.
+- 'The thing is that I invited Katya too.' Nastya offers a grounded stance in the scene, putting "delo" ("matter") alongside "tozhe" ("too") in a tight, everyday turn of phrase.

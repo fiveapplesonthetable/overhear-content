@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dimochka, well do not get so upset.' Eleonora reminds Nagiyev that someone well do not get so upset before the moment passes.
-- 'I have nothing but nerves and stress right now.' Even though he has nothing but nerves and stress right now, Nagiyev keeps a steady face in front of Eleonora. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I cannot sign a new contract.' Pointing out that he cannot sign a new contract gives Eleonora a sobering reality check.
-- 'Well, you still have your restaurant.' Eleonora mentions that Nagiyev still have Nagiyev's restaurant so Nagiyev sees what is at stake.
-- 'Right now it is no longer a restaurant, it is a furnace.' Claiming that right now it is no longer a restaurant it is a furnace sounds confident, even if Eleonora has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Then you need to change something there.' Pointing out that Nagiyev needs to change something there gives Nagiyev a sobering reality check. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'I have already changed everything there.' Mentioning that he has already changed everything there moves the talk in a new direction.
-- 'After all, you lured away my best head chef.' Around the work and money, Nagiyev sets a calm, everyday tone with Eleonora. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Barinov, you mean? I do not need him even for free.' Asking whether she does not need him even for free puts Nagiyev right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Katya simply asked, and I gave him a job.' Even though Katya simply asked and she gave him a job, Eleonora keeps a steady face in front of Nagiyev.
-- 'If you do not need him, maybe you will give him back?' Questioning whether if Eleonora does not need him maybe Eleonora will give him back is how Nagiyev tests Eleonora's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Take him, of course, if he agrees himself.' Adding that Nagiyev should take him of course if he agrees himself fills in the missing piece for Nagiyev.
+- 'Dimochka, well do not get so upset.' Eleonora offers a candid tempo in their talk, combining "rasstraivaysya" ("be upset, worry") and "dimochka" ("Dimochka") so the key meaning lands right away.
+- 'I have nothing but nerves and stress right now.' Nagiyev adopts a firm manner straight away, putting "seychas" ("now") alongside "sploshnyye" ("continuous") in a tight, everyday turn of phrase.
+- 'I cannot sign a new contract.' Nagiyev offers a candid manner on the spot, pairing "novyy" ("new") with "kontrakt" ("contract") to get the point across in plain spoken Russian.
+- 'Well, you still have your restaurant.' Eleonora keeps a thoughtful direction straight away, anchoring the Russian line on "yest" ("there is") and "restoran" ("restaurant") without extra filler.
+- 'Right now it is no longer a restaurant, it is a furnace.' Nagiyev chooses an unhurried footing with Eleonora, anchoring the Russian line on "seychas" ("now") and "uzhe" ("already, now") without extra filler.
+- 'Then you need to change something there.' Eleonora maintains a warm position without hesitation, leaning on "znachit" ("then, so") before closing the thought with "nuzhno" ("necessary").
+- 'I have already changed everything there.' Nagiyev picks a grounded position in the conversation, linking "uzhe" ("already, now"), "tam" ("there"), and "menyal" ("changed") in one brisk exchange.
+- 'After all, you lured away my best head chef.' Nagiyev sets a wry bearing during the exchange, pairing "uvela" ("led away, stole") with "luchshego" ("best") to get the point across in plain spoken Russian.
+- 'Barinov, you mean? I do not need him even for free.' Eleonora tests warmly in the room, leaning on "darom" ("gift, talent") before closing the thought with "nuzhen" ("is needed").
+- 'Katya simply asked, and I gave him a job.' Eleonora holds a clear note across the room, leaning on "prosto" ("just") before closing the thought with "poprosila" ("asked").
+- 'If you do not need him, maybe you will give him back?' Nagiyev presses pointedly at this point, building the phrase around "nuzhen" ("is needed") and "mozhet" ("can") for a crisp, natural delivery.
+- 'Take him, of course, if he agrees himself.' Eleonora displays an easygoing view during the exchange, linking "zabiray" ("take, collect"), "konechno" ("of course"), and "soglasitsya" ("to agree") in one brisk exchange.

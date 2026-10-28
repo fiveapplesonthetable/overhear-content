@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Bye, guys, I am flying to Sochi to go skiing!' Insisting that bye guys he is flying to Sochi to go skiing shows Max is not backing down.
-- 'Vitya, how is my festive dinner coming along?' Wondering how his festive dinner coming along is cuts straight through the tension between Mikhail and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Almost ready, but one problem has come up for us.' Barinov tells Max that almost ready but one problem has come up for them without dressing it up. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Your white truffle will not be enough for two dishes.' Since Max's white truffle will not be enough for two dishes, Barinov does not waste words on excuses.
-- 'Unfortunately, it turned out to be quite hollow inside.' Mentioning that it turned out to be quite hollow inside moves the talk in a new direction.
-- 'Let me quickly cook something else for you?' Questioning whether let him quickly cook something else for Max is how Barinov tests Max's story. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Then we will do this—we will stretch out the intrigue nicely!' Because they will do this they will stretch out the intrigue nicely, Mikhail does not bother softening the blow for Barinov.
-- 'Let Eleonora eat the truffle dish alone first.' Letting Eleonora eat the truffle dish alone first is how Mikhail lays out the situation for Barinov.
-- 'And I will make a grand appearance at the table a bit later!' Once he will make a grand appearance at the table a bit later, Mikhail makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Right when they serve your signature dessert.' Between the conversation and the truth, Mikhail gives Barinov a quick, grounded response.
-- 'And are you completely sure that she likes sweets?' Asking whether Max completely sure that she likes sweets is how Barinov puts Max on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Of course I am sure, tonight everything will go perfectly!' Mikhail insists that he is sure tonight everything will go perfectly, leaving Barinov no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Bye, guys, I am flying to Sochi to go skiing!' Max displays a lively rhythm at this moment, putting "poka" ("bye") alongside "rebyata" ("the boys, the lads") in a tight, everyday turn of phrase.
+- 'Vitya, how is my festive dinner coming along?' Mikhail inquires calmly to make the point, putting "kak" ("how") alongside "tam" ("there") in a tight, everyday turn of phrase.
+- 'Almost ready, but one problem has come up for us.' Barinov favors a playful note across the room, building the phrase around "pochti" ("almost") and "gotov" ("ready") for a crisp, natural delivery.
+- 'Your white truffle will not be enough for two dishes.' Barinov sustains an honest posture without hesitation, using "belogo" (from "belyy", "White") alongside "tryufelya" ("truffle") to shape the meaning.
+- 'Unfortunately, it turned out to be quite hollow inside.' Barinov presents an easygoing approach without hesitation, anchoring the Russian line on "vnutri" ("inside") and "sozhaleniyu" ("regret") without extra filler.
+- 'Let me quickly cook something else for you?' Barinov inquires steadily in front of Mikhail, pairing "davay" ("let's") with "bystro" ("quickly") to get the point across in plain spoken Russian.
+- 'Then we will do this—we will stretch out the intrigue nicely!' Mikhail shares an emphatic tempo for Barinov, pairing "togda" ("back then") with "sdelayem" ("we'll do") to get the point across in plain spoken Russian.
+- 'Let Eleonora eat the truffle dish alone first.' Mikhail conveys a frank course in this beat, pairing "snachala" ("first, at first") with "syest" ("to eat") to get the point across in plain spoken Russian.
+- 'And I will make a grand appearance at the table a bit later!' Mikhail sustains a measured tempo in their talk, weaving "effektno" ("understand") together with "poyavlyus" ("to appear, to show up") just the way native speakers do.
+- 'Right when they serve your signature dessert.' Mikhail projects an honest line in the room, leaning on "kak" ("how") before closing the thought with "raz" ("time, once").
+- 'And are you completely sure that she likes sweets?' Barinov tests naturally toward Max here, building the phrase around "tochno" ("definitely") and "uveren" ("sure, confident") for a crisp, natural delivery.
+- 'Of course I am sure, tonight everything will go perfectly!' Mikhail displays a firm attitude on the spot, linking "konechno" ("of course"), "uveren" ("sure, confident"), and "segodnya" ("today") in one brisk exchange.

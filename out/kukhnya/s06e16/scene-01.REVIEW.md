@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, I am listening attentively, Eleonora Andreyevna.' Adding that he is listening attentively Eleonora Andreyevna fills in the missing piece for Eleonora.
-- 'Misha, soon we will have a fashion show.' Because soon they will have a fashion show, Eleonora treats the matter as settled. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'We need to prepare very well for it.' Here needing to prepare very well for it sets up the next turn in their exchange. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Will the show be right here in our hotel?' By checking whether the show be right here in their hotel, Mikhail presses Eleonora for a straight answer.
-- 'We need to figure out where to set up the big runway.' Realizing that they need to figure out where to set up the big runway changes how Eleonora handles the situation. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Excuse me, and who is this person anyway?' Wondering who this person anyway is is how Mikhail puts Eleonora on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Right now he is the most famous fashion designer.' Eleonora explains that right now he is the most famous fashion designer, keeping her voice calm and direct.
-- 'Good, I am booking rooms for the models.' Realizing that good he is booking rooms for the models changes how Mikhail handles the situation.
-- 'And a separate room for his translator.' Around the hotel and plan, Mikhail sets a calm, everyday tone with Eleonora.
-- 'Excellent, I will arrive a day before the show.' Even though excellent she will arrive a day before the show, Eleonora keeps a steady face in front of Mikhail.
-- 'Kostya, why were you staring at her like that?' Here asking why Eleonora staring at her like was shows Nastya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No, darling, I was not looking anywhere.' Saying that darling he was not looking anywhere is how Mikhail sets the tone with Eleonora.
+- 'Yes, I am listening attentively, Eleonora Andreyevna.' Mikhail displays a thoughtful direction across the room, combining "vnimatelno" ("carefully, attentively") and "slushayu" ("I'm listening") so the key meaning lands right away.
+- 'Misha, soon we will have a fashion show.' Eleonora projects a resolute approach in the conversation, leaning on "skoro" ("soon") before closing the thought with "modnyy" ("trendy").
+- 'We need to prepare very well for it.' Eleonora favors a measured stance in the scene, weaving "nuzhno" ("necessary") together with "ochen" ("very much") just the way native speakers do.
+- 'Will the show be right here in our hotel?' Mikhail questions candidly at this point, building the phrase around "pokaz" ("show, fashion show") and "budet" ("will be") for a crisp, natural delivery.
+- 'We need to figure out where to set up the big runway.' Eleonora strikes a frank tone in the conversation, combining "nado" ("it is necessary") and "pridumat" ("to think up") so the key meaning lands right away.
+- 'Excuse me, and who is this person anyway?' Mikhail presses candidly for Nastya's benefit, combining "izvinite" ("sorry, excuse me") and "voobshche" ("at all") so the key meaning lands right away.
+- 'Right now he is the most famous fashion designer.' Eleonora chooses a frank tone on the spot, placing "seychas" ("now") straight beside "samyy" ("the most") with no word for "to be" needed.
+- 'Good, I am booking rooms for the models.' Mikhail chooses an honest manner in front of Nastya, putting "khorosho" ("good, fine") alongside "broniruyu" ("book, reserve") in a tight, everyday turn of phrase.
+- 'And a separate room for his translator.' Mikhail takes an emphatic posture at this moment, combining "otdelnyy" ("separate") and "nomer" ("number") so the key meaning lands right away.
+- 'Excellent, I will arrive a day before the show.' Eleonora presents a natural style in the conversation, joining "otlichno" ("perfect, great") to "priyedu" ("will come, visit") so every word pulls its weight.
+- 'Kostya, why were you staring at her like that?' Nastya checks dryly to make the point, weaving "pochemu" ("why") together with "smotrel" ("watched") just the way native speakers do.
+- 'No, darling, I was not looking anywhere.' Mikhail picks a thoughtful course in their talk, putting "milaya" ("darling") alongside "nikuda" ("nowhere, anywhere") in a tight, everyday turn of phrase.

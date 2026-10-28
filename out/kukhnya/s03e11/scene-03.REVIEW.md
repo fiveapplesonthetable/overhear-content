@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor, how glad I am to see you!' Because how glad he is to see Katya, Barinov does not bother softening the blow for Katya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'This is my old friend from Paris.' Barinov explains that this is his old friend from Paris, keeping his voice calm and direct.
-- 'We used to work together for a long time.' Realizing that they used to work together for a long time changes how Barinov handles the situation.
-- 'When did you arrive? Let us go, you will tell me everything.' Here wondering when Katya arrives shows Barinov looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Max, where did he come from here?' By asking where he come from here, Katya presses Barinov for a straight answer.
-- 'Nagiyev brought him, he is an acquaintance of the chef.' Admitting that Nagiyev brought him he is an acquaintance shows Max being honest for a change. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Do you also know him well?' Asking whether Barinov also know him well is how Max puts Barinov on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yes, he taught us in Paris.' Once he taught them in Paris, Katya can finally tell Barinov what she means.
-- 'And they kicked me out of there back then.' Around the moment and friend, Katya sets a calm, everyday tone with Barinov.
-- 'I was recently offered work in Russia.' Saying that he was recently offered work in Russia is how Barinov sets the tone with Katya.
-- 'Everyone wants to work in Moscow now.' Since everyone wants to work in Moscow now, Barinov does not waste words on excuses.
-- 'Katya also recently returned here.' Between the moment and the friend, Barinov gives Katya a quick, grounded response.
-- 'Now she works for me here.' Barinov reminds Katya that she works for him here before the moment passes. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Viktor, how glad I am to see you!' Barinov sets a clear stance at this moment, combining "kak" ("how") and "rad" ("glad") so the key meaning lands right away.
+- 'This is my old friend from Paris.' Barinov picks a serious course in their talk, linking "staryy" ("old") directly with "drug" ("friend"), since Russian drops "is" and "are" in the present.
+- 'We used to work together for a long time.' Barinov maintains a calm bearing toward Katya, linking "ranshe" ("earlier, previously"), "dolgo" ("for a long time"), and "rabotali" ("worked") in one brisk exchange.
+- 'When did you arrive? Let us go, you will tell me everything.' Barinov prompts candidly beside Max, pairing "kogda" ("when") with "priyekhal" ("came") to get the point across in plain spoken Russian.
+- 'Max, where did he come from here?' Katya quizzes quietly in this moment, building the phrase around "otkuda" ("where from") and "zdes" ("here") for a crisp, natural delivery.
+- 'Nagiyev brought him, he is an acquaintance of the chef.' Max displays a brisk tempo as the scene unfolds, leaning on "privyol" ("to bring, to lead") before closing the thought with "znakomyy" ("familiar").
+- 'Do you also know him well?' Max inquires wryly right away, building the phrase around "tozhe" ("too") and "khorosho" ("good, fine") for a crisp, natural delivery.
+- 'Yes, he taught us in Paris.' Katya brings a calm posture right away, leaning on "uchil" ("to learn, to teach") before closing the thought with "da" ("yes").
+- 'And they kicked me out of there back then.' Katya chooses a candid view at once, putting "togda" ("back then") alongside "vygnali" ("kicked out") in a tight, everyday turn of phrase.
+- 'I was recently offered work in Russia.' Barinov chooses a natural tone without hesitation, linking "nedavno" ("returned"), "predlozhili" ("offered"), and "porabotat" ("to do some work") in one brisk exchange.
+- 'Everyone wants to work in Moscow now.' Barinov shares an easygoing view in their talk, anchoring the Russian line on "rabotat" ("to work") and "seychas" ("now") without extra filler.
+- 'Katya also recently returned here.' Barinov maintains a measured bearing with Max, putting "tozhe" ("too") alongside "nedavno" ("returned") in a tight, everyday turn of phrase.
+- 'Now she works for me here.' Barinov presents a grounded footing across the room, joining "teper" ("now") to "rabotayet" ("works") so every word pulls its weight.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, Mom, I am not at home.' Explaining that Mom he is not at home lays the cards on the table for Denis.
-- 'They called me in to work, an urgent banquet.' Lyova explains that they called him in to work an urgent banquet, keeping his voice calm and direct.
-- 'Alright, bye, Mom.' With the truth and banquet in play, Lyova keeps this short reply brisk and direct.
-- 'Well, are you ready to skate?' Checking whether Denis ready to skate cuts straight through the tension between Lyova and Denis. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'This turns out to be harder than I thought.' Even though this turns out to be harder than he thought, Lyova keeps a steady face in front of Denis. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'How is life, Denis?' Here asking how life is shows Senya looking for the real truth.
-- 'Life did not work out.' Saying that life did not work out is how Denis sets the tone with Lyova.
-- 'And where are all the guests?' Asking where all the guests are cuts straight through the tension between Denis and Lyova. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Is there nobody to work because of a hangover?' Checking whether there nobody to work because of a hangover is how Denis puts Lyova on the spot.
-- 'No, they closed the restaurant, they are going to film the chef.' Senya tells Denis that they closed the restaurant they are going to film without dressing it up.
-- 'We selected the most beautiful vegetables here.' With the restaurant and phone in play, Senya keeps this short reply brisk and direct.
-- 'Alright, got it.' Mentioning that Alright got it moves the talk in a new direction.
+- 'Yes, Mom, I am not at home.' Lyova maintains a pointed footing without hesitation, putting "mama" ("mum, mother") alongside "doma" ("at home") in a tight, everyday turn of phrase.
+- 'They called me in to work, an urgent banquet.' Lyova presents a frank course right away, putting "vyzvali" ("called, summoned") alongside "rabotu" ("job") in a tight, everyday turn of phrase.
+- 'Alright, bye, Mom.' Lyova establishes a candid note at once, joining "poka" ("bye") to "mama" ("mum, mother") so every word pulls its weight.
+- 'Well, are you ready to skate?' Lyova inquires warmly in the room, joining "gotova" ("ready") to "katatsya" ("ride, ski") so every word pulls its weight.
+- 'This turns out to be harder than I thought.' Lyova projects a firm tone toward Denis, pairing "okazyvayetsya" ("to turn out to be") with "slozhneye" ("job") so the "-sya" ending carries the action.
+- 'How is life, Denis?' Senya quizzes briskly without holding back, joining "kak" ("how") to "zhizn" ("life") so every word pulls its weight.
+- 'Life did not work out.' Denis strikes a lively position in their talk, pairing "udalas" ("to succeed") with "zhizn" ("life") to get the point across in plain spoken Russian.
+- 'And where are all the guests?' Denis queries honestly for Senya's benefit, anchoring the Russian line on "gde" ("where") and "gosti" ("visitors, guests") without extra filler.
+- 'Is there nobody to work because of a hangover?' Denis questions briskly without holding back, putting "pokhmelya" ("hangover") alongside "rabotat" ("to work") in a tight, everyday turn of phrase.
+- 'No, they closed the restaurant, they are going to film the chef.' Senya projects a frank position across the room, putting "restoran" ("restaurant") alongside "zakryli" ("to close, to shut") in a tight, everyday turn of phrase.
+- 'We selected the most beautiful vegetables here.' Senya holds an honest line in the room, joining "ovoshchi" ("vegetables") to "otobrali" ("to take away") so every word pulls its weight.
+- 'Alright, got it.' Denis presents a direct angle without hesitation, combining "khorosho" ("good, fine") and "ponyal" ("understood") so the key meaning lands right away.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'One second, this is very important.' Since one second this is very important, Vika does not waste words on excuses.
-- 'Why do you keep hanging up on my calls?' By asking why Vika keeps hanging up on his calls, Nagiyev presses Vika for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Because I do not want to talk.' Vika reminds Nagiyev that because she does not want to talk before the moment passes.
-- 'That is why I am calling you back.' Because that is why he is calling Vika back, Nagiyev treats the matter as settled.
-- 'I have also decided not to depend on men anymore.' Having also decided not to depend on men anymore is how Vika lays out the situation for Nagiyev.
-- 'It is humiliating for a woman.' Nagiyev mentions that it is humiliating for a woman so Vika sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'What was it you wanted to say?' Asking what it Nagiyev wanted to say was cuts straight through the tension between Vika and Nagiyev.
-- 'Let us talk later, I am a bit busy right now.' By proposing that they talk later he is a bit busy right now, Nagiyev keeps his side of the story grounded. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Forgive me, let us get started.' Adding that they should get started fills in the missing piece for Nagiyev. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'We would like to make a few adjustments to the menu.' Realizing that they would like to make a few adjustments to the menu changes how Nagiyev handles the situation.
-- 'Alright then, go ahead.' Between the banquet and the kitchen, Vika gives Nagiyev a quick, grounded response.
-- 'Yes, all of that is completely fine.' Even though all of that is completely fine, Nagiyev keeps a steady face in front of Vika. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'All of that is fine. Ah.' Admitting that all of that is fine shows Vika being honest for a change.
+- 'One second, this is very important.' Vika shows a frank footing straight away, using "sekundochku" (from "sekundochka", "one little second") alongside "ochen" ("very much") to shape the meaning.
+- 'Why do you keep hanging up on my calls?' Nagiyev tests briskly to Vika here, leaning on "pochemu" ("why") before closing the thought with "zvonki" ("call, bell").
+- 'Because I do not want to talk.' Vika favors an earnest posture for Nagiyev, using "khochu" (from "khotet", "want") alongside "ya" ("I") to shape the meaning.
+- 'That is why I am calling you back.' Nagiyev takes a playful angle at once, combining "poetomu" ("that's why") and "perezvanivayu" ("to call back") so the key meaning lands right away.
+- 'I have also decided not to depend on men anymore.' Vika takes an earnest approach in the scene, putting "tozhe" ("too") alongside "reshila" ("decided") in a tight, everyday turn of phrase.
+- 'It is humiliating for a woman.' Nagiyev sets a measured angle during the exchange, joining "unizitelno" ("humiliating") to "zhenshchiny" ("woman") so every word pulls its weight.
+- 'What was it you wanted to say?' Vika probes promptly to Nagiyev here, building the phrase around "khotel" ("wanted") and "skazat" ("tell") for a crisp, natural delivery.
+- 'Let us talk later, I am a bit busy right now.' Nagiyev chooses a brisk tone at once, joining "davay" ("let's") to "pogovorim" ("we'll have a talk") so every word pulls its weight.
+- 'Forgive me, let us get started.' Vika strikes a firm tempo across the room, building the phrase around "izvinite" ("sorry, excuse me") and "davayte" ("let's") for a crisp, natural delivery.
+- 'We would like to make a few adjustments to the menu.' Nagiyev adopts a serious rhythm for Vika, leaning on "khoteli" ("wanted") before closing the thought with "nemnozhko" ("a little").
+- 'Alright then, go ahead.' Vika shares a natural tone without hesitation, anchoring the Russian line on "znachit" ("then, so") and "tak" ("so") without extra filler.
+- 'Yes, all of that is completely fine.' Nagiyev favors a lively tone at once, building the phrase around "normalno" ("fine, OK") and "da" ("yes") for a crisp, natural delivery.
+- 'All of that is fine. Ah.' Vika maintains a clear view in the scene, joining "normalno" ("fine, OK") to "eto" ("this") so every word pulls its weight.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you. Sorry that I bothered you.' With the work and visit in play, Vika keeps this short reply brisk and direct.
-- 'My sister is unreachable, and it is scary to go to the store alone.' Once her sister is unreachable and it is scary to go to the store alone, Vika can finally tell Max what she means.
-- 'Call at any time! Alright, I will go.' Declaring that Tanya should call at any time brings Max's temper right to the surface.
-- 'I have work in three hours.' Having work in three hours is how Max lays out the situation for Tanya.
-- 'Well, wait. Will you make it home?' By asking whether Max makes it home, Vika presses Max for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Stay! Here is a mattress.' Insisting that here is a mattress shows Vika is not backing down.
-- 'Max, why are you here?' Asking why Max here is is how Tanya puts Max on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Well I brought canned stewed meat.' Because he brought canned stewed meat, Max treats the matter as settled.
-- 'Did you forget? Your divorce is the day after tomorrow!' By checking whether Max forgets, Tanya presses Max for a straight answer.
-- 'You know what, you had better spend the night at home.' Vika mentions that what Max had better spend the night at home so Max sees what is at stake. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Alright, good night.' Around the point and visit, Max sets a calm, everyday tone with Tanya.
-- 'Thank you for the stewed meat.' With the truth and meat in play, Vika keeps this short reply brisk and direct.
+- 'Thank you. Sorry that I bothered you.' Vika maintains a lively stance across the room, weaving "spasibo" ("thank you") together with "izvini" ("sorry, excuse me") just the way native speakers do.
+- 'My sister is unreachable, and it is scary to go to the store alone.' Vika shares an easygoing manner at once, weaving "sestra" ("sister") together with "nedostupna" ("unreachable") just the way native speakers do.
+- 'Call at any time! Alright, I will go.' Max shares a measured position without hesitation, building the phrase around "zvoni" ("call") and "lyuboye" ("any") for a crisp, natural delivery.
+- 'I have work in three hours.' Max adopts a sharp bearing during the exchange, leaning on "chasa" ("hours") before closing the thought with "rabotu" ("job").
+- 'Well, wait. Will you make it home?' Vika asks dryly in the room, leaning on "pogodi" ("wait") before closing the thought with "domoy" ("home").
+- 'Stay! Here is a mattress.' Vika keeps a wry view in their talk, weaving "ostavaysya" ("stay") together with "matras" ("mattress") just the way native speakers do.
+- 'Max, why are you here?' Tanya queries steadily in the room, joining "zdes" ("here") to "maks" ("Max") so every word pulls its weight.
+- 'Well I brought canned stewed meat.' Max establishes a pointed manner in their talk, pairing "tushyonku" ("canned stewed meat") with "privyoz" ("brought") to get the point across in plain spoken Russian.
+- 'Did you forget? Your divorce is the day after tomorrow!' Tanya probes quietly right away, linking "zabyla" ("forgot"), "poslezavtra" ("the day after tomorrow"), and "razvod" ("divorce, separation") in one brisk exchange.
+- 'You know what, you had better spend the night at home.' Vika projects a direct bearing in the room, weaving "znayesh" ("know") together with "davay" ("let's") just the way native speakers do.
+- 'Alright, good night.' Max offers a steady view right away, joining "spokoynoy" ("good") to "nochi" ("night") so every word pulls its weight.
+- 'Thank you for the stewed meat.' Vika presents a steady bearing for Tanya, pairing "spasibo" ("thank you") with "tushyonku" ("canned stewed meat") to get the point across in plain spoken Russian.

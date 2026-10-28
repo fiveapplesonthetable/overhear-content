@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Folks, for lunch today is everyone's favorite navy-style pasta!' Insisting that folks for lunch today is everyone favorite navy style pasta shows Barinov is not backing down.
-- 'Good afternoon, tell me, do you like everything at our place?' Wondering if tell him do Barinov likes everything at their place shows Mikhail caught off guard. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Yes, thank you very much, everything here is very tasty.' Because very much everything here is very tasty, the guest treats the matter as settled.
-- 'I would like to apologize in advance for our chef.' Mentioning that he would like to apologize in advance moves the talk in a new direction.
-- 'He is a good chef, but completely obsessed with football.' Adding that he is a good but completely obsessed with football fills in the missing piece for Barinov.
-- 'And he is convinced that you know the outcomes of games.' Being convinced that Barinov knows the outcomes of games is how Mikhail lays out the situation for Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Just tell him any match results at random.' Over the work and the match, Mikhail answers Barinov without a second thought.
-- 'He will lose a couple thousand and immediately calm down.' Mikhail explains that he will lose a couple thousand and immediately calm down, keeping his voice calm and direct.
-- 'Otherwise he definitely will not leave you alone today.' Realizing that otherwise he definitely will not leave Barinov alone today changes how Mikhail handles the situation. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Thank you very much for the advice, I will keep that in mind.' Noting that very much for the advice he will keep that in mind keeps the guest's side of the story simple and clear.
-- 'For you, hot French bouillabaisse soup from the head chef!' With the work and match at stake, Barinov reacts without holding back. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Eat to your health and enjoy your meal!' Telling the guest to eat to the guest's health and enjoy the guest's meal is Barinov's blunt reaction in front of the guest. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Folks, for lunch today is everyone's favorite navy-style pasta!' Barinov displays an easygoing approach in the scene, weaving "narod" ("the people") together with "obed" ("lunch") just the way native speakers do.
+- 'Good afternoon, tell me, do you like everything at our place?' Mikhail asks wryly beside the guest, weaving "dobryy" ("good") together with "den" ("day") just the way native speakers do.
+- 'Yes, thank you very much, everything here is very tasty.' The guest keeps an unhurried approach in this beat, placing "bolshoye" ("big, very much") straight beside "spasibo" ("thank you") with no word for "to be" needed.
+- 'I would like to apologize in advance for our chef.' Mikhail brings a steady tack in their talk, anchoring the Russian line on "khotel" ("wanted") and "zaraneye" ("in advance") without extra filler.
+- 'He is a good chef, but completely obsessed with football.' Mikhail displays a pointed rhythm beside Barinov, pairing "khoroshiy" ("good") with "povar" ("chef, cook") to get the point across in plain spoken Russian.
+- 'And he is convinced that you know the outcomes of games.' Mikhail picks a brisk approach for the guest, anchoring the Russian line on "uveren" ("sure, confident") and "znayete" ("know") without extra filler.
+- 'Just tell him any match results at random.' Mikhail keeps a direct style straight away, weaving "prosto" ("just") together with "lyubyye" ("any") just the way native speakers do.
+- 'He will lose a couple thousand and immediately calm down.' Mikhail strikes a natural line in the room, combining "paru" ("couple") and "tysyach" ("thousand") so the key meaning lands right away.
+- 'Otherwise he definitely will not leave you alone today.' Mikhail conveys a calm direction in the scene, leaning on "inache" ("otherwise") before closing the thought with "segodnya" ("today").
+- 'Thank you very much for the advice, I will keep that in mind.' The guest favors a wry mood beside Mikhail, building the phrase around "bolshoye" ("big, very much") and "spasibo" ("thank you") for a crisp, natural delivery.
+- 'For you, hot French bouillabaisse soup from the head chef!' Barinov picks a resolute course across the room, combining "goryachiy" ("hot") and "frantsuzskiy" ("French") so the key meaning lands right away.
+- 'Eat to your health and enjoy your meal!' Barinov strikes a direct bearing in front of Mikhail, using "kushayte" (from "kushat", "eat") alongside "zdorovye" ("health") to shape the meaning.

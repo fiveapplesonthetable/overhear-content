@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She herself asked her brother to play along with her this morning.' Senya mentions that she herself asked her brother to play along with her this morning so Denis sees what is at stake.
-- 'It looks like she really did fall seriously in love with you.' Claiming that it looks like she really did fall seriously in love with Denis sounds confident, even if Denis has doubts.
-- 'Since she is staging such foolishness for your sake.' Pointing out that since she is staging such foolishness for Denis's sake gives Denis a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Nikita, tell me quickly, where is your father right now?' Asking whether tell him quickly where is Denis's father right now puts Denis right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It seems to me he went to his restaurant recently.' Because it seems to him he went to his restaurant recently, Denis treats the matter as settled.
-- 'Denis, hi, does your face not hurt anymore?' Checking whether Denis's face not hurt anymore cuts straight through the tension between Sveta and Denis. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Everything is fine, and is your ex not bothering you?' Denis asks whether everything is fine and is Senya's ex not bothering Senya, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'He sure is bothering me, he calls me constantly.' Admitting that he sure is bothering her he calls her constantly shows Sveta being honest for a change.
-- 'I am afraid to go home, what if he waits in ambush.' Saying that she is afraid to go home what if he waits in ambush is how Sveta sets the tone with Denis.
-- 'Of course he will, after all a brother always worries!' Declaring that he will after all a brother always worries brings Denis's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Alright, I will go, what if another brother shows up.' Adding that Alright he will go what if another brother shows up fills in the missing piece for Senya.
-- 'And thinks that I am hitting on you again!' Saying that thinks that he is hitting on Senya again is how Denis takes charge of the moment. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'She herself asked her brother to play along with her this morning.' Senya chooses a serious footing as they talk, combining "poprosila" ("asked") and "brata" ("of the brother") so the key meaning lands right away.
+- 'It looks like she really did fall seriously in love with you.' Senya takes a pointed note without hesitation, joining "pokhozhe" ("like, similar") to "pravda" ("honestly") so every word pulls its weight.
+- 'Since she is staging such foolishness for your sake.' Senya projects an honest course during the exchange, anchoring the Russian line on "raz" ("time, once") and "gluposti" ("nonsense") without extra filler.
+- 'Nikita, tell me quickly, where is your father right now?' Senya probes frankly in front of Sveta, pairing "skazhi" ("say") with "bystro" ("quickly") to get the point across in plain spoken Russian.
+- 'It seems to me he went to his restaurant recently.' Denis adopts a lively footing as the scene unfolds, leaning on "kazhetsya" ("it seems, I think") before closing the thought with "restoran" ("restaurant").
+- 'Denis, hi, does your face not hurt anymore?' Sveta inquires wryly in front of Senya, pairing "denis" ("Denis") with "litso" ("face") so the "-sya" ending carries the action.
+- 'Everything is fine, and is your ex not bothering you?' Denis probes decisively during the talk, weaving "normalno" ("fine, OK") together with "byvshiy" ("ex") just the way native speakers do.
+- 'He sure is bothering me, he calls me constantly.' Sveta conveys a clear tempo on the spot, linking "yeshchyo" ("more, still"), "kak" ("how"), and "nadoyedayet" ("bothers, annoys") in one brisk exchange.
+- 'I am afraid to go home, what if he waits in ambush.' Sveta shows an earnest bearing as they talk, joining "domoy" ("home") to "idti" ("to go") so every word pulls its weight.
+- 'Of course he will, after all a brother always worries!' Denis presents a direct attitude at this moment, pairing "volnuyetsya" ("worries") with "konechno" ("of course") so the "-sya" ending carries the action.
+- 'Alright, I will go, what if another brother shows up.' Denis takes a frank note without hesitation, anchoring the Russian line on "poydu" ("go") and "vdrug" ("suddenly, what if") without extra filler.
+- 'And thinks that I am hitting on you again!' Denis takes a grounded tack without hesitation, weaving "podumayet" ("to think") together with "snova" ("again") just the way native speakers do.

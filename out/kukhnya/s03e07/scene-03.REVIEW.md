@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No, that is not a fact at all.' Claiming that that is not a fact at all sounds confident, even if Nagiyev has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'The name Dmitry infuriates me altogether.' Over the anger and the kitchen, Max answers Nagiyev without a second thought.
-- 'Take your bill, please.' Claiming that Nagiyev should take Nagiyev's bill please sounds confident, even if Nagiyev has doubts. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Wait, I have a question for you.' Having a question for Nagiyev is how Max lays out the situation for Nagiyev. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Wait for me one second.' Between the anger and the conversation, Max gives Nagiyev a quick, grounded response.
-- 'What, are you worried that they did not pay you?' Asking what Max worried that they did not pay Max is cuts straight through the tension between Nagiyev and Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Remember, this is my personal restaurant.' Pointing out that Max should remember this is his personal restaurant gives Max a sobering reality check. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'If I want to I pay, and if I want to I do not.' Saying that if he wants to he pays and if he wants to he does not is how Nagiyev sets the tone with Max.
-- 'Well, most often not, of course.' Over the kitchen and the anger, Nagiyev answers Max without a second thought.
-- 'So do not worry, go on, step along.' Adding that do not worry go on step along fills in the missing piece for Max. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Vika will not go anywhere with you.' Saying that Vika will not go anywhere with Nagiyev is how Max sets the tone with Nagiyev.
-- 'Max, please, do not start right now.' Since do not start right now, Vika does not waste words on excuses.
+- 'No, that is not a fact at all.' Max keeps a thoughtful approach toward Nagiyev, leaning on "sovsem" ("at all") before closing the thought with "fakt" ("fact").
+- 'The name Dmitry infuriates me altogether.' Max sustains a firm note in their talk, building the phrase around "voobshche" ("at all") and "imya" ("name") for a crisp, natural delivery.
+- 'Take your bill, please.' Max sustains a warm angle during the exchange, joining "vozmite" ("take") to "schyot" ("counting, account") so every word pulls its weight.
+- 'Wait, I have a question for you.' Max brings a calm direction on the spot, linking "podozhdite" ("wait"), "vopros" ("question, matter"), and "menya" ("me") in one brisk exchange.
+- 'Wait for me one second.' Max keeps an honest tone in the room, using "podozhdite" (from "podozhdat", "wait") alongside "sekundu" ("second") to shape the meaning.
+- 'What, are you worried that they did not pay you?' Nagiyev presses openly as the beat lands, weaving "volnuyeshsya" ("to worry") together with "zaplatili" ("to pay") just the way native speakers do.
+- 'Remember, this is my personal restaurant.' Nagiyev shows a playful tempo in the scene, using "zapomni" (from "zapomnit", "remember") alongside "lichnyy" ("personal") to shape the meaning.
+- 'If I want to I pay, and if I want to I do not.' Nagiyev chooses a direct tone in this beat, anchoring the Russian line on "khochu" ("want") and "plachu" ("pay") without extra filler.
+- 'Well, most often not, of course.' Nagiyev chooses a serious approach as the scene unfolds, pairing "chashche" ("more often") with "konechno" ("of course") to get the point across in plain spoken Russian.
+- 'So do not worry, go on, step along.' Nagiyev favors a firm course for Vika, joining "poetomu" ("that's why") to "volnuysya" ("worry") so every word pulls its weight.
+- 'Vika will not go anywhere with you.' Max brings a resolute view straight away, linking "nikuda" ("nowhere, anywhere"), "poydyot" ("will go"), and "vika" ("Vika") in one brisk exchange.
+- 'Max, please, do not start right now.' Vika strikes a firm tack during the exchange, joining "nachinay" ("start") to "seychas" ("now") so every word pulls its weight.

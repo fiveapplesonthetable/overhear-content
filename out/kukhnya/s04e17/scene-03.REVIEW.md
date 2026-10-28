@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, this is my friend Katya.' The guest mentions that this is his friend Katya so Katya sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'We went to kindergarten together.' Claiming that they went to kindergarten together sounds confident, even if Katya has doubts.
-- 'We always argued since childhood.' Around the conversation and friend, Katya sets a calm, everyday tone with the guest.
-- 'They accepted me into the university back then.' Around the moment and plan, the guest sets a calm, everyday tone with Katya.
-- 'And I went to France.' Realizing that she went to France changes how Katya handles the situation.
-- 'Katya, this is my husband Ernest.' Noting that this is his husband Ernest keeps the guest's side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Hello, it is very nice to meet you.' Even though it is very nice to meet the guest, Katya keeps a steady face in front of the guest.
-- 'Well, and did you get married?' Checking whether Katya gets married cuts straight through the tension between the guest and Katya.
-- 'No, but I will definitely get married soon.' Saying that she will definitely get married soon is how Katya sets the tone with the guest.
-- 'Our wedding is in a month.' Once their wedding is in a month, Katya can finally tell the guest what she means. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Then let's have dinner together tomorrow evening!' Declaring that they should have dinner together tomorrow evening brings the guest's temper right to the surface.
-- 'I do not know, he is very busy.' Adding that she does not know he is very busy fills in the missing piece for the guest.
-- 'Great, what time are we meeting tomorrow?' Wondering if great what time are they meeting tomorrow shows the guest caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Hello, this is my friend Katya.' The guest keeps a calm tempo toward Katya, joining "podruga" ("female friend") to "privet" ("hi") so every word pulls its weight.
+- 'We went to kindergarten together.' The guest sets an easygoing posture with Katya, joining "vmeste" ("together") to "sadik" ("daycare, kindergarten") so every word pulls its weight.
+- 'We always argued since childhood.' Katya offers a wry bearing in this beat, linking "vsegda" ("always"), "sporili" ("to argue, to dispute"), and "detstva" ("childhood") in one brisk exchange.
+- 'They accepted me into the university back then.' The guest shares a pointed position at this moment, linking "togda" ("back then"), "universitet" ("university"), and "vzyali" ("took, arrested") in one brisk exchange.
+- 'And I went to France.' Katya shows a resolute angle straight away, linking "poyekhala" ("to go, to set off"), "ya" ("I"), and "vo" ("in") in one brisk exchange.
+- 'Katya, this is my husband Ernest.' The guest strikes a lively course in the scene, combining "muzh" ("husband") and "ernest" ("ernest") so the key meaning lands right away.
+- 'Hello, it is very nice to meet you.' Katya keeps a calm attitude for the guest, weaving "zdravstvuyte" ("hello") together with "ochen" ("very much") just the way native speakers do.
+- 'Well, and did you get married?' The guest tests sharply without holding back, putting "zamuzh" ("in marriage") alongside "vyshla" ("married") in a tight, everyday turn of phrase.
+- 'No, but I will definitely get married soon.' Katya shares a direct view for the guest, combining "skoro" ("soon") and "obyazatelno" ("surely, without fail") so the key meaning lands right away.
+- 'Our wedding is in a month.' Katya displays a clear bearing on the spot, combining "mesyats" ("month") and "svadba" ("wedding") so the key meaning lands right away.
+- 'Then let's have dinner together tomorrow evening!' The guest presents a brisk posture during the exchange, pairing "togda" ("back then") with "zavtra" ("tomorrow") to get the point across in plain spoken Russian.
+- 'I do not know, he is very busy.' Katya maintains a brisk note as the scene unfolds, leaning on "znayu" ("know") before closing the thought with "ochen" ("very much").
+- 'Great, what time are we meeting tomorrow?' The guest probes boldly at this point, joining "otlichno" ("perfect, great") to "skolko" ("how much, so much") so every word pulls its weight.

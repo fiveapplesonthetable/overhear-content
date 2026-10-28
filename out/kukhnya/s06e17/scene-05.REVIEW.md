@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not open this door right now.' Adding that do not open this door right now fills in the missing piece for Barinov.
-- 'They will prosecute all of us for this.' Saying that they will prosecute all of them for this is how Fedya sets the tone with Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And I cannot go to prison.' Since he cannot go to prison, Fedya does not waste words on excuses.
-- 'Open up, he will freeze in there.' By telling Fedya to open up he will freeze in there, Barinov keeps his side of the story grounded.
-- 'Hello, did my husband stop by here?' By checking whether his husband stop by here, the guest presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'He wanted to speak with the chef.' Because he wanted to speak, the guest treats the matter as settled.
-- 'No, he did not come in here.' Explaining that he did not come in here lays the cards on the table for Fedya.
-- 'Chef, what if she panics?' With the plan and inspector hanging in the air, Fedya puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'She will call the police right away.' Claiming that she will call the police right away sounds confident, even if Barinov has doubts.
-- 'We need to quietly keep an eye on her.' Needing to quietly keep an eye moves the conversation forward without extra drama. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Fedya, his wife is your responsibility.' Barinov explains that his wife is Fedya's responsibility, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And we will try to reach an agreement with him.' Realizing that they will try to reach an agreement with him changes how Barinov handles the situation.
+- 'Do not open this door right now.' Fedya favors an easygoing approach as the scene unfolds, using "otkryvayte" (from "otkryvat", "open") alongside "dver" ("door") to shape the meaning.
+- 'They will prosecute all of us for this.' Fedya picks a grounded course as they talk, combining "zasudyat" ("they will sue") and "nas" ("us") so the key meaning lands right away.
+- 'And I cannot go to prison.' Fedya establishes a serious manner across the room, leaning on "tyurmu" ("prison") before closing the thought with "nelzya" ("not allowed").
+- 'Open up, he will freeze in there.' Barinov displays a direct attitude across the room, putting "otkryvayte" ("open") alongside "tam" ("there") in a tight, everyday turn of phrase.
+- 'Hello, did my husband stop by here?' The guest presses promptly right away, putting "zdravstvuyte" ("hello") alongside "syuda" ("here") in a tight, everyday turn of phrase.
+- 'He wanted to speak with the chef.' The guest sustains a serious manner for Fedya, building the phrase around "khotel" ("wanted") and "pogovorit" ("to talk") for a crisp, natural delivery.
+- 'No, he did not come in here.' Barinov displays an honest tone in their talk, leaning on "syuda" ("here") before closing the thought with "zakhodil" ("went in").
+- 'Chef, what if she panics?' Fedya inquires wryly to keep things clear, anchoring the Russian line on "zapanikuyet" ("she will panic") and "shef" ("Chef") without extra filler.
+- 'She will call the police right away.' Fedya strikes a frank stance for Barinov, combining "srazu" ("at once") and "politsiyu" ("the police") so the key meaning lands right away.
+- 'We need to quietly keep an eye on her.' Barinov maintains a grounded view in the room, leaning on "nado" ("it is necessary") before closing the thought with "tikho" ("easy, quiet").
+- 'Fedya, his wife is your responsibility.' Barinov sets a frank posture at once, leaning on "zhena" ("wife") before closing the thought with "fedya" ("Fedya").
+- 'And we will try to reach an agreement with him.' Barinov holds a thoughtful posture on the spot, linking "poprobuyem" ("try"), "dogovoritsya" ("to reach an agreement"), and "nim" ("him") in one brisk exchange.

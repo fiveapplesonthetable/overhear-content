@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, tell me honestly, are you happy?' Max asks whether tell him honestly are Kostya happy, refusing to let the point slide. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Let us not talk about this, Max.' Mentioning that they should not talk about this moves the talk in a new direction. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Yes, because nobody hurts me.' Vika mentions that because nobody hurts so Kostya sees what is at stake.
-- 'And what did you want to hear from me?' Asking what Kostya wants to hear cuts straight through the tension between Vika and Kostya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'That I feel bad and I am still in love with you?' Questioning whether that she feels bad and she is still in love with Kostya is how Vika tests Kostya's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'All of that is already in the past, Max.' Vika explains that all of that is already in the past, keeping her voice calm and direct.
-- 'This madness must end right now.' Realizing that this madness must end right now changes how Vika handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Let it end in twenty minutes.' Realizing that Kostya should let it end in twenty minutes changes how Max handles the situation. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'You see, you do not change at all.' Even though Kostya does not change at all, Vika keeps a steady face in front of Kostya.
-- 'The long-awaited victory somehow brings no joy.' Admitting that the long awaited victory somehow brings no joy shows Max being honest for a change.
-- 'Hello, friends, happy housewarming to you!' Around the plan and apartment, Kostya makes his point loud and clear. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Around the corner something extraordinary awaits us.' With the apartment and point in play, Max keeps this short reply brisk and direct.
+- 'Vika, tell me honestly, are you happy?' Max prompts frankly for Kostya's benefit, putting "skazhi" ("say") alongside "chestno" ("honestly") in a tight, everyday turn of phrase.
+- 'Let us not talk about this, Max.' Vika keeps a thoughtful style during the exchange, anchoring the Russian line on "davay" ("let's") and "budem" ("will") without extra filler.
+- 'Yes, because nobody hurts me.' Vika adopts a serious stance as the scene unfolds, doubling the negative with "ne" ("not") and "potomu" ("because"), which is standard and required in Russian.
+- 'And what did you want to hear from me?' Vika tests boldly during the talk, weaving "khotel" ("wanted") together with "uslyshat" ("to hear") just the way native speakers do.
+- 'That I feel bad and I am still in love with you?' Vika tests directly in front of Kostya, linking "plokho" ("badly") directly with "por" ("time"), since Russian drops "is" and "are" in the present.
+- 'All of that is already in the past, Max.' Vika projects a frank view across the room, joining "uzhe" ("already, now") to "proshlom" ("last, past") so every word pulls its weight.
+- 'This madness must end right now.' Vika adopts a calm attitude right away, pairing "bezumiye" ("madness, insanity") with "dolzhno" ("ought, must") to get the point across in plain spoken Russian.
+- 'Let it end in twenty minutes.' Max keeps a calm view across the room, linking "davay" ("let's"), "zakonchitsya" ("will end"), and "minut" ("minutes") in one brisk exchange.
+- 'You see, you do not change at all.' Vika displays a candid rhythm with Kostya, pairing "menyayeshsya" ("you change") with "vidish" ("see") so the "-sya" ending carries the action.
+- 'The long-awaited victory somehow brings no joy.' Max strikes an easygoing style as the scene unfolds, building the phrase around "dolgozhdannaya" ("long-awaited") and "pobeda" ("victory, triumph") for a crisp, natural delivery.
+- 'Hello, friends, happy housewarming to you!' Kostya offers a playful tempo in the scene, building the phrase around "druzya" ("friends") and "novoselyem" ("housewarming") for a crisp, natural delivery.
+- 'Around the corner something extraordinary awaits us.' Max keeps a clear footing in the scene, weaving "povorotom" ("turn, bend") together with "zhdyot" ("is waiting") just the way native speakers do.

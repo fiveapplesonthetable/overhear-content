@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e04.ru.srt'
 INTRO = "At Arcobaleno, Elena realizes Viktor has been slacking off while her cooks cover for him, and at Claude Monet Max tries to make up with Vika by passing notes when she refuses to speak to him. Let's hear the Russian dialogue."
 OPENER = 'Time to unpack every phrase from the exchange you just heard.'
 TRANSITION = "Now let's replay the complete scene in Russian without interruption."
-OUTRO = "That completes Elena calling out Viktor's slacking and Max passing notes to Vika. Notice how Russian uses past-tense short adjectives to admit fault. See you next time!"
+OUTRO = "That completes Elena calling out Viktor's slacking and Max passing notes to Vika. Notice how Russian uses past-tense short descriptive words to admit fault. See you next time!"
 CLOSING = ('max', 'До завтра!')
 STORY = [
     ('barinov', 'Елена Павловна, вы бы шли отдыхать.', 'Elena Pavlovna, you should go get some rest.', [(185, 'Елена Павловна, вы бы шли отдыхать.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Класс, погнали.', "Awesome, let's go.", [(197, 'Класс, погнали.')], ''),
 ]
 WALK = [
-    (0, None, '\'Elena Pavlovna, you should go get some rest.\' Claiming that Elena should go get some rest sounds confident, even if Elena has doubts. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (1, None, "'We will manage fine here.' Pointing out that they will manage fine here gives Elena a sobering reality check."),
-    (2, None, '\'Yes, I can see that you have plenty of free time.\' Elena explains that she can see that Barinov has plenty of free time, keeping her voice calm and direct. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
-    (3, None, "'Enough for conversations and everything else.' Around the truth and room, Elena sets a calm, everyday tone with Barinov."),
-    (4, None, "'Take another order.' Adding that Barinov should take another order fills in the missing piece for Barinov."),
-    (5, None, "'Here, a summer salad and bolognese.' Over the plan and the work, Elena answers Barinov without a second thought."),
-    (6, None, '\'So you don\'t want to talk?\' Wondering if Barinov does not want to talk shows Max caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (7, None, "'Okay, let's talk this way.' Saying that Okay let them talk this way is how Max sets the tone with Barinov."),
-    (8, None, '\'Yesterday you were wrong. I was wrong too.\' Once yesterday Barinov was wrong, Max can finally tell Barinov what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (9, None, '\'But since you and I are serious adults...\' Adding that since Barinov and he are serious adults fills in the missing piece for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (10, None, "'Right now?' Over the plan and the conversation, Max presses Barinov for a straight answer."),
-    (11, None, "'Awesome, let's go.' Since awesome let them go, Max does not waste words on excuses."),
+    (0, None, '\'Elena Pavlovna, you should go get some rest.\' Barinov strikes an unhurried bearing with Elena, using "shli" (from "idti", "were going") alongside "otdykhat" ("relax") to shape the meaning.'),
+    (1, None, '\'We will manage fine here.\' Barinov sets a resolute bearing with Max, pairing "spravimsya" ("will manage") with "tut" ("here") so the "-sya" ending carries the action.'),
+    (2, None, '\'Yes, I can see that you have plenty of free time.\' Elena presents a steady direction in front of Barinov, combining "vizhu" ("see") and "mnogo" ("a lot") so the key meaning lands right away.'),
+    (3, None, '\'Enough for conversations and everything else.\' Elena offers a playful angle toward Max, weaving "khvatayet" ("grabs") together with "razgovory" ("conversations") just the way native speakers do.'),
+    (4, None, '\'Take another order.\' Elena establishes a firm angle at this moment, putting "vozmite" ("take") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.'),
+    (5, None, '\'Here, a summer salad and bolognese.\' Elena offers a thoughtful note as they talk, joining "letniy" ("summer") to "salat" ("salad") so every word pulls its weight.'),
+    (6, None, '\'So you don\'t want to talk?\' Max queries steadily beside Barinov, building the phrase around "znachit" ("then, so") and "khochesh" ("do you want") for a crisp, natural delivery.'),
+    (7, None, '\'Okay, let\'s talk this way.\' Max adopts a resolute rhythm as they talk, putting "davay" ("let\'s") alongside "pogovorim" ("we\'ll have a talk") in a tight, everyday turn of phrase.'),
+    (8, None, '\'Yesterday you were wrong. I was wrong too.\' Max displays a lively footing in their talk, joining "vchera" ("yesterday") to "byla" ("was") so every word pulls its weight.'),
+    (9, None, '\'But since you and I are serious adults...\' Max adopts a warm rhythm with Elena, pairing "kak" ("how") with "seryoznyye" ("serious") to get the point across in plain spoken Russian.'),
+    (10, None, '\'Right now?\' Max quizzes dryly to Barinov here, weaving "pryamo" ("right, just") together with "seychas" ("now") just the way native speakers do.'),
+    (11, None, '\'Awesome, let\'s go.\' Max chooses a brisk manner in front of Elena, putting "klass" ("cool, great") alongside "pognali" ("to let\'s") in a tight, everyday turn of phrase.'),
 ]

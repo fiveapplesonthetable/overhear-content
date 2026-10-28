@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wow! Just like in the movies!' Over the hotel and the work, the guest lets his real feelings show. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Maxim, it is probably very expensive here.' Mentioning that Maxim it is probably very expensive here moves the talk in a new direction.
-- 'Let us spend the night at your place.' Spending the night at Max's place together is how the guest lays out the situation for Max.
-- 'Granny, stop it! What do you mean on the floor?' Over the apartment and the hotel, Max presses the guest for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Spend the night here in comfort.' Spending the night here in comfort moves the conversation forward without extra drama.
-- 'Hello, Mikhail Dzhekovich.' With the hotel and room in play, Max keeps this short reply brisk and direct.
-- 'Good afternoon.' Over the hotel and the room, Mikhail answers the guest without a second thought.
-- 'Lyuba. Good afternoon!' With the apartment and hotel at stake, the guest reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And how well he speaks Russian, right?' Asking whether how well he speaks Russian right puts Max right on the defensive.
-- 'Let us go to the room.' By going to the room together, Max keeps his side of the story grounded.
-- 'Have a pleasant stay!' Saying that have a pleasant stay is how Mikhail takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Thank you very much.' Around the point and apartment, the guest sets a calm, everyday tone with Max.
+- 'Wow! Just like in the movies!' The guest picks a sharp course at this moment, leaning on "kak" ("how") before closing the thought with "kino" ("cinema, movies").
+- 'Maxim, it is probably very expensive here.' The guest presents an unhurried tempo without hesitation, pairing "tut" ("here") with "ochen" ("very much") to get the point across in plain spoken Russian.
+- 'Let us spend the night at your place.' The guest shows a pointed tack for Max, using "davayte" (from "davat", "let's") alongside "perenochuyem" ("will spend the night") to shape the meaning.
+- 'Granny, stop it! What do you mean on the floor?' Max wonders honestly in their exchange, weaving "babul" ("granny") together with "perestan" ("stop") just the way native speakers do.
+- 'Spend the night here in comfort.' Max conveys a direct position as the scene unfolds, linking "perenochuyte" ("spend the night"), "zdes" ("here"), and "komfortom" ("comfort") in one brisk exchange.
+- 'Hello, Mikhail Dzhekovich.' Max sustains a measured posture as the scene unfolds, pairing "zdravstvuyte" ("hello") with "mikhail" ("Mikhail") to get the point across in plain spoken Russian.
+- 'Good afternoon.' Mikhail sets an earnest view in the scene, joining "dobryy" ("good") to "den" ("day") so every word pulls its weight.
+- 'Lyuba. Good afternoon!' The guest presents a grounded posture in the room, combining "dobryy" ("good") and "den" ("day") so the key meaning lands right away.
+- 'And how well he speaks Russian, right?' The guest prompts boldly without a pause, combining "po-russki" ("in Russian") and "kak" ("how") so the key meaning lands right away.
+- 'Let us go to the room.' Max shares a steady bearing in the conversation, joining "poydyomte" ("come on, let's go") to "nomer" ("number") so every word pulls its weight.
+- 'Have a pleasant stay!' Mikhail projects a pointed approach beside the guest, weaving "priyatnogo" ("pleasant") together with "otdykha" ("rest, stay") just the way native speakers do.
+- 'Thank you very much.' The guest strikes a direct footing straight away, leaning on "spasibo" ("thank you") before closing the thought with "bolshoye" ("big, very much").

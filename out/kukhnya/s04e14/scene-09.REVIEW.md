@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, this is just my half-eaten breakfast.' Since this is just his half eaten breakfast, Denis does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Guys, why is she walking after me all day?' By wondering why she walking after him all day is, Denis presses Fedya for a straight answer.
-- 'Tell me, what does she need from me?' Asking whether tell him what does she need from him puts Fedya right on the defensive. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'You see, she is a little strange here with us.' Because she is a little strange here with them, Senya treats the matter as settled. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'She simply fell in love and wants you!' Insisting that she simply fell in love and wants Denis shows Fedya is not backing down.
-- 'Previously she ran after all the guys here.' Senya mentions that previously she ran after all the guys here so Denis sees what is at stake.
-- 'And until she gets her way, she will not back off!' Declaring that until she gets her way she will not back off brings Fedya's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Whoa, but she is the chef's own daughter!' Denis insists that someone but she is the own daughter, leaving Fedya no room to argue.
-- 'So what, on the other hand she is a very pretty girl.' Senya explains that what on the other hand she is a very pretty girl, keeping his voice calm and direct. That little word "zato" means "on the bright side", flipping a complaint into an advantage.
-- 'Look, Katya is looking closely at you again!' Fedya declares that Katya is looking closely at Denis again as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'We told you after all, she is like a barracuda!' Because they told Denis after all she is like a barracuda, Senya does not bother softening the blow for Denis.
-- 'She will not let go until she achieves her goal!' Insisting that she will not let go until she achieves her goal shows Fedya is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Katya, this is just my half-eaten breakfast.' Denis picks a candid style in front of Fedya, linking "prosto" ("just") directly with "nedoyedennyy" ("breakfast"), since Russian drops "is" and "are" in the present.
+- 'Guys, why is she walking after me all day?' Denis checks naturally with Senya now, linking "rebyata" ("the boys, the lads"), "pochemu" ("why"), and "den" ("day") in one brisk exchange.
+- 'Tell me, what does she need from me?' Denis probes decisively in the scene, linking "skazhite" ("tell"), "nado" ("it is necessary"), and "chto" ("what") in one brisk exchange.
+- 'You see, she is a little strange here with us.' Senya brings a warm approach in the scene, building the phrase around "ponimayesh" ("do you understand") and "nemnogo" ("a bit") for a crisp, natural delivery.
+- 'She simply fell in love and wants you!' Fedya picks a lively direction as the scene unfolds, linking "prosto" ("just"), "vlyubilas" ("fell in love"), and "khochet" ("wants") in one brisk exchange.
+- 'Previously she ran after all the guys here.' Senya projects a direct attitude without hesitation, linking "ranshe" ("earlier, previously"), "zdes" ("here"), and "parnyami" ("boyfriend, guy") in one brisk exchange.
+- 'And until she gets her way, she will not back off!' Fedya sets an unhurried tempo during the exchange, combining "poka" ("bye") and "dobyotsya" ("to achieve") so the key meaning lands right away.
+- 'Whoa, but she is the chef's own daughter!' Denis maintains a thoughtful attitude in the room, putting "rodnaya" ("dear, darling") alongside "doch" ("daughter") in a tight, everyday turn of phrase.
+- 'So what, on the other hand she is a very pretty girl.' Senya establishes a resolute position with Denis, combining "ochen" ("very much") and "krasivaya" ("pretty, beautiful") so the key meaning lands right away.
+- 'Look, Katya is looking closely at you again!' Fedya brings a sharp attitude as they talk, combining "smotri" ("look") and "opyat" ("again") so the key meaning lands right away.
+- 'We told you after all, she is like a barracuda!' Senya sets a firm mood at this moment, putting "govorili" ("talked") alongside "kak" ("how") in a tight, everyday turn of phrase.
+- 'She will not let go until she achieves her goal!' Fedya shares a brisk tempo at this moment, putting "otpustit" ("to let go, to release") alongside "poka" ("bye") in a tight, everyday turn of phrase.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why are you exaggerating like that?' Wondering why Gulya exaggerating like is cuts straight through the tension between Katya and Gulya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Give him a tour of the hotel.' Giving him a tour of the hotel moves the conversation forward without extra drama.
-- 'And if he has any wishes regarding the service, you will tell us.' Mentioning that if he has any wishes regarding the service Gulya will tell them moves the talk in a new direction.
-- 'And for that you get a bonus and a day off.' Katya reminds Gulya that for that Gulya gets a bonus and a day off before the moment passes. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Father suggests spying, the family council is over!' Insisting that father suggests spying the family council is shows Katya is not backing down. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Lyova, I am so nervous!' Gulya declares that she is so nervous as the tension in the room peaks.
-- 'What if your mom does not like me?' Wondering if what if Katya's does not like shows Gulya caught off guard. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'There is no need to worry, she will taste your signature pilaf.' With the point and family in play, Lyova keeps this short reply brisk and direct. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Gulya, what is wrong, your head or your heart?' Wondering what wrong Gulya's head or Gulya's heart is cuts straight through the tension between Lyova and Gulya.
-- 'I forgot to buy barberries for the pilaf!' Gulya declares that she forgot to buy barberries for the pilaf as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'It is no big deal, I will go and buy some.' Realizing that it is no big deal he will go and buy some changes how Lyova handles the situation.
-- 'How could I forget about that?' By wondering how she forgets could, Gulya presses Katya for a straight answer.
+- 'Why are you exaggerating like that?' Katya checks firmly at this point, leaning on "preuvelichivayesh" ("are exaggerating") before closing the thought with "nu" ("oh, come on").
+- 'Give him a tour of the hotel.' Katya sets a serious tack in this beat, putting "provedi" ("conduct, give") alongside "ekskursiyu" ("tour") in a tight, everyday turn of phrase.
+- 'And if he has any wishes regarding the service, you will tell us.' Katya shows a firm mood toward Gulya, joining "budut" ("there will be") to "pozhelaniya" ("wishes, feedback") so every word pulls its weight.
+- 'And for that you get a bonus and a day off.' Katya keeps a lively line across the room, anchoring the Russian line on "premiya" ("bonus, prize") and "otgul" ("day off, time off") without extra filler.
+- 'Father suggests spying, the family council is over!' Katya brings an easygoing tack in front of Gulya, combining "otets" ("father") and "predlagayet" ("offers") so the key meaning lands right away.
+- 'Lyova, I am so nervous!' Gulya sustains a grounded angle as the scene unfolds, weaving "volnuyus" ("am nervous") together with "lyova" ("Lyova") just the way native speakers do.
+- 'What if your mom does not like me?' Gulya probes lightly in their exchange, pairing "ponravlyus" ("will be liked by") with "vdrug" ("suddenly, what if") so the "-sya" ending carries the action.
+- 'There is no need to worry, she will taste your signature pilaf.' Lyova projects a resolute view without hesitation, weaving "nado" ("it is necessary") together with "volnovatsya" ("to worry") just the way native speakers do.
+- 'Gulya, what is wrong, your head or your heart?' Lyova wonders warmly in front of Gulya, putting "golova" ("head") alongside "serdtse" ("heart") in a tight, everyday turn of phrase.
+- 'I forgot to buy barberries for the pilaf!' Gulya holds a clear footing as they talk, anchoring the Russian line on "zabyla" ("forgot") and "kupit" ("buy") without extra filler.
+- 'It is no big deal, I will go and buy some.' Lyova favors a wry footing for Gulya, building the phrase around "strashnogo" ("terrible, serious") and "skhozhu" ("will go") for a crisp, natural delivery.
+- 'How could I forget about that?' Gulya tests quietly in the room, building the phrase around "kak" ("how") and "mogla" ("could") for a crisp, natural delivery.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All the paintings were painted by me personally.' Pointing out that all the paintings were painted by her personally gives Barinov a sobering reality check.
-- 'Any of them can be purchased.' Eleonora explains that any of them can be purchased, keeping her voice calm and direct.
-- 'The money will go to charity.' Realizing that the money will go to charity changes how Eleonora handles the situation.
-- 'And this right here is my pride.' Noting that this right here is her pride keeps Eleonora's side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'It is called 'Ex-Husband.'' Even though it is called husband, Eleonora keeps a steady face in front of Barinov.
-- 'And I will bring champagne.' Admitting that he will bring champagne shows Barinov being honest for a change.
-- 'I see he still has not confessed to you.' Realizing that she sees he still has not confessed to Barinov changes how Eleonora handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Lena, I do not want to deceive you.' Once someone she does not want to deceive Barinov, Eleonora can finally tell Barinov what she means.
-- 'My first husband is Victor Petrovich.' Adding that her first husband is Victor Petrovich fills in the missing piece for Barinov.
-- 'Which Victor Petrovich?' Around the plan and truth, Elena wants to know where Barinov really stands. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Because he is a coward and a liar.' Since because he is a coward and a liar, Eleonora does not waste words on excuses.
-- 'They called me from work, I will go.' Mentioning that they called him from work he will go moves the talk in a new direction.
+- 'All the paintings were painted by me personally.' Eleonora picks a measured rhythm straight away, putting "kartiny" ("paintings") alongside "napisany" ("painted, written") in a tight, everyday turn of phrase.
+- 'Any of them can be purchased.' Eleonora sets an emphatic bearing on the spot, combining "lyubuyu" ("any") and "mozhno" ("may, can") so the key meaning lands right away.
+- 'The money will go to charity.' Eleonora holds a playful rhythm in the room, building the phrase around "dengi" ("money") and "poydut" ("to go") for a crisp, natural delivery.
+- 'And this right here is my pride.' Eleonora chooses a natural line at this moment, weaving "gordost" ("pride") together with "vot" ("there, here") just the way native speakers do.
+- 'It is called 'Ex-Husband.'' Eleonora favors a wry manner in front of Barinov, linking "nazyvayetsya" ("is called"), "byvshiy" ("ex"), and "muzh" ("husband") in one brisk exchange.
+- 'And I will bring champagne.' Barinov chooses a warm approach in the room, pairing "prinesu" ("I will bring") with "shampanskoye" ("champagne") to get the point across in plain spoken Russian.
+- 'I see he still has not confessed to you.' Eleonora holds an earnest position beside Barinov, anchoring the Russian line on "vizhu" ("see") and "priznalsya" ("did he confess") without extra filler.
+- 'Lena, I do not want to deceive you.' Eleonora maintains a measured style right away, leaning on "khochu" ("want") before closing the thought with "obmanyvat" ("to deceive").
+- 'My first husband is Victor Petrovich.' Eleonora projects a warm tempo during the exchange, combining "pervyy" ("first") and "muzh" ("husband") so the key meaning lands right away.
+- 'Which Victor Petrovich?' Elena inquires wryly to Eleonora here, putting "kakoy" ("what a, how") alongside "viktor" ("Viktor") in a tight, everyday turn of phrase.
+- 'Because he is a coward and a liar.' Eleonora strikes an earnest note as they talk, putting "potomu" ("because") alongside "trus" ("coward") in a tight, everyday turn of phrase.
+- 'They called me from work, I will go.' Barinov keeps a sharp footing as the scene unfolds, using "raboty" (from "rabota", "of work") alongside "pozvonili" ("called") to shape the meaning.

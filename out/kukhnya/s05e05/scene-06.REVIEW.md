@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A guy on the forum has the exact same problem.' Pointing out that a guy on the forum has the exact same problem gives Max a sobering reality check.
-- 'My ex is pregnant and says it is not mine.' Kostya explains that his ex is pregnant and says it is not, keeping his voice calm and direct.
-- 'But I know for sure that the child is mine.' Knowing for sure that the child is is how Kostya lays out the situation for Max.
-- 'What do they advise?' Wondering what they advise is how Max puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Relax and enjoy life.' Kostya mentions that Max should relax and enjoy life so Max sees what is at stake.
-- 'Will you have tea?' By asking whether Kostya has tea, Nastya presses Kostya for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Maybe this child really is not mine?' Max asks whether maybe this child really is not, refusing to let the point slide. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'You and Vika broke up, and she immediately found someone?' Asking whether Kostya and Vika broke up and she immediately found someone puts Kostya right on the defensive.
-- 'Making sure that the child is yours is very simple.' Adding that making sure that the child is Kostya's is very simple fills in the missing piece for Kostya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Right before my departure.' Over the apartment and the moment, Max answers Kostya without a second thought.
-- 'That means five months ago.' Since that means five months ago, Nastya does not waste words on excuses.
-- 'All that is left is to check this.' Mentioning that all that is left is to check this moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'A guy on the forum has the exact same problem.' Kostya projects an earnest direction on the spot, linking "chuvaka" ("guy, dude"), "forume" ("forum"), and "problema" ("problem") in one brisk exchange.
+- 'My ex is pregnant and says it is not mine.' Kostya maintains a measured posture as the scene unfolds, putting "byvshaya" ("former") alongside "beremenna" ("pregnant") in a tight, everyday turn of phrase.
+- 'But I know for sure that the child is mine.' Kostya presents a clear view in the conversation, combining "tochno" ("definitely") and "znayu" ("know") so the key meaning lands right away.
+- 'What do they advise?' Max questions warmly from the start, combining "sovetuyut" ("advise") and "chto" ("what") so the key meaning lands right away.
+- 'Relax and enjoy life.' Kostya shares an unhurried tempo on the spot, combining "rasslabsya" ("relax") and "naslazhdaysya" ("enjoy") so the key meaning lands right away.
+- 'Will you have tea?' Nastya quizzes directly in this moment, joining "chay" ("tea") to "budete" ("will be") so every word pulls its weight.
+- 'Maybe this child really is not mine?' Max queries warmly as they speak, building the phrase around "mozhet" ("can") and "rebyonok" ("a child") for a crisp, natural delivery.
+- 'You and Vika broke up, and she immediately found someone?' Nastya presses warmly without a pause, weaving "rasstalis" ("broke up, separated") together with "srazu" ("at once") just the way native speakers do.
+- 'Making sure that the child is yours is very simple.' Nastya establishes a grounded position with Kostya, putting "ubeditsya" ("to become convinced") alongside "rebyonok" ("a child") in a tight, everyday turn of phrase.
+- 'Right before my departure.' Max picks a lively note straight away, anchoring the Russian line on "kak" ("how") and "raz" ("time, once") without extra filler.
+- 'That means five months ago.' Nastya shows an easygoing bearing for Kostya, pairing "poluchayetsya" ("works out") with "mesyatsev" ("months") so the "-sya" ending carries the action.
+- 'All that is left is to check this.' Max sustains a warm style in the scene, using "ostalos" (from "ostatsya", "was left") alongside "tolko" ("only") to shape the meaning.

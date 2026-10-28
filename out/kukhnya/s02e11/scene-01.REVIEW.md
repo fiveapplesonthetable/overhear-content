@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you, Nastenka.' Around the point and apartment, Kostya sets a calm, everyday tone with Nastya.
-- 'I did not find them.' Because she did not find them, Nastya treats the matter as settled.
-- 'By the way, that is a cool color.' Explaining that that is a cool color lays the cards on the table for Nastya.
-- 'Wait, where is the trash can?' Asking where the trash can is cuts straight through the tension between Nastya and Kostya.
-- 'Right where it belongs.' Between the point and the room, Kostya gives Nastya a quick, grounded response.
-- 'Listen, stop imposing your own rules around here.' Noting that Kostya should stop imposing Kostya's own rules around here keeps Nastya's side of the story simple and clear.
-- 'You know what?' With the plan and truth hanging in the air, Kostya puts Nastya on the spot.
-- 'Do not worry, I already poisoned them.' Realizing that do not worry she already poisoned them changes how Nastya handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And what about you.' With the truth and moment in play, Kostya keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Of course, I knew that turtles are slow.' Even though she knew that turtles are slow, Nastya keeps a steady face in front of Kostya.
-- 'I think our Pashka looks completely sluggish.' Once he thinks their Pashka looks completely sluggish, Kostya can finally tell Nastya what he means.
-- 'Wait a second, Kostya.' With the truth and plan in play, Nastya keeps this short reply brisk and direct.
-- 'Do not touch him.' Once do not touch him, Kostya can finally tell Nastya what he means.
+- 'Thank you, Nastenka.' Kostya presents a pointed course across the room, pairing "spasibo" ("thank you") with "tebe" ("for you, to you") to get the point across in plain spoken Russian.
+- 'I did not find them.' Nastya sustains a pointed tone in the scene, weaving "nashla" ("found, did you find") together with "ya" ("I") just the way native speakers do.
+- 'By the way, that is a cool color.' Kostya sets a resolute footing for Nastya, anchoring the Russian line on "kstati" ("by the way") and "prikolnyy" ("cool") without extra filler.
+- 'Wait, where is the trash can?' Nastya questions lightly to keep things clear, joining "gde" ("where") to "musorka" ("trash bin") so every word pulls its weight.
+- 'Right where it belongs.' Kostya sets a serious approach in their talk, combining "gde" ("where") and "dolzhna" ("should, must") so the key meaning lands right away.
+- 'Listen, stop imposing your own rules around here.' Nastya picks an easygoing footing at this moment, anchoring the Russian line on "slushay" ("listen") and "khvatit" ("enough") without extra filler.
+- 'You know what?' Kostya queries honestly to keep things clear, leaning on "znayesh" ("know") before closing the thought with "chto" ("what").
+- 'Do not worry, I already poisoned them.' Nastya projects a candid position for Kostya, joining "perezhivay" ("worry") to "uzhe" ("already, now") so every word pulls its weight.
+- 'And what about you.' Kostya shares a clear course in the conversation, using "ty" ("you") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Of course, I knew that turtles are slow.' Nastya conveys a sharp style straight away, combining "konechno" ("of course") and "znal" ("knew") so the key meaning lands right away.
+- 'I think our Pashka looks completely sluggish.' Kostya strikes a measured angle in the room, leaning on "po-moyemu" ("in my opinion") before closing the thought with "sovsem" ("at all").
+- 'Wait a second, Kostya.' Nastya adopts a playful footing in their talk, putting "reshet" ("to decide, to solve") alongside "kostya" ("Kostya") in a tight, everyday turn of phrase.
+- 'Do not touch him.' Kostya shows a sharp note beside Nastya, putting "trogay" ("touch") alongside "ne" ("not") in a tight, everyday turn of phrase.

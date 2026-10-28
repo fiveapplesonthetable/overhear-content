@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The emperor himself is greeting me.' Once the himself is greeting him, Barinov can finally tell Denis what he means.
-- 'Stop clowning around and making a scene.' Admitting that Barinov should stop clowning around and making a scene shows Nagiyev being honest for a change.
-- 'This is a cultured establishment.' Saying that this is a cultured establishment is how Nagiyev sets the tone with Barinov.
-- 'Wait, can a mere mortal not dine in your restaurant?' Asking whether a mere mortal not dine in Denis's restaurant cuts straight through the tension between Barinov and Denis.
-- 'Why, of course you can.' Mentioning that why of course Barinov can moves the talk in a new direction. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Come in and take a seat.' Saying that Barinov should come in and take a seat is how Nagiyev sets the tone with Barinov.
-- 'Denis, go serve him at the highest level.' Once Barinov should go serve him at the highest level, Nagiyev can finally tell Barinov what he means.
-- 'Come on, get moving.' Since Barinov should come on get moving, Nagiyev does not waste words on excuses. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Who is going to cook the chef's special?' Asking who going to cook the special is is how Barinov puts Denis on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What would you like to order?' Here asking what Barinov likes to order would shows Denis looking for the real truth.
-- 'The chef's special.' Between the conversation and the order, Barinov gives Denis a quick, grounded response.
-- 'What if Napoleon is bald in our movie together?' Asking whether what if Napoleon is bald in their movie together puts Barinov right on the defensive. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'The emperor himself is greeting me.' Barinov offers a thoughtful attitude right away, weaving "imperator" ("himself") together with "vstrechayet" ("to meet, to welcome") just the way native speakers do.
+- 'Stop clowning around and making a scene.' Nagiyev strikes an emphatic bearing beside Denis, joining "khvatit" ("enough") to "krivlyatsya" ("to clowning") so every word pulls its weight.
+- 'This is a cultured establishment.' Nagiyev strikes a candid position across the room, joining "zdes" ("here") to "intelligentnoye" ("establishment") so every word pulls its weight.
+- 'Wait, can a mere mortal not dine in your restaurant?' Barinov inquires plainly without hesitation, putting "prostomu" ("simple, ordinary") alongside "smertnomu" ("dine") in a tight, everyday turn of phrase.
+- 'Why, of course you can.' Nagiyev takes a serious view with Barinov, putting "konechno" ("of course") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
+- 'Come in and take a seat.' Nagiyev displays an earnest posture as the scene unfolds, anchoring the Russian line on "prokhodite" ("come in") and "prisazhivaytes" ("have a seat") without extra filler.
+- 'Denis, go serve him at the highest level.' Nagiyev establishes a wry tone in the conversation, joining "idi" ("go") to "obsluzhi" ("serve") so every word pulls its weight.
+- 'Come on, get moving.' Nagiyev maintains an emphatic course on the spot, anchoring the Russian line on "davay" ("let's") and "startuy" ("get") without extra filler.
+- 'Who is going to cook the chef's special?' Barinov questions directly to Denis here, combining "budet" ("will be") and "gotovit" ("to cook") so the key meaning lands right away.
+- 'What would you like to order?' Denis questions candidly across the room, pairing "budete" ("will be") with "zakazyvat" ("to order") to get the point across in plain spoken Russian.
+- 'The chef's special.' Barinov maintains a playful footing as they talk, pairing "blyudo" ("dish") with "shefa" ("chef") to get the point across in plain spoken Russian.
+- 'What if Napoleon is bald in our movie together?' Nagiyev queries bluntly across the room, building the phrase around "kino" ("cinema, movies") and "napoleon" ("mine") for a crisp, natural delivery.

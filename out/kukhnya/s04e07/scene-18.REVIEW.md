@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Nikita Sergeyevich, I am at the restaurant right now.' Realizing that he is at the restaurant right now changes how the guest handles the situation.
-- 'Here Dmitry Nagiyev wants to chat with you.' Admitting that here Dmitry Nagiyev wants to chat with Nagiyev shows the guest being honest for a change.
-- 'Nikita Sergeyevich, I dreamed of calling you my whole life!' Between the phone and the call, Nagiyev delivers a sharp reaction. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I wanted to say thank you to you for your art!' Saying that he wanted to say thank the guest to the guest for the guest's art is how Nagiyev takes charge of the moment. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Simply thank you for existing!' With the phone and shift at stake, Nagiyev reacts without holding back.
-- 'Yes, of course, I am handing the phone back to Gavriil Ilyich.' Here being handing the phone back Ilyich sets up the next turn in their exchange.
-- 'Yes, Nikita Sergeyevich, there are some small problems here.' Since there are some small problems here, the guest does not waste words on excuses.
-- 'I do not know, maybe we should organize it at the neighboring restaurant?' Wondering if he does not know maybe they should organize it at the neighboring restaurant shows the guest caught off guard.
-- 'Not in the neighboring restaurant, I beg you!' Declaring that not in the neighboring restaurant he begs the guest brings Nagiyev's temper right to the surface. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'And what if your strange cook jumps out again?' When the guest asks if what if Nagiyev's strange cook jumps out again, Nagiyev has to answer fast. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'He will not jump out anymore, we will fire him!' Saying that he will not jump out anymore they will fire him is how Nagiyev takes charge of the moment.
-- 'I beg you, please give us one chance!' Begging the guest pleases give them one chance is Nagiyev's blunt reaction in front of the guest. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Hello, Nikita Sergeyevich, I am at the restaurant right now.' The guest shares an unhurried stance as the scene unfolds, weaving "seychas" ("now") together with "restorane" ("restaurant") just the way native speakers do.
+- 'Here Dmitry Nagiyev wants to chat with you.' The guest takes a sharp course on the spot, building the phrase around "tut" ("here") and "khochet" ("wants") for a crisp, natural delivery.
+- 'Nikita Sergeyevich, I dreamed of calling you my whole life!' Nagiyev establishes a steady mood for the guest, putting "zhizn" ("life") alongside "mechtal" ("dreamed") in a tight, everyday turn of phrase.
+- 'I wanted to say thank you to you for your art!' Nagiyev takes a pointed mood in the scene, using "khotel" (from "khotet", "wanted") alongside "skazat" ("tell") to shape the meaning.
+- 'Simply thank you for existing!' Nagiyev strikes a resolute tempo during the exchange, leaning on "prosto" ("just") before closing the thought with "spasibo" ("thank you").
+- 'Yes, of course, I am handing the phone back to Gavriil Ilyich.' Nagiyev takes a measured tempo as the scene unfolds, putting "konechno" ("of course") alongside "peredayu" ("pass on, send") in a tight, everyday turn of phrase.
+- 'Yes, Nikita Sergeyevich, there are some small problems here.' The guest holds a clear view right away, linking "tut" ("here"), "yest" ("there is"), and "nebolshiye" ("small, modest") in one brisk exchange.
+- 'I do not know, maybe we should organize it at the neighboring restaurant?' The guest inquires openly as they speak, combining "znayu" ("know") and "mozhet" ("can") so the key meaning lands right away.
+- 'Not in the neighboring restaurant, I beg you!' Nagiyev picks a lively manner in the room, leaning on "nado" ("it is necessary") before closing the thought with "sosednem" ("neighboring").
+- 'And what if your strange cook jumps out again?' The guest queries pointedly on the spot, leaning on "strannyy" ("strange, odd") before closing the thought with "povar" ("chef, cook").
+- 'He will not jump out anymore, we will fire him!' Nagiyev offers a steady line beside the guest, leaning on "bolshe" ("more") before closing the thought with "vyskochit" ("to again").
+- 'I beg you, please give us one chance!' Nagiyev chooses a lively posture in front of the guest, putting "umolyayu" ("I beg") alongside "dayte" ("give") in a tight, everyday turn of phrase.

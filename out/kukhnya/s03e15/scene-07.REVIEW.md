@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, leave the chicken alone, you are a married man!' Saying that Nagiyev should leave the chicken alone Nagiyev is a married man is how Barinov takes charge of the moment.
-- 'Fedya, what are you waiting for, for the fish to flip itself over?' Asking what Nagiyev waiting for for the fish to flip itself is cuts straight through the tension between Barinov and Nagiyev. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Ilya, who taught you to slice so badly?' Questioning whether who taught Nagiyev to slice so badly is how Barinov tests Nagiyev's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Dima, and what are you doing here in the kitchen?' Asking what Nagiyev doing here in the kitchen is is how Barinov puts Nagiyev on the spot.
-- 'It is a long story, Vitya, I need to learn how to cook.' Admitting that it is a long story Vitya he needs to learn how to cook shows Nagiyev being honest for a change. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Please, quickly teach me how to cook!' With the work and truth at stake, Nagiyev reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Wait, Dima, I did not understand you just now.' Once he did not understand Nagiyev just now, Barinov can finally tell Nagiyev what he means.
-- 'That nonsense you have been doing your whole life, teach me!' Once that nonsense Barinov has been doing Barinov's whole life teach him, Nagiyev makes sure Barinov hears every word. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Dima, this is not acting in a commercial!' Declaring that this is not acting in a commercial brings Barinov's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'This is art, there are many subtleties here that one must grasp and realize.' Since this is art there are many subtleties here that one must grasp and realize, Barinov does not waste words on excuses.
-- 'Tell me honestly, why do you even need this?' Asking whether tell him honestly why do Nagiyev even need this puts Nagiyev right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I made a bet with a friend this morning.' Nagiyev reminds Barinov that he made a bet with a friend this morning before the moment passes.
+- 'Senya, leave the chicken alone, you are a married man!' Barinov keeps an emphatic tone as they talk, joining "otstan" ("leave alone") to "kuritsy" ("chicken") so every word pulls its weight.
+- 'Fedya, what are you waiting for, for the fish to flip itself over?' Barinov queries steadily on the spot, anchoring the Russian line on "zhdyosh" ("to wait, to expect") and "kogda" ("when") without extra filler.
+- 'Ilya, who taught you to slice so badly?' Barinov checks naturally in this moment, linking "plokho" ("badly"), "uchil" ("to learn, to teach"), and "rezat" ("to cut") in one brisk exchange.
+- 'Dima, and what are you doing here in the kitchen?' Barinov wonders boldly from the start, pairing "zdes" ("here") with "kukhne" ("kitchen") to get the point across in plain spoken Russian.
+- 'It is a long story, Vitya, I need to learn how to cook.' Nagiyev sets a clear view toward Barinov, anchoring the Russian line on "dolgo" ("for a long time") and "obyasnyat" ("to explain") without extra filler.
+- 'Please, quickly teach me how to cook!' Nagiyev offers an easygoing note at this moment, putting "bystro" ("quickly") alongside "nauchi" ("teach") in a tight, everyday turn of phrase.
+- 'Wait, Dima, I did not understand you just now.' Barinov sustains a wry tempo toward Nagiyev, leaning on "podozhdi" ("wait") before closing the thought with "seychas" ("now").
+- 'That nonsense you have been doing your whole life, teach me!' Nagiyev establishes a brisk footing as they talk, building the phrase around "yerundoy" ("nonsense") and "zhizn" ("life") for a crisp, natural delivery.
+- 'Dima, this is not acting in a commercial!' Barinov maintains a grounded style at once, pairing "reklame" ("advertisement") with "snimatsya" ("to act, be filmed") to get the point across in plain spoken Russian.
+- 'This is art, there are many subtleties here that one must grasp and realize.' Barinov shows a serious view in their talk, building the phrase around "iskusstvo" ("the Art") and "tut" ("here") for a crisp, natural delivery.
+- 'Tell me honestly, why do you even need this?' Barinov wonders steadily from the start, combining the conversational booster "voobshche" ("in general, overall") with "skazhi" ("say") to give the line its natural spoken rhythm.
+- 'I made a bet with a friend this morning.' Nagiyev maintains a steady bearing in the conversation, linking "segodnya" ("today"), "utrom" ("this morning"), and "drugom" ("different, another") in one brisk exchange.

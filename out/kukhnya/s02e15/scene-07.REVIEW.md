@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You could bring her right here to the couch.' Because Kostya could bring her right here to the couch, Barinov treats the matter as settled.
-- 'It is a magnificent couch.' Explaining that it is a magnificent couch lays the cards on the table for Barinov.
-- 'Why not?' With the kitchen and guest hanging in the air, Kostya puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'In my own office?' Over the shift and the office, Barinov presses Kostya for a straight answer.
-- 'Right here in my restaurant.' Over the idea and the conversation, Vika answers Barinov without a second thought.
-- 'Very convenient.' Between the idea and the work, Kostya gives Barinov a quick, grounded response.
-- 'Nobody is around.' Realizing that nobody is around changes how Barinov handles the situation.
-- 'Arkady, you saw everything and kept quiet?' Questioning whether Arkady Barinov saw everything and kept quiet is how Vika tests Barinov's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'At least Arkady did not join in.' Even though at least Arkady did not join, Kostya keeps a steady face in front of Barinov.
-- 'There is a separate restroom for staff members.' Admitting that there is a separate restroom for staff members shows Barinov being honest for a change.
-- 'What is going on here?' Asking what going on here is is how Vika puts Barinov on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Hello, Viktoriya Sergeyevna.' With the guest and work in play, Kostya keeps this short reply brisk and direct.
-- 'The drain broke in there, and we were just...' Adding that the drain broke in there and they were just fills in the missing piece for Kostya.
+- 'You could bring her right here to the couch.' Barinov offers a calm note with Kostya, leaning on "divan" ("sofa, couch") before closing the thought with "privel" ("to bring, lead").
+- 'It is a magnificent couch.' Vika picks an emphatic attitude at this moment, anchoring the Russian line on "shikarnyy" ("splendid, luxurious") and "divan" ("sofa, couch") without extra filler.
+- 'Why not?' Kostya probes promptly as they speak, leaning on "chto" ("what") as a compact, one-word response that needs no extra words.
+- 'In my own office?' Barinov checks firmly as they speak, using "kabinete" (from "kabinet", "office") alongside "moyem" ("my") to shape the meaning.
+- 'Right here in my restaurant.' Vika strikes a sharp mood at once, weaving "restorane" ("restaurant") together with "ya" ("I") just the way native speakers do.
+- 'Very convenient.' Kostya sustains a grounded approach straight away, building the phrase around "ochen" ("very much") and "udobno" ("comfortable") for a crisp, natural delivery.
+- 'Nobody is around.' Barinov picks a thoughtful manner right away, using "nikogo" (from "nikto", "nobody") alongside "net" ("no") to shape the meaning.
+- 'Arkady, you saw everything and kept quiet?' Vika probes honestly at this point, building the phrase around "videl" ("saw, have seen") and "molchal" ("to be silent") for a crisp, natural delivery.
+- 'At least Arkady did not join in.' Kostya shows a serious posture across the room, anchoring the Russian line on "yeshche" ("still") and "uchastvoval" ("participated") without extra filler.
+- 'There is a separate restroom for staff members.' Barinov chooses a warm bearing as they talk, putting "sotrudnikov" ("staff members") alongside "yest" ("there is") in a tight, everyday turn of phrase.
+- 'What is going on here?' Vika inquires decisively toward Barinov here, building the phrase around "delo" ("matter") and "chem" ("than") for a crisp, natural delivery.
+- 'Hello, Viktoriya Sergeyevna.' Kostya conveys an emphatic note for Vika, joining "zdravstvuyte" ("hello") to "viktoriya" ("Victoria") so every word pulls its weight.
+- 'The drain broke in there, and we were just...' Barinov shows a measured bearing in the conversation, leaning on "tam" ("there") before closing the thought with "sliv" ("plum").

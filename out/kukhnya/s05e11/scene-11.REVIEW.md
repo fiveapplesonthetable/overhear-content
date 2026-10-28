@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Grandpa, only do not take offense.' Since Grandpa only do not take offense, Max does not waste words on excuses.
-- 'Once you get better, I will set such a table for you!' Max insists that once the guest gets better he will set such a table for the guest, leaving the guest no room to argue. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Go on, go on. When I recover, you will set it.' By telling Max to go on go, the guest keeps his side of the story grounded.
-- 'Soon this old ticker will break down. Not long is left.' Because soon this old ticker will break down, the guest treats the matter as settled.
-- 'Today the doctor informed me. I have two months left.' With the plan and meat in play, the guest keeps this short reply brisk and direct.
-- 'I have not told grandma yet.' Explaining that he has not told grandma yet lays the cards on the table for Max.
-- 'What specifically did the doctor say? What is the diagnosis?' Asking whether what specifically did the doctor say puts the guest right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Grandpa, we will buy the best medicine!' Declaring that Grandpa they will buy the best medicine brings Max's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I have grown old. There is your diagnosis.' Having grown old is how the guest lays out the situation for Max.
-- 'And do not get upset.' Realizing that do not get upset changes how the guest handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I have lived a happy life.' Having lived a happy life is how the guest lays out the situation for Max.
-- 'Well, to you and to your family!' With the conversation and meat at stake, the guest reacts without holding back.
+- 'Grandpa, only do not take offense.' Max brings a natural tempo on the spot, anchoring the Russian line on "ded" ("grandfather") and "tolko" ("only") without extra filler.
+- 'Once you get better, I will set such a table for you!' Max brings a clear attitude in the conversation, building the phrase around "popravishsya" ("recover, get better") and "stol" ("table") for a crisp, natural delivery.
+- 'Go on, go on. When I recover, you will set it.' The guest strikes a direct view in front of Max, combining "davay" ("let's") and "kogda" ("when") so the key meaning lands right away.
+- 'Soon this old ticker will break down. Not long is left.' The guest chooses a playful mood for Max, combining "skoro" ("soon") and "sharmanka" ("barrel organ") so the key meaning lands right away.
+- 'Today the doctor informed me. I have two months left.' The guest strikes a candid course beside Max, joining "segodnya" ("today") to "doktor" ("Doctor") so every word pulls its weight.
+- 'I have not told grandma yet.' The guest presents an easygoing course as they talk, pairing "poka" ("bye") with "babushke" ("for grandmother") to get the point across in plain spoken Russian.
+- 'What specifically did the doctor say? What is the diagnosis?' Max queries firmly beside the guest, building the phrase around "konkretno" ("specifically") and "skazal" ("said") for a crisp, natural delivery.
+- 'Grandpa, we will buy the best medicine!' Max sets a steady tone in the room, anchoring the Russian line on "ded" ("grandfather") and "kupim" ("will buy") without extra filler.
+- 'I have grown old. There is your diagnosis.' The guest adopts an emphatic attitude on the spot, pairing "staryy" ("old") with "stal" ("to become") to get the point across in plain spoken Russian.
+- 'And do not get upset.' The guest brings a sharp position on the spot, using "rasstraivaysya" (from "rasstraivatsya", "be upset, worry") alongside "ty" ("you") to shape the meaning.
+- 'I have lived a happy life.' The guest offers an emphatic rhythm as the scene unfolds, building the phrase around "schastlivuyu" ("happy, lucky") and "zhizn" ("life") for a crisp, natural delivery.
+- 'Well, to you and to your family!' The guest maintains a grounded posture right away, pairing "semyu" ("family") with "nu" ("oh, come on") to get the point across in plain spoken Russian.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, so who is this?' Wondering who this is is how Kostya puts Max on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'This is a surprise for you.' Explaining that this is a surprise for Kostya lays the cards on the table for Kostya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'He is making the nursery room for us.' Nastya mentions that he is making the nursery room for them so Kostya sees what is at stake.
-- 'Could you have consulted with me first?' Checking whether Max has consulted with him first cuts straight through the tension between Kostya and Max. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'If the man wants to, let him work.' Pointing out that if the man wants to let him work gives Kostya a sobering reality check.
-- 'That is all for today, goodbye.' Kostya explains that that is all for today goodbye, keeping his voice calm and direct.
-- 'Max, you said that you found some apartment.' Realizing that Max said that Max found some apartment changes how Kostya handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Do not mind that the door is not made of iron.' Noting that do not mind that the door is not made of iron keeps Nastya's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Thieves would never look twice at a door like this.' Even though thieves would never look twice at a door like this, Nastya keeps a steady face in front of Kostya.
-- 'What should I pay you money for?' Here wondering what he pays Kostya money should shows Max looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'People come, look, do not take the apartment, and I waste my time.' Saying that people come look do not take the apartment and she wastes her time is how Nastya sets the tone with Kostya.
-- 'Alright then, show me your apartment.' Between the truth and the apartment, Max gives Kostya a quick, grounded response.
+- 'Nastya, so who is this?' Kostya prompts wryly without hesitation, linking "znachit" ("then, so") directly with "nastya" ("Nastya"), since Russian drops "is" and "are" in the present.
+- 'This is a surprise for you.' Nastya sustains a candid approach with Max, leaning on "syurpriz" ("surprise") before closing the thought with "eto" ("this").
+- 'He is making the nursery room for us.' Nastya maintains a lively attitude as they talk, pairing "delayet" ("does") with "detskuyu" ("nursery, kids' room") to get the point across in plain spoken Russian.
+- 'Could you have consulted with me first?' Kostya checks warmly for Nastya's benefit, linking "mozhno" ("may, can"), "bylo" ("was"), and "posovetovatsya" ("to consult") in one brisk exchange.
+- 'If the man wants to, let him work.' Nastya sustains a grounded bearing without hesitation, using "khochet" (from "khotet", "wants") alongside "chelovek" ("a man, a person") to shape the meaning.
+- 'That is all for today, goodbye.' Kostya sets a clear bearing in the conversation, pairing "segodnya" ("today") with "svidaniya" ("meeting") to get the point across in plain spoken Russian.
+- 'Max, you said that you found some apartment.' Kostya shares a calm manner without hesitation, pairing "govoril" ("said, were saying") with "nashyol" ("found") to get the point across in plain spoken Russian.
+- 'Do not mind that the door is not made of iron.' Nastya sets a resolute course as the scene unfolds, anchoring the Russian line on "smotri" ("look") and "dver" ("door") without extra filler.
+- 'Thieves would never look twice at a door like this.' Nastya conveys a firm rhythm on the spot, linking "dver" ("door"), "vory" ("thieves"), and "zhizni" ("life") in one brisk exchange.
+- 'What should I pay you money for?' Max questions dryly in front of Nastya, anchoring the Russian line on "platit" ("to pay") and "dengi" ("money") without extra filler.
+- 'People come, look, do not take the apartment, and I waste my time.' Nastya keeps a sharp tone toward Kostya, building the phrase around "lyudi" ("people") and "khodyat" ("to walk, to go") for a crisp, natural delivery.
+- 'Alright then, show me your apartment.' Max offers a wry bearing across the room, putting "pokazyvayte" ("to show") alongside "kvartiru" ("flat") in a tight, everyday turn of phrase.

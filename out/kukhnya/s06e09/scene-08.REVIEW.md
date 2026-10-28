@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, because of the accident everything is getting better for us.' Saying that because of the accident everything is getting better for them is how Denis sets the tone with Eleonora. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Did you really ask her for forgiveness?' Asking whether Denis really ask her for forgiveness is how Kostya puts Denis on the spot. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Yes, and she listened to me calmly.' With the shift and chance in play, Denis keeps this short reply brisk and direct.
-- 'Then I congratulate you from the bottom of my heart.' Congratulating Denis from the bottom of his heart is how Kostya lays out the situation for Denis. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Why is there no music in the hall at all?' Asking why there no music in the hall at all is cuts straight through the tension between Eleonora and Denis. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Excuse me, I will quickly start playing right now.' Mentioning that he will quickly start playing right now moves the talk in a new direction.
-- 'Maybe you will play with two hands for the owner's sake?' Questioning whether maybe Denis will play with two hands for the owner sake is how Eleonora tests Denis's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Play more lively, otherwise we will fall asleep here.' Playing more lively otherwise they will fall asleep here is how Eleonora lays out the situation for Denis.
-- 'Forgive me, I got into an accident this morning.' Explaining that he got into an accident this morning lays the cards on the table for Eleonora.
-- 'If you cannot work properly, then leave.' Eleonora mentions that if Denis cannot work properly then leave so Denis sees what is at stake.
-- 'You are fired, I do not need such musicians.' Claiming that Denis is fired she does not need such musicians sounds confident, even if Denis has doubts. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Eleonora Andreevna, after all this is completely unfair.' Explaining that after all this is completely unfair lays the cards on the table for Denis.
-- 'And life in general is a very unfair thing!' Declaring that life in general is a very unfair thing brings Eleonora's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Kostya, because of the accident everything is getting better for us.' Denis holds an honest line toward Eleonora, joining "avarii" ("accident") to "nalazhivayetsya" ("to improve") so every word pulls its weight.
+- 'Did you really ask her for forgiveness?' Kostya questions earnestly with Eleonora now, pairing "proshcheniya" ("forgiveness") with "poprosil" ("asked") to get the point across in plain spoken Russian.
+- 'Yes, and she listened to me calmly.' Denis establishes an emphatic approach without hesitation, linking "spokoyno" ("calmly"), "vyslushala" ("to listen to"), and "da" ("yes") in one brisk exchange.
+- 'Then I congratulate you from the bottom of my heart.' Kostya offers a measured tone in this beat, leaning on "togda" ("back then") before closing the thought with "dushi" ("soul, heart").
+- 'Why is there no music in the hall at all?' Eleonora quizzes steadily from the start, joining "pochemu" ("why") to "zale" ("hall") so every word pulls its weight.
+- 'Excuse me, I will quickly start playing right now.' Denis chooses an honest direction at this moment, anchoring the Russian line on "izvinite" ("sorry, excuse me") and "seychas" ("now") without extra filler.
+- 'Maybe you will play with two hands for the owner's sake?' Eleonora tests decisively without a pause, putting "mozhet" ("can") alongside "khozyayki" ("landlady, hostess") in a tight, everyday turn of phrase.
+- 'Play more lively, otherwise we will fall asleep here.' Eleonora chooses an unhurried attitude with Kostya, putting "igray" ("play") alongside "bodreye" ("more lively") in a tight, everyday turn of phrase.
+- 'Forgive me, I got into an accident this morning.' Denis favors a pointed approach during the exchange, weaving "prostite" ("excuse me") together with "segodnya" ("today") just the way native speakers do.
+- 'If you cannot work properly, then leave.' Eleonora sets a thoughtful bearing in the room, pairing "mozhesh" ("can") with "normalno" ("fine, OK") to get the point across in plain spoken Russian.
+- 'You are fired, I do not need such musicians.' Eleonora conveys a calm manner straight away, linking "uvolen" ("fired"), "muzykanty" ("musician"), and "nuzhny" ("needed") in one brisk exchange.
+- 'Eleonora Andreevna, after all this is completely unfair.' Kostya keeps a brisk tone during the exchange, placing "sovsem" ("at all") straight beside "nespravedlivo" ("unfairly") with no word for "to be" needed.
+- 'And life in general is a very unfair thing!' Eleonora sets a lively mood during the exchange, putting "zhizn" ("life") alongside "voobshche" ("at all") in a tight, everyday turn of phrase.

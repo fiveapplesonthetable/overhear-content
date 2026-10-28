@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, maybe that is enough already, huh?' Asking whether maybe that is enough already huh puts Kostya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I do not understand what you are trying to achieve.' Mentioning that he does not understand what Kostya is trying to achieve moves the talk in a new direction. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'This does not bring you any pleasure, after all.' Once this does not bring Kostya any pleasure after all, Lyova can finally tell Kostya what he means.
-- 'This is red wine, Nastya.' Adding that this is red wine fills in the missing piece for Lyova. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And is that all that you know?' Asking whether that all that Kostya knows cuts straight through the tension between Nastya and Kostya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I said as much as you poured.' Since he said as much as Lyova poured, Kostya does not waste words on excuses.
-- 'You have to name the year and the country.' Mentioning that Kostya has to name the year and the country moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Nastya, you started all this in vain.' Kostya reminds Lyova that Lyova started all this in vain before the moment passes. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I will mess up in front of him again.' Because he will mess up in front of him again, Kostya treats the matter as settled.
-- 'And Nagiyev will fine me again.' Explaining that Nagiyev will fine him again lays the cards on the table for Lyova.
-- 'In your opinion, do I think about our family in vain?' Asking whether in Kostya's opinion do she thinks about their family in vain puts Kostya right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, that is not at all what I meant to say.' Claiming that that is not at all what he meant to say sounds confident, even if Lyova has doubts.
+- 'Chef, maybe that is enough already, huh?' Lyova presses steadily as the talk turns, leaning on "mozhet" ("can") before closing the thought with "khvatit" ("enough").
+- 'I do not understand what you are trying to achieve.' Lyova sustains an easygoing tone without hesitation, leaning on "ponimayu" ("understand") before closing the thought with "dobivayetes" ("to strive for").
+- 'This does not bring you any pleasure, after all.' Lyova displays an unhurried direction without hesitation, building the phrase around "prinosit" ("offers, brings") and "udovolstviya" ("pleasure") for a crisp, natural delivery.
+- 'This is red wine, Nastya.' Kostya picks a direct tack as the scene unfolds, leaning on "krasnoye" ("red") before closing the thought with "vino" ("wine").
+- 'And is that all that you know?' Nastya quizzes plainly right away, linking "znayesh" ("know"), "eto" ("this"), and "vsyo" ("everything") in one brisk exchange.
+- 'I said as much as you poured.' Kostya sets a direct line in the conversation, pairing "skolko" ("how much, so much") with "nalila" ("to pour") to get the point across in plain spoken Russian.
+- 'You have to name the year and the country.' Nastya conveys a brisk tone toward Kostya, combining "dolzhen" ("has to, must") and "nazvat" ("name, call") so the key meaning lands right away.
+- 'Nastya, you started all this in vain.' Kostya holds a measured tone with Nastya, joining "zrya" ("for nothing") to "zateyala" ("vain") so every word pulls its weight.
+- 'I will mess up in front of him again.' Kostya conveys a thoughtful approach on the spot, weaving "opyat" ("again") together with "oshibus" ("to make a mistake") just the way native speakers do.
+- 'And Nagiyev will fine me again.' Kostya shows a direct angle in front of Nastya, weaving "snova" ("again") together with "oshtrafuyet" ("to fine, penalize") just the way native speakers do.
+- 'In your opinion, do I think about our family in vain?' Nastya checks directly for Kostya's benefit, joining "po-tvoyemu" ("wife") to "zrya" ("for nothing") so every word pulls its weight.
+- 'Well, that is not at all what I meant to say.' Kostya favors an easygoing tempo in the room, weaving "sovsem" ("at all") together with "khotel" ("wanted") just the way native speakers do.

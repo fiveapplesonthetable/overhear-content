@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you like it?' Asking whether the guest likes it cuts straight through the tension between Max and the guest.
-- 'You know, it is delicious.' Once it is delicious, the guest can finally tell Max what he means. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well then, gentlemen, shall we sign?' Around the shift and point, the guest wants to know where Max really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Of course! We need to celebrate this with a drink.' By needing to celebrate this with a drink, the guest raises the stakes in the room at once.
-- 'Some champagne!' With the moment and contract at stake, the guest reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I will open it right now and bring it.' Mentioning that he will open it right now and bring it moves the talk in a new direction.
-- 'What do you mean 'I will open it'? Open it here.' Here asking what Max means will open it shows the guest looking for the real truth.
-- 'And the last signature right here.' Around the plan and work, the guest sets a calm, everyday tone with Max.
-- 'Excuse me! Forgive me!' Here telling the guest to forgive him lets Max's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Your dinner is on the house.' Max mentions that the guest's dinner is on the house so the guest sees what is at stake.
-- 'And where is the restroom here?' Here wondering where the restroom here is shows the guest looking for the real truth. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I will show you the way.' Pointing out that he will show the guest the way gives the guest a sobering reality check. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Did you like it?' Max quizzes openly to the guest here, pairing "ponravilos" ("pleased, was liked") with "vam" ("you") to get the point across in plain spoken Russian.
+- 'You know, it is delicious.' The guest sustains a brisk posture without hesitation, using "znayesh" (from "znat", "know") alongside "vkusno" ("it's tasty") to shape the meaning.
+- 'Well then, gentlemen, shall we sign?' The guest questions naturally beside Max, building the phrase around "gospoda" ("gentlemen") and "podpishem" ("will sign") for a crisp, natural delivery.
+- 'Of course! We need to celebrate this with a drink.' The guest picks an easygoing line in the room, anchoring the Russian line on "konechno" ("of course") and "nado" ("it is necessary") without extra filler.
+- 'Some champagne!' The guest offers an emphatic posture at once, using "shampanskogo" ("of champagne") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'I will open it right now and bring it.' Max conveys a steady footing across the room, joining "seychas" ("now") to "otkroyu" ("to open") so every word pulls its weight.
+- 'What do you mean 'I will open it'? Open it here.' The guest inquires sharply without hesitation, building the phrase around "znachit" ("then, so") and "otkroyu" ("to open") for a crisp, natural delivery.
+- 'And the last signature right here.' The guest adopts a frank posture at once, building the phrase around "poslednyaya" ("last, final") and "podpis" ("signature") for a crisp, natural delivery.
+- 'Excuse me! Forgive me!' Max projects a brisk approach as they talk, putting "izvinite" ("sorry, excuse me") alongside "prostite" ("excuse me") in a tight, everyday turn of phrase.
+- 'Your dinner is on the house.' Max conveys a calm angle across the room, linking "uzhin" ("dinner") directly with "schyot" ("counting, account"), since Russian drops "is" and "are" in the present.
+- 'And where is the restroom here?' The guest wonders warmly toward Max here, placing "gde" ("where") straight beside "zdes" ("here") with no word for "to be" needed.
+- 'I will show you the way.' Max picks a measured manner in the room, anchoring the Russian line on "provozhu" ("will walk out") and "ya" ("I") without extra filler.

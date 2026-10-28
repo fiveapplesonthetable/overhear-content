@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Елена | Буду через двадцать минут. | I will be back in twenty minutes. | #143: Буду через<br>#143: минут. | verbatim |
 | 2 | Елена | Миша за главного. | Misha is in charge. | #144: Миша за главного. | verbatim |
-| 3 | Шеф | Да, шеф. | Yes, Chef. | #144: Да, шеф. | verbatim |
+| 3 | Елена | Да, шеф. | Yes, Chef. | #144: Да, шеф. | verbatim |
 | 4 | Елена | Наденька, доделай, пожалуйста, салат. | Nadenka, please finish making the salad. | #145: Наденька, доделай, пожалуйста, салат. | verbatim |
 | 5 | Шеф | Миша, сделай карбонару, а то я не успеваю. | Misha, make the carbonara, otherwise I won't finish in time. | #146: Миша, сделай<br>#146: а то я не успеваю. | verbatim |
 | 6 | Елена | Сделаем. | We will get it done. | #147: Сделаем. | verbatim |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will be back in twenty minutes.' Claiming that she will be back in twenty minutes sounds confident, even if Barinov has doubts.
-- 'Misha is in charge.' Pointing out that Misha is in charge gives Barinov a sobering reality check.
-- 'Yes, Chef.' With the point and respect in play, Barinov keeps this short reply brisk and direct.
-- 'Nadenka, please finish making the salad.' Over the point and the respect, Elena answers Barinov without a second thought.
-- 'Misha, make the carbonara, otherwise I won't finish in time.' Mentioning that Elena should make the carbonara otherwise he will not finish in time moves the talk in a new direction.
-- 'We will get it done.' Even though they will get it done, Elena keeps a steady face in front of Barinov.
-- 'Take a seat. Coffee? Thank you.' With the point and respect hanging in the air, Barinov puts Elena on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'So, have you set up senior hazing here?' By checking whether Barinov sets up senior hazing here, Elena presses Barinov for a straight answer.
-- 'Hazing is for people who have no brains.' Once hazing is for people who have no brains, Barinov can finally tell Elena what he means. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Whereas for harmoniously developed personalities like me,.' With the truth and respect in play, Barinov keeps this short reply brisk and direct.
-- 'there are other levers of influence.' Saying that there are other levers of influence is how Barinov sets the tone with Elena.
-- 'Well, we shall see.' With the plan and respect in play, Elena keeps this short reply brisk and direct.
+- 'I will be back in twenty minutes.' Elena shares a pointed tack as the scene unfolds, putting "budu" ("will be") alongside "minut" ("minutes") in a tight, everyday turn of phrase.
+- 'Misha is in charge.' Elena projects a brisk bearing toward Barinov, using "glavnogo" (from "glavnyy", "main") alongside "misha" ("Misha") to shape the meaning.
+- 'Yes, Chef.' Elena sets a clear posture in front of Barinov, building the phrase around "da" ("yes") and "shef" ("Chef") for a crisp, natural delivery.
+- 'Nadenka, please finish making the salad.' Elena offers a pointed mood toward Barinov, putting "nadenka" ("nadenka") alongside "dodelay" ("please") in a tight, everyday turn of phrase.
+- 'Misha, make the carbonara, otherwise I won't finish in time.' Barinov favors a measured view at once, linking "sdelay" ("make, do"), "karbonaru" ("carbonara"), and "uspevayu" ("to manage in time") in one brisk exchange.
+- 'We will get it done.' Elena shares an honest mood at once, letting the single Russian word "sdelayem" ("we'll do") carry the entire reaction on its own.
+- 'Take a seat. Coffee? Thank you.' Barinov wonders wryly as the talk turns, leaning on "sadites" ("sit down") before closing the thought with "kofe" ("of coffee").
+- 'So, have you set up senior hazing here?' Elena asks steadily across the room, joining "dedovshchinu" ("up") to "ustroili" ("to arrange") so every word pulls its weight.
+- 'Hazing is for people who have no brains.' Barinov projects a direct direction at once, putting "dedovshchina" ("hazing") alongside "mozgov" ("brain") in a tight, everyday turn of phrase.
+- 'Whereas for harmoniously developed personalities like me,.' Barinov holds a lively manner at once, leaning on "garmonichno" ("developed") before closing the thought with "razvitykh" ("personalities").
+- 'there are other levers of influence.' Barinov takes a clear manner in the scene, joining "yest" ("there is") to "drugiye" ("other") so every word pulls its weight.
+- 'Well, we shall see.' Elena strikes an emphatic note on the spot, anchoring the Russian line on "posmotrim" ("have a look") and "nu" ("oh, come on") without extra filler.

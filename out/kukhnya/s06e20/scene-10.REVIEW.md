@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostik, close your eyes and open your mouth.' Around the test and truth, Nastya sets a calm, everyday tone with Barinov.
-- 'Why should I open my mouth right now?' Wondering why he opens his mouth right now should cuts straight through the tension between Barinov and Mikhail. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It is necessary, come on, open up quickly.' Nastya mentions that it is necessary come on open up quickly so Barinov sees what is at stake. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Nastya, is this some kind of joke?' Checking whether this some kind of joke is how Barinov puts Mikhail on the spot.
-- 'Vitya, the inspector already called me.' Pointing out that the inspector already called him gives Barinov a sobering reality check.
-- 'He will be here very soon.' Saying that he will be here very soon is how Mikhail sets the tone with Barinov.
-- 'So come on, get the wheelchair ready.' Coming on get the wheelchair ready is how Mikhail lays out the situation for Barinov.
-- 'Wait, where is my wheelchair?' Here wondering where his wheelchair is shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'How could you lose the wheelchair?' By asking how Barinov loses the wheelchair could, Mikhail presses Barinov for a straight answer. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Hey, stop right there this instant!' By telling Mikhail to stop right there this instant, Barinov raises the stakes in the room at once.
-- 'Where are you riding off to on it?' Asking where Mikhail riding off to on it is is how Barinov puts Mikhail on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Well, what are you doing over there?' Here asking what Barinov doing over there is shows Mikhail looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Kostik, close your eyes and open your mouth.' Nastya adopts an easygoing line beside Barinov, pairing "zakroy" ("shut, close") with "glaza" ("eyes") to get the point across in plain spoken Russian.
+- 'Why should I open my mouth right now?' Barinov inquires pointedly right away, linking "zachem" ("what for"), "otkryvat" ("open"), and "seychas" ("now") in one brisk exchange.
+- 'It is necessary, come on, open up quickly.' Nastya shows an emphatic stance in the conversation, building the phrase around "nuzhno" ("necessary") and "davay" ("let's") for a crisp, natural delivery.
+- 'Nastya, is this some kind of joke?' Barinov quizzes plainly to make the point, building the phrase around "shutka" ("joke, prank") and "nastya" ("Nastya") for a crisp, natural delivery.
+- 'Vitya, the inspector already called me.' Mikhail adopts an earnest rhythm with Barinov, building the phrase around "inspektor" ("inspector") and "uzhe" ("already, now") for a crisp, natural delivery.
+- 'He will be here very soon.' Mikhail brings a wry attitude in this beat, anchoring the Russian line on "sovsem" ("at all") and "skoro" ("soon") without extra filler.
+- 'So come on, get the wheelchair ready.' Mikhail holds a warm style straight away, pairing "davay" ("let's") with "gotov" ("prepare") to get the point across in plain spoken Russian.
+- 'Wait, where is my wheelchair?' Barinov probes boldly without hesitation, using "podozhdi" (from "podozhdat", "wait") alongside "gde" ("where") to shape the meaning.
+- 'How could you lose the wheelchair?' Mikhail presses pointedly in this moment, putting "kak" ("how") alongside "mogli" ("could") in a tight, everyday turn of phrase.
+- 'Hey, stop right there this instant!' Barinov shares a wry approach as they talk, building the phrase around "stoy" ("stop, wait") and "meste" ("place") for a crisp, natural delivery.
+- 'Where are you riding off to on it?' Barinov challenges decisively as the beat lands, linking "kuda" ("where to"), "yedesh" ("are driving"), and "ty" ("you") in one brisk exchange.
+- 'Well, what are you doing over there?' Mikhail asks dryly without hesitation, pairing "tam" ("there") with "delayesh" ("are you doing") to get the point across in plain spoken Russian.

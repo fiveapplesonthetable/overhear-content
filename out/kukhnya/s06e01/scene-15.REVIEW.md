@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you not expect it, Vitya?' Checking whether Barinov not expect it is how the guest puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You are not even here!' Insisting that the guest is not even here shows Barinov is not backing down.
-- 'In your head I am still alive.' Saying that in Barinov's head he is still alive is how the guest sets the tone with Barinov.
-- 'Vitya, go see a doctor.' Even though Barinov should go see a doctor, the guest keeps a steady face in front of Barinov.
-- 'Surely you would be glad about that.' Adding that surely the guest would be glad fills in the missing piece for the guest.
-- 'In your troubles you always blame someone else.' Around the plan and room, the guest sets a calm, everyday tone with Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'The marriage fell apart—the mother-in-law is to blame.' Since the marriage fell apart the mother in law is to blame, the guest does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Nobody loves you or appreciates you.' Mentioning that nobody loves Barinov or appreciates Barinov moves the talk in a new direction.
-- 'Everyone irritates someone as good as you.' Around the room and kitchen, the guest sets a calm, everyday tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What do you know about me?' Here wondering what the guest knows about him shows Barinov looking for the real truth. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Everything you just heard, you said to yourself.' Explaining that everything Barinov just heard Barinov said to themselves lays the cards on the table for Barinov.
-- 'And the conclusions are yours to draw too.' The guest mentions that the conclusions are Barinov's to draw so Barinov sees what is at stake. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Did you not expect it, Vitya?' The guest challenges honestly in the scene, building the phrase around "ozhidal" ("expected") and "ne" ("not") for a crisp, natural delivery.
+- 'You are not even here!' Barinov maintains a candid mood toward the guest, leaning on "vas" ("you") before closing the thought with "zhe" ("but, after all").
+- 'In your head I am still alive.' The guest displays a measured manner without hesitation, pairing "golove" ("the head") with "por" ("time") to get the point across in plain spoken Russian.
+- 'Vitya, go see a doctor.' The guest strikes an earnest tempo across the room, building the phrase around "skhodi" ("go") and "vrachu" ("the doctor") for a crisp, natural delivery.
+- 'Surely you would be glad about that.' Barinov shows a frank view in the scene, building the phrase around "navernyaka" ("surely, definitely") and "obradovalis" ("would be glad") for a crisp, natural delivery.
+- 'In your troubles you always blame someone else.' The guest conveys a measured footing right away, joining "bedakh" ("troubles, misfortunes") to "vsegda" ("always") so every word pulls its weight.
+- 'The marriage fell apart—the mother-in-law is to blame.' The guest sets a serious manner in the room, anchoring the Russian line on "razrushilsya" ("fell apart") and "brak" ("marriage") without extra filler.
+- 'Nobody loves you or appreciates you.' The guest chooses a natural stance in the room, pairing "lyubit" ("loves") with "tsenit" ("values, appreciates") to get the point across in plain spoken Russian.
+- 'Everyone irritates someone as good as you.' The guest maintains an unhurried mood in the scene, pairing "razdrazhayut" ("irritate, annoy") with "khoroshego" ("good, the best") to get the point across in plain spoken Russian.
+- 'What do you know about me?' Barinov prompts openly toward the guest here, anchoring the Russian line on "znayete" ("know") and "chto" ("what") without extra filler.
+- 'Everything you just heard, you said to yourself.' The guest projects a direct direction toward Barinov, weaving "seychas" ("now") together with "uslyshal" ("heard") just the way native speakers do.
+- 'And the conclusions are yours to draw too.' The guest chooses a lively style without hesitation, anchoring the Russian line on "vyvody" ("conclusions") and "delat" ("do") without extra filler.

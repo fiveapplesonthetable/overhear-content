@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, halt, where are you carrying that?' Barinov asks whether all right halt where are Fedya carrying, refusing to let the point slide. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Fedya, actually that is my fish!' Declaring that that is his fish brings Barinov's temper right to the surface. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'How is it yours when I ordered it!' Fedya insists that how is it Barinov's when he ordered it, leaving Barinov no room to argue.
-- 'Chef, he placed his order before you.' Between the moment and the fish, Timur gives Barinov a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Fedya, for old friendship's sake, sell me the fish!' With the moment and fish at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Chef, do not take offense, but I cannot.' Saying that do not take offense but he cannot is how Fedya sets the tone with Barinov.
-- 'Chef, there is plenty of fish here, enough for everyone.' Once there is plenty of fish here enough for everyone, Timur can finally tell Barinov what he means.
-- 'And is it definitely from the same batch?' Checking whether it definitely from the same batch cuts straight through the tension between Barinov and Fedya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well yes, of course, take it all.' Because Fedya should take it all, Barinov treats the matter as settled.
-- 'Timur, do you know about precious stones?' Here asking whether Barinov knows about precious stones shows Fedya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Of course, I studied to be a jeweler, after all.' Over the conversation and the fish, Timur answers Barinov without a second thought.
-- 'I inherited a little stone from my grandmother.' Around the conversation and fish, Fedya sets a calm, everyday tone with Barinov.
-- 'Listen, sell it to me, I will give you a hundred thousand!' Selling it to him he will give Barinov a hundred thousand is Timur's blunt reaction in front of Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'That means it is worth a full three hundred thousand!' Insisting that that means it is worth a full three hundred thousand shows Fedya is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'All right, halt, where are you carrying that?' Barinov asks bluntly during the talk, anchoring the Russian line on "stoyat" ("to stand") and "kuda" ("where to") without extra filler.
+- 'Fedya, actually that is my fish!' Barinov displays an unhurried view during the exchange, anchoring the Russian line on "voobshche-to" ("actually") and "ryba" ("fish") without extra filler.
+- 'How is it yours when I ordered it!' Fedya shares an easygoing mood beside Barinov, anchoring the Russian line on "kak" ("how") and "zakazyval" ("ordered") without extra filler.
+- 'Chef, he placed his order before you.' Timur picks a brisk line straight away, weaving "zakaz" ("order") together with "delal" ("were doing") just the way native speakers do.
+- 'Fedya, for old friendship's sake, sell me the fish!' Barinov picks a warm position beside Fedya, leaning on "staroy" ("old") before closing the thought with "druzhbe" ("friendship").
+- 'Chef, do not take offense, but I cannot.' Fedya projects a steady mood in the room, weaving "obizhaytes" ("to take offence") together with "mogu" ("can") just the way native speakers do.
+- 'Chef, there is plenty of fish here, enough for everyone.' Timur chooses a measured bearing in their talk, building the phrase around "tut" ("here") and "mnogo" ("a lot") for a crisp, natural delivery.
+- 'And is it definitely from the same batch?' Barinov challenges warmly for Timur's benefit, linking "tochno" ("definitely") directly with "partii" ("batch"), since Russian drops "is" and "are" in the present.
+- 'Well yes, of course, take it all.' Barinov projects a resolute stance in the room, building the phrase around "konechno" ("of course") and "zabiray" ("take, collect") for a crisp, natural delivery.
+- 'Timur, do you know about precious stones?' Fedya quizzes lightly right away, leaning on "dragotsennykh" ("precious") before closing the thought with "kamnyakh" ("stone, rock").
+- 'Of course, I studied to be a jeweler, after all.' Timur offers a pointed attitude at once, linking "konechno" ("of course"), "yuvelira" ("all"), and "uchilsya" ("studied") in one brisk exchange.
+- 'I inherited a little stone from my grandmother.' Fedya adopts a calm tone for Timur, pairing "dostalsya" ("to fall to") with "kamushek" ("little") so the "-sya" ending carries the action.
+- 'Listen, sell it to me, I will give you a hundred thousand!' Timur maintains a sharp bearing at once, putting "slushay" ("listen") alongside "proday" ("to sell") in a tight, everyday turn of phrase.
+- 'That means it is worth a full three hundred thousand!' Fedya conveys a serious style in their talk, anchoring the Russian line on "znachit" ("then, so") and "tysyach" ("thousand") without extra filler.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, what on earth is that you have?' With the situation and room hanging in the air, Barinov puts Katya on the spot.
-- 'You must not drag good groceries home.' Mentioning that Katya must not drag good groceries home moves the talk in a new direction. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Chef, honestly I did not steal anything.' Saying that he did not steal anything is how Max sets the tone with Barinov. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Keep in mind, I know all your hiding places well.' By telling Katya to keep in mind he knows all Katya's hiding places well, Barinov keeps his side of the story grounded.
-- 'So do not even try to argue.' Explaining that do not even try to argue lays the cards on the table for Katya.
-- 'Done, I cleaned all the contacts here.' Over the room and the plan, Max answers Barinov without a second thought.
-- 'Wow, what an electrician you are!' Insisting that wow what an electrician Barinov is shows Katya is not backing down.
-- 'Never hold onto an electrician with your hands.' Pointing out that never hold onto an electrician with Barinov's hands gives Barinov a sobering reality check. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Let us go to the kitchen, we still have to cook.' Explaining that they should go to the kitchen they still have to cook lays the cards on the table for Barinov. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Max, get me the rice from the top shelf.' Katya mentions that Barinov should get her the rice from the top shelf so Barinov sees what is at stake.
-- 'And why do I have to be the one to get it?' Asking why he has to be the one to get it cuts straight through the tension between Max and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Tall Lyova is standing right there, ask him.' Even though tall Lyova is standing right there ask him, Max keeps a steady face in front of Barinov.
+- 'Senya, what on earth is that you have?' Barinov asks plainly for Katya's benefit, placing "yeshchyo" ("more, still") straight beside "senya" ("Senya") with no word for "to be" needed.
+- 'You must not drag good groceries home.' Barinov displays a grounded tempo in this beat, putting "normalnyye" ("normal") alongside "produkty" ("groceries") in a tight, everyday turn of phrase.
+- 'Chef, honestly I did not steal anything.' Max shows a brisk manner across the room, putting "chestnoye" ("honest") alongside "slovo" ("word") in a tight, everyday turn of phrase.
+- 'Keep in mind, I know all your hiding places well.' Barinov picks an earnest course in front of Max, pairing "uchti" ("bear in mind") with "tayniki" ("hiding place") to get the point across in plain spoken Russian.
+- 'So do not even try to argue.' Barinov holds a brisk angle in the conversation, putting "pytaysya" ("try") alongside "sporit" ("to argue") in a tight, everyday turn of phrase.
+- 'Done, I cleaned all the contacts here.' Max offers an honest angle in the room, joining "gotovo" ("ready") to "tut" ("here") so every word pulls its weight.
+- 'Wow, what an electrician you are!' Katya holds a frank tempo in front of Barinov, pairing "elektrik" ("electrician") with "ukh" ("oh, wow") to get the point across in plain spoken Russian.
+- 'Never hold onto an electrician with your hands.' Max takes a lively direction toward Katya, putting "nikogda" ("never") alongside "derzhis" ("hang in there") in a tight, everyday turn of phrase.
+- 'Let us go to the kitchen, we still have to cook.' Katya chooses a candid footing in their talk, combining "poshli" ("let's go") and "kukhnyu" ("kitchen") so the key meaning lands right away.
+- 'Max, get me the rice from the top shelf.' Katya sustains a calm note in the scene, building the phrase around "dostan" ("to take out") and "ris" ("rice") for a crisp, natural delivery.
+- 'And why do I have to be the one to get it?' Max asks directly without hesitation, anchoring the Russian line on "pochemu" ("why") and "srazu" ("at once") without extra filler.
+- 'Tall Lyova is standing right there, ask him.' Max shows a wry line at this moment, weaving "ryadom" ("nearby") together with "stoit" ("is parked") just the way native speakers do.

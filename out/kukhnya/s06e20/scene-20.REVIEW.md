@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I take it you have resumed your relationship?' Taking it Barinov has resumed Barinov's relationship cuts straight through the tension between Eleonora and Barinov. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Then I will tell her about us.' Explaining that she will tell her about them lays the cards on the table for Barinov.
-- 'Because I love my daughter.' Eleonora mentions that because she loves her daughter so Barinov sees what is at stake.
-- 'She will have a chance to find another man.' Claiming that she will have a chance to find another man sounds confident, even if Barinov has doubts. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Katyusha, I need to tell you something.' Pointing out that someone she needs to tell Barinov something gives Barinov a sobering reality check. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Mom, you will soon become a grandmother!' Katya insists that Mom Barinov will soon become a grandmother, leaving Barinov no room to argue.
-- 'And you, Denis, will become a dad!' Saying that Barinov Denis will become a dad is how Katya takes charge of the moment. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I just found out myself right now.' Noting that she just found out herself right now keeps Katya's side of the story simple and clear.
-- 'Our life is a small kitchen.' Even though their life is a small kitchen, Barinov keeps a steady face in front of Eleonora.
-- 'In it we cook our happiness.' Between the point and the team, Barinov gives Eleonora a quick, grounded response.
-- 'We choose the needed ingredients ourselves.' Barinov mentions that they choose the needed ingredients themselves so Eleonora sees what is at stake.
-- 'Create and try something new!' With the plan and team at stake, Barinov reacts without holding back.
-- 'And then a great reward awaits you!' Over the room and the team, Barinov lets his real feelings show. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'I take it you have resumed your relationship?' Eleonora tests frankly from the start, putting "ponimayu" ("understand") alongside "vozobnovili" ("resumed, renewed") in a tight, everyday turn of phrase.
+- 'Then I will tell her about us.' Eleonora maintains a measured attitude in the room, joining "togda" ("back then") to "rasskazhu" ("will tell") so every word pulls its weight.
+- 'Because I love my daughter.' Eleonora offers a direct mood straight away, linking "potomu" ("because"), "lyublyu" ("love"), and "doch" ("daughter") in one brisk exchange.
+- 'She will have a chance to find another man.' Eleonora maintains a frank angle at once, linking "budet" ("will be"), "shans" ("chance"), and "nayti" ("to find") in one brisk exchange.
+- 'Katyusha, I need to tell you something.' Eleonora picks a grounded posture right away, putting "katyusha" ("eat") alongside "nuzhno" ("necessary") in a tight, everyday turn of phrase.
+- 'Mom, you will soon become a grandmother!' Katya shares a candid view without hesitation, leaning on "mama" ("mum, mother") before closing the thought with "skoro" ("soon").
+- 'And you, Denis, will become a dad!' Katya conveys an easygoing footing in their talk, building the phrase around "stanesh" ("will become") and "papoy" ("dad") for a crisp, natural delivery.
+- 'I just found out myself right now.' Katya takes an unhurried course straight away, linking "tolko" ("only"), "uznala" ("to recognise"), and "ya" ("I") in one brisk exchange.
+- 'Our life is a small kitchen.' Barinov sets a clear attitude at this moment, pairing "zhizn" ("life") with "malenkaya" ("small") to get the point across in plain spoken Russian.
+- 'In it we cook our happiness.' Barinov conveys a wry course in the conversation, linking "gotovim" ("are preparing"), "schastye" ("happiness"), and "na" ("on, onto") in one brisk exchange.
+- 'We choose the needed ingredients ourselves.' Barinov shows a brisk direction with Eleonora, weaving "vybirayem" ("choose") together with "nuzhnyye" ("necessary") just the way native speakers do.
+- 'Create and try something new!' Barinov maintains a measured footing beside Katya, anchoring the Russian line on "tvorite" ("are doing, perpetrating") and "probuyte" ("to try, to taste") without extra filler.
+- 'And then a great reward awaits you!' Barinov conveys a brisk position for Eleonora, building the phrase around "togda" ("back then") and "zhdyot" ("is waiting") for a crisp, natural delivery.

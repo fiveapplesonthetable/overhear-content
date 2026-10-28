@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you have a friend who plays the guitar?' Checking whether Barinov has a friend who plays the guitar is how Nikita puts Barinov on the spot. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'And does it have to be specifically on the guitar?' Checking whether it have to be specifically on the guitar cuts straight through the tension between Nikita and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, I specifically need a guitarist today.' Between the shift and the secret, Nikita gives Barinov a quick, grounded response.
-- 'I arranged it, nobody will be in the dining room.' Realizing that he arranged it nobody will be in the dining room changes how Nikita handles the situation.
-- 'You sit in the corner and play softly.' Noting that Barinov sits in the corner and play softly keeps Nikita's side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Of course, I will gladly play.' Even though he will gladly play, Denis keeps a steady face in front of Barinov.
-- 'I would like to get the money up front right now.' Admitting that he would like to get the money up front right now shows Denis being honest for a change.
-- 'I have to pay rent for the apartment today.' Because he has to pay rent for the apartment today, Denis treats the matter as settled. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'No problem, let's ride over to the hotel.' Once problem let them ride over to the hotel, Nikita can finally tell Barinov what he means.
-- 'Oguzok, let's work very fast.' Adding that Oguzok let them work very fast fills in the missing piece for Denis. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'I hang the shelves, and you assemble the crib.' Saying that he hangs the shelves and Denis assemble the crib is how Barinov sets the tone with Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Just be more careful with the tools.' With the moment and date in play, Barinov keeps this short reply brisk and direct.
+- 'Do you have a friend who plays the guitar?' Nikita inquires evenly without a pause, joining "znakomogo" ("familiar, known") to "gitare" ("guitar") so every word pulls its weight.
+- 'And does it have to be specifically on the guitar?' Nikita checks wryly with Denis now, joining "printsipialno" ("as a matter of principle") to "gitare" ("guitar") so every word pulls its weight.
+- 'Yes, I specifically need a guitarist today.' Nikita keeps a warm attitude straight away, building the phrase around "gitarist" ("guitarist") and "segodnya" ("today") for a crisp, natural delivery.
+- 'I arranged it, nobody will be in the dining room.' Nikita presents a frank posture right away, pairing "dogovorilsya" ("made a deal") with "zale" ("hall") to get the point across in plain spoken Russian.
+- 'You sit in the corner and play softly.' Nikita adopts a lively course as the scene unfolds, pairing "sidish" ("are sitting") with "ugolochke" ("little corner") to get the point across in plain spoken Russian.
+- 'Of course, I will gladly play.' Denis establishes an earnest style without hesitation, weaving "konechno" ("of course") together with "radostyu" ("joy, pleasure") just the way native speakers do.
+- 'I would like to get the money up front right now.' Denis shares a lively mood on the spot, putting "seychas" ("now") alongside "poluchit" ("to get, to receive") in a tight, everyday turn of phrase.
+- 'I have to pay rent for the apartment today.' Denis chooses a wry tack in front of Nikita, joining "segodnya" ("today") to "kvartiru" ("flat") so every word pulls its weight.
+- 'No problem, let's ride over to the hotel.' Nikita projects a frank footing with Barinov, putting "problem" ("problems") alongside "davay" ("let's") in a tight, everyday turn of phrase.
+- 'Oguzok, let's work very fast.' Barinov chooses an honest position in their talk, building the phrase around "davay" ("let's") and "rabotat" ("to work") for a crisp, natural delivery.
+- 'I hang the shelves, and you assemble the crib.' Barinov presents a pointed direction straight away, putting "veshayu" ("I hang") alongside "polki" ("shelves") in a tight, everyday turn of phrase.
+- 'Just be more careful with the tools.' Barinov adopts a playful footing in the scene, linking "tolko" ("only"), "bud" ("were he"), and "akkuratney" ("more carefully") in one brisk exchange.

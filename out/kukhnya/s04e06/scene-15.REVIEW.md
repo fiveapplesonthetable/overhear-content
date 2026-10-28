@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Somehow I do not recognize you at all today, Vitya.' Adding that somehow she does not recognize Barinov at all today fills in the missing piece for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'First a gift, and now an evening restaurant.' Around the room and table, Elena sets a calm, everyday tone with Barinov.
-- 'Lena, excuse me, I need to step away one more time.' Since someone excuse him he needs to step away one more time, Barinov does not waste words on excuses. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Vitya, if your stomach hurts, let's leave.' Mentioning that if Barinov's stomach hurts let them leave moves the talk in a new direction. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'No, I will return in literally a couple of minutes!' Barinov insists that he will return in literally a couple of minutes, leaving Elena no room to argue.
-- 'We waited so long, and there will be no dessert today?' Questioning whether they waited so long and there will be no dessert today is how Elena tests Barinov's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Excuse us, let's prepare something else for you.' Since Barinov should excuse them let them prepare something else for Barinov, Vika does not waste words on excuses. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'It will be very fast and on the house.' Saying that it will be very fast and on the house is how Vika sets the tone with Barinov.
-- 'Good, if it is really fast, then let's do it.' Claiming that good if it is really fast then let them do it sounds confident, even if Elena has doubts. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'We will serve you our signature blueberry sorbet.' Pointing out that they will serve Barinov their signature blueberry sorbet gives Barinov a sobering reality check. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Denis, make a quick blueberry sorbet for the guests!' By making a quick blueberry sorbet for the guests, Vika raises the stakes in the room at once.
-- 'Louis always prepares it right in front of the guests.' Realizing that Louis always prepares it right in front of the guests changes how Vika handles the situation.
+- 'Somehow I do not recognize you at all today, Vitya.' Elena establishes a wry stance beside Barinov, combining "segodnya" ("today") and "sovsem" ("at all") so the key meaning lands right away.
+- 'First a gift, and now an evening restaurant.' Elena shares a resolute mood during the exchange, linking "snachala" ("first, at first"), "podarok" ("gift, voucher"), and "teper" ("now") in one brisk exchange.
+- 'Lena, excuse me, I need to step away one more time.' Barinov sets a natural position for Elena, combining "izvini" ("sorry, excuse me") and "nuzhno" ("necessary") so the key meaning lands right away.
+- 'Vitya, if your stomach hurts, let's leave.' Elena sustains a clear tack without hesitation, building the phrase around "bolit" ("hurts, aches") and "zheludok" ("stomach") for a crisp, natural delivery.
+- 'No, I will return in literally a couple of minutes!' Barinov picks a candid attitude in the scene, building the phrase around "vernus" ("will come back") and "bukvalno" ("literally") for a crisp, natural delivery.
+- 'We waited so long, and there will be no dessert today?' Elena probes frankly as they speak, linking "stolko" ("so many"), "zhdali" ("waited for"), and "deserta" ("dessert") in one brisk exchange.
+- 'Excuse us, let's prepare something else for you.' Vika holds an emphatic tack as they talk, combining the polite invitation "davayte" ("let us") with "izvinite" ("sorry, excuse me") to give the line its natural spoken rhythm.
+- 'It will be very fast and on the house.' Vika offers a resolute posture for Elena, linking "budet" ("will be"), "ochen" ("very much"), and "bystro" ("quickly") in one brisk exchange.
+- 'Good, if it is really fast, then let's do it.' Barinov favors a thoughtful approach across the room, joining "khorosho" ("good, fine") to "deystvitelno" ("really, indeed") so every word pulls its weight.
+- 'We will serve you our signature blueberry sorbet.' Vika takes a resolute tempo at once, linking "podadim" ("will submit"), "firmennyy" ("signature"), and "chernichnyy" ("sorbet") in one brisk exchange.
+- 'Denis, make a quick blueberry sorbet for the guests!' Vika establishes an unhurried style as the scene unfolds, pairing "denis" ("Denis") with "sdelay" ("make, do") so the "-sya" ending carries the action.
+- 'Louis always prepares it right in front of the guests.' Vika establishes an unhurried tempo in the scene, putting "vsegda" ("always") alongside "gotovit" ("cooks") in a tight, everyday turn of phrase.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Not everything people say is the pure truth.' Even though not everything people say is the pure truth, Max keeps a steady face in front of Lyova.
-- 'Besides, you brought Kostya and Nastya together.' Admitting that besides Max brought Kostya and Nastya together shows Lyova being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And look how different those two people are.' Saying that how different those two people are is how Lyova sets the tone with Max.
-- 'Alright, I will try to arrange a date for you two.' Once Alright he will try to arrange a date for Lyova two, Max can finally tell Lyova what he means. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'You will obey me in everything.' Adding that Lyova will obey him in everything fills in the missing piece for Lyova. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'If it does not work out, it is not my fault.' Max tells Lyova that if it does not work out it is not his fault without dressing it up.
-- 'I will come to work an hour later.' Since he will come to work an hour later, Max does not waste words on excuses.
-- 'Alright, it is a deal, come an hour later.' Mentioning that Alright it is a deal come an hour later moves the talk in a new direction.
-- 'Listen, am I distracting you right now?' Over the truth and the deal, Nagiyev presses Lyova for a straight answer.
-- 'That is good, then listen carefully.' Because that is good then listen carefully, Nagiyev treats the matter as settled.
-- 'I wanted to ask you for some advice.' Explaining that he wanted to ask Lyova for some advice lays the cards on the table for Lyova. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'It is a question on a very delicate matter.' Saying that it is a question on a very delicate matter is how Nagiyev sets the tone with Lyova.
+- 'Not everything people say is the pure truth.' Max keeps a direct line in front of Lyova, building the phrase around "govoryat" ("talks, says") and "chistaya" ("clean") for a crisp, natural delivery.
+- 'Besides, you brought Kostya and Nastya together.' Lyova keeps a measured posture as they talk, linking "svyol" ("brought together"), "tomu" ("that"), and "zhe" ("but, after all") in one brisk exchange.
+- 'And look how different those two people are.' Lyova takes a candid view in the conversation, placing "raznyye" ("various, different") straight beside "lyudi" ("people") with no word for "to be" needed.
+- 'Alright, I will try to arrange a date for you two.' Max offers a thoughtful tone toward Nagiyev, joining "poprobuyu" ("will try") to "ustroit" ("to arrange") so every word pulls its weight.
+- 'You will obey me in everything.' Max shares a measured line at this moment, using "budesh" (from "byt", "will") alongside "slushatsya" ("to obey, to listen to") to shape the meaning.
+- 'If it does not work out, it is not my fault.' Max presents a clear manner beside Nagiyev, pairing "poluchitsya" ("will come out") with "vinovat" ("at fault, guilty") to get the point across in plain spoken Russian.
+- 'I will come to work an hour later.' Max presents a playful course in the conversation, leaning on "rabotu" ("job") before closing the thought with "budu" ("will be").
+- 'Alright, it is a deal, come an hour later.' Lyova sustains a natural mood in this beat, leaning on "khorosho" ("good, fine") before closing the thought with "dogovorilis" ("agreed, deal").
+- 'Listen, am I distracting you right now?' Nagiyev wonders boldly in this moment, linking "slushay" ("listen"), "seychas" ("now"), and "otvlekayu" ("distract") in one brisk exchange.
+- 'That is good, then listen carefully.' Nagiyev takes a grounded note at this moment, putting "khorosho" ("good, fine") alongside "togda" ("back then") in a tight, everyday turn of phrase.
+- 'I wanted to ask you for some advice.' Nagiyev picks a brisk stance as the scene unfolds, joining "khotel" ("wanted") to "sprosit" ("to ask") so every word pulls its weight.
+- 'It is a question on a very delicate matter.' Nagiyev strikes a direct tempo in the room, building the phrase around "vopros" ("question, matter") and "ochen" ("very much") for a crisp, natural delivery.

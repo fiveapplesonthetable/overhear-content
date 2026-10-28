@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Be sure to write down the recipe for me later.' With the inspector and photo in play, Gulya keeps this short reply brisk and direct.
-- 'How wonderful that you showed up at our place.' Since how wonderful that Barinov showed up at their place, Gulya does not waste words on excuses. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I have been meaning to wash the windows for so long, I just never get around to it.' Even though she has been meaning to wash the windows for so long she just never get around to it, Gulya keeps a steady face in front of Barinov.
-- 'Will you wash the windows today?' By checking whether Barinov washes the windows today, Gulya presses Barinov for a straight answer.
-- 'Alright, I will wash them right now.' Because Alright she will wash them right now, Gulya treats the matter as settled.
-- 'Is the chef in his office?' Checking whether the in his office is how Louis puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, he is in his office.' Saying that he is in his office is how Gulya sets the tone with Barinov.
-- 'Viktor Petrovich, here is the inspector who came to my father's place!' Declaring that here is the inspector who came to his father place brings Louis's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Then who do we have sitting in the dining room?' Wondering who they have sitting in the dining room cuts straight through the tension between Barinov and Gulya. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'First and foremost, he is our guest.' Barinov explains that first and foremost he is their guest, keeping his voice calm and direct.
-- 'In five minutes I will serve the dish to our guest.' Realizing that in five minutes he will serve the dish to their guest changes how Barinov handles the situation.
-- 'But he is not the real inspector!' Here being not the real inspector lets Louis's real feelings break through. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Be sure to write down the recipe for me later.' Gulya strikes a lively note at once, weaving "napishesh" ("to write") together with "potom" ("then") just the way native speakers do.
+- 'How wonderful that you showed up at our place.' Gulya chooses a measured bearing beside Louis, weaving "kak" ("how") together with "khorosho" ("good, fine") just the way native speakers do.
+- 'I have been meaning to wash the windows for so long, I just never get around to it.' Gulya strikes a direct tone in the scene, linking "stolko" ("so many"), "vremeni" ("time"), and "sobirayus" ("am planning") in one brisk exchange.
+- 'Will you wash the windows today?' Gulya asks warmly as they speak, leaning on "pomoyesh" ("will wash") before closing the thought with "okna" ("window").
+- 'Alright, I will wash them right now.' Gulya offers a grounded direction beside Barinov, weaving "khorosho" ("good, fine") together with "seychas" ("now") just the way native speakers do.
+- 'Is the chef in his office?' Louis wonders steadily right away, linking "kabinete" ("office"), "shef" ("Chef"), and "sebya" ("myself") in one brisk exchange.
+- 'Yes, he is in his office.' Gulya holds a lively stance in front of Barinov, placing "da" ("yes") straight beside "on" ("he") with no word for "to be" needed.
+- 'Viktor Petrovich, here is the inspector who came to my father's place!' Louis presents a candid bearing without hesitation, joining "inspektor" ("inspector") to "prikhodil" ("used to come") so every word pulls its weight.
+- 'Then who do we have sitting in the dining room?' Barinov questions naturally in this moment, leaning on "togda" ("back then") before closing the thought with "zale" ("hall").
+- 'First and foremost, he is our guest.' Barinov strikes an emphatic position at this moment, putting "prezhde" ("before") alongside "gost" ("guest") in a tight, everyday turn of phrase.
+- 'In five minutes I will serve the dish to our guest.' Barinov conveys an earnest direction toward Gulya, linking "minut" ("minutes"), "podam" ("will file"), and "blyudo" ("dish") in one brisk exchange.
+- 'But he is not the real inspector!' Louis keeps a clear style beside Gulya, weaving "nastoyashchiy" ("real, genuine") together with "inspektor" ("inspector") just the way native speakers do.

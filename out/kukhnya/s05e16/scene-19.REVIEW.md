@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hurry up, will you ever get your old car started?' Asking whether hurry up will Katya ever get Katya's old car started puts Katya right on the defensive.
-- 'Wait one second, I will go catch another car right now!' Because one second he will go catch another car right now, Nikita does not bother softening the blow for Katya. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Where did he run off to? Catch a passing car quickly!' Asking where he run off cuts straight through the tension between Katya and Nikita. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Wow, how quickly he caught a car like that!' Once wow how quickly he caught a car like, Katya makes sure Nikita hears every word.
-- 'Ladies, get inside quickly, we are leaving right away!' Declaring that ladies get inside quickly they are leaving right away brings Nikita's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Wait, Nikita, is this your own car?' By asking whether this Nikita's own car, Katya presses Nikita for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Katya, let me explain everything to you calmly later!' Once Katya should let him explain everything to Katya calmly later, Nikita makes sure Katya hears every word.
-- 'Pleasing a beautiful woman is a very tricky science.' Explaining that pleasing a beautiful woman is a very tricky science lays the cards on the table for Katya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Sometimes you need to hide the truth a bit to look mysterious.' Nikita mentions that sometimes Katya needs to hide the truth a bit to look mysterious so Katya sees what is at stake. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'And you also need to know how to surprise a woman nicely.' Around the point and hospital, Nikita sets a calm, everyday tone with Katya.
-- 'But in this matter it is very important not to overdo it.' Pointing out that in this matter it is very important not to overdo it gives Katya a sobering reality check.
-- 'Otherwise you can easily become a victim of your own clever plans!' Declaring that otherwise Katya can easily become a victim of Katya's own clever plans brings Nikita's temper right to the surface. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Hurry up, will you ever get your old car started?' Vika asks bluntly to keep things clear, linking "davay" ("let's"), "bystreye" ("faster"), and "zavedyosh" ("to acquire") in one brisk exchange.
+- 'Wait one second, I will go catch another car right now!' Nikita strikes a firm attitude beside Vika, pairing "podozhdite" ("wait") with "sekundu" ("second") to get the point across in plain spoken Russian.
+- 'Where did he run off to? Catch a passing car quickly!' Katya wonders frankly from the start, anchoring the Russian line on "kuda" ("where to") and "pobezhal" ("ran off") without extra filler.
+- 'Wow, how quickly he caught a car like that!' Katya picks an unhurried course in the scene, putting "kak" ("how") alongside "bystro" ("quickly") in a tight, everyday turn of phrase.
+- 'Ladies, get inside quickly, we are leaving right away!' Nikita sustains a sharp course on the spot, putting "devushki" ("a girl") alongside "skoreye" ("quickly, right away") in a tight, everyday turn of phrase.
+- 'Wait, Nikita, is this your own car?' Katya asks wryly to make the point, anchoring the Russian line on "podozhdi" ("wait") and "sobstvennaya" ("own, proper") without extra filler.
+- 'Katya, let me explain everything to you calmly later!' Nikita favors a steady posture on the spot, joining "davay" ("let's") to "potom" ("then") so every word pulls its weight.
+- 'Pleasing a beautiful woman is a very tricky science.' Nikita offers a grounded bearing as they talk, weaving "nravitsya" ("to be liked") together with "krasivoy" ("beautiful, handsome") just the way native speakers do.
+- 'Sometimes you need to hide the truth a bit to look mysterious.' Nikita strikes a grounded bearing beside Katya, building the phrase around "inogda" ("sometimes, at times") and "nuzhno" ("necessary") for a crisp, natural delivery.
+- 'And you also need to know how to surprise a woman nicely.' Nikita keeps a calm view across the room, pairing "yeshchyo" ("more, still") with "zhenshchinu" ("a woman") to get the point across in plain spoken Russian.
+- 'But in this matter it is very important not to overdo it.' Nikita offers a measured tack toward Katya, linking "dele" ("case"), "ochen" ("very much"), and "vazhno" ("important, mattering") in one brisk exchange.
+- 'Otherwise you can easily become a victim of your own clever plans!' Nikita chooses an emphatic rhythm for Vika, weaving "inache" ("otherwise") together with "mozhno" ("may, can") just the way native speakers do.

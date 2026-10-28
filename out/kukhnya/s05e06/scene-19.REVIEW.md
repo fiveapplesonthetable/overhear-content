@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Both of us are at fault, we should have taken care of our child.' Because both of them are at fault they should have taken care of their child, Barinov treats the matter as settled.
-- 'My little girl, how are you?' Wondering if his little girl how are Eleonora shows Barinov caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Fine.' Over the point and the hospital, Katya answers Barinov without a second thought.
-- 'Fine? Then why were you taking pills?' When Eleonora asks if then why were Barinov taking pills, Barinov has to answer fast.
-- 'Those were not pills.' Pointing out that those were not pills gives Barinov a sobering reality check. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Those were candies for fresh breath.' Katya explains that those were candies for fresh breath, keeping her voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I was snacking on them.' Realizing that she was snacking on them changes how Katya handles the situation.
-- 'And we thought they were pills.' Noting that they thought they were pills keeps Eleonora's side of the story simple and clear.
-- 'I do not know what you thought.' Because she does not know what Barinov thought, Katya treats the matter as settled. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'But I will never forgive you for the enema.' Admitting that she will never forgive Barinov for the enema shows Katya being honest for a change.
-- 'Her boyfriend dumped her, so what, is life over?' Asking whether her boyfriend dumped her so what is life puts Barinov right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I raised you alone when your father left.' Once she raised Barinov alone when Barinov's father left, Eleonora can finally tell Barinov what she means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Both of us are at fault, we should have taken care of our child.' Barinov picks an honest attitude in their talk, anchoring the Russian line on "vinovaty" ("guilty, at fault") and "nado" ("it is necessary") without extra filler.
+- 'My little girl, how are you?' Barinov questions dryly to make the point, placing "devochka" ("girl") straight beside "kak" ("how") with no word for "to be" needed.
+- 'Fine.' Katya sets a lively approach in the scene, putting all the weight on "normalno" ("fine, OK") so the reply lands immediately.
+- 'Fine? Then why were you taking pills?' Eleonora queries warmly as the beat lands, leaning on "normalno" ("fine, OK") before closing the thought with "zachem" ("what for").
+- 'Those were not pills.' Katya keeps a calm line right away, weaving "tabletki" ("pill, tablet") together with "da" ("yes") just the way native speakers do.
+- 'Those were candies for fresh breath.' Katya displays a frank stance as they talk, leaning on "konfetki" ("candies, mints") before closing the thought with "svezhego" ("fresh").
+- 'I was snacking on them.' Katya sets a pointed tone straight away, anchoring the Russian line on "zakusyvala" ("was snacking on") and "ya" ("I") without extra filler.
+- 'And we thought they were pills.' Eleonora sustains a direct style straight away, building the phrase around "podumali" ("thought") and "tabletki" ("pill, tablet") for a crisp, natural delivery.
+- 'I do not know what you thought.' Katya displays a direct line for Barinov, pairing "znayu" ("know") with "podumali" ("thought") to get the point across in plain spoken Russian.
+- 'But I will never forgive you for the enema.' Katya takes a calm bearing in front of Eleonora, using "klizmu" (from "klizma", "enema") alongside "nikogda" ("never") to shape the meaning.
+- 'Her boyfriend dumped her, so what, is life over?' Eleonora presses bluntly in their exchange, combining "paren" ("boyfriend") and "brosil" ("threw") so the key meaning lands right away.
+- 'I raised you alone when your father left.' Eleonora picks a playful direction for Katya, using "rastila" (from "rastit", "raised") alongside "kogda" ("when") to shape the meaning.

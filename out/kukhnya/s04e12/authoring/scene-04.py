@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e12.ru.srt'
 INTRO = 'Having peeked into the reservation book at the podium, Sasha catches Vika in her lie about Thursday being booked, forcing Vika to invent a massive hundred-person banquet on the spot.'
 OPENER = "Let's examine each line as Vika's small lie snowballs into a huge banquet."
 TRANSITION = "Now let's hear the whole logbook confrontation again from start to finish."
-OUTRO = "Listen for the verb 'uspet' followed by an infinitive — that is how Russian expresses making it on time to do something before a deadline. See you next time!"
+OUTRO = "Listen for the word 'uspet' followed by an base form — that is how Russian expresses making it on time to do something before a deadline. See you next time!"
 CLOSING = ('kostya', 'До встречи!')
 STORY = [
     ('vika', 'Саша, мы разве не решили вопросы?', "Sasha, didn't we settle all the questions?", [(40, 'Саша, а мы разве не решили все вопросы')], 'adapted for A1 clarity'),
@@ -32,18 +32,18 @@ STORY = [
     ('vika', 'Костя, не будет никакого штрафа!', 'Kostya, there will not be any fine!', [(53, 'Не будет никакого штрафа')], 'adapted for A1 clarity'),
 ]
 WALK = [
-    (0, None, "'Sasha, didn't we settle all the questions?' Checking whether not they settle all the questions is how Vika puts Kostya on the spot."),
-    (1, None, "'I accidentally peeked into the order logbook.' With the banquet and plan in play, Sasha keeps this short reply brisk and direct."),
-    (2, None, "'And discovered that Thursday is free!' Insisting that discovered that Thursday is free shows Sasha is not backing down. Russian puts the key word right up front so her emotion lands on the first beat."),
-    (3, None, "'Oh, I just got completely run off my feet.' Even though she just got completely run off her feet, Vika keeps a steady face in front of Kostya."),
-    (4, None, '\'And simply forgot to write it down.\' Admitting that simply forgot to write it down shows Vika being honest for a change. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (5, None, "'On Thursday there is a banquet for a hundred people.' Saying that on Thursday there is a banquet for a hundred people is how Vika sets the tone with Kostya."),
-    (6, None, "'There, you see, we really are booked.' Once there Kostya sees they really are booked, Vika can finally tell Kostya what she means."),
-    (7, None, '\'What banquet for a hundred people?\' With the moment and banquet hanging in the air, Kostya puts Sasha on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (8, None, '\'Why do I know nothing about this?\' Wondering why he knows nothing about this is how Kostya puts Sasha on the spot. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.'),
-    (9, None, "'My bar is half-empty, after all!' Insisting that his bar is half empty after all shows Kostya is not backing down."),
-    (10, None, "'I need to place an order urgently.' Saying that he needs to place an order urgently is how Kostya sets the tone with Sasha. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
-    (11, None, "'Wait, we will do everything a little later.' Saying that they will do everything a little later is how Vika sets the tone with Kostya."),
-    (12, None, "'Later they will not make it in time to deliver!' Kostya insists that later they will not make it in time to deliver, leaving Sasha no room to argue."),
-    (13, None, "'Kostya, there will not be any fine!' Saying that there will not be any fine is how Vika takes charge of the moment. Russian puts the key word right up front so her emotion lands on the first beat."),
+    (0, None, '\'Sasha, didn\'t we settle all the questions?\' Vika asks directly in the scene, combining "reshili" ("decided") and "voprosy" ("questions") so the key meaning lands right away.'),
+    (1, None, '\'I accidentally peeked into the order logbook.\' Sasha favors an earnest approach right away, pairing "sluchayno" ("by any chance") with "zaglyanula" ("to into") to get the point across in plain spoken Russian.'),
+    (2, None, '\'And discovered that Thursday is free!\' Sasha shares a wry view without hesitation, putting "obnaruzhila" ("to discover") alongside "chetverg" ("place") in a tight, everyday turn of phrase.'),
+    (3, None, '\'Oh, I just got completely run off my feet.\' Vika offers a calm footing beside Sasha, putting "sovsem" ("at all") alongside "zamotalas" ("to off") in a tight, everyday turn of phrase.'),
+    (4, None, '\'And simply forgot to write it down.\' Vika projects a natural line in their talk, weaving "prosto" ("just") together with "zabyla" ("forgot") just the way native speakers do.'),
+    (5, None, '\'On Thursday there is a banquet for a hundred people.\' Vika establishes an emphatic tack as the scene unfolds, joining "chetverg" ("place") to "banket" ("banquet") so every word pulls its weight.'),
+    (6, None, '\'There, you see, we really are booked.\' Vika shares a measured note in the scene, leaning on "vidish" ("see") before closing the thought with "deystvitelno" ("really, indeed").'),
+    (7, None, '\'What banquet for a hundred people?\' Kostya inquires frankly in front of Vika, building the phrase around "yeshchyo" ("more, still") and "banket" ("banquet") for a crisp, natural delivery.'),
+    (8, None, '\'Why do I know nothing about this?\' Kostya checks decisively without a pause, pairing "pochemu" ("why") with "znayu" ("know") to get the point across in plain spoken Russian.'),
+    (9, None, '\'My bar is half-empty, after all!\' Kostya holds a playful manner toward Vika, placing "bar" ("bar") straight beside "polupustoy" ("all") with no word for "to be" needed.'),
+    (10, None, '\'I need to place an order urgently.\' Kostya keeps a thoughtful stance with Sasha, leaning on "nuzhno" ("necessary") before closing the thought with "srochno" ("urgent, urgently").'),
+    (11, None, '\'Wait, we will do everything a little later.\' Vika sustains an earnest view toward Sasha, using "podozhdi" (from "podozhdat", "wait") alongside "chut" ("almost, nearly") to shape the meaning.'),
+    (12, None, '\'Later they will not make it in time to deliver!\' Kostya picks an easygoing tempo in front of Sasha, weaving "pozzhe" ("later") together with "uspeyut" ("to make it") just the way native speakers do.'),
+    (13, None, '\'Kostya, there will not be any fine!\' Vika maintains a grounded style without hesitation, pairing "budet" ("will be") with "shtrafa" ("fine, penalty") to get the point across in plain spoken Russian.'),
 ]

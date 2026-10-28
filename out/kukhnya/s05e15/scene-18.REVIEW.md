@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, I am going to tell you something important right now.' Admitting that he is going to tell Barinov something important right now shows Mikhail being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'But you forget about it first thing tomorrow morning!' Declaring that Barinov forgets about it first thing tomorrow morning brings Mikhail's temper right to the surface.
-- 'I really like your ex-wife Eleonora.' Because he really likes Barinov's ex wife Eleonora, Mikhail treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Only please, do not tell anyone about this!' Saying that only please do not tell anyone about this is how Mikhail takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Well, do you want me to give you my blessing?' Checking whether Mikhail wants him to give Mikhail his blessing cuts straight through the tension between Barinov and Mikhail.
-- 'Sorry, Misha, but do whatever you see fit.' Claiming that do whatever Mikhail sees fit sounds confident, even if Mikhail has doubts.
-- 'Gentlemen, attention, I have a great toast ready!' Insisting that attention he has a great toast ready shows Senya is not backing down. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Dear Chef, may this be your final wedding!' Once may this be Barinov's final wedding, Senya makes sure Barinov hears every word.
-- 'Let's drink bottoms up to you and to Elena Pavlovna!' Drinking bottoms up to Barinov and to Elena Pavlovna together is Mikhail's blunt reaction in front of Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Viktor Petrovich, and why are you not drinking with us?' Wondering why Barinov not drinking with them is is how Senya puts Barinov on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Unfortunately, all our snacks have run out already.' Even though all their snacks have run out already, Senya keeps a steady face in front of Barinov.
-- 'Fine, pour me one small shot glass too!' Barinov declares that fine pour him one small shot glass as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Vitya, I am going to tell you something important right now.' Mikhail displays a wry tone without hesitation, pairing "seychas" ("now") with "vazhnoye" ("important") so the "-sya" ending carries the action.
+- 'But you forget about it first thing tomorrow morning!' Mikhail picks a resolute direction as the scene unfolds, combining "zavtra" ("tomorrow") and "utrom" ("this morning") so the key meaning lands right away.
+- 'I really like your ex-wife Eleonora.' Mikhail keeps a frank tempo on the spot, linking "ochen" ("very much"), "nravitsya" ("is pleasing"), and "byvshaya" ("former") in one brisk exchange.
+- 'Only please, do not tell anyone about this!' Mikhail strikes a clear attitude as they talk, weaving "tolko" ("only") together with "govori" ("say, talk") just the way native speakers do.
+- 'Well, do you want me to give you my blessing?' Barinov quizzes directly in the room, pairing "khochesh" ("do you want") with "blagoslovil" ("bless") to get the point across in plain spoken Russian.
+- 'Sorry, Misha, but do whatever you see fit.' Barinov favors a steady manner in their talk, linking "izvini" ("sorry, excuse me"), "delay" ("do"), and "kak" ("how") in one brisk exchange.
+- 'Gentlemen, attention, I have a great toast ready!' Senya strikes a grounded posture in the conversation, combining "gospoda" ("gentlemen") and "vnimaniye" ("attention") so the key meaning lands right away.
+- 'Dear Chef, may this be your final wedding!' Senya takes a measured manner on the spot, building the phrase around "dorogoy" ("dear") and "budet" ("will be") for a crisp, natural delivery.
+- 'Let's drink bottoms up to you and to Elena Pavlovna!' Mikhail offers a candid style as they talk, weaving "vypyem" ("will drink") together with "dna" ("bottom, riverbed") just the way native speakers do.
+- 'Viktor Petrovich, and why are you not drinking with us?' Senya presses pointedly on the spot, putting "pochemu" ("why") alongside "pyote" ("are drinking") in a tight, everyday turn of phrase.
+- 'Unfortunately, all our snacks have run out already.' Senya keeps an emphatic tone in the conversation, pairing "konchilas" ("ran out, ended") with "sozhaleniyu" ("regret") so the "-sya" ending carries the action.
+- 'Fine, pour me one small shot glass too!' Barinov favors a direct tone in their talk, anchoring the Russian line on "nalivayte" ("pour") and "tozhe" ("too") without extra filler.

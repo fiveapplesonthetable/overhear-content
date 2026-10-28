@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, shall we talk calmly about our evening yesterday?' Around the work and situation, Eva wants to know where Barinov really stands.
-- 'Of course, let's talk, I am listening to you closely.' Barinov explains that they should talk he is listening to Eva closely, keeping his voice calm and direct. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Vitya, I wanted to make sure that everything is fine.' Adding that she wanted to make sure that everything is fine fills in the missing piece for Barinov.
-- 'I hope you understood everything between us correctly.' Eva explains that she hopes Barinov understood everything between them correctly, keeping her voice calm and direct.
-- 'Eva, dear, please, do not even worry!' Insisting that dear please do not even worry shows Barinov is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I am a modern man and understood everything correctly.' Being a modern man and understood everything correctly is how Barinov lays out the situation for Eva.
-- 'There is no need to attach great importance to this evening.' Mentioning that there is no need to attach great importance to this evening moves the talk in a new direction.
-- 'After all, for us it is like brushing our teeth!' Barinov insists that after all for them it is like brushing their teeth, leaving Eva no room to argue. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'So, that is how you feel about me?' Eva asks whether that is how Barinov feels, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Eva, wait, you misunderstood me!' With the truth and plan at stake, Barinov reacts without holding back.
-- 'Honestly speaking, I had a better opinion of you.' Claiming that speaking she had a better opinion of Barinov sounds confident, even if Barinov has doubts.
-- 'You will deeply regret your words yet!' Insisting that Barinov will deeply regret Barinov's words yet shows Eva is not backing down. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Hello, shall we talk calmly about our evening yesterday?' Eva probes firmly without hesitation, joining "pogovorim" ("we'll have a talk") to "spokoyno" ("calmly") so every word pulls its weight.
+- 'Of course, let's talk, I am listening to you closely.' Barinov chooses an honest tack in their talk, pairing "konechno" ("of course") with "davay" ("let's") to get the point across in plain spoken Russian.
+- 'Vitya, I wanted to make sure that everything is fine.' Eva sets an emphatic stance as they talk, pairing "ubeditsya" ("to become convinced") with "khotela" ("wanted, meant") so the "-sya" ending carries the action.
+- 'I hope you understood everything between us correctly.' Eva chooses a frank stance without hesitation, joining "nadeyus" ("hope so") to "pravilno" ("right") so every word pulls its weight.
+- 'Eva, dear, please, do not even worry!' Barinov sets an emphatic approach toward Eva, pairing "dorogaya" ("expensive") with "bespokoysya" ("to worry") to get the point across in plain spoken Russian.
+- 'I am a modern man and understood everything correctly.' Barinov sets a thoughtful attitude with Eva, putting "chelovek" ("a man, a person") alongside "sovremennyy" ("modern") in a tight, everyday turn of phrase.
+- 'There is no need to attach great importance to this evening.' Barinov projects an honest approach as they talk, leaning on "nado" ("it is necessary") before closing the thought with "pridavat" ("to great").
+- 'After all, for us it is like brushing our teeth!' Barinov maintains a measured approach at once, linking "kak" ("how"), "zuby" ("tooth"), and "pochistit" ("to potatoes") in one brisk exchange.
+- 'So, that is how you feel about me?' Eva probes decisively as the talk turns, building the phrase around "znachit" ("then, so") and "kak" ("how") for a crisp, natural delivery.
+- 'Eva, wait, you misunderstood me!' Barinov shares a brisk rhythm for Eva, leaning on "podozhdi" ("wait") before closing the thought with "ponyala" ("understood").
+- 'Honestly speaking, I had a better opinion of you.' Eva offers a serious tone on the spot, linking "chestno" ("honestly"), "govorya" ("speaking"), and "byla" ("was") in one brisk exchange.
+- 'You will deeply regret your words yet!' Eva offers a resolute footing for Barinov, combining "yeshchyo" ("more, still") and "silno" ("strongly, much") so the key meaning lands right away.

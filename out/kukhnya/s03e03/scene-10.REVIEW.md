@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How could you forget your handbag?' Wondering how Barinov forgets Barinov's handbag could cuts straight through the tension between Max and Barinov.
-- 'Apparently, pregnancy badly impairs memory.' With the plan and idea in play, Max keeps this short reply brisk and direct.
-- 'For heaven's sake, forgive me! Are you all right?' Over the moment and the idea, Vika presses Barinov for a straight answer. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Give me five grand, and no hard feelings.' Saying that Barinov should give him five grand and no hard feelings is how Max sets the tone with Barinov.
-- 'Wait, maybe I should take you to the hospital?' When Vika asks if maybe she should take Barinov to the hospital, Barinov has to answer fast. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'It feels like you are not moving, but running away.' Noting that it feels like Max is not moving but running away keeps Barinov's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Could you at least have packed your things properly?' Here checking whether Max at least have packed Max's things properly shows Barinov looking for the real truth.
-- 'And when you left Mom, did you pack your things properly?' Wondering if when Barinov left Mom did Barinov packs Barinov's things properly shows Vika caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No need to help, I already called a taxi.' Mentioning that Barinov should need to help she already called a taxi moves the talk in a new direction. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'What? Are you heading to a bar?' Asking whether Max heading to a bar is how Barinov puts Max on the spot.
-- 'So you don't want to do this the easy way?' Asking whether Max does not want to do this the easy way puts Max right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Fine, if you don't want the good father, I will turn on the bad one.' Barinov tells Max that fine if Max does not want the good father he will turn on the bad one without dressing it up.
+- 'How could you forget your handbag?' Max asks wryly at this point, anchoring the Russian line on "kak" ("how") and "mozhno" ("may, can") without extra filler.
+- 'Apparently, pregnancy badly impairs memory.' Max takes a clear mood toward Vika, combining "vidimo" ("apparently") and "beremennost" ("pregnancy") so the key meaning lands right away.
+- 'For heaven's sake, forgive me! Are you all right?' Vika queries evenly beside Barinov, putting "boga" ("God") alongside "prostite" ("excuse me") in a tight, everyday turn of phrase.
+- 'Give me five grand, and no hard feelings.' Max sets a grounded angle during the exchange, putting "davay" ("let's") alongside "shtuk" ("pieces, grand") in a tight, everyday turn of phrase.
+- 'Wait, maybe I should take you to the hospital?' Vika asks dryly from the start, leaning on "podozhdite" ("wait") before closing the thought with "mozhet" ("can").
+- 'It feels like you are not moving, but running away.' Barinov shows a candid attitude right away, putting "vpechatleniye" ("impression") alongside "pereyezzhayesh" ("are moving") in a tight, everyday turn of phrase.
+- 'Could you at least have packed your things properly?' Barinov prompts decisively without holding back, linking "veshchi" ("things"), "mogla" ("could"), and "normalno" ("fine, OK") in one brisk exchange.
+- 'And when you left Mom, did you pack your things properly?' Vika asks steadily without hesitation, anchoring the Russian line on "kogda" ("when") and "mamy" ("mum, mother") without extra filler.
+- 'No need to help, I already called a taxi.' Vika picks a sharp tempo for Barinov, pairing "pomogat" ("to help") with "nado" ("it is necessary") to get the point across in plain spoken Russian.
+- 'What? Are you heading to a bar?' Barinov challenges plainly at this point, leaning on "bar" ("bar") before closing the thought with "sobirayetes" ("to intend").
+- 'So you don't want to do this the easy way?' Barinov quizzes earnestly in their exchange, joining "znachit" ("then, so") to "khochesh" ("do you want") so every word pulls its weight.
+- 'Fine, if you don't want the good father, I will turn on the bad one.' Barinov conveys a resolute position beside Vika, linking "khochesh" ("do you want"), "khoroshego" ("good, the best"), and "vklyuchu" ("I will plug in") in one brisk exchange.

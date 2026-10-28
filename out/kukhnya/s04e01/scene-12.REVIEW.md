@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Bon appetit, enjoy your meal.' Over the moment and the dish, Barinov answers Elena without a second thought.
-- 'Stop. This will not do at all.' Elena reminds Barinov that this will not do at all before the moment passes.
-- 'Do not take offense.' Because do not take offense, Elena treats the matter as settled.
-- 'I am sure all of this is very tasty.' Realizing that she is sure all of this is very tasty changes how Elena handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'But on screen it looks pale.' Elena mentions that on screen it looks pale so Barinov sees what is at stake.
-- 'After all, this is television.' Claiming that after all this is television sounds confident, even if Barinov has doubts. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'It has to look truly spectacular, understand?' Questioning whether it has to look truly spectacular understand is how Elena tests Barinov's story. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'We need a food stylist.' By needing a food stylist, Elena keeps her side of the story grounded.
-- 'Who is that?' With the moment and dish hanging in the air, Barinov puts Elena on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'A person who makes food look pretty.' Noting that a person who makes food look pretty keeps Elena's side of the story simple and clear.
-- 'Now that looks great.' Even though that looks great, Elena keeps a steady face in front of Barinov.
-- 'We can start filming now.' Admitting that they can start filming now shows Elena being honest for a change.
+- 'Bon appetit, enjoy your meal.' Barinov presents a measured tone for Elena, weaving "priyatnogo" ("pleasant") together with "appetita" ("appetite") just the way native speakers do.
+- 'Stop. This will not do at all.' Elena displays a calm mood across the room, pairing "goditsya" ("suits, works") with "nikuda" ("nowhere, anywhere") so the "-sya" ending carries the action.
+- 'Do not take offense.' Elena maintains a grounded bearing in the conversation, anchoring the Russian line on "obizhaytes" ("to take offence") and "ne" ("not") without extra filler.
+- 'I am sure all of this is very tasty.' Elena holds an emphatic tempo during the exchange, linking "navernyaka" ("surely, definitely") directly with "ochen" ("very much"), since Russian drops "is" and "are" in the present.
+- 'But on screen it looks pale.' Elena holds a clear manner without hesitation, linking "ekrane" ("screen"), "vyglyadit" ("looks"), and "bleklo" ("pale") in one brisk exchange.
+- 'After all, this is television.' Elena offers a firm angle at once, linking "televideniye" ("television"), "nas" ("us"), and "vsyo-taki" ("after all") in one brisk exchange.
+- 'It has to look truly spectacular, understand?' Elena challenges firmly in the room, pairing "dolzhno" ("ought, must") with "byt" ("be") to get the point across in plain spoken Russian.
+- 'We need a food stylist.' Elena conveys a direct approach in the conversation, building the phrase around "nuzhen" ("is needed") and "fud-stilist" ("stylist") for a crisp, natural delivery.
+- 'Who is that?' Barinov tests lightly during the talk, leaning on "kto" ("who") as a compact, one-word response that needs no extra words.
+- 'A person who makes food look pretty.' Elena displays a firm course with Barinov, building the phrase around "chelovek" ("a man, a person") and "delayet" ("does") for a crisp, natural delivery.
+- 'Now that looks great.' Elena presents a pointed rhythm during the exchange, putting "teper" ("now") alongside "otlichno" ("perfect, great") in a tight, everyday turn of phrase.
+- 'We can start filming now.' Elena picks a calm rhythm in the conversation, anchoring the Russian line on "mozhem" ("can") and "snimat" ("to film") without extra filler.

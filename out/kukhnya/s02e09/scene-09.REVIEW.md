@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Elena Pavlovna, forgive me, my...' Around the moment and work, Barinov sets a calm, everyday tone with Elena.
-- 'Believe me, it was absolutely delightful.' Once Barinov should believe her it was absolutely delightful, Vika can finally tell Barinov what she means.
-- 'I am glad that you liked it.' By being glad that Barinov liked it, Elena keeps her side of the story grounded. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'I thank you.' Because he thanks Elena, Barinov treats the matter as settled. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'It is nothing, nothing at all, do not worry.' Once it is nothing nothing at all do not worry, Vika can finally tell Barinov what she means.
-- 'Excuse me. It is nothing.' Adding that it is nothing fills in the missing piece for Barinov.
-- 'Everything is fine.' Barinov tells Elena that everything is fine without dressing it up.
-- 'Hello, Viktor Petrovich.' Around the conversation and work, Vika sets a calm, everyday tone with Barinov.
-- 'Then what do you say we meet in an hour?' By wondering what Barinov says they meet in an hour, Elena presses Barinov for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I will be driving my car.' Saying that he will be driving his car is how Barinov sets the tone with Elena.
-- 'We have to stop him.' Because they have to stop him, Vika treats the matter as settled.
-- 'It makes no difference now.' Explaining that it makes no difference now lays the cards on the table for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'What, since it is cold in there, will it wear off faster?' Asking whether what since it is cold in there will it wear off faster puts Elena right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Elena Pavlovna, forgive me, my...' Barinov holds a playful position straight away, joining "prostite" ("excuse me") to "yelena" ("Yelena") so every word pulls its weight.
+- 'Believe me, it was absolutely delightful.' Vika conveys an easygoing angle in the room, joining "poverte" ("believe") to "bylo" ("was") so every word pulls its weight.
+- 'I am glad that you liked it.' Elena adopts a natural tempo in front of Barinov, linking "rada" ("glad"), "ponravilos" ("pleased, was liked"), and "ya" ("I") in one brisk exchange.
+- 'I thank you.' Barinov shows a direct tempo in front of Vika, linking "blagodaryu" ("to thank"), "ya" ("I"), and "vas" ("you") in one brisk exchange.
+- 'It is nothing, nothing at all, do not worry.' Vika keeps a frank tempo across the room, linking "perezhivayte" ("worry"), "nichego" ("nothing"), and "ne" ("not") in one brisk exchange.
+- 'Excuse me. It is nothing.' Elena establishes an earnest footing in the conversation, putting "izvinite" ("sorry, excuse me") alongside "nichego" ("nothing") in a tight, everyday turn of phrase.
+- 'Everything is fine.' Barinov adopts a thoughtful mood at this moment, placing "poryadke" ("order") straight beside "vse" ("all") with no word for "to be" needed.
+- 'Hello, Viktor Petrovich.' Vika holds a grounded bearing right away, joining "allo" ("hello") to "viktor" ("Viktor") so every word pulls its weight.
+- 'Then what do you say we meet in an hour?' Elena queries decisively as the beat lands, putting "togda" ("back then") alongside "vstretimsya" ("we'll meet") in a tight, everyday turn of phrase.
+- 'I will be driving my car.' Barinov holds an unhurried bearing beside Vika, using "budu" (from "byt", "will be") alongside "mashine" ("car") to shape the meaning.
+- 'We have to stop him.' Vika offers an emphatic style across the room, linking "nado" ("it is necessary"), "ostanovit" ("to stop"), and "yego" ("him") in one brisk exchange.
+- 'It makes no difference now.' Elena shares an earnest note in their talk, weaving "ravno" ("the same") together with "eto" ("this") just the way native speakers do.
+- 'What, since it is cold in there, will it wear off faster?' Barinov queries bluntly toward Elena here, putting "tam" ("there") alongside "kholodno" ("cold") in a tight, everyday turn of phrase.

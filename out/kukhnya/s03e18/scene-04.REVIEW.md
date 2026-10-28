@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So you will not be here anymore?' Questioning whether Nagiyev will not be here anymore is how Max tests Nagiyev's story.
-- 'Why not? I will be here even more often.' When Nagiyev asks if he will be here even more often, Max has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I am the face of this restaurant now.' Since he is the face of this restaurant now, Nagiyev does not waste words on excuses.
-- 'A handsome face with smart and kind eyes.' With the restaurant and room in play, Nagiyev keeps this short reply brisk and direct.
-- 'Big money knows how to persuade very well.' Since big money knows how to persuade very well, Nagiyev does not waste words on excuses.
-- 'Forgive me, my friend, that is how it turned out.' Mentioning that his friend that is how it turned out moves the talk in a new direction.
-- 'Vika, may I have a word with you for one second?' Max asks whether may he has a word with Nagiyev for one second, refusing to let the point slide.
-- 'Tell me, how are things with you?' Max asks whether tell him how are things with Nagiyev, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Fine. Did you want something regarding work?' By checking whether Max wants something regarding work, Vika presses Max for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I just wanted to hear that everything is fine.' Max mentions that he just wanted to hear that everything is fine so Nagiyev sees what is at stake.
-- 'For me that is the most important thing in life.' Claiming that for him that is the most important thing in life sounds confident, even if Nagiyev has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Relax, we just work together now.' Saying that Max should relax they just work together now is how Vika sets the tone with Max.
+- 'So you will not be here anymore?' Max checks decisively without a pause, building the phrase around "yest" ("there is") and "tut" ("here") for a crisp, natural delivery.
+- 'Why not? I will be here even more often.' Nagiyev prompts decisively for Vika's benefit, combining "pochemu" ("why") and "budet" ("will be") so the key meaning lands right away.
+- 'I am the face of this restaurant now.' Nagiyev favors a brisk position in the room, putting "teper" ("now") alongside "litso" ("face") in a tight, everyday turn of phrase.
+- 'A handsome face with smart and kind eyes.' Nagiyev projects a grounded footing during the exchange, joining "krasivoye" ("beautiful") to "litso" ("face") so every word pulls its weight.
+- 'Big money knows how to persuade very well.' Nagiyev offers an honest rhythm right away, linking "bolshiye" ("big, serious"), "dengi" ("money"), and "umeyut" ("can, know how to") in one brisk exchange.
+- 'Forgive me, my friend, that is how it turned out.' Nagiyev favors an honest bearing in the room, linking "prosti" ("sorry, forgive me"), "drug" ("friend"), and "vyshlo" ("happened, came about") in one brisk exchange.
+- 'Vika, may I have a word with you for one second?' Max prompts quietly in the scene, pairing "mozhno" ("may, can") with "poprosit" ("to ask") to get the point across in plain spoken Russian.
+- 'Tell me, how are things with you?' Max inquires wryly without a pause, anchoring the Russian line on "skazhi" ("say") and "kak" ("how") without extra filler.
+- 'Fine. Did you want something regarding work?' Vika probes openly across the room, linking "khorosho" ("good, fine"), "khotel" ("wanted"), and "rabote" ("work") in one brisk exchange.
+- 'I just wanted to hear that everything is fine.' Max displays a direct footing on the spot, anchoring the Russian line on "prosto" ("just") and "khotel" ("wanted") without extra filler.
+- 'For me that is the most important thing in life.' Max takes a warm tempo straight away, linking "samoye" ("the most"), "glavnoye" ("important"), and "zhizni" ("life") in one brisk exchange.
+- 'Relax, we just work together now.' Vika favors a thoughtful approach in their talk, combining the softening word "prosto" ("simply, just") with "rasslabsya" ("relax") to give the line its natural spoken rhythm.

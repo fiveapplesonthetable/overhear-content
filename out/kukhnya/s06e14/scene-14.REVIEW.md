@@ -10,9 +10,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Тимур | Подождите, что здесь вообще сейчас происходит? | Wait, what is even going on here right now? | #188: Что происходит | adapted: adapted |
-| 2 | Тимур | Немедленно отпустите меня, что вы делаете? | Let me go immediately, what are you doing? | #189: Отпустите | adapted: adapted |
-| 3 | Костя | Костя, принеси бутылку виски на крышу. | Kostya, bring a bottle of whiskey to the roof. | #192: Костя, принеси, пожалуйста, бутылку виски на крышу | adapted: adapted |
+| 1 | Катя | Подождите, что здесь вообще сейчас происходит? | Wait, what is even going on here right now? | #188: Что происходит | adapted: adapted |
+| 2 | Катя | Немедленно отпустите меня, что вы делаете? | Let me go immediately, what are you doing? | #189: Отпустите | adapted: adapted |
+| 3 | Настя | Костя, принеси бутылку виски на крышу. | Kostya, bring a bottle of whiskey to the roof. | #192: Костя, принеси, пожалуйста, бутылку виски на крышу | adapted: adapted |
 | 4 | Костя | Только, пожалуйста, ничего Насте не говори. | Just please do not say anything to Nastya. | #193: Только Насте не говори | adapted: adapted |
 | 5 | Настя | В детстве у меня была такая кличка. | In childhood I had a nickname like that. | #196: в детстве у меня была кличка такая | adapted: adapted |
 | 6 | Костя | Настя, мне только что позвонила Катя. | Nastya, Katya just called me. | #199: Позвонила Кать | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, what is even going on here right now?' Asking what even going on here right now is is how Timur puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Let me go immediately, what are you doing?' Timur asks whether let him go immediately what are Kostya doing, refusing to let the point slide. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Kostya, bring a bottle of whiskey to the roof.' Bringing a bottle of whiskey to the roof is how Kostya lays out the situation for Nastya.
-- 'Just please do not say anything to Nastya.' Saying that just please do not say anything to Nastya is how Kostya sets the tone with Nastya. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'In childhood I had a nickname like that.' Once in childhood she had a nickname like, Nastya can finally tell Kostya what she means. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Nastya, Katya just called me.' Adding that Katya just called him fills in the missing piece for Nastya.
-- 'She asked me to bring whiskey to the roof.' Kostya tells Nastya that she asked him to bring whiskey to the roof without dressing it up.
-- 'Well there, good job for confessing right away.' Between the guest and the shift, Nastya gives Kostya a quick, grounded response.
-- 'Leave this bottle of whiskey here with me.' Claiming that Kostya should leave this bottle of whiskey here sounds confident, even if Kostya has doubts.
-- 'Kostya, where do you keep the tasty tea?' Here asking where Kostya keeps the tasty tea shows Nastya looking for the real truth. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'The tea is over there behind the bar.' Because the tea is over there behind the bar, Kostya treats the matter as settled.
-- 'I will take the hot tea to her myself.' Explaining that she will take the hot tea to her herself lays the cards on the table for Kostya.
+- 'Wait, what is even going on here right now?' Katya asks firmly right away, combining the conversational booster "voobshche" ("in general, overall") with "podozhdite" ("wait") to give the line its natural spoken rhythm.
+- 'Let me go immediately, what are you doing?' Katya probes decisively in the room, joining "nemedlenno" ("immediately") to "otpustite" ("let go, release") so every word pulls its weight.
+- 'Kostya, bring a bottle of whiskey to the roof.' Nastya chooses a grounded approach across the room, leaning on "prinesi" ("bring") before closing the thought with "butylku" ("a bottle").
+- 'Just please do not say anything to Nastya.' Kostya projects a lively bearing at this moment, joining "tolko" ("only") to "govori" ("say, talk") so every word pulls its weight.
+- 'In childhood I had a nickname like that.' Nastya favors a firm style as the scene unfolds, using "detstve" (from "detstvo", "childhood") alongside "byla" ("was") to shape the meaning.
+- 'Nastya, Katya just called me.' Kostya takes a brisk rhythm with Nastya, anchoring the Russian line on "tolko" ("only") and "pozvonila" ("phoned") without extra filler.
+- 'She asked me to bring whiskey to the roof.' Kostya shares a calm direction with Katya, pairing "poprosila" ("asked") with "prinesti" ("to bring, offer") to get the point across in plain spoken Russian.
+- 'Well there, good job for confessing right away.' Nastya keeps a frank stance in their talk, linking "molodets" ("well done, good boy"), "srazu" ("at once"), and "priznalsya" ("did he confess") in one brisk exchange.
+- 'Leave this bottle of whiskey here with me.' Nastya offers a playful position in the conversation, joining "butylku" ("a bottle") to "viski" ("whisky") so every word pulls its weight.
+- 'Kostya, where do you keep the tasty tea?' Nastya probes evenly in the room, building the phrase around "gde" ("where") and "vkusnyy" ("delicious") for a crisp, natural delivery.
+- 'The tea is over there behind the bar.' Kostya holds a candid bearing at this moment, linking "chay" ("tea"), "lezhit" ("is lying"), and "tam" ("there") in one brisk exchange.
+- 'I will take the hot tea to her myself.' Nastya chooses a calm mood in this beat, putting "otnesu" ("to carry to") alongside "goryachiy" ("hot") in a tight, everyday turn of phrase.

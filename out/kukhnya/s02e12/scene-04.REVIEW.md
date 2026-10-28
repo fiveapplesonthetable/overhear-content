@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The Russian land still gives birth to geniuses.' Adding that the Russian land still gives birth to geniuses fills in the missing piece for Barinov.
-- 'Rarely, but it does.' Barinov tells Nastya that rarely but it does without dressing it up.
-- 'I have heard a great deal about you.' Nastya reminds Barinov that she has heard a great deal about Barinov before the moment passes. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Nice to meet you.' Over the plan and the shift, Barinov answers Nastya without a second thought.
-- 'I am not a cook.' Being not a cook is how Nastya lays out the situation for Barinov.
-- 'Can you not tell?' Here asking whether Nastya not tell shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I am right here.' Being right here is how Nastya lays out the situation for Barinov.
-- 'That I am young.' Barinov mentions that that he is young so Nastya sees what is at stake.
-- 'But that is not true, not true at all.' Claiming that that is not true not true at all sounds confident, even if Barinov has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And I built my career over there.' Over the room and the hospital, Barinov answers Nastya without a second thought.
-- 'It is somehow...' Nastya explains that it is somehow, keeping her voice calm and direct.
-- 'Unusual talking with you like this.' Realizing that unusual talking with Nastya likes this changes how Barinov handles the situation. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I will put the flowers in water for you.' Noting that she will put the flowers in water for Barinov keeps Nastya's side of the story simple and clear.
+- 'The Russian land still gives birth to geniuses.' Nastya establishes a calm approach during the exchange, combining "rozhayet" ("to give birth") and "zemlya" ("land") so the key meaning lands right away.
+- 'Rarely, but it does.' Barinov sets a grounded direction on the spot, anchoring the Russian line on "redko" ("rarely") and "rozhayet" ("to give birth") without extra filler.
+- 'I have heard a great deal about you.' Nastya shows a warm style in the conversation, weaving "ochen" ("very much") together with "mnogo" ("a lot") just the way native speakers do.
+- 'Nice to meet you.' Barinov favors a resolute rhythm at once, leaning on "priyatno" ("pleasant") before closing the thought with "poznakomitsya" ("to meet").
+- 'I am not a cook.' Nastya conveys a warm tack in the scene, pairing "povar" ("chef, cook") with "ya" ("I") to get the point across in plain spoken Russian.
+- 'Can you not tell?' Barinov prompts plainly toward Nastya here, anchoring the Russian line on "vidno" ("one can see") and "ne" ("not") without extra filler.
+- 'I am right here.' Nastya presents a frank mood in this beat, combining "zdes" ("here") and "ya" ("I") so the key meaning lands right away.
+- 'That I am young.' Barinov shows a serious footing across the room, using "molod" (from "molodoy", "young") alongside "chto" ("what") to shape the meaning.
+- 'But that is not true, not true at all.' Nastya sustains a frank rhythm in their talk, building the phrase around "no" ("but") and "eto" ("this") for a crisp, natural delivery.
+- 'And I built my career over there.' Barinov conveys an earnest course in their talk, joining "tam" ("there") to "sdelal" ("did") so every word pulls its weight.
+- 'It is somehow...' Nastya favors an unhurried bearing at once, joining "kak-to" ("somehow, a bit") to "zhe" ("but, after all") so every word pulls its weight.
+- 'Unusual talking with you like this.' Barinov adopts a clear note right away, putting "neprivychno" ("unusual, unfamiliar") alongside "razgovarivat" ("to talk, to speak") in a tight, everyday turn of phrase.
+- 'I will put the flowers in water for you.' Nastya projects a steady course in front of Barinov, using "postavlyu" (from "postavit", "will set") alongside "tsvety" ("the flowers") to shape the meaning.

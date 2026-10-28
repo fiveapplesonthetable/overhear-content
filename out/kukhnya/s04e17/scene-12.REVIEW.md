@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I did not understand, what child of yours?' Questioning whether she did not understand what child is how Katya tests Barinov's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Katya, this is not your business at all.' Claiming that this is not Katya's business at all sounds confident, even if Katya has doubts.
-- 'You promised that you would change your ways!' Katya insists that Barinov promised that Barinov would change Barinov's ways, leaving Barinov no room to argue. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'How will people look at you?' By asking how people look at Barinov will, Katya presses Barinov for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I am a grown man and will figure it out myself.' Pointing out that he is a grown man and will figure it out himself gives Katya a sobering reality check.
-- 'I know very well how you figure things out.' Katya explains that she knows very well how Barinov figure things out, keeping her voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You already abandoned two of your children!' Over the restaurant and the family, Katya lets her real feelings show. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Yes, I did not live with my children.' Admitting that he did not live with his children shows Barinov being honest for a change.
-- 'But I always did everything for you.' Saying that he always did everything for Katya is how Barinov sets the tone with Katya. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'You never lacked for anything.' With the truth and family in play, Barinov keeps this short reply brisk and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'After all, you studied in France itself!' With the restaurant and point at stake, Barinov reacts without holding back.
-- 'I needed a father, not money.' Katya tells Barinov that she needed a father not money without dressing it up.
+- 'I did not understand, what child of yours?' Katya questions steadily without holding back, using "ponyala" (from "ponyat", "understood") alongside "rebyonka" ("child") to shape the meaning.
+- 'Katya, this is not your business at all.' Barinov presents a firm posture as the scene unfolds, building the phrase around "sovsem" ("at all") and "delo" ("matter") for a crisp, natural delivery.
+- 'You promised that you would change your ways!' Katya sets an earnest bearing in the scene, putting "obeshchal" ("promised") alongside "ispravishsya" ("to ways") in a tight, everyday turn of phrase.
+- 'How will people look at you?' Katya challenges pointedly in front of Barinov, weaving "kak" ("how") together with "lyudi" ("people") just the way native speakers do.
+- 'I am a grown man and will figure it out myself.' Barinov sustains an honest tack on the spot, building the phrase around "vzroslyy" ("grown-up, adult") and "chelovek" ("a man, a person") for a crisp, natural delivery.
+- 'I know very well how you figure things out.' Katya brings a measured bearing beside Barinov, pairing "prekrasno" ("perfectly") with "znayu" ("know") to get the point across in plain spoken Russian.
+- 'You already abandoned two of your children!' Katya projects a calm tack as the scene unfolds, putting "uzhe" ("already, now") alongside "brosil" ("threw") in a tight, everyday turn of phrase.
+- 'Yes, I did not live with my children.' Barinov sustains a lively view in the conversation, joining "zhil" ("lived") to "detmi" ("children") so every word pulls its weight.
+- 'But I always did everything for you.' Barinov projects a frank approach right away, building the phrase around "vsegda" ("always") and "delal" ("were doing") for a crisp, natural delivery.
+- 'You never lacked for anything.' Barinov holds a thoughtful approach with Katya, linking "nuzhdalis" ("need, require"), "vy" ("you"), and "ni" ("not even, nor") in one brisk exchange.
+- 'After all, you studied in France itself!' Barinov shows a brisk mood as the scene unfolds, leaning on "uchilas" ("to study") before closing the thought with "ty" ("you").
+- 'I needed a father, not money.' Katya sets a playful bearing during the exchange, leaning on "nuzhen" ("is needed") before closing the thought with "byl" ("was").

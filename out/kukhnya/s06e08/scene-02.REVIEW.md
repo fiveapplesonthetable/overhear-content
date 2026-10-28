@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, your jokes are getting weaker and weaker.' Since Eleonora's jokes are getting weaker and weaker, Barinov does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Vitya, I decided to host a festive dinner today.' Mentioning that she decided to host a festive dinner today moves the talk in a new direction.
-- 'And what is this special occasion today?' Wondering what this special occasion today is is how Barinov puts Eleonora on the spot.
-- 'Actually today is your daughter's birthday.' Because today is Barinov's daughter birthday, Eleonora treats the matter as settled.
-- 'Could you really have completely forgotten about it again?' Here asking whether Barinov really have completely forgotten about it again shows Eleonora looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Judging by his eyes, he did not forget.' Nagiyev mentions that judging by his eyes he did not forget so Barinov sees what is at stake.
-- 'He simply did not know about it at all!' Saying that he simply did not know about it at all is how Nagiyev takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Old age is no joy at all, my friends.' Pointing out that old age is no joy at all his friends gives Barinov a sobering reality check. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Let us go from here, my dear, before we catch it.' Claiming that they should go from here his dear before they catch it sounds confident, even if Barinov has doubts.
-- 'Quickly make a delicious coffee for the lady and me.' Around the dinner and family, Nagiyev sets a calm, everyday tone with Barinov.
-- 'Put two sugars and fresh cream in it.' Adding that Barinov should put two sugars and fresh cream in it fills in the missing piece for Barinov.
-- 'And what did you give her last year?' Here wondering what Eleonora gives her last year shows Barinov looking for the real truth.
+- 'Dima, your jokes are getting weaker and weaker.' Barinov shares a wry manner straight away, putting "shutki" ("jokes") alongside "stanovyatsya" ("to become, to get") in a tight, everyday turn of phrase.
+- 'Vitya, I decided to host a festive dinner today.' Eleonora chooses a steady direction at this moment, anchoring the Russian line on "reshila" ("decided") and "segodnya" ("today") without extra filler.
+- 'And what is this special occasion today?' Barinov questions openly in their exchange, linking "osobyy" ("special, particular"), "sluchay" ("case, occasion"), and "segodnya" ("today") in one brisk exchange.
+- 'Actually today is your daughter's birthday.' Eleonora holds a pointed angle with Nagiyev, combining "voobshche-to" ("actually") and "segodnya" ("today") so the key meaning lands right away.
+- 'Could you really have completely forgotten about it again?' Eleonora prompts sharply for Barinov's benefit, leaning on "snova" ("again") before closing the thought with "sovsem" ("at all").
+- 'Judging by his eyes, he did not forget.' Nagiyev takes a grounded manner as they talk, combining "sudya" ("judging") and "glazam" ("eye") so the key meaning lands right away.
+- 'He simply did not know about it at all!' Nagiyev conveys a direct view in their talk, leaning on "prosto" ("just") before closing the thought with "voobshche" ("at all").
+- 'Old age is no joy at all, my friends.' Nagiyev conveys a clear rhythm straight away, weaving "starost" ("old age") together with "sovsem" ("at all") just the way native speakers do.
+- 'Let us go from here, my dear, before we catch it.' Nagiyev projects a natural style without hesitation, joining "poydyom" ("let's go") to "otsyuda" ("from here") so every word pulls its weight.
+- 'Quickly make a delicious coffee for the lady and me.' Nagiyev chooses a steady course with Eleonora, combining "sdelay" ("make, do") and "bystro" ("quickly") so the key meaning lands right away.
+- 'Put two sugars and fresh cream in it.' Nagiyev favors an unhurried angle straight away, joining "polozhi" ("put, place") to "tuda" ("there") so every word pulls its weight.
+- 'And what did you give her last year?' Barinov tests dryly in front of Nagiyev, joining "proshlom" ("last, past") to "godu" ("year") so every word pulls its weight.

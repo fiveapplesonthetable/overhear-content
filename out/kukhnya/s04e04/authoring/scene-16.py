@@ -7,7 +7,7 @@ SCENE = 16
 TITLE = 'Коэффициент полезного действия  (Efficiency Coefficient)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'german': 'Герман', 'lyova': 'Лёва', 'max': 'Макс'}
+LABELS = {'denis': 'Денис', 'german': 'Герман', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S4.04'
 SOURCE_FILE = 'sources/kukhnya/s04/e04.ru.srt'
 INTRO = "When all twenty sacks of potatoes are peeled on time thanks to the whole kitchen pitching in, German gathers the staff and uses Denis's apparent productivity as an excuse to fire two cooks. Let's hear the dialogue in Russian first."
@@ -20,26 +20,26 @@ STORY = [
     ('max', 'Давай поговорим. Пойдём.', "Let's talk. Come with me.", [(233, 'Давай поговорим. Пойдем.')], ''),
     ('german', 'И вот что я подумал.', 'And here is what I thought.', [(234, 'И вот что я подумал.')], ''),
     ('german', 'Вы все должны работать как Денис.', 'All of you should work like Denis.', [(235, 'Вы все должны работать как Денис.')], ''),
-    ('lyova', 'Картошку чистить мешками?', 'Peeling potatoes by the sack?', [(236, 'Картошку'), (236, 'мешками.')], ''),
+    ('denis', 'Картошку чистить мешками?', 'Peeling potatoes by the sack?', [(236, 'Картошку'), (236, 'мешками.')], ''),
     ('german', 'Нет, эффективнее.', 'No, more efficiently.', [(237, 'Нет, эффективнее.')], ''),
     ('german', 'Если каждый будет работать как Денис,', 'If everyone works like Denis,', [(237, 'Если каждый будет работать как Денис')], ''),
     ('german', 'Коэффициент полезного действия.', 'The coefficient of useful efficiency will rise.', [(239, 'Коэффициент полезного действия.')], ''),
     ('german', 'Мы не будем нуждаться в таком количестве поваров.', 'We will not need such a large number of cooks.', [(240, 'мы не будем нуждаться в таком количестве поваров.')], ''),
     ('german', 'Понимаете, да? Вы уволены.', 'You understand, right? You are fired.', [(241, 'Понимаете, да? Вы уволены.')], ''),
-    ('lyova', 'Вы что делаете?', 'What are you doing?', [(242, 'Вы что делаете?')], ''),
+    ('denis', 'Вы что делаете?', 'What are you doing?', [(242, 'Вы что делаете?')], ''),
     ('german', 'Что такое? Вам что-то не нравится?', 'What is it? Is there something you do not like?', [(243, 'Что такое? Вам что-то не нравится?')], ''),
 ]
 WALK = [
-    (0, None, "'Friends, I have gathered all of you here.' Having gathered all of Lyova here moves the conversation forward without extra drama."),
-    (1, None, '\'Let\'s talk. Come with me.\' Proposing that they talk is how Max lays out the situation for German. Starting with "davay" is the everyday Russian way to say "come on, let us do this".'),
-    (2, None, "'And here is what I thought.' German explains that here is what he thought, keeping his voice calm and direct."),
-    (3, None, "'All of you should work like Denis.' Realizing that all of Lyova should work like Denis changes how German handles the situation."),
-    (4, None, '\'Peeling potatoes by the sack?\' Over the plan and the truth, Lyova presses German for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (5, None, "'No, more efficiently.' Between the room and the moment, German gives Lyova a quick, grounded response."),
-    (6, None, "'If everyone works like Denis,.' Admitting that if everyone works like Denis shows German being honest for a change."),
-    (7, None, "'The coefficient of useful efficiency will rise.' Saying that the coefficient of useful efficiency will rise is how German sets the tone with Lyova."),
-    (8, None, "'We will not need such a large number of cooks.' Once they will not need such a large number of cooks, German can finally tell Lyova what he means."),
-    (9, None, "'You understand, right? You are fired.' Wondering if Lyova understands right shows German caught off guard."),
-    (10, None, '\'What are you doing?\' By wondering what German doing is, Lyova presses German for a straight answer. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (11, None, '\'What is it? Is there something you do not like?\' Asking what it is cuts straight through the tension between German and Lyova. Notice how he sticks to the formal "you", keeping a professional line between them.'),
+    (0, None, '\'Friends, I have gathered all of you here.\' German chooses a lively attitude in the conversation, leaning on "druzya" ("friends") before closing the thought with "sobral" ("to collect").'),
+    (1, None, '\'Let\'s talk. Come with me.\' Max keeps a warm tack without hesitation, combining "davay" ("let\'s") and "pogovorim" ("we\'ll have a talk") so the key meaning lands right away.'),
+    (2, None, '\'And here is what I thought.\' German keeps a lively footing as they talk, using "podumal" (from "podumat", "would think") alongside "vot" ("there, here") to shape the meaning.'),
+    (3, None, '\'All of you should work like Denis.\' German projects a sharp manner with Max, building the phrase around "dolzhny" ("must, should") and "rabotat" ("to work") for a crisp, natural delivery.'),
+    (4, None, '\'Peeling potatoes by the sack?\' Denis inquires boldly beside German, anchoring the Russian line on "kartoshku" ("potatoes") and "chistit" ("to peel") without extra filler.'),
+    (5, None, '\'No, more efficiently.\' German establishes a playful approach in the scene, putting "effektivneye" ("efficiently") alongside "net" ("no") in a tight, everyday turn of phrase.'),
+    (6, None, '\'If everyone works like Denis,.\' German sets a wry approach in front of Denis, combining "kazhdyy" ("every") and "budet" ("will be") so the key meaning lands right away.'),
+    (7, None, '\'The coefficient of useful efficiency will rise.\' German maintains a resolute mood without hesitation, building the phrase around "koeffitsiyent" ("coefficient") and "poleznogo" ("useful, helpful") for a crisp, natural delivery.'),
+    (8, None, '\'We will not need such a large number of cooks.\' German shows a warm view with Denis, anchoring the Russian line on "budem" ("will") and "nuzhdatsya" ("need, require") without extra filler.'),
+    (9, None, '\'You understand, right? You are fired.\' German inquires frankly as the beat lands, joining "ponimayete" ("do you understand") to "uvoleny" ("to fire") so every word pulls its weight.'),
+    (10, None, '\'What are you doing?\' Denis quizzes lightly without holding back, putting "delayete" ("are doing") alongside "vy" ("you") in a tight, everyday turn of phrase.'),
+    (11, None, '\'What is it? Is there something you do not like?\' German checks openly without a pause, linking "nravitsya" ("is pleasing"), "chto" ("what"), and "takoye" ("on earth") in one brisk exchange.'),
 ]

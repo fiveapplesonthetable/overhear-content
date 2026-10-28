@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What kind of chaos have they caused in my kitchen?' Wondering if what kind of chaos have they caused in his kitchen shows Barinov caught off guard. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'But our menu is simply sacred!' Insisting that their menu is simply sacred shows Barinov is not backing down.
-- 'And all this new stuff is total nonsense!' Once all this new stuff is total nonsense, Barinov makes sure Max hears every word. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Are you sitting comfortably in the armchair right now?' By checking whether Barinov sitting comfortably in the armchair right now, Nagiyev presses Barinov for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'From everything said, I gathered that you are angry.' Since from everything said he gathered that Barinov is angry, Nagiyev does not waste words on excuses.
-- 'When you are nervous, your mustache twitches.' Mentioning that when Barinov is nervous Barinov's mustache twitches moves the talk in a new direction. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I would be very glad to help you.' Nagiyev reminds Barinov that he would be very glad to help Barinov before the moment passes. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'But unfortunately, you will have to swallow this.' Because Barinov will have to swallow this, Nagiyev treats the matter as settled.
-- 'Because I sold our restaurant completely.' Explaining that because he sold their restaurant completely lays the cards on the table for Barinov.
-- 'What do you mean sold? Did you sell it completely?' Asking what Max means sold is how Barinov puts Max on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I thought you would keep at least a part for yourself.' Claiming that he thought Max would keep at least a part for themselves sounds confident, even if Max has doubts.
-- 'Now our restaurant has completely different owners.' Pointing out that their restaurant has completely different owners gives Barinov a sobering reality check.
+- 'What kind of chaos have they caused in my kitchen?' Barinov asks quietly in front of Max, putting "bespredel" ("lawlessness") alongside "ustroili" ("to arrange") in a tight, everyday turn of phrase.
+- 'But our menu is simply sacred!' Barinov strikes an emphatic note in this beat, combining the softening word "prosto" ("simply, just") with "menyu" ("menu") to give the line its natural spoken rhythm.
+- 'And all this new stuff is total nonsense!' Barinov strikes a wry stance as they talk, joining "novoye" ("new") to "polnaya" ("complete, full") so every word pulls its weight.
+- 'Are you sitting comfortably in the armchair right now?' Nagiyev inquires promptly without holding back, combining "seychas" ("now") and "udobno" ("comfortable") so the key meaning lands right away.
+- 'From everything said, I gathered that you are angry.' Nagiyev takes an unhurried angle straight away, anchoring the Russian line on "skazannogo" ("said") and "ponyal" ("understood") without extra filler.
+- 'When you are nervous, your mustache twitches.' Nagiyev shares a grounded approach in front of Max, weaving "kogda" ("when") together with "nervnichayesh" ("are you nervous") just the way native speakers do.
+- 'I would be very glad to help you.' Nagiyev strikes a direct angle as the scene unfolds, building the phrase around "ochen" ("very much") and "rad" ("glad") for a crisp, natural delivery.
+- 'But unfortunately, you will have to swallow this.' Nagiyev takes an unhurried tempo in this beat, building the phrase around "sozhaleniyu" ("regret") and "pridyotsya" ("you'll have to") for a crisp, natural delivery.
+- 'Because I sold our restaurant completely.' Nagiyev sets a warm bearing right away, joining "potomu" ("because") to "restoran" ("restaurant") so every word pulls its weight.
+- 'What do you mean sold? Did you sell it completely?' Barinov wonders naturally in front of Nagiyev, anchoring the Russian line on "kak" ("how") and "prodal" ("to sell") without extra filler.
+- 'I thought you would keep at least a part for yourself.' Barinov offers a sharp tack during the exchange, linking "dumal" ("thought"), "ostavish" ("you will keep"), and "chast" ("part") in one brisk exchange.
+- 'Now our restaurant has completely different owners.' Max keeps a thoughtful bearing toward Nagiyev, leaning on "teper" ("now") before closing the thought with "restorana" ("restaurant").

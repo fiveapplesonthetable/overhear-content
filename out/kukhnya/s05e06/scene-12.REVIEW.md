@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Not before the wedding.' Between the point and the wedding, Max gives Barinov a quick, grounded response. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Has anyone seen Katya?' Checking whether anyone seen Katya cuts straight through the tension between Barinov and Katya.
-- 'Chef, were you in the walk-in cooler?' Asking whether Barinov in the walk in cooler is how Max puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Buzz off! Where is Katya?' Over the room and the wedding, Barinov presses Katya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We invite everyone to our wedding.' By inviting everyone to their wedding, Katya keeps her side of the story grounded.
-- 'Katya, what is this circus?' Asking what this circus is cuts straight through the tension between Barinov and Katya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Victor Petrovich, I ask you for your daughter's hand.' Max reminds Barinov that he asks Barinov for Barinov's daughter hand before the moment passes. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Rookie, by the way, you are still married.' Noting that rookie by the way Katya is still married keeps Barinov's side of the story simple and clear.
-- 'We will get divorced in a month, and I will marry your daughter.' Even though they will get divorced in a month and he will marry Barinov's daughter, Max keeps a steady face in front of Barinov.
-- 'I know that Nagiyev is having a wedding, but not with Vika.' Admitting that he knows that Nagiyev is having a wedding but not with Vika shows Barinov being honest for a change.
-- 'Vika is pregnant, and he is marrying another woman?' Wondering if Vika is pregnant and he is marrying another woman shows Max caught off guard.
-- 'Katya, sorry, everything is off, I cannot marry you.' Once everything is off he cannot marry Barinov, Max can finally tell Barinov what he means. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Not before the wedding.' Max sustains an earnest tack during the exchange, using "svadby" (from "svadba", "wedding") alongside "nelzya" ("not allowed") to shape the meaning.
+- 'Has anyone seen Katya?' Barinov probes promptly from the start, combining "videl" ("saw, have seen") and "kto-nibud" ("somebody, anyone") so the key meaning lands right away.
+- 'Chef, were you in the walk-in cooler?' Max queries honestly to keep things clear, combining "kholodilnike" ("fridge") and "byli" ("be") so the key meaning lands right away.
+- 'Buzz off! Where is Katya?' Barinov wonders briskly across the room, anchoring the Russian line on "otvali" ("back off") and "gde" ("where") without extra filler.
+- 'We invite everyone to our wedding.' Katya offers a pointed tone with Barinov, weaving "priglashayem" ("to invite") together with "svadbu" ("wedding") just the way native speakers do.
+- 'Katya, what is this circus?' Barinov inquires steadily to Max here, linking "tsirk" ("circus") directly with "katya" ("Katya"), since Russian drops "is" and "are" in the present.
+- 'Victor Petrovich, I ask you for your daughter's hand.' Max sustains a warm line across the room, weaving "proshu" ("beg, ask") together with "ruki" ("hands") just the way native speakers do.
+- 'Rookie, by the way, you are still married.' Barinov displays an honest tack right away, placing "yeshchyo" ("more, still") straight beside "prochim" ("other") with no word for "to be" needed.
+- 'We will get divorced in a month, and I will marry your daughter.' Max displays a thoughtful tone toward Barinov, combining "mesyats" ("month") and "razvedyomsya" ("will get divorced") so the key meaning lands right away.
+- 'I know that Nagiyev is having a wedding, but not with Vika.' Barinov keeps an emphatic direction beside Max, building the phrase around "kurse" ("course, regimen") and "svadba" ("wedding") for a crisp, natural delivery.
+- 'Vika is pregnant, and he is marrying another woman?' Max challenges briskly at this point, using "beremenna" (from "beremennyy", "pregnant") alongside "drugoy" ("other") to shape the meaning.
+- 'Katya, sorry, everything is off, I cannot marry you.' Max conveys an easygoing position beside Katya, using "izvini" (from "izvinit", "sorry, excuse me") alongside "otmenyayetsya" ("is canceled") to shape the meaning.

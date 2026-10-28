@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, I have a question for you!' By having a question for Barinov, Lyova raises the stakes in the room at once. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Lyova, you must definitely knock before entering my office!' Once Lyova must definitely knock before entering his office, Barinov makes sure Lyova hears every word. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'From a fright like that a person can easily develop a stutter!' Declaring that from a fright like that a person can easily develop a stutter brings Barinov's temper right to the surface.
-- 'Mom is asking what you will drink tomorrow?' Wondering if Mom is asking what Barinov will drink tomorrow shows Lyova caught off guard. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Oh, Chef, look quickly at your table!' With the point and office at stake, Lyova reacts without holding back. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'My matchstick palace has completely burned to the ground!' Lyova declares that his matchstick palace has completely burned to the ground as the tension in the room peaks.
-- 'There is probably a curse lying on your ancestral estate.' Adding that there is probably a curse lying on Lyova's ancestral estate fills in the missing piece for Lyova.
-- 'You are our main family curse, Chef!' Insisting that Barinov is their main family curse shows Lyova is not backing down. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'No panic, Lyova, everything can still be fixed!' Once panic Lyova everything can still be fixed, Barinov makes sure Lyova hears every word.
-- 'I will build your estate in a couple of days!' Declaring that he will build Lyova's estate in a couple of days brings Barinov's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'After all, you have not even fixed the sofa at home!' Lyova insists that after all Barinov has not even fixed the sofa at home, leaving Barinov no room to argue. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'You only know how to break and destroy everything!' Over the plan and the office, Lyova lets his real feelings show.
+- 'Viktor Petrovich, I have a question for you!' Lyova establishes a resolute angle as the scene unfolds, linking "vopros" ("question, matter"), "viktor" ("Viktor"), and "petrovich" ("Petrovich") in one brisk exchange.
+- 'Lyova, you must definitely knock before entering my office!' Barinov conveys a grounded rhythm during the exchange, leaning on "kabinet" ("office") before closing the thought with "nado" ("it is necessary").
+- 'From a fright like that a person can easily develop a stutter!' Barinov picks a resolute attitude at once, linking "ispuga" ("person"), "mozhno" ("may, can"), and "legko" ("easy") in one brisk exchange.
+- 'Mom is asking what you will drink tomorrow?' Lyova challenges openly without hesitation, weaving "mama" ("mum, mother") together with "sprashivayet" ("asks") just the way native speakers do.
+- 'Oh, Chef, look quickly at your table!' Lyova sustains a steady tack as they talk, using "posmotrite" (from "posmotret", "look") alongside "skoreye" ("quickly, right away") to shape the meaning.
+- 'My matchstick palace has completely burned to the ground!' Lyova sets a playful mood in front of Barinov, pairing "spichechnyy" ("palace") with "dvorets" ("palace") to get the point across in plain spoken Russian.
+- 'There is probably a curse lying on your ancestral estate.' Barinov maintains a serious approach without hesitation, linking "navernoye" ("probably"), "rodovom" ("ancestral"), and "gnezde" ("estate") in one brisk exchange.
+- 'You are our main family curse, Chef!' Lyova holds a steady mood at once, putting "glavnoye" ("important") alongside "semeynoye" ("family") in a tight, everyday turn of phrase.
+- 'No panic, Lyova, everything can still be fixed!' Barinov brings a thoughtful line with Lyova, anchoring the Russian line on "paniki" ("panic") and "yeshchyo" ("more, still") without extra filler.
+- 'I will build your estate in a couple of days!' Barinov favors a natural view at this moment, weaving "postroyu" ("will build") together with "paru" ("couple") just the way native speakers do.
+- 'After all, you have not even fixed the sofa at home!' Lyova chooses a brisk tempo in their talk, leaning on "divan" ("sofa, couch") before closing the thought with "doma" ("at home").
+- 'You only know how to break and destroy everything!' Lyova offers a wry tempo as they talk, using "umeyete" (from "umet", "know how") alongside "tolko" ("only") to shape the meaning.

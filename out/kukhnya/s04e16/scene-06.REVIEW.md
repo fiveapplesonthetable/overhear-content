@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Welcome back to Moscow, Dmitry Vladimirovich!' Between the conversation and the party, Vika delivers a sharp reaction. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Tell me, what happened to your face?' With the conversation and party hanging in the air, German puts Nagiyev on the spot.
-- 'I have a big disaster with my face, guys.' Adding that he has a big disaster with his face guys fills in the missing piece for German. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'What do the doctors say? Will you have this for long?' Here asking what the doctors say shows Vika looking for the real truth. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'The doctors say that the swelling will not go down anytime soon.' Saying that the doctors say that the swelling will not go down anytime soon is how Nagiyev sets the tone with German.
-- 'I will cry every morning in front of the mirror.' Once he will cry every morning in front of the mirror, Nagiyev can finally tell German what he means.
-- 'But soon we have an important bank corporate party!' Once soon they have an important bank corporate party, Vika makes sure German hears every word. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Let those bankers wait until next month.' Explaining that German should let those bankers wait until next month lays the cards on the table for German.
-- 'No, canceling this celebration is completely impossible!' Vika insists that canceling this celebration is completely impossible, leaving German no room to argue. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'After all, we already took an advance payment from them.' Mentioning that after all they already took an advance payment from them moves the talk in a new direction.
-- 'With this money we bought your vacation tour!' Vika declares that with this money they bought German's vacation tour as the tension in the room peaks.
-- 'What a pity that Vika does not host corporate parties!' Because what a pity that Vika does not host corporate parties, Nagiyev does not bother softening the blow for German. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Welcome back to Moscow, Dmitry Vladimirovich!' Vika maintains a grounded manner straight away, combining "vozvrashcheniyem" ("return") and "moskvu" ("Moscow") so the key meaning lands right away.
+- 'Tell me, what happened to your face?' German inquires pointedly in their exchange, anchoring the Russian line on "skazhite" ("tell") and "sluchilos" ("happened") without extra filler.
+- 'I have a big disaster with my face, guys.' Nagiyev maintains a resolute stance beside German, weaving "bolshaya" ("large") together with "beda" ("trouble") just the way native speakers do.
+- 'What do the doctors say? Will you have this for long?' Vika probes briskly for Nagiyev's benefit, building the phrase around "govoryat" ("talks, says") and "vrachi" ("doctors") for a crisp, natural delivery.
+- 'The doctors say that the swelling will not go down anytime soon.' Nagiyev favors a resolute tone right away, joining "vrachi" ("doctors") to "govoryat" ("talks, says") so every word pulls its weight.
+- 'I will cry every morning in front of the mirror.' Nagiyev keeps a calm note in front of Vika, joining "budu" ("will be") to "kazhdoye" ("every, each") so every word pulls its weight.
+- 'But soon we have an important bank corporate party!' Vika brings a clear course for German, anchoring the Russian line on "skoro" ("soon") and "vazhnyy" ("important") without extra filler.
+- 'Let those bankers wait until next month.' Nagiyev picks a thoughtful angle in front of Vika, building the phrase around "bankiry" ("bankers") and "podozhdut" ("wait") for a crisp, natural delivery.
+- 'No, canceling this celebration is completely impossible!' Vika offers a warm approach for German, pairing "otmenit" ("to cancel") with "prazdnik" ("holiday") to get the point across in plain spoken Russian.
+- 'After all, we already took an advance payment from them.' Vika presents a resolute posture in front of Nagiyev, linking "uzhe" ("already, now"), "vzyali" ("took, arrested"), and "predoplatu" ("advance payment") in one brisk exchange.
+- 'With this money we bought your vacation tour!' Vika presents an unhurried line beside German, pairing "dengi" ("money") with "kupili" ("bought") to get the point across in plain spoken Russian.
+- 'What a pity that Vika does not host corporate parties!' Nagiyev sets an unhurried approach at this moment, leaning on "kak" ("how") before closing the thought with "zhalko" ("feel sorry for").

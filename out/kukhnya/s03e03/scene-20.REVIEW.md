@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And that is just what I thought right away! Right away.' Barinov declares that that is just what he thought right away as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Max, do you have any brains at all, throwing yourself under the wheels?' Here asking whether Barinov has any brains at all throwing themselves under the wheels shows Vika looking for the real truth. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Well, at least I felt like a hero.' Pointing out that at least he felt like a hero gives Barinov a sobering reality check.
-- 'And still I do not believe in omens, especially bad ones.' Max explains that still he does not believe in omens especially bad ones, keeping his voice calm and direct.
-- 'What we consider a sign of bad luck...' Over the car and the chaos, Max answers Barinov without a second thought.
-- 'Can become the biggest victory.' Noting that can become the biggest victory keeps Max's side of the story simple and clear.
-- 'And we usually create our problems for ourselves.' With the car and shift in play, Max keeps this short reply brisk and direct.
-- 'And then solve them ourselves too.' Max explains that Barinov should solve them themselves, keeping his voice calm and direct.
-- 'And I didn't think you were such a stern father.' Saying that she did not think Barinov was such a stern father is how Vika sets the tone with Barinov.
-- 'And I didn't think you were so jealous.' Once he did not think Max was so jealous, Barinov can finally tell Max what he means. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'For everything to be good, you must believe in yourself, not in omens.' Adding that for everything to be good Barinov must believe in themselves not in omens fills in the missing piece for Barinov. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Well, except for a black cat, of course.' With the kitchen and peace in play, Max keeps this short reply brisk and direct.
+- 'And that is just what I thought right away! Right away.' Barinov sets a direct note on the spot, anchoring the Russian line on "srazu" ("at once") and "podumal" ("would think") without extra filler.
+- 'Max, do you have any brains at all, throwing yourself under the wheels?' Vika probes decisively in this moment, putting "mozgi" ("brains") alongside "yest" ("there is") in a tight, everyday turn of phrase.
+- 'Well, at least I felt like a hero.' Max holds a warm mood for Barinov, combining the pivot word "zato" ("on the bright side") with "pochuvstvoval" ("felt") to give the line its natural spoken rhythm.
+- 'And still I do not believe in omens, especially bad ones.' Max picks a lively course at this moment, pairing "veryu" ("believe") with "primety" ("omens, superstitions") to get the point across in plain spoken Russian.
+- 'What we consider a sign of bad luck...' Max establishes a lively tack as they talk, putting "schitayem" ("think, consider") alongside "priznakom" ("sign") in a tight, everyday turn of phrase.
+- 'Can become the biggest victory.' Max maintains a clear manner straight away, combining "mozhet" ("can") and "stat" ("to become") so the key meaning lands right away.
+- 'And we usually create our problems for ourselves.' Max presents an emphatic mood in the conversation, putting "problemy" ("problems") alongside "obychno" ("usually") in a tight, everyday turn of phrase.
+- 'And then solve them ourselves too.' Max strikes a sharp posture straight away, leaning on "potom" ("then") before closing the thought with "reshayem" ("decide").
+- 'And I didn't think you were such a stern father.' Vika offers a sharp attitude during the exchange, putting "dumala" ("thought") alongside "surovyy" ("stern, strict") in a tight, everyday turn of phrase.
+- 'And I didn't think you were so jealous.' Barinov presents an easygoing tone at once, combining "dumal" ("thought") and "revnivaya" ("jealous") so the key meaning lands right away.
+- 'For everything to be good, you must believe in yourself, not in omens.' Max picks a frank tack in this beat, combining "bylo" ("was") and "khorosho" ("good, fine") so the key meaning lands right away.
+- 'Well, except for a black cat, of course.' Max chooses an emphatic manner at this moment, combining "chyornoy" ("black") and "koshki" ("cat") so the key meaning lands right away.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, well how are you doing there, did you finish?' Asking how Lyova doing there did Lyova finishes is cuts straight through the tension between Barinov and Lyova.
-- 'Chef, not everything is so simple here.' Explaining that not everything is so simple here lays the cards on the table for Barinov.
-- 'What are those sounds over there with you?' Here wondering what those sounds over there with Lyova are shows Barinov looking for the real truth. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Are you playing a video game console over there?' By asking whether Lyova playing a video game console over there, Barinov presses Lyova for a straight answer.
-- 'The crib turned out to be very complicated.' Noting that the crib turned out to be very complicated keeps Max's side of the story simple and clear.
-- 'I decided to take a short break.' Even though he decided to take a short break, Max keeps a steady face in front of Barinov.
-- 'While I cover for you here, you are playing games!' Barinov declares that while he covers for Lyova here Lyova is playing games as the tension in the room peaks.
-- 'Chef, forgive me, I have assembled almost half.' Max explains that he has assembled almost half, keeping his voice calm and direct.
-- 'I need about four more hours.' Explaining that he needs about four more hours lays the cards on the table for Barinov. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'I am on my way, otherwise you will fuss until night.' Barinov mentions that he is on his way otherwise Lyova will fuss until night so Lyova sees what is at stake.
-- 'Lyova, you are staying in charge of the kitchen.' Saying that Lyova is staying in charge of the kitchen is how Barinov sets the tone with Lyova.
-- 'Yes, Chef, we will do everything great.' Since they will do everything great, Lyova does not waste words on excuses.
+- 'Hello, well how are you doing there, did you finish?' Barinov quizzes honestly across the room, joining "kak" ("how") to "tam" ("there") so every word pulls its weight.
+- 'Chef, not everything is so simple here.' Max keeps a brisk style with Lyova, weaving "tut" ("here") together with "prosto" ("just") just the way native speakers do.
+- 'What are those sounds over there with you?' Barinov questions steadily in the room, leaning on "tam" ("there") before closing the thought with "zvuki" ("sound, volume").
+- 'Are you playing a video game console over there?' Barinov quizzes pointedly in the room, weaving "tam" ("there") together with "pristavku" ("games console") just the way native speakers do.
+- 'The crib turned out to be very complicated.' Max picks an easygoing rhythm straight away, combining "krovatka" ("baby crib, cot") and "ochen" ("very much") so the key meaning lands right away.
+- 'I decided to take a short break.' Max favors a wry angle toward Lyova, weaving "reshil" ("has decided") together with "nebolshoy" ("small, modest") just the way native speakers do.
+- 'While I cover for you here, you are playing games!' Barinov sets a resolute mood at this moment, linking "poka" ("bye"), "prikryvayu" ("to cover up"), and "igrayesh" ("to play") in one brisk exchange.
+- 'Chef, forgive me, I have assembled almost half.' Max takes a calm direction toward Lyova, linking "prostite" ("excuse me"), "pochti" ("almost"), and "polovinu" ("half") in one brisk exchange.
+- 'I need about four more hours.' Max favors a warm line without hesitation, pairing "nuzhno" ("necessary") with "yeshchyo" ("more, still") to get the point across in plain spoken Russian.
+- 'I am on my way, otherwise you will fuss until night.' Barinov chooses a sharp view in the scene, leaning on "vyyezzhayu" ("am driving out") before closing the thought with "inache" ("otherwise").
+- 'Lyova, you are staying in charge of the kitchen.' Barinov chooses an easygoing view straight away, leaning on "ostayoshsya" ("remain") before closing the thought with "kukhne" ("kitchen").
+- 'Yes, Chef, we will do everything great.' Lyova displays an unhurried bearing right away, putting "sdelayem" ("we'll do") alongside "otlichno" ("perfect, great") in a tight, everyday turn of phrase.

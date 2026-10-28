@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dear colleagues, I ask for a minute of your attention!' Saying that dear colleagues he asks for a minute of Fedya's attention is how German takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I want to introduce our new sous-chef to you.' Because he wants to introduce their new to Fedya, German treats the matter as settled. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'This is cook Lavrov Maksim Leonidovich.' Explaining that this is cook Lavrov Maksim lays the cards on the table for Fedya.
-- 'I ask everyone to welcome and respect him.' Since he asks everyone to welcome and respect him, German does not waste words on excuses.
-- 'Greetings to you, dear kitchen colleagues!' With the point and situation at stake, Max reacts without holding back. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Cooks, bow low to our new sous-chef!' Declaring that cooks bow low to their new brings Fedya's temper right to the surface.
-- 'Max, tell us honestly, what is going on here?' Questioning whether tell them honestly what is going on here is how Fedya tests German's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'How are you addressing the sous-chef right now?' Here asking how Fedya addressing the right now is shows Max looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Oh, forgive us, respected Maksim Leonidovich!' Declaring that German should forgive them respected Maksim brings Fedya's temper right to the surface.
-- 'You have now risen to become one of our bosses!' Because German has now risen to become one of their bosses, Fedya does not bother softening the blow for German. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Yes, now I am your new boss.' Explaining that he is Fedya's new boss lays the cards on the table for Fedya. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Let's all quickly return to work.' Max mentions that they should all quickly return to work so Fedya sees what is at stake.
+- 'Dear colleagues, I ask for a minute of your attention!' German presents a measured mood during the exchange, pairing "uvazhayemyye" ("respected, esteemed") with "kollegi" ("colleagues") to get the point across in plain spoken Russian.
+- 'I want to introduce our new sous-chef to you.' German sustains a steady tack as they talk, joining "khochu" ("want") to "predstavit" ("to imagine") so every word pulls its weight.
+- 'This is cook Lavrov Maksim Leonidovich.' German chooses a direct footing in their talk, pairing "povar" ("chef, cook") with "eto" ("this") to get the point across in plain spoken Russian.
+- 'I ask everyone to welcome and respect him.' German holds a steady view as they talk, joining "proshu" ("beg, ask") to "lyubit" ("love") so every word pulls its weight.
+- 'Greetings to you, dear kitchen colleagues!' Max presents a measured rhythm without hesitation, anchoring the Russian line on "privetstvuyu" ("greet") and "dorogiye" ("dear") without extra filler.
+- 'Cooks, bow low to our new sous-chef!' Fedya keeps a candid manner as they talk, anchoring the Russian line on "povara" ("cook") and "nizko" ("low, down") without extra filler.
+- 'Max, tell us honestly, what is going on here?' Fedya quizzes warmly without hesitation, building the phrase around "skazhi" ("say") and "chestno" ("honestly") for a crisp, natural delivery.
+- 'How are you addressing the sous-chef right now?' Max checks promptly across the room, anchoring the Russian line on "kak" ("how") and "su-shefu" ("sous-chef") without extra filler.
+- 'Oh, forgive us, respected Maksim Leonidovich!' Fedya holds a serious posture at this moment, using "prostite" (from "prostit", "excuse me") alongside "uvazhayemyy" ("respected, esteemed") to shape the meaning.
+- 'You have now risen to become one of our bosses!' Fedya picks a grounded line beside Max, anchoring the Russian line on "teper" ("now") and "vybilsya" ("to bosses") without extra filler.
+- 'Yes, now I am your new boss.' Max strikes a playful tone at once, placing "teper" ("now") straight beside "novyy" ("new") with no word for "to be" needed.
+- 'Let's all quickly return to work.' Max projects a steady angle at this moment, linking "davayte" ("let's"), "bystro" ("quickly"), and "vernyomsya" ("return, go back") in one brisk exchange.

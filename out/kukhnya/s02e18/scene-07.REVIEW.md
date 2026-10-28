@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Take more of it, there is plenty of it in there anyway.' Since Nagiyev should take more of it there is plenty of it in there anyway, Vika does not waste words on excuses.
-- 'Just in case.' Over the moment and the money, Nagiyev answers Vika without a second thought.
-- 'Do not even think about bringing a weapon.' Noting that do not even think about bringing a weapon keeps Vika's side of the story simple and clear.
-- 'I am not going to shoot anyone.' Claiming that he is not going to shoot anyone sounds confident, even if Vika has doubts.
-- 'Galya, do not worry.' Admitting that someone do not worry shows Vika being honest for a change.
-- 'You are scaring me already.' Saying that Vika is scaring him already is how Nagiyev sets the tone with Vika. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'We are going to the police immediately.' Once they are going to the police immediately, Vika can finally tell Nagiyev what she means.
-- 'I will handle this myself.' Adding that he will handle this himself fills in the missing piece for Vika.
-- 'I do not need any bartenders in my car.' Vika tells Nagiyev that she does not need any bartenders in her car without dressing it up.
-- 'I am coming with you.' Once he is coming with Vika, Nagiyev can finally tell Vika what he means.
-- 'Let him come along, otherwise you will do something foolish out there.' Here letting him come along otherwise Nagiyev will do something foolish out there sets up the next turn in their exchange. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I just went out for a smoke.' Nagiyev reminds Vika that he just went out for a smoke before the moment passes.
-- 'And took the snails out for a walk at the same time?' Asking whether took the snails out for a walk at the same time puts Nagiyev right on the defensive.
+- 'Take more of it, there is plenty of it in there anyway.' Vika adopts a calm tack in the room, linking "bolshe" ("more"), "berite" ("take"), and "tam" ("there") in one brisk exchange.
+- 'Just in case.' Nagiyev maintains a serious style for Vika, pairing "sluchay" ("case, occasion") with "na" ("on, onto") to get the point across in plain spoken Russian.
+- 'Do not even think about bringing a weapon.' Vika shares a grounded attitude on the spot, anchoring the Russian line on "vzdumay" ("don't even think") and "brat" ("to take") without extra filler.
+- 'I am not going to shoot anyone.' Nagiyev keeps a resolute note in front of Vika, putting "strelyat" ("shoots") alongside "budu" ("will be") in a tight, everyday turn of phrase.
+- 'Galya, do not worry.' Vika projects a firm bearing in front of Nagiyev, anchoring the Russian line on "volnuysya" ("worry") and "galya" ("Galya") without extra filler.
+- 'You are scaring me already.' Nagiyev sets a lively note for Vika, linking "uzhe" ("already, now"), "pugayesh" ("are scaring"), and "ty" ("you") in one brisk exchange.
+- 'We are going to the police immediately.' Vika picks a brisk tone at this moment, building the phrase around "nemedlenno" ("immediately") and "idem" ("to go, to walk") for a crisp, natural delivery.
+- 'I will handle this myself.' Nagiyev offers an unhurried mood in this beat, joining "razberus" ("I will sort out") to "sam" ("yourself") so every word pulls its weight.
+- 'I do not need any bartenders in my car.' Vika shares a resolute attitude as they talk, combining "barmeny" ("barmen") and "mashine" ("car") so the key meaning lands right away.
+- 'I am coming with you.' Nagiyev holds a pointed attitude in their talk, putting "ya" ("I") alongside "vami" ("you") in a tight, everyday turn of phrase.
+- 'Let him come along, otherwise you will do something foolish out there.' Vika displays a pointed position in the scene, pairing "yedet" ("is going") with "inache" ("otherwise") to get the point across in plain spoken Russian.
+- 'I just went out for a smoke.' Nagiyev holds an unhurried bearing straight away, putting "kurit" ("to smoke") alongside "khodil" ("went") in a tight, everyday turn of phrase.
+- 'And took the snails out for a walk at the same time?' Vika prompts honestly without a pause, anchoring the Russian line on "zaodno" ("at the same time") and "ulitok" ("snail, escargot") without extra filler.

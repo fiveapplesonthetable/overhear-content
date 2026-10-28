@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your father yelled at Katya and forbade her to date you.' Around the plan and table, Nastya sets a calm, everyday tone with Barinov.
-- 'Katya asked me to stay quiet, but I cannot.' Claiming that Katya asked her to stay quiet but she cannot sounds confident, even if Barinov has doubts.
-- 'Nikita, do not dare raise your voice at me!' Saying that do not dare raise Nastya's voice at him is how Barinov takes charge of the moment. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Listen to me carefully, and you will have everything.' Barinov explains that to him carefully and Nastya will have everything, keeping his voice calm and direct.
-- 'You will have big money and high status.' Realizing that Nastya will have big money and high status changes how Barinov handles the situation. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Listen, dad, why don't you take all your money.' Noting that dad why do not Barinov takes all Barinov's money keeps Nikita's side of the story simple and clear. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'And leave so that I never see you again!' Nikita declares that Barinov should leave so that he never sees Barinov again as the tension in the room peaks.
-- 'Because I love Katya and will be with her!' Declaring that because he loves Katya and will be brings Nikita's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Lena, I just want to play a little prank on my brother.' Saying that someone he just wants to play a little prank on his brother is how Barinov sets the tone with Nastya.
-- 'Do not worry, everything will be fine with this money.' Even though do not worry everything will be fine with this money, Barinov keeps a steady face in front of Nastya.
-- 'Just do not lose someone else's envelope with big money.' Adding that just do not lose someone else envelope with big money fills in the missing piece for Barinov.
-- 'I will hide the envelope and return it soon.' Saying that he will hide the envelope and return it soon is how Barinov sets the tone with Nastya.
+- 'Your father yelled at Katya and forbade her to date you.' Nastya brings an honest line across the room, putting "otets" ("father") alongside "nakrichal" ("yell at") in a tight, everyday turn of phrase.
+- 'Katya asked me to stay quiet, but I cannot.' Nastya sustains a steady bearing straight away, joining "prosila" ("asked") to "molchat" ("be quiet") so every word pulls its weight.
+- 'Nikita, do not dare raise your voice at me!' Barinov chooses a lively mood as the scene unfolds, building the phrase around "smey" ("to dare") and "povyshat" ("to raise, promote") for a crisp, natural delivery.
+- 'Listen to me carefully, and you will have everything.' Barinov shares a resolute tempo at once, leaning on "poslushay" ("listen") before closing the thought with "vnimatelno" ("carefully, attentively").
+- 'You will have big money and high status.' Barinov sustains a natural angle in front of Nastya, leaning on "budut" ("there will be") before closing the thought with "bolshiye" ("big, serious").
+- 'Listen, dad, why don't you take all your money.' Nikita holds a wry style during the exchange, joining "poslushay" ("listen") to "papa" ("Dad") so every word pulls its weight.
+- 'And leave so that I never see you again!' Nikita keeps a measured rhythm in the conversation, using "uydyosh" (from "uyti", "you'll leave") alongside "bolshe" ("more") to shape the meaning.
+- 'Because I love Katya and will be with her!' Nikita favors an unhurried angle during the exchange, joining "potomu" ("because") to "lyublyu" ("love") so every word pulls its weight.
+- 'Lena, I just want to play a little prank on my brother.' Barinov maintains a playful posture at this moment, combining the softening word "prosto" ("simply, just") with "khochu" ("want") to give the line its natural spoken rhythm.
+- 'Do not worry, everything will be fine with this money.' Barinov conveys an emphatic posture with Nikita, using "volnuysya" (from "volnovatsya", "worry") alongside "dengami" ("the money, funding") to shape the meaning.
+- 'Just do not lose someone else's envelope with big money.' Nastya offers a frank posture at once, pairing "tolko" ("only") with "poteryay" ("only") to get the point across in plain spoken Russian.
+- 'I will hide the envelope and return it soon.' Barinov adopts a thoughtful manner in their talk, putting "spryachu" ("will hide") alongside "konvert" ("the envelope") in a tight, everyday turn of phrase.

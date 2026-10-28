@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here are ratings for interior, presentation, and the chef's dish.' Louis reminds Barinov that here are ratings for interior presentation and the dish before the moment passes.
-- 'So our new head chef really made a mess for him.' Because their new head really made a mess for him, Lyova treats the matter as settled.
-- 'At least the presentation of the dish is very creative.' Explaining that at least the presentation of the dish is very creative lays the cards on the table for Barinov.
-- 'He writes here about some new head chef.' Louis mentions that he writes here about some new head so Barinov sees what is at stake.
-- 'Hello, Lyova, well what is going on with you there?' By asking what going on with Louis there is, Barinov presses Louis for a straight answer. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'The Michelin inspector is sitting in our dining room, Chef!' Because the Michelin inspector is sitting in their dining room, Lyova does not bother softening the blow for Barinov.
-- 'Who is sitting there? How did he end up there?' By wondering who sitting there is, Barinov presses Louis for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We found his notebook with restaurant ratings.' Realizing that they found his notebook with restaurant ratings changes how Lyova handles the situation.
-- 'And Oguzok just took his own dish out to him.' Noting that Oguzok just took his own dish out to him keeps Lyova's side of the story simple and clear.
-- 'He served the inspector his signature pâté!' Between the moment and the inspector, Lyova delivers a sharp reaction. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'What do you mean pâté? Hold him, I am racing over right now!' With the conversation and inspector hanging in the air, Barinov puts Louis on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Chef is already flying back to our kitchen.' Saying that Chef is already flying back to their kitchen is how Lyova sets the tone with Barinov.
+- 'Here are ratings for interior, presentation, and the chef's dish.' Louis conveys a brisk approach as the scene unfolds, leaning on "tut" ("here") before closing the thought with "otsenki" ("evaluation").
+- 'So our new head chef really made a mess for him.' Lyova displays a warm note toward Louis, weaving "znachit" ("then, so") together with "novyy" ("new") just the way native speakers do.
+- 'At least the presentation of the dish is very creative.' Louis chooses an unhurried view toward Barinov, anchoring the Russian line on "podacha" ("presentation") and "blyuda" ("of dish") without extra filler.
+- 'He writes here about some new head chef.' Louis presents an honest tack at once, combining "pishet" ("is writing") and "tut" ("here") so the key meaning lands right away.
+- 'Hello, Lyova, well what is going on with you there?' Barinov quizzes naturally toward Louis here, joining "tam" ("there") to "allo" ("hello") so every word pulls its weight.
+- 'The Michelin inspector is sitting in our dining room, Chef!' Lyova establishes a brisk position in the room, combining "zale" ("hall") and "sidit" ("sits") so the key meaning lands right away.
+- 'Who is sitting there? How did he end up there?' Barinov challenges firmly in the room, putting "sidit" ("sits") alongside "kak" ("how") in a tight, everyday turn of phrase.
+- 'We found his notebook with restaurant ratings.' Lyova offers a direct bearing at this moment, building the phrase around "nashli" ("found, did find") and "bloknot" ("notepad") for a crisp, natural delivery.
+- 'And Oguzok just took his own dish out to him.' Lyova strikes a playful posture in their talk, weaving "tolko" ("only") together with "otnyos" ("to carry to") just the way native speakers do.
+- 'He served the inspector his signature pâté!' Lyova offers a thoughtful tack across the room, weaving "podal" ("submitted, filed") together with "inspektoru" ("inspector") just the way native speakers do.
+- 'What do you mean pâté? Hold him, I am racing over right now!' Barinov quizzes wryly with Louis now, building the phrase around "kak" ("how") and "pashtet" ("pâté") for a crisp, natural delivery.
+- 'Chef is already flying back to our kitchen.' Lyova chooses an emphatic note in front of Louis, anchoring the Russian line on "uzhe" ("already, now") and "letit" ("is flying") without extra filler.

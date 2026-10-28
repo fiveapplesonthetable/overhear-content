@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This applies to everyone.' Over the visit and the kitchen, Barinov answers Kostya without a second thought. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'By the way.' Between the visit and the shift, Vika gives Barinov a quick, grounded response.
-- 'And here is why, Viktor Petrovich.' Adding that here is why Viktor Petrovich fills in the missing piece for Barinov.
-- 'He is in Russia for only two days.' Saying that he is in Russia for only two days is how Barinov sets the tone with Kostya.
-- 'We need the publicity, Vitya.' By needing the publicity, Vika keeps her side of the story grounded.
-- 'That is why I did not want to go there.' Mentioning that that is why he did not want to go there moves the talk in a new direction.
-- 'I had a feeling about it.' Barinov reminds Kostya that he had a feeling about it before the moment passes.
-- 'Pardon me, I am not looking.' Because pardon her she is not looking, Vika treats the matter as settled.
-- 'Why are you guys not at work?' By asking why Barinov guys not at work is, Kostya presses Barinov for a straight answer.
-- 'We are on the second shift.' Barinov mentions that they are on the second shift so Kostya sees what is at stake.
-- 'Listen, Kostyan, have you seen my travel passport?' Vika asks whether someone have Barinov seen her travel passport, refusing to let the point slide. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Kristina just offered Sasha two vouchers to Cyprus.' Between the office and the masterclass, Kostya gives Barinov a quick, grounded response.
-- 'And what if I do not find the passport.' Barinov explains that what if he does not find the passport, keeping his voice calm and direct.
+- 'This applies to everyone.' Barinov displays an easygoing position during the exchange, pairing "kasayetsya" ("concerns, applies to") with "eto" ("this") to get the point across in plain spoken Russian.
+- 'By the way.' Vika projects a calm note in their talk, combining "prochim" ("other") and "mezhdu" ("between") so the key meaning lands right away.
+- 'And here is why, Viktor Petrovich.' Kostya sustains a frank posture toward Barinov, combining "zachem" ("what for") and "vot" ("there, here") so the key meaning lands right away.
+- 'He is in Russia for only two days.' Barinov adopts an unhurried angle for Vika, pairing "dnya" ("day") with "dva" ("two") to get the point across in plain spoken Russian.
+- 'We need the publicity, Vitya.' Vika keeps a thoughtful rhythm across the room, weaving "nuzhen" ("is needed") together with "piar" ("PR") just the way native speakers do.
+- 'That is why I did not want to go there.' Kostya shares a sharp tone at once, pairing "pochemu" ("why") with "khotel" ("wanted") to get the point across in plain spoken Russian.
+- 'I had a feeling about it.' Barinov adopts a sharp note toward Kostya, building the phrase around "chuvstvoval" ("felt") and "tak" ("so") for a crisp, natural delivery.
+- 'Pardon me, I am not looking.' Vika strikes an easygoing direction in the scene, weaving "smotryu" ("look") together with "pardon" ("pardon") just the way native speakers do.
+- 'Why are you guys not at work?' Kostya prompts dryly to keep things clear, putting "rabote" ("work") alongside "chego" ("what") in a tight, everyday turn of phrase.
+- 'We are on the second shift.' Barinov sustains an easygoing course for Vika, combining "vtoruyu" ("second") and "smenu" ("shift") so the key meaning lands right away.
+- 'Listen, Kostyan, have you seen my travel passport?' Vika inquires frankly in front of Barinov, linking "slushay" ("listen"), "videl" ("saw, have seen"), and "zagranpasport" ("international passport") in one brisk exchange.
+- 'Kristina just offered Sasha two vouchers to Cyprus.' Kostya holds an easygoing view in the room, building the phrase around "prosto" ("just") and "predlozhila" ("to offer, to suggest") for a crisp, natural delivery.
+- 'And what if I do not find the passport.' Barinov sets a resolute tempo during the exchange, building the phrase around "pasport" ("passport") and "naydu" ("find") for a crisp, natural delivery.

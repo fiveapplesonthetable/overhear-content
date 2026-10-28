@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I got divorced!' Nagiyev declares that he got divorced as the tension in the room peaks.
-- 'Kristina Semyonovna, goodbye!' With the kitchen and shift at stake, Nagiyev reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Page fourteen!' With the kitchen and truth at stake, Nagiyev reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'In the woods among the bears.' Between the plan and the restaurant, Nagiyev gives Kostya a quick, grounded response.
-- 'Right, I will go arrange champagne for the guests.' Vika mentions that right she will go arrange champagne for the guests so Kostya sees what is at stake.
-- 'Go on, run, little rabbit.' Since Kostya should go on run little rabbit, Nagiyev does not waste words on excuses. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Dmitry Vladimirovich, I congratulate you.' Adding that he congratulates Nagiyev fills in the missing piece for Nagiyev.
-- 'Yes, my boy.' With the room and restaurant in play, Nagiyev keeps this short reply brisk and direct.
-- 'I really like how you work.' Realizing that he really likes how Kostya works changes how Nagiyev handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Well done, champ.' Over the room and the restaurant, Nagiyev answers Kostya without a second thought.
-- 'Thank you.' By thanking Nagiyev, Kostya keeps his side of the story grounded.
-- 'I want to thank you.' Wanting to thank Kostya moves the conversation forward without extra drama. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I got divorced!' Nagiyev maintains an earnest stance as they talk, combining "razvyolsya" ("got divorced") and "ya" ("I") so the key meaning lands right away.
+- 'Kristina Semyonovna, goodbye!' Nagiyev chooses a pointed tone straight away, pairing "svidaniya" ("meeting") with "kristina" ("Kristina") to get the point across in plain spoken Russian.
+- 'Page fourteen!' Nagiyev presents a steady direction on the spot, joining "stranitsa" ("page") to "chetyrnadtsataya" ("fourteenth") so every word pulls its weight.
+- 'In the woods among the bears.' Nagiyev favors a warm footing in the scene, weaving "lesakh" ("woods, forests") together with "medvedey" ("bears") just the way native speakers do.
+- 'Right, I will go arrange champagne for the guests.' Vika favors a serious stance in this beat, building the phrase around "poydu" ("go") and "organizuyu" ("will organize") for a crisp, natural delivery.
+- 'Go on, run, little rabbit.' Nagiyev presents an unhurried line in front of Vika, pairing "davay" ("let's") with "begi" ("run") to get the point across in plain spoken Russian.
+- 'Dmitry Vladimirovich, I congratulate you.' Kostya favors an emphatic rhythm as they talk, weaving "pozdravlyayu" ("congratulations") together with "dmitriy" ("Dmitry") just the way native speakers do.
+- 'Yes, my boy.' Nagiyev displays an unhurried tone in front of Vika, putting "synok" ("son") alongside "da" ("yes") in a tight, everyday turn of phrase.
+- 'I really like how you work.' Nagiyev holds a natural position with Kostya, joining "ochen" ("very much") to "nravitsya" ("is pleasing") so every word pulls its weight.
+- 'Well done, champ.' Nagiyev conveys a steady style as the scene unfolds, putting "molodets" ("well done, good boy") alongside "krasavchik" ("handsome guy") in a tight, everyday turn of phrase.
+- 'Thank you.' Kostya favors a thoughtful tone without hesitation, letting the single Russian word "spasibo" ("thank you") carry the entire reaction on its own.
+- 'I want to thank you.' Nagiyev sets an easygoing course at this moment, combining "khochu" ("want") and "poblagodarit" ("to thank") so the key meaning lands right away.

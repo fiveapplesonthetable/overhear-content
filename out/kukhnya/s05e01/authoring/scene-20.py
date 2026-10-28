@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e01.ru.srt'
 INTRO = 'In the final scene of the episode, guests flee the lobby in panic while Mikhail apologizes to the Prefect, and Katya tells Denis that love requires trust and they should take a break. Listen to the closing exchange.'
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that brings the Season 5 premiere to a close. Notice Katya's key takeaway that love means trust, expressed with the neuter noun 'doveriye'. See you in the next episode. See you next time!"
+OUTRO = "And that brings the Season 5 premiere to a close. Notice Katya's key takeaway that love means trust, expressed with the neuter word 'doveriye'. See you in the next episode. See you next time!"
 CLOSING = ('katya', 'Пока!')
 STORY = [
     ('mikhail', 'Я сам ничего не понял.', 'I did not understand anything myself.', [(300, 'Я не понял')], 'adapted'),
@@ -33,19 +33,19 @@ STORY = [
     ('denis', 'И вернуться назад уже невозможно.', 'And it is already impossible to go back.', [(320, 'И вернуться уже невозможно')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'I did not understand anything myself.\' Claiming that he did not understand anything himself sounds confident, even if Denis has doubts. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.'),
-    (1, None, "'Katya, please forgive me.' Adding that Katya should forgive him fills in the missing piece for Katya."),
-    (2, None, "'Where did all these cockroaches come from?' Here asking where all these cockroaches come shows Denis looking for the real truth."),
-    (3, None, "'I meant well, understand.' Realizing that he meant well understand changes how Denis handles the situation."),
-    (4, None, "'It is not about the cockroaches at all.' Noting that it is not about the cockroaches at all keeps Katya's side of the story simple and clear."),
-    (5, None, "'Love is not just beautiful words.' Here telling Denis to love is not just beautiful words sets up the next turn in their exchange."),
-    (6, None, '\'Love is genuine trust.\' Since Denis should love is genuine trust, Katya does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (7, None, '\'Katya, I honestly trust you.\' With the shift and breakup in play, Denis keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (8, None, "'And it is no longer about you.' Once it is no longer about Denis, Katya can finally tell Denis what she means."),
-    (9, None, "'Now I have doubts myself.' Saying that she has doubts herself is how Katya sets the tone with Denis."),
-    (10, None, "'It is better for us not to date for now.' Saying that it is better for them not to date for now is how Katya sets the tone with Denis."),
-    (11, None, "'Forgive me, Denis.' With the moment and breakup in play, Katya keeps this short reply brisk and direct."),
-    (12, None, "'We will definitely punish everyone.' Mentioning that they will definitely punish everyone moves the talk in a new direction."),
-    (13, None, '\'This is from the hotel for the inconvenience.\' Saying that this is from the hotel for the inconvenience is how Mikhail sets the tone with Denis. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (14, None, "'And it is already impossible to go back.' Because it is already impossible to go back, Denis treats the matter as settled."),
+    (0, None, '\'I did not understand anything myself.\' Mikhail adopts a firm position on the spot, building the phrase around "ponyal" ("understood") and "ya" ("I") for a crisp, natural delivery.'),
+    (1, None, '\'Katya, please forgive me.\' Denis sustains an emphatic mood in front of Mikhail, building the phrase around "prosti" ("sorry, forgive me") and "katya" ("Katya") for a crisp, natural delivery.'),
+    (2, None, '\'Where did all these cockroaches come from?\' Denis tests lightly in their exchange, combining "otkuda" ("where from") and "vzyalis" ("to appear, come from") so the key meaning lands right away.'),
+    (3, None, '\'I meant well, understand.\' Denis keeps a thoughtful posture right away, weaving "khotel" ("wanted") together with "kak" ("how") just the way native speakers do.'),
+    (4, None, '\'It is not about the cockroaches at all.\' Katya offers a brisk line on the spot, combining "delo" ("matter") and "sovsem" ("at all") so the key meaning lands right away.'),
+    (5, None, '\'Love is not just beautiful words.\' Katya takes a frank note without hesitation, putting "lyubov" ("love") alongside "prosto" ("just") in a tight, everyday turn of phrase.'),
+    (6, None, '\'Love is genuine trust.\' Katya picks a firm manner at this moment, leaning on "lyubov" ("love") before closing the thought with "nastoyashcheye" ("real").'),
+    (7, None, '\'Katya, I honestly trust you.\' Denis maintains a steady course at once, combining "doveryayu" ("trust") and "chestno" ("honestly") so the key meaning lands right away.'),
+    (8, None, '\'And it is no longer about you.\' Katya strikes a playful footing across the room, building the phrase around "delo" ("matter") and "uzhe" ("already, now") for a crisp, natural delivery.'),
+    (9, None, '\'Now I have doubts myself.\' Katya sets a calm stance in their talk, combining "teper" ("now") and "somnevayus" ("doubt") so the key meaning lands right away.'),
+    (10, None, '\'It is better for us not to date for now.\' Katya holds a thoughtful line beside Denis, joining "luchshe" ("better") to "poka" ("bye") so every word pulls its weight.'),
+    (11, None, '\'Forgive me, Denis.\' Katya strikes a frank rhythm as the scene unfolds, anchoring the Russian line on "prosti" ("sorry, forgive me") and "menya" ("me") without extra filler.'),
+    (12, None, '\'We will definitely punish everyone.\' Mikhail sustains a serious stance without hesitation, joining "obyazatelno" ("surely, without fail") to "nakazhem" ("we will punish") so every word pulls its weight.'),
+    (13, None, '\'This is from the hotel for the inconvenience.\' Mikhail projects a sharp footing during the exchange, linking "otelya" ("of the hotel"), "neudobstva" ("inconvenience"), and "eto" ("this") in one brisk exchange.'),
+    (14, None, '\'And it is already impossible to go back.\' Denis presents a frank attitude in front of Katya, pairing "vernutsya" ("to return") with "nazad" ("ago") so the "-sya" ending carries the action.'),
 ]

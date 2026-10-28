@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You want to turn from a chef into an heiress at dinner?' Wondering if Katya wants to turn from a into an heiress at dinner shows Eleonora caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well yes, mom, I really need this right now.' Claiming that she really needs this right now sounds confident, even if Eleonora has doubts. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'If you want, we can tell him the truth right away.' Explaining that if Katya wants they can tell him the truth right away lays the cards on the table for Katya.
-- 'No, I would really love to see his face!' Once she would really love to see his face, Katya makes sure Eleonora hears every word. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Viktor Petrovich, his father returned, he is in the room in a meeting.' Realizing that his father returned he is in the room in a meeting changes how Mikhail handles the situation.
-- 'Hello, tell me, who is in charge of the hotel here?' Wondering if tell her who is in charge of the hotel here shows Eleonora caught off guard.
-- 'I am the general manager, how can I help you?' Being the general manager how can he helps Eleonora is how Mikhail puts Eleonora on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'This morning I drove a man to your place from the airport.' Admitting that this morning she drove a man to Katya's place from the airport shows Eleonora being honest for a change. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'A mustachioed man in a light-colored nice suit.' With the surprise and dinner in play, Eleonora keeps this short reply brisk and direct.
-- 'This morning he forgot his suitcase in my car.' Once this morning he forgot his suitcase in her car, Eleonora can finally tell Katya what she means. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'It seems to me I understand perfectly whom you are talking about.' Since it seems to him he understands perfectly whom Eleonora is talking, Mikhail does not waste words on excuses. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Please, come with me to the room right now.' By coming with him to the room right now, Mikhail keeps his side of the story grounded.
+- 'You want to turn from a chef into an heiress at dinner?' Eleonora challenges frankly from the start, putting "khochesh" ("do you want") alongside "uzhinom" ("dinner, supper") in a tight, everyday turn of phrase.
+- 'Well yes, mom, I really need this right now.' Katya sets an honest stance as the scene unfolds, anchoring the Russian line on "mama" ("mum, mother") and "seychas" ("now") without extra filler.
+- 'If you want, we can tell him the truth right away.' Eleonora adopts a serious posture beside Katya, putting "khochesh" ("do you want") alongside "mozhem" ("can") in a tight, everyday turn of phrase.
+- 'No, I would really love to see his face!' Katya displays an honest note without hesitation, building the phrase around "ochen" ("very much") and "khotela" ("wanted, meant") for a crisp, natural delivery.
+- 'Viktor Petrovich, his father returned, he is in the room in a meeting.' Mikhail picks a pointed note without hesitation, anchoring the Russian line on "otets" ("father") and "vernulsya" ("returned") without extra filler.
+- 'Hello, tell me, who is in charge of the hotel here?' Eleonora probes pointedly as the talk turns, weaving "zdravstvuyte" ("hello") together with "skazhite" ("tell") just the way native speakers do.
+- 'I am the general manager, how can I help you?' Mikhail looks over candidly from the start, pairing "glavnyy" ("main, chief") with "upravlyayushchiy" ("manager") to get the point across in plain spoken Russian.
+- 'This morning I drove a man to your place from the airport.' Eleonora offers a brisk posture with Mikhail, linking "segodnya" ("today"), "utrom" ("this morning"), and "muzhchinu" ("a man") in one brisk exchange.
+- 'A mustachioed man in a light-colored nice suit.' Eleonora establishes an easygoing mood on the spot, anchoring the Russian line on "usatyy" ("friend") and "muzhchina" ("man") without extra filler.
+- 'This morning he forgot his suitcase in my car.' Eleonora presents a pointed position during the exchange, combining "segodnya" ("today") and "utrom" ("this morning") so the key meaning lands right away.
+- 'It seems to me I understand perfectly whom you are talking about.' Mikhail projects a pointed style for Eleonora, linking "kazhetsya" ("it seems, I think"), "prekrasno" ("perfectly"), and "ponimayu" ("understand") in one brisk exchange.
+- 'Please, come with me to the room right now.' Mikhail takes an earnest bearing during the exchange, building the phrase around "poydyomte" ("come on, let's go") and "pryamo" ("right, just") for a crisp, natural delivery.

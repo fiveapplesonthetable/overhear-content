@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How sick and tired I am of you already!' Insisting that how sick and tired he is of Vika already shows Max is not backing down. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What, excuse me?' Over the conversation and the apartment, Vika presses Max for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You again, what am I doing at your place?' With the conversation and apartment hanging in the air, Max puts Vika on the spot.
-- 'That question torments me very much too.' With the apartment and mistake in play, Vika keeps this short reply brisk and direct.
-- 'What do you want, leave me alone, understand?' Here wondering what Vika wants leave him alone understand shows Max looking for the real truth. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Meet my friend Masha.' Because Vika should meet his friend Masha, Max treats the matter as settled.
-- 'And you will not stop me from this.' Saying that Vika will not stop him from this is how Max sets the tone with Vika. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Wait, and where are my jeans?' Asking where his jeans are is how Max puts Vika on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'After all, you and I did not do anything yesterday.' Mentioning that after all Vika and he did not do anything yesterday moves the talk in a new direction.
-- 'Yesterday you spilled your whiskey all over the floor.' Around the apartment and plan, Vika sets a calm, everyday tone with Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I washed your jeans in the morning.' Turning from the mistake to the apartment, Vika keeps the exchange moving. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'So I came to your place yesterday?' When Max asks if he came to Vika's place yesterday, Vika has to answer fast.
+- 'How sick and tired I am of you already!' Max shares an unhurried tone in the room, anchoring the Russian line on "kak" ("how") and "uzhe" ("already, now") without extra filler.
+- 'What, excuse me?' Vika tests briskly in their exchange, building the phrase around "prosti" ("sorry, forgive me") and "chto" ("what") for a crisp, natural delivery.
+- 'You again, what am I doing at your place?' Max quizzes evenly during the talk, pairing "opyat" ("again") with "delayu" ("I make") to get the point across in plain spoken Russian.
+- 'That question torments me very much too.' Vika keeps a firm bearing toward Max, building the phrase around "vopros" ("question, matter") and "tozhe" ("too") for a crisp, natural delivery.
+- 'What do you want, leave me alone, understand?' Max checks boldly for Vika's benefit, joining "nuzhno" ("necessary") to "otstan" ("leave alone") so every word pulls its weight.
+- 'Meet my friend Masha.' Max maintains a natural position right away, weaving "znakomsya" ("get acquainted") together with "podruga" ("female friend") just the way native speakers do.
+- 'And you will not stop me from this.' Max conveys a firm approach for Vika, joining "pomeshayesh" ("will interfere") to "ty" ("you") so every word pulls its weight.
+- 'Wait, and where are my jeans?' Max quizzes bluntly in this moment, linking "podozhdi" ("wait"), "gde" ("where"), and "dzhinsy" ("jeans") in one brisk exchange.
+- 'After all, you and I did not do anything yesterday.' Max shares a frank manner in this beat, anchoring the Russian line on "vchera" ("yesterday") and "delali" ("did, were doing") without extra filler.
+- 'Yesterday you spilled your whiskey all over the floor.' Vika shows a pointed tack as they talk, putting "vchera" ("yesterday") alongside "viski" ("whisky") in a tight, everyday turn of phrase.
+- 'I washed your jeans in the morning.' Vika keeps a resolute line in front of Max, pairing "dzhinsy" ("jeans") with "utrom" ("this morning") to get the point across in plain spoken Russian.
+- 'So I came to your place yesterday?' Max checks boldly as the beat lands, joining "znachit" ("then, so") to "vchera" ("yesterday") so every word pulls its weight.

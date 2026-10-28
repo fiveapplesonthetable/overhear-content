@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why are you not picking up the phone? Is everything alright?' Asking why Vika not picking up the phone is is how Max puts Vika on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'It is fine.' Once it is fine, Vika can finally tell Max what she means.
-- 'Vika, I understand your condition.' Once he understands Vika's condition, Max can finally tell Vika what he means.
-- 'But you know what? I am ready to help you in everything.' By being ready to help Vika in everything, Max presses Vika for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Your legs probably hurt, right?' Max asks whether Vika's legs probably hurt right, refusing to let the point slide. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Relax.' Around the office and moment, Max sets a calm, everyday tone with Vika.
-- 'Oh, that is nice, thank you.' Saying that that is nice thank Max is how Vika sets the tone with Max.
-- 'Well you want attention, do you not?' Questioning whether Vika wants attention do Vika not is how Max tests Vika's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Your sister said so.' Explaining that Vika's sister said lays the cards on the table for Vika.
-- 'Lavrov, just not with you!' With the plan and office at stake, Vika reacts without holding back. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'All that I need from you is tomorrow's divorce!' Vika insists that all that she needs from Max is tomorrow divorce, leaving Max no room to argue. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Vika, I just wanted to help!' Because he just wanted to help, Max does not bother softening the blow for Vika.
+- 'Why are you not picking up the phone? Is everything alright?' Max queries quietly right away, putting "trubku" ("the receiver") alongside "beryosh" ("do you take") in a tight, everyday turn of phrase.
+- 'It is fine.' Vika adopts a brisk position in their talk, using "normalno" ("fine, OK") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Vika, I understand your condition.' Max picks a calm approach without hesitation, putting "ponimayu" ("understand") alongside "sostoyaniye" ("state") in a tight, everyday turn of phrase.
+- 'But you know what? I am ready to help you in everything.' Max inquires pointedly in the scene, putting "znayesh" ("know") alongside "gotov" ("ready") in a tight, everyday turn of phrase.
+- 'Your legs probably hurt, right?' Max wonders pointedly with Vika now, combining "navernoye" ("probably") and "nogi" ("legs") so the key meaning lands right away.
+- 'Relax.' Max sets a lively attitude straight away, leaning on "rasslabsya" ("relax") as a compact, one-word response that needs no extra words.
+- 'Oh, that is nice, thank you.' Vika conveys an emphatic tempo as the scene unfolds, linking "khorosho" ("good, fine") directly with "spasibo" ("thank you"), since Russian drops "is" and "are" in the present.
+- 'Well you want attention, do you not?' Max inquires quietly for Vika's benefit, putting "khochesh" ("do you want") alongside "vnimaniya" ("attention") in a tight, everyday turn of phrase.
+- 'Your sister said so.' Max chooses a thoughtful posture without hesitation, combining "sestra" ("sister") and "skazala" ("told") so the key meaning lands right away.
+- 'Lavrov, just not with you!' Vika sustains a sharp rhythm beside Max, pairing "tolko" ("only") with "lavrov" ("Lavrov") to get the point across in plain spoken Russian.
+- 'All that I need from you is tomorrow's divorce!' Vika picks a measured tempo with Max, combining "nuzhno" ("necessary") and "zavtrashniy" ("tomorrow's") so the key meaning lands right away.
+- 'Vika, I just wanted to help!' Max sustains a warm line during the exchange, building the phrase around "pomoch" ("to help") and "khotel" ("wanted") for a crisp, natural delivery.

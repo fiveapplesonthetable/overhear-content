@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And how long are you visiting us for?' Vika asks whether how long are Denis visiting them, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'To try myself in something different.' Between the room and the apartment, Denis gives Max a quick, grounded response.
-- 'Besides, there are no prospects in Voronezh.' Denis tells Max that besides there are no prospects in Voronezh without dressing it up.
-- 'I have outgrown that city.' Saying that he has outgrown that city is how Denis sets the tone with Max.
-- 'Until I find an apartment.' Mentioning that until he finds an apartment moves the talk in a new direction.
-- 'Of course, brother.' Around the apartment and conversation, Max sets a calm, everyday tone with Denis.
-- 'Vika and I are all for it.' Because Vika and he are all for it, Max treats the matter as settled.
-- 'And why wasn't he at the wedding?' By wondering why not he at the wedding was, Vika presses Denis for a straight answer.
-- 'Denis is my half-brother.' Max mentions that Denis is his half brother so Denis sees what is at stake.
-- 'We have the same father and different mothers.' Claiming that they have the same father and different mothers sounds confident, even if Denis has doubts. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'My mother is not very fond of him.' Pointing out that his mother is not very fond of him gives Denis a sobering reality check.
-- 'I understand her completely.' Mentioning that she understands her completely moves the talk in a new direction.
+- 'And how long are you visiting us for?' Vika prompts promptly to Denis here, linking "nadolgo" ("for long"), "ty" ("you"), and "nam" ("us") in one brisk exchange.
+- 'To try myself in something different.' Denis favors a calm bearing as the scene unfolds, pairing "poprobovat" ("to taste") with "chyom-to" ("different") to get the point across in plain spoken Russian.
+- 'Besides, there are no prospects in Voronezh.' Denis presents an honest view in front of Max, leaning on "perspektiv" ("prospects, future") before closing the thought with "tomu" ("that").
+- 'I have outgrown that city.' Denis brings a wry tack as they talk, building the phrase around "vyros" ("grew up") and "goroda" ("of the town") for a crisp, natural delivery.
+- 'Until I find an apartment.' Denis takes an emphatic manner as they talk, building the phrase around "poka" ("bye") and "kvartiru" ("flat") for a crisp, natural delivery.
+- 'Of course, brother.' Max takes a candid attitude as they talk, leaning on "konechno" ("of course") before closing the thought with "brat" ("brother").
+- 'Vika and I are all for it.' Max establishes a measured mood in this beat, pairing "tolko" ("only") with "my" ("we") to get the point across in plain spoken Russian.
+- 'And why wasn't he at the wedding?' Vika probes earnestly in the scene, linking "pochemu" ("why"), "bylo" ("was"), and "svadbe" ("wedding") in one brisk exchange.
+- 'Denis is my half-brother.' Max holds a brisk line during the exchange, building the phrase around "svodnyy" ("half-brother") and "brat" ("brother") for a crisp, natural delivery.
+- 'We have the same father and different mothers.' Max adopts an emphatic tack across the room, combining "otets" ("father") and "raznyye" ("various, different") so the key meaning lands right away.
+- 'My mother is not very fond of him.' Max shares a brisk note during the exchange, placing "mama" ("mum, mother") straight beside "nedolyublivayet" ("fond") with no word for "to be" needed.
+- 'I understand her completely.' Vika sustains a candid tone as the scene unfolds, building the phrase around "ponimayu" ("understand") and "ya" ("I") for a crisp, natural delivery.

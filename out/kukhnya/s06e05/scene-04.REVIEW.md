@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Misha, maybe you should not play anymore?' Asking whether maybe Mikhail should not play anymore puts Mikhail right on the defensive.
-- 'Just understand that this is not for you.' Saying that just understand that this is not for Mikhail is how Barinov sets the tone with Mikhail. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I know how to play very well.' Adding that he knows how to play very well fills in the missing piece for Barinov.
-- 'I was simply unlucky today.' Adding that he was simply unlucky today fills in the missing piece for Barinov.
-- 'The hotel owner is calling me to her office.' Saying that the hotel owner is calling him to her office is how Barinov sets the tone with Mikhail.
-- 'Someone has already reported everything to her.' Since someone has already reported everything, Mikhail does not waste words on excuses.
-- 'Hello, yes, I can talk now.' Mentioning that she can talk now moves the talk in a new direction.
-- 'No, Kostya is not nearby right now.' Saying that Kostya is not nearby right now is how Nastya sets the tone with Barinov.
-- 'No, I have not said anything yet.' Claiming that she has not said anything yet sounds confident, even if Barinov has doubts. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Maybe I will tell him tonight.' Explaining that maybe she will tell him tonight lays the cards on the table for Barinov.
-- 'No, it is better if I tell him myself.' Noting that it is better if she tells him herself keeps Nastya's side of the story simple and clear.
-- 'Alright, that is all, I have to go.' Claiming that Alright that is all she has to go sounds confident, even if Barinov has doubts. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Misha, maybe you should not play anymore?' Barinov questions steadily without a pause, weaving "mozhet" ("can") together with "bolshe" ("more") just the way native speakers do.
+- 'Just understand that this is not for you.' Barinov establishes an easygoing style in their talk, pairing "poymi" ("understand") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
+- 'I know how to play very well.' Mikhail presents a firm approach as the scene unfolds, pairing "ochen" ("very much") with "khorosho" ("good, fine") to get the point across in plain spoken Russian.
+- 'I was simply unlucky today.' Mikhail favors a wry style as they talk, building the phrase around "prosto" ("just") and "segodnya" ("today") for a crisp, natural delivery.
+- 'The hotel owner is calling me to her office.' Barinov picks an unhurried tone as the scene unfolds, building the phrase around "khozyayka" ("landlady") and "otelya" ("of the hotel") for a crisp, natural delivery.
+- 'Someone has already reported everything to her.' Mikhail picks a sharp bearing for Nastya, pairing "uzhe" ("already, now") with "donesli" ("reported, snitched") to get the point across in plain spoken Russian.
+- 'Hello, yes, I can talk now.' Nastya maintains a playful posture for Barinov, putting "mogu" ("can") alongside "govorit" ("to talk") in a tight, everyday turn of phrase.
+- 'No, Kostya is not nearby right now.' Nastya sets a calm rhythm in the scene, weaving "seychas" ("now") together with "ryadom" ("nearby") just the way native speakers do.
+- 'No, I have not said anything yet.' Nastya maintains an earnest approach in the room, anchoring the Russian line on "yeshchyo" ("more, still") and "skazala" ("told") without extra filler.
+- 'Maybe I will tell him tonight.' Nastya presents a thoughtful style without hesitation, putting "mozhet" ("can") alongside "skazhu" ("I'll tell") in a tight, everyday turn of phrase.
+- 'No, it is better if I tell him myself.' Nastya shares an easygoing attitude with Barinov, weaving "luchshe" ("better") together with "skazhu" ("I'll tell") just the way native speakers do.
+- 'Alright, that is all, I have to go.' Nastya maintains a candid rhythm on the spot, combining "uzhe" ("already, now") and "pora" ("it's time") so the key meaning lands right away.

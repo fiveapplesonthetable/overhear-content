@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, what are we going to do in the dark now?' By asking what they going to do in the dark now are, Max presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Nothing, we have already cooked everything.' Mentioning that nothing they have already cooked everything moves the talk in a new direction.
-- 'And the rest is no longer our problem.' Barinov reminds Max that the rest is no longer their problem before the moment passes. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Guys, what on earth is going on in here?' Over the room and the banquet, Nagiyev presses Barinov for a straight answer. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'We have a banquet scheduled for an oligarch today.' Explaining that they have a banquet scheduled for an oligarch today lays the cards on the table for Barinov.
-- 'Wait, Dima, what oligarch are you talking about?' Questioning whether what oligarch are Max talking is how Barinov tests Max's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'If you cannot remember, buy yourself a notebook.' Claiming that if Barinov cannot remember buy themselves a notebook sounds confident, even if Barinov has doubts.
-- 'I told you in plain Russian yesterday.' Pointing out that he told Barinov in plain Russian yesterday gives Barinov a sobering reality check.
-- 'This man wants to invest money in us.' Nagiyev explains that this man wants to invest money in them, keeping his voice calm and direct.
-- 'I put in a kopeck, and pull back a whole sack.' Nagiyev mentions that he puts in a kopeck and pull back a whole sack so Barinov sees what is at stake.
-- 'Wait, is this banquet not for Andrey?' Here asking whether this banquet not for Andrey shows Barinov looking for the real truth.
-- 'Vitya, wake up, this is a very generous offer!' Nagiyev insists that Barinov should wake up this is a very generous offer, leaving Barinov no room to argue. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Chef, what are we going to do in the dark now?' Max probes openly toward Barinov here, joining "teper" ("now") to "budem" ("will") so every word pulls its weight.
+- 'Nothing, we have already cooked everything.' Barinov chooses a warm direction straight away, anchoring the Russian line on "uzhe" ("already, now") and "prigotovili" ("cooked, prepared") without extra filler.
+- 'And the rest is no longer our problem.' Barinov shares a measured mood as they talk, putting "ostalnoye" ("remaining, other") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
+- 'Guys, what on earth is going on in here?' Nagiyev asks sharply toward Max here, building the phrase around "rebyata" ("the boys, the lads") and "tut" ("here") for a crisp, natural delivery.
+- 'We have a banquet scheduled for an oligarch today.' Nagiyev brings a thoughtful footing with Barinov, putting "segodnya" ("today") alongside "banket" ("banquet") in a tight, everyday turn of phrase.
+- 'Wait, Dima, what oligarch are you talking about?' Barinov challenges lightly to Nagiyev here, joining "podozhdi" ("wait") to "yeshchyo" ("more, still") so every word pulls its weight.
+- 'If you cannot remember, buy yourself a notebook.' Nagiyev keeps an earnest manner during the exchange, linking "mozhesh" ("can"), "zapomnit" ("to remember"), and "pokupay" ("buy") in one brisk exchange.
+- 'I told you in plain Russian yesterday.' Nagiyev keeps a firm line right away, joining "russkim" ("Russian") to "yazykom" ("language") so every word pulls its weight.
+- 'This man wants to invest money in us.' Nagiyev displays a firm approach beside Barinov, putting "chelovek" ("a man, a person") alongside "khochet" ("wants") in a tight, everyday turn of phrase.
+- 'I put in a kopeck, and pull back a whole sack.' Nagiyev adopts a wry stance straight away, pairing "vkladyvayu" ("I invest, put in") with "kopeyku" ("kopeck") to get the point across in plain spoken Russian.
+- 'Wait, is this banquet not for Andrey?' Barinov prompts lightly for Max's benefit, placing "banket" ("banquet") straight beside "razve" ("really, can it be") with no word for "to be" needed.
+- 'Vitya, wake up, this is a very generous offer!' Nagiyev displays a warm angle in front of Max, combining "prosnis" ("wake up") and "ochen" ("very much") so the key meaning lands right away.

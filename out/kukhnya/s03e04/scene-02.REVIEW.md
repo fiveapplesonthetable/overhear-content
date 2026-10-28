@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Otherwise the person is here, and the dish is not.' Mentioning that otherwise the person is here and the dish is not moves the talk in a new direction.
-- 'I will kill him!' Once he will kill him, Barinov makes sure Elena hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And I will prepare an ironclad alibi for you.' Because she will prepare an ironclad alibi for Barinov, Elena treats the matter as settled.
-- 'I wanted to let you know, tomorrow we are going to the cinema.' Explaining that he wanted to let Elena knows tomorrow they are going to the cinema lays the cards on the table for Elena. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Lucky you!' Around the date and plan, Elena makes her point loud and clear. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'You and I are going to the cinema, don't plan anything.' Claiming that Barinov and she are going to the cinema do not plan anything sounds confident, even if Barinov has doubts.
-- 'And why aren't you carrying the little elephant that I gave you?' Asking why not Barinov carrying the little elephant that she gave Barinov are is how Elena puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It brings good luck, after all.' Elena explains that it brings good luck after all, keeping her voice calm and direct.
-- 'That is all. Yes, bye.' Realizing that that is all changes how Barinov handles the situation.
-- 'I think that is everything.' Mentioning that he thinks that is everything moves the talk in a new direction.
-- 'Yes, Vitya!' Over the luck and the date, Elena lets her real feelings show. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Ah, that's it, I found it.' Admitting that that is it she found it shows Elena being honest for a change.
+- 'Otherwise the person is here, and the dish is not.' Barinov offers a wry stance in this beat, combining "chelovek" ("a man, a person") and "yest" ("there is") so the key meaning lands right away.
+- 'I will kill him!' Barinov holds an honest mood in the conversation, putting all the weight on "ubyu" ("I'll kill") so the reply lands immediately.
+- 'And I will prepare an ironclad alibi for you.' Elena maintains a wry bearing as they talk, anchoring the Russian line on "prigotovlyu" ("will prepare") and "zheleznoye" ("ironclad, iron") without extra filler.
+- 'I wanted to let you know, tomorrow we are going to the cinema.' Barinov shows a thoughtful mood in the room, joining "khotel" ("wanted") to "predupredit" ("to warn") so every word pulls its weight.
+- 'Lucky you!' Elena brings a natural bearing on the spot, anchoring the Russian line on "vezyot" ("is lucky") and "zhe" ("but, after all") without extra filler.
+- 'You and I are going to the cinema, don't plan anything.' Elena shows an earnest tack across the room, joining "idyom" ("are going") to "kino" ("cinema, movies") so every word pulls its weight.
+- 'And why aren't you carrying the little elephant that I gave you?' Elena challenges quietly right away, weaving "pochemu" ("why") together with "slonika" ("little elephant figurine") just the way native speakers do.
+- 'It brings good luck, after all.' Elena projects a sharp view during the exchange, weaving "udachu" ("luck") together with "prinosit" ("offers, brings") just the way native speakers do.
+- 'That is all. Yes, bye.' Barinov displays a thoughtful approach in the conversation, pairing "poka" ("bye") with "vsyo" ("everything") to get the point across in plain spoken Russian.
+- 'I think that is everything.' Barinov presents a resolute view as they talk, weaving "dumayu" ("I think") together with "vsyo" ("everything") just the way native speakers do.
+- 'Yes, Vitya!' Elena takes a firm position in the room, combining "da" ("yes") and "vitya" ("Vitya") so the key meaning lands right away.
+- 'Ah, that's it, I found it.' Elena maintains an emphatic style in front of Barinov, joining "nashla" ("found, did you find") to "vsyo" ("everything") so every word pulls its weight.

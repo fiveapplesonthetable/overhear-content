@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No notebook means no scandal either.' Senya reminds Barinov that notebook means no scandal either before the moment passes.
-- 'Nikita, admit it, is this your note?' Questioning whether admit it is this Nikita's note is how Barinov tests Nikita's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Yes, mine, I just wanted to arrange a surprise.' Explaining that his he just wanted to arrange a surprise lays the cards on the table for Barinov.
-- 'Very funny, tell me quickly, where is the car?' Barinov asks whether very funny tell him quickly where is the car, refusing to let the point slide.
-- 'Are you a complete fool, where is my car?' Checking whether Nikita a complete fool where is his car is how Barinov puts Nikita on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I do not know, this note is for Katya.' Because he does not know this note is for Katya, Nikita treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I simply wanted to arrange a romantic evening.' Nikita explains that he simply wanted to arrange a romantic evening, keeping his voice calm and direct.
-- 'Sorry, an expensive car was stolen from me.' Realizing that an expensive car was stolen from him changes how Barinov handles the situation. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'It costs a full eight million, and it is not mine.' Noting that it costs a full eight million and it is not keeps Barinov's side of the story simple and clear.
-- 'Wait, do you have the key to the car?' Here asking whether Barinov has the key to the car shows Nikita looking for the real truth.
-- 'The key holds all the information about the car.' Admitting that the key holds all the information about the car shows Nikita being honest for a change.
-- 'We can locate where it is via satellite.' Saying that they can locate where it is via satellite is how Nikita sets the tone with Barinov. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Then call your friend at the dealership right away!' Insisting that Nikita should call Nikita's friend at the dealership right away shows Barinov is not backing down.
+- 'No notebook means no scandal either.' Senya strikes a lively footing in their talk, building the phrase around "bloknota" ("notepad, notebook") and "znachit" ("then, so") for a crisp, natural delivery.
+- 'Nikita, admit it, is this your note?' Barinov challenges sharply in their exchange, pairing "priznavaysya" ("confess") with "zapiska" ("note") so the "-sya" ending carries the action.
+- 'Yes, mine, I just wanted to arrange a surprise.' Nikita adopts a steady manner toward Barinov, pairing "prosto" ("just") with "khotel" ("wanted") to get the point across in plain spoken Russian.
+- 'Very funny, tell me quickly, where is the car?' Barinov quizzes naturally in front of Senya, linking "ochen" ("very much"), "smeshno" ("ridiculous"), and "govori" ("say, talk") in one brisk exchange.
+- 'Are you a complete fool, where is my car?' Barinov prompts wryly on the spot, pairing "sovsem" ("at all") with "durak" ("fool, idiot") to get the point across in plain spoken Russian.
+- 'I do not know, this note is for Katya.' Nikita displays a clear manner in this beat, leaning on "znayu" ("know") before closing the thought with "zapiska" ("note").
+- 'I simply wanted to arrange a romantic evening.' Nikita maintains an emphatic tone beside Barinov, combining "prosto" ("just") and "khotel" ("wanted") so the key meaning lands right away.
+- 'Sorry, an expensive car was stolen from me.' Barinov responds wryly right away, using the everyday "u menya" ("by me") alongside "izvini" ("sorry, excuse me") to show what belongs to the speaker.
+- 'It costs a full eight million, and it is not mine.' Barinov favors a lively style as they talk, weaving "tselykh" ("whole, entire") together with "millionov" ("million") just the way native speakers do.
+- 'Wait, do you have the key to the car?' Nikita wonders dryly in front of Senya, weaving "podozhdite" ("wait") together with "klyuch" ("key") just the way native speakers do.
+- 'The key holds all the information about the car.' Nikita picks a measured footing with Barinov, pairing "klyuche" ("key") with "soderzhitsya" ("is contained") to get the point across in plain spoken Russian.
+- 'We can locate where it is via satellite.' Nikita holds an easygoing angle in the scene, weaving "mozhno" ("may, can") together with "sputnik" ("satellite") just the way native speakers do.
+- 'Then call your friend at the dealership right away!' Barinov displays a warm posture for Nikita, pairing "zvoni" ("call") with "skoreye" ("quickly, right away") to get the point across in plain spoken Russian.

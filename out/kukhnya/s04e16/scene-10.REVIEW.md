@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come in quickly, Denis, what do you need right now?' Questioning whether come in quickly Denis what do Denis needs right now is how Barinov tests Denis's story.
-- 'Viktor Petrovich, I have a very important conversation.' Here having a very important conversation sets up the next turn in their exchange. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Do you mind if Katya and I go out together?' Checking whether Barinov minds if Katya and he goes out together is how Denis puts Barinov on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Of course I am categorically against such a relationship!' Here being categorically against such a relationship lets Barinov's real feelings break through.
-- 'Go work, I have no time for you at all right now.' Going work he has no time for Denis at all right now is how Barinov lays out the situation for Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'But why are you against me, Viktor Petrovich?' Wondering why Barinov against him Viktor Petrovich is cuts straight through the tension between Denis and Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Because my fatherly trust must be earned!' Saying that because his fatherly trust must be earned is how Barinov takes charge of the moment.
-- 'Good, tell me, I am ready for any test!' Denis declares that good tell him he is ready for any test as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'How exactly can I prove my love?' Asking whether how exactly can he proves his love puts Barinov right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Can you quickly assemble a mansion like this out of matches?' Asking whether Denis quickly assemble a mansion like this out of matches cuts straight through the tension between Barinov and Denis.
-- 'Easily! I will do everything in the best possible way!' Once he will do everything in the best possible way, Denis makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Excellent, then start gluing right this evening!' Between the point and the date, Barinov delivers a sharp reaction. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Come in quickly, Denis, what do you need right now?' Barinov presses honestly during the talk, putting "zakhodi" ("come in") alongside "bystreye" ("faster") in a tight, everyday turn of phrase.
+- 'Viktor Petrovich, I have a very important conversation.' Denis favors a clear rhythm in the scene, weaving "ochen" ("very much") together with "vazhnyy" ("important") just the way native speakers do.
+- 'Do you mind if Katya and I go out together?' Denis presses openly without a pause, weaving "vstrechayemsya" ("have been going out") together with "vy" ("you") just the way native speakers do.
+- 'Of course I am categorically against such a relationship!' Barinov picks a direct angle in the conversation, leaning on "konechno" ("of course") before closing the thought with "kategoricheski" ("categorically").
+- 'Go work, I have no time for you at all right now.' Barinov holds a warm rhythm at this moment, pairing "seychas" ("now") with "idi" ("go") so the "-sya" ending carries the action.
+- 'But why are you against me, Viktor Petrovich?' Denis asks boldly at this point, anchoring the Russian line on "pochemu" ("why") and "no" ("but") without extra filler.
+- 'Because my fatherly trust must be earned!' Barinov sustains a steady style for Denis, combining "potomu" ("because") and "ottsovskoye" ("must") so the key meaning lands right away.
+- 'Good, tell me, I am ready for any test!' Denis strikes a direct posture straight away, pairing "khorosho" ("good, fine") with "skazhite" ("tell") to get the point across in plain spoken Russian.
+- 'How exactly can I prove my love?' Denis wonders frankly without a pause, combining "kak" ("how") and "mogu" ("can") so the key meaning lands right away.
+- 'Can you quickly assemble a mansion like this out of matches?' Barinov checks decisively at this point, pairing "smozhesh" ("will you be able") with "bystro" ("quickly") to get the point across in plain spoken Russian.
+- 'Easily! I will do everything in the best possible way!' Denis sustains a playful mood in this beat, weaving "legko" ("easy") together with "sdelayu" ("I'll do") just the way native speakers do.
+- 'Excellent, then start gluing right this evening!' Barinov displays a grounded tone beside Denis, weaving "otlichno" ("perfect, great") together with "togda" ("back then") just the way native speakers do.

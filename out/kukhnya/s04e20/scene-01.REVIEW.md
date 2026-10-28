@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, my dear friends!' With the point and phone at stake, Nagiyev reacts without holding back.
-- 'I am Dmitry Nagiyev, this is the show 'Head Chef'.' Since he is Dmitry Nagiyev this is the show Chef, Nagiyev does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Only one will become the head chef of our restaurant.' Admitting that only one will become the head of their restaurant shows Nagiyev being honest for a change.
-- 'Our celebrity jury will choose the winner.' Saying that their celebrity jury will choose the winner is how Nagiyev sets the tone with Barinov.
-- 'And your humble servant, the best host.' Around the work and argument, Nagiyev sets a calm, everyday tone with Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Stop, we have a problem with the sound!' Barinov insists that Nagiyev should stop they have a problem with the sound, leaving Nagiyev no room to argue. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Guys, let's reshoot everything from the beginning right now.' Pointing out that they should reshoot everything from the beginning right now gives Nagiyev a sobering reality check.
-- 'Did they not teach you how to behave during filming?' By checking whether they not teach Barinov how to behave during filming, Nagiyev presses Barinov for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You must always turn off your phone!' Insisting that Barinov must always turn off Barinov's phone shows Nagiyev is not backing down. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Excuse me, I just forgot to turn it off.' Saying that he just forgot to turn it off is how Barinov sets the tone with Nagiyev.
-- 'And did you not forget your head at home?' Asking whether Barinov not forget Barinov's head at home is how Nagiyev puts Barinov on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'All right, Dima, I already apologized, after all.' Over the point and the argument, Barinov answers Nagiyev without a second thought.
+- 'Good evening, my dear friends!' Nagiyev projects a clear tempo toward Barinov, joining "dobryy" ("good") to "vecher" ("evening") so every word pulls its weight.
+- 'I am Dmitry Nagiyev, this is the show 'Head Chef'.' Nagiyev favors a firm approach in the room, joining "shou" ("show") to "shef-povar" ("head chef") so every word pulls its weight.
+- 'Only one will become the head chef of our restaurant.' Nagiyev picks a grounded style in this beat, linking "tolko" ("only"), "stanet" ("will become"), and "shef-povarom" ("head chef") in one brisk exchange.
+- 'Our celebrity jury will choose the winner.' Nagiyev displays a candid footing in the room, putting "pobeditelya" ("winner") alongside "vyberet" ("will choose") in a tight, everyday turn of phrase.
+- 'And your humble servant, the best host.' Nagiyev takes a frank line right away, joining "pokornyy" ("best") to "sluga" ("servant") so every word pulls its weight.
+- 'Stop, we have a problem with the sound!' Barinov chooses a serious footing in their talk, putting "problema" ("problem") alongside "zvukom" ("sound, volume") in a tight, everyday turn of phrase.
+- 'Guys, let's reshoot everything from the beginning right now.' Barinov picks a lively course straight away, weaving "rebyata" ("the boys, the lads") together with "davayte" ("let's") just the way native speakers do.
+- 'Did they not teach you how to behave during filming?' Nagiyev probes sharply in their exchange, linking "uchili" ("taught"), "vremya" ("time"), and "syomok" ("filming") in one brisk exchange.
+- 'You must always turn off your phone!' Nagiyev conveys a direct mood in their talk, combining "nado" ("it is necessary") and "vsegda" ("always") so the key meaning lands right away.
+- 'Excuse me, I just forgot to turn it off.' Barinov sustains a lively angle beside Nagiyev, building the phrase around "izvinite" ("sorry, excuse me") and "prosto" ("just") for a crisp, natural delivery.
+- 'And did you not forget your head at home?' Nagiyev wonders bluntly in front of Barinov, building the phrase around "golovu" ("head") and "doma" ("at home") for a crisp, natural delivery.
+- 'All right, Dima, I already apologized, after all.' Barinov shows an easygoing posture in the conversation, combining the easygoing tag "ladno" ("okay, fine") with "uzhe" ("already, now") to give the line its natural spoken rhythm.

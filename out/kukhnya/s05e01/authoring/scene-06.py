@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e01.ru.srt'
 INTRO = "After Mikhail's warning, Chef Barinov storms toward the back room to punish Senya and Fedya, only to mistake Mikhail and a guest's pet monkey for his cooks. Listen to the Russian scene."
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes the monkey misunderstanding in the kitchen. Notice how the infinitive is used with negation for a strict command: 'do not dare to lock up'. See you next time!"
+OUTRO = "And that finishes the monkey misunderstanding in the kitchen. Notice how the base form is used with negation for a strict command: 'do not dare to lock up'. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('mikhail', 'Даже не смей так говорить.', 'Do not even dare to say that.', [(96, 'даже не смей говорить')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'А что, вкусный банан?', 'Well, is it a tasty banana?', [(106, 'А что, вкусный банан?')], 'verbatim'),
 ]
 WALK = [
-    (0, None, "'Do not even dare to say that.' Claiming that do not even dare to say sounds confident, even if Barinov has doubts."),
-    (1, None, "'Not everything is fine with you.' Pointing out that not everything is fine with Barinov gives Barinov a sobering reality check."),
-    (2, None, "'Do not dare lock yourselves in from me!' Once do not dare lock yourselves in from him, Barinov makes sure Mikhail hears every word. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (3, None, '\'I will fire all of you today!\' Declaring that he will fire all of Mikhail today brings Barinov\'s temper right to the surface. Notice how he sticks to the formal "you", keeping a professional line between them.'),
-    (4, None, "'Oh, you little macaque monkey!' With the guest and kitchen at stake, Barinov reacts without holding back."),
-    (5, None, "'Sorry, I thought the wrong thing.' Even though he thought the wrong thing, Barinov keeps a steady face in front of Mikhail."),
-    (6, None, '\'This is not just a monkey to you.\' Admitting that this is not just a monkey to Barinov shows Mikhail being honest for a change. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (7, None, "'Today the entire restaurant menu is active.' Saying that today the entire restaurant menu is active is how Mikhail sets the tone with Barinov."),
-    (8, None, "'Guests are waiting for orders starting today.' Once guests are waiting for orders starting today, Mikhail can finally tell Barinov what he means."),
-    (9, None, '\'I simply hate this rule.\' Adding that he simply hates this rule fills in the missing piece for Mikhail. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (10, None, "'Chef, what just happened here?' With the guest and work hanging in the air, Senya puts Barinov on the spot."),
-    (11, None, '\'Well, is it a tasty banana?\' Asking whether it a tasty banana is how Barinov puts Mikhail on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (0, None, '\'Do not even dare to say that.\' Mikhail presents a pointed tempo without hesitation, pairing "smey" ("to dare") with "govorit" ("to talk") to get the point across in plain spoken Russian.'),
+    (1, None, '\'Not everything is fine with you.\' Mikhail holds a measured line in their talk, putting "normalno" ("fine, OK") alongside "tebya" ("you") in a tight, everyday turn of phrase.'),
+    (2, None, '\'Do not dare lock yourselves in from me!\' Barinov displays an honest angle in their talk, putting "smet" ("to dare") alongside "zakryvatsya" ("to lock oneself in") in a tight, everyday turn of phrase.'),
+    (3, None, '\'I will fire all of you today!\' Barinov establishes a lively angle toward Senya, joining "segodnya" ("today") to "uvolyu" ("will fire") so every word pulls its weight.'),
+    (4, None, '\'Oh, you little macaque monkey!\' Barinov displays a candid manner in front of Mikhail, anchoring the Russian line on "makaka" ("macaque monkey") and "akh" ("ah, oh") without extra filler.'),
+    (5, None, '\'Sorry, I thought the wrong thing.\' Barinov conveys an easygoing manner in their talk, joining "izvini" ("sorry, excuse me") to "podumal" ("would think") so every word pulls its weight.'),
+    (6, None, '\'This is not just a monkey to you.\' Mikhail strikes a measured tone for Barinov, linking "prosto" ("just"), "makaka" ("macaque monkey"), and "eto" ("this") in one brisk exchange.'),
+    (7, None, '\'Today the entire restaurant menu is active.\' Mikhail establishes a playful tone at this moment, anchoring the Russian line on "segodnya" ("today") and "deystvuyet" ("is in effect") without extra filler.'),
+    (8, None, '\'Guests are waiting for orders starting today.\' Mikhail chooses a frank stance on the spot, pairing "gosti" ("visitors, guests") with "zhdut" ("to wait, to expect") to get the point across in plain spoken Russian.'),
+    (9, None, '\'I simply hate this rule.\' Barinov adopts a steady footing at this moment, putting "prosto" ("just") alongside "nenavizhu" ("hate") in a tight, everyday turn of phrase.'),
+    (10, None, '\'Chef, what just happened here?\' Senya queries promptly at this point, combining "seychas" ("now") and "zdes" ("here") so the key meaning lands right away.'),
+    (11, None, '\'Well, is it a tasty banana?\' Barinov questions earnestly at this point, weaving "vkusnyy" ("delicious") together with "banan" ("banana") just the way native speakers do.'),
 ]

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I want to say something important.' Explaining that she wants to say something important lays the cards on the table for Lyova.
-- 'Did you kiss her?' By checking whether Lyova kisses, Ainura presses Lyova for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'No, I have not kissed her yet.' Mentioning that he has not kissed her yet moves the talk in a new direction.
-- 'Do not worry, Lyova.' Noting that do not worry keeps Ainura's side of the story simple and clear.
-- 'You took her to the movies five times and did not kiss her?' Questioning whether Lyova took her to the movies five times and did not kiss is how Ainura tests Lyova's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Did she come to Moscow to watch movies?' By asking whether she come to Moscow to watch movies, Ainura presses Lyova for a straight answer.
-- 'I do not know how it is customary in your country to court girls.' Saying that he does not know how it is customary in Ainura's country to court girls is how Lyova sets the tone with Ainura. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'In your country you first have to ask the parents for permission.' Once in Ainura's country Ainura first have to ask the parents for permission, Lyova can finally tell Ainura what he means. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'But that is back home, and here is another country.' Adding that that is back home and here is another country fills in the missing piece for Lyova.
-- 'Here with you anything is allowed.' Ainura tells Lyova that here with Lyova anything is allowed without dressing it up. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'So, yes, I heard everything.' Since he heard everything, Senya does not waste words on excuses.
-- 'Sorry, somehow I could not hold back.' Mentioning that somehow he could not hold back moves the talk in a new direction.
+- 'I want to say something important.' Ainura offers an honest footing at once, weaving "vazhnoye" ("important") together with "skazat" ("tell") just the way native speakers do.
+- 'Did you kiss her?' Ainura quizzes warmly right away, leaning on "tseloval" ("kissed") before closing the thought with "ty" ("you").
+- 'No, I have not kissed her yet.' Lyova chooses a warm attitude during the exchange, leaning on "yeshche" ("still") before closing the thought with "tseloval" ("kissed").
+- 'Do not worry, Lyova.' Ainura maintains an earnest posture on the spot, leaning on "perezhivay" ("worry") before closing the thought with "ne" ("not").
+- 'You took her to the movies five times and did not kiss her?' Ainura tests warmly in the room, building the phrase around "raz" ("time, once") and "kino" ("cinema, movies") for a crisp, natural delivery.
+- 'Did she come to Moscow to watch movies?' Ainura challenges firmly in the scene, linking "priyekhala" ("came, arrived"), "kino" ("cinema, movies"), and "smotret" ("to watch") in one brisk exchange.
+- 'I do not know how it is customary in your country to court girls.' Lyova displays an honest mood for Ainura, pairing "znayu" ("know") with "kak" ("how") to get the point across in plain spoken Russian.
+- 'In your country you first have to ask the parents for permission.' Lyova picks a clear angle across the room, anchoring the Russian line on "snachala" ("first, at first") and "roditeley" ("parents") without extra filler.
+- 'But that is back home, and here is another country.' Ainura picks a thoughtful manner during the exchange, putting "tut" ("here") alongside "drugaya" ("different, other") in a tight, everyday turn of phrase.
+- 'Here with you anything is allowed.' Ainura shares a sharp view with Senya, leaning on "tut" ("here") before closing the thought with "mozhno" ("may, can").
+- 'So, yes, I heard everything.' Senya sustains a clear tempo with Ainura, putting "znachit" ("then, so") alongside "slyshal" ("heard") in a tight, everyday turn of phrase.
+- 'Sorry, somehow I could not hold back.' Senya adopts a clear tone for Lyova, linking "prosti" ("sorry, forgive me"), "uderzhatsya" ("to hold back"), and "smog" ("to be able") in one brisk exchange.

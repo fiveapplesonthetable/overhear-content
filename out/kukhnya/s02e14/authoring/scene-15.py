@@ -7,7 +7,7 @@ SCENE = 15
 TITLE = 'Елена предлагает помощь Нагиеву  (Elena Offers Her Help to Nagiyev)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев', 'vika': 'Вика'}
+LABELS = {'barinov': 'Шеф', 'elena': 'Елена', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.14'
 SOURCE_FILE = 'sources/kukhnya/s02/e14.ru.srt'
 INTRO = "Returning to Nagiyev's office, Elena Pavlovna explains that she feels responsible for sending Viktor Petrovich away and leaving his kitchen unsupervised. To Nagiyev's alarm, she generously offers to run the Claude Monet kitchen herself while her sous-chef covers Arcobaleno."
@@ -17,31 +17,31 @@ OUTRO = "That wraps up this scene as feeling guilty that Claude Monet's kitchen 
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Дмитрий Владимирович, к вам гости.', 'Dmitry Vladimirovich, you have a visitor.', [(256, 'Дмитрий Владимирович, к вам гости')], ''),
-    ('vika', 'А это опять я.', 'It is me again.', [(257, 'А это опять я')], ''),
+    ('elena', 'А это опять я.', 'It is me again.', [(257, 'А это опять я')], ''),
     ('nagiyev', 'Не ждали, здравствуйте еще раз.', 'You were not expecting me, hello again.', [(258, 'Не ждали, здравствуйте еще раз')], ''),
     ('barinov', 'Здравствуйте, Елена Павловна.', 'Hello, Elena Pavlovna.', [(259, 'Здравствуйте, Елена Павловна')], ''),
-    ('vika', 'Вы понимаете, чувствую себя виноватой.', 'You see, I feel guilty about this.', [(262, 'Вы понимаете, чувствую себя виноватой')], ''),
+    ('elena', 'Вы понимаете, чувствую себя виноватой.', 'You see, I feel guilty about this.', [(262, 'Вы понимаете, чувствую себя виноватой')], ''),
     ('nagiyev', 'Что отправила Виктора Петровича на лечение.', 'For sending Viktor Petrovich away for treatment.', [(263, 'что отправила Виктора Петровича на лечение')], ''),
     ('barinov', 'Меня бы отправили.', 'I wish someone would send me away like that.', [(266, 'Меня бы отправили')], ''),
-    ('vika', 'Ну, кухня осталась без присмотра.', 'Well, his kitchen has been left unsupervised.', [(267, 'Ну, кухня осталась без присмотра')], ''),
-    ('vika', 'Я могла бы заменить его.', 'I could fill in for him while he is gone.', [(269, 'Я могла бы заменить его')], ''),
+    ('elena', 'Ну, кухня осталась без присмотра.', 'Well, his kitchen has been left unsupervised.', [(267, 'Ну, кухня осталась без присмотра')], ''),
+    ('elena', 'Я могла бы заменить его.', 'I could fill in for him while he is gone.', [(269, 'Я могла бы заменить его')], ''),
     ('barinov', 'Не надо, что вы.', 'Oh, no, there is really no need.', [(270, 'Не надо, что вы')], ''),
-    ('vika', 'Подставить своего товарища, вашего хозяева.', 'We could not leave your boss short-staffed like that.', [(272, 'подставить своего товарища, вашего хозяева')], ''),
+    ('elena', 'Подставить своего товарища, вашего хозяева.', 'We could not leave your boss short-staffed like that.', [(272, 'подставить своего товарища, вашего хозяева')], ''),
     ('nagiyev', 'А это вообще не проблема.', 'Oh, that is not a problem at all.', [(273, 'А это вообще не проблема')], ''),
     ('barinov', 'Он меня спокойно заменит.', 'My sous-chef can easily cover for me.', [(274, 'Он меня спокойно заменит')], ''),
 ]
 WALK = [
-    (0, None, '\'Dmitry Vladimirovich, you have a visitor.\' Pointing out that Nagiyev has a visitor gives Nagiyev a sobering reality check. Notice how he sticks to the formal "you", keeping a professional line between them.'),
-    (1, None, "'It is me again.' Vika explains that it is her again, keeping her voice calm and direct."),
-    (2, None, "'You were not expecting me, hello again.' Realizing that Barinov was not expecting him hello again changes how Nagiyev handles the situation."),
-    (3, None, "'Hello, Elena Pavlovna.' With the moment and office in play, Barinov keeps this short reply brisk and direct."),
-    (4, None, "'You see, I feel guilty about this.' Even though she feels guilty about this, Vika keeps a steady face in front of Barinov."),
-    (5, None, "'For sending Viktor Petrovich away for treatment.' With the moment and room in play, Nagiyev keeps this short reply brisk and direct."),
-    (6, None, "'I wish someone would send me away like that.' Barinov explains that he wishes someone would send him away like, keeping his voice calm and direct."),
-    (7, None, "'Well, his kitchen has been left unsupervised.' Once his kitchen has been left unsupervised, Vika can finally tell Barinov what she means."),
-    (8, None, "'I could fill in for him while he is gone.' Adding that she could fill in for him while he is gone fills in the missing piece for Barinov."),
-    (9, None, "'Oh, no, there is really no need.' Saying that there is really no need is how Barinov sets the tone with Nagiyev. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
-    (10, None, "'We could not leave your boss short-staffed like that.' Since they could not leave Barinov's boss short staffed like, Vika does not waste words on excuses."),
-    (11, None, '\'Oh, that is not a problem at all.\' Mentioning that that is not a problem at all moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (12, None, "'My sous-chef can easily cover for me.' Barinov reminds Nagiyev that his can easily cover for him before the moment passes."),
+    (0, None, '\'Dmitry Vladimirovich, you have a visitor.\' Barinov presents a pointed angle in this beat, putting "gosti" ("visitors, guests") alongside "dmitriy" ("Dmitry") in a tight, everyday turn of phrase.'),
+    (1, None, '\'It is me again.\' Elena sets a thoughtful course as the scene unfolds, linking "opyat" ("again") directly with "eto" ("this"), since Russian drops "is" and "are" in the present.'),
+    (2, None, '\'You were not expecting me, hello again.\' Nagiyev shares a warm course beside Barinov, putting "zhdali" ("waited for") alongside "zdravstvuyte" ("hello") in a tight, everyday turn of phrase.'),
+    (3, None, '\'Hello, Elena Pavlovna.\' Barinov displays an emphatic bearing in this beat, weaving "zdravstvuyte" ("hello") together with "yelena" ("Yelena") just the way native speakers do.'),
+    (4, None, '\'You see, I feel guilty about this.\' Elena strikes a wry tack for Barinov, using "ponimayete" (from "ponimat", "do you understand") alongside "chuvstvuyu" ("feel") to shape the meaning.'),
+    (5, None, '\'For sending Viktor Petrovich away for treatment.\' Nagiyev offers a pointed mood across the room, linking "otpravila" ("to send"), "lecheniye" ("treatment"), and "chto" ("what") in one brisk exchange.'),
+    (6, None, '\'I wish someone would send me away like that.\' Barinov sets a measured mood on the spot, pairing "otpravili" ("to send") with "menya" ("me") to get the point across in plain spoken Russian.'),
+    (7, None, '\'Well, his kitchen has been left unsupervised.\' Elena holds a warm stance in this beat, linking "kukhnya" ("kitchen"), "ostalas" ("remained, is left"), and "prismotra" ("supervision") in one brisk exchange.'),
+    (8, None, '\'I could fill in for him while he is gone.\' Elena offers a clear rhythm toward Barinov, joining "mogla" ("could") to "zamenit" ("to replace") so every word pulls its weight.'),
+    (9, None, '\'Oh, no, there is really no need.\' Barinov displays an earnest mood beside Nagiyev, putting "nado" ("it is necessary") alongside "ne" ("not") in a tight, everyday turn of phrase.'),
+    (10, None, '\'We could not leave your boss short-staffed like that.\' Elena picks an honest course in this beat, joining "podstavit" ("set up, framed") to "tovarishcha" ("comrade") so every word pulls its weight.'),
+    (11, None, '\'Oh, that is not a problem at all.\' Nagiyev conveys a pointed angle across the room, placing "voobshche" ("at all") straight beside "problema" ("problem") with no word for "to be" needed.'),
+    (12, None, '\'My sous-chef can easily cover for me.\' Barinov adopts a pointed tone without hesitation, pairing "spokoyno" ("calmly") with "zamenit" ("to replace") to get the point across in plain spoken Russian.'),
 ]

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, I ask for the attention of all cooks!' Saying that all right he asks for the attention of all cooks is how German takes charge of the moment.
-- 'Viktor Petrovich, you arrived at a very good time.' With the conversation and promise in play, German keeps this short reply brisk and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'You will rejoice together with us right now too.' Claiming that Barinov will rejoice together with them right now sounds confident, even if Barinov has doubts. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'An important position was vacant here.' Pointing out that an important position was vacant here gives Barinov a sobering reality check.
-- 'And all of you know about this.' German explains that all of Barinov knows about this, keeping his voice calm and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Starting today, our sous-chef is Ekaterina!' Declaring that starting today their is brings German's temper right to the surface. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Thank you very much for your trust!' With the point and promise at stake, Katya reacts without holding back.
-- 'Wow, what fast career growth!' Around the point and promise, German makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Viktor Petrovich, maybe you will transfer here too?' Questioning whether maybe Barinov will transfer here is how German tests Barinov's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You will work harmoniously as a whole family.' Saying that Barinov will work harmoniously as a whole family is how German sets the tone with Barinov.
-- 'Especially since Ainura needs a helper right now.' Once especially since Ainura needs a helper right now, German can finally tell Barinov what he means.
-- 'Well then, I wish you good luck!' Wishing German good luck is Barinov's blunt reaction in front of German. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'All right, I ask for the attention of all cooks!' German maintains a resolute rhythm at once, pairing "proshu" ("beg, ask") with "vnimaniya" ("attention") to get the point across in plain spoken Russian.
+- 'Viktor Petrovich, you arrived at a very good time.' German displays a serious angle in this beat, anchoring the Russian line on "prishli" ("have come") and "ochen" ("very much") without extra filler.
+- 'You will rejoice together with us right now too.' German strikes an emphatic direction during the exchange, joining "seychas" ("now") to "tozhe" ("too") so every word pulls its weight.
+- 'An important position was vacant here.' German displays a serious line in front of Katya, weaving "byla" ("was") together with "svobodna" ("free") just the way native speakers do.
+- 'And all of you know about this.' German chooses a lively stance straight away, leaning on "znayete" ("know") before closing the thought with "vse" ("all").
+- 'Starting today, our sous-chef is Ekaterina!' German maintains a serious stance in this beat, linking "segodnyashnego" ("of today's"), "dnya" ("day"), and "su-shef" ("sous-chef") in one brisk exchange.
+- 'Thank you very much for your trust!' Katya strikes a brisk attitude as they talk, weaving "spasibo" ("thank you") together with "bolshoye" ("big, very much") just the way native speakers do.
+- 'Wow, what fast career growth!' German strikes a resolute tone beside Katya, putting "bystryy" ("fast") alongside "karyernyy" ("climb") in a tight, everyday turn of phrase.
+- 'Viktor Petrovich, maybe you will transfer here too?' German prompts evenly in the scene, leaning on "mozhet" ("can") before closing the thought with "tozhe" ("too").
+- 'You will work harmoniously as a whole family.' German maintains a resolute line straight away, anchoring the Russian line on "budete" ("will be") and "druzhno" ("in a friendly way") without extra filler.
+- 'Especially since Ainura needs a helper right now.' German keeps a lively direction straight away, weaving "boleye" ("more") together with "aynure" ("ainura") just the way native speakers do.
+- 'Well then, I wish you good luck!' Barinov keeps an easygoing mood at this moment, weaving "zhelayu" ("I wish") together with "udachi" ("luck") just the way native speakers do.

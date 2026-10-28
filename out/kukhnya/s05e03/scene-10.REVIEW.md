@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I only want a small piece.' Adding that he only wants a small piece fills in the missing piece for Barinov.
-- 'Just twenty thousand.' Around the shift and exchange, Nagiyev sets a calm, everyday tone with Barinov.
-- 'Well, alright, let's make a deal.' Since alright let them make a deal, Eleonora does not waste words on excuses. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'You can stay in the luxury suite at any time.' Mentioning that Barinov can stay in the luxury suite at any time moves the talk in a new direction.
-- 'Fine, only for your sake and nature's.' Between the shift and the exchange, Nagiyev gives Barinov a quick, grounded response. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Look, they gave you new shoes!' Nagiyev insists that they gave Barinov new shoes, leaving Barinov no room to argue. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Just a reunion of old friends.' Between the moment and the exchange, Nagiyev gives Barinov a quick, grounded response.
-- 'Alright, I will go work.' Barinov mentions that Alright he will go work so Eleonora sees what is at stake.
-- 'Share your experience with me.' By sharing Barinov's experience with him, Nagiyev keeps his side of the story grounded.
-- 'How is it working for your ex-wife?' Asking how it working for Barinov's ex wife is is how Nagiyev puts Barinov on the spot.
-- 'Better with my ex than with you in a suit jacket.' Around the conversation and exchange, Barinov sets a calm, everyday tone with Eleonora. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Oh, how much that hurts right now!' Declaring that how much that hurts right now brings Nagiyev's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Go ahead and read your script.' Going ahead and read Eleonora's script is how Barinov lays out the situation for Eleonora.
-- 'I am checking into the best luxury suite right now.' By being checking into the best luxury suite right now, Nagiyev keeps his side of the story grounded.
+- 'I only want a small piece.' Nagiyev offers a wry view across the room, joining "khochu" ("want") to "tolko" ("only") so every word pulls its weight.
+- 'Just twenty thousand.' Nagiyev shares an easygoing style for Eleonora, leaning on "tysyach" ("thousand") before closing the thought with "dvadtsat" ("twenty").
+- 'Well, alright, let's make a deal.' Eleonora establishes an easygoing tack in front of Barinov, pairing "dogovorimsya" ("we'll arrange") with "khorosho" ("good, fine") so the "-sya" ending carries the action.
+- 'You can stay in the luxury suite at any time.' Eleonora sets a thoughtful stance in their talk, pairing "mozhesh" ("can") with "lyuboye" ("any") to get the point across in plain spoken Russian.
+- 'Fine, only for your sake and nature's.' Nagiyev presents a candid mood as they talk, combining "tolko" ("only") and "prirody" ("nature") so the key meaning lands right away.
+- 'Look, they gave you new shoes!' Nagiyev shares a serious tempo straight away, combining "smotri" ("look") and "botinki" ("boots") so the key meaning lands right away.
+- 'Just a reunion of old friends.' Nagiyev adopts a steady tack for Barinov, anchoring the Russian line on "prosto" ("just") and "vstrecha" ("a meeting") without extra filler.
+- 'Alright, I will go work.' Barinov sets a warm footing beside Nagiyev, leaning on "poydu" ("go") before closing the thought with "rabotat" ("to work").
+- 'Share your experience with me.' Nagiyev keeps a steady direction right away, leaning on "podelis" ("share") before closing the thought with "opytom" ("experience").
+- 'How is it working for your ex-wife?' Nagiyev tests naturally from the start, building the phrase around "kak" ("how") and "rabotat" ("to work") for a crisp, natural delivery.
+- 'Better with my ex than with you in a suit jacket.' Barinov keeps a thoughtful tack on the spot, pairing "luchshe" ("better") with "byvshey" ("of your ex") to get the point across in plain spoken Russian.
+- 'Oh, how much that hurts right now!' Nagiyev shows a direct direction during the exchange, joining "kak" ("how") to "seychas" ("now") so every word pulls its weight.
+- 'Go ahead and read your script.' Barinov strikes a resolute footing in the conversation, joining "davay" ("let's") to "chitay" ("read") so every word pulls its weight.
+- 'I am checking into the best luxury suite right now.' Nagiyev chooses an earnest rhythm during the exchange, putting "seychas" ("now") alongside "zaselyus" ("I will check in") in a tight, everyday turn of phrase.

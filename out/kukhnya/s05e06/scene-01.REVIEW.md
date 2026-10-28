@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The groom may kiss the bride.' Because the groom may kiss the bride, Max treats the matter as settled.
-- 'Am I not late?' With the moment and office hanging in the air, Vika puts Eleonora on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'After all, a child needs a father.' Max mentions that after all a child needs a father so Eleonora sees what is at stake.
-- 'He is not the father.' Because he is not the father, Vika treats the matter as settled.
-- 'A husband has the right to know who the child's father is.' Pointing out that a husband has the right to know who the child father is gives Eleonora a sobering reality check.
-- 'Tell him there is no such thing in the law.' Admitting that Eleonora should tell him there is no such thing in the law shows Vika being honest for a change.
-- 'You are already almost not my husband.' Realizing that Eleonora is already almost not her husband changes how Vika handles the situation.
-- 'I am not going to report to you.' Realizing that she is not going to report to Eleonora changes how Vika handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Who is the child's father?' Here wondering who the child father is shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It was your cook who dumped her!' Eleonora insists that it was Max's cook who dumped, leaving Max no room to argue.
-- 'From this moment I am taking her under my control.' Saying that from this moment she is taking her under her control is how Eleonora sets the tone with Max.
-- 'I will look after the child myself.' Once he will look after the child himself, Max can finally tell Eleonora what he means.
+- 'The groom may kiss the bride.' Max presents an unhurried bearing without hesitation, linking "zhenikh" ("groom, fiancé"), "mozhet" ("can"), and "potselovat" ("to kiss") in one brisk exchange.
+- 'Am I not late?' Vika probes calmly to make the point, combining "opozdala" ("to be late") and "ya" ("I") so the key meaning lands right away.
+- 'After all, a child needs a father.' Max strikes a steady view toward Eleonora, leaning on "rebyonku" ("your child") before closing the thought with "nuzhen" ("is needed").
+- 'He is not the father.' Vika brings a direct stance across the room, linking "otets" ("father"), "on" ("he"), and "ne" ("not") in one brisk exchange.
+- 'A husband has the right to know who the child's father is.' Max takes a grounded bearing with Eleonora, weaving "muzh" ("husband") together with "imeyet" ("has") just the way native speakers do.
+- 'Tell him there is no such thing in the law.' Vika presents a thoughtful position in this beat, anchoring the Russian line on "skazhite" ("tell") and "zakone" ("law") without extra filler.
+- 'You are already almost not my husband.' Vika displays an emphatic tone with Eleonora, placing "uzhe" ("already, now") straight beside "pochti" ("almost") with no word for "to be" needed.
+- 'I am not going to report to you.' Vika brings a thoughtful course in the scene, pairing "sobirayus" ("am planning") with "otchityvatsya" ("to report, answer to") so the "-sya" ending carries the action.
+- 'Who is the child's father?' Max tests bluntly during the talk, leaning on "otets" ("father") before closing the thought with "rebyonka" ("child").
+- 'It was your cook who dumped her!' Eleonora favors an easygoing mood as the scene unfolds, leaning on "povar" ("chef, cook") before closing the thought with "brosil" ("threw").
+- 'From this moment I am taking her under my control.' Eleonora establishes a firm manner as they talk, putting "momenta" ("moment") alongside "beru" ("to take") in a tight, everyday turn of phrase.
+- 'I will look after the child myself.' Max conveys an easygoing direction in this beat, joining "proslezhu" ("to see to it") to "rebyonkom" ("child") so every word pulls its weight.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It seems Katya really likes me a lot.' Since it seems Katya really likes him a lot, Max does not waste words on excuses.
-- 'Congratulations! What are you unhappy about?' Wondering what Barinov unhappy is is how Kostya puts Barinov on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What, do you not like her at all?' Here wondering what Barinov not like her at all shows Kostya looking for the real truth.
-- 'Well no, she is a very nice girl.' Because she is a very nice girl, Max treats the matter as settled.
-- 'But I just broke up with Vika.' Turning from the banquet to the kitchen, Max keeps the exchange moving.
-- 'I do not need a new relationship at all right now.' Saying that he does not need a new relationship at all right now is how Max sets the tone with Barinov.
-- 'Then do what you do best.' Claiming that do what Barinov does best sounds confident, even if Barinov has doubts.
-- 'Kostya, I am already tired of running from problems.' Claiming that he is already tired of running from problems sounds confident, even if Barinov has doubts.
-- 'That always only makes things worse.' Max explains that that always only makes things worse, keeping his voice calm and direct.
-- 'Look, Katya is walking right this way.' Realizing that Katya is walking right this way changes how Kostya handles the situation.
-- 'Well done, you ruined all the dishes splendidly.' With the kitchen and banquet in play, Barinov keeps this short reply brisk and direct.
-- 'And where are Max and Katya right now?' By asking where Max and Katya right now are, Barinov presses Kostya for a straight answer.
+- 'It seems Katya really likes me a lot.' Max takes a serious course without hesitation, joining "kazhetsya" ("it seems, I think") to "realno" ("really possible") so every word pulls its weight.
+- 'Congratulations! What are you unhappy about?' Kostya questions lightly as the beat lands, combining "pozdravlyayu" ("congratulations") and "nedovolen" ("dissatisfied") so the key meaning lands right away.
+- 'What, do you not like her at all?' Kostya challenges honestly in the scene, weaving "sovsem" ("at all") together with "nravitsya" ("is pleasing") just the way native speakers do.
+- 'Well no, she is a very nice girl.' Max establishes an emphatic bearing beside Kostya, joining "ochen" ("very much") to "khoroshaya" ("good") so every word pulls its weight.
+- 'But I just broke up with Vika.' Max brings a direct angle on the spot, anchoring the Russian line on "tolko" ("only") and "rasstalsya" ("broke up, parted ways") without extra filler.
+- 'I do not need a new relationship at all right now.' Max establishes an emphatic approach with Kostya, pairing "novyye" ("new") with "otnosheniya" ("relations, relationship") to get the point across in plain spoken Russian.
+- 'Then do what you do best.' Kostya maintains a measured course in their talk, weaving "togda" ("back then") together with "delay" ("do") just the way native speakers do.
+- 'Kostya, I am already tired of running from problems.' Max displays a measured bearing for Kostya, building the phrase around "uzhe" ("already, now") and "ustal" ("am tired") for a crisp, natural delivery.
+- 'That always only makes things worse.' Max maintains an emphatic note in the conversation, pairing "stanovitsya" ("becomes") with "vsegda" ("always") so the "-sya" ending carries the action.
+- 'Look, Katya is walking right this way.' Kostya picks a firm angle at this moment, anchoring the Russian line on "smotri" ("look") and "syuda" ("here") without extra filler.
+- 'Well done, you ruined all the dishes splendidly.' Barinov establishes an emphatic footing in front of Kostya, combining "molodtsy" ("well done, good person") and "otlichno" ("perfect, great") so the key meaning lands right away.
+- 'And where are Max and Katya right now?' Barinov queries lightly with Max now, anchoring the Russian line on "gde" ("where") and "seychas" ("now") without extra filler.

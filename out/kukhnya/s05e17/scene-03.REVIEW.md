@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Misha, he is not worth it.' Being not worth it is how Barinov lays out the situation for Mikhail.
-- 'You do not understand anything.' Saying that Barinov does not understand anything is how Mikhail sets the tone with Barinov.
-- 'I chased after Eleonora for half my life.' With the hotel and work in play, Mikhail keeps this short reply brisk and direct.
-- 'You and I had a good drink together.' Saying that Mikhail and he had a good drink together is how Barinov sets the tone with Mikhail. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'We even went to the casino.' Once they even went to the casino, Barinov can finally tell Mikhail what he means.
-- 'Maybe we should go home already?' Asking whether maybe they should go home already puts Mikhail right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, that was only a rehearsal.' Mikhail tells Barinov that that was only a rehearsal without dressing it up. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Do you know his address?' Asking whether Mikhail knows his address cuts straight through the tension between Barinov and Mikhail.
-- 'No, I have it written down at the hotel.' Here having it written down at the hotel sets up the next turn in their exchange. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Let's stop by our hotel.' Since they should stop by their hotel, Mikhail does not waste words on excuses. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Thank you very much, Vitya.' With the shift and calm in play, Mikhail keeps this short reply brisk and direct.
-- 'Just rest and gather your strength.' Around the shift and calm, Barinov sets a calm, everyday tone with Mikhail. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Misha, he is not worth it.' Barinov shows a measured style at once, building the phrase around "stoit" ("is parked") and "misha" ("Misha") for a crisp, natural delivery.
+- 'You do not understand anything.' Mikhail strikes an earnest manner for Barinov, linking "ponimayesh" ("do you understand"), "da" ("yes"), and "ty" ("you") in one brisk exchange.
+- 'I chased after Eleonora for half my life.' Mikhail maintains a natural mood as they talk, joining "polzhizni" ("half") to "begal" ("to run") so every word pulls its weight.
+- 'You and I had a good drink together.' Barinov sets a calm approach toward Mikhail, combining "khorosho" ("good, fine") and "vypili" ("to drink") so the key meaning lands right away.
+- 'We even went to the casino.' Barinov maintains a thoughtful course on the spot, anchoring the Russian line on "kazino" ("casino") and "skhodili" ("to go") without extra filler.
+- 'Maybe we should go home already?' Barinov queries plainly right away, using "mozhet" (from "moch", "can") alongside "uzhe" ("already, now") to shape the meaning.
+- 'No, that was only a rehearsal.' Mikhail projects a playful tempo for Barinov, linking "byla" ("was"), "tolko" ("only"), and "repetitsiya" ("rehearsal") in one brisk exchange.
+- 'Do you know his address?' Barinov prompts wryly in the scene, weaving "adres" ("address") together with "znayesh" ("know") just the way native speakers do.
+- 'No, I have it written down at the hotel.' Mikhail strikes a frank style in front of Barinov, linking "otele" ("in the hotel"), "zapisano" ("recorded"), and "net" ("no") in one brisk exchange.
+- 'Let's stop by our hotel.' Mikhail adopts a calm tack as they talk, combining the everyday invitation "davay" ("come on, let us") with "zayedem" ("drop by, stop in") to give the line its natural spoken rhythm.
+- 'Thank you very much, Vitya.' Mikhail holds a pointed posture in this beat, linking "spasibo" ("thank you"), "bolshoye" ("big, very much"), and "tebe" ("for you, to you") in one brisk exchange.
+- 'Just rest and gather your strength.' Barinov brings a frank note in front of Mikhail, building the phrase around "glavnoye" ("important") and "otdykhay" ("rest, relax") for a crisp, natural delivery.

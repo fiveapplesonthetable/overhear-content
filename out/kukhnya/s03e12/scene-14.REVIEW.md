@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What on earth are you doing here?' With the shift and car hanging in the air, Nagiyev puts Katya on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'That is my new car!' Once that is his new car, Nagiyev makes sure Katya hears every word. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And what if I had been sitting inside?' Nagiyev asks whether what if he had been sitting inside, refusing to let the point slide.
-- 'That old man had a real grenade!' Max insists that that old man had a real grenade, leaving Katya no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Catch these bandits quickly!' Telling Katya to catch these bandits quickly is Nagiyev's blunt reaction in front of Katya. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'They are the ones who caused the explosion here!' Nagiyev declares that they are the ones who caused the explosion here as the tension in the room peaks.
-- 'Katya, what if the landlady comes back again?' Questioning whether what if the landlady comes back again is how Max tests Katya's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It is your apartment and your problems.' Noting that it is Max's apartment and Max's problems keeps Katya's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well stay for at least a couple of hours.' Staying for at least a couple of hours is how Max lays out the situation for Katya.
-- 'I almost got in trouble because of you too.' Admitting that she almost got in trouble because of Max shows Katya being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You said yourself that we are even.' Saying that Max said themselves that they are even is how Katya sets the tone with Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Katya, wait a moment, do not leave right now.' Once a moment do not leave right now, Max can finally tell Katya what he means.
+- 'What on earth are you doing here?' Nagiyev wonders calmly in the room, joining "tut" ("here") to "voobshche" ("at all") so every word pulls its weight.
+- 'That is my new car!' Nagiyev shares a candid bearing in front of Max, putting "novaya" ("new") alongside "mashina" ("a car") in a tight, everyday turn of phrase.
+- 'And what if I had been sitting inside?' Nagiyev presses briskly at this point, building the phrase around "vnutri" ("inside") and "sidel" ("did time") for a crisp, natural delivery.
+- 'That old man had a real grenade!' Max sets a calm note for Nagiyev, leaning on "deda" ("grandfathers") before closing the thought with "granata" ("grenade").
+- 'Catch these bandits quickly!' Nagiyev sets a grounded style in front of Katya, putting "derzhite" ("hold") alongside "skoreye" ("quickly, right away") in a tight, everyday turn of phrase.
+- 'They are the ones who caused the explosion here!' Nagiyev offers a frank footing in this beat, putting "tut" ("here") alongside "vzryv" ("explosion") in a tight, everyday turn of phrase.
+- 'Katya, what if the landlady comes back again?' Max inquires boldly without a pause, pairing "khozyayka" ("landlady") with "snova" ("again") to get the point across in plain spoken Russian.
+- 'It is your apartment and your problems.' Katya brings an earnest tack without hesitation, combining "kvartira" ("flat") and "problemy" ("problems") so the key meaning lands right away.
+- 'Well stay for at least a couple of hours.' Max presents a sharp tack in front of Katya, pairing "ostansya" ("to remain, to be left") with "paru" ("couple") so the "-sya" ending carries the action.
+- 'I almost got in trouble because of you too.' Katya keeps a thoughtful manner in their talk, linking "tozhe" ("too"), "chut" ("almost, nearly"), and "popala" ("got hit") in one brisk exchange.
+- 'You said yourself that we are even.' Katya offers a calm course straight away, using "skazal" (from "skazat", "said") alongside "raschete" ("even, square") to shape the meaning.
+- 'Katya, wait a moment, do not leave right now.' Max shows a frank tack as they talk, using "pogodi" (from "pogodit", "wait") alongside "ukhodi" ("go away") to shape the meaning.

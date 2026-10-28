@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The taste is good, really natural somehow!' Saying that the taste is good really natural somehow is how Nagiyev takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Well done! A creative person, guys.' Over the shift and the dish, Nagiyev lets his real feelings show.
-- 'Clever girl! Let's go talk.' Nagiyev insists that they should go talk, leaving Barinov no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'These rich people are so strange, huh? He eats it and rejoices.' Senya asks whether these rich people are so strange huh, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Have you completely lost all fear?' Here checking whether Nagiyev completely lost all fear shows Barinov looking for the real truth.
-- 'And Katya cooked it. They started it first.' With the room and dish in play, Senya keeps this short reply brisk and direct.
-- 'And I will talk with you later.' Adding that he will talk with Nagiyev later fills in the missing piece for Nagiyev. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What will happen when Dima finds out what he ate?' Asking what happen when Dima finds out what he ate will is how Barinov puts Nagiyev on the spot.
-- 'God forbid any of you lets it slip!' Barinov declares that someone forbid any of Nagiyev lets it slip as the tension in the room peaks. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Go work! I said, go work.' Because he said go work, Barinov does not bother softening the blow for Nagiyev. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I am going, I am going. Why are you laughing? Nothing.' By being going he is going, Senya presses Barinov for a straight answer.
-- 'That is a head start for you while I am resting.' Because that is a head start for Barinov while he is resting, Senya treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'The taste is good, really natural somehow!' Nagiyev strikes a warm bearing in their talk, pairing "vkus" ("taste") with "khoroshiy" ("good") to get the point across in plain spoken Russian.
+- 'Well done! A creative person, guys.' Nagiyev sustains a grounded angle toward Senya, linking "molodets" ("well done, good boy"), "kreativnyy" ("creative"), and "chelovek" ("a man, a person") in one brisk exchange.
+- 'Clever girl! Let's go talk.' Nagiyev shares an emphatic mood in the conversation, anchoring the Russian line on "umnitsa" ("clever girl") and "poydyom" ("let's go") without extra filler.
+- 'These rich people are so strange, huh? He eats it and rejoices.' Senya queries steadily toward Nagiyev here, putting "bogatyye" ("rich people") alongside "strannyye" ("strange") in a tight, everyday turn of phrase.
+- 'Have you completely lost all fear?' Barinov tests warmly in the scene, putting "sovsem" ("at all") alongside "strakh" ("fear") in a tight, everyday turn of phrase.
+- 'And Katya cooked it. They started it first.' Senya maintains a steady manner with Nagiyev, anchoring the Russian line on "gotovila" ("to cook, to prepare") and "nachali" ("started") without extra filler.
+- 'And I will talk with you later.' Barinov brings an honest course straight away, anchoring the Russian line on "potom" ("then") and "pogovoryu" ("I'll talk") without extra filler.
+- 'What will happen when Dima finds out what he ate?' Barinov asks calmly with Senya now, weaving "budet" ("will be") together with "kogda" ("when") just the way native speakers do.
+- 'God forbid any of you lets it slip!' Barinov projects a sharp manner for Nagiyev, putting "day" ("give") alongside "bog" ("God") in a tight, everyday turn of phrase.
+- 'Go work! I said, go work.' Barinov sustains a natural posture as the scene unfolds, linking "idite" ("come"), "rabotat" ("to work"), and "skazal" ("said") in one brisk exchange.
+- 'I am going, I am going. Why are you laughing? Nothing.' Senya wonders warmly to keep things clear, joining "idu" ("going, running") to "rzhyosh" ("are laughing") so every word pulls its weight.
+- 'That is a head start for you while I am resting.' Senya maintains a clear tone as the scene unfolds, pairing "fora" ("head start") with "poka" ("bye") to get the point across in plain spoken Russian.

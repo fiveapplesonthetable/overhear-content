@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not understand anything at all right now.' Saying that she does not understand anything at all right now is how Katya sets the tone with Barinov. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'First you are against it, then you both urge me to go.' Realizing that first Barinov is against it then Barinov both urge her to go changes how Katya handles the situation.
-- 'That was ordinary parental selfishness.' Noting that that was ordinary parental selfishness keeps Barinov's side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'As always, we thought only about ourselves.' Even though as always they thought only about themselves, Eleonora keeps a steady face in front of Barinov.
-- 'And we should have thought only about you.' Admitting that they should have thought only about Eleonora shows Barinov being honest for a change.
-- 'Wait, is this Frenchman really an inspector?' By asking whether this Frenchman really an inspector, Eleonora presses Barinov for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, I saw his identification card myself.' Once he saw his identification card himself, Barinov can finally tell Eleonora what he means.
-- 'I heard they often do it that way.' Adding that he heard they often do it that way fills in the missing piece for Eleonora.
-- 'They send one openly, and another secretly.' Here sending one openly and another secretly sets up the next turn in their exchange.
-- 'But you said yourself that he is a clown.' Since Barinov said themselves that he is a clown, Eleonora does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'This clown can write a bad review.' Mentioning that this clown can write a bad review moves the talk in a new direction.
-- 'We must not ruin his personal life.' Barinov reminds Eleonora that they must not ruin his personal life before the moment passes. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'I do not understand anything at all right now.' Katya presents a sharp attitude in this beat, linking "voobshche" ("at all"), "seychas" ("now"), and "ponimayu" ("understand") in one brisk exchange.
+- 'First you are against it, then you both urge me to go.' Katya sets a candid view as the scene unfolds, leaning on "vdvoyom" ("the two of us together") before closing the thought with "ugovarivayete" ("are persuading").
+- 'That was ordinary parental selfishness.' Barinov takes a thoughtful course in the conversation, weaving "byl" ("was") together with "obychnyy" ("ordinary, regular") just the way native speakers do.
+- 'As always, we thought only about ourselves.' Eleonora chooses a natural posture in this beat, building the phrase around "kak" ("how") and "vsegda" ("always") for a crisp, natural delivery.
+- 'And we should have thought only about you.' Barinov sustains a playful line as they talk, linking "nado" ("it is necessary"), "bylo" ("was"), and "dumat" ("to think") in one brisk exchange.
+- 'Wait, is this Frenchman really an inspector?' Eleonora probes promptly without a pause, putting "podozhdi" ("wait") alongside "frantsuz" ("Frenchman") in a tight, everyday turn of phrase.
+- 'Yes, I saw his identification card myself.' Barinov sustains a measured footing for Eleonora, weaving "videl" ("saw, have seen") together with "udostovereniye" ("identity card") just the way native speakers do.
+- 'I heard they often do it that way.' Barinov offers an emphatic course in their talk, using "slyshal" (from "slyshat", "heard") alongside "chasto" ("often") to shape the meaning.
+- 'They send one openly, and another secretly.' Barinov establishes a direct footing at once, leaning on "puskayut" ("to let in") before closing the thought with "yavno" ("clearly").
+- 'But you said yourself that he is a clown.' Eleonora picks a warm attitude across the room, combining "govoril" ("said, were saying") and "kloun" ("clown") so the key meaning lands right away.
+- 'This clown can write a bad review.' Barinov takes a grounded direction for Eleonora, putting "kloun" ("clown") alongside "mozhet" ("can") in a tight, everyday turn of phrase.
+- 'We must not ruin his personal life.' Barinov establishes a sharp stance as the scene unfolds, leaning on "nelzya" ("not allowed") before closing the thought with "portit" ("to spoil, to ruin").

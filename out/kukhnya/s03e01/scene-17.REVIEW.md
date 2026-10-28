@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We have duplicate copies. We will sign now.' Saying that they have duplicate copies is how the guest sets the tone with Kostya. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Good, I am waiting for you at the table.' Once good he is waiting for Kostya at the table, the guest can finally tell Kostya what he means. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Why did you ask for champagne?' Asking why Kostya asks for champagne is how the guest puts Kostya on the spot.
-- 'Couldn't you wait until we signed?' Here asking whether not Kostya waits until they signed shows the guest looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And what if he notices?' Asking whether what if he notices puts Kostya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'He won't notice anything. He trusts me.' Mentioning that he will not notice anything moves the talk in a new direction.
-- 'We will sign everything now, and the business is ours.' The guest reminds Kostya that they will sign everything now and the business is before the moment passes.
-- 'Give me the second copy already.' Adding that Kostya should give him the second copy already fills in the missing piece for Kostya. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Dad, they want to cheat you!' Around the moment and contract, Nastya makes her point loud and clear.
-- 'What, are you pregnant?' Wondering what Kostya pregnant is cuts straight through the tension between the guest and Kostya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Yes, she is pregnant, you will become a grandfather!' Once she is pregnant the guest will become a grandfather, Kostya makes sure the guest hears every word. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'We are getting married soon. Word of honor.' Pointing out that they are getting married soon gives the guest a sobering reality check.
+- 'We have duplicate copies. We will sign now.' The guest adopts a serious line in the room, joining "yest" ("there is") to "dublikaty" ("duplicate") so every word pulls its weight.
+- 'Good, I am waiting for you at the table.' The guest displays an honest manner on the spot, anchoring the Russian line on "khorosho" ("good, fine") and "stolikom" ("table") without extra filler.
+- 'Why did you ask for champagne?' The guest inquires boldly as the talk turns, leaning on "zachem" ("what for") before closing the thought with "shampanskoye" ("champagne").
+- 'Couldn't you wait until we signed?' The guest queries promptly at this point, linking "mog" ("can, to be able"), "podozhdat" ("to wait"), and "poka" ("bye") in one brisk exchange.
+- 'And what if he notices?' The guest probes decisively as the talk turns, joining "zametit" ("notices") to "yesli" ("if") so every word pulls its weight.
+- 'He won't notice anything. He trusts me.' The guest presents a wry line as the scene unfolds, putting "zametit" ("notices") alongside "doveryayet" ("trusts") in a tight, everyday turn of phrase.
+- 'We will sign everything now, and the business is ours.' The guest displays an emphatic bearing as the scene unfolds, anchoring the Russian line on "seychas" ("now") and "podpishem" ("will sign") without extra filler.
+- 'Give me the second copy already.' The guest keeps a brisk attitude on the spot, putting "davayte" ("let's") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
+- 'Dad, they want to cheat you!' Nastya chooses a candid angle at this moment, leaning on "papa" ("Dad") before closing the thought with "khotyat" ("want").
+- 'What, are you pregnant?' The guest inquires dryly from the start, putting "beremenna" ("pregnant") alongside "ty" ("you") in a tight, everyday turn of phrase.
+- 'Yes, she is pregnant, you will become a grandfather!' Kostya presents a lively direction across the room, pairing "beremenna" ("pregnant") with "stanete" ("to become") to get the point across in plain spoken Russian.
+- 'We are getting married soon. Word of honor.' Kostya displays a natural view beside Nastya, anchoring the Russian line on "skoro" ("soon") and "pozhenimsya" ("will get married") without extra filler.

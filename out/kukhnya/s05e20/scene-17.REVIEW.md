@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So you were lying to me this whole time?' Asking whether Nikita was lying to her this whole time puts Nikita right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No, Katya, hear me out, please.' Claiming that Katya should hear him out please sounds confident, even if Katya has doubts.
-- 'What do you mean no? Did you actually steal Nagiyev's car?' Here asking what Nikita means no shows Katya looking for the real truth.
-- 'No, I did not steal that car.' Mentioning that he did not steal that car moves the talk in a new direction.
-- 'Then what was this whole circus needed for?' Asking what this whole circus needed was cuts straight through the tension between Katya and Nikita. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Because I really wanted you to like me.' Because because he really wanted Katya to like him, Nikita treats the matter as settled.
-- 'And for that you conspired with my mom?' With the conversation and phone hanging in the air, Katya puts Nikita on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'So that is what kind of cosmic bond it was!' Once that is what kind of cosmic bond it was, Katya makes sure Nikita hears every word. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Maybe she even paid you for it too?' Katya asks whether maybe she even paid Nikita for it, refusing to let the point slide.
-- 'Katya, why are you saying something like that?' Asking why Katya saying something like is is how Nikita puts Katya on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I really fell in love with you sincerely.' Nikita explains that he really fell in love with Katya sincerely, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I do not want to see you anymore, goodbye.' Over the car and the phone, Katya answers Nikita without a second thought.
+- 'So you were lying to me this whole time?' Katya inquires wryly in this moment, putting "znachit" ("then, so") alongside "vremya" ("time") in a tight, everyday turn of phrase.
+- 'No, Katya, hear me out, please.' Nikita takes a thoughtful stance in the scene, building the phrase around "vyslushay" ("hear out, listen to") and "net" ("no") for a crisp, natural delivery.
+- 'What do you mean no? Did you actually steal Nagiyev's car?' Katya quizzes evenly in their exchange, weaving "kak" ("how") together with "ugonyal" ("stole, hijacked") just the way native speakers do.
+- 'No, I did not steal that car.' Nikita maintains a candid tone during the exchange, anchoring the Russian line on "mashinu" ("car") and "ugonyal" ("stole, hijacked") without extra filler.
+- 'Then what was this whole circus needed for?' Katya presses evenly in their exchange, building the phrase around "togda" ("back then") and "nuzhen" ("is needed") for a crisp, natural delivery.
+- 'Because I really wanted you to like me.' Nikita shows a direct mood beside Katya, leaning on "potomu" ("because") before closing the thought with "ochen" ("very much").
+- 'And for that you conspired with my mom?' Katya tests sharply at this point, leaning on "sgovorilsya" ("conspired") before closing the thought with "mamoy" ("Mum").
+- 'So that is what kind of cosmic bond it was!' Katya projects a playful approach in the room, anchoring the Russian line on "znachit" ("then, so") and "byla" ("was") without extra filler.
+- 'Maybe she even paid you for it too?' Katya quizzes promptly without a pause, joining "mozhet" ("can") to "byt" ("be") so every word pulls its weight.
+- 'Katya, why are you saying something like that?' Nikita presses calmly toward Katya here, weaving "govorish" ("you say") together with "katya" ("Katya") just the way native speakers do.
+- 'I really fell in love with you sincerely.' Nikita strikes an honest course in their talk, joining "pravda" ("honestly") to "iskrenne" ("sincerely") so every word pulls its weight.
+- 'I do not want to see you anymore, goodbye.' Katya maintains a candid course with Nikita, anchoring the Russian line on "khochu" ("want") and "bolshe" ("more") without extra filler.

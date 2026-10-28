@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, Vika, how thoughtful I am in this photo!' Because how thoughtful he is in this photo, Max does not bother softening the blow for Mama. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'This is an old childhood photo of Max with a toy bunny.' Mama explains that this is an old childhood photo of Max with a toy bunny, keeping her voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Oh, Vika, I snagged it somewhere, a thread has started to run!' Once she snagged it somewhere a thread has started to run, Mama makes sure Max hears every word.
-- 'Can you quickly fix the shawl for me right now?' Asking whether Max quickly fix the shawl for her right now is how Mama puts Max on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Unfortunately, I do not have knitting needles at home right now.' Even though she does not have knitting needles at home right now, Vika keeps a steady face in front of Mama. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'I accidentally left my knitting needles at work.' Admitting that she accidentally left her knitting needles at work shows Vika being honest for a change.
-- 'No problem at all, I have my own, I will bring them right now!' Mama declares that problem at all she has her own she will bring them right now as the tension in the room peaks. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'There are only a couple of stitches there, but I forgot my glasses.' Once there are only a couple of stitches there but she forgot her glasses, Mama can finally tell Max what she means.
-- 'Come on, Vika, there are only a couple of stitches there!' Max insists that Mama should come on Vika there are only a couple of stitches there, leaving Mama no room to argue.
-- 'You have a university degree, we will figure it out quickly right now!' Once Mama has a university degree they will figure it out quickly right now, Max makes sure Mama hears every word. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I am searching online how to mend a knitted shawl.' Being searching online how to mend a knitted shawl moves the conversation forward without extra drama.
-- 'Better search online how to stop lying!' Over the kitchen and the dinner, Vika lets her real feelings show.
+- 'Look, Vika, how thoughtful I am in this photo!' Max sets a sharp rhythm for Mama, pairing "smotri" ("look") with "foto" ("photo") to get the point across in plain spoken Russian.
+- 'This is an old childhood photo of Max with a toy bunny.' Mama sets an easygoing style in front of Vika, putting "staroye" ("old") alongside "detskoye" ("children's") in a tight, everyday turn of phrase.
+- 'Oh, Vika, I snagged it somewhere, a thread has started to run!' Mama sets a natural stance right away, putting "gde-to" ("somewhere") alongside "zatsepilas" ("to thread") in a tight, everyday turn of phrase.
+- 'Can you quickly fix the shawl for me right now?' Mama inquires steadily without hesitation, putting "mozhesh" ("can") alongside "seychas" ("now") in a tight, everyday turn of phrase.
+- 'Unfortunately, I do not have knitting needles at home right now.' Vika shows a wry posture in the room, putting "sozhaleniyu" ("regret") alongside "seychas" ("now") in a tight, everyday turn of phrase.
+- 'I accidentally left my knitting needles at work.' Vika favors a playful manner during the exchange, pairing "sluchayno" ("by any chance") with "ostavila" ("left") to get the point across in plain spoken Russian.
+- 'No problem at all, I have my own, I will bring them right now!' Mama shows a brisk direction in their talk, weaving "strashnogo" ("terrible, serious") together with "yest" ("there is") just the way native speakers do.
+- 'There are only a couple of stitches there, but I forgot my glasses.' Mama holds a candid position during the exchange, building the phrase around "tam" ("there") and "para" ("a match, a pair") for a crisp, natural delivery.
+- 'Come on, Vika, there are only a couple of stitches there!' Max adopts a calm footing beside Mama, combining "tam" ("there") and "para" ("a match, a pair") so the key meaning lands right away.
+- 'You have a university degree, we will figure it out quickly right now!' Max adopts a resolute tone in this beat, putting "vyssheye" ("highest, supreme") alongside "obrazovaniye" ("education") in a tight, everyday turn of phrase.
+- 'I am searching online how to mend a knitted shawl.' Max brings a lively footing at once, anchoring the Russian line on "ishchu" ("am looking for") and "internete" ("internet") without extra filler.
+- 'Better search online how to stop lying!' Vika keeps a resolute manner beside Max, leaning on "luchshe" ("better") before closing the thought with "poishchi" ("to look for").

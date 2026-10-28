@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, I do not even know such illnesses.' Telling the doctor to come on he does not even know such illnesses moves the conversation forward without extra drama.
-- 'Your body is very weak.' Admitting that Barinov's body is very weak shows the doctor being honest for a change. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'And your heart is weak.' Saying that Barinov's heart is weak is how the doctor sets the tone with Barinov.
-- 'A stroke does not pass without consequences.' Once a stroke does not pass without consequences, the doctor can finally tell Barinov what he means.
-- 'And hallucinations do not appear out of nowhere.' Adding that hallucinations do not appear out of nowhere fills in the missing piece for Barinov.
-- 'And how much time do I have left?' Asking whether how much time do he has left puts the doctor right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Maybe five years, or maybe a year.' With the doctor and restaurant in play, the doctor keeps this short reply brisk and direct.
-- 'You need to quit your job.' Mentioning that Barinov needs to quit Barinov's job moves the talk in a new direction. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Quit completely?' With the conversation and doctor hanging in the air, Barinov puts the doctor on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Cook calmly at home in your own kitchen.' Telling Barinov to cook calmly at home in Barinov's own kitchen is how the doctor lays out the situation for Barinov.
-- 'But no stresses at work.' Over the doctor and the test, the doctor answers Barinov without a second thought.
-- 'I heard you.' Barinov mentions that he heard the doctor so the doctor sees what is at stake. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Come on, I do not even know such illnesses.' Barinov offers a firm bearing in their talk, leaning on "bolezney" ("illnesses, diseases") before closing the thought with "znayu" ("know").
+- 'Your body is very weak.' The doctor strikes an unhurried posture right away, combining "ochen" ("very much") and "slabyy" ("weak") so the key meaning lands right away.
+- 'And your heart is weak.' The doctor strikes a direct course toward Barinov, leaning on "serdtse" ("heart") before closing the thought with "slaboye" ("weak").
+- 'A stroke does not pass without consequences.' The doctor brings an honest approach as they talk, putting "insult" ("stroke") alongside "darom" ("gift, talent") in a tight, everyday turn of phrase.
+- 'And hallucinations do not appear out of nowhere.' The doctor takes a measured course as the scene unfolds, leaning on "gallyutsinatsii" ("hallucinations") before closing the thought with "prosto" ("just").
+- 'And how much time do I have left?' Barinov wonders firmly without hesitation, linking "skolko" ("how much, so much"), "ostalos" ("was left"), and "mne" ("to me") in one brisk exchange.
+- 'Maybe five years, or maybe a year.' The doctor displays a clear manner with Barinov, combining "mozhet" ("can") and "let" ("years") so the key meaning lands right away.
+- 'You need to quit your job.' The doctor sets a calm footing in front of Barinov, pairing "nado" ("it is necessary") with "brosit" ("to drop") to get the point across in plain spoken Russian.
+- 'Quit completely?' Barinov tests warmly at this point, leaning on "brosit" ("to drop") before closing the thought with "sovsem" ("at all").
+- 'Cook calmly at home in your own kitchen.' The doctor maintains a measured tack right away, combining "gotov" ("prepare") and "spokoyno" ("calmly") so the key meaning lands right away.
+- 'But no stresses at work.' The doctor brings an emphatic direction in front of Barinov, combining "stressov" ("stresses") and "rabote" ("work") so the key meaning lands right away.
+- 'I heard you.' Barinov adopts an emphatic approach in their talk, anchoring the Russian line on "uslyshal" ("heard") and "ya" ("I") without extra filler.

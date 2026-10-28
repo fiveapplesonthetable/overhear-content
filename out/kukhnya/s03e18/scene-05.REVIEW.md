@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Костя | Ты же так часто туда попадаешь. | You get into trouble so often, after all. | #72: Ты так часто туда попадаешь | adapted: adapted |
 | 4 | Макс | Хватит шутить, я говорю тебе про Катю. | Stop joking, I am talking to you about Katya. | #73: Я про Катю | adapted: adapted |
 | 5 | Костя | Ева, тебе сейчас что тут надо? | Eva, what do you need here right now? | #75: Ева, тебе что надо | adapted: adapted |
-| 6 | Ева | Костя, а где мой готовый коктейль? | Kostya, where is my finished cocktail? | #76: Коктейль мой где | adapted: adapted |
+| 6 | Вика | Костя, а где мой готовый коктейль? | Kostya, where is my finished cocktail? | #76: Коктейль мой где | adapted: adapted |
 | 7 | Костя | Вот твой коктейль, бери и иди отсюда. | Here is your cocktail, take it and go away. | #78: Иди отсюда | adapted: adapted |
 | 8 | Макс | Да нет, мы с Катей просто поцеловались. | Well no, Katya and I just kissed. | #80: Да нет, мы просто поцеловались | adapted: adapted |
 | 9 | Костя | Но ведь сегодня Вика обратно вернулась! | But Vika came back today! | #82: Вика | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, I have a huge problem right now.' Adding that he has a huge problem right now fills in the missing piece for Eva. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Come on, you have a permanent season pass there.' Coming on Eva has a permanent pass there is how Kostya lays out the situation for Eva. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'You get into trouble so often, after all.' Adding that Eva gets into trouble so often after all fills in the missing piece for Eva.
-- 'Stop joking, I am talking to you about Katya.' Mentioning that Eva should stop joking he is talking to Eva about Katya moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Eva, what do you need here right now?' Here asking what Eva needs here right now shows Kostya looking for the real truth. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Kostya, where is my finished cocktail?' By wondering where her finished cocktail is, Eva presses Kostya for a straight answer.
-- 'Here is your cocktail, take it and go away.' Saying that here is Eva's cocktail take it and go away is how Kostya sets the tone with Eva. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well no, Katya and I just kissed.' Around the secret and moment, Max sets a calm, everyday tone with Eva.
-- 'But Vika came back today!' Kostya declares that Vika came back today as the tension in the room peaks.
-- 'You see, if Vika finds out about this, I am done for.' Max mentions that if Vika finds out about this he is done so Eva sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Tell Katya the truth, that you love Vika.' Admitting that Eva should tell Katya the truth that Eva loves Vika shows Kostya being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'In words everything is always simple for you!' Once in words everything is always simple for Eva, Max makes sure Eva hears every word.
+- 'Kostya, I have a huge problem right now.' Max favors a firm approach during the exchange, combining "seychas" ("now") and "ogromnaya" ("vast, huge") so the key meaning lands right away.
+- 'Come on, you have a permanent season pass there.' Kostya displays a brisk style as the scene unfolds, joining "tuda" ("there") to "postoyannyy" ("regular") so every word pulls its weight.
+- 'You get into trouble so often, after all.' Kostya keeps a measured line in front of Max, building the phrase around "chasto" ("often") and "tuda" ("there") for a crisp, natural delivery.
+- 'Stop joking, I am talking to you about Katya.' Max displays a firm note for Vika, combining "khvatit" ("enough") and "shutit" ("to joke") so the key meaning lands right away.
+- 'Eva, what do you need here right now?' Kostya questions candidly beside Max, putting "seychas" ("now") alongside "tut" ("here") in a tight, everyday turn of phrase.
+- 'Kostya, where is my finished cocktail?' Vika checks directly for Max's benefit, pairing "gde" ("where") with "gotovyy" ("finished, ready") to get the point across in plain spoken Russian.
+- 'Here is your cocktail, take it and go away.' Kostya brings an unhurried course in front of Max, putting "kokteyl" ("cocktail") alongside "beri" ("take, grab") in a tight, everyday turn of phrase.
+- 'Well no, Katya and I just kissed.' Max sets a wry posture as the scene unfolds, anchoring the Russian line on "prosto" ("just") and "potselovalis" ("kissed") without extra filler.
+- 'But Vika came back today!' Kostya strikes a pointed view in the scene, building the phrase around "segodnya" ("today") and "obratno" ("back") for a crisp, natural delivery.
+- 'You see, if Vika finds out about this, I am done for.' Max sustains an easygoing tempo in the conversation, using "ponimayesh" (from "ponimat", "do you understand") alongside "uznayet" ("will find out") to shape the meaning.
+- 'Tell Katya the truth, that you love Vika.' Kostya chooses a brisk line during the exchange, leaning on "skazhi" ("say") before closing the thought with "pravdu" ("truth").
+- 'In words everything is always simple for you!' Max projects a measured tone without hesitation, anchoring the Russian line on "slovakh" ("words") and "vsegda" ("always") without extra filler.

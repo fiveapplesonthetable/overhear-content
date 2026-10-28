@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning!' Over the hotel and the shift, Elena lets her real feelings show. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Are you two chatting here?' By asking whether Elena two chatting here, Barinov presses Elena for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Why did you not tell me anything?' Wondering why Barinov not tell her anything cuts straight through the tension between Elena and Barinov.
-- 'Well, I was going to.' Noting that he was going keeps Barinov's side of the story simple and clear.
-- 'You have such a wonderful boss.' Even though Barinov has such a wonderful boss, Elena keeps a steady face in front of Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'I learned a lot of new things about you.' Between the room and the hotel, Elena gives Barinov a quick, grounded response.
-- 'As a subordinate.' With the hotel and truth in play, Eleonora keeps this short reply brisk and direct.
-- 'It turns out we are friends in misfortune.' Once it turns out they are friends in misfortune, Elena can finally tell Barinov what she means.
-- 'Eleonora had an unhappy marriage.' Adding that Eleonora had an unhappy marriage fills in the missing piece for Barinov.
-- 'In a divorce, two people are always at fault.' Barinov tells Elena that in a divorce two people are always at fault without dressing it up.
-- 'You do not even know the man and you defend him.' Since Barinov does not even know the man and Barinov defend him, Eleonora does not waste words on excuses.
-- 'Work does not wait, it is time to run.' By telling Barinov to work does not wait it is time to run, Elena keeps her side of the story grounded.
+- 'Good morning!' Elena favors a lively attitude with Barinov, pairing "dobroye" ("good") with "utro" ("morning") to get the point across in plain spoken Russian.
+- 'Are you two chatting here?' Barinov tests lightly right away, putting "tut" ("here") alongside "obshchayetes" ("are chatting") in a tight, everyday turn of phrase.
+- 'Why did you not tell me anything?' Elena questions candidly without hesitation, weaving "pochemu" ("why") together with "rasskazyval" ("told, recounted") just the way native speakers do.
+- 'Well, I was going to.' Barinov chooses a playful angle beside Eleonora, combining "sobiralsya" ("was going to") and "nu" ("oh, come on") so the key meaning lands right away.
+- 'You have such a wonderful boss.' Elena adopts a natural tone in the scene, building the phrase around "zamechatelnaya" ("wonderful") and "nachalnitsa" ("boss") for a crisp, natural delivery.
+- 'I learned a lot of new things about you.' Elena keeps a natural bearing on the spot, joining "uznala" ("to recognise") to "mnogo" ("a lot") so every word pulls its weight.
+- 'As a subordinate.' Eleonora brings a resolute posture in the scene, building the phrase around "kak" ("how") and "podchinyonnom" ("subordinate") for a crisp, natural delivery.
+- 'It turns out we are friends in misfortune.' Elena maintains a steady direction in front of Eleonora, weaving "okazyvayetsya" ("to turn out to be") together with "podrugi" ("female friends") just the way native speakers do.
+- 'Eleonora had an unhappy marriage.' Elena holds a grounded attitude without hesitation, building the phrase around "byl" ("was") and "neudachnyy" ("unlucky") for a crisp, natural delivery.
+- 'In a divorce, two people are always at fault.' Barinov brings an emphatic line in the conversation, linking "razvode" ("divorce, separation"), "vsegda" ("always"), and "vinovaty" ("guilty, at fault") in one brisk exchange.
+- 'You do not even know the man and you defend him.' Eleonora sustains a natural manner at this moment, joining "znayesh" ("know") to "cheloveka" ("a man, a person") so every word pulls its weight.
+- 'Work does not wait, it is time to run.' Elena maintains a wry bearing across the room, joining "rabota" ("job") to "zhdyot" ("is waiting") so every word pulls its weight.

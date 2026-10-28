@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, the oligarch has arrived!' Eleonora declares that the oligarch has arrived as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'How glad I am to see you!' Because how glad she is to see the guest, Eleonora does not bother softening the blow for the guest.
-- 'My congratulations to the newlyweds.' With the conversation and gift in play, the guest keeps this short reply brisk and direct.
-- 'Your presence alone is already a gift.' Once the guest's presence alone is already a gift, Eleonora can finally tell the guest what she means. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Wow, it is a heavy gift.' Adding that wow it is a heavy gift fills in the missing piece for Eleonora.
-- 'Is there a gold ingot in there?' Checking whether there a gold ingot in there cuts straight through the tension between Nagiyev and Eleonora. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You may take a look.' Since Eleonora may take a look, the guest does not waste words on excuses.
-- 'It is just a brick.' Mentioning that it is just a brick moves the talk in a new direction.
-- 'It is no ordinary brick, and inside is a gold ingot.' The guest tells Eleonora that it is no ordinary brick and inside is a gold ingot without dressing it up. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And I am ready to finance it.' Explaining that he is ready to finance it lays the cards on the table for Eleonora.
-- 'Oh my goodness, thank you so much!' Over the moment and the wedding, Eleonora lets her real feelings show.
-- 'I arrived with my wife, and here she is.' The guest mentions that he arrived with his wife and here she is so Eleonora sees what is at stake.
+- 'Dima, the oligarch has arrived!' Eleonora offers a wry bearing as the scene unfolds, combining "oligarkh" ("oligarch") and "priyekhal" ("came") so the key meaning lands right away.
+- 'How glad I am to see you!' Eleonora favors an honest position at this moment, anchoring the Russian line on "kak" ("how") and "rada" ("glad") without extra filler.
+- 'My congratulations to the newlyweds.' The guest chooses an unhurried tack toward Eleonora, putting "pozdravleniye" ("wish") alongside "molodozhenam" ("newlyweds") in a tight, everyday turn of phrase.
+- 'Your presence alone is already a gift.' Eleonora brings a natural footing beside Nagiyev, anchoring the Russian line on "prisutstviye" ("presence") and "uzhe" ("already, now") without extra filler.
+- 'Wow, it is a heavy gift.' Nagiyev presents a grounded direction across the room, pairing "tyazhelyy" ("heavy") with "podarok" ("gift, voucher") to get the point across in plain spoken Russian.
+- 'Is there a gold ingot in there?' Nagiyev prompts steadily as the beat lands, putting "tam" ("there") alongside "zolotoy" ("golden") in a tight, everyday turn of phrase.
+- 'You may take a look.' The guest shows an honest tack in the room, using "mozhete" (from "moch", "can, may") alongside "vzglyanut" ("to take a look") to shape the meaning.
+- 'It is just a brick.' Nagiyev holds a grounded note in the room, linking "prosto" ("just"), "kirpich" ("brick"), and "eto" ("this") in one brisk exchange.
+- 'It is no ordinary brick, and inside is a gold ingot.' The guest brings a playful approach for Eleonora, leaning on "neprostoy" ("no ordinary") before closing the thought with "kirpich" ("brick").
+- 'And I am ready to finance it.' The guest adopts a firm bearing straight away, combining "gotov" ("ready") and "finansirovat" ("to finance") so the key meaning lands right away.
+- 'Oh my goodness, thank you so much!' Eleonora conveys a wry stance as the scene unfolds, building the phrase around "bozhe" ("good lord, God") and "spasibo" ("thank you") for a crisp, natural delivery.
+- 'I arrived with my wife, and here she is.' The guest displays a measured line with Nagiyev, pairing "priyekhal" ("came") with "suprugoy" ("wife, spouse") to get the point across in plain spoken Russian.

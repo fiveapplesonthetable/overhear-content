@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am afraid that we have no time.' Claiming that he is afraid that they have no time sounds confident, even if Eleonora has doubts.
-- 'You will suddenly have plenty of free time.' Admitting that Mikhail will suddenly have plenty of free time shows Eleonora being honest for a change. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Unbelievable, ten million for infidelity.' With the conversation and contract in play, Nagiyev keeps this short reply brisk and direct.
-- 'I read about this matter myself.' Here reading about this matter himself sets up the next turn in their exchange.
-- 'Excuse me, may I get your autograph?' Mikhail asks whether may he gets Eleonora's autograph, refusing to let the point slide. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'It is for my niece.' Saying that it is for his niece is how Mikhail sets the tone with Eleonora. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'What is her name?' Here asking what her name is shows Nagiyev looking for the real truth.
-- 'I wish you beautiful hair.' Noting that he wishes Eleonora beautiful hair keeps Nagiyev's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Thank you.' Admitting that Eleonora should thank Eleonora shows Mikhail being honest for a change.
-- 'Listen, do you have a boyfriend?' Checking whether Eleonora has a boyfriend is how Nagiyev puts Eleonora on the spot.
-- 'You are fired.' Explaining that Mikhail is fired lays the cards on the table for Mikhail. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You need to work, not smile at my husband.' Saying that Mikhail needs to work not smile at her husband is how Eleonora sets the tone with Mikhail. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'I am afraid that we have no time.' Mikhail establishes a warm position straight away, leaning on "boyus" ("am afraid") before closing the thought with "vremeni" ("time").
+- 'You will suddenly have plenty of free time.' Eleonora sustains a brisk stance as they talk, weaving "svobodnogo" ("free") together with "vremeni" ("time") just the way native speakers do.
+- 'Unbelievable, ten million for infidelity.' Nagiyev favors an earnest approach in the conversation, combining "obaldet" ("unbelievable") and "izmenu" ("infidelity") so the key meaning lands right away.
+- 'I read about this matter myself.' Mikhail conveys a lively posture at this moment, weaving "chital" ("read") together with "delo" ("matter") just the way native speakers do.
+- 'Excuse me, may I get your autograph?' Mikhail wonders pointedly from the start, joining "izvinite" ("sorry, excuse me") to "mozhno" ("may, can") so every word pulls its weight.
+- 'It is for my niece.' Mikhail conveys an emphatic view beside Nagiyev, anchoring the Russian line on "plemyannitsy" ("niece") and "eto" ("this") without extra filler.
+- 'What is her name?' Nagiyev tests pointedly beside Eleonora, joining "kak" ("how") to "zovut" ("call") so every word pulls its weight.
+- 'I wish you beautiful hair.' Nagiyev conveys an easygoing manner in this beat, building the phrase around "zhelayu" ("I wish") and "krasivyye" ("beautiful") for a crisp, natural delivery.
+- 'Thank you.' Mikhail presents a candid rhythm on the spot, leaning on "spasibo" ("thank you") as a compact, one-word response that needs no extra words.
+- 'Listen, do you have a boyfriend?' Nagiyev quizzes wryly as the talk turns, joining "slushay" ("listen") to "yest" ("there is") so every word pulls its weight.
+- 'You are fired.' Eleonora conveys an honest tone during the exchange, using "uvolena" (from "uvolit", "fired") alongside "ty" ("you") to shape the meaning.
+- 'You need to work, not smile at my husband.' Eleonora holds a warm note without hesitation, building the phrase around "rabotat" ("to work") and "nado" ("it is necessary") for a crisp, natural delivery.

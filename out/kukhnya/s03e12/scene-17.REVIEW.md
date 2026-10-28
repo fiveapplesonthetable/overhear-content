@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everyone stay back, I will deal with him myself!' Saying that everyone stay back he will deal with him himself is how Nagiyev takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Dima, I am begging you, stop!' Because he is begging the hostess stops, Max does not bother softening the blow for the hostess. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Hello, do you take me for a fool?' Here asking whether Max takes her for a fool shows the hostess looking for the real truth.
-- 'After all, I am not blind at all!' Insisting that after all she is not blind at all shows the hostess is not backing down. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'There is a man's sock lying on the floor here.' Pointing out that there is a man sock lying on the floor here gives Max a sobering reality check.
-- 'And our building has not had hot water for a week already!' Declaring that their building has not had hot water for a week already brings the hostess's temper right to the surface.
-- 'I saw right through this scam of yours immediately!' The hostess insists that she saw right through this scam of Max's immediately, leaving Max no room to argue. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Please forgive us.' Admitting that the hostess should forgive them shows Max being honest for a change. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'In five minutes you had better be gone from here!' The hostess declares that in five minutes Max had better be gone from here as the tension in the room peaks.
-- 'And I will not return your money to you.' Admitting that she will not return Max's money to Max shows the hostess being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I can call the police right now.' Saying that she can call the police right now is how the hostess sets the tone with Max.
-- 'I will say that you decided to rob me. Goodbye!' Once she will say that Max decided to rob, the hostess makes sure Max hears every word.
+- 'Everyone stay back, I will deal with him myself!' Nagiyev brings a frank note during the exchange, putting "stoyat" ("to stand") alongside "razberus" ("I will sort out") in a tight, everyday turn of phrase.
+- 'Dima, I am begging you, stop!' Max conveys a playful attitude across the room, linking "ochen" ("very much"), "proshu" ("beg, ask"), and "ostanovis" ("to stop") in one brisk exchange.
+- 'Hello, do you take me for a fool?' The hostess quizzes dryly to keep things clear, joining "zdravstvuyte" ("hello") to "duru" ("fool") so every word pulls its weight.
+- 'After all, I am not blind at all!' The hostess keeps a clear note beside Nagiyev, joining "sovsem" ("at all") to "slepaya" ("blind") so every word pulls its weight.
+- 'There is a man's sock lying on the floor here.' The hostess picks a warm approach in their talk, leaning on "tut" ("here") before closing the thought with "muzhskoy" ("men's, masculine").
+- 'And our building has not had hot water for a week already!' The hostess adopts a frank bearing during the exchange, linking "dome" ("house"), "nedelyu" ("for a week"), and "uzhe" ("already, now") in one brisk exchange.
+- 'I saw right through this scam of yours immediately!' The hostess sets a playful position across the room, pairing "aferu" ("scam, scheme") with "srazu" ("at once") to get the point across in plain spoken Russian.
+- 'Please forgive us.' Max offers an honest view in this beat, weaving "izvinite" ("sorry, excuse me") together with "vy" ("you") just the way native speakers do.
+- 'In five minutes you had better be gone from here!' The hostess takes a measured style during the exchange, using "minut" (from "minuta", "minutes") alongside "tut" ("here") to shape the meaning.
+- 'And I will not return your money to you.' The hostess brings an emphatic position straight away, putting "dengi" ("money") alongside "vernu" ("I'll return") in a tight, everyday turn of phrase.
+- 'I can call the police right now.' The hostess chooses a grounded view without hesitation, pairing "mogu" ("can") with "seychas" ("now") to get the point across in plain spoken Russian.
+- 'I will say that you decided to rob me. Goodbye!' The hostess offers a warm mood across the room, using "skazhu" (from "skazat", "I'll tell") alongside "reshil" ("has decided") to shape the meaning.

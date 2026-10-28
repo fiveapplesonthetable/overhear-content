@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All my money was in there, do you understand?' Questioning whether all his money was in there do Barinov understands is how Nagiyev tests Barinov's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Every single kopeck of ours was there.' Mentioning that every single kopeck of their was there moves the talk in a new direction.
-- 'The money was for our second floor.' Nagiyev reminds Barinov that the money was for their second floor before the moment passes.
-- 'And for new furniture for the restaurant.' With the plan and money in play, Nagiyev keeps this short reply brisk and direct.
-- 'I do not even have anything to pay salaries with now.' Adding that he does not even have anything to pay salaries with now fills in the missing piece for Barinov.
-- 'I have nothing to buy food with now.' Since he has nothing to buy food with now, Nagiyev does not waste words on excuses.
-- 'Here is the last jar, take it and guard it.' Claiming that here is the last jar take it and guard it sounds confident, even if Barinov has doubts.
-- 'I might as well sell our restaurant now.' Pointing out that he might as well sell their restaurant now gives Barinov a sobering reality check.
-- 'Dmitry Vladimirovich, a guest has come to see you.' Max explains that a guest has come to see Barinov, keeping his voice calm and direct.
-- 'Come on, guys, let us not relax right now.' Since Barinov should come on guys let them not relax right now, Nagiyev does not waste words on excuses. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'That man from the chain has come again.' Noting that that man from the chain has come again keeps Barinov's side of the story simple and clear.
-- 'They have flocked here like vultures.' Even though they have flocked here like vultures, Barinov keeps a steady face in front of Max.
+- 'All my money was in there, do you understand?' Nagiyev quizzes dryly to make the point, joining "tam" ("there") to "byli" ("be") so every word pulls its weight.
+- 'Every single kopeck of ours was there.' Nagiyev sustains a wry bearing in the conversation, linking "tam" ("there"), "byla" ("was"), and "kazhdaya" ("every") in one brisk exchange.
+- 'The money was for our second floor.' Nagiyev shows a serious manner beside Barinov, putting "dengi" ("money") alongside "byli" ("be") in a tight, everyday turn of phrase.
+- 'And for new furniture for the restaurant.' Nagiyev shares an emphatic mood in this beat, combining "novuyu" ("new") and "mebel" ("furniture") so the key meaning lands right away.
+- 'I do not even have anything to pay salaries with now.' Nagiyev brings a warm approach right away, combining "zarplatu" ("salary") and "teper" ("now") so the key meaning lands right away.
+- 'I have nothing to buy food with now.' Nagiyev sets a clear position in the room, linking "teper" ("now"), "yedu" ("am driving"), and "zakupat" ("to purchase") in one brisk exchange.
+- 'Here is the last jar, take it and guard it.' Nagiyev displays an emphatic course toward Barinov, putting "poslednyaya" ("last, final") alongside "banka" ("bank") in a tight, everyday turn of phrase.
+- 'I might as well sell our restaurant now.' Nagiyev conveys a natural note beside Max, weaving "prodavay" ("sell") together with "teper" ("now") just the way native speakers do.
+- 'Dmitry Vladimirovich, a guest has come to see you.' Max presents a firm position across the room, combining "prishyol" ("came, have come") and "gost" ("guest") so the key meaning lands right away.
+- 'Come on, guys, let us not relax right now.' Nagiyev maintains a serious line as the scene unfolds, putting "davayte" ("let's") alongside "rebyata" ("the boys, the lads") in a tight, everyday turn of phrase.
+- 'That man from the chain has come again.' Barinov chooses a resolute course in the conversation, putting "opyat" ("again") alongside "chelovek" ("a man, a person") in a tight, everyday turn of phrase.
+- 'They have flocked here like vultures.' Barinov picks an honest footing on the spot, anchoring the Russian line on "syuda" ("here") and "sletelis" ("flocked together") without extra filler.

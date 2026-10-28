@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, you are the owner, you decide here.' Saying that Nagiyev is the owner Nagiyev decides here is how Barinov sets the tone with Nagiyev.
-- 'It is very good that you remember that.' Because it is very good that Barinov remembers, Nagiyev treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Dima, I have one small request.' Here having one small request sets up the next turn in their exchange. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'If you are going to ask for money, I will not give any.' Nagiyev mentions that if Barinov is going to ask for money he will not give any so Barinov sees what is at stake.
-- 'Today our favorite club Spartak is playing.' Claiming that today their favorite club Spartak is playing sounds confident, even if Nagiyev has doubts.
-- 'And Elena is taking me to a meeting with her friends.' Pointing out that Elena is taking him to a meeting with her friends gives Nagiyev a sobering reality check.
-- 'And what, should I call them so they do not start without you?' By wondering what he calls them so they do not start without Barinov should, Nagiyev presses Barinov for a straight answer.
-- 'No, I will tell her that you are not letting me go.' Realizing that he will tell her that Nagiyev is not letting him go changes how Barinov handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Because we have an important banquet today.' Noting that because they have an important banquet today keeps Barinov's side of the story simple and clear. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'And you will simply confirm that in front of her.' Even though Nagiyev will simply confirm that in front, Barinov keeps a steady face in front of Nagiyev.
-- 'Tell me honestly, who are you lying to right now?' Questioning whether tell him honestly who are Barinov lying to right now is how Nagiyev tests Barinov's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'That depends on how our game ends.' Around the favor and moment, Barinov sets a calm, everyday tone with Nagiyev. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Dima, you are the owner, you decide here.' Barinov favors a steady stance as the scene unfolds, building the phrase around "khozyain" ("owner") and "zdes" ("here") for a crisp, natural delivery.
+- 'It is very good that you remember that.' Nagiyev projects an unhurried note in front of Barinov, anchoring the Russian line on "ochen" ("very much") and "khorosho" ("good, fine") without extra filler.
+- 'Dima, I have one small request.' Barinov presents a calm direction straight away, using "malenkaya" (from "malenkiy", "small") alongside "prosba" ("a request") to shape the meaning.
+- 'If you are going to ask for money, I will not give any.' Nagiyev sustains an honest bearing right away, joining "dengi" ("money") to "budesh" ("will") so every word pulls its weight.
+- 'Today our favorite club Spartak is playing.' Barinov shares a brisk manner across the room, joining "segodnya" ("today") to "lyubimyy" ("favourite") so every word pulls its weight.
+- 'And Elena is taking me to a meeting with her friends.' Barinov shows a brisk stance straight away, building the phrase around "vedyot" ("leads, behaves") and "vstrechu" ("meeting") for a crisp, natural delivery.
+- 'And what, should I call them so they do not start without you?' Nagiyev wonders warmly beside Barinov, pairing "pozvonit" ("to call") with "nachinali" ("started") to get the point across in plain spoken Russian.
+- 'No, I will tell her that you are not letting me go.' Barinov establishes a playful manner on the spot, anchoring the Russian line on "skazhu" ("I'll tell") and "otpuskayesh" ("let go") without extra filler.
+- 'Because we have an important banquet today.' Barinov shares a resolute mood in the room, putting "potomu" ("because") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
+- 'And you will simply confirm that in front of her.' Barinov shows a sharp approach beside Nagiyev, linking "prosto" ("just"), "podtverdish" ("will confirm"), and "ty" ("you") in one brisk exchange.
+- 'Tell me honestly, who are you lying to right now?' Nagiyev inquires earnestly during the talk, using "skazhi" (from "skazat", "say") alongside "chestno" ("honestly") to shape the meaning.
+- 'That depends on how our game ends.' Barinov offers a candid bearing beside Nagiyev, anchoring the Russian line on "smotrya" ("depending on") and "kak" ("how") without extra filler.

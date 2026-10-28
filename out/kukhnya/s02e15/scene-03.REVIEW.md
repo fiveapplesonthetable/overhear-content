@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What a sweet girl.' With the apartment and kitchen in play, Barinov keeps this short reply brisk and direct.
-- 'Right, Lyova?' With the shift and room hanging in the air, Vika puts Barinov on the spot.
-- 'When is the wedding?' Wondering when the wedding is is how Lyova puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We cannot go to my place.' Admitting that they cannot go to his place shows Barinov being honest for a change.
-- 'Besides coffee, I also have my mother at home.' Pointing out that besides coffee she also has her mother at home gives Barinov a sobering reality check.
-- 'She does not like late-night guests.' Lyova mentions that she does not like late night guests so Barinov sees what is at stake.
-- 'Actually, she lives with me.' Realizing that she lives with him changes how Barinov handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Well, then let us both head home.' Claiming that they should both head home sounds confident, even if Barinov has doubts.
-- 'Ah, apparently so.' Over the kitchen and the plan, Lyova answers Barinov without a second thought.
-- 'Sorry, forgive me.' Forgiving him moves the conversation forward without extra drama.
-- 'My car is parked over there.' Saying that her car is parked over there is how Vika sets the tone with Barinov.
-- 'Good evening, Viktor Petrovich.' With the kitchen and room in play, Lyova keeps this short reply brisk and direct.
-- 'We are watching the ballet here.' Adding that they are watching the ballet here fills in the missing piece for Lyova.
+- 'What a sweet girl.' Barinov takes a warm stance toward Lyova, combining "milaya" ("darling") and "devochka" ("girl") so the key meaning lands right away.
+- 'Right, Lyova?' Vika presses steadily without holding back, pairing "pravda" ("honestly") with "lyova" ("Lyova") to get the point across in plain spoken Russian.
+- 'When is the wedding?' Lyova probes sharply in the scene, anchoring the Russian line on "kogda" ("when") and "svadba" ("wedding") without extra filler.
+- 'We cannot go to my place.' Barinov chooses a frank attitude as they talk, anchoring the Russian line on "nikak" ("in no way") and "ko" ("to") without extra filler.
+- 'Besides coffee, I also have my mother at home.' Vika picks a direct stance in their talk, weaving "kofe" ("of coffee") together with "yeshchyo" ("more, still") just the way native speakers do.
+- 'She does not like late-night guests.' Lyova maintains a playful angle at this moment, putting "lyubit" ("loves") alongside "pozdnikh" ("hour") in a tight, everyday turn of phrase.
+- 'Actually, she lives with me.' Barinov offers a serious tone across the room, building the phrase around "zhivyot" ("lives") and "eto" ("this") for a crisp, natural delivery.
+- 'Well, then let us both head home.' Vika chooses a measured angle right away, anchoring the Russian line on "togda" ("back then") and "domam" ("homes") without extra filler.
+- 'Ah, apparently so.' Lyova shares a steady view as the scene unfolds, leaning on "vidimo" ("apparently") before closing the thought with "da" ("yes").
+- 'Sorry, forgive me.' Barinov takes a candid approach in the conversation, leaning on "prosti" ("sorry, forgive me") as a compact, one-word response that needs no extra words.
+- 'My car is parked over there.' Vika shares a frank mood without hesitation, joining "tam" ("there") to "mashina" ("a car") so every word pulls its weight.
+- 'Good evening, Viktor Petrovich.' Lyova sustains a playful view in this beat, combining "dobryy" ("good") and "vecher" ("evening") so the key meaning lands right away.
+- 'We are watching the ballet here.' Barinov holds a measured line without hesitation, weaving "tut" ("here") together with "balet" ("ballet") just the way native speakers do.

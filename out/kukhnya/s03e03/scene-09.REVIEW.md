@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, your phone is ringing.' Elena mentions that Barinov's phone is ringing so Barinov sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Hi, Lyova. What did you want?' Here wondering what Elena wants shows Barinov looking for the real truth.
-- 'Your daughter needs help moving to a new apartment.' Pointing out that Barinov's daughter needs help moving to a new apartment gives Barinov a sobering reality check. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Did you look at the clock? I cannot right now.' Checking whether Elena looks at the clock cuts straight through the tension between Barinov and Elena. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Then I will ask Fedya.' Realizing that she will ask Fedya changes how Katya handles the situation.
-- 'Fine, all right. I will come over now.' With the plan and call in play, Barinov keeps this short reply brisk and direct.
-- 'Who called? And why are you lying?' When Elena asks if and why are Barinov lying, Barinov has to answer fast. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I recognized her, that is your new cook!' Declaring that she recognized her that is Barinov's new cook brings Elena's temper right to the surface.
-- 'They are dating. Lyova and Katya.' Saying that they are dating is how Barinov sets the tone with Elena.
-- 'Love at first sight. You cannot command the heart.' By telling Elena to love at first sight, Barinov keeps his side of the story grounded.
-- 'Katya is even planning to move into his home.' Adding that Katya is even planning to move into his home fills in the missing piece for Elena.
-- 'Lyova is doing renovations now and asked me to help move furniture.' Saying that Lyova is doing renovations now and asked him to help move furniture is how Barinov sets the tone with Elena.
+- 'Vitya, your phone is ringing.' Elena adopts a serious posture right away, pairing "zvonyat" ("call") with "vitya" ("Vitya") to get the point across in plain spoken Russian.
+- 'Hi, Lyova. What did you want?' Barinov quizzes dryly in the room, leaning on "khotel" ("wanted") before closing the thought with "privet" ("hi").
+- 'Your daughter needs help moving to a new apartment.' Katya maintains a steady tempo on the spot, combining "docheri" ("of daughter") and "nuzhno" ("necessary") so the key meaning lands right away.
+- 'Did you look at the clock? I cannot right now.' Barinov wonders steadily in the room, leaning on "chasy" ("watch") before closing the thought with "smotrel" ("watched").
+- 'Then I will ask Fedya.' Katya takes a measured line beside Barinov, weaving "togda" ("back then") together with "poproshu" ("will ask") just the way native speakers do.
+- 'Fine, all right. I will come over now.' Barinov conveys a brisk mood in the scene, combining "khorosho" ("good, fine") and "seychas" ("now") so the key meaning lands right away.
+- 'Who called? And why are you lying?' Elena probes wryly to Barinov here, linking "zvonil" ("called"), "zachem" ("what for"), and "vryosh" ("are lying") in one brisk exchange.
+- 'I recognized her, that is your new cook!' Elena picks a steady posture as they talk, combining "uznala" ("to recognise") and "novyy" ("new") so the key meaning lands right away.
+- 'They are dating. Lyova and Katya.' Barinov favors a grounded bearing as they talk, leaning on "vstrechayutsya" ("meet") before closing the thought with "oni" ("they").
+- 'Love at first sight. You cannot command the heart.' Barinov takes a clear direction right away, building the phrase around "lyubov" ("love") and "pervogo" ("first") for a crisp, natural delivery.
+- 'Katya is even planning to move into his home.' Barinov brings a clear angle in the scene, combining "sobirayetsya" ("to intend") and "domoy" ("home") so the key meaning lands right away.
+- 'Lyova is doing renovations now and asked me to help move furniture.' Barinov holds a steady tempo straight away, linking "seychas" ("now"), "remont" ("renovation"), and "delayet" ("does") in one brisk exchange.

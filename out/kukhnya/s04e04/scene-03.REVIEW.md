@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you tired, Viktor Petrovich?' Here asking whether Barinov tired Viktor Petrovich shows Elena looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I do not even know the meaning of that word.' Admitting that he does not even know the meaning of that word shows Barinov being honest for a change.
-- 'I would like to ask a bit more about the team.' Barinov explains that he would like to ask a bit more about the team, keeping his voice calm and direct.
-- 'What are you saying? And why do you need that?' Wondering what Barinov saying is is how Elena puts Barinov on the spot. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'It is hard to work in a team when you know nothing about anyone.' Noting that it is hard to work in a team when Elena knows nothing about anyone keeps Barinov's side of the story simple and clear.
-- 'I understand. Well, alright.' With the work and team in play, Elena keeps this short reply brisk and direct.
-- 'This is Misha. You already know him.' Admitting that this is Misha shows Elena being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'He performs the duties of sous-chef.' Over the work and the team, Elena answers Barinov without a second thought.
-- 'A responsible worker.' Around the work and team, Elena sets a calm, everyday tone with Barinov.
-- 'He is afraid of his wife like fire.' Adding that he is afraid of his wife like fire fills in the missing piece for Barinov.
-- 'His wife nagged him yesterday for coming home late.' With the point and team in play, Elena keeps this short reply brisk and direct.
-- 'What did he say? Nothing.' Wondering what he say is how Barinov puts Elena on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Are you tired, Viktor Petrovich?' Elena tests pointedly without holding back, linking "ustali" ("got tired"), "viktor" ("Viktor"), and "petrovich" ("Petrovich") in one brisk exchange.
+- 'I do not even know the meaning of that word.' Barinov picks an earnest bearing as they talk, anchoring the Russian line on "znayu" ("know") and "znacheniya" ("meaning") without extra filler.
+- 'I would like to ask a bit more about the team.' Barinov favors an emphatic position across the room, using "khotelos" (from "khotetsya", "to feel like") alongside "pobolshe" ("bit") to shape the meaning.
+- 'What are you saying? And why do you need that?' Elena questions directly from the start, pairing "govorite" ("say, speak") with "zachem" ("what for") to get the point across in plain spoken Russian.
+- 'It is hard to work in a team when you know nothing about anyone.' Barinov strikes a frank tone during the exchange, linking "trudno" ("difficult, hard"), "rabotat" ("to work"), and "komande" ("team") in one brisk exchange.
+- 'I understand. Well, alright.' Elena projects a frank footing in the room, weaving "ponimayu" ("understand") together with "khorosho" ("good, fine") just the way native speakers do.
+- 'This is Misha. You already know him.' Elena offers a candid direction during the exchange, joining "uzhe" ("already, now") to "znayesh" ("know") so every word pulls its weight.
+- 'He performs the duties of sous-chef.' Elena offers a sharp mood right away, leaning on "ispolnyayet" ("performs") before closing the thought with "obyazannosti" ("to duties").
+- 'A responsible worker.' Elena offers a wry footing in the conversation, pairing "otvetstvennyy" ("responsible") with "ispolnitel" ("worker") to get the point across in plain spoken Russian.
+- 'He is afraid of his wife like fire.' Elena establishes a sharp rhythm in front of Barinov, combining "zhenu" ("wife") and "boitsya" ("is afraid") so the key meaning lands right away.
+- 'His wife nagged him yesterday for coming home late.' Elena shows a brisk approach right away, leaning on "zhena" ("wife") before closing the thought with "vchera" ("yesterday").
+- 'What did he say? Nothing.' Barinov prompts earnestly without holding back, putting "skazal" ("said") alongside "chto" ("what") in a tight, everyday turn of phrase.

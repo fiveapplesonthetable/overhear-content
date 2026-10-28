@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, I forgot to return the glasses at the cinema.' Because he forgot to return the glasses at the cinema, Kostya treats the matter as settled.
-- 'It is fine, what if they still come in handy for us?' When Nastya asks if it is fine what if they still come in handy for them, Ilya has to answer fast.
-- 'And what are you doing over there in the corner?' By wondering what Ilya doing over there in the corner is, Kostya presses Ilya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I am painting and painting, and then I look.' Being painting and painting and then he looks is how Ilya lays out the situation for Kostya.
-- 'It is a trap here, I am sitting and waiting until it dries.' Pointing out that it is a trap here he is sitting and waiting until it dries gives Kostya a sobering reality check.
-- 'And why on earth did you paint the floor?' Questioning whether why on earth did Ilya paint the floor is how Kostya tests Ilya's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'The landlady Nastya told me to.' Realizing that the landlady Nastya told him changes how Ilya handles the situation.
-- 'You were supposed to paint the walls in the room!' Declaring that Ilya was supposed to paint the walls in the room brings Nastya's temper right to the surface.
-- 'You said to paint the room, so I started with the floor.' Even though Kostya said to paint the room so he started with the floor, Ilya keeps a steady face in front of Kostya. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Alright, that is it, I have had enough, get out of there fast!' Saying that Alright that is it he has had enough get out of there fast is how Kostya takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Maybe I should repaint the floor in black?' Questioning whether maybe he should repaint the floor in black is how Ilya tests Kostya's story.
-- 'Do you not understand? It is not about the color!' Asking whether Ilya not understand cuts straight through the tension between Kostya and Ilya. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Nastya, I forgot to return the glasses at the cinema.' Kostya adopts a grounded angle for Ilya, combining "zabyl" ("forgot") and "sdat" ("to rent out") so the key meaning lands right away.
+- 'It is fine, what if they still come in handy for us?' Nastya queries openly without holding back, leaning on "vdrug" ("suddenly, what if") before closing the thought with "yeshchyo" ("more, still").
+- 'And what are you doing over there in the corner?' Kostya quizzes pointedly in front of Ilya, weaving "tam" ("there") together with "uglu" ("corner") just the way native speakers do.
+- 'I am painting and painting, and then I look.' Ilya establishes a resolute stance in the conversation, leaning on "krashu" ("I paint") before closing the thought with "potom" ("then").
+- 'It is a trap here, I am sitting and waiting until it dries.' Ilya takes a measured rhythm at this moment, leaning on "tut" ("here") before closing the thought with "lovushka" ("trap").
+- 'And why on earth did you paint the floor?' Kostya prompts directly on the spot, combining "zachem" ("what for") and "voobshche" ("at all") so the key meaning lands right away.
+- 'The landlady Nastya told me to.' Ilya maintains a direct tempo as the scene unfolds, building the phrase around "khozyayka" ("landlady") and "skazala" ("told") for a crisp, natural delivery.
+- 'You were supposed to paint the walls in the room!' Nastya offers a resolute stance beside Kostya, weaving "steny" ("walls") together with "nado" ("it is necessary") just the way native speakers do.
+- 'You said to paint the room, so I started with the floor.' Ilya shares a serious direction in their talk, leaning on "skazali" ("told") before closing the thought with "komnatu" ("the room").
+- 'Alright, that is it, I have had enough, get out of there fast!' Kostya chooses a direct footing at once, leaning on "khvatit" ("enough") before closing the thought with "vykhodi" ("go out, marry").
+- 'Maybe I should repaint the floor in black?' Ilya queries wryly in the scene, putting "mozhet" ("can") alongside "chyornym" ("black") in a tight, everyday turn of phrase.
+- 'Do you not understand? It is not about the color!' Kostya checks calmly in the room, using "ponimayesh" (from "ponimat", "do you understand") alongside "delo" ("matter") to shape the meaning.

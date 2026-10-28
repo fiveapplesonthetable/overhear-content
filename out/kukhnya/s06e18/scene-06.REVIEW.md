@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What a handsome fellow, such a plump horse.' Around the room and restaurant, the guest sets a calm, everyday tone with Mikhail.
-- 'And he also loves carrots.' Admitting that he also loves carrots shows Mikhail being honest for a change.
-- 'They will cook him right with carrots.' Saying that they will cook him right with carrots is how the guest sets the tone with Mikhail.
-- 'Wait, in what sense is that?' Asking whether in what sense is puts the guest right on the defensive. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'My acquaintance runs a Tatar restaurant.' Adding that his acquaintance runs a Tatar restaurant fills in the missing piece for the guest.
-- 'He happens to need horsemeat right now.' Saying that he happens to need horsemeat right now is how Timur sets the tone with the guest.
-- 'I can take him right now.' Since he can take him right now, the guest does not waste words on excuses.
-- 'Do you have a conscience at all?' Asking whether the guest has a conscience at all cuts straight through the tension between Mikhail and the guest.
-- 'I will dream about him at night!' Mikhail insists that he will dream about him at night, leaving the guest no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I will not give the horse away for meat!' Saying that he will not give the horse away for meat is how Mikhail takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'That kind of money for a small horse?' Around the restaurant and truth, the guest wants to know where Mikhail really stands.
-- 'She herself is ashamed to hear that.' The guest mentions that she herself is ashamed to hear so Mikhail sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'What a handsome fellow, such a plump horse.' The guest takes a wry mood as the scene unfolds, leaning on "krasavchik" ("handsome guy") before closing the thought with "upitannyy" ("plump, well-fed").
+- 'And he also loves carrots.' Mikhail sustains a candid mood toward Timur, putting "yeshchyo" ("more, still") alongside "morkovku" ("carrot") in a tight, everyday turn of phrase.
+- 'They will cook him right with carrots.' The guest offers an easygoing tack as they talk, linking "morkovkoy" ("with carrots"), "prigotovyat" ("will prepare"), and "vot" ("there, here") in one brisk exchange.
+- 'Wait, in what sense is that?' Mikhail presses calmly as the talk turns, using "podozhdite" (from "podozhdat", "wait") alongside "smysle" ("sense") to shape the meaning.
+- 'My acquaintance runs a Tatar restaurant.' Timur presents a wry tempo in this beat, weaving "znakomyy" ("familiar") together with "tatarskiy" ("Tatar") just the way native speakers do.
+- 'He happens to need horsemeat right now.' Timur establishes a measured mood at once, putting "kak" ("how") alongside "raz" ("time, once") in a tight, everyday turn of phrase.
+- 'I can take him right now.' The guest adopts an honest bearing in their talk, weaving "mogu" ("can") together with "vzyat" ("to take") just the way native speakers do.
+- 'Do you have a conscience at all?' Mikhail wonders naturally to make the point, leaning on "voobshche" ("at all") before closing the thought with "sovest" ("conscience").
+- 'I will dream about him at night!' Mikhail establishes a calm position in this beat, putting "snitsya" ("to appear in a dream") alongside "budet" ("will be") in a tight, everyday turn of phrase.
+- 'I will not give the horse away for meat!' Mikhail favors an earnest note at once, using "otdam" (from "otdat", "I give back") alongside "konya" ("horse, knight") to shape the meaning.
+- 'That kind of money for a small horse?' The guest wonders warmly right away, anchoring the Russian line on "dengi" ("money") and "malenkuyu" ("small, little") without extra filler.
+- 'She herself is ashamed to hear that.' The guest picks an honest tone on the spot, building the phrase around "stydno" ("shameful") and "slyshat" ("to hear") for a crisp, natural delivery.

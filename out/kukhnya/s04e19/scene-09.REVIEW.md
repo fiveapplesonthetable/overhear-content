@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Настя | Они остаются друг с другом навсегда. | They stay with each other forever. | #119: остаются друг с другом навсегда | adapted: adapted |
 | 4 | Настя | Это же правда очень мило. | That really is very sweet. | #121: Это так мило | adapted: adapted |
 | 5 | Настя | Но этих китов сейчас очень мало. | But there are very few of these whales right now. | #122: А еще их очень мало | adapted: adapted |
-| 6 | Костя | Костя тебя внимательно слышал, дорогая. | Kostya heard you carefully, dear. | #123: Костя<br>#125: Я тебя слышал | adapted: adapted |
+| 6 | Настя | Костя тебя внимательно слышал, дорогая. | Kostya heard you carefully, dear. | #123: Костя<br>#125: Я тебя слышал | adapted: adapted |
 | 7 | Настя | Может, нам второго ребёнка завести? | Maybe we should have a second child? | #126: Может, нам второго ребенка завести | verbatim |
 | 8 | Костя | Настя, но мы же не киты. | Nastya, we are not whales, after all. | #127: Мы<br>#128: же не киты | adapted: adapted |
 | 9 | Костя | У нас уже есть один сын. | We already have one son. | #129: У нас с этим пока же все нормально | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today there was a program about blue whales.' Once today there was a program about blue whales, Nastya can finally tell Kostya what she means.
-- 'I felt so sorry for them.' Adding that she felt so sorry for them fills in the missing piece for Kostya.
-- 'They stay with each other forever.' By staying with each other forever, Nastya keeps her side of the story grounded.
-- 'That really is very sweet.' Since that really is very sweet, Nastya does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'But there are very few of these whales right now.' Mentioning that there are very few of these whales right now moves the talk in a new direction.
-- 'Kostya heard you carefully, dear.' Kostya reminds Nastya that Kostya heard Nastya carefully before the moment passes. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Maybe we should have a second child?' Asking whether maybe they should have a second child puts Kostya right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Nastya, we are not whales, after all.' Explaining that they are not whales after all lays the cards on the table for Nastya.
-- 'We already have one son.' Kostya mentions that they already have one son so Nastya sees what is at stake. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'If we need to, we will have another one later.' Claiming that if they need to they will have another one later sounds confident, even if Nastya has doubts. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Everything is so simple with you!' Nastya insists that everything is so simple with Kostya, leaving Kostya no room to argue.
-- 'And did you think about me at all?' Asking whether Kostya thinks about her at all cuts straight through the tension between Nastya and Kostya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Today there was a program about blue whales.' Nastya keeps a resolute view as the scene unfolds, building the phrase around "segodnya" ("today") and "byla" ("was") for a crisp, natural delivery.
+- 'I felt so sorry for them.' Nastya sets a resolute manner straight away, putting "stalo" ("became, came over") alongside "zhalko" ("feel sorry for") in a tight, everyday turn of phrase.
+- 'They stay with each other forever.' Nastya offers a sharp line at once, pairing "ostayutsya" ("remain, stay") with "drug" ("friend") to get the point across in plain spoken Russian.
+- 'That really is very sweet.' Nastya favors a calm footing straight away, leaning on "pravda" ("honestly") before closing the thought with "ochen" ("very much").
+- 'But there are very few of these whales right now.' Nastya presents a calm tone across the room, linking "kitov" ("whales") directly with "seychas" ("now"), since Russian drops "is" and "are" in the present.
+- 'Kostya heard you carefully, dear.' Nastya sustains a frank view in front of Kostya, joining "vnimatelno" ("carefully, attentively") to "slyshal" ("heard") so every word pulls its weight.
+- 'Maybe we should have a second child?' Nastya wonders warmly without hesitation, weaving "mozhet" ("can") together with "vtorogo" ("second") just the way native speakers do.
+- 'Nastya, we are not whales, after all.' Kostya brings an unhurried tempo at this moment, combining "kity" ("all") and "nastya" ("Nastya") so the key meaning lands right away.
+- 'We already have one son.' Kostya favors an unhurried line in their talk, joining "uzhe" ("already, now") to "yest" ("there is") so every word pulls its weight.
+- 'If we need to, we will have another one later.' Kostya favors an honest approach in their talk, building the phrase around "nado" ("it is necessary") and "budet" ("will be") for a crisp, natural delivery.
+- 'Everything is so simple with you!' Nastya strikes a steady mood in the room, leaning on "prosto" ("just") before closing the thought with "poluchayetsya" ("works out").
+- 'And did you think about me at all?' Nastya questions directly across the room, linking "voobshche" ("at all"), "podumal" ("would think"), and "obo" ("about, for") in one brisk exchange.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That I have been working here.' Adding that that he has been working here fills in the missing piece for Barinov.
-- 'Over those six months.' With the truth and restaurant in play, Barinov keeps this short reply brisk and direct.
-- 'I ordered zucchini.' Between the truth and the restaurant, Max gives Barinov a quick, grounded response.
-- 'Do you call this zucchini?' By asking whether Max calls this zucchini, Barinov presses Max for a straight answer.
-- 'Guys, I forgot to update the eighty-six list.' Max reminds Barinov that he forgot to update the eighty six list before the moment passes.
-- 'This is your station now.' Because this is Max's station now, Barinov treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'What are you doing here with the fish?' Here asking what Barinov doing here with the fish is shows Max looking for the real truth.
-- 'Who fillets a fish like that?' Around the room and plan, Barinov wants to know where Max really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What do you think you are doing?' Asking what Barinov thinks Barinov is doing cuts straight through the tension between Max and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Who fillets fish like that?' With the kitchen and work hanging in the air, Barinov puts Max on the spot.
-- 'I am asking you!' Insisting that he is asking Barinov shows Max is not backing down. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yet there are plenty of people eager to get hired too.' Realizing that yet there are plenty of people eager to get hired changes how Barinov handles the situation.
-- 'Some leave, and others arrive.' With the plan and room in play, Max keeps this short reply brisk and direct.
+- 'That I have been working here.' Max projects a candid approach in this beat, joining "zdes" ("here") to "rabotayu" ("work") so every word pulls its weight.
+- 'Over those six months.' Barinov establishes a grounded angle in the room, putting "polgoda" ("six months") alongside "za" ("for") in a tight, everyday turn of phrase.
+- 'I ordered zucchini.' Max displays a thoughtful tone beside Barinov, combining "zakazyval" ("ordered") and "tsukini" ("zucchini") so the key meaning lands right away.
+- 'Do you call this zucchini?' Barinov challenges warmly in the room, pairing "po-tvoyemu" ("wife") with "tsukini" ("zucchini") to get the point across in plain spoken Russian.
+- 'Guys, I forgot to update the eighty-six list.' Max strikes a brisk position in this beat, weaving "rebyat" ("kids, guys") together with "zabyl" ("forgot") just the way native speakers do.
+- 'This is your station now.' Barinov keeps a candid course in this beat, combining "teper" ("now") and "mesto" ("place, post") so the key meaning lands right away.
+- 'What are you doing here with the fish?' Max queries warmly beside Barinov, leaning on "tut" ("here") before closing the thought with "delayesh" ("are you doing").
+- 'Who fillets a fish like that?' Barinov probes openly across the room, linking "rybu" ("fish"), "razdelyvayet" ("to butcher"), and "kto" ("who") in one brisk exchange.
+- 'What do you think you are doing?' Max inquires lightly beside Barinov, pairing "delayesh" ("are you doing") with "ty" ("you") to get the point across in plain spoken Russian.
+- 'Who fillets fish like that?' Barinov inquires sharply with Max now, combining "rybu" ("fish") and "razdelyvayet" ("to butcher") so the key meaning lands right away.
+- 'I am asking you!' Max establishes a playful stance straight away, leaning on "sprashivayu" ("am asking") before closing the thought with "ya" ("I").
+- 'Yet there are plenty of people eager to get hired too.' Barinov chooses a brisk course in their talk, linking "zhelayushchikh" ("volunteer"), "ustroitsya" ("to get a job"), and "tozhe" ("too") in one brisk exchange.
+- 'Some leave, and others arrive.' Max displays an unhurried rhythm in the room, pairing "ukhodyat" ("are leaving") with "drugiye" ("other") to get the point across in plain spoken Russian.

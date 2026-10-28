@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today I lost my father all over again.' Because today he lost his father all over again, Kostya treats the matter as settled.
-- 'Kostik, forgive me, please, darling.' Between the shift and the test, Nastya gives Denis a quick, grounded response.
-- 'I am to blame for everything myself.' Noting that she is to blame for everything herself keeps Nastya's side of the story simple and clear.
-- 'I should not have looked for him at all.' Claiming that she should not have looked for him at all sounds confident, even if Denis has doubts. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Kostik, you nearly ate the cotton swab.' Pointing out that someone Denis nearly ate the cotton swab gives Denis a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'It was I who did a paternity test.' Nastya explains that it was she who did a paternity test, keeping her voice calm and direct.
-- 'I took saliva from both of you.' Realizing that she took saliva from both of Denis changes how Nastya handles the situation. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Well, and what did that test show?' By wondering what that test show, Kostya presses Denis for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Kostya, he is your real father!' Declaring that he is Denis's real father brings Nastya's temper right to the surface.
-- 'Then I am running after him right away!' Being running after him right away is Kostya's blunt reaction in front of Denis. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Thank you for not telling the police officers.' With the conversation and test in play, Denis keeps this short reply brisk and direct.
-- 'Forgive me, that was a very bad idea.' Once that was a very bad idea, Kostya can finally tell Denis what he means.
+- 'Today I lost my father all over again.' Kostya displays a candid tack at once, putting "segodnya" ("today") alongside "snova" ("again") in a tight, everyday turn of phrase.
+- 'Kostik, forgive me, please, darling.' Nastya strikes a calm tempo as the scene unfolds, weaving "prosti" ("sorry, forgive me") together with "rodnoy" ("dear friend") just the way native speakers do.
+- 'I am to blame for everything myself.' Nastya favors a candid manner in this beat, anchoring the Russian line on "vinovata" ("at fault, to blame") and "eto" ("this") without extra filler.
+- 'I should not have looked for him at all.' Nastya projects a direct angle in the scene, weaving "nado" ("it is necessary") together with "bylo" ("was") just the way native speakers do.
+- 'Kostik, you nearly ate the cotton swab.' Nastya sustains a brisk mood without hesitation, weaving "chut" ("almost, nearly") together with "palochku" ("swab, little stick") just the way native speakers do.
+- 'It was I who did a paternity test.' Nastya sustains a warm position right away, weaving "delala" ("did") together with "test" ("test") just the way native speakers do.
+- 'I took saliva from both of you.' Nastya maintains a steady direction beside Denis, leaning on "brala" ("took, was taking") before closing the thought with "slyunu" ("saliva").
+- 'Well, and what did that test show?' Kostya wonders lightly toward Nastya here, putting "pokazal" ("to show") alongside "test" ("test") in a tight, everyday turn of phrase.
+- 'Kostya, he is your real father!' Nastya holds a serious tempo at once, leaning on "nastoyashchiy" ("real, genuine") before closing the thought with "otets" ("father").
+- 'Then I am running after him right away!' Kostya brings a steady tack in their talk, building the phrase around "togda" ("back then") and "pobezhal" ("ran off") for a crisp, natural delivery.
+- 'Thank you for not telling the police officers.' Denis projects a pointed bearing toward Kostya, putting "spasibo" ("thank you") alongside "skazal" ("said") in a tight, everyday turn of phrase.
+- 'Forgive me, that was a very bad idea.' Kostya brings a candid attitude across the room, putting "prosti" ("sorry, forgive me") alongside "byla" ("was") in a tight, everyday turn of phrase.

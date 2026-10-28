@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not look into his eyes!' Because do not look into his eyes, Kostya does not bother softening the blow for the inspector. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Excuse me, please, they are calling you to reception over there.' Max mentions that they are calling the inspector to reception over there so the inspector sees what is at stake.
-- 'They made a mistake, I do not live in this hotel.' Claiming that they made a mistake he does not live in this hotel sounds confident, even if Kostya has doubts.
-- 'You know, I mixed it up.' With the work and problem in play, Max keeps this short reply brisk and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'They are asking you to repark your car.' Max explains that they are asking the inspector to repark the inspector's car, keeping his voice calm and direct.
-- 'I am without a car.' Even though he is without a car, the inspector keeps a steady face in front of Kostya.
-- 'And it seems they are calling you to the cloakroom.' Noting that it seems they are calling the inspector to the cloakroom keeps Max's side of the story simple and clear. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'What is going on?' By asking what going is, the inspector presses Kostya for a straight answer.
-- 'I looked into his eyes!' Insisting that he looked into his eyes shows Max is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And do you know who I am?' Asking whether Kostya knows who he is is how the inspector puts Kostya on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'A fraudster! You did not pay the bill!' Declaring that the inspector did not pay the bill brings Max's temper right to the surface.
-- 'Everything is fine!' Kostya insists that everything is fine, leaving the inspector no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Do not look into his eyes!' Kostya takes a lively attitude with the inspector, building the phrase around "smotri" ("look") and "glaza" ("eyes") for a crisp, natural delivery.
+- 'Excuse me, please, they are calling you to reception over there.' Max presents a steady bearing in their talk, putting "prostite" ("excuse me") alongside "tam" ("there") in a tight, everyday turn of phrase.
+- 'They made a mistake, I do not live in this hotel.' The inspector offers an emphatic posture right away, linking "oshiblis" ("to make a mistake"), "zhivu" ("live"), and "otele" ("in the hotel") in one brisk exchange.
+- 'You know, I mixed it up.' Max conveys a resolute tack as they talk, building the phrase around "znayete" ("know") and "pereputal" ("mixed up, confused") for a crisp, natural delivery.
+- 'They are asking you to repark your car.' Max displays an unhurried tempo at this moment, putting "prosyat" ("they're asking") alongside "pereparkovat" ("to repark, move a car") in a tight, everyday turn of phrase.
+- 'I am without a car.' The inspector brings a natural style at once, anchoring the Russian line on "mashiny" ("cars") and "ya" ("I") without extra filler.
+- 'And it seems they are calling you to the cloakroom.' Max displays a resolute position for the inspector, weaving "garderob" ("cloakroom") together with "pozovut" ("will call") just the way native speakers do.
+- 'What is going on?' The inspector prompts lightly during the talk, anchoring the Russian line on "proiskhodit" ("is going on") and "chto" ("what") without extra filler.
+- 'I looked into his eyes!' Max presents a clear mood during the exchange, leaning on "glaza" ("eyes") before closing the thought with "posmotrel" ("looked, had a look").
+- 'And do you know who I am?' The inspector tests openly without holding back, putting "znayete" ("know") alongside "vy" ("you") in a tight, everyday turn of phrase.
+- 'A fraudster! You did not pay the bill!' Max adopts a measured style as they talk, joining "moshennik" ("con artist") to "oplatil" ("paid for") so every word pulls its weight.
+- 'Everything is fine!' Kostya adopts a candid angle in the scene, pairing "normalno" ("fine, OK") with "vsyo" ("everything") to get the point across in plain spoken Russian.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Aleksandr Sergeyevich, the guests are calling for you.' Adding that Aleksandr Sergeyevich the guests are calling for Lyova fills in the missing piece for Lyova. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'They want to get your autograph.' Here wanting to get Barinov's autograph sets up the next turn in their exchange.
-- 'Oh, super.' With the shift and situation in play, Barinov keeps this short reply brisk and direct.
-- 'How are things going in your new position?' Wondering how things going in Barinov's new position are cuts straight through the tension between Lyova and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I am managing. Well, well.' Being managing is how Barinov lays out the situation for Lyova.
-- 'I ought to demote you to janitor tomorrow.' Around the moment and plan, Lyova sets a calm, everyday tone with Barinov.
-- 'I would like to ask you for an autograph.' Explaining that he would like to ask Lyova for an autograph lays the cards on the table for Lyova. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Good evening.' With the moment and situation in play, Lyova keeps this short reply brisk and direct.
-- 'Do you have a pen on you?' Checking whether Lyova has a pen on Lyova is how Barinov puts Lyova on the spot.
-- 'Yes, of course.' Over the moment and the situation, Lyova answers Barinov without a second thought.
-- 'Right here, please.' Around the moment and situation, Barinov sets a calm, everyday tone with Lyova.
-- 'Could you write at the top who it is for?' Checking whether Barinov writes at the top who it is cuts straight through the tension between Lyova and Barinov.
-- 'It is time to pay your debt to the Motherland.' Noting that it is time to pay Lyova's debt to the motherland keeps Barinov's side of the story simple and clear. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Aleksandr Sergeyevich, the guests are calling for you.' Barinov sustains a candid rhythm straight away, weaving "gosti" ("visitors, guests") together with "zovut" ("call") just the way native speakers do.
+- 'They want to get your autograph.' Lyova picks a firm manner in their talk, anchoring the Russian line on "khotyat" ("want") and "vzyat" ("to take") without extra filler.
+- 'Oh, super.' Barinov strikes a measured attitude beside Lyova, leaning on "super" ("super, great") as a compact, one-word response that needs no extra words.
+- 'How are things going in your new position?' Lyova quizzes openly without holding back, weaving "kak" ("how") together with "novoy" ("new") just the way native speakers do.
+- 'I am managing. Well, well.' Barinov favors a resolute tempo as the scene unfolds, building the phrase around "spravlyayus" ("cope") and "nu-nu" ("yeah, right") for a crisp, natural delivery.
+- 'I ought to demote you to janitor tomorrow.' Lyova shares a firm manner on the spot, putting "nado" ("it is necessary") alongside "zavtra" ("tomorrow") in a tight, everyday turn of phrase.
+- 'I would like to ask you for an autograph.' Barinov picks a steady direction across the room, putting "khotel" ("wanted") alongside "avtograf" ("autograph") in a tight, everyday turn of phrase.
+- 'Good evening.' Lyova conveys a sharp position in front of Barinov, combining "dobryy" ("good") and "vecher" ("evening") so the key meaning lands right away.
+- 'Do you have a pen on you?' Barinov tests evenly without hesitation, leaning on "ruchka" ("handle") before closing the thought with "yest" ("there is").
+- 'Yes, of course.' Lyova sets a resolute manner for Barinov, leaning on "konechno" ("of course") before closing the thought with "da" ("yes").
+- 'Right here, please.' Barinov presents a frank approach during the exchange, linking "zdes" ("here"), "vot" ("there, here"), and "pozhaluysta" ("please") in one brisk exchange.
+- 'Could you write at the top who it is for?' Lyova queries bluntly to make the point, leaning on "mozhesh" ("can") before closing the thought with "dopisat" ("to finish writing").
+- 'It is time to pay your debt to the Motherland.' Barinov takes a sharp style beside Lyova, combining "pora" ("it's time") and "rodine" ("motherland") so the key meaning lands right away.

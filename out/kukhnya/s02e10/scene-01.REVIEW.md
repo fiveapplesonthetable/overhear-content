@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Along which you walk.' Claiming that along which Barinov walks sounds confident, even if Barinov has doubts.
-- 'And leads someone else over there.' Pointing out that leads someone else over there gives Max a sobering reality check.
-- 'Everyone has their own path.' Max explains that everyone has their own path, keeping his voice calm and direct.
-- 'Who is that?' Over the truth and the kitchen, Barinov presses Max for a straight answer.
-- 'I do not know.' Noting that he does not know keeps Max's side of the story simple and clear.
-- 'Probably the landlady.' With the point and apartment in play, Barinov keeps this short reply brisk and direct.
-- 'Why would you need to hide me?' Asking why Barinov needs to hide him would cuts straight through the tension between Max and Barinov.
-- 'Well, she does not like it when I bring men over.' Saying that she does not like it when he brings men is how Barinov sets the tone with Max.
-- 'You bring men over?' Wondering if Barinov brings men shows Max caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Did something happen?' By asking whether something happen, Barinov presses Max for a straight answer.
-- 'Here is what happened.' Saying that here is what happened is how Max sets the tone with Barinov.
-- 'And by the way, I just redid the renovations.' Around the point and room, Barinov sets a calm, everyday tone with Max.
-- 'A year ago.' Around the truth and kitchen, Max sets a calm, everyday tone with Barinov.
+- 'Along which you walk.' Max establishes a steady note across the room, putting "idesh" ("are coming") alongside "po" ("according to") in a tight, everyday turn of phrase.
+- 'And leads someone else over there.' Barinov picks a lively manner beside Max, combining "tuda" ("there") and "kogo-to" ("someone") so the key meaning lands right away.
+- 'Everyone has their own path.' Max adopts a pointed posture without hesitation, leaning on "kazhdogo" ("everyone") before closing the thought with "put" ("path").
+- 'Who is that?' Barinov probes quietly in the room, pairing "kto" ("who") with "eto" ("this") to get the point across in plain spoken Russian.
+- 'I do not know.' Max adopts an emphatic manner beside Barinov, putting "znayu" ("know") alongside "ne" ("not") in a tight, everyday turn of phrase.
+- 'Probably the landlady.' Barinov favors a wry tone right away, putting "navernoye" ("probably") alongside "khozyayka" ("landlady") in a tight, everyday turn of phrase.
+- 'Why would you need to hide me?' Max wonders promptly without holding back, linking "pryatatsya" ("to hide"), "zachem" ("what for"), and "chto" ("what") in one brisk exchange.
+- 'Well, she does not like it when I bring men over.' Barinov shows a serious tempo toward Max, linking "lyubyat" ("love, like"), "kogda" ("when"), and "muzhikov" ("men, guys") in one brisk exchange.
+- 'You bring men over?' Max asks firmly at this point, weaving "muzhikov" ("men, guys") together with "vodish" ("are driving") just the way native speakers do.
+- 'Did something happen?' Barinov quizzes openly to make the point, combining "sluchilos" ("happened") and "chto-to" ("somehow") so the key meaning lands right away.
+- 'Here is what happened.' Max sets an earnest manner without hesitation, anchoring the Russian line on "sluchilos" ("happened") and "vot" ("there, here") without extra filler.
+- 'And by the way, I just redid the renovations.' Barinov establishes a steady attitude at this moment, combining "prochim" ("other") and "tolko" ("only") so the key meaning lands right away.
+- 'A year ago.' Max presents an emphatic angle with Barinov, weaving "god" ("year") together with "nazad" ("ago") just the way native speakers do.

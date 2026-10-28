@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, let's go home.' Adding that they should go home fills in the missing piece for Denis.
-- 'Please be reasonable.' With the work and peace in play, Lyova keeps this short reply brisk and direct.
-- 'Ask Dmitry Vladimirovich for forgiveness.' Pointing out that Denis should ask Dmitry Vladimirovich for forgiveness gives Denis a sobering reality check.
-- 'Max, I am definitely going to mess up here.' Being definitely going to mess up here is how Denis lays out the situation for Lyova.
-- 'Come on, you are a musician. Approach it creatively.' Coming on Denis is a musician is how Max lays out the situation for Denis.
-- 'Imagine that the kitchen is your orchestra.' Since Denis should imagine that the kitchen is Denis's orchestra, Max does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Denis, your trial period started half an hour ago.' Because Denis's trial period started half an hour ago, Lyova treats the matter as settled.
-- 'Got it. On my way.' With the point and peace in play, Denis keeps this short reply brisk and direct.
-- 'Hello, everyone.' Over the point and the peace, Denis answers Lyova without a second thought.
-- 'Prep work runs in the Lavrov blood.' Claiming that prep work runs in the Lavrov blood sounds confident, even if Denis has doubts.
-- 'And what if Nagiyev sees me here?' Asking whether what if Nagiyev sees him here puts Lyova right on the defensive.
-- 'Folks, it is the second coming of the Chef out there.' Lyova explains that folks it is the second coming of the Chef out there, keeping his voice calm and direct.
+- 'Viktor Petrovich, let's go home.' Lyova chooses an emphatic line without hesitation, combining "poydyomte" ("come on, let's go") and "domoy" ("home") so the key meaning lands right away.
+- 'Please be reasonable.' Lyova chooses a candid direction beside Max, pairing "budte" ("be") with "blagorazumny" ("reasonable") to get the point across in plain spoken Russian.
+- 'Ask Dmitry Vladimirovich for forgiveness.' Lyova displays a playful stance at once, leaning on "poprosite" ("ask") before closing the thought with "proshcheniya" ("forgiveness").
+- 'Max, I am definitely going to mess up here.' Denis sets a brisk tack in front of Max, building the phrase around "zdes" ("here") and "tochno" ("definitely") for a crisp, natural delivery.
+- 'Come on, you are a musician. Approach it creatively.' Max sustains an earnest course as they talk, putting "muzykant" ("musician") alongside "podoydi" ("approach, go up") in a tight, everyday turn of phrase.
+- 'Imagine that the kitchen is your orchestra.' Max shows a sharp mood straight away, linking "predstav" ("imagine"), "kukhnya" ("kitchen"), and "orkestr" ("orchestra") in one brisk exchange.
+- 'Denis, your trial period started half an hour ago.' Lyova offers an emphatic bearing during the exchange, weaving "uzhe" ("already, now") together with "polchasa" ("half-hour") just the way native speakers do.
+- 'Got it. On my way.' Denis chooses an earnest posture during the exchange, putting "ponyal" ("understood") alongside "idu" ("going, running") in a tight, everyday turn of phrase.
+- 'Hello, everyone.' Denis sustains a calm footing right away, anchoring the Russian line on "vsem" ("everyone") and "privet" ("hi") without extra filler.
+- 'Prep work runs in the Lavrov blood.' Max strikes a warm tempo right away, pairing "zagotovka" ("preparation") with "lavrovykh" ("runs") to get the point across in plain spoken Russian.
+- 'And what if Nagiyev sees me here?' Denis prompts earnestly in their exchange, linking "uvidit" ("will see"), "yesli" ("if"), and "eto" ("this") in one brisk exchange.
+- 'Folks, it is the second coming of the Chef out there.' Lyova offers a warm bearing in this beat, building the phrase around "narod" ("the people") and "tam" ("there") for a crisp, natural delivery.

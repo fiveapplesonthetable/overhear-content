@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Three hundred rubles. Congratulations, Chef!' Around the date and point, Timur makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And that is serious money? March back to work!' When Barinov asks if that is serious money, Elena has to answer fast.
-- 'Oh, Chef, brother, hello! Listen, how lucky you are.' Timur declares that Barinov should listen how lucky Barinov is as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I want to give you tickets to tomorrow's game.' Admitting that he wants to give Barinov tickets to tomorrow game shows Timur being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I cannot tomorrow.' Barinov mentions that he cannot tomorrow so Elena sees what is at stake.
-- 'Did someone die? No.' Asking whether someone die cuts straight through the tension between Timur and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Then why aren't you going? Spartak is playing!' Wondering why not Barinov going are is how Timur puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Sorry.' Around the plan and date, Barinov sets a calm, everyday tone with Elena.
-- 'Vitya, unfortunately, the cinema tomorrow is canceled.' Realizing that the cinema tomorrow is canceled changes how Elena handles the situation.
-- 'They just called, I have a banquet until late at night.' Noting that they just called she has a banquet until late at night keeps Elena's side of the story simple and clear. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Yes, of course, I understand.' Over the kitchen and the match, Barinov answers Elena without a second thought.
-- 'Well, what can we do? Another time, then another time.' Here asking what they do can shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Three hundred rubles. Congratulations, Chef!' Timur chooses a steady view in front of Barinov, leaning on "rubley" ("roubles") before closing the thought with "pozdravlyayem" ("we congratulate").
+- 'And that is serious money? March back to work!' Barinov tests earnestly in the room, combining "solidnyye" ("substantial") and "dengi" ("money") so the key meaning lands right away.
+- 'Oh, Chef, brother, hello! Listen, how lucky you are.' Timur shows a wry view at once, weaving "brat" ("brother") together with "slushay" ("listen") just the way native speakers do.
+- 'I want to give you tickets to tomorrow's game.' Timur projects a playful manner as they talk, building the phrase around "khochu" ("want") and "podarit" ("give as a gift") for a crisp, natural delivery.
+- 'I cannot tomorrow.' Barinov projects a natural position in the scene, weaving "zavtra" ("tomorrow") together with "mogu" ("can") just the way native speakers do.
+- 'Did someone die? No.' Timur wonders steadily in this moment, using "umer" (from "umeret", "died") alongside "kto-to" ("someone") to shape the meaning.
+- 'Then why aren't you going? Spartak is playing!' Timur queries briskly to Barinov here, putting "togda" ("back then") alongside "idyosh" ("are coming") in a tight, everyday turn of phrase.
+- 'Sorry.' Barinov offers a measured bearing in their talk, putting all the weight on "izvini" ("sorry, excuse me") so the reply lands immediately.
+- 'Vitya, unfortunately, the cinema tomorrow is canceled.' Elena establishes a serious style at this moment, anchoring the Russian line on "sozhaleniyu" ("regret") and "kino" ("cinema, movies") without extra filler.
+- 'They just called, I have a banquet until late at night.' Elena picks a candid rhythm at once, combining "pozvonili" ("called") and "tolko" ("only") so the key meaning lands right away.
+- 'Yes, of course, I understand.' Barinov chooses a warm manner with Elena, joining "konechno" ("of course") to "ponimayu" ("understand") so every word pulls its weight.
+- 'Well, what can we do? Another time, then another time.' Barinov wonders wryly beside Timur, anchoring the Russian line on "delat" ("do") and "drugoy" ("other") without extra filler.

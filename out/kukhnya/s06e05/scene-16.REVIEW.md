@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello to you again, good man.' With the money and room in play, Eva keeps this short reply brisk and direct.
-- 'Listen, I wanted to ask your advice.' Saying that he wanted to ask Eva's advice is how Barinov sets the tone with Eva. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Come on, calm down first.' Because Barinov should come on calm down first, Eva treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I will tell you everything myself right now.' Adding that she will tell Barinov everything herself right now fills in the missing piece for Barinov.
-- 'Are you doubting whether to take the money or not?' Checking whether Barinov doubting whether to take the money or not cuts straight through the tension between Eva and Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Do not take the money, it will end badly.' Since do not take the money it will end badly, Eva does not waste words on excuses.
-- 'I knew it from the very beginning!' Barinov insists that he knew it from the very beginning, leaving Eva no room to argue.
-- 'Wait, I see a man in a dark suit.' Even though she sees a man in a dark suit, Eva keeps a steady face in front of Barinov.
-- 'Take the money and boldly follow him.' By telling Barinov to take the money and boldly follow him, Eva keeps her side of the story grounded.
-- 'He will make you much more money.' Explaining that he will make Barinov much more money lays the cards on the table for Barinov.
-- 'Understood everything, thank you so much!' Insisting that understood everything thank Eva so much shows Barinov is not backing down. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'A molecular dinner was ordered to the room.' Claiming that a molecular dinner was ordered to the room sounds confident, even if Barinov has doubts.
+- 'Hello to you again, good man.' Eva sets a wry view on the spot, building the phrase around "snova" ("again") and "dobryy" ("good") for a crisp, natural delivery.
+- 'Listen, I wanted to ask your advice.' Barinov projects an emphatic mood in the conversation, anchoring the Russian line on "slushay" ("listen") and "khotel" ("wanted") without extra filler.
+- 'Come on, calm down first.' Eva strikes an emphatic rhythm on the spot, building the phrase around "snachala" ("first, at first") and "uspokoysya" ("calm down") for a crisp, natural delivery.
+- 'I will tell you everything myself right now.' Eva shows a clear tempo beside Katya, leaning on "seychas" ("now") before closing the thought with "rasskazhu" ("will tell").
+- 'Are you doubting whether to take the money or not?' Eva inquires calmly beside Barinov, linking "somnevayeshsya" ("to doubt"), "brat" ("to take"), and "dengi" ("money") in one brisk exchange.
+- 'Do not take the money, it will end badly.' Eva favors a playful line in their talk, joining "beri" ("take, grab") to "chuzhiye" ("someone else's") so every word pulls its weight.
+- 'I knew it from the very beginning!' Barinov projects a lively mood in this beat, using "znal" (from "znat", "knew") alongside "samogo" ("the very") to shape the meaning.
+- 'Wait, I see a man in a dark suit.' Eva sets an earnest line beside Katya, pairing "postoy" ("wait") with "vizhu" ("see") to get the point across in plain spoken Russian.
+- 'Take the money and boldly follow him.' Eva takes a brisk course in front of Barinov, using "beri" (from "brat", "take, grab") alongside "dengi" ("money") to shape the meaning.
+- 'He will make you much more money.' Eva sets an easygoing posture with Katya, anchoring the Russian line on "sdelayet" ("will do") and "namnogo" ("much, far") without extra filler.
+- 'Understood everything, thank you so much!' Barinov brings an unhurried attitude in this beat, putting "ponyal" ("understood") alongside "spasibo" ("thank you") in a tight, everyday turn of phrase.
+- 'A molecular dinner was ordered to the room.' Katya maintains a playful view during the exchange, building the phrase around "nomer" ("number") and "zakazali" ("ordered") for a crisp, natural delivery.

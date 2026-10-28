@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I need to think carefully about this.' Claiming that she needs to think carefully about this sounds confident, even if Denis has doubts.
-- 'Nastya told me this today.' Adding that Nastya told him this today fills in the missing piece for Katya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Now everything is definitely over between us.' Saying that everything is definitely over between them is how Denis sets the tone with Katya. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Wait, my friend, do not rush to conclusions.' Since his friend do not rush to conclusions, Kostya does not waste words on excuses.
-- 'What are you even talking about right now?' By wondering what Denis even talking about right now is, Kostya presses Denis for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Did you get so upset because of this?' Asking whether Denis gets so upset because of this cuts straight through the tension between Kostya and Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Of course, I got very upset today.' Because he got very upset today, Denis treats the matter as settled.
-- 'But she did not say yes to him.' Explaining that she did not say yes to him lays the cards on the table for Denis.
-- 'She did not say no to him either.' Saying that she did not say no to him either is how Denis sets the tone with Katya.
-- 'And what does all of this mean then?' Wondering what all of this mean then cuts straight through the tension between Kostya and Denis.
-- 'She still loves you to this day.' Pointing out that she still loves Denis to this day gives Denis a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Who does she really love right now?' Here asking who she really love right now shows Denis looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Just walk up to her and ask.' With the conversation and answer in play, Kostya keeps this short reply brisk and direct.
+- 'I need to think carefully about this.' Katya shows a steady tone right away, weaving "nado" ("it is necessary") together with "khorosho" ("good, fine") just the way native speakers do.
+- 'Nastya told me this today.' Denis holds a serious stance with Kostya, building the phrase around "segodnya" ("today") and "rasskazala" ("told") for a crisp, natural delivery.
+- 'Now everything is definitely over between us.' Denis displays a serious course during the exchange, anchoring the Russian line on "teper" ("now") and "tochno" ("definitely") without extra filler.
+- 'Wait, my friend, do not rush to conclusions.' Kostya establishes a candid bearing in their talk, putting "pogodi" ("wait") alongside "drug" ("friend") in a tight, everyday turn of phrase.
+- 'What are you even talking about right now?' Kostya queries honestly without a pause, combining the conversational booster "voobshche" ("in general, overall") with "seychas" ("now") to give the line its natural spoken rhythm.
+- 'Did you get so upset because of this?' Kostya queries wryly for Katya's benefit, combining "silno" ("strongly, much") and "rasstroilsya" ("got upset") so the key meaning lands right away.
+- 'Of course, I got very upset today.' Denis shares a serious tempo in the room, pairing "rasstroilsya" ("got upset") with "konechno" ("of course") so the "-sya" ending carries the action.
+- 'But she did not say yes to him.' Kostya takes a direct note as the scene unfolds, linking "skazala" ("told"), "no" ("but"), and "ona" ("it") in one brisk exchange.
+- 'She did not say no to him either.' Denis brings an unhurried line beside Katya, leaning on "skazala" ("told") before closing the thought with "ona" ("it").
+- 'And what does all of this mean then?' Kostya queries boldly during the talk, putting "togda" ("back then") alongside "znachit" ("then, so") in a tight, everyday turn of phrase.
+- 'She still loves you to this day.' Kostya chooses a playful stance straight away, leaning on "por" ("time") before closing the thought with "lyubit" ("loves").
+- 'Who does she really love right now?' Denis presses boldly in the room, building the phrase around "seychas" ("now") and "samom" ("very") for a crisp, natural delivery.
+- 'Just walk up to her and ask.' Kostya offers a calm tone in the conversation, linking "prosto" ("just"), "podoydi" ("approach, go up"), and "sprosi" ("ask") in one brisk exchange.

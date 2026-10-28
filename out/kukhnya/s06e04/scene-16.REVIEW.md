@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Does Dad know about this?' Asking whether dad know about this is how Katya puts Barinov on the spot.
-- 'And here is your dish, almost the same as your grandmother's!' Insisting that here is the guest's dish almost the same as the guest's grandmother shows Barinov is not backing down. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Thank you, but I am already full.' Saying that he is already full is how the guest sets the tone with Barinov.
-- 'I beg you, at least smell it!' Barinov declares that he begs the guest at least smell it as the tension in the room peaks.
-- 'Be so kind, smell the dish.' Over the room and the chaos, Barinov answers the guest without a second thought.
-- 'My eyes, my eyes!' Over the conversation and the chaos, the guest lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'You are both simply crazy!' Katya declares that Barinov is both simply crazy as the tension in the room peaks.
-- 'Do not worry, I will buy you dark glasses.' Barinov reminds the guest that do not worry he will buy the guest dark glasses before the moment passes. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Dad, I will explain everything to you right now.' Pointing out that dad she will explain everything to Barinov right now gives Barinov a sobering reality check. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What can you possibly explain to me?' Here asking what the guest possibly explain to him can shows Barinov looking for the real truth.
-- 'It was just a joke!' Declaring that it was just a joke brings Katya's temper right to the surface. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Dad, what is wrong with you, Vitya?' When Katya asks if dad what is wrong with Barinov, Barinov has to answer fast. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Does Dad know about this?' Katya tests calmly in front of Barinov, building the phrase around "papa" ("Dad") and "znayet" ("knows") for a crisp, natural delivery.
+- 'And here is your dish, almost the same as your grandmother's!' Barinov picks an honest tempo in the conversation, anchoring the Russian line on "blyudo" ("dish") and "pochti" ("almost") without extra filler.
+- 'Thank you, but I am already full.' The guest sets an earnest tack as they talk, putting "spasibo" ("thank you") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
+- 'I beg you, at least smell it!' Barinov holds a direct angle in front of Katya, linking "umolyayu" ("I beg"), "ponyukhayte" ("smell"), and "ya" ("I") in one brisk exchange.
+- 'Be so kind, smell the dish.' Barinov displays a serious attitude right away, pairing "budte" ("be") with "dobry" ("kind") to get the point across in plain spoken Russian.
+- 'My eyes, my eyes!' The guest picks a direct angle on the spot, putting "glaza" ("eyes") alongside "moi" ("my") in a tight, everyday turn of phrase.
+- 'You are both simply crazy!' Katya favors a thoughtful tone at once, combining the softening word "prosto" ("simply, just") with "sumasshedshiye" ("crazy, insane") to give the line its natural spoken rhythm.
+- 'Do not worry, I will buy you dark glasses.' Barinov strikes a clear rhythm at this moment, weaving "volnuysya" ("worry") together with "kuplyu" ("will buy") just the way native speakers do.
+- 'Dad, I will explain everything to you right now.' Katya brings an honest footing during the exchange, anchoring the Russian line on "papa" ("Dad") and "seychas" ("now") without extra filler.
+- 'What can you possibly explain to me?' Barinov probes quietly in this moment, joining "mozhesh" ("can") to "obyasnit" ("to explain") so every word pulls its weight.
+- 'It was just a joke!' Katya displays an emphatic manner in the room, pairing "prosto" ("just") with "shutka" ("joke, prank") to get the point across in plain spoken Russian.
+- 'Dad, what is wrong with you, Vitya?' Katya prompts wryly in front of the guest, combining "papa" ("Dad") and "chto" ("what") so the key meaning lands right away.

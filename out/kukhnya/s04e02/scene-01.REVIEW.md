@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You need to plan everything in advance.' Once Denis needs to plan everything in advance, Max can finally tell Denis what he means.
-- 'Prepare well and keep everything a secret.' Explaining that Denis should prepare well and keep everything a secret lays the cards on the table for Denis.
-- 'But the most important thing is the element of surprise.' Max tells Denis that the most important thing is the element of surprise without dressing it up. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Surprise!' Over the surprise and the conversation, Max lets his real feelings show.
-- 'This is my brother Denis.' Mentioning that this is his brother Denis moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Very nice to meet you. Hello.' Around the shift and surprise, Denis sets a calm, everyday tone with Max.
-- 'Sorry about that.' Between the shift and the surprise, Max gives Denis a quick, grounded response.
-- 'And what do you do for a living?' Wondering what Denis does for a living is how Vika puts Denis on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I am a musician, a pianist.' Saying that he is a musician a pianist is how Denis sets the tone with Max.
-- 'A creative nature.' With the moment and surprise in play, Denis keeps this short reply brisk and direct.
-- 'So do you perform somewhere?' Checking whether Denis perform somewhere cuts straight through the tension between Vika and Denis. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Of course, in Voronezh.' Over the moment and the surprise, Denis answers Max without a second thought.
+- 'You need to plan everything in advance.' Max keeps a playful direction as they talk, building the phrase around "nuzhno" ("necessary") and "splanirovat" ("to plan") for a crisp, natural delivery.
+- 'Prepare well and keep everything a secret.' Max brings a clear view across the room, putting "khorosho" ("good, fine") alongside "podgotovitsya" ("to prepare") in a tight, everyday turn of phrase.
+- 'But the most important thing is the element of surprise.' Max strikes a brisk style in front of Denis, using "samoye" (from "samyy", "the most") alongside "glavnoye" ("important") to shape the meaning.
+- 'Surprise!' Max sustains a pointed posture as they talk, leaning on "syurpriz" ("surprise") as a compact, one-word response that needs no extra words.
+- 'This is my brother Denis.' Max keeps a playful position at once, joining "brat" ("brother") to "eto" ("this") so every word pulls its weight.
+- 'Very nice to meet you. Hello.' Denis adopts a natural style as they talk, linking "ochen" ("very much"), "priyatno" ("pleasant"), and "zdravstvuyte" ("hello") in one brisk exchange.
+- 'Sorry about that.' Max strikes a pointed line in front of Denis, letting the single Russian word "izvini" ("sorry, excuse me") carry the entire reaction on its own.
+- 'And what do you do for a living?' Vika quizzes promptly in front of Max, pairing "zanimayeshsya" ("to be busy with") with "chem" ("than") to get the point across in plain spoken Russian.
+- 'I am a musician, a pianist.' Denis displays a steady direction during the exchange, putting "muzykant" ("musician") alongside "pianist" ("pianist") in a tight, everyday turn of phrase.
+- 'A creative nature.' Denis keeps a measured view on the spot, anchoring the Russian line on "tvorcheskaya" ("creative, artistic") and "natura" ("nature, character") without extra filler.
+- 'So do you perform somewhere?' Vika questions quietly for Denis's benefit, linking "vystupayesh" ("to speak, to perform"), "gde-to" ("somewhere"), and "chto" ("what") in one brisk exchange.
+- 'Of course, in Voronezh.' Denis offers a thoughtful view as they talk, building the phrase around "konechno" ("of course") and "voronezhe" ("Voronezh") for a crisp, natural delivery.

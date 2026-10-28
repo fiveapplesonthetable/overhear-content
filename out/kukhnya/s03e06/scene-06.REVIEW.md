@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, get up quickly and get dressed.' Telling Max to come on get up quickly and get dressed is how Vika lays out the situation for Max. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Do you have a meeting with the boss in the morning?' Here checking whether Nagiyev has a meeting with the boss in the morning shows Max looking for the real truth.
-- 'Please, just disappear from here quickly.' Over the visit and the restaurant, Vika answers Max without a second thought.
-- 'I do not want him to see you here in this state.' Noting that she does not want him to see Max here in this state keeps Vika's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Good morning to you.' With the visit and shift in play, Max keeps this short reply brisk and direct.
-- 'Quiet, that is Dima calling right now.' Adding that quiet that is Dima calling right now fills in the missing piece for Max. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Hello, dear Dmitry Vladimirovich.' Turning from the visit to the work, Vika keeps the exchange moving.
-- 'Well then, dear Victoria Sergeyevna.' Over the visit and the truth, Nagiyev answers Max without a second thought.
-- 'You and I had an agreement, right?' Questioning whether Max and he had an agreement right is how Nagiyev tests Max's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Hello, Dima.' With the apartment and conversation in play, Vika keeps this short reply brisk and direct.
-- 'I decided to pick up my colleague and give her a ride to work.' Because he decided to pick up his colleague and give her a ride to work, Nagiyev treats the matter as settled.
-- 'Someone is ringing the doorbell there.' Explaining that someone is ringing the doorbell there lays the cards on the table for Nagiyev.
+- 'Come on, get up quickly and get dressed.' Vika projects a pointed attitude in their talk, building the phrase around "davay" ("let's") and "bystro" ("quickly") for a crisp, natural delivery.
+- 'Do you have a meeting with the boss in the morning?' Max probes wryly right away, linking "utrom" ("this morning"), "vstrecha" ("a meeting"), and "nachalstvom" ("management") in one brisk exchange.
+- 'Please, just disappear from here quickly.' Vika takes an earnest angle across the room, weaving "prosto" ("just") together with "bystro" ("quickly") just the way native speakers do.
+- 'I do not want him to see you here in this state.' Vika shows a calm footing in front of Nagiyev, linking "khochu" ("want"), "videl" ("saw, have seen"), and "zdes" ("here") in one brisk exchange.
+- 'Good morning to you.' Max displays a natural angle in the room, combining "dobroye" ("good") and "utro" ("morning") so the key meaning lands right away.
+- 'Quiet, that is Dima calling right now.' Vika brings a lively manner as they talk, putting "tikho" ("easy, quiet") alongside "seychas" ("now") in a tight, everyday turn of phrase.
+- 'Hello, dear Dmitry Vladimirovich.' Vika sets a frank stance in the scene, leaning on "zdravstvuyte" ("hello") before closing the thought with "uvazhayemyy" ("respected, esteemed").
+- 'Well then, dear Victoria Sergeyevna.' Nagiyev picks a grounded bearing in the room, combining "dorogaya" ("expensive") and "nu" ("oh, come on") so the key meaning lands right away.
+- 'You and I had an agreement, right?' Nagiyev tests openly in front of Max, using "dogovarivalis" (from "dogovarivatsya", "had an agreement") alongside "my" ("we") to shape the meaning.
+- 'Hello, Dima.' Vika strikes a serious stance at this moment, pairing "zdravstvuy" ("hello") with "dima" ("Dima") to get the point across in plain spoken Russian.
+- 'I decided to pick up my colleague and give her a ride to work.' Nagiyev presents a natural course in the conversation, putting "reshil" ("has decided") alongside "zayekhat" ("drop by, stop in") in a tight, everyday turn of phrase.
+- 'Someone is ringing the doorbell there.' Max chooses a serious course toward Vika, anchoring the Russian line on "tam" ("there") and "dver" ("door") without extra filler.

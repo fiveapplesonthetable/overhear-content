@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our restaurant is truly very rich in bright talents!' Nagiyev insists that their restaurant is truly very rich in bright talents, leaving Denis no room to argue.
-- 'Our young cook and musician plays wonderfully.' Admitting that their young cook and musician plays wonderfully shows Nagiyev being honest for a change.
-- 'He can play at your evening banquet too!' Nagiyev declares that he can play at Denis's evening banquet as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Lenochka, darling, wait for me today by four o'clock.' With the room and banquet in play, Denis keeps this short reply brisk and direct.
-- 'And I will come to you at six o'clock sharp!' Insisting that he will come to the guest at six o'clock sharp shows Denis is not backing down. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'There should always be enough of a real man for everyone!' Once there should always be enough of a real man for everyone, Denis makes sure the guest hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Look who is here, why do you not drop by the theater?' Wondering who here why do Denis not drop by the theater is cuts straight through the tension between the guest and Denis.
-- 'There is no time at all, lots of work at the restaurant.' Mentioning that there is no time at all lots of work at the restaurant moves the talk in a new direction.
-- 'So maybe you need some help with something?' When the guest asks if maybe Denis needs some help with something, Denis has to answer fast. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'And maybe I really do need a little help!' Nagiyev declares that maybe he really does need a little help as the tension in the room peaks.
-- 'Tell me, did Barinov himself definitely cook this dish?' Questioning whether tell him did Barinov himself definitely cook this dish is how the guest tests Denis's story. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Of course, right now they will serve you his onion soup!' Saying that right now they will serve Denis his onion soup is how Nagiyev takes charge of the moment. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Our restaurant is truly very rich in bright talents!' Nagiyev establishes a natural posture in the conversation, putting "restoran" ("restaurant") alongside "deystvitelno" ("really, indeed") in a tight, everyday turn of phrase.
+- 'Our young cook and musician plays wonderfully.' Nagiyev projects a serious position with the guest, building the phrase around "molodoy" ("young") and "povar" ("chef, cook") for a crisp, natural delivery.
+- 'He can play at your evening banquet too!' Nagiyev sets an emphatic tone at this moment, pairing "mozhet" ("can") with "sygrat" ("to play") to get the point across in plain spoken Russian.
+- 'Lenochka, darling, wait for me today by four o'clock.' Denis chooses a natural manner for Nagiyev, combining "lenochka" ("lenochka") and "dorogaya" ("expensive") so the key meaning lands right away.
+- 'And I will come to you at six o'clock sharp!' Denis offers a candid style in the conversation, building the phrase around "pridu" ("will come") and "rovno" ("exactly") for a crisp, natural delivery.
+- 'There should always be enough of a real man for everyone!' Denis establishes a playful mood in the conversation, leaning on "nastoyashchego" ("real, genuine") before closing the thought with "muzhchiny" ("man").
+- 'Look who is here, why do you not drop by the theater?' The guest wonders bluntly at this point, leaning on "lyudi" ("people") before closing the thought with "pochemu" ("why").
+- 'There is no time at all, lots of work at the restaurant.' Nagiyev conveys a warm tempo without hesitation, combining "sovsem" ("at all") and "vremeni" ("time") so the key meaning lands right away.
+- 'So maybe you need some help with something?' The guest probes frankly on the spot, joining "mozhet" ("can") to "byt" ("be") so every word pulls its weight.
+- 'And maybe I really do need a little help!' Nagiyev conveys a calm tempo straight away, building the phrase around "mozhet" ("can") and "byt" ("be") for a crisp, natural delivery.
+- 'Tell me, did Barinov himself definitely cook this dish?' The guest inquires decisively without a pause, joining "skazhite" ("tell") to "blyudo" ("dish") so every word pulls its weight.
+- 'Of course, right now they will serve you his onion soup!' Nagiyev sets a calm approach straight away, pairing "seychas" ("now") with "konechno" ("of course") so the "-sya" ending carries the action.

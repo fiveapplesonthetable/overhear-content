@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Нагиев | Так, Илья, хватит ржать. | All right, Ilya, stop laughing. | #208: Так, Илья, хватит ржать | verbatim |
-| 2 | Кристина | Кристина-то где должна быть? | Where is Kristina supposed to be? | #209: Кристина-то где должна быть | verbatim |
+| 2 | Илья | Кристина-то где должна быть? | Where is Kristina supposed to be? | #209: Кристина-то где должна быть | verbatim |
 | 3 | Илья | Быстро на своё место встречать гостей. | Get back to your post quickly to greet the guests. | #210: Быстро на своё место встречать гостей | verbatim |
 | 4 | Нагиев | Девочки, живы, живы, вза. | Girls, look alive, hurry up. | #211: Девочки, живы, живы, вза | verbatim |
 | 5 | Кристина | Сами сделаем. | We will do it ourselves. | #212: Сами сделаем | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, Ilya, stop laughing.' With the moment and shift in play, Nagiyev keeps this short reply brisk and direct.
-- 'Where is Kristina supposed to be?' By asking where Kristina supposed to be is, Kristina presses Ilya for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Get back to your post quickly to greet the guests.' Getting back to Kristina's post quickly to greet the guests is how Ilya lays out the situation for Kristina.
-- 'Girls, look alive, hurry up.' With the moment and truth in play, Nagiyev keeps this short reply brisk and direct.
-- 'We will do it ourselves.' Realizing that they will do it themselves changes how Kristina handles the situation.
-- 'Good afternoon.' Between the conversation and the room, Ilya gives Kristina a quick, grounded response.
-- 'I would definitely take her for a spin.' Even though he would definitely take her for a spin, Nagiyev keeps a steady face in front of Ilya.
-- 'I would take her for a spin too.' Admitting that she would take her for a spin shows Kristina being honest for a change.
-- 'Except she is a high-flying bird.' Saying that except she is a high flying bird is how Ilya sets the tone with Kristina.
-- 'To her, we are nobodies.' Once to her they are nobodies, Nagiyev can finally tell Ilya what he means.
-- 'Listen, who even are you?' When Kristina asks if who even are Ilya, Ilya has to answer fast. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Hello, Dmitry Vladimirovich.' With the work and room in play, Ilya keeps this short reply brisk and direct.
-- 'I am glad to see you too, Kristina.' Once he is glad to see Ilya, Nagiyev can finally tell Ilya what he means.
+- 'All right, Ilya, stop laughing.' Nagiyev picks a grounded tone in front of Ilya, weaving "khvatit" ("enough") together with "rzhat" ("to laugh loudly") just the way native speakers do.
+- 'Where is Kristina supposed to be?' Ilya questions openly on the spot, anchoring the Russian line on "gde" ("where") and "dolzhna" ("should, must") without extra filler.
+- 'Get back to your post quickly to greet the guests.' Ilya conveys a brisk tack toward Kristina, weaving "bystro" ("quickly") together with "mesto" ("place, post") just the way native speakers do.
+- 'Girls, look alive, hurry up.' Nagiyev shares a brisk direction for Kristina, leaning on "devochki" ("girl's") before closing the thought with "zhivy" ("living, alive").
+- 'We will do it ourselves.' Kristina holds an emphatic line without hesitation, joining "sdelayem" ("we'll do") to "sami" ("yourselves") so every word pulls its weight.
+- 'Good afternoon.' Ilya sets an emphatic bearing at once, pairing "dobryy" ("good") with "den" ("day") to get the point across in plain spoken Russian.
+- 'I would definitely take her for a spin.' Nagiyev keeps an honest position during the exchange, building the phrase around "otfrityuril" ("to deep-fry") and "ya" ("I") for a crisp, natural delivery.
+- 'I would take her for a spin too.' Kristina projects an honest tempo in this beat, anchoring the Russian line on "tozhe" ("too") and "otfrityuril" ("to deep-fry") without extra filler.
+- 'Except she is a high-flying bird.' Ilya maintains an earnest angle across the room, anchoring the Russian line on "tolko" ("only") and "ptitsa" ("bird") without extra filler.
+- 'To her, we are nobodies.' Nagiyev takes a lively posture right away, linking "my" ("we") directly with "dlya" ("for"), since Russian drops "is" and "are" in the present.
+- 'Listen, who even are you?' Kristina presses firmly during the talk, anchoring the Russian line on "slushay" ("listen") and "voobshche" ("at all") without extra filler.
+- 'Hello, Dmitry Vladimirovich.' Ilya adopts a thoughtful attitude straight away, anchoring the Russian line on "zdravstvuyte" ("hello") and "dmitriy" ("Dmitry") without extra filler.
+- 'I am glad to see you too, Kristina.' Nagiyev brings a frank bearing during the exchange, building the phrase around "tozhe" ("too") and "rad" ("glad") for a crisp, natural delivery.

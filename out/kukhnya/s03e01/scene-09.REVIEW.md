@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Dad!' Between the guest and the moment, Nastya delivers a sharp reaction. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Let me hug you. I am at work.' Explaining that Max should let her hug Max lays the cards on the table for Max.
-- 'Why didn't you warn me that you were coming?' Asking why not Max warns her that Max was coming is how Nastya puts Max on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'My partners and I have negotiations here.' Nastya tells Max that her partners and she has negotiations here without dressing it up. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Will you feed us? Me — no.' By checking whether Max feeds them, Nastya presses Max for a straight answer.
-- 'Maxim can serve you.' Mentioning that Maxim can serve Max moves the talk in a new direction. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Hello! Let's go to the table.' By proposing that they go to the table, Max raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I am listening.' Here being listening sets up the next turn in their exchange.
-- 'This is for you.' Mentioning that this is for Nastya moves the talk in a new direction. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Thank you.' Thanking Max is how Vika lays out the situation for Max.
-- 'Who is being so generous here?' Asking who being so generous here is is how Max puts Nastya on the spot.
-- 'Did you want a fine again? Go work.' Here asking whether Max wants a fine again shows Vika looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Hi, Dad!' Nastya projects an honest angle without hesitation, anchoring the Russian line on "papa" ("Dad") and "privet" ("hi") without extra filler.
+- 'Let me hug you. I am at work.' Nastya holds an earnest direction in this beat, combining "davay" ("let's") and "obnimu" ("I'll hug") so the key meaning lands right away.
+- 'Why didn't you warn me that you were coming?' Nastya questions lightly from the start, pairing "pochemu" ("why") with "predupredil" ("warned") to get the point across in plain spoken Russian.
+- 'My partners and I have negotiations here.' Nastya favors a steady course with Vika, leaning on "partnyorami" ("partner") before closing the thought with "peregovory" ("negotiations").
+- 'Will you feed us? Me — no.' Nastya asks wryly during the talk, leaning on "pokormish" ("will feed") before closing the thought with "nas" ("us").
+- 'Maxim can serve you.' Nastya favors a grounded manner straight away, joining "mozhet" ("can") to "obsluzhit" ("to serve") so every word pulls its weight.
+- 'Hello! Let's go to the table.' Max adopts a firm style at this moment, building the phrase around "zdravstvuyte" ("hello") and "poydyomte" ("come on, let's go") for a crisp, natural delivery.
+- 'I am listening.' Vika displays an emphatic approach with Nastya, weaving "slushayu" ("I'm listening") together with "ya" ("I") just the way native speakers do.
+- 'This is for you.' Max displays a wry course in front of Nastya, pairing "eto" ("this") with "vam" ("you") to get the point across in plain spoken Russian.
+- 'Thank you.' Vika strikes a steady tack in this beat, leaning on "spasibo" ("thank you") as a compact, one-word response that needs no extra words.
+- 'Who is being so generous here?' Max questions warmly to Nastya here, putting "shchedryy" ("generous") alongside "kto" ("who") in a tight, everyday turn of phrase.
+- 'Did you want a fine again? Go work.' Vika inquires openly during the talk, putting "opyat" ("again") alongside "shtraf" ("fine") in a tight, everyday turn of phrase.

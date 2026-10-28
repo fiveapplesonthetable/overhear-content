@@ -7,7 +7,7 @@ SCENE = 18
 TITLE = 'Кристина в шкафу  (Kristina in the Closet)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'kristina': 'Кристина', 'max': 'Макс', 'nagiyev': 'Нагиев'}
+LABELS = {'kristina': 'Кристина', 'nagiyev': 'Нагиев', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S3.13'
 SOURCE_FILE = 'sources/kukhnya/s03/e13.ru.srt'
 INTRO = "Once Vika leaves, Kristina emerges from the closet asking why Vika was there, while Nagiyev furiously triesChef Barinov's meditation mantra to keep from exploding. Listen to the Russian scene first, and then we will unpack every line."
@@ -27,19 +27,19 @@ STORY = [
     ('kristina', 'Я тоже очень рада тебя видеть, Дима.', 'I am also very glad to see you, Dima.', [(290, 'Я тоже очень рада тебя видеть')], 'adapted'),
     ('kristina', 'Во-первых, у тебя дверь открыта была.', 'First of all, your door was unlocked.', [(291, 'во-первых, у тебя открыто было')], 'adapted'),
     ('kristina', 'А во-вторых, я нашла твои документы.', 'And second of all, I found your documents.', [(291, 'а во-вторых'), (292, 'твои документы')], 'adapted'),
-    ('max', 'Вот твои важные бумаги, держи.', 'Here are your important papers, take them.', [(292, 'вот')], 'adapted'),
+    ('vika', 'Вот твои важные бумаги, держи.', 'Here are your important papers, take them.', [(292, 'вот')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'And what was Vika doing here, I did not understand?\' Asking what Vika doing here she did not understand was is how Kristina puts Max on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (1, None, "'She came to see me about work.' Since she came to see him about work, Nagiyev does not waste words on excuses."),
-    (2, None, "'I am calm, I am completely calm.' Noting that he is calm he is completely calm keeps Nagiyev's side of the story simple and clear."),
-    (3, None, "'I hear the sound of the surf, nothing disturbs me.' Even though he hears the sound of the surf nothing disturbs him, Nagiyev keeps a steady face in front of Kristina."),
-    (4, None, "'Calmness is slowly spreading through me.' Because calmness is slowly spreading through him, Nagiyev treats the matter as settled."),
-    (5, None, '\'Nothing is working except anger!\' Because nothing is working except anger, Nagiyev does not bother softening the blow for Kristina. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.'),
-    (6, None, '\'And why are you getting so angry?\' Asking why Max getting so angry is cuts straight through the tension between Kristina and Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (7, None, "'Because I do not know how to control my emotions!' Once because he does not know how to control his emotions, Nagiyev makes sure Kristina hears every word."),
-    (8, None, '\'I am also very glad to see you, Dima.\' Mentioning that she is also very glad to see Max Dima moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (9, None, '\'First of all, your door was unlocked.\' Kristina explains that first of all Max\'s door was unlocked, keeping her voice calm and direct. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
-    (10, None, "'And second of all, I found your documents.' Realizing that second of all she found Max's documents changes how Kristina handles the situation."),
-    (11, None, '\'Here are your important papers, take them.\' Noting that here are Kristina\'s important papers take them keeps Max\'s side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (0, None, '\'And what was Vika doing here, I did not understand?\' Kristina probes sharply in front of Nagiyev, joining "zdes" ("here") to "delala" ("did") so every word pulls its weight.'),
+    (1, None, '\'She came to see me about work.\' Nagiyev shares a playful rhythm as the scene unfolds, leaning on "rabote" ("work") before closing the thought with "prikhodila" ("to come").'),
+    (2, None, '\'I am calm, I am completely calm.\' Nagiyev sets an emphatic attitude on the spot, combining "spokoyen" ("calm") and "sovershenno" ("quite, completely") so the key meaning lands right away.'),
+    (3, None, '\'I hear the sound of the surf, nothing disturbs me.\' Nagiyev offers a calm approach at once, building the phrase around "slyshu" ("hear") and "shum" ("noise") for a crisp, natural delivery.'),
+    (4, None, '\'Calmness is slowly spreading through me.\' Nagiyev chooses a grounded tempo in the room, combining "spokoystviye" ("calmness, composure") and "medlenno" ("slowly") so the key meaning lands right away.'),
+    (5, None, '\'Nothing is working except anger!\' Nagiyev projects a wry posture in front of Vika, linking "poluchayetsya" ("works out"), "zlosti" ("anger, malice"), and "nichego" ("nothing") in one brisk exchange.'),
+    (6, None, '\'And why are you getting so angry?\' Kristina challenges steadily in their exchange, joining "pochemu" ("why") to "zlishsya" ("to be angry") so every word pulls its weight.'),
+    (7, None, '\'Because I do not know how to control my emotions!\' Nagiyev favors an emphatic footing at once, combining "potomu" ("because") and "umeyu" ("to know how to") so the key meaning lands right away.'),
+    (8, None, '\'I am also very glad to see you, Dima.\' Kristina favors a lively position with Nagiyev, building the phrase around "tozhe" ("too") and "ochen" ("very much") for a crisp, natural delivery.'),
+    (9, None, '\'First of all, your door was unlocked.\' Kristina conveys a thoughtful manner with Vika, joining "vo-pervykh" ("first of all") to "dver" ("door") so every word pulls its weight.'),
+    (10, None, '\'And second of all, I found your documents.\' Kristina holds a steady stance in front of Nagiyev, anchoring the Russian line on "vo-vtorykh" ("second") and "nashla" ("found, did you find") without extra filler.'),
+    (11, None, '\'Here are your important papers, take them.\' Vika brings a wry line straight away, combining "vazhnyye" ("important") and "bumagi" ("papers") so the key meaning lands right away.'),
 ]

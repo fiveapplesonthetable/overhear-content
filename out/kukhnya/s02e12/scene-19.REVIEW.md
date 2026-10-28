@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell him how you feel about him.' Telling him how Vika feels about him moves the conversation forward without extra drama.
-- 'Good morning, Viktor Petrovich!' With the conversation and moment at stake, Vika reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Did you watch the game yesterday?' Asking whether Vika watches the game yesterday cuts straight through the tension between Barinov and Vika. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Very funny.' Over the kitchen and the truth, Vika answers Barinov without a second thought.
-- 'You are making fun of me.' Saying that Vika is making fun of him is how Barinov sets the tone with Vika. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Well, of course, for a long time now.' Between the kitchen and the truth, Vika gives Barinov a quick, grounded response.
-- 'Wait, did you not know?' Checking whether Vika not know cuts straight through the tension between Barinov and Vika.
-- 'Everything is fine already.' Vika mentions that everything is fine already so Barinov sees what is at stake.
-- 'He is just sleeping.' Saying that he is just sleeping is how Barinov sets the tone with Vika.
-- 'How can that be?' By wondering how that be can, Vika presses Barinov for a straight answer.
-- 'Just like that.' Between the shift and the plan, Barinov gives Vika a quick, grounded response.
-- 'All right, enough, that is enough.' Realizing that all right enough that is enough changes how Vika handles the situation.
-- 'Everything is fine with me.' Noting that everything is fine with him keeps Barinov's side of the story simple and clear.
+- 'Tell him how you feel about him.' Barinov shows a serious line during the exchange, putting "rasskazhite" ("tell") alongside "kak" ("how") in a tight, everyday turn of phrase.
+- 'Good morning, Viktor Petrovich!' Vika offers an honest approach as the scene unfolds, weaving "dobroye" ("good") together with "utro" ("morning") just the way native speakers do.
+- 'Did you watch the game yesterday?' Barinov tests steadily across the room, building the phrase around "igru-to" ("game") and "smotreli" ("to look, to watch") for a crisp, natural delivery.
+- 'Very funny.' Vika chooses a warm angle toward Barinov, weaving "ochen" ("very much") together with "smeshno" ("ridiculous") just the way native speakers do.
+- 'You are making fun of me.' Barinov holds a warm tack as the scene unfolds, building the phrase around "izdevayetes" ("are you mocking") and "vy" ("you") for a crisp, natural delivery.
+- 'Well, of course, for a long time now.' Vika chooses a measured mood in this beat, linking "konechno" ("of course"), "davno" ("for a long time"), and "nu" ("oh, come on") in one brisk exchange.
+- 'Wait, did you not know?' Barinov presses evenly for Vika's benefit, building the phrase around "kurse" ("course, regimen") and "vy" ("you") for a crisp, natural delivery.
+- 'Everything is fine already.' Vika favors a candid angle as they talk, anchoring the Russian line on "uzhe" ("already, now") and "normalno" ("fine, OK") without extra filler.
+- 'He is just sleeping.' Barinov favors a firm note with Vika, putting "spit" ("is sleeping") alongside "prosto" ("just") in a tight, everyday turn of phrase.
+- 'How can that be?' Vika presses pointedly across the room, anchoring the Russian line on "kak" ("how") and "eto" ("this") without extra filler.
+- 'Just like that.' Barinov establishes a serious course toward Vika, anchoring the Russian line on "vot" ("there, here") and "tak" ("so") without extra filler.
+- 'All right, enough, that is enough.' Vika keeps a wry course with Barinov, joining "khvatit" ("enough") to "nu" ("oh, come on") so every word pulls its weight.
+- 'Everything is fine with me.' Barinov holds a steady tone as they talk, leaning on "normalno" ("fine, OK") before closing the thought with "vse" ("all").

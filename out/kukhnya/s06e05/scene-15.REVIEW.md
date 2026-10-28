@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'By the way, today I am going to win it back.' Admitting that today he is going to win it back shows Mikhail being honest for a change.
-- 'Maybe you should not play again?' Questioning whether maybe Denis should not play again is how Barinov tests Denis's story.
-- 'No, today is definitely my lucky day.' Once today is definitely his lucky day, Mikhail can finally tell Barinov what he means.
-- 'Chef, please help us in the kitchen.' Noting that Barinov should help them in the kitchen keeps Denis's side of the story simple and clear.
-- 'Fedya ate something bad today.' Denis tells Barinov that Fedya ate something bad today without dressing it up.
-- 'Alright, I understood everything.' Since Alright he understood everything, Barinov does not waste words on excuses.
-- 'That is everyone who left the hotel.' Mentioning that that is everyone who left the hotel moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Dinner and wine were ordered to his room.' Mikhail reminds Barinov that dinner and wine were ordered to his room before the moment passes.
-- 'They definitely have a date coming up there.' Because they definitely have a date coming up there, Denis treats the matter as settled.
-- 'We need to sneak quietly into his room.' Here needing to sneak quietly into his room sets up the next turn in their exchange. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'You can climb in through the neighboring window.' Mikhail mentions that Barinov can climb in through the neighboring window so Barinov sees what is at stake.
-- 'Or simply bring Katya right up there.' With the money and moment in play, Denis keeps this short reply brisk and direct.
+- 'By the way, today I am going to win it back.' Mikhail holds a calm manner without hesitation, weaving "kstati" ("by the way") together with "segodnya" ("today") just the way native speakers do.
+- 'Maybe you should not play again?' Barinov questions steadily in front of Mikhail, joining "mozhet" ("can") to "nado" ("it is necessary") so every word pulls its weight.
+- 'No, today is definitely my lucky day.' Mikhail keeps a pointed course during the exchange, building the phrase around "segodnya" ("today") and "tochno" ("definitely") for a crisp, natural delivery.
+- 'Chef, please help us in the kitchen.' Denis sustains a candid tempo during the exchange, using "pomogite" (from "pomoch", "help") alongside "kukhne" ("kitchen") to shape the meaning.
+- 'Fedya ate something bad today.' Denis keeps a frank stance in the scene, linking "segodnya" ("today"), "syel" ("ate"), and "fedya" ("Fedya") in one brisk exchange.
+- 'Alright, I understood everything.' Barinov adopts a clear footing for Mikhail, anchoring the Russian line on "prekrasno" ("perfectly") and "ponyal" ("understood") without extra filler.
+- 'That is everyone who left the hotel.' Mikhail maintains a sharp direction during the exchange, anchoring the Russian line on "vykhodil" ("walked out") and "otelya" ("of the hotel") without extra filler.
+- 'Dinner and wine were ordered to his room.' Mikhail sustains a steady direction without hesitation, weaving "nomer" ("number") together with "zakazali" ("ordered") just the way native speakers do.
+- 'They definitely have a date coming up there.' Denis adopts a brisk mood as they talk, pairing "namechayetsya" ("is brewing") with "tam" ("there") so the "-sya" ending carries the action.
+- 'We need to sneak quietly into his room.' Denis conveys a natural note in the room, linking "nado" ("it is necessary"), "tikho" ("easy, quiet"), and "probratsya" ("to sneak in") in one brisk exchange.
+- 'You can climb in through the neighboring window.' Mikhail strikes a playful tone during the exchange, leaning on "mozhno" ("may, can") before closing the thought with "zalezt" ("to climb in").
+- 'Or simply bring Katya right up there.' Denis strikes a frank posture in the scene, linking "prosto" ("just"), "tuda" ("there"), and "srazu" ("at once") in one brisk exchange.

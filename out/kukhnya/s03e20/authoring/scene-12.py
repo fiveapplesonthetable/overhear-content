@@ -7,7 +7,7 @@ SCENE = 12
 TITLE = "Скрытая камера и победа Шефа  (The Hidden Camera and the Chef's Victory)"
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'inspector': 'Инспектор', 'max': 'Макс'}
+LABELS = {'barinov': 'Шеф', 'inspector': 'Инспектор', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S3.20'
 SOURCE_FILE = 'sources/kukhnya/s03/e20.ru.srt'
 INTRO = "Lyova brings the disc from the hidden camera in Sergey's hotel bathroom. When the video proves that Sergey is having an affair with Andrey Mikhailovich's wife Olya, Chef Barinov forces Sergey to pack up and leave!"
@@ -20,26 +20,26 @@ STORY = [
     ('barinov', 'А ты сам разве сейчас не ерундой занимаешься?', 'And are you not engaging in nonsense yourself right now?', [(208, 'А ты не ерундой занимаешься')], 'adapted'),
     ('barinov', 'Ты ведь тайно обманываешь своего лучшего друга Андрея!', 'You are secretly deceiving your best friend Andrey!', [(209, 'своему другу')], 'adapted'),
     ('inspector', 'Перестаньте, пожалуйста, и не несите этот полный бред!', 'Stop it, please, and do not talk such utter nonsense!', [(210, 'Не несите бред')], 'adapted'),
-    ('max', 'Шеф, я принёс ваш диск из отеля, но там такое!', 'Chef, I brought your disc from the hotel, but what is on it!', [(211, 'Шеф'), (212, 'Я диск принес, но там')], 'adapted'),
+    ('lyova', 'Шеф, я принёс ваш диск из отеля, но там такое!', 'Chef, I brought your disc from the hotel, but what is on it!', [(211, 'Шеф'), (212, 'Я диск принес, но там')], 'adapted'),
     ('barinov', 'А вот мы сейчас и узнаем, несу я бред или нет!', 'Right now we will find out whether I am talking nonsense or not!', [(213, 'А вот мы сейчас узнаем, несу я бред или нет')], 'adapted'),
     ('barinov', 'Тихо, Лёва, помолчи минуту и смотри на экран!', 'Quiet, Lyova, be silent for a minute and watch the screen!', [(215, 'Тихо, тихо, тихо')], 'adapted'),
-    ('max', 'Серёжа, может, ты всё-таки останешься со мной сегодня?', 'Seryozha, maybe you will stay with me today after all?', [(217, 'останешься')], 'adapted'),
+    ('lyova', 'Серёжа, может, ты всё-таки останешься со мной сегодня?', 'Seryozha, maybe you will stay with me today after all?', [(217, 'останешься')], 'adapted'),
     ('barinov', 'Это не совсем то, что я ожидал, но схема работает!', 'That is not quite what I expected, but the scheme works!', [(218, 'Это, конечно, не совсем то, что я ожидал'), (219, 'но схема работает')], 'adapted'),
-    ('max', 'Подожди, а как же моя потерянная вчера серёжка?', 'Wait, what about the earring I lost yesterday?', [(220, 'А как же Сережка')], 'adapted'),
-    ('max', 'Андрей, положи её к себе, а то я её тоже потеряю!', 'Andrey, put it in your pocket, or I will lose it too!', [(221, 'положи-ка ее к себе, а то я, наверное, ее тоже потеряю')], 'adapted'),
+    ('lyova', 'Подожди, а как же моя потерянная вчера серёжка?', 'Wait, what about the earring I lost yesterday?', [(220, 'А как же Сережка')], 'adapted'),
+    ('lyova', 'Андрей, положи её к себе, а то я её тоже потеряю!', 'Andrey, put it in your pocket, or I will lose it too!', [(221, 'положи-ка ее к себе, а то я, наверное, ее тоже потеряю')], 'adapted'),
     ('barinov', 'Ну что, Сергей Владимирович, пиши заявление об уходе!', 'Well, Sergey Vladimirovich, write your letter of resignation!', [(219, 'схема работает')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'You seem like a grown man, yet you engage in such nonsense.\' The inspector mentions that Barinov seems like a grown man yet Barinov engage in such nonsense so Barinov sees what is at stake. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (1, None, "'And are you not engaging in nonsense yourself right now?' Here asking whether the inspector not engaging in nonsense themselves right now shows Barinov looking for the real truth."),
-    (2, None, '\'You are secretly deceiving your best friend Andrey!\' Declaring that the inspector is secretly deceiving the inspector\'s best friend Andrey brings Barinov\'s temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (3, None, "'Stop it, please, and do not talk such utter nonsense!' Here stopping it please and do not talk such utter nonsense lets the inspector's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (4, None, "'Chef, I brought your disc from the hotel, but what is on it!' Saying that he brought Barinov's disc from the hotel but what is on it is how Max takes charge of the moment."),
-    (5, None, "'Right now we will find out whether I am talking nonsense or not!' Barinov declares that right now they will find out whether he is talking nonsense or not as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (6, None, "'Quiet, Lyova, be silent for a minute and watch the screen!' Over the moment and the hotel, Barinov lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (7, None, "'Seryozha, maybe you will stay with me today after all?' Questioning whether someone maybe Barinov will stay with him today after all is how Max tests Barinov's story."),
-    (8, None, '\'That is not quite what I expected, but the scheme works!\' Once that is not quite what he expected but the scheme works, Barinov makes sure the inspector hears every word. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (9, None, '\'Wait, what about the earring I lost yesterday?\' Max asks whether what about the earring he lost yesterday, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (10, None, "'Andrey, put it in your pocket, or I will lose it too!' Max insists that Andrey put it in Barinov's pocket or he will lose it, leaving Barinov no room to argue."),
-    (11, None, "'Well, Sergey Vladimirovich, write your letter of resignation!' Over the conversation and the hotel, Barinov lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (0, None, '\'You seem like a grown man, yet you engage in such nonsense.\' The inspector shares an emphatic approach during the exchange, anchoring the Russian line on "vzroslyy" ("grown-up, adult") and "chelovek" ("a man, a person") without extra filler.'),
+    (1, None, '\'And are you not engaging in nonsense yourself right now?\' Barinov checks evenly in the room, leaning on "seychas" ("now") before closing the thought with "yerundoy" ("nonsense").'),
+    (2, None, '\'You are secretly deceiving your best friend Andrey!\' Barinov keeps a playful tempo in the room, joining "tayno" ("secretly") to "obmanyvayesh" ("are deceiving") so every word pulls its weight.'),
+    (3, None, '\'Stop it, please, and do not talk such utter nonsense!\' The inspector establishes a candid tack toward Lyova, putting "perestante" ("stop it") alongside "nesite" ("bring") in a tight, everyday turn of phrase.'),
+    (4, None, '\'Chef, I brought your disc from the hotel, but what is on it!\' Lyova takes a candid bearing right away, combining "prinyos" ("brought") and "disk" ("CD, disc") so the key meaning lands right away.'),
+    (5, None, '\'Right now we will find out whether I am talking nonsense or not!\' Barinov favors a warm rhythm right away, building the phrase around "seychas" ("now") and "uznayem" ("will find out") for a crisp, natural delivery.'),
+    (6, None, '\'Quiet, Lyova, be silent for a minute and watch the screen!\' Barinov shares a frank position in their talk, putting "tikho" ("easy, quiet") alongside "pomolchi" ("to be quiet") in a tight, everyday turn of phrase.'),
+    (7, None, '\'Seryozha, maybe you will stay with me today after all?\' Lyova asks earnestly without a pause, leaning on "mozhet" ("can") before closing the thought with "ostaneshsya" ("will stay").'),
+    (8, None, '\'That is not quite what I expected, but the scheme works!\' Barinov shares a lively posture during the exchange, putting "sovsem" ("at all") alongside "ozhidal" ("expected") in a tight, everyday turn of phrase.'),
+    (9, None, '\'Wait, what about the earring I lost yesterday?\' Lyova checks decisively with the inspector now, combining "podozhdi" ("wait") and "kak" ("how") so the key meaning lands right away.'),
+    (10, None, '\'Andrey, put it in your pocket, or I will lose it too!\' Lyova establishes a warm rhythm as the scene unfolds, pairing "polozhi" ("put, place") with "tozhe" ("too") to get the point across in plain spoken Russian.'),
+    (11, None, '\'Well, Sergey Vladimirovich, write your letter of resignation!\' Barinov offers a serious line in front of Lyova, joining "pishi" ("write") to "zayavleniye" ("statement") so every word pulls its weight.'),
 ]

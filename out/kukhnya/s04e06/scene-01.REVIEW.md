@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A woman always had to maintain order in the house.' Adding that a woman always had to maintain order in the house fills in the missing piece for Denis.
-- 'And a man had to guard this house.' Max tells Denis that a man had to guard this house without dressing it up.
-- 'Since then almost nothing has changed.' Since since then almost nothing has changed, Max does not waste words on excuses. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Max, who is that arriving so late?' Wondering who that arriving so late is is how Vika puts Denis on the spot.
-- 'That is a courier from the store.' Saying that that is a courier from the store is how Max sets the tone with Denis. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'A comfortable grip and a very good camera!' With the conversation and money at stake, Denis reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Max, tell me, what do you need this rifle for?' Asking whether tell her what do Denis needs this rifle puts Denis right on the defensive.
-- 'What are you, still a tiny child?' Asking what Denis still a tiny child is is how Vika puts Denis on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Do not call me a little child.' Claiming that do not call him a little child sounds confident, even if Denis has doubts.
-- 'I am an adult and I decide everything myself.' Realizing that he is an adult and he decides everything himself changes how Max handles the situation.
-- 'Vika, could you chip in a little?' Asking whether Denis chip in a little cuts straight through the tension between Max and Denis. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Otherwise I do not have quite enough money.' Realizing that otherwise he does not have quite enough money changes how Max handles the situation.
+- 'A woman always had to maintain order in the house.' Max establishes an easygoing bearing in front of Denis, leaning on "zhenshchina" ("woman") before closing the thought with "vsegda" ("always").
+- 'And a man had to guard this house.' Max brings a measured stance in their talk, building the phrase around "muzhchina" ("man") and "dolzhen" ("has to, must") for a crisp, natural delivery.
+- 'Since then almost nothing has changed.' Max takes a lively posture without hesitation, using "por" (from "pora", "time") alongside "pochti" ("almost") to shape the meaning.
+- 'Max, who is that arriving so late?' Vika asks warmly in this moment, leaning on "prishyol" ("came, have come") before closing the thought with "pozdno" ("too late, late").
+- 'That is a courier from the store.' Max shares an earnest style on the spot, leaning on "priyekhal" ("came") before closing the thought with "kuryer" ("courier, errand boy").
+- 'A comfortable grip and a very good camera!' Denis conveys a warm tone as they talk, building the phrase around "udobnaya" ("comfortable") and "ruchka" ("handle") for a crisp, natural delivery.
+- 'Max, tell me, what do you need this rifle for?' Vika questions directly across the room, anchoring the Russian line on "skazhi" ("say") and "zachem" ("what for") without extra filler.
+- 'What are you, still a tiny child?' Vika tests candidly toward Max here, building the phrase around "yeshchyo" ("more, still") and "sovsem" ("at all") for a crisp, natural delivery.
+- 'Do not call me a little child.' Max strikes a direct manner on the spot, linking "nazyvay" ("name, call"), "malenkim" ("small, little"), and "rebyonkom" ("child") in one brisk exchange.
+- 'I am an adult and I decide everything myself.' Max sustains a sharp tempo across the room, combining "vzroslyy" ("grown-up, adult") and "chelovek" ("a man, a person") so the key meaning lands right away.
+- 'Vika, could you chip in a little?' Max checks plainly to Denis here, weaving "mogla" ("could") together with "dobavit" ("to add") just the way native speakers do.
+- 'Otherwise I do not have quite enough money.' Max chooses a wry angle for Vika, joining "nemnogo" ("a bit") to "deneg" ("money") so every word pulls its weight.

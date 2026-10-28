@@ -16,7 +16,7 @@ TRANSITION = "Now let's put it all back together and hear the whole scene again.
 OUTRO = 'That wraps up this scene as to make Nastya and Sasha stop fighting, Max convinces Kostya to stage a loud argument and fistfight between the two of them right in front of the girls. See you next time!'
 CLOSING = ('max', 'До свидания!')
 STORY = [
-    ('kostya', 'Костян, у меня есть еще одна идея.', 'Kostyan, I have one more idea.', [(264, 'Костян, у меня есть еще одна идея')], ''),
+    ('max', 'Костян, у меня есть еще одна идея.', 'Kostyan, I have one more idea.', [(264, 'Костян, у меня есть еще одна идея')], ''),
     ('max', 'Нет, уж, знаешь, хватит с меня твоих идей.', 'No way, I have had quite enough of your ideas.', [(265, 'Нет, уж, знаешь, хватит с меня твоих идей')], ''),
     ('kostya', 'Нормально? Ты что?', 'Are you okay with that? What is wrong with you?', [(267, 'Нормально? Ты что')], ''),
     ('max', 'Конечно, кого еще?', 'Of course, who else?', [(268, 'Конечно, кого еще')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Да вас нужно опять вернуть в палату.', 'We need to take you right back to your ward.', [(282, 'Да вас нужно опять вернуть в палату')], ''),
 ]
 WALK = [
-    (0, None, "'Kostyan, I have one more idea.' Kostya reminds Max that someone he has one more idea before the moment passes."),
-    (1, None, "'No way, I have had quite enough of your ideas.' Because way he has had quite enough of Kostya's ideas, Max treats the matter as settled."),
-    (2, None, '\'Are you okay with that? What is wrong with you?\' Checking whether Max okay cuts straight through the tension between Kostya and Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (3, None, "'Of course, who else?' With the kitchen and conversation hanging in the air, Max puts Kostya on the spot."),
-    (4, None, '\'Why do you not keep an eye on your own woman?\' Here asking why Max not keep an eye on Max\'s own woman shows Kostya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (5, None, '\'What did you not understand?\' By wondering what Kostya not understand, Max presses Kostya for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (6, None, "'Maybe we should step outside?' Asking whether maybe they should step outside puts Max right on the defensive."),
-    (7, None, "'Before the guests run off to the restaurant next door.' Over the problem and the moment, Max answers Kostya without a second thought."),
-    (8, None, '\'Tell me, are you not ashamed of yourselves?\' When Kostya asks if tell him are Max not ashamed of yourselves, Max has to answer fast. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (9, None, "'Oh, excuse me, that was an accident.' Even though that was an accident, Max keeps a steady face in front of Kostya."),
-    (10, None, "'I was just...' Admitting that he was just shows Kostya being honest for a change."),
-    (11, None, '\'A second time, really?\' Over the moment and the problem, Max presses Kostya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (12, None, "'We need to take you right back to your ward.' Here needing to take Max right back to Max's ward sets up the next turn in their exchange."),
+    (0, None, '\'Kostyan, I have one more idea.\' Max maintains a thoughtful posture in this beat, using the everyday "u menya" ("by me") alongside "yest" ("there is") to show what belongs to the speaker.'),
+    (1, None, '\'No way, I have had quite enough of your ideas.\' Max picks an earnest posture at this moment, anchoring the Russian line on "znayesh" ("know") and "khvatit" ("enough") without extra filler.'),
+    (2, None, '\'Are you okay with that? What is wrong with you?\' Kostya wonders promptly as they speak, leaning on "normalno" ("fine, OK") before closing the thought with "ty" ("you").'),
+    (3, None, '\'Of course, who else?\' Max queries warmly from the start, putting "konechno" ("of course") alongside "yeshche" ("still") in a tight, everyday turn of phrase.'),
+    (4, None, '\'Why do you not keep an eye on your own woman?\' Kostya questions plainly to keep things clear, leaning on "baboy" ("grandma, country woman") before closing the thought with "sledi" ("watch, look after").'),
+    (5, None, '\'What did you not understand?\' Max challenges wryly without hesitation, linking "ponyal" ("understood"), "chego" ("what"), and "ty" ("you") in one brisk exchange.'),
+    (6, None, '\'Maybe we should step outside?\' Kostya tests steadily in the room, building the phrase around "mozhet" ("can") and "vyydem" ("to go out, to get out") for a crisp, natural delivery.'),
+    (7, None, '\'Before the guests run off to the restaurant next door.\' Max offers a sharp rhythm at once, linking "poka" ("bye"), "gosti" ("visitors, guests"), and "sosedniy" ("neighboring") in one brisk exchange.'),
+    (8, None, '\'Tell me, are you not ashamed of yourselves?\' Kostya inquires candidly to keep things clear, building the phrase around "skazhite" ("tell") and "stydno" ("shameful") for a crisp, natural delivery.'),
+    (9, None, '\'Oh, excuse me, that was an accident.\' Max presents a clear stance as the scene unfolds, leaning on "izvinite" ("sorry, excuse me") before closing the thought with "sluchayno" ("by any chance").'),
+    (10, None, '\'I was just...\' Kostya holds a sharp note in the room, putting "prosto" ("just") alongside "ya" ("I") in a tight, everyday turn of phrase.'),
+    (11, None, '\'A second time, really?\' Max queries quietly without hesitation, building the phrase around "vtoroy" ("second") and "raz" ("time, once") for a crisp, natural delivery.'),
+    (12, None, '\'We need to take you right back to your ward.\' Kostya takes a wry tack straight away, anchoring the Russian line on "nuzhno" ("necessary") and "opyat" ("again") without extra filler.'),
 ]

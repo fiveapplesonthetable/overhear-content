@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you still here?' Checking whether Nagiyev still here cuts straight through the tension between Kostya and Nagiyev. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You have a big mouth.' Since Kostya has a big mouth, Nagiyev does not waste words on excuses.
-- 'Watch out or I will spill it on you next.' Telling Nagiyev to watch out or he will spill it on Nagiyev next is how Kostya lays out the situation for Nagiyev.
-- 'What did you just do?' By wondering what Kostya just do, Nagiyev presses Kostya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What are you doing?' Here asking what Nagiyev doing is shows Kostya looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I am about to teach you a painful lesson.' Nagiyev explains that he is about to teach Kostya a painful lesson, keeping his voice calm and direct.
-- 'Let go of him, what are you doing?' Questioning whether let go of him what are Nagiyev doing is how Kostya tests Nagiyev's story. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Dima, what is going on?' By asking what going is, Nagiyev presses Kostya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'That is my son!' Kostya asks whether that is his son, refusing to let the point slide.
-- 'Watch your language, kid.' Telling Kostya to watch Kostya's language kid moves the conversation forward without extra drama. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'He nearly ruined my suit!' Turning from the suit to the conversation, Kostya asks Nagiyev directly. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Now he has to dine here for a year.' Having to dine here for a year is how Nagiyev lays out the situation for Kostya.
-- 'Please excuse us.' Adding that Nagiyev should excuse them fills in the missing piece for Nagiyev.
+- 'Are you still here?' Kostya asks dryly in the room, leaning on "zdes" ("here") before closing the thought with "yeshche" ("still").
+- 'You have a big mouth.' Nagiyev maintains a firm tack as the scene unfolds, anchoring the Russian line on "yazyk" ("language, tongue") and "dlinnyy" ("long") without extra filler.
+- 'Watch out or I will spill it on you next.' Kostya offers a direct direction at once, weaving "potom" ("then") together with "oy" ("oh") just the way native speakers do.
+- 'What did you just do?' Nagiyev inquires briskly in the room, anchoring the Russian line on "ty" ("you") and "chto" ("what") without extra filler.
+- 'What are you doing?' Kostya checks steadily beside Nagiyev, leaning on "delayete" ("are doing") before closing the thought with "chto" ("what").
+- 'I am about to teach you a painful lesson.' Nagiyev holds a grounded tempo for Kostya, leaning on "seychas" ("now") before closing the thought with "dam" ("will give").
+- 'Let go of him, what are you doing?' Kostya quizzes openly across the room, linking "otpustite" ("let go, release"), "delayete" ("are doing"), and "vy" ("you") in one brisk exchange.
+- 'Dima, what is going on?' Nagiyev presses frankly with Kostya now, pairing "dim" ("Dima") with "ty" ("you") to get the point across in plain spoken Russian.
+- 'That is my son!' Kostya queries plainly in the scene, placing "syn" ("son") straight beside "moy" ("my") with no word for "to be" needed.
+- 'Watch your language, kid.' Nagiyev picks a natural mood in their talk, putting "sledi" ("watch, look after") alongside "vyrazheniyami" ("expression") in a tight, everyday turn of phrase.
+- 'He nearly ruined my suit!' Kostya queries wryly without a pause, building the phrase around "chut" ("almost, nearly") and "kostyum" ("suit") for a crisp, natural delivery.
+- 'Now he has to dine here for a year.' Nagiyev presents a serious bearing in their talk, pairing "teper" ("now") with "god" ("year") to get the point across in plain spoken Russian.
+- 'Please excuse us.' Kostya sustains a pointed tempo toward Nagiyev, putting "izvinite" ("sorry, excuse me") alongside "pozhaluysta" ("please") in a tight, everyday turn of phrase.

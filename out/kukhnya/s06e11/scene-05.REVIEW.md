@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Гость | Где же мы теперь этого водителя найдём? | Where will we find that driver now? | #95: Где его теперь найдешь | adapted: adapted |
 | 5 | Гость | Ничего, завтра мне сделают новую карточку. | It is fine, tomorrow they will make me a new card. | #96: Ну ничего, не сегодня, а завтра<br>#97: Мне сделают новую карточку | adapted: adapted |
 | 6 | Гость | И тогда я сразу с тобой полностью рассчитаюсь. | And then I will immediately settle up with you in full. | #97: и я с тобой рассчитаюсь | adapted: adapted |
-| 7 | Шеф | Ладно, жду, только на кухне зови меня Виктор Петрович. | Alright, I am waiting, just call me Viktor Petrovich in the kitchen. | #98: Ладно, жду<br>#99: Для тебя я Виктор Петрович, а не Зюзя | adapted: adapted |
+| 7 | Лёва | Ладно, жду, только на кухне зови меня Виктор Петрович. | Alright, I am waiting, just call me Viktor Petrovich in the kitchen. | #98: Ладно, жду<br>#99: Для тебя я Виктор Петрович, а не Зюзя | adapted: adapted |
 | 8 | Лёва | Виктор Петрович, нам сейчас свежий изюм привезли. | Viktor Petrovich, they just delivered fresh raisins to us. | #100: Виктор Петрович<br>#101: Изюм привезли | adapted: adapted |
 | 9 | Лёва | Только мы просили обычный, а Тимур привёз кишмиш. | Only we asked for regular ones, and Timur brought seedless grapes. | #102: Только мы просили обычный, а Тимур привез | adapted: adapted |
 | 10 | Лёва | И он совсем не хочет меня там слушать. | And he does not want to listen to me there at all. | #103: И не хочет меня слушать | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Can you imagine, I rode in a taxi and forgot my suitcase.' The guest mentions that can Barinov imagines he rode in a taxi and forgot his suitcase so Barinov sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Then let us call that company right now.' Adding that they should call that company right now fills in the missing piece for the guest. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'I just flagged down the first car on the street.' With the conversation and problem in play, the guest keeps this short reply brisk and direct.
-- 'Where will we find that driver now?' Wondering where they find that driver now will cuts straight through the tension between the guest and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It is fine, tomorrow they will make me a new card.' Realizing that it is fine tomorrow they will make him a new card changes how the guest handles the situation.
-- 'And then I will immediately settle up with you in full.' Noting that he will immediately settle up with Barinov in full keeps the guest's side of the story simple and clear.
-- 'Alright, I am waiting, just call me Viktor Petrovich in the kitchen.' Even though Alright he is waiting just call him Viktor Petrovich in the kitchen, Barinov keeps a steady face in front of the guest.
-- 'Viktor Petrovich, they just delivered fresh raisins to us.' Over the conversation and the problem, Lyova answers Barinov without a second thought.
-- 'Only we asked for regular ones, and Timur brought seedless grapes.' Saying that only they asked for regular ones and Timur brought seedless grapes is how Lyova sets the tone with Barinov.
-- 'And he does not want to listen to me there at all.' Over the work and the problem, Lyova answers Barinov without a second thought.
-- 'Alright, it is time for me to go and work with the groceries.' Adding that Alright it is time for him to go and work with the groceries fills in the missing piece for the guest. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Of course I understand, if anything comes up, I am in my room.' Since he understands if anything comes up he is in his room, the guest does not waste words on excuses.
+- 'Can you imagine, I rode in a taxi and forgot my suitcase.' The guest adopts a steady footing with Barinov, combining "predstavlyayesh" ("can you imagine") and "yekhal" ("to go, to drive") so the key meaning lands right away.
+- 'Then let us call that company right now.' Barinov presents a sharp style straight away, joining "davay" ("let's") to "pryamo" ("right, just") so every word pulls its weight.
+- 'I just flagged down the first car on the street.' The guest sustains a direct line at this moment, linking "prosto" ("just"), "pervuyu" ("first"), and "mashinu" ("car") in one brisk exchange.
+- 'Where will we find that driver now?' The guest inquires evenly in front of Lyova, putting "gde" ("where") alongside "teper" ("now") in a tight, everyday turn of phrase.
+- 'It is fine, tomorrow they will make me a new card.' The guest takes a firm view without hesitation, leaning on "zavtra" ("tomorrow") before closing the thought with "sdelayut" ("will make, do").
+- 'And then I will immediately settle up with you in full.' The guest strikes a wry style in this beat, linking "togda" ("back then"), "srazu" ("at once"), and "polnostyu" ("completely") in one brisk exchange.
+- 'Alright, I am waiting, just call me Viktor Petrovich in the kitchen.' Lyova chooses a lively footing without hesitation, combining "zhdu" ("I wait, expect") and "tolko" ("only") so the key meaning lands right away.
+- 'Viktor Petrovich, they just delivered fresh raisins to us.' Lyova chooses an honest angle with the guest, combining "seychas" ("now") and "svezhiy" ("fresh") so the key meaning lands right away.
+- 'Only we asked for regular ones, and Timur brought seedless grapes.' Lyova conveys a playful tempo across the room, building the phrase around "tolko" ("only") and "prosili" ("asked, requested") for a crisp, natural delivery.
+- 'And he does not want to listen to me there at all.' Lyova presents an emphatic bearing with the guest, combining the intensifier "sovsem" ("completely, at all") with "khochet" ("wants") to give the line its natural spoken rhythm.
+- 'Alright, it is time for me to go and work with the groceries.' Barinov establishes an unhurried attitude in the room, anchoring the Russian line on "pora" ("it's time") and "idti" ("to go") without extra filler.
+- 'Of course I understand, if anything comes up, I am in my room.' The guest holds a pointed tone as they talk, leaning on "konechno" ("of course") before closing the thought with "ponimayu" ("understand").

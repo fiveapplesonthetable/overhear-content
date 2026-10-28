@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, that is what he said.' Noting that that is what he said keeps Max's side of the story simple and clear.
-- 'He would have been joking.' Even though he would have been joking, Barinov keeps a steady face in front of Max.
-- 'Come on, do you guys not know the Chef?' Timur asks whether come on do Barinov guys not know the Chef, refusing to let the point slide. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'What, you do not believe me, right?' Asking whether what Barinov does not believe him right puts Barinov right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Let us follow him and see.' Proposing that they follow him and see moves the conversation forward without extra drama.
-- 'Max, the Chef is calling for you urgently.' Adding that the Chef is calling for Barinov urgently fills in the missing piece for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well, yes.' Over the conversation and the point, Max answers Barinov without a second thought.
-- 'What amazing partridges I set aside.' Since what amazing partridges he sets aside, Barinov does not waste words on excuses.
-- 'You cannot even imagine.' Mentioning that Barinov cannot even imagine moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Timur, I need something very special.' Explaining that he needs something very special lays the cards on the table for Barinov. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Come on, you know me.' Because Max should come on Max knows him, Barinov treats the matter as settled.
-- 'I can bring you anything at all.' Explaining that he can bring Barinov anything at all lays the cards on the table for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No, this time I need it right now.' Max mentions that this time he needs it right now so Barinov sees what is at stake. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Well, that is what he said.' Max brings a brisk style in their talk, combining "skazal" ("said") and "tak" ("so") so the key meaning lands right away.
+- 'He would have been joking.' Barinov takes an easygoing stance toward Timur, using "poshutil" (from "poshutit", "to joke") alongside "on" ("he") to shape the meaning.
+- 'Come on, do you guys not know the Chef?' Timur probes sharply in the scene, combining "shefa" ("chef") and "znayete" ("know") so the key meaning lands right away.
+- 'What, you do not believe me, right?' Max checks boldly in front of Timur, anchoring the Russian line on "verte" ("to believe") and "chto" ("what") without extra filler.
+- 'Let us follow him and see.' Barinov takes an unhurried style on the spot, joining "davayte" ("let's") to "prosledim" ("will keep an eye on it") so every word pulls its weight.
+- 'Max, the Chef is calling for you urgently.' Timur brings an easygoing course in the conversation, leaning on "shefu" ("chef") before closing the thought with "srochno" ("urgent, urgently").
+- 'Well, yes.' Max conveys a brisk tone across the room, leaning on "nu" ("oh, come on") before closing the thought with "da" ("yes").
+- 'What amazing partridges I set aside.' Barinov chooses a thoughtful line at once, putting "kuropatok" ("partridge") alongside "ostavil" ("left") in a tight, everyday turn of phrase.
+- 'You cannot even imagine.' Timur projects an honest position straight away, linking "predstavlyayesh" ("can you imagine"), "ty" ("you"), and "ne" ("not") in one brisk exchange.
+- 'Timur, I need something very special.' Max sustains a warm tack on the spot, putting "nuzhno" ("necessary") alongside "osobennoye" ("special, particular") in a tight, everyday turn of phrase.
+- 'Come on, you know me.' Barinov strikes a serious direction in front of Max, using "znayesh" (from "znat", "know") alongside "nu" ("oh, come on") to shape the meaning.
+- 'I can bring you anything at all.' Timur keeps a natural approach at this moment, linking "mogu" ("can"), "privezti" ("to bring"), and "ya" ("I") in one brisk exchange.
+- 'No, this time I need it right now.' Max conveys a sharp style right away, leaning on "teper" ("now") before closing the thought with "nado" ("it is necessary").

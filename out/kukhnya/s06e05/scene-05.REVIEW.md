@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you want to see me right now?' By checking whether Eleonora wants to see him right now, Barinov presses Eleonora for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Have a seat with us at the table.' Saying that have a seat with them at the table is how Eleonora sets the tone with Barinov.
-- 'Is he going to interrupt the whole time?' Checking whether he going to interrupt the whole time is how Barinov puts Eleonora on the spot.
-- 'Vitya, we want to be partners.' Here wanting to be partners sets up the next turn in their exchange.
-- 'Do not celebrate too early, my friend.' Saying that do not celebrate too early is how Nagiyev sets the tone with Barinov.
-- 'We are offering you to become co-owner of the restaurant.' Since they are offering Barinov to become owner of the restaurant, Eleonora does not waste words on excuses.
-- 'I believe that you have grown ready for this.' Explaining that she believes that Barinov has grown ready for this lays the cards on the table for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Our terms will be equal.' Eleonora reminds Barinov that their terms will be equal before the moment passes. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Half of the restaurant is yours, half is mine.' Because half of the restaurant is Barinov's half is, Eleonora treats the matter as settled.
-- 'More precisely, half of the restaurant is ours.' Explaining that more precisely half of the restaurant is lays the cards on the table for Barinov.
-- 'In time I will bring you up to speed.' Eleonora mentions that in time she will bring Barinov up to speed so Barinov sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Right now we only need an answer from you.' With the surprise and hotel in play, Eleonora keeps this short reply brisk and direct.
+- 'Did you want to see me right now?' Barinov wonders bluntly during the talk, anchoring the Russian line on "khotela" ("wanted, meant") and "seychas" ("now") without extra filler.
+- 'Have a seat with us at the table.' Eleonora shows a brisk approach in this beat, anchoring the Russian line on "prisazhivaysya" ("to take a seat") and "stol" ("table") without extra filler.
+- 'Is he going to interrupt the whole time?' Barinov quizzes openly from the start, linking "vremya" ("time"), "budet" ("will be"), and "vstrevat" ("to butt in") in one brisk exchange.
+- 'Vitya, we want to be partners.' Eleonora takes a grounded rhythm in the room, joining "khotim" ("want") to "byt" ("be") so every word pulls its weight.
+- 'Do not celebrate too early, my friend.' Nagiyev takes an honest position at once, putting "raduysya" ("rejoice, celebrate") alongside "ranshe" ("earlier, previously") in a tight, everyday turn of phrase.
+- 'We are offering you to become co-owner of the restaurant.' Eleonora sustains a thoughtful footing with Nagiyev, building the phrase around "predlagayem" ("offer") and "stat" ("to become") for a crisp, natural delivery.
+- 'I believe that you have grown ready for this.' Eleonora adopts a firm note in their talk, building the phrase around "schitayu" ("am counting") and "doros" ("grew up to") for a crisp, natural delivery.
+- 'Our terms will be equal.' Eleonora strikes a serious approach as they talk, leaning on "u nas" ("by us, at our place") and "usloviya" ("conditions") the way natural Russian does.
+- 'Half of the restaurant is yours, half is mine.' Eleonora brings a lively note right away, pairing "polovina" ("half") with "restorana" ("restaurant") to get the point across in plain spoken Russian.
+- 'More precisely, half of the restaurant is ours.' Nagiyev strikes a playful attitude in the conversation, joining "tochneye" ("definitely") to "skazat" ("tell") so every word pulls its weight.
+- 'In time I will bring you up to speed.' Eleonora holds a calm tone in this beat, weaving "vremenem" ("time") together with "vvedu" ("will bring into") just the way native speakers do.
+- 'Right now we only need an answer from you.' Eleonora favors an emphatic direction on the spot, building the phrase around "seychas" ("now") and "nuzhen" ("is needed") for a crisp, natural delivery.

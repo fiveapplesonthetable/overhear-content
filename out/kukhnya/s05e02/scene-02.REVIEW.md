@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will eat at work today.' Saying that he will eat at work today is how Senya sets the tone with Barinov.
-- 'Livelier, livelier, let's work!' Declaring that livelier livelier let them work brings Barinov's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Come on, wake up faster.' Because Mikhail should come on wake up faster, Barinov treats the matter as settled.
-- 'A bit faster, well, where is our bacon?' Asking whether a bit faster well where is their bacon puts Mikhail right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We are frying, frying our bacon.' Claiming that they are frying frying their bacon sounds confident, even if Barinov has doubts.
-- 'Wake up everyone, morning has already arrived.' Because Mikhail should wake up everyone morning has already arrived, Barinov treats the matter as settled.
-- 'What did you lose in my kitchen?' By wondering what Mikhail loses in his kitchen, Barinov presses Mikhail for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I am doing your job for you.' Realizing that he is doing Barinov's job for Barinov changes how Mikhail handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Who is this secret guest?' Wondering who this secret guest is is how Barinov puts Mikhail on the spot.
-- 'It is a method of inspection in a hotel.' Even though it is a method of inspection in a hotel, Mikhail keeps a steady face in front of Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'The inspector stays here like an ordinary guest.' Admitting that the inspector stays here like an ordinary guest shows Mikhail being honest for a change.
-- 'He inspects the work of all hotel departments.' With the morning and secret in play, Mikhail keeps this short reply brisk and direct.
+- 'I will eat at work today.' Senya conveys a playful view right away, putting "segodnya" ("today") alongside "rabote" ("work") in a tight, everyday turn of phrase.
+- 'Livelier, livelier, let's work!' Barinov shows a calm stance in the room, anchoring the Russian line on "zhiveye" ("faster, more lively") and "rabotayem" ("we work, let's work") without extra filler.
+- 'Come on, wake up faster.' Barinov conveys a brisk approach on the spot, pairing "davayte" ("let's") with "bystreye" ("faster") to get the point across in plain spoken Russian.
+- 'A bit faster, well, where is our bacon?' Barinov checks boldly during the talk, leaning on "pobystreye" ("faster, more quickly") before closing the thought with "gde" ("where").
+- 'We are frying, frying our bacon.' Senya offers a firm approach right away, weaving "zharim" ("we fry") together with "bekon" ("bacon") just the way native speakers do.
+- 'Wake up everyone, morning has already arrived.' Barinov takes an earnest course in front of Senya, anchoring the Russian line on "prosnulis" ("woke up") and "utro" ("morning") without extra filler.
+- 'What did you lose in my kitchen?' Barinov tests evenly with Mikhail now, pairing "zabyl" ("forgot") with "kukhne" ("kitchen") to get the point across in plain spoken Russian.
+- 'I am doing your job for you.' Mikhail favors a steady tone without hesitation, using "delayu" (from "delat", "I make") alongside "rabotu" ("job") to shape the meaning.
+- 'Who is this secret guest?' Barinov prompts boldly right away, combining "taynyy" ("secret, undercover") and "gost" ("guest") so the key meaning lands right away.
+- 'It is a method of inspection in a hotel.' Mikhail picks an emphatic rhythm with Senya, leaning on "sposob" ("a way, a method") before closing the thought with "proverki" ("check, inspection").
+- 'The inspector stays here like an ordinary guest.' Mikhail offers an emphatic note at once, joining "proveryayushchiy" ("inspector") to "zhivyot" ("lives") so every word pulls its weight.
+- 'He inspects the work of all hotel departments.' Mikhail projects a serious angle toward Senya, linking "proveryayet" ("is testing"), "rabotu" ("job"), and "sluzhb" ("of services") in one brisk exchange.

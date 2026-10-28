@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How you scared us all!' With the conversation and kitchen at stake, Nagiyev reacts without holding back. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'How is he, doctor?' Here wondering how he doctor is shows Nagiyev looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Possibly a fracture, but an X-ray is needed to make sure.' The doctor mentions that possibly a fracture but an is needed to make sure so Nagiyev sees what is at stake.
-- 'Tomorrow first thing in the morning go for an X-ray.' Around the truth and situation, Nagiyev sets a calm, everyday tone with the doctor.
-- 'What do you mean, he needs to be taken to the hospital right now.' Pointing out that what do Nagiyev means he needs to be taken to the hospital right now gives Nagiyev a sobering reality check. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Let's hold a casting call tomorrow morning.' Holding a casting call tomorrow morning together is how the doctor lays out the situation for Nagiyev.
-- 'And tomorrow we will film with a new actor.' Realizing that tomorrow they will film with a new actor changes how the doctor handles the situation.
-- 'At home I just have a swimming pool, not a very big one.' Noting that at home he just has a swimming pool not a very big one keeps Nagiyev's side of the story simple and clear. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Well what do you suggest, you are the director!' Because what do the doctor suggests the doctor is the director, Nagiyev does not bother softening the blow for the doctor.
-- 'Listen, what about that guy with the mustache?' Around the work and situation, the doctor wants to know where Nagiyev really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You said yourself that you do not like working with animals.' Saying that the doctor said themselves that the doctor does not like working with animals is how Nagiyev sets the tone with the doctor. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'There is such chemistry between you two, let's try.' Once there is such chemistry between Nagiyev two let them try, the doctor can finally tell Nagiyev what he means.
+- 'How you scared us all!' Nagiyev projects a lively tone straight away, pairing "kak" ("how") with "napugal" ("scared, did you scare") to get the point across in plain spoken Russian.
+- 'How is he, doctor?' Nagiyev probes lightly right away, weaving "kak" ("how") together with "doktor" ("Doctor") just the way native speakers do.
+- 'Possibly a fracture, but an X-ray is needed to make sure.' The doctor sets a sharp position at this moment, anchoring the Russian line on "vozmozhno" ("perhaps, possible") and "perelom" ("fracture") without extra filler.
+- 'Tomorrow first thing in the morning go for an X-ray.' Nagiyev strikes a firm footing on the spot, putting "zavtra" ("tomorrow") alongside "utra" ("morning") in a tight, everyday turn of phrase.
+- 'What do you mean, he needs to be taken to the hospital right now.' The doctor displays a grounded attitude without hesitation, putting "seychas" ("now") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.
+- 'Let's hold a casting call tomorrow morning.' The doctor maintains a natural posture right away, using "davay" (from "davat", "let's") alongside "zavtra" ("tomorrow") to shape the meaning.
+- 'And tomorrow we will film with a new actor.' The doctor shows a calm bearing during the exchange, pairing "zavtra" ("tomorrow") with "snimem" ("will rent, book") to get the point across in plain spoken Russian.
+- 'At home I just have a swimming pool, not a very big one.' Nagiyev presents a grounded bearing beside the doctor, weaving "doma" ("at home") together with "prosto" ("just") just the way native speakers do.
+- 'Well what do you suggest, you are the director!' Nagiyev picks a candid view in this beat, pairing "predlagayesh" ("are suggesting") with "rezhisser" ("director") to get the point across in plain spoken Russian.
+- 'Listen, what about that guy with the mustache?' The doctor presses boldly to make the point, pairing "slushay" ("listen") with "dyadka" ("uncle") to get the point across in plain spoken Russian.
+- 'You said yourself that you do not like working with animals.' Nagiyev strikes an earnest line for the doctor, using "skazal" (from "skazat", "said") alongside "zhivotnymi" ("animals, pets") to shape the meaning.
+- 'There is such chemistry between you two, let's try.' The doctor presents a warm approach with Nagiyev, putting "khimiya" ("chemicals, chemistry") alongside "davay" ("let's") in a tight, everyday turn of phrase.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Now you are going to meet your brother.' Because Nagiyev is going to meet Nagiyev's brother, Barinov treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Cut, Vityusha, magnificent!' By cutting magnificent, Nagiyev raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Simply brilliant, fine.' Between the room and the plan, Nagiyev gives Barinov a quick, grounded response.
-- 'Just add a little emotion, alright?' With the point and room hanging in the air, Nagiyev puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Camera, rolling, take two, action!' Between the point and the situation, Nagiyev delivers a sharp reaction. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Well then, now you will meet your brother!' Saying that Nagiyev will meet Nagiyev's brother is how Barinov takes charge of the moment.
-- 'Cut, what on earth is that?' Questioning whether cut what on earth is is how Nagiyev tests Barinov's story. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'What kind of theater is this, honestly?' Asking whether what kind of theater is this honestly puts Barinov right on the defensive. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Focus, work more precisely, please.' Over the situation and the point, Nagiyev answers Barinov without a second thought.
-- 'Let's go, guys, right now everything will work out for us.' Proposing that they go guys right now everything will work out for them is how Nagiyev lays out the situation for Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Camera, rolling!' Between the plan and the shift, Nagiyev delivers a sharp reaction. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Scene nine, take three, action!' With the plan and work at stake, Nagiyev reacts without holding back.
+- 'Now you are going to meet your brother.' Barinov strikes an honest line as they talk, joining "seychas" ("now") to "vstretishsya" ("will meet") so every word pulls its weight.
+- 'Cut, Vityusha, magnificent!' Nagiyev chooses a frank attitude at once, leaning on "vityusha" ("vityusha") before closing the thought with "velikolepno" ("magnificent").
+- 'Simply brilliant, fine.' Nagiyev brings a lively mood straight away, combining the softening word "prosto" ("simply, just") with "genialno" ("brilliant") to give the line its natural spoken rhythm.
+- 'Just add a little emotion, alright?' Nagiyev wonders bluntly without a pause, anchoring the Russian line on "chut" ("almost, nearly") and "dobav" ("add") without extra filler.
+- 'Camera, rolling, take two, action!' Nagiyev maintains a grounded mood in front of Barinov, weaving "kamera" ("camera") together with "motor" ("rolling, motor") just the way native speakers do.
+- 'Well then, now you will meet your brother!' Barinov chooses an unhurried mood during the exchange, pairing "seychas" ("now") with "vstretishsya" ("will meet") so the "-sya" ending carries the action.
+- 'Cut, what on earth is that?' Nagiyev prompts lightly as the beat lands, weaving "stop" ("stop, cut") together with "nu" ("oh, come on") just the way native speakers do.
+- 'What kind of theater is this, honestly?' Nagiyev quizzes steadily across the room, joining "teatr" ("theater") to "chestnoye" ("honest") so every word pulls its weight.
+- 'Focus, work more precisely, please.' Nagiyev shows a frank tempo beside Barinov, building the phrase around "soberis" ("pull yourself together") and "tochneye" ("definitely") for a crisp, natural delivery.
+- 'Let's go, guys, right now everything will work out for us.' Nagiyev conveys a measured attitude in their talk, pairing "seychas" ("now") with "poyekhali" ("here we go") so the "-sya" ending carries the action.
+- 'Camera, rolling!' Nagiyev presents a clear posture for Barinov, putting "kamera" ("camera") alongside "motor" ("rolling, motor") in a tight, everyday turn of phrase.
+- 'Scene nine, take three, action!' Nagiyev shares a lively tempo toward Barinov, leaning on "stsena" ("stage, scene") before closing the thought with "dubl" ("take").

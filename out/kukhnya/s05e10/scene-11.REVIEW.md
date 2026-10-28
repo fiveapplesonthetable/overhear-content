@@ -15,25 +15,25 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Михаил | В лобби нужен врач. | A doctor is needed in the lobby. | #172: В лобби нужен врач | adapted: adapted |
 | 4 | Шеф | В каком смысле, Миша? | In what sense, Misha? | #173: В каком смысле | adapted: adapted |
 | 5 | Михаил | Я говорю, срочно в лобби нужен доктор! | I am saying, a doctor is urgently needed in the lobby! | #173: Я говорю, срочно в лобе нужен доктор | adapted: adapted |
-| 6 | Сеня | А, шеф, я вас понял. | Ah, chef, I understood you. | #174: А, шеф, я вас понял | adapted: adapted |
-| 7 | Сеня | Доктор сейчас будет. | The doctor will be there right now. | #175: Доктор сейчас будет | adapted: adapted |
+| 6 | Макс | А, шеф, я вас понял. | Ah, chef, I understood you. | #174: А, шеф, я вас понял | adapted: adapted |
+| 7 | Макс | Доктор сейчас будет. | The doctor will be there right now. | #175: Доктор сейчас будет | adapted: adapted |
 | 8 | Михаил | Спасибо, быстрее! | Thank you, hurry! | #173: срочно | adapted: adapted |
-| 9 | Сеня | Ты зачем глаза заклеил? | Why did you tape his eyes shut? | #176: Ты зачем глаза заклеил | adapted: adapted |
+| 9 | Макс | Ты зачем глаза заклеил? | Why did you tape his eyes shut? | #176: Ты зачем глаза заклеил | adapted: adapted |
 | 10 | Шеф | Потому что мы до конца не знаем его возможности. | Because we do not fully know his capabilities. | #176: Потому что мы до конца не знаем его возможности | adapted: adapted |
 | 11 | Шеф | Вдруг он глазами гипнотизирует! | What if he hypnotizes with his eyes! | #177: Вдруг он глазами гипнотизирует | adapted: adapted |
-| 12 | Сеня | Понятно. | Got it. | #174: понял | adapted: adapted |
+| 12 | Макс | Понятно. | Got it. | #174: понял | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Step back! Misha, are you alive?' Barinov asks whether Misha are Mikhail alive, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'God watches over drunkards.' Barinov mentions that someone watches over drunkards so Mikhail sees what is at stake.
-- 'A doctor is needed in the lobby.' Claiming that a doctor is needed in the lobby sounds confident, even if Barinov has doubts.
-- 'In what sense, Misha?' Over the shift and the doctor, Barinov presses Mikhail for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I am saying, a doctor is urgently needed in the lobby!' Being saying a doctor is urgently needed in the lobby shows Mikhail is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Ah, chef, I understood you.' Realizing that he understood Barinov changes how Senya handles the situation.
-- 'The doctor will be there right now.' Noting that the doctor will be there right now keeps Senya's side of the story simple and clear.
-- 'Thank you, hurry!' Around the shift and inspector, Mikhail makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Why did you tape his eyes shut?' Wondering why Barinov tape his eyes shut cuts straight through the tension between Senya and Barinov.
-- 'Because we do not fully know his capabilities.' Saying that because they do not fully know his capabilities is how Barinov sets the tone with Mikhail.
-- 'What if he hypnotizes with his eyes!' Over the moment and the doctor, Barinov lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Got it.' Around the plan and inspector, Senya sets a calm, everyday tone with Barinov.
+- 'Step back! Misha, are you alive?' Barinov tests steadily as the beat lands, weaving "otoshli" ("to step back") together with "zhivoy" ("alive") just the way native speakers do.
+- 'God watches over drunkards.' Barinov strikes a calm style in front of Mikhail, linking "pyanykh" ("drunk people"), "bog" ("God"), and "berezhyot" ("protects, watches over") in one brisk exchange.
+- 'A doctor is needed in the lobby.' Mikhail picks a calm tack with Barinov, building the phrase around "lobbi" ("hotel lobby") and "nuzhen" ("is needed") for a crisp, natural delivery.
+- 'In what sense, Misha?' Barinov tests boldly as the beat lands, weaving "smysle" ("sense") together with "kakom" ("what, which") just the way native speakers do.
+- 'I am saying, a doctor is urgently needed in the lobby!' Mikhail strikes a calm footing across the room, joining "govoryu" ("am telling") to "srochno" ("urgent, urgently") so every word pulls its weight.
+- 'Ah, chef, I understood you.' Max picks a measured angle toward Mikhail, anchoring the Russian line on "ponyal" ("understood") and "shef" ("Chef") without extra filler.
+- 'The doctor will be there right now.' Max offers a wry position for Barinov, weaving "doktor" ("Doctor") together with "seychas" ("now") just the way native speakers do.
+- 'Thank you, hurry!' Mikhail shows an easygoing mood in the conversation, joining "spasibo" ("thank you") to "bystreye" ("faster") so every word pulls its weight.
+- 'Why did you tape his eyes shut?' Max challenges candidly as they speak, weaving "zachem" ("what for") together with "glaza" ("eyes") just the way native speakers do.
+- 'Because we do not fully know his capabilities.' Barinov establishes a pointed posture for Mikhail, leaning on "potomu" ("because") before closing the thought with "kontsa" ("ending").
+- 'What if he hypnotizes with his eyes!' Barinov favors an honest style right away, linking "vdrug" ("suddenly, what if"), "glazami" ("eyes"), and "gipnotiziruyet" ("hypnotizes") in one brisk exchange.
+- 'Got it.' Max sustains an easygoing bearing beside Mikhail, using "ponyatno" ("clear") by itself, a common way spoken Russian keeps fast dialogue punchy.

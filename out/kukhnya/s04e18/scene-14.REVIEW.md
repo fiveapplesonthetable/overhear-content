@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Viktoriya Sergeyevna, I have an important matter to discuss.' Mentioning that Viktoriya Sergeyevna she has an important matter to discuss moves the talk in a new direction. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Yes, Ainura, I am listening to you closely.' Explaining that she is listening to Ainura closely lays the cards on the table for Ainura. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'German loves me, and not you.' Because German loves her and not Vika, Ainura treats the matter as settled.
-- 'He and I had a romance.' Explaining that he and she had a romance lays the cards on the table for Vika. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'And then I dumped him myself.' Between the room and the story, Ainura gives Vika a quick, grounded response.
-- 'Now his heart hurts very much.' Claiming that his heart hurts very much sounds confident, even if Vika has doubts.
-- 'Ainura, what are you talking about, what nonsense is this?' By wondering what Ainura talking about what nonsense is this is, Vika presses Ainura for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Better go do your work quietly.' Vika explains that better go do Ainura's work quietly, keeping her voice calm and direct.
-- 'But he will hurt you again.' Realizing that he will hurt Vika again changes how Ainura handles the situation.
-- 'Wait, what does that word 'again' Wondering if what does that word shows Vika caught off guard. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'He locked Nagiyev inside the coffin, after all.' With the story and kitchen in play, Ainura keeps this short reply brisk and direct.
-- 'He locked the coffin with a key himself.' Around the story and shift, Ainura sets a calm, everyday tone with Vika.
+- 'Hello, Viktoriya Sergeyevna, I have an important matter to discuss.' Ainura shares a measured approach during the exchange, putting "zdravstvuyte" ("hello") alongside "vazhnyy" ("important") in a tight, everyday turn of phrase.
+- 'Yes, Ainura, I am listening to you closely.' Vika establishes a direct tempo as they talk, putting "vnimatelno" ("carefully, attentively") alongside "slushayu" ("I'm listening") in a tight, everyday turn of phrase.
+- 'German loves me, and not you.' Ainura offers a warm bearing in the scene, putting "lyubit" ("loves") alongside "german" ("German") in a tight, everyday turn of phrase.
+- 'He and I had a romance.' Ainura brings a playful attitude for Vika, anchoring the Russian line on "byla" ("was") and "lyubov" ("love") without extra filler.
+- 'And then I dumped him myself.' Ainura maintains a firm posture beside Vika, anchoring the Russian line on "potom" ("then") and "brosila" ("left, walked out on") without extra filler.
+- 'Now his heart hurts very much.' Ainura projects a grounded line in the room, anchoring the Russian line on "teper" ("now") and "ochen" ("very much") without extra filler.
+- 'Ainura, what are you talking about, what nonsense is this?' Vika inquires sharply without a pause, putting "bred" ("nonsense") alongside "aynura" ("Ainura") in a tight, everyday turn of phrase.
+- 'Better go do your work quietly.' Vika adopts a wry rhythm beside Ainura, combining "idi" ("go") and "luchshe" ("better") so the key meaning lands right away.
+- 'But he will hurt you again.' Ainura shows a measured stance straight away, leaning on "opyat" ("again") before closing the thought with "sdelayet" ("will do").
+- 'Wait, what does that word 'again' Vika asks quietly to keep things clear, weaving "podozhdi" ("wait") together with "znachit" ("then, so") just the way native speakers do.
+- 'He locked Nagiyev inside the coffin, after all.' Ainura establishes a pointed line on the spot, combining "grobu" ("coffin") and "zakryl" ("passed, closed") so the key meaning lands right away.
+- 'He locked the coffin with a key himself.' Ainura offers a sharp angle right away, building the phrase around "zakryl" ("passed, closed") and "grob" ("coffin") for a crisp, natural delivery.

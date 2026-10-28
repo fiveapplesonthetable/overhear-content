@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait!' With the meat and shift at stake, Max reacts without holding back.
-- 'And what did my grandpa order?' Asking what his order is how Max puts the guest on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Some kind of roast meat.' Between the point and the meat, Nastya gives the guest a quick, grounded response.
-- 'Something stronger to drink, about two hundred grams.' With the truth and order in play, Nastya keeps this short reply brisk and direct.
-- 'And stewed fruit compote.' Around the truth and order, Nastya sets a calm, everyday tone with the guest.
-- 'Got it. Do not bring the meat, only the compote.' Max mentions that do not bring the meat only the compote so the guest sees what is at stake.
-- 'Alright, Max.' Between the truth and the order, Nastya gives the guest a quick, grounded response.
-- 'Here is your lunch, grandpa.' Explaining that here is the guest's lunch lays the cards on the table for the guest. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Now that is service!' Saying that that is service is how the guest takes charge of the moment. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And where is my meat?' Asking where his meat is is how the guest puts Max on the spot.
-- 'You are not allowed meat, grandpa.' Noting that the guest is not allowed meat keeps Max's side of the story simple and clear. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Well alright, grandson.' Around the truth and conversation, the guest sets a calm, everyday tone with Max.
+- 'Wait!' Max shows an honest rhythm in the room, leaning on "pogodi" ("wait") as a compact, one-word response that needs no extra words.
+- 'And what did my grandpa order?' Max checks quietly in this moment, joining "ded" ("grandfather") to "zakazal" ("ordered") so every word pulls its weight.
+- 'Some kind of roast meat.' Nastya keeps a grounded position straight away, using "myasa" (from "myaso", "meat") alongside "zharenogo" ("roasted, fried") to shape the meaning.
+- 'Something stronger to drink, about two hundred grams.' Nastya favors a resolute style right away, combining "vypit" ("to drink") and "pokrepche" ("stronger") so the key meaning lands right away.
+- 'And stewed fruit compote.' Nastya presents a playful position without hesitation, putting all the weight on "kompot" ("compote") so the reply lands immediately.
+- 'Got it. Do not bring the meat, only the compote.' Max keeps a natural posture with Nastya, putting "yasno" ("clear, got it") alongside "myaso" ("meat") in a tight, everyday turn of phrase.
+- 'Alright, Max.' Nastya conveys an honest bearing as they talk, anchoring the Russian line on "khorosho" ("good, fine") and "maks" ("Max") without extra filler.
+- 'Here is your lunch, grandpa.' Max maintains a clear posture at this moment, leaning on "obed" ("lunch") before closing the thought with "ded" ("grandfather").
+- 'Now that is service!' The guest holds a lively manner in this beat, linking "servis" ("service"), "vot" ("there, here"), and "eto" ("this") in one brisk exchange.
+- 'And where is my meat?' The guest asks briskly at this point, linking "gde" ("where"), "myaso" ("meat"), and "zhe" ("but, after all") in one brisk exchange.
+- 'You are not allowed meat, grandpa.' Max shares a direct style in the conversation, putting "nelzya" ("not allowed") alongside "myaso" ("meat") in a tight, everyday turn of phrase.
+- 'Well alright, grandson.' The guest takes a grounded posture straight away, leaning on "vnuchok" ("grandson") before closing the thought with "nu" ("oh, come on").

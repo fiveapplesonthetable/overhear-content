@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, this is the best show in the country!' Insisting that this is the best show in the country shows Nagiyev is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Right now we are starting a new round.' Even though right now they are starting a new round, Nagiyev keeps a steady face in front of Denis.
-- 'Do not worry, Misha, scars adorn a man.' Admitting that do not worry Misha scars adorn a man shows Nagiyev being honest for a change.
-- 'All right, we need to find yesterday's date.' With the office and restaurant in play, Vika keeps this short reply brisk and direct. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Wait, Vika, what is that right there?' Wondering what that right there is cuts straight through the tension between Denis and Nagiyev.
-- 'It seems that is Nagiyev and the contestant Oksana.' Adding that it seems that is Nagiyev and the contestant Oksana fills in the missing piece for Denis. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Look, here I am walking in to see you!' Saying that here he is walking in to see Nagiyev is how Denis takes charge of the moment. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well, tell me, how are your nightmares?' Questioning whether tell her how are Denis's nightmares is how Vika tests Denis's story.
-- 'Everything is fine, do not come closer, I will jump!' Because everything is fine do not come closer he will jump, Denis does not bother softening the blow for Nagiyev. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'You really did look very strange back then.' Vika reminds Denis that Denis really did look very strange back then before the moment passes. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Here, I will make a copy for Katya.' Because here she will make a copy for Katya, Vika treats the matter as settled.
-- 'Thank you so very much for your help, Vika!' Around the dish and truth, Denis makes his point loud and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Good evening, this is the best show in the country!' Nagiyev projects a sharp rhythm for Denis, weaving "dobryy" ("good") together with "vecher" ("evening") just the way native speakers do.
+- 'Right now we are starting a new round.' Nagiyev holds a steady mood as the scene unfolds, joining "pryamo" ("right, just") to "seychas" ("now") so every word pulls its weight.
+- 'Do not worry, Misha, scars adorn a man.' Nagiyev strikes a firm tone in the room, linking "perezhivay" ("worry"), "shramy" ("adorn"), and "ukrashayut" ("decorate, adorn") in one brisk exchange.
+- 'All right, we need to find yesterday's date.' Vika strikes a candid angle without hesitation, linking "nado" ("it is necessary"), "nayti" ("to find"), and "vcherashniy" ("yesterday's") in one brisk exchange.
+- 'Wait, Vika, what is that right there?' Denis checks promptly as they speak, weaving "podozhdi" ("wait") together with "vika" ("Vika") just the way native speakers do.
+- 'It seems that is Nagiyev and the contestant Oksana.' Vika establishes a firm note across the room, using "kazhetsya" (from "kazatsya", "it seems, I think") alongside "uchastnitsa" ("oksana") to shape the meaning.
+- 'Look, here I am walking in to see you!' Denis conveys a measured angle in this beat, joining "smotri" ("look") to "zakhozhu" ("to come in") so every word pulls its weight.
+- 'Well, tell me, how are your nightmares?' Vika checks warmly for Nagiyev's benefit, anchoring the Russian line on "skazhi" ("say") and "kak" ("how") without extra filler.
+- 'Everything is fine, do not come closer, I will jump!' Denis keeps a sharp rhythm beside Nagiyev, anchoring the Russian line on "khorosho" ("good, fine") and "podkhodi" ("approach, come near") without extra filler.
+- 'You really did look very strange back then.' Vika projects a playful attitude as the scene unfolds, pairing "togda" ("back then") with "pravda" ("honestly") to get the point across in plain spoken Russian.
+- 'Here, I will make a copy for Katya.' Vika chooses a calm posture for Denis, anchoring the Russian line on "sdelayu" ("I'll do") and "kopiyu" ("copy, photocopy") without extra filler.
+- 'Thank you so very much for your help, Vika!' Denis maintains a natural position as they talk, building the phrase around "spasibo" ("thank you") and "ogromnoye" ("huge, so very much") for a crisp, natural delivery.

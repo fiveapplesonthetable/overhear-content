@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Дима, это я его пригласил. | Dima, he is here as my guest. | #299: Дима, это я его пригласил | verbatim |
+| 1 | Макс | Дима, это я его пригласил. | Dima, he is here as my guest. | #299: Дима, это я его пригласил | verbatim |
 | 2 | Макс | Хочешь его наказать, накажи меня. | If you want to punish him, punish me instead. | #300: Хочешь его наказать, накажи меня | verbatim |
 | 3 | Нагиев | Могу тебе оплатить химчистку. | I can pay for your dry cleaning. | #301: Могу тебе оплатить химчистку | verbatim |
 | 4 | Макс | У меня большой опыт. | I have plenty of experience with that. | #302: У меня большой опыт | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, he is here as my guest.' Being here as his guest is how Nagiyev lays out the situation for Max. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'If you want to punish him, punish me instead.' Since if Nagiyev wants to punish him punish him instead, Max does not waste words on excuses.
-- 'I can pay for your dry cleaning.' Mentioning that he can pay for Max's dry cleaning moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I have plenty of experience with that.' Claiming that he has plenty of experience sounds confident, even if Nagiyev has doubts. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'This is my restaurant.' Because this is his restaurant, Nagiyev treats the matter as settled.
-- 'Both of you remember that.' Explaining that both of Nagiyev remembers lays the cards on the table for Nagiyev.
-- 'Whatever your heart desires.' With the conversation and chaos in play, Nagiyev keeps this short reply brisk and direct.
-- 'Yeah, some respectable place this is.' Claiming that yeah some respectable place this is sounds confident, even if Nagiyev has doubts.
-- 'Those are not eggs.' Pointing out that those are not eggs gives Max a sobering reality check. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Why did you grab that plate right away?' Asking why Nagiyev grabs that plate right away cuts straight through the tension between Max and Nagiyev. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Because of you, we have to remake all these dishes now.' Realizing that because of Max they have to remake all these dishes now changes how Nagiyev handles the situation.
-- 'Are you deaf, I told you it was not my fault.' Noting that are Nagiyev deaf he told Nagiyev it was not his fault keeps Max's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Of course it was not his fault.' Even though it was not his fault, Nagiyev keeps a steady face in front of Max.
+- 'Dima, he is here as my guest.' Max projects an emphatic approach with Nagiyev, using "priglasil" (from "priglasit", "invited") alongside "dima" ("Dima") to shape the meaning.
+- 'If you want to punish him, punish me instead.' Max displays an unhurried tempo during the exchange, pairing "khochesh" ("do you want") with "nakazat" ("to punish") to get the point across in plain spoken Russian.
+- 'I can pay for your dry cleaning.' Nagiyev establishes a steady position in front of Max, combining "mogu" ("can") and "oplatit" ("will pay for") so the key meaning lands right away.
+- 'I have plenty of experience with that.' Max brings an honest footing in this beat, combining "bolshoy" ("big") and "opyt" ("experience") so the key meaning lands right away.
+- 'This is my restaurant.' Nagiyev offers a pointed stance as the scene unfolds, building the phrase around "restoran" ("restaurant") and "eto" ("this") for a crisp, natural delivery.
+- 'Both of you remember that.' Max brings a brisk posture at this moment, weaving "zapomnite" ("remember") together with "oba" ("both") just the way native speakers do.
+- 'Whatever your heart desires.' Nagiyev adopts a brisk direction for Max, weaving "dushu" ("soul, heart") together with "chem" ("than") just the way native speakers do.
+- 'Yeah, some respectable place this is.' Max conveys a pointed tone as the scene unfolds, anchoring the Russian line on "prilichnoye" ("decent, respectable") and "mesto" ("place, post") without extra filler.
+- 'Those are not eggs.' Nagiyev offers a playful note in the conversation, pairing "yaytsa" ("eggs") with "eto" ("this") to get the point across in plain spoken Russian.
+- 'Why did you grab that plate right away?' Max queries honestly across the room, leaning on "zachem" ("what for") before closing the thought with "tarelku" ("plate, platter").
+- 'Because of you, we have to remake all these dishes now.' Nagiyev presents a serious stance during the exchange, anchoring the Russian line on "skolko" ("how much, so much") and "blyud" ("dishes") without extra filler.
+- 'Are you deaf, I told you it was not my fault.' Max adopts a clear tack toward Nagiyev, combining "slyshish" ("hear") and "govoryu" ("am telling") so the key meaning lands right away.
+- 'Of course it was not his fault.' Nagiyev presents a pointed stance for Max, linking "konechno" ("of course"), "vinovat" ("at fault, guilty"), and "on" ("he") in one brisk exchange.

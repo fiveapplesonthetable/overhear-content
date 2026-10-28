@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maybe he was just sitting in the dark?' Wondering if maybe he was just sitting in the dark shows Kostya caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Maybe he was just saving electricity at home?' Questioning whether maybe he was just saving electricity at home is how Kostya tests Eleonora's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Does it not seem to you that your father is lonely?' By checking whether it not seem to Eleonora that Eleonora's father is lonely, Nastya presses Eleonora for a straight answer.
-- 'We definitely need to introduce him to someone.' With the hotel and plan in play, Nastya keeps this short reply brisk and direct. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'I wonder, and who will we introduce him to?' Kostya asks whether he wonders and who will they introduce him, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Of course, to some good, kind woman.' Over the hotel and the plan, Nastya answers Eleonora without a second thought.
-- 'Good morning, respected Eleonora Andreyevna!' With the hotel and work at stake, Nastya reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Kostya, one must say the full hello properly.' Saying that one must say the full hello properly is how Eleonora sets the tone with Kostya. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'There is no such short word in the language.' Once there is no such short word in the language, Eleonora can finally tell Kostya what she means.
-- 'No, she and Dad will not get along.' Adding that she and dad will not get along fills in the missing piece for Eleonora.
-- 'I would say a language barrier will get in the way.' Saying that he would say a language barrier will get in the way is how Kostya sets the tone with Eleonora.
-- 'Wait for me, I need to go to the restroom.' Since for her she needs to go to the restroom, Nastya does not waste words on excuses.
+- 'Maybe he was just sitting in the dark?' Kostya checks steadily toward Eleonora here, linking "mozhet" ("can"), "prosto" ("just"), and "sidel" ("did time") in one brisk exchange.
+- 'Maybe he was just saving electricity at home?' Kostya tests briskly on the spot, combining "mozhet" ("can") and "doma" ("at home") so the key meaning lands right away.
+- 'Does it not seem to you that your father is lonely?' Nastya inquires wryly as the beat lands, weaving "kazhetsya" ("it seems, I think") together with "ottsu" ("to father") just the way native speakers do.
+- 'We definitely need to introduce him to someone.' Nastya maintains a warm note at this moment, combining "nado" ("it is necessary") and "obyazatelno" ("surely, without fail") so the key meaning lands right away.
+- 'I wonder, and who will we introduce him to?' Kostya prompts plainly to keep things clear, pairing "interesno" ("interesting") with "poznakomim" ("to introduce") to get the point across in plain spoken Russian.
+- 'Of course, to some good, kind woman.' Nastya establishes a natural manner at once, leaning on "konechno" ("of course") before closing the thought with "khoroshey" ("good").
+- 'Good morning, respected Eleonora Andreyevna!' Nastya keeps a sharp mood in the scene, joining "dobroye" ("good") to "utro" ("morning") so every word pulls its weight.
+- 'Kostya, one must say the full hello properly.' Eleonora strikes a steady mood during the exchange, combining "nuzhno" ("necessary") and "pravilno" ("right") so the key meaning lands right away.
+- 'There is no such short word in the language.' Eleonora holds a candid tempo right away, anchoring the Russian line on "korotkogo" ("short, brief") and "slova" ("words") without extra filler.
+- 'No, she and Dad will not get along.' Kostya picks a frank mood in front of Nastya, pairing "soydutsya" ("to converge") with "papoy" ("dad") so the "-sya" ending carries the action.
+- 'I would say a language barrier will get in the way.' Kostya presents a direct attitude toward Eleonora, pairing "skazal" ("said") with "yazykovoy" ("language, linguistic") to get the point across in plain spoken Russian.
+- 'Wait for me, I need to go to the restroom.' Nastya holds a grounded stance with Kostya, linking "podozhdi" ("wait"), "nado" ("it is necessary"), and "tualet" ("toilet") in one brisk exchange.

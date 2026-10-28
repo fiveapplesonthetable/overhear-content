@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Макс | Интересно послушать. | I would love to hear it. | #244: Интересно послушать | verbatim |
 | 2 | Саша | А не при помощи этих грязных методов. | And not with the help of these dirty methods. | #246: а не при помощи этих грязных методов | verbatim |
-| 3 | Лёва | Лёва, ты всё правильно говоришь. | Lyova, everything you are saying is right. | #247: Лёва, ты всё правильно говоришь | verbatim |
+| 3 | Макс | Лёва, ты всё правильно говоришь. | Lyova, everything you are saying is right. | #247: Лёва, ты всё правильно говоришь | verbatim |
 | 4 | Макс | Я всё понимаю. | I understand everything. | #248: Я всё понимаю | verbatim |
 | 5 | Саша | Травить людей нельзя. | You must never poison people. | #249: Травить людей нельзя | verbatim |
 | 6 | Лёва | Ну, ты как? | Well, how are you feeling? | #253: Ну, ты как | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I would love to hear it.' Realizing that he would love to hear it changes how Max handles the situation.
-- 'And not with the help of these dirty methods.' With the work and moment in play, Sasha keeps this short reply brisk and direct.
-- 'Lyova, everything you are saying is right.' Even though everything Max is saying is right, Lyova keeps a steady face in front of Max. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I understand everything.' Since he understands everything, Max does not waste words on excuses.
-- 'You must never poison people.' Saying that Lyova must never poison people is how Sasha sets the tone with Lyova.
-- 'Well, how are you feeling?' Here wondering how Max feeling is shows Lyova looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And how did you find out where I was?' By asking how Lyova finds out where he was, Max presses Lyova for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Which hospital I was in?' When Sasha asks if which hospital she was, Lyova has to answer fast.
-- 'By the way, you could have told me yourself.' Since Max could have told him themselves, Lyova does not waste words on excuses.
-- 'I like you no matter how you look.' Max explains that he likes Lyova no matter how Lyova looks, keeping his voice calm and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'We have not done that yet today.' Sasha reminds Lyova that they have not done that yet today before the moment passes.
-- 'I will wait for you right here.' Because he will wait for Max right here, Lyova treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Do not worry about a thing.' Explaining that do not worry about a thing lays the cards on the table for Lyova. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I would love to hear it.' Max shows an emphatic line in their talk, leaning on "interesno" ("interesting") before closing the thought with "poslushat" ("to listen to").
+- 'And not with the help of these dirty methods.' Sasha picks a candid approach for Max, pairing "pomoshchi" ("help") with "gryaznykh" ("dirty") to get the point across in plain spoken Russian.
+- 'Lyova, everything you are saying is right.' Max holds a measured manner in the room, putting "pravilno" ("right") alongside "govorish" ("you say") in a tight, everyday turn of phrase.
+- 'I understand everything.' Max shows a thoughtful footing in the conversation, using "ponimayu" (from "ponimat", "understand") alongside "ya" ("I") to shape the meaning.
+- 'You must never poison people.' Sasha presents an earnest line on the spot, leaning on "travit" ("to torment") before closing the thought with "lyudey" ("people").
+- 'Well, how are you feeling?' Lyova asks wryly in the scene, linking "kak" ("how") directly with "nu" ("oh, come on"), since Russian drops "is" and "are" in the present.
+- 'And how did you find out where I was?' Max tests wryly to keep things clear, putting "kak" ("how") alongside "uznal" ("recognised") in a tight, everyday turn of phrase.
+- 'Which hospital I was in?' Sasha presses candidly at this point, putting "bolnitse" ("the hospital") alongside "kakoy" ("what a, how") in a tight, everyday turn of phrase.
+- 'By the way, you could have told me yourself.' Lyova sets a serious manner with Max, putting "kstati" ("by the way") alongside "mog" ("can, to be able") in a tight, everyday turn of phrase.
+- 'I like you no matter how you look.' Max strikes a direct position at this moment, linking "nravishsya" ("appeal to, are liked"), "lyubom" ("any"), and "vide" ("state") in one brisk exchange.
+- 'We have not done that yet today.' Sasha presents a calm approach beside Lyova, pairing "segodnya" ("today") with "yeshche" ("still") to get the point across in plain spoken Russian.
+- 'I will wait for you right here.' Lyova shares a firm approach in the scene, leaning on "podozhdu" ("will wait") before closing the thought with "zdes" ("here").
+- 'Do not worry about a thing.' Max offers a steady tack on the spot, linking "perezhivay" ("worry"), "ty" ("you"), and "ne" ("not") in one brisk exchange.

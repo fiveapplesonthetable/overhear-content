@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mom, forgive me, I really felt like having some.' Lyova mentions that Mom forgive him he really felt like having some so Denis sees what is at stake.
-- 'You yourself said that it is unhealthy.' Claiming that Denis themselves said that it is unhealthy sounds confident, even if Denis has doubts.
-- 'Now can I even eat potato chips?' Checking whether he even eats potato chips is how Lyova puts Denis on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Mom, what does my child have to do with this?' Lyova asks whether Mom what does his child have to do with this, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'But she did not spend the night at my place.' Realizing that she did not spend the night at his place changes how Lyova handles the situation.
-- 'Dmitry Vladimirovich, will you be able to repeat that?' Checking whether Lyova is able to repeat cuts straight through the tension between Denis and Lyova. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Of course, I know that I can.' Nagiyev reminds Denis that he knows that he can before the moment passes.
-- 'Watch my finger closely.' Here watching his finger closely sets up the next turn in their exchange.
-- 'I got it, let's play in four hands!' Denis declares that he got it let them play in four hands as the tension in the room peaks. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'I will begin, and you will join in.' Once he will begin and Lyova will join, Denis can finally tell Lyova what he means. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Nice, our music is working out!' Insisting that nice their music is working out shows Nagiyev is not backing down.
-- 'I already like this very much.' Nagiyev tells Denis that he already likes this very much without dressing it up. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Mom, forgive me, I really felt like having some.' Lyova keeps an easygoing tack in front of Denis, building the phrase around "mama" ("mum, mother") and "prosti" ("sorry, forgive me") for a crisp, natural delivery.
+- 'You yourself said that it is unhealthy.' Lyova sets an easygoing approach in their talk, anchoring the Russian line on "govorila" ("said") and "vredno" ("harmful, bad for you") without extra filler.
+- 'Now can I even eat potato chips?' Lyova challenges briskly on the spot, weaving "teper" ("now") together with "mogu" ("can") just the way native speakers do.
+- 'Mom, what does my child have to do with this?' Lyova challenges warmly from the start, weaving "mama" ("mum, mother") together with "zdes" ("here") just the way native speakers do.
+- 'But she did not spend the night at my place.' Lyova brings a steady approach as they talk, anchoring the Russian line on "nochevala" ("to spend the night") and "no" ("but") without extra filler.
+- 'Dmitry Vladimirovich, will you be able to repeat that?' Denis tests bluntly across the room, weaving "smozhete" ("will be able to") together with "povtorit" ("to repeat, another round") just the way native speakers do.
+- 'Of course, I know that I can.' Nagiyev shares a sharp note for Denis, putting "konechno" ("of course") alongside "znayu" ("know") in a tight, everyday turn of phrase.
+- 'Watch my finger closely.' Denis offers a resolute line in their talk, putting "vnimatelno" ("carefully, attentively") alongside "sledite" ("are watching") in a tight, everyday turn of phrase.
+- 'I got it, let's play in four hands!' Denis adopts an easygoing course toward Lyova, leaning on "pridumal" ("came up with") before closing the thought with "davayte" ("let's").
+- 'I will begin, and you will join in.' Denis brings an unhurried approach across the room, anchoring the Russian line on "nachnu" ("will start") and "podkhvatite" ("to join") without extra filler.
+- 'Nice, our music is working out!' Nagiyev brings a serious footing in the room, pairing "normalno" ("fine, OK") with "muzyka" ("music") to get the point across in plain spoken Russian.
+- 'I already like this very much.' Nagiyev shares a calm position at this moment, pairing "nravitsya" ("is pleasing") with "uzhe" ("already, now") so the "-sya" ending carries the action.

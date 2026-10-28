@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Макс | А ты? | And what about you? | #40: А ты | verbatim |
 | 3 | Нагиев | Ой, нет, ты что, это Александр. | Oh no, what are you talking about, this is Aleksandr. | #42: Ой, нет, ты что, это Александр | verbatim |
 | 4 | Макс | Он занимается нашей свадьбой. | He is organizing our wedding reception. | #43: Он занимается нашей свадьбой | verbatim |
-| 5 | Нагиев | Ты представляешь, нашу свадьбу будет вести сам Нагиев. | Can you imagine, Dmitriy Nagiyev himself is going to host our wedding. | #44: Ты представляешь, нашу свадьбу будет вести сам Нагиев | verbatim |
+| 5 | Макс | Ты представляешь, нашу свадьбу будет вести сам Нагиев. | Can you imagine, Dmitriy Nagiyev himself is going to host our wedding. | #44: Ты представляешь, нашу свадьбу будет вести сам Нагиев | verbatim |
 | 6 | Макс | Ну ладно, что я себе. | Well anyway, enough about me. | #45: Ну ладно, что я себе | verbatim |
 | 7 | Нагиев | Замуж-то вышла? | Did you get married yet? | #46: Замуж-то вышла | verbatim |
 | 8 | Макс | Да, пока нет. | Well, not just yet. | #47: Да, пока нет | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, I work right here.' Since he works right here, Nagiyev does not waste words on excuses.
-- 'And what about you?' With the point and truth hanging in the air, Max puts Nagiyev on the spot.
-- 'Oh no, what are you talking about, this is Aleksandr.' Nagiyev reminds Max that what are Max talking about this is Aleksandr before the moment passes. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'He is organizing our wedding reception.' Noting that he is organizing their wedding reception keeps Max's side of the story simple and clear.
-- 'Can you imagine, Dmitriy Nagiyev himself is going to host our wedding.' Explaining that can Max imagines Dmitriy Nagiyev himself is going to host their wedding lays the cards on the table for Max.
-- 'Well anyway, enough about me.' With the conversation and wedding in play, Max keeps this short reply brisk and direct.
-- 'Did you get married yet?' Checking whether Max gets married yet cuts straight through the tension between Nagiyev and Max. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, not just yet.' With the work and wedding in play, Max keeps this short reply brisk and direct.
-- 'Why would I be the last one?' Here asking why he is the last one would shows Nagiyev looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Otherwise she would have moved away to Israel.' Realizing that otherwise she would have moved away changes how Max handles the situation.
-- 'She looks like a mop these days.' Noting that she looks like a mop these days keeps Nagiyev's side of the story simple and clear.
-- 'You were always a little bit strange like that.' Even though Nagiyev was always a little bit strange like, Max keeps a steady face in front of Nagiyev. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Oh, could I ask you for a small favor?' Here checking whether he asks Max for a small favor shows Nagiyev looking for the real truth. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Yes, I work right here.' Nagiyev sustains an earnest attitude in the room, building the phrase around "rabotayu" ("work") and "tut" ("here") for a crisp, natural delivery.
+- 'And what about you?' Max inquires lightly in the scene, letting the single Russian word "ty" ("you") carry the entire reaction on its own.
+- 'Oh no, what are you talking about, this is Aleksandr.' Nagiyev offers a clear view as they talk, joining "oy" ("oh") to "net" ("no") so every word pulls its weight.
+- 'He is organizing our wedding reception.' Max keeps a wry direction straight away, linking "zanimayetsya" ("is occupied with"), "svadboy" ("wedding"), and "on" ("he") in one brisk exchange.
+- 'Can you imagine, Dmitriy Nagiyev himself is going to host our wedding.' Max holds an unhurried rhythm in the conversation, joining "predstavlyayesh" ("can you imagine") to "svadbu" ("wedding") so every word pulls its weight.
+- 'Well anyway, enough about me.' Max strikes a resolute mood beside Nagiyev, joining "nu" ("oh, come on") to "ladno" ("all right") so every word pulls its weight.
+- 'Did you get married yet?' Nagiyev questions dryly as they speak, pairing "zamuzh-to" ("married") with "vyshla" ("married") to get the point across in plain spoken Russian.
+- 'Well, not just yet.' Max establishes an honest tempo during the exchange, building the phrase around "poka" ("bye") and "da" ("yes") for a crisp, natural delivery.
+- 'Why would I be the last one?' Nagiyev presses sharply without a pause, building the phrase around "pochemu" ("why") and "poslednyaya" ("last, final") for a crisp, natural delivery.
+- 'Otherwise she would have moved away to Israel.' Max projects a frank manner in their talk, using "uyekhala" (from "uyekhat", "left, drove away") alongside "tak" ("so") to shape the meaning.
+- 'She looks like a mop these days.' Nagiyev picks an emphatic tempo during the exchange, leaning on "vyglyadit" ("looks") before closing the thought with "teper" ("now").
+- 'You were always a little bit strange like that.' Max conveys a warm course at once, joining "vsegda" ("always") to "strannaya" ("strange") so every word pulls its weight.
+- 'Oh, could I ask you for a small favor?' Nagiyev probes plainly as the beat lands, linking "mozhno" ("may, can"), "poprosit" ("to ask"), and "oy" ("oh") in one brisk exchange.

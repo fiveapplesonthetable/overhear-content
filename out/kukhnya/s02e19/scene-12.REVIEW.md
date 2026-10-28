@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And now for the finishing touch.' With the conversation and revenge in play, Nagiyev keeps this short reply brisk and direct.
-- 'What on earth is that?' Questioning whether what on earth is is how Barinov tests Nagiyev's story.
-- 'They will lick their fingers from the taste.' Claiming that they will lick their fingers from the taste sounds confident, even if Barinov has doubts.
-- 'So go on, carry it out.' By going on carry it out, Barinov keeps his side of the story grounded. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'It is an ancient French recipe.' Nagiyev explains that it is an ancient French recipe, keeping his voice calm and direct.
-- 'Alright, you beauties.' With the work and revenge in play, Barinov keeps this short reply brisk and direct.
-- 'What difference does it make to you?' Asking whether what difference does it make to Barinov puts Barinov right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Take a look at what you just cooked for me, huh?' Over the recipe and the kitchen, Barinov presses Nagiyev for a straight answer.
-- 'What is this filth, I am asking all of you!' Questioning whether what is this filth he is asking all of Barinov is how Nagiyev tests Barinov's story. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Dima, we had no idea that plate was for you.' Saying that they had no idea that plate was for Nagiyev is how Barinov sets the tone with Nagiyev. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What kind of chaos is going on in this kitchen?' Asking whether what kind of chaos is going on in this kitchen puts Barinov right on the defensive.
-- 'What difference does it make who it was for?' Wondering if what difference does it make who it was shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Did you people set this up?' Here checking whether Barinov people set this up shows Nagiyev looking for the real truth. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'And now for the finishing touch.' Nagiyev presents a grounded course in front of Barinov, combining "posledniy" ("last") and "shtrikh" ("stroke, touch") so the key meaning lands right away.
+- 'What on earth is that?' Barinov probes candidly without hesitation, putting "eto" ("this") alongside "chto" ("what") in a tight, everyday turn of phrase.
+- 'They will lick their fingers from the taste.' Nagiyev offers a clear manner in the room, pairing "vkus" ("taste") with "palchiki" ("fingers") to get the point across in plain spoken Russian.
+- 'So go on, carry it out.' Barinov maintains a warm view across the room, weaving "davay" ("let's") together with "nesi" ("bring") just the way native speakers do.
+- 'It is an ancient French recipe.' Nagiyev maintains a thoughtful angle without hesitation, combining "starinnyy" ("ancient, vintage") and "frantsuzskiy" ("French") so the key meaning lands right away.
+- 'Alright, you beauties.' Barinov takes an honest bearing straight away, leaning on "krasavtsy" ("handsome man") before closing the thought with "tak" ("so").
+- 'What difference does it make to you?' Nagiyev prompts openly in the room, pairing "raznitsa" ("difference") with "kakaya" ("what, which") to get the point across in plain spoken Russian.
+- 'Take a look at what you just cooked for me, huh?' Barinov presses dryly on the spot, pairing "posmotri" ("look") with "prigotovili" ("cooked, prepared") to get the point across in plain spoken Russian.
+- 'What is this filth, I am asking all of you!' Nagiyev probes sharply in their exchange, joining "gadost" ("a disgusting thing") to "sprashivayu" ("am asking") so every word pulls its weight.
+- 'Dima, we had no idea that plate was for you.' Barinov adopts a direct view in the scene, leaning on "znali" ("to know") before closing the thought with "dim" ("Dima").
+- 'What kind of chaos is going on in this kitchen?' Nagiyev questions steadily without holding back, linking "bardak" ("mess, disorder") directly with "kukhne" ("kitchen"), since Russian drops "is" and "are" in the present.
+- 'What difference does it make who it was for?' Barinov probes sharply beside Nagiyev, linking "raznitsa" ("difference"), "kakaya" ("what, which"), and "komu" ("to whom, who") in one brisk exchange.
+- 'Did you people set this up?' Nagiyev queries bluntly during the talk, building the phrase around "ustroili" ("to arrange") and "vy" ("you") for a crisp, natural delivery.

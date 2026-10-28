@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We stopped in a rundown little village.' Adding that they stopped in a rundown little village fills in the missing piece for Nastya.
-- 'We were starving.' Nastya tells Kostya that they were starving without dressing it up.
-- 'And then by chance I found a can of tuna.' Since by chance he found a can of tuna, Kostya does not waste words on excuses.
-- 'So I decided to make a rustic village salad.' Mentioning that she decided to make a rustic village salad moves the talk in a new direction.
-- 'We take a lettuce leaf.' By taking a lettuce leaf, Kostya keeps his side of the story grounded.
-- 'We tear it roughly just like this.' With the point and story in play, Nastya keeps this short reply brisk and direct.
-- 'Here is how it goes.' Explaining that here is how it goes lays the cards on the table for Nastya.
-- 'Next we add some quail eggs.' Between the point and the tears, Nastya gives Kostya a quick, grounded response.
-- 'A little bit of tuna.' With the kitchen and story in play, Kostya keeps this short reply brisk and direct.
-- 'A few olives.' Over the kitchen and the story, Nastya answers Kostya without a second thought.
-- 'How could we do without potatoes.' Kostya explains that how could they do without potatoes, keeping his voice calm and direct.
-- 'We pepper the whole thing.' Around the kitchen and story, Nastya sets a calm, everyday tone with Kostya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And then we gently toss it all together.' Between the kitchen and the table, Kostya gives Nastya a quick, grounded response. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'We stopped in a rundown little village.' Kostya picks a candid approach in the conversation, weaving "ostanovilis" ("to stop") together with "zakhausle" ("chaos, mess") just the way native speakers do.
+- 'We were starving.' Nastya sustains a sharp tack with Kostya, putting "yest" ("there is") alongside "khotelos" ("to feel like") in a tight, everyday turn of phrase.
+- 'And then by chance I found a can of tuna.' Kostya chooses a clear tone in the conversation, leaning on "tut" ("here") before closing the thought with "sluchayno" ("by any chance").
+- 'So I decided to make a rustic village salad.' Nastya projects a steady position with Kostya, linking "reshil" ("has decided"), "sdelat" ("to do"), and "derevenskiy" ("village, country") in one brisk exchange.
+- 'We take a lettuce leaf.' Kostya displays a wry note toward Nastya, putting "berem" ("we take") alongside "lis" ("fox") in a tight, everyday turn of phrase.
+- 'We tear it roughly just like this.' Nastya holds an honest bearing straight away, joining "grubo" ("rudely") to "rvem" ("to tear, rush ahead") so every word pulls its weight.
+- 'Here is how it goes.' Kostya keeps an emphatic note beside Nastya, weaving "znachit" ("then, so") together with "tak" ("so") just the way native speakers do.
+- 'Next we add some quail eggs.' Nastya shows a candid tempo at once, joining "zatem" ("then, after that") to "dobavlyayem" ("to add, supplement") so every word pulls its weight.
+- 'A little bit of tuna.' Kostya chooses a firm bearing in the conversation, combining "nemnozhko" ("a little") and "tuntsa" ("tuna") so the key meaning lands right away.
+- 'A few olives.' Nastya takes a thoughtful posture in the room, joining "nemnozhko" ("a little") to "olivok" ("olive") so every word pulls its weight.
+- 'How could we do without potatoes.' Kostya presents an unhurried stance as the scene unfolds, building the phrase around "kak" ("how") and "kartofelya" ("potato, potatoes") for a crisp, natural delivery.
+- 'We pepper the whole thing.' Nastya strikes a natural footing in their talk, building the phrase around "poperchim" ("to pepper") and "delo" ("matter") for a crisp, natural delivery.
+- 'And then we gently toss it all together.' Kostya picks a steady approach toward Nastya, combining "zatem" ("then, after that") and "akkuratnenko" ("carefully, gently") so the key meaning lands right away.

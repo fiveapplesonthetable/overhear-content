@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, you already walk in here like it is your own home.' Mentioning that Barinov already walk in here like it is Barinov's own home moves the talk in a new direction. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I secretly took the keys from Lyova to check on you.' Gulya reminds Barinov that she secretly took the keys from Lyova to check on Barinov before the moment passes. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'You checked on me, thank you very much, and now goodbye.' With the shift and trip in play, Mikhail keeps this short reply brisk and direct.
-- 'Tell me honestly, did you go for an X-ray today?' Wondering if tell her honestly did Barinov goes for an today shows Gulya caught off guard. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Not yet, my neighbor Anna Petrovna is busy today.' Mikhail mentions that not yet his neighbor is busy today so Barinov sees what is at stake.
-- 'Alright, then get ready, I will take you there myself right now.' Claiming that Alright then get ready she will take Barinov there herself right now sounds confident, even if Barinov has doubts.
-- 'Misha, I want to help you as a friend get rich with me.' Wanting to help Gulya as a friend get rich with him is how Barinov lays out the situation for Gulya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Look, this is a real truth serum for that bookmaker.' Noting that this is a real truth serum for that bookmaker keeps Barinov's side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I made it myself this morning from belladonna.' Realizing that he made it himself this morning from belladonna changes how Barinov handles the situation.
-- 'Viktor, does this serum of yours really work?' By checking whether this serum of Barinov's really work, Mikhail presses Barinov for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It works great, I just tested it on Senya.' Even though it works great he just tested it on Senya, Barinov keeps a steady face in front of Gulya.
-- 'Senya, tell me, Marina decides everything at your home, right?' Wondering if tell him Marina decides everything at Gulya's home right shows Barinov caught off guard.
+- 'Hello, you already walk in here like it is your own home.' Mikhail keeps a wry posture during the exchange, combining "zdravstvuyte" ("hello") and "uzhe" ("already, now") so the key meaning lands right away.
+- 'I secretly took the keys from Lyova to check on you.' Gulya strikes a sharp course across the room, weaving "klyuchi" ("the keys") together with "taykom" ("secretly") just the way native speakers do.
+- 'You checked on me, thank you very much, and now goodbye.' Mikhail sustains a warm manner during the exchange, weaving "provedali" ("visited, checked on") together with "spasibo" ("thank you") just the way native speakers do.
+- 'Tell me honestly, did you go for an X-ray today?' Gulya queries firmly without holding back, joining "skazhite" ("tell") to "chestno" ("honestly") so every word pulls its weight.
+- 'Not yet, my neighbor Anna Petrovna is busy today.' Mikhail projects a resolute bearing with Barinov, linking "yeshchyo" ("more, still") directly with "sosedka" ("neighbor"), since Russian drops "is" and "are" in the present.
+- 'Alright, then get ready, I will take you there myself right now.' Gulya adopts a steady direction as they talk, pairing "sobiraytes" ("to intend") with "khorosho" ("good, fine") so the "-sya" ending carries the action.
+- 'Misha, I want to help you as a friend get rich with me.' Barinov strikes a measured line in their talk, using "khochu" (from "khotet", "want") alongside "pomoch" ("to help") to shape the meaning.
+- 'Look, this is a real truth serum for that bookmaker.' Barinov projects a firm angle as the scene unfolds, linking "smotri" ("look"), "nastoyashchaya" ("real, genuine"), and "syvorotka" ("serum") in one brisk exchange.
+- 'I made it myself this morning from belladonna.' Barinov keeps a wry line toward Gulya, anchoring the Russian line on "segodnya" ("today") and "utrom" ("this morning") without extra filler.
+- 'Viktor, does this serum of yours really work?' Mikhail quizzes frankly in front of Gulya, weaving "syvorotka" ("serum") together with "deystvitelno" ("really, indeed") just the way native speakers do.
+- 'It works great, I just tested it on Senya.' Barinov adopts a lively stance in their talk, weaving "otlichno" ("perfect, great") together with "rabotayet" ("works") just the way native speakers do.
+- 'Senya, tell me, Marina decides everything at your home, right?' Barinov probes pointedly as the talk turns, linking "skazhi" ("say"), "doma" ("at home"), and "reshayet" ("decides") in one brisk exchange.

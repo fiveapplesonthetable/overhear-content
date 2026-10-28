@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Believe me, I do not want to lose you anymore.' By believing him he does not want to lose Elena anymore, Barinov keeps his side of the story grounded. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I do!' Over the point and the ring, Elena lets her real feelings show. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Lena, some kind of mistake happened.' Around the mistake and kitchen, Barinov sets a calm, everyday tone with Elena.
-- 'That is not what I meant.' Noting that that is not what he meant keeps Barinov's side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I bought a pendant, you see, and not this ring!' Barinov declares that he bought a pendant Elena sees and not this ring as the tension in the room peaks. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'It turned out funny.' Mentioning that it turned out funny moves the talk in a new direction.
-- 'The evening was wonderful.' Elena reminds Barinov that the evening was wonderful before the moment passes.
-- 'Lena, wait, hear me out!' Over the truth and the ring, Barinov lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'There is no need to explain anything.' Realizing that there is no need to explain anything changes how Elena handles the situation.
-- 'It is not for nothing that people recommend you! So pleasant.' Insisting that it is not for nothing that people recommend Barinov shows Vika is not backing down. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Who put a ring in here?!' Questioning whether who put a ring in here is how Barinov tests Elena's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'My back is completely better, thank you!' Vika declares that her back is completely better thank Barinov as the tension in the room peaks.
+- 'Believe me, I do not want to lose you anymore.' Barinov sustains a resolute position with Elena, linking "pover" ("believe"), "bolshe" ("more"), and "khochu" ("want") in one brisk exchange.
+- 'I do!' Elena offers an honest bearing in the conversation, anchoring the Russian line on "soglasna" ("agree") and "ya" ("I") without extra filler.
+- 'Lena, some kind of mistake happened.' Barinov strikes an honest style across the room, linking "proizoshla" ("occurred, there was"), "oshibka" ("mistake"), and "lena" ("Lena") in one brisk exchange.
+- 'That is not what I meant.' Barinov establishes a firm tack at once, anchoring the Russian line on "imel" ("had") and "vidu" ("view, mind") without extra filler.
+- 'I bought a pendant, you see, and not this ring!' Barinov favors a lively tack on the spot, using "pokupal" (from "pokupat", "bought, were buying") alongside "kulon" ("pendant") to shape the meaning.
+- 'It turned out funny.' Elena conveys a candid approach across the room, joining "smeshno" ("ridiculous") to "poluchilos" ("worked out") so every word pulls its weight.
+- 'The evening was wonderful.' Elena offers an honest tone in their talk, weaving "vecher" ("evening") together with "byl" ("was") just the way native speakers do.
+- 'Lena, wait, hear me out!' Barinov holds an honest view as the scene unfolds, building the phrase around "postoy" ("wait") and "vyslushay" ("hear out, listen to") for a crisp, natural delivery.
+- 'There is no need to explain anything.' Elena shares an easygoing approach with Barinov, combining "nado" ("it is necessary") and "obyasnyat" ("to explain") so the key meaning lands right away.
+- 'It is not for nothing that people recommend you! So pleasant.' Vika sustains a playful direction in the room, pairing "zrya" ("for nothing") with "sovetuyut" ("advise") to get the point across in plain spoken Russian.
+- 'Who put a ring in here?!' Barinov inquires sharply as the beat lands, leaning on "polozhil" ("laid, put down") before closing the thought with "syuda" ("here").
+- 'My back is completely better, thank you!' Vika sets a sharp tack in this beat, combining the intensifier "sovsem" ("completely, at all") with "spina" ("back") to give the line its natural spoken rhythm.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The alcohol ran out and the atmosphere of trust was interrupted.' Because the alcohol ran out and the atmosphere of trust was interrupted, the doctor treats the matter as settled.
-- 'Actually, I do not drink.' Explaining that he does not drink lays the cards on the table for Katya.
-- 'But Yekaterina Victorovna turned out to be a very difficult case.' The doctor mentions that someone turned out to be a very difficult case so Katya sees what is at stake.
-- 'Katya went to get a breath of fresh air.' Claiming that Katya went to get a breath of fresh air sounds confident, even if Katya has doubts.
-- 'Kostyan, I got robbed, no, not in Saint Petersburg.' Pointing out that someone he got robbed no not in Saint Petersburg gives the doctor a sobering reality check.
-- 'I will come right now, bye.' Max explains that he will come right now bye, keeping his voice calm and direct. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'What do you mean I am not allowed in here?' By asking what the doctor means he is not allowed in here, Max presses the doctor for a straight answer.
-- 'What are you, a parrot? They are waiting for me, let me pass!' Wondering what the doctor a parrot is cuts straight through the tension between Max and the doctor. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Hi.' Around the point and shift, Katya sets a calm, everyday tone with the doctor.
-- 'How did you end up here?' Here asking how the doctor end up here shows Max looking for the real truth.
-- 'I am climbing along the balcony and I see them beating you.' Mentioning that she is climbing along the balcony and she sees them beating the doctor moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What a great day today.' Around the point and truth, Max sets a calm, everyday tone with the doctor.
+- 'The alcohol ran out and the atmosphere of trust was interrupted.' The doctor favors a calm course during the exchange, weaving "zakonchilsya" ("ended") together with "alkogol" ("alcohol") just the way native speakers do.
+- 'Actually, I do not drink.' The doctor brings a sharp style beside Max, putting "voobshche-to" ("actually") alongside "pyu" ("to drink") in a tight, everyday turn of phrase.
+- 'But Yekaterina Victorovna turned out to be a very difficult case.' The doctor strikes a firm bearing as they talk, leaning on "ochen" ("very much") before closing the thought with "slozhnyy" ("tough, difficult").
+- 'Katya went to get a breath of fresh air.' The doctor brings a warm attitude straight away, combining "poshla" ("am off") and "podyshat" ("to breathe in") so the key meaning lands right away.
+- 'Kostyan, I got robbed, no, not in Saint Petersburg.' Max displays an unhurried approach for the doctor, anchoring the Russian line on "obvorovali" ("robbed") and "kostyan" ("Kostyan") without extra filler.
+- 'I will come right now, bye.' Max establishes a direct tempo straight away, anchoring the Russian line on "seychas" ("now") and "pridu" ("will come") without extra filler.
+- 'What do you mean I am not allowed in here?' Max prompts evenly to keep things clear, placing "znachit" ("then, so") straight beside "syuda" ("here") with no word for "to be" needed.
+- 'What are you, a parrot? They are waiting for me, let me pass!' Max queries honestly as the beat lands, leaning on "popugay" ("parrot") before closing the thought with "zhdut" ("to wait, to expect").
+- 'Hi.' Katya takes a firm direction in front of the doctor, letting the single Russian word "privet" ("hi") carry the entire reaction on its own.
+- 'How did you end up here?' Max questions lightly without holding back, weaving "kak" ("how") together with "zdes" ("here") just the way native speakers do.
+- 'I am climbing along the balcony and I see them beating you.' Katya chooses an easygoing posture for the doctor, anchoring the Russian line on "balkonu" ("balcony") and "lezu" ("am climbing") without extra filler.
+- 'What a great day today.' Max brings a direct note beside Katya, combining "otlichnyy" ("excellent, great") and "segodnya" ("today") so the key meaning lands right away.

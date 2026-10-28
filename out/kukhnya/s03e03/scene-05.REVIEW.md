@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Cutting it wrong? Well, show me how.' Over the fish and the moment, Katya presses Barinov for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Do you think she likes that we are cutting her?' Here asking whether Barinov thinks she likes that they are cutting shows Fedya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I don't know about the flounder, but I find it very pleasant.' Explaining that she does not know about the flounder but she finds it very pleasant lays the cards on the table for Barinov.
-- 'And I can teach you how to cut meat properly.' Fedya explains that he can teach Barinov how to cut meat properly, keeping his voice calm and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Any fool can cut meat.' Realizing that any fool can cut meat changes how Fedya handles the situation.
-- 'He cannot do anything at all except fish.' Even though he cannot do anything at all except fish, Fedya keeps a steady face in front of Barinov.
-- 'Yekaterina, come into my office.' Around the truth and fish, Barinov sets a calm, everyday tone with Fedya.
-- 'What kind of explosion did you stage in my kitchen?' Wondering if what kind of explosion did Fedya stage in his kitchen shows Barinov caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What explosion? I am simply blending into the new team.' When Katya asks if she is simply blending into the new team, Barinov has to answer fast.
-- 'And can you not lecture me? I haven't been fifteen for a long time.' Here asking whether Barinov not lecture shows Katya looking for the real truth. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'In my kitchen you will always be fifteen.' Adding that in his kitchen Fedya will always be fifteen fills in the missing piece for Fedya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I forbid you! Where are you going?' Asking whether he forbids Fedya puts Fedya right on the defensive.
+- 'Cutting it wrong? Well, show me how.' Katya quizzes frankly as the beat lands, joining "nepravilno" ("wrongly") to "rezhesh" ("cut, slice") so every word pulls its weight.
+- 'Do you think she likes that we are cutting her?' Fedya challenges boldly to make the point, leaning on "dumayesh" ("think") before closing the thought with "priyatno" ("pleasant").
+- 'I don't know about the flounder, but I find it very pleasant.' Katya shares a clear stance on the spot, putting "znayu" ("know") alongside "kambaly" ("flounder") in a tight, everyday turn of phrase.
+- 'And I can teach you how to cut meat properly.' Fedya takes a pointed line as they talk, building the phrase around "mogu" ("can") and "nauchit" ("to teach") for a crisp, natural delivery.
+- 'Any fool can cut meat.' Fedya favors a thoughtful position beside Barinov, leaning on "myaso" ("meat") before closing the thought with "lyuboy" ("any").
+- 'He cannot do anything at all except fish.' Fedya sets a serious tack with Katya, putting "voobshche" ("at all") alongside "ryby" ("of fish") in a tight, everyday turn of phrase.
+- 'Yekaterina, come into my office.' Barinov projects a natural position as they talk, building the phrase around "zaydite" ("come in") and "yekaterina" ("Yekaterina") for a crisp, natural delivery.
+- 'What kind of explosion did you stage in my kitchen?' Barinov queries warmly on the spot, building the phrase around "vzryv" ("explosion") and "ustroila" ("staged, caused") for a crisp, natural delivery.
+- 'What explosion? I am simply blending into the new team.' Katya questions briskly in front of Barinov, putting "vzryv" ("explosion") alongside "prosto" ("just") in a tight, everyday turn of phrase.
+- 'And can you not lecture me? I haven't been fifteen for a long time.' Katya queries boldly without hesitation, putting "mozhno" ("may, can") alongside "uchit" ("to learn") in a tight, everyday turn of phrase.
+- 'In my kitchen you will always be fifteen.' Barinov maintains a playful tack right away, pairing "kukhne" ("kitchen") with "vsegda" ("always") to get the point across in plain spoken Russian.
+- 'I forbid you! Where are you going?' Barinov inquires candidly in the scene, combining "zapreshchayu" ("forbid") and "kuda" ("where to") so the key meaning lands right away.

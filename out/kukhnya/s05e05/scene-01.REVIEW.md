@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not drink anything for a minute!' Kostya insists that do not drink anything for a minute, leaving Max no room to argue.
-- 'The rookie has returned!' Saying that the rookie has returned is how Kostya takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Vika, wait!' With the conversation and hotel at stake, Max reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'We need to talk!' Here needing to talk lets Max's real feelings break through.
-- 'I know that you are pregnant!' Max declares that he knows that Kostya is pregnant as the tension in the room peaks. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Who told you?' When Vika asks if who told Kostya, Kostya has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It does not matter who told me this.' Saying that it does not matter who told him this is how Max sets the tone with Kostya.
-- 'The main thing is that I am here.' Once the main thing is that he is here, Max can finally tell Kostya what he means.
-- 'I am ready to be the father of this child.' By being ready to be the father of this child, Max keeps his side of the story grounded.
-- 'How noble.' With the shift and hotel in play, Vika keeps this short reply brisk and direct.
-- 'Relax.' Around the shift and hotel, Vika sets a calm, everyday tone with Kostya.
-- 'This is not your child.' Mentioning that this is not Kostya's child moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Do not drink anything for a minute!' Kostya sustains a serious tempo right away, using "minutu" (from "minuta", "a minute") alongside "pit" ("drink") to shape the meaning.
+- 'The rookie has returned!' Kostya adopts a natural tempo in the room, pairing "vernulsya" ("returned") with "oguzok" ("Rump") to get the point across in plain spoken Russian.
+- 'Vika, wait!' Max sustains an honest view across the room, leaning on "podozhdi" ("wait") before closing the thought with "vika" ("Vika").
+- 'We need to talk!' Max projects a direct manner without hesitation, weaving "nuzhno" ("necessary") together with "pogovorit" ("to talk") just the way native speakers do.
+- 'I know that you are pregnant!' Max conveys a clear bearing during the exchange, building the phrase around "znayu" ("know") and "beremennaya" ("pregnant") for a crisp, natural delivery.
+- 'Who told you?' Vika inquires wryly with Max now, weaving "skazal" ("said") together with "kto" ("who") just the way native speakers do.
+- 'It does not matter who told me this.' Max brings an earnest mood in this beat, putting "vazhno" ("important, mattering") alongside "skazal" ("said") in a tight, everyday turn of phrase.
+- 'The main thing is that I am here.' Max adopts a thoughtful tack as the scene unfolds, combining "glavnoye" ("important") and "zdes" ("here") so the key meaning lands right away.
+- 'I am ready to be the father of this child.' Max picks a wry tone at this moment, anchoring the Russian line on "gotov" ("ready") and "byt" ("be") without extra filler.
+- 'How noble.' Vika holds a thoughtful posture as they talk, combining "kak" ("how") and "blagorodno" ("nobly") so the key meaning lands right away.
+- 'Relax.' Vika sets a firm tempo with Kostya, letting the single Russian word "rasslabsya" ("relax") carry the entire reaction on its own.
+- 'This is not your child.' Vika holds a calm course with Max, linking "rebyonok" ("a child") directly with "eto" ("this"), since Russian drops "is" and "are" in the present.

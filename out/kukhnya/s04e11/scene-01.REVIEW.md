@@ -13,7 +13,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Макс | Если бы Шекспир жил в наше время. | If Shakespeare lived in our time. | #1: Если бы Шекспир жил в наше время | verbatim |
 | 2 | Макс | Он бы, наверное, сказал именно так. | He would probably have put it just like this. | #1: он бы, наверное, сказал так | adapted: adapted for A1 clarity |
 | 3 | Макс | Два шефа ведут между собой бои. | Two chefs wage battles between themselves. | #4: бои | adapted: adapted for A1 clarity |
-| 4 | Макс | Друг в друга влюблены Виктория и Макс. | Viktoriya and Max are in love with each other. | #6: Друг в друга влюблены Виктория и Макс | verbatim |
+| 4 | Вика | Друг в друга влюблены Виктория и Макс. | Viktoriya and Max are in love with each other. | #6: Друг в друга влюблены Виктория и Макс | verbatim |
 | 5 | Вика | Макс, ну это что такое? | Max, well, what is this? | #8: Это что такое | adapted: adapted for A1 clarity |
 | 6 | Макс | Женщина, не отвлекай, я сейчас проигрываю! | Woman, do not distract me, I am losing right now! | #9: не отвлекай, я проигрываю | adapted: adapted for A1 clarity |
 | 7 | Вика | Макс, я же тебя просила починить. | Max, I asked you to fix it. | #12: Макс, я тебя просила починить | adapted: adapted for A1 clarity |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If Shakespeare lived in our time.' Admitting that if Shakespeare lived in their time shows Max being honest for a change.
-- 'He would probably have put it just like this.' Saying that he would probably have put it just like this is how Max sets the tone with Vika.
-- 'Two chefs wage battles between themselves.' Around the boss and kitchen, Max sets a calm, everyday tone with Vika.
-- 'Viktoriya and Max are in love with each other.' Adding that Viktoriya and Max are in love with each other fills in the missing piece for Vika.
-- 'Max, well, what is this?' With the boss and kitchen hanging in the air, Vika puts Max on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Woman, do not distract me, I am losing right now!' Once woman do not distract him he is losing right now, Max makes sure Vika hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Max, I asked you to fix it.' Mentioning that she asked Max to fix it moves the talk in a new direction.
-- 'And you simply unscrewed this thing!' Between the boss and the kitchen, Vika delivers a sharp reaction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Vika, wash up without the shower head for now.' Here telling Vika to wash up without the shower head for now sets up the next turn in their exchange.
-- 'I will buy a new one later and screw it on.' Explaining that he will buy a new one later and screw it lays the cards on the table for Vika.
-- 'Vika, what are you doing in there?' Asking what Vika doing in there is is how Max puts Vika on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I am doing what you are supposed to do.' Explaining that she is doing what Max is supposed to do lays the cards on the table for Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'In this house I am both the man and the woman.' Pointing out that in this house she is both the man and the woman gives Max a sobering reality check.
+- 'If Shakespeare lived in our time.' Max maintains a measured line in their talk, leaning on "shekspir" ("time") before closing the thought with "zhil" ("lived").
+- 'He would probably have put it just like this.' Max sustains a frank footing on the spot, building the phrase around "navernoye" ("probably") and "skazal" ("said") for a crisp, natural delivery.
+- 'Two chefs wage battles between themselves.' Max favors a candid style in this beat, joining "shefa" ("chef") to "vedut" ("to lead, to conduct") so every word pulls its weight.
+- 'Viktoriya and Max are in love with each other.' Vika presents a pointed stance across the room, joining "drug" ("friend") to "druga" ("the friend") so every word pulls its weight.
+- 'Max, well, what is this?' Vika wonders pointedly in their exchange, linking "maks" ("Max") directly with "nu" ("oh, come on"), since Russian drops "is" and "are" in the present.
+- 'Woman, do not distract me, I am losing right now!' Max adopts a serious style at this moment, pairing "seychas" ("now") with "zhenshchina" ("woman") so the "-sya" ending carries the action.
+- 'Max, I asked you to fix it.' Vika holds a grounded posture in the conversation, linking "prosila" ("asked"), "pochinit" ("to fix, mend"), and "maks" ("Max") in one brisk exchange.
+- 'And you simply unscrewed this thing!' Vika presents a wry posture right away, combining "prosto" ("just") and "otkrutil" ("to thing") so the key meaning lands right away.
+- 'Vika, wash up without the shower head for now.' Max strikes a wry posture for Vika, building the phrase around "pomoysya" ("wash") and "poka" ("bye") for a crisp, natural delivery.
+- 'I will buy a new one later and screw it on.' Max sets a thoughtful direction in the conversation, putting "potom" ("then") alongside "kuplyu" ("will buy") in a tight, everyday turn of phrase.
+- 'Vika, what are you doing in there?' Max probes dryly on the spot, linking "tam" ("there"), "delayesh" ("are you doing"), and "vika" ("Vika") in one brisk exchange.
+- 'I am doing what you are supposed to do.' Vika strikes a calm footing across the room, building the phrase around "delayu" ("I make") and "dolzhen" ("has to, must") for a crisp, natural delivery.
+- 'In this house I am both the man and the woman.' Vika presents a resolute stance straight away, combining "dome" ("house") and "muzhchina" ("man") so the key meaning lands right away.

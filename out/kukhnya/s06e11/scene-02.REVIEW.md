@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor, attention, Dyagilev is on his way to us right now.' Mikhail mentions that attention Dyagilev is on his way to them right now so Barinov sees what is at stake.
-- 'He has an important meeting scheduled here today.' Having an important meeting scheduled here today is how Mikhail lays out the situation for Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'My reliable contact informed me about this.' With the restaurant and visit in play, Mikhail keeps this short reply brisk and direct.
-- 'Good morning, your contact is reliable, but very slow.' Barinov explains that Eleonora's contact is reliable but very slow, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Because he has been sitting here for a long time already.' Realizing that because he has been sitting here for a long time already changes how Barinov handles the situation.
-- 'So where did you and I leave off?' Asking where Barinov and she leaves off is how Eleonora puts Barinov on the spot.
-- 'You and I were talking about my Nikita.' Even though Barinov and he were talking about his Nikita, Mikhail keeps a steady face in front of Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You know, he is handling the job very well.' Admitting that he is handling the job very well shows Eleonora being honest for a change.
-- 'That is good, because he tells me nothing at all.' Saying that that is good because he tells him nothing at all is how Mikhail sets the tone with Barinov.
-- 'I understand you, I have a daughter of the same age.' Saying that she understands Barinov she has a daughter of the same age is how Eleonora sets the tone with Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'And you know, you cannot get a word out of her.' Adding that Barinov cannot get a word out fills in the missing piece for Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Welcome to our restaurant, dear guest!' Between the hotel and the restaurant, Barinov delivers a sharp reaction.
-- 'Listen, I did not know that you have a daughter.' Since he did not know that Barinov has a daughter, Mikhail does not waste words on excuses. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Viktor, attention, Dyagilev is on his way to us right now.' Mikhail brings a direct note beside Barinov, putting "vnimaniye" ("attention") alongside "seychas" ("now") in a tight, everyday turn of phrase.
+- 'He has an important meeting scheduled here today.' Mikhail offers a sharp mood without hesitation, joining "zdes" ("here") to "segodnya" ("today") so every word pulls its weight.
+- 'My reliable contact informed me about this.' Mikhail sets a warm note toward Barinov, building the phrase around "nadyozhnyy" ("reliable") and "chelovek" ("a man, a person") for a crisp, natural delivery.
+- 'Good morning, your contact is reliable, but very slow.' Barinov sustains an easygoing bearing at once, putting "dobroye" ("good") alongside "utro" ("morning") in a tight, everyday turn of phrase.
+- 'Because he has been sitting here for a long time already.' Barinov shows a serious bearing at once, weaving "potomu" ("because") together with "uzhe" ("already, now") just the way native speakers do.
+- 'So where did you and I leave off?' Eleonora wonders dryly in their exchange, leaning on "ostanovilis" ("to stop") before closing the thought with "tak" ("so").
+- 'You and I were talking about my Nikita.' Mikhail sustains a natural approach in the scene, linking "govorili" ("talked"), "my" ("we"), and "toboy" ("you") in one brisk exchange.
+- 'You know, he is handling the job very well.' Eleonora shows a brisk posture in the scene, pairing "spravlyayetsya" ("to cope, manage") with "znayesh" ("know") so the "-sya" ending carries the action.
+- 'That is good, because he tells me nothing at all.' Mikhail keeps a pointed posture at this moment, leaning on "khorosho" ("good, fine") before closing the thought with "rasskazyvayet" ("tells").
+- 'I understand you, I have a daughter of the same age.' Eleonora jumps in calmly to Mikhail here, using the everyday "u menya" ("by me") alongside "ponimayu" ("understand") to show what belongs to the speaker.
+- 'And you know, you cannot get a word out of her.' Eleonora favors a firm rhythm at once, joining "znayesh" ("know") to "slova" ("words") so every word pulls its weight.
+- 'Welcome to our restaurant, dear guest!' Barinov brings a resolute angle toward Mikhail, joining "dobro" ("good, kindness") to "pozhalovat" ("to welcome") so every word pulls its weight.
+- 'Listen, I did not know that you have a daughter.' Mikhail shares a calm approach during the exchange, using "slushay" (from "slushat", "listen") alongside "znal" ("knew") to shape the meaning.

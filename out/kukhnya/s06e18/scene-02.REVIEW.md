@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich will definitely recover soon.' Even though Viktor Petrovich will definitely recover soon, Eleonora keeps a steady face in front of Fedya.
-- 'Just no panic at all for now.' Around the plan and boss, Eleonora sets a calm, everyday tone with Fedya.
-- 'Lyova has a bad leg sprain.' Saying that Lyova has a bad leg sprain is how Eleonora sets the tone with Fedya.
-- 'He is sidelined for about a week.' Once he is sidelined for about a week, Eleonora can finally tell Fedya what she means.
-- 'I will hire a temporary chef.' Adding that she will hire a temporary fills in the missing piece for Fedya.
-- 'For a week we will manage somehow by ourselves.' Senya tells Eleonora that for a week they will manage somehow by themselves without dressing it up.
-- 'We worked three weeks without the chef.' Since they worked three weeks, Fedya does not waste words on excuses.
-- 'We are all true professionals, after all.' Mentioning that they are all true professionals after all moves the talk in a new direction.
-- 'I will accept the fresh fish myself.' Saying that he will accept the fresh fish himself is how Senya sets the tone with Eleonora.
-- 'Are you the boss in here now, or what?' Here asking whether Eleonora the boss in here now shows Fedya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You are a completely irresponsible cook.' Explaining that Eleonora is a completely irresponsible cook lays the cards on the table for Eleonora. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'They will steal the whole kitchen under you.' Fedya mentions that they will steal the whole kitchen under Eleonora so Eleonora sees what is at stake.
+- 'Viktor Petrovich will definitely recover soon.' Eleonora favors a frank note without hesitation, weaving "obyazatelno" ("surely, without fail") together with "skoro" ("soon") just the way native speakers do.
+- 'Just no panic at all for now.' Eleonora sustains a wry attitude in their talk, weaving "tolko" ("only") together with "poka" ("bye") just the way native speakers do.
+- 'Lyova has a bad leg sprain.' Eleonora shows a resolute manner beside Fedya, using "silnoye" (from "silnyy", "strong") alongside "rastyazheniye" ("sprain") to shape the meaning.
+- 'He is sidelined for about a week.' Eleonora holds a playful tempo during the exchange, joining "vybyl" ("dropped out") to "primerno" ("approximately") so every word pulls its weight.
+- 'I will hire a temporary chef.' Eleonora maintains a playful rhythm as they talk, pairing "naymu" ("I will hire") with "vremennogo" ("temporary") to get the point across in plain spoken Russian.
+- 'For a week we will manage somehow by ourselves.' Senya strikes a measured position as they talk, weaving "nedelyu" ("for a week") together with "kak-nibud" ("somehow") just the way native speakers do.
+- 'We worked three weeks without the chef.' Fedya sustains a firm posture as the scene unfolds, linking "nedeli" ("weeks"), "shefa" ("chef"), and "rabotali" ("worked") in one brisk exchange.
+- 'We are all true professionals, after all.' Senya picks a clear bearing in the scene, putting "nastoyashchiye" ("real") alongside "professionaly" ("professionals") in a tight, everyday turn of phrase.
+- 'I will accept the fresh fish myself.' Senya offers a lively posture with Eleonora, joining "primu" ("will accept") to "svezhuyu" ("fresh") so every word pulls its weight.
+- 'Are you the boss in here now, or what?' Fedya quizzes evenly to make the point, pairing "teper" ("now") with "tut" ("here") to get the point across in plain spoken Russian.
+- 'You are a completely irresponsible cook.' Senya shares a warm view in the scene, linking "sovsem" ("at all") directly with "bezotvetstvennyy" ("irresponsible"), since Russian drops "is" and "are" in the present.
+- 'They will steal the whole kitchen under you.' Fedya chooses a grounded tempo in this beat, building the phrase around "kukhnyu" ("kitchen") and "razvoruyut" ("they will steal everything") for a crisp, natural delivery.

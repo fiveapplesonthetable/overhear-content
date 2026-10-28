@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, we need to talk.' Needing to talk is how Vika lays out the situation for Max.
-- 'Let us not do it right now.' Once they should not do it right now, Max can finally tell Vika what he means. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'You must know something.' Vika reminds Max that Max must know something before the moment passes. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Your grandmother is seriously ill.' Because Max's grandmother is seriously ill, Vika treats the matter as settled.
-- 'She has a couple of months left.' Pointing out that she has a couple of months left gives Max a sobering reality check.
-- 'Grandma too?' With the point and news hanging in the air, Max puts Vika on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, Maxim Ilyich said so.' Claiming that Maxim Ilyich said sounds confident, even if Max has doubts.
-- 'Wait, what does 'too' With the point and meat hanging in the air, Vika puts Max on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Grandpa told me that he is the one with two months left!' Declaring that Grandpa told him that he is the one with two months left brings Max's temper right to the surface. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'He fooled both of us!' Over the truth and the news, Vika lets her real feelings show.
-- 'Now at least it is clear who you take after.' Noting that at least it is clear who Max takes keeps Vika's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Grandpa, we need to have a serious talk!' Max declares that Grandpa they need to have a serious talk as the tension in the room peaks. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Max, we need to talk.' Vika sets a natural course in the conversation, leaning on "nuzhno" ("necessary") before closing the thought with "pogovorit" ("to talk").
+- 'Let us not do it right now.' Max favors a steady manner in their talk, using "davay" (from "davat", "let's") alongside "seychas" ("now") to shape the meaning.
+- 'You must know something.' Vika maintains a measured tempo beside Max, anchoring the Russian line on "dolzhen" ("has to, must") and "znat" ("to know") without extra filler.
+- 'Your grandmother is seriously ill.' Vika brings a frank note across the room, weaving "babushka" ("old lady") together with "seryozno" ("seriously") just the way native speakers do.
+- 'She has a couple of months left.' Vika presents a playful footing in front of Max, combining "ostalos" ("was left") and "paru" ("couple") so the key meaning lands right away.
+- 'Grandma too?' Max tests plainly at this point, leaning on "babushka" ("old lady") before closing the thought with "tozhe" ("too").
+- 'Yes, Maxim Ilyich said so.' Vika holds a candid view without hesitation, pairing "ilich" ("Ilyich") with "skazal" ("said") to get the point across in plain spoken Russian.
+- 'Wait, what does 'too' Vika inquires steadily on the spot, anchoring the Russian line on "podozhdi" ("wait") and "znachit" ("then, so") without extra filler.
+- 'Grandpa told me that he is the one with two months left!' Max chooses an honest angle in their talk, anchoring the Russian line on "ded" ("grandfather") and "skazal" ("said") without extra filler.
+- 'He fooled both of us!' Vika maintains an earnest tack in front of Max, anchoring the Russian line on "obmanul" ("cheated") and "oboikh" ("both") without extra filler.
+- 'Now at least it is clear who you take after.' Vika projects a resolute style for Max, joining "teper" ("now") to "ponyatno" ("clear") so every word pulls its weight.
+- 'Grandpa, we need to have a serious talk!' Max displays a lively tempo during the exchange, building the phrase around "ded" ("grandfather") and "nado" ("it is necessary") for a crisp, natural delivery.

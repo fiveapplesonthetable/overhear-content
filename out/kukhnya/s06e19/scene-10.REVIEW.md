@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, tell me, is that you right now?' Asking whether tell him is that Kostya right now puts Kostya right on the defensive.
-- 'It seems we drank way too much yesterday.' Kostya explains that it seems they drank way too much yesterday, keeping his voice calm and direct.
-- 'I do not remember anything at all.' Realizing that he does not remember anything at all changes how Denis handles the situation. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'My heart nearly stopped!' Because his heart nearly stopped, Kostya does not bother softening the blow for Denis.
-- 'You stole the wedding dress after all!' Insisting that Denis stole the wedding dress after all shows Kostya is not backing down. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Wait, did I really do that?' Asking whether he really does is how Denis puts Kostya on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Do you remember anything at all right now?' Here asking whether Kostya remembers anything at all right now shows Denis looking for the real truth.
-- 'Last night we were at the hotel.' Once last night they were at the hotel, Kostya can finally tell Denis what he means.
-- 'Where did we get the room key from?' Asking where they get the room key cuts straight through the tension between Kostya and Denis. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I had that key with me.' Saying that he had that key with him is how Denis sets the tone with Kostya.
-- 'We need to return it back urgently.' Here needing to return it back urgently sets up the next turn in their exchange. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Quickly return the wedding dress to Katya!' With the kitchen and morning at stake, Kostya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Kostya, tell me, is that you right now?' Denis questions steadily toward Kostya here, putting "skazhi" ("say") alongside "seychas" ("now") in a tight, everyday turn of phrase.
+- 'It seems we drank way too much yesterday.' Kostya maintains a measured course in the scene, building the phrase around "kazhetsya" ("it seems, I think") and "vchera" ("yesterday") for a crisp, natural delivery.
+- 'I do not remember anything at all.' Denis favors a wry direction right away, pairing "voobshche" ("at all") with "pomnyu" ("remember") to get the point across in plain spoken Russian.
+- 'My heart nearly stopped!' Kostya conveys a serious tack with Denis, weaving "chut" ("almost, nearly") together with "serdtse" ("heart") just the way native speakers do.
+- 'You stole the wedding dress after all!' Kostya shares a frank note in their talk, putting "spyor" ("stole, swiped") alongside "svadebnoye" ("wedding") in a tight, everyday turn of phrase.
+- 'Wait, did I really do that?' Denis queries earnestly during the talk, building the phrase around "podozhdi" ("wait") and "sdelal" ("did") for a crisp, natural delivery.
+- 'Do you remember anything at all right now?' Denis queries sharply as they speak, joining "seychas" ("now") to "pomnish" ("do you remember") so every word pulls its weight.
+- 'Last night we were at the hotel.' Kostya maintains a measured posture in front of Denis, building the phrase around "vchera" ("yesterday") and "nochyu" ("night") for a crisp, natural delivery.
+- 'Where did we get the room key from?' Kostya queries calmly for Denis's benefit, building the phrase around "otkuda" ("where from") and "vzyali" ("took, arrested") for a crisp, natural delivery.
+- 'I had that key with me.' Denis displays a grounded posture right away, using the everyday "u menya" ("by me") alongside "klyuch" ("key") to show what belongs to the speaker.
+- 'We need to return it back urgently.' Kostya holds a candid rhythm in this beat, leaning on "nado" ("it is necessary") before closing the thought with "srochno" ("urgent, urgently").
+- 'Quickly return the wedding dress to Katya!' Kostya holds a grounded bearing right away, building the phrase around "bystro" ("quickly") and "verni" ("return") for a crisp, natural delivery.

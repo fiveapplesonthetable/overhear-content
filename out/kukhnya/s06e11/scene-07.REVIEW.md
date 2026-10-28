@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, listen, your name is Denis, right?' Wondering if Denis's name is Denis right shows the guest caught off guard.
-- 'Yes, that is me, and what do you need?' Questioning whether that is him and what do the guest needs is how Denis tests the guest's story. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Hi, Sveta, where did you disappear to last night?' Wondering where Denis disappear to last night is how the guest puts Denis on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'My stomach hurt, and I went home.' Sveta explains that her stomach hurt and she went home, keeping her voice calm and direct.
-- 'And why are you not answering the phone all day?' By asking why Denis not answering the phone all day is, the guest presses Denis for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Guys, help quickly, they are fighting out here in the courtyard!' By telling the guest to help quickly they are fighting out here in the courtyard, Denis raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Alright, we calmed down, I gave you a serious warning.' Even though Alright they calmed down he gave Denis a serious warning, the guest keeps a steady face in front of Denis.
-- 'Make sure I do not see you with her again!' Making sure he does not see Denis with her again shows the guest is done holding back. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Sveta, tell me, who on earth was that just now?' Asking whether tell him who on earth was that just now puts the guest right on the defensive. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Sorry, Denis, that was my ex-boyfriend.' Once that was her ex boyfriend, Sveta can finally tell Denis what she means.
-- 'How do you feel, my poor defender?' Wondering how Denis feels her poor defender is how Sveta puts Denis on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Everything is fine with me, it is nothing serious.' Denis tells the guest that everything is fine with him it is nothing serious without dressing it up.
-- 'Can you imagine, nobody has ever fought over me before!' Because can Denis imagines nobody has ever fought, Sveta does not bother softening the blow for Denis.
+- 'Hey, listen, your name is Denis, right?' The guest wonders candidly in their exchange, combining "poslushay" ("listen") and "zovut" ("call") so the key meaning lands right away.
+- 'Yes, that is me, and what do you need?' Denis probes wryly without hesitation, weaving "nuzhno" ("necessary") together with "da" ("yes") just the way native speakers do.
+- 'Hi, Sveta, where did you disappear to last night?' The guest asks steadily to Denis here, using "sveta" (from "svet", "electricity") alongside "kuda" ("where to") to shape the meaning.
+- 'My stomach hurt, and I went home.' Sveta adopts a serious posture in the scene, joining "zhivot" ("belly") to "zabolel" ("to fall ill") so every word pulls its weight.
+- 'And why are you not answering the phone all day?' The guest wonders warmly to keep things clear, combining "pochemu" ("why") and "tselyy" ("whole, all") so the key meaning lands right away.
+- 'Guys, help quickly, they are fighting out here in the courtyard!' Denis picks a candid tone toward Sveta, putting "rebyata" ("the boys, the lads") alongside "pomogite" ("help") in a tight, everyday turn of phrase.
+- 'Alright, we calmed down, I gave you a serious warning.' The guest holds a wry footing during the exchange, anchoring the Russian line on "uspokoilis" ("have calmed down") and "seryozno" ("seriously") without extra filler.
+- 'Make sure I do not see you with her again!' The guest shares a calm tempo with Sveta, leaning on "smotri" ("look") before closing the thought with "bolshe" ("more").
+- 'Sveta, tell me, who on earth was that just now?' Denis asks warmly to keep things clear, combining the conversational booster "voobshche" ("in general, overall") with "sveta" ("electricity") to give the line its natural spoken rhythm.
+- 'Sorry, Denis, that was my ex-boyfriend.' Sveta chooses a resolute direction with the guest, anchoring the Russian line on "prosti" ("sorry, forgive me") and "byl" ("was") without extra filler.
+- 'How do you feel, my poor defender?' Sveta asks decisively in the scene, anchoring the Russian line on "kak" ("how") and "chuvstvuyesh" ("feel") without extra filler.
+- 'Everything is fine with me, it is nothing serious.' Denis maintains a serious note for Sveta, pairing "normalno" ("fine, OK") with "strashnogo" ("terrible, serious") to get the point across in plain spoken Russian.
+- 'Can you imagine, nobody has ever fought over me before!' Sveta sustains an emphatic line in the conversation, anchoring the Russian line on "predstavlyayesh" ("can you imagine") and "yeshchyo" ("more, still") without extra filler.

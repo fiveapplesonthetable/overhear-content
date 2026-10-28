@@ -16,9 +16,9 @@ TRANSITION = "Alright, let's hear the entire conversation one more time from sta
 OUTRO = "And that brings the standoff outside Mikhail's office to a close. Notice Vika's exasperated suggestion to toss a coin to settle the feud. Until next time!"
 CLOSING = ('vika', 'Пока!')
 STORY = [
-    ('barinov', 'О, доброе утро, шеф!', 'Oh, good morning, Chef!', [(208, 'О, доброе утро, шеф!')], 'verbatim'),
+    ('mikhail', 'О, доброе утро, шеф!', 'Oh, good morning, Chef!', [(208, 'О, доброе утро, шеф!')], 'verbatim'),
     ('barinov', 'Михаил сделает нам туалет, как просим.', 'Mikhail will give us a restroom as we ask.', [(209, 'сделает нам туалет, как мы просим')], 'adapted'),
-    ('barinov', 'Шеф, я там совсем чуть-чуть.', 'Chef, I only need a tiny moment in there.', [(210, 'Шеф, я там совсем чуть-чуть')], 'verbatim'),
+    ('mikhail', 'Шеф, я там совсем чуть-чуть.', 'Chef, I only need a tiny moment in there.', [(210, 'Шеф, я там совсем чуть-чуть')], 'verbatim'),
     ('mikhail', 'Пожалуйста, не волнуйтесь.', 'Please, do not worry.', [(213, 'Пожалуйста, не волнуйтесь')], 'verbatim'),
     ('mikhail', 'Сейчас мы всё быстро исправим.', 'Right now we will fix everything quickly.', [(213, 'Сейчас все исправим')], 'adapted'),
     ('mikhail', 'Что там, лифт сломался?', 'What is going on there, did the elevator break?', [(215, 'Что там, лифт сломался?')], 'verbatim'),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Не можете договориться? Монетку бросьте.', 'Cannot reach an agreement? Toss a coin.', [(226, 'Не можете договориться? Монетку бросьте')], 'verbatim'),
 ]
 WALK = [
-    (0, None, "'Oh, good morning, Chef!' Around the shift and argument, Barinov makes his point loud and clear."),
-    (1, None, "'Mikhail will give us a restroom as we ask.' Explaining that Mikhail will give them a restroom as they ask lays the cards on the table for Mikhail."),
-    (2, None, "'Chef, I only need a tiny moment in there.' Barinov explains that he only needs a tiny moment in there, keeping his voice calm and direct."),
-    (3, None, "'Please, do not worry.' Because do not worry, Mikhail treats the matter as settled."),
-    (4, None, "'Right now we will fix everything quickly.' Noting that right now they will fix everything quickly keeps Mikhail's side of the story simple and clear."),
-    (5, None, '\'What is going on there, did the elevator break?\' Wondering what going on there did the elevator break is cuts straight through the tension between Mikhail and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (6, None, "'No, Mikhail, there is a little problem there.' Admitting that there is a little problem there shows Vika being honest for a change."),
-    (7, None, "'I am checking whether everything is ready for the opening.' Admitting that he is checking whether everything is ready for the opening shows Barinov being honest for a change."),
-    (8, None, '\'Would you not like to join us?\' By checking whether Mikhail not like to join them, Barinov presses Mikhail for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (9, None, "'We will lose all our guests like this!' Once they will lose all their guests like this, Mikhail makes sure Barinov hears every word."),
-    (10, None, "'If you want to keep them, stay out of my way!' Declaring that if Mikhail wants to keep them stay out of his way brings Barinov's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (11, None, '\'Goodness, why are you acting like children?\' Vika asks whether goodness why are Barinov acting like children, refusing to let the point slide. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.'),
-    (12, None, "'Cannot reach an agreement? Toss a coin.' Asking whether cannot reach an agreement puts Barinov right on the defensive."),
+    (0, None, '\'Oh, good morning, Chef!\' Mikhail adopts a playful posture for Barinov, combining "dobroye" ("good") and "utro" ("morning") so the key meaning lands right away.'),
+    (1, None, '\'Mikhail will give us a restroom as we ask.\' Barinov adopts a resolute stance in the scene, anchoring the Russian line on "sdelayet" ("will do") and "tualet" ("toilet") without extra filler.'),
+    (2, None, '\'Chef, I only need a tiny moment in there.\' Mikhail holds an easygoing attitude as the scene unfolds, linking "tam" ("there"), "sovsem" ("at all"), and "chut-chut" ("a little bit") in one brisk exchange.'),
+    (3, None, '\'Please, do not worry.\' Mikhail picks an emphatic mood as the scene unfolds, putting "volnuytes" ("worry") alongside "pozhaluysta" ("please") in a tight, everyday turn of phrase.'),
+    (4, None, '\'Right now we will fix everything quickly.\' Mikhail sets a serious footing with Barinov, putting "seychas" ("now") alongside "bystro" ("quickly") in a tight, everyday turn of phrase.'),
+    (5, None, '\'What is going on there, did the elevator break?\' Mikhail inquires sharply beside Vika, building the phrase around "tam" ("there") and "lift" ("elevator") for a crisp, natural delivery.'),
+    (6, None, '\'No, Mikhail, there is a little problem there.\' Vika sets a thoughtful approach at once, anchoring the Russian line on "tam" ("there") and "nebolshaya" ("small") without extra filler.'),
+    (7, None, '\'I am checking whether everything is ready for the opening.\' Barinov projects a candid bearing in this beat, using "proveryayu" (from "proveryat", "to check, test") alongside "gotovo" ("ready") to shape the meaning.'),
+    (8, None, '\'Would you not like to join us?\' Barinov probes boldly in the scene, putting "khotite" ("want") alongside "prisoyedinitsya" ("to join") in a tight, everyday turn of phrase.'),
+    (9, None, '\'We will lose all our guests like this!\' Mikhail takes a grounded direction as they talk, building the phrase around "gostey" ("guests") and "poteryayem" ("will lose") for a crisp, natural delivery.'),
+    (10, None, '\'If you want to keep them, stay out of my way!\' Barinov presents an emphatic direction for Mikhail, leaning on "khochesh" ("do you want") before closing the thought with "sokhranit" ("to preserve").'),
+    (11, None, '\'Goodness, why are you acting like children?\' Vika challenges pointedly as the beat lands, building the phrase around "kak" ("how") and "deti" ("kids") for a crisp, natural delivery.'),
+    (12, None, '\'Cannot reach an agreement? Toss a coin.\' Vika counters wryly without a pause, leaning on "mozhete" ("can, may") before closing the thought with "dogovoritsya" ("to reach an agreement").'),
 ]

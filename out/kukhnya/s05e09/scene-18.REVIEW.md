@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you have a new look? A moustache?' Here asking whether the guest has a new look shows Max looking for the real truth. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'I am filming in a new music video.' Being filming in a new music video is how the guest lays out the situation for Max.
-- 'Vika, here is Iosif.' Noting that here is Iosif keeps Max's side of the story simple and clear.
-- 'Hello.' Around the truth and hotel, the guest sets a calm, everyday tone with Max.
-- 'Well done, he looks like him! Congratulations.' Vika insists that done he looks like him, leaving the guest no room to argue.
-- 'What do you mean?' By asking what the guest means, Max presses the guest for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And did you not think to shave the moustache?' Checking whether the guest not think to shave the moustache cuts straight through the tension between Vika and the guest. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Then he would have looked completely alike.' Adding that he would have looked completely alike fills in the missing piece for the guest.
-- 'Mister, go home.' With the mistake and hotel in play, Vika keeps this short reply brisk and direct.
-- 'Your performance has dragged on.' Since the guest's performance has dragged, Vika does not waste words on excuses. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'I really am Iosif Prigozhin!' Around the moment and car, the guest makes his point loud and clear.
-- 'Vika, wait! I will not let you go until you believe me.' Insisting that he will not let the guest goes until the guest believes him shows Max is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Do you have a new look? A moustache?' Max inquires wryly to keep things clear, putting "novyy" ("new") alongside "imidzh" ("image, look") in a tight, everyday turn of phrase.
+- 'I am filming in a new music video.' The guest displays a firm tack in this beat, leaning on "snimayus" ("act") before closing the thought with "novom" ("new").
+- 'Vika, here is Iosif.' Max offers a serious view as they talk, pairing "vika" ("Vika") with "vot" ("there, here") to get the point across in plain spoken Russian.
+- 'Hello.' The guest projects a pointed posture right away, using "zdravstvuyte" ("hello") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Well done, he looks like him! Congratulations.' Vika favors an honest course in their talk, weaving "molodets" ("well done, good boy") together with "pokhozh" ("look like, similar") just the way native speakers do.
+- 'What do you mean?' Max inquires quietly beside Vika, using "smysle" ("sense") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'And did you not think to shave the moustache?' Vika challenges honestly to the guest here, anchoring the Russian line on "usy" ("mustache") and "dogadalis" ("guessed, thought of") without extra filler.
+- 'Then he would have looked completely alike.' Vika conveys a grounded mood with Max, joining "togda" ("back then") to "sovsem" ("at all") so every word pulls its weight.
+- 'Mister, go home.' Vika sustains a sharp line at this moment, weaving "muzhchina" ("man") together with "idite" ("come") just the way native speakers do.
+- 'Your performance has dragged on.' Vika takes an emphatic stance at this moment, joining "spektakl" ("performance") to "zatyanulsya" ("dragged on") so every word pulls its weight.
+- 'I really am Iosif Prigozhin!' The guest sustains an unhurried stance with Max, anchoring the Russian line on "deystvitelno" ("really, indeed") and "ya" ("I") without extra filler.
+- 'Vika, wait! I will not let you go until you believe me.' Max offers a serious stance beside Vika, using "podozhdi" (from "podozhdat", "wait") alongside "otpushchu" ("will let go") to shape the meaning.

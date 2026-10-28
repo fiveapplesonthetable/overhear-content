@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is happening here?' By asking what happening here is, the guest presses Max for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Excuse us, please.' Claiming that the guest should excuse them please sounds confident, even if the guest has doubts.
-- 'It is your interpreter's fault.' Once it is the guest's interpreter fault, Max can finally tell the guest what he means. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'He is using your name for his own purposes.' By being using the guest's name for his own purposes, Max keeps his side of the story grounded. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I beg your pardon, he will be fired.' Because he begs Max's pardon he will be fired, the guest treats the matter as settled.
-- 'What did he just say?' Asking what he just say cuts straight through the tension between Senya and the guest. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'He said that if we do not apologize, we will be fired.' Mentioning that he said that if they do not apologize they will be fired moves the talk in a new direction.
-- 'Excuse us, please!' Here telling the guest to excuse them please lets Senya's real feelings break through.
-- 'Excuse us, guys, we are leaving already.' Since the guest should excuse them guys they are leaving already, Max does not waste words on excuses.
-- 'This will never happen again!' Senya insists that this will never happen again, leaving the guest no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'You may return to work.' The guest mentions that Max may return to work so Max sees what is at stake.
-- 'Let us get out of here to the kitchen quickly.' Proposing that they get out of here to the kitchen quickly moves the conversation forward without extra drama.
+- 'What is happening here?' The guest questions calmly as they speak, combining "zdes" ("here") and "proiskhodit" ("is going on") so the key meaning lands right away.
+- 'Excuse us, please.' Max shows an unhurried stance in the scene, joining "izvinite" ("sorry, excuse me") to "nas" ("us") so every word pulls its weight.
+- 'It is your interpreter's fault.' Max adopts a firm style right away, joining "perevodchik" ("interpreter") to "vinovat" ("at fault, guilty") so every word pulls its weight.
+- 'He is using your name for his own purposes.' Max adopts a pointed footing beside Senya, putting "ispolzuyet" ("uses") alongside "imya" ("name") in a tight, everyday turn of phrase.
+- 'I beg your pardon, he will be fired.' The guest brings a brisk tempo right away, combining "proshu" ("beg, ask") and "proshcheniya" ("forgiveness") so the key meaning lands right away.
+- 'What did he just say?' Senya tests dryly with Max now, putting "seychas" ("now") alongside "skazal" ("said") in a tight, everyday turn of phrase.
+- 'He said that if we do not apologize, we will be fired.' The guest sets a measured posture as the scene unfolds, weaving "skazal" ("said") together with "izvinimsya" ("apologize") just the way native speakers do.
+- 'Excuse us, please!' Senya offers a clear note in their talk, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "nas" ("us") to shape the meaning.
+- 'Excuse us, guys, we are leaving already.' Max takes a firm angle without hesitation, linking "izvinite" ("sorry, excuse me"), "rebyata" ("the boys, the lads"), and "uzhe" ("already, now") in one brisk exchange.
+- 'This will never happen again!' Senya offers a steady attitude with Max, joining "bolshe" ("more") to "povtoritsya" ("will recur") so every word pulls its weight.
+- 'You may return to work.' The guest chooses a firm course across the room, leaning on "mozhete" ("can, may") before closing the thought with "vozvrashchatsya" ("to return").
+- 'Let us get out of here to the kitchen quickly.' Max strikes a brisk position as they talk, joining "poshli" ("let's go") to "otsyuda" ("from here") so every word pulls its weight.

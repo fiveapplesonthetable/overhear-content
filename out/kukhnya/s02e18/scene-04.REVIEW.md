@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oguzok, did you accept the produce delivery?' Questioning whether Oguzok did Timur accepts the produce delivery is how Max tests Timur's story.
-- 'Yes, everything is in order.' Realizing that everything is in order changes how Timur handles the situation.
-- 'As our captain used to say, whoever does not lie.' Noting that as their used to say whoever does not lie keeps Max's side of the story simple and clear.
-- 'Good job, Oguzok.' Around the situation and kitchen, Timur sets a calm, everyday tone with Max.
-- 'Oguzok. Just like our captain used to say.' Admitting that just like their used to say shows Max being honest for a change.
-- 'All of my produce is completely fresh.' Saying that all of his produce is completely fresh is how Timur sets the tone with Max. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Alright, goodbye then.' With the situation and shift in play, Max keeps this short reply brisk and direct.
-- 'He already put his signature on it.' Adding that he already put his signature on it fills in the missing piece for Max.
-- 'She is nowhere to be found.' Saying that she is nowhere to be found is how Max sets the tone with Timur.
-- 'What, we entrusted our child to you, and what did you do?' Wondering if what they entrusted their child to Max and what did Max does shows Timur caught off guard.
-- 'It is all because of your money.' Mentioning that it is all because of Timur's money moves the talk in a new direction.
-- 'Find my child first, and then sort out your relationship.' Adding that Max should find his child first and then sort out Max's relationship fills in the missing piece for Max.
-- 'Stop it, both of you.' Stopping it both of Timur is how Max lays out the situation for Timur.
+- 'Oguzok, did you accept the produce delivery?' Max queries candidly toward Timur here, joining "aguzok" ("rookie, greenhorn") to "prinyal" ("received") so every word pulls its weight.
+- 'Yes, everything is in order.' Timur shows an earnest bearing as the scene unfolds, linking "poryadke" ("order") directly with "da" ("yes"), since Russian drops "is" and "are" in the present.
+- 'As our captain used to say, whoever does not lie.' Max sets an unhurried attitude as they talk, building the phrase around "kak" ("how") and "govoril" ("said, were saying") for a crisp, natural delivery.
+- 'Good job, Oguzok.' Timur establishes a wry approach for Max, building the phrase around "molodets" ("well done, good boy") and "aguzok" ("rookie, greenhorn") for a crisp, natural delivery.
+- 'Oguzok. Just like our captain used to say.' Max sustains a natural position at once, joining "aguzok" ("rookie, greenhorn") to "kak" ("how") so every word pulls its weight.
+- 'All of my produce is completely fresh.' Timur takes an earnest bearing in the conversation, linking "produkty" ("groceries") directly with "svezhiye" ("fresh"), since Russian drops "is" and "are" in the present.
+- 'Alright, goodbye then.' Max establishes an honest tone without hesitation, leaning on "davay" ("let's") before closing the thought with "svidaniya" ("meeting").
+- 'He already put his signature on it.' Timur establishes an easygoing footing right away, joining "podpis" ("signature") to "postavil" ("put") so every word pulls its weight.
+- 'She is nowhere to be found.' Max displays a playful attitude as the scene unfolds, building the phrase around "yeye" ("she, it") and "net" ("no") for a crisp, natural delivery.
+- 'What, we entrusted our child to you, and what did you do?' Timur asks naturally toward Max here, weaving "rebenka" ("child") together with "doverili" ("to entrust") just the way native speakers do.
+- 'It is all because of your money.' Max picks a direct rhythm at this moment, anchoring the Russian line on "deneg" ("money") and "iz-za" ("because of") without extra filler.
+- 'Find my child first, and then sort out your relationship.' Timur keeps a direct view in the room, weaving "naydite" ("find") together with "rebenka" ("child") just the way native speakers do.
+- 'Stop it, both of you.' Max favors an unhurried style during the exchange, leaning on "prekratite" ("stop it") before closing the thought with "oba" ("both").

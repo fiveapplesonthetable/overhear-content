@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Then the investigation is officially closed.' Because the investigation is officially closed, Max treats the matter as settled.
-- 'But I am warning all of you.' Claiming that she is warning all of Max sounds confident, even if Max has doubts.
-- 'Next time this happens.' Max mentions that next time this happens so Vika sees what is at stake.
-- 'That applies to you too.' Between the truth and the situation, Vika gives Max a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Got it, mom.' Between the plan and the moment, Max gives Vika a quick, grounded response.
-- 'Well, it is clear to me.' Vika explains that it is clear, keeping her voice calm and direct.
-- 'I figured his scheme out right away.' With the plan and situation in play, Max keeps this short reply brisk and direct.
-- 'You see what he did, right?' Vika asks whether what he did right, refusing to let the point slide.
-- 'What he did was very foolish.' Even though what he did was very foolish, Max keeps a steady face in front of Vika. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I see. And what about you?' Over the situation and the point, Vika presses Max for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well, that is that.' Over the plan and the situation, Max answers Vika without a second thought.
-- 'What happened?' Around the situation and room, Vika wants to know where Max really stands. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It looks like I just got dumped.' Adding that it looks like he just got dumped fills in the missing piece for Vika.
+- 'Then the investigation is officially closed.' Max projects a measured position on the spot, pairing "kak" ("how") with "sledstviye" ("investigation") to get the point across in plain spoken Russian.
+- 'But I am warning all of you.' Vika shares a steady posture at once, leaning on "preduprezhdayu" ("to warn") before closing the thought with "ya" ("I").
+- 'Next time this happens.' Max displays a direct mood beside Vika, leaning on "sleduyushchiy" ("next") before closing the thought with "raz" ("time, once").
+- 'That applies to you too.' Vika strikes a steady style in their talk, weaving "tozhe" ("too") together with "kasayetsya" ("concerns, applies to") just the way native speakers do.
+- 'Got it, mom.' Max displays a resolute manner right away, joining "yasno" ("clear, got it") to "mam" ("Mum") so every word pulls its weight.
+- 'Well, it is clear to me.' Vika sets a resolute approach beside Max, combining "yasno" ("clear, got it") and "nu" ("oh, come on") so the key meaning lands right away.
+- 'I figured his scheme out right away.' Max sets a direct stance straight away, combining "srazu" ("at once") and "ponyal" ("understood") so the key meaning lands right away.
+- 'You see what he did, right?' Vika inquires promptly without a pause, using "ponyal" (from "ponyat", "understood") alongside "nu" ("oh, come on") to shape the meaning.
+- 'What he did was very foolish.' Max sets a warm tempo in this beat, putting "bylo" ("was") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
+- 'I see. And what about you?' Vika challenges quietly to make the point, leaning on "ponyatno" ("clear") before closing the thought with "ty" ("you").
+- 'Well, that is that.' Max keeps an easygoing position in their talk, leaning on "nu" ("oh, come on") before closing the thought with "vse" ("all").
+- 'What happened?' Vika questions lightly beside Max, using "sluchilos" (from "sluchitsya", "happened") alongside "chto" ("what") to shape the meaning.
+- 'It looks like I just got dumped.' Max shares an easygoing view as they talk, leaning on "pokhozhe" ("like, similar") before closing the thought with "chto" ("what").

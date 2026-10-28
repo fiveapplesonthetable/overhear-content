@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you want to talk with me or stay silent?' By asking whether Vika wants to talk with him or stay silent, Barinov presses Vika for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I understand that these changes are very painful.' Mentioning that she understands that these changes are very painful moves the talk in a new direction.
-- 'Painful is when your favorite team cannot win.' Adding that painful is when Vika's favorite team cannot win fills in the missing piece for Vika.
-- 'And when they change your life, that is a catastrophe!' Saying that when they change Vika's life that is a catastrophe is how Barinov takes charge of the moment. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I understand, you want things to be as before.' Vika tells Barinov that she understands Barinov wants things to be as without dressing it up. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'But understand me, that is no longer possible now.' Pointing out that Barinov should understand her that is no longer possible now gives Barinov a sobering reality check.
-- 'We are now part of the largest restaurant chain.' Saying that they are now part of the largest restaurant chain is how Vika sets the tone with Barinov.
-- 'At the end of the year they will give you a big bonus.' Because at the end of the year they will give Barinov a big bonus, Vika treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'They will pay you exactly two million rubles.' Explaining that they will pay Barinov exactly two million rubles lays the cards on the table for Barinov.
-- 'Wait a second, how much did you just say to me?' Barinov asks whether a second how much did Vika just say to him, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yes, Viktor Petrovich, you heard everything right.' Claiming that Barinov heard everything right sounds confident, even if Barinov has doubts. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'If you want to get the bonus, follow the established rules.' Pointing out that if Barinov wants to get the bonus follow the established rules gives Barinov a sobering reality check.
+- 'Did you want to talk with me or stay silent?' Barinov quizzes dryly at this point, linking "khotela" ("wanted, meant"), "pogovorit" ("to talk"), and "pomolchat" ("to be quiet for a while") in one brisk exchange.
+- 'I understand that these changes are very painful.' Vika presents a serious stance in the room, putting "ponimayu" ("understand") alongside "izmeneniya" ("changes") in a tight, everyday turn of phrase.
+- 'Painful is when your favorite team cannot win.' Barinov sets a warm position as the scene unfolds, pairing "boleznenny" ("painful") with "kogda" ("when") to get the point across in plain spoken Russian.
+- 'And when they change your life, that is a catastrophe!' Barinov conveys a steady style on the spot, anchoring the Russian line on "kogda" ("when") and "menyayut" ("change") without extra filler.
+- 'I understand, you want things to be as before.' Vika keeps a brisk stance as the scene unfolds, joining "ponimayu" ("understand") to "khochesh" ("do you want") so every word pulls its weight.
+- 'But understand me, that is no longer possible now.' Vika chooses a steady rhythm beside Barinov, putting "poymi" ("understand") alongside "teper" ("now") in a tight, everyday turn of phrase.
+- 'We are now part of the largest restaurant chain.' Vika chooses an honest manner straight away, joining "teper" ("now") to "chast" ("part") so every word pulls its weight.
+- 'At the end of the year they will give you a big bonus.' Vika presents an easygoing line as the scene unfolds, putting "kontse" ("end") alongside "goda" ("years") in a tight, everyday turn of phrase.
+- 'They will pay you exactly two million rubles.' Vika chooses a firm stance without hesitation, leaning on "zaplatyat" ("to pay") before closing the thought with "rovno" ("exactly").
+- 'Wait a second, how much did you just say to me?' Barinov asks naturally without a pause, building the phrase around "podozhdi" ("wait") and "skolko" ("how much, so much") for a crisp, natural delivery.
+- 'Yes, Viktor Petrovich, you heard everything right.' Vika adopts a serious footing during the exchange, weaving "pravilno" ("right") together with "uslyshal" ("heard") just the way native speakers do.
+- 'If you want to get the bonus, follow the established rules.' Vika sustains a clear attitude in the room, building the phrase around "khochesh" ("do you want") and "poluchit" ("to get, to receive") for a crisp, natural delivery.

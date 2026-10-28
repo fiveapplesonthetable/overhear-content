@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What am I to do with a face like this?' Wondering if what am he to do with a face like this shows Nagiyev caught off guard.
-- 'Let's hold a Halloween celebration in our restaurant!' Once they should hold a Halloween celebration in their restaurant, German makes sure Nagiyev hears every word. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'We will put stage makeup on you nicely before you go out into the hall.' Even though they will put stage makeup on Nagiyev nicely before Nagiyev goes out into the hall, German keeps a steady face in front of Nagiyev. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I wonder who you will make me up as?' When Nagiyev asks if he wonders who German will make him up as, German has to answer fast.
-- 'We will dress you up like the real Count Dracula!' German declares that they will dress Nagiyev up like the real count Dracula as the tension in the room peaks. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Look, Vika, our new chef thinks creatively!' Because their new thinks creatively, Nagiyev does not bother softening the blow for German. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Vika Sergeyevna and I are working toward a common goal.' Adding that Vika Sergeyevna and he are working toward a common goal fills in the missing piece for Nagiyev.
-- 'Good, then you are responsible for a fun party script.' Nagiyev tells German that good then German is responsible for a fun party script without dressing it up. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And you, German, are responsible for unusual festive cuisine!' Declaring that German German are responsible for unusual festive cuisine brings Nagiyev's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And I am quietly going to go to sleep right now, guys.' Being quietly going to go to sleep right now guys is how Nagiyev lays out the situation for German.
-- 'I am again being pulled strongly into a deep sleep.' Adding that he is again being pulled strongly into a deep sleep fills in the missing piece for German.
-- 'That is a great idea, German, thank you very much!' Vika declares that that is a great idea German thank German very much as the tension in the room peaks. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'What am I to do with a face like this?' Nagiyev checks lightly in the scene, joining "delat" ("do") to "litsom" ("face") so every word pulls its weight.
+- 'Let's hold a Halloween celebration in our restaurant!' German chooses a steady tack across the room, anchoring the Russian line on "davayte" ("let's") and "sdelayem" ("we'll do") without extra filler.
+- 'We will put stage makeup on you nicely before you go out into the hall.' German sets a measured position as they talk, putting "krasivo" ("beautifully") alongside "zagrimiruyem" ("to makeup") in a tight, everyday turn of phrase.
+- 'I wonder who you will make me up as?' Nagiyev inquires directly as they speak, putting "interesno" ("interesting") alongside "zagrimiruyete" ("to as") in a tight, everyday turn of phrase.
+- 'We will dress you up like the real Count Dracula!' German takes a direct note in the room, linking "odenem" ("to up"), "kak" ("how"), and "nastoyashchego" ("real, genuine") in one brisk exchange.
+- 'Look, Vika, our new chef thinks creatively!' Nagiyev chooses a playful manner at this moment, leaning on "smotri" ("look") before closing the thought with "novyy" ("new").
+- 'Vika Sergeyevna and I are working toward a common goal.' German offers a direct note as the scene unfolds, weaving "delayem" ("are doing") together with "obshcheye" ("joint") just the way native speakers do.
+- 'Good, then you are responsible for a fun party script.' Nagiyev sets a frank bearing at once, putting "khorosho" ("good, fine") alongside "togda" ("back then") in a tight, everyday turn of phrase.
+- 'And you, German, are responsible for unusual festive cuisine!' Nagiyev picks a warm footing without hesitation, combining "neobychnaya" ("unusual") and "prazdnichnaya" ("festive, holiday") so the key meaning lands right away.
+- 'And I am quietly going to go to sleep right now, guys.' Nagiyev presents a frank stance at this moment, pairing "seychas" ("now") with "tikho" ("easy, quiet") to get the point across in plain spoken Russian.
+- 'I am again being pulled strongly into a deep sleep.' Nagiyev keeps a calm tempo for German, combining "snova" ("again") and "silno" ("strongly, much") so the key meaning lands right away.
+- 'That is a great idea, German, thank you very much!' Vika offers a grounded manner on the spot, linking "otlichnaya" ("excellent"), "ideya" ("idea"), and "bolshoye" ("big, very much") in one brisk exchange.

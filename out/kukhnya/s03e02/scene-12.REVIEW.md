@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'For the first time I liked a dish!' Once for the first time he liked a dish, Nagiyev makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'You don't have the ingredient? Why didn't you order it? You messed up, huh?' When Nagiyev asks if Barinov does not have the ingredient, Barinov has to answer fast.
-- 'Dima, let me make you something of my own.' Realizing that Katya should let him make Katya something of his own changes how Barinov handles the situation. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'I just want that dish that I liked in the afternoon.' Admitting that he just wants that dish that he liked in the afternoon shows Nagiyev being honest for a change.
-- 'Fine, I will bring you that dish.' Saying that fine he will bring Katya that dish is how Barinov sets the tone with Katya.
-- 'Excuse me. Only I will name the very important ingredient for you.' Once only he will name the very important ingredient for Katya, Barinov can finally tell Katya what he means. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'It was you! You did it, right?' When Nagiyev asks if it was Barinov, Barinov has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Who put this on my plate?' Nagiyev asks whether who put this on his plate, refusing to let the point slide.
-- 'That was not made for you.' Since that was not made for Barinov, Katya does not waste words on excuses. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'For whom?' With the moment and secret hanging in the air, Nagiyev puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'For these two. They started it first.' Over the truth and the secret, Katya answers Barinov without a second thought.
-- 'Fedya came up with all of it, he brought the ram in.' Because Fedya came up with all of it he brought the ram, Barinov treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'For the first time I liked a dish!' Nagiyev establishes a natural stance for Barinov, anchoring the Russian line on "vpervyye" ("for the first time") and "blyudo" ("dish") without extra filler.
+- 'You don't have the ingredient? Why didn't you order it? You messed up, huh?' Nagiyev checks quietly for Katya's benefit, leaning on "ingrediyenta" ("ingredient") before closing the thought with "pochemu" ("why").
+- 'Dima, let me make you something of my own.' Barinov holds an emphatic attitude right away, linking "davay" ("let's"), "sdelayu" ("I'll do"), and "dima" ("Dima") in one brisk exchange.
+- 'I just want that dish that I liked in the afternoon.' Nagiyev takes a frank direction in this beat, joining "prosto" ("just") to "khochu" ("want") so every word pulls its weight.
+- 'Fine, I will bring you that dish.' Barinov maintains a frank rhythm toward Katya, weaving "khorosho" ("good, fine") together with "prinesu" ("I will bring") just the way native speakers do.
+- 'Excuse me. Only I will name the very important ingredient for you.' Barinov favors a direct bearing as they talk, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "tolko" ("only") to shape the meaning.
+- 'It was you! You did it, right?' Nagiyev challenges warmly as the talk turns, pairing "sdelal" ("did") with "eto" ("this") to get the point across in plain spoken Russian.
+- 'Who put this on my plate?' Nagiyev questions directly as the talk turns, weaving "tarelku" ("plate, platter") together with "polozhil" ("laid, put down") just the way native speakers do.
+- 'That was not made for you.' Katya favors a lively footing at once, using "bylo" (from "byt", "was") alongside "sdelano" ("made, done") to shape the meaning.
+- 'For whom?' Nagiyev quizzes boldly without holding back, putting "dlya" ("for") alongside "kogo" ("whom") in a tight, everyday turn of phrase.
+- 'For these two. They started it first.' Katya sets a measured position during the exchange, putting "pervyye" ("first") alongside "nachali" ("started") in a tight, everyday turn of phrase.
+- 'Fedya came up with all of it, he brought the ram in.' Barinov projects a steady angle toward Nagiyev, joining "pridumal" ("came up with") to "barana" ("ram, sheep") so every word pulls its weight.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You should not have brought Konstantin along with you.' Rodion explains that Barinov should not have brought Konstantin along with Barinov, keeping his voice calm and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Yes, hello.' Around the shift and restaurant, Barinov sets a calm, everyday tone with Rodion.
-- 'We know everything that happened.' Knowing everything that happened is how Rodion lays out the situation for Barinov.
-- 'How did you find out?' Wondering how Rodion finds out is how Barinov puts Rodion on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'There is a shop on the other side of the street.' Admitting that there is a shop on the other side of the street shows Rodion being honest for a change.
-- 'Right there, around the corner to the right, is a trash bin.' Saying that right there around the corner to the right is a trash bin is how Barinov sets the tone with Rodion.
-- 'Put the money inside it and walk away.' Once Barinov should put the money inside it and walk away, Rodion can finally tell Barinov what he means.
-- 'Rodion Sergeyevich?' Turning from the money to the restaurant, Barinov asks Rodion directly.
-- 'Otherwise I am going to be late for work already.' Rodion tells Barinov that otherwise he is going to be late for work already without dressing it up.
-- 'All by myself? Well?' With the money and shift hanging in the air, Barinov puts Rodion on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Only for your sake.' Around the conversation and money, Rodion sets a calm, everyday tone with Barinov.
-- 'At the Claude Monet restaurant.' Between the conversation and the money, Barinov gives Rodion a quick, grounded response.
-- 'Because the thing is.' Because because the thing is, Rodion treats the matter as settled.
+- 'You should not have brought Konstantin along with you.' Rodion brings a direct posture as they talk, pairing "zrya" ("for nothing") with "priveli" ("brought") to get the point across in plain spoken Russian.
+- 'Yes, hello.' Barinov maintains a direct rhythm across the room, putting "da" ("yes") alongside "allo" ("hello") in a tight, everyday turn of phrase.
+- 'We know everything that happened.' Rodion shows a grounded note beside Barinov, joining "znayem" ("know") to "my" ("we") so every word pulls its weight.
+- 'How did you find out?' Barinov tests evenly from the start, building the phrase around "kak" ("how") and "uznali" ("found out, knew") for a crisp, natural delivery.
+- 'There is a shop on the other side of the street.' Rodion holds a sharp attitude in the scene, leaning on "magazin" ("shop") before closing the thought with "drugoy" ("other").
+- 'Right there, around the corner to the right, is a trash bin.' Barinov brings a natural course at this moment, pairing "sprava" ("to the right") with "uglom" ("corner") to get the point across in plain spoken Russian.
+- 'Put the money inside it and walk away.' Rodion chooses a playful bearing during the exchange, anchoring the Russian line on "polozhite" ("put, serve") and "tuda" ("there") without extra filler.
+- 'Rodion Sergeyevich?' Barinov probes candidly from the start, building the phrase around "rodion" ("Rodion") and "sergeyevich" ("Sergeyevich") for a crisp, natural delivery.
+- 'Otherwise I am going to be late for work already.' Rodion sets a wry line on the spot, linking "uzhe" ("already, now"), "rabotu" ("job"), and "opazdyvayu" ("am running late") in one brisk exchange.
+- 'All by myself? Well?' Barinov inquires promptly from the start, leaning on "odnomu" ("alone, by myself") before closing the thought with "nu" ("oh, come on").
+- 'Only for your sake.' Rodion holds an emphatic angle on the spot, pairing "tolko" ("only") with "radi" ("for the sake of") to get the point across in plain spoken Russian.
+- 'At the Claude Monet restaurant.' Barinov picks a lively posture for Rodion, combining "restorane" ("restaurant") and "klod" ("Claude") so the key meaning lands right away.
+- 'Because the thing is.' Rodion maintains a candid footing toward Barinov, pairing "delo" ("matter") with "no" ("but") to get the point across in plain spoken Russian.

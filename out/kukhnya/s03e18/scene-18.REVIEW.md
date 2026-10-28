@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, maybe we could start everything from the beginning?' Asking whether maybe they could start everything from the beginning puts Barinov right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Elvira never kisses on the first date.' Once Elvira never kisses on the first date, Vika can finally tell Barinov what she means.
-- 'But if we start from the beginning, then let us do it.' Adding that if they start from the beginning then let them do it fills in the missing piece for Barinov. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Kostya, I am in total shock myself!' Saying that he is in total shock himself is how Max takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Andrey Mikhailovich, hello and goodbye right away!' With the moment and conversation at stake, Barinov reacts without holding back.
-- 'I hope that we will never see each other again.' Claiming that he hopes that they will never see each other again sounds confident, even if Max has doubts. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'And what, actually, happened here with you?' Around the shift and point, Max wants to know where Barinov really stands. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Can you calmly explain this to me right now?' Asking whether Barinov calmly explain this to him right now cuts straight through the tension between Max and Barinov.
-- 'What happened is that I am quitting this place today!' Because what happened is that he is quitting this place today, Barinov does not bother softening the blow for Max. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And you can thank Viktoriya Sergeyevna for that.' Barinov mentions that Max can thank Viktoriya Sergeyevna so Max sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Soon not even dogs will come to this place!' Once soon not even dogs will come to this place, Barinov makes sure Max hears every word.
-- 'It turns out she stood up for you in front of us in vain.' Pointing out that it turns out she stood up for Barinov in front of them in vain gives Barinov a sobering reality check. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Vika, maybe we could start everything from the beginning?' Max asks plainly on the spot, weaving "mozhet" ("can") together with "nachnyom" ("we start") just the way native speakers do.
+- 'Elvira never kisses on the first date.' Vika shows a frank manner in the room, joining "pervom" ("first") to "svidanii" ("meeting, date") so every word pulls its weight.
+- 'But if we start from the beginning, then let us do it.' Vika brings a sharp rhythm as they talk, pairing "snachala" ("first, at first") with "znachit" ("then, so") to get the point across in plain spoken Russian.
+- 'Kostya, I am in total shock myself!' Max strikes a brisk note as the scene unfolds, leaning on "polnom" ("full") before closing the thought with "shoke" ("shock").
+- 'Andrey Mikhailovich, hello and goodbye right away!' Barinov favors a sharp tone in the room, leaning on "zdravstvuyte" ("hello") before closing the thought with "srazu" ("at once").
+- 'I hope that we will never see each other again.' Barinov sustains a measured line across the room, putting "nadeyus" ("hope so") alongside "bolshe" ("more") in a tight, everyday turn of phrase.
+- 'And what, actually, happened here with you?' Max presses calmly to Barinov here, pairing "sluchilos" ("happened") with "sobstvenno" ("actually") so the "-sya" ending carries the action.
+- 'Can you calmly explain this to me right now?' Max queries lightly from the start, weaving "spokoyno" ("calmly") together with "obyasnit" ("to explain") just the way native speakers do.
+- 'What happened is that I am quitting this place today!' Barinov holds a clear footing at once, combining "sluchilos" ("happened") and "segodnya" ("today") so the key meaning lands right away.
+- 'And you can thank Viktoriya Sergeyevna for that.' Barinov adopts a sharp position in the room, leaning on "mozhete" ("can, may") before closing the thought with "poblagodarit" ("to thank").
+- 'Soon not even dogs will come to this place!' Barinov takes a steady line for Max, leaning on "syuda" ("here") before closing the thought with "skoro" ("soon").
+- 'It turns out she stood up for you in front of us in vain.' Max sets a lively position without hesitation, combining "vykhodit" ("goes out") and "sovsem" ("at all") so the key meaning lands right away.

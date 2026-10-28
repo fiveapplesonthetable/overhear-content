@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nobody irritates cooks more than waiters.' Mentioning that nobody irritates cooks more than waiters moves the talk in a new direction.
-- 'They are unceremonious.' Saying that they are unceremonious is how Max sets the tone with Fedya.
-- 'Hasn't my flounder grown old over there, huh?' Here asking whether not his flounder grown old over there huh shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Fedya, can you go faster?' By checking whether Fedya goes faster, Max presses Fedya for a straight answer.
-- 'Impatient! Girls ask me to go more slowly.' With the shift and plan at stake, Fedya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Come on, cook faster!' Insisting that Fedya should come on cook faster shows Max is not backing down. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Careless. Worse is only a waiter who used to be a cook.' Pointing out that worse is only a waiter who used to be a cook gives Fedya a sobering reality check.
-- 'Don't touch my dish!' Once do not touch his dish, Fedya makes sure Max hears every word. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'You have really gotten on everyone's nerves already.' Realizing that Max has really gotten on everyone nerves already changes how Fedya handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Am I to blame that you are so clumsy?' Wondering if am he to blame that Fedya is so clumsy shows Max caught off guard.
-- 'I am ashamed to carry your dish into the dining room.' By being ashamed to carry Fedya's dish into the dining room, Max keeps his side of the story grounded. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Mind your own business, got it? Then redo it yourselves!' When Fedya asks if mind Max's own business got it, Max has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Nobody irritates cooks more than waiters.' Max establishes a firm rhythm beside Fedya, doubling the negative with "ne" ("not") and "razdrazhayet" ("irritates, annoys"), which is standard and required in Russian.
+- 'They are unceremonious.' Max displays a resolute direction in the conversation, leaning on "bestseremonny" ("unceremonious") before closing the thought with "oni" ("they").
+- 'Hasn't my flounder grown old over there, huh?' Max probes wryly across the room, joining "kambala" ("flounder, turbot") to "tam" ("there") so every word pulls its weight.
+- 'Fedya, can you go faster?' Max quizzes bluntly without hesitation, putting "mozhesh" ("can") alongside "pobystreye" ("faster, more quickly") in a tight, everyday turn of phrase.
+- 'Impatient! Girls ask me to go more slowly.' Fedya holds a warm position in this beat, weaving "neterpelivyy" ("impatient") together with "devushki" ("a girl") just the way native speakers do.
+- 'Come on, cook faster!' Max projects a frank footing without hesitation, pairing "davay" ("let's") with "bystreye" ("faster") to get the point across in plain spoken Russian.
+- 'Careless. Worse is only a waiter who used to be a cook.' Max establishes an honest manner with Fedya, combining "nebrezhnyy" ("careless") and "khuzhe" ("worse") so the key meaning lands right away.
+- 'Don't touch my dish!' Fedya strikes a lively position straight away, leaning on "nado" ("it is necessary") before closing the thought with "trogat" ("to touch").
+- 'You have really gotten on everyone's nerves already.' Fedya favors an unhurried direction as they talk, leaning on "uzhe" ("already, now") before closing the thought with "realno" ("really possible").
+- 'Am I to blame that you are so clumsy?' Max challenges frankly at this point, linking "vinovat" ("at fault, guilty") directly with "krivorukiye" ("clumsy"), since Russian drops "is" and "are" in the present.
+- 'I am ashamed to carry your dish into the dining room.' Max displays an earnest course in front of Fedya, leaning on "stydno" ("shameful") before closing the thought with "blyudo" ("dish").
+- 'Mind your own business, got it? Then redo it yourselves!' Fedya wonders steadily on the spot, putting "zanimaysya" ("attend to, deal with") alongside "delom" ("case") in a tight, everyday turn of phrase.

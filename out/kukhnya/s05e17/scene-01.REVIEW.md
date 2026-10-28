@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, has Goncharova given birth yet?' By asking whether Goncharova given birth yet, Max presses the doctor for a straight answer.
-- 'Not yet, wait here.' Around the hospital and conversation, the doctor sets a calm, everyday tone with Max.
-- 'Why is she not picking up the phone?' Asking why she not picking up the phone is is how Max puts the doctor on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Sir, how do you imagine childbirth?' When the doctor asks if sir how do Max imagines childbirth, Max has to answer fast.
-- 'Yes, hi, is everything alright?' By checking whether everything alright, Max presses the doctor for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I am already at the maternity hospital.' Max tells the doctor that he is already at the maternity hospital without dressing it up.
-- 'Hold on the line for a second.' Holding on the line for a second moves the conversation forward without extra drama.
-- 'Tell me, how can I get through?' Questioning whether tell him how can he gets is how Max tests the doctor's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And who are you anyway?' By asking who Max anyway is, the doctor presses Max for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I am her lawful husband.' Being her lawful husband moves the conversation forward without extra drama.
-- 'Under the contract we let close relatives in.' Because under the contract they let close relatives, the doctor treats the matter as settled.
-- 'Open the door for me, please.' By telling the doctor to open the door for him please, Max keeps his side of the story grounded.
+- 'Hello, has Goncharova given birth yet?' Max queries bluntly without a pause, leaning on "zdravstvuyte" ("hello") before closing the thought with "uzhe" ("already, now").
+- 'Not yet, wait here.' The doctor shows an easygoing posture as they talk, linking "yeshchyo" ("more, still"), "zhdite" ("to wait, to expect"), and "zdes" ("here") in one brisk exchange.
+- 'Why is she not picking up the phone?' Max wonders dryly to the doctor here, weaving "trubku" ("the receiver") together with "beryot" ("takes") just the way native speakers do.
+- 'Sir, how do you imagine childbirth?' The doctor asks earnestly during the talk, combining "muzhchina" ("man") and "kak" ("how") so the key meaning lands right away.
+- 'Yes, hi, is everything alright?' Max queries evenly toward the doctor here, linking "normalno" ("fine, OK"), "da" ("yes"), and "privet" ("hi") in one brisk exchange.
+- 'I am already at the maternity hospital.' Max shows a lively posture right away, combining "uzhe" ("already, now") and "roddome" ("maternity hospital") so the key meaning lands right away.
+- 'Hold on the line for a second.' Max sustains a lively line without hesitation, using "povisi" (from "poviset", "hold on") alongside "sekundochku" ("one little second") to shape the meaning.
+- 'Tell me, how can I get through?' Max presses evenly without hesitation, using "skazhite" (from "skazat", "tell") alongside "kak" ("how") to shape the meaning.
+- 'And who are you anyway?' The doctor checks briskly without hesitation, leaning on "voobshche" ("at all") before closing the thought with "vy" ("you").
+- 'I am her lawful husband.' Max picks a playful bearing in the scene, leaning on "zakonnyy" ("legitimate") before closing the thought with "muzh" ("husband").
+- 'Under the contract we let close relatives in.' The doctor keeps a brisk course toward Max, building the phrase around "kontraktu" ("by contract") and "rodstvennikov" ("relatives") for a crisp, natural delivery.
+- 'Open the door for me, please.' Max offers a wry line on the spot, building the phrase around "otkroyte" ("open") and "dver" ("door") for a crisp, natural delivery.

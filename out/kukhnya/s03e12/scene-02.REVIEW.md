@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are half an hour late.' Because Max is half an hour late, Barinov treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'He poured soup all over me.' Over the moment and the soup, Max answers Barinov without a second thought.
-- 'Senya, did you make the soup without meat?' Checking whether Max makes the soup without meat is how Barinov puts Max on the spot.
-- 'You know the old man only needs an excuse.' Claiming that the old man only needs an excuse sounds confident, even if Max has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Chef, this is an excellent chicken broth.' Explaining that this is an excellent chicken broth lays the cards on the table for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Grandpa Kirill is having a flare-up again.' Barinov explains that Grandpa Kirill is having a flare up again, keeping his voice calm and direct.
-- 'Will someone explain to me who Grandpa Kirill is?' Asking whether someone explain to him who Grandpa Kirill is is how Max puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'In our building all the apartments are bought up.' Noting that in their building all the apartments are bought up keeps Max's side of the story simple and clear.
-- 'Only the apartment of Kirill Ilyich remained.' Over the conversation and the soup, Max answers Barinov without a second thought.
-- 'They tried to buy it out for big money.' Admitting that they tried to buy it out for big money shows Max being honest for a change.
-- 'It turned out Grandpa Kirill does not need money.' Saying that it turned out Grandpa Kirill does not need money is how Max sets the tone with Barinov.
-- 'And nobody knows what he needs.' Once nobody knows what he needs, Max can finally tell Barinov what he means.
+- 'You are half an hour late.' Barinov keeps an emphatic direction during the exchange, building the phrase around "opozdal" ("was late, am late") and "polchasa" ("half-hour") for a crisp, natural delivery.
+- 'He poured soup all over me.' Max brings a resolute attitude in this beat, anchoring the Russian line on "supom" ("soup") and "oblil" ("poured over") without extra filler.
+- 'Senya, did you make the soup without meat?' Barinov tests decisively for Max's benefit, leaning on "sup" ("soup") before closing the thought with "myasa" ("meat").
+- 'You know the old man only needs an excuse.' Barinov holds an unhurried view for Senya, building the phrase around "znayesh" ("know") and "dedu" ("to grandpa") for a crisp, natural delivery.
+- 'Chef, this is an excellent chicken broth.' Senya shares a brisk tone in front of Barinov, joining "otlichnyy" ("excellent, great") to "kurinyy" ("chicken") so every word pulls its weight.
+- 'Grandpa Kirill is having a flare-up again.' Barinov offers a frank tempo at once, anchoring the Russian line on "deda" ("grandfathers") and "kirilla" ("Kirill") without extra filler.
+- 'Will someone explain to me who Grandpa Kirill is?' Max wonders firmly without hesitation, combining "obyasnit" ("to explain") and "ded" ("grandfather") so the key meaning lands right away.
+- 'In our building all the apartments are bought up.' Max picks a thoughtful bearing in front of Senya, linking "zdanii" ("building") directly with "kvartiry" ("flat"), since Russian drops "is" and "are" in the present.
+- 'Only the apartment of Kirill Ilyich remained.' Max displays a direct note for Barinov, weaving "ostalas" ("remained, is left") together with "tolko" ("only") just the way native speakers do.
+- 'They tried to buy it out for big money.' Max sets a brisk bearing in the scene, pairing "pytalis" ("tried") with "vykupit" ("to buy out") to get the point across in plain spoken Russian.
+- 'It turned out Grandpa Kirill does not need money.' Max sets a frank attitude in the room, joining "okazalos" ("turned out") to "dedu" ("to grandpa") so every word pulls its weight.
+- 'And nobody knows what he needs.' Max sets an emphatic line in the conversation, putting "nuzhno" ("necessary") alongside "znayet" ("knows") in a tight, everyday turn of phrase.

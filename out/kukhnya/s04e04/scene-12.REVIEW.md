@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Elena Pavlovna, you should go get some rest.' Claiming that Elena should go get some rest sounds confident, even if Elena has doubts. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'We will manage fine here.' Pointing out that they will manage fine here gives Elena a sobering reality check.
-- 'Yes, I can see that you have plenty of free time.' Elena explains that she can see that Barinov has plenty of free time, keeping her voice calm and direct. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Enough for conversations and everything else.' Around the truth and room, Elena sets a calm, everyday tone with Barinov.
-- 'Take another order.' Adding that Barinov should take another order fills in the missing piece for Barinov.
-- 'Here, a summer salad and bolognese.' Over the plan and the work, Elena answers Barinov without a second thought.
-- 'So you don't want to talk?' Wondering if Barinov does not want to talk shows Max caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Okay, let's talk this way.' Saying that Okay let them talk this way is how Max sets the tone with Barinov.
-- 'Yesterday you were wrong. I was wrong too.' Once yesterday Barinov was wrong, Max can finally tell Barinov what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'But since you and I are serious adults...' Adding that since Barinov and he are serious adults fills in the missing piece for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Right now?' Over the plan and the conversation, Max presses Barinov for a straight answer.
-- 'Awesome, let's go.' Since awesome let them go, Max does not waste words on excuses.
+- 'Elena Pavlovna, you should go get some rest.' Barinov strikes an unhurried bearing with Elena, using "shli" (from "idti", "were going") alongside "otdykhat" ("relax") to shape the meaning.
+- 'We will manage fine here.' Barinov sets a resolute bearing with Max, pairing "spravimsya" ("will manage") with "tut" ("here") so the "-sya" ending carries the action.
+- 'Yes, I can see that you have plenty of free time.' Elena presents a steady direction in front of Barinov, combining "vizhu" ("see") and "mnogo" ("a lot") so the key meaning lands right away.
+- 'Enough for conversations and everything else.' Elena offers a playful angle toward Max, weaving "khvatayet" ("grabs") together with "razgovory" ("conversations") just the way native speakers do.
+- 'Take another order.' Elena establishes a firm angle at this moment, putting "vozmite" ("take") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
+- 'Here, a summer salad and bolognese.' Elena offers a thoughtful note as they talk, joining "letniy" ("summer") to "salat" ("salad") so every word pulls its weight.
+- 'So you don't want to talk?' Max queries steadily beside Barinov, building the phrase around "znachit" ("then, so") and "khochesh" ("do you want") for a crisp, natural delivery.
+- 'Okay, let's talk this way.' Max adopts a resolute rhythm as they talk, putting "davay" ("let's") alongside "pogovorim" ("we'll have a talk") in a tight, everyday turn of phrase.
+- 'Yesterday you were wrong. I was wrong too.' Max displays a lively footing in their talk, joining "vchera" ("yesterday") to "byla" ("was") so every word pulls its weight.
+- 'But since you and I are serious adults...' Max adopts a warm rhythm with Elena, pairing "kak" ("how") with "seryoznyye" ("serious") to get the point across in plain spoken Russian.
+- 'Right now?' Max quizzes dryly to Barinov here, weaving "pryamo" ("right, just") together with "seychas" ("now") just the way native speakers do.
+- 'Awesome, let's go.' Max chooses a brisk manner in front of Elena, putting "klass" ("cool, great") alongside "pognali" ("to let's") in a tight, everyday turn of phrase.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well then.' Over the truth and the room, Max answers Kostya without a second thought.
-- 'It could happen to anyone.' Even though it could happen to anyone, Kostya keeps a steady face in front of Max.
-- 'Okay, I was late, I will not do it again.' Admitting that Okay she was late she will not do it again shows Nastya being honest for a change.
-- 'Not really.' With the plan and shift in play, Max keeps this short reply brisk and direct.
-- 'I wanted to tell you about it yesterday.' Once he wanted to tell Max about it yesterday, Kostya can finally tell Max what he means. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'But you were not picking up the phone.' Adding that Kostya was not picking up the phone fills in the missing piece for Kostya.
-- 'Elena Pavlovna!' Over the wine and the kitchen, Max lets his real feelings show.
-- 'Max, who broke the bottle?' Turning from the wine to the conversation, Kostya asks Max directly. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What do you mean?' Here asking what Kostya means shows Nastya looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Kristina broke it and said she is going to fire you.' Max reminds Kostya that Kristina broke it and said she is going to fire Kostya before the moment passes.
-- 'Unless I sleep with her.' Because unless he sleeps, Kostya treats the matter as settled.
-- 'Sleep with who, Nastya?' Over the conversation and the wine, Nastya presses Kostya for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'With Kristina?' Around the conversation and wine, Max wants to know where Kostya really stands.
+- 'Well then.' Max strikes an unhurried position in the room, pairing "nu" ("oh, come on") with "chto" ("what") to get the point across in plain spoken Russian.
+- 'It could happen to anyone.' Kostya establishes a sharp angle in the conversation, combining "byvayet" ("there can be") and "kem" ("as what") so the key meaning lands right away.
+- 'Okay, I was late, I will not do it again.' Nastya displays a firm note across the room, anchoring the Russian line on "opozdal" ("was late, am late") and "bolshe" ("more") without extra filler.
+- 'Not really.' Max takes a thoughtful bearing in the conversation, joining "ochen" ("very much") to "ne" ("not") so every word pulls its weight.
+- 'I wanted to tell you about it yesterday.' Kostya holds a serious posture straight away, using "khotel" (from "khotet", "wanted") alongside "yeshche" ("still") to shape the meaning.
+- 'But you were not picking up the phone.' Nastya chooses a resolute note right away, pairing "trubku" ("the receiver") with "brali" ("took, were taking") to get the point across in plain spoken Russian.
+- 'Elena Pavlovna!' Max shows a pointed rhythm toward Kostya, pairing "yelena" ("Yelena") with "pavlovna" ("Pavlovna") to get the point across in plain spoken Russian.
+- 'Max, who broke the bottle?' Kostya probes naturally at this point, weaving "razbil" ("wrecked, crashed") together with "butylku" ("a bottle") just the way native speakers do.
+- 'What do you mean?' Nastya checks openly to make the point, putting all the weight on "smysle" ("sense") so the reply lands immediately.
+- 'Kristina broke it and said she is going to fire you.' Max displays a measured tone for Nastya, pairing "razbila" ("to break, to smash") with "skazala" ("told") to get the point across in plain spoken Russian.
+- 'Unless I sleep with her.' Kostya picks a playful course in front of Max, pairing "peresplyu" ("to sleep overnight") with "yesli" ("if") to get the point across in plain spoken Russian.
+- 'Sleep with who, Nastya?' Nastya checks boldly during the talk, using "kem" (from "kto", "as what") alongside "nastey" ("Nastya") to shape the meaning.
+- 'With Kristina?' Max checks briskly without hesitation, letting the single Russian word "kristinoy" ("Kris") carry the entire reaction on its own.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Once again forgive us for this incident.' With the moment and inspector in play, Mikhail keeps this short reply brisk and direct.
-- 'In our hotel we have a golden rule.' Mikhail mentions that in their hotel they have a golden rule so the inspector sees what is at stake. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'The guest is always right. If he wants to drink, he drinks.' Claiming that the guest is always right sounds confident, even if the inspector has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And why is your employee drinking with him?' By asking why Mikhail's employee drinking with him is, the inspector presses Mikhail for a straight answer.
-- 'Also a golden rule!' Between the hotel and the guest, Mikhail delivers a sharp reaction. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'He was completely drunk!' Because he was completely drunk, the inspector does not bother softening the blow for Mikhail. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'No!' With the hotel and moment at stake, Mikhail reacts without holding back.
-- 'Do you think that I am an idiot?' By checking whether Mikhail thinks that he is an idiot, the inspector presses Mikhail for a straight answer. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Where is this employee of yours?' Asking where this employee is cuts straight through the tension between the inspector and Mikhail. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'At his workplace.' With the work and rule in play, Mikhail keeps this short reply brisk and direct.
-- 'Viktoriya Sergeyevna, find Yaroslav immediately.' Over the work and the rule, Mikhail answers the inspector without a second thought.
-- 'And I will catch up!' Mikhail declares that he will catch up as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Once again forgive us for this incident.' Mikhail displays an honest style with the inspector, joining "yeshchyo" ("more, still") to "raz" ("time, once") so every word pulls its weight.
+- 'In our hotel we have a golden rule.' Mikhail adopts a warm posture across the room, joining "otele" ("in the hotel") to "zolotoye" ("gold") so every word pulls its weight.
+- 'The guest is always right. If he wants to drink, he drinks.' Mikhail sets a pointed attitude across the room, pairing "gost" ("guest") with "vsegda" ("always") to get the point across in plain spoken Russian.
+- 'And why is your employee drinking with him?' The inspector inquires earnestly on the spot, leaning on "pochemu" ("why") before closing the thought with "pyot" ("drinks").
+- 'Also a golden rule!' Mikhail adopts a measured tone as the scene unfolds, leaning on "tozhe" ("too") before closing the thought with "zolotoye" ("gold").
+- 'He was completely drunk!' The inspector chooses a candid tone as they talk, leaning on "byl" ("was") before closing the thought with "absolyutno" ("completely").
+- 'No!' Mikhail holds a resolute tempo without hesitation, using "net" ("no") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Do you think that I am an idiot?' The inspector tests firmly on the spot, combining "dumayete" ("think") and "idiot" ("idiot") so the key meaning lands right away.
+- 'Where is this employee of yours?' The inspector wonders naturally right away, linking "gde" ("where"), "sotrudnik" ("employee"), and "etot" ("this") in one brisk exchange.
+- 'At his workplace.' Mikhail offers a resolute approach straight away, building the phrase around "rabochem" ("work") and "meste" ("place") for a crisp, natural delivery.
+- 'Viktoriya Sergeyevna, find Yaroslav immediately.' Mikhail favors an earnest angle with the inspector, building the phrase around "nemedlenno" ("immediately") and "naydite" ("find") for a crisp, natural delivery.
+- 'And I will catch up!' Mikhail takes a playful course without hesitation, joining "dogonyu" ("will catch up with") to "ya" ("I") so every word pulls its weight.

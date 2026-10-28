@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who pulled your tongue? I would have handled it myself.' Turning from the forgiveness to the truth, Vika asks Max directly.
-- 'Yes, I will sort it out. Everything will be fine.' Claiming that he will sort it out sounds confident, even if Max has doubts.
-- 'Why did you offend the wife of an important man, huh?' Wondering why Max offend the wife of an important man huh cuts straight through the tension between Nagiyev and Max. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Couldn't you pick someone simpler?' Asking whether not Max picks someone simpler is how Nagiyev puts Max on the spot.
-- 'Should have picked someone simpler! That's it, we are done for now.' Saying that should have picked someone simpler is how Nagiyev takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'From tax inspectors and fire inspectors!' Around the call and truth, Nagiyev makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'It wasn't Viktoria Sergeyevna. I was the one who was rude to that woman.' Even though it was not Viktoria Sergeyevna, Max keeps a steady face in front of Nagiyev.
-- 'Guys, I don't care who was rude to her.' Admitting that he does not care who was rude shows Nagiyev being honest for a change.
-- 'Now hold hands and go to her.' Pointing out that Max should hold hands and go gives Max a sobering reality check.
-- 'Fall to your knees, beg for mercy.' Nagiyev explains that Max should fall to Max's knees beg for mercy, keeping his voice calm and direct.
-- 'Otherwise I will fire both of you!' Nagiyev insists that otherwise he will fire both of Max, leaving Max no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I will cry, but I will fire you.' Saying that he will cry but he will fire Max is how Nagiyev sets the tone with Max.
+- 'Who pulled your tongue? I would have handled it myself.' Vika wonders honestly beside Max, joining "tyanul" ("held off, dragged out") to "yazyk" ("language, tongue") so every word pulls its weight.
+- 'Yes, I will sort it out. Everything will be fine.' Nagiyev picks an emphatic bearing at this moment, weaving "razberus" ("I will sort out") together with "budet" ("will be") just the way native speakers do.
+- 'Why did you offend the wife of an important man, huh?' Nagiyev queries wryly as they speak, putting "zachem" ("what for") alongside "zhenu" ("wife") in a tight, everyday turn of phrase.
+- 'Couldn't you pick someone simpler?' Nagiyev checks briskly as the talk turns, putting "poproshche" ("simpler") alongside "mogla" ("could") in a tight, everyday turn of phrase.
+- 'Should have picked someone simpler! That's it, we are done for now.' Nagiyev strikes a wry mood for Max, joining "vybrala" ("chose") to "poproshche" ("simpler") so every word pulls its weight.
+- 'From tax inspectors and fire inspectors!' Nagiyev displays a pointed tone as they talk, pairing "nalogovykh" ("tax inspectors") with "pozharnykh" ("fire inspectors") to get the point across in plain spoken Russian.
+- 'It wasn't Viktoria Sergeyevna. I was the one who was rude to that woman.' Max keeps a natural footing toward Nagiyev, joining "zhenshchine" ("a woman") to "khamil" ("was rude") so every word pulls its weight.
+- 'Guys, I don't care who was rude to her.' Nagiyev brings a frank position straight away, leaning on "rebyata" ("the boys, the lads") before closing the thought with "ravno" ("the same").
+- 'Now hold hands and go to her.' Nagiyev displays a candid note right away, anchoring the Russian line on "seychas" ("now") and "vozmite" ("take") without extra filler.
+- 'Fall to your knees, beg for mercy.' Nagiyev shows a firm bearing right away, weaving "padayte" ("fall") together with "koleni" ("knees") just the way native speakers do.
+- 'Otherwise I will fire both of you!' Nagiyev chooses a resolute attitude in this beat, pairing "inache" ("otherwise") with "uvolyu" ("will fire") to get the point across in plain spoken Russian.
+- 'I will cry, but I will fire you.' Nagiyev picks a measured line toward Vika, building the phrase around "plakat" ("to cry") and "budu" ("will be") for a crisp, natural delivery.

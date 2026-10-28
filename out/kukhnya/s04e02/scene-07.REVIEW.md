@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, you should not have insulted Nagiyev.' Once Barinov should not have insulted Nagiyev, Senya can finally tell Barinov what he means.
-- 'And nobody gave you the floor to speak.' Adding that nobody gave Louis the floor to speak fills in the missing piece for Louis. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Chef, all your problems come from your temper.' With the shift and pride in play, Senya keeps this short reply brisk and direct.
-- 'And nobody asked for your opinion either.' Since nobody asked for Louis's opinion either, Barinov does not waste words on excuses.
-- 'At least now you have no right to insult us.' Mentioning that at least now Barinov has no right to insult them moves the talk in a new direction. That little word "zato" means "on the bright side", flipping a complaint into an advantage.
-- 'Keep quiet when grown men are sorting things out.' Saying that Louis should keep quiet when grown men are sorting things out is how Barinov sets the tone with Louis.
-- 'It is a good thing they fired you.' Because it is a good thing they fired Barinov, Louis treats the matter as settled.
-- 'What did you just say?' Wondering what Louis just say is how Barinov puts Louis on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'To hell with all of you.' Around the moment and pride, Barinov sets a calm, everyday tone with Louis. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Any restaurant will gladly hire me.' Claiming that any restaurant will gladly hire him sounds confident, even if Louis has doubts.
-- 'And you will rot here without me.' Pointing out that Louis will rot here without him gives Louis a sobering reality check. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'The Chef walked out.' Senya explains that the Chef walked out, keeping his voice calm and direct.
+- 'Chef, you should not have insulted Nagiyev.' Senya adopts a serious position without hesitation, putting "nuzhno" ("necessary") alongside "bylo" ("was") in a tight, everyday turn of phrase.
+- 'And nobody gave you the floor to speak.' Barinov picks a thoughtful tack on the spot, putting "slova" ("words") alongside "daval" ("gave") in a tight, everyday turn of phrase.
+- 'Chef, all your problems come from your temper.' Senya chooses a firm view in the room, joining "kharaktera" ("temper") to "problemy" ("problems") so every word pulls its weight.
+- 'And nobody asked for your opinion either.' Barinov projects a lively note in front of Senya, leaning on "slova" ("words") before closing the thought with "daval" ("gave").
+- 'At least now you have no right to insult us.' Louis chooses an easygoing mood as they talk, combining "teper" ("now") and "imeyete" ("have") so the key meaning lands right away.
+- 'Keep quiet when grown men are sorting things out.' Barinov displays a sharp tack right away, anchoring the Russian line on "molchi" ("be quiet") and "kogda" ("when") without extra filler.
+- 'It is a good thing they fired you.' Louis favors a warm manner straight away, weaving "khorosho" ("good, fine") together with "uvolili" ("to fire, to dismiss") just the way native speakers do.
+- 'What did you just say?' Barinov checks sharply in this moment, building the phrase around "skazal" ("said") and "chto" ("what") for a crisp, natural delivery.
+- 'To hell with all of you.' Barinov takes an honest style on the spot, joining "poshli" ("let's go") to "da" ("yes") so every word pulls its weight.
+- 'Any restaurant will gladly hire me.' Barinov conveys an earnest direction in the scene, putting "lyuboy" ("any") alongside "restoran" ("restaurant") in a tight, everyday turn of phrase.
+- 'And you will rot here without me.' Barinov maintains an easygoing tempo as the scene unfolds, putting "tut" ("here") alongside "sgniyote" ("without") in a tight, everyday turn of phrase.
+- 'The Chef walked out.' Senya keeps a serious stance beside Louis, pairing "ushyol" ("left, departed") with "shef" ("Chef") to get the point across in plain spoken Russian.

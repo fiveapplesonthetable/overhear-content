@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, a new order, pasta and two steaks!' Around the date and ticket, Lyova makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And for table five we are serving hot onion soups!' Saying that for table five they are serving hot onion soups is how Lyova takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Lyova, come over here, can I have you for a minute?' Barinov asks whether come over here can he has Lyova for a minute, refusing to let the point slide.
-- 'Viktor Petrovich, I am working right now, there are orders in the kitchen!' Because he is working right now there are orders in the kitchen, Lyova does not bother softening the blow for Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Come here quickly, Lyova, this is very important!' Coming here quickly Lyova this is very important is Barinov's blunt reaction in front of Lyova. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'All right, Viktor Petrovich, but only for one minute.' With the office and date in play, Lyova keeps this short reply brisk and direct.
-- 'Tell me, Lyova, which shirt is better to put on?' Barinov asks whether tell him Lyova which shirt is better to put, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It seems to me that this shirt right here is too bright.' Barinov explains that it seems to him that this shirt right here is too bright, keeping his voice calm and direct.
-- 'And this second shirt right here is kind of boring.' Adding that this second shirt right here is kind of boring fills in the missing piece for Lyova.
-- 'Quickly choose a shirt for me and go work!' With the dinner and date at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'It seems to me that this shirt right here is much better.' Since it seems to him that this shirt right here is much better, Lyova does not waste words on excuses.
-- 'Thank you, Lyova, I have always trusted your taste!' Because he has always trusted Lyova's taste, Barinov does not bother softening the blow for Lyova.
+- 'All right, a new order, pasta and two steaks!' Lyova brings an emphatic approach in the conversation, joining "novyy" ("new") to "zakaz" ("order") so every word pulls its weight.
+- 'And for table five we are serving hot onion soups!' Lyova chooses a clear bearing with Barinov, combining "pyatyy" ("fifth") and "stol" ("table") so the key meaning lands right away.
+- 'Lyova, come over here, can I have you for a minute?' Barinov prompts evenly toward Lyova here, building the phrase around "podoydi" ("approach, go up") and "syuda" ("here") for a crisp, natural delivery.
+- 'Viktor Petrovich, I am working right now, there are orders in the kitchen!' Lyova shares a pointed direction across the room, pairing "seychas" ("now") with "rabotayu" ("work") so the "-sya" ending carries the action.
+- 'Come here quickly, Lyova, this is very important!' Barinov offers an honest posture straight away, linking "idi" ("go"), "skoreye" ("quickly, right away"), and "syuda" ("here") in one brisk exchange.
+- 'All right, Viktor Petrovich, but only for one minute.' Lyova presents a calm bearing as they talk, combining the easygoing tag "ladno" ("okay, fine") with "tolko" ("only") to give the line its natural spoken rhythm.
+- 'Tell me, Lyova, which shirt is better to put on?' Barinov queries wryly across the room, anchoring the Russian line on "skazhi" ("say") and "rubashku" ("shirt") without extra filler.
+- 'It seems to me that this shirt right here is too bright.' Barinov holds a clear position in this beat, anchoring the Russian line on "kazhetsya" ("it seems, I think") and "rubashka" ("shirt") without extra filler.
+- 'And this second shirt right here is kind of boring.' Barinov sets a steady tempo during the exchange, weaving "vtoraya" ("second") together with "rubashka" ("shirt") just the way native speakers do.
+- 'Quickly choose a shirt for me and go work!' Barinov offers a clear mood right away, linking "bystro" ("quickly"), "vyberi" ("to choose, use up"), and "rubashku" ("shirt") in one brisk exchange.
+- 'It seems to me that this shirt right here is much better.' Lyova adopts an easygoing rhythm for Barinov, anchoring the Russian line on "kazhetsya" ("it seems, I think") and "rubashka" ("shirt") without extra filler.
+- 'Thank you, Lyova, I have always trusted your taste!' Barinov shares a candid position at this moment, building the phrase around "spasibo" ("thank you") and "vsegda" ("always") for a crisp, natural delivery.

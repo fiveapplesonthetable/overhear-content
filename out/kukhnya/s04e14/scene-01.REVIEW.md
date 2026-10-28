@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There are no orders yet, the restaurant is still closed.' Since there are no orders yet the restaurant is still closed, Senya does not waste words on excuses.
-- 'Our new management does not know the schedule.' Mentioning that their new management does not know the schedule moves the talk in a new direction.
-- 'Relax, friend, there is still time.' Admitting that Katya should relax friend there is still time shows Fedya being honest for a change.
-- 'Next time the knife will be higher!' Insisting that next time the knife will be higher shows Katya is not backing down.
-- 'Get to work quickly, without chatter!' Because Fedya should get to work quickly without chatter, Katya does not bother softening the blow for Fedya. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'One must not be so mean in the morning!' Declaring that one must not be so mean in the morning brings Fedya's temper right to the surface. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Especially since today is your dad's holiday.' Claiming that especially since today is Fedya's dad holiday sounds confident, even if Fedya has doubts.
-- 'Quiet, guys, our birthday boy is coming here!' Saying that quiet guys their birthday boy is coming here is how Senya takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Viktor Petrovich, happy birthday to you!' With the conversation and morning at stake, Fedya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Hurray, we wish you health and happiness!' With the work and morning at stake, Senya reacts without holding back.
-- 'Thank you very much, friends, I am very pleased.' Noting that very much friends he is very pleased keeps Fedya's side of the story simple and clear.
-- 'Lyova, hold my presents, please.' Adding that Fedya should hold his presents please fills in the missing piece for Fedya.
+- 'There are no orders yet, the restaurant is still closed.' Senya offers a frank mood in this beat, building the phrase around "zakazov" ("orders") and "poka" ("bye") for a crisp, natural delivery.
+- 'Our new management does not know the schedule.' Senya keeps an emphatic tack toward Katya, joining "novoye" ("new") to "nachalstvo" ("management") so every word pulls its weight.
+- 'Relax, friend, there is still time.' Fedya strikes an honest position in the scene, leaning on "rasslabsya" ("relax") before closing the thought with "drug" ("friend").
+- 'Next time the knife will be higher!' Katya conveys a candid stance in front of Senya, joining "sleduyushchiy" ("next") to "raz" ("time, once") so every word pulls its weight.
+- 'Get to work quickly, without chatter!' Katya adopts a warm bearing in this beat, building the phrase around "davayte" ("let's") and "bystro" ("quickly") for a crisp, natural delivery.
+- 'One must not be so mean in the morning!' Fedya sets an emphatic tempo in their talk, pairing "nelzya" ("not allowed") with "byt" ("be") to get the point across in plain spoken Russian.
+- 'Especially since today is your dad's holiday.' Senya adopts an honest direction in the room, building the phrase around "boleye" ("more") and "segodnya" ("today") for a crisp, natural delivery.
+- 'Quiet, guys, our birthday boy is coming here!' Senya projects a natural course in this beat, joining "tikho" ("easy, quiet") to "rebyata" ("the boys, the lads") so every word pulls its weight.
+- 'Viktor Petrovich, happy birthday to you!' Fedya conveys a brisk stance beside Katya, using "pozdravlyayem" (from "pozdravlyat", "we congratulate") alongside "dnyom" ("day") to shape the meaning.
+- 'Hurray, we wish you health and happiness!' Senya brings a serious note in the conversation, putting "zhelayem" ("to wish") alongside "zdorovya" ("health") in a tight, everyday turn of phrase.
+- 'Thank you very much, friends, I am very pleased.' Fedya holds a candid stance straight away, combining "spasibo" ("thank you") and "bolshoye" ("big, very much") so the key meaning lands right away.
+- 'Lyova, hold my presents, please.' Senya holds a warm bearing in the scene, pairing "poderzhi" ("hold") with "podarki" ("presents") to get the point across in plain spoken Russian.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, allow me to interrupt your quiet conversation.' Even though the inspector should allow him to interrupt the inspector's quiet conversation, Nagiyev keeps a steady face in front of the inspector.
-- 'I was told that you are kicking out our restaurant homeless man.' Noting that he was told that the inspector is kicking out their restaurant homeless man keeps Nagiyev's side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Dima, what restaurant homeless man? What are you talking about?' Around the truth and order, the inspector wants to know where Max really stands.
-- 'You see, in Moscow there are such kind traditions.' Admitting that in Moscow there are such kind traditions shows Nagiyev being honest for a change.
-- 'Someone sponsors an animal in the zoo, and we look after a homeless man.' With the office and plan in play, Nagiyev keeps this short reply brisk and direct.
-- 'Dima, do not forget that you sold the restaurant to me.' Once do not forget that Max sold the restaurant to him, the inspector can finally tell Max what he means.
-- 'And now only I decide whom we look after.' Adding that only he decides whom they look fills in the missing piece for Max.
-- 'And your job by contract is to be the face here.' The inspector tells Max that Max's job by contract is to be the face here without dressing it up. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Tomorrow important investors and a wife will have dinner here.' Since tomorrow important investors and a wife will have dinner here, the inspector does not waste words on excuses.
-- 'The wife is a big fan of yours, you will sit and joke with them.' Mentioning that the wife is a big fan of Max's Max will sit and joke with them moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Sitting and joking—that is called a corporate gig!' Nagiyev declares that sitting and joking that is called a corporate gig as the tension in the room peaks. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Dima, what is wrong with you? Did you almost cry?' Asking what wrong with the inspector is cuts straight through the tension between Max and the inspector.
+- 'Good afternoon, allow me to interrupt your quiet conversation.' Nagiyev projects a frank bearing beside the inspector, anchoring the Russian line on "dobryy" ("good") and "den" ("day") without extra filler.
+- 'I was told that you are kicking out our restaurant homeless man.' Nagiyev favors an easygoing tempo in their talk, weaving "skazali" ("told") together with "vygonyayesh" ("to drive out") just the way native speakers do.
+- 'Dima, what restaurant homeless man? What are you talking about?' The inspector queries frankly beside Max, placing "yeshchyo" ("more, still") straight beside "restorannyy" ("restaurant") with no word for "to be" needed.
+- 'You see, in Moscow there are such kind traditions.' Nagiyev sets a frank tack at this moment, pairing "ponimayesh" ("do you understand") with "sushchestvuyut" ("to exist") to get the point across in plain spoken Russian.
+- 'Someone sponsors an animal in the zoo, and we look after a homeless man.' Nagiyev holds a serious tone on the spot, weaving "zooparke" ("in the zoo") together with "opekayet" ("sponsors, takes care of") just the way native speakers do.
+- 'Dima, do not forget that you sold the restaurant to me.' The inspector offers a wry tack with Nagiyev, joining "zabyvay" ("to forget") to "restoran" ("restaurant") so every word pulls its weight.
+- 'And now only I decide whom we look after.' The inspector shares an emphatic manner in the room, linking "teper" ("now"), "tolko" ("only"), and "reshayu" ("decide") in one brisk exchange.
+- 'And your job by contract is to be the face here.' The inspector favors a direct attitude in front of Nagiyev, anchoring the Russian line on "delo" ("matter") and "kontraktu" ("by contract") without extra filler.
+- 'Tomorrow important investors and a wife will have dinner here.' The inspector adopts a lively angle in the scene, leaning on "zavtra" ("tomorrow") before closing the thought with "zdes" ("here").
+- 'The wife is a big fan of yours, you will sit and joke with them.' The inspector projects a firm view with Nagiyev, building the phrase around "zhena" ("wife") and "bolshaya" ("large") for a crisp, natural delivery.
+- 'Sitting and joking—that is called a corporate gig!' Nagiyev conveys a candid approach beside the inspector, putting "posidish" ("will sit for a while") alongside "poshutish" ("you will joke") in a tight, everyday turn of phrase.
+- 'Dima, what is wrong with you? Did you almost cry?' Max inquires wryly in front of Nagiyev, building the phrase around "chut" ("almost, nearly") and "zaplakal" ("started crying") for a crisp, natural delivery.

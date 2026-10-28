@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Will you measure the thickness of the carpet too?' By checking whether Kostya measure the thickness of the carpet, Max presses Kostya for a straight answer.
-- 'Definitely! Quite right.' With the hotel and guest at stake, Kostya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'The moustached man did not use the cloakroom, so he stays with us.' Claiming that the moustached man did not use the cloakroom so he stays with them sounds confident, even if Kostya has doubts. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Maybe we would do better not to mess with him?' Questioning whether maybe they would do better not to mess with him is how Kostya tests Max's story.
-- 'Sveta, will you help?' By asking whether Kostya helps, Max presses Kostya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'One minute.' With the hotel and guest in play, Sveta keeps this short reply brisk and direct.
-- 'Have you not finished yet? You are doing everything very slowly.' Asking whether Max not finished yet is how Kostya puts Max on the spot.
-- 'I cannot wait any longer.' Even though he cannot wait any longer, Kostya keeps a steady face in front of Max.
-- 'I am doing it, I am doing it.' Pointing out that she is doing it she is doing it gives Kostya a sobering reality check.
-- 'Why are you deleting the database? What are you doing?' Asking why Kostya deleting the database is cuts straight through the tension between Max and Kostya.
-- 'I do not know.' Once she does not know, Sveta can finally tell Kostya what she means.
-- 'The hypnotist is still in the hotel!' Once the hypnotist is still in the hotel, Max makes sure Kostya hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Will you measure the thickness of the carpet too?' Max challenges quietly toward Kostya here, linking "tolshchinu" ("thickness"), "kovra" ("carpet, rug"), and "izmeryat" ("to measure") in one brisk exchange.
+- 'Definitely! Quite right.' Kostya picks a lively direction in front of Sveta, combining "obyazatelno" ("surely, without fail") and "pravilno" ("right") so the key meaning lands right away.
+- 'The moustached man did not use the cloakroom, so he stays with us.' Max offers a firm stance at once, building the phrase around "usatyy" ("friend") and "garderobe" ("cloakroom") for a crisp, natural delivery.
+- 'Maybe we would do better not to mess with him?' Kostya quizzes pointedly beside Sveta, joining "mozhet" ("can") to "budem" ("will") so every word pulls its weight.
+- 'Sveta, will you help?' Max checks decisively toward Kostya here, using "sveta" (from "svet", "electricity") alongside "pomozhesh" ("you'll help") to shape the meaning.
+- 'One minute.' Sveta picks a pointed bearing in the scene, leaning on "minutu" ("a minute") before closing the thought with "odnu" ("one").
+- 'Have you not finished yet? You are doing everything very slowly.' Kostya presses firmly during the talk, leaning on "yeshchyo" ("more, still") before closing the thought with "zakonchili" ("to finish, to complete").
+- 'I cannot wait any longer.' Kostya favors a firm stance without hesitation, linking "mogu" ("can"), "bolshe" ("more"), and "zhdat" ("to wait") in one brisk exchange.
+- 'I am doing it, I am doing it.' Sveta sustains an emphatic direction during the exchange, pairing "delayu" ("I make") with "ya" ("I") to get the point across in plain spoken Russian.
+- 'Why are you deleting the database? What are you doing?' Max prompts steadily right away, pairing "zachem" ("what for") with "bazu" ("database") to get the point across in plain spoken Russian.
+- 'I do not know.' Sveta picks an earnest course across the room, anchoring the Russian line on "znayu" ("know") and "ya" ("I") without extra filler.
+- 'The hypnotist is still in the hotel!' Max shares a pointed footing in this beat, weaving "gipnotizyor" ("hypnotist") together with "yeshchyo" ("more, still") just the way native speakers do.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, what are you staring at like that?' Here asking what Barinov staring at like is shows Kostya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Go and tell Katya about everything.' Because Barinov should go and tell Katya about everything, Kostya treats the matter as settled.
-- 'In France this sauce is considered one of the foundational ones.' Explaining that in France this sauce is considered one of the foundational ones lays the cards on the table for Kostya.
-- 'It is one of the main sauces.' Barinov mentions that it is one of the main sauces so Kostya sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Preparation requires talent and patience.' Over the sauce and the truth, Barinov answers Kostya without a second thought.
-- 'After all, it cooks for a very long time.' Pointing out that after all it cooks for a very long time gives Kostya a sobering reality check.
-- 'All that remains is to strain it and reduce it a bit.' Barinov explains that all that remains is to strain it and reduce it a bit, keeping his voice calm and direct.
-- 'Here is a new 'Chef to the Room' Realizing that here is a new to the room changes how Senya handles the situation.
-- 'One must not abandon the preparation of our sauce.' Noting that one must not abandon the preparation of their sauce keeps Barinov's side of the story simple and clear. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Senya, take this order.' Telling Kostya to take this order moves the conversation forward without extra drama.
-- 'That is too big a responsibility, I cannot handle it.' Admitting that that is too big a responsibility he cannot handle it shows Senya being honest for a change.
-- 'Better let Lyova go up there.' Saying that better let Lyova go up there is how Senya sets the tone with Barinov.
+- 'Well, what are you staring at like that?' Kostya quizzes honestly without hesitation, weaving "ustavilsya" ("stared") together with "nu" ("oh, come on") just the way native speakers do.
+- 'Go and tell Katya about everything.' Kostya brings a serious tack in the conversation, combining "idi" ("go") and "rasskazhi" ("tell") so the key meaning lands right away.
+- 'In France this sauce is considered one of the foundational ones.' Barinov shares a playful view on the spot, anchoring the Russian line on "sous" ("sauce") and "schitayetsya" ("to be considered") without extra filler.
+- 'It is one of the main sauces.' Barinov sets a grounded style beside Senya, anchoring the Russian line on "glavnykh" ("main") and "sousov" ("of sauces") without extra filler.
+- 'Preparation requires talent and patience.' Barinov shares a thoughtful mood at once, combining "prigotovleniya" ("for preparation") and "nuzhny" ("needed") so the key meaning lands right away.
+- 'After all, it cooks for a very long time.' Barinov establishes a lively bearing in the conversation, putting "gotovitsya" ("is preparing") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
+- 'All that remains is to strain it and reduce it a bit.' Barinov brings a resolute posture in their talk, linking "ostalos" ("was left"), "protsedit" ("to strain"), and "nemnogo" ("a bit") in one brisk exchange.
+- 'Here is a new 'Chef to the Room' Senya chooses a playful note at this moment, placing "tut" ("here") straight beside "novyy" ("new") with no word for "to be" needed.
+- 'One must not abandon the preparation of our sauce.' Barinov presents a measured footing across the room, putting "nelzya" ("not allowed") alongside "brosat" ("to abandon") in a tight, everyday turn of phrase.
+- 'Senya, take this order.' Barinov projects a clear angle during the exchange, joining "vozmi" ("take, pick up") to "zakaz" ("order") so every word pulls its weight.
+- 'That is too big a responsibility, I cannot handle it.' Senya chooses an emphatic stance across the room, leaning on "slishkom" ("too") before closing the thought with "bolshaya" ("large").
+- 'Better let Lyova go up there.' Senya shares a candid footing with Kostya, anchoring the Russian line on "luchshe" ("better") and "tuda" ("there") without extra filler.

@@ -18,22 +18,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Макс | Вот рыба. | Here is the fish. | #224: Вот рыба. | verbatim |
 | 7 | Герман | Отлично. Так, я сам отнесу. | Excellent. Alright, I will carry it out myself. | #225: Отлично. Так, я сам отнесу. | verbatim |
 | 8 | Макс | Последний раз помогаю тебе. | This is the last time I am helping you. | #226: Последний раз помогаю тебе | verbatim |
-| 9 | Сеня | Можешь ты нам всем объяснить? | Can you explain this to all of us? | #227: можешь ты нам<br>#227: всем объяснить | verbatim |
-| 10 | Сеня | Почему этот отличник аттестации готовить не умеет? | Why does this top scorer of the evaluation not know how to cook at all? | #229: почему этот отличник аттестации<br>#229: готовить<br>#230: не умеет? | verbatim |
+| 9 | Нагиев | Можешь ты нам всем объяснить? | Can you explain this to all of us? | #227: можешь ты нам<br>#227: всем объяснить | verbatim |
+| 10 | Нагиев | Почему этот отличник аттестации готовить не умеет? | Why does this top scorer of the evaluation not know how to cook at all? | #229: почему этот отличник аттестации<br>#229: готовить<br>#230: не умеет? | verbatim |
 | 11 | Макс | Ребят, я вам сейчас всё объясню. | Guys, I will explain everything to you right now. | #230: Ребят, я вам сейчас все объясню. | verbatim |
 | 12 | Макс | Дело в том, что Денис не повар. | The thing is that Denis is not a cook. | #232: Дело в том, что Денис не повар. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich is waiting for his fish.' Noting that Dmitry Vladimirovich is waiting for his fish keeps Max's side of the story simple and clear.
-- 'Denis, bring over your culinary masterpiece.' Bringing over Max's culinary masterpiece is how German lays out the situation for Max.
-- 'German Mikhailovich, do you even know what is going on in the dining room?' Here asking whether German even know what is going on in the dining room shows Max looking for the real truth.
-- 'There are guests out there. And everyone is waiting for their orders.' Saying that there are guests out there is how Max sets the tone with German.
-- 'Well, we are cooking. So keep cooking.' Once they are cooking, German can finally tell Max what he means.
-- 'Here is the fish.' Adding that here is the fish fills in the missing piece for German.
-- 'Excellent. Alright, I will carry it out myself.' Saying that Alright he will carry it out himself is how German sets the tone with Max.
-- 'This is the last time I am helping you.' Since this is the last time he is helping German, Max does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Can you explain this to all of us?' Checking whether German explains this to all of them cuts straight through the tension between Senya and German.
-- 'Why does this top scorer of the evaluation not know how to cook at all?' Asking why this top scorer of the evaluation not know how to cook at all is how Senya puts German on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Guys, I will explain everything to you right now.' Because he will explain everything to German right now, Max treats the matter as settled. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'The thing is that Denis is not a cook.' Explaining that the thing is that Denis is not a cook lays the cards on the table for German.
+- 'Dmitry Vladimirovich is waiting for his fish.' Max establishes a resolute attitude at once, leaning on "zhdyot" ("is waiting") before closing the thought with "rybu" ("fish").
+- 'Denis, bring over your culinary masterpiece.' German strikes a resolute course without hesitation, building the phrase around "prinesite" ("bring") and "proizvedeniye" ("work of art") for a crisp, natural delivery.
+- 'German Mikhailovich, do you even know what is going on in the dining room?' Max questions boldly for German's benefit, pairing "voobshche" ("at all") with "znayete" ("know") to get the point across in plain spoken Russian.
+- 'There are guests out there. And everyone is waiting for their orders.' Max shares a natural stance on the spot, linking "tam" ("there"), "gosti" ("visitors, guests"), and "zhdut" ("to wait, to expect") in one brisk exchange.
+- 'Well, we are cooking. So keep cooking.' German keeps a serious position toward Max, linking "gotovim" ("are preparing"), "gotovte" ("cook"), and "nu" ("oh, come on") in one brisk exchange.
+- 'Here is the fish.' Max establishes a frank attitude without hesitation, placing "ryba" ("fish") straight beside "vot" ("there, here") with no word for "to be" needed.
+- 'Excellent. Alright, I will carry it out myself.' German picks a frank approach at once, combining "otlichno" ("perfect, great") and "otnesu" ("to carry to") so the key meaning lands right away.
+- 'This is the last time I am helping you.' Max conveys an emphatic tempo in the room, linking "posledniy" ("last"), "raz" ("time, once"), and "pomogayu" ("to help") in one brisk exchange.
+- 'Can you explain this to all of us?' Nagiyev prompts quietly toward German here, anchoring the Russian line on "mozhesh" ("can") and "obyasnit" ("to explain") without extra filler.
+- 'Why does this top scorer of the evaluation not know how to cook at all?' Nagiyev quizzes warmly in the scene, linking "pochemu" ("why"), "otlichnik" ("handle"), and "attestatsii" ("evaluation") in one brisk exchange.
+- 'Guys, I will explain everything to you right now.' Max favors an earnest style at this moment, building the phrase around "rebyat" ("kids, guys") and "seychas" ("now") for a crisp, natural delivery.
+- 'The thing is that Denis is not a cook.' Max shares a serious manner right away, weaving "delo" ("matter") together with "povar" ("chef, cook") just the way native speakers do.

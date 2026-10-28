@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How can you look me in the eyes?' Here wondering how Kostya looks her in the eyes can shows Nastya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Tell me, how could you cheat on me?' Asking whether tell her how could Kostya cheat puts Kostya right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Wait, what are you talking about right now?' Wondering what Nastya talking about right now is cuts straight through the tension between Kostya and Nastya.
-- 'I just heard everything myself!' Saying that she just heard everything herself is how Nastya takes charge of the moment. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'That model went to a room with the bartender!' Nastya declares that that model went to a room with the bartender as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'That was not me, Nastya!' Because that was not him, Kostya does not bother softening the blow for Nastya.
-- 'I swear to you, that was Louis yesterday.' Since he swears to Nastya that was Louis yesterday, Kostya does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What do you mean Louis, why are you lying?' Wondering what Kostya means Louis why are Kostya lying is how Nastya puts Kostya on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Last night I needed to go to the restroom.' Noting that last night he needed to go to the restroom keeps Kostya's side of the story simple and clear.
-- 'I asked him to watch the bar for a bit.' Even though he asked him to watch the bar for a bit, Kostya keeps a steady face in front of Nastya.
-- 'And he watched over that model instead!' Saying that he watched over that model instead is how Kostya takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'This is the honest truth, believe me, Nastya!' Insisting that this is the honest truth believe him shows Kostya is not backing down.
+- 'How can you look me in the eyes?' Nastya prompts candidly as they speak, anchoring the Russian line on "kak" ("how") and "mozhesh" ("can") without extra filler.
+- 'Tell me, how could you cheat on me?' Nastya questions honestly for Kostya's benefit, putting "skazhi" ("say") alongside "kak" ("how") in a tight, everyday turn of phrase.
+- 'Wait, what are you talking about right now?' Kostya quizzes decisively as the beat lands, weaving "podozhdi" ("wait") together with "seychas" ("now") just the way native speakers do.
+- 'I just heard everything myself!' Nastya conveys a resolute tempo right away, weaving "tolko" ("only") together with "slyshala" ("to hear") just the way native speakers do.
+- 'That model went to a room with the bartender!' Nastya presents a warm tack in front of Kostya, pairing "model" ("model") with "khodila" ("walked, circled") to get the point across in plain spoken Russian.
+- 'That was not me, Nastya!' Kostya chooses an earnest rhythm at once, leaning on "byl" ("was") before closing the thought with "da" ("yes").
+- 'I swear to you, that was Louis yesterday.' Kostya strikes a brisk bearing during the exchange, building the phrase around "klyanus" ("I swear") and "vchera" ("yesterday") for a crisp, natural delivery.
+- 'What do you mean Louis, why are you lying?' Nastya tests earnestly as they speak, putting "yeshchyo" ("more, still") alongside "vryosh" ("are lying") in a tight, everyday turn of phrase.
+- 'Last night I needed to go to the restroom.' Kostya presents a brisk mood right away, building the phrase around "vchera" ("yesterday") and "vecherom" ("in the evening") for a crisp, natural delivery.
+- 'I asked him to watch the bar for a bit.' Kostya takes a grounded footing in the conversation, linking "poprosil" ("asked"), "nemnogo" ("a bit"), and "prismotret" ("to look") in one brisk exchange.
+- 'And he watched over that model instead!' Kostya displays a frank direction as they talk, anchoring the Russian line on "modelyu" ("model") and "prismotrel" ("looked after") without extra filler.
+- 'This is the honest truth, believe me, Nastya!' Kostya establishes an emphatic direction for Nastya, anchoring the Russian line on "chistaya" ("clean") and "pravda" ("honestly") without extra filler.

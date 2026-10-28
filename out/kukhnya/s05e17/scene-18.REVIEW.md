@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything works, now you will watch television.' Noting that everything works now the guest will watch television keeps Max's side of the story simple and clear.
-- 'In Moscow we have more ministers than street sweepers.' Even though in Moscow they have more ministers than street sweepers, Max keeps a steady face in front of the guest.
-- 'The best single suite for your spouse.' Around the conversation and doctor, the guest sets a calm, everyday tone with Max.
-- 'Hello again, Nikolai Maryanovich.' Around the work and doctor, Max sets a calm, everyday tone with the guest.
-- 'Young man, vacate the ward immediately!' Around the room and shift, the guest makes his point loud and clear.
-- 'Excuse us, Nikolai Maryanovich.' Telling the guest to excuse them Nikolai Maryanovich is how Vika lays out the situation for the guest.
-- 'We will leave here right now.' Saying that they will leave here right now is how Vika sets the tone with the guest.
-- 'Vika, lie calmly in your place.' Lying calmly in the guest's place moves the conversation forward without extra drama.
-- 'We will leave this room only with our baby.' Mentioning that they will leave this room only with their baby moves the talk in a new direction.
-- 'That is it, I am going for security.' Explaining that that is it he is going for security lays the cards on the table for Max.
-- 'Max, what are you doing again?' Asking what the guest doing again is cuts straight through the tension between Vika and the guest.
-- 'Do not worry, I will sort everything out right now.' Since do not worry he will sort everything out right now, Max does not waste words on excuses.
+- 'Everything works, now you will watch television.' Max shows a clear bearing across the room, joining "rabotayet" ("works") to "teper" ("now") so every word pulls its weight.
+- 'In Moscow we have more ministers than street sweepers.' Max strikes a calm footing right away, linking "ministrov" ("minister"), "bolshe" ("more"), and "dvornikov" ("janitors") in one brisk exchange.
+- 'The best single suite for your spouse.' The guest shows a direct attitude right away, linking "luchshaya" ("best"), "odnomestnaya" ("single-bed"), and "palata" ("hospital room") in one brisk exchange.
+- 'Hello again, Nikolai Maryanovich.' Max shows a calm mood right away, weaving "yeshchyo" ("more, still") together with "raz" ("time, once") just the way native speakers do.
+- 'Young man, vacate the ward immediately!' The guest brings a playful rhythm toward Max, joining "molodoy" ("young") to "chelovek" ("a man, a person") so every word pulls its weight.
+- 'Excuse us, Nikolai Maryanovich.' Vika holds a candid approach at once, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "nas" ("us") to shape the meaning.
+- 'We will leave here right now.' Vika brings a wry style beside the guest, pairing "seychas" ("now") with "otsyuda" ("from here") to get the point across in plain spoken Russian.
+- 'Vika, lie calmly in your place.' Max establishes an easygoing rhythm in the room, pairing "lezhi" ("lie down") with "spokoyno" ("calmly") to get the point across in plain spoken Russian.
+- 'We will leave this room only with our baby.' Max sustains a brisk style as the scene unfolds, weaving "uydyom" ("will leave") together with "otsyuda" ("from here") just the way native speakers do.
+- 'That is it, I am going for security.' The guest shows a direct course straight away, using "idu" (from "idti", "going, running") alongside "okhranoy" ("security, guards") to shape the meaning.
+- 'Max, what are you doing again?' Vika inquires boldly across the room, putting "opyat" ("again") alongside "tvorish" ("are doing, creating") in a tight, everyday turn of phrase.
+- 'Do not worry, I will sort everything out right now.' Max chooses a serious position in this beat, joining "volnuysya" ("worry") to "seychas" ("now") so every word pulls its weight.

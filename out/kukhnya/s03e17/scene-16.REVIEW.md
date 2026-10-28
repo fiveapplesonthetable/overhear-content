@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Only creative people work in our kitchen.' With the shift and room in play, Nagiyev keeps this short reply brisk and direct.
-- 'They do not even notice the clock when they cook.' Mentioning that they do not even notice the clock when they cook moves the talk in a new direction.
-- 'I will go right now and hurry our artists along.' Saying that he will go right now and hurry their artists along is how Nagiyev sets the tone with the guest.
-- 'Oh, look, here come our delicacies!' With the kitchen and room at stake, Nagiyev reacts without holding back.
-- 'Wait a minute, what is this you have, pilaf?' The guest asks whether a minute what is this Max has pilaf, refusing to let the point slide. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Is this ordinary pilaf on the plate?' Asking whether this ordinary pilaf on the plate is how Nagiyev puts the guest on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Yes, this is real hot pilaf.' Claiming that this is real hot pilaf sounds confident, even if the guest has doubts.
-- 'I have not eaten pilaf in a thousand years.' Having not eaten pilaf in a thousand years moves the conversation forward without extra drama.
-- 'I still remember this taste.' The guest explains that he still remembers this taste, keeping his voice calm and direct.
-- 'Very delicious! Good for you, Dima!' Around the shift and truth, the guest makes his point loud and clear.
-- 'We have a special approach to every guest of ours.' Noting that they have a special approach to every guest keeps Nagiyev's side of the story simple and clear. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'One can see in your eyes that you want pilaf.' Even though one can see in the guest's eyes that the guest wants pilaf, Nagiyev keeps a steady face in front of the guest. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Only creative people work in our kitchen.' Nagiyev brings a playful position without hesitation, weaving "kukhne" ("kitchen") together with "rabotayut" ("work") just the way native speakers do.
+- 'They do not even notice the clock when they cook.' Nagiyev adopts a resolute tempo during the exchange, anchoring the Russian line on "chasov" ("o'clock") and "zamechayut" ("to notice, observe") without extra filler.
+- 'I will go right now and hurry our artists along.' Nagiyev chooses a calm mood straight away, putting "poydu" ("go") alongside "seychas" ("now") in a tight, everyday turn of phrase.
+- 'Oh, look, here come our delicacies!' Nagiyev holds an honest tempo straight away, weaving "smotrite" ("look") together with "delikatesy" ("delicacies") just the way native speakers do.
+- 'Wait a minute, what is this you have, pilaf?' The guest challenges briskly as the talk turns, anchoring the Russian line on "podozhdite" ("wait") and "plov" ("pilaf") without extra filler.
+- 'Is this ordinary pilaf on the plate?' Nagiyev quizzes openly beside Max, leaning on "obychnyy" ("ordinary, regular") before closing the thought with "plov" ("pilaf").
+- 'Yes, this is real hot pilaf.' Max picks an honest manner in front of the guest, placing "samyy" ("the most") straight beside "nastoyashchiy" ("real, genuine") with no word for "to be" needed.
+- 'I have not eaten pilaf in a thousand years.' The guest shows a steady mood straight away, combining "uzhe" ("already, now") and "tysyachu" ("thousand") so the key meaning lands right away.
+- 'I still remember this taste.' The guest takes a candid direction as they talk, using "por" (from "pora", "time") alongside "pomnyu" ("remember") to shape the meaning.
+- 'Very delicious! Good for you, Dima!' The guest chooses a thoughtful line for Nagiyev, putting "ochen" ("very much") alongside "vkusno" ("it's tasty") in a tight, everyday turn of phrase.
+- 'We have a special approach to every guest of ours.' Nagiyev maintains an earnest bearing toward the guest, leaning on "u nas" ("by us, at our place") and "osobyy" ("special, particular") the way natural Russian does.
+- 'One can see in your eyes that you want pilaf.' Nagiyev strikes a thoughtful posture straight away, linking "glazam" ("eye"), "vidno" ("one can see"), and "plova" ("of pilaf") in one brisk exchange.

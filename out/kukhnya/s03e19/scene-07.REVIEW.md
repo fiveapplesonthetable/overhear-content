@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is my number, call me tonight.' Realizing that here is her number call her tonight changes how the hostess handles the situation.
-- 'Miss, actually I am not sitting here alone.' Realizing that the hostess should miss actually he is not sitting here alone changes how Max handles the situation.
-- 'Well that is fine, call me when you are alone.' Even though that is fine call her when Max is alone, the hostess keeps a steady face in front of Max.
-- 'Well how are you here, have you not died of boredom yet?' Here asking how the hostess here have the hostess not died of boredom yet is shows Vika looking for the real truth.
-- 'Not of boredom, but I am about to die of hunger right now.' Saying that not of boredom but he is about to die of hunger right now is how Max sets the tone with the hostess.
-- 'Let us quickly call our waiter over here.' Because they should quickly call their waiter over here, Max treats the matter as settled. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Max, tell me, is everything alright with you right now?' Asking whether tell her is everything alright with the hostess right now puts the hostess right on the defensive.
-- 'Yes, everything is fine, why are you suddenly asking?' Wondering if everything is fine why are the hostess suddenly asking shows Max caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Maybe because I wanted to hear the truth from you?' Questioning whether maybe because she wanted to hear the truth from the hostess is how Vika tests the hostess's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'That girl over there hit on you and gave you her number.' Mentioning that that girl over there hit on the hostess and gave the hostess her number moves the talk in a new direction.
-- 'I asked her to do it, I wanted to test how you tell the truth.' Vika reminds the hostess that she asked her to do it she wanted to test how the hostess tells the truth before the moment passes. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Nothing happened, I threw that phone number away immediately!' Saying that nothing happened he threw that phone number away immediately is how Max takes charge of the moment. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Max, telling the truth means telling me everything.' Explaining that telling the truth means telling her everything lays the cards on the table for the hostess.
+- 'Here is my number, call me tonight.' The hostess shares a grounded angle right away, pairing "nomer" ("number") with "pozvoni" ("call") to get the point across in plain spoken Russian.
+- 'Miss, actually I am not sitting here alone.' Max brings a serious style without hesitation, anchoring the Russian line on "devushka" ("girlfriend") and "voobshche-to" ("actually") without extra filler.
+- 'Well that is fine, call me when you are alone.' The hostess holds a frank mood on the spot, weaving "pozvoni" ("call") together with "kogda" ("when") just the way native speakers do.
+- 'Well how are you here, have you not died of boredom yet?' Vika quizzes briskly with Max now, linking "kak" ("how"), "tut" ("here"), and "yeshchyo" ("more, still") in one brisk exchange.
+- 'Not of boredom, but I am about to die of hunger right now.' Max offers a sharp rhythm at this moment, pairing "seychas" ("now") with "toski" ("from longing") so the "-sya" ending carries the action.
+- 'Let us quickly call our waiter over here.' Max displays a direct note without hesitation, pairing "davay" ("let's") with "skoreye" ("quickly, right away") to get the point across in plain spoken Russian.
+- 'Max, tell me, is everything alright with you right now?' Vika challenges sharply right away, linking "skazhi" ("say"), "seychas" ("now"), and "poryadke" ("order") in one brisk exchange.
+- 'Yes, everything is fine, why are you suddenly asking?' Max queries bluntly as the talk turns, building the phrase around "khorosho" ("good, fine") and "vdrug" ("suddenly, what if") for a crisp, natural delivery.
+- 'Maybe because I wanted to hear the truth from you?' Vika probes sharply to the hostess here, linking "mozhet" ("can"), "potomu" ("because"), and "khotela" ("wanted, meant") in one brisk exchange.
+- 'That girl over there hit on you and gave you her number.' Vika presents a clear rhythm in the room, putting "devushka" ("girlfriend") alongside "pristavala" ("hit on, pestered") in a tight, everyday turn of phrase.
+- 'I asked her to do it, I wanted to test how you tell the truth.' Vika adopts a pointed manner in the conversation, leaning on "poprosila" ("asked") before closing the thought with "khotela" ("wanted, meant").
+- 'Nothing happened, I threw that phone number away immediately!' Max presents a wry mood during the exchange, weaving "bylo" ("was") together with "telefon" ("phone") just the way native speakers do.
+- 'Max, telling the truth means telling me everything.' Vika offers a direct footing in this beat, leaning on "govorit" ("to talk") before closing the thought with "pravdu" ("truth").

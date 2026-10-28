@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It seems I have found us a new sommelier.' Admitting that it seems she has found them a new sommelier shows Nastya being honest for a change.
-- 'He does not drink and does not smoke.' Saying that he does not drink and does not smoke is how Nastya sets the tone with Kostya.
-- 'Handsome and a very good family man.' Around the money and conversation, Nastya sets a calm, everyday tone with Kostya.
-- 'It is our bartender Kostya.' Adding that it is their bartender Kostya fills in the missing piece for Kostya.
-- 'Are you pitching your own husband to me?' Asking whether Kostya pitching Kostya's own husband to him is how Nagiyev puts Kostya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'He smashed three bottles today!' Over the kitchen and the family, Nagiyev lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'But at his own expense, after all!' Between the kitchen and the wine, Nastya delivers a sharp reaction.
-- 'You are a kind and generous person, after all.' Saying that Kostya is a kind and generous person after all is how Nastya sets the tone with Kostya. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'And the best TV host in the whole country!' Over the shift and the family, Nastya lets her real feelings show. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Fine, be ready by evening.' With the kitchen and family in play, Nagiyev keeps this short reply brisk and direct.
-- 'I will set up a wine tasting for you.' Nagiyev mentions that he will set up a wine tasting for Kostya so Kostya sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Nastya, I do not know anything about wines!' Declaring that he does not know anything about wines brings Kostya's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'The main thing is to say 'excellent choice' Pointing out that the main thing is to say choice gives Kostya a sobering reality check.
-- 'Your wife and child are sure that you will succeed.' Nastya explains that Kostya's wife and child are sure that Kostya will succeed, keeping her voice calm and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'It seems I have found us a new sommelier.' Nastya sets a firm tack at once, anchoring the Russian line on "kazhetsya" ("it seems, I think") and "nashla" ("found, did you find") without extra filler.
+- 'He does not drink and does not smoke.' Nastya displays a thoughtful attitude without hesitation, anchoring the Russian line on "pyot" ("drinks") and "kurit" ("to smoke") without extra filler.
+- 'Handsome and a very good family man.' Nastya projects a direct course in the room, building the phrase around "krasivyy" ("beautiful") and "ochen" ("very much") for a crisp, natural delivery.
+- 'It is our bartender Kostya.' Nastya shows a steady manner in front of Nagiyev, linking "barmen" ("bartender") directly with "eto" ("this"), since Russian drops "is" and "are" in the present.
+- 'Are you pitching your own husband to me?' Nagiyev quizzes boldly across the room, putting "muzha" ("husband") alongside "predlagayesh" ("are suggesting") in a tight, everyday turn of phrase.
+- 'He smashed three bottles today!' Nagiyev presents a steady course as the scene unfolds, leaning on "segodnya" ("today") before closing the thought with "butylki" ("bottle").
+- 'But at his own expense, after all!' Nastya picks a brisk angle in this beat, weaving "schyot" ("counting, account") together with "no" ("but") just the way native speakers do.
+- 'You are a kind and generous person, after all.' Nastya displays a clear note at this moment, building the phrase around "dobryy" ("good") and "shchedryy" ("generous") for a crisp, natural delivery.
+- 'And the best TV host in the whole country!' Nastya presents an unhurried stance on the spot, leaning on "luchshiy" ("best") before closing the thought with "vedushchiy" ("host").
+- 'Fine, be ready by evening.' Nagiyev establishes a brisk tack in their talk, joining "vecheru" ("evening") to "bud" ("were he") so every word pulls its weight.
+- 'I will set up a wine tasting for you.' Nagiyev shows an unhurried note as the scene unfolds, using "ustroyu" (from "ustroit", "to arrange") alongside "degustatsiyu" ("tasting") to shape the meaning.
+- 'Nastya, I do not know anything about wines!' Kostya maintains a lively line in front of Nastya, combining "razbirayus" ("know my stuff") and "vinakh" ("wine") so the key meaning lands right away.
+- 'The main thing is to say 'excellent choice' Nastya picks a direct approach toward Kostya, combining "glavnoye" ("important") and "vovremya" ("at the right time") so the key meaning lands right away.
+- 'Your wife and child are sure that you will succeed.' Nastya favors a resolute tone with Nagiyev, building the phrase around "zhena" ("wife") and "rebyonok" ("a child") for a crisp, natural delivery.

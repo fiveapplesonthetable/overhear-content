@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Шеф | У нас на кухне. | Right here in our kitchen. | #280: У нас на кухне | verbatim |
 | 5 | Вика | Вот он, с пакетом! | There he is, the guy with the bag! | #281: Вот он, с пакетом | verbatim |
 | 6 | Настя | Эй! Ну что? | Hey! What the hell is this? | #282: Эй! Ну что | verbatim |
-| 7 | Шеф | Виктор Петрович, это вы? | Viktor Petrovich, is that you? | #283: Виктор Петрович, это вы | verbatim |
+| 7 | Вика | Виктор Петрович, это вы? | Viktor Petrovich, is that you? | #283: Виктор Петрович, это вы | verbatim |
 | 8 | Вика | Где моя дочь? | Where is my daughter? | #284: Где моя дочь | verbatim |
 | 9 | Настя | Отвечай, где моя дочь? | Answer me, where is my daughter? | #284: Где моя дочь | adapted: adapted |
 | 10 | Шеф | Какая дочь? | What daughter are you talking about? | #285: Какая дочь | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And nothing can be fixed anymore.' Barinov explains that nothing can be fixed anymore, keeping his voice calm and direct.
-- 'Because I am not going to repeat my old mistakes.' Realizing that because she is not going to repeat her old mistakes changes how Vika handles the situation.
-- 'Wait, do you want a snail?' Checking whether Barinov wants a snail is how Nastya puts Barinov on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Right here in our kitchen.' Over the truth and the restaurant, Barinov answers Nastya without a second thought.
-- 'There he is, the guy with the bag!' Declaring that there he is the guy with the bag brings Vika's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Hey! What the hell is this?' Wondering if what the hell is this shows Nastya caught off guard. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Viktor Petrovich, is that you?' Asking whether that Nastya is how Barinov puts Nastya on the spot.
-- 'Where is my daughter?' Here asking where her daughter is shows Vika looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Answer me, where is my daughter?' Nastya asks whether answer her where is her daughter, refusing to let the point slide. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What daughter are you talking about?' Asking whether what daughter are Nastya talking puts Nastya right on the defensive.
-- 'Where is Nastya?' Here wondering where Nastya is shows Vika looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Dad, I am right here!' Declaring that dad she is right here brings Nastya's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Well, basically.' With the plan and restaurant in play, Barinov keeps this short reply brisk and direct.
+- 'And nothing can be fixed anymore.' Barinov strikes a serious tack in the scene, anchoring the Russian line on "ispravit" ("to fix, to correct") and "uzhe" ("already, now") without extra filler.
+- 'Because I am not going to repeat my old mistakes.' Vika brings a playful attitude as they talk, combining "potomu" ("because") and "budu" ("will be") so the key meaning lands right away.
+- 'Wait, do you want a snail?' Nastya asks firmly beside Barinov, pairing "ulitku" ("snail, escargot") with "budesh" ("will") to get the point across in plain spoken Russian.
+- 'Right here in our kitchen.' Barinov shows an unhurried line straight away, joining "kukhne" ("kitchen") to "nas" ("us") so every word pulls its weight.
+- 'There he is, the guy with the bag!' Vika keeps a pointed position at once, pairing "paketom" ("with a package") with "vot" ("there, here") to get the point across in plain spoken Russian.
+- 'Hey! What the hell is this?' Nastya queries lightly as the beat lands, building the phrase around "ey" ("hey") and "nu" ("oh, come on") for a crisp, natural delivery.
+- 'Viktor Petrovich, is that you?' Vika checks openly toward Barinov here, linking "viktor" ("Viktor"), "petrovich" ("Petrovich"), and "eto" ("this") in one brisk exchange.
+- 'Where is my daughter?' Vika queries steadily without holding back, putting "gde" ("where") alongside "doch" ("daughter") in a tight, everyday turn of phrase.
+- 'Answer me, where is my daughter?' Nastya queries pointedly in front of Barinov, joining "otvechay" ("answer") to "gde" ("where") so every word pulls its weight.
+- 'What daughter are you talking about?' Barinov prompts calmly in the scene, leaning on "doch" ("daughter") before closing the thought with "kakaya" ("what, which").
+- 'Where is Nastya?' Vika questions lightly right away, placing "gde" ("where") straight beside "nastya" ("Nastya") with no word for "to be" needed.
+- 'Dad, I am right here!' Nastya picks a grounded posture right away, using "pap" (from "papa", "Dad") alongside "zdes" ("here") to shape the meaning.
+- 'Well, basically.' Barinov keeps a resolute line as the scene unfolds, putting all the weight on "obshchem-to" ("shared, common") so the reply lands immediately.

@@ -19,21 +19,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Герман | Пусть всё это останется строго конфиденциально. | Let all this remain strictly confidential. | #27: Я бы очень просил | adapted: adapted |
 | 8 | Герман | Айнура, вы меня сейчас хорошо понимаете? | Ainura, do you understand me well right now? | #28: Вы понимаете? | adapted: adapted |
 | 9 | Айнура | Да, вы всегда так романтично говорите! | Yes, you always speak so romantically! | #30: так романтично говорит Агазия. | adapted: adapted |
-| 10 | Шеф | Доброе утро, Виктор Петрович, как спалось? | Good morning, Viktor Petrovich, how did you sleep? | #31: Виктор | adapted: adapted |
+| 10 | Герман | Доброе утро, Виктор Петрович, как спалось? | Good morning, Viktor Petrovich, how did you sleep? | #31: Виктор | adapted: adapted |
 | 11 | Шеф | Господи, как я вообще здесь оказался? | Good Lord, how on earth did I end up here? | #32: Петрович? | adapted: adapted |
 | 12 | Айнура | До встречи в нашем любимом ресторане! | See you at our beloved restaurant! | #30: так романтично говорит Агазия. | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, my dear German Mikhailovich!' With the shift and party at stake, Ainura reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Hello, Ainura, how are you feeling?' Asking how Ainura feeling is cuts straight through the tension between German and Ainura. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Oh, I am already running very late for work!' By being already running very late for work, Ainura raises the stakes in the room at once.
-- 'And I have a strict boss in the kitchen!' By having a strict boss in the kitchen, Ainura raises the stakes in the room at once. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Last night a big indiscretion happened between us.' Over the shift and the party, German answers Ainura without a second thought. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'I earnestly ask you to keep this secret.' Around the moment and secret, German sets a calm, everyday tone with Ainura.
-- 'Let all this remain strictly confidential.' Claiming that Ainura should let all this remain strictly confidential sounds confident, even if Ainura has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Ainura, do you understand me well right now?' By asking whether Ainura understands him well right now, German presses Ainura for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Yes, you always speak so romantically!' Around the conversation and secret, Ainura makes her point loud and clear.
-- 'Good morning, Viktor Petrovich, how did you sleep?' Asking how Ainura sleeps is how Barinov puts Ainura on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Good Lord, how on earth did I end up here?' Asking whether good how on earth did he end up here puts Ainura right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'See you at our beloved restaurant!' Because Barinov should see Barinov at their beloved restaurant, Ainura does not bother softening the blow for Barinov.
+- 'Good morning, my dear German Mikhailovich!' Ainura keeps a thoughtful line in this beat, joining "dobroye" ("good") to "utro" ("morning") so every word pulls its weight.
+- 'Hello, Ainura, how are you feeling?' German tests firmly as they speak, building the phrase around "zdravstvuyte" ("hello") and "kak" ("how") for a crisp, natural delivery.
+- 'Oh, I am already running very late for work!' Ainura strikes a frank bearing straight away, building the phrase around "uzhe" ("already, now") and "silno" ("strongly, much") for a crisp, natural delivery.
+- 'And I have a strict boss in the kitchen!' Ainura favors a warm note in this beat, using the everyday "u menya" ("by me") alongside "kukhne" ("kitchen") to show what belongs to the speaker.
+- 'Last night a big indiscretion happened between us.' German adopts a calm posture for Ainura, leaning on "vchera" ("yesterday") before closing the thought with "vecherom" ("in the evening").
+- 'I earnestly ask you to keep this secret.' German establishes a steady course in the room, weaving "ochen" ("very much") together with "proshu" ("beg, ask") just the way native speakers do.
+- 'Let all this remain strictly confidential.' German takes a grounded stance in this beat, putting "ostanetsya" ("will remain") alongside "strogo" ("sternly, strictly") in a tight, everyday turn of phrase.
+- 'Ainura, do you understand me well right now?' German wonders warmly to Barinov here, leaning on "seychas" ("now") before closing the thought with "khorosho" ("good, fine").
+- 'Yes, you always speak so romantically!' Ainura picks a pointed manner with Barinov, weaving "vsegda" ("always") together with "romantichno" ("romantic") just the way native speakers do.
+- 'Good morning, Viktor Petrovich, how did you sleep?' German inquires earnestly in the room, weaving "dobroye" ("good") together with "utro" ("morning") just the way native speakers do.
+- 'Good Lord, how on earth did I end up here?' Barinov wonders bluntly as they speak, linking "kak" ("how"), "voobshche" ("at all"), and "zdes" ("here") in one brisk exchange.
+- 'See you at our beloved restaurant!' Ainura takes an earnest bearing right away, weaving "vstrechi" ("meeting, next time") together with "lyubimom" ("beloved") just the way native speakers do.

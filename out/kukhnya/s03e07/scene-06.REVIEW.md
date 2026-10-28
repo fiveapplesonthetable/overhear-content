@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My son will be named only Dmitry.' Claiming that his son will be named only Dmitry sounds confident, even if Barinov has doubts.
-- 'Give birth to a son yourself and name him Dmitry.' By telling Barinov to give birth to a son themselves and name him Dmitry, Nastya keeps her side of the story grounded.
-- 'And while I am giving birth, I will name him myself.' Nastya explains that while she is giving birth she will name him herself, keeping her voice calm and direct.
-- 'Nastya, if not for me, there would be no son at all.' Realizing that if not for him there would be no son at all changes how Kostya handles the situation.
-- 'Everything is clear with you now.' Noting that everything is clear with Barinov now keeps Nastya's side of the story simple and clear.
-- 'Max, wait for me one minute.' With the shift and secret in play, Kostya keeps this short reply brisk and direct.
-- 'Quiet, I beg you very much.' Admitting that quiet she begs Barinov very much shows Nastya being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You had better mind your own business.' Saying that Kostya had better mind Kostya's own business is how Barinov sets the tone with Kostya.
-- 'Or else I will tell everyone your secret.' Once else he will tell everyone Kostya's secret, Barinov can finally tell Kostya what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Chef, you already told everyone.' Adding that Barinov already told everyone fills in the missing piece for Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Well I did not say in which grade specifically!' Insisting that he did not say in which grade specifically shows Barinov is not backing down.
-- 'Alright, Chef, I understood you.' Since Alright Chef he understood Barinov, Kostya does not waste words on excuses. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'My son will be named only Dmitry.' Kostya holds a natural rhythm as they talk, building the phrase around "syna" ("son") and "budut" ("there will be") for a crisp, natural delivery.
+- 'Give birth to a son yourself and name him Dmitry.' Nastya projects a pointed attitude across the room, joining "rodish" ("give birth to") to "syna" ("son") so every word pulls its weight.
+- 'And while I am giving birth, I will name him myself.' Nastya shows a serious footing in this beat, linking "poka" ("bye"), "rozhayu" ("give birth"), and "budu" ("will be") in one brisk exchange.
+- 'Nastya, if not for me, there would be no son at all.' Kostya presents a measured approach during the exchange, pairing "syna" ("son") with "bylo" ("was") to get the point across in plain spoken Russian.
+- 'Everything is clear with you now.' Nastya projects a natural position in front of Barinov, combining "teper" ("now") and "yasno" ("clear, got it") so the key meaning lands right away.
+- 'Max, wait for me one minute.' Kostya sustains a natural rhythm straight away, using "podozhdi" (from "podozhdat", "wait") alongside "minutu" ("a minute") to shape the meaning.
+- 'Quiet, I beg you very much.' Nastya shows a grounded manner on the spot, building the phrase around "tikho" ("easy, quiet") and "ochen" ("very much") for a crisp, natural delivery.
+- 'You had better mind your own business.' Barinov chooses a direct position in the scene, putting "luchshe" ("better") alongside "delom" ("case") in a tight, everyday turn of phrase.
+- 'Or else I will tell everyone your secret.' Barinov conveys a serious direction as they talk, joining "rasskazhu" ("will tell") to "sekret" ("secret") so every word pulls its weight.
+- 'Chef, you already told everyone.' Kostya establishes a playful tone on the spot, pairing "uzhe" ("already, now") with "rasskazali" ("told") to get the point across in plain spoken Russian.
+- 'Well I did not say in which grade specifically!' Barinov sustains a clear view in the room, building the phrase around "skazal" ("said") and "klasse" ("grade, class") for a crisp, natural delivery.
+- 'Alright, Chef, I understood you.' Kostya sustains a lively posture toward Nastya, leaning on "ponyal" ("understood") before closing the thought with "ladno" ("all right").

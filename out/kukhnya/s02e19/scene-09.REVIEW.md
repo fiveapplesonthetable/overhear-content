@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And so strong, too.' Around the situation and truth, Max sets a calm, everyday tone with Barinov.
-- 'It is time for me to go.' Barinov mentions that it is time for him to go so Max sees what is at stake.
-- 'What is the matter with you?' By wondering what the matter with Barinov is, Vika presses Barinov for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I do not even know how to tell you this.' Explaining that he does not even know how to tell Barinov this lays the cards on the table for Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'In short, that older lady is hitting on me.' Barinov explains that in short that older lady is hitting on him, keeping his voice calm and direct.
-- 'Max, do not talk like that about Viktoriya Sergeyevna.' Realizing that do not talk like that about Viktoriya Sergeyevna changes how Vika handles the situation.
-- 'No, I mean that guest.' Once he means that guest, Max can finally tell Barinov what he means.
-- 'Just do not turn her down too harshly.' Even though just do not turn her down too harshly, Barinov keeps a steady face in front of Max.
-- 'Oh come on, what are you waiting for?' Wondering if come on what are Barinov waiting shows Vika caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You have to try everything while you can.' Saying that Barinov has to try everything while Barinov can is how Max sets the tone with Barinov. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Go on, get out there and make your move.' Here going on get out there and make Max's move sets up the next turn in their exchange.
-- 'Thanks, pal, that is exactly what I will do.' Adding that pal that is exactly what she will do fills in the missing piece for Barinov.
-- 'This was left for you.' Max tells Barinov that this was left for Barinov without dressing it up. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'And so strong, too.' Max favors a serious bearing in the conversation, joining "silnymi" ("strong, powerful") to "takimi" ("such") so every word pulls its weight.
+- 'It is time for me to go.' Barinov conveys a candid style straight away, joining "pora" ("it's time") to "mne" ("to me") so every word pulls its weight.
+- 'What is the matter with you?' Vika questions wryly without a pause, using "chego" (from "chto", "what") alongside "takoye" ("on earth") to shape the meaning.
+- 'I do not even know how to tell you this.' Max picks an emphatic approach in this beat, combining "znayu" ("know") and "kak" ("how") so the key meaning lands right away.
+- 'In short, that older lady is hitting on me.' Barinov establishes a candid manner straight away, leaning on "koroche" ("long story short") before closing the thought with "starushka" ("old lady").
+- 'Max, do not talk like that about Viktoriya Sergeyevna.' Vika offers a direct mood as the scene unfolds, using "govori" (from "govorit", "say, talk") alongside "maks" ("Max") to shape the meaning.
+- 'No, I mean that guest.' Max takes a grounded attitude on the spot, combining "da" ("yes") and "ya" ("I") so the key meaning lands right away.
+- 'Just do not turn her down too harshly.' Barinov sets a frank bearing in the room, joining "tolko" ("only") to "rezko" ("sharply, abruptly") so every word pulls its weight.
+- 'Oh come on, what are you waiting for?' Vika queries dryly from the start, joining "da" ("yes") to "ladno" ("all right") so every word pulls its weight.
+- 'You have to try everything while you can.' Max shares a measured position during the exchange, anchoring the Russian line on "nado" ("it is necessary") and "uspet" ("to make it") without extra filler.
+- 'Go on, get out there and make your move.' Barinov shares an unhurried stance in the scene, weaving "idi" ("go") together with "deystvuy" ("act, take action") just the way native speakers do.
+- 'Thanks, pal, that is exactly what I will do.' Vika maintains a steady manner beside Max, linking "spasibo" ("thank you"), "drug" ("friend"), and "sdelayu" ("I'll do") in one brisk exchange.
+- 'This was left for you.' Max presents an easygoing manner in the room, weaving "eto" ("this") together with "vam" ("you") just the way native speakers do.

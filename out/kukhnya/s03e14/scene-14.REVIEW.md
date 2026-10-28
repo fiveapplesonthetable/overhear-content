@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have never been so scared in my entire life!' Declaring that he has never been so scared in his entire life brings Lyova's temper right to the surface. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Senya, you think that is very funny, right?' Lyova asks whether Max thinks that is very funny right, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I will tell you, it is not funny at all!' Lyova declares that he will tell Max it is not funny at all as the tension in the room peaks.
-- 'Wait, Lyova, you are not stuttering anymore!' Because Lyova is not stuttering anymore, Senya does not bother softening the blow for Lyova. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Sure, I just up and stopped stuttering like that!' Insisting that sure he just up and stopped stuttering like shows Lyova is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Oh, wait, I really am not stuttering!' With the point and mistake at stake, Lyova reacts without holding back.
-- 'Friends, I really do not stutter anymore!' Declaring that he really does not stutter anymore brings Lyova's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'A Greek was riding across a wide river!' Lyova insists that a Greek was riding across a wide river, leaving Max no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And I did not get it, what happened here?' Wondering if he did not get it what happened here shows Max caught off guard.
-- 'Katya, Stas, I thought for a long time and understood everything.' Explaining that Stas he thought for a long time and understood everything lays the cards on the table for Lyova.
-- 'I admit I was completely wrong yesterday.' Here admitting he was completely wrong yesterday sets up the next turn in their exchange.
-- 'You want to be together so badly.' Claiming that Lyova wants to be together so badly sounds confident, even if Lyova has doubts.
+- 'I have never been so scared in my entire life!' Lyova keeps an honest angle beside Max, pairing "nikogda" ("never") with "zhizni" ("life") to get the point across in plain spoken Russian.
+- 'Senya, you think that is very funny, right?' Lyova tests quietly to keep things clear, weaving "dumayesh" ("think") together with "ochen" ("very much") just the way native speakers do.
+- 'I will tell you, it is not funny at all!' Lyova sets a natural note without hesitation, combining the intensifier "sovsem" ("completely, at all") with "skazhu" ("I'll tell") to give the line its natural spoken rhythm.
+- 'Wait, Lyova, you are not stuttering anymore!' Senya picks a grounded bearing without hesitation, pairing "podozhdi" ("wait") with "bolshe" ("more") to get the point across in plain spoken Russian.
+- 'Sure, I just up and stopped stuttering like that!' Lyova sets a wry course on the spot, anchoring the Russian line on "konechno" ("of course") and "vzyal" ("took") without extra filler.
+- 'Oh, wait, I really am not stuttering!' Lyova chooses a frank posture on the spot, linking "podozhdite" ("wait"), "pravda" ("honestly"), and "zaikayus" ("stutter") in one brisk exchange.
+- 'Friends, I really do not stutter anymore!' Lyova sets a thoughtful posture in the scene, building the phrase around "druzya" ("friends") and "deystvitelno" ("really, indeed") for a crisp, natural delivery.
+- 'A Greek was riding across a wide river!' Lyova keeps a measured manner beside Senya, joining "yekhal" ("to go, to drive") to "greka" ("Greek man") so every word pulls its weight.
+- 'And I did not get it, what happened here?' Max quizzes steadily in this moment, combining "ponyal" ("understood") and "tut" ("here") so the key meaning lands right away.
+- 'Katya, Stas, I thought for a long time and understood everything.' Senya picks a pointed angle with Max, weaving "dolgo" ("for a long time") together with "dumal" ("thought") just the way native speakers do.
+- 'I admit I was completely wrong yesterday.' Senya displays a playful tone toward Lyova, linking "priznayu" ("to admit, to recognise"), "vchera" ("yesterday"), and "byl" ("was") in one brisk exchange.
+- 'You want to be together so badly.' Senya chooses a candid tempo straight away, pairing "silno" ("strongly, much") with "khotite" ("want") to get the point across in plain spoken Russian.

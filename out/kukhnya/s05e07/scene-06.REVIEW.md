@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, forgive me, please, that turned out awkward.' Senya tells Barinov that that turned out awkward without dressing it up.
-- 'And hiding my bra in your socks was convenient?' Wondering if hiding his bra in Barinov's socks was convenient shows Lyova caught off guard.
-- 'Did your Marinka forgive you?' Here asking whether Barinov's forgive Barinov shows Lyova looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Ever since she went on vacation, I cannot catch a breath around her.' Senya tells Barinov that ever since she went on vacation he cannot catch a breath around without dressing it up.
-- 'Chef, we urgently need to do something with this meat.' Because they urgently need to do something with this meat, Lyova treats the matter as settled.
-- 'Its shelf life is one month.' Explaining that its shelf life is one month lays the cards on the table for Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Lyova, I owe you money, after all.' Owing Lyova money after all is how Barinov lays out the situation for Lyova. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'There is no rush.' Claiming that there is no rush sounds confident, even if Barinov has doubts.
-- 'No, Lyova, no.' Around the work and meat, Barinov sets a calm, everyday tone with Lyova.
-- 'Barinov always pays his debts.' Barinov explains that Barinov always pays his debts, keeping his voice calm and direct.
-- 'No need, do not thank me.' Even though Lyova should need do not thank him, Barinov keeps a steady face in front of Lyova.
-- 'Thank you very much, Chef.' With the point and meat in play, Lyova keeps this short reply brisk and direct.
+- 'Katya, forgive me, please, that turned out awkward.' Senya projects a serious attitude in the room, combining "prosti" ("sorry, forgive me") and "neudobno" ("awkward, uncomfortable") so the key meaning lands right away.
+- 'And hiding my bra in your socks was convenient?' Lyova queries bluntly on the spot, putting "lifchik" ("bra") alongside "noskakh" ("socks") in a tight, everyday turn of phrase.
+- 'Did your Marinka forgive you?' Lyova asks wryly beside Barinov, leaning on "prostila" ("would forgive") before closing the thought with "tebya" ("you").
+- 'Ever since she went on vacation, I cannot catch a breath around her.' Senya offers a brisk angle in this beat, weaving "kak" ("how") together with "otpusk" ("vacation") just the way native speakers do.
+- 'Chef, we urgently need to do something with this meat.' Lyova takes a direct note in their talk, leaning on "nuzhno" ("necessary") before closing the thought with "srochno" ("urgent, urgently").
+- 'Its shelf life is one month.' Lyova favors a pointed bearing without hesitation, building the phrase around "srok" ("term") and "godnosti" ("expiration") for a crisp, natural delivery.
+- 'Lyova, I owe you money, after all.' Barinov displays an earnest course across the room, putting "deneg" ("money") alongside "dolzhen" ("has to, must") in a tight, everyday turn of phrase.
+- 'There is no rush.' Lyova brings a thoughtful style in the room, placing "spekhu" ("hurry, rush") straight beside "ne" ("not") with no word for "to be" needed.
+- 'No, Lyova, no.' Barinov keeps an easygoing stance in front of Lyova, building the phrase around "net" ("no") and "lyova" ("Lyova") for a crisp, natural delivery.
+- 'Barinov always pays his debts.' Barinov offers a measured tempo in the scene, pairing "vsegda" ("always") with "platit" ("pays") to get the point across in plain spoken Russian.
+- 'No need, do not thank me.' Barinov adopts a brisk mood during the exchange, linking "nado" ("it is necessary"), "blagodari" ("thank"), and "ne" ("not") in one brisk exchange.
+- 'Thank you very much, Chef.' Lyova sustains an unhurried position in this beat, putting "spasibo" ("thank you") alongside "bolshoye" ("big, very much") in a tight, everyday turn of phrase.

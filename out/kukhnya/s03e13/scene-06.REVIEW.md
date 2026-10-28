@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They say Vika is stringing you along.' Admitting that they say Vika is stringing Nagiyev along shows Barinov being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It is too late to hesitate when a man is beside her.' Since it is too late to hesitate when a man is beside, Barinov does not waste words on excuses.
-- 'If you are not sure, then ask her directly.' Mentioning that if Nagiyev is not sure then ask her directly moves the talk in a new direction.
-- 'Ask if she wants children.' Asking if she wants children is how Barinov lays out the situation for Nagiyev.
-- 'No, I will never be able to do that.' Because he will never be able to do, Nagiyev treats the matter as settled.
-- 'The last time I got shot down like this was in school.' Explaining that the last time he got shot down like this was in school lays the cards on the table for Barinov.
-- 'Congratulations, you have returned to your youth.' Barinov mentions that congratulations Nagiyev has returned to Nagiyev's youth so Nagiyev sees what is at stake. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Vitya, do not make me mad right now!' Because do not make him mad right now, Nagiyev does not bother softening the blow for Barinov.
-- 'And what do you want from me?' Here asking what Nagiyev wants from him shows Barinov looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I expect compassion for your friend.' Saying that he expects compassion for Barinov's friend is how Nagiyev sets the tone with Barinov.
-- 'You were married to her sister, after all.' Realizing that Barinov was married to her sister after all changes how Nagiyev handles the situation.
-- 'What should I do, lead you to her bedroom?' Wondering what he does lead Nagiyev to her bedroom should is how Barinov puts Nagiyev on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No, my dear friend, here you must be patient and wait.' Even though his dear friend here Nagiyev must be patient and wait, Barinov keeps a steady face in front of Nagiyev. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Wait devotedly and faithfully.' Between the truth and the office, Barinov gives Nagiyev a quick, grounded response.
+- 'They say Vika is stringing you along.' Barinov offers a brisk tempo in their talk, linking "govoryat" ("talks, says"), "dinamit" ("strings along"), and "vika" ("Vika") in one brisk exchange.
+- 'It is too late to hesitate when a man is beside her.' Barinov shares a lively line straight away, pairing "pozdno" ("too late, late") with "somnevatsya" ("to doubt") to get the point across in plain spoken Russian.
+- 'If you are not sure, then ask her directly.' Barinov chooses a thoughtful line toward Nagiyev, putting "uveren" ("sure, confident") alongside "pryamo" ("right, just") in a tight, everyday turn of phrase.
+- 'Ask if she wants children.' Barinov shows a natural style beside Nagiyev, linking "sprosi" ("ask"), "khochet" ("wants"), and "detey" ("children") in one brisk exchange.
+- 'No, I will never be able to do that.' Nagiyev keeps a serious angle in their talk, linking "nikogda" ("never"), "smogu" ("will be able to"), and "net" ("no") in one brisk exchange.
+- 'The last time I got shot down like this was in school.' Nagiyev chooses an unhurried style across the room, combining "oblamyvali" ("shot down, rejected") and "tolko" ("only") so the key meaning lands right away.
+- 'Congratulations, you have returned to your youth.' Barinov shows an honest rhythm at this moment, using "pozdravlyayu" (from "pozdravlyat", "congratulations") alongside "vernulsya" ("returned") to shape the meaning.
+- 'Vitya, do not make me mad right now!' Nagiyev conveys a frank stance in the scene, weaving "besi" ("to infuriate") together with "seychas" ("now") just the way native speakers do.
+- 'And what do you want from me?' Barinov questions sharply with Nagiyev now, linking "khochesh" ("do you want"), "chto" ("what"), and "ty" ("you") in one brisk exchange.
+- 'I expect compassion for your friend.' Nagiyev brings a calm note as the scene unfolds, anchoring the Russian line on "zhdu" ("I wait, expect") and "sostradaniya" ("compassion") without extra filler.
+- 'You were married to her sister, after all.' Nagiyev projects a pointed position in the scene, weaving "byl" ("was") together with "zhenat" ("married") just the way native speakers do.
+- 'What should I do, lead you to her bedroom?' Barinov asks decisively as the beat lands, combining "vesti" ("to conduct") and "spalnyu" ("bedroom") so the key meaning lands right away.
+- 'No, my dear friend, here you must be patient and wait.' Barinov keeps a brisk position in this beat, pairing "dorogoy" ("dear") with "tut" ("here") to get the point across in plain spoken Russian.
+- 'Wait devotedly and faithfully.' Barinov takes a frank direction at this moment, anchoring the Russian line on "zhdat" ("to wait") and "predanno" ("devotedly") without extra filler.

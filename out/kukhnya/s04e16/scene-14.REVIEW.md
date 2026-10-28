@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, look, your palace is completely ready!' Once Barinov's palace is completely ready, Denis makes sure Barinov hears every word. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'You have already been running errands for two weeks.' Noting that Denis has already been running errands for two weeks keeps Barinov's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I will rest when you allow me to go out with Katya!' Denis insists that he will rest when Barinov allows him to go out with Katya, leaving Barinov no room to argue.
-- 'Dad, do not stay silent, give him an impossible task!' Saying that dad do not stay silent give him an impossible task is how Katya takes charge of the moment. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'What other task? My imagination has run out!' Over the phone and the kitchen, Barinov presses Denis for a straight answer. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'After all, you were just reading Gogol's fairy tale!' Because after all Barinov was just reading Gogol fairy tale, Katya does not bother softening the blow for Barinov.
-- 'Right! Did Nagiyev put on his expensive moccasins for nothing?' Checking whether Nagiyev put on his expensive moccasins for nothing is how Barinov puts Denis on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Listen to me closely, Denis, there is one last test.' Barinov tells Denis that to him closely Denis there is one last test without dressing it up.
-- 'Bring me Dmitry Nagiyev's famous slippers today!' Barinov insists that Denis should bring him Dmitry Nagiyev famous slippers today, leaving Denis no room to argue.
-- 'Excuse me, what slippers do you want to get?' Denis asks whether what slippers do Barinov wants to get, refusing to let the point slide. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Bring me Nagiyev's red moccasins, then we will talk!' Telling Denis to bring him Nagiyev red moccasins then they will talk is Barinov's blunt reaction in front of Denis. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Are you speaking completely seriously right now, Viktor Petrovich?' Here asking whether Barinov speaking completely seriously right now Viktor Petrovich shows Denis looking for the real truth.
+- 'Viktor Petrovich, look, your palace is completely ready!' Denis takes an emphatic attitude right away, pairing "smotrite" ("look") with "dvorets" ("palace") to get the point across in plain spoken Russian.
+- 'You have already been running errands for two weeks.' Barinov maintains a warm note in this beat, leaning on "uzhe" ("already, now") before closing the thought with "nedeli" ("weeks").
+- 'I will rest when you allow me to go out with Katya!' Denis strikes a direct note in this beat, pairing "vstrechatsya" ("to meet") with "otdokhnu" ("rest") so the "-sya" ending carries the action.
+- 'Dad, do not stay silent, give him an impossible task!' Katya shares a firm rhythm straight away, joining "papa" ("Dad") to "molchi" ("be quiet") so every word pulls its weight.
+- 'What other task? My imagination has run out!' Barinov presses decisively as the talk turns, pairing "konchilas" ("ran out, ended") with "yeshchyo" ("more, still") so the "-sya" ending carries the action.
+- 'After all, you were just reading Gogol's fairy tale!' Katya shows a thoughtful direction with Denis, pairing "tolko" ("only") with "chital" ("read") to get the point across in plain spoken Russian.
+- 'Right! Did Nagiyev put on his expensive moccasins for nothing?' Barinov checks evenly as the talk turns, joining "tochno" ("definitely") to "zrya" ("for nothing") so every word pulls its weight.
+- 'Listen to me closely, Denis, there is one last test.' Barinov offers an honest course in the conversation, joining "slushay" ("listen") to "vnimatelno" ("carefully, attentively") so every word pulls its weight.
+- 'Bring me Dmitry Nagiyev's famous slippers today!' Barinov maintains an easygoing view across the room, pairing "prinesi" ("bring") with "segodnya" ("today") to get the point across in plain spoken Russian.
+- 'Excuse me, what slippers do you want to get?' Denis wonders naturally on the spot, using "prostite" (from "prostit", "excuse me") alongside "yeshchyo" ("more, still") to shape the meaning.
+- 'Bring me Nagiyev's red moccasins, then we will talk!' Barinov strikes a frank rhythm in their talk, joining "prinesi" ("bring") to "krasnyye" ("red") so every word pulls its weight.
+- 'Are you speaking completely seriously right now, Viktor Petrovich?' Denis inquires firmly without hesitation, combining "seychas" ("now") and "govorite" ("say, speak") so the key meaning lands right away.

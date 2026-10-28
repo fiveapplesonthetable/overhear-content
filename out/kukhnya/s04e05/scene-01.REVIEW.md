@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing here?' With the kitchen and apartment hanging in the air, Vika puts Denis on the spot.
-- 'I did not think you would return so fast.' Because he did not think Max would return so fast, Denis treats the matter as settled. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Vika, this is just a small misunderstanding.' Explaining that this is just a small misunderstanding lays the cards on the table for Denis. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I want him to move out of our place.' Adding that she wants him to move out of their place fills in the missing piece for Denis.
-- 'Vika, I promise he will move out soon.' Max tells Denis that he promises he will move out soon without dressing it up.
-- 'You promised that he would stay for a week.' Pointing out that Denis promised that he would stay for a week gives Denis a sobering reality check. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You promised to talk with German.' Vika explains that Denis promised to talk with German, keeping her voice calm and direct.
-- 'You promised me not to scatter your socks.' Realizing that Denis promised her not to scatter Denis's socks changes how Vika handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I do not scatter my socks anymore at all.' Noting that he does not scatter his socks anymore at all keeps Max's side of the story simple and clear.
-- 'And I already spoke with German yesterday.' Even though he already spoke with German yesterday, Max keeps a steady face in front of Denis.
-- 'And what did German say to you?' Asking what German say to Denis is how Vika puts Denis on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'He is very interested in such a sous-chef.' Because he is very interested, Max treats the matter as settled.
+- 'What are you doing here?' Vika questions directly to make the point, combining "zdes" ("here") and "delayete" ("are doing") so the key meaning lands right away.
+- 'I did not think you would return so fast.' Denis takes a resolute attitude during the exchange, leaning on "dumal" ("thought") before closing the thought with "bystro" ("quickly").
+- 'Vika, this is just a small misunderstanding.' Max keeps a warm direction as the scene unfolds, placing "prosto" ("just") straight beside "malenkoye" ("small, little") with no word for "to be" needed.
+- 'I want him to move out of our place.' Vika picks a lively stance as the scene unfolds, leaning on "khochu" ("want") before closing the thought with "syekhal" ("move out").
+- 'Vika, I promise he will move out soon.' Max picks a calm mood on the spot, putting "obeshchayu" ("promise") alongside "skoro" ("soon") in a tight, everyday turn of phrase.
+- 'You promised that he would stay for a week.' Vika establishes a sharp manner at this moment, pairing "obeshchal" ("promised") with "prozhivyot" ("week") to get the point across in plain spoken Russian.
+- 'You promised to talk with German.' Vika brings a resolute approach across the room, putting "obeshchal" ("promised") alongside "pogovorit" ("to talk") in a tight, everyday turn of phrase.
+- 'You promised me not to scatter your socks.' Vika favors a clear stance toward Max, building the phrase around "obeshchal" ("promised") and "noski" ("socks") for a crisp, natural delivery.
+- 'I do not scatter my socks anymore at all.' Max establishes a playful mood toward Denis, putting "noski" ("socks") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
+- 'And I already spoke with German yesterday.' Max establishes a steady rhythm in front of Vika, combining "germanom" ("german") and "uzhe" ("already, now") so the key meaning lands right away.
+- 'And what did German say to you?' Vika wonders naturally across the room, putting "skazal" ("said") alongside "chto" ("what") in a tight, everyday turn of phrase.
+- 'He is very interested in such a sous-chef.' Max sets an earnest bearing at this moment, leaning on "ochen" ("very much") before closing the thought with "zainteresovan" ("sous-chef").

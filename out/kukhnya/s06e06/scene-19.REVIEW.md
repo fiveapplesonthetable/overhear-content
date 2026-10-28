@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, my offer remains in effect.' Around the shift and restaurant, the guest sets a calm, everyday tone with Eleonora.
-- 'Keep your offer to yourself forever!' By telling Eleonora to keep Eleonora's offer to themselves forever, Katya raises the stakes in the room at once. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'You are going to regret this deeply!' Once Eleonora is going to regret this deeply, the guest makes sure Eleonora hears every word. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I will write a terrible report about you.' Even though he will write a terrible report about Eleonora, the guest keeps a steady face in front of Eleonora.
-- 'You will never get the coveted star!' The guest insists that Eleonora will never get the coveted star, leaving Eleonora no room to argue. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Now that is very unlikely.' Saying that that is very unlikely is how Eleonora sets the tone with the guest. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'If you write badly about our restaurant.' Once if the guest writes badly about their restaurant, Eleonora can finally tell the guest what she means.
-- 'Then your bosses will immediately see everything.' Adding that the guest's bosses will immediately see everything fills in the missing piece for the guest. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You are using your position for personal gain.' Saying that the guest is using the guest's position for personal gain is how Eleonora sets the tone with the guest. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Do you remember I offered you money?' Asking whether the guest remembers she offered the guest money is how Eleonora puts the guest on the spot.
-- 'You should have quietly taken the money back then.' Mentioning that the guest should have quietly taken the money back then moves the talk in a new direction. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'It is as if I went to an interesting movie today.' Pointing out that it is as if she went to an interesting movie today gives Eleonora a sobering reality check.
+- 'Katya, my offer remains in effect.' The guest brings a brisk tack in the conversation, putting "predlozheniye" ("offer, proposal") alongside "ostayotsya" ("stays") in a tight, everyday turn of phrase.
+- 'Keep your offer to yourself forever!' Katya projects a brisk position in front of the guest, joining "ostav" ("keep, leave") to "predlozheniye" ("offer, proposal") so every word pulls its weight.
+- 'You are going to regret this deeply!' The guest holds a brisk angle toward Eleonora, anchoring the Russian line on "yeshchyo" ("more, still") and "silno" ("strongly, much") without extra filler.
+- 'I will write a terrible report about you.' The guest takes a thoughtful note with Katya, building the phrase around "napishu" ("will write") and "uzhasnyy" ("horrible") for a crisp, natural delivery.
+- 'You will never get the coveted star!' The guest presents an emphatic tone in the scene, combining "nikogda" ("never") and "zavetnuyu" ("coveted, cherished") so the key meaning lands right away.
+- 'Now that is very unlikely.' Eleonora sets an unhurried rhythm in the conversation, leaning on "uzhe" ("already, now") before closing the thought with "vryad" ("hardly, unlikely").
+- 'If you write badly about our restaurant.' Eleonora brings a warm course across the room, putting "napishesh" ("to write") alongside "restorane" ("restaurant") in a tight, everyday turn of phrase.
+- 'Then your bosses will immediately see everything.' Eleonora chooses an unhurried attitude with Katya, weaving "togda" ("back then") together with "nachalstvo" ("management") just the way native speakers do.
+- 'You are using your position for personal gain.' Eleonora adopts a grounded manner straight away, using "polzuyeshsya" (from "polzovatsya", "use") alongside "polozheniyem" ("position, situation") to shape the meaning.
+- 'Do you remember I offered you money?' Eleonora queries evenly in the scene, using "pomnish" (from "pomnit", "do you remember") alongside "predlagala" ("offered") to shape the meaning.
+- 'You should have quietly taken the money back then.' Eleonora sustains a playful posture for the guest, pairing "nado" ("it is necessary") with "bylo" ("was") to get the point across in plain spoken Russian.
+- 'It is as if I went to an interesting movie today.' Katya projects a firm line straight away, using "interesnoye" (from "interesnyy", "interesting") alongside "kino" ("cinema, movies") to shape the meaning.

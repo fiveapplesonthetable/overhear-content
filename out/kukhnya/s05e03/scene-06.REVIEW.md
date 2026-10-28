@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And where are you going right now?' Asking where Barinov going right now is cuts straight through the tension between Denis and Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Into our happy future.' Between the contract and the shift, Barinov gives Denis a quick, grounded response.
-- 'They just fired me.' With the contract and conversation in play, Denis keeps this short reply brisk and direct.
-- 'Well, there you go, it has started already.' Mentioning that there Denis goes it has started already moves the talk in a new direction.
-- 'Who fired you?' Over the shift and the contract, Barinov presses Denis for a straight answer.
-- 'The hotel owner, Eleonora Andreevna.' Over the office and the contract, Denis answers Barinov without a second thought.
-- 'That is my ex-wife's name.' Explaining that that is his ex wife name lays the cards on the table for Denis.
-- 'Nobody is going to fire you here.' Barinov mentions that nobody is going to fire Denis here so Denis sees what is at stake.
-- 'Why did you not like Denis?' Asking why Denis not like Denis cuts straight through the tension between Barinov and Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I actually liked him very much.' Pointing out that she actually liked him very much gives Barinov a sobering reality check.
-- 'But he does not know how to cook.' Once he does not know how to cook, Eleonora can finally tell Barinov what she means.
-- 'You will not fire anyone from my team.' Realizing that Denis will not fire anyone from his team changes how Barinov handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Under the contract, only I can fire cooks.' Noting that under the contract only he can fire cooks keeps Barinov's side of the story simple and clear.
-- 'You said you would not work for me.' Even though Barinov said Barinov would not work, Eleonora keeps a steady face in front of Barinov.
-- 'It was your husband who hired me.' Admitting that it was Denis's husband who hired him shows Barinov being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Let him inform me of that in person.' Because Denis should let him inform him of that in person, Barinov treats the matter as settled.
+- 'And where are you going right now?' Denis tests bluntly in their exchange, anchoring the Russian line on "kuda" ("where to") and "seychas" ("now") without extra filler.
+- 'Into our happy future.' Barinov sets a calm tempo in the conversation, anchoring the Russian line on "schastlivoye" ("happy, lucky") and "budushcheye" ("future, next") without extra filler.
+- 'They just fired me.' Denis favors a firm line as the scene unfolds, leaning on "tolko" ("only") before closing the thought with "uvolili" ("to fire, to dismiss").
+- 'Well, there you go, it has started already.' Barinov adopts an earnest approach as the scene unfolds, putting "uzhe" ("already, now") alongside "nachalos" ("to begin, to start") in a tight, everyday turn of phrase.
+- 'Who fired you?' Barinov questions briskly to make the point, building the phrase around "uvolil" ("to fire, to dismiss") and "kto" ("who") for a crisp, natural delivery.
+- 'The hotel owner, Eleonora Andreevna.' Denis establishes an earnest note on the spot, building the phrase around "khozyayka" ("landlady") and "otelya" ("of the hotel") for a crisp, natural delivery.
+- 'That is my ex-wife's name.' Barinov shows an earnest manner toward Denis, weaving "zovut" ("call") together with "byvshuyu" ("former, ex") just the way native speakers do.
+- 'Nobody is going to fire you here.' Barinov shows an honest footing with Eleonora, linking "zdes" ("here"), "uvolit" ("will fire"), and "nikto" ("nobody") in one brisk exchange.
+- 'Why did you not like Denis?' Barinov prompts calmly to Denis here, anchoring the Russian line on "ponravilsya" ("was liked, pleased") and "chem" ("than") without extra filler.
+- 'I actually liked him very much.' Eleonora shares a candid stance in the scene, pairing "ponravilsya" ("was liked, pleased") with "ochen" ("very much") so the "-sya" ending carries the action.
+- 'But he does not know how to cook.' Eleonora maintains a steady approach at once, leaning on "umeyet" ("knows how to") before closing the thought with "gotovit" ("to cook").
+- 'You will not fire anyone from my team.' Barinov takes an earnest position right away, linking "uvolish" ("will fire"), "komandy" ("commands"), and "ty" ("you") in one brisk exchange.
+- 'Under the contract, only I can fire cooks.' Barinov establishes an emphatic style at this moment, combining "kontraktu" ("by contract") and "tolko" ("only") so the key meaning lands right away.
+- 'You said you would not work for me.' Eleonora shares a natural direction during the exchange, putting "skazal" ("said") alongside "budesh" ("will") in a tight, everyday turn of phrase.
+- 'It was your husband who hired me.' Barinov brings a serious style in the conversation, pairing "muzh" ("husband") with "nanimal" ("hired") to get the point across in plain spoken Russian.
+- 'Let him inform me of that in person.' Barinov conveys a candid tone in the conversation, pairing "soobshchit" ("will inform") with "lichno" ("personally") to get the point across in plain spoken Russian.

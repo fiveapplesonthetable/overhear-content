@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, I need your help as a man.' Realizing that she needs Kostya's help as a man changes how Katya handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Katya, I am actually dating Nastya.' Being actually dating Nastya moves the conversation forward without extra drama.
-- 'A warning light is blinking on my motorcycle.' Mentioning that a warning light is blinking on her motorcycle moves the talk in a new direction.
-- 'Will you take a look in the courtyard right now?' Asking whether Kostya takes a look in the courtyard right now cuts straight through the tension between Katya and Kostya. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No problem at all, of course I will look.' Because problem at all of course he will look, Kostya treats the matter as settled.
-- 'Nastya has no objections to motorcycles.' Explaining that Nastya has no objections to motorcycles lays the cards on the table for Katya.
-- 'Hello, are you here about the repair?' By asking whether Katya here about the repair, Max presses Katya for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'You know, we already fixed everything ourselves.' Over the room and the shift, Max answers Katya without a second thought.
-- 'So excuse us for the false alarm.' Admitting that Katya should excuse them for the false alarm shows Max being honest for a change.
-- 'Well, maybe I should take a look after all?' Asking whether maybe he should take a look after all puts Katya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Or maybe some good cognac instead?' With the plan and situation hanging in the air, Max puts Katya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It is on the house at the restaurant's expense!' Max declares that it is on the house at the restaurant expense as the tension in the room peaks.
-- 'Let's drink one more little glass.' Saying that they should drink one more little glass is how Max sets the tone with Katya. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Take your toolbox, all the best, goodbye!' Telling Katya to take Katya's toolbox all the best goodbye shows Max is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Kostya, I need your help as a man.' Katya projects a firm angle as they talk, linking "nuzhen" ("is needed"), "kak" ("how"), and "muzhchina" ("man") in one brisk exchange.
+- 'Katya, I am actually dating Nastya.' Kostya adopts a natural angle right away, weaving "voobshche-to" ("actually") together with "vstrechayus" ("to meet, to date") just the way native speakers do.
+- 'A warning light is blinking on my motorcycle.' Katya favors an unhurried approach as the scene unfolds, joining "mototsikla" ("of the motorcycle") to "lampochka" ("warning light") so every word pulls its weight.
+- 'Will you take a look in the courtyard right now?' Katya challenges dryly without holding back, leaning on "posmotrish" ("you will see") before closing the thought with "seychas" ("now").
+- 'No problem at all, of course I will look.' Kostya conveys a measured position in their talk, building the phrase around "vopros" ("question, matter") and "konechno" ("of course") for a crisp, natural delivery.
+- 'Nastya has no objections to motorcycles.' Kostya sets an easygoing bearing straight away, combining "mototsiklam" ("toward motorcycles") and "voprosov" ("questions") so the key meaning lands right away.
+- 'Hello, are you here about the repair?' Max probes wryly without a pause, weaving "zdravstvuyte" ("hello") together with "povodu" ("matter") just the way native speakers do.
+- 'You know, we already fixed everything ourselves.' Max presents a resolute approach during the exchange, anchoring the Russian line on "znayete" ("know") and "uzhe" ("already, now") without extra filler.
+- 'So excuse us for the false alarm.' Max favors a firm style in front of Katya, joining "izvinite" ("sorry, excuse me") to "lozhnyy" ("fake, false") so every word pulls its weight.
+- 'Well, maybe I should take a look after all?' Kostya wonders candidly across the room, putting "mozhet" ("can") alongside "vzglyanu" ("will take a look") in a tight, everyday turn of phrase.
+- 'Or maybe some good cognac instead?' Max presses dryly without a pause, weaving "mozhet" ("can") together with "luchshe" ("better") just the way native speakers do.
+- 'It is on the house at the restaurant's expense!' Max adopts a measured line at this moment, leaning on "ugoshchayu" ("treat") before closing the thought with "besplatno" ("for free").
+- 'Let's drink one more little glass.' Max maintains a thoughtful posture on the spot, joining "davayte" ("let's") to "vypyem" ("will drink") so every word pulls its weight.
+- 'Take your toolbox, all the best, goodbye!' Max picks an honest tempo in the room, building the phrase around "chemodanchik" ("little toolbox") and "zabirayem" ("we are taking") for a crisp, natural delivery.

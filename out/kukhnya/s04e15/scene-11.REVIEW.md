@@ -21,19 +21,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Герман | Виктор Петрович, добрый день, вы снова у нас? | Viktor Petrovich, good afternoon, are you at our place again? | #164: Виктор Петрович, добрый день. | adapted: adapted |
 | 10 | Герман | Для срочных новостей давно изобрели обычный телефон! | For urgent news they invented the ordinary telephone long ago! | #167: то специально для вас | adapted: adapted |
 | 11 | Шеф | Катя, действительно, давай я тебе лучше позвоню! | Katya, indeed, let me better give you a call! | #168: Катя, а действительно, давай-ка | adapted: adapted |
-| 12 | Герман | Бедный Герман, как сильно он страдает из-за меня! | Poor German, how badly he is suffering because of me! | #170: Традает. | adapted: adapted |
+| 12 | Катя | Бедный Герман, как сильно он страдает из-за меня! | Poor German, how badly he is suffering because of me! | #170: Традает. | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, Dad, you startled me so badly!' Over the truth and the date, Katya lets her real feelings show. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Tell me, what are you even doing here?' Katya asks whether tell her what are Barinov even doing here, refusing to let the point slide. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I wanted to see how work is going for you here.' Adding that he wanted to see how work is going for German here fills in the missing piece for German.
-- 'I see you have become friends with Eva here.' Seeing German has become friends with Eva here moves the conversation forward without extra drama. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I want to talk about what she was telling you.' Because he wants to talk about what she was telling German, Barinov treats the matter as settled.
-- 'Dad, Eva is, of course, a girl with quirks.' Mentioning that dad Eva is of course a girl with quirks moves the talk in a new direction.
-- 'But I do not share her interests at all!' Katya declares that she does not share her interests at all as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'I do not plan to date old men.' Because she does not plan to date old men, Katya treats the matter as settled.
-- 'Viktor Petrovich, good afternoon, are you at our place again?' By checking whether Barinov at their place again, German presses Barinov for a straight answer.
-- 'For urgent news they invented the ordinary telephone long ago!' With the plan and date at stake, German reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Katya, indeed, let me better give you a call!' Declaring that indeed let him better give German a call brings Barinov's temper right to the surface. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Poor German, how badly he is suffering because of me!' German insists that poor German how badly he is suffering because of him, leaving Barinov no room to argue.
+- 'Oh, Dad, you startled me so badly!' Katya establishes a brisk style as the scene unfolds, building the phrase around "papa" ("Dad") and "silno" ("strongly, much") for a crisp, natural delivery.
+- 'Tell me, what are you even doing here?' Katya challenges evenly for German's benefit, weaving "skazhi" ("say") together with "voobshche" ("at all") just the way native speakers do.
+- 'I wanted to see how work is going for you here.' Barinov offers a calm footing straight away, putting "khotel" ("wanted") alongside "posmotret" ("to look up") in a tight, everyday turn of phrase.
+- 'I see you have become friends with Eva here.' Barinov adopts a natural tone toward Katya, linking "smotryu" ("look"), "tut" ("here"), and "podruzhilas" ("to make friends") in one brisk exchange.
+- 'I want to talk about what she was telling you.' Barinov offers a sharp tone in this beat, building the phrase around "khochu" ("want") and "pogovorit" ("to talk") for a crisp, natural delivery.
+- 'Dad, Eva is, of course, a girl with quirks.' Katya displays a direct approach in this beat, combining "papa" ("Dad") and "konechno" ("of course") so the key meaning lands right away.
+- 'But I do not share her interests at all!' Katya keeps a frank posture at once, leaning on "sovsem" ("at all") before closing the thought with "razdelyayu" ("all").
+- 'I do not plan to date old men.' Katya displays an unhurried style during the exchange, pairing "vstrechatsya" ("to meet") with "starymi" ("old") so the "-sya" ending carries the action.
+- 'Viktor Petrovich, good afternoon, are you at our place again?' German questions decisively right away, building the phrase around "dobryy" ("good") and "den" ("day") for a crisp, natural delivery.
+- 'For urgent news they invented the ordinary telephone long ago!' German holds an honest tempo as they talk, joining "srochnykh" ("urgent, pressing") to "novostey" ("of news") so every word pulls its weight.
+- 'Katya, indeed, let me better give you a call!' Barinov sets a clear note for German, anchoring the Russian line on "deystvitelno" ("really, indeed") and "davay" ("let's") without extra filler.
+- 'Poor German, how badly he is suffering because of me!' Katya chooses an emphatic rhythm as the scene unfolds, joining "bednyy" ("poor") to "kak" ("how") so every word pulls its weight.

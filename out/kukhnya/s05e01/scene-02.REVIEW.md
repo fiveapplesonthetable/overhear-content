@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am listening to you.' Katya reminds Denis that she is listening to Denis before the moment passes. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'The grand opening is tomorrow.' Pointing out that the grand opening is tomorrow gives Denis a sobering reality check.
-- 'I have no idea.' Having no idea is how Denis lays out the situation for Katya.
-- 'Come on, that is all.' Telling Katya to come on that is all is how Denis lays out the situation for Katya. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Hi, Denis.' Between the point and the hotel, Katya gives Denis a quick, grounded response.
-- 'Did something happen?' Checking whether something happen is how Denis puts Katya on the spot.
-- 'No, nothing.' With the truth and hotel in play, Katya keeps this short reply brisk and direct.
-- 'She likes it when her boyfriend trusts her.' Saying that she likes it when her boyfriend trusts is how Katya sets the tone with Denis.
-- 'He behaves like a jealous boyfriend.' Over the truth and the hotel, Katya answers Denis without a second thought.
-- 'You two argue really coolly.' Around the truth and hotel, Senya sets a calm, everyday tone with Denis. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'It is as if I went to the theater.' Saying that it is as if he went to the theater is how Senya sets the tone with Denis.
-- 'No more bets.' With the truth and exchange in play, Senya keeps this short reply brisk and direct.
-- 'And start!' Over the exchange and the hotel, Senya lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Today we have a draw.' Senya reminds Denis that today they have a draw before the moment passes. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'I am listening to you.' Katya takes a steady posture toward Denis, using "slushayu" (from "slushat", "I'm listening") alongside "vas" ("you") to shape the meaning.
+- 'The grand opening is tomorrow.' Katya sustains a playful approach without hesitation, joining "otkrytiye" ("opening") to "zavtra" ("tomorrow") so every word pulls its weight.
+- 'I have no idea.' Denis favors a measured mood with Katya, joining "ponyatiya" ("concept, idea") to "imeyu" ("have") so every word pulls its weight.
+- 'Come on, that is all.' Denis strikes a serious tack in this beat, building the phrase around "davay" ("let's") and "vsyo" ("everything") for a crisp, natural delivery.
+- 'Hi, Denis.' Katya shows a wry style in this beat, leaning on "privet" ("hi") before closing the thought with "denis" ("Denis").
+- 'Did something happen?' Denis inquires evenly during the talk, weaving "sluchilos" ("happened") together with "chto-to" ("somehow") just the way native speakers do.
+- 'No, nothing.' Katya projects a resolute mood on the spot, pairing "net" ("no") with "nichego" ("nothing") to get the point across in plain spoken Russian.
+- 'She likes it when her boyfriend trusts her.' Katya keeps a sharp footing as they talk, joining "nravitsya" ("is pleasing") to "kogda" ("when") so every word pulls its weight.
+- 'He behaves like a jealous boyfriend.' Katya conveys a natural footing in the room, weaving "vedyot" ("leads, behaves") together with "kak" ("how") just the way native speakers do.
+- 'You two argue really coolly.' Senya sets a candid course toward Katya, anchoring the Russian line on "ochen" ("very much") and "kruto" ("cool, awesome") without extra filler.
+- 'It is as if I went to the theater.' Senya offers a sharp mood straight away, anchoring the Russian line on "kak" ("how") and "teatr" ("theater") without extra filler.
+- 'No more bets.' Senya shares a thoughtful tack in front of Katya, pairing "stavok" ("bets") with "bolshe" ("more") to get the point across in plain spoken Russian.
+- 'And start!' Senya brings a pointed approach across the room, letting the single Russian word "nachinay" ("start") carry the entire reaction on its own.
+- 'Today we have a draw.' Senya holds a measured direction on the spot, building the phrase around "segodnya" ("today") and "nichya" ("draw") for a crisp, natural delivery.

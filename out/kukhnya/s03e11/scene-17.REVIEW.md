@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, what is the Frenchman doing here?' Wondering what the Frenchman doing here is is how Barinov puts Katya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Why is he cooking in my kitchen?' Here wondering why he cooking in his kitchen is shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, Chef, he is cooking a dish right now.' Realizing that he is cooking a dish right now changes how Lyova handles the situation.
-- 'Before I even had time to leave, you took my place?' Barinov asks whether before he even had time to leave Katya took his place, refusing to let the point slide. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I will explain to you right now what is going on here!' Barinov insists that he will explain to Katya right now what is going on here, leaving Katya no room to argue. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Did you decide to take my job, old friend?' Here asking whether Katya decides to take his job old friend shows Barinov looking for the real truth.
-- 'Viktor, I was against it when Katya was expelled.' Saying that he was against it when Katya was expelled is how Lyova sets the tone with Barinov.
-- 'But your daughter was at fault herself.' Once Barinov's daughter was at fault herself, Lyova can finally tell Barinov what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What am I hearing? Katya, were you expelled?' Over the work and the scandal, Barinov presses Katya for a straight answer.
-- 'Dad, wait, I will explain everything to you!' Once dad wait she will explain everything to Barinov, Katya makes sure Barinov hears every word. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'No need! My own daughter deceived me!' With the work and scandal at stake, Barinov reacts without holding back. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'What is this noise? Our guests are getting scared!' Wondering what this noise is cuts straight through the tension between Katya and Barinov.
-- 'Did you all decide to replace me here?' Asking whether Katya all decide to replace him here is how Barinov puts Katya on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Lyova, what is the Frenchman doing here?' Barinov presses quietly beside Katya, leaning on "frantsuz" ("Frenchman") before closing the thought with "zdes" ("here").
+- 'Why is he cooking in my kitchen?' Barinov challenges honestly in their exchange, weaving "pochemu" ("why") together with "gotovit" ("cooks") just the way native speakers do.
+- 'Yes, Chef, he is cooking a dish right now.' Lyova presents a firm line with Barinov, pairing "seychas" ("now") with "gotovit" ("cooks") to get the point across in plain spoken Russian.
+- 'Before I even had time to leave, you took my place?' Barinov prompts candidly right away, leaning on "uspel" ("managed in time") before closing the thought with "uyti" ("to leave").
+- 'I will explain to you right now what is going on here!' Barinov sustains a natural tone as they talk, linking "seychas" ("now"), "obyasnyu" ("I'll explain"), and "tut" ("here") in one brisk exchange.
+- 'Did you decide to take my job, old friend?' Barinov probes quietly at this point, putting "reshil" ("has decided") alongside "zabrat" ("take") in a tight, everyday turn of phrase.
+- 'Viktor, I was against it when Katya was expelled.' Lyova chooses an honest rhythm beside Barinov, anchoring the Russian line on "byl" ("was") and "kogda" ("when") without extra filler.
+- 'But your daughter was at fault herself.' Lyova conveys a playful course without hesitation, putting "doch" ("daughter") alongside "byla" ("was") in a tight, everyday turn of phrase.
+- 'What am I hearing? Katya, were you expelled?' Barinov checks quietly in front of Katya, putting "slyshu" ("hear") alongside "vygnali" ("kicked out") in a tight, everyday turn of phrase.
+- 'Dad, wait, I will explain everything to you!' Katya strikes a calm footing in the scene, pairing "papa" ("Dad") with "podozhdi" ("wait") to get the point across in plain spoken Russian.
+- 'No need! My own daughter deceived me!' Barinov holds a firm manner toward Katya, pairing "nado" ("it is necessary") with "rodnaya" ("dear, darling") to get the point across in plain spoken Russian.
+- 'What is this noise? Our guests are getting scared!' Katya queries lightly during the talk, putting "shum" ("noise") alongside "gosti" ("visitors, guests") in a tight, everyday turn of phrase.
+- 'Did you all decide to replace me here?' Barinov queries steadily without hesitation, linking "reshili" ("decided"), "zdes" ("here"), and "zamenit" ("to replace") in one brisk exchange.

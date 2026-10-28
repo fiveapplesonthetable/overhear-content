@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, Nikita, are you heading home right now?' Asking whether the guest heading home right now is how Katya puts the guest on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Well yes, my shift in the dining room has finally ended.' Adding that his shift in the dining room has finally ended fills in the missing piece for the guest.
-- 'Will you give me a lift to the metro? Oh, sorry, you have no car.' By checking whether the guest gives her a lift to the metro, Katya presses the guest for a straight answer.
-- 'Actually no, I have had a car for a long time.' Because he has had a car for a long time, Nikita treats the matter as settled. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'It is just very old and breaks down all the time.' Mentioning that it is just very old and breaks down all the time moves the talk in a new direction.
-- 'So it is in the repair shop, which is why I take the metro.' Nikita reminds the guest that it is in the repair shop which is why he takes the metro before the moment passes.
-- 'Great, then let's ride to the metro together?' Katya asks whether great then let them ride to the metro together, refusing to let the point slide. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Let's go, with you the trip will be much more fun!' Proposing that they go with the guest the trip will be much more fun shows Nikita is done holding back. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Hello, yesterday I ordered an old rental car from you.' Between the truth and the car, Nikita gives the guest a quick, grounded response.
-- 'Tell me, why do you need such an old one, if it is not a secret?' Questioning whether tell him why do Katya needs such an old one if it is not a secret is how the guest tests Katya's story. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'You can consider it a special form of love.' Pointing out that the guest can consider it a special form of love gives the guest a sobering reality check. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Alright, take the keys, just be careful on the turns!' Because Alright take the keys just be careful on the turns, the guest does not bother softening the blow for Katya.
+- 'Oh, Nikita, are you heading home right now?' Katya wonders promptly in their exchange, anchoring the Russian line on "seychas" ("now") and "uzhe" ("already, now") without extra filler.
+- 'Well yes, my shift in the dining room has finally ended.' Nikita favors a serious tack with Katya, building the phrase around "smena" ("shift") and "zale" ("hall") for a crisp, natural delivery.
+- 'Will you give me a lift to the metro? Oh, sorry, you have no car.' Katya inquires lightly to keep things clear, building the phrase around "podbrosish" ("give a lift") and "metro" ("metro") for a crisp, natural delivery.
+- 'Actually no, I have had a car for a long time.' Nikita picks a clear line straight away, combining the conversational booster "voobshche" ("in general, overall") with "mashina" ("a car") to give the line its natural spoken rhythm.
+- 'It is just very old and breaks down all the time.' Nikita projects an emphatic approach in this beat, leaning on "prosto" ("just") before closing the thought with "ochen" ("very much").
+- 'So it is in the repair shop, which is why I take the metro.' Nikita shares a thoughtful direction in the conversation, anchoring the Russian line on "remonte" ("renovation") and "poetomu" ("that's why") without extra filler.
+- 'Great, then let's ride to the metro together?' Katya wonders honestly in the scene, leaning on "zdorovo" ("great, cool") before closing the thought with "togda" ("back then").
+- 'Let's go, with you the trip will be much more fun!' Nikita sets an honest line with Katya, building the phrase around "davay" ("let's") and "doroga" ("dear, precious") for a crisp, natural delivery.
+- 'Hello, yesterday I ordered an old rental car from you.' Nikita strikes a sharp direction in the conversation, putting "zdravstvuyte" ("hello") alongside "vchera" ("yesterday") in a tight, everyday turn of phrase.
+- 'Tell me, why do you need such an old one, if it is not a secret?' The guest questions warmly across the room, combining "skazhite" ("tell") and "zachem" ("what for") so the key meaning lands right away.
+- 'You can consider it a special form of love.' Nikita conveys a serious posture at once, building the phrase around "mozhete" ("can, may") and "schitat" ("to count") for a crisp, natural delivery.
+- 'Alright, take the keys, just be careful on the turns!' The guest sets a firm tempo as they talk, linking "khorosho" ("good, fine"), "zabirayte" ("take"), and "klyuchi" ("the keys") in one brisk exchange.

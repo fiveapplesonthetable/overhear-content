@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There are many ways to start the day great.' Since there are many ways to start the day great, Barinov does not waste words on excuses.
-- 'One can do sports.' Mentioning that one can do sports moves the talk in a new direction. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Let us go play a game of chess instead.' Explaining that they should go play a game of chess instead lays the cards on the table for Mikhail.
-- 'Only in the lobby, I need to greet guests.' Because only in the lobby he needs to greet guests, Mikhail treats the matter as settled.
-- 'Let us go, I will humiliate you in public.' Saying that they should go he will humiliate Mikhail in public is how Barinov sets the tone with Mikhail. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'White starts winning!' Mikhail insists that white starts winning, leaving Barinov no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Or one can simply enjoy a minute of silence.' Claiming that one can simply enjoy a minute of silence sounds confident, even if Mikhail has doubts.
-- 'Hello, my dear!' With the morning and shift at stake, Mikhail reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Hello!' With the morning and work at stake, Vika reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Hello, Vikulya! And where is our grandson?' When Mikhail asks if and where is their grandson, Barinov has to answer fast.
-- 'He probably dashed off to work already?' Around the apartment and hotel, Mikhail wants to know where Barinov really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Come in, please.' Explaining that Barinov should come in please lays the cards on the table for Barinov.
+- 'There are many ways to start the day great.' Barinov offers an earnest tone toward Mikhail, using "yest" (from "byt", "there is") alongside "mnogo" ("a lot") to shape the meaning.
+- 'One can do sports.' Barinov holds a natural line at once, building the phrase around "mozhno" ("may, can") and "zanyatsya" ("to attend to") for a crisp, natural delivery.
+- 'Let us go play a game of chess instead.' Barinov strikes a steady tack on the spot, building the phrase around "poydyom" ("let's go") and "luchshe" ("better") for a crisp, natural delivery.
+- 'Only in the lobby, I need to greet guests.' Mikhail sets a calm position in the scene, putting "tolko" ("only") alongside "lobbi" ("hotel lobby") in a tight, everyday turn of phrase.
+- 'Let us go, I will humiliate you in public.' Barinov favors a calm tack at once, using "poydyom" (from "poyti", "let's go") alongside "unizhu" ("will humiliate") to shape the meaning.
+- 'White starts winning!' Mikhail chooses a frank mood as the scene unfolds, combining "belyye" ("white") and "nachinayut" ("start") so the key meaning lands right away.
+- 'Or one can simply enjoy a minute of silence.' Barinov presents a pointed note beside Mikhail, leaning on "mozhno" ("may, can") before closing the thought with "prosto" ("just").
+- 'Hello, my dear!' Mikhail strikes a resolute attitude in front of Vika, using "rodnaya" (from "rodnoy", "dear, darling") alongside "zdravstvuy" ("hello") to shape the meaning.
+- 'Hello!' Vika establishes a serious bearing in this beat, putting all the weight on "zdravstvuyte" ("hello") so the reply lands immediately.
+- 'Hello, Vikulya! And where is our grandson?' Mikhail probes sharply in front of Vika, anchoring the Russian line on "vnuchok" ("grandson") and "gde" ("where") without extra filler.
+- 'He probably dashed off to work already?' Mikhail quizzes decisively in the room, joining "navernoye" ("probably") to "rabotu" ("job") so every word pulls its weight.
+- 'Come in, please.' Vika shares a lively note on the spot, leaning on "prokhodite" ("come in") before closing the thought with "pozhaluysta" ("please").

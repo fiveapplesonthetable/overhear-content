@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lavrov, a fine of three thousand.' With the moment and mistake in play, Vika keeps this short reply brisk and direct.
-- 'Three thousand?' With the truth and point hanging in the air, Max puts Nastya on the spot.
-- 'Right, go on and clean up.' Around the moment and mistake, Vika sets a calm, everyday tone with Max. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Shall you and I go to a little cafe?' Wondering if shall Nastya and he goes to a little cafe shows Max caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'The fact that I hired you means nothing.' Since the fact that she hired Max means nothing, Vika does not waste words on excuses.
-- 'We have a business relationship.' Mentioning that they have a business relationship moves the talk in a new direction. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Understood?' Over the room and the mistake, Vika presses Max for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Understood. But shall we go after the shift?' With the room and mistake hanging in the air, Max puts Nastya on the spot.
-- 'A fine of five thousand.' With the conversation and mistake in play, Vika keeps this short reply brisk and direct.
-- 'I think it is kicking.' Explaining that she thinks it is kicking lays the cards on the table for Max.
-- 'He is only eight centimeters tall right now.' Max mentions that he is only eight centimeters tall right now so Nastya sees what is at stake.
-- 'How can he be kicking?' Wondering how he be kicking can cuts straight through the tension between Max and Nastya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Lavrov, a fine of three thousand.' Vika takes a firm rhythm straight away, combining "shtraf" ("fine") and "tysyachi" ("thousands") so the key meaning lands right away.
+- 'Three thousand?' Max wonders openly with Vika now, anchoring the Russian line on "tysyachi" ("thousands") and "tri" ("three") without extra filler.
+- 'Right, go on and clean up.' Vika favors a resolute manner across the room, combining the everyday invitation "davay" ("come on, let us") with "ubiray" ("remove") to give the line its natural spoken rhythm.
+- 'Shall you and I go to a little cafe?' Max asks candidly across the room, linking "kafeshku" ("little cafe"), "skhodim" ("go, pop over"), and "my" ("we") in one brisk exchange.
+- 'The fact that I hired you means nothing.' Vika brings a serious tack for Max, building the phrase around "vzyala" ("took") and "znachit" ("then, so") for a crisp, natural delivery.
+- 'We have a business relationship.' Vika adopts a sharp mood in this beat, using "delovyye" (from "delovoy", "business") alongside "otnosheniya" ("relations, relationship") to shape the meaning.
+- 'Understood?' Vika challenges calmly as the beat lands, putting all the weight on "ponyatno" ("clear") so the reply lands immediately.
+- 'Understood. But shall we go after the shift?' Max asks candidly as the beat lands, combining "ponyatno" ("clear") and "smeny" ("shift") so the key meaning lands right away.
+- 'A fine of five thousand.' Vika chooses a firm tack in front of Max, building the phrase around "shtraf" ("fine") and "tysyach" ("thousand") for a crisp, natural delivery.
+- 'I think it is kicking.' Nastya chooses an unhurried tone right away, combining "kazhetsya" ("it seems, I think") and "pinayetsya" ("kicks") so the key meaning lands right away.
+- 'He is only eight centimeters tall right now.' Max displays a wry tempo as the scene unfolds, linking "seychas" ("now") directly with "rost" ("growth"), since Russian drops "is" and "are" in the present.
+- 'How can he be kicking?' Max checks dryly as they speak, putting "kak" ("how") alongside "mozhet" ("can") in a tight, everyday turn of phrase.

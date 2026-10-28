@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quickly! Gather everything and get into my office.' Between the table and the dish, Barinov delivers a sharp reaction. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Clear this away. And move, move!' Around the table and chaos, Barinov makes his point loud and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'All right, where is the chef?' Questioning whether all right where is is how Nagiyev tests Barinov's story.
-- 'Well, he stepped out for a smoke.' Around the exchange and work, Lyova sets a calm, everyday tone with Barinov.
-- 'My guest is ready and waiting!' Insisting that his guest is ready and waiting shows Nagiyev is not backing down. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'So the moment he appears, send him straight to me.' Claiming that the moment he appears send him straight to him sounds confident, even if Barinov has doubts.
-- 'Wait, where is the prop dish from the shoot?' Wondering where the prop dish from the shoot is cuts straight through the tension between Barinov and Lyova. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'As the saying goes, dinner is served.' Nagiyev explains that as the saying goes dinner is served, keeping his voice calm and direct.
-- 'For you I am ready to be a waiter myself.' Realizing that for Barinov he is ready to be a waiter himself changes how Nagiyev handles the situation.
-- 'It looks simply incredible.' Noting that it looks simply incredible keeps Nagiyev's side of the story simple and clear.
-- 'I think we should start with the lamb.' Nagiyev explains that he thinks they should start with the lamb, keeping his voice calm and direct. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'It smells like an old boot!' Over the kitchen and the chaos, Nagiyev lets his real feelings show.
+- 'Quickly! Gather everything and get into my office.' Barinov sets a measured manner as they talk, linking "bystro" ("quickly"), "sobrali" ("to collect"), and "kabinet" ("office") in one brisk exchange.
+- 'Clear this away. And move, move!' Barinov strikes a lively line in the scene, linking "ubirayem" ("to clean up"), "poshli" ("let's go"), and "vot" ("there, here") in one brisk exchange.
+- 'All right, where is the chef?' Nagiyev presses dryly in the scene, placing "gde" ("where") straight beside "tak" ("so") with no word for "to be" needed.
+- 'Well, he stepped out for a smoke.' Lyova keeps a playful style in their talk, pairing "pokurit" ("to have a smoke") with "vyshel" ("stepped out") to get the point across in plain spoken Russian.
+- 'My guest is ready and waiting!' Nagiyev projects a frank line in their talk, placing "gost" ("guest") straight beside "gotov" ("ready") with no word for "to be" needed.
+- 'So the moment he appears, send him straight to me.' Nagiyev sustains a wry stance in the room, joining "znachit" ("then, so") to "poyavitsya" ("shows up, appears") so every word pulls its weight.
+- 'Wait, where is the prop dish from the shoot?' Barinov wonders evenly as they speak, pairing "gde" ("where") with "blyudo" ("dish") to get the point across in plain spoken Russian.
+- 'As the saying goes, dinner is served.' Nagiyev picks an unhurried tempo with Lyova, combining "kak" ("how") and "govoritsya" ("is said") so the key meaning lands right away.
+- 'For you I am ready to be a waiter myself.' Nagiyev maintains a brisk mood with Barinov, pairing "gotov" ("ready") with "byt" ("be") to get the point across in plain spoken Russian.
+- 'It looks simply incredible.' Nagiyev projects an earnest footing across the room, building the phrase around "vyglyadit" ("looks") and "prosto" ("just") for a crisp, natural delivery.
+- 'I think we should start with the lamb.' Nagiyev maintains a frank rhythm for Barinov, anchoring the Russian line on "dumayu" ("I think") and "nado" ("it is necessary") without extra filler.
+- 'It smells like an old boot!' Nagiyev picks a playful angle at this moment, putting "vonyayet" ("like") alongside "kak" ("how") in a tight, everyday turn of phrase.

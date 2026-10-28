@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Denis.' Over the plan and the breakup, Katya answers Denis without a second thought.
-- 'Hi, Katya.' Around the plan and breakup, Denis sets a calm, everyday tone with Eleonora.
-- 'You were upset because of yesterday.' Explaining that Denis was upset because of yesterday lays the cards on the table for Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'No, everything is fine.' Denis reminds Eleonora that everything is fine before the moment passes.
-- 'Forgive me, please.' With the breakup and hotel in play, Katya keeps this short reply brisk and direct.
-- 'I was very worried all night.' Pointing out that she was very worried all night gives Denis a sobering reality check.
-- 'I did not sleep at all today.' Katya explains that she did not sleep at all today, keeping her voice calm and direct.
-- 'I did not sleep all night either.' Realizing that he did not sleep all night either changes how Denis handles the situation.
-- 'I tossed and turned all night long.' Noting that he tossed and turned all night long keeps Denis's side of the story simple and clear.
-- 'It is clear why you did not get enough sleep.' Even though it is clear why Denis did not get enough sleep, Katya keeps a steady face in front of Denis.
-- 'Report any problems to me immediately.' Between the breakup and the moment, Eleonora gives Denis a quick, grounded response.
-- 'And here is the owner of our hotel.' Saying that here is the owner of their hotel is how Eleonora sets the tone with Denis.
-- 'I did not come here to get acquainted.' Once she did not come here to get acquainted, Eleonora can finally tell Denis what she means.
+- 'Hi, Denis.' Katya shares a brisk bearing straight away, anchoring the Russian line on "privet" ("hi") and "denis" ("Denis") without extra filler.
+- 'Hi, Katya.' Denis sets a brisk tempo beside Katya, building the phrase around "privet" ("hi") and "katya" ("Katya") for a crisp, natural delivery.
+- 'You were upset because of yesterday.' Katya chooses a direct manner for Denis, anchoring the Russian line on "byl" ("was") and "rasstroyen" ("upset") without extra filler.
+- 'No, everything is fine.' Denis displays a serious mood right away, putting "normalno" ("fine, OK") alongside "da" ("yes") in a tight, everyday turn of phrase.
+- 'Forgive me, please.' Katya presents a frank course across the room, pairing "prosti" ("sorry, forgive me") with "menya" ("me") to get the point across in plain spoken Russian.
+- 'I was very worried all night.' Katya presents a grounded tempo in this beat, building the phrase around "noch" ("night") and "ochen" ("very much") for a crisp, natural delivery.
+- 'I did not sleep at all today.' Katya displays a resolute tone in the room, combining the intensifier "sovsem" ("completely, at all") with "segodnya" ("today") to give the line its natural spoken rhythm.
+- 'I did not sleep all night either.' Denis shares a thoughtful angle as the scene unfolds, anchoring the Russian line on "tozhe" ("too") and "noch" ("night") without extra filler.
+- 'I tossed and turned all night long.' Denis projects a playful stance in the scene, linking "vorochalsya" ("tossed and turned"), "noch" ("night"), and "vsyu" ("all, the whole") in one brisk exchange.
+- 'It is clear why you did not get enough sleep.' Katya takes an earnest style toward Eleonora, leaning on "ponyatno" ("clear") before closing the thought with "vyspalsya" ("got enough sleep").
+- 'Report any problems to me immediately.' Eleonora establishes a clear note for Denis, anchoring the Russian line on "lyubykh" ("any") and "problemakh" ("problem") without extra filler.
+- 'And here is the owner of our hotel.' Eleonora brings a frank course in their talk, placing "vladelitsa" ("owner") straight beside "otelya" ("of the hotel") with no word for "to be" needed.
+- 'I did not come here to get acquainted.' Eleonora conveys a sharp course in the scene, joining "syuda" ("here") to "znakomitsya" ("get acquainted") so every word pulls its weight.

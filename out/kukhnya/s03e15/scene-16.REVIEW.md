@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well then, let's start cooking, stop chattering, chop the onions!' Barinov insists that they should start cooking stop chattering chop the onions, leaving Max no room to argue.
-- 'Yes, we are getting started on the work right now!' Insisting that they are getting started on the work right now shows Nagiyev is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Sir, could you be more careful, step back, please!' Once sir could Max is more careful step back please, Barinov makes sure Max hears every word. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Fedya, toss me the fish quickly!' Over the conversation and the dish, Barinov lets his real feelings show.
-- 'What kind of mess is this in your kitchen?' Questioning whether what kind of mess is this in Barinov's kitchen is how Nagiyev tests Barinov's story. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Excuse me, usually nobody stands in this spot in our kitchen.' Saying that usually nobody stands in this spot in their kitchen is how Barinov sets the tone with Max. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Hey, step aside, cannot you see I am mopping the floor!' Telling Max to step aside cannot Max sees he is mopping the floor shows Barinov is done holding back.
-- 'Stop, now all you have left to do is put this into the oven!' Stopping now all Max has left to do is put this into the oven shows Barinov is done holding back. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well done, just like in the movies, Nagiyev's eleven friends!' With the work and dish at stake, Nagiyev reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Everyone did great and everyone is simply brilliant today!' Once everyone did great and everyone is simply brilliant today, Nagiyev makes sure Barinov hears every word.
-- 'Vika, forgive me, I did not mean to scare you like that.' Adding that he did not mean to scare Barinov likes fills in the missing piece for Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Tell me, are you definitely alright right now?' Max asks whether tell him are Barinov definitely alright right now, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Well then, let's start cooking, stop chattering, chop the onions!' Barinov keeps an emphatic style in front of Max, joining "nachnyom" ("we start") to "gotovit" ("to cook") so every word pulls its weight.
+- 'Yes, we are getting started on the work right now!' Nagiyev picks a warm note in the conversation, combining "pryamo" ("right, just") and "seychas" ("now") so the key meaning lands right away.
+- 'Sir, could you be more careful, step back, please!' Barinov presents a playful tone beside Max, pairing "muzhchina" ("man") with "poostorozhneye" ("more carefully") to get the point across in plain spoken Russian.
+- 'Fedya, toss me the fish quickly!' Barinov shares a calm posture right away, building the phrase around "davay" ("let's") and "bystro" ("quickly") for a crisp, natural delivery.
+- 'What kind of mess is this in your kitchen?' Nagiyev questions openly as the talk turns, pairing "bardak" ("mess, disorder") with "kukhne" ("kitchen") to get the point across in plain spoken Russian.
+- 'Excuse me, usually nobody stands in this spot in our kitchen.' Barinov projects a direct mood at once, anchoring the Russian line on "izvinite" ("sorry, excuse me") and "prosto" ("just") without extra filler.
+- 'Hey, step aside, cannot you see I am mopping the floor!' Barinov shares a steady view beside Max, anchoring the Russian line on "otoydi" ("to step back") and "otsyuda" ("from here") without extra filler.
+- 'Stop, now all you have left to do is put this into the oven!' Barinov chooses a candid stance in their talk, pairing "ostayotsya" ("stays") with "teper" ("now") so the "-sya" ending carries the action.
+- 'Well done, just like in the movies, Nagiyev's eleven friends!' Nagiyev displays a playful approach in the scene, anchoring the Russian line on "molodtsy" ("well done, good person") and "pryamo" ("right, just") without extra filler.
+- 'Everyone did great and everyone is simply brilliant today!' Nagiyev brings a calm stance at once, placing "molodtsy" ("well done, good person") straight beside "segodnya" ("today") with no word for "to be" needed.
+- 'Vika, forgive me, I did not mean to scare you like that.' Max adopts an earnest tack in front of Barinov, putting "prosti" ("sorry, forgive me") alongside "khotel" ("wanted") in a tight, everyday turn of phrase.
+- 'Tell me, are you definitely alright right now?' Max inquires decisively during the talk, leaning on "skazhi" ("say") before closing the thought with "seychas" ("now").

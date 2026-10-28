@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, are you kidding me?' Asking whether Kostya kidding him cuts straight through the tension between Barinov and Kostya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'She is a woman!' Once she is a woman, Barinov makes sure Kostya hears every word. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Dima, you know my attitude toward this.' Around the truth and point, Barinov sets a calm, everyday tone with Kostya.
-- 'A woman will not work in my kitchen.' Barinov tells Kostya that a woman will not work in his kitchen without dressing it up.
-- 'Nastya, did you tell your parents?' Checking whether Barinov tells Barinov's parents cuts straight through the tension between Kostya and Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Not yet.' Between the plan and the kitchen, Nastya gives Barinov a quick, grounded response.
-- 'Nastya, what is the matter? Why are you hiding it?' Here asking what the matter is shows Kostya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I am afraid.' Explaining that she is afraid lays the cards on the table for Barinov.
-- 'My dad has old-fashioned views.' Explaining that her dad has old views lays the cards on the table for Barinov.
-- 'I got pregnant before the wedding.' Nastya mentions that she got pregnant before the wedding so Barinov sees what is at stake.
-- 'He will probably kill you.' Claiming that he will probably kill Barinov sounds confident, even if Barinov has doubts. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Me? Why me?' With the conversation and room hanging in the air, Kostya puts Barinov on the spot.
+- 'Dima, are you kidding me?' Barinov probes candidly without holding back, putting "izdevayeshsya" ("are kidding") alongside "dima" ("Dima") in a tight, everyday turn of phrase.
+- 'She is a woman!' Barinov strikes a pointed rhythm for Nastya, pairing "zhenshchina" ("woman") with "eto" ("this") to get the point across in plain spoken Russian.
+- 'Dima, you know my attitude toward this.' Barinov establishes a sharp rhythm for Kostya, combining "znayesh" ("know") and "otnosheniye" ("attitude, relation") so the key meaning lands right away.
+- 'A woman will not work in my kitchen.' Barinov adopts a resolute tone in the scene, joining "zhenshchina" ("woman") to "kukhne" ("kitchen") so every word pulls its weight.
+- 'Nastya, did you tell your parents?' Kostya challenges directly in front of Barinov, building the phrase around "rasskazala" ("told") and "roditelyam" ("to parents") for a crisp, natural delivery.
+- 'Not yet.' Nastya conveys a brisk posture across the room, joining "yeshchyo" ("more, still") to "net" ("no") so every word pulls its weight.
+- 'Nastya, what is the matter? Why are you hiding it?' Kostya queries dryly in their exchange, leaning on "delo" ("matter") before closing the thought with "pochemu" ("why").
+- 'I am afraid.' Nastya keeps a playful direction in front of Kostya, leaning on "boyus" ("am afraid") as a compact, one-word response that needs no extra words.
+- 'My dad has old-fashioned views.' Nastya offers a wry tone for Barinov, combining "papa" ("Dad") and "starykh" ("old") so the key meaning lands right away.
+- 'I got pregnant before the wedding.' Nastya sets an emphatic footing toward Kostya, combining "zaberemenela" ("got pregnant") and "svadby" ("wedding") so the key meaning lands right away.
+- 'He will probably kill you.' Nastya adopts a thoughtful footing in the scene, pairing "ubyot" ("will kill") with "on" ("he") to get the point across in plain spoken Russian.
+- 'Me? Why me?' Kostya wonders directly in front of Nastya, anchoring the Russian line on "menya" ("me") and "menya-to" ("me") without extra filler.

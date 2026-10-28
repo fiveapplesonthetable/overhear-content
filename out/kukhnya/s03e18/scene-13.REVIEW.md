@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, do not listen to her, she is talking nonsense!' Max insists that do not listen to her she is talking nonsense, leaving Katya no room to argue.
-- 'I do not follow, she was talking about a new purchase.' Once she does not follow she was talking about a new purchase, Vika can finally tell Katya what she means.
-- 'Because your old machine broke yesterday.' Over the shift and the kitchen, Vika answers Katya without a second thought. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Why buy a new one? Maybe I can manage to fix it.' With the situation and plan hanging in the air, Max puts Katya on the spot.
-- 'Alright then, be sure to tell me if anything comes up.' Since Alright then be sure to tell her if anything comes up, Vika does not waste words on excuses.
-- 'Katya, please forgive me for everything.' Around the shift and work, Max sets a calm, everyday tone with Katya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Just now that looked very foolish from the outside.' Max reminds Katya that just now that looked very foolish from the outside before the moment passes.
-- 'All of this is because I still love Vika.' Because all of this is because he still loves Vika, Max treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'What, do you think I am blind and see nothing?' Here wondering what Max thinks she is blind and see nothing shows Katya looking for the real truth. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'I understood everything a very long time ago.' Katya mentions that she understood everything a very long time ago so Max sees what is at stake.
-- 'Forget it? So everything is fine, we are friends?' Asking whether so everything is fine they are friends puts Katya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, everything is great, we remain good friends.' Pointing out that everything is great they remain good friends gives Max a sobering reality check.
+- 'Vika, do not listen to her, she is talking nonsense!' Max establishes a warm tack straight away, putting "slushay" ("listen") alongside "yerundu" ("nonsense") in a tight, everyday turn of phrase.
+- 'I do not follow, she was talking about a new purchase.' Vika establishes a clear attitude in the room, leaning on "ponyala" ("understood") before closing the thought with "govorila" ("said").
+- 'Because your old machine broke yesterday.' Vika projects a natural tone with Katya, building the phrase around "potomu" ("because") and "staraya" ("old") for a crisp, natural delivery.
+- 'Why buy a new one? Maybe I can manage to fix it.' Max checks directly without a pause, linking "zachem" ("what for"), "pokupat" ("buy"), and "novuyu" ("new") in one brisk exchange.
+- 'Alright then, be sure to tell me if anything comes up.' Vika establishes a measured bearing straight away, putting "togda" ("back then") alongside "obyazatelno" ("surely, without fail") in a tight, everyday turn of phrase.
+- 'Katya, please forgive me for everything.' Max holds a frank tempo for Vika, linking "prosti" ("sorry, forgive me"), "katya" ("Katya"), and "ty" ("you") in one brisk exchange.
+- 'Just now that looked very foolish from the outside.' Max shares a firm mood on the spot, anchoring the Russian line on "seychas" ("now") and "storony" ("side") without extra filler.
+- 'All of this is because I still love Vika.' Max shows a direct tack in their talk, pairing "potomu" ("because") with "por" ("time") to get the point across in plain spoken Russian.
+- 'What, do you think I am blind and see nothing?' Katya asks wryly without a pause, linking "dumayesh" ("think"), "slepaya" ("blind"), and "vizhu" ("see") in one brisk exchange.
+- 'I understood everything a very long time ago.' Katya adopts a pointed posture at this moment, joining "uzhe" ("already, now") to "ochen" ("very much") so every word pulls its weight.
+- 'Forget it? So everything is fine, we are friends?' Max challenges warmly at this point, weaving "zabey" ("forget it, never mind") together with "znachit" ("then, so") just the way native speakers do.
+- 'Yes, everything is great, we remain good friends.' Katya favors a serious line as they talk, weaving "otlichno" ("perfect, great") together with "ostayomsya" ("stay") just the way native speakers do.

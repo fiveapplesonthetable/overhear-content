@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Макс | Костян, ты что, спишь, что ли? | Kostyan, what, are you asleep on your feet? | #52: Костян, ты что, спишь, что ли | verbatim |
 | 2 | Костя | Слушай, Кость, ты извини за вчерашнюю, ладно? | Listen, Kostya, I am sorry about last night, okay? | #53: Слушай, Кость, ты извини за вчерашнюю, ладно | verbatim |
-| 3 | Настя | Я не хотел, чтоб с Ильёй так... | I did not mean for things with Ilya to turn out like that... | #54: Я не хотел, чтоб с Ильёй так | verbatim |
+| 3 | Макс | Я не хотел, чтоб с Ильёй так... | I did not mean for things with Ilya to turn out like that... | #54: Я не хотел, чтоб с Ильёй так | verbatim |
 | 4 | Макс | Да, всё же нормально. | Yeah, everything is totally fine. | #56: Да, всё же нормально | verbatim |
 | 5 | Костя | Вот это тебе. | Here, this is for you. | #57: Вот это тебе | verbatim |
 | 6 | Настя | Макс, ты не расстраивайся. | Max, do not get upset. | #58: Макс, ты не расстраивайся | verbatim |
@@ -22,20 +22,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Макс | Я ничего не видел. | I did not see anything at all. | #62: Я ничего не видел | verbatim |
 | 11 | Костя | В смысле... | What do you mean... | #63: В смысле | verbatim |
 | 12 | Настя | Ну так. | Well, just like that. | #65: Ну так | verbatim |
-| 13 | Макс | Послушай, Макс. | Listen to me, Max. | #67: Послушай, Макс | verbatim |
+| 13 | Костя | Послушай, Макс. | Listen to me, Max. | #67: Послушай, Макс | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostyan, what, are you asleep on your feet?' Wondering if someone what are Kostya asleep on Kostya's feet shows Max caught off guard.
-- 'Listen, Kostya, I am sorry about last night, okay?' Being sorry about last night okay is how Kostya puts Max on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I did not mean for things with Ilya to turn out like that...' Once she did not mean for things with Ilya to turn out like, Nastya can finally tell Kostya what she means.
-- 'Yeah, everything is totally fine.' Adding that yeah everything is totally fine fills in the missing piece for Kostya.
-- 'Here, this is for you.' Kostya tells Max that here this is for Max without dressing it up. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Max, do not get upset.' Since do not get upset, Nastya does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I mean, just drink it.' Even though he means just drink it, Max keeps a steady face in front of Kostya.
-- 'Ah, thank you.' Here thanking Max sets up the next turn in their exchange.
-- 'And how is Sasha doing over there?' Asking how Sasha doing over there is cuts straight through the tension between Nastya and Kostya. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I did not see anything at all.' Explaining that he did not see anything at all lays the cards on the table for Kostya.
-- 'What do you mean...' Kostya mentions that what do Max means so Max sees what is at stake.
-- 'Well, just like that.' With the conversation and restaurant in play, Nastya keeps this short reply brisk and direct.
-- 'Listen to me, Max.' Around the conversation and restaurant, Max sets a calm, everyday tone with Kostya.
+- 'Kostyan, what, are you asleep on your feet?' Max tests pointedly with Kostya now, using "spish" (from "spat", "are sleeping") alongside "kostyan" ("Kostyan") to shape the meaning.
+- 'Listen, Kostya, I am sorry about last night, okay?' Kostya questions naturally beside Nastya, pairing "slushay" ("listen") with "kost" ("bones") to get the point across in plain spoken Russian.
+- 'I did not mean for things with Ilya to turn out like that...' Max adopts a natural posture as the scene unfolds, putting "khotel" ("wanted") alongside "ya" ("I") in a tight, everyday turn of phrase.
+- 'Yeah, everything is totally fine.' Max favors a wry rhythm on the spot, combining "normalno" ("fine, OK") and "da" ("yes") so the key meaning lands right away.
+- 'Here, this is for you.' Kostya adopts an easygoing attitude on the spot, pairing "vot" ("there, here") with "eto" ("this") to get the point across in plain spoken Russian.
+- 'Max, do not get upset.' Nastya chooses a calm bearing straight away, putting "rasstraivaysya" ("be upset, worry") alongside "maks" ("Max") in a tight, everyday turn of phrase.
+- 'I mean, just drink it.' Max holds a wry note during the exchange, pairing "smysle" ("sense") with "prosto" ("just") to get the point across in plain spoken Russian.
+- 'Ah, thank you.' Kostya holds an emphatic style in the scene, using "spasibo" ("thank you") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'And how is Sasha doing over there?' Nastya presses plainly to keep things clear, weaving "kak" ("how") together with "tam" ("there") just the way native speakers do.
+- 'I did not see anything at all.' Max sustains a grounded attitude in this beat, building the phrase around "videl" ("saw, have seen") and "ya" ("I") for a crisp, natural delivery.
+- 'What do you mean...' Kostya sustains a natural tack in the conversation, letting the single Russian word "smysle" ("sense") carry the entire reaction on its own.
+- 'Well, just like that.' Nastya takes a resolute position straight away, anchoring the Russian line on "nu" ("oh, come on") and "tak" ("so") without extra filler.
+- 'Listen to me, Max.' Kostya picks a candid footing as they talk, anchoring the Russian line on "poslushay" ("listen") and "maks" ("Max") without extra filler.

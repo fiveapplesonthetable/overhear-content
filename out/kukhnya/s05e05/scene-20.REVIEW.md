@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'When you lose love, life loses all meaning.' Pointing out that when Denis loses love life loses all meaning gives Denis a sobering reality check.
-- 'Vika, your doctor told me everything.' Max explains that Denis's doctor told him everything, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Great, so you know everything.' Realizing that great so Denis knows everything changes how Vika handles the situation.
-- 'And who is the father?' By asking who the father is, Max presses Denis for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And that is none of your business anymore.' Vika explains that that is none of Denis's business anymore, keeping her voice calm and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Bad day?' Over the doctor and the conversation, Max presses Denis for a straight answer.
-- 'Where are you off to, on vacation?' Here asking where Denis off to on vacation is shows Max looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'An indefinite one, things did not work out for me here.' Once an indefinite one things did not work out for him here, Denis can finally tell Max what he means. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Den, forgive me, I behaved like a jerk.' Between the shift and the call, Max gives Denis a quick, grounded response.
-- 'Hello, good evening.' Between the shift and the hotel, Vika gives Denis a quick, grounded response.
-- 'Your husband turned out to be very persistent.' Since Denis's husband turned out to be very persistent, Vika does not waste words on excuses. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'I told him just as you asked.' Mentioning that she told him just as Denis asked moves the talk in a new direction.
+- 'When you lose love, life loses all meaning.' Max holds a steady style straight away, weaving "kogda" ("when") together with "teryayesh" ("lose") just the way native speakers do.
+- 'Vika, your doctor told me everything.' Max maintains an earnest bearing across the room, anchoring the Russian line on "vrach" ("doctor") and "rasskazal" ("told") without extra filler.
+- 'Great, so you know everything.' Vika presents an easygoing direction with Denis, putting "otlichno" ("perfect, great") alongside "znachit" ("then, so") in a tight, everyday turn of phrase.
+- 'And who is the father?' Max challenges wryly in this moment, linking "otets" ("father") directly with "kto" ("who"), since Russian drops "is" and "are" in the present.
+- 'And that is none of your business anymore.' Vika conveys a measured view during the exchange, combining "uzhe" ("already, now") and "delo" ("matter") so the key meaning lands right away.
+- 'Bad day?' Max prompts lightly without a pause, pairing "plokhoy" ("bad") with "den" ("day") to get the point across in plain spoken Russian.
+- 'Where are you off to, on vacation?' Max wonders honestly without a pause, anchoring the Russian line on "kuda" ("where to") and "otpusk" ("vacation") without extra filler.
+- 'An indefinite one, things did not work out for me here.' Denis shares a firm posture as the scene unfolds, pairing "bessrochnyy" ("indefinite") with "slozhilos" ("worked out") to get the point across in plain spoken Russian.
+- 'Den, forgive me, I behaved like a jerk.' Max strikes an unhurried manner for Denis, linking "prosti" ("sorry, forgive me"), "vyol" ("led, behaved"), and "kak" ("how") in one brisk exchange.
+- 'Hello, good evening.' Vika establishes a direct view as they talk, weaving "dobryy" ("good") together with "vecher" ("evening") just the way native speakers do.
+- 'Your husband turned out to be very persistent.' Vika maintains a pointed posture toward Denis, pairing "muzh" ("husband") with "okazalsya" ("turned up") to get the point across in plain spoken Russian.
+- 'I told him just as you asked.' Vika sets a playful mood straight away, combining "skazala" ("told") and "kak" ("how") so the key meaning lands right away.

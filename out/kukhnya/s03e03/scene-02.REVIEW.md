@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where would a cat in a restaurant come from?' Wondering where a cat in a restaurant come would cuts straight through the tension between Max and the girl. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'But the main superstition is the first guest.' Claiming that the main superstition is the first guest sounds confident, even if the girl has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'If it is a woman, expect trouble and don't expect tips.' Pointing out that if it is a woman expect trouble and do not expect tips gives the girl a sobering reality check.
-- 'Hello. Excuse me, we are still closed.' Max mentions that they are still closed so the girl sees what is at stake.
-- 'Your sign says that you open at eleven.' Realizing that the girl's sign says that the girl opens at eleven changes how the guest handles the situation. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Your watch is probably running fast.' Noting that the girl's watch is probably running fast keeps Max's side of the story simple and clear.
-- 'A salad and still water.' Around the work and restaurant, the guest sets a calm, everyday tone with the girl.
-- 'And I am telling you that this is not a French salad.' Mentioning that he is telling the girl that this is not a French salad moves the talk in a new direction. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I have been to France and can tell a real salad apart.' The girl reminds the guest that she has been to France and can tell a real salad apart before the moment passes.
-- 'Believe me, this is the most French of all the Moscow ones.' Mentioning that the girl should believe him this is the most French of all the Moscow ones moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'What do you understand about this? Staff from the provinces!' Here asking what the girl understands about this shows the guest looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You are not quite a Muscovite yourself either.' Max tells the girl that the girl is not quite a themselves either without dressing it up.
+- 'Where would a cat in a restaurant come from?' Max probes sharply to make the point, joining "otkuda" ("where from") to "restorane" ("restaurant") so every word pulls its weight.
+- 'But the main superstition is the first guest.' Max adopts an easygoing tack right away, weaving "glavnoye" ("important") together with "suyeveriye" ("superstition") just the way native speakers do.
+- 'If it is a woman, expect trouble and don't expect tips.' Max holds a firm rhythm in this beat, weaving "zhenshchina" ("woman") together with "zhdi" ("wait") just the way native speakers do.
+- 'Hello. Excuse me, we are still closed.' Max conveys an earnest tone on the spot, joining "zdravstvuyte" ("hello") to "izvinite" ("sorry, excuse me") so every word pulls its weight.
+- 'Your sign says that you open at eleven.' The guest shows a direct line in the scene, linking "napisano" ("is written"), "otkryvayetes" ("open"), and "odinnadtsat" ("eleven") in one brisk exchange.
+- 'Your watch is probably running fast.' Max holds a thoughtful manner across the room, building the phrase around "navernoye" ("probably") and "chasy" ("watch") for a crisp, natural delivery.
+- 'A salad and still water.' The guest picks a wry approach in the scene, pairing "salat" ("salad") with "vodu" ("water") to get the point across in plain spoken Russian.
+- 'And I am telling you that this is not a French salad.' The guest maintains an emphatic style in the room, leaning on "govoryu" ("am telling") before closing the thought with "frantsuzskiy" ("French").
+- 'I have been to France and can tell a real salad apart.' The girl keeps a calm tack as the scene unfolds, using "byla" (from "byt", "was") alongside "mogu" ("can") to shape the meaning.
+- 'Believe me, this is the most French of all the Moscow ones.' Max holds a thoughtful direction in the scene, building the phrase around "poverte" ("believe") and "samyy" ("the most") for a crisp, natural delivery.
+- 'What do you understand about this? Staff from the provinces!' The guest queries pointedly to the girl here, using "ponimayesh" (from "ponimat", "do you understand") alongside "personal" ("staff") to shape the meaning.
+- 'You are not quite a Muscovite yourself either.' Max shows a thoughtful view with the guest, pairing "tozhe" ("too") with "sovsem" ("at all") to get the point across in plain spoken Russian.

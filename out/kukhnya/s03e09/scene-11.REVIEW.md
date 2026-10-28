@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, I did not have time to change clothes.' Adding that he did not have time to change clothes fills in the missing piece for Barinov.
-- 'What happened? Just look at them.' Over the plan and the apartment, Vika presses Barinov for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Hello, dear Victoria Sergeevna!' With the plan and apartment at stake, Barinov reacts without holding back.
-- 'Very funny, what is going on here, Max?' Asking whether very funny what is going on here puts Barinov right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Is this a tavern we are running here or what?' Asking whether this a tavern they are running here is how Vika puts Barinov on the spot. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Why are the two of you drinking in here?' Here asking why the two of Barinov drinking in here are shows Vika looking for the real truth.
-- 'Well, what can I possibly do?' By wondering what he possibly do can, Max presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'In short, let us go with this plan.' Max mentions that in short let them go with this plan so Barinov sees what is at stake. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Right now I will get him drunk quickly.' Claiming that right now he will get him drunk quickly sounds confident, even if Barinov has doubts.
-- 'Careful they do not have to resuscitate you instead.' Pointing out that careful they do not have to resuscitate Barinov instead gives Barinov a sobering reality check. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Well, we will see about that.' Max mentions that they will see so Barinov sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Chef, let us drink like real men!' Max insists that they should drink like real men, leaving Barinov no room to argue.
+- 'Excuse me, I did not have time to change clothes.' Max offers a calm approach as the scene unfolds, pairing "pereodetsya" ("change clothes") with "izvinite" ("sorry, excuse me") so the "-sya" ending carries the action.
+- 'What happened? Just look at them.' Vika tests directly without hesitation, building the phrase around "sluchilos" ("happened") and "posmotri" ("look") for a crisp, natural delivery.
+- 'Hello, dear Victoria Sergeevna!' Barinov maintains a natural course on the spot, putting "zdravstvuyte" ("hello") alongside "dorogaya" ("expensive") in a tight, everyday turn of phrase.
+- 'Very funny, what is going on here, Max?' Vika asks dryly during the talk, joining "ochen" ("very much") to "smeshno" ("ridiculous") so every word pulls its weight.
+- 'Is this a tavern we are running here or what?' Vika tests firmly without holding back, building the phrase around "tut" ("here") and "kabak" ("tavern, pub") for a crisp, natural delivery.
+- 'Why are the two of you drinking in here?' Vika probes plainly beside Max, linking "pochemu" ("why"), "zdes" ("here"), and "vdvoyom" ("the two of us together") in one brisk exchange.
+- 'Well, what can I possibly do?' Max quizzes bluntly as they speak, anchoring the Russian line on "mogu" ("can") and "sdelat" ("to do") without extra filler.
+- 'In short, let us go with this plan.' Max projects a sharp stance in the conversation, leaning on "koroche" ("long story short") before closing the thought with "davay" ("let's").
+- 'Right now I will get him drunk quickly.' Max takes a natural stance on the spot, leaning on "seychas" ("now") before closing the thought with "bystro" ("quickly").
+- 'Careful they do not have to resuscitate you instead.' Vika maintains an emphatic manner as they talk, putting "kak" ("how") alongside "otkachivat" ("to resuscitate") in a tight, everyday turn of phrase.
+- 'Well, we will see about that.' Max projects a natural rhythm in this beat, pairing "yeshchyo" ("more, still") with "posmotrim" ("have a look") to get the point across in plain spoken Russian.
+- 'Chef, let us drink like real men!' Max maintains a sharp tone in the scene, pairing "davayte" ("let's") with "vypyem" ("will drink") to get the point across in plain spoken Russian.

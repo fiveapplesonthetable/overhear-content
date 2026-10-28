@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, forgive me for lying.' With the point and shift in play, Max keeps this short reply brisk and direct.
-- 'Well alright, bye to all of you.' Around the point and moment, Max sets a calm, everyday tone with Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Damn it, the water has completely run out.' Explaining that damn it the water has completely run out lays the cards on the table for Max.
-- 'Well, now let us talk calmly, without tantrums.' Realizing that they should talk calmly without tantrums changes how Barinov handles the situation.
-- 'Tell me, what happened with you?' With the work and shift hanging in the air, Barinov puts Max on the spot. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Everything is simply great with me.' Pointing out that everything is simply great with him gives Barinov a sobering reality check. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'I now work as a simple courier.' Around the truth and kitchen, Max sets a calm, everyday tone with Barinov.
-- 'And my Vika is now with Nagiyev.' Realizing that his Vika is now with Nagiyev changes how Max handles the situation.
-- 'So I will go back to Voronezh.' Noting that he will go back to Voronezh keeps Max's side of the story simple and clear.
-- 'Listen to me very carefully right now.' Between the truth and the point, Barinov gives Max a quick, grounded response.
-- 'If you run away now, you will regret it your whole life.' Admitting that if Max runs away now Max will regret it Max's whole life shows Barinov being honest for a change.
-- 'Tell me, did you understand me?' Asking whether tell him did Max understands him puts Max right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Guys, forgive me for lying.' Max presents a lively note at this moment, putting "rebyata" ("the boys, the lads") alongside "prostite" ("excuse me") in a tight, everyday turn of phrase.
+- 'Well alright, bye to all of you.' Max sustains a steady position in the conversation, linking "poka" ("bye"), "nu" ("oh, come on"), and "ladno" ("all right") in one brisk exchange.
+- 'Damn it, the water has completely run out.' Barinov presents a clear style without hesitation, weaving "chyort" ("darn, heck") together with "voda" ("water") just the way native speakers do.
+- 'Well, now let us talk calmly, without tantrums.' Barinov displays an emphatic course during the exchange, anchoring the Russian line on "teper" ("now") and "davay" ("let's") without extra filler.
+- 'Tell me, what happened with you?' Barinov queries evenly across the room, linking "rasskazyvay" ("tell"), "sluchilos" ("happened"), and "mne" ("to me") in one brisk exchange.
+- 'Everything is simply great with me.' Max presents a thoughtful tempo without hesitation, combining the softening word "prosto" ("simply, just") with "otlichno" ("perfect, great") to give the line its natural spoken rhythm.
+- 'I now work as a simple courier.' Max favors a candid angle straight away, linking "teper" ("now"), "rabotayu" ("work"), and "prostym" ("simple") in one brisk exchange.
+- 'And my Vika is now with Nagiyev.' Max presents a candid line in front of Barinov, pairing "teper" ("now") with "moya" ("my") to get the point across in plain spoken Russian.
+- 'So I will go back to Voronezh.' Max strikes an honest note as the scene unfolds, joining "poyedu" ("will go") to "obratno" ("back") so every word pulls its weight.
+- 'Listen to me very carefully right now.' Barinov strikes a resolute tempo without hesitation, putting "poslushay" ("listen") alongside "seychas" ("now") in a tight, everyday turn of phrase.
+- 'If you run away now, you will regret it your whole life.' Barinov holds a playful course as the scene unfolds, linking "seychas" ("now"), "sbezhish" ("will run away"), and "zhizn" ("life") in one brisk exchange.
+- 'Tell me, did you understand me?' Barinov probes plainly in the room, weaving "skazhi" ("say") together with "ponyal" ("understood") just the way native speakers do.

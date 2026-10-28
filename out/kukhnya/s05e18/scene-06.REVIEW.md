@@ -21,19 +21,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Айнура | Скажи, что у тебя муж и дети. | Say that you have a husband and children. | #100: потому что у тебя муж, дети | adapted: adapted |
 | 10 | Айнура | Скажи, что ты деньги высылаешь им. | Say that you send money home to them. | #101: И ты деньги высылаешь им | adapted: adapted |
 | 11 | Гуля | Но ведь это совсем неправда. | But that is not true at all. | #102: Но это же неправда | adapted: adapted |
-| 12 | Таня | Витя, вечером у меня важная встреча. | Vitya, this evening I have an important meeting. | #105: Витя<br>#110: вечером очень важная встреча | adapted: adapted |
+| 12 | Лёва | Витя, вечером у меня важная встреча. | Vitya, this evening I have an important meeting. | #105: Витя<br>#110: вечером очень важная встреча | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova knows that I stole a pastry yesterday.' Claiming that Lyova knows that she stole a pastry yesterday sounds confident, even if Ainura has doubts.
-- 'He will definitely fire me now.' Pointing out that he will definitely fire her now gives Ainura a sobering reality check.
-- 'Oh, do not panic, it is just a warning.' Ainura explains that do not panic it is just a warning, keeping her voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And why did he not give you a warning?' Asking why he not give Ainura a warning cuts straight through the tension between Gulya and Ainura. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Lyova will definitely not touch me.' Noting that Lyova will definitely not touch keeps Ainura's side of the story simple and clear.
-- 'He has been pursuing me for three years already.' Even though he has been pursuing her for three years already, Ainura keeps a steady face in front of Gulya.
-- 'I see, so he will fire only me.' Admitting that she sees so he will fire only shows Gulya being honest for a change.
-- 'Only our chef can fire you.' Saying that only their can fire Gulya is how Ainura sets the tone with Gulya.
-- 'Say that you have a husband and children.' Saying that Gulya has a husband and children is how Ainura lays out the situation for Gulya. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Say that you send money home to them.' Pointing out that Gulya should say that Gulya sends money home to them gives Gulya a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'But that is not true at all.' Noting that that is not true at all keeps Gulya's side of the story simple and clear.
-- 'Vitya, this evening I have an important meeting.' Since this evening she has an important meeting, Tanya does not waste words on excuses. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Lyova knows that I stole a pastry yesterday.' Gulya keeps a wry tack toward Ainura, building the phrase around "znayet" ("knows") and "vchera" ("yesterday") for a crisp, natural delivery.
+- 'He will definitely fire me now.' Gulya holds a frank footing in the room, weaving "teper" ("now") together with "tochno" ("definitely") just the way native speakers do.
+- 'Oh, do not panic, it is just a warning.' Ainura conveys a serious tack at this moment, leaning on "panikuy" ("panic") before closing the thought with "prosto" ("just").
+- 'And why did he not give you a warning?' Gulya presses plainly in the room, leaning on "pochemu" ("why") before closing the thought with "preduprezhdeniye" ("warning").
+- 'Lyova will definitely not touch me.' Ainura projects a candid position at this moment, pairing "tochno" ("definitely") with "budet" ("will be") to get the point across in plain spoken Russian.
+- 'He has been pursuing me for three years already.' Ainura offers an easygoing approach with Lyova, linking "uzhe" ("already, now"), "goda" ("years"), and "dobivayetsya" ("to strive for") in one brisk exchange.
+- 'I see, so he will fire only me.' Gulya picks a frank bearing on the spot, leaning on "ponyatno" ("clear") before closing the thought with "znachit" ("then, so").
+- 'Only our chef can fire you.' Ainura sets a firm bearing beside Lyova, putting "mozhet" ("can") alongside "uvolit" ("to fire") in a tight, everyday turn of phrase.
+- 'Say that you have a husband and children.' Ainura brings a calm approach beside Gulya, using "skazhi" (from "skazat", "say") alongside "muzh" ("husband") to shape the meaning.
+- 'Say that you send money home to them.' Ainura holds a direct style in this beat, using "skazhi" (from "skazat", "say") alongside "dengi" ("money") to shape the meaning.
+- 'But that is not true at all.' Gulya establishes a clear attitude as they talk, combining "sovsem" ("at all") and "nepravda" ("untrue, a lie") so the key meaning lands right away.
+- 'Vitya, this evening I have an important meeting.' Lyova establishes a frank rhythm at this moment, pairing "vecherom" ("in the evening") with "vazhnaya" ("important") to get the point across in plain spoken Russian.

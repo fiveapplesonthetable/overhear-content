@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Say it loudly, so that all the guests around can hear.' Admitting that Nagiyev should say it loudly so that all the guests around can hear shows Eleonora being honest for a change. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'My dear, I love you very much.' Noting that his dear he loves Eleonora very much keeps Nagiyev's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No, you can barely be heard, say it even louder!' Eleonora declares that Nagiyev can barely be heard say it even louder as the tension in the room peaks.
-- 'Elya, I love you more than anyone in the world!' Because someone he loves Eleonora more than anyone in the world, Nagiyev does not bother softening the blow for Eleonora. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I love you, do you hear, I love you!' By loving Eleonora does Eleonora hears he loves Eleonora, Nagiyev raises the stakes in the room at once. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Say it one more time loudly so that everyone hears.' Once Nagiyev should say it one more time loudly so that everyone hears, Eleonora can finally tell Nagiyev what she means.
-- 'And now listen: you and I are getting divorced, Nagiyev!' Declaring that Nagiyev and she are getting divorced Nagiyev brings Eleonora's temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Or rather, no, I am the one dumping you today!' Eleonora insists that rather no she is the one dumping Nagiyev today, leaving Nagiyev no room to argue. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Tomorrow the whole internet will learn the whole truth about you.' Since tomorrow the whole internet will learn the whole truth about Nagiyev, Eleonora does not waste words on excuses.
-- 'That a famous actor of Russia turned out to be a total deceiver!' Eleonora declares that that a famous actor of Russia turned out to be a total deceiver as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Get out of my restaurant immediately!' Getting out of her restaurant immediately shows Eleonora is done holding back. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Waiter, bring cold champagne for everyone right now!' With the point and guest at stake, Eleonora reacts without holding back.
+- 'Say it loudly, so that all the guests around can hear.' Eleonora chooses a thoughtful rhythm during the exchange, pairing "skazhi" ("say") with "gromko" ("on speaker") to get the point across in plain spoken Russian.
+- 'My dear, I love you very much.' Nagiyev presents a warm course in their talk, anchoring the Russian line on "dorogaya" ("expensive") and "ochen" ("very much") without extra filler.
+- 'No, you can barely be heard, say it even louder!' Eleonora takes a clear angle at this moment, pairing "plokho" ("badly") with "slyshno" ("is audible") to get the point across in plain spoken Russian.
+- 'Elya, I love you more than anyone in the world!' Nagiyev sets a calm angle across the room, anchoring the Russian line on "lyublyu" ("love") and "bolshe" ("more") without extra filler.
+- 'I love you, do you hear, I love you!' Nagiyev conveys a natural tone in the conversation, weaving "lyublyu" ("love") together with "slyshish" ("hear") just the way native speakers do.
+- 'Say it one more time loudly so that everyone hears.' Eleonora takes a resolute direction at this moment, building the phrase around "skazhi" ("say") and "yeshchyo" ("more, still") for a crisp, natural delivery.
+- 'And now listen: you and I are getting divorced, Nagiyev!' Eleonora establishes a playful tempo right away, anchoring the Russian line on "teper" ("now") and "slushay" ("listen") without extra filler.
+- 'Or rather, no, I am the one dumping you today!' Eleonora projects a playful approach on the spot, using "tochneye" (from "tochno", "definitely") alongside "segodnya" ("today") to shape the meaning.
+- 'Tomorrow the whole internet will learn the whole truth about you.' Eleonora takes an earnest line in the room, putting "zavtra" ("tomorrow") alongside "internet" ("internet") in a tight, everyday turn of phrase.
+- 'That a famous actor of Russia turned out to be a total deceiver!' Eleonora sustains a steady course at once, linking "izvestnyy" ("famous, well-known"), "aktyor" ("actor"), and "okazalsya" ("turned up") in one brisk exchange.
+- 'Get out of my restaurant immediately!' Eleonora shows a clear posture in the scene, linking "ukhodi" ("go away"), "nemedlenno" ("immediately"), and "restorana" ("restaurant") in one brisk exchange.
+- 'Waiter, bring cold champagne for everyone right now!' Eleonora picks an honest note in their talk, anchoring the Russian line on "ofitsiant" ("waiter") and "prinesite" ("bring") without extra filler.

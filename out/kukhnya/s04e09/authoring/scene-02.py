@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e09.ru.srt'
 INTRO = 'Over in the kitchen, Chef Viktor Barinov demands his favorite copper sauté pan from Lyova, while back at the apartment Kostya unpacks juice and cartoon discs for little Styopa.'
 OPENER = "Let's go through the dialogue slowly and look at how these kitchen and family requests work."
 TRANSITION = "Now let's hear the whole conversation again from start to finish."
-OUTRO = "Listen out for how Chef Barinov uses the dative pronoun with the masculine form of 'needed' when demanding his copper pan. See you next time!"
+OUTRO = "Listen out for how Chef Barinov uses the indirect form with the masculine form of 'needed' when demanding his copper pan. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Лёва, подай мне сотейник.', 'Lyova, hand me the sauté pan.', [(17, 'Лева, подай мне')], 'adapted for A1 clarity'),
@@ -30,16 +30,16 @@ STORY = [
     ('lyova', 'Я всё понял, шеф.', 'I understood everything, chef.', [(19, 'ваш медный сотейник был')], 'adapted for A1 clarity'),
 ]
 WALK = [
-    (0, None, "'Lyova, hand me the sauté pan.' Telling Kostya to hand him the pan is how Barinov lays out the situation for Kostya."),
-    (1, None, '\'What kind of nonsense is this?\' With the room and apartment hanging in the air, Barinov puts Kostya on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (2, None, "'I need my copper sauté pan.' Realizing that he needs his copper pan changes how Barinov handles the situation."),
-    (3, None, '\'Your copper sauté pan stayed there.\' Claiming that Barinov\'s copper pan stayed there sounds confident, even if Barinov has doubts. Notice how he sticks to the formal "you", keeping a professional line between them.'),
-    (4, None, "'It was in the other restaurant.' Pointing out that it was in the other restaurant gives Barinov a sobering reality check."),
-    (5, None, "'I need it right now.' By needing it right now, Barinov keeps his side of the story grounded."),
-    (6, None, "'Here, take the compote.' Around the kitchen and apartment, Kostya sets a calm, everyday tone with Barinov."),
-    (7, None, '\'Do not give him too much, okay?\' Checking whether not give him too much okay is how Kostya puts Barinov on the spot. Starting with "davay" is the everyday Russian way to say "come on, let us do this".'),
-    (8, None, "'Otherwise it will go badly.' Even though otherwise it will go badly, Kostya keeps a steady face in front of Barinov."),
-    (9, None, "'It will be like last time.' Admitting that it will be like last time shows Kostya being honest for a change."),
-    (10, None, "'Here are the discs with cartoons.' Saying that here are the discs with cartoons is how Kostya sets the tone with Barinov."),
-    (11, None, "'I understood everything, chef.' Once he understood everything, Lyova can finally tell Barinov what he means."),
+    (0, None, '\'Lyova, hand me the sauté pan.\' Barinov strikes a direct posture in the scene, linking "poday" ("to submit, file"), "soteynik" ("pan"), and "lyova" ("Lyova") in one brisk exchange.'),
+    (1, None, '\'What kind of nonsense is this?\' Barinov quizzes warmly on the spot, building the phrase around "yerunda" ("trifle, nothing") and "eto" ("this") for a crisp, natural delivery.'),
+    (2, None, '\'I need my copper sauté pan.\' Barinov keeps a natural posture in front of Kostya, linking "nuzhen" ("is needed"), "mednyy" ("pan"), and "soteynik" ("pan") in one brisk exchange.'),
+    (3, None, '\'Your copper sauté pan stayed there.\' Lyova displays a candid line in their talk, putting "mednyy" ("pan") alongside "soteynik" ("pan") in a tight, everyday turn of phrase.'),
+    (4, None, '\'It was in the other restaurant.\' Lyova picks a lively approach for Barinov, leaning on "byl" ("was") before closing the thought with "drugom" ("different, another").'),
+    (5, None, '\'I need it right now.\' Barinov holds a pointed tempo in the room, combining "nuzhen" ("is needed") and "seychas" ("now") so the key meaning lands right away.'),
+    (6, None, '\'Here, take the compote.\' Kostya establishes a sharp tempo across the room, anchoring the Russian line on "derzhi" ("here you go") and "kompot" ("compote") without extra filler.'),
+    (7, None, '\'Do not give him too much, okay?\' Kostya tests wryly to make the point, anchoring the Russian line on "mnogo" ("a lot") and "davayte" ("let\'s") without extra filler.'),
+    (8, None, '\'Otherwise it will go badly.\' Kostya picks a sharp tone during the exchange, putting "budet" ("will be") alongside "plokho" ("badly") in a tight, everyday turn of phrase.'),
+    (9, None, '\'It will be like last time.\' Kostya presents a direct approach at once, pairing "budet" ("will be") with "kak" ("how") to get the point across in plain spoken Russian.'),
+    (10, None, '\'Here are the discs with cartoons.\' Kostya offers a wry angle in their talk, putting "diski" ("cartoons") alongside "multikami" ("cartoon, animated film") in a tight, everyday turn of phrase.'),
+    (11, None, '\'I understood everything, chef.\' Lyova establishes a playful tone beside Kostya, putting "ponyal" ("understood") alongside "ya" ("I") in a tight, everyday turn of phrase.'),
 ]

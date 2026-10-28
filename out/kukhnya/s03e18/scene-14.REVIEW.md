@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I really wanted to speak with you.' Saying that he really wanted to speak with Barinov is how Max sets the tone with Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'About what Fedya and Senya are whispering about.' Once about what Fedya and Senya are whispering, Max can finally tell Barinov what he means.
-- 'Oh, you too, name your price!' Between the office and the conversation, Barinov delivers a sharp reaction.
-- 'No, Chef, I am not talking about that at all right now.' Explaining that he is not talking about that at all right now lays the cards on the table for Barinov.
-- 'I really hope that you will not be offended.' Since he really hopes that Barinov will not be offended, Max does not waste words on excuses. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'And if you do get offended, then just endure it.' Mentioning that if Max does get offended then just endure it moves the talk in a new direction.
-- 'Chef, in these past days you have changed a lot.' Max reminds Barinov that in these past days Barinov has changed a lot before the moment passes. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'You agreed to turn our temple of food into a cheap diner.' With the conversation and office in play, Max keeps this short reply brisk and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'You yourself always told us that.' Explaining that Barinov themselves always told them lays the cards on the table for Barinov.
-- 'But the main thing is that you betrayed your principles.' Max mentions that the main thing is that Barinov betrayed Barinov's principles so Barinov sees what is at stake. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'And that means you betrayed all of us too.' Claiming that that means Barinov betrayed all of them sounds confident, even if Barinov has doubts. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Forgive me, Chef, here is my letter of resignation.' Pointing out that here is his letter of resignation gives Barinov a sobering reality check.
+- 'Chef, I really wanted to speak with you.' Max maintains a firm course as they talk, leaning on "ochen" ("very much") before closing the thought with "khotel" ("wanted").
+- 'About what Fedya and Senya are whispering about.' Max maintains a sharp attitude at once, linking "povodu" ("matter"), "shepchutsya" ("are whispering"), and "po" ("according to") in one brisk exchange.
+- 'Oh, you too, name your price!' Barinov holds an earnest style as the scene unfolds, combining "tuda" ("there") and "nazovi" ("name") so the key meaning lands right away.
+- 'No, Chef, I am not talking about that at all right now.' Max establishes a resolute angle across the room, putting "seychas" ("now") alongside "sovsem" ("at all") in a tight, everyday turn of phrase.
+- 'I really hope that you will not be offended.' Max establishes a firm stance at this moment, anchoring the Russian line on "ochen" ("very much") and "nadeyus" ("hope so") without extra filler.
+- 'And if you do get offended, then just endure it.' Barinov brings an honest angle during the exchange, using "obidites" (from "obidetsya", "you will be offended") alongside "togda" ("back then") to shape the meaning.
+- 'Chef, in these past days you have changed a lot.' Max maintains a natural tone straight away, building the phrase around "dni" ("day") and "silno" ("strongly, much") for a crisp, natural delivery.
+- 'You agreed to turn our temple of food into a cheap diner.' Max shows a resolute position with Barinov, combining "soglasilis" ("to agree") and "prevratit" ("to turn into") so the key meaning lands right away.
+- 'You yourself always told us that.' Max takes a serious style beside Barinov, anchoring the Russian line on "vsegda" ("always") and "govorili" ("talked") without extra filler.
+- 'But the main thing is that you betrayed your principles.' Max brings a pointed manner in the conversation, pairing "samoye" ("the most") with "glavnoye" ("important") to get the point across in plain spoken Russian.
+- 'And that means you betrayed all of us too.' Max presents a playful mood in the scene, leaning on "znachit" ("then, so") before closing the thought with "izmenili" ("changed").
+- 'Forgive me, Chef, here is my letter of resignation.' Max presents an easygoing attitude in the conversation, leaning on "prostite" ("excuse me") before closing the thought with "zayavleniye" ("statement").

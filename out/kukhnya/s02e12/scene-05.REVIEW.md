@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You must fight for this life.' Adding that Elena must fight for this life fills in the missing piece for Elena. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'You have such an amazing daughter.' Fedya tells Elena that Elena has such an amazing daughter without dressing it up. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Do it for her sake.' Since do it for her sake, Senya does not waste words on excuses.
-- 'Well, and for mine too.' Over the plan and the point, Fedya answers Elena without a second thought.
-- 'I do not know.' Senya reminds Elena that he does not know before the moment passes.
-- 'I did not do anything.' Because she did not do anything, Elena treats the matter as settled.
-- 'I did not taste anything.' Explaining that she did not taste anything lays the cards on the table for Fedya. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'That is just, that is just...' Fedya mentions that that is just that is just so Elena sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'How can anyone lie like that?' Wondering how anyone lie like can cuts straight through the tension between Senya and Elena.
-- 'Calm down. Calm down.' Adding that Elena should calm down fills in the missing piece for Elena.
-- 'I understand.' Over the room and the work, Senya answers Elena without a second thought.
-- 'I do not want to.' Realizing that he does not want changes how Fedya handles the situation.
-- 'Do me a favor.' Noting that do him a favor keeps Senya's side of the story simple and clear.
+- 'You must fight for this life.' Senya adopts a candid tone without hesitation, joining "dolzhny" ("must, should") to "borotsya" ("to fight") so every word pulls its weight.
+- 'You have such an amazing daughter.' Fedya sets a wry direction across the room, joining "doch" ("daughter") to "potryasayushchaya" ("stunning") so every word pulls its weight.
+- 'Do it for her sake.' Senya maintains a candid attitude in the conversation, anchoring the Russian line on "sdelayte" ("make") and "nu" ("oh, come on") without extra filler.
+- 'Well, and for mine too.' Fedya favors a natural stance right away, anchoring the Russian line on "nu" ("oh, come on") and "dlya" ("for") without extra filler.
+- 'I do not know.' Senya favors a grounded tone in the conversation, linking "znayu" ("know"), "ya" ("I"), and "ne" ("not") in one brisk exchange.
+- 'I did not do anything.' Elena maintains a thoughtful tempo in the room, weaving "delala" ("did") together with "ya" ("I") just the way native speakers do.
+- 'I did not taste anything.' Elena keeps a calm tone with Fedya, using "probovala" (from "probovat", "to try, to taste") alongside "ya" ("I") to shape the meaning.
+- 'That is just, that is just...' Fedya projects a resolute footing with Senya, joining "voobshche" ("at all") to "eto" ("this") so every word pulls its weight.
+- 'How can anyone lie like that?' Senya inquires decisively as the talk turns, leaning on "kak" ("how") before closing the thought with "mozhno" ("may, can").
+- 'Calm down. Calm down.' Fedya offers a natural manner as the scene unfolds, putting all the weight on "uspokoytes" ("calm down") so the reply lands immediately.
+- 'I understand.' Senya offers a warm stance across the room, anchoring the Russian line on "ponimayu" ("understand") and "ya" ("I") without extra filler.
+- 'I do not want to.' Fedya favors a frank view in front of Senya, using "khochu" (from "khotet", "want") alongside "ya" ("I") to shape the meaning.
+- 'Do me a favor.' Senya takes a warm stance beside Elena, weaving "sdelay" ("make, do") together with "odolzheniye" ("favour, concession") just the way native speakers do.

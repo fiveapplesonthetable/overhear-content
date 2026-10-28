@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, I urgently asked for watermelon.' Mentioning that she urgently asked for watermelon moves the talk in a new direction.
-- 'I only need the watermelon pulp.' Katya reminds Denis that she only needs the watermelon pulp before the moment passes.
-- 'Katyusha, I have everything ready already.' Because someone he has everything ready already, Denis treats the matter as settled.
-- 'But you will have to get it out yourself.' Explaining that Katya will have to get it out themselves lays the cards on the table for Katya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You need to defeat this shark.' Denis mentions that Katya needs to defeat this shark so Katya sees what is at stake. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Why did you make this shark?' By asking why Denis makes this shark, Katya presses Denis for a straight answer.
-- 'Listen, Denis, people are waiting for the order.' Pointing out that people are waiting for the order gives Denis a sobering reality check.
-- 'But it is a very beautiful shark.' Denis explains that it is a very beautiful shark, keeping his voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I wanted to lift your spirits.' Realizing that he wanted to lift Katya's spirits changes how Denis handles the situation.
-- 'We have a lot of work right now.' Noting that they have a lot of work right now keeps Katya's side of the story simple and clear. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'All right, thanks, you lifted my spirits.' Even though all right thanks Denis lifted her spirits, Katya keeps a steady face in front of Denis. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I will slice everything up quickly right now.' Admitting that he will slice everything up quickly right now shows Denis being honest for a change.
+- 'Denis, I urgently asked for watermelon.' Katya presents a pointed mood across the room, putting "srochno" ("urgent, urgently") alongside "prosila" ("asked") in a tight, everyday turn of phrase.
+- 'I only need the watermelon pulp.' Katya sets a firm position at this moment, leaning on "nuzhna" ("needed") before closing the thought with "tolko" ("only").
+- 'Katyusha, I have everything ready already.' Denis picks a direct position in the room, leaning on "katyusha" ("eat") before closing the thought with "uzhe" ("already, now").
+- 'But you will have to get it out yourself.' Denis establishes an easygoing footing in front of Katya, pairing "dostat" ("to take out") with "pridyotsya" ("you'll have to") to get the point across in plain spoken Russian.
+- 'You need to defeat this shark.' Denis chooses an honest angle on the spot, leaning on "nuzhno" ("necessary") before closing the thought with "pobedit" ("to win").
+- 'Why did you make this shark?' Katya wonders sharply from the start, pairing "zachem" ("what for") with "sdelal" ("did") to get the point across in plain spoken Russian.
+- 'Listen, Denis, people are waiting for the order.' Katya presents an emphatic course during the exchange, pairing "slushay" ("listen") with "lyudi" ("people") to get the point across in plain spoken Russian.
+- 'But it is a very beautiful shark.' Denis holds a pointed style as the scene unfolds, linking "ochen" ("very much") directly with "krasivaya" ("pretty, beautiful"), since Russian drops "is" and "are" in the present.
+- 'I wanted to lift your spirits.' Denis holds a direct mood as the scene unfolds, joining "khotel" ("wanted") to "podnyat" ("to lift, to raise") so every word pulls its weight.
+- 'We have a lot of work right now.' Katya maintains an earnest attitude in their talk, leaning on "u nas" ("by us, at our place") and "seychas" ("now") the way natural Russian does.
+- 'All right, thanks, you lifted my spirits.' Katya takes a brisk rhythm in the room, building the phrase around "spasibo" ("thank you") and "podnyal" ("to lift, to raise") for a crisp, natural delivery.
+- 'I will slice everything up quickly right now.' Denis picks an earnest attitude on the spot, putting "seychas" ("now") alongside "bystro" ("quickly") in a tight, everyday turn of phrase.

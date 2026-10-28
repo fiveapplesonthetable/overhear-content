@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, do you need some help here?' Checking whether Ainura needs some help here is how Kostya puts Ainura on the spot.
-- 'Wait, what are you hitting me for?' Here wondering what Ainura hitting him is shows Kostya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Sorry, Kostya, but Gulya works here.' Even though Gulya works here, Lyova keeps a steady face in front of Ainura.
-- 'You never know what might happen.' Admitting that Ainura never know what might happen shows Lyova being honest for a change.
-- 'Thank you for your help, Lyova.' Around the situation and moment, Ainura sets a calm, everyday tone with Kostya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I will not tell anyone about this.' Once she will not tell anyone about this, Ainura can finally tell Kostya what she means.
-- 'Lyova, we have bad news!' Once they have bad news, Ainura makes sure Kostya hears every word.
-- 'People have suddenly started disappearing in the kitchen.' Ainura tells Kostya that people have suddenly started disappearing in the kitchen without dressing it up.
-- 'I think I need to take Gulya away.' Claiming that she thinks she needs to take Gulya away sounds confident, even if Kostya has doubts. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'It is time for us to return back home.' Realizing that it is time for them to return back home changes how Ainura handles the situation.
-- 'Who gives driver's licenses to these drivers?' When Lyova asks if who gives driver licenses to these drivers, Ainura has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Gulya must stay here with me.' Because Gulya must stay here with him, Lyova treats the matter as settled.
+- 'Lyova, do you need some help here?' Kostya tests naturally without a pause, building the phrase around "tut" ("here") and "nuzhno" ("necessary") for a crisp, natural delivery.
+- 'Wait, what are you hitting me for?' Kostya asks bluntly for Lyova's benefit, anchoring the Russian line on "postoy" ("wait") and "byosh" ("to beat, to hit") without extra filler.
+- 'Sorry, Kostya, but Gulya works here.' Lyova chooses a firm style beside Ainura, anchoring the Russian line on "prosti" ("sorry, forgive me") and "zdes" ("here") without extra filler.
+- 'You never know what might happen.' Lyova presents a firm angle as they talk, pairing "sluchitsya" ("to happen") with "malo" ("little, not enough") so the "-sya" ending carries the action.
+- 'Thank you for your help, Lyova.' Ainura favors a brisk view in their talk, building the phrase around "spasibo" ("thank you") and "pomoshch" ("help") for a crisp, natural delivery.
+- 'I will not tell anyone about this.' Ainura chooses an earnest manner across the room, putting "rasskazhu" ("will tell") alongside "ya" ("I") in a tight, everyday turn of phrase.
+- 'Lyova, we have bad news!' Ainura takes a thoughtful tack in the conversation, putting "plokhiye" ("bad") alongside "novosti" ("the news") in a tight, everyday turn of phrase.
+- 'People have suddenly started disappearing in the kitchen.' Ainura takes a firm style during the exchange, joining "kukhne" ("kitchen") to "lyudi" ("people") so every word pulls its weight.
+- 'I think I need to take Gulya away.' Ainura strikes a wry rhythm as they talk, building the phrase around "dumayu" ("I think") and "nado" ("it is necessary") for a crisp, natural delivery.
+- 'It is time for us to return back home.' Ainura establishes a firm stance beside Lyova, anchoring the Russian line on "pora" ("it's time") and "nazad" ("ago") without extra filler.
+- 'Who gives driver's licenses to these drivers?' Lyova queries decisively as they speak, linking "voditelyam" ("driver"), "prava" ("right, correct"), and "dayot" ("gives, yields") in one brisk exchange.
+- 'Gulya must stay here with me.' Lyova keeps a sharp attitude in front of Kostya, pairing "dolzhna" ("should, must") with "ostatsya" ("to remain, to be left") to get the point across in plain spoken Russian.

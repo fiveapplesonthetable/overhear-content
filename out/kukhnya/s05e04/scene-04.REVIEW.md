@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alas and alack, I have to go.' Even though alas and alack he has to go, Barinov keeps a steady face in front of Elena.
-- 'They cannot do a single thing without me.' Barinov tells Elena that they cannot do a single thing without him without dressing it up. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Well, it is time for me to go too. Yes.' Pointing out that it is time for her to go gives Barinov a sobering reality check. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Until tomorrow. Until tomorrow.' With the kitchen and date in play, Barinov keeps this short reply brisk and direct.
-- 'Hello. Yes, Natasha.' Around the kitchen and date, Elena sets a calm, everyday tone with Barinov.
-- 'I am at the Victor right now, yeah.' Being at the Victor right now yeah is how Elena lays out the situation for Barinov.
-- 'The one inside the hotel.' With the kitchen and call in play, Elena keeps this short reply brisk and direct.
-- 'Come on over right now.' Telling Barinov to come on over right now moves the conversation forward without extra drama. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Drive up, we will have lunch and chat.' Claiming that Barinov should drive up they will have lunch and chat sounds confident, even if Barinov has doubts.
-- 'Come on, I am waiting for you.' By coming on she is waiting for Barinov, Elena keeps her side of the story grounded.
-- 'I am waiting for you in the restaurant.' Because she is waiting for Barinov in the restaurant, Elena treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Hello, please come right in.' The hostess tells Barinov that Barinov should come right without dressing it up.
+- 'Alas and alack, I have to go.' Barinov strikes a playful tone in the scene, combining "nado" ("it is necessary") and "idti" ("to go") so the key meaning lands right away.
+- 'They cannot do a single thing without me.' Barinov keeps a sharp position across the room, putting "mogut" ("can") alongside "nichego" ("nothing") in a tight, everyday turn of phrase.
+- 'Well, it is time for me to go too. Yes.' Elena takes a clear direction in the scene, anchoring the Russian line on "tozhe" ("too") and "pora" ("it's time") without extra filler.
+- 'Until tomorrow. Until tomorrow.' Barinov presents a calm position in front of the hostess, building the phrase around "zavtra" ("tomorrow") and "do" ("until") for a crisp, natural delivery.
+- 'Hello. Yes, Natasha.' Elena establishes a frank footing with Barinov, pairing "natasha" ("Natasha") with "allo" ("hello") to get the point across in plain spoken Russian.
+- 'I am at the Victor right now, yeah.' Elena establishes a candid posture in front of the hostess, combining "ya" ("I") and "viktorii" ("Victoria") so the key meaning lands right away.
+- 'The one inside the hotel.' Elena projects an earnest line for Barinov, weaving "otele" ("in the hotel") together with "kotoryy" ("who") just the way native speakers do.
+- 'Come on over right now.' Elena adopts a playful bearing toward the hostess, linking "davay" ("let's"), "podyezzhay" ("come on over"), and "skoreye" ("quickly, right away") in one brisk exchange.
+- 'Drive up, we will have lunch and chat.' Elena establishes a serious bearing at this moment, leaning on "podyezzhay" ("come on over") before closing the thought with "poobedayem" ("will have lunch").
+- 'Come on, I am waiting for you.' Elena projects a warm direction without hesitation, leaning on "davay" ("let's") before closing the thought with "zhdu" ("I wait, expect").
+- 'I am waiting for you in the restaurant.' Elena holds a frank style toward Barinov, joining "zhdu" ("I wait, expect") to "restorane" ("restaurant") so every word pulls its weight.
+- 'Hello, please come right in.' The hostess establishes a wry angle in their talk, combining "prokhodite" ("come in") and "zdraste" ("hello, hi") so the key meaning lands right away.

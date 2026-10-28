@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Brother, you are simply the best.' Barinov tells Nagiyev that brother Nagiyev is simply the best without dressing it up.
-- 'You are celebrating too early!' Insisting that Barinov is celebrating too early shows Nagiyev is not backing down. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Now the little cook will get what is coming to him.' Mentioning that the little cook will get what is coming to him moves the talk in a new direction.
-- 'The beef is a bit tough today.' Barinov reminds Nagiyev that the beef is a bit tough today before the moment passes.
-- 'I love olives with the pit.' Claiming that he loves olives with the pit sounds confident, even if Nagiyev has doubts.
-- 'And is that all you are capable of?' Checking whether that all Barinov is capable is how Nagiyev puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Viktoriya Sergeyevna, I told you so.' Senya mentions that Viktoriya Sergeyevna he told Barinov so Barinov sees what is at stake.
-- 'This chandelier should have been replaced long ago.' Claiming that this chandelier should have been replaced long ago sounds confident, even if Barinov has doubts.
-- 'I am too young for all this.' Since he is too young for all this, Barinov does not waste words on excuses.
-- 'Too young for such nonsense.' Over the kitchen and the moment, Barinov answers Nagiyev without a second thought.
-- 'We defeated all the enemies!' With the kitchen and situation at stake, Senya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Excellent work, Sergeant Senya!' With the truth and situation at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Brother, you are simply the best.' Barinov sets a serious rhythm as they talk, linking "bratan" ("bro") directly with "prosto" ("just"), since Russian drops "is" and "are" in the present.
+- 'You are celebrating too early!' Nagiyev conveys a measured posture in this beat, joining "slishkom" ("too") to "rano" ("early, young") so every word pulls its weight.
+- 'Now the little cook will get what is coming to him.' Nagiyev strikes a lively style across the room, weaving "seychas" ("now") together with "povaryonok" ("little cook") just the way native speakers do.
+- 'The beef is a bit tough today.' Barinov chooses an honest manner right away, weaving "govyadina" ("beef") together with "segodnya" ("today") just the way native speakers do.
+- 'I love olives with the pit.' Barinov shows a thoughtful line toward Nagiyev, weaving "lyublyu" ("love") together with "olivki" ("olives") just the way native speakers do.
+- 'And is that all you are capable of?' Nagiyev queries boldly as the beat lands, putting "sposoben" ("capable") alongside "eto" ("this") in a tight, everyday turn of phrase.
+- 'Viktoriya Sergeyevna, I told you so.' Senya takes a firm approach at once, using "govoril" (from "govorit", "said, were saying") alongside "viktoriya" ("Victoria") to shape the meaning.
+- 'This chandelier should have been replaced long ago.' Senya sustains a candid footing in front of Nagiyev, weaving "lyustru" ("replaced") together with "davno" ("for a long time") just the way native speakers do.
+- 'I am too young for all this.' Barinov sustains an easygoing line as they talk, joining "slishkom" ("too") to "molod" ("young") so every word pulls its weight.
+- 'Too young for such nonsense.' Barinov presents a measured direction without hesitation, combining "slishkom" ("too") and "molod" ("young") so the key meaning lands right away.
+- 'We defeated all the enemies!' Senya strikes a serious stance in front of Barinov, using "pobedili" (from "pobedit", "to defeat, to win") alongside "vragov" ("enemy") to shape the meaning.
+- 'Excellent work, Sergeant Senya!' Barinov holds an unhurried course in the conversation, linking "otlichnaya" ("excellent"), "rabota" ("job"), and "serzhant" ("arseny") in one brisk exchange.

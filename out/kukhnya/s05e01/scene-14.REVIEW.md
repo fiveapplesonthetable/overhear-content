@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, will we definitely win right now?' Here checking whether they definitely win right now shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I gave you the very best one.' Pointing out that he gave Barinov the very best one gives Barinov a sobering reality check. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'If I win, you will be my servant.' Barinov explains that if he wins Mikhail will be his servant, keeping his voice calm and direct.
-- 'Alright, I agree to that.' Realizing that Alright he agrees changes how Mikhail handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'If I win, you obey me.' Noting that if he wins Barinov obey him keeps Mikhail's side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You and the restaurant report to me.' With the kitchen and bet in play, Mikhail keeps this short reply brisk and direct.
-- 'Go ahead and start!' Going ahead and start is Barinov's blunt reaction in front of Mikhail. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'And everyone get ready now.' Over the kitchen and the bet, Senya answers Barinov without a second thought.
-- 'Started! Come on, come on!' Once Barinov should come on come, Senya makes sure Barinov hears every word.
-- 'Go, go, faster forward!' Telling Mikhail to go go faster forward shows Barinov is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Well, what did I tell you?' Wondering what he tells Barinov cuts straight through the tension between Mikhail and Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What a monster you are!' Declaring that what a monster Mikhail is brings Barinov's temper right to the surface.
+- 'So, will we definitely win right now?' Barinov presses briskly to keep things clear, weaving "seychas" ("now") together with "obyazatelno" ("surely, without fail") just the way native speakers do.
+- 'I gave you the very best one.' Senya conveys an honest position in their talk, building the phrase around "dal" ("to give") and "samogo" ("the very") for a crisp, natural delivery.
+- 'If I win, you will be my servant.' Barinov favors a warm view at once, joining "vyigrayu" ("will win") to "budesh" ("will") so every word pulls its weight.
+- 'Alright, I agree to that.' Mikhail picks a pointed line in this beat, leaning on "khorosho" ("good, fine") before closing the thought with "soglasen" ("agreed").
+- 'If I win, you obey me.' Mikhail conveys a thoughtful manner straight away, using "vyigrayu" (from "vyigrat", "will win") alongside "podchinyayeshsya" ("to obey, to submit to") to shape the meaning.
+- 'You and the restaurant report to me.' Mikhail shows an easygoing approach in this beat, linking "restoran" ("restaurant"), "podchinyayetes" ("to obey, to submit to"), and "ty" ("you") in one brisk exchange.
+- 'Go ahead and start!' Barinov strikes a candid line in the scene, using "davay" (from "davat", "let's") alongside "nachinay" ("start") to shape the meaning.
+- 'And everyone get ready now.' Senya displays an emphatic tempo in the room, leaning on "prigotovilis" ("to prepare") before closing the thought with "seychas" ("now").
+- 'Started! Come on, come on!' Senya adopts a natural footing in the room, anchoring the Russian line on "nachali" ("started") and "davay" ("let's") without extra filler.
+- 'Go, go, faster forward!' Barinov adopts a natural attitude with Senya, combining "poshyol" ("went, set off") and "bystreye" ("faster") so the key meaning lands right away.
+- 'Well, what did I tell you?' Mikhail questions evenly in this moment, pairing "govoril" ("said, were saying") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
+- 'What a monster you are!' Barinov chooses a brisk mood in the conversation, putting "chudovishche" ("monster, beast") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.

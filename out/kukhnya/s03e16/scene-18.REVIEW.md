@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, what did you just feed the guests?' Asking whether tell him what did Barinov just feed the guests puts Barinov right on the defensive. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'I lost all my money tonight because of you!' Nagiyev insists that he lost all his money tonight because of Barinov, leaving Barinov no room to argue.
-- 'Wait, what on earth just happened?' Over the kitchen and the money, Barinov presses Max for a straight answer. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'That was probably Max's new signature sauce!' Barinov declares that that was probably Max new signature sauce as the tension in the room peaks. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Let's sort everything out tomorrow instead, Dima.' Here proposing that they sort everything out tomorrow instead Dima sets up the next turn in their exchange.
-- 'Maybe it is the ghost of Grandpa Kirill taking revenge on us again?' Asking whether maybe it is the ghost of Grandpa Kirill taking revenge on them again puts Barinov right on the defensive. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Dima, really, some kind of devilry is going on in the kitchen!' Once really some kind of devilry is going on in the kitchen, Barinov makes sure Max hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I am fed up, I will come tomorrow and punish everyone strictly!' Being fed up he will come tomorrow and punish everyone strictly is Nagiyev's blunt reaction in front of Barinov.
-- 'Get out of here, I do not want to see you anymore!' Once Barinov should get out of here he does not want to see Barinov anymore, Nagiyev makes sure Barinov hears every word. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'And who is going to clean up in the kitchen, the ghost of the cleaning lady?' Wondering who going to clean up in the kitchen the ghost of the cleaning lady is cuts straight through the tension between Barinov and Max. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Alright, we are all leaving, until tomorrow, Chef!' Max declares that Alright they are all leaving until tomorrow as the tension in the room peaks.
-- 'Poker is that kind of game, brother, unpredictable!' Because poker is that kind of game brother unpredictable, Max does not bother softening the blow for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Tell me, what did you just feed the guests?' Nagiyev questions boldly during the talk, combining "skazhite" ("tell") and "gostey" ("guests") so the key meaning lands right away.
+- 'I lost all my money tonight because of you!' Nagiyev strikes a sharp style in front of Max, building the phrase around "dengi" ("money") and "segodnya" ("today") for a crisp, natural delivery.
+- 'Wait, what on earth just happened?' Barinov prompts wryly at this point, anchoring the Russian line on "podozhdite" ("wait") and "voobshche" ("at all") without extra filler.
+- 'That was probably Max's new signature sauce!' Barinov sets a pointed attitude as the scene unfolds, leaning on "navernoye" ("probably") before closing the thought with "novyy" ("new").
+- 'Let's sort everything out tomorrow instead, Dima.' Barinov displays a resolute angle with Max, weaving "davay" ("let's") together with "luchshe" ("better") just the way native speakers do.
+- 'Maybe it is the ghost of Grandpa Kirill taking revenge on us again?' Max challenges boldly in their exchange, pairing "mozhet" ("can") with "byt" ("be") to get the point across in plain spoken Russian.
+- 'Dima, really, some kind of devilry is going on in the kitchen!' Barinov strikes an unhurried course beside Max, joining "deystvitelno" ("really, indeed") to "kukhne" ("kitchen") so every word pulls its weight.
+- 'I am fed up, I will come tomorrow and punish everyone strictly!' Nagiyev shares a playful stance toward Max, combining "nadoyelo" ("has got boring") and "zavtra" ("tomorrow") so the key meaning lands right away.
+- 'Get out of here, I do not want to see you anymore!' Nagiyev strikes a wry bearing in the conversation, linking "ukhodite" ("leave, go away"), "otsyuda" ("from here"), and "videt" ("to see") in one brisk exchange.
+- 'And who is going to clean up in the kitchen, the ghost of the cleaning lady?' Barinov tests wryly in their exchange, building the phrase around "ubirat" ("to clean") and "kukhne" ("kitchen") for a crisp, natural delivery.
+- 'Alright, we are all leaving, until tomorrow, Chef!' Max shares a measured rhythm for Barinov, pairing "ukhodim" ("are leaving") with "zavtra" ("tomorrow") to get the point across in plain spoken Russian.
+- 'Poker is that kind of game, brother, unpredictable!' Max chooses a natural approach without hesitation, linking "poker" ("poker"), "igra" ("game"), and "brat" ("brother") in one brisk exchange.

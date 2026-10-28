@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you want to see me?' Asking whether Barinov wants to see is how Eleonora puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Yes. I wanted to apologize.' Mentioning that he wanted to apologize moves the talk in a new direction.
-- 'And what happened this morning is simply unacceptable.' Barinov tells Eleonora that what happened this morning is simply unacceptable without dressing it up.
-- 'You are the owner of the hotel, I had no right to question your authority.' Because Eleonora is the owner of the hotel he had no right to question Eleonora's authority, Barinov treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Forgive me, I will fire this cook this very day.' Explaining that he will fire this cook this very day lays the cards on the table for Eleonora.
-- 'Well, do not rush!' Because do not rush, Eleonora does not bother softening the blow for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You know, I tasted what he cooked.' With the apology and office in play, Eleonora keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It is quite decent. The boy is good.' Pointing out that it is quite decent gives Barinov a sobering reality check.
-- 'Nobody pays me extra for that.' Barinov explains that nobody pays him extra, keeping his voice calm and direct. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Alright, there will be a small bonus for you.' Realizing that Alright there will be a small bonus for Barinov changes how Eleonora handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Thank you.' Mentioning that Eleonora should thank Eleonora moves the talk in a new direction.
-- 'Tonight is a meeting with partners. Everything must be at the highest level!' Eleonora declares that tonight is a meeting with partners as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Did you want to see me?' Eleonora checks plainly as they speak, weaving "khotel" ("wanted") together with "videt" ("to see") just the way native speakers do.
+- 'Yes. I wanted to apologize.' Barinov conveys a calm style at this moment, using "khotel" (from "khotet", "wanted") alongside "izvinitsya" ("to apologise") to shape the meaning.
+- 'And what happened this morning is simply unacceptable.' Barinov sets a warm style in this beat, using "proizoshlo" (from "proizoyti", "happened") alongside "utrom" ("this morning") to shape the meaning.
+- 'You are the owner of the hotel, I had no right to question your authority.' Barinov maintains a playful style at once, joining "khozyayka" ("landlady") to "otelya" ("of the hotel") so every word pulls its weight.
+- 'Forgive me, I will fire this cook this very day.' Barinov sustains a steady mood with Eleonora, building the phrase around "izvini" ("sorry, excuse me") and "segodnya" ("today") for a crisp, natural delivery.
+- 'Well, do not rush!' Eleonora maintains a direct view during the exchange, linking "toropis" ("rush"), "nu" ("oh, come on"), and "ty" ("you") in one brisk exchange.
+- 'You know, I tasted what he cooked.' Eleonora presents a steady approach with Barinov, pairing "znayesh" ("know") with "poprobovala" ("tasted") to get the point across in plain spoken Russian.
+- 'It is quite decent. The boy is good.' Eleonora strikes a brisk direction in the scene, linking "vpolne" ("quite") directly with "dostoyno" ("worthily, properly"), since Russian drops "is" and "are" in the present.
+- 'Nobody pays me extra for that.' Barinov sets a clear tone beside Eleonora, weaving "doplachivayet" ("pays extra") together with "mne" ("to me") just the way native speakers do.
+- 'Alright, there will be a small bonus for you.' Eleonora holds a natural course across the room, leaning on "khorosho" ("good, fine") before closing the thought with "budet" ("will be").
+- 'Thank you.' Barinov maintains a grounded stance as they talk, letting the single Russian word "spasibo" ("thank you") carry the entire reaction on its own.
+- 'Tonight is a meeting with partners. Everything must be at the highest level!' Eleonora sets a firm tack in this beat, linking "vecherom" ("in the evening"), "vstrecha" ("a meeting"), and "partnyorami" ("partner") in one brisk exchange.

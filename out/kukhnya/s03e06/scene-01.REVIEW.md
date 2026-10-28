@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'When love leaves, emptiness remains.' Noting that when love leaves emptiness remains keeps Max's side of the story simple and clear.
-- 'No one can fill it.' Even though one can fill it, Max keeps a steady face in front of Vika. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Well, or almost no one.' With the plan and breakup in play, Max keeps this short reply brisk and direct.
-- 'At the club you were bolder.' Saying that at the club Max was bolder is how Vika sets the tone with Max.
-- 'And besides, you are simply a pig.' Once besides Max is simply a pig, Vika can finally tell Max what she means. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What is wrong with you today?' Here wondering what wrong with Vika today is shows Max looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Listen, let us go to the bathroom quickly.' Pointing out that they should go to the bathroom quickly gives Vika a sobering reality check.
-- 'Alright, let us go there.' Since Alright let them go there, Vika does not waste words on excuses. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'You started choosing other girls.' Mentioning that Max started choosing other girls moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'She does not have hair like mine.' Noting that she does not have hair like keeps Vika's side of the story simple and clear.
-- 'Leave me alone, why are you pestering me?' Max asks whether leave him alone why are Vika pestering him, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'After all, you yourself did not want to be with me.' Explaining that after all Vika themselves did not want to be with him lays the cards on the table for Vika. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'When love leaves, emptiness remains.' Max maintains a resolute footing on the spot, anchoring the Russian line on "kogda" ("when") and "lyubov" ("love") without extra filler.
+- 'No one can fill it.' Max adopts a brisk style with Vika, combining "mozhet" ("can") and "zapolnit" ("fill") so the key meaning lands right away.
+- 'Well, or almost no one.' Max takes a firm tack beside Vika, joining "pochti" ("almost") to "nu" ("oh, come on") so every word pulls its weight.
+- 'At the club you were bolder.' Vika establishes a playful manner toward Max, anchoring the Russian line on "klube" ("club") and "byl" ("was") without extra filler.
+- 'And besides, you are simply a pig.' Vika establishes a candid angle in this beat, combining the softening word "prosto" ("simply, just") with "yeshchyo" ("more, still") to give the line its natural spoken rhythm.
+- 'What is wrong with you today?' Max wonders promptly as they speak, building the phrase around "segodnya" ("today") and "da" ("yes") for a crisp, natural delivery.
+- 'Listen, let us go to the bathroom quickly.' Max sustains a clear angle at this moment, linking "slushay" ("listen"), "poydyom" ("let's go"), and "skoreye" ("quickly, right away") in one brisk exchange.
+- 'Alright, let us go there.' Vika keeps a measured footing in the conversation, combining the easygoing tag "ladno" ("okay, fine") with "davay" ("let's") to give the line its natural spoken rhythm.
+- 'You started choosing other girls.' Vika keeps a wry tack as the scene unfolds, linking "nachal" ("started"), "vybirat" ("to select"), and "drugikh" ("other") in one brisk exchange.
+- 'She does not have hair like mine.' Vika presents an unhurried stance for Max, using the everyday "u menya" ("by me") alongside "volos" ("hair") to show what belongs to the speaker.
+- 'Leave me alone, why are you pestering me?' Max probes quietly on the spot, pairing "otstan" ("leave alone") with "pristala" ("pestered, stuck to") to get the point across in plain spoken Russian.
+- 'After all, you yourself did not want to be with me.' Max brings a playful angle on the spot, anchoring the Russian line on "zakhotela" ("wanted") and "byt" ("be") without extra filler.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Young man, stop for a minute, please!' With the work and police at stake, the inspector reacts without holding back.
-- 'Good afternoon, Police Lieutenant Sudnik speaking.' Around the conversation and restaurant, the inspector sets a calm, everyday tone with Denis. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Tell me, what do you have in this bag?' When the inspector asks if tell him what do Denis has in this bag, Denis has to answer fast. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'There are only my personal things here, why?' Denis asks whether there are only his personal things here, refusing to let the point slide.
-- 'Open your bag and show me, please.' Telling Denis to open Denis's bag and show him please moves the conversation forward without extra drama.
-- 'Whoa, and what kind of white packets are these?' Wondering if someone and what kind of white packets are these shows the inspector caught off guard. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Comrade Lieutenant, these are ordinary food additives!' Because comrade Lieutenant these are ordinary food additives, Denis does not bother softening the blow for the inspector.
-- 'I work as a cook in a French restaurant.' Explaining that he works as a cook in a French restaurant lays the cards on the table for the inspector.
-- 'I am in a big hurry to get back to the kitchen right now!' Saying that he is in a big hurry to get back to the kitchen right now is how Denis takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'No problem, our car will give you a quick ride right now!' Declaring that problem their car will give Denis a quick ride right now brings the inspector's temper right to the surface.
-- 'I am telling you the honest truth, believe me!' Saying that he is telling the inspector the honest truth believe him is how Denis takes charge of the moment. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'At the police station we will sort everything out!' Saying that at the police station they will sort everything out is how the inspector takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Young man, stop for a minute, please!' The inspector establishes a lively bearing during the exchange, putting "molodoy" ("young") alongside "chelovek" ("a man, a person") in a tight, everyday turn of phrase.
+- 'Good afternoon, Police Lieutenant Sudnik speaking.' The inspector shares an emphatic tack in the scene, pairing "dobryy" ("good") with "den" ("day") to get the point across in plain spoken Russian.
+- 'Tell me, what do you have in this bag?' The inspector challenges warmly without hesitation, building the phrase around "skazhite" ("tell") and "sumke" ("bag") for a crisp, natural delivery.
+- 'There are only my personal things here, why?' Denis questions wryly in the room, linking "tut" ("here") directly with "tolko" ("only"), since Russian drops "is" and "are" in the present.
+- 'Open your bag and show me, please.' The inspector shows a playful tempo as they talk, linking "otkroyte" ("open"), "sumku" ("bag, purse"), and "pokazhite" ("show") in one brisk exchange.
+- 'Whoa, and what kind of white packets are these?' The inspector asks decisively for Denis's benefit, linking "belyye" ("white") directly with "pakety" ("plastic bag"), since Russian drops "is" and "are" in the present.
+- 'Comrade Lieutenant, these are ordinary food additives!' Denis holds a natural mood in the scene, linking "tovarishch" ("comrade"), "leytenant" ("lieutenant"), and "obychnyye" ("ordinary") in one brisk exchange.
+- 'I work as a cook in a French restaurant.' Denis chooses a sharp style at once, anchoring the Russian line on "rabotayu" ("work") and "povarom" ("as a cook") without extra filler.
+- 'I am in a big hurry to get back to the kitchen right now!' Denis shows a frank rhythm as they talk, leaning on "seychas" ("now") before closing the thought with "ochen" ("very much").
+- 'No problem, our car will give you a quick ride right now!' The inspector keeps a pointed view in front of Denis, leaning on "mashina" ("a car") before closing the thought with "seychas" ("now").
+- 'I am telling you the honest truth, believe me!' Denis picks a thoughtful line in this beat, pairing "govoryu" ("am telling") with "chistuyu" ("clean") to get the point across in plain spoken Russian.
+- 'At the police station we will sort everything out!' The inspector shares a sharp line in the room, building the phrase around "otdelenii" ("station") and "politsii" ("the police") for a crisp, natural delivery.

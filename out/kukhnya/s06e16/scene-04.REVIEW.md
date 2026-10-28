@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, do you know such a famous singer?' Asking whether Denis knows such a famous singer is how Senya puts Denis on the spot.
-- 'Yes, of course, she is a superstar here.' Because she is a superstar here, Senya treats the matter as settled. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Fresh green salad for the fourth table.' With the truth and joke in play, Senya keeps this short reply brisk and direct.
-- 'Alright, guys, bye everyone until tomorrow.' With the plan and joke in play, Katya keeps this short reply brisk and direct.
-- 'I have not said anything to Nikita yet.' Having not said anything to Nikita yet is how Katya lays out the situation for Denis. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Therefore it is better for us to keep our distance for now.' Pointing out that therefore it is better for them to keep their distance for now gives Denis a sobering reality check.
-- 'Just call him today and tell him.' Over the plan and the joke, Denis answers Katya without a second thought.
-- 'I do not want to say it over the phone.' Around the plan and joke, Katya sets a calm, everyday tone with Denis.
-- 'Once he arrives soon, then I will tell him.' Noting that once he arrives soon then she will tell him keeps Katya's side of the story simple and clear.
-- 'Good, agreed, I will wait a little.' Even though good agreed he will wait a little, Denis keeps a steady face in front of Katya.
-- 'Can you add olive oil to the salad?' By checking whether Denis adds olive oil to the salad, Senya presses Denis for a straight answer. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Because there are no free waiters in the hall.' Saying that because there are no free waiters in the hall is how Senya sets the tone with Denis.
+- 'Listen, do you know such a famous singer?' Senya probes boldly without hesitation, building the phrase around "slushay" ("listen") and "znayesh" ("know") for a crisp, natural delivery.
+- 'Yes, of course, she is a superstar here.' Senya establishes a measured manner during the exchange, pairing "konechno" ("of course") with "superzvezda" ("superstar") to get the point across in plain spoken Russian.
+- 'Fresh green salad for the fourth table.' Senya conveys a warm note in the conversation, putting "svezhiy" ("fresh") alongside "zelyonyy" ("green") in a tight, everyday turn of phrase.
+- 'Alright, guys, bye everyone until tomorrow.' Katya establishes a pointed stance in this beat, anchoring the Russian line on "rebyata" ("the boys, the lads") and "poka" ("bye") without extra filler.
+- 'I have not said anything to Nikita yet.' Katya conveys a wry rhythm in the room, linking "yeshchyo" ("more, still"), "skazala" ("told"), and "ya" ("I") in one brisk exchange.
+- 'Therefore it is better for us to keep our distance for now.' Katya establishes a steady line as they talk, weaving "poetomu" ("that's why") together with "luchshe" ("better") just the way native speakers do.
+- 'Just call him today and tell him.' Denis strikes a thoughtful rhythm during the exchange, linking "prosto" ("just"), "pozvoni" ("call"), and "segodnya" ("today") in one brisk exchange.
+- 'I do not want to say it over the phone.' Katya presents a measured mood in front of Senya, anchoring the Russian line on "khochu" ("want") and "govorit" ("to talk") without extra filler.
+- 'Once he arrives soon, then I will tell him.' Katya presents an earnest approach during the exchange, building the phrase around "skoro" ("soon") and "priyedet" ("will come, arrive") for a crisp, natural delivery.
+- 'Good, agreed, I will wait a little.' Denis sustains a candid rhythm in the scene, joining "khorosho" ("good, fine") to "dogovorilis" ("agreed, deal") so every word pulls its weight.
+- 'Can you add olive oil to the salad?' Senya questions candidly during the talk, anchoring the Russian line on "mozhno" ("may, can") and "dobavit" ("to add") without extra filler.
+- 'Because there are no free waiters in the hall.' Senya strikes an earnest bearing in the room, putting "zale" ("hall") alongside "svobodnykh" ("free") in a tight, everyday turn of phrase.

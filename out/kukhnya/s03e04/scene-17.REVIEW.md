@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, you should go home.' Mentioning that Nagiyev should go home moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I am already at home.' Explaining that he is already at home lays the cards on the table for Barinov.
-- 'Dima, it's awkward. Half the restaurant has already been by you.' Because it is awkward, Barinov treats the matter as settled.
-- 'While you were sleeping.' Explaining that while Nagiyev was sleeping lays the cards on the table for Nagiyev.
-- 'No big deal. I am a simple guy from the people.' Being a simple guy from the people is how Nagiyev lays out the situation for Barinov.
-- 'I remember my roots.' Adding that he remembers his roots fills in the missing piece for Barinov.
-- 'And where is my breakfast? Here is my breakfast!' Here wondering where his breakfast is shows Nagiyev looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Unattractive guy, go work.' With the table and moment in play, Nagiyev keeps this short reply brisk and direct.
-- 'It is delicious, after all! Try it.' Insisting that it is delicious after all shows Nagiyev is not backing down.
-- 'Lick it!' With the point and shift at stake, Nagiyev reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'No.' Over the table and the truth, Barinov answers Nagiyev without a second thought.
-- 'You will lick it! Lie down, Vitya.' Nagiyev insists that Barinov will lick it, leaving Barinov no room to argue.
+- 'Dima, you should go home.' Barinov sets a lively direction without hesitation, joining "poyekhat" ("to go") to "domoy" ("home") so every word pulls its weight.
+- 'I am already at home.' Nagiyev establishes a clear line across the room, joining "doma" ("at home") to "ya" ("I") so every word pulls its weight.
+- 'Dima, it's awkward. Half the restaurant has already been by you.' Barinov strikes a wry attitude as they talk, linking "neudobno" ("awkward, uncomfortable"), "uzhe" ("already, now"), and "polrestorana" ("half the restaurant") in one brisk exchange.
+- 'While you were sleeping.' Barinov strikes a wry rhythm straight away, pairing "spyashchim" ("sleeping") with "so" ("with") to get the point across in plain spoken Russian.
+- 'No big deal. I am a simple guy from the people.' Nagiyev maintains a warm style with Barinov, linking "strashnogo" ("terrible, serious"), "prostoy" ("simple, ordinary"), and "paren" ("boyfriend") in one brisk exchange.
+- 'I remember my roots.' Nagiyev offers a sharp attitude in their talk, building the phrase around "pomnyu" ("remember") and "korni" ("roots") for a crisp, natural delivery.
+- 'And where is my breakfast? Here is my breakfast!' Nagiyev queries briskly with Barinov now, linking "gde" ("where") directly with "zavtrak" ("breakfast"), since Russian drops "is" and "are" in the present.
+- 'Unattractive guy, go work.' Nagiyev holds a firm attitude as they talk, combining "paren" ("boyfriend") and "nekrasivyy" ("unattractive") so the key meaning lands right away.
+- 'It is delicious, after all! Try it.' Nagiyev projects a frank tack as the scene unfolds, pairing "vkusno" ("it's tasty") with "poprobuy" ("to try, to taste") to get the point across in plain spoken Russian.
+- 'Lick it!' Nagiyev offers a frank stance in front of Barinov, letting the single Russian word "lizni" ("lick") carry the entire reaction on its own.
+- 'No.' Barinov picks an easygoing angle for Nagiyev, leaning on "net" ("no") as a compact, one-word response that needs no extra words.
+- 'You will lick it! Lie down, Vitya.' Nagiyev displays a steady mood straight away, combining "liznyosh" ("will lick") and "lezhi" ("lie down") so the key meaning lands right away.

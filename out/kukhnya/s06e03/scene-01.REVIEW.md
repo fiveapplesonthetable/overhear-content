@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Go ahead, shoot!' Going ahead shoot is Nagiyev's blunt reaction in front of Barinov.
-- 'Do you not see we are filming a movie?' Checking whether Barinov not see they are filming a movie is how Nagiyev puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Cut, why is an unauthorized person in the shot?' When Nagiyev asks if cut why is an unauthorized person in the shot, Barinov has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Vitya, what kind of karma do you have?' Asking whether what kind of karma do Barinov has puts Barinov right on the defensive.
-- 'Five-minute break, and do not wander off!' Because five minute break and do not wander off, Nagiyev does not bother softening the blow for Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'You cannot do that, Vitya!' Insisting that Barinov cannot do shows Nagiyev is not backing down. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'And now all the complaints fall on me.' Around the hotel and restaurant, Barinov sets a calm, everyday tone with Nagiyev.
-- 'Do you not see that they are pouring blood here?' By checking whether Barinov not see that they are pouring blood here, Nagiyev presses Barinov for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I want to walk through to the restaurant.' Noting that he wants to walk through to the restaurant keeps Barinov's side of the story simple and clear.
-- 'Do not step on the blood.' Admitting that do not step on the blood shows Nagiyev being honest for a change.
-- 'Take your hands off, what do you think you are doing?' Wondering if take Nagiyev's hands off what do Nagiyev thinks Nagiyev is doing shows Barinov caught off guard. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Walk faster, Vitya.' By walking faster, Nagiyev keeps his side of the story grounded.
+- 'Go ahead, shoot!' Nagiyev holds a calm footing in front of Barinov, leaning on "davay" ("let's") before closing the thought with "strelyay" ("shoot").
+- 'Do you not see we are filming a movie?' Nagiyev challenges pointedly at this point, using "vidish" (from "videt", "see") alongside "kino" ("cinema, movies") to shape the meaning.
+- 'Cut, why is an unauthorized person in the shot?' Nagiyev challenges warmly on the spot, weaving "pochemu" ("why") together with "postoronniy" ("outsider") just the way native speakers do.
+- 'Vitya, what kind of karma do you have?' Nagiyev quizzes briskly on the spot, leaning on "karma" ("karma") before closing the thought with "vitya" ("Vitya").
+- 'Five-minute break, and do not wander off!' Nagiyev maintains a grounded tone in the room, pairing "pereryv" ("break, recess") with "minut" ("minutes") to get the point across in plain spoken Russian.
+- 'You cannot do that, Vitya!' Nagiyev chooses a clear angle in the conversation, building the phrase around "nelzya" ("not allowed") and "tak" ("so") for a crisp, natural delivery.
+- 'And now all the complaints fall on me.' Barinov chooses a grounded tempo in the scene, anchoring the Russian line on "zhaloby" ("complaints") and "teper" ("now") without extra filler.
+- 'Do you not see that they are pouring blood here?' Nagiyev probes earnestly with Barinov now, anchoring the Russian line on "vidish" ("see") and "krov" ("blood") without extra filler.
+- 'I want to walk through to the restaurant.' Barinov maintains a sharp direction in the conversation, combining "khochu" ("want") and "proyti" ("take place") so the key meaning lands right away.
+- 'Do not step on the blood.' Nagiyev establishes a sharp course across the room, pairing "krov" ("blood") with "nastupay" ("step on") to get the point across in plain spoken Russian.
+- 'Take your hands off, what do you think you are doing?' Barinov inquires sharply beside Nagiyev, joining "uberite" ("take away, remove") to "ruki" ("hands") so every word pulls its weight.
+- 'Walk faster, Vitya.' Nagiyev projects a natural tack beside Barinov, using "idi" (from "idti", "go") alongside "bystreye" ("faster") to shape the meaning.

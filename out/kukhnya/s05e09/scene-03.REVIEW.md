@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'More carefully!' Over the plan and the suit, Lyova lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Lyova, do not be angry.' Realizing that do not be angry changes how Ainura handles the situation.
-- 'She is my niece.' Mentioning that she is her niece moves the talk in a new direction.
-- 'She is working her first day today.' Being working her first day today is how Ainura lays out the situation for Elena.
-- 'She does not know how to behave yet.' Because she does not know how to behave yet, Ainura treats the matter as settled.
-- 'It is nothing.' Noting that it is nothing keeps Lyova's side of the story simple and clear.
-- 'Are you getting ready?' By checking whether Ainura getting ready, Elena presses Ainura for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Listen, what a handsome suit!' Over the suit and the kitchen, Elena lets her real feelings show.
-- 'Why do you not wear it?' Wondering why Ainura not wear it is how Elena puts Ainura on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well, I do not know.' With the point and suit in play, Lyova keeps this short reply brisk and direct.
-- 'Well why are you walking around?' By asking why Ainura walking around is, Elena presses Ainura for a straight answer.
-- 'Sit down right here and do not strain yourself.' Mentioning that Ainura should sit down right here and do not strain themselves moves the talk in a new direction.
+- 'More carefully!' Lyova shows a thoughtful position in front of Ainura, using "ostorozhneye" ("more carefully") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Lyova, do not be angry.' Ainura chooses a lively line at this moment, leaning on "zlis" ("be angry") before closing the thought with "lyova" ("Lyova").
+- 'She is my niece.' Ainura conveys a steady style with Elena, building the phrase around "plemyannitsa" ("niece") and "ona" ("it") for a crisp, natural delivery.
+- 'She is working her first day today.' Ainura chooses a steady tempo with Lyova, leaning on "segodnya" ("today") before closing the thought with "pervyy" ("first").
+- 'She does not know how to behave yet.' Ainura presents a frank note in the conversation, putting "znayet" ("knows") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
+- 'It is nothing.' Lyova favors a warm note across the room, letting the single Russian word "nichego" ("nothing") carry the entire reaction on its own.
+- 'Are you getting ready?' Elena quizzes directly as the beat lands, centering the phrase on "sobirayeshsya" ("plan"), where the "-sya" ending makes the action self-contained.
+- 'Listen, what a handsome suit!' Elena chooses a wry direction as the scene unfolds, putting "slushay" ("listen") alongside "krasivyy" ("beautiful") in a tight, everyday turn of phrase.
+- 'Why do you not wear it?' Elena wonders pointedly on the spot, building the phrase around "nosish" ("wear, carry") and "chego" ("what") for a crisp, natural delivery.
+- 'Well, I do not know.' Lyova chooses a firm style for Elena, combining "znayu" ("know") and "nu" ("oh, come on") so the key meaning lands right away.
+- 'Well why are you walking around?' Elena wonders decisively to keep things clear, putting "khodish" ("can walk, are walking") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
+- 'Sit down right here and do not strain yourself.' Elena sets a sharp attitude with Lyova, putting "syad" ("sit down") alongside "napryagaysya" ("strain yourself") in a tight, everyday turn of phrase.

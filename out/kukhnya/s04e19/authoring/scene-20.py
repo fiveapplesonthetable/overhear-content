@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e19.ru.srt'
 INTRO = "In the final scene, Vika once again asks Denis to move the couch in her office, and when her words match his dream verbatim, terrified Denis jumps out the window and breaks his arm. Meanwhile, Kostya makes peace with Nastya, and Viktor Petrovich secretly quits the show after arranging for a top restaurant to hire Elena. Let's listen to the conclusion in Russian."
 OPENER = "Now let's examine the episode's three sacrifices and closing reflections line by line."
 TRANSITION = "Let's hear the final scene of the episode again from start to finish."
-OUTRO = "Ainura's prediction about Denis breaking his arm comes true, while Viktor Petrovich quietly sacrifices his own pride so Elena can have the job she deserves. Listen for the nouns meaning couch, child, and happiness. See you next time!"
+OUTRO = "Ainura's prediction about Denis breaking his arm comes true, while Viktor Petrovich quietly sacrifices his own pride so Elena can have the job she deserves. Listen for the words meaning couch, child, and happiness. See you next time!"
 CLOSING = ('denis', 'Увидимся!')
 STORY = [
     ('vika', 'Привет, Денис, ты сегодня в порядке?', 'Hi, Denis, are you all right today?', [(293, 'Привет, Денис'), (294, 'Ты в порядке')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('denis', 'Любую боль можно ради любви потерпеть.', 'Any pain can be endured for the sake of love.', [(322, 'боль'), (323, 'ее можно стерпеть')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'Hi, Denis, are you all right today?\' Here asking whether Denis all right today shows Vika looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (1, None, '\'Could you possibly help me?\' By checking whether Denis possibly help, Vika presses Denis for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (2, None, "'We need to move the couch a little in the office.' By needing to move the couch a little in the office, Vika keeps her side of the story grounded."),
-    (3, None, '\'Well, tell me, how are your nightmares?\' Wondering if tell her how are Denis\'s nightmares shows Vika caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (4, None, '\'Nastya, what you are doing is madness!\' Insisting that what Denis is doing is madness shows Kostya is not backing down. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (5, None, "'Kostya, what, have you lost your mind?' Asking whether what have Denis lost Denis's mind puts Denis right on the defensive."),
-    (6, None, "'Oh my, I told you that you would break your arm!' Declaring that her she told Denis that Denis would break Denis's arm brings Vika's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat."),
-    (7, None, '\'For the sake of happiness we must make sacrifices every day.\' Explaining that for the sake of happiness they must make sacrifices every day lays the cards on the table for Kostya. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
-    (8, None, "'We have an unexpected situation here on the show.' Saying that they have an unexpected situation here on the show is how Kostya sets the tone with Denis."),
-    (9, None, "'Viktor Barinov left the contest himself.' Claiming that Viktor Barinov left the contest himself sounds confident, even if Denis has doubts."),
-    (10, None, '\'He said that you are available right now.\' Pointing out that he said that Denis is available right now gives Denis a sobering reality check. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.'),
-    (11, None, "'Any pain can be endured for the sake of love.' Denis explains that any pain can be endured for the sake of love, keeping his voice calm and direct."),
+    (0, None, '\'Hi, Denis, are you all right today?\' Vika challenges briskly on the spot, linking "segodnya" ("today") directly with "poryadke" ("order"), since Russian drops "is" and "are" in the present.'),
+    (1, None, '\'Could you possibly help me?\' Vika prompts lightly to make the point, combining "mog" ("can, to be able") and "pomoch" ("to help") so the key meaning lands right away.'),
+    (2, None, '\'We need to move the couch a little in the office.\' Vika offers a wry stance without hesitation, linking "kabinete" ("office"), "nado" ("it is necessary"), and "divan" ("sofa, couch") in one brisk exchange.'),
+    (3, None, '\'Well, tell me, how are your nightmares?\' Vika questions earnestly from the start, pairing "skazhi" ("say") with "kak" ("how") to get the point across in plain spoken Russian.'),
+    (4, None, '\'Nastya, what you are doing is madness!\' Kostya presents an emphatic mood as they talk, putting "delayesh" ("are you doing") alongside "bezumiye" ("madness, insanity") in a tight, everyday turn of phrase.'),
+    (5, None, '\'Kostya, what, have you lost your mind?\' Vika quizzes briskly to keep things clear, weaving "uma" ("mind") together with "soshyol" ("gone") just the way native speakers do.'),
+    (6, None, '\'Oh my, I told you that you would break your arm!\' Vika offers a clear direction on the spot, joining "govorila" ("said") to "ruku" ("hand") so every word pulls its weight.'),
+    (7, None, '\'For the sake of happiness we must make sacrifices every day.\' Denis maintains an emphatic attitude right away, leaning on "schastya" ("happiness") before closing the thought with "nuzhno" ("necessary").'),
+    (8, None, '\'We have an unexpected situation here on the show.\' Kostya holds an easygoing mood in front of Denis, building the phrase around "tut" ("here") and "neozhidannaya" ("unexpected") for a crisp, natural delivery.'),
+    (9, None, '\'Viktor Barinov left the contest himself.\' Kostya picks a calm position without hesitation, putting "ushyol" ("left, departed") alongside "konkursa" ("contest") in a tight, everyday turn of phrase.'),
+    (10, None, '\'He said that you are available right now.\' Vika maintains an emphatic rhythm in the conversation, anchoring the Russian line on "skazal" ("said") and "seychas" ("now") without extra filler.'),
+    (11, None, '\'Any pain can be endured for the sake of love.\' Denis maintains a clear stance for Vika, putting "lyubuyu" ("any") alongside "bol" ("pain, ache") in a tight, everyday turn of phrase.'),
 ]

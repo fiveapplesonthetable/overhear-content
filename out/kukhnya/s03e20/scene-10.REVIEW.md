@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are not going anywhere right now, lie down quickly!' Saying that Barinov is not going anywhere right now lie down quickly is how Vika takes charge of the moment.
-- 'Tell me, what should I bring you? Should I make hot tea?' Questioning whether tell her what should she brings Barinov is how Vika tests Barinov's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No, better just bring me some cold water.' Over the menu and the work, Max answers Barinov without a second thought.
-- 'Alright, lie quietly, I will bring water right now.' Vika explains that Alright lie quietly she will bring water right now, keeping her voice calm and direct.
-- 'Viktor Petrovich, what do you order me to do now?' By asking what Barinov orders him to do now, Max presses Barinov for a straight answer. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'My guests in the dining room are demanding the Chef's quail.' Noting that his guests in the dining room are demanding the Chef quail keeps Max's side of the story simple and clear. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Ring up the order, I will show you how it is done!' Once ring up the order he will show Max how it is done, Barinov makes sure Max hears every word.
-- 'I cannot ring it up, Sergey Vladimirovich strictly forbade it.' Admitting that he cannot ring it up Sergey Vladimirovich strictly forbade it shows Max being honest for a change.
-- 'He said not to offer this dish to guests anymore.' Saying that he said not to offer this dish to guests anymore is how Max sets the tone with Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'You decided to repeat your attempt at a talk, but with an empty bottle?' Asking whether Barinov decided to repeat Barinov's attempt at a talk but with an empty bottle puts Barinov right on the defensive.
-- 'Sergey, I have only one question for you.' Adding that Sergey he has only one question for Max fills in the missing piece for Max. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Tell me, please, where is your restroom in here?' Questioning whether tell him please where is Max's restroom in here is how Barinov tests Max's story. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'You are not going anywhere right now, lie down quickly!' Vika establishes a wry direction in front of Barinov, leaning on "nikuda" ("nowhere, anywhere") before closing the thought with "seychas" ("now").
+- 'Tell me, what should I bring you? Should I make hot tea?' Vika wonders pointedly right away, combining "skazhi" ("say") and "prinesti" ("to bring, offer") so the key meaning lands right away.
+- 'No, better just bring me some cold water.' Max brings a clear view at once, building the phrase around "prinesi" ("bring") and "luchshe" ("better") for a crisp, natural delivery.
+- 'Alright, lie quietly, I will bring water right now.' Vika picks an emphatic tack in front of Max, putting "khorosho" ("good, fine") alongside "lezhi" ("lie down") in a tight, everyday turn of phrase.
+- 'Viktor Petrovich, what do you order me to do now?' Max questions calmly in the room, weaving "prikazhete" ("you will order") together with "delat" ("do") just the way native speakers do.
+- 'My guests in the dining room are demanding the Chef's quail.' Max maintains an emphatic tempo at this moment, building the phrase around "gosti" ("visitors, guests") and "zale" ("hall") for a crisp, natural delivery.
+- 'Ring up the order, I will show you how it is done!' Barinov establishes a clear stance during the exchange, joining "probivay" ("ring up") to "zakaz" ("order") so every word pulls its weight.
+- 'I cannot ring it up, Sergey Vladimirovich strictly forbade it.' Max sets a brisk view in this beat, pairing "mogu" ("can") with "probivat" ("to ring up") to get the point across in plain spoken Russian.
+- 'He said not to offer this dish to guests anymore.' Max takes a pointed attitude toward Barinov, using "skazal" (from "skazat", "said") alongside "bolshe" ("more") to shape the meaning.
+- 'You decided to repeat your attempt at a talk, but with an empty bottle?' Max checks steadily as the beat lands, anchoring the Russian line on "reshili" ("decided") and "povtorit" ("to repeat, another round") without extra filler.
+- 'Sergey, I have only one question for you.' Barinov displays a brisk direction right away, leaning on "yest" ("there is") before closing the thought with "tolko" ("only").
+- 'Tell me, please, where is your restroom in here?' Barinov presses candidly beside Vika, weaving "skazhi" ("say") together with "gde" ("where") just the way native speakers do.

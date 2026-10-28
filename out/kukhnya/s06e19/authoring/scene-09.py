@@ -7,7 +7,7 @@ SCENE = 9
 TITLE = 'Откровение в машине  (Confession in the Car)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'katya': 'Катя', 'nastya': 'Настя', 'sveta': 'Света'}
+LABELS = {'denis': 'Денис', 'katya': 'Катя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S6.19'
 SOURCE_FILE = 'sources/kukhnya/s06/e19.ru.srt'
 INTRO = "Sitting in Sveta's car, Katya asks Nastya if it is normal to have doubts the night before her wedding. She admits that although Nikita is a good man, she kissed Denis on the roof the very day Nikita proposed."
@@ -16,7 +16,7 @@ TRANSITION = "Alright, let's hear the entire conversation one more time from sta
 OUTRO = 'Neither Katya nor Nastya notices the dashcam on the windshield, while back at the apartment Kostya and Denis wake up to a shocking sight. Until next time!'
 CLOSING = ('katya', 'Всего хорошего!')
 STORY = [
-    ('sveta', 'Вы пока тихо посидите здесь.', 'You sit quietly in here for now.', [(134, 'вы пока сидите')], 'adapted'),
+    ('denis', 'Вы пока тихо посидите здесь.', 'You sit quietly in here for now.', [(134, 'вы пока сидите')], 'adapted'),
     ('katya', 'Настя, скажи, что мне делать?', 'Nastya, tell me, what should I do?', [(136, 'Настя, что мне делать')], 'adapted'),
     ('nastya', 'А что, мы уже приехали?', 'Wait, have we arrived already?', [(137, 'уже приехать')], 'adapted'),
     ('katya', 'Денис предложил с ним уехать.', 'Denis offered for me to go away with him.', [(138, 'Мне Денис предложил с ним уехать')], 'adapted'),
@@ -27,19 +27,19 @@ STORY = [
     ('katya', 'Да, он правда очень хороший.', 'Yes, he is truly very good.', [(145, 'Да, хороший')], 'adapted'),
     ('katya', 'Но я изменила ему с Денисом.', 'But I cheated on him with Denis.', [(146, 'и изменила ему с Денисом')], 'adapted'),
     ('katya', 'В тот день он сделал предложение.', 'On that day he proposed to me.', [(146, 'в тот день, когда он мне предложение сделал')], 'adapted'),
-    ('sveta', 'Всё в порядке, теперь поехали.', 'Everything is fine, let us go now.', [(150, 'Все, поехали')], 'adapted'),
+    ('denis', 'Всё в порядке, теперь поехали.', 'Everything is fine, let us go now.', [(150, 'Все, поехали')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'You sit quietly in here for now.\' Pointing out that Katya sits quietly in here for now gives Katya a sobering reality check. Notice how she sticks to the formal "you", keeping a professional line between them.'),
-    (1, None, "'Nastya, tell me, what should I do?' Wondering if tell her what should she does shows Katya caught off guard."),
-    (2, None, '\'Wait, have we arrived already?\' By checking whether they arrived already, Nastya presses Katya for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (3, None, "'Denis offered for me to go away with him.' With the wedding and shift in play, Katya keeps this short reply brisk and direct."),
-    (4, None, "'Where to, your wedding is tomorrow!' Once where to Katya's wedding is tomorrow, Nastya makes sure Katya hears every word."),
-    (5, None, "'Thank you very much for reminding me.' Around the wedding and conversation, Katya sets a calm, everyday tone with Nastya."),
-    (6, None, '\'Is it normal that I am having doubts?\' By asking whether it normal that she is having doubts, Katya presses Nastya for a straight answer. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (7, None, "'Nikita is a very good person, after all.' Once Nikita is a very good person after all, Nastya can finally tell Katya what she means."),
-    (8, None, "'Yes, he is truly very good.' Adding that he is truly very good fills in the missing piece for Nastya."),
-    (9, None, "'But I cheated on him with Denis.' Over the car and the wedding, Katya answers Nastya without a second thought."),
-    (10, None, "'On that day he proposed to me.' Around the car and wedding, Katya sets a calm, everyday tone with Nastya."),
-    (11, None, "'Everything is fine, let us go now.' Mentioning that everything is fine let them go now moves the talk in a new direction."),
+    (0, None, '\'You sit quietly in here for now.\' Denis presents a firm view in front of Katya, linking "poka" ("bye"), "tikho" ("easy, quiet"), and "posidite" ("to sit for a while") in one brisk exchange.'),
+    (1, None, '\'Nastya, tell me, what should I do?\' Katya asks quietly to Nastya here, joining "skazhi" ("say") to "delat" ("do") so every word pulls its weight.'),
+    (2, None, '\'Wait, have we arrived already?\' Nastya quizzes lightly in this moment, joining "uzhe" ("already, now") to "priyekhali" ("we\'ve arrived") so every word pulls its weight.'),
+    (3, None, '\'Denis offered for me to go away with him.\' Katya takes a sharp manner on the spot, putting "predlozhil" ("suggested") alongside "uyekhat" ("to leave, go away") in a tight, everyday turn of phrase.'),
+    (4, None, '\'Where to, your wedding is tomorrow!\' Nastya sets a warm manner during the exchange, joining "kuda" ("where to") to "zavtra" ("tomorrow") so every word pulls its weight.'),
+    (5, None, '\'Thank you very much for reminding me.\' Katya keeps a playful line straight away, combining "spasibo" ("thank you") and "bolshoye" ("big, very much") so the key meaning lands right away.'),
+    (6, None, '\'Is it normal that I am having doubts?\' Katya checks boldly as the beat lands, linking "normalno" ("fine, OK"), "somnevayus" ("doubt"), and "eto" ("this") in one brisk exchange.'),
+    (7, None, '\'Nikita is a very good person, after all.\' Nastya sustains a natural footing with Katya, pairing "ochen" ("very much") with "khoroshiy" ("good") to get the point across in plain spoken Russian.'),
+    (8, None, '\'Yes, he is truly very good.\' Katya holds an unhurried tempo beside Denis, anchoring the Russian line on "pravda" ("honestly") and "ochen" ("very much") without extra filler.'),
+    (9, None, '\'But I cheated on him with Denis.\' Katya picks an honest attitude in their talk, combining "izmenila" ("would change") and "denisom" ("time") so the key meaning lands right away.'),
+    (10, None, '\'On that day he proposed to me.\' Katya keeps a direct tone right away, joining "den" ("day") to "sdelal" ("did") so every word pulls its weight.'),
+    (11, None, '\'Everything is fine, let us go now.\' Denis picks a frank position toward Nastya, anchoring the Russian line on "poryadke" ("order") and "teper" ("now") without extra filler.'),
 ]

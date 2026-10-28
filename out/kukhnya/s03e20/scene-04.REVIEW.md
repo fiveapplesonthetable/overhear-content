@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is even strange that this man speaks at all.' The doctor mentions that it is even strange that this man speaks at all so Barinov sees what is at stake.
-- 'He has such a large hematoma on the scan!' Insisting that he has such a large hematoma on the scan shows the doctor is not backing down. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'The guy is lucky that he got off with only amnesia.' Pointing out that the guy is lucky that he got off with only amnesia gives Barinov a sobering reality check.
-- 'At our wedding we will have a best man who does not know us!' Saying that at their wedding they will have a best man who does not know them is how Max takes charge of the moment.
-- 'Doctor, whose scan did you just give to Vika?' When Max asks if doctor whose scan did Barinov just give to Vika, Barinov has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Oh, we have had a motorcyclist lying in there for a month.' Noting that they have had a motorcyclist lying in there for a month keeps the doctor's side of the story simple and clear. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'I would like to review all the documents on food purchases.' Even though he would like to review all the documents on food purchases, Max keeps a steady face in front of Barinov.
-- 'Those are simple white slips of paper with numbers.' Admitting that those are simple white slips of paper with numbers shows Max being honest for a change. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Just do not talk to me as if I were a child!' Declaring that just do not talk to him as if he were a child brings Barinov's temper right to the surface. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'From this minute on, you smoke only if you have these coupons.' Once from this minute on Barinov smoke only if Barinov has these coupons, Max can finally tell Barinov what he means.
-- 'One smoke break is one coupon, that is your allowance.' Adding that one smoke break is one coupon that is Barinov's allowance fills in the missing piece for Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Fedya, I have already used my two coupons today!' Insisting that he has already used his two coupons today shows Barinov is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'It is even strange that this man speaks at all.' The doctor shares a pointed tone in this beat, pairing "stranno" ("strange") with "chelovek" ("a man, a person") to get the point across in plain spoken Russian.
+- 'He has such a large hematoma on the scan!' The doctor strikes a calm angle toward Max, linking "snimke" ("picture, photograph"), "bolshaya" ("large"), and "gematoma" ("hematoma") in one brisk exchange.
+- 'The guy is lucky that he got off with only amnesia.' The doctor shows a resolute tone for Barinov, building the phrase around "povezlo" ("it was lucky") and "parnyu" ("boyfriend, guy") for a crisp, natural delivery.
+- 'At our wedding we will have a best man who does not know us!' Max favors a firm bearing in this beat, leaning on "u nas" ("by us, at our place") and "svadbe" ("wedding") the way natural Russian does.
+- 'Doctor, whose scan did you just give to Vika?' Max prompts bluntly in the room, linking "doktor" ("Doctor"), "snimok" ("snapshot, photo"), and "seychas" ("now") in one brisk exchange.
+- 'Oh, we have had a motorcyclist lying in there for a month.' The doctor brings an emphatic position for Max, linking "tam" ("there"), "mototsiklist" ("motorcyclist"), and "uzhe" ("already, now") in one brisk exchange.
+- 'I would like to review all the documents on food purchases.' Max offers an emphatic tone during the exchange, using "khotel" (from "khotet", "wanted") alongside "prosmotret" ("to look through") to shape the meaning.
+- 'Those are simple white slips of paper with numbers.' Max projects a thoughtful manner right away, combining "prostyye" ("simple, ordinary") and "belyye" ("white") so the key meaning lands right away.
+- 'Just do not talk to me as if I were a child!' Barinov adopts a natural tack at this moment, building the phrase around "tolko" ("only") and "nado" ("it is necessary") for a crisp, natural delivery.
+- 'From this minute on, you smoke only if you have these coupons.' Max displays an earnest bearing beside the doctor, anchoring the Russian line on "minuty" ("minutes") and "kurite" ("to smoke") without extra filler.
+- 'One smoke break is one coupon, that is your allowance.' Max sets a frank rhythm on the spot, joining "perekur" ("smoke break") to "talon" ("coupon") so every word pulls its weight.
+- 'Fedya, I have already used my two coupons today!' Barinov projects an unhurried style at once, linking "uzhe" ("already, now"), "talona" ("coupons"), and "segodnya" ("today") in one brisk exchange.

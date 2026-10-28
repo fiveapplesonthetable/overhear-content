@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My youngest daughter would eat more than that.' Barinov tells Mikhail that his youngest daughter would eat more than without dressing it up.
-- 'Well then, am I introducing the promotion?' Around the point and bet, Barinov wants to know where Mikhail really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Introduce it, introduce it.' With the shift and bet in play, Mikhail keeps this short reply brisk and direct.
-- 'But if I bring a person who eats your entrecote.' Saying that if he brings a person who eats Barinov's entrecote is how Mikhail sets the tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'The promotion ends, got it?' When Mikhail asks if the promotion ends got it, Barinov has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Mishanya, you are a masochist.' Explaining that someone Mikhail is a masochist lays the cards on the table for Mikhail.
-- 'You love losing, huh?' Asking whether Mikhail loves losing huh puts Mikhail right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, has your hysterical wife calmed down?' Checking whether Barinov's hysterical wife calmed down is how Senya puts Barinov on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Who is hysterical?' Here wondering who hysterical is shows Barinov looking for the real truth.
-- 'I am talking about my wife.' Saying that he is talking about his wife is how Senya sets the tone with Barinov.
-- 'Look, she is standing right behind you.' Realizing that she is standing right behind Mikhail changes how Barinov handles the situation. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Oh, anything but that!' Over the bet and the guest, Senya lets his real feelings show.
+- 'My youngest daughter would eat more than that.' Barinov holds a playful style in their talk, weaving "mladshaya" ("youngest, younger") together with "doch" ("daughter") just the way native speakers do.
+- 'Well then, am I introducing the promotion?' Barinov queries naturally on the spot, combining "vvozhu" ("am introducing") and "aktsiyu" ("action, protest") so the key meaning lands right away.
+- 'Introduce it, introduce it.' Mikhail chooses a lively course across the room, putting all the weight on "vvodi" ("introduce") so the reply lands immediately.
+- 'But if I bring a person who eats your entrecote.' Mikhail shows an emphatic bearing in this beat, using "privedu" (from "privesti", "will bring") alongside "cheloveka" ("a man, a person") to shape the meaning.
+- 'The promotion ends, got it?' Mikhail wonders frankly in front of Barinov, weaving "aktsiya" ("rally, campaign") together with "prekrashchayetsya" ("ends, stops") just the way native speakers do.
+- 'Mishanya, you are a masochist.' Barinov shows a sharp footing in this beat, placing "mishanya" ("Mishanya") straight beside "mazokhist" ("masochist") with no word for "to be" needed.
+- 'You love losing, huh?' Barinov prompts calmly with Mikhail now, building the phrase around "lyubish" ("love") and "proigryvat" ("to lose") for a crisp, natural delivery.
+- 'Well, has your hysterical wife calmed down?' Senya probes warmly beside Mikhail, combining "isterichka" ("hysterical woman") and "uspokoilas" ("calmed down") so the key meaning lands right away.
+- 'Who is hysterical?' Barinov asks naturally toward Mikhail here, leaning on "isterichka" ("hysterical woman") before closing the thought with "kto" ("who").
+- 'I am talking about my wife.' Senya brings a thoughtful manner right away, anchoring the Russian line on "zhenu" ("wife") and "govoryu" ("am telling") without extra filler.
+- 'Look, she is standing right behind you.' Barinov offers an easygoing tempo on the spot, leaning on "smotri" ("look") before closing the thought with "spinoy" ("back").
+- 'Oh, anything but that!' Senya shows an easygoing line right away, weaving "tolko" ("only") together with "oy" ("oh") just the way native speakers do.

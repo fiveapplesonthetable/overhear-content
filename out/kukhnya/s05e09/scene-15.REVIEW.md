@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today at seven I am waiting for you.' Barinov explains that today at seven he is waiting for Ainura, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You, me, and my suit.' Between the conversation and the date, Barinov gives Ainura a quick, grounded response.
-- 'Did you remember everything?' By checking whether Ainura remembers everything, Lyova presses Ainura for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'As soon as the girl sits down, you can begin.' Even though as soon as the girl sits down Ainura can begin, Lyova keeps a steady face in front of Ainura. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Ainura, what are you doing here?' With the room and secret hanging in the air, Lyova puts Ainura on the spot.
-- 'How strange! You invited me yourself.' Between the room and the table, Ainura delivers a sharp reaction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'A table from a secret admirer.' Around the work and date, Ainura sets a calm, everyday tone with Barinov.
-- 'Alright. Listen, well this is a business meeting.' Lyova mentions that Ainura should listen well this is a business meeting so Ainura sees what is at stake.
-- 'It is just that you have been working with us for a long time.' Saying that it is just that Ainura has been working with them for a long time is how Lyova sets the tone with Ainura. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'And the chef asked me to take you out to the restaurant.' Since the asked him to take Ainura out to the restaurant, Lyova does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And the musicians come up to everyone here.' Between the work and the date, Lyova gives Ainura a quick, grounded response.
-- 'Oh, and I decided to order this for my mom.' Lyova reminds Ainura that he decided to order this before the moment passes. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Today at seven I am waiting for you.' Barinov holds a candid footing in the room, combining "segodnya" ("today") and "zhdu" ("I wait, expect") so the key meaning lands right away.
+- 'You, me, and my suit.' Barinov establishes a clear mood in this beat, pairing "kostyum" ("suit") with "ty" ("you") to get the point across in plain spoken Russian.
+- 'Did you remember everything?' Lyova probes warmly from the start, leaning on "zapomnili" ("to remember") before closing the thought with "vy" ("you").
+- 'As soon as the girl sits down, you can begin.' Lyova establishes a playful rhythm during the exchange, putting "kak" ("how") alongside "tolko" ("only") in a tight, everyday turn of phrase.
+- 'Ainura, what are you doing here?' Lyova challenges directly as the beat lands, joining "zdes" ("here") to "delayesh" ("are you doing") so every word pulls its weight.
+- 'How strange! You invited me yourself.' Ainura brings a thoughtful attitude with Lyova, weaving "strannyy" ("strange, odd") together with "priglasil" ("invited") just the way native speakers do.
+- 'A table from a secret admirer.' Ainura brings a thoughtful tone as the scene unfolds, anchoring the Russian line on "stolik" ("table") and "taynogo" ("secret, hidden") without extra filler.
+- 'Alright. Listen, well this is a business meeting.' Lyova displays a grounded tack at once, putting "khorosho" ("good, fine") alongside "slushay" ("listen") in a tight, everyday turn of phrase.
+- 'It is just that you have been working with us for a long time.' Lyova displays a candid attitude straight away, pairing "prosto" ("just") with "davno" ("for a long time") to get the point across in plain spoken Russian.
+- 'And the chef asked me to take you out to the restaurant.' Lyova maintains a natural bearing for Barinov, putting "poprosil" ("asked") alongside "svodit" ("to take out") in a tight, everyday turn of phrase.
+- 'And the musicians come up to everyone here.' Lyova brings an emphatic style in this beat, combining "muzykanty" ("musician") and "tut" ("here") so the key meaning lands right away.
+- 'Oh, and I decided to order this for my mom.' Lyova picks a lively tone on the spot, combining "mame" ("mother, mum") and "reshil" ("has decided") so the key meaning lands right away.

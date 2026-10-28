@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You would have done better to go calmly into nature.' Since the guest would have done better to go calmly into nature, Nagiyev does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'To go to a quiet forest or a nice park.' Around the work and restaurant, Nagiyev sets a calm, everyday tone with the guest.
-- 'Why come to my restaurant for that?' Around the restaurant and plan, Nagiyev wants to know where the guest really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Forgive me, Dima, I wanted to leave in style.' Because he wanted to leave in style, the guest treats the matter as settled.
-- 'Wait a minute and listen to me carefully.' Between the work and the restaurant, Nagiyev gives the guest a quick, grounded response.
-- 'If we look at it honestly, I am bankrupt too.' Nagiyev mentions that if they look at it honestly he is bankrupt so the guest sees what is at stake.
-- 'Well what now, should we shoot ourselves every day?' Asking whether what now should they shoot themselves every day puts the guest right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'So do not be offended with me, my friend.' Pointing out that do not be offended with him gives the guest a sobering reality check.
-- 'I really do not need a dead body in my restaurant right now.' Nagiyev explains that he really does not need a dead body in his restaurant right now, keeping his voice calm and direct.
-- 'Calmly hand over your little pistol here.' Between the restaurant and the kitchen, Nagiyev gives the guest a quick, grounded response. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'At times we no longer have the strength to fight them.' Noting that at times they no longer have the strength to fight them keeps Max's side of the story simple and clear.
-- 'Having solved some problems, we immediately meet new ones.' Around the restaurant and moment, Max sets a calm, everyday tone with the guest.
+- 'You would have done better to go calmly into nature.' Nagiyev picks a measured mood with the guest, linking "luchshe" ("better"), "spokoyno" ("calmly"), and "prirodu" ("nature") in one brisk exchange.
+- 'To go to a quiet forest or a nice park.' Nagiyev shares a serious note in front of Max, leaning on "tikhiy" ("quiet") before closing the thought with "les" ("forest").
+- 'Why come to my restaurant for that?' Nagiyev prompts calmly without holding back, combining "zachem" ("what for") and "restoran" ("restaurant") so the key meaning lands right away.
+- 'Forgive me, Dima, I wanted to leave in style.' The guest sustains a brisk stance during the exchange, weaving "prosti" ("sorry, forgive me") together with "khotel" ("wanted") just the way native speakers do.
+- 'Wait a minute and listen to me carefully.' Nagiyev takes a wry angle at this moment, joining "podozhdi" ("wait") to "minutu" ("a minute") so every word pulls its weight.
+- 'If we look at it honestly, I am bankrupt too.' Nagiyev offers a playful tack beside Max, leaning on "chestno" ("honestly") before closing the thought with "razobratsya" ("to deal with").
+- 'Well what now, should we shoot ourselves every day?' Nagiyev queries plainly with the guest now, leaning on "teper" ("now") before closing the thought with "strelyatsya" ("to shoot oneself").
+- 'So do not be offended with me, my friend.' Nagiyev maintains an earnest tack as the scene unfolds, building the phrase around "obizhaysya" ("take offence") and "drug" ("friend") for a crisp, natural delivery.
+- 'I really do not need a dead body in my restaurant right now.' Nagiyev maintains a grounded tone straight away, building the phrase around "trup" ("corpse, dead body") and "seychas" ("now") for a crisp, natural delivery.
+- 'Calmly hand over your little pistol here.' Nagiyev strikes a wry mood during the exchange, using "davay" (from "davat", "let's") alongside "syuda" ("here") to shape the meaning.
+- 'At times we no longer have the strength to fight them.' Max picks a measured footing right away, putting "poroy" ("at times, occasionally") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
+- 'Having solved some problems, we immediately meet new ones.' Max sets a clear tempo beside Nagiyev, putting "reshiv" ("having solved") alongside "problemy" ("problems") in a tight, everyday turn of phrase.

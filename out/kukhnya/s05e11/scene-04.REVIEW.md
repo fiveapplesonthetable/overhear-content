@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You can take an apron over there.' Since Denis can take an apron over there, Barinov does not waste words on excuses.
-- 'The gratin! Right now I will bring the quail.' Denis declares that right now he will bring the quail as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Well, how is it?' Wondering how it is cuts straight through the tension between Barinov and Denis. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'He handled it great!' Over the test and the truth, Lyova lets his real feelings show.
-- 'One might think you got it right the first time.' Explaining that one might think Denis got it right the first time lays the cards on the table for Denis. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Well, how is the gratin?' By wondering how the gratin is, Denis presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Not bad for the first time.' Between the work and the argument, Barinov gives Denis a quick, grounded response.
-- 'It is clear that there is potential.' Pointing out that it is clear that there is potential gives Denis a sobering reality check.
-- 'But so there are no questions, I had better cook it myself.' Barinov explains that there are no questions he had better cook it himself, keeping his voice calm and direct.
-- 'And you rest for now.' Realizing that Denis rests for now changes how Barinov handles the situation.
-- 'Thank you, Viktor Petrovich.' Over the point and the dish, Denis answers Barinov without a second thought.
-- 'Why are you defending him, chef?' Asking why Barinov defending him is is how Lyova puts Barinov on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'You can take an apron over there.' Barinov adopts a brisk course without hesitation, pairing "fartuk" ("apron") with "mozhno" ("may, can") to get the point across in plain spoken Russian.
+- 'The gratin! Right now I will bring the quail.' Denis takes a pointed bearing in this beat, joining "graten" ("gratin") to "seychas" ("now") so every word pulls its weight.
+- 'Well, how is it?' Barinov inquires warmly in front of Denis, putting "kak" ("how") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
+- 'He handled it great!' Lyova takes a candid mood across the room, anchoring the Russian line on "otlichno" ("perfect, great") and "spravilsya" ("to manage, to cope") without extra filler.
+- 'One might think you got it right the first time.' Barinov shares a brisk direction in front of Denis, joining "mozhno" ("may, can") to "podumat" ("to think") so every word pulls its weight.
+- 'Well, how is the gratin?' Denis inquires calmly to make the point, pairing "kak" ("how") with "graten" ("gratin") to get the point across in plain spoken Russian.
+- 'Not bad for the first time.' Barinov adopts a brisk tone during the exchange, leaning on "pervogo" ("first") before closing the thought with "raza" ("time").
+- 'It is clear that there is potential.' Barinov chooses a thoughtful position during the exchange, linking "vidno" ("one can see"), "yest" ("there is"), and "potentsial" ("potential") in one brisk exchange.
+- 'But so there are no questions, I had better cook it myself.' Barinov takes a warm approach across the room, linking "bylo" ("was"), "voprosov" ("questions"), and "luchshe" ("better") in one brisk exchange.
+- 'And you rest for now.' Barinov shows a brisk view in the conversation, weaving "otdokhni" ("rest") together with "poka" ("bye") just the way native speakers do.
+- 'Thank you, Viktor Petrovich.' Denis offers an emphatic tack in the room, leaning on "spasibo" ("thank you") before closing the thought with "viktor" ("Viktor").
+- 'Why are you defending him, chef?' Lyova probes wryly for Denis's benefit, weaving "zachem" ("what for") together with "zashchishchayete" ("to defend, protect") just the way native speakers do.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, I understand you love to fry meat.' Barinov tells Senya that he understands Senya loves to fry meat without dressing it up. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Oh go away, my tooth hurts.' Noting that Barinov should go away his tooth hurts keeps Senya's side of the story simple and clear. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'That is what you get for stealing.' Saying that that is what Senya gets for stealing is how Barinov sets the tone with Senya.
-- 'And what should I do now?' Asking what he does now should cuts straight through the tension between Senya and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I know one sure remedy.' Knowing one sure remedy is how Barinov lays out the situation for Senya.
-- 'In the navy we treated teeth like that.' With the match and shift in play, Barinov keeps this short reply brisk and direct.
-- 'And it takes the pain away immediately.' Because it takes the pain away immediately, Barinov treats the matter as settled.
-- 'Vitya, we need to have a serious talk.' Claiming that they need to have a serious talk sounds confident, even if Barinov has doubts. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Well go ahead, speak calmly.' Explaining that Senya should go ahead speak calmly lays the cards on the table for Senya.
-- 'First turn off your football.' Between the match and the truth, Vika gives Barinov a quick, grounded response.
-- 'You asked me to turn off football.' Pointing out that Senya asked him to turn off football gives Senya a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I do not like boxing at all either.' Noting that she does not like boxing at all either keeps Vika's side of the story simple and clear.
+- 'Senya, I understand you love to fry meat.' Barinov holds a serious rhythm during the exchange, linking "ponimayu" ("understand"), "lyubish" ("love"), and "zharit" ("fry, roast") in one brisk exchange.
+- 'Oh go away, my tooth hurts.' Senya brings a natural stance as they talk, combining "idi" ("go") and "zub" ("a tooth") so the key meaning lands right away.
+- 'That is what you get for stealing.' Barinov strikes a direct direction in front of Senya, using "voruyesh" (from "vorovat", "are stealing") alongside "eto" ("this") to shape the meaning.
+- 'And what should I do now?' Senya asks wryly without holding back, combining "teper" ("now") and "delat" ("do") so the key meaning lands right away.
+- 'I know one sure remedy.' Barinov strikes a calm bearing with Senya, linking "znayu" ("know"), "vernoye" ("faithful, true"), and "sredstvo" ("remedy") in one brisk exchange.
+- 'In the navy we treated teeth like that.' Barinov sustains an honest attitude without hesitation, combining "flote" ("navy, fleet") and "zuby" ("tooth") so the key meaning lands right away.
+- 'And it takes the pain away immediately.' Barinov presents a steady angle toward Senya, combining "bol" ("pain, ache") and "srazu" ("at once") so the key meaning lands right away.
+- 'Vitya, we need to have a serious talk.' Vika offers a lively view in their talk, putting "nado" ("it is necessary") alongside "seryozno" ("seriously") in a tight, everyday turn of phrase.
+- 'Well go ahead, speak calmly.' Barinov displays a thoughtful angle at this moment, combining the everyday invitation "davay" ("come on, let us") with "spokoyno" ("calmly") to give the line its natural spoken rhythm.
+- 'First turn off your football.' Vika displays an earnest approach in this beat, building the phrase around "snachala" ("first, at first") and "vyklyuchi" ("turn off") for a crisp, natural delivery.
+- 'You asked me to turn off football.' Barinov strikes a resolute tack straight away, building the phrase around "prosila" ("asked") and "vyklyuchit" ("turn off") for a crisp, natural delivery.
+- 'I do not like boxing at all either.' Vika presents a natural stance during the exchange, leaning on "boks" ("boxing") before closing the thought with "tozhe" ("too").

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I have a great idea.' Realizing that he has a great idea changes how Fedya handles the situation.
-- 'Let's swap the face in this video.' Proposing that they swap the face in this video moves the conversation forward without extra drama. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Then they will definitely lock German up fast.' Because they will definitely lock German up fast, Fedya treats the matter as settled.
-- 'Fedya, what, are you a complete idiot?' Asking what Fedya a complete idiot is cuts straight through the tension between Barinov and Fedya.
-- 'I am not allowed to drink at all right now.' Because he is not allowed to drink at all right now, Kostya treats the matter as settled. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Kostya, what, are you on pills?' Here wondering what Barinov on pills is shows Fedya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No, he is just afraid of his wife.' Since he is just afraid of his wife, Barinov does not waste words on excuses.
-- 'Listen, German is taking pills all the time.' Kostya explains that German is taking pills all the time, keeping his voice calm and direct.
-- 'Really? What pills is he taking?' Questioning whether what pills is he taking is how Barinov tests Fedya's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I do not know, he keeps them in his office.' Since he does not know he keeps them in his office, Kostya does not waste words on excuses.
-- 'That is very interesting for us.' Even though that is very interesting for them, Barinov keeps a steady face in front of Fedya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'We need to find out what kind of pills these are.' Pointing out that they need to find out what kind of pills these are gives Fedya a sobering reality check. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Chef, I have a great idea.' Fedya favors a resolute tone without hesitation, putting "yest" ("there is") alongside "otlichnaya" ("excellent") in a tight, everyday turn of phrase.
+- 'Let's swap the face in this video.' Fedya brings a direct course with Kostya, anchoring the Russian line on "davayte" ("let's") and "pomenyayem" ("to change, to swap") without extra filler.
+- 'Then they will definitely lock German up fast.' Fedya offers a pointed line in the scene, joining "togda" ("back then") to "germana" ("german") so every word pulls its weight.
+- 'Fedya, what, are you a complete idiot?' Barinov queries boldly without holding back, weaving "sovsem" ("at all") together with "idiot" ("idiot") just the way native speakers do.
+- 'I am not allowed to drink at all right now.' Kostya shares a grounded style during the exchange, pairing "seychas" ("now") with "voobshche" ("at all") so the "-sya" ending carries the action.
+- 'Kostya, what, are you on pills?' Fedya tests wryly as the beat lands, leaning on "tabletkakh" ("pill, tablet") before closing the thought with "kostya" ("Kostya").
+- 'No, he is just afraid of his wife.' Barinov picks a thoughtful rhythm during the exchange, linking "prosto" ("just"), "boitsya" ("is afraid"), and "zheny" ("wife") in one brisk exchange.
+- 'Listen, German is taking pills all the time.' Kostya takes a natural stance in front of Fedya, joining "slushayte" ("listen") to "vremya" ("time") so every word pulls its weight.
+- 'Really? What pills is he taking?' Barinov tests steadily at this point, putting "pravda" ("honestly") alongside "tabletki" ("pill, tablet") in a tight, everyday turn of phrase.
+- 'I do not know, he keeps them in his office.' Kostya displays a sharp style in the conversation, combining "znayu" ("know") and "kabinete" ("office") so the key meaning lands right away.
+- 'That is very interesting for us.' Barinov shares a resolute footing without hesitation, anchoring the Russian line on "ochen" ("very much") and "interesno" ("interesting") without extra filler.
+- 'We need to find out what kind of pills these are.' Barinov picks a resolute posture as the scene unfolds, putting "nado" ("it is necessary") alongside "uznat" ("to find out") in a tight, everyday turn of phrase.

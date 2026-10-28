@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And where is the trash?' Asking where the trash is is how Senya puts Gulya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'The truck already hauled it away.' With the gift and kitchen in play, Gulya keeps this short reply brisk and direct.
-- 'Why did you do that?' By wondering why Gulya does, Senya presses Gulya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'That is the job.' Saying that that is the job is how Gulya sets the tone with Senya.
-- 'Such strong pains in my lower back.' Over the gift and the kitchen, Vika answers Gulya without a second thought.
-- 'Of course, very strong pains in both the neck and the back.' Around the gift and room, Senya sets a calm, everyday tone with Gulya.
-- 'But do not worry. The massage will relieve the ache, and the back pains will pass.' Saying that do not worry is how Senya sets the tone with Gulya. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'And what do you think, at my stage of pregnancy will it not do any harm?' Wondering what Gulya thinks at her stage of pregnancy will it not do any harm cuts straight through the tension between Vika and Gulya.
-- 'No, I will do everything very carefully.' Explaining that he will do everything very carefully lays the cards on the table for Gulya.
-- 'Good, then I will go get the key to the room.' Vika mentions that good then she will go get the key to the room so Gulya sees what is at stake.
-- 'And in the meantime have some coffee.' Claiming that in the meantime have some coffee sounds confident, even if Gulya has doubts.
-- 'Thank you. Without sugar.' With the kitchen and key in play, Senya keeps this short reply brisk and direct.
+- 'And where is the trash?' Senya presses sharply for Gulya's benefit, building the phrase around "gde" ("where") and "musor" ("rubbish") for a crisp, natural delivery.
+- 'The truck already hauled it away.' Gulya keeps a steady angle in the conversation, joining "mashina" ("a car") to "uzhe" ("already, now") so every word pulls its weight.
+- 'Why did you do that?' Senya asks wryly beside Gulya, combining "zachem" ("what for") and "sdelala" ("have done, did") so the key meaning lands right away.
+- 'That is the job.' Gulya picks an easygoing line at once, linking "rabota" ("job") directly with "takaya" ("one like her"), since Russian drops "is" and "are" in the present.
+- 'Such strong pains in my lower back.' Vika brings a lively approach during the exchange, leaning on "silnyye" ("strong, powerful") before closing the thought with "boli" ("pains").
+- 'Of course, very strong pains in both the neck and the back.' Senya holds an emphatic approach straight away, weaving "konechno" ("of course") together with "ochen" ("very much") just the way native speakers do.
+- 'But do not worry. The massage will relieve the ache, and the back pains will pass.' Senya favors a warm line in their talk, weaving "volnuytes" ("worry") together with "massazh" ("a massage") just the way native speakers do.
+- 'And what do you think, at my stage of pregnancy will it not do any harm?' Vika wonders bluntly from the start, anchoring the Russian line on "kak" ("how") and "dumayete" ("think") without extra filler.
+- 'No, I will do everything very carefully.' Senya chooses a natural rhythm at once, pairing "sdelayu" ("I'll do") with "ochen" ("very much") to get the point across in plain spoken Russian.
+- 'Good, then I will go get the key to the room.' Vika keeps a grounded angle as they talk, anchoring the Russian line on "khorosho" ("good, fine") and "togda" ("back then") without extra filler.
+- 'And in the meantime have some coffee.' Vika presents a direct footing on the spot, linking "poka" ("bye"), "vypeyte" ("to drink"), and "kofe" ("of coffee") in one brisk exchange.
+- 'Thank you. Without sugar.' Senya sets a clear footing in the scene, pairing "spasibo" ("thank you") with "sakhara" ("sugar") to get the point across in plain spoken Russian.

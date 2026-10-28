@@ -13,7 +13,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Шеф | С днем рождения. | Happy birthday. | #1: С днем рождения | verbatim |
 | 2 | Вика | Может, вам таблеток дать? | Maybe I should give you some pills? | #3: Может, вам таблеток дать | verbatim |
 | 3 | Родион | Не стоит. | There is no need. | #4: Не стоит | verbatim |
-| 4 | Шеф | Доброе утро, Виктор Петрович. | Good morning, Viktor Petrovich. | #5: Доброе утро, Виктор Петрович | verbatim |
+| 4 | Вика | Доброе утро, Виктор Петрович. | Good morning, Viktor Petrovich. | #5: Доброе утро, Виктор Петрович | verbatim |
 | 5 | Вика | Родион Сергеевич. | Rodion Sergeyevich. | #6: Родион Сергеевич | verbatim |
 | 6 | Родион | Подсказать, куда труп спрятать? | Should I suggest where to hide the body? | #7: Подсказать, куда труп спрятать | verbatim |
 | 7 | Шеф | Уж не скажете ли вы, что занимаетесь спортом? | You are not going to tell me that you play sports, are you? | #9: Уж не скажете ли вы, что занимаетесь спортом | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Happy birthday.' Turning from the morning to the work, Barinov keeps the exchange moving.
-- 'Maybe I should give you some pills?' Wondering if maybe she should give Barinov some pills shows Vika caught off guard. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'There is no need.' Because there is no need, Rodion treats the matter as settled.
-- 'Good morning, Viktor Petrovich.' With the kitchen and morning in play, Barinov keeps this short reply brisk and direct.
-- 'Rodion Sergeyevich.' Between the kitchen and the shift, Vika gives Barinov a quick, grounded response.
-- 'Should I suggest where to hide the body?' Asking whether should he suggests where to hide the body puts Barinov right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You are not going to tell me that you play sports, are you?' Wondering if Rodion is not going to tell him that Rodion plays sports are Rodion shows Barinov caught off guard.
-- 'Do you doubt it?' Asking whether Barinov doubts it cuts straight through the tension between Vika and Barinov. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'I have no doubts.' Rodion mentions that he has no doubts so Barinov sees what is at stake.
-- 'You do not say?' Barinov asks whether Rodion does not say, refusing to let the point slide.
-- 'Maybe the two of us should go jogging together?' Asking whether maybe the two of them should go jogging together puts Barinov right on the defensive. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'We will go for a run first thing tomorrow.' Admitting that they will go for a run first thing tomorrow shows Rodion being honest for a change.
-- 'Right here in the park.' Between the shift and the conversation, Barinov gives Rodion a quick, grounded response.
+- 'Happy birthday.' Barinov shows an emphatic posture during the exchange, using "dnem" (from "den", "day") alongside "rozhdeniya" ("of birth") to shape the meaning.
+- 'Maybe I should give you some pills?' Vika tests wryly right away, pairing "mozhet" ("can") with "tabletok" ("pill, tablet") to get the point across in plain spoken Russian.
+- 'There is no need.' Rodion holds a thoughtful note in the room, building the phrase around "stoit" ("is parked") and "ne" ("not") for a crisp, natural delivery.
+- 'Good morning, Viktor Petrovich.' Vika adopts a steady stance straight away, anchoring the Russian line on "dobroye" ("good") and "utro" ("morning") without extra filler.
+- 'Rodion Sergeyevich.' Vika projects a calm mood in the room, joining "rodion" ("Rodion") to "sergeyevich" ("Sergeyevich") so every word pulls its weight.
+- 'Should I suggest where to hide the body?' Rodion challenges pointedly at this point, linking "podskazat" ("to prompt, to tell"), "kuda" ("where to"), and "trup" ("corpse, dead body") in one brisk exchange.
+- 'You are not going to tell me that you play sports, are you?' Barinov probes wryly toward Rodion here, linking "skazhete" ("will you say"), "zanimayetes" ("are busy with"), and "sportom" ("sport, sports") in one brisk exchange.
+- 'Do you doubt it?' Vika quizzes naturally right away, leaning on "somnevayetes" ("to doubt") before closing the thought with "vy" ("you").
+- 'I have no doubts.' Rodion brings an earnest position straight away, leaning on "imeyu" ("have") before closing the thought with "ya" ("I").
+- 'You do not say?' Barinov questions briskly without holding back, combining "govorite" ("say, speak") and "chto" ("what") so the key meaning lands right away.
+- 'Maybe the two of us should go jogging together?' Vika prompts steadily across the room, linking "mozhet" ("can"), "vmeste" ("together"), and "pobegayem" ("runs around") in one brisk exchange.
+- 'We will go for a run first thing tomorrow.' Rodion establishes a wry footing during the exchange, building the phrase around "pryamo" ("right, just") and "zavtra" ("tomorrow") for a crisp, natural delivery.
+- 'Right here in the park.' Barinov strikes an easygoing note for Rodion, leaning on "zdes" ("here") before closing the thought with "parke" ("park").

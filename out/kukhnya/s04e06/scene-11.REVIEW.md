@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lena, well how did you like today's relaxation?' Barinov asks whether someone well how did Elena likes today relaxation, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Excellent, I had already forgotten how relaxing it is!' Saying that excellent she had already forgotten how relaxing it is is how Elena takes charge of the moment. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I am very glad that you liked everything.' Being very glad that Elena liked everything is how Barinov lays out the situation for Elena.
-- 'But that is far from the whole surprise.' Mentioning that that is far from the whole surprise moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I booked a table for us for seven o'clock.' With the truth and surprise in play, Barinov keeps this short reply brisk and direct.
-- 'Vitya, tell me honestly, what is going on today?' Elena asks whether tell her honestly what is going on today, refusing to let the point slide.
-- 'Lena, believe me, I really need to talk with you.' Explaining that someone believe him he really needs to talk with Elena lays the cards on the table for Elena. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'And it is more convenient to talk in a calm evening setting.' Barinov mentions that it is more convenient to talk in a calm evening setting so Elena sees what is at stake.
-- 'Well all right, but after all we have work right now.' Claiming that all right but after all they have work right now sounds confident, even if Barinov has doubts.
-- 'Do not worry, Lyova will supervise everything here himself.' Explaining that do not worry Lyova will supervise everything here himself lays the cards on the table for Elena.
-- 'Vitya, are you definitely sure about that?' Here asking whether Barinov definitely sure shows Elena looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yes, Elena Pavlovna, I will supervise everything!' Insisting that he will supervise everything shows Lyova is not backing down.
+- 'Lena, well how did you like today's relaxation?' Barinov quizzes naturally without holding back, joining "kak" ("how") to "segodnyashniy" ("of today's") so every word pulls its weight.
+- 'Excellent, I had already forgotten how relaxing it is!' Elena offers a wry view beside Lyova, joining "otlichno" ("perfect, great") to "uzhe" ("already, now") so every word pulls its weight.
+- 'I am very glad that you liked everything.' Barinov chooses a thoughtful tempo as they talk, putting "ochen" ("very much") alongside "rad" ("glad") in a tight, everyday turn of phrase.
+- 'But that is far from the whole surprise.' Barinov shows an emphatic bearing in the conversation, leaning on "yeshchyo" ("more, still") before closing the thought with "daleko" ("far away").
+- 'I booked a table for us for seven o'clock.' Barinov brings a sharp bearing in front of Elena, putting "zakazal" ("ordered") alongside "stolik" ("table") in a tight, everyday turn of phrase.
+- 'Vitya, tell me honestly, what is going on today?' Elena inquires promptly across the room, putting "skazhi" ("say") alongside "chestno" ("honestly") in a tight, everyday turn of phrase.
+- 'Lena, believe me, I really need to talk with you.' Barinov sets a frank approach in the room, putting "pover" ("believe") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
+- 'And it is more convenient to talk in a calm evening setting.' Barinov strikes a natural course during the exchange, building the phrase around "udobneye" ("more comfortable") and "pogovorit" ("to talk") for a crisp, natural delivery.
+- 'Well all right, but after all we have work right now.' Elena adopts an easygoing bearing toward Barinov, joining "khorosho" ("good, fine") to "seychas" ("now") so every word pulls its weight.
+- 'Do not worry, Lyova will supervise everything here himself.' Barinov presents a measured tack straight away, anchoring the Russian line on "volnuysya" ("worry") and "zdes" ("here") without extra filler.
+- 'Vitya, are you definitely sure about that?' Elena quizzes honestly in front of Barinov, anchoring the Russian line on "tochno" ("definitely") and "uveren" ("sure, confident") without extra filler.
+- 'Yes, Elena Pavlovna, I will supervise everything!' Lyova keeps an earnest manner as they talk, weaving "prokontroliruyu" ("will keep an eye on") together with "da" ("yes") just the way native speakers do.

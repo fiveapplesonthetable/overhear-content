@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to sincerely apologize to you.' Kostya mentions that he wanted to sincerely apologize to the guest so the guest sees what is at stake. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'For the television and for the words about mom.' Over the work and the peace, Kostya answers the guest without a second thought.
-- 'Well then, shall we forgive him today?' With the moment and peace hanging in the air, Nastya puts the guest on the spot.
-- 'We will forgive him and pour him hot tea.' Even though they will forgive him and pour him hot tea, the guest keeps a steady face in front of Kostya.
-- 'Let us go buy a new television right now instead.' Proposing that they go buy a new television right now instead is how Kostya lays out the situation for the guest.
-- 'I already borrowed money from friends.' Around the work and peace, Kostya sets a calm, everyday tone with the guest.
-- 'Nastya, and where are my jeans?' Asking where his jeans are cuts straight through the tension between Kostya and the guest. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I put the clothes away on the top shelf.' Putting the clothes away on the top shelf is how Nastya lays out the situation for the guest.
-- 'After all, this is the wallet he lost yesterday!' Because after all this is the wallet he lost yesterday, Kostya does not bother softening the blow for the guest.
-- 'Forgive me, I hid it myself.' Since she hid it herself, Nastya does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I thought that you would become friends faster that way.' Mentioning that she thought that the guest would become friends faster that way moves the talk in a new direction. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'I want him to leave right now!' Saying that he wants him to leave right now is how Kostya takes charge of the moment.
+- 'I wanted to sincerely apologize to you.' Kostya shares an emphatic tone at once, building the phrase around "khotel" ("wanted") and "iskrenne" ("sincerely") for a crisp, natural delivery.
+- 'For the television and for the words about mom.' Kostya shows a brisk approach toward Nastya, linking "televizor" ("television"), "slova" ("words"), and "mamu" ("mother, mum") in one brisk exchange.
+- 'Well then, shall we forgive him today?' Nastya queries plainly on the spot, leaning on "segodnya" ("today") before closing the thought with "prostim" ("to forgive").
+- 'We will forgive him and pour him hot tea.' The guest strikes an honest stance for Nastya, linking "prostim" ("to forgive"), "goryachego" ("hot"), and "chaya" ("tea") in one brisk exchange.
+- 'Let us go buy a new television right now instead.' Kostya offers a measured manner with the guest, linking "poyekhali" ("here we go"), "luchshe" ("better"), and "seychas" ("now") in one brisk exchange.
+- 'I already borrowed money from friends.' Kostya brings an emphatic approach without hesitation, joining "uzhe" ("already, now") to "druzey" ("friends") so every word pulls its weight.
+- 'Nastya, and where are my jeans?' Kostya quizzes naturally as they speak, joining "gde" ("where") to "lezhat" ("are lying") so every word pulls its weight.
+- 'I put the clothes away on the top shelf.' Nastya strikes a calm bearing for Kostya, building the phrase around "ubrala" ("took off, removed") and "veshchi" ("things") for a crisp, natural delivery.
+- 'After all, this is the wallet he lost yesterday!' Kostya brings a lively approach at this moment, leaning on "bumazhnik" ("wallet") before closing the thought with "vchera" ("yesterday").
+- 'Forgive me, I hid it myself.' Nastya shows a direct view toward Kostya, weaving "prosti" ("sorry, forgive me") together with "spryatala" ("to hide") just the way native speakers do.
+- 'I thought that you would become friends faster that way.' Nastya strikes a resolute bearing as they talk, linking "dumala" ("thought"), "bystreye" ("faster"), and "podruzhites" ("to make friends") in one brisk exchange.
+- 'I want him to leave right now!' Kostya holds an emphatic posture in their talk, pairing "khochu" ("want") with "seychas" ("now") to get the point across in plain spoken Russian.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Those are my favorite Italian moccasins, do not touch!' Nagiyev declares that those are his favorite Italian moccasins do not touch as the tension in the room peaks. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I paid two hundred thousand rubles for them...' Noting that he paid two hundred thousand rubles for them keeps Nagiyev's side of the story simple and clear.
-- 'Forgive me, Dmitry Vladimirovich, I really need Katya!' Insisting that he really needs Katya shows Denis is not backing down.
-- 'Hey, who is here? Stop joking foolishly, open up!' By wondering who here is, Nagiyev presses Denis for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I will find all of you and fire you!' Declaring that he will find all of Denis and fire Denis brings Nagiyev's temper right to the surface. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Curse it, there is no cell signal at all in this box!' Nagiyev insists that curse it there is no cell signal at all in this box, leaving Denis no room to argue.
-- 'Denis, have you by any chance seen Dmitry Vladimirovich?' Here checking whether Denis by any chance seen Dmitry Vladimirovich shows Vika looking for the real truth. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'No, Viktoriya Sergeyevna, I have not seen him.' Saying that Viktoriya Sergeyevna he has not seen him is how Denis sets the tone with Nagiyev.
-- 'And what happened with you before the start?' With the test and kitchen hanging in the air, Denis puts Nagiyev on the spot.
-- 'I cannot reach him by phone, and the coffin has disappeared!' Refusing to reach him by phone and the coffin has disappeared is Vika's blunt reaction in front of Denis. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'You don't say? How could a coffin disappear?' Wondering if Nagiyev does not say shows Denis caught off guard. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Dracula's entrance is soon, and we have a catastrophe!' Declaring that Dracula entrance is soon and they have a catastrophe brings Vika's temper right to the surface.
+- 'Those are my favorite Italian moccasins, do not touch!' Nagiyev sustains a candid footing on the spot, building the phrase around "lyubimyye" ("favourite") and "italyanskiye" ("Italian") for a crisp, natural delivery.
+- 'I paid two hundred thousand rubles for them...' Nagiyev takes a thoughtful rhythm beside Vika, joining "otdal" ("gave") to "tysyach" ("thousand") so every word pulls its weight.
+- 'Forgive me, Dmitry Vladimirovich, I really need Katya!' Denis holds a clear note on the spot, using "prostite" (from "prostit", "excuse me") alongside "ochen" ("very much") to shape the meaning.
+- 'Hey, who is here? Stop joking foolishly, open up!' Nagiyev tests sharply in this moment, leaning on "zdes" ("here") before closing the thought with "khvatit" ("enough").
+- 'I will find all of you and fire you!' Nagiyev favors a candid position beside Denis, linking "naydu" ("find"), "uvolyu" ("will fire"), and "ya" ("I") in one brisk exchange.
+- 'Curse it, there is no cell signal at all in this box!' Nagiyev brings a direct tempo beside Vika, building the phrase around "proklyatye" ("curse") and "yashchike" ("box, glovebox") for a crisp, natural delivery.
+- 'Denis, have you by any chance seen Dmitry Vladimirovich?' Vika probes candidly as the beat lands, pairing "sluchayno" ("by any chance") with "videli" ("saw") to get the point across in plain spoken Russian.
+- 'No, Viktoriya Sergeyevna, I have not seen him.' Denis sets an earnest style right away, leaning on "videl" ("saw, have seen") before closing the thought with "net" ("no").
+- 'And what happened with you before the start?' Denis questions honestly without holding back, anchoring the Russian line on "sluchilos" ("happened") and "nachalom" ("beginning") without extra filler.
+- 'I cannot reach him by phone, and the coffin has disappeared!' Vika presents a serious attitude at once, linking "mogu" ("can"), "dozvonitsya" ("to get through"), and "grob" ("coffin") in one brisk exchange.
+- 'You don't say? How could a coffin disappear?' Denis challenges dryly in the room, weaving "kak" ("how") together with "mog" ("can, to be able") just the way native speakers do.
+- 'Dracula's entrance is soon, and we have a catastrophe!' Vika projects a steady stance beside Nagiyev, linking "skoro" ("soon") directly with "vykhod" ("way out"), since Russian drops "is" and "are" in the present.

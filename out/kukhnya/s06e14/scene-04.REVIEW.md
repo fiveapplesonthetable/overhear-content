@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you see, she did not even touch it!' Fedya declares that did Barinov sees she did not even touch it as the tension in the room peaks.
-- 'After all, a dog never eats dog.' Even though after all a dog never eats dog, Fedya keeps a steady face in front of Barinov. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Chef, imagine what strange meat they brought.' Telling Barinov to imagine what strange meat they brought moves the conversation forward without extra drama.
-- 'Here, look at this dog yourself.' Over the plan and the meat, Senya answers Barinov without a second thought.
-- 'Immediately remove the dog from my kitchen!' With the work and meat at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Quickly take her out to the courtyard, fools!' With the truth and meat at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'What kind of foolish stereotypes do you have?' Asking whether what kind of foolish stereotypes do Fedya has puts Fedya right on the defensive.
-- 'I see for sure that this is beef.' Because he sees for sure that this is beef, Barinov treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Chef, maybe we should bury this?' Wondering if maybe they should bury this shows Senya caught off guard. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Or maybe I should bury all of you?' Questioning whether maybe he should bury all of Fedya is how Barinov tests Fedya's story.
-- 'No, chef, we will not do it anymore.' Because they will not do it anymore, Fedya treats the matter as settled.
-- 'Go away, I will cook everything myself today.' Telling Fedya to go away he will cook everything himself today is how Barinov lays out the situation for Fedya.
+- 'Did you see, she did not even touch it!' Fedya keeps a calm tone in the scene, weaving "videl" ("saw, have seen") together with "tronula" ("to touch") just the way native speakers do.
+- 'After all, a dog never eats dog.' Fedya sustains a playful approach in the conversation, joining "sobaka" ("dog") to "nikogda" ("never") so every word pulls its weight.
+- 'Chef, imagine what strange meat they brought.' Senya sets a wry tempo during the exchange, combining "predstavte" ("to imagine") and "strannoye" ("strange, odd") so the key meaning lands right away.
+- 'Here, look at this dog yourself.' Senya maintains an emphatic tempo on the spot, pairing "posmotrite" ("look") with "sobaku" ("dog") to get the point across in plain spoken Russian.
+- 'Immediately remove the dog from my kitchen!' Barinov offers a measured rhythm in this beat, anchoring the Russian line on "nemedlenno" ("immediately") and "uberite" ("take away, remove") without extra filler.
+- 'Quickly take her out to the courtyard, fools!' Barinov conveys an honest direction right away, pairing "bystro" ("quickly") with "uberite" ("take away, remove") to get the point across in plain spoken Russian.
+- 'What kind of foolish stereotypes do you have?' Barinov checks frankly as they speak, pairing "glupyye" ("silly, stupid") with "stereotipy" ("stereotypes") to get the point across in plain spoken Russian.
+- 'I see for sure that this is beef.' Barinov maintains a clear style in front of Senya, pairing "tochno" ("definitely") with "vizhu" ("see") to get the point across in plain spoken Russian.
+- 'Chef, maybe we should bury this?' Senya tests steadily during the talk, pairing "mozhet" ("can") with "byt" ("be") to get the point across in plain spoken Russian.
+- 'Or maybe I should bury all of you?' Barinov asks frankly to make the point, using "mozhet" (from "moch", "can") alongside "byt" ("be") to shape the meaning.
+- 'No, chef, we will not do it anymore.' Fedya adopts a warm tempo beside Barinov, putting "bolshe" ("more") alongside "budem" ("will") in a tight, everyday turn of phrase.
+- 'Go away, I will cook everything myself today.' Barinov strikes a candid course beside Senya, joining "ukhodite" ("leave, go away") to "segodnya" ("today") so every word pulls its weight.

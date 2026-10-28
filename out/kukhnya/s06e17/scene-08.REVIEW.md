@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I put my salary in the bank.' Putting his salary in the bank moves the conversation forward without extra drama.
-- 'After all, I live with my mother.' Saying that after all he lives with his mother is how Lyova sets the tone with Barinov.
-- 'And Gulya also earns well.' Since Gulya also earns well, Lyova does not waste words on excuses.
-- 'And there came to be even more money.' Mentioning that there came to be even more money moves the talk in a new direction.
-- 'Are you ready to give away this money?' Asking whether the inspector ready to give away this money cuts straight through the tension between Barinov and the inspector. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'This is your life's work, after all.' Because this is Barinov's life work after all, Lyova treats the matter as settled.
-- 'For the sake of the restaurant I grudge nothing.' With the inspector and restaurant in play, Lyova keeps this short reply brisk and direct. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'And I will save up more for myself.' Lyova mentions that he will save up more for himself so Barinov sees what is at stake.
-- 'Lyova, you will definitely go to heaven.' Claiming that the inspector will definitely go to heaven sounds confident, even if the inspector has doubts.
-- 'Lyova, fly quickly to the bank.' Barinov reminds the inspector that the inspector should fly quickly to the bank before the moment passes.
-- 'First I will receive my money.' The inspector explains that first he will receive his money, keeping his voice calm and direct.
-- 'I must see your review.' Realizing that he must see the inspector's review changes how Barinov handles the situation.
+- 'I put my salary in the bank.' Lyova maintains a pointed note for Barinov, anchoring the Russian line on "kladu" ("to put, to lay down") and "zarplatu" ("salary") without extra filler.
+- 'After all, I live with my mother.' Lyova picks a measured line as they talk, putting "zhivu" ("live") alongside "mamoy" ("Mum") in a tight, everyday turn of phrase.
+- 'And Gulya also earns well.' Lyova establishes a playful tempo as the scene unfolds, pairing "tozhe" ("too") with "khorosho" ("good, fine") to get the point across in plain spoken Russian.
+- 'And there came to be even more money.' Lyova chooses a direct angle at once, pairing "deneg" ("money") with "yeshchyo" ("more, still") to get the point across in plain spoken Russian.
+- 'Are you ready to give away this money?' Barinov wonders steadily with the inspector now, joining "gotov" ("ready") to "otdat" ("give, hand over") so every word pulls its weight.
+- 'This is your life's work, after all.' Lyova offers a frank tempo in front of the inspector, leaning on "delo" ("matter") before closing the thought with "zhizni" ("life").
+- 'For the sake of the restaurant I grudge nothing.' Lyova keeps an earnest view as the scene unfolds, using "restorana" (from "restoran", "restaurant") alongside "zhalko" ("feel sorry for") to shape the meaning.
+- 'And I will save up more for myself.' Lyova displays a thoughtful note as the scene unfolds, linking "yeshchyo" ("more, still"), "skoplyu" ("I will save up"), and "ya" ("I") in one brisk exchange.
+- 'Lyova, you will definitely go to heaven.' Barinov favors a measured stance in the scene, putting "tochno" ("definitely") alongside "popadyosh" ("to hit, to get") in a tight, everyday turn of phrase.
+- 'Lyova, fly quickly to the bank.' Barinov takes a candid view beside Lyova, pairing "bystro" ("quickly") with "leti" ("to fly, to race along") to get the point across in plain spoken Russian.
+- 'First I will receive my money.' The inspector presents an unhurried view right away, linking "snachala" ("first, at first"), "poluchu" ("to get, to receive"), and "dengi" ("money") in one brisk exchange.
+- 'I must see your review.' Barinov strikes a calm footing in this beat, pairing "dolzhen" ("has to, must") with "uvidet" ("to see") to get the point across in plain spoken Russian.

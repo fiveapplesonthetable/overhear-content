@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, Denis, our jewelry store welcomes you.' Between the friend and the order, the guest gives Barinov a quick, grounded response.
-- 'Congratulations, you won a big fifty-percent discount.' The guest reminds Barinov that congratulations Barinov won a big fifty percent discount before the moment passes. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'This special discount applies only to gold rings.' Around the friend and moment, the guest sets a calm, everyday tone with Barinov.
-- 'If you are planning to give a girl a beautiful ring.' Explaining that if Barinov is planning to give a girl a beautiful ring lays the cards on the table for Barinov.
-- 'Do not miss the chance, I will send you the website address.' The guest reminds Barinov that do not miss the chance he will send Barinov the website address before the moment passes. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Yes, alright, thank you very much for calling.' With the office and friend in play, Denis keeps this short reply brisk and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'It is fine, this bookmaker is not such a tough nut to crack.' Pointing out that it is fine this bookmaker is not such a tough nut to crack gives Denis a sobering reality check.
-- 'For such a payout I will definitely be able to make him talk.' Barinov explains that for such a payout he will definitely be able to make him talk, keeping his voice calm and direct.
-- 'At the base of the truth serum lies belladonna extract.' Realizing that at the base of the truth serum lies belladonna extract changes how Barinov handles the situation.
-- 'Timur, hi, I urgently need belladonna today.' With the order and call in play, Barinov keeps this short reply brisk and direct.
-- 'Why no, Timur, it is not a woman at all!' Barinov declares that why no Timur it is not a woman at all as the tension in the room peaks. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'It is just such a rare useful herb for the kitchen.' Admitting that it is just such a rare useful herb for the kitchen shows Barinov being honest for a change. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Good afternoon, Denis, our jewelry store welcomes you.' The guest favors a serious direction in front of Barinov, linking "dobryy" ("good"), "den" ("day"), and "privetstvuyet" ("to greet, to welcome") in one brisk exchange.
+- 'Congratulations, you won a big fifty-percent discount.' The guest maintains a natural note on the spot, putting "pozdravlyayem" ("we congratulate") alongside "vyigrali" ("won") in a tight, everyday turn of phrase.
+- 'This special discount applies only to gold rings.' The guest displays an easygoing posture in the conversation, combining "spetsialnaya" ("special") and "skidka" ("discount") so the key meaning lands right away.
+- 'If you are planning to give a girl a beautiful ring.' The guest conveys an honest direction right away, pairing "sobirayetes" ("to intend") with "podarit" ("give as a gift") to get the point across in plain spoken Russian.
+- 'Do not miss the chance, I will send you the website address.' The guest holds an unhurried mood right away, leaning on "upustite" ("to miss, to let slip") before closing the thought with "shans" ("chance").
+- 'Yes, alright, thank you very much for calling.' Denis favors a resolute approach for the guest, pairing "khorosho" ("good, fine") with "bolshoye" ("big, very much") to get the point across in plain spoken Russian.
+- 'It is fine, this bookmaker is not such a tough nut to crack.' Barinov favors an earnest position in this beat, combining "bukmeker" ("bookmaker") and "yeshchyo" ("more, still") so the key meaning lands right away.
+- 'For such a payout I will definitely be able to make him talk.' Barinov takes an earnest tone in the room, using "vyigrysha" (from "vyigrysh", "winnings, gain") alongside "tochno" ("definitely") to shape the meaning.
+- 'At the base of the truth serum lies belladonna extract.' Barinov sustains an honest direction beside Denis, joining "osnove" ("foundation") to "syvorotki" ("of the serum") so every word pulls its weight.
+- 'Timur, hi, I urgently need belladonna today.' Barinov presents a firm course in their talk, anchoring the Russian line on "segodnya" ("today") and "srochno" ("urgent, urgently") without extra filler.
+- 'Why no, Timur, it is not a woman at all!' Barinov conveys a clear tone on the spot, linking "sovsem" ("at all") directly with "zhenshchina" ("woman"), since Russian drops "is" and "are" in the present.
+- 'It is just such a rare useful herb for the kitchen.' Barinov conveys a measured position without hesitation, linking "prosto" ("just") directly with "redkaya" ("rare"), since Russian drops "is" and "are" in the present.

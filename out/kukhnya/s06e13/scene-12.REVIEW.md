@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, you and I did not finish talking.' Once Katya and he did not finish talking, Denis can finally tell Katya what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Denis, are you really leaving us?' Asking whether Denis really leaving them is how Katya puts Denis on the spot.
-- 'Alright, I will not bother you two.' Saying that Alright he will not bother Denis two is how Senya sets the tone with Denis. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'And why did you not say anything to me?' By wondering why Denis not say anything, Katya presses Denis for a straight answer. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Well, I did not really tell anyone.' Mentioning that he did not really tell anyone moves the talk in a new direction.
-- 'I wanted to tell only you first.' Saying that he wanted to tell only Katya first is how Denis sets the tone with Katya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Oh, Denis, you are still standing here!' Senya declares that Denis is still standing here as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Well then, I have already collected the money.' Here having already collected the money sets up the next turn in their exchange.
-- 'I collected it from all the guys in the kitchen.' With the point and party in play, Senya keeps this short reply brisk and direct.
-- 'Tonight we will throw you a great noisy farewell party.' Claiming that tonight they will throw Denis a great noisy farewell party sounds confident, even if Denis has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'So everyone in the kitchen already knows?' When Katya asks if everyone in the kitchen already knows, Denis has to answer fast.
-- 'Wait, Katya, I will explain everything right now.' Admitting that he will explain everything right now shows Denis being honest for a change.
+- 'Katya, you and I did not finish talking.' Denis adopts a playful tack right away, leaning on "dogovorili" ("to finish speaking") before closing the thought with "katya" ("Katya").
+- 'Denis, are you really leaving us?' Katya challenges dryly on the spot, putting "pravda" ("honestly") alongside "uyezzhayesh" ("are leaving") in a tight, everyday turn of phrase.
+- 'Alright, I will not bother you two.' Senya keeps a wry direction right away, combining the easygoing tag "ladno" ("okay, fine") with "budu" ("will be") to give the line its natural spoken rhythm.
+- 'And why did you not say anything to me?' Katya queries lightly at this point, building the phrase around "pochemu" ("why") and "skazal" ("said") for a crisp, natural delivery.
+- 'Well, I did not really tell anyone.' Denis adopts a sharp footing at once, joining "osobo" ("particularly") to "govoril" ("said, were saying") so every word pulls its weight.
+- 'I wanted to tell only you first.' Denis holds a natural manner in front of Senya, using "khotel" (from "khotet", "wanted") alongside "snachala" ("first, at first") to shape the meaning.
+- 'Oh, Denis, you are still standing here!' Senya displays an unhurried tempo right away, pairing "yeshchyo" ("more, still") with "zdes" ("here") to get the point across in plain spoken Russian.
+- 'Well then, I have already collected the money.' Senya maintains a calm approach in front of Katya, joining "dengi" ("money") to "uzhe" ("already, now") so every word pulls its weight.
+- 'I collected it from all the guys in the kitchen.' Senya conveys an easygoing posture in front of Denis, linking "sobral" ("to collect"), "rebyat" ("kids, guys"), and "kukhne" ("kitchen") in one brisk exchange.
+- 'Tonight we will throw you a great noisy farewell party.' Senya sustains an earnest attitude toward Katya, leaning on "vecherom" ("in the evening") before closing the thought with "ustroim" ("arrange").
+- 'So everyone in the kitchen already knows?' Katya probes earnestly during the talk, joining "znachit" ("then, so") to "kukhne" ("kitchen") so every word pulls its weight.
+- 'Wait, Katya, I will explain everything right now.' Denis establishes a calm posture toward Senya, pairing "seychas" ("now") with "podozhdi" ("wait") so the "-sya" ending carries the action.

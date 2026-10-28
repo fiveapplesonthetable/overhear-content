@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'But this is a secret vote, after all.' Even though this is a secret vote after all, Fedya keeps a steady face in front of Senya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Go on out of here, call the next person in.' Here going on out of here call the next person sets up the next turn in their exchange.
-- 'Good afternoon, I have a question.' Having a question is how Senya lays out the situation for Fedya.
-- 'Can the independent observer not watch?' Checking whether the independent observer not watch cuts straight through the tension between Senya and Fedya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, one cannot do that at all.' Adding that one cannot do that at all fills in the missing piece for Fedya. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Understood, and what if like this?' Questioning whether understood and what if like this is how Senya tests Fedya's story.
-- 'Great, now you have voted fairly.' Since great now Fedya has voted fairly, Timur does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Let us sum up the results of our fair contest.' Realizing that they should sum up the results of their fair contest changes how Timur handles the situation.
-- 'Today Arseny won the election!' Declaring that today won the election brings Timur's temper right to the surface.
-- 'How did he suddenly win like that?' Here wondering how he suddenly win like shows Fedya looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Does anyone have any objections right now?' By asking whether anyone have any objections right now, Timur presses Fedya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You can take the ballots for salad.' Timur mentions that Fedya can take the ballots for salad so Fedya sees what is at stake.
+- 'But this is a secret vote, after all.' Fedya maintains a firm style beside Senya, linking "taynoye" ("secret") directly with "golosovaniye" ("voting"), since Russian drops "is" and "are" in the present.
+- 'Go on out of here, call the next person in.' Timur sets a playful tempo at once, combining "idi" ("go") and "otsyuda" ("from here") so the key meaning lands right away.
+- 'Good afternoon, I have a question.' Senya holds a firm tack for Fedya, putting "dobryy" ("good") alongside "den" ("day") in a tight, everyday turn of phrase.
+- 'Can the independent observer not watch?' Senya presses firmly as they speak, putting "nezavisimyy" ("independent") alongside "nablyudatel" ("observer") in a tight, everyday turn of phrase.
+- 'No, one cannot do that at all.' Timur favors a clear mood at once, linking "delat" ("do"), "sovsem" ("at all"), and "nelzya" ("not allowed") in one brisk exchange.
+- 'Understood, and what if like this?' Senya presses bluntly beside Timur, leaning on "ponyatno" ("clear") before closing the thought with "yesli" ("if").
+- 'Great, now you have voted fairly.' Timur keeps a frank posture in the scene, putting "otlichno" ("perfect, great") alongside "teper" ("now") in a tight, everyday turn of phrase.
+- 'Let us sum up the results of our fair contest.' Timur shows a measured note at this moment, weaving "podvodim" ("we sum up") together with "itogi" ("result, total") just the way native speakers do.
+- 'Today Arseny won the election!' Timur presents a lively attitude with Fedya, joining "segodnya" ("today") to "vyborakh" ("election") so every word pulls its weight.
+- 'How did he suddenly win like that?' Fedya queries calmly beside Timur, putting "kak" ("how") alongside "vdrug" ("suddenly, what if") in a tight, everyday turn of phrase.
+- 'Does anyone have any objections right now?' Timur tests decisively right away, using "yest" (from "byt", "there is") alongside "seychas" ("now") to shape the meaning.
+- 'You can take the ballots for salad.' Timur offers a natural style during the exchange, joining "mozhete" ("can, may") to "zabirat" ("take back, pick up") so every word pulls its weight.

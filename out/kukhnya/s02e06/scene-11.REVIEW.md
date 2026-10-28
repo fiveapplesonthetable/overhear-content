@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to talk.' Needing to talk moves the conversation forward without extra drama.
-- 'Have you started hiring deaf people now, or what?' Asking whether Nagiyev started hiring deaf people now is how Max puts Nagiyev on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Maybe we could?' Wondering if maybe they could shows Nagiyev caught off guard.
-- 'Let us talk it over at a table in the dining room?' Here proposing that they talk it over at a table in the dining room shows Max looking for the real truth. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'I decide for myself where I talk things over, understood?' When Nagiyev asks if he decides for himself where he talks things over understood, Max has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Stand up and walk out.' Standing up and walk out is how Max lays out the situation for Nagiyev.
-- 'He will not stand up, I mean he will not walk out.' Even though he will not stand up he means he will not walk out, Nagiyev keeps a steady face in front of Max.
-- 'Oh, you mean in that sense?' Wondering if Nagiyev means in that sense shows Max caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Were you guys frying mushrooms in there, or what?' Checking whether Max guys frying mushrooms in there cuts straight through the tension between Nagiyev and Max.
-- 'We will talk tomorrow.' Once they will talk tomorrow, Max can finally tell Nagiyev what he means.
-- 'What subordination means.' Adding that what subordination means fills in the missing piece for Max.
-- 'You are working for a month without pay.' Saying that Nagiyev is working for a month without pay is how Max sets the tone with Nagiyev.
-- 'I have said everything I had to say.' By having said everything he had to say, Nagiyev keeps his side of the story grounded.
+- 'We need to talk.' Nagiyev displays a resolute position without hesitation, leaning on "pogovorit" ("to talk") before closing the thought with "nam" ("us").
+- 'Have you started hiring deaf people now, or what?' Max asks calmly for Nagiyev's benefit, joining "glukhikh" ("deaf, remote") to "stal" ("to become") so every word pulls its weight.
+- 'Maybe we could?' Nagiyev probes earnestly as they speak, joining "mozhet" ("can") to "byt" ("be") so every word pulls its weight.
+- 'Let us talk it over at a table in the dining room?' Max presses calmly across the room, pairing "davay" ("let's") with "peregovorim" ("to have a talk") to get the point across in plain spoken Russian.
+- 'I decide for myself where I talk things over, understood?' Nagiyev wonders quietly in their exchange, putting "reshayu" ("decide") alongside "gde" ("where") in a tight, everyday turn of phrase.
+- 'Stand up and walk out.' Max shows a frank tempo beside Nagiyev, pairing "vstal" ("stood up, got up") with "vyshel" ("stepped out") to get the point across in plain spoken Russian.
+- 'He will not stand up, I mean he will not walk out.' Nagiyev favors a playful footing in the scene, building the phrase around "vstanet" ("to stand up") and "smysle" ("sense") for a crisp, natural delivery.
+- 'Oh, you mean in that sense?' Max checks boldly across the room, joining "smysle" ("sense") to "etom" ("that") so every word pulls its weight.
+- 'Were you guys frying mushrooms in there, or what?' Nagiyev tests openly toward Max here, combining "griby" ("mushrooms") and "zharili" ("to fry, to roast") so the key meaning lands right away.
+- 'We will talk tomorrow.' Max adopts a firm course for Nagiyev, weaving "zavtra" ("tomorrow") together with "peregovorim" ("to have a talk") just the way native speakers do.
+- 'What subordination means.' Nagiyev displays an emphatic tack in this beat, weaving "subordinatsiya" ("chain of command") together with "chto" ("what") just the way native speakers do.
+- 'You are working for a month without pay.' Max strikes a brisk posture during the exchange, weaving "mesyats" ("month") together with "rabotayesh" ("are working") just the way native speakers do.
+- 'I have said everything I had to say.' Nagiyev keeps a clear mood in this beat, linking "skazal" ("said"), "ya" ("I"), and "vse" ("all") in one brisk exchange.

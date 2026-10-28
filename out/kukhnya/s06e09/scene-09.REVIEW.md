@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything is very tasty, simply top-notch.' Saying that everything is very tasty simply top notch is how Elena sets the tone with Barinov.
-- 'How do you like the atmosphere of our new restaurant?' Asking how Elena likes the atmosphere of their new restaurant cuts straight through the tension between Barinov and Elena.
-- 'Yes, everything is as usual, very worthy.' Adding that everything is as usual very worthy fills in the missing piece for Barinov.
-- 'Then write a good article in your magazine.' Barinov explains that Elena should write a good article in Elena's magazine, keeping his voice calm and direct.
-- 'I cannot, my opinion will be biased.' Since she cannot her opinion will be biased, Elena does not waste words on excuses.
-- 'But after all, those are your honest words!' Once after all those are Elena's honest words, Barinov makes sure Elena hears every word. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Vitya, I do not want to ruin my reputation.' With the dish and kitchen in play, Elena keeps this short reply brisk and direct.
-- 'Then why are you praising a competitor behind my back?' Here asking why Elena praising a competitor behind his back is shows Barinov looking for the real truth.
-- 'Why behind your back, nobody is hiding anything.' Explaining that why behind Barinov's back nobody is hiding anything lays the cards on the table for Barinov. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'First I publish my review on the internet.' With the dish and work in play, Elena keeps this short reply brisk and direct.
-- 'I never go on that website.' Claiming that he never goes on that website sounds confident, even if Elena has doubts.
-- 'By the way, I am also on your friends list there.' Being also on Barinov's friends list there is how Elena lays out the situation for Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Please bring the guest a clean fork.' Even though Elena should bring the guest a clean fork, Barinov keeps a steady face in front of Elena.
+- 'Everything is very tasty, simply top-notch.' Elena brings a frank bearing without hesitation, weaving "ochen" ("very much") together with "vkusno" ("it's tasty") just the way native speakers do.
+- 'How do you like the atmosphere of our new restaurant?' Barinov questions evenly during the talk, pairing "kak" ("how") with "atmosfera" ("atmosphere") to get the point across in plain spoken Russian.
+- 'Yes, everything is as usual, very worthy.' Elena keeps an easygoing tone in the scene, weaving "kak" ("how") together with "obychno" ("usually") just the way native speakers do.
+- 'Then write a good article in your magazine.' Barinov brings a firm tone at once, joining "togda" ("back then") to "napishi" ("write") so every word pulls its weight.
+- 'I cannot, my opinion will be biased.' Elena shares a steady note in their talk, pairing "mogu" ("can") with "mneniye" ("opinion") to get the point across in plain spoken Russian.
+- 'But after all, those are your honest words!' Barinov brings a thoughtful view beside Elena, building the phrase around "chestnyye" ("honest") and "slova" ("words") for a crisp, natural delivery.
+- 'Vitya, I do not want to ruin my reputation.' Elena conveys a sharp tone for Barinov, joining "khochu" ("want") to "portit" ("to spoil, to ruin") so every word pulls its weight.
+- 'Then why are you praising a competitor behind my back?' Barinov tests dryly right away, putting "zachem" ("what for") alongside "spinoy" ("back") in a tight, everyday turn of phrase.
+- 'Why behind your back, nobody is hiding anything.' Elena favors a thoughtful angle in front of Barinov, joining "pochemu" ("why") to "spinoy" ("back") so every word pulls its weight.
+- 'First I publish my review on the internet.' Elena takes an easygoing mood in their talk, anchoring the Russian line on "snachala" ("first, at first") and "publikuyu" ("I publish") without extra filler.
+- 'I never go on that website.' Barinov adopts a clear style in the scene, putting "nikogda" ("never") alongside "zakhozhu" ("to come in") in a tight, everyday turn of phrase.
+- 'By the way, I am also on your friends list there.' Elena keeps an easygoing tone without hesitation, building the phrase around "kstati" ("by the way") and "tozhe" ("too") for a crisp, natural delivery.
+- 'Please bring the guest a clean fork.' Barinov shares a natural tack as the scene unfolds, combining "prinesite" ("bring") and "gostye" ("guest") so the key meaning lands right away.

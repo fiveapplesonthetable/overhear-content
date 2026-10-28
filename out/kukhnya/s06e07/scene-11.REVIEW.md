@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He simply does not want to complain to you.' Explaining that he simply does not want to complain to Barinov lays the cards on the table for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'He would have made a very good husband.' Ainura tells Barinov that he would have made a very good husband without dressing it up.
-- 'It is a great pity that he will die soon.' Claiming that it is a great pity that he will die soon sounds confident, even if Barinov has doubts.
-- 'Listen to my good advice for you right now.' With the surprise and doctor in play, Ainura keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Later on it will be much harder for you.' Ainura explains that later on it will be much harder for Barinov, keeping her voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Vitya, I decided to thank chief doctor Anya.' Realizing that she decided to thank chief doctor Anya changes how Elena handles the situation.
-- 'She and her husband can have lunch at your place.' Noting that she and her husband can have lunch at Ainura's place keeps Elena's side of the story simple and clear. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Will you feed them something delicious today?' Here asking whether Ainura feeds them something delicious today shows Elena looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Of course, fine, let them come.' Admitting that fine let them come shows Barinov being honest for a change.
-- 'Only I will not be able to greet them myself.' Saying that only he will not be able to greet them himself is how Barinov sets the tone with Ainura.
-- 'I need to leave urgently in an hour.' Saying that he needs to leave urgently in an hour is how Barinov sets the tone with Ainura. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Go greet Anya, they have already arrived!' By telling Ainura to go greet Anya they have already arrived, Elena raises the stakes in the room at once.
+- 'He simply does not want to complain to you.' Ainura brings an emphatic line for Barinov, combining the softening word "prosto" ("simply, just") with "zhalovatsya" ("complain") to give the line its natural spoken rhythm.
+- 'He would have made a very good husband.' Ainura strikes a serious mood in the conversation, weaving "vyshel" ("stepped out") together with "ochen" ("very much") just the way native speakers do.
+- 'It is a great pity that he will die soon.' Ainura maintains a firm approach in front of Barinov, combining "ochen" ("very much") and "zhalko" ("feel sorry for") so the key meaning lands right away.
+- 'Listen to my good advice for you right now.' Ainura shows a candid mood across the room, pairing "seychas" ("now") with "poslushay" ("listen") so the "-sya" ending carries the action.
+- 'Later on it will be much harder for you.' Ainura holds a clear tone for Barinov, building the phrase around "potom" ("then") and "budet" ("will be") for a crisp, natural delivery.
+- 'Vitya, I decided to thank chief doctor Anya.' Elena picks a wry view in the room, anchoring the Russian line on "reshila" ("decided") and "glavvracha" ("chief doctor") without extra filler.
+- 'She and her husband can have lunch at your place.' Elena holds a thoughtful bearing in front of Ainura, anchoring the Russian line on "muzhem" ("husband") and "mogut" ("can") without extra filler.
+- 'Will you feed them something delicious today?' Elena questions promptly during the talk, combining "pokormish" ("will feed") and "segodnya" ("today") so the key meaning lands right away.
+- 'Of course, fine, let them come.' Barinov picks a pointed style with Ainura, pairing "konechno" ("of course") with "khorosho" ("good, fine") to get the point across in plain spoken Russian.
+- 'Only I will not be able to greet them myself.' Barinov holds an emphatic manner in their talk, leaning on "tolko" ("only") before closing the thought with "vstretit" ("to meet").
+- 'I need to leave urgently in an hour.' Barinov favors a grounded view at once, anchoring the Russian line on "chas" ("hour") and "nuzhno" ("necessary") without extra filler.
+- 'Go greet Anya, they have already arrived!' Elena chooses an emphatic tempo during the exchange, pairing "idi" ("go") with "vstrechay" ("to meet, to welcome") to get the point across in plain spoken Russian.

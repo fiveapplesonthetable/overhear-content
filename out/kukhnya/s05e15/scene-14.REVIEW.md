@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, we give the rice-paper menu to the guest.' Giving the rice paper menu to the guest moves the conversation forward without extra drama.
-- 'And we quietly give the plain-paper menu to Eleonora.' Over the friend and the conversation, Vika answers Elena without a second thought.
-- 'She is not going to eat paper in the dining room herself!' Insisting that she is not going to eat paper in the dining room herself shows Max is not backing down.
-- 'Can you imagine, instead of supporting me Vitya defended Gena!' Once can Max imagines instead of supporting her Vitya defended, Elena makes sure Max hears every word. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'He still has not apologized to me.' Elena mentions that he still has not apologized so Max sees what is at stake.
-- 'He has not even called me once today!' Elena insists that he has not even called her once today, leaving Max no room to argue.
-- 'Why are you always drawn to men like that?' Here wondering why Elena always drawn to men like is shows Vika looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Is living quietly on your own too boring for you?' By asking whether living quietly on Elena's own too boring for Elena, Vika presses Elena for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'So you think that I am to blame myself?' Questioning whether Max thinks that she is to blame herself is how Elena tests Max's story.
-- 'Thank you very much for the support, dear friend!' Over the menu and the guest, Elena lets her real feelings show. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Tell me instead, what am I supposed to do about this now?' Elena asks whether tell her instead what am she supposed to do about this now, refusing to let the point slide. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You just need to relax, is there wine at home?' Asking whether Elena just need to relax is there wine at home puts Elena right on the defensive.
+- 'So, we give the rice-paper menu to the guest.' Vika chooses a pointed posture straight away, building the phrase around "znachit" ("then, so") and "menyu" ("menu") for a crisp, natural delivery.
+- 'And we quietly give the plain-paper menu to Eleonora.' Vika holds a thoughtful tempo as the scene unfolds, joining "menyu" ("menu") to "prostoy" ("simple, ordinary") so every word pulls its weight.
+- 'She is not going to eat paper in the dining room herself!' Max shows a candid attitude at once, weaving "stanet" ("will become") together with "yest" ("there is") just the way native speakers do.
+- 'Can you imagine, instead of supporting me Vitya defended Gena!' Elena keeps a resolute bearing during the exchange, using "predstavlyayesh" (from "predstavlyat", "can you imagine") alongside "vecher" ("evening") to shape the meaning.
+- 'He still has not apologized to me.' Elena presents a grounded mood in front of Max, linking "por" ("time"), "izvinilsya" ("apologised"), and "on" ("he") in one brisk exchange.
+- 'He has not even called me once today!' Elena keeps a playful stance toward Vika, weaving "razu" ("time, occasion") together with "segodnya" ("today") just the way native speakers do.
+- 'Why are you always drawn to men like that?' Vika challenges firmly as the beat lands, joining "pochemu" ("why") to "vsegda" ("always") so every word pulls its weight.
+- 'Is living quietly on your own too boring for you?' Vika quizzes earnestly without a pause, anchoring the Russian line on "slishkom" ("too") and "skuchno" ("boring") without extra filler.
+- 'So you think that I am to blame myself?' Elena challenges steadily with Max now, joining "yest" ("there is") to "schitayesh" ("to count, to think") so every word pulls its weight.
+- 'Thank you very much for the support, dear friend!' Elena presents an emphatic line as they talk, leaning on "bolshoye" ("big, very much") before closing the thought with "spasibo" ("thank you").
+- 'Tell me instead, what am I supposed to do about this now?' Elena prompts directly on the spot, putting "skazhi" ("say") alongside "luchshe" ("better") in a tight, everyday turn of phrase.
+- 'You just need to relax, is there wine at home?' Vika queries directly in their exchange, leaning on "nado" ("it is necessary") before closing the thought with "prosto" ("just").

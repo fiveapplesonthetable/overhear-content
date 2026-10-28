@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Was that you yelling in there, or what?' Asking whether that Max yelling in there is how the guest puts Max on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Go on, darling, show him right now.' By going on darling show him right now, Vika keeps her side of the story grounded.
-- 'Show how men solve problems.' Adding that the guest should show how men solve problems fills in the missing piece for the guest.
-- 'Because I did not catch it the first time.' Adding that because she did not catch it the first time fills in the missing piece for the guest.
-- 'I was just joking back then...' Noting that he was just joking back then keeps Max's side of the story simple and clear.
-- 'And what do I need such a man for?' Here wondering what she needs such a man shows Vika looking for the real truth.
-- 'Now here is a real, strong man!' Insisting that here is a real strong man shows Vika is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Tell me, are you married right now?' Asking whether tell her are the guest married right now puts the guest right on the defensive. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Well, come along with me if you want.' Telling Max to come along with him if Max wants is how the guest lays out the situation for Max.
-- 'Hey, leave her alone, she is my wife!' Telling the guest to leave her alone she is his wife is Max's blunt reaction in front of the guest. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'She just said she does not need you.' The guest mentions that she just said she does not need Max so Max sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Let's go home, my savior.' Mentioning that they should go home her savior moves the talk in a new direction.
+- 'Was that you yelling in there, or what?' The guest asks honestly as the talk turns, pairing "tam" ("there") with "krichal" ("yelled") to get the point across in plain spoken Russian.
+- 'Go on, darling, show him right now.' Vika presents a clear posture beside Max, putting "dorogoy" ("dear") alongside "pokazhi" ("show") in a tight, everyday turn of phrase.
+- 'Show how men solve problems.' Vika displays a lively view right away, combining "pokazhi" ("show") and "kak" ("how") so the key meaning lands right away.
+- 'Because I did not catch it the first time.' Vika holds a warm angle straight away, weaving "pervogo" ("first") together with "raza" ("time") just the way native speakers do.
+- 'I was just joking back then...' Max establishes a grounded style at this moment, anchoring the Russian line on "prosto" ("just") and "poshutil" ("to joke") without extra filler.
+- 'And what do I need such a man for?' Vika tests pointedly right away, leaning on "zachem" ("what for") before closing the thought with "muzhchina" ("man").
+- 'Now here is a real, strong man!' Vika shows a thoughtful stance at this moment, weaving "nastoyashchiy" ("real, genuine") together with "silnyy" ("the strong") just the way native speakers do.
+- 'Tell me, are you married right now?' Vika tests openly as the talk turns, pairing "skazhite" ("tell") with "seychas" ("now") to get the point across in plain spoken Russian.
+- 'Well, come along with me if you want.' The guest sets a calm view as they talk, leaning on "poydyom" ("let's go") before closing the thought with "khochesh" ("do you want").
+- 'Hey, leave her alone, she is my wife!' Max shows a clear stance toward Vika, weaving "ostav" ("keep, leave") together with "zhena" ("wife") just the way native speakers do.
+- 'She just said she does not need you.' The guest brings a steady rhythm in the conversation, leaning on "skazala" ("told") before closing the thought with "nuzhen" ("is needed").
+- 'Let's go home, my savior.' Vika chooses a steady tempo in the scene, pairing "poydyom" ("let's go") with "domoy" ("home") to get the point across in plain spoken Russian.

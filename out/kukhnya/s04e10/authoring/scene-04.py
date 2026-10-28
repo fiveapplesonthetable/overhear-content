@@ -7,7 +7,7 @@ SCENE = 4
 TITLE = 'Захват ресторана  (The Restaurant Siege)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'kostya': 'Костя', 'nagiyev': 'Нагиев', 'vika': 'Вика'}
+LABELS = {'kostya': 'Костя', 'nagiyev': 'Нагиев', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S4.10'
 SOURCE_FILE = 'sources/kukhnya/s04/e10.ru.srt'
 INTRO = "Inside Senya's action-movie fantasy, Dmitry Nagiyev bursts into the dining room as a slick gang boss taking the restaurant hostage, only to discover one heroic cook is missing."
@@ -22,24 +22,24 @@ STORY = [
     ('nagiyev', 'А сейчас прошу всех в зал.', 'And now I ask everyone into the dining room.', [(38, 'А сейчас я попрошу всех пройти в зал')], 'adapted for A1 clarity'),
     ('kostya', 'Ты слышала про стокгольмский синдром?', 'Have you heard about Stockholm syndrome?', [(40, 'про стольгольмский синдром')], 'adapted for A1 clarity'),
     ('kostya', 'Жертвы испытывают симпатию к захватчикам.', 'Victims feel sympathy toward their captors.', [(40, 'жертвы испытывают симпатий')], 'adapted for A1 clarity'),
-    ('vika', 'Извините, пожалуйста, можно вопрос?', 'Excuse me, please, may I ask a question?', [(41, 'Извините, пожалуйста, а можно')], 'adapted for A1 clarity'),
-    ('vika', 'Можно бармена ко мне привязать?', 'Could you tie the bartender to me instead?', [(41, 'а можно бармена не к ней, а ко мне привязать')], 'adapted for A1 clarity'),
+    ('senya', 'Извините, пожалуйста, можно вопрос?', 'Excuse me, please, may I ask a question?', [(41, 'Извините, пожалуйста, а можно')], 'adapted for A1 clarity'),
+    ('senya', 'Можно бармена ко мне привязать?', 'Could you tie the bartender to me instead?', [(41, 'а можно бармена не к ней, а ко мне привязать')], 'adapted for A1 clarity'),
     ('nagiyev', 'По списку не хватает повара.', 'According to the list, one cook is missing.', [(42, 'По списку не хватает одного повара')], 'adapted for A1 clarity'),
     ('nagiyev', 'Его зовут Арсений Чуганин.', 'His name is Arseny Chuganin.', [(43, 'Арсений Чуганин')], 'adapted for A1 clarity'),
     ('nagiyev', 'Где этот опасный повар?', 'Where is this dangerous cook?', [(42, 'не хватает одного повара')], 'adapted for A1 clarity'),
-    ('vika', 'Он сегодня на кухне.', 'He is in the kitchen today.', [(42, 'одного повара')], 'adapted for A1 clarity'),
+    ('senya', 'Он сегодня на кухне.', 'He is in the kitchen today.', [(42, 'одного повара')], 'adapted for A1 clarity'),
 ]
 WALK = [
-    (0, None, "'Good afternoon, gentlemen and ladies.' With the truth and boss in play, Nagiyev keeps this short reply brisk and direct."),
-    (1, None, '\'I will allow myself to correct you.\' Since he will allow himself to correct Kostya, Nagiyev does not waste words on excuses. Notice how he sticks to the formal "you", keeping a professional line between them.'),
-    (2, None, "'We are not terrorists, we are businessmen.' Mentioning that they are not terrorists they are businessmen moves the talk in a new direction."),
-    (3, None, "'And now I ask everyone into the dining room.' Because he asks everyone into the dining room, Nagiyev treats the matter as settled."),
-    (4, None, '\'Have you heard about Stockholm syndrome?\' By checking whether Nagiyev heard about syndrome, Kostya presses Nagiyev for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (5, None, "'Victims feel sympathy toward their captors.' With the restaurant and boss in play, Kostya keeps this short reply brisk and direct."),
-    (6, None, "'Excuse me, please, may I ask a question?' Asking whether may she asks a question puts Kostya right on the defensive."),
-    (7, None, '\'Could you tie the bartender to me instead?\' Here checking whether Kostya tie the bartender to her instead shows Vika looking for the real truth. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
-    (8, None, "'According to the list, one cook is missing.' Pointing out that according to the list one cook is missing gives Kostya a sobering reality check."),
-    (9, None, "'His name is Arseny Chuganin.' Nagiyev explains that his name is Chuganin, keeping his voice calm and direct."),
-    (10, None, '\'Where is this dangerous cook?\' Asking where this dangerous cook is is how Nagiyev puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (11, None, "'He is in the kitchen today.' Noting that he is in the kitchen today keeps Vika's side of the story simple and clear."),
+    (0, None, '\'Good afternoon, gentlemen and ladies.\' Nagiyev establishes a measured line at once, leaning on "dobryy" ("good") before closing the thought with "den" ("day").'),
+    (1, None, '\'I will allow myself to correct you.\' Nagiyev brings a pointed stance at once, putting "pozvolyu" ("will allow") alongside "popravit" ("to straighten") in a tight, everyday turn of phrase.'),
+    (2, None, '\'We are not terrorists, we are businessmen.\' Nagiyev takes a firm tone for Kostya, joining "terroristy" ("terrorists") to "biznesmeny" ("businessmen") so every word pulls its weight.'),
+    (3, None, '\'And now I ask everyone into the dining room.\' Nagiyev shares a frank style with Senya, pairing "seychas" ("now") with "proshu" ("beg, ask") to get the point across in plain spoken Russian.'),
+    (4, None, '\'Have you heard about Stockholm syndrome?\' Kostya presses boldly in front of Nagiyev, pairing "slyshala" ("to hear") with "stokgolmskiy" ("syndrome") to get the point across in plain spoken Russian.'),
+    (5, None, '\'Victims feel sympathy toward their captors.\' Kostya chooses an honest angle in front of Senya, anchoring the Russian line on "zhertvy" ("victim, sacrifice") and "ispytyvayut" ("to experience") without extra filler.'),
+    (6, None, '\'Excuse me, please, may I ask a question?\' Senya questions openly as the beat lands, linking "izvinite" ("sorry, excuse me"), "mozhno" ("may, can"), and "vopros" ("question, matter") in one brisk exchange.'),
+    (7, None, '\'Could you tie the bartender to me instead?\' Senya checks boldly as the talk turns, joining "mozhno" ("may, can") to "barmena" ("bartender") so every word pulls its weight.'),
+    (8, None, '\'According to the list, one cook is missing.\' Nagiyev holds an honest footing straight away, using "spisku" (from "spisok", "list") alongside "khvatayet" ("grabs") to shape the meaning.'),
+    (9, None, '\'His name is Arseny Chuganin.\' Nagiyev adopts an honest attitude in their talk, anchoring the Russian line on "zovut" ("call") and "yego" ("him") without extra filler.'),
+    (10, None, '\'Where is this dangerous cook?\' Nagiyev quizzes honestly in front of Kostya, combining "gde" ("where") and "opasnyy" ("dangerous") so the key meaning lands right away.'),
+    (11, None, '\'He is in the kitchen today.\' Senya conveys a calm manner with Nagiyev, placing "segodnya" ("today") straight beside "kukhne" ("kitchen") with no word for "to be" needed.'),
 ]

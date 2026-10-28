@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No, guys, I have too important a day tomorrow.' Mentioning that guys he has too important a day tomorrow moves the talk in a new direction.
-- 'Chef, if you do not drink, I will hang the painting by the entrance!' Once if Barinov does not drink he will hang the painting by the entrance, the guest makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Let all the restaurant guests admire your beauty!' Letting all the restaurant guests admire Barinov's beauty is the guest's blunt reaction in front of Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Wait, artist, you and I did not agree on that!' Barinov insists that artist the guest and he did not agree, leaving the guest no room to argue.
-- 'Hand that painting over here, I will tear it up right now!' Insisting that the guest should hand that painting over here he will tear it up right now shows Barinov is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Give it back, you are supposed to be a grown man!' Telling Barinov to give it back Barinov is supposed to be a grown man shows the guest is done holding back. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Wait, guys, this is edible rice paper after all!' Because guys this is edible rice paper after all, Barinov does not bother softening the blow for the guest.
-- 'Here we have found a great snack for the table!' Insisting that here they have found a great snack for the table shows Barinov is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Viktor Petrovich, share a piece of the painting with us!' Here telling Barinov to share a piece of the painting with them lets Senya's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Here you go, Senya, take a piece quickly, everyone!' Declaring that here the guest goes Senya take a piece quickly everyone brings Barinov's temper right to the surface.
-- 'Senya, tell me, what part of the painting are you eating right now?' The guest asks whether tell him what part of the painting are Barinov eating right now, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I do not know, but it tastes pretty good actually!' Because he does not know but it tastes pretty good actually, Senya does not bother softening the blow for Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'No, guys, I have too important a day tomorrow.' Barinov presents a firm course at once, pairing "rebyata" ("the boys, the lads") with "zavtra" ("tomorrow") to get the point across in plain spoken Russian.
+- 'Chef, if you do not drink, I will hang the painting by the entrance!' The guest presents a steady position on the spot, combining "vypyete" ("to drink") and "poveshu" ("hang up") so the key meaning lands right away.
+- 'Let all the restaurant guests admire your beauty!' The guest projects a natural footing toward Barinov, pairing "lyubuyutsya" ("to admire") with "gosti" ("visitors, guests") so the "-sya" ending carries the action.
+- 'Wait, artist, you and I did not agree on that!' Barinov adopts an earnest note with Senya, combining "postoy" ("wait") and "khudozhnik" ("artist, painter") so the key meaning lands right away.
+- 'Hand that painting over here, I will tear it up right now!' Barinov presents an honest bearing on the spot, pairing "day-ka" ("give") with "kartinu" ("painting, picture") to get the point across in plain spoken Russian.
+- 'Give it back, you are supposed to be a grown man!' The guest offers a steady tone without hesitation, building the phrase around "otday" ("give back") and "nazad" ("ago") for a crisp, natural delivery.
+- 'Wait, guys, this is edible rice paper after all!' Barinov sets a clear stance with the guest, pairing "podozhdite" ("wait") with "rebyata" ("the boys, the lads") to get the point across in plain spoken Russian.
+- 'Here we have found a great snack for the table!' Barinov brings a sharp angle in the scene, putting "otlichnaya" ("excellent") alongside "zakuska" ("appetizer, snack") in a tight, everyday turn of phrase.
+- 'Viktor Petrovich, share a piece of the painting with us!' Senya picks a calm bearing at this moment, joining "podelites" ("to share") to "kusochkom" ("slice, little piece") so every word pulls its weight.
+- 'Here you go, Senya, take a piece quickly, everyone!' Barinov presents a steady attitude in their talk, combining "derzhi" ("here you go") and "razbirayte" ("take, grab") so the key meaning lands right away.
+- 'Senya, tell me, what part of the painting are you eating right now?' The guest questions dryly as the talk turns, combining "skazhi" ("say") and "chast" ("part") so the key meaning lands right away.
+- 'I do not know, but it tastes pretty good actually!' Senya projects a steady manner during the exchange, linking "znayu" ("know"), "vkus" ("taste"), and "ochen" ("very much") in one brisk exchange.

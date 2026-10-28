@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'With the Chef everything would have been different!' Barinov declares that with the Chef everything would have been different as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Darling, I can explain everything right now!' Because he can explain everything right now, Barinov does not bother softening the blow for Kostya. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Alright, quickly stop your wild imagination!' With the work and idea at stake, Barinov reacts without holding back.
-- 'At least look, Maxim forgot about his grief.' Admitting that at least look Maxim forgot about his grief shows Barinov being honest for a change. That little word "zato" means "on the bright side", flipping a complaint into an advantage.
-- 'Max, actually you are to blame for everything yourself.' Saying that Barinov is to blame for everything themselves is how Kostya sets the tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You had no business kissing Sasha back then.' Once Barinov had no business kissing Sasha back then, Kostya can finally tell Barinov what he means.
-- 'And I am not even arguing with that.' Even though he is not even arguing, Max keeps a steady face in front of Barinov.
-- 'Well, it is a mistake that you give up so easily.' Saying that it is a mistake that Barinov gives up so easily is how Kostya sets the tone with Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It seems to me that divorce is too harsh a punishment.' Saying that it seems to him that divorce is too harsh a punishment is how Kostya sets the tone with Barinov.
-- 'Especially for such a minor offense.' Turning from the court to the shift, Kostya keeps the exchange moving.
-- 'Yes, our former lawyer stepped in right away!' With the point and idea at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'It would be great if people were put on trial for cheating!' Declaring that it would be great if people were put on trial for cheating brings Barinov's temper right to the surface.
+- 'With the Chef everything would have been different!' Barinov brings a calm tack as the scene unfolds, anchoring the Russian line on "shefa" ("chef") and "bylo" ("was") without extra filler.
+- 'Darling, I can explain everything right now!' Barinov takes an easygoing tack straight away, combining "dorogaya" ("expensive") and "seychas" ("now") so the key meaning lands right away.
+- 'Alright, quickly stop your wild imagination!' Barinov sets a sharp view in the scene, linking "bystro" ("quickly"), "ostanovili" ("stopped"), and "buynuyu" ("wild, unruly") in one brisk exchange.
+- 'At least look, Maxim forgot about his grief.' Barinov conveys a candid footing right away, weaving "gore" ("grief, sorrow") together with "zabyl" ("forgot") just the way native speakers do.
+- 'Max, actually you are to blame for everything yourself.' Kostya projects a playful bearing in the room, building the phrase around "voobshche-to" ("actually") and "vinovat" ("at fault, guilty") for a crisp, natural delivery.
+- 'You had no business kissing Sasha back then.' Kostya picks a thoughtful direction right away, using "bylo" (from "byt", "was") alongside "togda" ("back then") to shape the meaning.
+- 'And I am not even arguing with that.' Max offers a brisk tempo beside Barinov, joining "sporyu" ("argue") to "ya" ("I") so every word pulls its weight.
+- 'Well, it is a mistake that you give up so easily.' Kostya sets a playful approach with Max, combining "zrya" ("for nothing") and "legko" ("easy") so the key meaning lands right away.
+- 'It seems to me that divorce is too harsh a punishment.' Kostya picks a natural stance straight away, anchoring the Russian line on "kazhetsya" ("it seems, I think") and "razvod" ("divorce, separation") without extra filler.
+- 'Especially for such a minor offense.' Kostya projects a wry rhythm across the room, building the phrase around "boleye" ("more") and "melkoye" ("small, fine") for a crisp, natural delivery.
+- 'Yes, our former lawyer stepped in right away!' Barinov chooses an emphatic attitude in the conversation, anchoring the Russian line on "byvshiy" ("ex") and "yurist" ("lawyer") without extra filler.
+- 'It would be great if people were put on trial for cheating!' Barinov brings an earnest tone as they talk, anchoring the Russian line on "bylo" ("was") and "zdorovo" ("great, cool") without extra filler.

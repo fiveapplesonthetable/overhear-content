@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And here I am.' Barinov explains that here he is, keeping his voice calm and direct.
-- 'Oh, young man, I barely recognized you!' Between the kitchen and the date, Elena delivers a sharp reaction. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'I have a toast.' Once she has a toast, Elena can finally tell Barinov what she means.
-- 'What a coincidence! And I have a desire to drink.' With the shift and dinner at stake, Barinov reacts without holding back. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Shall we drink to us?' With the shift and dinner hanging in the air, Elena puts Barinov on the spot. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'You know, I am very glad that we are together.' Pointing out that she is very glad that they are together gives Barinov a sobering reality check.
-- 'I am pleased that you listen to me.' Elena explains that she is pleased that Barinov listens, keeping her voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I fell in love with you just the way you are.' Adding that she fell in love with Barinov just the way Barinov is fills in the missing piece for Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And it does not matter to me how many kilograms are in you.' Elena tells Barinov that it does not matter to her how many kilograms are in Barinov without dressing it up.
-- 'Wait, you do not consider me a fat man?' Asking whether Elena does not consider him a fat man puts Elena right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Goodness, well of course not!' With the moment and dinner at stake, Elena reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'So for a whole week I tormented myself with diets in vain! You are simply a miracle!' Over the moment and the date, Barinov lets his real feelings show.
+- 'And here I am.' Barinov keeps a sharp manner with Elena, joining "vot" ("there, here") to "ya" ("I") so every word pulls its weight.
+- 'Oh, young man, I barely recognized you!' Elena takes a firm position in the scene, weaving "molodoy" ("young") together with "chelovek" ("a man, a person") just the way native speakers do.
+- 'I have a toast.' Elena adopts a grounded view across the room, combining "yest" ("there is") and "tost" ("toast") so the key meaning lands right away.
+- 'What a coincidence! And I have a desire to drink.' Barinov favors a natural attitude beside Elena, linking "sovpadeniye" ("coincidence"), "yest" ("there is"), and "zhelaniye" ("desire, craving") in one brisk exchange.
+- 'Shall we drink to us?' Elena presses frankly without holding back, weaving "davay" ("let's") together with "vypyem" ("will drink") just the way native speakers do.
+- 'You know, I am very glad that we are together.' Elena adopts a candid approach beside Barinov, combining "znayesh" ("know") and "ochen" ("very much") so the key meaning lands right away.
+- 'I am pleased that you listen to me.' Elena maintains a resolute footing as they talk, putting "priyatno" ("pleasant") alongside "prislushivayeshsya" ("listen to, heed") in a tight, everyday turn of phrase.
+- 'I fell in love with you just the way you are.' Elena presents a serious manner at once, combining "polyubila" ("fell in love with") and "yest" ("there is") so the key meaning lands right away.
+- 'And it does not matter to me how many kilograms are in you.' Elena shows a wry posture in the room, leaning on "vazhno" ("important, mattering") before closing the thought with "skolko" ("how much, so much").
+- 'Wait, you do not consider me a fat man?' Barinov presses evenly in their exchange, weaving "pogodi" ("wait") together with "schitayesh" ("to count, to think") just the way native speakers do.
+- 'Goodness, well of course not!' Elena strikes an honest direction across the room, weaving "konechno" ("of course") together with "gospodi" ("Good Lord") just the way native speakers do.
+- 'So for a whole week I tormented myself with diets in vain! You are simply a miracle!' Barinov sets a wry tack in the conversation, combining "znachit" ("then, so") and "zrya" ("for nothing") so the key meaning lands right away.

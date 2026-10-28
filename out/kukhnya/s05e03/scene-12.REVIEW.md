@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing in my room?' Asking what Barinov doing in his room is is how Nagiyev puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Excuse me, please, I cannot wait.' Mikhail tells Barinov that he cannot wait without dressing it up.
-- 'Give me just five minutes.' Mikhail mentions that Barinov should give him just five minutes so Barinov sees what is at stake.
-- 'Get out of here, I told you!' Getting out of here he told Barinov is Nagiyev's blunt reaction in front of Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Did Barinov decide to take revenge on me like this?' Here asking whether Barinov decide to take revenge on him like this shows Nagiyev looking for the real truth.
-- 'You cannot be trusted with anything.' Because Barinov cannot be trusted with anything, Mikhail treats the matter as settled. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Do we have girls of easy virtue?' Asking whether they have girls of easy virtue cuts straight through the tension between Mikhail and Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Go upstairs to the room right now.' Going upstairs to the room right now is how Mikhail lays out the situation for Barinov.
-- 'What are you doing here in my office?' Wondering what Mikhail doing here in his office is is how Barinov puts Mikhail on the spot. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Know that this is my revenge.' Knowing that this is his revenge is how Nagiyev lays out the situation for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'It is a dish that is served cold.' Saying that it is a dish that is served cold is how Nagiyev sets the tone with Barinov.
-- 'And I warmed it up for you.' Over the shift and the revenge, Nagiyev answers Barinov without a second thought. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Wait, did you kill my Arkady?!' Here asking whether Mikhail kills his Arkady shows Barinov looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I am eating poorly, I should go see a doctor.' Once he is eating poorly he should go see a doctor, Nagiyev can finally tell Barinov what he means.
+- 'What are you doing in my room?' Nagiyev probes quietly for Barinov's benefit, building the phrase around "nomere" ("in the hotel room") and "delayesh" ("are you doing") for a crisp, natural delivery.
+- 'Excuse me, please, I cannot wait.' Mikhail favors an unhurried approach as they talk, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "mogu" ("can") to shape the meaning.
+- 'Give me just five minutes.' Mikhail shows a playful manner beside Barinov, weaving "dayte" ("give") together with "minut" ("minutes") just the way native speakers do.
+- 'Get out of here, I told you!' Nagiyev offers a direct tone in front of Mikhail, using "idi" (from "idti", "go") alongside "otsyuda" ("from here") to shape the meaning.
+- 'Did Barinov decide to take revenge on me like this?' Nagiyev quizzes plainly as they speak, leaning on "reshil" ("has decided") before closing the thought with "otomstit" ("to take revenge").
+- 'You cannot be trusted with anything.' Mikhail sets a frank line toward Nagiyev, anchoring the Russian line on "doveryat" ("to trust") and "nelzya" ("not allowed") without extra filler.
+- 'Do we have girls of easy virtue?' Mikhail inquires pointedly from the start, using "yest" (from "byt", "there is") alongside "devushki" ("a girl") to shape the meaning.
+- 'Go upstairs to the room right now.' Mikhail brings a sharp direction without hesitation, joining "podnimis" ("go upstairs") to "seychas" ("now") so every word pulls its weight.
+- 'What are you doing here in my office?' Barinov prompts openly without a pause, building the phrase around "zdes" ("here") and "delayesh" ("are you doing") for a crisp, natural delivery.
+- 'Know that this is my revenge.' Nagiyev keeps a steady line in the scene, weaving "znay" ("to know") together with "mest" ("revenge") just the way native speakers do.
+- 'It is a dish that is served cold.' Nagiyev shares a grounded approach in this beat, pairing "blyudo" ("dish") with "podayut" ("they serve") to get the point across in plain spoken Russian.
+- 'And I warmed it up for you.' Nagiyev establishes an unhurried rhythm as the scene unfolds, leaning on "razogrel" ("warmed up") before closing the thought with "ya" ("I").
+- 'Wait, did you kill my Arkady?!' Barinov questions evenly right away, building the phrase around "ubil" ("killed") and "ty" ("you") for a crisp, natural delivery.
+- 'I am eating poorly, I should go see a doctor.' Nagiyev keeps an emphatic view as they talk, joining "pitayus" ("I eat") to "plokho" ("badly") so every word pulls its weight.

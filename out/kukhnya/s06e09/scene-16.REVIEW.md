@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This article is my beloved serious work.' Saying that this article is her beloved serious work is how Elena sets the tone with Barinov.
-- 'This is my new life, which I value.' Once this is her new life which she value, Elena can finally tell Barinov what she means. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Lena, please do not talk such nonsense.' Adding that someone please do not talk such nonsense fills in the missing piece for Elena.
-- 'Tell me honestly, what is my magazine even called?' Asking whether tell her honestly what is her magazine even called puts Barinov right on the defensive.
-- 'You yourself know very well what it is called.' Since Elena themselves know very well what it is called, Barinov does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Maybe you should not get married anymore at all?' With the kitchen and dinner hanging in the air, Elena puts Barinov on the spot. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Egoists like you do not need anyone.' Elena reminds Barinov that egoists like Barinov does not need anyone before the moment passes.
-- 'Lena, forgive me, we just got carried away today.' Because someone forgive him they just got carried away today, Barinov treats the matter as settled.
-- 'Let us right now just go ahead and forget everything.' By proposing that they right now just go ahead and forget everything, Barinov keeps his side of the story grounded. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'And I cannot forget so easily.' Because she cannot forget so easily, Elena treats the matter as settled.
-- 'This is just some foolish misunderstanding.' Claiming that this is just some foolish misunderstanding sounds confident, even if Barinov has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Right now we will discuss everything calmly at the table.' Admitting that right now they will discuss everything calmly at the table shows Lyova being honest for a change.
-- 'Mom, may I have you for literally one minute?' Asking whether Mom may he has Barinov for literally one minute puts Barinov right on the defensive.
+- 'This article is my beloved serious work.' Elena offers a warm posture for Barinov, weaving "statya" ("article, paper") together with "lyubimaya" ("favourite, beloved") just the way native speakers do.
+- 'This is my new life, which I value.' Elena displays a direct tack at this moment, anchoring the Russian line on "novaya" ("new") and "zhizn" ("life") without extra filler.
+- 'Lena, please do not talk such nonsense.' Barinov picks a brisk line as they talk, putting "govori" ("say, talk") alongside "yerundy" ("nonsense, trifle") in a tight, everyday turn of phrase.
+- 'Tell me honestly, what is my magazine even called?' Elena asks promptly with Lyova now, combining the conversational booster "voobshche" ("in general, overall") with "skazhi" ("say") to give the line its natural spoken rhythm.
+- 'You yourself know very well what it is called.' Barinov offers a candid stance at this moment, building the phrase around "prekrasno" ("perfectly") and "znayesh" ("know") for a crisp, natural delivery.
+- 'Maybe you should not get married anymore at all?' Elena prompts briskly to make the point, anchoring the Russian line on "mozhet" ("can") and "voobshche" ("at all") without extra filler.
+- 'Egoists like you do not need anyone.' Elena conveys an earnest line at this moment, joining "egoistam" ("to egoists") to "kak" ("how") so every word pulls its weight.
+- 'Lena, forgive me, we just got carried away today.' Barinov establishes a frank approach on the spot, using "izvini" (from "izvinit", "sorry, excuse me") alongside "segodnya" ("today") to shape the meaning.
+- 'Let us right now just go ahead and forget everything.' Barinov displays a playful posture as the scene unfolds, anchoring the Russian line on "davay" ("let's") and "seychas" ("now") without extra filler.
+- 'And I cannot forget so easily.' Elena takes a measured stance at once, using "mogu" (from "moch", "can") alongside "legko" ("easy") to shape the meaning.
+- 'This is just some foolish misunderstanding.' Lyova sustains a steady view for Barinov, combining the softening word "prosto" ("simply, just") with "glupoye" ("silly, foolish") to give the line its natural spoken rhythm.
+- 'Right now we will discuss everything calmly at the table.' Lyova establishes a warm approach in the conversation, combining "seychas" ("now") and "spokoyno" ("calmly") so the key meaning lands right away.
+- 'Mom, may I have you for literally one minute?' Lyova questions bluntly from the start, combining "mama" ("mum, mother") and "mozhno" ("may, can") so the key meaning lands right away.

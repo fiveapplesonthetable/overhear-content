@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, excuse me, you are not alone.' Because Elena is not alone, Lyova treats the matter as settled. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'You see, we were just watching television.' Explaining that they were just watching television lays the cards on the table for Lyova. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'I asked my son to change the lightbulb.' Mama mentions that she asked her son to change the lightbulb so Elena sees what is at stake.
-- 'We were on our way to the train station.' Claiming that they were on their way to the train station sounds confident, even if Lyova has doubts.
-- 'Excuse me, I do not quite understand.' Explaining that he does not quite understand lays the cards on the table for Elena.
-- 'Whose mother are you?' Wondering if whose mother are Lyova shows Elena caught off guard.
-- 'Is she your mother?' Asking whether she Elena's mother cuts straight through the tension between Lyova and Elena. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'I am Lyova's mother, Vera Ivanovna.' Explaining that she is Lyova mother Vera Ivanovna lays the cards on the table for Lyova.
-- 'Very pleased to meet you.' Around the plan and situation, Lyova sets a calm, everyday tone with Elena.
-- 'I can explain everything.' Admitting that she can explain everything shows Elena being honest for a change.
-- 'No, thank you.' Thanking Elena moves the conversation forward without extra drama.
-- 'Maybe some other time.' Between the plan and the situation, Elena gives Lyova a quick, grounded response.
-- 'Thank you very much.' With the room and moment in play, Lyova keeps this short reply brisk and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Oh, excuse me, you are not alone.' Lyova holds a playful line in the room, linking "prostite" ("excuse me"), "odin" ("one"), and "oy" ("oh") in one brisk exchange.
+- 'You see, we were just watching television.' Elena projects a playful direction with Mama, linking "znayete" ("know"), "smotrim" ("to look, to watch"), and "televizor" ("television") in one brisk exchange.
+- 'I asked my son to change the lightbulb.' Mama projects a warm note during the exchange, building the phrase around "syna" ("son") and "prosila" ("asked") for a crisp, natural delivery.
+- 'We were on our way to the train station.' Elena holds a direct tempo across the room, joining "yekhali" ("to go, to drive") to "vokzal" ("railway station") so every word pulls its weight.
+- 'Excuse me, I do not quite understand.' Lyova chooses an easygoing posture in their talk, combining "prostite" ("excuse me") and "ochen" ("very much") so the key meaning lands right away.
+- 'Whose mother are you?' Elena questions earnestly in this moment, pairing "mama" ("mum, mother") with "eto" ("this") to get the point across in plain spoken Russian.
+- 'Is she your mother?' Lyova asks plainly to Elena here, building the phrase around "mama" ("mum, mother") and "eto" ("this") for a crisp, natural delivery.
+- 'I am Lyova's mother, Vera Ivanovna.' Elena favors a playful course as they talk, joining "mama" ("mum, mother") to "ya" ("I") so every word pulls its weight.
+- 'Very pleased to meet you.' Lyova strikes a sharp approach as the scene unfolds, leaning on "ochen" ("very much") before closing the thought with "priyatno" ("pleasant").
+- 'I can explain everything.' Elena maintains a lively style in front of Mama, putting "obyasnyu" ("I'll explain") alongside "ya" ("I") in a tight, everyday turn of phrase.
+- 'No, thank you.' Lyova keeps an emphatic note in this beat, building the phrase around "blagodaryu" ("to thank") and "net" ("no") for a crisp, natural delivery.
+- 'Maybe some other time.' Elena chooses a sharp note as they talk, joining "drugoy" ("other") to "raz" ("time, once") so every word pulls its weight.
+- 'Thank you very much.' Lyova takes a sharp tone without hesitation, joining "blagodaryu" ("to thank") to "vas" ("you") so every word pulls its weight.

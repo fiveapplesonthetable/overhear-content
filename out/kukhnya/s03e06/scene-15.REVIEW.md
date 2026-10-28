@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Be a man, simply step aside.' Around the conversation and banquet, Nagiyev sets a calm, everyday tone with Barinov.
-- 'Alright, I understand you perfectly.' Even though Alright he understands Barinov perfectly, Max keeps a steady face in front of Barinov.
-- 'I cannot fire you right now.' Here refusing to fire Barinov right now sets up the next turn in their exchange. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'After all, I gave my honest word.' Saying that after all he gave his honest word is how Nagiyev sets the tone with Barinov.
-- 'Even though you are much younger than me.' Once even though Barinov is much younger than him, Nagiyev can finally tell Barinov what he means.
-- 'Tell me, do I sign everything here?' Questioning whether tell him do he signs everything here is how Max tests Barinov's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'To you, dear friend, happy anniversary!' With the room and point at stake, Barinov reacts without holding back. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well, how is our second banquet over there?' By asking how their second banquet over there is, Barinov presses Max for a straight answer.
-- 'It has not started yet, but the guests are already gathering.' Mentioning that it has not started yet but the guests are already gathering moves the talk in a new direction.
-- 'Chef, it seems heavy rain is brewing.' Max reminds Barinov that it seems heavy rain is brewing before the moment passes.
-- 'No, there will be no rain today.' Because there will be no rain today, Barinov treats the matter as settled.
-- 'Alright, then we keep working.' With the work and banquet in play, Max keeps this short reply brisk and direct.
+- 'Be a man, simply step aside.' Nagiyev establishes an easygoing line in the room, leaning on "bud" ("were he") before closing the thought with "muzhchinoy" ("man").
+- 'Alright, I understand you perfectly.' Max shares a clear position as the scene unfolds, linking "khorosho" ("good, fine"), "prekrasno" ("perfectly"), and "ponimayu" ("understand") in one brisk exchange.
+- 'I cannot fire you right now.' Nagiyev maintains a firm angle on the spot, pairing "seychas" ("now") with "uvolit" ("to fire") so the "-sya" ending carries the action.
+- 'After all, I gave my honest word.' Nagiyev holds a wry line in the room, weaving "dal" ("to give") together with "chestnoye" ("honest") just the way native speakers do.
+- 'Even though you are much younger than me.' Nagiyev sets an emphatic position in front of Barinov, putting "namnogo" ("much, far") alongside "molozhe" ("younger") in a tight, everyday turn of phrase.
+- 'Tell me, do I sign everything here?' Max inquires naturally on the spot, using "skazhite" (from "skazat", "tell") alongside "tut" ("here") to shape the meaning.
+- 'To you, dear friend, happy anniversary!' Barinov conveys a brisk mood straight away, weaving "dorogoy" ("dear") together with "drug" ("friend") just the way native speakers do.
+- 'Well, how is our second banquet over there?' Barinov questions boldly in this moment, weaving "kak" ("how") together with "tam" ("there") just the way native speakers do.
+- 'It has not started yet, but the guests are already gathering.' Max holds a grounded view in front of Barinov, joining "yeshchyo" ("more, still") to "nachalsya" ("started, broke out") so every word pulls its weight.
+- 'Chef, it seems heavy rain is brewing.' Max sustains a resolute approach at once, joining "kazhetsya" ("it seems, I think") to "silnyy" ("the strong") so every word pulls its weight.
+- 'No, there will be no rain today.' Barinov projects a candid note with Max, putting "segodnya" ("today") alongside "dozhdya" ("rain") in a tight, everyday turn of phrase.
+- 'Alright, then we keep working.' Max adopts a direct note in the scene, combining "togda" ("back then") and "prodolzhayem" ("we continue") so the key meaning lands right away.

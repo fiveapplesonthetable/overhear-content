@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'War is a matter of vital importance.' Kostya tells Nastya that war is a matter of vital importance without dressing it up. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'People have started throwing books into the trash.' Since people have started throwing books into the trash, Nastya does not waste words on excuses.
-- 'This country does not have long left.' Mentioning that this country does not have long left moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I am going to take a shower.' Nastya mentions that she is going to take a shower so Kostya sees what is at stake.
-- 'That must be the pizza.' Because that must be the pizza, Kostya treats the matter as settled.
-- 'Coming, I am coming!' Nastya insists that coming she is coming, leaving Kostya no room to argue. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'How much do I owe you?' Asking whether how much do he owes Nastya puts Nastya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Here you go, keep the change.' Claiming that here Kostya goes keep the change sounds confident, even if Kostya has doubts.
-- 'What pizza are you talking about?' Questioning whether what pizza are Nastya talking is how Kostya tests Nastya's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Who on earth are you?' When Nastya asks if who on earth are Kostya, Kostya has to answer fast. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Where do you think you are barging in?' Asking where Nastya thinks Nastya is barging is how Kostya puts Nastya on the spot.
-- 'Oh, and you reek of alcohol too.' Between the room and the kitchen, Nastya gives Kostya a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'If you do not want to do this the easy way, it is going to hurt.' Even though if Nastya does not want to do this the easy way it is going to hurt, Kostya keeps a steady face in front of Nastya.
+- 'War is a matter of vital importance.' Kostya holds a pointed bearing without hesitation, building the phrase around "voyna" ("a war") and "velikoye" ("great") for a crisp, natural delivery.
+- 'People have started throwing books into the trash.' Nastya conveys a measured attitude with Kostya, weaving "lyudi" ("people") together with "stali" ("to become") just the way native speakers do.
+- 'This country does not have long left.' Kostya presents a measured line on the spot, pairing "ostalos" ("was left") with "strany" ("country") so the "-sya" ending carries the action.
+- 'I am going to take a shower.' Nastya picks a measured footing as they talk, placing "dush" ("shower") straight beside "ya" ("I") with no word for "to be" needed.
+- 'That must be the pizza.' Kostya adopts a resolute tack at once, leaning on "pitstsa" ("pizza") before closing the thought with "vot" ("there, here").
+- 'Coming, I am coming!' Nastya chooses a steady position during the exchange, using "idu" ("going, running") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'How much do I owe you?' Kostya questions dryly toward Nastya here, combining "skolko" ("how much, so much") and "chto" ("what") so the key meaning lands right away.
+- 'Here you go, keep the change.' Nastya favors a candid style without hesitation, joining "derzhi" ("here you go") to "sdachi" ("change, surrender") so every word pulls its weight.
+- 'What pizza are you talking about?' Kostya queries plainly without hesitation, putting "pitstsu" ("pizza, pizza place") alongside "kakuyu" ("what") in a tight, everyday turn of phrase.
+- 'Who on earth are you?' Nastya presses sharply in front of Kostya, linking "voobshche" ("at all") directly with "vy" ("you"), since Russian drops "is" and "are" in the present.
+- 'Where do you think you are barging in?' Kostya prompts lightly toward Nastya here, joining "kuda" ("where to") to "lechish" ("to treat, to lecture") so every word pulls its weight.
+- 'Oh, and you reek of alcohol too.' Nastya adopts a thoughtful angle as they talk, combining "yeshche" ("still") and "pakhnet" ("it smells") so the key meaning lands right away.
+- 'If you do not want to do this the easy way, it is going to hurt.' Kostya maintains a candid mood across the room, anchoring the Russian line on "khochesh" ("do you want") and "po-khoroshemu" ("the easy way") without extra filler.

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e09.ru.srt'
 INTRO = 'At home on their day off, Max cooks an omelette to win Vika back after she gives him the silent treatment, right before Kostya drops off his toddler son Styopa for the morning.'
 OPENER = "Let's walk through each Russian line and see how Max and Kostya phrase things."
 TRANSITION = 'Now listen to the full exchange again at natural speed.'
-OUTRO = "When you watch the opening scene, listen for how Russian says 'we are family' in just three short words without any verb for 'to be'. Until next time!"
+OUTRO = "When you watch the opening scene, listen for how Russian says 'we are family' in just three short words without any word for 'to be'. Until next time!"
 CLOSING = ('max', 'Всего хорошего!')
 STORY = [
     ('max', 'Всегда приятно, когда вас любят.', 'It is always nice when people love you.', [(1, 'Всегда приятно, когда вас любят')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('kostya', 'Посидите со Стёпкой.', 'Sit with Styopa for a bit.', [(15, 'Посидите со Степкой')], ''),
 ]
 WALK = [
-    (0, None, "'It is always nice when people love you.' Because it is always nice when people love Kostya, Max treats the matter as settled."),
-    (1, None, '\'But worst of all is when they ignore you.\' Explaining that worst of all is when they ignore Kostya lays the cards on the table for Kostya. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (2, None, '\'Hi, I made an omelette for you.\' Max mentions that he made an omelette for Kostya so Kostya sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (3, None, "'There is no point getting angry at each other.' Claiming that there is no point getting angry at each other sounds confident, even if Kostya has doubts."),
-    (4, None, "'We are family, after all.' Pointing out that they are family after all gives Kostya a sobering reality check."),
-    (5, None, '\'Well, and what does that mean?\' Wondering what that mean cuts straight through the tension between Max and Kostya. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (6, None, "'Have you forgiven me?' Asking whether Kostya forgiven him is how Max puts Kostya on the spot."),
-    (7, None, "'We quarrel over such little things.' With the truth and silence in play, Max keeps this short reply brisk and direct."),
-    (8, None, '\'Soon we will have a baby.\' Even though soon they will have a baby, Max keeps a steady face in front of Kostya. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
-    (9, None, "'You have a day off today, right?' Wondering if Max has a day off today right shows Kostya caught off guard."),
-    (10, None, "'I slept so well.' Saying that he slept so well is how Kostya sets the tone with Max."),
-    (11, None, "'Sit with Styopa for a bit.' Saying that Max should sit with Styopa for a bit is how Kostya sets the tone with Max."),
+    (0, None, '\'It is always nice when people love you.\' Max conveys a calm tempo during the exchange, building the phrase around "vsegda" ("always") and "priyatno" ("pleasant") for a crisp, natural delivery.'),
+    (1, None, '\'But worst of all is when they ignore you.\' Max brings a playful note in the scene, building the phrase around "khuzhe" ("worse") and "kogda" ("when") for a crisp, natural delivery.'),
+    (2, None, '\'Hi, I made an omelette for you.\' Max maintains an unhurried line as they talk, leaning on "omlet" ("omelette") before closing the thought with "prigotovil" ("cooked").'),
+    (3, None, '\'There is no point getting angry at each other.\' Max picks a grounded attitude on the spot, using "stoit" (from "stoyat", "is parked") alongside "zlitsya" ("to be angry") to shape the meaning.'),
+    (4, None, '\'We are family, after all.\' Max favors a natural position in the conversation, linking "semya" ("family") directly with "my" ("we"), since Russian drops "is" and "are" in the present.'),
+    (5, None, '\'Well, and what does that mean?\' Max queries pointedly from the start, leaning on "znachit" ("then, so") before closing the thought with "nu" ("oh, come on").'),
+    (6, None, '\'Have you forgiven me?\' Max inquires pointedly right away, weaving "prostila" ("would forgive") together with "ty" ("you") just the way native speakers do.'),
+    (7, None, '\'We quarrel over such little things.\' Max adopts a pointed course right away, building the phrase around "melochey" ("such") and "ssorimsya" ("to quarrel") for a crisp, natural delivery.'),
+    (8, None, '\'Soon we will have a baby.\' Max picks an earnest posture in the scene, combining "skoro" ("soon") and "poyavitsya" ("shows up, appears") so the key meaning lands right away.'),
+    (9, None, '\'You have a day off today, right?\' Kostya asks calmly in front of Max, pairing "vykhodnoy" ("a day off") with "segodnya" ("today") to get the point across in plain spoken Russian.'),
+    (10, None, '\'I slept so well.\' Kostya keeps a playful direction as they talk, leaning on "khorosho" ("good, fine") before closing the thought with "vyspalsya" ("got enough sleep").'),
+    (11, None, '\'Sit with Styopa for a bit.\' Kostya conveys a steady manner during the exchange, linking "posidite" ("to sit for a while"), "styopkoy" ("bit"), and "so" ("with") in one brisk exchange.'),
 ]

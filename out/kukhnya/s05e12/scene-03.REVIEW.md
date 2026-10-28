@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you for giving me a ride.' Around the work and morning, Barinov sets a calm, everyday tone with Elena.
-- 'What are the plans for the evening?' By asking what the plans for the evening are, Elena presses Barinov for a straight answer.
-- 'None at all. Spartak is not playing today.' Around the point and car, Barinov sets a calm, everyday tone with Elena.
-- 'Do you even remember what day it is today?' Asking whether Barinov even remember what day it is today is how Elena puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Wednesday, why?' Over the hotel and the point, Barinov presses Elena for a straight answer.
-- 'On Friday it is Lyova's birthday.' Mentioning that on Friday it is Lyova birthday moves the talk in a new direction.
-- 'Thank you for reminding me!' With the morning and hotel at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Listen, can you turn off that annoying sound?' Checking whether Elena turns off that annoying sound is how Barinov puts Elena on the spot.
-- 'It infuriates me!' Between the morning and the moment, Barinov delivers a sharp reaction. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And it infuriates me that you forgot about my birthday!' Elena insists that it infuriates her that Barinov forgot about her birthday, leaving Barinov no room to argue. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Lena, wait!' With the morning and truth at stake, Barinov reacts without holding back.
-- 'I do not even want to see you!' Insisting that she does not even want to see Barinov shows Elena is not backing down. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Thank you for giving me a ride.' Barinov projects a serious tack in front of Elena, joining "spasibo" ("thank you") to "podvezla" ("gave a ride") so every word pulls its weight.
+- 'What are the plans for the evening?' Elena quizzes quietly for Barinov's benefit, using "plany" (from "plan", "plans") alongside "vecher" ("evening") to shape the meaning.
+- 'None at all. Spartak is not playing today.' Barinov favors a resolute tempo in front of Elena, linking "segodnya" ("today"), "igrayet" ("plays"), and "nikakikh" ("no ... at all") in one brisk exchange.
+- 'Do you even remember what day it is today?' Elena presses plainly toward Barinov here, building the phrase around "voobshche" ("at all") and "pomnish" ("do you remember") for a crisp, natural delivery.
+- 'Wednesday, why?' Barinov prompts dryly in the scene, pairing "sreda" ("Wednesday") with "chto" ("what") to get the point across in plain spoken Russian.
+- 'On Friday it is Lyova's birthday.' Elena conveys a candid note on the spot, putting "pyatnitsu" ("Friday") alongside "den" ("day") in a tight, everyday turn of phrase.
+- 'Thank you for reminding me!' Barinov offers an emphatic line in their talk, joining "spasibo" ("thank you") to "napomnila" ("reminded") so every word pulls its weight.
+- 'Listen, can you turn off that annoying sound?' Barinov probes pointedly with Elena now, linking "slushay" ("listen"), "mozhesh" ("can"), and "otklyuchit" ("to turn off") in one brisk exchange.
+- 'It infuriates me!' Barinov chooses a grounded bearing right away, leaning on "besit" ("infuriates") as a compact, one-word response that needs no extra words.
+- 'And it infuriates me that you forgot about my birthday!' Elena strikes a playful tone right away, linking "besit" ("infuriates"), "zabyl" ("forgot"), and "den" ("day") in one brisk exchange.
+- 'Lena, wait!' Barinov offers a calm manner beside Elena, joining "podozhdi" ("wait") to "lena" ("Lena") so every word pulls its weight.
+- 'I do not even want to see you!' Elena displays an unhurried tack in the scene, combining "videt" ("to see") and "khochu" ("want") so the key meaning lands right away.

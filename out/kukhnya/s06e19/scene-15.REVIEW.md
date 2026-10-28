@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There is still not enough food, Chef.' Pointing out that there is still not enough food gives Elena a sobering reality check.
-- 'We need to feed all the guests today.' Needing to feed all the guests today moves the conversation forward without extra drama.
-- 'Here are more fresh groceries for you.' Realizing that here are more fresh groceries for Elena changes how Mikhail handles the situation. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I have my own channels.' Saying that he has his own channels is how Mikhail sets the tone with Elena. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Vitya, the wedding ceremony is already starting.' Even though the wedding ceremony is already starting, Elena keeps a steady face in front of Katya.
-- 'Who is going to walk our bride right now?' Wondering who going to walk their bride right now is cuts straight through the tension between Elena and Katya. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, how are you, ready now?' Asking how Katya ready now is is how Elena puts Katya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yes, I suppose I am ready now.' Pointing out that she supposes she is ready now gives Elena a sobering reality check.
-- 'Do not worry, everything will be fine.' Adding that do not worry everything will be fine fills in the missing piece for Katya.
-- 'I was nervous before my wedding too.' Elena tells Katya that she was nervous before her wedding without dressing it up.
-- 'You must walk up to him.' Since Katya must walk up to him, Elena does not waste words on excuses.
-- 'Just look into his eyes.' Between the work and the banquet, Elena gives Katya a quick, grounded response.
+- 'There is still not enough food, Chef.' Mikhail displays a grounded manner in the conversation, linking "produktov" ("of groceries") directly with "ravno" ("the same"), since Russian drops "is" and "are" in the present.
+- 'We need to feed all the guests today.' Mikhail takes a natural tempo across the room, putting "nado" ("it is necessary") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
+- 'Here are more fresh groceries for you.' Mikhail adopts a natural angle straight away, building the phrase around "yeshchyo" ("more, still") and "svezhiye" ("fresh") for a crisp, natural delivery.
+- 'I have my own channels.' Mikhail opens up plainly as they speak, using the everyday "u menya" ("by me") alongside "yest" ("there is") to show what belongs to the speaker.
+- 'Vitya, the wedding ceremony is already starting.' Elena strikes a resolute attitude beside Katya, building the phrase around "svadebnaya" ("wedding") and "tseremoniya" ("ceremony") for a crisp, natural delivery.
+- 'Who is going to walk our bride right now?' Elena quizzes steadily to make the point, pairing "seychas" ("now") with "povedyot" ("will lead, walk") to get the point across in plain spoken Russian.
+- 'Well, how are you, ready now?' Elena questions openly toward Katya here, combining "kak" ("how") and "uzhe" ("already, now") so the key meaning lands right away.
+- 'Yes, I suppose I am ready now.' Katya takes a calm manner in front of Mikhail, joining "navernoye" ("probably") to "uzhe" ("already, now") so every word pulls its weight.
+- 'Do not worry, everything will be fine.' Elena establishes a calm course in their talk, combining "perezhivay" ("worry") and "budet" ("will be") so the key meaning lands right away.
+- 'I was nervous before my wedding too.' Elena adopts a measured angle in the room, combining "svadboy" ("wedding") and "tozhe" ("too") so the key meaning lands right away.
+- 'You must walk up to him.' Elena shares a frank position in the room, anchoring the Russian line on "dolzhna" ("should, must") and "podoyti" ("to walk up to") without extra filler.
+- 'Just look into his eyes.' Elena shows a direct mood without hesitation, linking "prosto" ("just"), "posmotri" ("look"), and "glaza" ("eyes") in one brisk exchange.

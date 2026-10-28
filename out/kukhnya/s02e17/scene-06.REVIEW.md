@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you not warn me you were coming?' Here asking why Kostya not warn her Kostya was coming shows Elena looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Why, is it strictly necessary to give a warning?' By wondering why it strictly necessary to give a warning is, Kostya presses Elena for a straight answer.
-- 'Well, no.' Between the friend and the work, Elena gives Kostya a quick, grounded response.
-- 'A brand-new aquarium.' With the friend and truth in play, Kostya keeps this short reply brisk and direct.
-- 'So why did you stop by?' Here wondering why Kostya stops shows Elena looking for the real truth.
-- 'A party. And who else if not you.' With the kitchen and friend in play, Kostya keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Alright then, let her come over here.' Mentioning that Alright then let her come over here moves the talk in a new direction.
-- 'No, she asked for us to drive over to her place.' Kostya reminds Elena that she asked for them to drive over to her place before the moment passes.
-- 'She has no free time at all.' Adding that she has no free time at all fills in the missing piece for Kostya. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Come on, Vitya, please.' Once Elena should come on Vitya please, Kostya can finally tell Elena what he means.
-- 'And everything will be right there.' Elena mentions that everything will be right there so Kostya sees what is at stake.
-- 'And then for me, well...' Over the shift and the visit, Kostya answers Elena without a second thought.
-- 'There you go, just like that.' Explaining that there Kostya goes just like lays the cards on the table for Kostya.
+- 'Why did you not warn me you were coming?' Elena presses pointedly as the beat lands, linking "predupredil" ("warned"), "ty" ("you"), and "chego" ("what") in one brisk exchange.
+- 'Why, is it strictly necessary to give a warning?' Kostya quizzes plainly right away, joining "nuzhno" ("necessary") to "obyazatelno" ("surely, without fail") so every word pulls its weight.
+- 'Well, no.' Elena chooses a sharp position straight away, weaving "da" ("yes") together with "net" ("no") just the way native speakers do.
+- 'A brand-new aquarium.' Kostya favors a steady angle at this moment, pairing "novyy" ("new") with "akvarium" ("aquarium") to get the point across in plain spoken Russian.
+- 'So why did you stop by?' Elena presses quietly in their exchange, leaning on "zashla" ("dropped in") before closing the thought with "ty" ("you").
+- 'A party. And who else if not you.' Kostya establishes a natural footing at once, anchoring the Russian line on "vecherinku" ("party") and "kak" ("how") without extra filler.
+- 'Alright then, let her come over here.' Elena holds a serious line at once, linking "priyezzhayet" ("is arriving"), "nu" ("oh, come on"), and "ladno" ("all right") in one brisk exchange.
+- 'No, she asked for us to drive over to her place.' Kostya keeps a clear posture in the conversation, joining "prosila" ("asked") to "podyekhali" ("to drive up") so every word pulls its weight.
+- 'She has no free time at all.' Elena projects a brisk tone without hesitation, putting "sovershenno" ("quite, completely") alongside "vremeni" ("time") in a tight, everyday turn of phrase.
+- 'Come on, Vitya, please.' Kostya picks a thoughtful mood in the conversation, combining "nu" ("oh, come on") and "vitya" ("Vitya") so the key meaning lands right away.
+- 'And everything will be right there.' Elena maintains a lively view right away, putting "tam" ("there") alongside "vse" ("all") in a tight, everyday turn of phrase.
+- 'And then for me, well...' Kostya shows a pointed direction beside Elena, leaning on "potom" ("then") before closing the thought with "mne" ("to me").
+- 'There you go, just like that.' Elena displays a playful style toward Kostya, letting the single Russian word "vot" ("there, here") carry the entire reaction on its own.

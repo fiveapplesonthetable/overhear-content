@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Sasha, is everything okay with you?' Asking whether everything okay with Barinov cuts straight through the tension between Max and Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Max, I really need your help.' Realizing that she really needs Barinov's help changes how Sasha handles the situation.
-- 'Can you come over to us right now?' Here checking whether Barinov comes over to them right now shows Sasha looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I am standing near the restaurant with Misha.' Claiming that she is standing near the restaurant with Misha sounds confident, even if Barinov has doubts.
-- 'He is drunk and wants to get behind the wheel.' Admitting that he is drunk and wants to get behind the wheel shows Sasha being honest for a change.
-- 'I cannot handle him by myself.' Because she cannot handle him by herself, Sasha treats the matter as settled.
-- 'Listen, it is actually the middle of the night outside.' Once it is actually the middle of the night outside, Max can finally tell Barinov what he means.
-- 'And what am I going to tell my Vika?' Around the phone and work, Max wants to know where Barinov really stands.
-- 'I beg you, I have no one else to turn to.' Saying that she begs Barinov she has no one else to turn is how Sasha sets the tone with Barinov.
-- 'Well, Lyova, is there anything in there?' Checking whether there anything in there is how Barinov puts Max on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, it is actually good that there is nothing.' Mentioning that it is actually good that there is nothing moves the talk in a new direction.
-- 'That carries up to seven years in prison!' Saying that that carries up to seven years in prison is how Barinov takes charge of the moment. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Maybe the diamonds are in Fedya's fish?' When Barinov asks if maybe the diamonds are in Fedya fish, Max has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Lyova, follow me, grab a flashlight!' Barinov declares that Max should follow him grab a flashlight as the tension in the room peaks.
+- 'Hello, Sasha, is everything okay with you?' Max questions decisively in front of Barinov, putting "normalno" ("fine, OK") alongside "allo" ("hello") in a tight, everyday turn of phrase.
+- 'Max, I really need your help.' Sasha picks an earnest angle as they talk, building the phrase around "ochen" ("very much") and "nuzhna" ("needed") for a crisp, natural delivery.
+- 'Can you come over to us right now?' Sasha inquires candidly right away, building the phrase around "mozhesh" ("can") and "seychas" ("now") for a crisp, natural delivery.
+- 'I am standing near the restaurant with Misha.' Sasha takes a frank tone in their talk, weaving "stoyu" ("am standing") together with "restorana" ("restaurant") just the way native speakers do.
+- 'He is drunk and wants to get behind the wheel.' Sasha projects a steady tone at once, linking "pyanyy" ("drunk"), "khochet" ("wants"), and "rul" ("steering wheel") in one brisk exchange.
+- 'I cannot handle him by myself.' Sasha offers an easygoing posture in their talk, building the phrase around "spravlyus" ("will manage") and "ya" ("I") for a crisp, natural delivery.
+- 'Listen, it is actually the middle of the night outside.' Max establishes a firm mood across the room, joining "slushay" ("listen") to "voobshche-to" ("actually") so every word pulls its weight.
+- 'And what am I going to tell my Vika?' Max inquires openly in their exchange, using "skazhu" (from "skazat", "I'll tell") alongside "chto" ("what") to shape the meaning.
+- 'I beg you, I have no one else to turn to.' Sasha adopts an honest tone in their talk, joining "proshu" ("beg, ask") to "bolshe" ("more") so every word pulls its weight.
+- 'Well, Lyova, is there anything in there?' Barinov tests earnestly from the start, pairing "yest" ("there is") with "tam" ("there") to get the point across in plain spoken Russian.
+- 'Well, it is actually good that there is nothing.' Barinov presents a measured view right away, building the phrase around "khorosho" ("good, fine") and "da" ("yes") for a crisp, natural delivery.
+- 'That carries up to seven years in prison!' Barinov adopts a brisk stance beside Sasha, putting "lisheniye" ("seven") alongside "svobody" ("freedom, liberty") in a tight, everyday turn of phrase.
+- 'Maybe the diamonds are in Fedya's fish?' Barinov asks dryly in front of Max, leaning on "mozhet" ("can") before closing the thought with "brillianty" ("diamonds").
+- 'Lyova, follow me, grab a flashlight!' Barinov conveys a grounded tone for Sasha, weaving "idi" ("go") together with "zakhvati" ("to flashlight") just the way native speakers do.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Right here is where you will live now.' Barinov mentions that right here is where Eva will live now so Eva sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'The metro is around the corner, the restaurant is close.' Claiming that the metro is around the corner the restaurant is close sounds confident, even if Eva has doubts.
-- 'I knew that you are a noble man.' Pointing out that she knew that Barinov is a noble man gives Barinov a sobering reality check.
-- 'I hope this will remain between us?' Barinov asks whether he hopes this will remain between them, refusing to let the point slide. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Oh, I suddenly felt sick all of a sudden.' Realizing that she suddenly felt sick all of a sudden changes how Eva handles the situation.
-- 'Won't you drive me to work?' Here checking whether not Barinov drives her to work shows Eva looking for the real truth.
-- 'Denis, it is time to go, I am waiting outside!' Once it is time to go she is waiting outside, Katya makes sure Barinov hears every word. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Well, are you feeling a bit better already?' Checking whether Eva feeling a bit better already cuts straight through the tension between Barinov and Eva. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Viktor Petrovich, buy me a car!' Here buying her a car lets Eva's real feelings break through.
-- 'Do you begrudge money for our child?' Here asking whether Barinov begrudge money for their child shows Eva looking for the real truth. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'I never begrudged money for my children.' Around the moment and morning, Barinov sets a calm, everyday tone with Eva. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Give birth to the child, then I will buy it.' Here telling Eva to give birth to the child then he will buy it sets up the next turn in their exchange.
+- 'Right here is where you will live now.' Barinov takes a natural course beside Eva, linking "zdes" ("here"), "teper" ("now"), and "budesh" ("will") in one brisk exchange.
+- 'The metro is around the corner, the restaurant is close.' Barinov sustains a clear rhythm in the room, joining "metro" ("metro") to "uglom" ("corner") so every word pulls its weight.
+- 'I knew that you are a noble man.' Eva brings an emphatic attitude on the spot, anchoring the Russian line on "znala" ("knew") and "blagorodnyy" ("man") without extra filler.
+- 'I hope this will remain between us?' Barinov checks directly in this moment, pairing "nadeyus" ("hope so") with "ostanetsya" ("will remain") to get the point across in plain spoken Russian.
+- 'Oh, I suddenly felt sick all of a sudden.' Eva conveys a steady course in this beat, weaving "vdrug" ("suddenly, what if") together with "rezko" ("sharply, abruptly") just the way native speakers do.
+- 'Won't you drive me to work?' Eva wonders boldly beside Katya, combining "dovezyote" ("work") and "raboty" ("of work") so the key meaning lands right away.
+- 'Denis, it is time to go, I am waiting outside!' Katya favors an honest footing in this beat, weaving "pora" ("it's time") together with "yekhat" ("to drive, to go") just the way native speakers do.
+- 'Well, are you feeling a bit better already?' Barinov inquires frankly as the beat lands, leaning on "uzhe" ("already, now") before closing the thought with "stalo" ("became, came over").
+- 'Viktor Petrovich, buy me a car!' Eva offers a natural mood with Barinov, weaving "kupite" ("buy") together with "mashinu" ("car") just the way native speakers do.
+- 'Do you begrudge money for our child?' Eva probes steadily on the spot, weaving "zhalko" ("feel sorry for") together with "deneg" ("money") just the way native speakers do.
+- 'I never begrudged money for my children.' Barinov keeps a brisk tempo in the conversation, linking "nikogda" ("never"), "zhalel" ("regretted"), and "deneg" ("money") in one brisk exchange.
+- 'Give birth to the child, then I will buy it.' Barinov projects a brisk footing in this beat, linking "rodish" ("give birth to"), "rebyonka" ("child"), and "togda" ("back then") in one brisk exchange.

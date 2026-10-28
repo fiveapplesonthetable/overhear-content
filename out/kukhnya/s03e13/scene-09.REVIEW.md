@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, my dear Vika!' Around the kitchen and wine, Nagiyev makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Hi, and where did the sofa go?' Asking where the sofa go cuts straight through the tension between Vika and Nagiyev.
-- 'I accidentally burned through it yesterday.' With the point and wine in play, Nagiyev keeps this short reply brisk and direct.
-- 'What did you burn it with like that?' Here wondering what Nagiyev burns it with like shows Vika looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'First I burned it with a cigarette butt, and then poured wine over it.' Between the point and the wine, Nagiyev gives Vika a quick, grounded response.
-- 'I am sitting here wondering where I should sleep.' By being sitting here wondering where he should sleep, Nagiyev presses Vika for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'There is nowhere to sleep in the living room now.' Nagiyev mentions that there is nowhere to sleep in the living room now so Vika sees what is at stake.
-- 'I am not a dog on the floor, after all.' Claiming that he is not a dog on the floor after all sounds confident, even if Vika has doubts.
-- 'A lonely samurai wants to sleep beside you.' Pointing out that a lonely samurai wants to sleep beside Vika gives Vika a sobering reality check.
-- 'I will not make a move without permission.' Nagiyev explains that he will not make a move without permission, keeping his voice calm and direct.
-- 'Dima, do you want children?' Checking whether Nagiyev wants children is how Vika puts Nagiyev on the spot.
-- 'What, you want them right now?' Nagiyev asks whether what Vika wants them right now, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, of course, after the wedding.' With the plan and wine in play, Vika keeps this short reply brisk and direct.
+- 'Hello, my dear Vika!' Nagiyev sets a lively rhythm in their talk, anchoring the Russian line on "dorogaya" ("expensive") and "privet" ("hi") without extra filler.
+- 'Hi, and where did the sofa go?' Vika asks earnestly with Nagiyev now, leaning on "kuda" ("where to") before closing the thought with "delsya" ("to go, vanish").
+- 'I accidentally burned through it yesterday.' Nagiyev shares a direct posture in this beat, linking "sluchayno" ("by any chance"), "prozhyog" ("burned through"), and "vchera" ("yesterday") in one brisk exchange.
+- 'What did you burn it with like that?' Vika wonders calmly from the start, combining "prozhyog" ("burned through") and "chem" ("than") so the key meaning lands right away.
+- 'First I burned it with a cigarette butt, and then poured wine over it.' Nagiyev establishes a resolute angle beside Vika, putting "prozhyog" ("burned through") alongside "vnachale" ("at first") in a tight, everyday turn of phrase.
+- 'I am sitting here wondering where I should sleep.' Nagiyev probes steadily to make the point, anchoring the Russian line on "sizhu" ("am sitting") and "dumayu" ("I think") without extra filler.
+- 'There is nowhere to sleep in the living room now.' Nagiyev projects a warm tone in the scene, leaning on "spat" ("sleep") before closing the thought with "gostinoy" ("in the living room").
+- 'I am not a dog on the floor, after all.' Nagiyev favors a direct note right away, linking "sobaka" ("dog"), "polu" ("floor"), and "ya" ("I") in one brisk exchange.
+- 'A lonely samurai wants to sleep beside you.' Nagiyev takes a steady attitude as they talk, leaning on "odinokiy" ("lonely, all alone") before closing the thought with "samuray" ("samurai").
+- 'I will not make a move without permission.' Nagiyev favors a direct style on the spot, weaving "razresheniya" ("permission") together with "pristavat" ("to pester, to harass") just the way native speakers do.
+- 'Dima, do you want children?' Vika checks warmly right away, putting "khochesh" ("do you want") alongside "detey" ("children") in a tight, everyday turn of phrase.
+- 'What, you want them right now?' Nagiyev queries bluntly as the beat lands, combining "pryamo" ("right, just") and "seychas" ("now") so the key meaning lands right away.
+- 'No, of course, after the wedding.' Vika chooses a thoughtful view right away, pairing "konechno" ("of course") with "svadby" ("wedding") to get the point across in plain spoken Russian.

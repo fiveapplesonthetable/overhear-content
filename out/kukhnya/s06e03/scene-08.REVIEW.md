@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostik, I turned on cartoons after all.' Because someone she turned on cartoons after all, Nastya treats the matter as settled.
-- 'We can have a little celebration of our own too.' Explaining that they can have a little celebration of their own lays the cards on the table for Kostya. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'What is wrong, I cannot do this.' Kostya mentions that what is wrong he cannot do this so Nastya sees what is at stake.
-- 'I understand, the move tired me out too.' Pointing out that she understands the move tired her out gives Kostya a sobering reality check.
-- 'No, I simply have not achieved anything myself.' Pointing out that he simply has not achieved anything himself gives Nastya a sobering reality check. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'We are living here at someone else's expense.' Kostya explains that they are living here at someone else expense, keeping his voice calm and direct.
-- 'I do not feel like a real man.' Realizing that he does not feel like a real man changes how Kostya handles the situation.
-- 'Why, we are paying for it ourselves.' Noting that why they are paying for it themselves keeps Nastya's side of the story simple and clear.
-- 'We are not paying for it.' Even though they are not paying for it, Kostya keeps a steady face in front of Nastya.
-- 'Your dad gave it to us as a gift.' Admitting that Nastya's dad gave it to them as a gift shows Kostya being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And it seems to me that it will be right if we refuse it.' Admitting that it seems to him that it will be right if they refuse it shows Kostya being honest for a change.
-- 'Let's think it over calmly.' Nastya explains that they should think it over calmly, keeping her voice calm and direct.
+- 'Kostik, I turned on cartoons after all.' Nastya sets a clear position as the scene unfolds, combining "multiki" ("cartoon, animated film") and "vklyuchila" ("turned on") so the key meaning lands right away.
+- 'We can have a little celebration of our own too.' Nastya adopts a natural manner toward Kostya, leaning on "u nas" ("by us, at our place") and "tozhe" ("too") the way natural Russian does.
+- 'What is wrong, I cannot do this.' Kostya sets a thoughtful approach as they talk, putting "mogu" ("can") alongside "ty" ("you") in a tight, everyday turn of phrase.
+- 'I understand, the move tired me out too.' Nastya sustains a resolute tempo with Kostya, joining "ponimayu" ("understand") to "tozhe" ("too") so every word pulls its weight.
+- 'No, I simply have not achieved anything myself.' Kostya sets a sharp attitude on the spot, linking "prosto" ("just"), "dobilsya" ("achieved"), and "da" ("yes") in one brisk exchange.
+- 'We are living here at someone else's expense.' Kostya projects a grounded tempo in front of Nastya, joining "zhivem" ("live") to "zdes" ("here") so every word pulls its weight.
+- 'I do not feel like a real man.' Kostya sets a wry style in the scene, leaning on "muzhikom" ("man, real man") before closing the thought with "chuvstvuyu" ("feel").
+- 'Why, we are paying for it ourselves.' Nastya displays a direct course for Kostya, anchoring the Russian line on "platim" ("pay") and "my" ("we") without extra filler.
+- 'We are not paying for it.' Kostya shows an emphatic note beside Nastya, building the phrase around "platim" ("pay") and "ne" ("not") for a crisp, natural delivery.
+- 'Your dad gave it to us as a gift.' Kostya presents a lively attitude as the scene unfolds, putting "papa" ("Dad") alongside "podaril" ("donated, gifted") in a tight, everyday turn of phrase.
+- 'And it seems to me that it will be right if we refuse it.' Kostya shows an emphatic mood without hesitation, pairing "kazhetsya" ("it seems, I think") with "pravilneye" ("more right") to get the point across in plain spoken Russian.
+- 'Let's think it over calmly.' Nastya conveys a thoughtful mood in the room, joining "davay" ("let's") to "podumayem" ("will think") so every word pulls its weight.

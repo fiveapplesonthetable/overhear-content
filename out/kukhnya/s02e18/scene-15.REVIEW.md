@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will explain everything right now.' Max explains that he will explain everything right now, keeping his voice calm and direct.
-- 'Max, excuse me.' Claiming that Max should excuse him sounds confident, even if Max has doubts.
-- 'What have they got over there?' Wondering if what have they got over there shows Vika caught off guard. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Her parents asked for this to be passed along to her.' Even though her parents asked for this to be passed along, Max keeps a steady face in front of Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Would you like a snail, Rodion Sergeyevich?' Asking whether Max likes a snail Rodion Sergeyevich cuts straight through the tension between Barinov and Max.
-- 'Well, it seems everyone is satisfied.' Saying that it seems everyone is satisfied is how Vika sets the tone with Barinov.
-- 'Indeed, Snail Day turned out to be a big success.' Once indeed snail day turned out to be a big success, Max can finally tell Barinov what he means.
-- 'Vika, please forgive me.' By telling Max to forgive him, Barinov keeps his side of the story grounded.
-- 'You did great, you put on quite a show.' Vika tells Barinov that Barinov did great Barinov puts on quite a show without dressing it up. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I am not talking about the show.' Saying that he is not talking about the show is how Max sets the tone with Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I am talking about the two of us.' Once he is talking about the two of them, Barinov can finally tell Max what he means.
-- 'I understand a lot of things now.' Noting that she understands a lot of things now keeps Vika's side of the story simple and clear.
-- 'And nothing can be fixed anymore.' Because nothing can be fixed anymore, Max treats the matter as settled. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'I will explain everything right now.' Max sets a direct rhythm in front of Barinov, putting "seychas" ("now") alongside "obyasnyu" ("I'll explain") in a tight, everyday turn of phrase.
+- 'Max, excuse me.' Barinov displays a resolute direction on the spot, combining "izvini" ("sorry, excuse me") and "maks" ("Max") so the key meaning lands right away.
+- 'What have they got over there?' Vika asks bluntly beside Barinov, leaning on "tam" ("there") before closing the thought with "chto" ("what").
+- 'Her parents asked for this to be passed along to her.' Max picks a sharp bearing on the spot, putting "poprosili" ("to ask, to request") alongside "peredat" ("to pass on") in a tight, everyday turn of phrase.
+- 'Would you like a snail, Rodion Sergeyevich?' Barinov quizzes directly with Max now, putting "khotite" ("want") alongside "ulitku" ("snail, escargot") in a tight, everyday turn of phrase.
+- 'Well, it seems everyone is satisfied.' Vika shares a steady style with Max, weaving "dovolny" ("satisfied, pleased") together with "nu" ("oh, come on") just the way native speakers do.
+- 'Indeed, Snail Day turned out to be a big success.' Max conveys a pointed course across the room, weaving "den" ("day") together with "ulitok" ("snail, escargot") just the way native speakers do.
+- 'Vika, please forgive me.' Barinov establishes a lively style straight away, pairing "prosti" ("sorry, forgive me") with "vik" ("Vika") to get the point across in plain spoken Russian.
+- 'You did great, you put on quite a show.' Vika sets a natural mood as the scene unfolds, anchoring the Russian line on "molodets" ("well done, good boy") and "shou" ("show") without extra filler.
+- 'I am not talking about the show.' Max favors a brisk direction at this moment, anchoring the Russian line on "da" ("yes") and "ya" ("I") without extra filler.
+- 'I am talking about the two of us.' Barinov favors an emphatic note in the scene, weaving "ya" ("I") together with "pro" ("about") just the way native speakers do.
+- 'I understand a lot of things now.' Vika adopts a serious tone across the room, pairing "teper" ("now") with "voobshche" ("at all") to get the point across in plain spoken Russian.
+- 'And nothing can be fixed anymore.' Max chooses a lively manner at once, pairing "ispravit" ("to fix, to correct") with "uzhe" ("already, now") to get the point across in plain spoken Russian.

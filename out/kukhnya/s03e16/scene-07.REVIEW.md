@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, we can replace the furniture just once.' Explaining that Alright they can replace the furniture just once lays the cards on the table for Barinov.
-- 'I disagree, there must be a logical explanation for everything!' Insisting that he disagree there must be a logical explanation for everything shows Barinov is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'You are talking nonsense, everything here makes total sense.' Claiming that Barinov is talking nonsense everything here makes total sense sounds confident, even if Barinov has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Grandpa Kirill died, and now his ghost is taking revenge!' Declaring that Grandpa Kirill died and now his ghost is taking revenge brings Senya's temper right to the surface.
-- 'What kind of ghost could there possibly be in the kitchen?' Asking whether what kind of ghost could there possibly be in the kitchen puts Max right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Quiet everyone, let's watch the video surveillance recordings!' Saying that quiet everyone let them watch the video surveillance recordings is how Senya takes charge of the moment. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Well, and what did you see on there that was so scary?' Asking what Max sees on there that was so scary cuts straight through the tension between Barinov and Max.
-- 'How big cockroaches drag a rat across the floor?' With the room and plan hanging in the air, Barinov puts Max on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well that is quite normal in our kitchen!' Insisting that that is quite normal in their kitchen shows Barinov is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'You had better look closely at the screen yourselves.' Saying that Barinov had better look closely at the screen yourselves is how Senya sets the tone with Barinov.
-- 'Big deal, that is just a strong draft!' Declaring that big deal that is just a strong draft brings Barinov's temper right to the surface. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'How could that be a draft, Chef?' Asking how that be a draft could is how Senya puts Barinov on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Alright, we can replace the furniture just once.' Max establishes a serious manner in the room, combining "mozhno" ("may, can") and "raz" ("time, once") so the key meaning lands right away.
+- 'I disagree, there must be a logical explanation for everything!' Barinov chooses a lively rhythm toward Senya, pairing "soglasen" ("agreed") with "dolzhno" ("ought, must") to get the point across in plain spoken Russian.
+- 'You are talking nonsense, everything here makes total sense.' Senya sets a lively posture without hesitation, anchoring the Russian line on "yerundu" ("nonsense") and "govorish" ("you say") without extra filler.
+- 'Grandpa Kirill died, and now his ghost is taking revenge!' Senya presents a wry attitude straight away, building the phrase around "ded" ("grandfather") and "kirill" ("Kirill") for a crisp, natural delivery.
+- 'What kind of ghost could there possibly be in the kitchen?' Barinov queries decisively with Max now, building the phrase around "yeshchyo" ("more, still") and "mozhet" ("can") for a crisp, natural delivery.
+- 'Quiet everyone, let's watch the video surveillance recordings!' Senya holds a thoughtful stance during the exchange, linking "tikho" ("easy, quiet"), "davayte" ("let's"), and "posmotrim" ("have a look") in one brisk exchange.
+- 'Well, and what did you see on there that was so scary?' Barinov queries bluntly without holding back, leaning on "tam" ("there") before closing the thought with "strashnoye" ("terrible").
+- 'How big cockroaches drag a rat across the floor?' Barinov presses calmly toward Senya here, leaning on "kak" ("how") before closing the thought with "bolshiye" ("big, serious").
+- 'Well that is quite normal in our kitchen!' Barinov chooses a brisk manner as the scene unfolds, pairing "vpolne" ("quite") with "normalno" ("fine, OK") to get the point across in plain spoken Russian.
+- 'You had better look closely at the screen yourselves.' Senya holds a calm position for Max, leaning on "luchshe" ("better") before closing the thought with "vnimatelno" ("carefully, attentively").
+- 'Big deal, that is just a strong draft!' Barinov adopts a natural tack with Max, joining "podumayesh" ("big deal, so what") to "prosto" ("just") so every word pulls its weight.
+- 'How could that be a draft, Chef?' Senya challenges wryly in their exchange, weaving "skvoznyak" ("draft") together with "kakoy" ("what a, how") just the way native speakers do.

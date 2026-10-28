@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What, have you lost your mind? You almost ran me over!' Wondering if what have Barinov lost Barinov's mind shows Elena caught off guard. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Did you buy your license? What is in your head?' Here asking whether Barinov buys Barinov's license shows Elena looking for the real truth. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Do you know what speed is permitted?' Here checking whether Barinov knows what speed is permitted shows Elena looking for the real truth.
-- 'What kind of youth is this? You could apologize, by the way.' Asking whether what kind of youth is this puts Barinov right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You need to look at the road when you walk, and not all around.' Saying that Barinov needs to look at the road when Barinov walks and not all around is how Katya sets the tone with Barinov. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'So I am the one at fault, is that it?' Wondering if she is the one at fault is that it shows Elena caught off guard.
-- 'He probably has a very hard life.' Adding that he probably has a very hard life fills in the missing piece for Barinov.
-- 'Hasn't your husband left you yet?' Checking whether not Barinov's husband left Barinov yet cuts straight through the tension between Katya and Barinov. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'How dare you?' Over the conversation and the argument, Elena presses Barinov for a straight answer.
-- 'Well then, shall we go?' Over the work and the restaurant, Barinov presses Elena for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Not only did she almost run me over, she also insulted me.' Elena reminds Barinov that not only did she almost run her over she also insulted before the moment passes.
-- 'I would love to look her parents in the eye!' Elena insists that she would love to look her parents in the eye, leaving Barinov no room to argue.
+- 'What, have you lost your mind? You almost ran me over!' Elena asks plainly as they speak, pairing "uma" ("mind") with "soshli" ("went off") to get the point across in plain spoken Russian.
+- 'Did you buy your license? What is in your head?' Elena queries steadily across the room, building the phrase around "prava" ("right, correct") and "kupili" ("bought") for a crisp, natural delivery.
+- 'Do you know what speed is permitted?' Elena quizzes directly as they speak, joining "znayete" ("know") to "skorost" ("speed") so every word pulls its weight.
+- 'What kind of youth is this? You could apologize, by the way.' Elena prompts firmly in front of Katya, leaning on "molodyozh" ("youth, kids") before closing the thought with "poshla" ("am off").
+- 'You need to look at the road when you walk, and not all around.' Katya projects a frank direction across the room, linking "dorogu" ("road, way"), "nado" ("it is necessary"), and "smotret" ("to watch") in one brisk exchange.
+- 'So I am the one at fault, is that it?' Elena quizzes pointedly right away, joining "yest" ("there is") to "vinovata" ("at fault, to blame") so every word pulls its weight.
+- 'He probably has a very hard life.' Katya offers a measured rhythm beside Barinov, joining "navernoye" ("probably") to "ochen" ("very much") so every word pulls its weight.
+- 'Hasn't your husband left you yet?' Katya presses honestly in front of Elena, putting "muzh" ("husband") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
+- 'How dare you?' Elena presses directly to make the point, building the phrase around "pozvolyayete" ("allow, permit") and "vy" ("you") for a crisp, natural delivery.
+- 'Well then, shall we go?' Barinov presses openly toward Katya here, building the phrase around "poyekhali" ("here we go") and "nu" ("oh, come on") for a crisp, natural delivery.
+- 'Not only did she almost run me over, she also insulted me.' Elena adopts a clear course in their talk, anchoring the Russian line on "malo" ("little, not enough") and "chut" ("almost, nearly") without extra filler.
+- 'I would love to look her parents in the eye!' Elena strikes an easygoing position beside Katya, joining "khotela" ("wanted, meant") to "glaza" ("eyes") so every word pulls its weight.

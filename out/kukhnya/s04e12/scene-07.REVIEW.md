@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, is that your Sasha?' Asking whether that Max's Sasha cuts straight through the tension between Fedya and Max.
-- 'She has not been mine for a long time.' Claiming that she has not been his for a long time sounds confident, even if Fedya has doubts.
-- 'Did you date her before Vika?' Checking whether Max dates her before Vika cuts straight through the tension between Fedya and Max. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'During the break between Vika and Vika.' Between the fish and the plan, Max gives Fedya a quick, grounded response.
-- 'Maybe you guys will shut up already, huh?' Wondering if maybe Fedya guys will shut up already huh shows Max caught off guard. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Well, and what was that just now?' By wondering what that just now was, Vika presses Fedya for a straight answer. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'You were standing with Sasha looking so happy!' Once Fedya was standing with Sasha looking so happy, Vika makes sure Fedya hears every word.
-- 'Vika, please do not start.' Adding that do not start fills in the missing piece for Fedya.
-- 'She and I just said hello.' Max tells Fedya that she and he just said hello without dressing it up.
-- 'Let's not quarrel over nonsense.' By proposing that they not quarrel over nonsense, Max keeps his side of the story grounded.
-- 'Do you want me not to talk with her at all?' Checking whether Fedya wants him not to talk with her at all cuts straight through the tension between Max and Fedya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, I want that very much, fine.' Here wanting that very much fine sets up the next turn in their exchange.
-- 'Good thing Vika did not see this!' Insisting that good thing Vika did not see this shows Fedya is not backing down.
+- 'Max, is that your Sasha?' Fedya inquires naturally for Max's benefit, leaning on "yest" ("there is") before closing the thought with "maks" ("Max").
+- 'She has not been mine for a long time.' Max strikes a lively mood for Vika, leaning on "uzhe" ("already, now") before closing the thought with "davno" ("for a long time").
+- 'Did you date her before Vika?' Fedya challenges frankly across the room, anchoring the Russian line on "vstrechalsya" ("met, was meeting") and "ty" ("you") without extra filler.
+- 'During the break between Vika and Vika.' Max picks a serious style as they talk, pairing "pereryve" ("break, interval") with "mezhdu" ("between") to get the point across in plain spoken Russian.
+- 'Maybe you guys will shut up already, huh?' Max queries frankly in their exchange, weaving "mozhet" ("can") together with "uzhe" ("already, now") just the way native speakers do.
+- 'Well, and what was that just now?' Vika challenges wryly as the beat lands, linking "seychas" ("now"), "bylo" ("was"), and "nu" ("oh, come on") in one brisk exchange.
+- 'You were standing with Sasha looking so happy!' Vika takes a warm posture right away, joining "stoyal" ("stood") to "schastlivyy" ("lucky") so every word pulls its weight.
+- 'Vika, please do not start.' Max projects a warm approach in front of Vika, joining "nachinay" ("start") to "vika" ("Vika") so every word pulls its weight.
+- 'She and I just said hello.' Max conveys an earnest note beside Fedya, pairing "pozdorovalis" ("to hello") with "prosto" ("just") so the "-sya" ending carries the action.
+- 'Let's not quarrel over nonsense.' Max chooses a serious tempo at this moment, putting "davay" ("let's") alongside "budem" ("will") in a tight, everyday turn of phrase.
+- 'Do you want me not to talk with her at all?' Max presses pointedly with Fedya now, using "khochesh" (from "khotet", "do you want") alongside "budu" ("will be") to shape the meaning.
+- 'Yes, I want that very much, fine.' Vika displays a calm posture at this moment, combining the easygoing tag "ladno" ("okay, fine") with "ochen" ("very much") to give the line its natural spoken rhythm.
+- 'Good thing Vika did not see this!' Fedya adopts a playful line during the exchange, leaning on "khorosho" ("good, fine") before closing the thought with "videla" ("saw").

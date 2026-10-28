@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mikhail Dzhekovich, I need to speak with you urgently!' Once he needs to speak with the guest urgently, Barinov makes sure the guest hears every word.
-- 'Viktor Petrovich, wait, I am a bit busy right now.' Being a bit busy right now is how Mikhail lays out the situation for Barinov.
-- 'Yuri Ivanovich, here is your ticket, just as I promised.' Pointing out that someone here is Barinov's ticket just as he promised gives Barinov a sobering reality check. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Splendid, tell me, how much do I owe you for it?' Questioning whether splendid tell him how much do he owes Barinov for it is how the guest tests Barinov's story.
-- 'Oh come now, do not offend me, it is a gift!' Here coming now do not offend him it is a gift lets Mikhail's real feelings break through. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Alright, thank you and all the best.' Over the ticket and the shift, the guest answers Barinov without a second thought. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Wait, did you just give him my ticket?' Here checking whether the guest just give him his ticket shows Barinov looking for the real truth.
-- 'Our Vitya knows how to lose very gracefully!' Insisting that their Vitya knows how to lose very gracefully shows Mikhail is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Stop! Where is the ticket that you were just given?' Wondering where the ticket that the guest was just given is cuts straight through the tension between Barinov and the guest. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I am the real owner of that ticket, return it to me!' Once he is the real owner of that ticket return it to him, Barinov makes sure the guest hears every word.
-- 'I will not return anything to you, do not touch the car!' The guest insists that he will not return anything to Barinov does not touch the car, leaving Barinov no room to argue. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'What are you doing? Leave my ticket alone immediately!' Around the conversation and point, the guest wants to know where Barinov really stands. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Mikhail Dzhekovich, I need to speak with you urgently!' Barinov offers a measured line at this moment, weaving "nuzhno" ("necessary") together with "srochno" ("urgent, urgently") just the way native speakers do.
+- 'Viktor Petrovich, wait, I am a bit busy right now.' Mikhail brings a playful attitude in the scene, pairing "seychas" ("now") with "podozhdite" ("wait") so the "-sya" ending carries the action.
+- 'Yuri Ivanovich, here is your ticket, just as I promised.' Mikhail keeps a playful tone in their talk, pairing "bilet" ("ticket") with "kak" ("how") to get the point across in plain spoken Russian.
+- 'Splendid, tell me, how much do I owe you for it?' The guest quizzes boldly in the room, weaving "shikarno" ("splendidly") together with "skazhite" ("tell") just the way native speakers do.
+- 'Oh come now, do not offend me, it is a gift!' Mikhail chooses an earnest manner in front of Barinov, pairing "obizhayte" ("to hurt, to offend") with "podarok" ("gift, voucher") to get the point across in plain spoken Russian.
+- 'Alright, thank you and all the best.' The guest shares a thoughtful position right away, leaning on "khorosho" ("good, fine") before closing the thought with "spasibo" ("thank you").
+- 'Wait, did you just give him my ticket?' Barinov queries promptly right away, anchoring the Russian line on "postoy" ("wait") and "otdal" ("gave") without extra filler.
+- 'Our Vitya knows how to lose very gracefully!' Mikhail adopts an unhurried tone for the guest, combining "umeyet" ("knows how to") and "ochen" ("very much") so the key meaning lands right away.
+- 'Stop! Where is the ticket that you were just given?' Barinov asks honestly to make the point, leaning on "stoyte" ("stop, wait") before closing the thought with "gde" ("where").
+- 'I am the real owner of that ticket, return it to me!' Barinov takes a clear bearing in the scene, putting "nastoyashchiy" ("real, genuine") alongside "khozyain" ("owner") in a tight, everyday turn of phrase.
+- 'I will not return anything to you, do not touch the car!' The guest sets an emphatic tempo without hesitation, linking "vernu" ("I'll return"), "trogayte" ("touch"), and "mashinu" ("car") in one brisk exchange.
+- 'What are you doing? Leave my ticket alone immediately!' The guest challenges wryly across the room, putting "delayete" ("are doing") alongside "nemedlenno" ("immediately") in a tight, everyday turn of phrase.

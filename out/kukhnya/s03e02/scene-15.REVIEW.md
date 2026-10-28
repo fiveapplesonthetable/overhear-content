@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It doesn't matter. Let's go home.' Claiming that it does not matter sounds confident, even if Ilya has doubts.
-- 'Let's go.' Going together is how Vika lays out the situation for Ilya.
-- 'Attention, the results!' Between the moment and the surprise, Vika delivers a sharp reaction. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Eva — five thousand two hundred.' With the bet and shift in play, Vika keeps this short reply brisk and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Oleg — three thousand seven hundred.' Over the bet and the shift, Vika answers Ilya without a second thought.
-- 'Ilya — nine thousand.' Around the bet and shift, Vika sets a calm, everyday tone with Ilya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Well?' Over the conversation and the surprise, Ilya presses Max for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well done. Well done.' With the bet and kitchen in play, Max keeps this short reply brisk and direct.
-- 'Max — eight thousand nine hundred fifty.' Around the bet and moment, Vika sets a calm, everyday tone with Ilya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Step out. Quiet!' Once Max should step out, Ilya makes sure Max hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'But that is not the limit.' Saying that that is not the limit is how Vika sets the tone with Ilya.
-- 'Nastya Fomina — fourteen thousand!' Around the work and bet, Vika makes her point loud and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'It doesn't matter. Let's go home.' Max maintains a clear manner in this beat, anchoring the Russian line on "vazhno" ("important, mattering") and "poyekhali" ("here we go") without extra filler.
+- 'Let's go.' Vika offers a warm rhythm in the scene, using "poyekhali" ("here we go") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Attention, the results!' Vika keeps an earnest tone in the room, combining "vnimaniye" ("attention") and "rezultaty" ("results") so the key meaning lands right away.
+- 'Eva — five thousand two hundred.' Vika brings a wry footing in the conversation, anchoring the Russian line on "tysyach" ("thousand") and "pyat" ("five") without extra filler.
+- 'Oleg — three thousand seven hundred.' Vika adopts a firm angle beside Ilya, anchoring the Russian line on "tysyachi" ("thousands") and "tri" ("three") without extra filler.
+- 'Ilya — nine thousand.' Vika shows a direct rhythm in the room, using "tysyach" (from "tysyacha", "thousand") alongside "devyat" ("nine") to shape the meaning.
+- 'Well?' Ilya probes sharply to keep things clear, using "nu" ("oh, come on") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Well done. Well done.' Max takes a thoughtful rhythm right away, letting the single Russian word "molodets" ("well done, good boy") carry the entire reaction on its own.
+- 'Max — eight thousand nine hundred fifty.' Vika shows an emphatic position in this beat, linking "tysyach" ("thousand"), "vosem" ("eight"), and "devyatsot" ("nine hundred") in one brisk exchange.
+- 'Step out. Quiet!' Ilya strikes a sharp stance for Vika, building the phrase around "vykhodite" ("step out, come out") and "tikho" ("easy, quiet") for a crisp, natural delivery.
+- 'But that is not the limit.' Vika holds a grounded rhythm on the spot, putting "predel" ("limit") alongside "no" ("but") in a tight, everyday turn of phrase.
+- 'Nastya Fomina — fourteen thousand!' Vika maintains a direct tack for Max, putting "tysyach" ("thousand") alongside "chetyrnadtsat" ("fourteen") in a tight, everyday turn of phrase.

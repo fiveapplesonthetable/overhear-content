@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The waiters are carrying your fish back.' Even though the waiters are carrying Mikhail's fish back, Fedya keeps a steady face in front of Mikhail.
-- 'The Japanese refused to eat this fish.' Over the fish and the kitchen, Mikhail answers Fedya without a second thought.
-- 'Because it is not fresh at all.' Saying that because it is not fresh at all is how Mikhail sets the tone with Fedya.
-- 'I will deduct the cost of the dishes from you.' Once he will deduct the cost of the dishes from Fedya, Mikhail can finally tell Fedya what he means.
-- 'Wow, that is quite a fine.' Adding that wow that is quite a fine fills in the missing piece for Mikhail. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Do not feed my guests with this.' Saying that do not feed his guests with this is how Mikhail sets the tone with Fedya. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'By the way, this is very tasty fish.' Since this is very tasty fish, Senya does not waste words on excuses.
-- 'The Japanese simply do not understand anything.' Mentioning that the Japanese simply do not understand anything moves the talk in a new direction. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Well, how do you like our fish?' Wondering how Mikhail likes their fish cuts straight through the tension between Fedya and Mikhail. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'The discounted fish went down well!' Senya insists that the discounted fish went down well, leaving Fedya no room to argue.
-- 'Senya, what is wrong with you right now?' Wondering what wrong with Mikhail right now is is how Fedya puts Mikhail on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I need to step out urgently for a minute.' Needing to step out urgently for a minute is how Senya lays out the situation for Fedya. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'The waiters are carrying your fish back.' Fedya offers an easygoing bearing straight away, linking "ofitsianty" ("waiters"), "rybu" ("fish"), and "nazad" ("ago") in one brisk exchange.
+- 'The Japanese refused to eat this fish.' Mikhail presents a warm tone on the spot, linking "yapontsy" ("Japanese man"), "otkazalis" ("to refuse, decline"), and "yest" ("there is") in one brisk exchange.
+- 'Because it is not fresh at all.' Mikhail chooses a grounded tone in the room, anchoring the Russian line on "potomu" ("because") and "sovsem" ("at all") without extra filler.
+- 'I will deduct the cost of the dishes from you.' Mikhail takes a firm view for Senya, weaving "stoimost" ("to cost") together with "blyud" ("dishes") just the way native speakers do.
+- 'Wow, that is quite a fine.' Fedya maintains a firm footing as the scene unfolds, combining "shtraf" ("fine") and "nichego" ("nothing") so the key meaning lands right away.
+- 'Do not feed my guests with this.' Mikhail establishes a calm angle in this beat, pairing "nado" ("it is necessary") with "gostey" ("guests") to get the point across in plain spoken Russian.
+- 'By the way, this is very tasty fish.' Senya brings a serious position on the spot, putting "kstati" ("by the way") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
+- 'The Japanese simply do not understand anything.' Senya keeps an unhurried angle across the room, putting "yapontsy" ("Japanese man") alongside "prosto" ("just") in a tight, everyday turn of phrase.
+- 'Well, how do you like our fish?' Fedya quizzes pointedly in their exchange, linking "kak" ("how"), "ryba" ("fish"), and "nu" ("oh, come on") in one brisk exchange.
+- 'The discounted fish went down well!' Senya sets a resolute posture straight away, putting "ryba" ("fish") alongside "skidkoy" ("discount") in a tight, everyday turn of phrase.
+- 'Senya, what is wrong with you right now?' Fedya tests evenly to Mikhail here, putting "seychas" ("now") alongside "senya" ("Senya") in a tight, everyday turn of phrase.
+- 'I need to step out urgently for a minute.' Senya projects an unhurried bearing with Mikhail, pairing "nado" ("it is necessary") with "srochno" ("urgent, urgently") to get the point across in plain spoken Russian.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, throw them quickly on the count of three, four!' Telling the guest to come on throw them quickly on the count of three four shows Fedya is done holding back. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Hooray, look everyone, we won fair and square today!' Katya declares that hooray look everyone they won fair and square today as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Katya, that was simply incredibly cool!' Because that was simply incredibly cool, Fedya does not bother softening the blow for the guest.
-- 'Hello, Katya, may I have literally two words with you?' The guest asks whether may he has literally two words with Fedya, refusing to let the point slide. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Understand me, I have nothing against you.' Understanding him he has nothing against Fedya is how the guest lays out the situation for Fedya. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Surely a guy will be found who will be proud of you.' Noting that surely a guy will be found who will be proud of Fedya keeps the guest's side of the story simple and clear.
-- 'That his girlfriend knows how to catch two cherries with her mouth.' Even though that his girlfriend knows how to catch two cherries with her mouth, the guest keeps a steady face in front of Fedya.
-- 'But that guy will definitely not be my son.' Admitting that that guy will definitely not be his son shows the guest being honest for a change.
-- 'It seems to me that Nikita should decide that himself.' Saying that it seems to her that Nikita should decide that himself is how Katya sets the tone with Fedya.
-- 'No, you must break up with Nikita immediately.' Once Fedya must break up with Nikita immediately, the guest can finally tell Fedya what he means. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'And in your place I would keep quiet about our conversation.' Adding that in Fedya's place he would keep quiet about their conversation fills in the missing piece for Fedya.
-- 'Otherwise I will very quickly ruin your whole life.' The guest tells Fedya that otherwise he will very quickly ruin Fedya's whole life without dressing it up.
-- 'Tell me straight, was that a real threat just now?' Wondering if tell her straight was that a real threat just now shows Katya caught off guard. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Come on, throw them quickly on the count of three, four!' Fedya establishes a playful position in the scene, leaning on "davay" ("let's") before closing the thought with "brosay" ("drop, abandon").
+- 'Hooray, look everyone, we won fair and square today!' Katya favors a thoughtful rhythm in the scene, using "smotrite" (from "smotret", "look") alongside "segodnya" ("today") to shape the meaning.
+- 'Katya, that was simply incredibly cool!' Fedya sets an earnest view in the conversation, combining the softening word "prosto" ("simply, just") with "bylo" ("was") to give the line its natural spoken rhythm.
+- 'Hello, Katya, may I have literally two words with you?' The guest probes directly to Katya here, linking "zdravstvuyte" ("hello"), "mozhno" ("may, can"), and "bukvalno" ("literally") in one brisk exchange.
+- 'Understand me, I have nothing against you.' The guest strikes a thoughtful manner for Fedya, anchoring the Russian line on "poymite" ("understand") and "imeyu" ("have") without extra filler.
+- 'Surely a guy will be found who will be proud of you.' The guest keeps a clear rhythm in the scene, building the phrase around "navernyaka" ("surely, definitely") and "naydyotsya" ("is found") for a crisp, natural delivery.
+- 'That his girlfriend knows how to catch two cherries with her mouth.' The guest picks an earnest manner right away, putting "devushka" ("girlfriend") alongside "umeyet" ("knows how to") in a tight, everyday turn of phrase.
+- 'But that guy will definitely not be my son.' The guest takes a pointed angle across the room, joining "parnem" ("boyfriend, guy") to "tochno" ("definitely") so every word pulls its weight.
+- 'It seems to me that Nikita should decide that himself.' Katya brings a steady style at this moment, joining "kazhetsya" ("it seems, I think") to "dolzhen" ("has to, must") so every word pulls its weight.
+- 'No, you must break up with Nikita immediately.' The guest brings a calm tone without hesitation, pairing "dolzhny" ("must, should") with "nemedlenno" ("immediately") to get the point across in plain spoken Russian.
+- 'And in your place I would keep quiet about our conversation.' The guest holds a lively view as the scene unfolds, joining "meste" ("place") to "promolchal" ("to then") so every word pulls its weight.
+- 'Otherwise I will very quickly ruin your whole life.' The guest maintains an easygoing course at once, combining "inache" ("otherwise") and "ochen" ("very much") so the key meaning lands right away.
+- 'Tell me straight, was that a real threat just now?' Katya inquires promptly toward Fedya here, joining "skazhite" ("tell") to "pryamo" ("right, just") so every word pulls its weight.

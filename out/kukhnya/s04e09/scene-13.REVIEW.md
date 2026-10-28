@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is this little boy!' Declaring that here is this little boy brings Max's temper right to the surface.
-- 'Wait, I will explain everything right now.' Explaining that he will explain everything right now lays the cards on the table for Barinov.
-- 'Come on in, dear guests.' Since German should come on in dear guests, Barinov does not waste words on excuses.
-- 'We tried, it did not work out for us.' Claiming that they tried it did not work out for them sounds confident, even if German has doubts.
-- 'A dubious way to stop me.' Around the chaos and shift, German sets a calm, everyday tone with Barinov.
-- 'That is it, I am leaving.' German explains that that is it he is leaving, keeping his voice calm and direct.
-- 'Close the walk-in fridge quickly!' By closing the walk in fridge quickly, Barinov raises the stakes in the room at once.
-- 'Let's not shout.' Proposing that they not shout moves the conversation forward without extra drama. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Calm down, everyone, please.' Telling Barinov to calm down everyone please is how Max lays out the situation for Barinov.
-- 'This is Konstantin Anisimov's child.' Admitting that this is Konstantin Anisimov child shows Max being honest for a change.
-- 'Do you know Konstantin?' Asking whether Barinov knows Konstantin is how Max puts Barinov on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Then where is our child?' Here asking where their child is shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Here is this little boy!' Max establishes a sharp view for Barinov, joining "malchik" ("boy") to "vot" ("there, here") so every word pulls its weight.
+- 'Wait, I will explain everything right now.' Max shows a direct mood in the room, pairing "seychas" ("now") with "podozhdite" ("wait") so the "-sya" ending carries the action.
+- 'Come on in, dear guests.' Barinov holds a warm rhythm without hesitation, building the phrase around "zakhodite" ("come in") and "gosti" ("visitors, guests") for a crisp, natural delivery.
+- 'We tried, it did not work out for us.' Barinov maintains a pointed style in the scene, weaving "popytalis" ("to work") together with "poluchilos" ("worked out") just the way native speakers do.
+- 'A dubious way to stop me.' German holds an honest angle on the spot, anchoring the Russian line on "somnitelnyy" ("dubious") and "sposob" ("a way, a method") without extra filler.
+- 'That is it, I am leaving.' German displays a steady angle on the spot, combining "poshyol" ("went, set off") and "otsyuda" ("from here") so the key meaning lands right away.
+- 'Close the walk-in fridge quickly!' Barinov strikes an unhurried attitude at this moment, weaving "zakryvay" ("close") together with "kameru" ("camera") just the way native speakers do.
+- 'Let's not shout.' Max takes a steady tack without hesitation, building the phrase around "davayte" ("let's") and "budem" ("will") for a crisp, natural delivery.
+- 'Calm down, everyone, please.' Max takes a warm mood with Barinov, combining "uspokoytes" ("calm down") and "vse" ("all") so the key meaning lands right away.
+- 'This is Konstantin Anisimov's child.' Max shows a firm direction at once, combining "rebyonok" ("a child") and "eto" ("this") so the key meaning lands right away.
+- 'Do you know Konstantin?' Max checks lightly in front of Barinov, building the phrase around "znayete" ("know") and "vy" ("you") for a crisp, natural delivery.
+- 'Then where is our child?' Max queries warmly from the start, anchoring the Russian line on "togda" ("back then") and "gde" ("where") without extra filler.

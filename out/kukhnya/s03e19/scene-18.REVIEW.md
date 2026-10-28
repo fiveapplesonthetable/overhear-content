@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, you really are a true idiot of mine after all.' Realizing that Max really are a true idiot of her after all changes how Vika handles the situation. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'But you are an idiot whom I am going to believe now.' Noting that Max is an idiot whom she is going to believe now keeps Vika's side of the story simple and clear.
-- 'At the very least, I will try very hard.' Even though at the very least she will try very hard, Vika keeps a steady face in front of Max.
-- 'Look what a huge armored black car!' Around the moment and trust, Max makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'It is not just big, it is genuinely armored.' Saying that it is not just big it is genuinely armored is how Max sets the tone with Rodion.
-- 'I wonder who has driven into our courtyard?' Wondering if he wonders who has driven into their courtyard shows Max caught off guard. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Hello, Rodion Sergeyevich! You look great today!' Declaring that Rodion looks great today brings Max's temper right to the surface. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Good afternoon, friends! Right here, darling, is where I used to dine.' Rodion insists that right here darling is where he used to dine, leaving Max no room to argue.
-- 'Come, I will introduce you to the head chef of this wonderful establishment.' Telling Max to come he will introduce Max to the head of this wonderful establishment is how Rodion lays out the situation for Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Please, darling, step right inside to the kitchen.' With the point and trust in play, Rodion keeps this short reply brisk and direct.
-- 'Whoa, our Rodion Sergeyevich turned out to be a millionaire!' Because someone their Rodion Sergeyevich turned out to be a millionaire, Max does not bother softening the blow for Rodion.
-- 'Let us go see how Viktor Petrovich greets him.' Mentioning that they should go see how Viktor Petrovich greets him moves the talk in a new direction.
+- 'Max, you really are a true idiot of mine after all.' Vika keeps a thoughtful manner in this beat, linking "tochno" ("definitely") directly with "nastoyashchiy" ("real, genuine"), since Russian drops "is" and "are" in the present.
+- 'But you are an idiot whom I am going to believe now.' Vika shares a lively bearing during the exchange, anchoring the Russian line on "idiot" ("idiot") and "teper" ("now") without extra filler.
+- 'At the very least, I will try very hard.' Vika chooses a serious line toward Max, using "krayney" (from "krayniy", "extreme, least") alongside "mere" ("measure") to shape the meaning.
+- 'Look what a huge armored black car!' Max strikes a frank position in their talk, joining "smotri" ("look") to "ogromnyy" ("huge") so every word pulls its weight.
+- 'It is not just big, it is genuinely armored.' Max maintains an earnest rhythm straight away, anchoring the Russian line on "prosto" ("just") and "bolshoy" ("big") without extra filler.
+- 'I wonder who has driven into our courtyard?' Max questions calmly with Vika now, anchoring the Russian line on "interesno" ("interesting") and "dvor" ("yard, courtyard") without extra filler.
+- 'Hello, Rodion Sergeyevich! You look great today!' Max maintains an earnest angle in the room, linking "zdravstvuyte" ("hello"), "segodnya" ("today"), and "otlichno" ("perfect, great") in one brisk exchange.
+- 'Good afternoon, friends! Right here, darling, is where I used to dine.' Rodion displays a serious tack right away, putting "dobryy" ("good") alongside "den" ("day") in a tight, everyday turn of phrase.
+- 'Come, I will introduce you to the head chef of this wonderful establishment.' Rodion maintains an easygoing direction in this beat, combining "poydyom" ("let's go") and "predstavlyu" ("I will introduce") so the key meaning lands right away.
+- 'Please, darling, step right inside to the kitchen.' Rodion projects a playful direction on the spot, using "proshu" (from "prosit", "beg, ask") alongside "dorogaya" ("expensive") to shape the meaning.
+- 'Whoa, our Rodion Sergeyevich turned out to be a millionaire!' Max presents a candid stance in front of Rodion, pairing "stal" ("to become") with "millionerom" ("millionaire") to get the point across in plain spoken Russian.
+- 'Let us go see how Viktor Petrovich greets him.' Vika establishes a warm position with Rodion, pairing "poydyom" ("let's go") with "posmotrim" ("have a look") to get the point across in plain spoken Russian.

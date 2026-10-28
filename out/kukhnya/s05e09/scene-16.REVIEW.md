@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Just like that, Arkady, you always gain weight.' Between the work and the court, Barinov gives Ainura a quick, grounded response.
-- 'Champagne for lovers? Apparently they mixed it up.' Over the suit and the work, Lyova presses Ainura for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Lyova, do you think I do not understand anything?' Asking whether Barinov thinks she does not understand anything is how Ainura puts Barinov on the spot. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'I understand everything.' Adding that she understands everything fills in the missing piece for Barinov.
-- 'For three years already I have seen how you look at me.' Admitting that for three years already she has seen how Barinov looks shows Ainura being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Me? Well come on.' With the restaurant and moment hanging in the air, Lyova puts Ainura on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You are so good. Only do not take offense.' Once Barinov is so good, Ainura can finally tell Barinov what she means.
-- 'But for me you are not tasty.' Adding that for her Barinov is not tasty fills in the missing piece for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well, you are not my type.' Saying that Barinov is not her type is how Ainura sets the tone with Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Now you would suit my niece, Gulnara.' Since Barinov would suit her niece Gulnara, Ainura does not waste words on excuses.
-- 'Gulya? Do you think I would suit her?' Asking whether Ainura thinks he would suit is how Lyova puts Ainura on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Of course! Let us have a drink.' Ainura insists that they should have a drink, leaving Barinov no room to argue. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Just like that, Arkady, you always gain weight.' Barinov keeps a grounded bearing in front of Ainura, leaning on "vsegda" ("always") before closing the thought with "nabirayesh" ("gain, put on").
+- 'Champagne for lovers? Apparently they mixed it up.' Lyova checks lightly from the start, joining "shampanskoye" ("champagne") to "vlyublyonnykh" ("in love") so every word pulls its weight.
+- 'Lyova, do you think I do not understand anything?' Ainura challenges quietly during the talk, putting "dumayesh" ("think") alongside "ponimayu" ("understand") in a tight, everyday turn of phrase.
+- 'I understand everything.' Ainura projects an honest attitude right away, joining "ponimayu" ("understand") to "ya" ("I") so every word pulls its weight.
+- 'For three years already I have seen how you look at me.' Ainura establishes a grounded footing right away, leaning on "uzhe" ("already, now") before closing the thought with "goda" ("years").
+- 'Me? Well come on.' Lyova tests dryly at this point, putting "ya" ("I") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
+- 'You are so good. Only do not take offense.' Ainura sets a resolute course at this moment, putting "khoroshiy" ("good") alongside "tolko" ("only") in a tight, everyday turn of phrase.
+- 'But for me you are not tasty.' Ainura projects a natural rhythm in front of Lyova, anchoring the Russian line on "nevkusnyy" ("not tasty") and "no" ("but") without extra filler.
+- 'Well, you are not my type.' Ainura maintains a sharp direction in this beat, leaning on "vkuse" ("taste") before closing the thought with "nu" ("oh, come on").
+- 'Now you would suit my niece, Gulnara.' Ainura maintains a calm tone without hesitation, leaning on "plemyannitse" ("niece") before closing the thought with "podoshyol" ("to come up").
+- 'Gulya? Do you think I would suit her?' Lyova checks evenly as the talk turns, using "dumayesh" (from "dumat", "think") alongside "podoshyol" ("to come up") to shape the meaning.
+- 'Of course! Let us have a drink.' Ainura offers a frank posture in the room, linking "konechno" ("of course"), "davay" ("let's"), and "vypyem" ("will drink") in one brisk exchange.

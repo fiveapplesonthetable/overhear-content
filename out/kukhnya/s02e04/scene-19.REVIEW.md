@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Я уже почти готова и чемодан тоже. | I am almost ready and my suitcase is packed too. | #317: Я уже почти готова и чемодан тоже | verbatim |
+| 1 | Вика | Я уже почти готова и чемодан тоже. | I am almost ready and my suitcase is packed too. | #317: Я уже почти готова и чемодан тоже | verbatim |
 | 2 | Костя | Ты как? | How about you? | #318: Ты как | verbatim |
 | 3 | Макс | В смысле, я нет. | I mean, I am not. | #319: В смысле, я нет | verbatim |
 | 4 | Костя | В смысле, в процессе. | I mean, I am in the middle of it. | #320: В смысле, в процессе | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am almost ready and my suitcase is packed too.' Mentioning that he is almost ready and his suitcase is packed moves the talk in a new direction.
-- 'How about you?' Around the point and phone, Kostya wants to know where Max really stands. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I mean, I am not.' Adding that he means he is not fills in the missing piece for Kostya.
-- 'I mean, I am in the middle of it.' Kostya tells Max that he means he is in the middle of it without dressing it up.
-- 'Kisses. Yes.' With the work and apartment in play, Max keeps this short reply brisk and direct.
-- 'Max, I think we really do need to talk.' Thinking they really do need to talk is how Kostya lays out the situation for Max. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Can you come over to my place tonight?' Checking whether Kostya comes over to his place tonight cuts straight through the tension between Max and Kostya.
-- 'Or are you busy?' Asking whether Max busy is how Kostya puts Max on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'As a matter of fact, tonight I am completely free.' Explaining that as a matter of fact tonight he is completely free lays the cards on the table for Kostya.
-- 'I will be waiting.' Kostya mentions that he will be waiting so Max sees what is at stake.
-- 'Still, Valdemar is a good man.' Claiming that still Valdemar is a good man sounds confident, even if Kostya has doubts.
-- 'Yes, and if he is good, that means I am bad.' Pointing out that if he is good that means he is bad gives Max a sobering reality check.
-- 'And I am not bad.' Since he is not bad, Max does not waste words on excuses.
+- 'I am almost ready and my suitcase is packed too.' Vika projects a natural position with Kostya, combining "uzhe" ("already, now") and "pochti" ("almost") so the key meaning lands right away.
+- 'How about you?' Kostya questions steadily during the talk, joining "kak" ("how") to "ty" ("you") so every word pulls its weight.
+- 'I mean, I am not.' Max presents a playful mood across the room, combining "smysle" ("sense") and "ya" ("I") so the key meaning lands right away.
+- 'I mean, I am in the middle of it.' Kostya shares a lively stance on the spot, weaving "smysle" ("sense") together with "protsesse" ("process, trial") just the way native speakers do.
+- 'Kisses. Yes.' Max chooses a serious line in front of Kostya, combining "tseluyu" ("kisses") and "da" ("yes") so the key meaning lands right away.
+- 'Max, I think we really do need to talk.' Kostya takes a resolute angle on the spot, weaving "dumayu" ("I think") together with "nuzhno" ("necessary") just the way native speakers do.
+- 'Can you come over to my place tonight?' Max prompts lightly as the talk turns, putting "mozhesh" ("can") alongside "priyekhat" ("to come, arrive") in a tight, everyday turn of phrase.
+- 'Or are you busy?' Kostya presses frankly without holding back, pairing "zanyat" ("busy") with "ili" ("or") to get the point across in plain spoken Russian.
+- 'As a matter of fact, tonight I am completely free.' Max displays a sharp style as the scene unfolds, placing "kak" ("how") straight beside "raz" ("time, once") with no word for "to be" needed.
+- 'I will be waiting.' Kostya presents a playful attitude across the room, weaving "budu" ("will be") together with "zhdat" ("to wait") just the way native speakers do.
+- 'Still, Valdemar is a good man.' Max chooses a candid bearing without hesitation, building the phrase around "khoroshiy" ("good") and "chelovek" ("a man, a person") for a crisp, natural delivery.
+- 'Yes, and if he is good, that means I am bad.' Kostya picks an earnest note beside Vika, building the phrase around "khoroshiy" ("good") and "znachit" ("then, so") for a crisp, natural delivery.
+- 'And I am not bad.' Max favors a sharp line with Kostya, weaving "plokhoy" ("bad") together with "ya" ("I") just the way native speakers do.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Kostyan.' Between the situation and the truth, Max gives Barinov a quick, grounded response.
-- 'In five minutes?' With the moment and situation hanging in the air, Barinov puts Max on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Right this way, please.' Over the situation and the plan, Vika answers Barinov without a second thought. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Miss, when are you finally going to bring my order?' Asking whether miss when are Barinov finally going to bring his order puts Barinov right on the defensive.
-- 'Right away, just one moment.' Around the situation and plan, Barinov sets a calm, everyday tone with Max.
-- 'I am working on your salad right now.' Vika mentions that she is working on Barinov's salad right now so Barinov sees what is at stake. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Enjoy your meal.' Here enjoying Barinov's meal sets up the next turn in their exchange.
-- 'Go ahead and call the manager then.' Admitting that Max should go ahead and call the manager then shows Barinov being honest for a change. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Everything is in order, everything is great.' Admitting that everything is in order everything is great shows Vika being honest for a change.
-- 'Is the table ready for me?' By asking whether the table ready for him, Max presses Barinov for a straight answer.
-- 'We will prepare everything this very second.' Once they will prepare everything this very second, Barinov can finally tell Max what he means.
-- 'What did you want, an autograph?' Asking what Barinov wants an autograph is how Vika puts Barinov on the spot. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Very good indeed.' Between the situation and the plan, Max gives Barinov a quick, grounded response.
+- 'Hello, Kostyan.' Max keeps a playful stance right away, combining "allo" ("hello") and "kostyan" ("Kostyan") so the key meaning lands right away.
+- 'In five minutes?' Barinov probes firmly at this point, leaning on "minut" ("minutes") before closing the thought with "pyat" ("five").
+- 'Right this way, please.' Vika shows a wry footing toward Barinov, building the phrase around "proshu" ("beg, ask") and "vas" ("you") for a crisp, natural delivery.
+- 'Miss, when are you finally going to bring my order?' Max questions candidly on the spot, combining "devushka" ("girlfriend") and "kogda" ("when") so the key meaning lands right away.
+- 'Right away, just one moment.' Barinov offers a brisk line with Max, combining "seychas" ("now") and "minutochku" ("a minute") so the key meaning lands right away.
+- 'I am working on your salad right now.' Vika sustains a playful course at once, joining "rabotayu" ("work") to "salat" ("salad") so every word pulls its weight.
+- 'Enjoy your meal.' Max brings a wry footing straight away, using "priyatnogo" (from "priyatnyy", "pleasant") alongside "appetita" ("appetite") to shape the meaning.
+- 'Go ahead and call the manager then.' Barinov shares a firm line across the room, anchoring the Russian line on "direktoru" ("director, head teacher") and "zvonite" ("call") without extra filler.
+- 'Everything is in order, everything is great.' Vika adopts a natural manner in this beat, placing "poryadke" ("order") straight beside "otlichno" ("perfect, great") with no word for "to be" needed.
+- 'Is the table ready for me?' Max asks plainly for Vika's benefit, leaning on "stolik" ("table") before closing the thought with "gotov" ("ready").
+- 'We will prepare everything this very second.' Barinov offers a wry stance during the exchange, weaving "seychas" ("now") together with "podgotovim" ("to prepare") just the way native speakers do.
+- 'What did you want, an autograph?' Vika asks honestly toward Max here, leaning on "khoteli" ("wanted") before closing the thought with "avtograf" ("autograph").
+- 'Very good indeed.' Max keeps an honest footing for Barinov, building the phrase around "ochen" ("very much") and "khorosho" ("good, fine") for a crisp, natural delivery.

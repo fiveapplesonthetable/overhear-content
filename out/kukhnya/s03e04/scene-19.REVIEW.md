@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I swear, I don't know where your elephant is.' Adding that he swears he does not know where Vika's elephant is fills in the missing piece for Vika.
-- 'I had an epiphany today.' Max tells Vika that he had an epiphany today without dressing it up. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I suddenly realized that you are everything I need.' Because he suddenly realized that Vika is everything he needs, Max treats the matter as settled. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Let's start everything from a clean slate. Just you and me.' Proposing that they start everything from a clean slate moves the conversation forward without extra drama.
-- 'And what next?' With the room and kitchen hanging in the air, Vika puts Max on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Next I will get on my feet, we will get married in about two years.' Claiming that next he will get on his feet they will get married in about two years sounds confident, even if Vika has doubts.
-- 'Then we will have kids in five or six years.' Pointing out that they will have kids in five or six years gives Vika a sobering reality check.
-- 'In five or six?' With the room and situation hanging in the air, Vika puts Max on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We will live for ourselves, grow old together, and die on the same day.' Realizing that they will live for themselves grow old together and die on the same day changes how Max handles the situation.
-- 'And if you want, I can die first! Well, do you like my plan?' Questioning whether if Vika wants he can die first is how Max tests Vika's story.
-- 'It is a good plan, Max.' Even though it is a good plan, Vika keeps a steady face in front of Max.
-- 'Only that is your plan, not ours.' Admitting that only that is Max's plan not shows Vika being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I swear, I don't know where your elephant is.' Max keeps a wry approach in the conversation, pairing "klyanus" ("I swear") with "znayu" ("know") to get the point across in plain spoken Russian.
+- 'I had an epiphany today.' Max picks a steady manner with Vika, building the phrase around "segodnya" ("today") and "bylo" ("was") for a crisp, natural delivery.
+- 'I suddenly realized that you are everything I need.' Max picks a candid line in the room, leaning on "vdrug" ("suddenly, what if") before closing the thought with "osoznal" ("to realize").
+- 'Let's start everything from a clean slate. Just you and me.' Max adopts a lively view in the scene, using "davay" (from "davat", "let's") alongside "nachnyom" ("we start") to shape the meaning.
+- 'And what next?' Vika inquires plainly as they speak, anchoring the Russian line on "dalshe" ("next, go on") and "chto" ("what") without extra filler.
+- 'Next I will get on my feet, we will get married in about two years.' Max displays an unhurried bearing without hesitation, pairing "dalshe" ("next, go on") with "vstanu" ("to stand up") to get the point across in plain spoken Russian.
+- 'Then we will have kids in five or six years.' Max projects a measured posture in their talk, building the phrase around "potom" ("then") and "detey" ("children") for a crisp, natural delivery.
+- 'In five or six?' Vika checks boldly as the talk turns, weaving "pyat" ("five") together with "shest" ("six") just the way native speakers do.
+- 'We will live for ourselves, grow old together, and die on the same day.' Max sets a lively tone in front of Vika, building the phrase around "pozhivyom" ("will live for a while") and "sostarimsya" ("will grow old") for a crisp, natural delivery.
+- 'And if you want, I can die first! Well, do you like my plan?' Max tests calmly beside Vika, anchoring the Russian line on "khochesh" ("do you want") and "mogu" ("can") without extra filler.
+- 'It is a good plan, Max.' Vika brings a resolute footing in the conversation, joining "khoroshiy" ("good") to "plan" ("plan") so every word pulls its weight.
+- 'Only that is your plan, not ours.' Vika adopts a playful direction straight away, anchoring the Russian line on "tolko" ("only") and "plan" ("plan") without extra filler.

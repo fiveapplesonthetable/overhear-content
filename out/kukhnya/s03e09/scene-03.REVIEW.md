@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me straight, how much money do you need?' Wondering if tell him straight how much money do Kostya needs shows the guest caught off guard. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'No, there is no need, I will do it myself.' Kostya tells the guest that there is no need he will do it himself without dressing it up.
-- 'Do you think about the future at all?' By asking whether Kostya thinks about the future at all, the guest presses Kostya for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What are your plans going forward?' Wondering what Kostya's plans going forward are cuts straight through the tension between the guest and Kostya. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'I am actually finishing law school soon.' Explaining that he is actually finishing law school soon lays the cards on the table for the guest.
-- 'Just to become a notary in some backwater?' Around the conversation and work, the guest wants to know where Kostya really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I do not need any change at all.' Mentioning that he does not need any change at all moves the talk in a new direction. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Excuse me, here is your change.' Kostya mentions that here is the guest's change so the guest sees what is at stake.
-- 'Alright, I was mistaken then.' Claiming that Alright he was mistaken then sounds confident, even if Kostya has doubts.
-- 'Kostya, I really want to help you.' Pointing out that he really wants to help Kostya gives Kostya a sobering reality check.
-- 'If you do not want to take money, then earn it.' The guest explains that if Kostya does not want to take money then earn it, keeping his voice calm and direct.
-- 'I need a capable lawyer at my factory.' Needing a capable lawyer at his factory is how the guest lays out the situation for Kostya.
+- 'Tell me straight, how much money do you need?' The guest inquires warmly beside Kostya, joining "skazhi" ("say") to "pryamo" ("right, just") so every word pulls its weight.
+- 'No, there is no need, I will do it myself.' Kostya takes a measured position without hesitation, building the phrase around "nado" ("it is necessary") and "net" ("no") for a crisp, natural delivery.
+- 'Do you think about the future at all?' The guest challenges honestly without holding back, leaning on "budushchem" ("future, next") before closing the thought with "voobshche" ("at all").
+- 'What are your plans going forward?' The guest challenges quietly in the room, linking "dalshe" ("next, go on") directly with "plany" ("plans"), since Russian drops "is" and "are" in the present.
+- 'I am actually finishing law school soon.' Kostya brings a brisk position toward the guest, combining "voobshche-to" ("actually") and "yuridicheskiy" ("law, legal") so the key meaning lands right away.
+- 'Just to become a notary in some backwater?' The guest quizzes calmly to Kostya here, weaving "stat" ("to become") together with "notariusom" ("notary") just the way native speakers do.
+- 'I do not need any change at all.' The guest sets a natural footing in their talk, leaning on "sdachi" ("change, surrender") before closing the thought with "sovsem" ("at all").
+- 'Excuse me, here is your change.' Kostya holds a grounded rhythm in the conversation, weaving "izvinite" ("sorry, excuse me") together with "sdacha" ("change, surrender") just the way native speakers do.
+- 'Alright, I was mistaken then.' The guest strikes a sharp footing in their talk, weaving "togda" ("back then") together with "oshibsya" ("to make a mistake") just the way native speakers do.
+- 'Kostya, I really want to help you.' The guest establishes an emphatic tone straight away, weaving "pomoch" ("to help") together with "khochu" ("want") just the way native speakers do.
+- 'If you do not want to take money, then earn it.' The guest shows a direct bearing during the exchange, weaving "khochesh" ("do you want") together with "vzyat" ("to take") just the way native speakers do.
+- 'I need a capable lawyer at my factory.' The guest brings an earnest direction in the scene, leaning on "zavode" ("factory, plant") before closing the thought with "khoroshiy" ("good").

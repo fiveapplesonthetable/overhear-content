@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Катя | Давай сразу договоримся, ничего не было. | Let's agree right away that nothing happened. | #14: Давай сразу договоримся, ничего не было | adapted: adapted |
 | 2 | Катя | Просто уснули и просто проснулись. | We just fell asleep and just woke up. | #15: Просто уснули и просто проснулись | adapted: adapted |
-| 3 | Макс | Пришла ко мне с бутылкой, напоила. | You came to me with a bottle and got me drunk. | #16: Пришла ко мне с бутылкой, напоила | adapted: adapted |
+| 3 | Катя | Пришла ко мне с бутылкой, напоила. | You came to me with a bottle and got me drunk. | #16: Пришла ко мне с бутылкой, напоила | adapted: adapted |
 | 4 | Макс | А моя рубашка сейчас где? | And where is my shirt right now? | #17: А рубашка где | adapted: adapted |
 | 5 | Макс | Ты знаешь, где мои вещи. | You know where my clothes are. | #18: Ты знаешь, где мои вещи | adapted: adapted |
 | 6 | Макс | Даже пуговица на рубашке оторвала. | Even a button on the shirt was torn off. | #19: даже пуговица | adapted: adapted |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's agree right away that nothing happened.' Katya reminds Max that they should agree right away that nothing happened before the moment passes. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'We just fell asleep and just woke up.' Since they just fell asleep and just woke up, Katya does not waste words on excuses.
-- 'You came to me with a bottle and got me drunk.' Mentioning that Katya came to him with a bottle and got him drunk moves the talk in a new direction.
-- 'And where is my shirt right now?' Asking where his shirt right now is is how Max puts Katya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You know where my clothes are.' Because where his clothes are, Max treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Even a button on the shirt was torn off.' Explaining that even a button on the shirt was torn off lays the cards on the table for Katya.
-- 'Listen, I honestly do not remember anything.' Katya mentions that she honestly do not remember anything so Max sees what is at stake. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Yeah, I do not remember either.' Claiming that yeah he does not remember either sounds confident, even if Katya has doubts.
-- 'How did we get so wasted from one bottle?' Here wondering how they get so wasted from one bottle shows Katya looking for the real truth.
-- 'We could not have from just one.' Max explains that they could not have from just one, keeping his voice calm and direct.
-- 'But from three, easily.' With the point and morning in play, Max keeps this short reply brisk and direct.
-- 'Where did we get hold of them?' Asking where they get hold of them is how Katya puts Max on the spot.
-- 'They do not sell alcohol at night.' Even though they do not sell alcohol at night, Max keeps a steady face in front of Katya.
+- 'Let's agree right away that nothing happened.' Katya displays a thoughtful attitude beside Max, weaving "davay" ("let's") together with "srazu" ("at once") just the way native speakers do.
+- 'We just fell asleep and just woke up.' Katya presents a grounded angle without hesitation, linking "prosto" ("just"), "usnuli" ("fell asleep"), and "prosnulis" ("woke up") in one brisk exchange.
+- 'You came to me with a bottle and got me drunk.' Katya maintains an unhurried stance without hesitation, leaning on "prishla" ("came") before closing the thought with "butylkoy" ("bottle").
+- 'And where is my shirt right now?' Max checks naturally on the spot, building the phrase around "rubashka" ("shirt") and "seychas" ("now") for a crisp, natural delivery.
+- 'You know where my clothes are.' Max brings a warm rhythm without hesitation, leaning on "znayesh" ("know") before closing the thought with "gde" ("where").
+- 'Even a button on the shirt was torn off.' Max picks an earnest approach in their talk, combining "pugovitsa" ("button") and "rubashke" ("on the shirt") so the key meaning lands right away.
+- 'Listen, I honestly do not remember anything.' Katya chooses a warm tone across the room, linking "slushay" ("listen"), "realno" ("really possible"), and "pomnyu" ("remember") in one brisk exchange.
+- 'Yeah, I do not remember either.' Max favors a sharp attitude in the scene, leaning on "tozhe" ("too") before closing the thought with "pomnyu" ("remember").
+- 'How did we get so wasted from one bottle?' Katya challenges calmly as they speak, joining "kak" ("how") to "napilis" ("get drunk") so every word pulls its weight.
+- 'We could not have from just one.' Max presents a lively footing in the scene, pairing "mogli" ("could") with "odnoy" ("one, a single") to get the point across in plain spoken Russian.
+- 'But from three, easily.' Max adopts a frank note across the room, building the phrase around "legko" ("easy") and "tryokh" ("three") for a crisp, natural delivery.
+- 'Where did we get hold of them?' Katya wonders briskly on the spot, anchoring the Russian line on "gde" ("where") and "dostali" ("have driven crazy") without extra filler.
+- 'They do not sell alcohol at night.' Max maintains a candid view in this beat, combining "nochyu" ("night") and "magazine" ("shop") so the key meaning lands right away.

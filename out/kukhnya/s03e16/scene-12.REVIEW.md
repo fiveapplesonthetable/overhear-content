@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, it is definitely Grandpa Kirill, I swear to you!' Once it is definitely Grandpa Kirill he swears to Barinov, Max makes sure Barinov hears every word. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Calm down, someone is just playing a prank, like us.' By calming down someone is just playing a prank like them, Max keeps his side of the story grounded.
-- 'Alright then, Vitya, tonight you have a night shift.' Claiming that Alright then Vitya tonight Barinov has a night shift sounds confident, even if Barinov has doubts. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Listen, Dima, is there no way to do it without Katya?' Checking whether there no way to do it without Katya cuts straight through the tension between Barinov and Max. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'No way, I already promised the guys there would be fish ice cream.' Nagiyev explains that way he already promised the guys there would be fish ice cream, keeping his voice calm and direct.
-- 'And what kind of event are you having tonight?' Wondering if what kind of event are Max having tonight shows Barinov caught off guard. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Tonight I am going to play cards.' Noting that tonight he is going to play cards keeps Nagiyev's side of the story simple and clear.
-- 'I will be playing with good, respected people.' Even though he will be playing with good respected people, Nagiyev keeps a steady face in front of Barinov.
-- 'We need money, we are buying out the second floor, after all!' Nagiyev insists that they need money they are buying out the second floor after all, leaving Barinov no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Great, does that mean we are opening a second dining hall?' Asking whether great does that mean they are opening a second dining hall puts Max right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, not quite, Kristina wants to open a karaoke club up there.' Once not quite Kristina wants to open a karaoke club up there, Nagiyev can finally tell Barinov what he means.
-- 'What, karaoke in a French restaurant, then buy the third floor for Turkish baths!' With the truth and restaurant at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Senya, it is definitely Grandpa Kirill, I swear to you!' Max chooses a natural line across the room, anchoring the Russian line on "tochno" ("definitely") and "ded" ("grandfather") without extra filler.
+- 'Calm down, someone is just playing a prank, like us.' Max favors a pointed tone in front of Nagiyev, joining "uspokoysya" ("calm down") to "prosto" ("just") so every word pulls its weight.
+- 'Alright then, Vitya, tonight you have a night shift.' Nagiyev maintains a candid approach toward Barinov, combining "znachit" ("then, so") and "segodnya" ("today") so the key meaning lands right away.
+- 'Listen, Dima, is there no way to do it without Katya?' Barinov wonders plainly on the spot, linking "poslushay" ("listen"), "nikak" ("in no way"), and "nelzya" ("not allowed") in one brisk exchange.
+- 'No way, I already promised the guys there would be fish ice cream.' Nagiyev offers a candid style beside Barinov, pairing "nikak" ("in no way") with "uzhe" ("already, now") to get the point across in plain spoken Russian.
+- 'And what kind of event are you having tonight?' Barinov queries evenly across the room, weaving "segodnya" ("today") together with "nochyu" ("night") just the way native speakers do.
+- 'Tonight I am going to play cards.' Nagiyev shares a clear approach as the scene unfolds, combining "segodnya" ("today") and "nochyu" ("night") so the key meaning lands right away.
+- 'I will be playing with good, respected people.' Nagiyev projects a serious course in the scene, building the phrase around "budu" ("will be") and "igrat" ("to play") for a crisp, natural delivery.
+- 'We need money, we are buying out the second floor, after all!' Nagiyev takes a warm posture in front of Barinov, anchoring the Russian line on "dengi" ("money") and "nuzhny" ("needed") without extra filler.
+- 'Great, does that mean we are opening a second dining hall?' Barinov asks honestly without a pause, anchoring the Russian line on "otlichno" ("perfect, great") and "znachit" ("then, so") without extra filler.
+- 'Well, not quite, Kristina wants to open a karaoke club up there.' Nagiyev favors an easygoing stance in the conversation, leaning on "sovsem" ("at all") before closing the thought with "khochet" ("wants").
+- 'What, karaoke in a French restaurant, then buy the third floor for Turkish baths!' Barinov takes a candid view toward Nagiyev, weaving "karaoke" ("karaoke") together with "frantsuzskom" ("French") just the way native speakers do.

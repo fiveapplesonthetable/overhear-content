@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, and what are we to do now?' By asking what they to do now are, Barinov presses Eva for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Personally, I am definitely going to have the baby.' Claiming that personally she is definitely going to have the baby sounds confident, even if Barinov has doubts.
-- 'But you need some help, after all.' Pointing out that Eva needs some help after all gives Eva a sobering reality check.
-- 'I do not need anything from you.' Saying that she does not need anything from Barinov is how Eva sets the tone with Barinov. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'But you can help the child.' Realizing that Barinov can help the child changes how Eva handles the situation. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Tell me, how exactly can I help him?' Asking whether tell him how exactly can he helps him puts Eva right on the defensive.
-- 'Well, at least financially.' With the apartment and work in play, Eva keeps this short reply brisk and direct.
-- 'I live very far from work.' Saying that she lives very far from work is how Eva sets the tone with Barinov.
-- 'It would be nice to rent an apartment nearby.' Saying that it would be nice to rent an apartment nearby is how Eva sets the tone with Barinov.
-- 'It is very hard for me to ride the metro.' Once it is very hard for her to ride the metro, Eva can finally tell Barinov what she means.
-- 'I understood you very well.' Adding that he understood Eva very well fills in the missing piece for Eva. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'All right, I will think about it.' Saying that all right he will think about it is how Barinov sets the tone with Eva.
+- 'Well, and what are we to do now?' Barinov tests pointedly in this moment, leaning on "teper" ("now") before closing the thought with "delat" ("do").
+- 'Personally, I am definitely going to have the baby.' Eva chooses a candid direction straight away, pairing "lichno" ("personally") with "tochno" ("definitely") to get the point across in plain spoken Russian.
+- 'But you need some help, after all.' Barinov projects an emphatic position right away, putting "nado" ("it is necessary") alongside "pomoch" ("to help") in a tight, everyday turn of phrase.
+- 'I do not need anything from you.' Eva holds a firm angle at this moment, linking "nuzhno" ("necessary"), "mne" ("to me"), and "nichego" ("nothing") in one brisk exchange.
+- 'But you can help the child.' Eva presents a clear line in the scene, combining "mozhete" ("can, may") and "pomoch" ("to help") so the key meaning lands right away.
+- 'Tell me, how exactly can I help him?' Barinov checks naturally in their exchange, linking "skazhi" ("say"), "kak" ("how"), and "pomoch" ("to help") in one brisk exchange.
+- 'Well, at least financially.' Eva conveys a lively tack beside Barinov, leaning on "prosto" ("just") before closing the thought with "materialno" ("financially").
+- 'I live very far from work.' Eva brings an earnest angle in this beat, leaning on "ochen" ("very much") before closing the thought with "daleko" ("far away").
+- 'It would be nice to rent an apartment nearby.' Eva presents a steady tempo across the room, pairing "neplokho" ("not bad") with "snyat" ("to take down") to get the point across in plain spoken Russian.
+- 'It is very hard for me to ride the metro.' Eva offers a direct line in front of Barinov, anchoring the Russian line on "ochen" ("very much") and "tyazhelo" ("hard") without extra filler.
+- 'I understood you very well.' Barinov strikes an easygoing direction in their talk, leaning on "ochen" ("very much") before closing the thought with "khorosho" ("good, fine").
+- 'All right, I will think about it.' Barinov conveys a measured attitude in this beat, leaning on "khorosho" ("good, fine") before closing the thought with "podumayu" ("to think").

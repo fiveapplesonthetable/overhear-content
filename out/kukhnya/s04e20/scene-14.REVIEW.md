@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is the finale, and may the strongest win!' Insisting that this is the finale and may the strongest win shows Nagiyev is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Stop, what is going on over there?' Asking whether stop what is going on over there puts Barinov right on the defensive. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Quiet, guys, I will handle this myself right now.' Admitting that quiet guys he will handle this himself right now shows Nagiyev being honest for a change.
-- 'Vitya, what are you doing right here?' Here wondering what Barinov doing right here is shows Nagiyev looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'According to the contract I only have to appear on camera.' Once according to the contract he only has to appear on camera, Barinov can finally tell Nagiyev what he means.
-- 'So here I am honestly standing and being filmed.' Adding that here he is honestly standing and being filmed fills in the missing piece for Nagiyev.
-- 'But I am not going to cook today.' Being not going to cook today is how Barinov lays out the situation for Nagiyev.
-- 'According to what contract, do you hear me?' Wondering if according to what contract do Barinov hears him shows Nagiyev caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Quickly cook any dish right here!' Between the shift and the table, Nagiyev delivers a sharp reaction.
-- 'And then go wherever you please!' Insisting that Barinov should go wherever Barinov pleases shows Nagiyev is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Guess which finger is in my pocket?' Barinov asks whether guess which finger is in his pocket, refusing to let the point slide. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Dima, let's just have no scandals today.' Adding that they should just have no scandals today fills in the missing piece for Nagiyev.
+- 'This is the finale, and may the strongest win!' Nagiyev favors a lively line without hesitation, weaving "final" ("to show") together with "pobedit" ("wins") just the way native speakers do.
+- 'Stop, what is going on over there?' Nagiyev checks pointedly to Barinov here, putting "tam" ("there") alongside "proiskhodit" ("is going on") in a tight, everyday turn of phrase.
+- 'Quiet, guys, I will handle this myself right now.' Nagiyev strikes an unhurried bearing right away, building the phrase around "tikho" ("easy, quiet") and "rebyata" ("the boys, the lads") for a crisp, natural delivery.
+- 'Vitya, what are you doing right here?' Nagiyev challenges bluntly from the start, pairing "seychas" ("now") with "tut" ("here") so the "-sya" ending carries the action.
+- 'According to the contract I only have to appear on camera.' Barinov adopts a natural tone right away, joining "dogovoru" ("contract, agreement") to "dolzhen" ("has to, must") so every word pulls its weight.
+- 'So here I am honestly standing and being filmed.' Barinov shares a candid view in the conversation, putting "chestno" ("honestly") alongside "stoyu" ("am standing") in a tight, everyday turn of phrase.
+- 'But I am not going to cook today.' Barinov favors a warm tempo as the scene unfolds, putting "gotovit" ("to cook") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
+- 'According to what contract, do you hear me?' Nagiyev tests evenly for Barinov's benefit, putting "yeshchyo" ("more, still") alongside "dogovoru" ("contract, agreement") in a tight, everyday turn of phrase.
+- 'Quickly cook any dish right here!' Nagiyev sets an emphatic tone at once, anchoring the Russian line on "bystro" ("quickly") and "gotov" ("prepare") without extra filler.
+- 'And then go wherever you please!' Nagiyev strikes a brisk course beside Barinov, leaning on "potom" ("then") before closing the thought with "idi" ("go").
+- 'Guess which finger is in my pocket?' Barinov checks plainly toward Nagiyev here, leaning on "ugaday" ("to guess correctly") before closing the thought with "palets" ("finger").
+- 'Dima, let's just have no scandals today.' Barinov favors a natural style at once, anchoring the Russian line on "davay" ("let's") and "segodnya" ("today") without extra filler.

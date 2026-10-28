@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you know how long I searched for him?' Checking whether Katya knows how long she searched for him cuts straight through the tension between Nastya and Katya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I wrote letters and made inquiries.' Saying that she wrote letters and made inquiries is how Nastya sets the tone with Katya.
-- 'And then a week ago he was found.' Once a week ago he was found, Nastya can finally tell Katya what she means.
-- 'I invited him, and so he came.' Adding that she invited him and so he came fills in the missing piece for Katya.
-- 'We wanted to give you a nice surprise.' Nastya tells Katya that they wanted to give Katya a nice surprise without dressing it up. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Kostik, he is actually your own family.' Since someone he is actually Katya's own family, Nastya does not waste words on excuses.
-- 'This man abandoned my mother and me.' Around the shift and family, Kostya sets a calm, everyday tone with Katya.
-- 'And now he suddenly showed up again!' Insisting that he suddenly showed up again shows Kostya is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'You need to warn people in advance about such surprises.' Because Katya needs to warn people in advance about such surprises, Kostya treats the matter as settled.
-- 'In the end I cooked dinner for you.' Between the shift and the family, Katya gives Kostya a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'In short, they simply set me up.' Katya mentions that in short they simply set her up so Kostya sees what is at stake.
-- 'I was going to invite you to dinner anyway.' Claiming that he was going to invite Katya to dinner anyway sounds confident, even if Katya has doubts.
+- 'Do you know how long I searched for him?' Nastya queries openly in the room, linking "znayesh" ("know"), "kak" ("how"), and "dolgo" ("for a long time") in one brisk exchange.
+- 'I wrote letters and made inquiries.' Nastya holds a brisk tack as the scene unfolds, weaving "pisala" ("to write") together with "pisma" ("letters") just the way native speakers do.
+- 'And then a week ago he was found.' Nastya maintains an earnest note as the scene unfolds, joining "nedelyu" ("for a week") to "nazad" ("ago") so every word pulls its weight.
+- 'I invited him, and so he came.' Nastya shares a direct position in the room, anchoring the Russian line on "priglasila" ("to invite, to call in") and "priyekhal" ("came") without extra filler.
+- 'We wanted to give you a nice surprise.' Nastya shares a brisk manner toward Katya, weaving "khoroshiy" ("good") together with "syurpriz" ("surprise") just the way native speakers do.
+- 'Kostik, he is actually your own family.' Nastya sets a playful footing in their talk, leaning on "voobshche-to" ("actually") before closing the thought with "rodnaya" ("dear, darling").
+- 'This man abandoned my mother and me.' Kostya favors a calm bearing as they talk, pairing "chelovek" ("a man, a person") with "brosil" ("threw") to get the point across in plain spoken Russian.
+- 'And now he suddenly showed up again!' Kostya establishes a candid mood in the conversation, pairing "teper" ("now") with "vdrug" ("suddenly, what if") to get the point across in plain spoken Russian.
+- 'You need to warn people in advance about such surprises.' Kostya sets an emphatic approach right away, combining "syurprizakh" ("surprise") and "zaraneye" ("in advance") so the key meaning lands right away.
+- 'In the end I cooked dinner for you.' Katya brings a serious footing for Nastya, putting "itoge" ("result, total") alongside "prigotovila" ("to prepare") in a tight, everyday turn of phrase.
+- 'In short, they simply set me up.' Katya displays an easygoing footing as the scene unfolds, putting "koroche" ("long story short") alongside "govorya" ("speaking") in a tight, everyday turn of phrase.
+- 'I was going to invite you to dinner anyway.' Kostya holds a wry tempo with Nastya, anchoring the Russian line on "sobiralsya" ("was going to") and "priglasit" ("to invite") without extra filler.

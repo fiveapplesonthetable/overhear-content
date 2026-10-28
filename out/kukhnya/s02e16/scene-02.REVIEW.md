@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will go close the door.' Saying that he will go close the door is how Max sets the tone with Sasha.
-- 'So, did you get a good night's sleep?' Asking whether Max gets a good night sleep cuts straight through the tension between Sasha and Max. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What is the matter, Sasha will not let you near her?' Wondering what the matter Sasha will not let Sasha near is is how Max puts Sasha on the spot.
-- 'What did you just say?' Asking what Max just say is how Sasha puts Max on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Who is going to believe you?' By asking who going to believe Sasha is, Max presses Sasha for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Lavrov, what on earth are you doing?' Wondering if what on earth are Max doing shows Sasha caught off guard.
-- 'Have you completely lost your mind or what?' Asking whether Sasha completely lost Sasha's mind is how Max puts Sasha on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Stop it, what are you doing?' When Sasha asks if stop it what are Max doing, Max has to answer fast. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Come on, get up.' Admitting that Sasha should come on get up shows Max being honest for a change.
-- 'Enough already, what are you doing.' Sasha explains that enough already what are Max doing, keeping her voice calm and direct.
-- 'I did not even lay a finger on him!' Insisting that he did not even lay a finger on him shows Max is not backing down.
-- 'Well, actually, that is exactly what happened.' Noting that that is exactly what happened keeps Sasha's side of the story simple and clear.
-- 'Let go of me.' Saying that Sasha should let go of him is how Max sets the tone with Sasha.
+- 'I will go close the door.' Max sets a wry manner during the exchange, pairing "poydu" ("go") with "zakroyu" ("to close, to shut") to get the point across in plain spoken Russian.
+- 'So, did you get a good night's sleep?' Sasha questions directly beside Max, putting "vyspalsya" ("got enough sleep") alongside "chto" ("what") in a tight, everyday turn of phrase.
+- 'What is the matter, Sasha will not let you near her?' Max wonders openly in the scene, linking "dayut" ("they give"), "che" ("what"), and "sashe" ("Sasha") in one brisk exchange.
+- 'What did you just say?' Sasha queries dryly right away, putting "skazal" ("said") alongside "che" ("what") in a tight, everyday turn of phrase.
+- 'Who is going to believe you?' Max prompts steadily as the beat lands, anchoring the Russian line on "sprosit" ("asks") and "da" ("yes") without extra filler.
+- 'Lavrov, what on earth are you doing?' Sasha wonders plainly to make the point, building the phrase around "tvorish-to" ("are doing, creating") and "lavrov" ("Lavrov") for a crisp, natural delivery.
+- 'Have you completely lost your mind or what?' Max probes decisively for Sasha's benefit, combining the intensifier "sovsem" ("completely, at all") with "zhiva" ("alive") to give the line its natural spoken rhythm.
+- 'Stop it, what are you doing?' Sasha inquires promptly without hesitation, building the phrase around "khvatit" ("enough") and "delayesh" ("are you doing") for a crisp, natural delivery.
+- 'Come on, get up.' Max establishes a wry view in their talk, putting "vstavay" ("get up, stand up") alongside "che" ("what") in a tight, everyday turn of phrase.
+- 'Enough already, what are you doing.' Sasha sets a resolute position for Max, combining "khorosh" ("good, nice") and "tvorish-to" ("are doing, creating") so the key meaning lands right away.
+- 'I did not even lay a finger on him!' Max offers an earnest view at once, joining "trogal" ("touched") to "da" ("yes") so every word pulls its weight.
+- 'Well, actually, that is exactly what happened.' Sasha keeps a sharp direction at this moment, building the phrase around "voobshche-to" ("actually") and "bylo" ("was") for a crisp, natural delivery.
+- 'Let go of me.' Max sustains a natural course in front of Sasha, joining "pusti" ("let go") to "menya" ("me") so every word pulls its weight.

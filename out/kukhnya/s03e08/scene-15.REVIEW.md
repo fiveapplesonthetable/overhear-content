@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, tell me, what happened to you?' Turning from the news to the kitchen, Elena asks Barinov directly. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'It seems I just accidentally sprained my ankle.' Because it seems he just accidentally sprained his ankle, Barinov treats the matter as settled.
-- 'My God, well that is it, you urgently need to see a doctor!' Declaring that her well that is it Barinov urgently need to see a doctor brings Elena's temper right to the surface. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'So for today we are done with golf.' Elena mentions that for today they are done with golf so Barinov sees what is at stake.
-- 'No, I want very much to finish playing this round.' By wanting very much to finish playing this round, Barinov keeps his side of the story grounded.
-- 'Right now I will go rest a little and return to you.' Pointing out that right now he will go rest a little and return to Elena gives Elena a sobering reality check. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Viktor Petrovich, are you definitely sure about that?' Asking whether Barinov definitely sure cuts straight through the tension between Elena and Barinov. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'In general, golf is the best thing I have played in my life!' Insisting that golf is the best thing he has played in his life shows Barinov is not backing down.
-- 'Why walk on foot, they will give you a quick ride right now.' Noting that why walk on foot they will give Barinov a quick ride right now keeps Elena's side of the story simple and clear. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Lena, do not be bored here, I will be back soon!' Declaring that someone do not be bored here he will be back soon brings Barinov's temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Hey, what am I paying you money for, quickly switch it to football!' With the job and news at stake, Barinov reacts without holding back.
-- 'Guys, attention, today I am quitting and leaving for another restaurant.' Saying that attention today he is quitting and leaving for another restaurant is how Max sets the tone with Barinov.
-- 'Congratulations, just do not forget to buy us some good juice.' Once congratulations just do not forget to buy them some good juice, Max can finally tell Barinov what he means.
+- 'Vitya, tell me, what happened to you?' Elena questions promptly without hesitation, pairing "skazhi" ("say") with "sluchilos" ("happened") to get the point across in plain spoken Russian.
+- 'It seems I just accidentally sprained my ankle.' Barinov keeps a lively approach toward Max, linking "kazhetsya" ("it seems, I think"), "seychas" ("now"), and "sluchayno" ("by any chance") in one brisk exchange.
+- 'My God, well that is it, you urgently need to see a doctor!' Elena adopts a warm style as they talk, linking "bozhe" ("good lord, God") directly with "srochno" ("urgent, urgently"), since Russian drops "is" and "are" in the present.
+- 'So for today we are done with golf.' Elena projects a resolute tone in their talk, leaning on "znachit" ("then, so") before closing the thought with "segodnya" ("today").
+- 'No, I want very much to finish playing this round.' Barinov picks a direct tempo in the scene, combining "ochen" ("very much") and "khochu" ("want") so the key meaning lands right away.
+- 'Right now I will go rest a little and return to you.' Barinov brings a steady direction in front of Max, anchoring the Russian line on "seychas" ("now") and "poydu" ("go") without extra filler.
+- 'Viktor Petrovich, are you definitely sure about that?' Elena asks lightly in front of Barinov, weaving "tochno" ("definitely") together with "uvereny" ("sure, certain") just the way native speakers do.
+- 'In general, golf is the best thing I have played in my life!' Barinov picks a wry tone straight away, combining "voobshche" ("at all") and "golf" ("golf") so the key meaning lands right away.
+- 'Why walk on foot, they will give you a quick ride right now.' Elena conveys a serious style during the exchange, linking "zachem" ("what for"), "idti" ("to go"), and "peshkom" ("on foot") in one brisk exchange.
+- 'Lena, do not be bored here, I will be back soon!' Barinov takes a thoughtful direction as the scene unfolds, building the phrase around "tut" ("here") and "skuchay" ("be bored, miss") for a crisp, natural delivery.
+- 'Hey, what am I paying you money for, quickly switch it to football!' Barinov establishes a grounded position in the conversation, building the phrase around "dengi" ("money") and "plachu" ("pay") for a crisp, natural delivery.
+- 'Guys, attention, today I am quitting and leaving for another restaurant.' Max conveys an easygoing course across the room, linking "rebyata" ("the boys, the lads"), "vnimaniye" ("attention"), and "segodnya" ("today") in one brisk exchange.
+- 'Congratulations, just do not forget to buy us some good juice.' Max strikes an unhurried manner at this moment, using "pozdravlyayu" (from "pozdravlyat", "congratulations") alongside "tolko" ("only") to shape the meaning.

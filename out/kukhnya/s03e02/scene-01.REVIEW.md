@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is the most important thing in a waiter's job?' Here asking what the most important thing in a waiter job is shows Max looking for the real truth.
-- 'Manners? Politeness?' Over the point and the menu, Max presses the guest for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Spectacular presentation of dishes makes them tastier.' Even though spectacular presentation of dishes makes them tastier, Max keeps a steady face in front of the guest.
-- 'An individual approach?' With the point and moment hanging in the air, Max puts the guest on the spot.
-- 'Right, I am not allowed to have this. This either.' Saying that right he is not allowed to have this is how the guest sets the tone with Max. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'In my opinion, the main thing is patience.' Once in his opinion the main thing is patience, Max can finally tell the guest what he means. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'You know what, give me a coffee.' Around the moment and guest, the guest sets a calm, everyday tone with Max.
-- 'And that is all.' The guest tells Max that that is all without dressing it up.
-- 'What are you doing? He ordered just coffee!' Here asking what the guest doing is shows Max looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Coffee? Yes, give me an espresso coffee.' Around the guest and moment, the guest wants to know where Max really stands.
-- 'And here, keep the change.' Around the moment and conversation, the guest sets a calm, everyday tone with Max. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Sometimes patience is very generously rewarded.' Because sometimes patience is very generously rewarded, Max treats the matter as settled.
+- 'What is the most important thing in a waiter's job?' Max queries lightly as they speak, linking "samoye" ("the most"), "vazhnoye" ("important"), and "rabote" ("work") in one brisk exchange.
+- 'Manners? Politeness?' Max queries candidly in the room, leaning on "manery" ("manners") before closing the thought with "vezhlivost" ("politeness").
+- 'Spectacular presentation of dishes makes them tastier.' Max establishes a measured course as the scene unfolds, combining "effektnaya" ("spectacular") and "podacha" ("presentation") so the key meaning lands right away.
+- 'An individual approach?' Max prompts naturally in this moment, pairing "individualnyy" ("individual") with "podkhod" ("approach") to get the point across in plain spoken Russian.
+- 'Right, I am not allowed to have this. This either.' The guest brings a calm note for Max, linking "nelzya" ("not allowed") directly with "tozhe" ("too"), since Russian drops "is" and "are" in the present.
+- 'In my opinion, the main thing is patience.' Max establishes a sharp attitude at once, weaving "po-moyemu" ("in my opinion") together with "glavnoye" ("important") just the way native speakers do.
+- 'You know what, give me a coffee.' The guest displays a direct style without hesitation, putting "znayete" ("know") alongside "dayte" ("give") in a tight, everyday turn of phrase.
+- 'And that is all.' The guest holds a candid position with Max, leaning on "vsyo" ("everything") as a compact, one-word response that needs no extra words.
+- 'What are you doing? He ordered just coffee!' Max prompts steadily as the beat lands, linking "delayesh" ("are you doing"), "zakazal" ("ordered"), and "prosto" ("just") in one brisk exchange.
+- 'Coffee? Yes, give me an espresso coffee.' The guest probes naturally in the room, linking "kofe" ("of coffee"), "dayte" ("give"), and "espresso" ("espresso") in one brisk exchange.
+- 'And here, keep the change.' The guest shares a candid direction on the spot, combining "sdachi" ("change, surrender") and "nado" ("it is necessary") so the key meaning lands right away.
+- 'Sometimes patience is very generously rewarded.' Max displays a candid view toward the guest, pairing "poroy" ("at times, occasionally") with "terpeniye" ("patience") to get the point across in plain spoken Russian.

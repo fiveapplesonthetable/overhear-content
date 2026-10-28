@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e09.ru.srt'
 INTRO = "Chaos erupts in two places at once: at the police station, Roma's mother spots her little boy with Max, while back at the restaurant Senya and Fedya trap German inside the walk-in fridge."
 OPENER = "Let's go through each line of the double predicament."
 TRANSITION = "Now let's hear the whole scene again at natural speed."
-OUTRO = "Notice the very common Russian idiom 'it did not work out for us', which uses the neuter past reflexive verb with 'by us'. Until next time!"
+OUTRO = "Notice the very common Russian idiom 'it did not work out for us', which uses the neuter past everyday expression with 'by us'. Until next time!"
 CLOSING = ('barinov', 'Увидимся!')
 STORY = [
     ('max', 'Вот же этот мальчик!', 'Here is this little boy!', [(176, 'Вот же')], 'adapted for A1 clarity'),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Тогда где наш ребёнок?', 'Then where is our child?', [(192, 'Где мой ребенок')], 'adapted for A1 clarity'),
 ]
 WALK = [
-    (0, None, "'Here is this little boy!' Declaring that here is this little boy brings Max's temper right to the surface."),
-    (1, None, "'Wait, I will explain everything right now.' Explaining that he will explain everything right now lays the cards on the table for Barinov."),
-    (2, None, "'Come on in, dear guests.' Since German should come on in dear guests, Barinov does not waste words on excuses."),
-    (3, None, "'We tried, it did not work out for us.' Claiming that they tried it did not work out for them sounds confident, even if German has doubts."),
-    (4, None, "'A dubious way to stop me.' Around the chaos and shift, German sets a calm, everyday tone with Barinov."),
-    (5, None, "'That is it, I am leaving.' German explains that that is it he is leaving, keeping his voice calm and direct."),
-    (6, None, "'Close the walk-in fridge quickly!' By closing the walk in fridge quickly, Barinov raises the stakes in the room at once."),
-    (7, None, '\'Let\'s not shout.\' Proposing that they not shout moves the conversation forward without extra drama. Starting with "davay" is the everyday Russian way to say "come on, let us do this".'),
-    (8, None, "'Calm down, everyone, please.' Telling Barinov to calm down everyone please is how Max lays out the situation for Barinov."),
-    (9, None, "'This is Konstantin Anisimov's child.' Admitting that this is Konstantin Anisimov child shows Max being honest for a change."),
-    (10, None, '\'Do you know Konstantin?\' Asking whether Barinov knows Konstantin is how Max puts Barinov on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.'),
-    (11, None, '\'Then where is our child?\' Here asking where their child is shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (0, None, '\'Here is this little boy!\' Max establishes a sharp view for Barinov, joining "malchik" ("boy") to "vot" ("there, here") so every word pulls its weight.'),
+    (1, None, '\'Wait, I will explain everything right now.\' Max shows a direct mood in the room, pairing "seychas" ("now") with "podozhdite" ("wait") so the "-sya" ending carries the action.'),
+    (2, None, '\'Come on in, dear guests.\' Barinov holds a warm rhythm without hesitation, building the phrase around "zakhodite" ("come in") and "gosti" ("visitors, guests") for a crisp, natural delivery.'),
+    (3, None, '\'We tried, it did not work out for us.\' Barinov maintains a pointed style in the scene, weaving "popytalis" ("to work") together with "poluchilos" ("worked out") just the way native speakers do.'),
+    (4, None, '\'A dubious way to stop me.\' German holds an honest angle on the spot, anchoring the Russian line on "somnitelnyy" ("dubious") and "sposob" ("a way, a method") without extra filler.'),
+    (5, None, '\'That is it, I am leaving.\' German displays a steady angle on the spot, combining "poshyol" ("went, set off") and "otsyuda" ("from here") so the key meaning lands right away.'),
+    (6, None, '\'Close the walk-in fridge quickly!\' Barinov strikes an unhurried attitude at this moment, weaving "zakryvay" ("close") together with "kameru" ("camera") just the way native speakers do.'),
+    (7, None, '\'Let\'s not shout.\' Max takes a steady tack without hesitation, building the phrase around "davayte" ("let\'s") and "budem" ("will") for a crisp, natural delivery.'),
+    (8, None, '\'Calm down, everyone, please.\' Max takes a warm mood with Barinov, combining "uspokoytes" ("calm down") and "vse" ("all") so the key meaning lands right away.'),
+    (9, None, '\'This is Konstantin Anisimov\'s child.\' Max shows a firm direction at once, combining "rebyonok" ("a child") and "eto" ("this") so the key meaning lands right away.'),
+    (10, None, '\'Do you know Konstantin?\' Max checks lightly in front of Barinov, building the phrase around "znayete" ("know") and "vy" ("you") for a crisp, natural delivery.'),
+    (11, None, '\'Then where is our child?\' Max queries warmly from the start, anchoring the Russian line on "togda" ("back then") and "gde" ("where") without extra filler.'),
 ]

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, hand me a lemon, please.' By handing her a lemon please, Elena keeps her side of the story grounded.
-- 'Here you go.' Even though here Elena goes, Barinov keeps a steady face in front of Elena.
-- 'I asked for a lemon.' Admitting that she asked for a lemon shows Elena being honest for a change.
-- 'Let's start with vegetable chopping.' Pointing out that they should start with vegetable chopping gives Barinov a sobering reality check.
-- 'Something of yours is burning, Viktor Petrovich.' Once something of Barinov's is burning Viktor Petrovich, Elena can finally tell Barinov what she means.
-- 'Viktor Petrovich, maybe you need some pills?' Questioning whether maybe Barinov needs some pills is how Elena tests Barinov's story. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Alas, there are no pills for old age.' Barinov tells Elena that alas there are no pills for old age without dressing it up.
-- 'This is my fault.' Since this is her fault, Elena does not waste words on excuses.
-- 'It was a foolish idea, forgive me. I am letting you go.' Mentioning that it was a foolish idea forgive moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Thank you.' Telling Elena to thank Elena is how Barinov lays out the situation for Elena.
-- 'I need to go to the market.' Since she needs to go to the market, Elena does not waste words on excuses.
-- 'You go ahead, don't worry about me. I will rest here a little.' Explaining that Elena goes ahead do not worry about him lays the cards on the table for Elena. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Viktor Petrovich, hand me a lemon, please.' Elena keeps an easygoing direction on the spot, anchoring the Russian line on "limon" ("lemon") and "dayte" ("give") without extra filler.
+- 'Here you go.' Barinov takes an earnest rhythm in their talk, using "pozhaluysta" ("please") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'I asked for a lemon.' Elena picks an earnest attitude toward Barinov, letting the single Russian word "limon" ("lemon") carry the entire reaction on its own.
+- 'Let's start with vegetable chopping.' German displays an earnest footing during the exchange, anchoring the Russian line on "nachnyom" ("we start") and "shinkovki" ("vegetable") without extra filler.
+- 'Something of yours is burning, Viktor Petrovich.' Elena brings a thoughtful note for Barinov, anchoring the Russian line on "gorit" ("is burning") and "vas" ("you") without extra filler.
+- 'Viktor Petrovich, maybe you need some pills?' Elena questions dryly with German now, pairing "mozhet" ("can") with "tabletki" ("pill, tablet") to get the point across in plain spoken Russian.
+- 'Alas, there are no pills for old age.' Barinov holds a direct direction at this moment, joining "starosti" ("old age") to "tabletok" ("pill, tablet") so every word pulls its weight.
+- 'This is my fault.' Elena projects a frank approach straight away, weaving "vinovata" ("at fault, to blame") together with "eto" ("this") just the way native speakers do.
+- 'It was a foolish idea, forgive me. I am letting you go.' Elena maintains an earnest view in this beat, putting "glupaya" ("silly, foolish") alongside "byla" ("was") in a tight, everyday turn of phrase.
+- 'Thank you.' Barinov picks an earnest style with German, putting all the weight on "spasibo" ("thank you") so the reply lands immediately.
+- 'I need to go to the market.' Elena conveys a steady footing without hesitation, building the phrase around "nado" ("it is necessary") and "rynok" ("market") for a crisp, natural delivery.
+- 'You go ahead, don't worry about me. I will rest here a little.' Barinov favors a grounded approach in front of German, combining "yezzhay" ("go, drive") and "bespokoysya" ("to worry") so the key meaning lands right away.

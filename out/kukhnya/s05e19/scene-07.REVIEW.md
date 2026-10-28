@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not worry, Lena, I will get you there faster than the wind.' Around the moment and inspector, Barinov sets a calm, everyday tone with Elena.
-- 'You have hardly been driven around in a car like this.' Because Elena has hardly been driven around in a car like this, Barinov treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'In my student years an admirer of mine had one like this.' Explaining that in her student years an admirer of her had one like this lays the cards on the table for Barinov.
-- 'Vitya, is everything alright with you?' Here checking whether everything alright with Barinov shows Elena looking for the real truth.
-- 'Yes, everything is just wonderful, let's go.' Claiming that everything is just wonderful let them go sounds confident, even if Elena has doubts.
-- 'Nagiyev is promising our chef a Michelin star.' Pointing out that Nagiyev is promising their a Michelin star gives Barinov a sobering reality check.
-- 'But after all, that is completely unrealistic.' Fedya explains that after all that is completely unrealistic, keeping his voice calm and direct.
-- 'The inspector comes to a restaurant incognito.' Realizing that the inspector comes to a restaurant incognito changes how Fedya handles the situation.
-- 'Or maybe Nagiyev simply bribed him?' Around the kitchen and inspector, Fedya wants to know where Barinov really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Everything is clear, he decided to poach the chef.' Even though everything is clear he decided to poach, Fedya keeps a steady face in front of Barinov.
-- 'Senya, look how much fish you threw away!' Insisting that how much fish Elena threw away shows Barinov is not backing down. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'We need to trim the ingredients more economically.' Here needing to trim the ingredients more economically sets up the next turn in their exchange. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Do not worry, Lena, I will get you there faster than the wind.' Barinov chooses an honest stance in this beat, combining "volnuysya" ("worry") and "domchu" ("I will speed you there") so the key meaning lands right away.
+- 'You have hardly been driven around in a car like this.' Barinov shows a wry posture in front of Fedya, building the phrase around "mashine" ("car") and "vryad" ("hardly, unlikely") for a crisp, natural delivery.
+- 'In my student years an admirer of mine had one like this.' Elena holds an honest attitude in this beat, using "studencheskiye" (from "studencheskiy", "student") alongside "gody" ("years") to shape the meaning.
+- 'Vitya, is everything alright with you?' Elena queries warmly to Fedya here, using "poryadke" (from "poryadok", "order") alongside "vitya" ("Vitya") to shape the meaning.
+- 'Yes, everything is just wonderful, let's go.' Barinov shows a resolute view beside Elena, leaning on "prosto" ("just") before closing the thought with "zamechatelno" ("wonderful").
+- 'Nagiyev is promising our chef a Michelin star.' Fedya shows a firm position at this moment, joining "obeshchayet" ("promises") to "shefu" ("chef") so every word pulls its weight.
+- 'But after all, that is completely unrealistic.' Fedya adopts a steady footing right away, putting "sovershenno" ("quite, completely") alongside "nerealno" ("unreal, impossible") in a tight, everyday turn of phrase.
+- 'The inspector comes to a restaurant incognito.' Fedya chooses a serious posture toward Elena, building the phrase around "inspektor" ("inspector") and "priyezzhayet" ("is arriving") for a crisp, natural delivery.
+- 'Or maybe Nagiyev simply bribed him?' Fedya wonders pointedly on the spot, putting "mozhet" ("can") alongside "prosto" ("just") in a tight, everyday turn of phrase.
+- 'Everything is clear, he decided to poach the chef.' Fedya picks a sharp view in the room, putting "yasno" ("clear, got it") alongside "reshil" ("has decided") in a tight, everyday turn of phrase.
+- 'Senya, look how much fish you threw away!' Barinov adopts an earnest tack right away, pairing "posmotri" ("look") with "skolko" ("how much, so much") to get the point across in plain spoken Russian.
+- 'We need to trim the ingredients more economically.' Barinov brings a frank tack at once, leaning on "nuzhno" ("necessary") before closing the thought with "kak-to" ("somehow, a bit").

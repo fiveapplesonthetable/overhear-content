@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, good afternoon.' With the conversation and soup in play, Vika keeps this short reply brisk and direct.
-- 'Have you already received my gift?' By checking whether Barinov already received her gift, Vika presses Barinov for a straight answer. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Thank you, but you shouldn't have.' Adding that Barinov should not have fills in the missing piece for Barinov.
-- 'I really want to meet with you.' Vika tells Barinov that she really wants to meet with Barinov without dressing it up.
-- 'To try to convince you.' Around the conversation and phone, Vika sets a calm, everyday tone with Barinov. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Agreed? Well, all right.' Around the soup and work, Vika wants to know where Barinov really stands. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'In the evening I will send a car for you.' Vika reminds Barinov that in the evening she will send a car for Barinov before the moment passes.
-- 'Now Katya will demonstrate dishes of molecular cuisine.' Because Katya will demonstrate dishes of molecular cuisine, Barinov treats the matter as settled.
-- 'This is a restaurant! It must be edible.' Because this is a restaurant, Barinov does not bother softening the blow for Katya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'This is tomato soup.' Katya mentions that this is tomato soup so Barinov sees what is at stake.
-- 'Yes, of course, try it.' By trying it, Katya keeps her side of the story grounded.
-- 'My hand is trembling.' Pointing out that his hand is trembling gives Katya a sobering reality check.
+- 'Hello, good afternoon.' Vika establishes a frank footing beside Barinov, building the phrase around "zdravstvuyte" ("hello") and "allo" ("hello") for a crisp, natural delivery.
+- 'Have you already received my gift?' Vika wonders evenly on the spot, pairing "uzhe" ("already, now") with "poluchili" ("received") to get the point across in plain spoken Russian.
+- 'Thank you, but you shouldn't have.' Vika keeps an emphatic tone during the exchange, anchoring the Russian line on "spasibo" ("thank you") and "stoilo" ("to cost, to be worth") without extra filler.
+- 'I really want to meet with you.' Vika brings a grounded view in the scene, anchoring the Russian line on "ochen" ("very much") and "khochu" ("want") without extra filler.
+- 'To try to convince you.' Vika chooses an honest note at this moment, putting "popytatsya" ("to try, attempt") alongside "ubedit" ("to convince") in a tight, everyday turn of phrase.
+- 'Agreed? Well, all right.' Vika queries pointedly without hesitation, leaning on "dogovorilis" ("agreed, deal") before closing the thought with "khorosho" ("good, fine").
+- 'In the evening I will send a car for you.' Vika shares a serious view beside Barinov, combining "vecherom" ("in the evening") and "prishlyu" ("will send") so the key meaning lands right away.
+- 'Now Katya will demonstrate dishes of molecular cuisine.' Barinov presents a firm footing beside Vika, pairing "seychas" ("now") with "prodemonstriruyet" ("will demonstrate") so the "-sya" ending carries the action.
+- 'This is a restaurant! It must be edible.' Barinov favors an honest approach in the conversation, putting "restoran" ("restaurant") alongside "dolzhno" ("ought, must") in a tight, everyday turn of phrase.
+- 'This is tomato soup.' Katya brings a serious style in front of Vika, putting "tomatnyy" ("tomato") alongside "sup" ("soup") in a tight, everyday turn of phrase.
+- 'Yes, of course, try it.' Katya shares a clear tempo in this beat, joining "konechno" ("of course") to "poprobuyte" ("try, taste") so every word pulls its weight.
+- 'My hand is trembling.' Barinov conveys a pointed view beside Vika, building the phrase around "ruka" ("hand, arm") and "drozhit" ("trembles, shakes") for a crisp, natural delivery.

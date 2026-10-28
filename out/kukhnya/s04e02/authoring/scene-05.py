@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e02.ru.srt'
 INTRO = 'Max tries to calm Vika down by proposing that she hire Denis as a waiter at Claude Monet, while at the restaurant Dmitry Nagiyev phones a friend in search of a new chef. Listen to their exchange in Russian.'
 OPENER = "Let's break this conversation down line by line."
 TRANSITION = 'Now listen to the full Russian exchange again with everything in place.'
-OUTRO = "That completes Max's job pitch to Vika and Nagiyev's phone call. Keep an ear out for how Russian verbs of motion and prefixes describe moving out and calling back. Until next time!"
+OUTRO = "That completes Max's job pitch to Vika and Nagiyev's phone call. Keep an ear out for how Russian action words of motion and prefixes describe moving out and calling back. Until next time!"
 CLOSING = ('max', 'До завтра!')
 STORY = [
     ('max', 'Вик, ну не начинай.', "Vika, come on, don't start.", [(51, 'Вик, ну не начинай.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nagiyev', 'Ну, перезвоню. Давай, давай.', 'Well, I will call back. Take care.', [(67, 'Давай, давай.')], ''),
 ]
 WALK = [
-    (0, None, "'Vika, come on, don't start.' Once Nagiyev should come on do not start, Max can finally tell Nagiyev what he means."),
-    (1, None, "'Today I will get him a job.' Adding that today he will get him a job fills in the missing piece for Nagiyev."),
-    (2, None, "'He will start earning money and move out.' Saying that he will start earning money and move out is how Max sets the tone with Nagiyev."),
-    (3, None, '\'You will get him a job? And where?\' Wondering if Max will get him a job shows Vika caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (4, None, "'No, I will pull some strings.' Mentioning that he will pull some strings moves the talk in a new direction."),
-    (5, None, "'My wife is the director at a certain French restaurant.' Max reminds Nagiyev that his wife is the director at a certain French restaurant before the moment passes."),
-    (6, None, "'I will ask her and she will hire him as a waiter.' Because he will ask her and she will hire him as a waiter, Max treats the matter as settled."),
-    (7, None, '\'So you decided to shift the whole problem onto me?\' Asking whether Max decided to shift the whole problem puts Max right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (8, None, "'It is me. It was slippery, but everything is fine now.' Nagiyev mentions that it is him so Max sees what is at stake."),
-    (9, None, "'Hello, Aslan.' Between the kitchen and the friend, Nagiyev gives Max a quick, grounded response."),
-    (10, None, "'Hello, my dear friend.' Over the kitchen and the calm, Nagiyev answers Max without a second thought."),
-    (11, None, "'Well, I will call back. Take care.' Nagiyev explains that he will call back, keeping his voice calm and direct."),
+    (0, None, '\'Vika, come on, don\'t start.\' Max chooses a lively angle for Nagiyev, putting "nachinay" ("start") alongside "vik" ("Vika") in a tight, everyday turn of phrase.'),
+    (1, None, '\'Today I will get him a job.\' Max offers a thoughtful mood in their talk, building the phrase around "segodnya" ("today") and "ustroyu" ("to arrange") for a crisp, natural delivery.'),
+    (2, None, '\'He will start earning money and move out.\' Max chooses a calm approach in the scene, leaning on "nachnyot" ("to begin, to start") before closing the thought with "zarabatyvat" ("to earn money").'),
+    (3, None, '\'You will get him a job? And where?\' Vika presses calmly in their exchange, combining "ustroish" ("arrange, put on") and "kuda" ("where to") so the key meaning lands right away.'),
+    (4, None, '\'No, I will pull some strings.\' Max brings a brisk note in the conversation, leaning on "svyazi" ("of the connection") before closing the thought with "podklyuchu" ("strings").'),
+    (5, None, '\'My wife is the director at a certain French restaurant.\' Max displays an easygoing manner for Vika, anchoring the Russian line on "frantsuzskom" ("French") and "restorane" ("restaurant") without extra filler.'),
+    (6, None, '\'I will ask her and she will hire him as a waiter.\' Max brings a pointed angle in front of Nagiyev, leaning on "poproshu" ("will ask") before closing the thought with "ofitsiantom" ("waiter, server").'),
+    (7, None, '\'So you decided to shift the whole problem onto me?\' Vika presses firmly in the scene, building the phrase around "yest" ("there is") and "reshil" ("has decided") for a crisp, natural delivery.'),
+    (8, None, '\'It is me. It was slippery, but everything is fine now.\' Nagiyev projects a warm attitude in this beat, joining "skolzko" ("fine") to "uzhe" ("already, now") so every word pulls its weight.'),
+    (9, None, '\'Hello, Aslan.\' Nagiyev takes a steady mood in the conversation, putting "aslan" ("aslan") alongside "allo" ("hello") in a tight, everyday turn of phrase.'),
+    (10, None, '\'Hello, my dear friend.\' Nagiyev keeps a steady note in front of Max, weaving "dorogoy" ("dear") together with "zdravstvuy" ("hello") just the way native speakers do.'),
+    (11, None, '\'Well, I will call back. Take care.\' Nagiyev sets a direct position in this beat, pairing "perezvonyu" ("will call back") with "davay" ("let\'s") to get the point across in plain spoken Russian.'),
 ]

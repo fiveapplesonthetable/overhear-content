@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Bon appetit.' With the menu and kitchen in play, Ilya keeps this short reply brisk and direct.
-- 'You know, you did the right thing getting divorced from her.' Ilya reminds Max that Max did the right thing getting divorced before the moment passes. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'What business is it of yours?' Questioning whether what business is it is how Nagiyev tests Ilya's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What is your job? To watch over the food that you serve me.' Here wondering what Ilya's job is shows Nagiyev looking for the real truth.
-- 'What kind of dish is this? You are fired!' Asking whether what kind of dish is this puts Ilya right on the defensive. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Dmitry Vladimirovich!' With the work and kitchen at stake, Ilya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Fired! And the cook who prepared this is fired too.' Nagiyev declares that and the cook who prepared this is fired as the tension in the room peaks.
-- 'You are unattractive. Come here.' Nagiyev explains that Ilya is unattractive, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yes, Dmitry Vladimirovich. I will bring you the menu right now.' Realizing that he will bring Ilya the menu right now changes how Max handles the situation. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Bring me something to eat. Bring me some aspic.' Admitting that Ilya should bring him something to eat shows Nagiyev being honest for a change.
-- 'Aspic? We do not have it on the menu.' Asking whether they do not have it on the menu puts Ilya right on the defensive. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I don't care one bit! Go on.' Nagiyev insists that he does not care one bit, leaving Ilya no room to argue. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Bon appetit.' Ilya sets an honest tone in the conversation, weaving "priyatnogo" ("pleasant") together with "appetita" ("appetite") just the way native speakers do.
+- 'You know, you did the right thing getting divorced from her.' Ilya presents a serious posture in their talk, putting "znayete" ("know") alongside "pravilno" ("right") in a tight, everyday turn of phrase.
+- 'What business is it of yours?' Nagiyev questions boldly without a pause, building the phrase around "sobachye" ("dog's, none of your") and "delo" ("matter") for a crisp, natural delivery.
+- 'What is your job? To watch over the food that you serve me.' Nagiyev prompts decisively in their exchange, anchoring the Russian line on "zadacha" ("task") and "sledit" ("to monitor") without extra filler.
+- 'What kind of dish is this? You are fired!' Nagiyev queries naturally as they speak, leaning on "blyudo" ("dish") before closing the thought with "uvolen" ("fired").
+- 'Dmitry Vladimirovich!' Ilya takes a thoughtful line as the scene unfolds, anchoring the Russian line on "dmitriy" ("Dmitry") and "vladimirovich" ("Vladimirovich") without extra filler.
+- 'Fired! And the cook who prepared this is fired too.' Nagiyev shows a serious posture on the spot, linking "uvolen" ("fired"), "povar" ("chef, cook"), and "prigotovil" ("cooked") in one brisk exchange.
+- 'You are unattractive. Come here.' Nagiyev holds a sharp position straight away, pairing "nekrasivyy" ("unattractive") with "podi" ("come, go") to get the point across in plain spoken Russian.
+- 'Yes, Dmitry Vladimirovich. I will bring you the menu right now.' Max shows a brisk bearing in the scene, joining "seychas" ("now") to "menyu" ("menu") so every word pulls its weight.
+- 'Bring me something to eat. Bring me some aspic.' Nagiyev shows a playful posture at once, joining "prinesi" ("bring") to "poyest" ("to eat") so every word pulls its weight.
+- 'Aspic? We do not have it on the menu.' Max inquires lightly with Ilya now, linking "kholodets" ("aspic, meat jelly"), "menyu" ("menu"), and "nas" ("us") in one brisk exchange.
+- 'I don't care one bit! Go on.' Nagiyev shows a lively position in their talk, joining "barabanu" ("drum") to "davay" ("let's") so every word pulls its weight.

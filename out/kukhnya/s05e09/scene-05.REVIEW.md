@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did nobody take the truffles?' By checking whether nobody take the truffles, Lyova presses Max for a straight answer. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Some are missing there.' Realizing that some are missing there changes how Lyova handles the situation.
-- 'Louis, did you not see them?' Checking whether Max not see them is how Lyova puts Max on the spot.
-- 'Lavrov?' Over the room and the promise, Lyova presses Max for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I saw them.' Admitting that he saw them shows Max being honest for a change.
-- 'Where are they?' Wondering where they are cuts straight through the tension between Lyova and Max.
-- 'Who put them in there?' Wondering if who put them in there shows Lyova caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What is the matter, Lyova? Easy.' Here asking what the matter Lyova is shows Senya looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I just wanted to check.' Adding that he just wanted to check fills in the missing piece for Lyova.
-- 'Whether anyone watches things here or not.' Since whether anyone watches things here or not, Senya does not waste words on excuses.
-- 'Otherwise groceries keep disappearing.' With the work and promise in play, Senya keeps this short reply brisk and direct.
-- 'Your inspections?' Over the promise and the room, Lyova presses Max for a straight answer.
+- 'Did nobody take the truffles?' Lyova prompts candidly from the start, anchoring the Russian line on "tryufelya" ("truffle") and "bral" ("took") without extra filler.
+- 'Some are missing there.' Lyova projects an easygoing mood toward Senya, putting "tam" ("there") alongside "khvatayet" ("grabs") in a tight, everyday turn of phrase.
+- 'Louis, did you not see them?' Lyova questions candidly across the room, weaving "videl" ("saw, have seen") together with "lui" ("Louis") just the way native speakers do.
+- 'Lavrov?' Lyova presses candidly as the talk turns, leaning on "lavrov" ("Lavrov") as a compact, one-word response that needs no extra words.
+- 'I saw them.' Max brings a natural course straight away, letting the single Russian word "videl" ("saw, have seen") carry the entire reaction on its own.
+- 'Where are they?' Lyova wonders evenly toward Senya here, anchoring the Russian line on "gde" ("where") and "oni" ("they") without extra filler.
+- 'Who put them in there?' Lyova probes firmly without holding back, weaving "tuda" ("there") together with "polozhil" ("laid, put down") just the way native speakers do.
+- 'What is the matter, Lyova? Easy.' Senya presses dryly in their exchange, weaving "spokoyno" ("calmly") together with "chto" ("what") just the way native speakers do.
+- 'I just wanted to check.' Senya conveys a firm line on the spot, building the phrase around "prosto" ("just") and "khotel" ("wanted") for a crisp, natural delivery.
+- 'Whether anyone watches things here or not.' Senya conveys an unhurried approach at this moment, joining "smotrit" ("looks") to "tut" ("here") so every word pulls its weight.
+- 'Otherwise groceries keep disappearing.' Senya shares a resolute position for Lyova, anchoring the Russian line on "produkty" ("groceries") and "propadayut" ("to waste") without extra filler.
+- 'Your inspections?' Lyova checks boldly as the beat lands, joining "proverki" ("check, inspection") to "tvoi" ("your") so every word pulls its weight.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There is nothing terrible here.' Because there is nothing terrible here, Nastya treats the matter as settled.
-- 'It is just ordinary salt.' Explaining that it is just ordinary salt lays the cards on the table for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I already washed everything out well.' Between the kitchen and the peace, Nastya gives Barinov a quick, grounded response.
-- 'In a couple of days it will stop bothering you.' Claiming that in a couple of days it will stop bothering Barinov sounds confident, even if Barinov has doubts.
-- 'It burns really badly!' Saying that it burns really badly is how Nagiyev takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Dima, let me talk to him myself instead.' Barinov mentions that Nagiyev should let him talk to him himself instead so Nagiyev sees what is at stake. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'I will talk to him over a little cognac.' Realizing that he will talk to him over a little cognac changes how Barinov handles the situation.
-- 'This method works every year.' Noting that this method works every year keeps Barinov's side of the story simple and clear.
-- 'Better take tequila and a lemon.' Around the shift and peace, Nagiyev sets a calm, everyday tone with Barinov.
-- 'He already has salt.' Admitting that he already has salt shows Nagiyev being honest for a change.
-- 'Stay with us as long as you need.' By staying with them as long as Nagiyev needs, Barinov keeps his side of the story grounded. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Max, I packed all your things, washed and ironed them.' With the moment and doctor in play, Nastya keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'There is nothing terrible here.' Nastya strikes a thoughtful line with Barinov, pairing "tut" ("here") with "strashnogo" ("terrible, serious") to get the point across in plain spoken Russian.
+- 'It is just ordinary salt.' Nastya offers an honest view in this beat, anchoring the Russian line on "obychnaya" ("ordinary, usual") and "sol" ("salt") without extra filler.
+- 'I already washed everything out well.' Nastya establishes a serious note straight away, combining "uzhe" ("already, now") and "khorosho" ("good, fine") so the key meaning lands right away.
+- 'In a couple of days it will stop bothering you.' Nastya maintains an earnest attitude right away, anchoring the Russian line on "paru" ("couple") and "dney" ("days") without extra filler.
+- 'It burns really badly!' Nagiyev shows an unhurried position right away, joining "ochen" ("very much") to "silno" ("strongly, much") so every word pulls its weight.
+- 'Dima, let me talk to him myself instead.' Barinov picks a measured bearing with Nastya, combining "davay" ("let's") and "luchshe" ("better") so the key meaning lands right away.
+- 'I will talk to him over a little cognac.' Barinov keeps an earnest stance at this moment, using "pogovoryu" (from "pogovorit", "I'll talk") alongside "konyachkom" ("a little cognac") to shape the meaning.
+- 'This method works every year.' Barinov maintains a thoughtful approach as the scene unfolds, linking "metod" ("method, way"), "kazhdyy" ("every"), and "god" ("year") in one brisk exchange.
+- 'Better take tequila and a lemon.' Nagiyev strikes a clear note with Barinov, leaning on "luchshe" ("better") before closing the thought with "tekilu" ("tequila").
+- 'He already has salt.' Nagiyev maintains a candid posture in front of Nastya, leaning on "sol" ("salt") before closing the thought with "uzhe" ("already, now").
+- 'Stay with us as long as you need.' Barinov establishes an honest footing with Nagiyev, anchoring the Russian line on "ostavaysya" ("stay") and "skolko" ("how much, so much") without extra filler.
+- 'Max, I packed all your things, washed and ironed them.' Nastya conveys a lively bearing at this moment, linking "sobrala" ("gathered, packed"), "veshchi" ("things"), and "perestirala" ("washed everything") in one brisk exchange.

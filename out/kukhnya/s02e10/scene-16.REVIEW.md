@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Could I possibly borrow it.' Claiming that could he possibly borrow it sounds confident, even if Lyova has doubts.
-- 'The money is not mine.' Pointing out that the money is not gives Lyova a sobering reality check.
-- 'I wanted to get her a special gift.' Lyova explains that he wanted to get her a special gift, keeping his voice calm and direct.
-- 'A mother is sacred.' Realizing that a mother is sacred changes how Max handles the situation.
-- 'I will definitely pay it back.' Noting that she will definitely pay it back keeps Sasha's side of the story simple and clear.
-- 'And the salad is already ready.' Even though the salad is already ready, Lyova keeps a steady face in front of Max.
-- 'Sasha, listen.' Around the money and moment, Max sets a calm, everyday tone with Lyova.
-- 'I can see that you are not entirely comfortable staying at our place.' Saying that she can see that Lyova is not entirely comfortable staying at their place is how Sasha sets the tone with Lyova. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I found the money.' Once he found the money, Lyova can finally tell Max what he means.
-- 'You know.' Between the money and the truth, Max gives Lyova a quick, grounded response.
-- 'Because I had such a bad fight with the landlady the other day.' Sasha tells Lyova that because she had such a bad fight with the landlady the other day without dressing it up.
-- 'Let me go talk to her myself.' Admitting that Max should let him go talk to her himself shows Lyova being honest for a change. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Really? Really?' Around the shift and apartment, Max wants to know where Lyova really stands.
+- 'Could I possibly borrow it.' Max offers an honest rhythm toward Lyova, joining "mog" ("can, to be able") to "ne" ("not") so every word pulls its weight.
+- 'The money is not mine.' Sasha projects an easygoing note toward Max, linking "oni" ("they") directly with "ne" ("not"), since Russian drops "is" and "are" in the present.
+- 'I wanted to get her a special gift.' Lyova holds a pointed stance during the exchange, joining "khotel" ("wanted") to "sdelat" ("to do") so every word pulls its weight.
+- 'A mother is sacred.' Max establishes a grounded note during the exchange, building the phrase around "mama" ("mum, mother") and "svyatoye" ("holy, sacred") for a crisp, natural delivery.
+- 'I will definitely pay it back.' Sasha conveys a grounded approach beside Lyova, linking "obyazatelno" ("surely, without fail"), "vernu" ("I'll return"), and "ya" ("I") in one brisk exchange.
+- 'And the salad is already ready.' Lyova keeps a wry manner as the scene unfolds, pairing "salat" ("salad") with "uzhe" ("already, now") to get the point across in plain spoken Russian.
+- 'Sasha, listen.' Max favors a thoughtful stance in front of Lyova, putting "slushay" ("listen") alongside "sasha" ("Sasha") in a tight, everyday turn of phrase.
+- 'I can see that you are not entirely comfortable staying at our place.' Sasha takes a brisk tempo in the scene, weaving "vizhu" ("see") together with "sovsem" ("at all") just the way native speakers do.
+- 'I found the money.' Lyova offers a measured bearing at once, weaving "nashel" ("found") together with "dengi" ("money") just the way native speakers do.
+- 'You know.' Max picks an honest line in the conversation, putting "znayesh" ("know") alongside "ty" ("you") in a tight, everyday turn of phrase.
+- 'Because I had such a bad fight with the landlady the other day.' Sasha displays a brisk note in the room, anchoring the Russian line on "potomu" ("because") and "porugalas" ("to quarrel") without extra filler.
+- 'Let me go talk to her myself.' Lyova conveys an emphatic tempo on the spot, linking "davay" ("let's"), "poyedu" ("will go"), and "sam" ("yourself") in one brisk exchange.
+- 'Really? Really?' Max checks candidly at this point, putting all the weight on "da" ("yes") so the reply lands immediately.

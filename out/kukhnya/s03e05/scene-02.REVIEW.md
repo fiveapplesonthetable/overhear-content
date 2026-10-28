@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich, please wake up.' Even though Nagiyev should wake up, Max keeps a steady face in front of Nagiyev.
-- 'Excuse me, it is just that the restaurant is opening already.' Adding that it is just that the restaurant is opening already fills in the missing piece for Nagiyev.
-- 'Did you spend the night here again?' Checking whether Nagiyev spends the night here again cuts straight through the tension between Max and Nagiyev.
-- 'Well what business is it of yours?' Wondering if what business is it shows Nagiyev caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What did she find in you?' Here asking what she find in Max shows Nagiyev looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'After all, I am a real prince.' Nagiyev reminds Max that after all he is a real prince before the moment passes.
-- 'What are you talking about at all?' Asking what Nagiyev talking about at all is cuts straight through the tension between Max and Nagiyev. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'About our Victoria Sergeyevna.' With the truth and morning in play, Nagiyev keeps this short reply brisk and direct.
-- 'And what does she have to do with this?' Here wondering what she have to do with this shows Max looking for the real truth.
-- 'I did not get enough sleep all night.' Claiming that he did not get enough sleep all night sounds confident, even if Max has doubts.
-- 'She and I talked about love.' Pointing out that she and he talked about love gives Max a sobering reality check.
-- 'Do you understand me now?' Asking whether Max understands him now is how Nagiyev puts Max on the spot.
+- 'Dmitry Vladimirovich, please wake up.' Max establishes an earnest stance in front of Nagiyev, leaning on "prosypaytes" ("wake up") before closing the thought with "dmitriy" ("Dmitry").
+- 'Excuse me, it is just that the restaurant is opening already.' Max offers an emphatic tone in the scene, combining "izvinite" ("sorry, excuse me") and "prosto" ("just") so the key meaning lands right away.
+- 'Did you spend the night here again?' Max challenges promptly on the spot, joining "opyat" ("again") to "zdes" ("here") so every word pulls its weight.
+- 'Well what business is it of yours?' Nagiyev wonders pointedly to make the point, placing "delo" ("matter") straight beside "nu" ("oh, come on") with no word for "to be" needed.
+- 'What did she find in you?' Nagiyev inquires warmly toward Max here, putting "nashla" ("found, did you find") alongside "chto" ("what") in a tight, everyday turn of phrase.
+- 'After all, I am a real prince.' Nagiyev displays a thoughtful direction without hesitation, linking "nastoyashchiy" ("real, genuine") directly with "prints" ("prince"), since Russian drops "is" and "are" in the present.
+- 'What are you talking about at all?' Max questions calmly at this point, linking "voobshche" ("at all"), "govorite" ("say, speak"), and "vy" ("you") in one brisk exchange.
+- 'About our Victoria Sergeyevna.' Nagiyev picks a firm approach for Max, anchoring the Russian line on "nashey" ("our") and "viktorii" ("Victoria") without extra filler.
+- 'And what does she have to do with this?' Max challenges boldly to make the point, joining "zdes" ("here") to "ona" ("it") so every word pulls its weight.
+- 'I did not get enough sleep all night.' Nagiyev keeps a warm view in front of Max, leaning on "vyspalsya" ("got enough sleep") before closing the thought with "noch" ("night").
+- 'She and I talked about love.' Nagiyev chooses a brisk note with Max, leaning on "lyubvi" ("love") before closing the thought with "govorili" ("talked").
+- 'Do you understand me now?' Nagiyev questions promptly with Max now, leaning on "ponimayesh" ("do you understand") before closing the thought with "teper" ("now").

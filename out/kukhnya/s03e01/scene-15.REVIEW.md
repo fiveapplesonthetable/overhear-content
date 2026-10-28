@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, here is your order.' Saying that here is the guest's order is how Max sets the tone with the guest. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'And what is that?' Over the shift and the order, the guest presses Katya for a straight answer.
-- 'Honestly speaking, nonsense.' With the plan and order in play, Max keeps this short reply brisk and direct.
-- 'Try it. It is very delicious.' Max tells the guest that it is very delicious without dressing it up. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Haute cuisine from a chef from Paris.' Over the plan and the order, Max answers the guest without a second thought.
-- 'Let's try it!' By proposing that they try it, the guest raises the stakes in the room at once. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Good. Give us what he is having.' Since Katya should give them what he is having, the guest does not waste words on excuses. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Of course!' With the moment and shift at stake, Max reacts without holding back.
-- 'Chocolate wind three times.' With the room and order in play, Max keeps this short reply brisk and direct.
-- 'Spaghetti and ravioli with strawberry.' Over the room and the order, Max answers the guest without a second thought.
-- 'Duck twice.' Around the room and order, Max sets a calm, everyday tone with the guest.
-- 'Copy that!' With the conversation and room at stake, Katya reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'So, here is your order.' Max establishes a lively bearing as they talk, building the phrase around "zakaz" ("order") and "itak" ("so, thus") for a crisp, natural delivery.
+- 'And what is that?' The guest wonders promptly toward Max here, weaving "eto" ("this") together with "chto" ("what") just the way native speakers do.
+- 'Honestly speaking, nonsense.' Max sets a steady tempo across the room, combining "chestno" ("honestly") and "govorya" ("speaking") so the key meaning lands right away.
+- 'Try it. It is very delicious.' Max holds a calm direction in front of Katya, weaving "poprobuyte" ("try, taste") together with "ochen" ("very much") just the way native speakers do.
+- 'Haute cuisine from a chef from Paris.' Max holds a pointed direction toward the guest, joining "vysokaya" ("high, tall") to "kukhnya" ("kitchen") so every word pulls its weight.
+- 'Let's try it!' The guest favors a calm manner in this beat, joining "davay" ("let's") to "poprobuyem" ("try") so every word pulls its weight.
+- 'Good. Give us what he is having.' The guest offers a thoughtful stance at this moment, placing "khorosho" ("good, fine") straight beside "nam" ("us") with no word for "to be" needed.
+- 'Of course!' Max keeps a firm line in their talk, letting the single Russian word "konechno" ("of course") carry the entire reaction on its own.
+- 'Chocolate wind three times.' Max adopts a resolute posture in their talk, joining "shokoladnyy" ("chocolate") to "veter" ("wind") so every word pulls its weight.
+- 'Spaghetti and ravioli with strawberry.' Max chooses an emphatic view with Katya, linking "spagetti" ("spaghetti"), "ravioli" ("ravioli"), and "klubnikoy" ("strawberry") in one brisk exchange.
+- 'Duck twice.' Max strikes a serious note during the exchange, leaning on "utka" ("duck") before closing the thought with "raza" ("time").
+- 'Copy that!' Katya sustains a pointed mood as the scene unfolds, leaning on "prinyato" ("accepted, copy that") as a compact, one-word response that needs no extra words.

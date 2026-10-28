@@ -15,27 +15,27 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Макс | Как не рад? | What do you mean not glad? | #289: Как не рад | verbatim |
 | 4 | Костя | Кстати, а как ты узнала, что я здесь? | By the way, how did you find out that I was here? | #290: Кстати, а как ты узнала, что я здесь | verbatim |
 | 5 | Макс | Костя сказал. | Kostya told me. | #291: Костя сказал | verbatim |
-| 6 | Костя | Костя, в какой больнице лежит Макс? | Kostya, which hospital is Max in? | #292: Костя, в какой больнице лежит Макс | verbatim |
+| 6 | Вика | Костя, в какой больнице лежит Макс? | Kostya, which hospital is Max in? | #292: Костя, в какой больнице лежит Макс | verbatim |
 | 7 | Макс | Я не знаю. | I do not know. | #293: Я не знаю | verbatim |
 | 8 | Костя | Так, почему у тебя кофемашина грязная? | All right, why is your coffee machine dirty? | #295: Так, почему у тебя кофемашина грязная | verbatim |
 | 9 | Макс | Тебя штрафовать? | Should I fine you? | #296: Тебя штрафовать | verbatim |
 | 10 | Костя | Я вообще только что кофе сделал. | I literally just made coffee. | #297: Я вообще только что кофе сделал | verbatim |
 | 11 | Макс | А где все апельсины? | And where are all the oranges? | #298: А где все апельсины | verbatim |
 | 12 | Костя | Ты вино заказал? | Did you order the wine? | #299: Ты вино заказал | verbatim |
-| 13 | Макс | В какой больнице, Макс? | Which hospital is Max in? | #300: В какой больнице, Макс | verbatim |
+| 13 | Вика | В какой больнице, Макс? | Which hospital is Max in? | #300: В какой больнице, Макс | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Right in here.' Between the conversation and the point, Max gives Kostya a quick, grounded response.
-- 'I see you are not glad that I came?' Vika asks whether she sees Kostya is not glad that she came, refusing to let the point slide. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What do you mean not glad?' Asking what Kostya means not glad is how Max puts Kostya on the spot.
-- 'By the way, how did you find out that I was here?' Here asking how Max finds out that he was here shows Kostya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Kostya told me.' Saying that Kostya told him is how Max sets the tone with Kostya.
-- 'Kostya, which hospital is Max in?' Asking whether which hospital is Max puts Max right on the defensive.
-- 'I do not know.' Admitting that he does not know shows Max being honest for a change.
-- 'All right, why is your coffee machine dirty?' Questioning whether all right why is Max's coffee machine dirty is how Kostya tests Max's story. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Should I fine you?' When Max asks if should he fine Kostya, Kostya has to answer fast.
-- 'I literally just made coffee.' Mentioning that he literally just made coffee moves the talk in a new direction.
-- 'And where are all the oranges?' Asking where all the oranges are is how Max puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Did you order the wine?' Here asking whether Max orders the wine shows Kostya looking for the real truth.
-- 'Which hospital is Max in?' Questioning whether which hospital is Max is how Max tests Kostya's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Right in here.' Max presents a grounded tack with Kostya, combining "syuda" ("here") and "vot" ("there, here") so the key meaning lands right away.
+- 'I see you are not glad that I came?' Vika checks briskly for Max's benefit, weaving "smotryu" ("look") together with "rad" ("glad") just the way native speakers do.
+- 'What do you mean not glad?' Max asks frankly toward Kostya here, pairing "kak" ("how") with "rad" ("glad") to get the point across in plain spoken Russian.
+- 'By the way, how did you find out that I was here?' Kostya asks dryly beside Vika, weaving "kstati" ("by the way") together with "kak" ("how") just the way native speakers do.
+- 'Kostya told me.' Max strikes a frank position right away, combining "skazal" ("said") and "kostya" ("Kostya") so the key meaning lands right away.
+- 'Kostya, which hospital is Max in?' Vika wonders bluntly as they speak, pairing "bolnitse" ("the hospital") with "lezhit" ("is lying") to get the point across in plain spoken Russian.
+- 'I do not know.' Max offers a frank note across the room, building the phrase around "znayu" ("know") and "ya" ("I") for a crisp, natural delivery.
+- 'All right, why is your coffee machine dirty?' Kostya checks earnestly without a pause, leaning on "pochemu" ("why") before closing the thought with "kofemashina" ("coffee machine").
+- 'Should I fine you?' Max inquires wryly for Kostya's benefit, joining "shtrafovat" ("to fine, penalize") to "tebya" ("you") so every word pulls its weight.
+- 'I literally just made coffee.' Kostya shows a calm footing during the exchange, joining "voobshche" ("at all") to "tolko" ("only") so every word pulls its weight.
+- 'And where are all the oranges?' Max presses quietly as the beat lands, linking "gde" ("where"), "apelsiny" ("oranges"), and "vse" ("all") in one brisk exchange.
+- 'Did you order the wine?' Kostya prompts naturally without hesitation, pairing "vino" ("wine") with "zakazal" ("ordered") to get the point across in plain spoken Russian.
+- 'Which hospital is Max in?' Vika probes pointedly toward Kostya here, combining "bolnitse" ("the hospital") and "kakoy" ("what a, how") so the key meaning lands right away.

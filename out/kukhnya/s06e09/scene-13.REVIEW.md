@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova does not understand that his mom is setting him up.' Noting that Lyova does not understand that his is setting him up keeps Ainura's side of the story simple and clear.
-- 'But the main question here is something else entirely.' Once the main question here is something else entirely, Gulya can finally tell Ainura what she means.
-- 'What does this sly Larisa want from him?' Asking what this sly Larisa want from him is how Ainura puts Gulya on the spot. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Well, maybe she simply fell in love.' Gulya tells Ainura that maybe she simply fell in love without dressing it up.
-- 'Do not take offense, but that is very strange.' Since do not take offense but that is very strange, Ainura does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Aunt Ainura, he is a good and kind person.' Mentioning that aunt Ainura he is a good and kind person moves the talk in a new direction.
-- 'Maybe she wants to take the apartment for herself later?' Questioning whether maybe she wants to take the apartment for herself later is how Ainura tests Gulya's story.
-- 'Where do you even get such strange thoughts?' Here wondering where Ainura even get such strange thoughts shows Gulya looking for the real truth. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Mom, where are you, what happened here?' Katya asks whether Mom where are Ainura what happened here, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I am lying quietly and taking a warm bath.' Saying that she is lying quietly and taking a warm bath is how Katya sets the tone with Ainura.
-- 'Mom, why grieve so hard like this?' Over the shift and the tears, Katya presses Ainura for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Like a naive schoolgirl I believed him again.' By liking a naive schoolgirl she believed him again, Gulya keeps her side of the story grounded.
-- 'You are so beautiful, everything is still ahead of you!' Saying that Ainura is so beautiful everything is still ahead of Ainura is how Katya takes charge of the moment.
+- 'Lyova does not understand that his mom is setting him up.' Ainura shows an emphatic line for Gulya, joining "ponimayet" ("understands") to "mama" ("mum, mother") so every word pulls its weight.
+- 'But the main question here is something else entirely.' Gulya chooses an earnest bearing toward Katya, anchoring the Russian line on "tut" ("here") and "glavnyy" ("main, chief") without extra filler.
+- 'What does this sly Larisa want from him?' Ainura prompts wryly to Gulya here, building the phrase around "khitroy" ("cunning, sly") and "nuzhno" ("necessary") for a crisp, natural delivery.
+- 'Well, maybe she simply fell in love.' Gulya picks a pointed tone beside Katya, combining the softening word "prosto" ("simply, just") with "mozhet" ("can") to give the line its natural spoken rhythm.
+- 'Do not take offense, but that is very strange.' Ainura displays a natural tone as they talk, building the phrase around "obizhaysya" ("take offence") and "ochen" ("very much") for a crisp, natural delivery.
+- 'Aunt Ainura, he is a good and kind person.' Gulya picks a grounded manner beside Katya, weaving "tyotya" ("aunt") together with "khoroshiy" ("good") just the way native speakers do.
+- 'Maybe she wants to take the apartment for herself later?' Ainura presses firmly across the room, anchoring the Russian line on "mozhet" ("can") and "khochet" ("wants") without extra filler.
+- 'Where do you even get such strange thoughts?' Gulya checks calmly in the room, combining the conversational booster "voobshche" ("in general, overall") with "otkuda" ("where from") to give the line its natural spoken rhythm.
+- 'Mom, where are you, what happened here?' Katya checks naturally beside Ainura, anchoring the Russian line on "mama" ("mum, mother") and "gde" ("where") without extra filler.
+- 'I am lying quietly and taking a warm bath.' Katya sustains an honest footing across the room, joining "spokoyno" ("calmly") to "lezhu" ("to lie, to rest") so every word pulls its weight.
+- 'Mom, why grieve so hard like this?' Katya prompts pointedly beside Ainura, leaning on "mama" ("mum, mother") before closing the thought with "zachem" ("what for").
+- 'Like a naive schoolgirl I believed him again.' Gulya projects an unhurried tone for Katya, putting "kak" ("how") alongside "naivnaya" ("naive") in a tight, everyday turn of phrase.
+- 'You are so beautiful, everything is still ahead of you!' Katya presents an honest view on the spot, leaning on "krasivaya" ("pretty, beautiful") before closing the thought with "yeshchyo" ("more, still").

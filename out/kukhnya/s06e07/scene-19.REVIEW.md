@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you try to get Nikita drunk on purpose yesterday at the bar?' By checking whether Kostya tries to get Nikita drunk on purpose yesterday at the bar, Nastya presses Kostya for a straight answer.
-- 'And why is he constantly hitting on Katya?' Asking why he constantly hitting on Katya is cuts straight through the tension between Kostya and Nastya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Because I am trying to help them get together!' Because because she is trying to help them get together, Nastya does not bother softening the blow for Kostya. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'So that is where this housewarming suddenly came from!' Insisting that that is where this housewarming suddenly came shows Kostya is not backing down.
-- 'And I am trying to help Denis get together with Katya.' Realizing that he is trying to help Denis get together with Katya changes how Kostya handles the situation.
-- 'So do not get in my way, my dear!' Declaring that do not get in his way his dear brings Kostya's temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Kostya, look who you found to set Katya up with!' Nastya insists that who Kostya found to set Katya up, leaving Kostya no room to argue.
-- 'After all, Denis ruthlessly dumped her back then.' Over the work and the promise, Nastya answers Kostya without a second thought.
-- 'And you like Nikita because he has money.' Admitting that Nastya likes Nikita because he has money shows Kostya being honest for a change. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'That means you actually like rich guys!' Because that means Nastya actually like rich guys, Kostya does not bother softening the blow for Nastya.
-- 'Then I would never have married you!' Insisting that she would never have married Kostya shows Nastya is not backing down. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Whoever proposed to you is who you married!' Once whoever proposed to Nastya is who Nastya married, Kostya makes sure Nastya hears every word. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Did you try to get Nikita drunk on purpose yesterday at the bar?' Nastya wonders dryly on the spot, anchoring the Russian line on "khotel" ("wanted") and "vchera" ("yesterday") without extra filler.
+- 'And why is he constantly hitting on Katya?' Kostya asks wryly as the talk turns, combining "postoyanno" ("constantly") and "pristayot" ("bothers, pesters") so the key meaning lands right away.
+- 'Because I am trying to help them get together!' Nastya brings a candid bearing across the room, putting "potomu" ("because") alongside "pytayus" ("am trying") in a tight, everyday turn of phrase.
+- 'So that is where this housewarming suddenly came from!' Kostya sustains a direct direction with Nastya, linking "otkuda" ("where from"), "znachit" ("then, so"), and "novoselye" ("housewarming") in one brisk exchange.
+- 'And I am trying to help Denis get together with Katya.' Kostya offers a frank style straight away, using "pytayus" (from "pytatsya", "am trying") alongside "pomoch" ("to help") to shape the meaning.
+- 'So do not get in my way, my dear!' Kostya displays a candid style as they talk, putting "dorogaya" ("expensive") alongside "meshay" ("bother") in a tight, everyday turn of phrase.
+- 'Kostya, look who you found to set Katya up with!' Nastya maintains a firm angle as the scene unfolds, putting "nashyol" ("found") alongside "svodit" ("to take out") in a tight, everyday turn of phrase.
+- 'After all, Denis ruthlessly dumped her back then.' Nastya projects a playful manner in the room, joining "togda" ("back then") to "bezzhalostno" ("ruthlessly") so every word pulls its weight.
+- 'And you like Nikita because he has money.' Kostya shares a calm course during the exchange, pairing "nravitsya" ("is pleasing") with "potomu" ("because") so the "-sya" ending carries the action.
+- 'That means you actually like rich guys!' Kostya sustains a steady tack without hesitation, joining "znachit" ("then, so") to "samom" ("very") so every word pulls its weight.
+- 'Then I would never have married you!' Nastya sets an unhurried attitude without hesitation, anchoring the Russian line on "togda" ("back then") and "zamuzh" ("in marriage") without extra filler.
+- 'Whoever proposed to you is who you married!' Kostya conveys a serious direction in their talk, using "pozval" (from "pozvat", "invited") alongside "poshla" ("am off") to shape the meaning.

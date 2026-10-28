@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, Katya, how is our chef doing there?' Wondering how their doing there is is how Gulya puts Katya on the spot.
-- 'The doctors said everything is fine, he will live.' Katya tells Gulya that the doctors said everything is fine he will live without dressing it up.
-- 'Honestly speaking, I was so scared for him.' Since speaking she was so scared for him, Katya does not waste words on excuses.
-- 'Listen, do you want me to cheer you up?' Here checking whether Katya wants her to cheer Katya up shows Gulya looking for the real truth.
-- 'Sit down here for a minute and take a look.' Here telling Katya to sit down here for a minute and take a look sets up the next turn in their exchange.
-- 'Those jokers Fedya and Senya pranked Lyova and me.' With the truth and hospital in play, Gulya keeps this short reply brisk and direct.
-- 'They were writing messages to me from his phone.' Explaining that they were writing messages to her from his phone lays the cards on the table for Katya.
-- 'Oh, the screen disappeared, I pressed something.' Over the truth and the hospital, Katya answers Gulya without a second thought.
-- 'Wait, this is Nikita's phone after all.' Claiming that this is Nikita phone after all sounds confident, even if Gulya has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And why is my mom in the messages here?' Here wondering why her in the messages here is shows Katya looking for the real truth.
-- 'Have they really been texting each other all this time?' By asking whether they really been texting each other all this time, Katya presses Gulya for a straight answer. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Oh, Katya, I knew nothing about that.' Realizing that she knew nothing changes how Gulya handles the situation. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'Well, Katya, how is our chef doing there?' Gulya probes dryly in the room, joining "kak" ("how") to "tam" ("there") so every word pulls its weight.
+- 'The doctors said everything is fine, he will live.' Katya shares a direct line without hesitation, leaning on "vrachi" ("doctors") before closing the thought with "skazali" ("told").
+- 'Honestly speaking, I was so scared for him.' Katya strikes an emphatic note right away, leaning on "chestno" ("honestly") before closing the thought with "govorya" ("speaking").
+- 'Listen, do you want me to cheer you up?' Gulya challenges bluntly as the talk turns, pairing "slushay" ("listen") with "khochesh" ("do you want") to get the point across in plain spoken Russian.
+- 'Sit down here for a minute and take a look.' Gulya takes a warm posture on the spot, building the phrase around "prisyad" ("sit down") and "syuda" ("here") for a crisp, natural delivery.
+- 'Those jokers Fedya and Senya pranked Lyova and me.' Gulya maintains a firm mood for Katya, pairing "shutniki" ("pranksters") with "lyovoy" ("with Lyova") to get the point across in plain spoken Russian.
+- 'They were writing messages to me from his phone.' Gulya favors a natural note as they talk, joining "pisali" ("to write") to "soobshcheniya" ("messages") so every word pulls its weight.
+- 'Oh, the screen disappeared, I pressed something.' Katya holds an honest view in front of Gulya, leaning on "kartinka" ("picture, illustration") before closing the thought with "propala" ("disappeared").
+- 'Wait, this is Nikita's phone after all.' Katya favors a pointed course toward Gulya, building the phrase around "podozhdi" ("wait") and "telefon" ("phone") for a crisp, natural delivery.
+- 'And why is my mom in the messages here?' Katya asks candidly as they speak, leaning on "pochemu" ("why") before closing the thought with "tut" ("here").
+- 'Have they really been texting each other all this time?' Katya wonders pointedly toward Gulya here, leaning on "vremya" ("time") before closing the thought with "perepisyvalis" ("corresponded").
+- 'Oh, Katya, I knew nothing about that.' Gulya holds an earnest angle toward Katya, using "znala" (from "znat", "knew") alongside "oy" ("oh") to shape the meaning.

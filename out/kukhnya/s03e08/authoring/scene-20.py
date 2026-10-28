@@ -7,7 +7,7 @@ SCENE = 20
 TITLE = 'Неизбежные изменения  (Inevitable Changes)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'vika': 'Вика'}
+LABELS = {'barinov': 'Шеф', 'elena': 'Елена', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S3.08'
 SOURCE_FILE = 'sources/kukhnya/s03/e08.ru.srt'
 INTRO = "Chef Barinov tears up Max's train ticket and tells him to report to the kitchen tomorrow morning. While Max returns to work, Elena kicks Barinov out of her apartment."
@@ -26,22 +26,22 @@ STORY = [
     ('barinov', 'Ты тоже пойми, я такой, как есть, поздно меняться.', 'You understand too, I am the way I am, it is too late to change.', [(356, 'я такой, как есть, поздно меняться')], 'adapted'),
     ('barinov', 'Ты или принимай меня, или не принимай, тебе решать.', 'Either accept me or do not accept me, it is up to you to decide.', [(357, 'Ты или принимай меня')], 'adapted'),
     ('max', 'Изменения в нашей жизни происходят, хотим мы этого или нет.', 'Changes in our life happen whether we want that or not.', [(360, 'изменения в нашей жизни'), (360, 'происходят, хотим мы этого или нет')], 'adapted'),
-    ('vika', 'Доброе утро, ты разве не уволился?', 'Good morning, did you not quit?', [(362, 'Ты не уволился')], 'adapted'),
+    ('elena', 'Доброе утро, ты разве не уволился?', 'Good morning, did you not quit?', [(362, 'Ты не уволился')], 'adapted'),
     ('max', 'Нет, мы можем принять их или пытаться остаться в прошлом.', 'No, we can accept them or try to stay in the past.', [(364, 'пытаться остаться в прошлом')], 'adapted'),
     ('barinov', 'Лёва, здравствуй, можно мне снова у тебя пожить?', 'Lyova, hello, may I stay at your place again?', [(365, 'Лёва, можно у тебя пожить')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'Tomorrow morning report to work again.' With the apartment and shift in play, Barinov keeps this short reply brisk and direct."),
-    (1, None, '\'And now let us go have a drink together.\' Explaining that they should go have a drink together lays the cards on the table for Max. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (2, None, "'Although no, you have to go to work early tomorrow.' Explaining that although no Max has to go to work early tomorrow lays the cards on the table for Max."),
-    (3, None, '\'Then I will drink, and you will sit for company.\' Barinov mentions that he will drink and Max will sit for company so Max sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (4, None, "'Changes in life come like old age and like time.' Claiming that changes in life come like old age and like time sounds confident, even if Barinov has doubts."),
-    (5, None, "'Sometimes we run from them, thinking that everything can be left as it is.' Pointing out that sometimes they run from them thinking that everything can be left as it is gives Barinov a sobering reality check."),
-    (6, None, "'Lena, forgive me for yesterday, it turned out awkwardly.' Barinov explains that someone forgive him for yesterday it turned out awkwardly, keeping his voice calm and direct."),
-    (7, None, '\'You understand too, I am the way I am, it is too late to change.\' Realizing that Max understands too he is the way he is it is too late to change changes how Barinov handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (8, None, "'Either accept me or do not accept me, it is up to you to decide.' Noting that either accept him or do not accept him it is up to Max to decide keeps Barinov's side of the story simple and clear."),
-    (9, None, "'Changes in our life happen whether we want that or not.' Even though changes in their life happen whether they want that or not, Max keeps a steady face in front of Barinov."),
-    (10, None, '\'Good morning, did you not quit?\' By asking whether Barinov not quit, Vika presses Barinov for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (11, None, "'No, we can accept them or try to stay in the past.' Saying that they can accept them or try to stay in the past is how Max sets the tone with Barinov."),
-    (12, None, '\'Lyova, hello, may I stay at your place again?\' Wondering if may he stays at Max\'s place again shows Barinov caught off guard. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
+    (0, None, '\'Tomorrow morning report to work again.\' Barinov conveys a frank direction as the scene unfolds, putting "zavtra" ("tomorrow") alongside "utrom" ("this morning") in a tight, everyday turn of phrase.'),
+    (1, None, '\'And now let us go have a drink together.\' Barinov adopts an emphatic view at this moment, pairing "teper" ("now") with "poydyom" ("let\'s go") to get the point across in plain spoken Russian.'),
+    (2, None, '\'Although no, you have to go to work early tomorrow.\' Barinov displays an honest rhythm on the spot, building the phrase around "zavtra" ("tomorrow") and "rano" ("early, young") for a crisp, natural delivery.'),
+    (3, None, '\'Then I will drink, and you will sit for company.\' Barinov keeps a serious tack as the scene unfolds, putting "togda" ("back then") alongside "vypyu" ("drink") in a tight, everyday turn of phrase.'),
+    (4, None, '\'Changes in life come like old age and like time.\' Max conveys a playful direction across the room, joining "izmeneniya" ("changes") to "zhizni" ("life") so every word pulls its weight.'),
+    (5, None, '\'Sometimes we run from them, thinking that everything can be left as it is.\' Max conveys an easygoing manner at once, building the phrase around "inogda" ("sometimes, at times") and "bezhim" ("run") for a crisp, natural delivery.'),
+    (6, None, '\'Lena, forgive me for yesterday, it turned out awkwardly.\' Barinov establishes an emphatic tempo straight away, joining "prosti" ("sorry, forgive me") to "vcherashneye" ("yesterday") so every word pulls its weight.'),
+    (7, None, '\'You understand too, I am the way I am, it is too late to change.\' Barinov holds a grounded view right away, linking "tozhe" ("too"), "poymi" ("understand"), and "kak" ("how") in one brisk exchange.'),
+    (8, None, '\'Either accept me or do not accept me, it is up to you to decide.\' Barinov strikes a playful angle straight away, linking "prinimay" ("receive, accept"), "reshat" ("decide, solve"), and "ty" ("you") in one brisk exchange.'),
+    (9, None, '\'Changes in our life happen whether we want that or not.\' Max takes a measured footing on the spot, weaving "izmeneniya" ("changes") together with "zhizni" ("life") just the way native speakers do.'),
+    (10, None, '\'Good morning, did you not quit?\' Elena checks lightly from the start, anchoring the Russian line on "dobroye" ("good") and "utro" ("morning") without extra filler.'),
+    (11, None, '\'No, we can accept them or try to stay in the past.\' Max presents an easygoing bearing in the conversation, building the phrase around "mozhem" ("can") and "prinyat" ("to accept, hire") for a crisp, natural delivery.'),
+    (12, None, '\'Lyova, hello, may I stay at your place again?\' Barinov queries firmly in the room, weaving "mozhno" ("may, can") together with "snova" ("again") just the way native speakers do.'),
 ]

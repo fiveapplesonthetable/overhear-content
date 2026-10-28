@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The hotel is geared toward well-off people.' Admitting that the hotel is geared toward well off people shows Max being honest for a change.
-- 'Only a wealthy person will book a room with us.' Saying that only a wealthy person will book a room with them is how Max sets the tone with Mikhail. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'A truly prosperous guest will treat himself to a suite.' Once a truly prosperous guest will treat himself to a suite, Max can finally tell Mikhail what he means.
-- 'But there are very wealthy guests.' Adding that there are very wealthy guests fills in the missing piece for Mikhail.
-- 'They can rent the entire hotel.' Saying that they can rent the entire hotel is how Max sets the tone with Mikhail.
-- 'Excuse me, this is our electrician.' Since this is their electrician, Mikhail does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And this is that very wealthy guest.' Mentioning that this is that very wealthy guest moves the talk in a new direction.
-- 'Rumors arrive at the hotel much earlier.' Around the point and hotel, Max sets a calm, everyday tone with Mikhail.
-- 'Last year this sheikh also visited Moscow.' Around the plan and hotel, Max sets a calm, everyday tone with Mikhail.
-- 'All staff members must work perfectly.' Explaining that all staff members must work perfectly lays the cards on the table for Max.
-- 'People tell amazing stories about him.' Between the plan and the hotel, Max gives Mikhail a quick, grounded response.
-- 'Welcome to our hotel!' With the plan and hotel at stake, Mikhail reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'The hotel is geared toward well-off people.' Max establishes a pointed note with Mikhail, weaving "otel" ("hotel") together with "oriyentirovan" ("oriented, geared toward") just the way native speakers do.
+- 'Only a wealthy person will book a room with us.' Max offers a brisk style across the room, leaning on "tolko" ("only") before closing the thought with "obespechennyy" ("wealthy, well-off").
+- 'A truly prosperous guest will treat himself to a suite.' Max holds a wry position for Mikhail, leaning on "sovsem" ("at all") before closing the thought with "zazhitochnyy" ("prosperous").
+- 'But there are very wealthy guests.' Max maintains a thoughtful style in front of Mikhail, anchoring the Russian line on "byvayut" ("occur, happen") and "ochen" ("very much") without extra filler.
+- 'They can rent the entire hotel.' Max chooses a frank tone in the scene, combining "mogut" ("can") and "snyat" ("to take down") so the key meaning lands right away.
+- 'Excuse me, this is our electrician.' Mikhail establishes a steady angle without hesitation, putting "izvinite" ("sorry, excuse me") alongside "elektrik" ("electrician") in a tight, everyday turn of phrase.
+- 'And this is that very wealthy guest.' Max establishes a steady approach on the spot, joining "samyy" ("the most") to "sostoyatelnyy" ("wealthy, affluent") so every word pulls its weight.
+- 'Rumors arrive at the hotel much earlier.' Max sustains an easygoing bearing across the room, linking "gorazdo" ("much"), "ranshe" ("earlier, previously"), and "otel" ("hotel") in one brisk exchange.
+- 'Last year this sheikh also visited Moscow.' Max brings a thoughtful style straight away, anchoring the Russian line on "proshlom" ("last, past") and "godu" ("year") without extra filler.
+- 'All staff members must work perfectly.' Mikhail maintains a grounded stance toward Max, putting "sotrudniki" ("employees") alongside "dolzhny" ("must, should") in a tight, everyday turn of phrase.
+- 'People tell amazing stories about him.' Max chooses a lively rhythm as the scene unfolds, pairing "rasskazyvayut" ("to tell, to talk about") with "udivitelnyye" ("surprising") to get the point across in plain spoken Russian.
+- 'Welcome to our hotel!' Mikhail sets a sharp bearing in front of Max, pairing "dobro" ("good, kindness") with "pozhalovat" ("to welcome") to get the point across in plain spoken Russian.

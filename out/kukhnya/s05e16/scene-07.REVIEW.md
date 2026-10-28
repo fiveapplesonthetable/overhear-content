@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fine, Vitya, tell me straight, how much money do you want?' Wondering if fine Vitya tell him straight how much money do Barinov wants shows Nagiyev caught off guard.
-- 'Wait, who do you take me for here anyway?' By asking who Nagiyev takes him for here anyway, Barinov presses Nagiyev for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I am asking seriously, how much do you want for the dinner?' Questioning whether he is asking seriously how much do Barinov wants for the dinner is how Nagiyev tests Barinov's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You should have started with that right away—thirty thousand!' Because Nagiyev should have started with that right away thirty thousand, Barinov does not bother softening the blow for Nagiyev.
-- 'Thirty thousand? What on earth did you decide to serve us?' Asking whether what on earth did Barinov decides to serve them puts Barinov right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Tender beef tenderloin with white Italian truffle!' With the truth and dinner at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'After all, this white truffle is the true king of delicacies!' Declaring that after all this white truffle is the true king of delicacies brings Barinov's temper right to the surface.
-- 'Fine, go prepare your expensive king right away!' With the plan and dinner at stake, Nagiyev reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I want her to be thrilled tomorrow evening!' By wanting her to be thrilled tomorrow evening, Nagiyev raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'The main thing is that you do not mess up on the date tomorrow!' Barinov declares that the main thing is that Nagiyev does not mess up on the date tomorrow as the tension in the room peaks.
-- 'Agreed, expect us tomorrow at seven in the evening sharp.' Around the plan and dinner, Nagiyev sets a calm, everyday tone with Barinov.
-- 'Great, one big truffle will not miss a small slice!' Insisting that great one big truffle will not miss a small slice shows Barinov is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Fine, Vitya, tell me straight, how much money do you want?' Nagiyev challenges naturally to make the point, building the phrase around "skazhi" ("say") and "pryamo" ("right, just") for a crisp, natural delivery.
+- 'Wait, who do you take me for here anyway?' Barinov probes evenly in the room, using "postoy" (from "postoyat", "wait") alongside "voobshche" ("at all") to shape the meaning.
+- 'I am asking seriously, how much do you want for the dinner?' Nagiyev asks warmly with Barinov now, pairing "seryozno" ("seriously") with "sprashivayu" ("am asking") to get the point across in plain spoken Russian.
+- 'You should have started with that right away—thirty thousand!' Barinov sets an emphatic tempo in their talk, building the phrase around "nado" ("it is necessary") and "bylo" ("was") for a crisp, natural delivery.
+- 'Thirty thousand? What on earth did you decide to serve us?' Nagiyev tests pointedly in the scene, combining "tysyach" ("thousand") and "podavat" ("to serve") so the key meaning lands right away.
+- 'Tender beef tenderloin with white Italian truffle!' Barinov holds a wry angle straight away, joining "nezhnuyu" ("gentle, tender") to "govyazhyu" ("beef") so every word pulls its weight.
+- 'After all, this white truffle is the true king of delicacies!' Barinov takes a thoughtful approach as they talk, building the phrase around "belyy" ("white") and "tryufel" ("truffle") for a crisp, natural delivery.
+- 'Fine, go prepare your expensive king right away!' Nagiyev sustains a candid bearing at once, anchoring the Russian line on "idi" ("go") and "gotov" ("prepare") without extra filler.
+- 'I want her to be thrilled tomorrow evening!' Nagiyev adopts a sharp bearing right away, leaning on "khochu" ("want") before closing the thought with "zavtra" ("tomorrow").
+- 'The main thing is that you do not mess up on the date tomorrow!' Barinov adopts a playful style without hesitation, anchoring the Russian line on "glavnoye" ("important") and "svidanii" ("meeting, date") without extra filler.
+- 'Agreed, expect us tomorrow at seven in the evening sharp.' Nagiyev maintains an earnest footing in front of Barinov, leaning on "dogovorilis" ("agreed, deal") before closing the thought with "zhdi" ("wait").
+- 'Great, one big truffle will not miss a small slice!' Barinov sustains a warm direction on the spot, weaving "otlichno" ("perfect, great") together with "bolshogo" ("big") just the way native speakers do.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She threatened to say that I undressed her?' Over the dinner and the office, Barinov presses Katya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, and when will she return?' By wondering when she return will, Barinov presses Katya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I do not know, she said she would go to the Metropol for an hour.' Once she does not know she said she would go to the Metropol for an hour, Katya can finally tell Barinov what she means.
-- 'I gave her my cell phone just in case.' Adding that she gave her her cell phone just in case fills in the missing piece for Barinov.
-- 'Oh, someone is knocking!' Katya declares that someone is knocking as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Yulya, it is time for dinner.' Since Yulya it is time for dinner, Barinov does not waste words on excuses.
-- 'Hello, Dad, I am doomed!' Insisting that dad she is doomed shows Katya is not backing down. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'They called me to dinner!' Once they called her to dinner, Katya makes sure Barinov hears every word. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Alright, calm down.' With the dinner and office in play, Barinov keeps this short reply brisk and direct.
-- 'Find her clothes and put them on.' Pointing out that Katya should find her clothes and put them gives Katya a sobering reality check.
-- 'Dad, I am very scared!' Saying that dad she is very scared is how Katya takes charge of the moment. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Do not be afraid, I will think of something.' Claiming that do not be afraid he will think of something sounds confident, even if Katya has doubts.
+- 'She threatened to say that I undressed her?' Barinov prompts candidly during the talk, building the phrase around "ugrozhala" ("threatened") and "rasskazat" ("to tell") for a crisp, natural delivery.
+- 'Well, and when will she return?' Barinov queries warmly in front of Katya, building the phrase around "kogda" ("when") and "vernyotsya" ("will return") for a crisp, natural delivery.
+- 'I do not know, she said she would go to the Metropol for an hour.' Katya shows a firm direction across the room, using "znayu" (from "znat", "know") alongside "skazala" ("told") to shape the meaning.
+- 'I gave her my cell phone just in case.' Katya projects an easygoing attitude as they talk, anchoring the Russian line on "mobilnik" ("cell phone") and "dala" ("gave") without extra filler.
+- 'Oh, someone is knocking!' Katya conveys a thoughtful course at this moment, using "stuchit" (from "stuchat", "is knocking") alongside "oy" ("oh") to shape the meaning.
+- 'Yulya, it is time for dinner.' Barinov takes a candid attitude straight away, putting "pora" ("it's time") alongside "uzhin" ("dinner") in a tight, everyday turn of phrase.
+- 'Hello, Dad, I am doomed!' Katya holds a clear mood across the room, joining "papa" ("Dad") to "konets" ("end") so every word pulls its weight.
+- 'They called me to dinner!' Katya maintains a measured attitude during the exchange, combining "uzhin" ("dinner") and "pozvali" ("called") so the key meaning lands right away.
+- 'Alright, calm down.' Barinov projects a lively style on the spot, using "uspokoysya" (from "uspokoitsya", "calm down") alongside "tak" ("so") to shape the meaning.
+- 'Find her clothes and put them on.' Barinov presents a grounded approach in the scene, putting "naydi" ("find") alongside "odezhdu" ("clothes") in a tight, everyday turn of phrase.
+- 'Dad, I am very scared!' Katya shares a measured note beside Barinov, putting "papa" ("Dad") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
+- 'Do not be afraid, I will think of something.' Barinov establishes a pointed angle right away, combining "boysya" ("be afraid") and "pridumayu" ("will come up with") so the key meaning lands right away.

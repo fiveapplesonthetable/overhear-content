@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e19.ru.srt'
 INTRO = "In the kitchen, sous-chef Lyova timidly approaches Viktor Petrovich to ask for a couple of hours off tomorrow morning. When Barinov learns that his loyal deputy wants to test his skills in Nagiyev's reality show, he reacts with stinging criticism. Let's listen to their tense exchange in Russian."
 OPENER = "Now let's examine how Chef Barinov reacts to Lyova's plan line by line."
 TRANSITION = "Let's hear the conversation between Barinov and Lyova again from start to finish."
-OUTRO = 'Hurt that his mentor refuses to support him, Lyova quietly resolves to prove his worth in the competition anyway. Listen for the reflexive verbs meaning to be delayed and to test oneself. See you next time!'
+OUTRO = 'Hurt that his mentor refuses to support him, Lyova quietly resolves to prove his worth in the competition anyway. Listen for the everyday expressions meaning to be delayed and to test oneself. See you next time!'
 CLOSING = ('lyova', 'Всего хорошего!')
 STORY = [
     ('lyova', 'Виктор Петрович, я завтра немного задержусь.', 'Viktor Petrovich, I will be a little late tomorrow.', [(103, 'Виктор Петрович, я завтра задержусь')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('lyova', 'Я думал, что вы меня поддержите.', 'I thought that you would support me.', [(116, 'Я думал, что вы меня поддержите')], ''),
 ]
 WALK = [
-    (0, None, "'Viktor Petrovich, I will be a little late tomorrow.' Once he will be a little late tomorrow, Lyova can finally tell Barinov what he means."),
-    (1, None, '\'Lyova, just think about this.\' Around the point and morning, Barinov sets a calm, everyday tone with Lyova. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (2, None, "'Nagiyev forbids me to participate in the contest!' Barinov insists that Nagiyev forbids him to participate in the contest, leaving Lyova no room to argue."),
-    (3, None, '\'Why would I even go there at all?\' Asking why he even goes there at all would is how Barinov puts Lyova on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (4, None, '\'In my opinion, it is a very worthy contest.\' Mentioning that in his opinion it is a very worthy contest moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (5, None, "'Lyova, oh, I beg you, please!' Insisting that he begs Lyova pleases shows Barinov is not backing down."),
-    (6, None, '\'Wait, where are you being delayed tomorrow?\' Asking where Lyova being delayed tomorrow is cuts straight through the tension between Barinov and Lyova. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (7, None, "'Viktor Petrovich, I decided to test myself.' Explaining that he decided to test himself lays the cards on the table for Barinov."),
-    (8, None, "'So you want to test yourself out there?' Asking whether Lyova wants to test themselves out there puts Lyova right on the defensive."),
-    (9, None, '\'You are still very far from being a head chef.\' Claiming that Lyova is still very far from being a head sounds confident, even if Lyova has doubts. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (10, None, "'Lyova, do not go, do not embarrass me.' Pointing out that do not go do not embarrass him gives Lyova a sobering reality check."),
-    (11, None, "'I thought that you would support me.' Lyova explains that he thought that Barinov would support him, keeping his voice calm and direct."),
+    (0, None, '\'Viktor Petrovich, I will be a little late tomorrow.\' Lyova conveys a grounded approach in the conversation, joining "zavtra" ("tomorrow") to "nemnogo" ("a bit") so every word pulls its weight.'),
+    (1, None, '\'Lyova, just think about this.\' Barinov displays a sharp rhythm during the exchange, pairing "tolko" ("only") with "podumay" ("think") to get the point across in plain spoken Russian.'),
+    (2, None, '\'Nagiyev forbids me to participate in the contest!\' Barinov favors a pointed tone in this beat, linking "zapreshchayet" ("forbids"), "uchastvovat" ("to participate"), and "konkurse" ("contest, competition") in one brisk exchange.'),
+    (3, None, '\'Why would I even go there at all?\' Barinov checks plainly from the start, combining "zachem" ("what for") and "voobshche" ("at all") so the key meaning lands right away.'),
+    (4, None, '\'In my opinion, it is a very worthy contest.\' Lyova picks a calm direction in their talk, putting "po-moyemu" ("in my opinion") alongside "vpolne" ("quite") in a tight, everyday turn of phrase.'),
+    (5, None, '\'Lyova, oh, I beg you, please!\' Barinov brings a frank rhythm as they talk, pairing "umolyayu" ("I beg") with "lyova" ("Lyova") to get the point across in plain spoken Russian.'),
+    (6, None, '\'Wait, where are you being delayed tomorrow?\' Barinov prompts bluntly as the beat lands, pairing "podozhdi" ("wait") with "gde" ("where") to get the point across in plain spoken Russian.'),
+    (7, None, '\'Viktor Petrovich, I decided to test myself.\' Lyova maintains a lively footing in the scene, leaning on "reshil" ("has decided") before closing the thought with "proverit" ("to check, verify").'),
+    (8, None, '\'So you want to test yourself out there?\' Barinov challenges promptly as the beat lands, putting "khochesh" ("do you want") alongside "proverit" ("to check, verify") in a tight, everyday turn of phrase.'),
+    (9, None, '\'You are still very far from being a head chef.\' Barinov chooses a calm attitude toward Lyova, building the phrase around "yeshchyo" ("more, still") and "ochen" ("very much") for a crisp, natural delivery.'),
+    (10, None, '\'Lyova, do not go, do not embarrass me.\' Barinov sets a resolute direction in the room, leaning on "khodi" ("go") before closing the thought with "pozor" ("disgrace, embarrass").'),
+    (11, None, '\'I thought that you would support me.\' Lyova sustains a calm tempo in the room, using "dumal" (from "dumat", "thought") alongside "podderzhite" ("you support") to shape the meaning.'),
 ]

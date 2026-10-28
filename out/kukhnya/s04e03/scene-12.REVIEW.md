@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was sure that Viktor Petrovich would not resist a bet.' Noting that she was sure that Viktor Petrovich would not resist a bet keeps Elena's side of the story simple and clear.
-- 'Everything is fine with you. Both your eyesight and your memory.' Even though everything is fine with Barinov, Elena keeps a steady face in front of Barinov.
-- 'Your conscience, however, is not doing so well.' Admitting that Barinov's conscience however is not doing so well shows Elena being honest for a change.
-- 'You ought to fire me for that.' With the plan and guest in play, Barinov keeps this short reply brisk and direct. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Not a chance. You will keep working for me as sous-chef.' Around the plan and guest, Elena sets a calm, everyday tone with Barinov.
-- 'I will deduct the ruined dishes and ingredients from your salary.' Adding that she will deduct the ruined dishes and ingredients from Barinov's salary fills in the missing piece for Barinov.
-- 'Is my fish ready?' Checking whether his fish ready cuts straight through the tension between Barinov and Elena. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Here is your order. No need to light it on fire?' Asking whether here is Elena's order puts Elena right on the defensive.
-- 'I am waiting for a young lady.' Being waiting for a young lady moves the conversation forward without extra drama.
-- 'Please bring a bottle of your best wine in the meantime.' By bringing a bottle of Barinov's best wine in the meantime, German keeps his side of the story grounded.
-- 'Just a moment.' With the guest and room in play, Barinov keeps this short reply brisk and direct.
-- 'Well now. Viktor Petrovich Barinov, in person.' Over the guest and the room, German answers Barinov without a second thought. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'I was sure that Viktor Petrovich would not resist a bet.' Elena establishes a wry position with Barinov, putting "byla" ("was") alongside "uverena" ("sure, confident") in a tight, everyday turn of phrase.
+- 'Everything is fine with you. Both your eyesight and your memory.' Elena offers a lively footing as they talk, using "poryadke" (from "poryadok", "order") alongside "zreniyem" ("to memory") to shape the meaning.
+- 'Your conscience, however, is not doing so well.' Elena strikes a serious posture without hesitation, pairing "sovestyu" ("conscience") with "kak-to" ("somehow, a bit") to get the point across in plain spoken Russian.
+- 'You ought to fire me for that.' Barinov sets a playful tempo for German, putting "uvolit" ("to fire") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.
+- 'Not a chance. You will keep working for me as sous-chef.' Elena maintains an emphatic note toward Barinov, anchoring the Russian line on "sluchaye" ("case, event") and "budete" ("will be") without extra filler.
+- 'I will deduct the ruined dishes and ingredients from your salary.' Elena presents a thoughtful position toward German, leaning on "isporchennyye" ("deduct") before closing the thought with "blyuda" ("of dish").
+- 'Is my fish ready?' Barinov queries honestly with Elena now, placing "ryba" ("fish") straight beside "gotova" ("ready") with no word for "to be" needed.
+- 'Here is your order. No need to light it on fire?' Barinov quizzes firmly to keep things clear, weaving "zakaz" ("order") together with "podzhigat" ("to set on fire") just the way native speakers do.
+- 'I am waiting for a young lady.' German keeps a serious style with Barinov, linking "zhdu" ("I wait, expect"), "devushku" ("young woman"), and "ya" ("I") in one brisk exchange.
+- 'Please bring a bottle of your best wine in the meantime.' German establishes a calm position in the room, putting "prinesite" ("bring") alongside "butylochku" ("bottle") in a tight, everyday turn of phrase.
+- 'Just a moment.' Barinov shows a natural tempo across the room, letting the single Russian word "minutochku" ("a minute") carry the entire reaction on its own.
+- 'Well now. Viktor Petrovich Barinov, in person.' German sets a resolute angle at once, pairing "nado" ("it is necessary") with "sobstvennoy" ("own, proper") to get the point across in plain spoken Russian.

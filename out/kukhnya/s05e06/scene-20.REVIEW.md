@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You know I had reasons.' Because he had reasons, Barinov treats the matter as settled. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Dad, it seems to me there are no reasons to abandon a family.' Explaining that dad it seems to her there are no reasons to abandon a family lays the cards on the table for Barinov.
-- 'She is already an adult, she can know the truth.' Barinov mentions that she is already an adult she can know the truth so Eleonora sees what is at stake.
-- 'I left your mother because she cheated on me.' Claiming that he left Eleonora's mother because she cheated on him sounds confident, even if Eleonora has doubts.
-- 'Because you drank and gambled!' Insisting that because Barinov drank and gambled shows Eleonora is not backing down. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And you had no time for me.' Eleonora explains that Barinov had no time, keeping her voice calm and direct.
-- 'Enough, please, I cannot listen to this.' Realizing that enough please she cannot listen to this changes how Katya handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Dad, I always blamed you for our broken family.' Between the plan and the room, Katya gives Barinov a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I should have blamed both of you.' Even though she should have blamed both of Barinov, Katya keeps a steady face in front of Barinov.
-- 'Looking at you two, I am even glad that Denis left.' Admitting that looking at Barinov two she is even glad that Denis left shows Katya being honest for a change. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Apparently this is our first fight that actually did some good.' Saying that apparently this is their first fight that actually did some good is how Barinov sets the tone with Eleonora. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Why do you not want to tell Max that this is his child?' Here asking why Barinov not want to tell Max that this is his child shows Eleonora looking for the real truth.
+- 'You know I had reasons.' Barinov presents a calm bearing in front of Eleonora, putting "znayesh" ("know") alongside "byli" ("be") in a tight, everyday turn of phrase.
+- 'Dad, it seems to me there are no reasons to abandon a family.' Katya establishes a grounded course right away, building the phrase around "pap" ("Dad") and "kazhetsya" ("it seems, I think") for a crisp, natural delivery.
+- 'She is already an adult, she can know the truth.' Barinov chooses an easygoing mood in their talk, building the phrase around "uzhe" ("already, now") and "vzroslaya" ("grown-up, adult") for a crisp, natural delivery.
+- 'I left your mother because she cheated on me.' Barinov favors a wry tempo right away, weaving "ushyol" ("left, departed") together with "materi" ("mother") just the way native speakers do.
+- 'Because you drank and gambled!' Eleonora offers an honest view at this moment, joining "potomu" ("because") to "pil" ("was drinking") so every word pulls its weight.
+- 'And you had no time for me.' Eleonora takes a steady angle in the conversation, pairing "vremeni" ("time") with "bylo" ("was") to get the point across in plain spoken Russian.
+- 'Enough, please, I cannot listen to this.' Katya takes a steady bearing right away, pairing "khvatit" ("enough") with "mogu" ("can") to get the point across in plain spoken Russian.
+- 'Dad, I always blamed you for our broken family.' Katya sustains a candid style in front of Eleonora, joining "papa" ("Dad") to "vsegda" ("always") so every word pulls its weight.
+- 'I should have blamed both of you.' Katya chooses a firm style in this beat, combining "nado" ("it is necessary") and "bylo" ("was") so the key meaning lands right away.
+- 'Looking at you two, I am even glad that Denis left.' Katya establishes an emphatic view in the conversation, pairing "denis" ("Denis") with "glyadya" ("looking") so the "-sya" ending carries the action.
+- 'Apparently this is our first fight that actually did some good.' Barinov holds a serious footing in the room, anchoring the Russian line on "vidimo" ("apparently") and "pervyy" ("first") without extra filler.
+- 'Why do you not want to tell Max that this is his child?' Eleonora checks sharply to keep things clear, joining "pochemu" ("why") to "khochesh" ("do you want") so every word pulls its weight.

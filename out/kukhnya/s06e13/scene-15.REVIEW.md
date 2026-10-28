@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Then all the guys will only be glad.' Once all the guys will only be glad, Kostya can finally tell Barinov what he means.
-- 'And at the same time you will talk calmly with Katya.' Admitting that at the same time Barinov will talk calmly with Katya shows Kostya being honest for a change.
-- 'Guys, I just wanted to say to you.' Realizing that he just wanted to say to Barinov changes how Kostya handles the situation. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'It is always very hard to part with people.' Since it is always very hard to part with people, Kostya does not waste words on excuses.
-- 'Today you are losing a truly good friend.' Mentioning that today Barinov is losing a truly good friend moves the talk in a new direction.
-- 'But today I am losing a little bit more.' Kostya reminds Barinov that today he is losing a little bit before the moment passes.
-- 'Tell me, does anyone need a free room right now?' Asking whether tell him does anyone need a free room right now puts Barinov right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I am also putting everything on the table.' Claiming that he is also putting everything on the table sounds confident, even if the guest has doubts.
-- 'And I am doubling our bet right now.' By being doubling their bet right now, the guest keeps his side of the story grounded.
-- 'And I, perhaps, will easily call the bet.' Claiming that he perhaps will easily call the bet sounds confident, even if the guest has doubts.
-- 'I will add the money later if needed.' Pointing out that he will add the money later if needed gives the guest a sobering reality check.
-- 'Well then, gentlemen, do we show our cards now?' Asking whether gentlemen do they show their cards now puts Barinov right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Then all the guys will only be glad.' Kostya displays a candid stance at once, leaning on "togda" ("back then") before closing the thought with "rebyata" ("the boys, the lads").
+- 'And at the same time you will talk calmly with Katya.' Kostya brings a resolute note in the scene, anchoring the Russian line on "zaodno" ("at the same time") and "spokoyno" ("calmly") without extra filler.
+- 'Guys, I just wanted to say to you.' Kostya maintains a firm direction in the room, anchoring the Russian line on "rebyata" ("the boys, the lads") and "prosto" ("just") without extra filler.
+- 'It is always very hard to part with people.' Kostya favors a direct view without hesitation, building the phrase around "vsegda" ("always") and "ochen" ("very much") for a crisp, natural delivery.
+- 'Today you are losing a truly good friend.' Kostya favors a lively view across the room, anchoring the Russian line on "segodnya" ("today") and "teryayete" ("are wasting") without extra filler.
+- 'But today I am losing a little bit more.' Kostya sustains a sharp style without hesitation, weaving "segodnya" ("today") together with "teryayu" ("to lose") just the way native speakers do.
+- 'Tell me, does anyone need a free room right now?' Kostya tests dryly in the scene, weaving "skazhite" ("tell") together with "seychas" ("now") just the way native speakers do.
+- 'I am also putting everything on the table.' Barinov picks a playful approach right away, linking "tozhe" ("too"), "stavlyu" ("put"), and "stol" ("table") in one brisk exchange.
+- 'And I am doubling our bet right now.' The guest favors a firm position straight away, leaning on "seychas" ("now") before closing the thought with "udvaivayu" ("double").
+- 'And I, perhaps, will easily call the bet.' Barinov presents a lively manner as the scene unfolds, weaving "legko" ("easy") together with "podderzhu" ("will support") just the way native speakers do.
+- 'I will add the money later if needed.' Barinov holds a lively manner in this beat, building the phrase around "dengi" ("money") and "potom" ("then") for a crisp, natural delivery.
+- 'Well then, gentlemen, do we show our cards now?' The guest challenges bluntly toward Kostya here, using "gospoda" (from "gospodin", "gentlemen") alongside "teper" ("now") to shape the meaning.

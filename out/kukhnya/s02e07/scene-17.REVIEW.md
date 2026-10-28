@@ -16,26 +16,26 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Костя | Родион Сергеевич? | About Rodion Sergeyevich? | #269: Родион Сергеевич | verbatim |
 | 5 | Настя | И он наш друг теперь. | And now he is our friend. | #270: И он наш друг теперь | verbatim |
 | 6 | Родион | С каких пор? | Since when? | #271: С каких пор | verbatim |
-| 7 | Костя | Костя, как ты будешь с ним дружить? | Kostya, how can you be friends with him? | #272: Костя, как ты будешь с ним дружить | verbatim |
+| 7 | Настя | Костя, как ты будешь с ним дружить? | Kostya, how can you be friends with him? | #272: Костя, как ты будешь с ним дружить | verbatim |
 | 8 | Настя | Ну, как бы... | Well, he is kind of... | #273: Ну, как бы | verbatim |
 | 9 | Родион | Как бы бомж. | Kind of homeless. | #274: как бы бомж | verbatim |
 | 10 | Костя | Настя, я тебя умоляю. | Nastya, I beg of you. | #275: Настя, я тебя умоляю | verbatim |
-| 11 | Настя | У каждого, Настенька, свои недостатки. | Everyone has their own little flaws, Nastenka. | #276: У каждого, Настенька, свои недостатки | verbatim |
+| 11 | Родион | У каждого, Настенька, свои недостатки. | Everyone has their own little flaws, Nastenka. | #276: У каждого, Настенька, свои недостатки | verbatim |
 | 12 | Родион | Я тоже его знаю. | I know him too. | #281: Я тоже его знаю | verbatim |
 | 13 | Костя | Родион Сергеевич, вам лучше уйти. | Rodion Sergeyevich, it would be best for you to leave. | #282: Родион Сергеевич, вам лучше уйти | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We are going to karaoke.' Mentioning that they are going to karaoke moves the talk in a new direction.
-- 'Why are you looking at me like that?' Here wondering why Kostya looking at her like is shows Nastya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'By the way, I was wrong about him.' Because he was wrong about him, Rodion treats the matter as settled.
-- 'About Rodion Sergeyevich?' With the room and truth hanging in the air, Kostya puts Nastya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And now he is our friend.' Nastya mentions that he is their friend so Kostya sees what is at stake.
-- 'Since when?' Turning from the friend to the shift, Rodion asks Kostya directly.
-- 'Kostya, how can you be friends with him?' By wondering how Nastya is friends with him can, Kostya presses Nastya for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well, he is kind of...' Nastya explains that he is kind, keeping her voice calm and direct.
-- 'Kind of homeless.' Between the plan and the work, Rodion gives Kostya a quick, grounded response.
-- 'Nastya, I beg of you.' Explaining that he begs of Nastya lays the cards on the table for Nastya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Everyone has their own little flaws, Nastenka.' Even though everyone has their own little flaws, Nastya keeps a steady face in front of Kostya.
-- 'I know him too.' Mentioning that he knows him moves the talk in a new direction.
-- 'Rodion Sergeyevich, it would be best for you to leave.' Saying that it would be best for Nastya to leave is how Kostya sets the tone with Nastya. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'We are going to karaoke.' Kostya strikes an emphatic direction without hesitation, building the phrase around "yedem" ("are going") and "karaoke" ("karaoke") for a crisp, natural delivery.
+- 'Why are you looking at me like that?' Nastya wonders frankly beside Rodion, anchoring the Russian line on "smotrish" ("are staring") and "chto" ("what") without extra filler.
+- 'By the way, I was wrong about him.' Rodion brings a serious tempo straight away, combining "kstati" ("by the way") and "byl" ("was") so the key meaning lands right away.
+- 'About Rodion Sergeyevich?' Kostya questions warmly for Rodion's benefit, pairing "rodion" ("Rodion") with "sergeyevich" ("Sergeyevich") to get the point across in plain spoken Russian.
+- 'And now he is our friend.' Nastya keeps a candid bearing in the scene, putting "drug" ("friend") alongside "teper" ("now") in a tight, everyday turn of phrase.
+- 'Since when?' Rodion wonders quietly in the room, combining "por" ("time") and "kakikh" ("what kind of") so the key meaning lands right away.
+- 'Kostya, how can you be friends with him?' Nastya tests naturally toward Kostya here, building the phrase around "kak" ("how") and "budesh" ("will") for a crisp, natural delivery.
+- 'Well, he is kind of...' Nastya favors a lively rhythm without hesitation, combining "kak" ("how") and "nu" ("oh, come on") so the key meaning lands right away.
+- 'Kind of homeless.' Rodion conveys an earnest approach in the scene, pairing "kak" ("how") with "bomzh" ("homeless man") to get the point across in plain spoken Russian.
+- 'Nastya, I beg of you.' Kostya adopts a grounded mood toward Rodion, leaning on "umolyayu" ("I beg") before closing the thought with "nastya" ("Nastya").
+- 'Everyone has their own little flaws, Nastenka.' Rodion strikes a grounded manner in this beat, weaving "kazhdogo" ("everyone") together with "nedostatki" ("flaws, shortcomings") just the way native speakers do.
+- 'I know him too.' Rodion shares a thoughtful style in the scene, anchoring the Russian line on "tozhe" ("too") and "znayu" ("know") without extra filler.
+- 'Rodion Sergeyevich, it would be best for you to leave.' Kostya shows a serious mood in the room, combining "luchshe" ("better") and "uyti" ("to leave") so the key meaning lands right away.

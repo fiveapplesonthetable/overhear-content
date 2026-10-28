@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I already told you everything last night.' Adding that he already told Eleonora everything last night fills in the missing piece for Eleonora. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'You must get rid of one cook.' Eleonora tells Mikhail that Mikhail must get rid of one cook without dressing it up.
-- 'Do it by any means necessary.' Since do it by any means necessary, Eleonora does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Dima, I only ask you very much.' Mentioning that she only asks Mikhail very much moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Let's keep it calm today, I beg you.' Claiming that they should keep it calm today she begs Mikhail sounds confident, even if Mikhail has doubts.
-- 'Only they feed people much better at your place.' With the kitchen and order in play, Nagiyev keeps this short reply brisk and direct. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'These are rare animals for the evening.' Explaining that these are rare animals for the evening lays the cards on the table for Mikhail. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'They will be present at the event.' Eleonora mentions that they will be present at the event so Mikhail sees what is at stake.
-- 'Right here is our fur seal.' Claiming that right here is their fur seal sounds confident, even if Mikhail has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'All the money will go toward saving the animals.' Pointing out that all the money will go toward saving the animals gives Mikhail a sobering reality check.
-- 'Well, I was not born yesterday, huh?' Questioning whether he was not born yesterday huh is how Nagiyev tests Eleonora's story.
-- 'We are having a charity evening today.' Realizing that they are having a charity evening today changes how Nagiyev handles the situation. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'We were collecting money for them.' Noting that they were collecting money for them keeps Nagiyev's side of the story simple and clear.
-- 'Tell me straight: what do you want?' Asking whether tell her straight what do Mikhail wants puts Mikhail right on the defensive.
+- 'I already told you everything last night.' Mikhail favors an honest view across the room, using "nochyu" (from "noch", "night") alongside "uzhe" ("already, now") to shape the meaning.
+- 'You must get rid of one cook.' Eleonora sets a sharp mood in front of Nagiyev, combining "dolzhen" ("has to, must") and "izbavitsya" ("to get rid of") so the key meaning lands right away.
+- 'Do it by any means necessary.' Eleonora maintains a lively posture as they talk, pairing "sdelay" ("make, do") with "lyubym" ("any") to get the point across in plain spoken Russian.
+- 'Dima, I only ask you very much.' Eleonora offers an earnest manner as they talk, pairing "tolko" ("only") with "ochen" ("very much") to get the point across in plain spoken Russian.
+- 'Let's keep it calm today, I beg you.' Eleonora chooses an earnest line at once, linking "davay" ("let's"), "segodnya" ("today"), and "spokoyno" ("calmly") in one brisk exchange.
+- 'Only they feed people much better at your place.' Nagiyev establishes a clear tack with Mikhail, weaving "tolko" ("only") together with "kormyat" ("to feed") just the way native speakers do.
+- 'These are rare animals for the evening.' Eleonora shares a clear note right away, linking "redkiye" ("rare, scarce") directly with "zhivotnyye" ("animals"), since Russian drops "is" and "are" in the present.
+- 'They will be present at the event.' Eleonora presents an honest position at once, combining "budut" ("there will be") and "prisutstvovat" ("to be present") so the key meaning lands right away.
+- 'Right here is our fur seal.' Eleonora projects a pointed posture toward Mikhail, leaning on "morskoy" ("sea, marine") before closing the thought with "kotik" ("kitten, honey").
+- 'All the money will go toward saving the animals.' Eleonora shows a calm direction beside Nagiyev, building the phrase around "dengi" ("money") and "poydut" ("to go") for a crisp, natural delivery.
+- 'Well, I was not born yesterday, huh?' Nagiyev wonders boldly as they speak, pairing "rodilsya" ("was born") with "vchera" ("yesterday") so the "-sya" ending carries the action.
+- 'We are having a charity evening today.' Nagiyev sustains a steady view in front of Mikhail, placing "segodnya" ("today") straight beside "blagotvoritelnyy" ("buffet") with no word for "to be" needed.
+- 'We were collecting money for them.' Nagiyev offers a measured footing for Eleonora, joining "sobirali" ("collected") to "dengi" ("money") so every word pulls its weight.
+- 'Tell me straight: what do you want?' Eleonora presses plainly to keep things clear, pairing "skazhi" ("say") with "pryamo" ("right, just") to get the point across in plain spoken Russian.

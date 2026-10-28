@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It was nice working with you.' Once it was nice working with Barinov, Katya can finally tell Barinov what she means.
-- 'Katya, maybe you will stay?' Lyova asks whether maybe Barinov will stay, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Thank you, Lyova, but I have already decided everything.' Having already decided everything is how Katya lays out the situation for Barinov.
-- 'So you are leaving, have you thought it through well?' Wondering if Katya is leaving have Katya thought it through well shows Barinov caught off guard.
-- 'Is this an attempt to stop me?' Asking whether this an attempt to stop cuts straight through the tension between Katya and Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Or are you afraid of tomorrow's banquet?' Checking whether Barinov afraid of tomorrow banquet is how Katya puts Barinov on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No, it is just an ordinary question.' Because it is just an ordinary question, Barinov treats the matter as settled.
-- 'I can stay on one condition.' Explaining that she can stay on one condition lays the cards on the table for Barinov.
-- 'How lucky I am, just one condition.' Barinov mentions that how lucky he is just one condition so Katya sees what is at stake.
-- 'I want you to appoint me head cook.' Since she wants Barinov to appoint her head cook, Katya does not waste words on excuses.
-- 'No, I will manage everything myself.' Pointing out that he will manage everything himself gives Katya a sobering reality check.
-- 'Chef, what kind of hen are you, you are a rooster.' Lyova explains that what kind of hen are Barinov Barinov is a rooster, keeping his voice calm and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'It was nice working with you.' Katya brings a frank angle toward Barinov, anchoring the Russian line on "bylo" ("was") and "priyatno" ("pleasant") without extra filler.
+- 'Katya, maybe you will stay?' Lyova presses quietly in the room, linking "mozhet" ("can"), "byt" ("be"), and "ostaneshsya" ("will stay") in one brisk exchange.
+- 'Thank you, Lyova, but I have already decided everything.' Katya shows a frank view without hesitation, anchoring the Russian line on "spasibo" ("thank you") and "uzhe" ("already, now") without extra filler.
+- 'So you are leaving, have you thought it through well?' Barinov queries plainly during the talk, building the phrase around "znachit" ("then, so") and "ukhodish" ("are leaving") for a crisp, natural delivery.
+- 'Is this an attempt to stop me?' Katya challenges quietly from the start, weaving "popytka" ("attempt") together with "ostanovit" ("to stop") just the way native speakers do.
+- 'Or are you afraid of tomorrow's banquet?' Katya questions promptly as the beat lands, linking "boishsya" ("you are afraid"), "zavtrashnego" ("tomorrow's"), and "banketa" ("banquet") in one brisk exchange.
+- 'No, it is just an ordinary question.' Barinov sets a calm manner with Katya, putting "prosto" ("just") alongside "obychnyy" ("ordinary, regular") in a tight, everyday turn of phrase.
+- 'I can stay on one condition.' Katya holds a pointed position for Lyova, putting "mogu" ("can") alongside "ostatsya" ("to remain, to be left") in a tight, everyday turn of phrase.
+- 'How lucky I am, just one condition.' Barinov presents an easygoing rhythm for Katya, weaving "kak" ("how") together with "povezlo" ("it was lucky") just the way native speakers do.
+- 'I want you to appoint me head cook.' Katya adopts a steady footing as they talk, putting "khochu" ("want") alongside "naznachil" ("called, set") in a tight, everyday turn of phrase.
+- 'No, I will manage everything myself.' Barinov sustains an easygoing posture during the exchange, linking "spravlyus" ("will manage"), "net" ("no"), and "ya" ("I") in one brisk exchange.
+- 'Chef, what kind of hen are you, you are a rooster.' Lyova presents a candid manner beside Katya, putting "kuritsa" ("chicken") alongside "petukh" ("rooster") in a tight, everyday turn of phrase.

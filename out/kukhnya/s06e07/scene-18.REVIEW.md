@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, your mushrooms turned out very tasty.' Explaining that Kostya's mushrooms turned out very tasty lays the cards on the table for Kostya. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'We should tell the chef to transfer you to the kitchen.' Denis mentions that they should tell the to transfer Kostya to the kitchen so Kostya sees what is at stake.
-- 'Especially since you already have a signature dish.' Claiming that especially since Kostya already have a signature dish sounds confident, even if Kostya has doubts. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'What a good guy you are, isn't that right, Katya?' Questioning whether what a good guy Denis is is not that right is how Nastya tests Denis's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'It is so nice that Nikita came to our place today.' Nastya explains that it is so nice that Nikita came to their place today, keeping her voice calm and direct.
-- 'It is always so cheerful at the table with him!' Nastya insists that it is always so cheerful at the table with him, leaving Denis no room to argue. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Let me pour you some red wine instead.' Letting him pour Denis some red wine instead is how Kostya lays out the situation for Denis. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Better make him your great cocktail instead!' With the shift and table at stake, Nastya reacts without holding back.
-- 'Come on, Nastya, what are you talking about?' Questioning whether come on Nastya what are Kostya talking is how Denis tests Kostya's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'From that strong cocktail I will pass out right away.' Saying that from that strong cocktail he will pass out right away is how Denis sets the tone with Kostya.
-- 'Kostya makes it when he needs to get rid of someone.' Once Kostya makes it when he needs to get rid of someone, Denis can finally tell Kostya what he means.
-- 'Kostya, may I have a word with you right now?' Asking whether may she has a word with Denis right now puts Denis right on the defensive. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Nastya, your mushrooms turned out very tasty.' Denis conveys an earnest tack at this moment, leaning on "ochen" ("very much") before closing the thought with "vkusno" ("it's tasty").
+- 'We should tell the chef to transfer you to the kitchen.' Denis offers a firm manner with Nastya, joining "nado" ("it is necessary") to "skazat" ("tell") so every word pulls its weight.
+- 'Especially since you already have a signature dish.' Denis shares a direct footing without hesitation, pairing "boleye" ("more") with "firmennoye" ("signature, specialty") to get the point across in plain spoken Russian.
+- 'What a good guy you are, isn't that right, Katya?' Nastya quizzes pointedly at this point, combining "khoroshiy" ("good") and "paren" ("boyfriend") so the key meaning lands right away.
+- 'It is so nice that Nikita came to our place today.' Nastya favors a firm view in front of Denis, pairing "ochen" ("very much") with "khorosho" ("good, fine") to get the point across in plain spoken Russian.
+- 'It is always so cheerful at the table with him!' Nastya adopts an easygoing view during the exchange, leaning on "stolom" ("the table") before closing the thought with "vsegda" ("always").
+- 'Let me pour you some red wine instead.' Kostya maintains a pointed style toward Denis, using "davay" (from "davat", "let's") alongside "luchshe" ("better") to shape the meaning.
+- 'Better make him your great cocktail instead!' Nastya shows a serious bearing with Kostya, building the phrase around "luchshe" ("better") and "sdelay" ("make, do") for a crisp, natural delivery.
+- 'Come on, Nastya, what are you talking about?' Denis tests openly in this moment, weaving "govorish" ("you say") together with "da" ("yes") just the way native speakers do.
+- 'From that strong cocktail I will pass out right away.' Denis shows a thoughtful course in this beat, building the phrase around "krepkogo" ("strong") and "kokteylya" ("cocktail") for a crisp, natural delivery.
+- 'Kostya makes it when he needs to get rid of someone.' Denis holds a lively manner in the scene, linking "gotovit" ("cooks"), "kogda" ("when"), and "nado" ("it is necessary") in one brisk exchange.
+- 'Kostya, may I have a word with you right now?' Nastya checks briskly without holding back, anchoring the Russian line on "mozhno" ("may, can") and "seychas" ("now") without extra filler.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why didn't you sleep at home last night?' By wondering why not Denis sleeps at home last night, Max presses Denis for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Come on, why are you holding a grudge?' Max asks whether come on why are Denis holding a grudge, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yesterday you simply interrupted Vika and me.' Over the conversation and the team, Max answers Denis without a second thought.
-- 'And we had a fight because of that.' Claiming that they had a fight sounds confident, even if Denis has doubts.
-- 'We haven't been able to get pregnant.' Noting that they have not been able to get pregnant keeps Max's side of the story simple and clear. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'In short, everything is complicated.' Even though in short everything is complicated, Max keeps a steady face in front of Denis.
-- 'Forgive me too.' Once Max should forgive him, Denis can finally tell Max what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Because of me you have nothing but trouble.' Saying that because of him Max has nothing but trouble is how Denis sets the tone with Max. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Come on, we will manage. So, how are things with you?' Wondering if come on they will manage shows Max caught off guard.
-- 'I need to peel eighteen sacks of potatoes before evening.' Here needing to peel eighteen sacks of potatoes before evening sets up the next turn in their exchange. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'But I have already peeled three.' Since he has already peeled three, Denis does not waste words on excuses.
-- 'We will help you right now.' Since they will help Denis right now, Max does not waste words on excuses.
+- 'Why didn't you sleep at home last night?' Max checks wryly toward Denis here, joining "doma" ("at home") to "nocheval" ("spent the night") so every word pulls its weight.
+- 'Come on, why are you holding a grudge?' Max questions evenly right away, leaning on "obizhayeshsya-to" ("grudge") before closing the thought with "da" ("yes").
+- 'Yesterday you simply interrupted Vika and me.' Max presents a warm note without hesitation, anchoring the Russian line on "vchera" ("yesterday") and "prosto" ("just") without extra filler.
+- 'And we had a fight because of that.' Max establishes a playful approach without hesitation, pairing "possorilis" ("had a fight") with "my" ("we") so the "-sya" ending carries the action.
+- 'We haven't been able to get pregnant.' Max presents an honest course as they talk, anchoring the Russian line on "poluchayetsya" ("works out") and "zaberemenet" ("to pregnant") without extra filler.
+- 'In short, everything is complicated.' Max sets a steady tone with Denis, combining "obshchem" ("short, so") and "slozhno" ("difficult") so the key meaning lands right away.
+- 'Forgive me too.' Denis adopts a warm attitude right away, linking "tozhe" ("too"), "prosti" ("sorry, forgive me"), and "ty" ("you") in one brisk exchange.
+- 'Because of me you have nothing but trouble.' Denis maintains a firm approach in the conversation, anchoring the Russian line on "nepriyatnosti" ("troubles") and "odni" ("nothing but") without extra filler.
+- 'Come on, we will manage. So, how are things with you?' Max tests lightly in the room, pairing "spravimsya" ("will manage") with "da" ("yes") to get the point across in plain spoken Russian.
+- 'I need to peel eighteen sacks of potatoes before evening.' Denis displays a direct tone toward Max, pairing "nuzhno" ("necessary") with "vechera" ("evening") to get the point across in plain spoken Russian.
+- 'But I have already peeled three.' Denis displays a frank footing in their talk, joining "uzhe" ("already, now") to "pochistil" ("to three") so every word pulls its weight.
+- 'We will help you right now.' Max displays a frank bearing in front of Denis, pairing "seychas" ("now") with "pomozhem" ("will help") so the "-sya" ending carries the action.

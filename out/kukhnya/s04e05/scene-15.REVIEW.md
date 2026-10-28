@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, when I heard this, I was simply stunned!' Once when he heard this he was simply stunned, Senya makes sure Fedya hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Folks, I do not understand, what is this meeting?' Questioning whether folks he does not understand what is this meeting is how Max tests Fedya's story.
-- 'Tell us honestly, when will they lower our salary?' Fedya asks whether tell them honestly when will they lower their salary, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And when will they throw us all out onto the street?' Asking when they throw them all out onto the street will cuts straight through the tension between Senya and Fedya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Guys, what is with you, have you gone completely nuts?' Wondering what with Fedya has Fedya gone completely nuts is is how Max puts Fedya on the spot.
-- 'Who on earth told you such nonsense?' Wondering if who on earth told Fedya such nonsense shows Max caught off guard. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'We will go to German together right now!' Insisting that they will go to German together right now shows Senya is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Yes, let's go and find everything out from him!' Here proposing that they go and find everything out from him lets Fedya's real feelings break through.
-- 'Stop, folks, stand right here in place!' Max declares that Fedya should stop folks stand right here in place as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'You do not need to go anywhere right now.' Even though Fedya does not need to go anywhere right now, Max keeps a steady face in front of Fedya. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'I will go to German's office myself.' Admitting that he will go to German office himself shows Max being honest for a change.
-- 'And I will arrange for him not to touch your salary.' Saying that he will arrange for him not to touch Fedya's salary is how Max sets the tone with Fedya.
+- 'Guys, when I heard this, I was simply stunned!' Senya displays an honest posture as they talk, building the phrase around "parni" ("guys, boys") and "kogda" ("when") for a crisp, natural delivery.
+- 'Folks, I do not understand, what is this meeting?' Max probes warmly on the spot, linking "druzya" ("friends"), "ponyal" ("understood"), and "sobraniye" ("meeting") in one brisk exchange.
+- 'Tell us honestly, when will they lower our salary?' Fedya asks promptly without hesitation, linking "skazhi" ("say"), "chestno" ("honestly"), and "kogda" ("when") in one brisk exchange.
+- 'And when will they throw us all out onto the street?' Senya inquires dryly in their exchange, building the phrase around "kogda" ("when") and "vygonyat" ("will throw out") for a crisp, natural delivery.
+- 'Guys, what is with you, have you gone completely nuts?' Max questions candidly in this moment, weaving "parni" ("guys, boys") together with "sovsem" ("at all") just the way native speakers do.
+- 'Who on earth told you such nonsense?' Max quizzes dryly to keep things clear, combining "voobshche" ("at all") and "rasskazal" ("told") so the key meaning lands right away.
+- 'We will go to German together right now!' Senya keeps a calm rhythm in their talk, joining "seychas" ("now") to "poydyom" ("let's go") so every word pulls its weight.
+- 'Yes, let's go and find everything out from him!' Fedya favors a serious note in their talk, building the phrase around "poydyom" ("let's go") and "vyyasnim" ("to find out") for a crisp, natural delivery.
+- 'Stop, folks, stand right here in place!' Max establishes a sharp attitude for Fedya, combining "druzya" ("friends") and "postoyte" ("wait") so the key meaning lands right away.
+- 'You do not need to go anywhere right now.' Max conveys a natural approach in the room, joining "nado" ("it is necessary") to "seychas" ("now") so every word pulls its weight.
+- 'I will go to German's office myself.' Max strikes a direct position without hesitation, using "poydu" (from "poyti", "go") alongside "germanu" ("coffee") to shape the meaning.
+- 'And I will arrange for him not to touch your salary.' Max brings a brisk view beside Senya, building the phrase around "dogovoryus" ("to agree, to arrange") and "trogal" ("touched") for a crisp, natural delivery.

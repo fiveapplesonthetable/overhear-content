@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How are you feeling?' Wondering how Fedya feeling is cuts straight through the tension between Barinov and Fedya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I am just thinking.' Realizing that he is just thinking changes how Senya handles the situation.
-- 'Tell me, are you an idiot?' Questioning whether tell him are Barinov an idiot is how Fedya tests Barinov's story.
-- 'What do you think you are doing?' Here wondering what Fedya thinks Fedya is doing shows Barinov looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I do not know, look what he did.' Claiming that he does not know look what he did sounds confident, even if Barinov has doubts.
-- 'I had nothing to do with it.' Pointing out that he had nothing to do with it gives Barinov a sobering reality check.
-- 'It was all this cook Senya.' Barinov explains that it was all this cook Senya, keeping his voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'This is a new recipe from Fedya.' Realizing that this is a new recipe from Fedya changes how Senya handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I do not care at all.' Noting that he does not care at all keeps Fedya's side of the story simple and clear.
-- 'You two have turned this kitchen into a circus.' Even though Fedya two have turned this kitchen into a circus, Barinov keeps a steady face in front of Fedya. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Do not mind her, she bosses everyone around everywhere.' Admitting that do not mind her she bosses everyone around everywhere shows Senya being honest for a change.
-- 'She thinks she is the head chef.' Saying that she thinks she is the head is how Fedya sets the tone with Barinov.
-- 'So just get some rest.' With the hospital and truth in play, Barinov keeps this short reply brisk and direct.
+- 'How are you feeling?' Barinov challenges promptly with Fedya now, combining "kak" ("how") and "samochuvstviye" ("health, well-being") so the key meaning lands right away.
+- 'I am just thinking.' Senya favors an easygoing angle without hesitation, joining "dumayu" ("I think") to "vot" ("there, here") so every word pulls its weight.
+- 'Tell me, are you an idiot?' Fedya challenges decisively in their exchange, using "skazhi" (from "skazat", "say") alongside "durak" ("fool, idiot") to shape the meaning.
+- 'What do you think you are doing?' Barinov questions plainly in the scene, anchoring the Russian line on "tvorish" ("are doing, creating") and "ty" ("you") without extra filler.
+- 'I do not know, look what he did.' Senya adopts a lively style on the spot, combining "znayu" ("know") and "posmotri" ("look") so the key meaning lands right away.
+- 'I had nothing to do with it.' Fedya maintains a grounded bearing as they talk, building the phrase around "tut" ("here") and "ya" ("I") for a crisp, natural delivery.
+- 'It was all this cook Senya.' Barinov presents a direct attitude in this beat, leaning on "povar" ("chef, cook") before closing the thought with "eto" ("this").
+- 'This is a new recipe from Fedya.' Senya shares a direct attitude in front of Fedya, building the phrase around "novyy" ("new") and "retsept" ("recipe") for a crisp, natural delivery.
+- 'I do not care at all.' Fedya takes a thoughtful attitude as the scene unfolds, linking "plevat" ("don't care"), "da" ("yes"), and "mne" ("to me") in one brisk exchange.
+- 'You two have turned this kitchen into a circus.' Barinov keeps an honest tone at once, leaning on "zdes" ("here") before closing the thought with "kukhne" ("kitchen").
+- 'Do not mind her, she bosses everyone around everywhere.' Senya conveys a steady stance on the spot, building the phrase around "obrashchayte" ("to turn, to direct") and "vnimaniya" ("attention") for a crisp, natural delivery.
+- 'She thinks she is the head chef.' Fedya displays an emphatic tack as they talk, pairing "dumayet" ("thinks") with "chto" ("what") to get the point across in plain spoken Russian.
+- 'So just get some rest.' Barinov shares a serious position across the room, anchoring the Russian line on "otdykhayte" ("rest") and "tak" ("so") without extra filler.

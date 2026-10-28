@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Полностью согласен. | I completely agree. | #196: полностью согласен | verbatim |
+| 1 | Макс | Полностью согласен. | I completely agree. | #196: полностью согласен | verbatim |
 | 2 | Вика | Значит так. | So here is how it is. | #197: Значит так | verbatim |
 | 3 | Костя | В смысле? | What do you mean? | #198: В смысле | verbatim |
-| 4 | Шеф | Я не шеф. | I am not the head chef. | #199: Я не шеф | verbatim |
+| 4 | Макс | Я не шеф. | I am not the head chef. | #199: Я не шеф | verbatim |
 | 5 | Вика | Он для меня русский. | To me, he is Russian. | #200: Он для меня русский | verbatim |
 | 6 | Костя | Это значит, я идиот. | That means I am an idiot. | #202: Это значит, я идиот | verbatim |
-| 7 | Шеф | Надо было у Вики прощения просить. | I should have begged Vika for forgiveness. | #205: Надо было у Вики прощения просить | verbatim |
+| 7 | Макс | Надо было у Вики прощения просить. | I should have begged Vika for forgiveness. | #205: Надо было у Вики прощения просить | verbatim |
 | 8 | Вика | Так ты с Сашей все теперь? | So are you done with Sasha now? | #206: Так ты с Сашей все теперь | verbatim |
 | 9 | Костя | Понимаешь, с Викой все очень сложно. | You see, with Vika everything is very complicated. | #207: Понимаешь, с Викой все очень сложно | verbatim |
-| 10 | Шеф | С Сашкой все так просто. | With Sasha everything is so simple. | #208: С Сашкой все так просто | verbatim |
+| 10 | Макс | С Сашкой все так просто. | With Sasha everything is so simple. | #208: С Сашкой все так просто | verbatim |
 | 11 | Вика | Но, наверное, надо с Сашкой заканчивать. | But I probably need to end things with Sasha. | #209: Но, наверное, надо с Сашкой заканчивать | verbatim |
 | 12 | Костя | А, привет! | Oh, hi! | #211: А, привет | verbatim |
-| 13 | Шеф | Нет, спасибо. | No, thank you. | #212: Нет, спасибо | verbatim |
+| 13 | Макс | Нет, спасибо. | No, thank you. | #212: Нет, спасибо | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I completely agree.' Over the mistake and the moment, Barinov answers Kostya without a second thought.
-- 'So here is how it is.' Once here is how it is, Vika can finally tell Barinov what she means.
-- 'What do you mean?' By asking what Barinov means, Kostya presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I am not the head chef.' Pointing out that he is not the head gives Kostya a sobering reality check.
-- 'To me, he is Russian.' Since to her he is Russian, Vika does not waste words on excuses.
-- 'That means I am an idiot.' Mentioning that that means he is an idiot moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I should have begged Vika for forgiveness.' Barinov reminds Kostya that he should have begged Vika for forgiveness before the moment passes. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'So are you done with Sasha now?' Asking whether Barinov done with Sasha now cuts straight through the tension between Vika and Barinov.
-- 'You see, with Vika everything is very complicated.' Explaining that with Vika everything is very complicated lays the cards on the table for Barinov.
-- 'With Sasha everything is so simple.' Barinov mentions that with Sasha everything is so simple so Kostya sees what is at stake.
-- 'But I probably need to end things with Sasha.' Over the moment and the boss, Vika answers Barinov without a second thought.
-- 'Oh, hi!' With the conversation and shift at stake, Kostya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'No, thank you.' Explaining that Kostya should thank Kostya lays the cards on the table for Kostya.
+- 'I completely agree.' Max takes a sharp tempo toward Kostya, joining "polnostyu" ("completely") to "soglasen" ("agreed") so every word pulls its weight.
+- 'So here is how it is.' Vika maintains a brisk tone in the scene, placing "znachit" ("then, so") straight beside "tak" ("so") with no word for "to be" needed.
+- 'What do you mean?' Kostya tests boldly in front of Max, using "smysle" ("sense") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'I am not the head chef.' Max brings a warm bearing in the conversation, weaving "ya" ("I") together with "ne" ("not") just the way native speakers do.
+- 'To me, he is Russian.' Vika favors a candid attitude for Kostya, combining "russkiy" ("Russian") and "on" ("he") so the key meaning lands right away.
+- 'That means I am an idiot.' Kostya sustains a steady footing beside Vika, leaning on "znachit" ("then, so") before closing the thought with "idiot" ("idiot").
+- 'I should have begged Vika for forgiveness.' Max brings a thoughtful approach for Kostya, linking "nado" ("it is necessary"), "bylo" ("was"), and "proshcheniya" ("forgiveness") in one brisk exchange.
+- 'So are you done with Sasha now?' Vika checks evenly from the start, joining "teper" ("now") to "tak" ("so") so every word pulls its weight.
+- 'You see, with Vika everything is very complicated.' Kostya strikes a resolute position in the conversation, using "ponimayesh" (from "ponimat", "do you understand") alongside "ochen" ("very much") to shape the meaning.
+- 'With Sasha everything is so simple.' Max presents a brisk mood at this moment, weaving "prosto" ("just") together with "sashkoy" ("Sasha") just the way native speakers do.
+- 'But I probably need to end things with Sasha.' Vika keeps a steady angle at this moment, joining "navernoye" ("probably") to "nado" ("it is necessary") so every word pulls its weight.
+- 'Oh, hi!' Kostya takes a serious direction on the spot, using "privet" ("hi") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'No, thank you.' Max picks an unhurried manner at this moment, anchoring the Russian line on "spasibo" ("thank you") and "net" ("no") without extra filler.

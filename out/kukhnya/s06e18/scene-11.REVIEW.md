@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A captain must always be fair.' Even though a must always be fair, Fedya keeps a steady face in front of Eleonora.
-- 'Who decided this in here just now?' Questioning whether who decided this in here just now is how Eleonora tests Fedya's story. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Am I supposed to sit and wait?' With the coffee and kitchen hanging in the air, Eleonora puts Fedya on the spot.
-- 'By law, cooks are entitled to a rest.' Once by law cooks are entitled to a rest, Fedya can finally tell Eleonora what he means.
-- 'For this rest everyone is fined.' Adding that for this rest everyone is fined fills in the missing piece for Fedya.
-- 'I am docking all of you a day's salary.' Being docking all of Fedya a day salary moves the conversation forward without extra drama.
-- 'Captain, take this, this is for you now.' Since Captain take this this is for Eleonora now, Senya does not waste words on excuses. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Right now this is simply necessary for you.' Mentioning that right now this is simply necessary for Eleonora moves the talk in a new direction. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Dear friend, well, how was your flight?' Eleonora asks whether dear friend well how was Fedya's flight, refusing to let the point slide.
-- 'Of course, first rest quietly in the room.' With the coffee and truth in play, Eleonora keeps this short reply brisk and direct.
-- 'And later we will talk about everything.' Explaining that later they will talk about everything lays the cards on the table for Fedya.
-- 'I still have to ask you for money.' Eleonora mentions that she still has to ask Fedya for money so Fedya sees what is at stake.
+- 'A captain must always be fair.' Fedya chooses a wry rhythm toward Eleonora, leaning on "kapitan" ("captain") before closing the thought with "dolzhen" ("has to, must").
+- 'Who decided this in here just now?' Eleonora wonders directly right away, weaving "tut" ("here") together with "seychas" ("now") just the way native speakers do.
+- 'Am I supposed to sit and wait?' Eleonora prompts naturally for Fedya's benefit, building the phrase around "dolzhna" ("should, must") and "sidet" ("to sit") for a crisp, natural delivery.
+- 'By law, cooks are entitled to a rest.' Fedya shows a thoughtful line in the conversation, using "zakonu" (from "zakon", "law, statute") alongside "povaram" ("cooks") to shape the meaning.
+- 'For this rest everyone is fined.' Eleonora conveys a sharp footing for Fedya, combining "otdykh" ("rest") and "oshtrafovany" ("fined") so the key meaning lands right away.
+- 'I am docking all of you a day's salary.' Eleonora strikes a brisk attitude without hesitation, linking "lishayu" ("I deprive, dock"), "dnevnoy" ("day, daytime"), and "zarplaty" ("salaries") in one brisk exchange.
+- 'Captain, take this, this is for you now.' Senya chooses a grounded stance straight away, combining "kapitan" ("captain") and "vozmite" ("take") so the key meaning lands right away.
+- 'Right now this is simply necessary for you.' Senya brings a frank manner with Fedya, linking "seychas" ("now") directly with "prosto" ("just"), since Russian drops "is" and "are" in the present.
+- 'Dear friend, well, how was your flight?' Eleonora presses promptly without a pause, putting "dorogoy" ("dear") alongside "drug" ("friend") in a tight, everyday turn of phrase.
+- 'Of course, first rest quietly in the room.' Eleonora picks an easygoing rhythm during the exchange, combining "konechno" ("of course") and "snachala" ("first, at first") so the key meaning lands right away.
+- 'And later we will talk about everything.' Eleonora maintains a resolute angle beside Fedya, linking "potom" ("then"), "pogovorim" ("we'll have a talk"), and "my" ("we") in one brisk exchange.
+- 'I still have to ask you for money.' Eleonora conveys a sharp direction in front of Senya, linking "deneg" ("money"), "prosit" ("to ask, to beg"), and "mne" ("to me") in one brisk exchange.

@@ -17,7 +17,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Шеф | Лев, я тебя умоляю. | Lyova, I beg of you. | #271: Лев, я тебя умоляю | verbatim |
 | 6 | Вика | Я до матча этого не сделал. | I did not even succeed before the match. | #272: Я до матча этого не сделал | verbatim |
 | 7 | Макс | Зачем мне сейчас? | Why would I do it now? | #273: Зачем мне сейчас | verbatim |
-| 8 | Шеф | Вот это правильно, Виктор Петрович. | Now that is the right attitude, Viktor Petrovich. | #275: Вот это правильно, Виктор Петрович | verbatim |
+| 8 | Вика | Вот это правильно, Виктор Петрович. | Now that is the right attitude, Viktor Petrovich. | #275: Вот это правильно, Виктор Петрович | verbatim |
 | 9 | Вика | А, вот и он. | Oh, there he is. | #276: А, вот и он | verbatim |
 | 10 | Макс | Как ты себя чувствуешь? | How are you feeling? | #278: Как ты себя чувствуешь | verbatim |
 | 11 | Вика | Лавров, я бы вам советовала прилечь. | Lavrov, I would advise you to lie back down. | #280: Лавров, я бы вам советовала прилечь | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That football player from yesterday just arrived.' With the kitchen and dish in play, Max keeps this short reply brisk and direct.
-- 'Do not be afraid.' Noting that do not be afraid keeps Barinov's side of the story simple and clear.
-- 'Thank you for warning me.' With the kitchen and conversation in play, Vika keeps this short reply brisk and direct.
-- 'Chef, I hope you are not planning to poison him again?' Asking whether he hopes Barinov is not planning to poison him again puts Barinov right on the defensive.
-- 'Lyova, I beg of you.' Begging of Max is how Barinov lays out the situation for Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I did not even succeed before the match.' Once she did not even succeed before the match, Vika can finally tell Barinov what she means.
-- 'Why would I do it now?' Here asking why he does it now would shows Max looking for the real truth.
-- 'Now that is the right attitude, Viktor Petrovich.' Barinov tells Max that that is the right attitude Viktor Petrovich without dressing it up. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Oh, there he is.' Since there he is, Vika does not waste words on excuses.
-- 'How are you feeling?' Wondering how Barinov feeling is is how Max puts Barinov on the spot.
-- 'Lavrov, I would advise you to lie back down.' Vika reminds Barinov that she would advise Barinov to lie back down before the moment passes. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'All right, yes, let us get you into bed.' Because all right yes let them get Barinov into bed, Vika treats the matter as settled. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Where is your hospital room?' Wondering where Barinov's hospital room is cuts straight through the tension between Max and Barinov.
+- 'That football player from yesterday just arrived.' Max shares a direct stance in the scene, leaning on "tam" ("there") before closing the thought with "futbolist" ("footballer").
+- 'Do not be afraid.' Barinov picks a serious tone for Vika, putting "boysya" ("be afraid") alongside "ne" ("not") in a tight, everyday turn of phrase.
+- 'Thank you for warning me.' Vika projects a resolute stance with Barinov, putting "spasibo" ("thank you") alongside "predupredil" ("warned") in a tight, everyday turn of phrase.
+- 'Chef, I hope you are not planning to poison him again?' Max checks earnestly on the spot, joining "nadeyus" ("hope so") to "sobirayete" ("to collect") so every word pulls its weight.
+- 'Lyova, I beg of you.' Barinov favors a candid stance in their talk, linking "umolyayu" ("I beg"), "lev" ("Lev"), and "ya" ("I") in one brisk exchange.
+- 'I did not even succeed before the match.' Vika adopts a candid footing on the spot, pairing "matcha" ("match, game") with "sdelal" ("did") to get the point across in plain spoken Russian.
+- 'Why would I do it now?' Max inquires decisively to make the point, pairing "zachem" ("what for") with "seychas" ("now") to get the point across in plain spoken Russian.
+- 'Now that is the right attitude, Viktor Petrovich.' Vika picks an honest rhythm with Max, pairing "pravilno" ("right") with "vot" ("there, here") to get the point across in plain spoken Russian.
+- 'Oh, there he is.' Vika presents a sharp direction in front of Barinov, linking "vot" ("there, here") directly with "on" ("he"), since Russian drops "is" and "are" in the present.
+- 'How are you feeling?' Max checks evenly for Vika's benefit, linking "kak" ("how"), "chuvstvuyesh" ("feel"), and "ty" ("you") in one brisk exchange.
+- 'Lavrov, I would advise you to lie back down.' Vika presents a candid direction without hesitation, anchoring the Russian line on "sovetovala" ("to advise, recommend") and "prilech" ("will lie down briefly") without extra filler.
+- 'All right, yes, let us get you into bed.' Vika strikes a firm note toward Max, combining the easygoing tag "ladno" ("okay, fine") with "davay" ("let's") to give the line its natural spoken rhythm.
+- 'Where is your hospital room?' Max probes boldly without hesitation, weaving "gde" ("where") together with "palata" ("hospital room") just the way native speakers do.

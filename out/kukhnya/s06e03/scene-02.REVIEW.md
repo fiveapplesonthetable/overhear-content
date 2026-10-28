@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | У нас перестановка, Дмитрий Владимирович. | We have a set change, Dmitry Vladimirovich. | #24: у нас перестановка, Дмитрий Владимирович | adapted: adapted |
+| 1 | Шеф | У нас перестановка, Дмитрий Владимирович. | We have a set change, Dmitry Vladimirovich. | #24: у нас перестановка, Дмитрий Владимирович | adapted: adapted |
 | 2 | Шеф | Дима, завязывай этот балаган. | Dima, wrap up this circus. | #26: завязывай этот балаган | adapted: adapted |
 | 3 | Нагиев | Витя, ну ты видишь, что творится? | Vitya, well do you see what is going on? | #27: ну, ты видишь, да, что творится? | adapted: adapted |
 | 4 | Нагиев | Иди, видишь, искусство поднимаем. | Go on, you see we are elevating art. | #30: иди, видишь, искусство поднимаем | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We have a set change, Dmitry Vladimirovich.' Because they have a set change Dmitry Vladimirovich, Nagiyev treats the matter as settled. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Dima, wrap up this circus.' With the conversation and inspector in play, Barinov keeps this short reply brisk and direct.
-- 'Vitya, well do you see what is going on?' Here checking whether Barinov sees what is going shows Nagiyev looking for the real truth.
-- 'Go on, you see we are elevating art.' Here telling Barinov to go on Barinov sees they are elevating art sets up the next turn in their exchange.
-- 'And what if a critic comes?' Questioning whether what if a critic comes is how Barinov tests Nagiyev's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Nobody will come, I will post security.' Nagiyev explains that nobody will come he will post security, keeping his voice calm and direct.
-- 'That is it, Elya gave me permission.' Realizing that that is it gave him permission changes how Nagiyev handles the situation.
-- 'Get out of here, do not get in the way.' Getting out of here do not get in the way is how Nagiyev lays out the situation for Barinov.
-- 'And where do you have that in the script?' Asking where Nagiyev has that in the script cuts straight through the tension between Barinov and Nagiyev.
-- 'That is me improvising.' Admitting that that is him improvising shows Nagiyev being honest for a change. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Go on, mind your own business.' Mentioning that Barinov should go on mind Barinov's own business moves the talk in a new direction. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Guys, let's focus!' Saying that they should focus is how Nagiyev takes charge of the moment.
+- 'We have a set change, Dmitry Vladimirovich.' Barinov establishes a direct footing with Nagiyev, leaning on "u nas" ("by us, at our place") and "perestanovka" ("reset, rearrangement") the way natural Russian does.
+- 'Dima, wrap up this circus.' Barinov strikes an unhurried direction in this beat, joining "zavyazyvay" ("wrap up, knock off") to "balagan" ("farce, circus") so every word pulls its weight.
+- 'Vitya, well do you see what is going on?' Nagiyev checks directly during the talk, anchoring the Russian line on "vidish" ("see") and "tvoritsya" ("is going on") without extra filler.
+- 'Go on, you see we are elevating art.' Nagiyev displays a pointed posture in the scene, combining "idi" ("go") and "vidish" ("see") so the key meaning lands right away.
+- 'And what if a critic comes?' Barinov prompts candidly as the beat lands, anchoring the Russian line on "kritik" ("critic") and "pridet" ("will come") without extra filler.
+- 'Nobody will come, I will post security.' Nagiyev sustains a frank footing in their talk, doubling the negative with "ne" ("not") and "pridet" ("will come"), which is standard and required in Russian.
+- 'That is it, Elya gave me permission.' Nagiyev maintains a calm attitude as the scene unfolds, leaning on "razreshila" ("to allow, to permit") before closing the thought with "vse" ("all").
+- 'Get out of here, do not get in the way.' Nagiyev shares a brisk bearing without hesitation, putting "idi" ("go") alongside "otsyuda" ("from here") in a tight, everyday turn of phrase.
+- 'And where do you have that in the script?' Barinov inquires openly in this moment, leaning on "gde" ("where") before closing the thought with "tut" ("here").
+- 'That is me improvising.' Nagiyev brings an earnest tone in their talk, pairing "improviziruyu" ("improvise") with "eto" ("this") to get the point across in plain spoken Russian.
+- 'Go on, mind your own business.' Nagiyev brings a resolute course at this moment, using "davay" (from "davat", "let's") alongside "zanimaysya" ("attend to, deal with") to shape the meaning.
+- 'Guys, let's focus!' Nagiyev displays a lively view as the scene unfolds, building the phrase around "rebyata" ("the boys, the lads") and "davayte" ("let's") for a crisp, natural delivery.

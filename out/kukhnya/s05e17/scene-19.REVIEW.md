@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you asking for trouble again, young fellow?' Checking whether Max asking for trouble again young fellow is how the guest puts Max on the spot.
-- 'I did not ride up here in a freight elevator.' Even though he did not ride up here in a freight elevator, Max keeps a steady face in front of the guest.
-- 'Max, please, let's just leave instead.' Proposing that they just leave instead is how Vika lays out the situation for the guest. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'You are not going anywhere, give birth calmly.' Saying that the guest is not going anywhere give birth calmly is how Max sets the tone with the guest.
-- 'Guys, clear the ward of these citizens!' With the phone and conversation at stake, the guest reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Who wants foam stuffed in their mouth here?' Wondering if who wants foam stuffed in their mouth here shows Max caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Hello, Bunny, where are you giving birth right now?' Questioning whether bunny where are Max giving birth right now is how the guest tests Max's story.
-- 'In what other maternity hospital?' With the call and phone hanging in the air, the guest puts Max on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Wait, what traffic jams, I gave you a flashing light!' Saying that what traffic jams he gave Max a flashing light is how the guest takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Alright, I am coming to you right now, damn!' The guest declares that Alright he is coming to Max right now damn as the tension in the room peaks.
-- 'That is it, stand down, this ward is canceled.' Because that is it stand down this ward is canceled, the guest treats the matter as settled.
-- 'Call the doctor, my wife is giving birth!' By calling the doctor his wife is giving birth, Max raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Are you asking for trouble again, young fellow?' The guest wonders directly to keep things clear, pairing "snova" ("again") with "naryvayeshsya" ("are asking for it") to get the point across in plain spoken Russian.
+- 'I did not ride up here in a freight elevator.' Max chooses a thoughtful attitude at once, pairing "syuda" ("here") with "gruzovom" ("freight") to get the point across in plain spoken Russian.
+- 'Max, please, let's just leave instead.' Vika favors a serious footing in the conversation, joining "davay" ("let's") to "luchshe" ("better") so every word pulls its weight.
+- 'You are not going anywhere, give birth calmly.' Max strikes a wry rhythm across the room, pairing "nikuda" ("nowhere, anywhere") with "poydyosh" ("will you go") to get the point across in plain spoken Russian.
+- 'Guys, clear the ward of these citizens!' The guest establishes a playful manner in the room, putting "rebyata" ("the boys, the lads") alongside "ochistite" ("to clear, to clean") in a tight, everyday turn of phrase.
+- 'Who wants foam stuffed in their mouth here?' Max questions bluntly in the scene, combining "tut" ("here") and "rot" ("mouth") so the key meaning lands right away.
+- 'Hello, Bunny, where are you giving birth right now?' The guest wonders evenly right away, linking "zayka" ("sweetheart"), "gde" ("where"), and "seychas" ("now") in one brisk exchange.
+- 'In what other maternity hospital?' The guest wonders naturally as the talk turns, combining "yeshchyo" ("more, still") and "drugom" ("different, another") so the key meaning lands right away.
+- 'Wait, what traffic jams, I gave you a flashing light!' The guest favors a brisk stance on the spot, weaving "podozhdi" ("wait") together with "probki" ("traffic jam") just the way native speakers do.
+- 'Alright, I am coming to you right now, damn!' The guest maintains a frank attitude in the conversation, pairing "seychas" ("now") with "yedu" ("am driving") so the "-sya" ending carries the action.
+- 'That is it, stand down, this ward is canceled.' The guest brings a thoughtful course beside Max, pairing "otmenyayetsya" ("is canceled") with "otboy" ("stand down") so the "-sya" ending carries the action.
+- 'Call the doctor, my wife is giving birth!' Max adopts a resolute view as they talk, putting "pozovite" ("call") alongside "vracha" ("doctor") in a tight, everyday turn of phrase.

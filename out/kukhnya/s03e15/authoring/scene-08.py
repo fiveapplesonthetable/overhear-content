@@ -7,7 +7,7 @@ SCENE = 8
 TITLE = 'Рецепт кролика и букет для Вики  (The Rabbit Recipe and a Bouquet for Vika)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'vika': 'Вика'}
+LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
 INTRO = 'When Nagiyev names baked rabbit with almond sauce, rosemary, and truffles, Chef Barinov says it is impossible to learn by tonight—until Nagiyev threatens to fire him and then offers a bonus! Meanwhile, the staff gives Vika birthday flowers. Listen first.'
@@ -16,30 +16,30 @@ TRANSITION = "Alright, let's hear the entire conversation one more time from sta
 OUTRO = "Seeing Vika holding a bouquet of flowers, jealous Max jumps to the wrong conclusion and confronts her in the hallway. Let's hear Scene Nine. See you next time!"
 CLOSING = ('barinov', 'До завтра!')
 STORY = [
-    ('max', 'Ты поспорил, что за вечер научишься готовить это блюдо?', 'You bet that in one evening you would learn to cook this dish?', [(114, 'на вечер')], 'adapted'),
-    ('max', 'Запечённый кролик с миндальным соусом, розмарином и трюфелями.', 'Baked rabbit with almond sauce, rosemary, and truffles.', [(115, 'Запеченный кролик'), (116, 'С миндальным соусом, розмарином и трюфелями')], 'adapted'),
-    ('max', 'Я из этого всего только слово кролик знаю!', 'Out of all those words, I only know the word rabbit!', [(117, 'Я из этого всего только'), (117, 'кролик знаю')], 'adapted'),
+    ('nagiyev', 'Ты поспорил, что за вечер научишься готовить это блюдо?', 'You bet that in one evening you would learn to cook this dish?', [(114, 'на вечер')], 'adapted'),
+    ('nagiyev', 'Запечённый кролик с миндальным соусом, розмарином и трюфелями.', 'Baked rabbit with almond sauce, rosemary, and truffles.', [(115, 'Запеченный кролик'), (116, 'С миндальным соусом, розмарином и трюфелями')], 'adapted'),
+    ('nagiyev', 'Я из этого всего только слово кролик знаю!', 'Out of all those words, I only know the word rabbit!', [(117, 'Я из этого всего только'), (117, 'кролик знаю')], 'adapted'),
     ('barinov', 'Дима, до вечера это совершенно невозможно!', 'Dima, before evening that is completely impossible!', [(118, 'Дим, до вечера это совершенно невозможно')], 'adapted'),
-    ('max', 'А если я тебя прямо сейчас уволю?', 'And what if I fire you right now?', [(119, 'А я тебя уволю')], 'adapted'),
+    ('nagiyev', 'А если я тебя прямо сейчас уволю?', 'And what if I fire you right now?', [(119, 'А я тебя уволю')], 'adapted'),
     ('barinov', 'Всё равно до вечера это невозможно.', 'Even so, before evening it is impossible.', [(119, 'Невозможно')], 'adapted'),
-    ('max', 'Ладно, тогда я тебе хорошую премию дам!', 'Fine, then I will give you a good bonus!', [(120, 'Я тебе премию дам')], 'adapted'),
+    ('nagiyev', 'Ладно, тогда я тебе хорошую премию дам!', 'Fine, then I will give you a good bonus!', [(120, 'Я тебе премию дам')], 'adapted'),
     ('barinov', 'Сеня, где кролик, давай быстро кролика неси!', 'Senya, where is the rabbit, bring the rabbit quickly!', [(121, 'Сеня, где кролик'), (122, 'Давай кролика неси')], 'adapted'),
-    ('max', 'Виктория Сергеевна, примите от нас поздравления с днём рождения!', 'Viktoria Sergeyevna, accept our birthday wishes!', [(123, 'И примите от нас поздравления с днем рождения')], 'adapted'),
-    ('max', 'И примите от коллектива этот красивый букет.', 'And accept this beautiful bouquet from the team.', [(124, 'И этот букет')], 'adapted'),
+    ('nagiyev', 'Виктория Сергеевна, примите от нас поздравления с днём рождения!', 'Viktoria Sergeyevna, accept our birthday wishes!', [(123, 'И примите от нас поздравления с днем рождения')], 'adapted'),
+    ('nagiyev', 'И примите от коллектива этот красивый букет.', 'And accept this beautiful bouquet from the team.', [(124, 'И этот букет')], 'adapted'),
     ('vika', 'Большое спасибо вам всем, друзья!', 'Thank you all very much, friends!', [(125, 'Спасибо')], 'adapted'),
-    ('max', 'Пусть сегодня вы от нас уходите, мы будем помнить вас.', 'Even though you are leaving us today, we will remember you.', [(125, 'Пусть сегодня вы от нас уходите'), (126, 'будем помнить вас')], 'adapted'),
+    ('nagiyev', 'Пусть сегодня вы от нас уходите, мы будем помнить вас.', 'Even though you are leaving us today, we will remember you.', [(125, 'Пусть сегодня вы от нас уходите'), (126, 'будем помнить вас')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'You bet that in one evening you would learn to cook this dish?\' Questioning whether Barinov bets that in one evening Barinov would learn to cook this dish is how Max tests Barinov\'s story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (1, None, "'Baked rabbit with almond sauce, rosemary, and truffles.' With the point and recipe in play, Max keeps this short reply brisk and direct."),
-    (2, None, "'Out of all those words, I only know the word rabbit!' Declaring that out of all those words he only knows the word rabbit brings Max's temper right to the surface."),
-    (3, None, '\'Dima, before evening that is completely impossible!\' Barinov insists that before evening that is completely impossible, leaving Max no room to argue. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (4, None, '\'And what if I fire you right now?\' Wondering if what if he fires Barinov right now shows Max caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (5, None, "'Even so, before evening it is impossible.' Saying that even so before evening it is impossible is how Barinov sets the tone with Max."),
-    (6, None, '\'Fine, then I will give you a good bonus!\' Because fine then he will give Barinov a good bonus, Max does not bother softening the blow for Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (7, None, '\'Senya, where is the rabbit, bring the rabbit quickly!\' Insisting that where is the rabbit bring the rabbit quickly shows Barinov is not backing down. Starting with "davay" is the everyday Russian way to say "come on, let us do this".'),
-    (8, None, "'Viktoria Sergeyevna, accept our birthday wishes!' Saying that Barinov should accept their birthday wishes is how Max takes charge of the moment."),
-    (9, None, "'And accept this beautiful bouquet from the team.' By telling Barinov to accept this beautiful bouquet from the team, Max keeps his side of the story grounded."),
-    (10, None, '\'Thank you all very much, friends!\' Over the work and the recipe, Vika lets her real feelings show. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.'),
-    (11, None, "'Even though you are leaving us today, we will remember you.' Max reminds Barinov that even though Barinov is leaving them today they will remember Barinov before the moment passes."),
+    (0, None, '\'You bet that in one evening you would learn to cook this dish?\' Nagiyev inquires sharply in front of Barinov, joining "posporil" ("to make a bet") to "vecher" ("evening") so every word pulls its weight.'),
+    (1, None, '\'Baked rabbit with almond sauce, rosemary, and truffles.\' Nagiyev brings a wry attitude as they talk, combining "zapechyonnyy" ("roasted, baked") and "krolik" ("rabbit") so the key meaning lands right away.'),
+    (2, None, '\'Out of all those words, I only know the word rabbit!\' Nagiyev keeps a measured view right away, linking "tolko" ("only"), "slovo" ("word"), and "krolik" ("rabbit") in one brisk exchange.'),
+    (3, None, '\'Dima, before evening that is completely impossible!\' Barinov shares a serious manner beside Vika, anchoring the Russian line on "vechera" ("evening") and "sovershenno" ("quite, completely") without extra filler.'),
+    (4, None, '\'And what if I fire you right now?\' Nagiyev quizzes directly as they speak, leaning on "pryamo" ("right, just") before closing the thought with "seychas" ("now").'),
+    (5, None, '\'Even so, before evening it is impossible.\' Barinov keeps a candid note on the spot, combining "ravno" ("the same") and "vechera" ("evening") so the key meaning lands right away.'),
+    (6, None, '\'Fine, then I will give you a good bonus!\' Nagiyev sets a measured line during the exchange, pairing "togda" ("back then") with "khoroshuyu" ("good") to get the point across in plain spoken Russian.'),
+    (7, None, '\'Senya, where is the rabbit, bring the rabbit quickly!\' Barinov strikes an emphatic rhythm in front of Vika, linking "gde" ("where"), "krolik" ("rabbit"), and "davay" ("let\'s") in one brisk exchange.'),
+    (8, None, '\'Viktoria Sergeyevna, accept our birthday wishes!\' Nagiyev adopts a playful note across the room, anchoring the Russian line on "primite" ("accept") and "pozdravleniya" ("congratulations") without extra filler.'),
+    (9, None, '\'And accept this beautiful bouquet from the team.\' Nagiyev favors an honest view in the conversation, building the phrase around "primite" ("accept") and "kollektiva" ("collective") for a crisp, natural delivery.'),
+    (10, None, '\'Thank you all very much, friends!\' Vika brings a frank note at this moment, leaning on "bolshoye" ("big, very much") before closing the thought with "spasibo" ("thank you").'),
+    (11, None, '\'Even though you are leaving us today, we will remember you.\' Nagiyev picks a resolute mood as the scene unfolds, linking "segodnya" ("today"), "ukhodite" ("leave, go away"), and "budem" ("will") in one brisk exchange.'),
 ]

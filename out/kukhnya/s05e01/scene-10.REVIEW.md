@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What did you do? They will sue us.' Here asking what Barinov does shows Mikhail looking for the real truth.
-- 'Did someone not appreciate your great move?' By checking whether someone not appreciate Mikhail's great move, Barinov presses Mikhail for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Very strange.' With the room and exchange in play, Barinov keeps this short reply brisk and direct.
-- 'We lost so much money today.' Realizing that they lost so much money today changes how Senya handles the situation.
-- 'Listen, maybe we should order from Timur?' Wondering if maybe they should order from Timur shows Senya caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Timur, hi, this is Senya.' Even though this is Senya, Senya keeps a steady face in front of Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Can you get us some cockroaches?' Checking whether Barinov gets them some cockroaches cuts straight through the tension between Senya and Barinov.
-- 'Yes, we will pay you well.' Saying that they will pay Barinov well is how Senya sets the tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Give us five of them right away.' Even though Barinov should give them five of them right away, Senya keeps a steady face in front of Barinov. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'I told you: stay away!' Saying that he told Mikhail stays away is how Barinov takes charge of the moment.
-- 'Who are you at all?' Asking who Barinov at all is cuts straight through the tension between Mikhail and Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Let go of him right now!' Here letting go of him right now lets Mikhail's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Did you give him your phone number?' Here checking whether Mikhail gives him Mikhail's phone number shows Barinov looking for the real truth.
-- 'Are you satisfied now?' By asking whether Mikhail satisfied now, Barinov presses Mikhail for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'What did you do? They will sue us.' Mikhail probes candidly to Barinov here, putting "ustroil" ("caused") alongside "zasudyat" ("they will sue") in a tight, everyday turn of phrase.
+- 'Did someone not appreciate your great move?' Barinov quizzes evenly right away, linking "otsenil" ("to appreciate"), "otlichnyy" ("excellent, great"), and "khod" ("course, progress") in one brisk exchange.
+- 'Very strange.' Barinov sets a candid bearing for Mikhail, pairing "ochen" ("very much") with "stranno" ("strange") to get the point across in plain spoken Russian.
+- 'We lost so much money today.' Senya projects a brisk style beside Mikhail, putting "stolko" ("so many") alongside "deneg" ("money") in a tight, everyday turn of phrase.
+- 'Listen, maybe we should order from Timur?' Senya presses evenly across the room, putting "slushay" ("listen") alongside "mozhet" ("can") in a tight, everyday turn of phrase.
+- 'Timur, hi, this is Senya.' Senya takes a direct angle as they talk, combining "timur" ("Timur") and "privet" ("hi") so the key meaning lands right away.
+- 'Can you get us some cockroaches?' Senya tests openly toward Barinov here, putting "mozhesh" ("can") alongside "tarakanov" ("cockroaches") in a tight, everyday turn of phrase.
+- 'Yes, we will pay you well.' Senya keeps a clear tempo as the scene unfolds, putting "khorosho" ("good, fine") alongside "zaplatim" ("will pay") in a tight, everyday turn of phrase.
+- 'Give us five of them right away.' Senya picks a thoughtful style in the scene, building the phrase around "davay" ("let's") and "srazu" ("at once") for a crisp, natural delivery.
+- 'I told you: stay away!' Barinov brings a playful approach as they talk, putting "govoril" ("said, were saying") alongside "lez" ("poke nose, meddle") in a tight, everyday turn of phrase.
+- 'Who are you at all?' Mikhail presses lightly as the beat lands, combining the conversational booster "voobshche" ("in general, overall") with "ty" ("you") to give the line its natural spoken rhythm.
+- 'Let go of him right now!' Mikhail keeps a grounded rhythm as the scene unfolds, combining "otpusti" ("let go, release") and "pryamo" ("right, just") so the key meaning lands right away.
+- 'Did you give him your phone number?' Barinov challenges directly as they speak, using "dala" (from "dat", "gave") alongside "telefon" ("phone") to shape the meaning.
+- 'Are you satisfied now?' Barinov checks dryly right away, pairing "teper" ("now") with "dovolen" ("pleased") to get the point across in plain spoken Russian.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is my tender beef tenderloin with white truffle!' Saying that here is his tender beef tenderloin with white truffle is how Nagiyev takes charge of the moment.
-- 'Good evening, what lovely flowers on your table!' With the work and secret at stake, Eleonora reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Have a seat with me, maybe we should drink some of my good wine?' Here asking whether a seat with him maybe they should drink some of his good wine shows Nagiyev looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'With great pleasure, I did not expect this from you!' Insisting that with great pleasure she did not expect this from Nagiyev shows Eleonora is not backing down.
-- 'I did not think that you were capable of courting so beautifully.' Mentioning that she did not think that Nagiyev was capable of courting so beautifully moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Big deal, I just treated you to wine and white truffle!' Over the dinner and the dish, Nagiyev lets his real feelings show. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Do not be modest, such persistence and such rare patience!' Eleonora insists that do not be modest such persistence and such rare patience, leaving Nagiyev no room to argue.
-- 'Let's drink to you, my mysterious and bold romantic!' Saying that they should drink to Nagiyev her mysterious and bold romantic is how Eleonora takes charge of the moment. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'This wonderful evening completely lives up to all my expectations.' Eleonora mentions that this wonderful evening completely lives up to all her expectations so Nagiyev sees what is at stake.
-- 'It seems it completely lives up to my bold expectations too!' Because it seems it completely lives up to his bold expectations, Nagiyev does not bother softening the blow for Eleonora.
-- 'Let's continue our romantic dinner up in my hotel room?' Here continuing their romantic dinner up in her hotel room together shows Eleonora looking for the real truth. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Gulya, bring everything up there and silverware for two!' Declaring that Nagiyev should bring everything up there and silverware for two brings Eleonora's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Here is my tender beef tenderloin with white truffle!' Nagiyev displays a wry tempo in this beat, using "nezhnaya" (from "nezhnyy", "tender") alongside "govyazhya" ("beef") to shape the meaning.
+- 'Good evening, what lovely flowers on your table!' Eleonora projects an emphatic manner across the room, joining "dobryy" ("good") to "vecher" ("evening") so every word pulls its weight.
+- 'Have a seat with me, maybe we should drink some of my good wine?' Nagiyev prompts dryly beside Eleonora, joining "prisazhivaysya" ("to take a seat") to "mozhet" ("can") so every word pulls its weight.
+- 'With great pleasure, I did not expect this from you!' Eleonora establishes a frank angle as they talk, putting "bolshim" ("great") alongside "udovolstviyem" ("pleasure") in a tight, everyday turn of phrase.
+- 'I did not think that you were capable of courting so beautifully.' Eleonora holds a playful bearing in the conversation, weaving "dumala" ("thought") together with "sposoben" ("capable") just the way native speakers do.
+- 'Big deal, I just treated you to wine and white truffle!' Nagiyev strikes a resolute course on the spot, combining the softening word "prosto" ("simply, just") with "podumayesh" ("big deal, so what") to give the line its natural spoken rhythm.
+- 'Do not be modest, such persistence and such rare patience!' Eleonora chooses an honest position beside Nagiyev, anchoring the Russian line on "skromnichay" ("be modest") and "uporstvo" ("persistence") without extra filler.
+- 'Let's drink to you, my mysterious and bold romantic!' Eleonora holds a lively posture toward Nagiyev, joining "vypyem" ("will drink") to "tainstvennyy" ("mysterious") so every word pulls its weight.
+- 'This wonderful evening completely lives up to all my expectations.' Eleonora holds a serious bearing as the scene unfolds, joining "prekrasnyy" ("beautiful") to "vecher" ("evening") so every word pulls its weight.
+- 'It seems it completely lives up to my bold expectations too!' Nagiyev projects a steady tone in the conversation, building the phrase around "kazhetsya" ("it seems, I think") and "smelyye" ("bold") for a crisp, natural delivery.
+- 'Let's continue our romantic dinner up in my hotel room?' Eleonora inquires naturally for Nagiyev's benefit, joining "davay" ("let's") to "prodolzhim" ("will continue") so every word pulls its weight.
+- 'Gulya, bring everything up there and silverware for two!' Eleonora adopts a serious tempo across the room, combining "prinesi" ("bring") and "tuda" ("there") so the key meaning lands right away.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to solve our delicate problem.' Needing to solve their delicate problem is how Eleonora lays out the situation for Denis. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'I need to talk to Katya.' Even though he needs to talk to Katya, Denis keeps a steady face in front of Eleonora. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Have you completely lost your mind?' Around the money and point, Eleonora wants to know where Denis really stands.
-- 'Alright, good, I understood.' Mentioning that Alright good she understood moves the talk in a new direction.
-- 'And I kiss you too.' Explaining that she kisses Denis lays the cards on the table for Denis. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Katya is leaving for another city today.' Because Katya is leaving for another city today, Eleonora treats the matter as settled.
-- 'You will have to disappear from the hotel.' Mentioning that Denis will have to disappear from the hotel moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And even better, from this city.' Around the hotel and office, Eleonora sets a calm, everyday tone with Denis. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I am giving you twenty thousand.' Adding that she is giving Denis twenty thousand fills in the missing piece for Denis.
-- 'Will that amount suit you?' Here asking whether that amount suit Denis shows Eleonora looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'No, I am going back to work.' Admitting that he is going back to work shows Denis being honest for a change.
-- 'Then do not be in a hurry.' Realizing that do not be in a hurry changes how Eleonora handles the situation.
-- 'As of today, you are fired.' Noting that as of today Denis is fired keeps Eleonora's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'We need to solve our delicate problem.' Eleonora adopts an honest direction straight away, building the phrase around "nuzhno" ("necessary") and "reshit" ("to resolve") for a crisp, natural delivery.
+- 'I need to talk to Katya.' Denis displays a clear style in the scene, putting "nado" ("it is necessary") alongside "pogovorit" ("to talk") in a tight, everyday turn of phrase.
+- 'Have you completely lost your mind?' Eleonora inquires decisively in their exchange, linking "sovsem" ("at all"), "uma" ("mind"), and "soshyol" ("gone") in one brisk exchange.
+- 'Alright, good, I understood.' Eleonora keeps a pointed tack across the room, joining "khorosho" ("good, fine") to "ponyala" ("understood") so every word pulls its weight.
+- 'And I kiss you too.' Eleonora holds a firm position during the exchange, building the phrase around "tozhe" ("too") and "tseluyu" ("kisses") for a crisp, natural delivery.
+- 'Katya is leaving for another city today.' Eleonora projects a serious position in this beat, pairing "segodnya" ("today") with "uyezzhayet" ("is leaving") to get the point across in plain spoken Russian.
+- 'You will have to disappear from the hotel.' Eleonora shares an unhurried position in the scene, weaving "dolzhen" ("has to, must") together with "budesh" ("will") just the way native speakers do.
+- 'And even better, from this city.' Eleonora brings a warm bearing without hesitation, joining "yeshchyo" ("more, still") to "luchshe" ("better") so every word pulls its weight.
+- 'I am giving you twenty thousand.' Eleonora presents a playful course during the exchange, combining "dayu" ("give") and "tysyach" ("thousand") so the key meaning lands right away.
+- 'Will that amount suit you?' Eleonora tests evenly to Denis here, putting "summa" ("sum") alongside "ustroit" ("to arrange") in a tight, everyday turn of phrase.
+- 'No, I am going back to work.' Denis picks a warm note as the scene unfolds, putting "poydu" ("go") alongside "rabotat" ("to work") in a tight, everyday turn of phrase.
+- 'Then do not be in a hurry.' Eleonora adopts a candid stance in the conversation, combining "togda" ("back then") and "nikuda" ("nowhere, anywhere") so the key meaning lands right away.
+- 'As of today, you are fired.' Eleonora favors an earnest position as they talk, joining "dnya" ("day") to "uvolen" ("fired") so every word pulls its weight.

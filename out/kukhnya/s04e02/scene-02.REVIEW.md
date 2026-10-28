@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will take away your sorrow.' Once he will take away Max's sorrow, Denis can finally tell Max what he means.
-- 'Den really took after our grandfather.' Adding that someone really took after their grandfather fills in the missing piece for Denis. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'And our grandfather was the best accordionist in the village.' Max tells Denis that their grandfather was the best accordionist in the village without dressing it up.
-- 'After your grandfather? How interesting.' With the boss and shift hanging in the air, Vika puts Denis on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And what brought you to Moscow?' Wondering if what brought Denis to Moscow shows Vika caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Creative differences with management.' Around the table and conversation, Denis sets a calm, everyday tone with Max.
-- 'Wait, who did you come here with?' By asking who Max comes here, Denis presses Max for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'With my husband. Wait a moment, please.' Between the table and the truth, Vika gives Denis a quick, grounded response.
-- 'Maybe we shouldn't do this, right?' Asking whether maybe they should not do this right puts Max right on the defensive.
-- 'I will tell my husband that everything happened.' Claiming that she will tell her husband that everything happened sounds confident, even if Denis has doubts.
-- 'Is that clear?' By checking whether that clear, Vika presses Denis for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What is going on here?' Wondering what going on here is is how Max puts Denis on the spot.
+- 'I will take away your sorrow.' Denis shares a frank tempo in the scene, combining "vozmu" ("will get") and "pechal" ("sorrow") so the key meaning lands right away.
+- 'Den really took after our grandfather.' Max sustains a direct note beside Vika, putting "voobshche" ("at all") alongside "deda" ("grandfathers") in a tight, everyday turn of phrase.
+- 'And our grandfather was the best accordionist in the village.' Max conveys a candid approach in the scene, building the phrase around "ded" ("grandfather") and "byl" ("was") for a crisp, natural delivery.
+- 'After your grandfather? How interesting.' Vika prompts warmly right away, weaving "deda" ("grandfathers") together with "kak" ("how") just the way native speakers do.
+- 'And what brought you to Moscow?' Vika presses sharply to make the point, linking "privelo" ("to bring, to lead"), "chto" ("what"), and "tebya" ("you") in one brisk exchange.
+- 'Creative differences with management.' Denis picks a pointed tempo in the room, anchoring the Russian line on "tvorcheskiye" ("creative") and "raznoglasiya" ("disagreements") without extra filler.
+- 'Wait, who did you come here with?' Denis queries steadily toward Max here, combining "ty" ("you") and "kem" ("as what") so the key meaning lands right away.
+- 'With my husband. Wait a moment, please.' Vika keeps a lively view for Max, weaving "muzhem" ("husband") together with "podozhdi" ("wait") just the way native speakers do.
+- 'Maybe we shouldn't do this, right?' Denis challenges warmly to make the point, pairing "mozhet" ("can") with "nado" ("it is necessary") to get the point across in plain spoken Russian.
+- 'I will tell my husband that everything happened.' Vika brings a direct attitude as they talk, pairing "skazhu" ("I'll tell") with "muzhu" ("husband") to get the point across in plain spoken Russian.
+- 'Is that clear?' Vika quizzes honestly on the spot, letting the single Russian word "yasno" ("clear, got it") carry the entire reaction on its own.
+- 'What is going on here?' Max checks dryly during the talk, weaving "dela" ("things, affairs") together with "eto" ("this") just the way native speakers do.

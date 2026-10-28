@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing here?' By asking what the guest doing here is, Barinov presses the guest for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'My daughter is getting married.' Admitting that his daughter is getting married shows the guest being honest for a change.
-- 'My presence is more than logical.' Saying that his presence is more than logical is how the guest sets the tone with Barinov.
-- 'She is not getting married in my office.' Once she is not getting married in his office, Barinov can finally tell the guest what he means.
-- 'Yes, of course.' Over the banquet and the conversation, the guest answers Barinov without a second thought.
-- 'Do you have some business with me?' Here checking whether the guest has some business with him shows Barinov looking for the real truth. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Or did you simply miss me?' By asking whether the guest simply miss him, Barinov presses the guest for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'In short, what do you need?' Asking whether in short what do the guest needs puts the guest right on the defensive.
-- 'I do not know whether you remember or not.' Because he does not know whether Barinov remembers or not, the guest treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'In our family there is a tradition.' Because in their family there is a tradition, the guest treats the matter as settled.
-- 'To make cookies from the family recipe.' Around the shift and family, the guest sets a calm, everyday tone with Barinov.
-- 'And I want the chefs to bake these cookies.' Realizing that he wants the chefs to bake these cookies changes how the guest handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'What are you doing here?' Barinov inquires honestly beside the guest, building the phrase around "tut" ("here") and "delayete" ("are doing") for a crisp, natural delivery.
+- 'My daughter is getting married.' The guest takes a resolute footing in front of Barinov, joining "doch" ("daughter") to "vykhodit" ("goes out") so every word pulls its weight.
+- 'My presence is more than logical.' The guest maintains a frank position straight away, linking "prisutstviye" ("presence") directly with "boleye" ("more"), since Russian drops "is" and "are" in the present.
+- 'She is not getting married in my office.' Barinov presents a calm angle right away, linking "zamuzh" ("in marriage"), "vykhodit" ("goes out"), and "kabinete" ("office") in one brisk exchange.
+- 'Yes, of course.' The guest maintains a lively style without hesitation, putting "konechno" ("of course") alongside "da" ("yes") in a tight, everyday turn of phrase.
+- 'Do you have some business with me?' Barinov checks lightly from the start, weaving "delo" ("matter") together with "vas" ("you") just the way native speakers do.
+- 'Or did you simply miss me?' Barinov inquires decisively in the room, joining "prosto" ("just") to "soskuchilis" ("missed") so every word pulls its weight.
+- 'In short, what do you need?' Barinov quizzes firmly toward the guest here, weaving "koroche" ("long story short") together with "nuzhno" ("necessary") just the way native speakers do.
+- 'I do not know whether you remember or not.' The guest chooses a pointed angle at this moment, combining "znayu" ("know") and "pomnish" ("do you remember") so the key meaning lands right away.
+- 'In our family there is a tradition.' The guest favors an honest style at this moment, linking "semye" ("family"), "yest" ("there is"), and "traditsiya" ("tradition") in one brisk exchange.
+- 'To make cookies from the family recipe.' The guest projects an earnest angle in their talk, leaning on "delat" ("do") before closing the thought with "pechenye" ("cookies, pastry").
+- 'And I want the chefs to bake these cookies.' The guest sustains a steady course toward Barinov, building the phrase around "khochu" ("want") and "povara" ("cook") for a crisp, natural delivery.

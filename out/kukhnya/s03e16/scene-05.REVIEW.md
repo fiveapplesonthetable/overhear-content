@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, you should have rested at home for another week.' Explaining that Katya should have rested at home for another week lays the cards on the table for Katya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No, Dad, I am already going crazy without work!' Declaring that dad she is already going crazy without work brings Katya's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Chef, look, we think that Grandpa Kirill is taking revenge on us.' Claiming that they think that Grandpa Kirill is taking revenge on them sounds confident, even if Barinov has doubts.
-- 'Come with me, I will show you something mystical too.' Telling Katya to come with him he will show Katya something mystical moves the conversation forward without extra drama. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'That is the ghost of your bonus, it just flew away!' Barinov declares that that is the ghost of Katya's bonus it just flew away as the tension in the room peaks. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'There are tons of orders, and nobody is in the kitchen!' Because there are tons of orders and nobody is in the kitchen, Barinov does not bother softening the blow for Katya.
-- 'And what is this dish, this is not on the menu?' Here wondering what this dish this is not on the menu is shows Barinov looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Chef, I finally invented my signature dish!' Over the work and the hospital, Max lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'In here are black caviar, truffles, beef, and saffron.' Admitting that in here are black caviar truffles beef and saffron shows Max being honest for a change.
-- 'My God, this is the most expensive mess in my life!' Barinov insists that his this is the most expensive mess in his life, leaving Katya no room to argue. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I am deducting all of this from your paycheck today!' Being deducting all of this from Katya's paycheck today shows Barinov is done holding back. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I forbid you to touch expensive ingredients, go peel potatoes!' Forbidding Katya to touch expensive ingredients go peel potatoes shows Barinov is done holding back.
+- 'Katya, you should have rested at home for another week.' Barinov maintains a frank line right away, leaning on "lezhala" ("to lie, to rest") before closing the thought with "doma" ("at home").
+- 'No, Dad, I am already going crazy without work!' Katya maintains a firm line in front of Max, weaving "papa" ("Dad") together with "uzhe" ("already, now") just the way native speakers do.
+- 'Chef, look, we think that Grandpa Kirill is taking revenge on us.' Max favors an honest stance at this moment, linking "smotrite" ("look"), "dumayem" ("to think"), and "ded" ("grandfather") in one brisk exchange.
+- 'Come with me, I will show you something mystical too.' Barinov presents a natural bearing in their talk, pairing "poydyomte" ("come on, let's go") with "tozhe" ("too") to get the point across in plain spoken Russian.
+- 'That is the ghost of your bonus, it just flew away!' Barinov adopts an easygoing direction with Katya, linking "prizrak" ("ghost, phantom"), "premii" ("bonus, prize"), and "tolko" ("only") in one brisk exchange.
+- 'There are tons of orders, and nobody is in the kitchen!' Barinov shows a calm direction in this beat, putting "zakazov" ("orders") alongside "polno" ("plenty, full of") in a tight, everyday turn of phrase.
+- 'And what is this dish, this is not on the menu?' Barinov presses firmly at this point, linking "blyudo" ("dish") directly with "menyu" ("menu"), since Russian drops "is" and "are" in the present.
+- 'Chef, I finally invented my signature dish!' Max takes a warm posture on the spot, linking "nakonets" ("at last, finally"), "pridumal" ("came up with"), and "firmennoye" ("signature, specialty") in one brisk exchange.
+- 'In here are black caviar, truffles, beef, and saffron.' Max presents a frank stance as the scene unfolds, anchoring the Russian line on "zdes" ("here") and "chyornaya" ("black") without extra filler.
+- 'My God, this is the most expensive mess in my life!' Barinov displays a candid position at this moment, weaving "bozhe" ("good lord, God") together with "samoye" ("the most") just the way native speakers do.
+- 'I am deducting all of this from your paycheck today!' Barinov holds a brisk note in the conversation, building the phrase around "segodnya" ("today") and "vychitayu" ("deduct") for a crisp, natural delivery.
+- 'I forbid you to touch expensive ingredients, go peel potatoes!' Barinov presents a pointed position in front of Max, leaning on "zapreshchayu" ("forbid") before closing the thought with "prikasatsya" ("to touch").

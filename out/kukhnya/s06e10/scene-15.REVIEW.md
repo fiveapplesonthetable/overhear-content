@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, Sveta and I want to drink to you.' Realizing that Sveta and he wants to drink to Katya changes how Denis handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'We wish you strong health and great love.' Wishing Katya strong health and great love is how Denis lays out the situation for Katya.
-- 'Here take this, this gift is from Sveta and me.' Even though here take this this gift is from Sveta and him, Denis keeps a steady face in front of Katya.
-- 'Senya, accept congratulations from Nikita and me too.' Admitting that Denis should accept congratulations from Nikita shows Katya being honest for a change.
-- 'Hand over the envelope, take our joint gift.' Handing over the envelope take their joint gift is how Katya lays out the situation for Denis.
-- 'Thank you, friends, let us drink to my health!' Insisting that friends let them drink to his health shows Senya is not backing down. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Listen, it seems she is not very jealous of me.' Adding that it seems she is not very jealous of him fills in the missing piece for Katya.
-- 'Sveta, please come closer and hug me.' Saying that Katya should come closer and hug him is how Denis sets the tone with Katya.
-- 'Tell me honestly, does this mean something to you?' Asking whether tell her honestly does this mean something to Denis puts Denis right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'For me this means nothing at all.' Mentioning that for her this means nothing at all moves the talk in a new direction. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'I will better go to the bar and drink some more wine.' Saying that she will better go to the bar and drink some more wine is how Katya sets the tone with Denis.
-- 'Raise your glasses, the party continues at the bar counter!' By raising Denis's glasses the party continues at the bar counter, Senya raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Senya, Sveta and I want to drink to you.' Denis sustains a serious view at this moment, weaving "khotim" ("want") together with "vypit" ("to drink") just the way native speakers do.
+- 'We wish you strong health and great love.' Denis projects a serious tone in the conversation, weaving "zhelayem" ("to wish") together with "krepkogo" ("strong") just the way native speakers do.
+- 'Here take this, this gift is from Sveta and me.' Denis chooses an honest tone during the exchange, combining "derzhi" ("here you go") and "podarok" ("gift, voucher") so the key meaning lands right away.
+- 'Senya, accept congratulations from Nikita and me too.' Katya sustains a resolute tempo with Senya, putting "tozhe" ("too") alongside "primi" ("take, accept") in a tight, everyday turn of phrase.
+- 'Hand over the envelope, take our joint gift.' Katya strikes a frank mood at this moment, weaving "peredavay" ("hand over") together with "konvert" ("the envelope") just the way native speakers do.
+- 'Thank you, friends, let us drink to my health!' Senya presents a grounded direction with Katya, combining the polite invitation "davayte" ("let us") with "spasibo" ("thank you") to give the line its natural spoken rhythm.
+- 'Listen, it seems she is not very jealous of me.' Denis displays a measured style at this moment, joining "slushay" ("listen") to "kazhetsya" ("it seems, I think") so every word pulls its weight.
+- 'Sveta, please come closer and hug me.' Denis favors a lively tack in the scene, joining "sveta" ("electricity") to "podoydi" ("approach, go up") so every word pulls its weight.
+- 'Tell me honestly, does this mean something to you?' Katya queries pointedly for Denis's benefit, linking "skazhi" ("say"), "chestno" ("honestly"), and "znachit" ("then, so") in one brisk exchange.
+- 'For me this means nothing at all.' Katya shows a calm direction right away, leaning on "sovershenno" ("quite, completely") before closing the thought with "znachit" ("then, so").
+- 'I will better go to the bar and drink some more wine.' Katya brings a frank course at this moment, leaning on "poydu" ("go") before closing the thought with "luchshe" ("better").
+- 'Raise your glasses, the party continues at the bar counter!' Senya presents a candid manner at once, anchoring the Russian line on "podnimayem" ("to raise") and "bokaly" ("glasses") without extra filler.

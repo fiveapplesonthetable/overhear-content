@@ -10,10 +10,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Нагиев хочет подарить Вике эту тачку? | Nagiyev wants to give Vika this car as a gift? | #292: Нагиев хочет подарить Вике эту тачку | adapted: adapted |
-| 2 | Костя | А если бы он мне такую подарил? | And what if he gave me one like that? | #293: если бы он мне такую подарил | adapted: adapted |
+| 1 | Макс | Нагиев хочет подарить Вике эту тачку? | Nagiyev wants to give Vika this car as a gift? | #292: Нагиев хочет подарить Вике эту тачку | adapted: adapted |
+| 2 | Нагиев | А если бы он мне такую подарил? | And what if he gave me one like that? | #293: если бы он мне такую подарил | adapted: adapted |
 | 3 | Макс | Ну пусть он только попробует. | Well let him just try. | #294: Пусть попробует | adapted: adapted |
-| 4 | Костя | Ты что, угнать её сейчас хочешь? | What, do you want to steal it right now? | #295: Ты что, угнать ее хочешь | adapted: adapted |
+| 4 | Нагиев | Ты что, угнать её сейчас хочешь? | What, do you want to steal it right now? | #295: Ты что, угнать ее хочешь | adapted: adapted |
 | 5 | Макс | Просто переставлю её тихо куда-нибудь. | I will simply move it quietly somewhere. | #295: Просто переставлю ее куда-нибудь | adapted: adapted |
 | 6 | Макс | Пусть он теперь побегает и поищет. | Let him run around and look for it now. | #296: поищет | adapted: adapted |
 | 7 | Шеф | Алло, Катя, я принимаю твои условия. | Hello, Katya, I accept your terms. | #300: Катя, я принимаю твои условия | adapted: adapted |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nagiyev wants to give Vika this car as a gift?' Wondering if Nagiyev wants to give Vika this car as a gift shows Kostya caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And what if he gave me one like that?' Questioning whether what if he gave him one like is how Kostya tests Barinov's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well let him just try.' Letting him just try is how Max lays out the situation for Barinov.
-- 'What, do you want to steal it right now?' Here asking what Barinov wants to steal it right now shows Kostya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I will simply move it quietly somewhere.' Mentioning that he will simply move it quietly somewhere moves the talk in a new direction.
-- 'Let him run around and look for it now.' By telling Barinov to let him run around and look for it now, Max keeps his side of the story grounded.
-- 'Hello, Katya, I accept your terms.' Explaining that he accepts Kostya's terms lays the cards on the table for Kostya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Please, come back to us quickly.' Here coming back to them quickly sets up the next turn in their exchange.
-- 'Every person has another side.' Max mentions that every person has another side so Barinov sees what is at stake.
-- 'A side that is hidden from others' Claiming that a side that is hidden from others sounds confident, even if Barinov has doubts.
-- 'That side can surprise someone greatly.' Pointing out that that side can surprise someone greatly gives Barinov a sobering reality check.
-- 'And it can make someone else very happy.' Max explains that it can make someone else very happy, keeping his voice calm and direct.
-- 'At the right moment he finds the strength to yield.' Realizing that at the right moment he finds the strength to yield changes how Max handles the situation.
+- 'Nagiyev wants to give Vika this car as a gift?' Max questions directly with Barinov now, joining "khochet" ("wants") to "podarit" ("give as a gift") so every word pulls its weight.
+- 'And what if he gave me one like that?' Nagiyev prompts briskly without hesitation, linking "podaril" ("donated, gifted"), "yesli" ("if"), and "by" ("would") in one brisk exchange.
+- 'Well let him just try.' Max maintains a grounded tack in their talk, pairing "tolko" ("only") with "poprobuyet" ("to try, to taste") to get the point across in plain spoken Russian.
+- 'What, do you want to steal it right now?' Nagiyev wonders wryly without hesitation, weaving "ugnat" ("steal a car") together with "seychas" ("now") just the way native speakers do.
+- 'I will simply move it quietly somewhere.' Max presents an unhurried mood without hesitation, combining "prosto" ("just") and "perestavlyu" ("will move, repark") so the key meaning lands right away.
+- 'Let him run around and look for it now.' Max strikes a playful direction in the conversation, anchoring the Russian line on "teper" ("now") and "pobegayet" ("runs around") without extra filler.
+- 'Hello, Katya, I accept your terms.' Barinov holds a wry direction at once, building the phrase around "prinimayu" ("to receive") and "usloviya" ("conditions") for a crisp, natural delivery.
+- 'Please, come back to us quickly.' Barinov establishes a natural direction for Nagiyev, pairing "bystreye" ("faster") with "vozvrashchaysya" ("return") to get the point across in plain spoken Russian.
+- 'Every person has another side.' Max displays a measured bearing in their talk, anchoring the Russian line on "kazhdogo" ("everyone") and "cheloveka" ("a man, a person") without extra filler.
+- 'A side that is hidden from others' Max brings an easygoing tempo in front of Nagiyev, weaving "storona" ("side") together with "skryta" ("hidden") just the way native speakers do.
+- 'That side can surprise someone greatly.' Max shows a frank tack in this beat, linking "storona" ("side"), "mozhet" ("can"), and "silno" ("strongly, much") in one brisk exchange.
+- 'And it can make someone else very happy.' Max brings a steady rhythm in the conversation, anchoring the Russian line on "mozhet" ("can") and "ochen" ("very much") without extra filler.
+- 'At the right moment he finds the strength to yield.' Max chooses an honest course straight away, combining "nuzhnyy" ("necessary, needed") and "moment" ("moment") so the key meaning lands right away.

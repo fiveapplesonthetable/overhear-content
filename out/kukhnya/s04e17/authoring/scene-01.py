@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e17.ru.srt'
 INTRO = "Waitress Eva pulls Chef Viktor Barinov, sous-chef Lyova, and young cook Denis aside one by one at Claude Monet. With a calm, serious expression, she tells each man in secret that she is expecting a baby. Let's listen to their stunned reactions in Russian."
 OPENER = "Now let's break down Eva's unexpected announcement and the chefs' reactions line by line."
 TRANSITION = "Let's hear the entire conversation from start to finish without interruption."
-OUTRO = "Eva's sudden revelation leaves Viktor Petrovich, Lyova, and Denis completely bewildered in the kitchen. Listen for the adjective meaning pregnant and the adverb meaning soon when you watch. Until next time!"
+OUTRO = "Eva's sudden revelation leaves Viktor Petrovich, Lyova, and Denis completely bewildered in the kitchen. Listen for the word meaning pregnant and the expression meaning soon when you watch. Until next time!"
 CLOSING = ('eva', 'Всего хорошего!')
 STORY = [
     ('eva', 'Виктор Петрович, вы тоже должны знать.', 'Viktor Petrovich, you should know too.', [(1, 'Виктор Петрович, думаю, вы тоже должны знать')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Нам нужно срочно всё проверить.', 'We need to check everything urgently.', [], 'new'),
 ]
 WALK = [
-    (0, None, "'Viktor Petrovich, you should know too.' Eva mentions that Barinov should know so Barinov sees what is at stake."),
-    (1, None, "'I am expecting a child right now.' Eva explains that she is expecting a child right now, keeping her voice calm and direct."),
-    (2, None, '\'I am pregnant by you.\' Explaining that she is pregnant by Barinov lays the cards on the table for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (3, None, "'What on earth are you saying, Eva?' Over the conversation and the news, Barinov presses Eva for a straight answer."),
-    (4, None, "'It is still very early.' Realizing that it is still very early changes how Eva handles the situation."),
-    (5, None, "'But soon everything will be noticeable.' Noting that soon everything will be noticeable keeps Eva's side of the story simple and clear."),
-    (6, None, "'Vitya, I really am pregnant.' With the moment and news in play, Eva keeps this short reply brisk and direct."),
-    (7, None, '\'Viktor Petrovich, is everything all right with you?\' Here asking whether everything all right with Barinov shows Lyova looking for the real truth. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
-    (8, None, "'Yes, Lyova, everything is fine.' Saying that everything is fine is how Barinov sets the tone with Eva."),
-    (9, None, "'Well, I have a big problem.' Having a big problem is how Lyova lays out the situation for Barinov."),
-    (10, None, "'Lyova, I am pregnant too.' Realizing that she is pregnant changes how Eva handles the situation."),
-    (11, None, "'We need to check everything urgently.' Here needing to check everything urgently sets up the next turn in their exchange. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
+    (0, None, '\'Viktor Petrovich, you should know too.\' Eva conveys a wry tack with Barinov, combining "tozhe" ("too") and "dolzhny" ("must, should") so the key meaning lands right away.'),
+    (1, None, '\'I am expecting a child right now.\' Eva displays a thoughtful footing in the scene, putting "seychas" ("now") alongside "zhdu" ("I wait, expect") in a tight, everyday turn of phrase.'),
+    (2, None, '\'I am pregnant by you.\' Eva conveys a serious footing during the exchange, building the phrase around "beremenna" ("pregnant") and "ya" ("I") for a crisp, natural delivery.'),
+    (3, None, '\'What on earth are you saying, Eva?\' Barinov challenges calmly beside Lyova, leaning on "govorish" ("you say") before closing the thought with "chto" ("what").'),
+    (4, None, '\'It is still very early.\' Eva takes a warm angle across the room, leaning on "srok" ("term") before closing the thought with "poka" ("bye").'),
+    (5, None, '\'But soon everything will be noticeable.\' Eva maintains an earnest manner for Lyova, weaving "skoro" ("soon") together with "budet" ("will be") just the way native speakers do.'),
+    (6, None, '\'Vitya, I really am pregnant.\' Eva projects a playful footing across the room, building the phrase around "pravda" ("honestly") and "beremenna" ("pregnant") for a crisp, natural delivery.'),
+    (7, None, '\'Viktor Petrovich, is everything all right with you?\' Lyova inquires promptly with Eva now, placing "khorosho" ("good, fine") straight beside "viktor" ("Viktor") with no word for "to be" needed.'),
+    (8, None, '\'Yes, Lyova, everything is fine.\' Barinov shares a candid attitude during the exchange, linking "poryadke" ("order") directly with "da" ("yes"), since Russian drops "is" and "are" in the present.'),
+    (9, None, '\'Well, I have a big problem.\' Lyova sets a candid tone for Eva, leaning on "bolshaya" ("large") before closing the thought with "problema" ("problem").'),
+    (10, None, '\'Lyova, I am pregnant too.\' Eva brings a sharp stance across the room, joining "tozhe" ("too") to "beremenna" ("pregnant") so every word pulls its weight.'),
+    (11, None, '\'We need to check everything urgently.\' Barinov adopts a pointed note at once, putting "nuzhno" ("necessary") alongside "srochno" ("urgent, urgently") in a tight, everyday turn of phrase.'),
 ]

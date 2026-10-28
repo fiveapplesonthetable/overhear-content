@@ -7,7 +7,7 @@ SCENE = 19
 TITLE = "Тайник Сени и предложение без пирожного  (Senya's Hiding Spot and a Proposal Without Pastry)"
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'louis': 'Луи', 'max': 'Макс'}
+LABELS = {'barinov': 'Шеф', 'louis': 'Луи', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.06'
 SOURCE_FILE = 'sources/kukhnya/s02/e06.ru.srt'
 INTRO = "In the climax of the flashback, while Louis stalls for ten more minutes, Chef Barinov and Nagiyev realize they will have to manage the evening without any pastries at all. Back in the present, Barinov reflects on how Senya's habit of stealing food nearly derailed the owner's engagement."
@@ -18,7 +18,7 @@ CLOSING = ('louis', 'Увидимся!')
 STORY = [
     ('louis', 'Ну и что происходит?', 'Well, what is going on in here?', [(317, 'Ну и что происходит')], ''),
     ('max', 'Десерт где?', 'Where is the dessert?', [(317, 'Десерт где')], ''),
-    ('louis', 'Луи, где десерт?', 'Louis, where is the dessert?', [(318, 'Луи, где десерт')], ''),
+    ('barinov', 'Луи, где десерт?', 'Louis, where is the dessert?', [(318, 'Луи, где десерт')], ''),
     ('max', 'Нужно еще немного подождать.', 'We just need to wait a little bit longer.', [(319, 'Нужно еще немного подождать')], ''),
     ('louis', 'Кольцо где?', 'Where is the ring?', [(320, 'Кольцо где')], ''),
     ('max', 'Витя, а что это такое?', 'Vitya, what on earth is that?', [(322, 'Витя, а что это такое')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('louis', 'Без пирожных обойдемся теперь.', 'We will manage without pastries from now on.', [(331, 'Без пирожных обойдемся теперь')], ''),
 ]
 WALK = [
-    (0, None, "'Well, what is going on in here?' Wondering what going on in here is cuts straight through the tension between Louis and Max."),
-    (1, None, '\'Where is the dessert?\' Asking where the dessert is is how Max puts Louis on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (2, None, '\'Louis, where is the dessert?\' Here asking where the dessert is shows Louis looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (3, None, "'We just need to wait a little bit longer.' Around the plan and point, Max sets a calm, everyday tone with Louis."),
-    (4, None, '\'Where is the ring?\' Asking where the ring is cuts straight through the tension between Louis and Max. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (5, None, '\'Vitya, what on earth is that?\' Asking whether what on earth is puts Louis right on the defensive. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (6, None, "'It is much safer this way.' Even though it is much safer this way, Louis keeps a steady face in front of Max."),
-    (7, None, "'Look how big that guy is.' Admitting that how big that guy is shows Max being honest for a change."),
-    (8, None, '\'And besides, he has a secret hiding spot.\' Saying that besides he has a secret hiding spot is how Louis sets the tone with Max. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
-    (9, None, "'Let me hide your ring inside a pastry for him.' Telling Louis to let him hide Louis's ring inside a pastry for him is how Max lays out the situation for Louis."),
-    (10, None, '\'It will take about ten minutes.\' Adding that it will take about ten minutes fills in the missing piece for Max. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (11, None, "'Right now, coming right up.' Between the room and the plan, Max gives Louis a quick, grounded response."),
-    (12, None, "'We will manage without pastries from now on.' Since they will manage without pastries from now, Louis does not waste words on excuses."),
+    (0, None, '\'Well, what is going on in here?\' Louis questions firmly to make the point, combining "proiskhodit" ("is going on") and "nu" ("oh, come on") so the key meaning lands right away.'),
+    (1, None, '\'Where is the dessert?\' Max tests frankly at this point, anchoring the Russian line on "desert" ("dessert") and "gde" ("where") without extra filler.'),
+    (2, None, '\'Louis, where is the dessert?\' Barinov prompts openly to make the point, leaning on "gde" ("where") before closing the thought with "desert" ("dessert").'),
+    (3, None, '\'We just need to wait a little bit longer.\' Max favors a measured approach right away, anchoring the Russian line on "nuzhno" ("necessary") and "yeshche" ("still") without extra filler.'),
+    (4, None, '\'Where is the ring?\' Louis checks frankly to make the point, building the phrase around "koltso" ("ring") and "gde" ("where") for a crisp, natural delivery.'),
+    (5, None, '\'Vitya, what on earth is that?\' Max asks quietly at this point, building the phrase around "vitya" ("Vitya") and "chto" ("what") for a crisp, natural delivery.'),
+    (6, None, '\'It is much safer this way.\' Louis displays a resolute direction without hesitation, leaning on "bezopasneye" ("safe, secure") before closing the thought with "tak" ("so").'),
+    (7, None, '\'Look how big that guy is.\' Max projects a grounded line as the scene unfolds, linking "smotri" ("look"), "kak" ("how"), and "zdorovyy" ("healthy") in one brisk exchange.'),
+    (8, None, '\'And besides, he has a secret hiding spot.\' Louis picks a steady course at once, putting "potom" ("then") alongside "yest" ("there is") in a tight, everyday turn of phrase.'),
+    (9, None, '\'Let me hide your ring inside a pastry for him.\' Max presents a serious bearing at this moment, combining the polite invitation "davayte" ("let us") with "koltso" ("ring") to give the line its natural spoken rhythm.'),
+    (10, None, '\'It will take about ten minutes.\' Louis establishes a grounded stance without hesitation, anchoring the Russian line on "zaymet" ("to borrow, to lend") and "minut" ("minutes") without extra filler.'),
+    (11, None, '\'Right now, coming right up.\' Max maintains a natural mood in their talk, letting the single Russian word "seychas" ("now") carry the entire reaction on its own.'),
+    (12, None, '\'We will manage without pastries from now on.\' Louis shares a sharp style in the room, joining "pirozhnykh" ("pastry") to "oboydemsya" ("to do without") so every word pulls its weight.'),
 ]

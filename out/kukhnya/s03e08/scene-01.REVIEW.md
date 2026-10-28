@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Вика | Дмитрий Владимирович, у вас есть минутка? | Dmitry Vladimirovich, do you have a minute? | #5: Дмитрий Владимирович, есть минутка | adapted: adapted |
 | 5 | Нагиев | Я надеюсь, что у нас есть целая жизнь. | I hope that we have a whole life. | #6: Я надеюсь, что у нас есть целая жизнь | adapted: adapted |
 | 6 | Вика | Наш шеф уволил курьера по доставке еды. | Our chef fired the food delivery courier. | #7: Шеф уволил курьера по доставке еды | adapted: adapted |
-| 7 | Вика | Сказал, что его блюда едят только в ресторане. | He said that his dishes are eaten only in the restaurant. | #8: блюда едят в ресторане | adapted: adapted |
+| 7 | Шеф | Сказал, что его блюда едят только в ресторане. | He said that his dishes are eaten only in the restaurant. | #8: блюда едят в ресторане | adapted: adapted |
 | 8 | Вика | Вот как с ним бороться, я не понимаю. | How to deal with him, I do not understand. | #9: Вот как с ним бороться, я не понимаю | adapted: adapted |
 | 9 | Нагиев | Я тоже не понимаю, встречаемся мы или нет. | I also do not understand whether we are dating or not. | #10: Я тоже не понимаю, встречаемся мы или нет | adapted: adapted |
 | 10 | Нагиев | Мы же с тобой в кино ходили три раза. | After all, you and I went to the movies three times. | #11: Мы же в кино ходили три раза | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, you can go wherever you want.' Vika reminds Barinov that Barinov can go wherever Barinov wants before the moment passes.
-- 'If, of course, football is dearer to you than I am.' Because if of course football is dearer to Barinov than she is, Vika treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Alright, darling, as you say, so it will be.' Explaining that Alright darling as Nagiyev says so it will be lays the cards on the table for Nagiyev.
-- 'Dmitry Vladimirovich, do you have a minute?' By asking whether Barinov has a minute, Vika presses Barinov for a straight answer.
-- 'I hope that we have a whole life.' Even though he hopes that they have a whole life, Nagiyev keeps a steady face in front of Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Our chef fired the food delivery courier.' Over the kitchen and the room, Vika answers Barinov without a second thought.
-- 'He said that his dishes are eaten only in the restaurant.' Vika explains that he said that his dishes are eaten only in the restaurant, keeping her voice calm and direct.
-- 'How to deal with him, I do not understand.' Realizing that how to deal with him she does not understand changes how Vika handles the situation.
-- 'I also do not understand whether we are dating or not.' Noting that he also does not understand whether they are dating or not keeps Nagiyev's side of the story simple and clear.
-- 'After all, you and I went to the movies three times.' Even though after all Barinov and he went to the movies three times, Nagiyev keeps a steady face in front of Barinov.
-- 'And you and I even kissed there.' Over the shift and the truth, Nagiyev answers Barinov without a second thought. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yesterday, when you fell fast asleep at the movies.' Saying that yesterday when Barinov fell fast asleep at the movies is how Nagiyev sets the tone with Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Vitya, you can go wherever you want.' Vika maintains a warm line straight away, leaning on "mozhesh" ("can") before closing the thought with "idti" ("to go").
+- 'If, of course, football is dearer to you than I am.' Vika shares a serious stance at this moment, building the phrase around "konechno" ("of course") and "futbol" ("football") for a crisp, natural delivery.
+- 'Alright, darling, as you say, so it will be.' Barinov offers a natural bearing for Nagiyev, linking "khorosho" ("good, fine"), "milaya" ("darling"), and "kak" ("how") in one brisk exchange.
+- 'Dmitry Vladimirovich, do you have a minute?' Vika queries sharply from the start, using "yest" (from "byt", "there is") alongside "minutka" ("minute, moment") to shape the meaning.
+- 'I hope that we have a whole life.' Nagiyev holds a frank posture in the room, pairing "nadeyus" ("hope so") with "yest" ("there is") to get the point across in plain spoken Russian.
+- 'Our chef fired the food delivery courier.' Vika picks a candid tone across the room, anchoring the Russian line on "uvolil" ("to fire, to dismiss") and "kuryera" ("courier") without extra filler.
+- 'He said that his dishes are eaten only in the restaurant.' Barinov shares a firm approach in the scene, anchoring the Russian line on "skazal" ("said") and "blyuda" ("of dish") without extra filler.
+- 'How to deal with him, I do not understand.' Vika shares a firm tempo in front of Nagiyev, combining "kak" ("how") and "borotsya" ("to fight") so the key meaning lands right away.
+- 'I also do not understand whether we are dating or not.' Nagiyev maintains an earnest bearing in front of Barinov, combining "tozhe" ("too") and "ponimayu" ("understand") so the key meaning lands right away.
+- 'After all, you and I went to the movies three times.' Nagiyev displays a firm tack toward Vika, anchoring the Russian line on "kino" ("cinema, movies") and "khodili" ("walked") without extra filler.
+- 'And you and I even kissed there.' Nagiyev establishes a brisk view at this moment, putting "tam" ("there") alongside "tselovalis" ("were kissing") in a tight, everyday turn of phrase.
+- 'Yesterday, when you fell fast asleep at the movies.' Nagiyev offers an honest mood straight away, putting "vchera" ("yesterday") alongside "kogda" ("when") in a tight, everyday turn of phrase.

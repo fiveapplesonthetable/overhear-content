@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You promised, after all.' Pointing out that the doctor promised after all gives the doctor a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Come in one by one, behave calmly.' The doctor tells Kostya that Kostya should come in one by one behave calmly without dressing it up.
-- 'The atmosphere here is tense enough already.' Realizing that the atmosphere here is enough already changes how the doctor handles the situation.
-- 'How are you doing, is everything fine?' Asking how Kostya doing is everything fine is cuts straight through the tension between the doctor and Kostya. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Now then, where are you going?' Wondering where Kostya going is is how the doctor puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You still have to look at this your whole life.' Admitting that Kostya still have to look at this Kostya's whole life shows the doctor being honest for a change.
-- 'Quiet, quiet, we breathe.' Around the work and point, the doctor sets a calm, everyday tone with Kostya.
-- 'Good job, good job, we breathe.' Around the work and truth, the doctor sets a calm, everyday tone with Kostya.
-- 'I need to talk with the doctor.' Saying that he needs to talk with the doctor is how Max sets the tone with the doctor.
-- 'Step closer, do not be shy.' Mentioning that Kostya should step closer do not be shy moves the talk in a new direction.
-- 'I suddenly started feeling dizzy.' Since he suddenly started feeling dizzy, Max does not waste words on excuses.
-- 'Help him up quickly!' Telling Kostya to help him up quickly shows the doctor is done holding back.
+- 'You promised, after all.' Kostya projects a measured position right away, using "obeshchala" (from "obeshchat", "promised") alongside "ty" ("you") to shape the meaning.
+- 'Come in one by one, behave calmly.' The doctor presents a playful style in the scene, pairing "zakhodim" ("we go inside") with "vedyom" ("are broadcasting") to get the point across in plain spoken Russian.
+- 'The atmosphere here is tense enough already.' The doctor chooses a playful course toward Kostya, linking "tut" ("here"), "nervnaya" ("nerve-wracking"), and "obstanovka" ("atmosphere") in one brisk exchange.
+- 'How are you doing, is everything fine?' The doctor asks promptly from the start, placing "kak" ("how") straight beside "dela" ("things, affairs") with no word for "to be" needed.
+- 'Now then, where are you going?' The doctor prompts promptly beside Kostya, linking "kuda" ("where to"), "sobralsya" ("got ready, planned"), and "tak" ("so") in one brisk exchange.
+- 'You still have to look at this your whole life.' The doctor displays an honest tone in their talk, weaving "yeshchyo" ("more, still") together with "zhizn" ("life") just the way native speakers do.
+- 'Quiet, quiet, we breathe.' The doctor keeps a resolute direction toward Kostya, joining "tishe" ("quiet, more quietly") to "dyshim" ("to breathe") so every word pulls its weight.
+- 'Good job, good job, we breathe.' The doctor chooses a lively note in the conversation, pairing "molodets" ("well done, good boy") with "dyshim" ("to breathe") so the "-sya" ending carries the action.
+- 'I need to talk with the doctor.' Max projects a playful view as the scene unfolds, joining "nuzhno" ("necessary") to "pogovorit" ("to talk") so every word pulls its weight.
+- 'Step closer, do not be shy.' The doctor shows a direct line in the room, putting "podkhodim" ("suit") alongside "stesnyayemsya" ("are shy, hesitate") in a tight, everyday turn of phrase.
+- 'I suddenly started feeling dizzy.' Max strikes a pointed style with the doctor, weaving "stalo" ("became, came over") together with "plokho" ("badly") just the way native speakers do.
+- 'Help him up quickly!' The doctor sustains an emphatic bearing in the scene, using "podnimite" (from "podnyat", "lift up, help up") alongside "skoreye" ("quickly, right away") to shape the meaning.

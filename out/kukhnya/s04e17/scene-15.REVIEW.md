@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sweetheart, meet my head chef.' Between the plan and the date, Nagiyev gives Denis a quick, grounded response. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I put on this uniform for respectability.' Here putting on this uniform for respectability sets up the next turn in their exchange.
-- 'Right now we will play in four hands.' Explaining that right now they will play in four hands lays the cards on the table for Denis.
-- 'Eva, a child does not need money at all.' Lyova explains that a child does not need money at all, keeping his voice calm and direct.
-- 'Above all, a child needs a real father.' Realizing that above all a child needs a real father changes how Lyova handles the situation.
-- 'Please, marry me.' Saying that Denis should marry him is how Lyova sets the tone with Denis.
-- 'How talented the two of us are!' Saying that how talented the two of them are is how Nagiyev takes charge of the moment. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You are having a simply wonderful evening tonight.' Admitting that Lyova is having a simply wonderful evening tonight shows Denis being honest for a change.
-- 'Baby, maybe we should go home already?' Wondering if baby maybe they should go home already shows Nagiyev caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'There at home we will quietly continue our evening.' Once there at home they will quietly continue their evening, Nagiyev can finally tell Denis what he means.
-- 'Dmitry Vladimirovich, she is looking at me.' Adding that she is looking at him fills in the missing piece for Lyova.
-- 'Fine, we will definitely take him with us.' Nagiyev tells Denis that fine they will definitely take him with them without dressing it up.
+- 'Sweetheart, meet my head chef.' Nagiyev sets a playful course during the exchange, pairing "poznakomsya" ("to get acquainted") with "solnyshko" ("sweetheart") so the "-sya" ending carries the action.
+- 'I put on this uniform for respectability.' Denis holds an honest view in their talk, linking "formu" ("uniform"), "solidnosti" ("to respectability"), and "nadel" ("put on") in one brisk exchange.
+- 'Right now we will play in four hands.' Nagiyev maintains an honest angle toward Denis, pairing "seychas" ("now") with "ruki" ("hands") to get the point across in plain spoken Russian.
+- 'Eva, a child does not need money at all.' Lyova projects an unhurried mood in front of Nagiyev, anchoring the Russian line on "rebyonku" ("your child") and "nuzhny" ("needed") without extra filler.
+- 'Above all, a child needs a real father.' Lyova conveys an earnest direction at this moment, combining "rebyonku" ("your child") and "prezhde" ("before") so the key meaning lands right away.
+- 'Please, marry me.' Lyova conveys a candid approach at this moment, building the phrase around "vykhodi" ("go out, marry") and "zamuzh" ("in marriage") for a crisp, natural delivery.
+- 'How talented the two of us are!' Nagiyev strikes a sharp tone at once, building the phrase around "talantlivyye" ("talented, gifted") and "kakiye" ("what") for a crisp, natural delivery.
+- 'You are having a simply wonderful evening tonight.' Denis offers a lively footing without hesitation, anchoring the Russian line on "segodnya" ("today") and "prosto" ("just") without extra filler.
+- 'Baby, maybe we should go home already?' Nagiyev inquires frankly in the scene, putting "malysh" ("kid, little one") alongside "mozhet" ("can") in a tight, everyday turn of phrase.
+- 'There at home we will quietly continue our evening.' Nagiyev offers a wry note across the room, anchoring the Russian line on "tam" ("there") and "doma" ("at home") without extra filler.
+- 'Dmitry Vladimirovich, she is looking at me.' Denis brings an emphatic tempo with Lyova, pairing "smotrit" ("looks") with "dmitriy" ("Dmitry") to get the point across in plain spoken Russian.
+- 'Fine, we will definitely take him with us.' Nagiyev adopts a firm view during the exchange, combining "obyazatelno" ("surely, without fail") and "vozmyom" ("will take") so the key meaning lands right away.

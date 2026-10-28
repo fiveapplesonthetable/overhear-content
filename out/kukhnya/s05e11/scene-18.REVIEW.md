@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, enough!' Because Eleonora should come on enough, Barinov does not bother softening the blow for Eleonora. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Come on, apologize!' Telling Barinov to come on apologize shows Lyova is done holding back.
-- 'What is going on here?' Over the point and the chance, Eleonora presses Barinov for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Everything is fine.' Because everything is fine, Barinov treats the matter as settled.
-- 'They argued over a girl, young and hot-headed.' With the chance and kitchen in play, Barinov keeps this short reply brisk and direct.
-- 'Over what girl?' Over the truth and the chance, Eleonora presses Barinov for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'He was hitting on a girl!' Once he was hitting on a girl, Lyova makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'You are fired!' Saying that Eleonora is fired is how Barinov takes charge of the moment.
-- 'For the fight and for the disgusting preparation of dishes!' With the truth and chance at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Lyova, well done.' Over the chance and the truth, Barinov answers Eleonora without a second thought. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Do not worry, Artyom.' Adding that do not worry Artyom fills in the missing piece for Eleonora.
-- 'You will find yourself another job!' Because Eleonora will find themselves another job, Barinov does not bother softening the blow for Eleonora. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Come on, enough!' Barinov conveys a resolute manner on the spot, joining "khvatit" ("enough") to "nu" ("oh, come on") so every word pulls its weight.
+- 'Come on, apologize!' Lyova takes a clear line in the room, joining "izvinyaysya" ("apologize") to "nu" ("oh, come on") so every word pulls its weight.
+- 'What is going on here?' Eleonora inquires firmly as the beat lands, putting "zdes" ("here") alongside "proiskhodit" ("is going on") in a tight, everyday turn of phrase.
+- 'Everything is fine.' Barinov strikes a measured rhythm in front of Lyova, building the phrase around "normalno" ("fine, OK") and "vsyo" ("everything") for a crisp, natural delivery.
+- 'They argued over a girl, young and hot-headed.' Barinov picks an honest view straight away, combining "porugalis" ("to quarrel") and "devushki" ("a girl") so the key meaning lands right away.
+- 'Over what girl?' Eleonora prompts frankly to keep things clear, pairing "yeshchyo" ("more, still") with "devushki" ("a girl") to get the point across in plain spoken Russian.
+- 'He was hitting on a girl!' Lyova adopts a measured approach at once, anchoring the Russian line on "pristaval" ("pestered, hit on") and "devushke" ("girl, young woman") without extra filler.
+- 'You are fired!' Barinov sustains a calm style across the room, leaning on "uvolen" ("fired") before closing the thought with "ty" ("you").
+- 'For the fight and for the disgusting preparation of dishes!' Barinov favors a clear note in their talk, building the phrase around "draku" ("fight") and "otvratitelnoye" ("disgusting") for a crisp, natural delivery.
+- 'Lyova, well done.' Barinov maintains a calm manner as the scene unfolds, pairing "molodets" ("well done, good boy") with "lyova" ("Lyova") to get the point across in plain spoken Russian.
+- 'Do not worry, Artyom.' Barinov picks a natural angle during the exchange, pairing "perezhivay" ("worry") with "ne" ("not") to get the point across in plain spoken Russian.
+- 'You will find yourself another job!' Barinov holds a thoughtful stance in the scene, combining "yeshchyo" ("more, still") and "naydyosh" ("you'll find") so the key meaning lands right away.

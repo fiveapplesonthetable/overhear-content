@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Viktoriya Sergeyevna.' With the room and police in play, Kostya keeps this short reply brisk and direct.
-- 'What happened?' Over the room and the police, Vika presses German for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Viktoriya, we were robbed.' German mentions that Viktoriya they were robbed so Kostya sees what is at stake.
-- 'They stole a sauté pan.' Claiming that they stole a pan sounds confident, even if Kostya has doubts.
-- 'And is that all?' By checking whether that all, Vika presses German for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You called me in over a saucepan?' Asking whether German called her in over a saucepan puts German right on the defensive.
-- 'I called you in for a reason.' Realizing that he called Kostya in for a reason changes how German handles the situation. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Your Barinov stole the sauté pan.' Noting that Kostya's Barinov stole the pan keeps German's side of the story simple and clear. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'We must stop him right now.' Even though they must stop him right now, German keeps a steady face in front of Kostya.
-- 'Otherwise tomorrow he will carry out the stove.' Admitting that otherwise tomorrow he will carry out the stove shows German being honest for a change.
-- 'German, it is just a saucepan.' Noting that it is just a saucepan keeps Vika's side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I might as well have called the police too.' Once she might as well have called the police, Vika can finally tell German what she means.
+- 'Hello, Viktoriya Sergeyevna.' Kostya presents a playful stance across the room, linking "privet" ("hi"), "viktoriya" ("Victoria"), and "sergeyevna" ("Sergeyevna") in one brisk exchange.
+- 'What happened?' Vika prompts quietly as the beat lands, building the phrase around "sluchilos" ("happened") and "chto" ("what") for a crisp, natural delivery.
+- 'Viktoriya, we were robbed.' German projects a natural tack with Kostya, building the phrase around "obokrali" ("to robbed") and "viktoriya" ("Victoria") for a crisp, natural delivery.
+- 'They stole a sauté pan.' German sustains a measured course beside Vika, anchoring the Russian line on "ukrali" ("stole") and "soteynik" ("pan") without extra filler.
+- 'And is that all?' Vika quizzes plainly in front of German, letting the single Russian word "vsyo" ("everything") carry the entire reaction on its own.
+- 'You called me in over a saucepan?' Vika queries evenly as they speak, joining "vyzvali" ("called, summoned") to "kastryuli" ("pot, saucepan") so every word pulls its weight.
+- 'I called you in for a reason.' German displays a frank bearing at this moment, combining the softening word "prosto" ("simply, just") with "vyzval" ("called, summoned") to give the line its natural spoken rhythm.
+- 'Your Barinov stole the sauté pan.' German offers an emphatic footing without hesitation, putting "soteynik" ("pan") alongside "ukral" ("stole") in a tight, everyday turn of phrase.
+- 'We must stop him right now.' German sustains a lively rhythm toward Kostya, linking "nuzhno" ("necessary"), "seychas" ("now"), and "ostanovit" ("to stop") in one brisk exchange.
+- 'Otherwise tomorrow he will carry out the stove.' German establishes a pointed manner at this moment, leaning on "zavtra" ("tomorrow") before closing the thought with "vyneset" ("issue, hand down").
+- 'German, it is just a saucepan.' Vika displays a playful note across the room, building the phrase around "prosto" ("just") and "kastryulya" ("pot, saucepan") for a crisp, natural delivery.
+- 'I might as well have called the police too.' Vika displays a candid view across the room, putting "yeshchyo" ("more, still") alongside "politsiyu" ("the police") in a tight, everyday turn of phrase.

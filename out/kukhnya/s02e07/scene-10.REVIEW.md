@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Actually, I am not asleep.' Being not asleep is how Kostya lays out the situation for Nastya.
-- 'I am right here.' Admitting that she is right here shows Nastya being honest for a change.
-- 'I beg your pardon, Konstantin.' Begging Kostya's pardon Konstantin is how Rodion lays out the situation for Kostya.
-- 'I did not know about that family rule of yours.' Explaining that he did not know about that family rule lays the cards on the table for Nastya.
-- 'Well then.' With the work and morning in play, Nastya keeps this short reply brisk and direct.
-- 'Do you not think.' Claiming that do Kostya not think sounds confident, even if Kostya has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'That it is time for him to head back out to the street?' Kostya asks whether that it is time for him to head back out to the street, refusing to let the point slide.
-- 'Kostya, did you hear how he was coughing all night long?' By asking whether Kostya hears how he was coughing all night long, Nastya presses Kostya for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I heard him, Nastya.' Realizing that he heard him changes how Rodion handles the situation.
-- 'I cannot take this anymore.' Since he cannot take this anymore, Kostya does not waste words on excuses.
-- 'Then I will leave too.' Even though she will leave, Nastya keeps a steady face in front of Kostya.
-- 'Nastya, what kind of principle is that?' Rodion asks whether what kind of principle is, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Then I will walk out right along with him.' Saying that he will walk out right along with him is how Kostya sets the tone with Nastya.
+- 'Actually, I am not asleep.' Kostya offers an easygoing stance in front of Nastya, building the phrase around "voobshche-to" ("actually") and "splyu" ("sleep") for a crisp, natural delivery.
+- 'I am right here.' Nastya offers a warm direction during the exchange, putting "ya" ("I") alongside "zhe" ("but, after all") in a tight, everyday turn of phrase.
+- 'I beg your pardon, Konstantin.' Rodion keeps an earnest posture in the conversation, linking "proshu" ("beg, ask"), "proshcheniya" ("forgiveness"), and "konstantin" ("Konstantin") in one brisk exchange.
+- 'I did not know about that family rule of yours.' Kostya presents an emphatic angle without hesitation, pairing "znal" ("knew") with "semeynom" ("family") to get the point across in plain spoken Russian.
+- 'Well then.' Nastya shares a grounded mood in the conversation, weaving "nu" ("oh, come on") together with "chto" ("what") just the way native speakers do.
+- 'Do you not think.' Rodion establishes a pointed posture as the scene unfolds, anchoring the Russian line on "kazhetsya" ("it seems, I think") and "tebe" ("for you, to you") without extra filler.
+- 'That it is time for him to head back out to the street?' Kostya tests steadily in their exchange, joining "pora" ("it's time") to "obratno" ("back") so every word pulls its weight.
+- 'Kostya, did you hear how he was coughing all night long?' Nastya challenges quietly to Rodion here, combining "slyshal" ("heard") and "kak" ("how") so the key meaning lands right away.
+- 'I heard him, Nastya.' Rodion favors an emphatic tack in this beat, leaning on "slyshal" ("heard") before closing the thought with "nastya" ("Nastya").
+- 'I cannot take this anymore.' Kostya offers a candid style during the exchange, weaving "bolshe" ("more") together with "mogu" ("can") just the way native speakers do.
+- 'Then I will leave too.' Nastya takes a firm bearing at once, weaving "togda" ("back then") together with "uydu" ("will leave") just the way native speakers do.
+- 'Nastya, what kind of principle is that?' Rodion inquires firmly at this point, combining "printsipy" ("principles") and "nastya" ("Nastya") so the key meaning lands right away.
+- 'Then I will walk out right along with him.' Kostya keeps a sharp tempo at this moment, weaving "uydu" ("will leave") together with "vmeste" ("together") just the way native speakers do.

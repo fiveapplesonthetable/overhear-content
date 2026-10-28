@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And I want to drink to Elena Pavlovna.' Wanting to drink to Elena Pavlovna is how Katya lays out the situation for Barinov.
-- 'Otherwise we would all be working here right now.' Noting that otherwise they would all be working here right now keeps Katya's side of the story simple and clear.
-- 'Dad, and what if she had turned you down?' Katya asks whether dad and what if she had turned Barinov down, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well, what would I have done then?' Here wondering what he has done then would shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Lena, darling, marry me!' Over the point and the kitchen, Barinov lets his real feelings show.
-- 'No, Vitya, I cannot agree.' Once she cannot agree, Elena can finally tell Barinov what she means.
-- 'We cannot climb the stairway of love.' Adding that they cannot climb the stairway of love fills in the missing piece for Elena.
-- 'You and I gave up too soon.' Saying that Elena and he gave up too soon is how Barinov sets the tone with Elena.
-- 'You and I parted ways forever.' Between the kitchen and the truth, Barinov gives Elena a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'The dark heavens weep bitterly today.' Between the kitchen and the plan, Barinov gives Elena a quick, grounded response.
-- 'God sees that I am to blame myself.' Barinov reminds Elena that someone sees that he is to blame himself before the moment passes.
-- 'Yesterday you said a cold no to me.' Because yesterday Elena said a cold no to him, Barinov treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'And I want to drink to Elena Pavlovna.' Katya offers a playful manner straight away, building the phrase around "khochu" ("want") and "vypit" ("to drink") for a crisp, natural delivery.
+- 'Otherwise we would all be working here right now.' Katya holds a grounded bearing beside Elena, linking "inache" ("otherwise"), "seychas" ("now"), and "tut" ("here") in one brisk exchange.
+- 'Dad, and what if she had turned you down?' Katya wonders honestly during the talk, pairing "papa" ("Dad") with "otkazala" ("turned down") to get the point across in plain spoken Russian.
+- 'Well, what would I have done then?' Barinov prompts plainly beside Katya, pairing "kak" ("how") with "togda" ("back then") to get the point across in plain spoken Russian.
+- 'Lena, darling, marry me!' Barinov picks a direct tempo in the scene, leaning on "dorogaya" ("expensive") before closing the thought with "vykhodi" ("go out, marry").
+- 'No, Vitya, I cannot agree.' Elena offers a natural course as they talk, linking "mogu" ("can"), "soglasitsya" ("to agree"), and "net" ("no") in one brisk exchange.
+- 'We cannot climb the stairway of love.' Barinov favors a sharp course right away, joining "lestnitse" ("stairs, staircase") to "lyubvi" ("love") so every word pulls its weight.
+- 'You and I gave up too soon.' Barinov sustains an unhurried angle straight away, leaning on "slishkom" ("too") before closing the thought with "rano" ("early, young").
+- 'You and I parted ways forever.' Barinov strikes a frank direction beside Elena, leaning on "navsegda" ("forever") before closing the thought with "razoshlis" ("broke up, parted ways").
+- 'The dark heavens weep bitterly today.' Barinov favors a steady angle with Katya, weaving "segodnya" ("today") together with "gorko" ("bitter") just the way native speakers do.
+- 'God sees that I am to blame myself.' Barinov sustains a frank bearing for Elena, joining "vidit" ("sees") to "bog" ("God") so every word pulls its weight.
+- 'Yesterday you said a cold no to me.' Barinov offers a pointed stance beside Katya, building the phrase around "vchera" ("yesterday") and "skazala" ("told") for a crisp, natural delivery.

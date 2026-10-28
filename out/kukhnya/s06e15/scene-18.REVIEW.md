@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here we are, meet my girlfriend.' Claiming that here they are meet his girlfriend sounds confident, even if Barinov has doubts.
-- 'Hello, I am very pleased to meet you right now.' The guest mentions that he is very pleased to meet Barinov right now so Barinov sees what is at stake.
-- 'It is good to meet before the start of our joint work.' Saying that it is good to meet before the start of their joint work is how the guest sets the tone with Barinov.
-- 'Excuse me, did I interrupt you right now?' By checking whether he interrupt the guest right now, Barinov presses the guest for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I came to apologize for my phone call.' Noting that he came to apologize for his phone call keeps Barinov's side of the story simple and clear.
-- 'I want to say that you are very lucky.' Wanting to say that the guest is very lucky is how Barinov lays out the situation for the guest. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Lyova is the best cook in our restaurant.' Admitting that Lyova is the best cook in their restaurant shows Barinov being honest for a change.
-- 'He has always been an excellent, reliable sous-chef.' Having always been an excellent reliable is how Barinov lays out the situation for the guest.
-- 'And I am sure he will be an excellent head chef.' Adding that he is sure he will be an excellent head fills in the missing piece for the guest.
-- 'Take care of him, and you forgive me, Lyova.' Explaining that the guest should take care of him and the guest forgives him lays the cards on the table for the guest. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I must respect your desire to leave.' Saying that he must respect the guest's desire to leave is how Barinov sets the tone with the guest.
-- 'Actually, I was not even planning to leave.' Since he was not even planning to leave, Lyova does not waste words on excuses.
+- 'Here we are, meet my girlfriend.' Lyova establishes a firm angle in this beat, combining "poznakomtes" ("get acquainted") and "devushkoy" ("girl, young woman") so the key meaning lands right away.
+- 'Hello, I am very pleased to meet you right now.' The guest shows a measured view in front of Lyova, linking "zdravstvuyte" ("hello"), "seychas" ("now"), and "ochen" ("very much") in one brisk exchange.
+- 'It is good to meet before the start of our joint work.' The guest chooses an emphatic rhythm straight away, combining "khorosho" ("good, fine") and "vstretitsya" ("to meet") so the key meaning lands right away.
+- 'Excuse me, did I interrupt you right now?' Barinov inquires plainly at this point, pairing "seychas" ("now") with "izvinite" ("sorry, excuse me") so the "-sya" ending carries the action.
+- 'I came to apologize for my phone call.' Barinov strikes a frank angle beside the guest, pairing "prishyol" ("came, have come") with "izvinitsya" ("to apologise") to get the point across in plain spoken Russian.
+- 'I want to say that you are very lucky.' Barinov conveys a firm position for Lyova, weaving "khochu" ("want") together with "skazat" ("tell") just the way native speakers do.
+- 'Lyova is the best cook in our restaurant.' Barinov takes a lively angle beside the guest, weaving "luchshiy" ("best") together with "povar" ("chef, cook") just the way native speakers do.
+- 'He has always been an excellent, reliable sous-chef.' Barinov displays a resolute direction with Lyova, combining "vsegda" ("always") and "byl" ("was") so the key meaning lands right away.
+- 'And I am sure he will be an excellent head chef.' Barinov sustains a grounded direction for the guest, joining "uveren" ("sure, confident") to "budet" ("will be") so every word pulls its weight.
+- 'Take care of him, and you forgive me, Lyova.' Barinov favors a direct attitude as they talk, weaving "beregite" ("take care of") together with "prosti" ("sorry, forgive me") just the way native speakers do.
+- 'I must respect your desire to leave.' Barinov holds a firm tempo in this beat, building the phrase around "dolzhen" ("has to, must") and "uvazhat" ("respect") for a crisp, natural delivery.
+- 'Actually, I was not even planning to leave.' Lyova displays an unhurried tack without hesitation, building the phrase around "sobiralsya" ("was going to") and "ukhodit" ("to leave") for a crisp, natural delivery.

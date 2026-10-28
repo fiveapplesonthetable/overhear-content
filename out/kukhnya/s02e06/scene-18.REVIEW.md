@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He did what?' Over the point and the moment, Senya presses Kristina for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And right now we are trying to get it back out.' Claiming that right now they are trying to get it back out sounds confident, even if Kristina has doubts.
-- 'It was not on purpose.' Pointing out that it was not on purpose gives Nagiyev a sobering reality check.
-- 'Why, you little...' With the work and kitchen in play, Senya keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Give me back my ring.' Here telling Kristina to give him back his ring sets up the next turn in their exchange.
-- 'Quiet, calm down, calm down, calm down.' Between the work and the moment, Kristina gives Nagiyev a quick, grounded response.
-- 'Yes, darling, I am on my way right now.' Even though darling he is on his way right now, Senya keeps a steady face in front of Kristina.
-- 'Did you hear that?' Asking whether Kristina hears cuts straight through the tension between Nagiyev and Kristina.
-- 'This old remedy right here.' Turning from the point to the ring, Kristina keeps the exchange moving. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'It ought to help.' Over the point and the room, Senya answers Kristina without a second thought.
-- 'Senya, open up.' Opening up is how Nagiyev lays out the situation for Kristina.
-- 'I am not going to drink that, I could get poisoned.' Noting that she is not going to drink that she could get poisoned keeps Kristina's side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Drink it right in front of me.' Even though Kristina should drink it right in front of him, Senya keeps a steady face in front of Kristina.
+- 'He did what?' Senya checks promptly for Kristina's benefit, joining "sdelal" ("did") to "chto" ("what") so every word pulls its weight.
+- 'And right now we are trying to get it back out.' Nagiyev picks an unhurried attitude at this moment, putting "seychas" ("now") alongside "pytayemsya" ("to try, to attempt") in a tight, everyday turn of phrase.
+- 'It was not on purpose.' Kristina offers a frank tempo straight away, putting "spetsialno" ("on purpose") alongside "ne" ("not") in a tight, everyday turn of phrase.
+- 'Why, you little...' Senya picks a thoughtful course beside Nagiyev, pairing "akh" ("ah, oh") with "ty" ("you") to get the point across in plain spoken Russian.
+- 'Give me back my ring.' Nagiyev maintains a warm style right away, pairing "verni" ("return") with "koltso" ("ring") to get the point across in plain spoken Russian.
+- 'Quiet, calm down, calm down, calm down.' Kristina sustains a firm mood as they talk, pairing "uspokoysya" ("calm down") with "tikho" ("easy, quiet") so the "-sya" ending carries the action.
+- 'Yes, darling, I am on my way right now.' Senya sets an easygoing posture for Kristina, combining "milyye" ("sweet") and "uzhe" ("already, now") so the key meaning lands right away.
+- 'Did you hear that?' Nagiyev checks wryly for Senya's benefit, using "slyshal" (from "slyshat", "heard") alongside "ty" ("you") to shape the meaning.
+- 'This old remedy right here.' Kristina shows a pointed angle for Nagiyev, building the phrase around "staroye" ("old") and "vot" ("there, here") for a crisp, natural delivery.
+- 'It ought to help.' Senya sets a clear line straight away, putting "dolzhno" ("ought, must") alongside "pomoch" ("to help") in a tight, everyday turn of phrase.
+- 'Senya, open up.' Nagiyev adopts a pointed line beside Kristina, putting "otkroy" ("to open") alongside "senya" ("Senya") in a tight, everyday turn of phrase.
+- 'I am not going to drink that, I could get poisoned.' Kristina strikes a resolute line across the room, building the phrase around "budu" ("will be") and "pit" ("drink") for a crisp, natural delivery.
+- 'Drink it right in front of me.' Senya displays a grounded tack right away, leaning on "pri" ("in the presence of") before closing the thought with "mne" ("to me").

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Whoa, long time no see, hello!' With the room and call at stake, Katya reacts without holding back.
-- 'Thank you very much, I am so glad to hear from you.' Mentioning that very much she is so glad to hear from Kristina moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Let us meet up tonight and celebrate.' Mentioning that they should meet up tonight and celebrate moves the talk in a new direction. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Who is going to forbid me, I am already an adult!' Saying that who is going to forbid her she is already an adult is how Katya takes charge of the moment.
-- 'I missed you very much, Dimochka.' With the phone and kitchen in play, Kristina keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And do you not miss me at all?' Asking whether Katya not miss her at all is how Kristina puts Katya on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I do not miss you at all right now!' Insisting that he does not miss Katya at all right now shows Nagiyev is not backing down.
-- 'Understand, we cannot see each other anymore.' Because Katya should understand they cannot see each other anymore, Nagiyev treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You are a young and very beautiful woman.' Saying that Katya is a young and very beautiful woman is how Nagiyev sets the tone with Katya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And I am a serious and married man now.' Noting that he is a serious and married man now keeps Nagiyev's side of the story simple and clear.
-- 'If my wife finds out, it will be the end of us both!' Saying that if his wife finds out it will be the end of them both is how Nagiyev takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'In short, I am waiting for you in the room upstairs!' Kristina declares that in short she is waiting for Katya in the room upstairs as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Whoa, long time no see, hello!' Katya shares a warm stance at this moment, linking "skolko" ("how much, so much"), "let" ("years"), and "zim" ("winters") in one brisk exchange.
+- 'Thank you very much, I am so glad to hear from you.' Katya chooses a resolute mood at this moment, linking "spasibo" ("thank you"), "bolshoye" ("big, very much"), and "ochen" ("very much") in one brisk exchange.
+- 'Let us meet up tonight and celebrate.' Katya conveys a warm footing at once, joining "davay" ("let's") to "vstretimsya" ("we'll meet") so every word pulls its weight.
+- 'Who is going to forbid me, I am already an adult!' Katya projects a direct posture for Nagiyev, putting "zapretit" ("to forbid, to ban") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
+- 'I missed you very much, Dimochka.' Kristina displays a playful posture straight away, anchoring the Russian line on "ochen" ("very much") and "soskuchilas" ("missed") without extra filler.
+- 'And do you not miss me at all?' Kristina checks directly in the room, combining the intensifier "sovsem" ("completely, at all") with "skuchayesh" ("to miss, yearn for") to give the line its natural spoken rhythm.
+- 'I do not miss you at all right now!' Nagiyev conveys a steady note in the room, leaning on "seychas" ("now") before closing the thought with "sovsem" ("at all").
+- 'Understand, we cannot see each other anymore.' Nagiyev displays a candid tack as the scene unfolds, anchoring the Russian line on "poymi" ("understand") and "mozhem" ("can") without extra filler.
+- 'You are a young and very beautiful woman.' Nagiyev presents a grounded approach as they talk, joining "devushka" ("girlfriend") to "molodaya" ("young") so every word pulls its weight.
+- 'And I am a serious and married man now.' Nagiyev adopts a warm style in front of Kristina, weaving "teper" ("now") together with "chelovek" ("a man, a person") just the way native speakers do.
+- 'If my wife finds out, it will be the end of us both!' Nagiyev keeps a steady footing in their talk, leaning on "zhena" ("wife") before closing the thought with "uznayet" ("will find out").
+- 'In short, I am waiting for you in the room upstairs!' Kristina brings an emphatic mood right away, joining "koroche" ("long story short") to "zhdu" ("I wait, expect") so every word pulls its weight.

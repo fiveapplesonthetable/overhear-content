@@ -7,7 +7,7 @@ SCENE = 11
 TITLE = "Услуга «Горничная в номер»  (The 'Maid to the Room' Service)"
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'katya': 'Катя', 'kostya': 'Костя'}
+LABELS = {'barinov': 'Шеф', 'katya': 'Катя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S5.04'
 SOURCE_FILE = 'sources/kukhnya/s05/e04.ru.srt'
 INTRO = "From suite 311, Katya calls Nastya to send Denis up with room service. Downstairs, Mikhail uses his new wish to force Barinov back into the maid's dress to fulfill a 'Chef to the Room' request in suite 313."
@@ -17,29 +17,29 @@ OUTRO = 'And that brings this scene at the hotel to a close. Listen out for how 
 CLOSING = ('katya', 'Хорошего дня!')
 STORY = [
     ('katya', 'Настя, я в триста одиннадцатом люксе, отправляй ко мне Дэна.', 'Nastya, I am in suite 311, send Dan up to me.', [(157, 'я в триста одиннадцатом люксе, отправляй ко мне Дэна')], 'adapted'),
-    ('kostya', 'Триста тринадцатый люкс, полчаса назад была заказана услуга «Шеф в номер».', "Luxury suite 313 ordered the 'Chef to the Room' service half an hour ago.", [(159, 'Триста тринадцатый люкс')], 'adapted'),
+    ('nastya', 'Триста тринадцатый люкс, полчаса назад была заказана услуга «Шеф в номер».', "Luxury suite 313 ordered the 'Chef to the Room' service half an hour ago.", [(159, 'Триста тринадцатый люкс')], 'adapted'),
     ('barinov', 'Вот же заказ.', 'Right, the order.', [(160, 'Вот же заказ')], 'adapted'),
     ('barinov', 'Лёва, сходи.', 'Lyova, go up there.', [(161, 'Лёва, сходи')], 'adapted'),
-    ('barinov', 'Витя, у нас нет услуги.', 'Vitya, we do not have a', [(162, 'Витя, у нас')], 'adapted'),
+    ('katya', 'Витя, у нас нет услуги.', 'Vitya, we do not have a', [(162, 'Витя, у нас')], 'adapted'),
     ('barinov', 'Лева в номер. Иди сам.', "'Lyova to the Room' service. Go yourself.", [(163, 'Лева в номер')], 'adapted'),
     ('barinov', 'Сейчас. Для вам не горничная по номерам бегать.', 'Yeah right. I am not a maid to be running around hotel rooms.', [(164, 'Сейчас. Для вам')], 'adapted'),
-    ('kostya', 'Михаил Джекович, ну скажите его, а?', 'Mikhail Dzhekovich, tell him, will you?', [(165, 'Михаил Джекович, ну')], 'adapted'),
-    ('barinov', 'А я считаю, что Виктор Петрович прав.', 'I actually think Viktor Petrovich is right.', [(166, 'А я считаю')], 'adapted'),
+    ('nastya', 'Михаил Джекович, ну скажите его, а?', 'Mikhail Dzhekovich, tell him, will you?', [(165, 'Михаил Джекович, ну')], 'adapted'),
+    ('katya', 'А я считаю, что Виктор Петрович прав.', 'I actually think Viktor Petrovich is right.', [(166, 'А я считаю')], 'adapted'),
     ('barinov', 'По номерам должны бегать горничные.', 'Maids are the ones who should be running around the rooms.', [(167, 'По номерам должны')], 'adapted'),
-    ('kostya', 'Виктор Петрович, вы бы хоть на диету сели!', 'Viktor Petrovich, you should at least go on a diet!', [(168, 'Виктор Петрович, вы бы хоть на диету сели')], 'adapted'),
-    ('kostya', 'Чи вы, может, себе оставить?', 'You can keep the tips for yourself!', [(170, 'Чи вы, может')], 'adapted'),
+    ('nastya', 'Виктор Петрович, вы бы хоть на диету сели!', 'Viktor Petrovich, you should at least go on a diet!', [(168, 'Виктор Петрович, вы бы хоть на диету сели')], 'adapted'),
+    ('nastya', 'Чи вы, может, себе оставить?', 'You can keep the tips for yourself!', [(170, 'Чи вы, может')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'Nastya, I am in suite 311, send Dan up to me.' Being in suite send up moves the conversation forward without extra drama."),
-    (1, None, "'Luxury suite 313 ordered the 'Chef to the Room' Over the shift and the dress, Kostya answers Barinov without a second thought."),
-    (2, None, "'Right, the order.' Around the shift and dress, Barinov sets a calm, everyday tone with Katya."),
-    (3, None, "'Lyova, go up there.' Telling Katya to go up there moves the conversation forward without extra drama."),
-    (4, None, '\'Vitya, we do not have a.\' Admitting that they do not have shows Barinov being honest for a change. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
-    (5, None, "''Lyova to the Room' Over the moment and the dress, Barinov answers Katya without a second thought."),
-    (6, None, '\'Yeah right. I am not a maid to be running around hotel rooms.\' Saying that he is not a maid to be running around hotel rooms is how Barinov sets the tone with Katya. Notice how he sticks to the formal "you", keeping a professional line between them.'),
-    (7, None, '\'Mikhail Dzhekovich, tell him, will you?\' Kostya asks whether tell him will Barinov, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (8, None, "'I actually think Viktor Petrovich is right.' Barinov reminds Katya that he actually think Viktor Petrovich is right before the moment passes."),
-    (9, None, "'Maids are the ones who should be running around the rooms.' Because maids are the ones who should be running around the rooms, Barinov treats the matter as settled."),
-    (10, None, '\'Viktor Petrovich, you should at least go on a diet!\' Kostya declares that Barinov should at least go on a diet as the tension in the room peaks. Notice how he sticks to the formal "you", keeping a professional line between them.'),
-    (11, None, "'You can keep the tips for yourself!' Kostya asks whether Barinov can keep the tips for themselves, refusing to let the point slide."),
+    (0, None, '\'Nastya, I am in suite 311, send Dan up to me.\' Katya shares a natural manner during the exchange, putting "lyukse" ("in the luxury suite") alongside "otpravlyay" ("send") in a tight, everyday turn of phrase.'),
+    (1, None, '\'Luxury suite 313 ordered the \'Chef to the Room\' Nastya favors an unhurried style across the room, joining "lyuks" ("luxury suite") to "polchasa" ("half-hour") so every word pulls its weight.'),
+    (2, None, '\'Right, the order.\' Barinov establishes a clear tone toward Katya, anchoring the Russian line on "zakaz" ("order") and "vot" ("there, here") without extra filler.'),
+    (3, None, '\'Lyova, go up there.\' Barinov shares a serious note with Nastya, weaving "skhodi" ("go") together with "lyova" ("Lyova") just the way native speakers do.'),
+    (4, None, '\'Vitya, we do not have a.\' Katya brings an unhurried note during the exchange, leaning on "uslugi" ("services") before closing the thought with "vitya" ("Vitya").'),
+    (5, None, '\'\'Lyova to the Room\' Barinov keeps an easygoing manner with Nastya, weaving "nomer" ("number") together with "idi" ("go") just the way native speakers do.'),
+    (6, None, '\'Yeah right. I am not a maid to be running around hotel rooms.\' Barinov adopts a measured line in the scene, pairing "seychas" ("now") with "gornichnaya" ("maid") to get the point across in plain spoken Russian.'),
+    (7, None, '\'Mikhail Dzhekovich, tell him, will you?\' Nastya wonders plainly beside Katya, putting "skazhite" ("tell") alongside "mikhail" ("Mikhail") in a tight, everyday turn of phrase.'),
+    (8, None, '\'I actually think Viktor Petrovich is right.\' Katya displays a measured attitude at this moment, putting "schitayu" ("am counting") alongside "prav" ("right") in a tight, everyday turn of phrase.'),
+    (9, None, '\'Maids are the ones who should be running around the rooms.\' Barinov brings a measured style in their talk, pairing "nomeram" ("around the rooms") with "dolzhny" ("must, should") to get the point across in plain spoken Russian.'),
+    (10, None, '\'Viktor Petrovich, you should at least go on a diet!\' Nastya maintains an unhurried tempo toward Barinov, combining "diyetu" ("diet") and "seli" ("to sit down") so the key meaning lands right away.'),
+    (11, None, '\'You can keep the tips for yourself!\' Nastya asks sharply toward Katya here, pairing "chi" ("tips") with "mozhet" ("can") to get the point across in plain spoken Russian.'),
 ]

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, what just happened?' With the room and guest hanging in the air, Kostya puts Denis on the spot.
-- 'I just pressed a button back there.' Between the guest and the room, Denis gives Kostya a quick, grounded response.
-- 'And everything suddenly switched itself off.' With the guest and restaurant in play, Denis keeps this short reply brisk and direct.
-- 'You are poking your fingers where you should not!' Nagiyev insists that Denis is poking Denis's fingers where Denis should not, leaving Denis no room to argue.
-- 'Make sure there is light in here in half an hour!' Nagiyev declares that Denis should make sure there is light in here in half an hour as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Go on quickly, I told you!' Because Denis should go on quickly he told Denis, Nagiyev does not bother softening the blow for Denis. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'And you owe a fine for this!' Because Denis owes a fine for this, Nagiyev does not bother softening the blow for Denis.
-- 'And you, create an atmosphere for us.' Over the guest and the restaurant, Nagiyev answers Denis without a second thought. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Play a beautiful melody for us.' Saying that Denis should play a beautiful melody for them is how Nagiyev sets the tone with Denis.
-- 'All right, I will play for you right now.' Mentioning that all right he will play for Kostya right now moves the talk in a new direction.
-- 'That is definitely a short circuit.' Kostya mentions that that is definitely a short circuit so Denis sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Quickly bring candles to the tables!' Over the guest and the truth, Nagiyev lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Oh, what just happened?' Kostya queries steadily as the beat lands, leaning on "seychas" ("now") before closing the thought with "sluchilos" ("happened").
+- 'I just pressed a button back there.' Denis shares a candid position in the room, putting "prosto" ("just") alongside "nazhal" ("pressed") in a tight, everyday turn of phrase.
+- 'And everything suddenly switched itself off.' Denis picks an earnest approach in the room, pairing "vdrug" ("suddenly, what if") with "vyklyuchilos" ("to off") to get the point across in plain spoken Russian.
+- 'You are poking your fingers where you should not!' Nagiyev projects a grounded style on the spot, using "nazhimayesh" (from "nazhimat", "to poking") alongside "paltsami" ("finger, toe") to shape the meaning.
+- 'Make sure there is light in here in half an hour!' Nagiyev sustains a firm footing during the exchange, leaning on "polchasa" ("half-hour") before closing the thought with "zdes" ("here").
+- 'Go on quickly, I told you!' Nagiyev projects a serious approach right away, anchoring the Russian line on "davay" ("let's") and "bystro" ("quickly") without extra filler.
+- 'And you owe a fine for this!' Nagiyev chooses a brisk manner at once, linking "shtraf" ("fine"), "tebya" ("you"), and "za" ("for") in one brisk exchange.
+- 'And you, create an atmosphere for us.' Nagiyev displays a lively rhythm at this moment, pairing "sozday" ("to create, establish") with "atmosferu" ("atmosphere") to get the point across in plain spoken Russian.
+- 'Play a beautiful melody for us.' Nagiyev brings a wry direction without hesitation, pairing "sygray" ("play") with "krasivuyu" ("pretty") to get the point across in plain spoken Russian.
+- 'All right, I will play for you right now.' Denis establishes a playful note across the room, anchoring the Russian line on "khorosho" ("good, fine") and "seychas" ("now") without extra filler.
+- 'That is definitely a short circuit.' Kostya adopts an earnest mood during the exchange, putting "tochno" ("definitely") alongside "korotkoye" ("short, brief") in a tight, everyday turn of phrase.
+- 'Quickly bring candles to the tables!' Nagiyev holds a direct attitude on the spot, combining "bystro" ("quickly") and "nesite" ("bring") so the key meaning lands right away.

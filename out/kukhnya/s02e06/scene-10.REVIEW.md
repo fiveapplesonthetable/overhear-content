@@ -17,7 +17,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Шеф | Я сам. | I can do it myself. | #168: Я сам | verbatim |
 | 6 | Лёва | Да ладно, мне не сложно. | Oh come on, it is no trouble for me. | #169: Да ладно, мне не сложно | verbatim |
 | 7 | Шеф | Спасибо, не надо. | Thank you, there is no need. | #170: Спасибо, не надо | verbatim |
-| 8 | Лёва | Ну как ты, Лёва? | Well, how are you holding up, Lyova? | #171: Ну как ты, Лёва | verbatim |
+| 8 | Макс | Ну как ты, Лёва? | Well, how are you holding up, Lyova? | #171: Ну как ты, Лёва | verbatim |
 | 9 | Шеф | Не совсем. | Not quite. | #172: Не совсем | verbatim |
 | 10 | Лёва | А, поговорить надо ведь. | Right, we need to have a talk. | #173: А, поговорить надо ведь | verbatim |
 | 11 | Шеф | Нам с тобой поговорить надо. | You and I need to have a talk. | #174: Нам с тобой поговорить надо | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The Chef told me to bring you some ice.' Barinov mentions that the Chef told him to bring Lyova some ice so Lyova sees what is at stake.
-- 'He said you bumped yourself.' Claiming that he said Barinov bumped themselves sounds confident, even if Barinov has doubts. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Oh, yes.' With the moment and plan in play, Barinov keeps this short reply brisk and direct.
-- 'I will help you with that.' Lyova explains that he will help Barinov, keeping his voice calm and direct.
-- 'I can do it myself.' Realizing that he can do it himself changes how Barinov handles the situation.
-- 'Oh come on, it is no trouble for me.' Here telling Barinov to come on it is no trouble for him sets up the next turn in their exchange.
-- 'Thank you, there is no need.' Even though there is no need, Barinov keeps a steady face in front of Lyova.
-- 'Well, how are you holding up, Lyova?' Asking how Barinov holding up is cuts straight through the tension between Lyova and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Not quite.' With the conversation and truth in play, Barinov keeps this short reply brisk and direct.
-- 'Right, we need to have a talk.' Once right they need to have a talk, Lyova can finally tell Barinov what he means.
-- 'You and I need to have a talk.' Adding that Lyova and he needs to have a talk fills in the missing piece for Lyova. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Why are you looking so pale, huh?' Wondering why Barinov looking so pale huh is cuts straight through the tension between Lyova and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Where did all the blood go from your face?' Asking where all the blood go from Lyova's face is how Barinov puts Lyova on the spot.
+- 'The Chef told me to bring you some ice.' Barinov presents a resolute tempo beside Lyova, combining "skazal" ("said") and "lyod" ("ice") so the key meaning lands right away.
+- 'He said you bumped yourself.' Lyova keeps a direct angle in this beat, joining "skazal" ("said") to "udarilis" ("to hit") so every word pulls its weight.
+- 'Oh, yes.' Barinov maintains a grounded tempo at this moment, leaning on "da" ("yes") as a compact, one-word response that needs no extra words.
+- 'I will help you with that.' Lyova projects a brisk tempo beside Max, using "pomogu" (from "pomoch", "I'll help") alongside "ya" ("I") to shape the meaning.
+- 'I can do it myself.' Barinov projects a direct view with Lyova, joining "ya" ("I") to "sam" ("yourself") so every word pulls its weight.
+- 'Oh come on, it is no trouble for me.' Lyova holds an unhurried note during the exchange, joining "slozhno" ("difficult") to "da" ("yes") so every word pulls its weight.
+- 'Thank you, there is no need.' Barinov favors a wry rhythm during the exchange, anchoring the Russian line on "spasibo" ("thank you") and "nado" ("it is necessary") without extra filler.
+- 'Well, how are you holding up, Lyova?' Max queries steadily in the room, pairing "kak" ("how") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
+- 'Not quite.' Barinov sets an easygoing attitude at this moment, joining "sovsem" ("at all") to "ne" ("not") so every word pulls its weight.
+- 'Right, we need to have a talk.' Lyova favors a natural rhythm on the spot, anchoring the Russian line on "pogovorit" ("to talk") and "nado" ("it is necessary") without extra filler.
+- 'You and I need to have a talk.' Barinov brings a pointed approach in the conversation, pairing "pogovorit" ("to talk") with "nado" ("it is necessary") to get the point across in plain spoken Russian.
+- 'Why are you looking so pale, huh?' Lyova challenges boldly beside Max, pairing "blednoye" ("pale") with "chto" ("what") to get the point across in plain spoken Russian.
+- 'Where did all the blood go from your face?' Barinov questions frankly to Lyova here, pairing "delas" ("to go, vanish") with "kuda" ("where to") so the "-sya" ending carries the action.

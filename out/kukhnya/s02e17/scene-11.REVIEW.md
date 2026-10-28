@@ -11,13 +11,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Макс | Я-то подумал. | I was just thinking about it. | #164: я-то подумал | verbatim |
-| 2 | Костя | Ты друг Костя с Сашей хорошо общаешься. | You are pal, Kostya, and you get along great with Sasha. | #164: ты друг Костя с Сашей хорошо общаешься | verbatim |
+| 2 | Макс | Ты друг Костя с Сашей хорошо общаешься. | You are pal, Kostya, and you get along great with Sasha. | #164: ты друг Костя с Сашей хорошо общаешься | verbatim |
 | 3 | Саша | Че нам ссориться, глупо? | Why should we quarrel, it is silly, right? | #165: Че нам ссориться, глупо | verbatim |
 | 4 | Макс | Че нам с тобой делить? | What could we possibly have to fight over? | #167: Че нам с тобой делить | verbatim |
 | 5 | Костя | Я, Макс, подай соль. | Hey Max, pass the salt. | #168: Я, Макс, подай соль | verbatim |
 | 6 | Саша | А что, я не против? | Why not, I do not mind at all. | #170: А что, я не против | verbatim |
 | 7 | Макс | Костян, ты как? | Kostyan, how are you holding up? | #171: Костян, ты как | verbatim |
-| 8 | Костя | Костян, Костя. | Kostyan, hey, Kostya. | #172: Костян, Костя | verbatim |
+| 8 | Саша | Костян, Костя. | Kostyan, hey, Kostya. | #172: Костян, Костя | verbatim |
 | 9 | Саша | Да, да, да. | Yes, yes, of course. | #173: Да, да, да | verbatim |
 | 10 | Макс | Давайте отпразднуем мы. | Let us celebrate together. | #174: Давайте отпразднуем мы | verbatim |
 | 11 | Костя | Сверкает зимняя луна. | The winter moon is sparkling. | #178: сверкает зимняя луна | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was just thinking about it.' Admitting that he was just thinking about it shows Max being honest for a change.
-- 'You are pal, Kostya, and you get along great with Sasha.' Saying that Max is pal Kostya and Max gets along great with Sasha is how Kostya sets the tone with Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Why should we quarrel, it is silly, right?' By wondering why they quarrel it is silly right should, Sasha presses Kostya for a straight answer.
-- 'What could we possibly have to fight over?' Asking what they possibly have to fight could cuts straight through the tension between Max and Kostya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Hey Max, pass the salt.' Admitting that Max should pass the salt shows Kostya being honest for a change.
-- 'Why not, I do not mind at all.' Asking whether why not she does not mind at all puts Kostya right on the defensive.
-- 'Kostyan, how are you holding up?' Wondering if someone how are Kostya holding up shows Max caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Kostyan, hey, Kostya.' With the conversation and table in play, Kostya keeps this short reply brisk and direct.
-- 'Yes, yes, of course.' Around the conversation and table, Sasha sets a calm, everyday tone with Kostya.
-- 'Let us celebrate together.' Once they should celebrate together, Max can finally tell Kostya what he means. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'The winter moon is sparkling.' Kostya mentions that the winter moon is sparkling so Max sees what is at stake.
-- 'Why, you are simply a champion!' Declaring that why Kostya is simply a champion brings Sasha's temper right to the surface.
-- 'Beyond all praise.' Around the work and table, Max sets a calm, everyday tone with Kostya.
+- 'I was just thinking about it.' Max adopts a brisk view toward Kostya, pairing "podumal" ("would think") with "ya-to" ("I") to get the point across in plain spoken Russian.
+- 'You are pal, Kostya, and you get along great with Sasha.' Max establishes a candid course in the room, anchoring the Russian line on "drug" ("friend") and "khorosho" ("good, fine") without extra filler.
+- 'Why should we quarrel, it is silly, right?' Sasha presses steadily from the start, building the phrase around "ssoritsya" ("to quarrel") and "glupo" ("stupid") for a crisp, natural delivery.
+- 'What could we possibly have to fight over?' Max questions boldly in front of Sasha, combining "delit" ("to divide, share") and "che" ("what") so the key meaning lands right away.
+- 'Hey Max, pass the salt.' Kostya keeps a warm tempo toward Max, linking "poday" ("to submit, file"), "sol" ("salt"), and "ya" ("I") in one brisk exchange.
+- 'Why not, I do not mind at all.' Sasha tests dryly for Max's benefit, putting "chto" ("what") alongside "ya" ("I") in a tight, everyday turn of phrase.
+- 'Kostyan, how are you holding up?' Max inquires promptly for Kostya's benefit, leaning on "kak" ("how") before closing the thought with "kostyan" ("Kostyan").
+- 'Kostyan, hey, Kostya.' Sasha sets a direct stance right away, pairing "kostyan" ("Kostyan") with "kostya" ("Kostya") to get the point across in plain spoken Russian.
+- 'Yes, yes, of course.' Sasha maintains a grounded attitude across the room, putting all the weight on "da" ("yes") so the reply lands immediately.
+- 'Let us celebrate together.' Max favors an easygoing direction in the conversation, using "davayte" (from "davat", "let's") alongside "otprazdnuyem" ("to celebrate") to shape the meaning.
+- 'The winter moon is sparkling.' Kostya presents a resolute position in front of Max, leaning on "sverkayet" ("to sparkle") before closing the thought with "zimnyaya" ("winter, wintry").
+- 'Why, you are simply a champion!' Sasha shares an honest line for Max, placing "prosto" ("just") straight beside "molodets" ("well done, good boy") with no word for "to be" needed.
+- 'Beyond all praise.' Max holds a steady line straight away, building the phrase around "brakovatsya" ("to be rejected as defective") and "negde" ("nowhere") for a crisp, natural delivery.

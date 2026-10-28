@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, why did you not tell me about this right away?' Asking why Barinov not tell him about this right away cuts straight through the tension between Kostya and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I simply did not want to say anything in advance.' Because he simply did not want to say anything in advance, Max treats the matter as settled.
-- 'Alright, it is still very cool, my friend!' Insisting that Alright it is still very cool shows Kostya is not backing down.
-- 'Guys, let us drink to my colleague Maxim!' Proposing that they drink to his colleague Maxim is Kostya's blunt reaction in front of Barinov. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'I do not understand, who gave the order to drink?' With the ticket and work hanging in the air, Barinov puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Chef, we are seeing our Max off.' Pointing out that they are seeing their Max off gives Barinov a sobering reality check.
-- 'What, did he die like that horse?' Here asking what he die like that horse shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, he quit and will now work at another restaurant.' Pointing out that he quit and will now work at another restaurant gives Barinov a sobering reality check.
-- 'Well, if you are leaving, then get your final settlement!' Because if Kostya is leaving then get Kostya's final settlement, Barinov does not bother softening the blow for Kostya.
-- 'What an ungrateful person you are after all!' Insisting that what an ungrateful person Kostya is after all shows Barinov is not backing down. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'How I sensed it right away, get out of here!' Between the job and the point, Barinov delivers a sharp reaction. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I am Maxim, and did you bring me the ticket?' Being Maxim and did Barinov brings him the ticket is how Max puts Barinov on the spot.
+- 'Max, why did you not tell me about this right away?' Kostya checks honestly at this point, weaving "srazu" ("at once") together with "skazal" ("said") just the way native speakers do.
+- 'I simply did not want to say anything in advance.' Max keeps a lively note at once, weaving "prosto" ("just") together with "zaraneye" ("in advance") just the way native speakers do.
+- 'Alright, it is still very cool, my friend!' Kostya takes an honest angle as the scene unfolds, combining "ravno" ("the same") and "ochen" ("very much") so the key meaning lands right away.
+- 'Guys, let us drink to my colleague Maxim!' Kostya favors a natural direction right away, leaning on "rebyata" ("the boys, the lads") before closing the thought with "davayte" ("let's").
+- 'I do not understand, who gave the order to drink?' Barinov challenges plainly for Kostya's benefit, combining "ponyal" ("understood") and "daval" ("gave") so the key meaning lands right away.
+- 'Chef, we are seeing our Max off.' Kostya shows an unhurried line in their talk, linking "provozhayem" ("see off"), "shef" ("Chef"), and "tak" ("so") in one brisk exchange.
+- 'What, did he die like that horse?' Barinov presses candidly to make the point, leaning on "umer" ("died") before closing the thought with "kak" ("how").
+- 'No, he quit and will now work at another restaurant.' Kostya shows a frank course with Max, combining "uvolilsya" ("quit, resigned") and "teper" ("now") so the key meaning lands right away.
+- 'Well, if you are leaving, then get your final settlement!' Barinov takes a warm rhythm on the spot, using "ukhodish" (from "ukhodit", "are leaving") alongside "togda" ("back then") to shape the meaning.
+- 'What an ungrateful person you are after all!' Barinov takes a serious manner during the exchange, leaning on "neblagodarnyy" ("ungrateful") before closing the thought with "chelovek" ("a man, a person").
+- 'How I sensed it right away, get out of here!' Barinov presents a firm manner in the scene, joining "kak" ("how") to "srazu" ("at once") so every word pulls its weight.
+- 'I am Maxim, and did you bring me the ticket?' Max probes wryly without holding back, joining "bilet" ("ticket") to "privezli" ("delivered, brought") so every word pulls its weight.

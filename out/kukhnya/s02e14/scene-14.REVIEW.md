@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Вика | Из-за него у нас гость ушел. | Because of him, a guest walked out on us. | #241: Из-за него у нас гость ушел | verbatim |
 | 4 | Макс | Я разберусь. | I will get to the bottom of this. | #243: Я разберусь | verbatim |
 | 5 | Шеф | Вот именно. | That is right. | #244: Вот именно | verbatim |
-| 6 | Вика | Или я сам блюда забрал? | Or did I ruin the dish myself? | #245: Или я сам блюда забрал | verbatim |
+| 6 | Макс | Или я сам блюда забрал? | Or did I ruin the dish myself? | #245: Или я сам блюда забрал | verbatim |
 | 7 | Макс | Ну, ушел и ушел. | Well, he left, big deal. | #246: Ну, ушел и ушел | verbatim |
 | 8 | Шеф | Иди работай. | Go back to work. | #247: Иди работай | verbatim |
 | 9 | Вика | Знаете, не стал дожидаться возвращения Виктора Петровича. | You know, I decided not to wait for Viktor Petrovich to return. | #249: Знаете, не стал дожидаться возвращения Виктора Петровича | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In your opinion, is this normal?' When Max asks if in Barinov's opinion is this normal, Barinov has to answer fast. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Who did this?' Barinov asks whether who did this, refusing to let the point slide. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Because of him, a guest walked out on us.' Realizing that because of him a guest walked out on them changes how Vika handles the situation.
-- 'I will get to the bottom of this.' Noting that he will get to the bottom of this keeps Max's side of the story simple and clear.
-- 'That is right.' Even though that is right, Barinov keeps a steady face in front of Max.
-- 'Or did I ruin the dish myself?' Here checking whether she ruins the dish herself shows Vika looking for the real truth.
-- 'Well, he left, big deal.' Saying that he left big deal is how Max sets the tone with Barinov.
-- 'Go back to work.' Going back to work is how Barinov lays out the situation for Max.
-- 'You know, I decided not to wait for Viktor Petrovich to return.' Adding that she decided not to wait for Viktor Petrovich to return fills in the missing piece for Barinov.
-- 'As it turned out, that was a big mistake.' Max tells Barinov that as it turned out that was a big mistake without dressing it up.
-- 'I was just at Claude Monet.' Since he was just at Claude Monet, Barinov does not waste words on excuses.
-- 'They brought me a dish buried under a mountain of salt.' Mentioning that they brought her a dish buried under a mountain of salt moves the talk in a new direction.
-- 'Their kitchen must be falling apart without him.' Max reminds Barinov that their kitchen must be falling apart without him before the moment passes.
+- 'In your opinion, is this normal?' Max prompts frankly without holding back, anchoring the Russian line on "po-tvoyemu" ("wife") and "normalno" ("fine, OK") without extra filler.
+- 'Who did this?' Barinov checks evenly across the room, using "sdelal" (from "sdelat", "did") alongside "kto" ("who") to shape the meaning.
+- 'Because of him, a guest walked out on us.' Vika favors a firm note in the conversation, weaving "gost" ("guest") together with "ushel" ("left, would leave") just the way native speakers do.
+- 'I will get to the bottom of this.' Max shares a resolute tack at this moment, pairing "razberus" ("I will sort out") with "ya" ("I") so the "-sya" ending carries the action.
+- 'That is right.' Barinov maintains a steady tack in their talk, anchoring the Russian line on "vot" ("there, here") and "imenno" ("exactly, precisely") without extra filler.
+- 'Or did I ruin the dish myself?' Max wonders steadily at this point, linking "blyuda" ("of dish"), "zabral" ("takes it back"), and "ili" ("or") in one brisk exchange.
+- 'Well, he left, big deal.' Max favors a direct stance across the room, putting "ushel" ("left, would leave") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
+- 'Go back to work.' Barinov projects a steady bearing across the room, combining "idi" ("go") and "rabotay" ("work") so the key meaning lands right away.
+- 'You know, I decided not to wait for Viktor Petrovich to return.' Vika establishes a clear angle on the spot, anchoring the Russian line on "znayete" ("know") and "stal" ("to become") without extra filler.
+- 'As it turned out, that was a big mistake.' Max holds a direct footing for Vika, building the phrase around "kak" ("how") and "okazalos" ("turned out") for a crisp, natural delivery.
+- 'I was just at Claude Monet.' Barinov brings an unhurried tack in the conversation, anchoring the Russian line on "tolko" ("only") and "byl" ("was") without extra filler.
+- 'They brought me a dish buried under a mountain of salt.' Vika establishes a sharp stance in the room, anchoring the Russian line on "prinesli" ("brought") and "blyuda" ("of dish") without extra filler.
+- 'Their kitchen must be falling apart without him.' Max presents a warm note as the scene unfolds, weaving "navernoye" ("probably") together with "kukhnya" ("kitchen") just the way native speakers do.

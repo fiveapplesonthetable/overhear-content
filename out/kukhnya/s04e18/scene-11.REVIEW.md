@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is my knife, has nobody seen it?' Asking where his knife has nobody seen it is cuts straight through the tension between German and Barinov. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Who is having so much fun in here today?' Wondering who having so much fun in here today is is how German puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I am asking once again, where is my knife?' By being asking once again where is his knife, German presses Barinov for a straight answer.
-- 'Isn't this one right here your knife?' By asking whether not this one right here Fedya's knife, Barinov presses Fedya for a straight answer. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Why is my knife so hot?' Wondering why his knife so hot is cuts straight through the tension between German and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Excuse me, it was lying near the stove.' Claiming that it was lying near the stove sounds confident, even if Fedya has doubts.
-- 'All right, stop, what are you hiding there?' Questioning whether all right stop what are Barinov hiding there is how German tests Barinov's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What is that in your hand right now?' By wondering what that in Barinov's hand right now is, German presses Barinov for a straight answer. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'It is just fresh green dill.' Realizing that it is just fresh green dill changes how Fedya handles the situation.
-- 'Dill? Why do you need it in here?' Wondering why Barinov needs it in here is how German puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Do you want some? It is very healthy.' Here checking whether Barinov wants some shows Fedya looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Let's get out of here to the kitchen faster.' Barinov mentions that they should get out of here to the kitchen faster so Fedya sees what is at stake.
+- 'Where is my knife, has nobody seen it?' German probes lightly in the scene, combining "gde" ("where") and "nozh" ("knife") so the key meaning lands right away.
+- 'Who is having so much fun in here today?' German wonders warmly on the spot, linking "tut" ("here") directly with "segodnya" ("today"), since Russian drops "is" and "are" in the present.
+- 'I am asking once again, where is my knife?' German questions bluntly in their exchange, anchoring the Russian line on "yeshchyo" ("more, still") and "raz" ("time, once") without extra filler.
+- 'Isn't this one right here your knife?' Barinov questions earnestly as they speak, pairing "nozh" ("knife") with "vot" ("there, here") to get the point across in plain spoken Russian.
+- 'Why is my knife so hot?' German challenges lightly right away, anchoring the Russian line on "pochemu" ("why") and "nozh" ("knife") without extra filler.
+- 'Excuse me, it was lying near the stove.' Barinov strikes a natural position beside German, weaving "izvinite" ("sorry, excuse me") together with "lezhal" ("to lie, to rest") just the way native speakers do.
+- 'All right, stop, what are you hiding there?' German prompts sharply at this point, anchoring the Russian line on "stoy" ("stop, wait") and "tam" ("there") without extra filler.
+- 'What is that in your hand right now?' German tests evenly with Fedya now, putting "seychas" ("now") alongside "ruke" ("hand") in a tight, everyday turn of phrase.
+- 'It is just fresh green dill.' Fedya brings a measured tack for Barinov, pairing "prosto" ("just") with "svezhiy" ("fresh") to get the point across in plain spoken Russian.
+- 'Dill? Why do you need it in here?' German probes promptly across the room, joining "ukrop" ("dill") to "zachem" ("what for") so every word pulls its weight.
+- 'Do you want some? It is very healthy.' Fedya tests briskly across the room, leaning on "khotite" ("want") before closing the thought with "nemnogo" ("a bit").
+- 'Let's get out of here to the kitchen faster.' Barinov conveys an easygoing style without hesitation, using "poshli" (from "poyti", "let's go") alongside "bystreye" ("faster") to shape the meaning.

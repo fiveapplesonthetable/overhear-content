@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'One milligram of its poison is enough to kill.' Adding that one milligram of its poison is enough to kill fills in the missing piece for Barinov.
-- 'Only the very best chefs prepare fugu fish.' With the room and fish in play, Max keeps this short reply brisk and direct.
-- 'Because fugu never forgives mistakes.' Since because fugu never forgives mistakes, Max does not waste words on excuses.
-- 'Of course I know what there is to cook.' Knowing what there is to cook is how Max lays out the situation for Barinov.
-- 'It is almost the exact same thing as a carp.' Saying that it is almost the exact same thing as a carp is how Max sets the tone with Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Excellent, then we will take the fugu from Timur right now.' Because excellent then they will take the fugu from Timur right now, Barinov treats the matter as settled.
-- 'You will prepare it yourself and eat it yourself.' Explaining that Max will prepare it themselves and eat it themselves lays the cards on the table for Max. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'If you stay alive, I will admit you are better.' Barinov mentions that if Max stays alive he will admit Max is better so Max sees what is at stake. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Wait, Chef, are you going to cook it too?' Asking whether Barinov going to cook it cuts straight through the tension between Max and Barinov.
-- 'And why should I have to cook it?' Wondering why he has to cook it should is how Barinov puts Max on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It is a bet, what if you do not know how yourself?' Wondering if it is a bet what if Barinov does not know how themselves shows Max caught off guard. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Agreed, go write your will, Oguzok!' Once agreed go write Max's will Oguzok, Barinov makes sure Max hears every word.
+- 'One milligram of its poison is enough to kill.' Max takes a candid tempo as they talk, linking "milligramma" ("milligram"), "yada" ("poison, venom"), and "khvatit" ("enough") in one brisk exchange.
+- 'Only the very best chefs prepare fugu fish.' Max strikes a wry stance right away, weaving "rybu" ("fish") together with "fugu" ("fugu, pufferfish") just the way native speakers do.
+- 'Because fugu never forgives mistakes.' Max holds an honest style in front of Barinov, joining "potomu" ("because") to "fugu" ("fugu, pufferfish") so every word pulls its weight.
+- 'Of course I know what there is to cook.' Max keeps an earnest line in the scene, joining "konechno" ("of course") to "znayu" ("know") so every word pulls its weight.
+- 'It is almost the exact same thing as a carp.' Max shares a serious tack as they talk, building the phrase around "pochti" ("almost") and "samoye" ("the most") for a crisp, natural delivery.
+- 'Excellent, then we will take the fugu from Timur right now.' Barinov conveys a warm note for Max, linking "otlichno" ("perfect, great"), "togda" ("back then"), and "seychas" ("now") in one brisk exchange.
+- 'You will prepare it yourself and eat it yourself.' Barinov shares a measured manner on the spot, leaning on "prigotovish" ("will prepare") before closing the thought with "syesh" ("eat").
+- 'If you stay alive, I will admit you are better.' Barinov projects a wry footing in the scene, pairing "ostaneshsya" ("will stay") with "zhiv" ("alive") to get the point across in plain spoken Russian.
+- 'Wait, Chef, are you going to cook it too?' Max asks evenly to make the point, putting "podozhdite" ("wait") alongside "tozhe" ("too") in a tight, everyday turn of phrase.
+- 'And why should I have to cook it?' Barinov checks openly in this moment, weaving "zachem" ("what for") together with "dolzhen" ("has to, must") just the way native speakers do.
+- 'It is a bet, what if you do not know how yourself?' Max prompts sharply on the spot, anchoring the Russian line on "pari" ("bet, wager") and "vdrug" ("suddenly, what if") without extra filler.
+- 'Agreed, go write your will, Oguzok!' Barinov favors a resolute note in their talk, using "soglasen" (from "soglasnyy", "agreed") alongside "idi" ("go") to shape the meaning.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Does it really suit me?' By checking whether it really suit him, Barinov presses Vika for a straight answer.
-- 'You are not allowed in here.' Saying that Barinov is not allowed in here is how Vika sets the tone with Barinov. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Vika, stop this circus right now.' By telling Vika to stop this circus right now, Barinov keeps his side of the story grounded. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Vitya, you are the head chef of this restaurant.' Pointing out that Barinov is the head of this restaurant gives Barinov a sobering reality check.
-- 'Do you think this behavior is normal?' By asking whether Vika thinks this behavior is normal, Barinov presses Vika for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well, I was not cooking food inside the restroom.' Realizing that she was not cooking food inside the restroom changes how Vika handles the situation.
-- 'Let us go back to the kitchen.' Proposing that they go back to the kitchen is how Barinov lays out the situation for Vika.
-- 'She is my very first regular client.' Because she is her very first regular client, Vika treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Got it? Well?' Over the room and the guest, Barinov presses Vika for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Tell her two minutes and everything will be ready.' Saying that Barinov should tell her two minutes and everything will be ready is how Vika sets the tone with Barinov.
-- 'Just look at what a man he is.' Once just look at what a man he is, Barinov can finally tell Vika what he means.
-- 'He can satisfy a woman in two minutes flat.' Adding that he can satisfy a woman in two minutes flat fills in the missing piece for Barinov.
-- 'Oh, get out of here already.' Claiming that Vika should get out of here already sounds confident, even if Vika has doubts.
+- 'Does it really suit me?' Barinov checks pointedly toward Vika here, weaving "pravda" ("honestly") together with "idet" ("go, walk") just the way native speakers do.
+- 'You are not allowed in here.' Vika chooses a frank attitude toward Barinov, linking "syuda" ("here") directly with "nelzya" ("not allowed"), since Russian drops "is" and "are" in the present.
+- 'Vika, stop this circus right now.' Barinov presents a direct tack as the scene unfolds, anchoring the Russian line on "prekrashchay" ("all") and "tsirk" ("circus") without extra filler.
+- 'Vitya, you are the head chef of this restaurant.' Vika picks a firm bearing at this moment, placing "shef-povar" ("head chef") straight beside "restorana" ("restaurant") with no word for "to be" needed.
+- 'Do you think this behavior is normal?' Barinov tests frankly in their exchange, putting "dumayesh" ("think") alongside "normalno" ("fine, OK") in a tight, everyday turn of phrase.
+- 'Well, I was not cooking food inside the restroom.' Vika displays a playful tack on the spot, pairing "tualete" ("the toilet") with "yedu" ("am driving") to get the point across in plain spoken Russian.
+- 'Let us go back to the kitchen.' Barinov conveys an honest attitude at once, weaving "poydem" ("let's go") together with "kukhnyu" ("kitchen") just the way native speakers do.
+- 'She is my very first regular client.' Vika adopts a clear view at this moment, putting "pervyy" ("first") alongside "postoyannyy" ("regular") in a tight, everyday turn of phrase.
+- 'Got it? Well?' Barinov probes honestly in their exchange, joining "ponyal" ("understood") to "nu" ("oh, come on") so every word pulls its weight.
+- 'Tell her two minutes and everything will be ready.' Vika projects a natural rhythm with Barinov, building the phrase around "skazhi" ("say") and "minuty" ("minutes") for a crisp, natural delivery.
+- 'Just look at what a man he is.' Barinov maintains a thoughtful tempo as they talk, pairing "posmotri" ("look") with "muzhchina" ("man") to get the point across in plain spoken Russian.
+- 'He can satisfy a woman in two minutes flat.' Vika favors a candid tempo right away, linking "minuty" ("minutes"), "mozhet" ("can"), and "udovletvorit" ("to grant, to satisfy") in one brisk exchange.
+- 'Oh, get out of here already.' Barinov shows a frank mood in their talk, building the phrase around "idi" ("go") and "davay" ("let's") for a crisp, natural delivery.

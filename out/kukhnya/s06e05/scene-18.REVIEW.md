@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Stop, after all that is your dad!' Once Barinov should stop after all that is Barinov's dad, Nastya makes sure Barinov hears every word. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I have no money, I am stepping down.' Noting that he has no money he is stepping down keeps Barinov's side of the story simple and clear.
-- 'At the very first difficulty you run for the bushes?' Eleonora asks whether at the very first difficulty Barinov runs for the bushes, refusing to let the point slide. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Wait, I have not finished speaking yet.' Pointing out that he has not finished speaking yet gives Eleonora a sobering reality check.
-- 'I am bringing the old menu back to the restaurant.' Barinov explains that he is bringing the old menu back to the restaurant, keeping his voice calm and direct.
-- 'This will quickly restore profit to the restaurant.' Since this will quickly restore profit to the restaurant, Barinov does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'But I propose keeping the auteur menu in part.' Between the shift and the money, Barinov gives Eleonora a quick, grounded response.
-- 'Now that is all I have on this matter.' Saying that that is all he has on this matter is how Barinov sets the tone with Eleonora.
-- 'Can we really handle such expenses?' Here asking whether they really handle such expenses shows Eleonora looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Alright, you and I have a deal.' Explaining that Alright Barinov and she has a deal lays the cards on the table for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I will keep you on as a junior partner.' Eleonora mentions that she will keep Barinov on as a junior partner so Barinov sees what is at stake.
-- 'Thank you very much for the trust.' Between the work and the money, Barinov gives Eleonora a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Stop, after all that is your dad!' Nastya takes an unhurried stance across the room, joining "ostanovis" ("to stop") to "papa" ("Dad") so every word pulls its weight.
+- 'I have no money, I am stepping down.' Barinov chooses a natural approach without hesitation, using "deneg" (from "dengi", "money") alongside "otkazyvayus" ("refuse") to shape the meaning.
+- 'At the very first difficulty you run for the bushes?' Eleonora questions lightly as the talk turns, pairing "pervoy" ("first") with "trudnosti" ("difficulties") to get the point across in plain spoken Russian.
+- 'Wait, I have not finished speaking yet.' Barinov maintains a firm view at this moment, pairing "podozhdi" ("wait") with "yeshchyo" ("more, still") to get the point across in plain spoken Russian.
+- 'I am bringing the old menu back to the restaurant.' Barinov offers a candid rhythm in this beat, building the phrase around "vozvrashchayu" ("bring back") and "restoran" ("restaurant") for a crisp, natural delivery.
+- 'This will quickly restore profit to the restaurant.' Barinov strikes a firm line in front of Nastya, anchoring the Russian line on "bystro" ("quickly") and "vernyot" ("will reimburse") without extra filler.
+- 'But I propose keeping the auteur menu in part.' Barinov adopts a measured direction in this beat, pairing "predlagayu" ("suggest") with "chastichno" ("partially, in part") to get the point across in plain spoken Russian.
+- 'Now that is all I have on this matter.' Barinov presents a measured attitude toward Nastya, joining "teper" ("now") to "voprosu" ("question, matter") so every word pulls its weight.
+- 'Can we really handle such expenses?' Eleonora wonders lightly from the start, anchoring the Russian line on "tochno" ("definitely") and "potyanem" ("to pull") without extra filler.
+- 'Alright, you and I have a deal.' Eleonora presents a brisk position toward Nastya, pairing "dogovorilis" ("agreed, deal") with "ladno" ("all right") so the "-sya" ending carries the action.
+- 'I will keep you on as a junior partner.' Eleonora holds a frank angle as they talk, building the phrase around "ostavlyu" ("will leave") and "mladshim" ("junior, younger") for a crisp, natural delivery.
+- 'Thank you very much for the trust.' Barinov conveys a direct tone in the room, linking "spasibo" ("thank you"), "bolshoye" ("big, very much"), and "doveriye" ("trust") in one brisk exchange.

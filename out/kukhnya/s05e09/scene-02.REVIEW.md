@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, little one!' Over the point and the trust, Max lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Do you know who you are having?' Asking whether Lyova knows who Lyova is having is how Max puts Lyova on the spot. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'No. Stop it!' By telling Lyova to stop it, Vika raises the stakes in the room at once.
-- 'And why do I not know?' Wondering why he not know is how Max puts Lyova on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You have to tell me.' Admitting that Lyova has to tell him shows Max being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I do not owe you anything.' Saying that she does not owe Lyova anything is how Vika sets the tone with Lyova.
-- 'Keep living just like before.' Realizing that Lyova should keep living just like changes how Vika handles the situation.
-- 'I have changed, I will prove it right now.' Saying that he has changed he will prove it right now is how Max sets the tone with Lyova. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Kitchen, attention!' Over the plan and the trust, Max lets his real feelings show.
-- 'From this moment I stop lying.' Since from this moment he stops lying, Max does not waste words on excuses.
-- 'And I will speak only the truth.' Mentioning that he will speak only the truth moves the talk in a new direction.
-- 'Quickly back to work, Lavrov!' Over the truth and the trust, Lyova lets his real feelings show.
-- 'Did you chop the carrots?' Here checking whether Max chop the carrots shows Lyova looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Hello, little one!' Max offers a measured tone in front of Lyova, joining "malysh" ("kid, little one") to "privet" ("hi") so every word pulls its weight.
+- 'Do you know who you are having?' Max challenges firmly in the scene, building the phrase around "znayete" ("know") and "budet" ("will be") for a crisp, natural delivery.
+- 'No. Stop it!' Vika maintains a direct course in their talk, combining "prekrati" ("stop it") and "net" ("no") so the key meaning lands right away.
+- 'And why do I not know?' Max quizzes warmly to Vika here, weaving "pochemu" ("why") together with "znayu" ("know") just the way native speakers do.
+- 'You have to tell me.' Max chooses a thoughtful tack at this moment, putting "dolzhna" ("should, must") alongside "skazat" ("tell") in a tight, everyday turn of phrase.
+- 'I do not owe you anything.' Vika maintains a frank line in the conversation, joining "dolzhna" ("should, must") to "ya" ("I") so every word pulls its weight.
+- 'Keep living just like before.' Vika takes an earnest line in the room, linking "prodolzhay" ("continue"), "zhit" ("to live"), and "kak" ("how") in one brisk exchange.
+- 'I have changed, I will prove it right now.' Max adopts a measured direction at this moment, joining "izmenilsya" ("have changed") to "seychas" ("now") so every word pulls its weight.
+- 'Kitchen, attention!' Max sustains a frank view in front of Lyova, combining "kukhnya" ("kitchen") and "vnimaniye" ("attention") so the key meaning lands right away.
+- 'From this moment I stop lying.' Max maintains a brisk rhythm with Vika, leaning on "momenta" ("moment") before closing the thought with "prekrashchayu" ("stop, cease").
+- 'And I will speak only the truth.' Max brings a steady approach toward Lyova, anchoring the Russian line on "budu" ("will be") and "govorit" ("to talk") without extra filler.
+- 'Quickly back to work, Lavrov!' Lyova offers a resolute stance during the exchange, weaving "bystro" ("quickly") together with "rabotu" ("job") just the way native speakers do.
+- 'Did you chop the carrots?' Lyova prompts quietly right away, combining "morkov" ("carrot") and "narezal" ("sliced, chopped") so the key meaning lands right away.

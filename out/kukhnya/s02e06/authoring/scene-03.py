@@ -7,7 +7,7 @@ SCENE = 3
 TITLE = 'Как Сеня устраивался на работу  (How Senya Got Hired)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'nastya': 'Настя'}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.06'
 SOURCE_FILE = 'sources/kukhnya/s02/e06.ru.srt'
 INTRO = 'Back in the kitchen, Max beats himself up for constantly making a fool of himself in front of Chef Barinov. To cheer him up, Senya and Fedya assure him that every single cook in the kitchen has screwed up before the Chef, and Senya flashes back to his own chaotic job interview years ago.'
@@ -25,23 +25,23 @@ STORY = [
     ('barinov', 'Вот моё резюме.', 'Here is my resume.', [(42, 'Вот моё резюме')], ''),
     ('nastya', 'Настоящему повару никакой резюме не требуется.', 'A real cook does not need any resume.', [(43, 'Настоящему повару никакой резюме не требуется')], ''),
     ('barinov', 'Его сразу видно по глазам.', 'You can tell right away by looking in his eyes.', [(44, 'Его сразу видно по глазам')], ''),
-    ('nastya', 'Я сразу увидел твой потенциал.', 'I saw your potential immediately.', [(45, 'Я сразу увидел твой потенциал')], ''),
+    ('max', 'Я сразу увидел твой потенциал.', 'I saw your potential immediately.', [(45, 'Я сразу увидел твой потенциал')], ''),
     ('barinov', 'Добро пожаловать в команду, сынок.', 'Welcome to the team, son.', [(45, 'Добро пожаловать в команду, сынок')], ''),
     ('nastya', 'Спасибо, шеф.', 'Thank you, Chef.', [(47, 'Спасибо, шеф')], ''),
     ('barinov', 'Ну ты здесь посиди, а я сейчас.', 'Well, sit right here, and I will be right back.', [(48, 'Ну ты здесь посиди, а я сейчас')], ''),
 ]
 WALK = [
-    (0, None, '\'Oh come on, relax.\' Saying that Nastya should come on relax is how Barinov sets the tone with Nastya. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (1, None, "'Man, I really am some kind of idiot.' With the interview and point in play, Nastya keeps this short reply brisk and direct."),
-    (2, None, "'I am always screwing up in front of the Chef.' Mentioning that he is always screwing up in front of the Chef moves the talk in a new direction."),
-    (3, None, "'Every one of us has screwed up in front of him at some point.' Nastya explains that every one of them has screwed up in front of him at some point, keeping her voice calm and direct."),
-    (4, None, "'Do not sweat it.' Realizing that do not sweat it changes how Barinov handles the situation."),
-    (5, None, "'You bet we have.' Noting that Barinov bets they have keeps Nastya's side of the story simple and clear."),
-    (6, None, "'Here is my resume.' Even though here is his resume, Barinov keeps a steady face in front of Nastya."),
-    (7, None, "'A real cook does not need any resume.' Admitting that a real cook does not need any resume shows Nastya being honest for a change."),
-    (8, None, "'You can tell right away by looking in his eyes.' Saying that Nastya can tell right away by looking in his eyes is how Barinov sets the tone with Nastya."),
-    (9, None, '\'I saw your potential immediately.\' Once she saw Barinov\'s potential immediately, Nastya can finally tell Barinov what she means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (10, None, "'Welcome to the team, son.' Between the moment and the kitchen, Barinov gives Nastya a quick, grounded response."),
-    (11, None, "'Thank you, Chef.' With the moment and interview in play, Nastya keeps this short reply brisk and direct."),
-    (12, None, '\'Well, sit right here, and I will be right back.\' Realizing that Nastya should sit right here and he will be right back changes how Barinov handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (0, None, '\'Oh come on, relax.\' Barinov presents a clear attitude without hesitation, combining "rasslabsya" ("relax") and "da" ("yes") so the key meaning lands right away.'),
+    (1, None, '\'Man, I really am some kind of idiot.\' Nastya maintains a candid manner as they talk, linking "blin" ("damn") directly with "realno" ("really possible"), since Russian drops "is" and "are" in the present.'),
+    (2, None, '\'I am always screwing up in front of the Chef.\' Barinov shares a calm course with Max, putting "vechno" ("always") alongside "shefom" ("chef") in a tight, everyday turn of phrase.'),
+    (3, None, '\'Every one of us has screwed up in front of him at some point.\' Nastya keeps a calm stance as the scene unfolds, building the phrase around "kogda-to" ("once, at one time") and "lazhali" ("to mess up") for a crisp, natural delivery.'),
+    (4, None, '\'Do not sweat it.\' Barinov favors a lively manner in this beat, weaving "parsya" ("to steam oneself in a bathhouse") together with "ne" ("not") just the way native speakers do.'),
+    (5, None, '\'You bet we have.\' Nastya conveys a natural rhythm in the room, leaning on "to" ("that") as a compact, one-word response that needs no extra words.'),
+    (6, None, '\'Here is my resume.\' Barinov favors a lively note beside Max, anchoring the Russian line on "rezyume" ("résumé") and "vot" ("there, here") without extra filler.'),
+    (7, None, '\'A real cook does not need any resume.\' Nastya adopts a resolute angle as they talk, pairing "nastoyashchemu" ("real, genuine") with "povaru" ("cook, chef") to get the point across in plain spoken Russian.'),
+    (8, None, '\'You can tell right away by looking in his eyes.\' Barinov establishes an honest mood toward Max, combining "srazu" ("at once") and "vidno" ("one can see") so the key meaning lands right away.'),
+    (9, None, '\'I saw your potential immediately.\' Max sustains a grounded approach with Nastya, putting "srazu" ("at once") alongside "uvidel" ("saw") in a tight, everyday turn of phrase.'),
+    (10, None, '\'Welcome to the team, son.\' Barinov offers a candid bearing without hesitation, pairing "dobro" ("good, kindness") with "pozhalovat" ("to welcome") to get the point across in plain spoken Russian.'),
+    (11, None, '\'Thank you, Chef.\' Nastya strikes a steady tack in front of Max, combining "spasibo" ("thank you") and "shef" ("Chef") so the key meaning lands right away.'),
+    (12, None, '\'Well, sit right here, and I will be right back.\' Barinov conveys a serious approach in their talk, leaning on "zdes" ("here") before closing the thought with "posidi" ("stay").'),
 ]

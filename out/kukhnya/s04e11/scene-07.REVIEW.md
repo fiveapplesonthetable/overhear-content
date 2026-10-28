@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'By copying facial expressions, you gain control.' With the office and point in play, Lyova keeps this short reply brisk and direct.
-- 'Can you imagine what German thought up?' Asking whether Lyova imagines what German thought up cuts straight through the tension between Barinov and Lyova. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'He planted a live snake on us!' Over the boss and the shift, Barinov lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'What should we do to him?' Here wondering what they do to him should shows Barinov looking for the real truth.
-- 'Do nothing at all, chef.' Lyova tells Barinov that do nothing at all without dressing it up. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'He will be waiting for a dirty trick from you.' Since he will be waiting for a dirty trick from Barinov, Lyova does not waste words on excuses. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'No, that is too simple for him.' Mentioning that that is too simple for him moves the talk in a new direction.
-- 'Not simple at all, dear chef.' With the boss and truth in play, Lyova keeps this short reply brisk and direct.
-- 'Why are you doing that right now?' By wondering why Lyova doing that right now is, Barinov presses Lyova for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And what am I doing?' With the shift and office hanging in the air, Lyova puts Barinov on the spot.
-- 'You are getting on my nerves really badly!' Insisting that Lyova is getting on his nerves really badly shows Barinov is not backing down. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well, do not get so worked up, chef.' Claiming that do not get so worked up sounds confident, even if Barinov has doubts.
-- 'What, are you mocking me?' By asking what Lyova mocking him is, Barinov presses Lyova for a straight answer.
-- 'Just get out of here already!' Around the moment and boss, Barinov makes his point loud and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'By copying facial expressions, you gain control.' Lyova brings a grounded posture during the exchange, combining "kopiruya" ("copying") and "mimiku" ("facial") so the key meaning lands right away.
+- 'Can you imagine what German thought up?' Barinov challenges frankly toward Lyova here, combining "predstavlyayesh" ("can you imagine") and "pridumal" ("came up with") so the key meaning lands right away.
+- 'He planted a live snake on us!' Barinov establishes a calm approach on the spot, combining "zhivuyu" ("living") and "zmeyu" ("snake") so the key meaning lands right away.
+- 'What should we do to him?' Barinov probes boldly as the beat lands, joining "nado" ("it is necessary") to "sdelat" ("to do") so every word pulls its weight.
+- 'Do nothing at all, chef.' Lyova sets a playful direction right away, doubling the negative with "ne" ("not") and "delat" ("do"), which is standard and required in Russian.
+- 'He will be waiting for a dirty trick from you.' Lyova strikes a direct footing as they talk, using "budet" (from "byt", "will be") alongside "zhdat" ("to wait") to shape the meaning.
+- 'No, that is too simple for him.' Barinov chooses a thoughtful attitude straight away, combining the softening word "prosto" ("simply, just") with "slishkom" ("too") to give the line its natural spoken rhythm.
+- 'Not simple at all, dear chef.' Lyova adopts a clear tone as the scene unfolds, building the phrase around "sovsem" ("at all") and "prosto" ("just") for a crisp, natural delivery.
+- 'Why are you doing that right now?' Barinov inquires candidly with Lyova now, combining "zachem" ("what for") and "seychas" ("now") so the key meaning lands right away.
+- 'And what am I doing?' Lyova inquires wryly to make the point, linking "delayu" ("I make"), "chto" ("what"), and "ya" ("I") in one brisk exchange.
+- 'You are getting on my nerves really badly!' Barinov sustains a playful note without hesitation, weaving "ochen" ("very much") together with "silno" ("strongly, much") just the way native speakers do.
+- 'Well, do not get so worked up, chef.' Lyova adopts a serious footing in the conversation, anchoring the Russian line on "nervnichayte" ("to be nervous") and "nu" ("oh, come on") without extra filler.
+- 'What, are you mocking me?' Barinov inquires naturally during the talk, leaning on "izdevayeshsya" ("are kidding") before closing the thought with "nado" ("it is necessary").
+- 'Just get out of here already!' Barinov maintains a pointed mood across the room, anchoring the Russian line on "ukhodi" ("go away") and "uzhe" ("already, now") without extra filler.

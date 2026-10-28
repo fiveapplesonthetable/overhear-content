@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Take this lemon so you do not get sick.' Here taking this lemon so Nagiyev does not get sick sets up the next turn in their exchange.
-- 'Nothing happened between you and Katya.' With the room and apartment in play, Max keeps this short reply brisk and direct. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Well that is great, I am very glad.' Mentioning that that is great he is very glad moves the talk in a new direction.
-- 'Dima, it is me, are you home?' Wondering if it is her are Max home shows Vika caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Dima, where are you hiding?' By asking where Max hiding is, Vika presses Max for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Hi, how are things with you overall?' Wondering how things with Max overall are cuts straight through the tension between Nagiyev and Max.
-- 'Dima, you and I are breaking up.' Vika mentions that Max and she are breaking up so Max sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I hope in this particular situation you do not mind?' When Vika asks if she hopes in this particular situation Max does not mind, Max has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'In this particular situation, apparently not.' Over the apartment and the conversation, Nagiyev answers Max without a second thought.
-- 'I had better pack my things tomorrow.' Vika explains that she had better pack her things tomorrow, keeping her voice calm and direct.
-- 'I think so, today it would be awkward for everyone.' Because he thinks so today it would be awkward for everyone, Nagiyev treats the matter as settled.
-- 'Farewell, Dmitry Vladimirovich.' Over the apartment and the work, Vika answers Max without a second thought.
+- 'Take this lemon so you do not get sick.' Max takes a wry attitude at once, building the phrase around "derzhi" ("here you go") and "limon" ("lemon") for a crisp, natural delivery.
+- 'Nothing happened between you and Katya.' Max adopts a measured mood for Vika, combining "bylo" ("was") and "vas" ("you") so the key meaning lands right away.
+- 'Well that is great, I am very glad.' Max displays an emphatic stance beside Nagiyev, weaving "super" ("super, great") together with "ochen" ("very much") just the way native speakers do.
+- 'Dima, it is me, are you home?' Vika inquires frankly across the room, linking "doma" ("at home") directly with "dima" ("Dima"), since Russian drops "is" and "are" in the present.
+- 'Dima, where are you hiding?' Vika inquires dryly as the beat lands, anchoring the Russian line on "gde" ("where") and "pryacheshsya" ("are hiding") without extra filler.
+- 'Hi, how are things with you overall?' Nagiyev presses steadily during the talk, linking "tselom" ("whole") directly with "kak" ("how"), since Russian drops "is" and "are" in the present.
+- 'Dima, you and I are breaking up.' Vika chooses a resolute rhythm in the conversation, pairing "rasstayomsya" ("are breaking up") with "dima" ("Dima") to get the point across in plain spoken Russian.
+- 'I hope in this particular situation you do not mind?' Vika presses directly as the talk turns, combining "nadeyus" ("hope so") and "dannoy" ("this, given") so the key meaning lands right away.
+- 'In this particular situation, apparently not.' Nagiyev displays a steady manner without hesitation, putting "dannoy" ("this, given") alongside "konkretnoy" ("specific, particular") in a tight, everyday turn of phrase.
+- 'I had better pack my things tomorrow.' Vika maintains a calm style across the room, combining "veshchi" ("things") and "luchshe" ("better") so the key meaning lands right away.
+- 'I think so, today it would be awkward for everyone.' Nagiyev holds a measured style at once, weaving "dumayu" ("I think") together with "segodnya" ("today") just the way native speakers do.
+- 'Farewell, Dmitry Vladimirovich.' Vika maintains a brisk view across the room, putting "proshchay" ("farewell") alongside "dmitriy" ("Dmitry") in a tight, everyday turn of phrase.

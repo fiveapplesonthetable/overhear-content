@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A vegetarian came to our restaurant.' Even though a vegetarian came to their restaurant, Max keeps a steady face in front of Vika.
-- 'And he is asking for it.' Admitting that he is asking for it shows Vika being honest for a change.
-- 'Made with beef pate.' Saying that made with beef pate is how Max sets the tone with Vika.
-- 'Only without the beef pate.' Around the conversation and room, Vika sets a calm, everyday tone with Max.
-- 'Oh, well, take it out to him and let him eat.' Max mentions that Vika should take it out to him and let him eat so Vika sees what is at stake.
-- 'Because I am not going to bother with such nonsense.' Saying that because she is not going to bother with such nonsense is how Vika sets the tone with Max.
-- 'Or maybe you can make cutlets out of cucumbers?' Max asks whether maybe Vika can make cutlets out of cucumbers, refusing to let the point slide. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Maksim, will you make the rolls?' Asking whether Max makes the rolls is how Vika puts Max on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Oh, please.' With the work and guest in play, Max keeps this short reply brisk and direct.
-- 'You really know how to persuade someone.' With the work and table in play, Vika keeps this short reply brisk and direct.
-- 'Thank you, Maksish.' Over the work and the table, Max answers Vika without a second thought.
-- 'Go on. Thank you.' Around the work and shift, Vika sets a calm, everyday tone with Max.
-- 'Alright, I was joking.' Claiming that Alright he was joking sounds confident, even if Vika has doubts.
+- 'A vegetarian came to our restaurant.' Max displays a calm tack for Vika, combining "prishel" ("came, arrived") and "vegetarianets" ("vegetarian") so the key meaning lands right away.
+- 'And he is asking for it.' Vika displays a direct angle for Max, pairing "prosit" ("is asking for") with "on" ("he") to get the point across in plain spoken Russian.
+- 'Made with beef pate.' Max offers an unhurried stance straight away, joining "govyazhyego" ("beef") to "pashteta" ("pâté, paste") so every word pulls its weight.
+- 'Only without the beef pate.' Vika takes a grounded tempo in the room, linking "govyazhyego" ("beef"), "pashteta" ("pâté, paste"), and "no" ("but") in one brisk exchange.
+- 'Oh, well, take it out to him and let him eat.' Max conveys a wry posture across the room, linking "otnesi" ("take"), "yest" ("eats"), and "nu" ("oh, come on") in one brisk exchange.
+- 'Because I am not going to bother with such nonsense.' Vika strikes a thoughtful approach in the room, linking "potomu" ("because"), "yerundoy" ("nonsense"), and "zanimatsya" ("to be busy with") in one brisk exchange.
+- 'Or maybe you can make cutlets out of cucumbers?' Max checks quietly without hesitation, putting "mozhet" ("can") alongside "mozhesh" ("can") in a tight, everyday turn of phrase.
+- 'Maksim, will you make the rolls?' Vika inquires earnestly for Max's benefit, building the phrase around "prigotovish" ("will prepare") and "ruletiki" ("little roll") for a crisp, natural delivery.
+- 'Oh, please.' Max establishes a natural style in this beat, anchoring the Russian line on "nu" ("oh, come on") and "pozhaluysta" ("please") without extra filler.
+- 'You really know how to persuade someone.' Vika shares an easygoing line in the conversation, weaving "umeyesh" ("know how to") together with "ugovarivat" ("persuade") just the way native speakers do.
+- 'Thank you, Maksish.' Max maintains an unhurried manner during the exchange, anchoring the Russian line on "spasibo" ("thank you") and "maksish" ("Max") without extra filler.
+- 'Go on. Thank you.' Vika strikes a steady direction on the spot, pairing "idi" ("go") with "spasibo" ("thank you") to get the point across in plain spoken Russian.
+- 'Alright, I was joking.' Max holds a firm direction in the conversation, leaning on "poshutil" ("to joke") before closing the thought with "ladno" ("all right").

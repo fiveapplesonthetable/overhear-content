@@ -13,11 +13,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Шеф | Выдай мне это чертово кольцо, семя. | Give me back that damned ring right now, Senya. | #281: Выдай мне это чертово кольцо, семя | verbatim |
 | 2 | Вика | Не давите на меня. | Do not pressure me like this. | #282: не давите на меня | verbatim |
 | 3 | Сеня | А то как? | Or else how am I supposed to? | #283: А то как | verbatim |
-| 4 | Шеф | Шеф, давайте я завтра нам это кольцо отдам. | Chef, let me give this ring back to you tomorrow. | #285: Шеф, давайте я завтра нам это кольцо отдам | verbatim |
+| 4 | Вика | Шеф, давайте я завтра нам это кольцо отдам. | Chef, let me give this ring back to you tomorrow. | #285: Шеф, давайте я завтра нам это кольцо отдам | verbatim |
 | 5 | Вика | Я знаю свой организм. | I know my own digestive system. | #286: Я знаю свой организм | verbatim |
 | 6 | Сеня | Ты до завтра не доживешь. | You will not live until tomorrow. | #287: Ты до завтра не доживешь | verbatim |
 | 7 | Шеф | Да какой завтра? | What do you mean tomorrow? | #287: Да какой завтра | verbatim |
-| 8 | Вика | Вика, что происходит? | Vika, what is going on in here? | #288: Вика, что происходит | verbatim |
+| 8 | Сеня | Вика, что происходит? | Vika, what is going on in here? | #288: Вика, что происходит | verbatim |
 | 9 | Сеня | Ничего, а что? | Nothing, why do you ask? | #289: Ничего, а что | verbatim |
 | 10 | Шеф | Где мое кольцо? | Where is my ring? | #289: Где мое кольцо | verbatim |
 | 11 | Вика | А откуда ты знаешь о кольце? | Wait, how do you know about the ring? | #290: А откуда ты знаешь о кольце | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Give me back that damned ring right now, Senya.' Barinov explains that Senya should give him back that damned ring right now, keeping his voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Do not pressure me like this.' Claiming that do not pressure her like this sounds confident, even if Barinov has doubts.
-- 'Or else how am I supposed to?' With the plan and work hanging in the air, Senya puts Barinov on the spot.
-- 'Chef, let me give this ring back to you tomorrow.' Telling Senya to let him give this ring back to Senya tomorrow is how Barinov lays out the situation for Senya. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'I know my own digestive system.' Even though she knows her own digestive system, Vika keeps a steady face in front of Barinov.
-- 'You will not live until tomorrow.' Noting that Barinov will not live until tomorrow keeps Senya's side of the story simple and clear.
-- 'What do you mean tomorrow?' Wondering what Senya means tomorrow cuts straight through the tension between Barinov and Senya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Vika, what is going on in here?' Asking what going on in here is is how Vika puts Barinov on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Nothing, why do you ask?' Senya asks whether nothing why do Barinov asks, refusing to let the point slide.
-- 'Where is my ring?' By wondering where his ring is, Barinov presses Senya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Wait, how do you know about the ring?' Asking how Barinov knows about the ring cuts straight through the tension between Vika and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What do you people think?' Wondering what Barinov people think is how Senya puts Barinov on the spot.
-- 'I have been working toward this for a whole year.' Having been working toward this for a whole year is how Barinov lays out the situation for Senya.
+- 'Give me back that damned ring right now, Senya.' Barinov adopts a clear note in the room, putting "vyday" ("to issue, give out") alongside "chertovo" ("devil's, damned") in a tight, everyday turn of phrase.
+- 'Do not pressure me like this.' Vika sustains a thoughtful position in their talk, building the phrase around "davite" ("to press") and "ne" ("not") for a crisp, natural delivery.
+- 'Or else how am I supposed to?' Senya checks earnestly from the start, leaning on "kak" ("how") before closing the thought with "to" ("that").
+- 'Chef, let me give this ring back to you tomorrow.' Vika presents a pointed direction in the conversation, putting "davayte" ("let's") alongside "zavtra" ("tomorrow") in a tight, everyday turn of phrase.
+- 'I know my own digestive system.' Vika presents an earnest tone in front of Barinov, leaning on "znayu" ("know") before closing the thought with "organizm" ("organism").
+- 'You will not live until tomorrow.' Senya keeps a direct direction on the spot, putting "zavtra" ("tomorrow") alongside "dozhivesh" ("to live until") in a tight, everyday turn of phrase.
+- 'What do you mean tomorrow?' Barinov quizzes warmly without hesitation, joining "zavtra" ("tomorrow") to "da" ("yes") so every word pulls its weight.
+- 'Vika, what is going on in here?' Senya challenges wryly without holding back, linking "proiskhodit" ("is going on"), "vika" ("Vika"), and "chto" ("what") in one brisk exchange.
+- 'Nothing, why do you ask?' Senya probes quietly to make the point, joining "nichego" ("nothing") to "chto" ("what") so every word pulls its weight.
+- 'Where is my ring?' Barinov asks earnestly beside Vika, building the phrase around "gde" ("where") and "koltso" ("ring") for a crisp, natural delivery.
+- 'Wait, how do you know about the ring?' Vika challenges naturally without a pause, joining "otkuda" ("where from") to "znayesh" ("know") so every word pulls its weight.
+- 'What do you people think?' Senya presses warmly as they speak, leaning on "dumayete" ("think") before closing the thought with "vy" ("you").
+- 'I have been working toward this for a whole year.' Barinov projects a wry line right away, linking "tselyy" ("whole, all"), "god" ("year"), and "rabotayu" ("work") in one brisk exchange.

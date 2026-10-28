@@ -16,9 +16,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Макс | Вы не против? | Do you mind if I sit? | #60: Вы не против | verbatim |
 | 5 | Шеф | Нет, нет, я не против. | No, no, I do not mind at all. | #61: Нет, нет, я не против | verbatim |
 | 6 | Вика | Какой аромат. | What a wonderful aroma. | #62: Какой аромат | verbatim |
-| 7 | Макс | Вы волшебник, Макс. | You are a magician, Max. | #63: Вы волшебник, Макс | verbatim |
+| 7 | Шеф | Вы волшебник, Макс. | You are a magician, Max. | #63: Вы волшебник, Макс | verbatim |
 | 8 | Шеф | Старался, специально для вас. | I did my very best, specially for you. | #64: Старался, специально для вас | verbatim |
-| 9 | Вика | Здрасте, Виктория Сергеевна. | Hello there, Viktoriya Sergeyevna. | #66: Здрасте, Виктория Сергеевна | verbatim |
+| 9 | Макс | Здрасте, Виктория Сергеевна. | Hello there, Viktoriya Sergeyevna. | #66: Здрасте, Виктория Сергеевна | verbatim |
 | 10 | Макс | Садись, Виктория Сергеевна. | Have a seat, Viktoriya Sergeyevna. | #67: Садись, Виктория Сергеевна | verbatim |
 | 11 | Шеф | В ресторане все нормально. | Everything in the restaurant is going fine. | #69: В ресторане все нормально | verbatim |
 | 12 | Вика | Ага, ну и слава богу. | Aha, well thank goodness for that. | #70: Ага, ну и слава богу | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here you go, please enjoy.' Explaining that here Barinov goes please enjoy lays the cards on the table for Barinov.
-- 'Oh my, Max, you have outdone yourself again.' Barinov mentions that his Max Max has outdone themselves again so Max sees what is at stake. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Do not worry at all, it is my pleasure.' Claiming that do not worry at all it is her pleasure sounds confident, even if Barinov has doubts.
-- 'Do you mind if I sit?' Checking whether Barinov minds if he sits is how Max puts Barinov on the spot.
-- 'No, no, I do not mind at all.' Saying that he does not mind at all is how Barinov sets the tone with Max.
-- 'What a wonderful aroma.' Around the kitchen and restaurant, Vika sets a calm, everyday tone with Barinov.
-- 'You are a magician, Max.' Noting that Barinov is a magician keeps Max's side of the story simple and clear.
-- 'I did my very best, specially for you.' Even though he did his very best specially for Max, Barinov keeps a steady face in front of Max. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Hello there, Viktoriya Sergeyevna.' With the shift and dish in play, Vika keeps this short reply brisk and direct.
-- 'Have a seat, Viktoriya Sergeyevna.' Saying that have a seat Viktoriya Sergeyevna is how Max sets the tone with Barinov.
-- 'Everything in the restaurant is going fine.' Once everything in the restaurant is going fine, Barinov can finally tell Max what he means.
-- 'Aha, well thank goodness for that.' With the shift and restaurant in play, Vika keeps this short reply brisk and direct.
-- 'What are you staring at?' Here wondering what Barinov staring is shows Max looking for the real truth.
+- 'Here you go, please enjoy.' Max offers a direct manner in the room, building the phrase around "vot" ("there, here") and "pozhaluysta" ("please") for a crisp, natural delivery.
+- 'Oh my, Max, you have outdone yourself again.' Barinov favors a wry line as they talk, pairing "opyat" ("again") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
+- 'Do not worry at all, it is my pleasure.' Vika conveys a firm bearing beside Barinov, using "bespokoytes" (from "bespokoitsya", "worry") alongside "priyatno" ("pleasant") to shape the meaning.
+- 'Do you mind if I sit?' Max tests steadily in this moment, building the phrase around "vy" ("you") and "ne" ("not") for a crisp, natural delivery.
+- 'No, no, I do not mind at all.' Barinov adopts an earnest view in this beat, pairing "net" ("no") with "ya" ("I") to get the point across in plain spoken Russian.
+- 'What a wonderful aroma.' Vika maintains an earnest posture for Max, pairing "aromat" ("aroma") with "kakoy" ("what a, how") to get the point across in plain spoken Russian.
+- 'You are a magician, Max.' Barinov conveys a pointed approach during the exchange, combining "volshebnik" ("a wizard, magician") and "vy" ("you") so the key meaning lands right away.
+- 'I did my very best, specially for you.' Barinov sustains a natural style across the room, leaning on "staralsya" ("tried") before closing the thought with "spetsialno" ("on purpose").
+- 'Hello there, Viktoriya Sergeyevna.' Max takes a steady course in the conversation, pairing "zdraste" ("hello, hi") with "viktoriya" ("Victoria") to get the point across in plain spoken Russian.
+- 'Have a seat, Viktoriya Sergeyevna.' Max holds a brisk style in this beat, joining "sadis" ("sit down") to "viktoriya" ("Victoria") so every word pulls its weight.
+- 'Everything in the restaurant is going fine.' Barinov presents a steady bearing during the exchange, linking "restorane" ("restaurant"), "normalno" ("fine, OK"), and "vse" ("all") in one brisk exchange.
+- 'Aha, well thank goodness for that.' Vika shows a serious mood across the room, anchoring the Russian line on "slava" ("glory") and "bogu" ("to God") without extra filler.
+- 'What are you staring at?' Max probes promptly across the room, combining "smotrish" ("are staring") and "chto" ("what") so the key meaning lands right away.

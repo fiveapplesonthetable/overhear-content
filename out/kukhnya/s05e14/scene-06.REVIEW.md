@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, I thought it over and you are completely right.' Elena mentions that she thought it over and Barinov is completely right so Barinov sees what is at stake. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'This is our shared holiday, let's spend it together.' Claiming that this is their shared holiday let them spend it together sounds confident, even if Barinov has doubts.
-- 'A friend got us one more ticket right next to yours!' Elena insists that a friend got them one more ticket right next, leaving Barinov no room to argue. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'You and I are going to the football match today!' Because Barinov and she are going to the football match today, Elena does not bother softening the blow for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'How wonderful, I simply did not even expect that!' Barinov declares that how wonderful he simply did not even expect as the tension in the room peaks.
-- 'I kiss you warmly and see you tonight.' Here kissing Elena warmly and see Elena tonight sets up the next turn in their exchange. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Vitya, tell me about your cook Lavrov.' Adding that Barinov should tell her about Barinov's cook Lavrov fills in the missing piece for Barinov.
-- 'What kind of person is he? And why do you care?' Asking whether what kind of person is he puts Elena right on the defensive.
-- 'I am thinking of making him the new head chef.' Once she is thinking of making him the new head, Eleonora can finally tell Barinov what she means.
-- 'He is not a bad cook, but his personal life is a complete mess.' Noting that he is not a bad cook but his personal life is a complete mess keeps Barinov's side of the story simple and clear.
-- 'He was married to Vika, then he cheated on her.' Adding that he was married to Vika then he cheated fills in the missing piece for Elena.
-- 'And now they are going to have a baby soon.' Saying that they are going to have a baby soon is how Barinov sets the tone with Elena.
+- 'Vitya, I thought it over and you are completely right.' Elena conveys an emphatic direction with Barinov, using "podumala" (from "podumat", "thought") alongside "sovershenno" ("quite, completely") to shape the meaning.
+- 'This is our shared holiday, let's spend it together.' Elena conveys a natural attitude in front of Eleonora, weaving "obshchiy" ("shared") together with "prazdnik" ("holiday") just the way native speakers do.
+- 'A friend got us one more ticket right next to yours!' Elena adopts a warm footing without hesitation, combining "znakomyy" ("familiar") and "dostal" ("got on everyone's nerves") so the key meaning lands right away.
+- 'You and I are going to the football match today!' Elena picks an honest position in their talk, anchoring the Russian line on "segodnya" ("today") and "idyom" ("are going") without extra filler.
+- 'How wonderful, I simply did not even expect that!' Barinov projects a natural course for Elena, putting "zdorovo-to" ("how great") alongside "kak" ("how") in a tight, everyday turn of phrase.
+- 'I kiss you warmly and see you tonight.' Barinov maintains a wry angle with Eleonora, putting "krepko" ("tightly") alongside "tseluyu" ("kisses") in a tight, everyday turn of phrase.
+- 'Vitya, tell me about your cook Lavrov.' Eleonora favors a serious bearing without hesitation, linking "rasskazhi" ("tell"), "povara" ("cook"), and "vitya" ("Vitya") in one brisk exchange.
+- 'What kind of person is he? And why do you care?' Barinov presses quietly on the spot, combining "chelovek" ("a man, a person") and "zachem" ("what for") so the key meaning lands right away.
+- 'I am thinking of making him the new head chef.' Eleonora establishes a serious manner as the scene unfolds, leaning on "dumayu" ("I think") before closing the thought with "sdelat" ("to do").
+- 'He is not a bad cook, but his personal life is a complete mess.' Barinov projects an easygoing style with Eleonora, building the phrase around "povar" ("chef, cook") and "neplokhoy" ("not bad, decent") for a crisp, natural delivery.
+- 'He was married to Vika, then he cheated on her.' Barinov chooses a warm position with Elena, pairing "byl" ("was") with "zhenat" ("married") to get the point across in plain spoken Russian.
+- 'And now they are going to have a baby soon.' Barinov sets a wry stance in the room, putting "teper" ("now") alongside "skoro" ("soon") in a tight, everyday turn of phrase.

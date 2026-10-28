@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I propose we drink to our friend right now.' With the plan and party in play, Fedya keeps this short reply brisk and direct.
-- 'To the smartest person in the kitchen.' Over the plan and the party, Fedya answers Denis without a second thought.
-- 'We can, of course, drink to Denis too.' Saying that they can of course drink to Denis is how Fedya sets the tone with Denis.
-- 'Thank you very much to all of you, my friends.' Around the plan and party, Denis sets a calm, everyday tone with Fedya. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'My friend, we are drinking to you today.' Mentioning that his friend they are drinking to Denis today moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Kostya, all of this has gone too far.' Denis reminds Fedya that all of this has gone too far before the moment passes.
-- 'How do I say that I am not going anywhere?' Asking how he says that he is not going anywhere cuts straight through the tension between Denis and Fedya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I will ruin the whole party for them right now.' Explaining that he will ruin the whole party for them right now lays the cards on the table for Fedya.
-- 'Let them drink a little more first.' Letting them drink a little more first is how Kostya lays out the situation for Denis.
-- 'Then you will calmly walk up and tell everyone.' Claiming that Denis will calmly walk up and tell everyone sounds confident, even if Denis has doubts.
-- 'You will say that you feel good with us.' Pointing out that Denis will say that Denis feels good with them gives Denis a sobering reality check. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Just say that you are staying here.' Kostya explains that just say that Denis is staying here, keeping his voice calm and direct.
+- 'I propose we drink to our friend right now.' Fedya presents a pointed mood without hesitation, joining "predlagayu" ("suggest") to "seychas" ("now") so every word pulls its weight.
+- 'To the smartest person in the kitchen.' Fedya displays a wry note straight away, putting "samogo" ("the very") alongside "umnogo" ("clever, smart") in a tight, everyday turn of phrase.
+- 'We can, of course, drink to Denis too.' Fedya conveys a frank style in the conversation, using "mozhem" (from "moch", "can") alongside "konechno" ("of course") to shape the meaning.
+- 'Thank you very much to all of you, my friends.' Denis picks a thoughtful stance as the scene unfolds, putting "bolshoye" ("big, very much") alongside "spasibo" ("thank you") in a tight, everyday turn of phrase.
+- 'My friend, we are drinking to you today.' Kostya takes a pointed approach toward Denis, leaning on "drug" ("friend") before closing the thought with "pyom" ("to drink").
+- 'Kostya, all of this has gone too far.' Denis establishes a sharp line in this beat, anchoring the Russian line on "zashlo" ("to come in") and "slishkom" ("too") without extra filler.
+- 'How do I say that I am not going anywhere?' Denis asks plainly during the talk, anchoring the Russian line on "kak" ("how") and "skazat" ("tell") without extra filler.
+- 'I will ruin the whole party for them right now.' Denis shows a brisk mood in the scene, weaving "seychas" ("now") together with "prazdnik" ("holiday") just the way native speakers do.
+- 'Let them drink a little more first.' Kostya establishes a serious angle beside Denis, weaving "snachala" ("first, at first") together with "yeshchyo" ("more, still") just the way native speakers do.
+- 'Then you will calmly walk up and tell everyone.' Kostya establishes a brisk bearing beside Fedya, pairing "potom" ("then") with "spokoyno" ("calmly") to get the point across in plain spoken Russian.
+- 'You will say that you feel good with us.' Kostya shows a sharp tempo for Denis, linking "skazhesh" ("will you say"), "khorosho" ("good, fine"), and "chto" ("what") in one brisk exchange.
+- 'Just say that you are staying here.' Kostya holds a measured tone as they talk, linking "skazhi" ("say"), "prosto" ("just"), and "ostayoshsya" ("remain") in one brisk exchange.

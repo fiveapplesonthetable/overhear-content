@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The same way as flounder. You take it and scale it.' With the room and rumor in play, Fedya keeps this short reply brisk and direct.
-- 'So young and beautiful! Don't you worry.' Over the conversation and the rumor, Louis lets his real feelings show.
-- 'You are not alone, you have me.' Pointing out that Fedya is not alone Fedya has him gives Fedya a sobering reality check. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Louis, what is going on?' Asking what going is cuts straight through the tension between Katya and Fedya. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Everyone will find out that you are a lesbian. Chef told me this secret.' Realizing that everyone will find out that Fedya is a lesbian changes how Louis handles the situation.
-- 'Why are you staring at me? That is all untrue, I am straight!' By wondering why Fedya staring is, Katya presses Fedya for a straight answer. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Of course, I am normal too.' Being normal is how Louis lays out the situation for Fedya.
-- 'Prove it! At least kiss me.' With the work and shift at stake, Fedya reacts without holding back.
-- 'Quiet! To make it fair, we have to draw lots.' Insisting that to make it fair they have to draw lots shows Fedya is not backing down. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Lyova! Where did Lyova come from? He wasn't even in the kitchen.' By asking where Lyova come, Katya presses Fedya for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I tossed it in. Lyova needs a wife too.' With the rumor and kitchen in play, Katya keeps this short reply brisk and direct.
-- 'Fine, Lyova it is. Where is the lucky guy?' Katya asks whether fine Lyova it is, refusing to let the point slide. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'The same way as flounder. You take it and scale it.' Fedya shows a wry posture beside Katya, pairing "kak" ("how") with "kambalu" ("flounder") to get the point across in plain spoken Russian.
+- 'So young and beautiful! Don't you worry.' Louis brings an unhurried line for Katya, putting "molodaya" ("young") alongside "krasivaya" ("pretty, beautiful") in a tight, everyday turn of phrase.
+- 'You are not alone, you have me.' Louis brings a candid mood right away, putting "yest" ("there is") alongside "odna" ("one") in a tight, everyday turn of phrase.
+- 'Louis, what is going on?' Katya wonders quietly in the scene, pairing "proiskhodit" ("is going on") with "lui" ("Louis") to get the point across in plain spoken Russian.
+- 'Everyone will find out that you are a lesbian. Chef told me this secret.' Louis sustains a sharp course in their talk, using "uznayut" (from "uznat", "find out") alongside "lesbiyanka" ("lesbian") to shape the meaning.
+- 'Why are you staring at me? That is all untrue, I am straight!' Katya wonders plainly without a pause, linking "ustavilis" ("stared"), "nepravda" ("untrue, a lie"), and "normalnaya" ("normal, proper") in one brisk exchange.
+- 'Of course, I am normal too.' Louis favors a candid style as the scene unfolds, linking "konechno" ("of course"), "tozhe" ("too"), and "normalnyy" ("decent, normal") in one brisk exchange.
+- 'Prove it! At least kiss me.' Fedya establishes a lively bearing with Louis, combining "dokazhi" ("prove") and "potseluy" ("kiss") so the key meaning lands right away.
+- 'Quiet! To make it fair, we have to draw lots.' Fedya holds a natural mood for Katya, anchoring the Russian line on "tikho" ("easy, quiet") and "bylo" ("was") without extra filler.
+- 'Lyova! Where did Lyova come from? He wasn't even in the kitchen.' Katya challenges bluntly in the room, joining "otkuda" ("where from") to "kukhne" ("kitchen") so every word pulls its weight.
+- 'I tossed it in. Lyova needs a wife too.' Katya picks a grounded course toward Fedya, combining "brosila" ("left, walked out on") and "tozhe" ("too") so the key meaning lands right away.
+- 'Fine, Lyova it is. Where is the lucky guy?' Katya asks promptly to Louis here, linking "gde" ("where") directly with "schastlivchik" ("lucky guy"), since Russian drops "is" and "are" in the present.

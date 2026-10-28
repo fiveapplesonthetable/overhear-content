@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Happy birthday to you, dear Vitya!' With the shift and phone at stake, Elena reacts without holding back. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I wish you strong health and prosperity.' Even though she wishes Barinov strong health and prosperity, Elena keeps a steady face in front of Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Thank you, dear, will you definitely be there tonight?' Wondering if dear will Elena definitely be there tonight shows Barinov caught off guard.
-- 'We will definitely come, Alisa is already getting very ready.' Because they will definitely come Alisa is already getting very ready, Elena treats the matter as settled.
-- 'I am waiting for you at eight o'clock at Arcobaleno.' Explaining that he is waiting for Elena at eight o'clock at Arcobaleno lays the cards on the table for Elena. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Wait, and what on earth is this?' With the moment and phone hanging in the air, Barinov puts Elena on the spot.
-- 'Tonight we have a charity buffet.' Claiming that tonight they have a charity buffet sounds confident, even if Barinov has doubts. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Today we are saving Far Eastern leopards.' Pointing out that today they are saving far Eastern leopards gives Barinov a sobering reality check.
-- 'What leopards, I have a banquet after all!' Saying that what leopards he has a banquet after all is how Barinov takes charge of the moment.
-- 'I carefully checked the reservation book in the morning.' Between the moment and the phone, Lyova gives Barinov a quick, grounded response.
-- 'There was no banquet there, the hall is free.' Noting that there was no banquet there the hall is free keeps Lyova's side of the story simple and clear.
-- 'Damn, I forgot to write down my banquet!' Insisting that damn he forgot to write down his banquet shows Barinov is not backing down.
+- 'Happy birthday to you, dear Vitya!' Elena establishes an honest footing in this beat, combining "dnyom" ("day") and "rozhdeniya" ("of birth") so the key meaning lands right away.
+- 'I wish you strong health and prosperity.' Elena projects a steady tone at once, weaving "zhelayu" ("I wish") together with "krepkogo" ("strong") just the way native speakers do.
+- 'Thank you, dear, will you definitely be there tonight?' Barinov challenges bluntly without hesitation, joining "spasibo" ("thank you") to "dorogaya" ("expensive") so every word pulls its weight.
+- 'We will definitely come, Alisa is already getting very ready.' Elena sets an unhurried note during the exchange, pairing "obyazatelno" ("surely, without fail") with "pridyom" ("will come") to get the point across in plain spoken Russian.
+- 'I am waiting for you at eight o'clock at Arcobaleno.' Barinov strikes a frank approach straight away, using "zhdu" (from "zhdat", "I wait, expect") alongside "chasov" ("o'clock") to shape the meaning.
+- 'Wait, and what on earth is this?' Barinov quizzes lightly as the talk turns, combining "podozhdite" ("wait") and "yeshchyo" ("more, still") so the key meaning lands right away.
+- 'Tonight we have a charity buffet.' Lyova establishes a clear note in the scene, leaning on "u nas" ("by us, at our place") and "segodnya" ("today") the way natural Russian does.
+- 'Today we are saving Far Eastern leopards.' Lyova picks an earnest direction in the conversation, building the phrase around "segodnya" ("today") and "spasayem" ("to save, to rescue") for a crisp, natural delivery.
+- 'What leopards, I have a banquet after all!' Barinov keeps an emphatic position in front of Elena, leaning on "yeshchyo" ("more, still") before closing the thought with "leopardov" ("leopards").
+- 'I carefully checked the reservation book in the morning.' Lyova favors a brisk note in the room, joining "utrom" ("this morning") to "vnimatelno" ("carefully, attentively") so every word pulls its weight.
+- 'There was no banquet there, the hall is free.' Lyova displays a steady view in their talk, combining "bylo" ("was") and "tam" ("there") so the key meaning lands right away.
+- 'Damn, I forgot to write down my banquet!' Barinov keeps a thoughtful tone as the scene unfolds, joining "chyort" ("darn, heck") to "zabyl" ("forgot") so every word pulls its weight.

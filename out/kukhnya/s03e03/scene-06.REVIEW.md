@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And what is this person doing here?' Asking what this person doing here is cuts straight through the tension between Elena and Barinov. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'She works here. As a cook.' Claiming that she works here sounds confident, even if Elena has doubts.
-- 'A female cook in your kitchen?' With the kitchen and office hanging in the air, Elena puts Barinov on the spot. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Well, Nagiyev forced her on me, she is a molecular cuisine specialist.' Barinov explains that Nagiyev forced her on him she is a molecular cuisine specialist, keeping his voice calm and direct.
-- 'And why did you actually drop by?' Wondering why Elena actually drop cuts straight through the tension between Barinov and Elena.
-- 'I need a car for a couple of hours.' Claiming that she needs a car for a couple of hours sounds confident, even if Barinov has doubts.
-- 'Will you lend me yours?' Here asking whether Barinov lends shows Elena looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'For heaven's sake, be careful.' With the plan and car in play, Barinov keeps this short reply brisk and direct.
-- 'Who are you worrying about right now?' Asking who Barinov worrying about right now is cuts straight through the tension between Elena and Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'About the car or about me?' Over the moment and the car, Elena presses Barinov for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Both of you are dear to me in different ways.' Adding that both of Elena is dear to him in different ways fills in the missing piece for Elena.
-- 'Thank you, Vitya.' Between the plan and the car, Elena gives Barinov a quick, grounded response.
+- 'And what is this person doing here?' Elena presses firmly across the room, leaning on "osoba" ("person, individual") before closing the thought with "zdes" ("here").
+- 'She works here. As a cook.' Barinov establishes a calm note without hesitation, using "rabotayet" (from "rabotat", "works") alongside "povarom" ("as a cook") to shape the meaning.
+- 'A female cook in your kitchen?' Elena prompts candidly in the scene, anchoring the Russian line on "zhenshchina-povar" ("female cook") and "tebya" ("you") without extra filler.
+- 'Well, Nagiyev forced her on me, she is a molecular cuisine specialist.' Barinov maintains an unhurried note on the spot, leaning on "navyazal" ("forced on, imposed") before closing the thought with "spetsialist" ("specialist").
+- 'And why did you actually drop by?' Barinov quizzes earnestly toward Elena here, weaving "sobstvenno" ("actually") together with "zashla" ("dropped in") just the way native speakers do.
+- 'I need a car for a couple of hours.' Elena shows a frank position on the spot, pairing "mashina" ("a car") with "nuzhna" ("needed") to get the point across in plain spoken Russian.
+- 'Will you lend me yours?' Elena wonders lightly without hesitation, pairing "dash" ("to give") with "svoyu" ("your") to get the point across in plain spoken Russian.
+- 'For heaven's sake, be careful.' Barinov maintains a clear tack without hesitation, anchoring the Russian line on "boga" ("God") and "akkuratneye" ("more carefully") without extra filler.
+- 'Who are you worrying about right now?' Elena probes earnestly to keep things clear, leaning on "seychas" ("now") before closing the thought with "perezhivayesh" ("worry").
+- 'About the car or about me?' Elena presses frankly without a pause, weaving "mashinu" ("car") together with "za" ("for") just the way native speakers do.
+- 'Both of you are dear to me in different ways.' Barinov brings a sharp bearing in front of Elena, pairing "po-raznomu" ("in different ways") with "dorogiye" ("dear") to get the point across in plain spoken Russian.
+- 'Thank you, Vitya.' Elena chooses a frank mood for Barinov, leaning on "spasibo" ("thank you") before closing the thought with "vitya" ("Vitya").

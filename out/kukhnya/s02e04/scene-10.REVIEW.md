@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I think so too.' With the shift and room in play, Max keeps this short reply brisk and direct.
-- 'Or maybe we really should?' Wondering if maybe they really should shows Vika caught off guard. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Run away together as a couple.' Because Vika should run away together as a couple, Max treats the matter as settled.
-- 'Does this mean that you have forgiven me?' Here asking whether this mean that Max has forgiven shows Vika looking for the real truth.
-- 'It means that I am a fool.' Since it means that he is a fool, Max does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I gave in to my emotions.' Mentioning that she gave in to her emotions moves the talk in a new direction.
-- 'And what happens next?' Wondering if what happens next shows Max caught off guard.
-- 'Max, you cheated on me.' Turning from the moment to the room, Vika keeps the exchange moving. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I could have forgiven a lot, but not that.' Explaining that she could have forgiven a lot but not lays the cards on the table for Max. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Well then...' Between the conversation and the shift, Vika gives Max a quick, grounded response.
-- 'The subject is closed.' Claiming that the subject is closed sounds confident, even if Vika has doubts.
-- 'But we have not finished talking yet.' Pointing out that they have not finished talking yet gives Max a sobering reality check.
-- 'I will be back.' Max explains that he will be back, keeping his voice calm and direct.
+- 'I think so too.' Max favors a frank position in front of Vika, linking "tozhe" ("too"), "dumayu" ("I think"), and "ya" ("I") in one brisk exchange.
+- 'Or maybe we really should?' Vika challenges lightly beside Max, weaving "mozhet" ("can") together with "deystvitelno" ("really, indeed") just the way native speakers do.
+- 'Run away together as a couple.' Max conveys a lively footing during the exchange, joining "makhnel" ("to wave, dash off") to "pare" ("couple") so every word pulls its weight.
+- 'Does this mean that you have forgiven me?' Vika queries frankly to Max here, leaning on "znachit" ("then, so") before closing the thought with "prostila" ("would forgive").
+- 'It means that I am a fool.' Max picks a natural approach at this moment, anchoring the Russian line on "znachit" ("then, so") and "dura" ("fool") without extra filler.
+- 'I gave in to my emotions.' Vika offers an easygoing angle toward Max, using "dala" (from "dat", "gave") alongside "vole" ("will, freedom") to shape the meaning.
+- 'And what happens next?' Max prompts firmly to Vika here, putting "dalshe" ("next, go on") alongside "chto" ("what") in a tight, everyday turn of phrase.
+- 'Max, you cheated on me.' Vika adopts an easygoing line as they talk, leaning on "izmenil" ("changed") before closing the thought with "maks" ("Max").
+- 'I could have forgiven a lot, but not that.' Vika establishes a resolute position in the room, linking "mnogo" ("a lot"), "mogla" ("could"), and "prostit" ("forgive") in one brisk exchange.
+- 'Well then...' Vika conveys a playful footing across the room, leaning on "nu" ("oh, come on") as a compact, one-word response that needs no extra words.
+- 'The subject is closed.' Max sustains a playful posture beside Vika, anchoring the Russian line on "tema" ("tyoma") and "zakryta" ("classified") without extra filler.
+- 'But we have not finished talking yet.' Vika shows a pointed tempo in front of Max, joining "yeshche" ("still") to "dogovorili" ("to finish speaking") so every word pulls its weight.
+- 'I will be back.' Max displays a measured tack right away, pairing "vernus" ("will come back") with "yeshche" ("still") so the "-sya" ending carries the action.

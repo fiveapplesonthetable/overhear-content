@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My forecast for today is excellent.' Because his forecast for today is excellent, Max treats the matter as settled.
-- 'I feel like walking in through the front entrance.' Feeling like walking in through the front entrance is how Max lays out the situation for Kostya.
-- 'Nothing will ruin my mood.' Max mentions that nothing will ruin his mood so Kostya sees what is at stake.
-- 'Sometimes forecasts lie.' With the news and moment in play, Max keeps this short reply brisk and direct.
-- 'Go to the back courtyard.' Explaining that Kostya should go to the back courtyard lays the cards on the table for Kostya.
-- 'Do not disgrace our restaurant.' Nagiyev explains that do not disgrace their restaurant, keeping his voice calm and direct.
-- 'This is not my best day.' Realizing that this is not his best day changes how Max handles the situation.
-- 'Friends will always support me.' Noting that friends will always support him keeps Max's side of the story simple and clear.
-- 'Hey, Max, here is the thing.' Even though here is the thing, Kostya keeps a steady face in front of Max.
-- 'You need to move out of the apartment.' Admitting that Max needs to move out of the apartment shows Kostya being honest for a change.
-- 'Our baby will be born soon.' Saying that their baby will be born soon is how Kostya sets the tone with Max. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I wish this day would end soon.' Noting that he wishes this day would end soon keeps Max's side of the story simple and clear.
+- 'My forecast for today is excellent.' Max sets a sharp posture in the scene, linking "segodnya" ("today") directly with "prognoz" ("forecast"), since Russian drops "is" and "are" in the present.
+- 'I feel like walking in through the front entrance.' Max maintains a grounded angle on the spot, leaning on "khochetsya" ("want, feel like") before closing the thought with "voyti" ("to come in").
+- 'Nothing will ruin my mood.' Max establishes a wry note for Kostya, combining "isportit" ("to spoil, ruin") and "nastroyeniye" ("mood") so the key meaning lands right away.
+- 'Sometimes forecasts lie.' Max shares an unhurried mood right away, leaning on "byvayet" ("there can be") before closing the thought with "prognozy" ("forecasts").
+- 'Go to the back courtyard.' Nagiyev keeps a frank footing straight away, using "idi" (from "idti", "go") alongside "zadniy" ("back, rear") to shape the meaning.
+- 'Do not disgrace our restaurant.' Nagiyev projects a grounded line across the room, joining "pozor" ("disgrace, embarrass") to "restoran" ("restaurant") so every word pulls its weight.
+- 'This is not my best day.' Max adopts a frank angle in the conversation, building the phrase around "luchshiy" ("best") and "den" ("day") for a crisp, natural delivery.
+- 'Friends will always support me.' Max brings a brisk posture without hesitation, anchoring the Russian line on "druzya" ("friends") and "vsegda" ("always") without extra filler.
+- 'Hey, Max, here is the thing.' Kostya strikes a firm mood across the room, combining "zdorovo" ("great, cool") and "tut" ("here") so the key meaning lands right away.
+- 'You need to move out of the apartment.' Kostya establishes a measured manner at this moment, weaving "nuzhno" ("necessary") together with "syekhat" ("to move out") just the way native speakers do.
+- 'Our baby will be born soon.' Kostya brings an earnest position straight away, weaving "malysh" ("kid, little one") together with "skoro" ("soon") just the way native speakers do.
+- 'I wish this day would end soon.' Max presents a lively position for Nagiyev, leaning on "skoreye" ("quickly, right away") before closing the thought with "den" ("day").

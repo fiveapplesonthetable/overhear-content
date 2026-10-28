@@ -7,7 +7,7 @@ SCENE = 5
 TITLE = 'Тайна про поцелуй с Катей  (The Secret About Kissing Katya)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'eva': 'Ева', 'kostya': 'Костя', 'max': 'Макс'}
+LABELS = {'kostya': 'Костя', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S3.18'
 SOURCE_FILE = 'sources/kukhnya/s03/e18.ru.srt'
 INTRO = 'At the bar counter, Max confesses to Kostya that he and Katya kissed right before Vika came back. Waitress Eva overhears part of their conversation, and Kostya urges Max to tell Katya the truth right away.'
@@ -21,7 +21,7 @@ STORY = [
     ('kostya', 'Ты же так часто туда попадаешь.', 'You get into trouble so often, after all.', [(72, 'Ты так часто туда попадаешь')], 'adapted'),
     ('max', 'Хватит шутить, я говорю тебе про Катю.', 'Stop joking, I am talking to you about Katya.', [(73, 'Я про Катю')], 'adapted'),
     ('kostya', 'Ева, тебе сейчас что тут надо?', 'Eva, what do you need here right now?', [(75, 'Ева, тебе что надо')], 'adapted'),
-    ('eva', 'Костя, а где мой готовый коктейль?', 'Kostya, where is my finished cocktail?', [(76, 'Коктейль мой где')], 'adapted'),
+    ('vika', 'Костя, а где мой готовый коктейль?', 'Kostya, where is my finished cocktail?', [(76, 'Коктейль мой где')], 'adapted'),
     ('kostya', 'Вот твой коктейль, бери и иди отсюда.', 'Here is your cocktail, take it and go away.', [(78, 'Иди отсюда')], 'adapted'),
     ('max', 'Да нет, мы с Катей просто поцеловались.', 'Well no, Katya and I just kissed.', [(80, 'Да нет, мы просто поцеловались')], 'adapted'),
     ('kostya', 'Но ведь сегодня Вика обратно вернулась!', 'But Vika came back today!', [(82, 'Вика')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'На словах у тебя всегда всё просто!', 'In words everything is always simple for you!', [(89, 'Как у тебя все просто')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'Kostya, I have a huge problem right now.\' Adding that he has a huge problem right now fills in the missing piece for Eva. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
-    (1, None, '\'Come on, you have a permanent season pass there.\' Coming on Eva has a permanent pass there is how Kostya lays out the situation for Eva. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
-    (2, None, "'You get into trouble so often, after all.' Adding that Eva gets into trouble so often after all fills in the missing piece for Eva."),
-    (3, None, '\'Stop joking, I am talking to you about Katya.\' Mentioning that Eva should stop joking he is talking to Eva about Katya moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (4, None, '\'Eva, what do you need here right now?\' Here asking what Eva needs here right now shows Kostya looking for the real truth. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
-    (5, None, "'Kostya, where is my finished cocktail?' By wondering where her finished cocktail is, Eva presses Kostya for a straight answer."),
-    (6, None, '\'Here is your cocktail, take it and go away.\' Saying that here is Eva\'s cocktail take it and go away is how Kostya sets the tone with Eva. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (7, None, "'Well no, Katya and I just kissed.' Around the secret and moment, Max sets a calm, everyday tone with Eva."),
-    (8, None, "'But Vika came back today!' Kostya declares that Vika came back today as the tension in the room peaks."),
-    (9, None, '\'You see, if Vika finds out about this, I am done for.\' Max mentions that if Vika finds out about this he is done so Eva sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (10, None, '\'Tell Katya the truth, that you love Vika.\' Admitting that Eva should tell Katya the truth that Eva loves Vika shows Kostya being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (11, None, "'In words everything is always simple for you!' Once in words everything is always simple for Eva, Max makes sure Eva hears every word."),
+    (0, None, '\'Kostya, I have a huge problem right now.\' Max favors a firm approach during the exchange, combining "seychas" ("now") and "ogromnaya" ("vast, huge") so the key meaning lands right away.'),
+    (1, None, '\'Come on, you have a permanent season pass there.\' Kostya displays a brisk style as the scene unfolds, joining "tuda" ("there") to "postoyannyy" ("regular") so every word pulls its weight.'),
+    (2, None, '\'You get into trouble so often, after all.\' Kostya keeps a measured line in front of Max, building the phrase around "chasto" ("often") and "tuda" ("there") for a crisp, natural delivery.'),
+    (3, None, '\'Stop joking, I am talking to you about Katya.\' Max displays a firm note for Vika, combining "khvatit" ("enough") and "shutit" ("to joke") so the key meaning lands right away.'),
+    (4, None, '\'Eva, what do you need here right now?\' Kostya questions candidly beside Max, putting "seychas" ("now") alongside "tut" ("here") in a tight, everyday turn of phrase.'),
+    (5, None, '\'Kostya, where is my finished cocktail?\' Vika checks directly for Max\'s benefit, pairing "gde" ("where") with "gotovyy" ("finished, ready") to get the point across in plain spoken Russian.'),
+    (6, None, '\'Here is your cocktail, take it and go away.\' Kostya brings an unhurried course in front of Max, putting "kokteyl" ("cocktail") alongside "beri" ("take, grab") in a tight, everyday turn of phrase.'),
+    (7, None, '\'Well no, Katya and I just kissed.\' Max sets a wry posture as the scene unfolds, anchoring the Russian line on "prosto" ("just") and "potselovalis" ("kissed") without extra filler.'),
+    (8, None, '\'But Vika came back today!\' Kostya strikes a pointed view in the scene, building the phrase around "segodnya" ("today") and "obratno" ("back") for a crisp, natural delivery.'),
+    (9, None, '\'You see, if Vika finds out about this, I am done for.\' Max sustains an easygoing tempo in the conversation, using "ponimayesh" (from "ponimat", "do you understand") alongside "uznayet" ("will find out") to shape the meaning.'),
+    (10, None, '\'Tell Katya the truth, that you love Vika.\' Kostya chooses a brisk line during the exchange, leaning on "skazhi" ("say") before closing the thought with "pravdu" ("truth").'),
+    (11, None, '\'In words everything is always simple for you!\' Max projects a measured tone without hesitation, anchoring the Russian line on "slovakh" ("words") and "vsegda" ("always") without extra filler.'),
 ]

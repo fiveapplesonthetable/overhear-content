@@ -7,7 +7,7 @@ SCENE = 5
 TITLE = 'Встреча у номера и просьба Тимуру  (Meeting by the Room and Asking Timur)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'eleonora': 'Элеонора', 'max': 'Макс', 'timur': 'Тимур'}
+LABELS = {'barinov': 'Шеф', 'eleonora': 'Элеонора', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S5.14'
 SOURCE_FILE = 'sources/kukhnya/s05/e14.ru.srt'
 INTRO = "Stepping out of Katya's hotel room after his shower, Max runs straight into Eleonora, who assumes he is Katya's secret boyfriend, while downstairs in the courtyard Chef Barinov begs Timur for a derby ticket."
@@ -22,24 +22,24 @@ STORY = [
     ('max', 'Да, она внизу, ей что-нибудь нужно передать?', 'Yes, she is downstairs, should I pass anything on to her?', [(92, 'Ей что-нибудь передать')], 'adapted'),
     ('eleonora', 'Нет, ничего передавать ей сейчас не надо.', 'No, there is no need to pass anything on to her right now.', [(93, 'Нет, не надо')], 'adapted'),
     ('max', 'Тогда я пойду обратно вниз на работу.', 'Then I will go back downstairs to work.', [(90, 'в вашем ресторане')], 'adapted'),
-    ('timur', 'Шеф, ну нет больше билетов на этот матч!', 'Chef, there are simply no more tickets for this match!', [(95, 'Ну нету шеф-брат')], 'adapted'),
+    ('eleonora', 'Шеф, ну нет больше билетов на этот матч!', 'Chef, there are simply no more tickets for this match!', [(95, 'Ну нету шеф-брат')], 'adapted'),
     ('max', 'Тимур, ну достань мне хотя бы один билет!', 'Timur, please get me at least one ticket!', [(94, 'Тимур, ну достань мне этот билет')], 'adapted'),
-    ('timur', 'Хочешь, я тебе лучше редкую рыбу достану?', 'Would you like me to get you a rare fish instead?', [(96, 'я тебе')], 'adapted'),
-    ('timur', 'Даже огромного зверя достать сейчас гораздо проще!', 'Even getting a giant beast is much easier right now!', [(97, 'И то проще')], 'adapted'),
+    ('barinov', 'Хочешь, я тебе лучше редкую рыбу достану?', 'Would you like me to get you a rare fish instead?', [(96, 'я тебе')], 'adapted'),
+    ('barinov', 'Даже огромного зверя достать сейчас гораздо проще!', 'Even getting a giant beast is much easier right now!', [(97, 'И то проще')], 'adapted'),
     ('max', 'Зачем мне рыба, когда сегодня главное дерби?', 'What do I need fish for when today is the main derby?', [(94, 'этот билет')], 'adapted'),
-    ('timur', 'Прости, дорогой, тут я бессилен помочь.', 'Sorry, my friend, here I am powerless to help.', [(95, 'шеф-брат')], 'adapted'),
+    ('barinov', 'Прости, дорогой, тут я бессилен помочь.', 'Sorry, my friend, here I am powerless to help.', [(95, 'шеф-брат')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'Hello, young man, and who are you anyway?\' Asking whether young man and who are Max anyway puts Max right on the defensive. Notice how she sticks to the formal "you", keeping a professional line between them.'),
-    (1, None, "'I am Maxim Lavrov, a cook in your restaurant.' Noting that he is Maxim Lavrov a cook in Eleonora's restaurant keeps Max's side of the story simple and clear."),
-    (2, None, "'And where is Katya right now? Probably in the kitchen?' Asking where Katya right now is cuts straight through the tension between Eleonora and Max."),
-    (3, None, "'Yes, she is downstairs, should I pass anything on to her?' Max asks whether she is downstairs should he passes anything, refusing to let the point slide. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
-    (4, None, '\'No, there is no need to pass anything on to her right now.\' Since there is no need to pass anything on to her right now, Eleonora does not waste words on excuses. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
-    (5, None, "'Then I will go back downstairs to work.' Explaining that he will go back downstairs to work lays the cards on the table for Eleonora."),
-    (6, None, "'Chef, there are simply no more tickets for this match!' Once there are simply no more tickets for this match, Timur makes sure Eleonora hears every word. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (7, None, "'Timur, please get me at least one ticket!' By getting him at least one ticket, Max raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (8, None, "'Would you like me to get you a rare fish instead?' Here asking whether Eleonora likes him to get Eleonora a rare fish instead shows Timur looking for the real truth."),
-    (9, None, "'Even getting a giant beast is much easier right now!' Saying that even getting a giant beast is much easier right now is how Timur takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (10, None, '\'What do I need fish for when today is the main derby?\' Asking what he needs fish for when today is the main derby cuts straight through the tension between Max and Eleonora. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (11, None, "'Sorry, my friend, here I am powerless to help.' Saying that his friend here he is powerless to help is how Timur sets the tone with Eleonora."),
+    (0, None, '\'Hello, young man, and who are you anyway?\' Eleonora quizzes steadily toward Barinov here, weaving "zdravstvuyte" ("hello") together with "molodoy" ("young") just the way native speakers do.'),
+    (1, None, '\'I am Maxim Lavrov, a cook in your restaurant.\' Max displays a brisk posture as the scene unfolds, pairing "povar" ("chef, cook") with "restorane" ("restaurant") to get the point across in plain spoken Russian.'),
+    (2, None, '\'And where is Katya right now? Probably in the kitchen?\' Eleonora presses decisively in this moment, pairing "seychas" ("now") with "gde" ("where") so the "-sya" ending carries the action.'),
+    (3, None, '\'Yes, she is downstairs, should I pass anything on to her?\' Max presses lightly in the room, building the phrase around "vnizu" ("downstairs") and "nuzhno" ("necessary") for a crisp, natural delivery.'),
+    (4, None, '\'No, there is no need to pass anything on to her right now.\' Eleonora brings a clear attitude without hesitation, weaving "peredavat" ("pass on, send") together with "seychas" ("now") just the way native speakers do.'),
+    (5, None, '\'Then I will go back downstairs to work.\' Max projects a candid stance at this moment, building the phrase around "togda" ("back then") and "poydu" ("go") for a crisp, natural delivery.'),
+    (6, None, '\'Chef, there are simply no more tickets for this match!\' Eleonora displays a candid tone for Barinov, putting "bolshe" ("more") alongside "biletov" ("ticket") in a tight, everyday turn of phrase.'),
+    (7, None, '\'Timur, please get me at least one ticket!\' Max favors a firm view beside Eleonora, weaving "dostan" ("to take out") together with "bilet" ("ticket") just the way native speakers do.'),
+    (8, None, '\'Would you like me to get you a rare fish instead?\' Barinov questions earnestly right away, leaning on "khochesh" ("do you want") before closing the thought with "luchshe" ("better").'),
+    (9, None, '\'Even getting a giant beast is much easier right now!\' Barinov conveys a clear footing as the scene unfolds, putting "ogromnogo" ("huge, vast") alongside "zverya" ("animal, beast") in a tight, everyday turn of phrase.'),
+    (10, None, '\'What do I need fish for when today is the main derby?\' Max tests candidly toward Barinov here, building the phrase around "zachem" ("what for") and "ryba" ("fish") for a crisp, natural delivery.'),
+    (11, None, '\'Sorry, my friend, here I am powerless to help.\' Barinov takes a natural rhythm at this moment, weaving "prosti" ("sorry, forgive me") together with "dorogoy" ("dear") just the way native speakers do.'),
 ]

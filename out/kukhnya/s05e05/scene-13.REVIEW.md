@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you call for me?' By asking whether Elena calls for him, Barinov presses Elena for a straight answer.
-- 'What did you talk about with Katya?' Wondering what Elena talks about with Katya cuts straight through the tension between Barinov and Elena. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'She knows everything about us.' Realizing that she knows everything about them changes how Eleonora handles the situation.
-- 'Why did you tell her everything?' Here asking why Elena tells her everything shows Barinov looking for the real truth.
-- 'Vitya, is everything alright in the restaurant?' By checking whether everything alright in the restaurant, Elena presses Barinov for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I decided to talk with you after all.' Admitting that she decided to talk with Barinov after all shows Elena being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Your second wife is in the dining room.' Saying that Barinov's second wife is in the dining room is how Elena sets the tone with Barinov.
-- 'Will you introduce us?' Here checking whether Barinov introduce them shows Elena looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It is not worth it.' Adding that it is not worth it fills in the missing piece for Elena.
-- 'She might take this as an insult.' Barinov tells Elena that she might take this as an insult without dressing it up.
-- 'Introduce us, or else I will have to ask Katya.' Since introduce them or else she will have to ask Katya, Elena does not waste words on excuses.
-- 'You stay here, I will go talk to her right now.' Mentioning that Elena stays here he will go talk to her right now moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Did you call for me?' Barinov probes directly on the spot, anchoring the Russian line on "zvali" ("called") and "vy" ("you") without extra filler.
+- 'What did you talk about with Katya?' Barinov checks briskly in the scene, anchoring the Russian line on "govorili" ("talked") and "chyom" ("what") without extra filler.
+- 'She knows everything about us.' Eleonora favors a candid style in the conversation, using "znayet" (from "znat", "knows") alongside "ona" ("it") to shape the meaning.
+- 'Why did you tell her everything?' Barinov checks wryly in their exchange, weaving "zachem" ("what for") together with "rasskazala" ("told") just the way native speakers do.
+- 'Vitya, is everything alright in the restaurant?' Elena quizzes firmly in the room, joining "restorane" ("restaurant") to "poryadke" ("order") so every word pulls its weight.
+- 'I decided to talk with you after all.' Elena maintains a thoughtful line across the room, anchoring the Russian line on "reshila" ("decided") and "pogovorit" ("to talk") without extra filler.
+- 'Your second wife is in the dining room.' Elena shows a brisk position straight away, anchoring the Russian line on "vtoraya" ("second") and "zhena" ("wife") without extra filler.
+- 'Will you introduce us?' Elena tests frankly from the start, putting all the weight on "poznakomish" ("you'll introduce") so the reply lands immediately.
+- 'It is not worth it.' Barinov strikes a firm angle beside Elena, building the phrase around "stoit" ("is parked") and "ne" ("not") for a crisp, natural delivery.
+- 'She might take this as an insult.' Barinov shows a serious note right away, linking "mozhet" ("can"), "vosprinyat" ("to take, perceive"), and "kak" ("how") in one brisk exchange.
+- 'Introduce us, or else I will have to ask Katya.' Elena projects a lively course as the scene unfolds, linking "poznakom" ("introduce"), "pridyotsya" ("you'll have to"), and "prosit" ("to ask, to beg") in one brisk exchange.
+- 'You stay here, I will go talk to her right now.' Barinov maintains a lively note across the room, putting "pobud" ("stay") alongside "zdes" ("here") in a tight, everyday turn of phrase.

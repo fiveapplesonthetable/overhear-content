@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'These keys do not fit.' Because these keys do not fit, Barinov treats the matter as settled.
-- 'Oh, I forgot to check the second one.' Explaining that he forgot to check the second one lays the cards on the table for Barinov.
-- 'And what are we supposed to do now?' Asking what they supposed to do now are cuts straight through the tension between Fedya and Barinov.
-- 'Guys, we need to get out of here.' Needing to get out of here is how Senya lays out the situation for Barinov. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Here is the plan, we have to steal the safe.' Explaining that here is the plan they have to steal the safe lays the cards on the table for Fedya. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Chef, they will put us in prison!' Because they will put them in prison, Senya does not bother softening the blow for Barinov.
-- 'Who even needs it?' Barinov asks whether who even needs it, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It has stood here empty for a hundred years.' Noting that it has stood here empty for a hundred years keeps Barinov's side of the story simple and clear.
-- 'Carrying it out unnoticed will not work.' Even though carrying it out unnoticed will not work, Fedya keeps a steady face in front of Barinov.
-- 'Besides, it is very heavy.' Admitting that besides it is very heavy shows Barinov being honest for a change.
-- 'Let's drop it out the window!' Here proposing that they drop it out the window lets Barinov's real feelings break through. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'If it breaks open, even better.' Once if it breaks open even better, Barinov can finally tell Fedya what he means.
-- 'Go to the kitchen and keep watch.' Realizing that Fedya should go to the kitchen and keep watch changes how Barinov handles the situation.
-- 'We can drop it now, go!' Insisting that they can drop it now go shows Barinov is not backing down. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'These keys do not fit.' Barinov sets an honest style beside Fedya, putting "klyuchi" ("the keys") alongside "podkhodyat" ("to approach") in a tight, everyday turn of phrase.
+- 'Oh, I forgot to check the second one.' Senya displays an unhurried stance across the room, combining "zabyl" ("forgot") and "vtoroy" ("second") so the key meaning lands right away.
+- 'And what are we supposed to do now?' Fedya probes quietly as the talk turns, linking "teper" ("now"), "delat" ("do"), and "chto" ("what") in one brisk exchange.
+- 'Guys, we need to get out of here.' Senya picks a warm course straight away, anchoring the Russian line on "rebyata" ("the boys, the lads") and "nado" ("it is necessary") without extra filler.
+- 'Here is the plan, we have to steal the safe.' Barinov sustains a direct tack in the conversation, weaving "znachit" ("then, so") together with "nado" ("it is necessary") just the way native speakers do.
+- 'Chef, they will put us in prison!' Senya conveys a calm note with Fedya, building the phrase around "posadyat" ("they'll put in prison") and "shef" ("Chef") for a crisp, natural delivery.
+- 'Who even needs it?' Barinov tests naturally in this moment, weaving "nuzhen" ("is needed") together with "da" ("yes") just the way native speakers do.
+- 'It has stood here empty for a hundred years.' Barinov adopts a frank bearing in the room, linking "zdes" ("here"), "let" ("years"), and "stoit" ("is parked") in one brisk exchange.
+- 'Carrying it out unnoticed will not work.' Fedya shares a calm course across the room, pairing "vynesti" ("issue, hand down") with "nezametno" ("inconspicuously") to get the point across in plain spoken Russian.
+- 'Besides, it is very heavy.' Barinov keeps an emphatic rhythm during the exchange, combining "ochen" ("very much") and "tyazhyolyy" ("heavy") so the key meaning lands right away.
+- 'Let's drop it out the window!' Barinov takes a natural posture as the scene unfolds, weaving "davayte" ("let's") together with "sbrosim" ("to drop") just the way native speakers do.
+- 'If it breaks open, even better.' Barinov maintains an earnest bearing at once, putting "slomayetsya" ("to break down") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
+- 'Go to the kitchen and keep watch.' Barinov keeps an earnest tack for Fedya, joining "idi" ("go") to "kukhnyu" ("kitchen") so every word pulls its weight.
+- 'We can drop it now, go!' Barinov holds a natural bearing on the spot, joining "mozhno" ("may, can") to "sbrasyvat" ("to go") so every word pulls its weight.

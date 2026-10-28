@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Timur, what have you done here?' Questioning whether what have the inspector done here is how Barinov tests the inspector's story.
-- 'Brother, just do not worry!' Saying that brother just do not worry is how Timur takes charge of the moment. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I did not hit him very hard.' Since he did not hit him very hard, Timur does not waste words on excuses.
-- 'This is simply a terrible hotel!' Because this is simply a terrible hotel, the inspector does not bother softening the blow for Barinov.
-- 'Everyone here wants to kill me.' The inspector reminds Barinov that everyone here wants to kill him before the moment passes.
-- 'It is a miracle that I stayed alive.' Because it is a miracle that he stayed alive, the inspector treats the matter as settled.
-- 'What do you want from me?' Here wondering what Barinov wants from him shows the inspector looking for the real truth.
-- 'I suggest writing a good review.' Barinov reminds the inspector that he suggests writing a good review before the moment passes.
-- 'Are you hinting at a bribe to me?' Checking whether Barinov hinting at a bribe to him is how the inspector puts Barinov on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'We want to compensate your damage.' Here wanting to compensate the inspector's damage sets up the next turn in their exchange.
-- 'This is simply very outrageous!' Because this is simply very outrageous, the inspector does not bother softening the blow for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Where will I get that kind of money?' Wondering where he gets that kind of money will cuts straight through the tension between Barinov and the inspector. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Fine, we agree to everything.' Over the silence and the moment, Barinov answers the inspector without a second thought.
+- 'Timur, what have you done here?' Barinov tests steadily during the talk, putting "tut" ("here") alongside "nadelal" ("make, cause") in a tight, everyday turn of phrase.
+- 'Brother, just do not worry!' Timur brings a brisk mood in this beat, building the phrase around "brat" ("brother") and "tolko" ("only") for a crisp, natural delivery.
+- 'I did not hit him very hard.' Timur conveys a pointed line without hesitation, putting "silno" ("strongly, much") alongside "sbil" ("knock down") in a tight, everyday turn of phrase.
+- 'This is simply a terrible hotel!' The inspector chooses a wry rhythm at this moment, linking "prosto" ("just"), "uzhasnaya" ("terrible"), and "gostinitsa" ("hotel") in one brisk exchange.
+- 'Everyone here wants to kill me.' The inspector projects a playful style across the room, joining "zdes" ("here") to "khotyat" ("want") so every word pulls its weight.
+- 'It is a miracle that I stayed alive.' The inspector strikes a serious footing in the conversation, leaning on "chudo" ("miracle") before closing the thought with "ostalsya" ("remained").
+- 'What do you want from me?' The inspector presses wryly in this moment, building the phrase around "nado" ("it is necessary") and "chto" ("what") for a crisp, natural delivery.
+- 'I suggest writing a good review.' Barinov holds a firm tempo in the conversation, linking "predlagayu" ("suggest"), "napisat" ("to write"), and "khoroshiy" ("good") in one brisk exchange.
+- 'Are you hinting at a bribe to me?' The inspector questions decisively to make the point, putting "namekayete" ("are hinting") alongside "vzyatku" ("bribe") in a tight, everyday turn of phrase.
+- 'We want to compensate your damage.' Barinov adopts an emphatic attitude as the scene unfolds, pairing "khotim" ("want") with "vozmestit" ("to compensate") to get the point across in plain spoken Russian.
+- 'This is simply very outrageous!' The inspector projects a clear footing beside Barinov, linking "prosto" ("just"), "ochen" ("very much"), and "vozmutitelno" ("outrageous") in one brisk exchange.
+- 'Where will I get that kind of money?' Barinov probes openly to keep things clear, weaving "gde" ("where") together with "vozmu" ("will get") just the way native speakers do.
+- 'Fine, we agree to everything.' Barinov maintains a measured mood toward the inspector, linking "khorosho" ("good, fine"), "soglasny" ("agree"), and "my" ("we") in one brisk exchange.

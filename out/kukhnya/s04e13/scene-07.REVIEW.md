@@ -18,7 +18,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Вика | Мы не проводим подобные мероприятия. | We do not hold such events. | #72: Вы знаете, дело в | adapted: adapted |
 | 7 | Гость | А Дима Нагиев сказал совсем другое. | But Dima Nagiyev said something completely different. | #73: А Дима Нагип сказал, | adapted: adapted |
 | 8 | Гость | Он обещал, что всё будет хорошо. | He promised that everything will be fine. | #73: А Дима Нагип сказал, | adapted: adapted |
-| 9 | Элеонора | Я хотела прийти к вам позавчера. | I wanted to come to you the day before yesterday. | #74: Я хотела позавчера прийти, | adapted: adapted |
+| 9 | Вика | Я хотела прийти к вам позавчера. | I wanted to come to you the day before yesterday. | #74: Я хотела позавчера прийти, | adapted: adapted |
 | 10 | Гость | Но он сказал, что вы разводитесь. | But he said that you are getting divorced. | #74: Я хотела позавчера прийти, | adapted: adapted |
 | 11 | Вика | Извините меня, пожалуйста, на минутку. | Excuse me, please, for a minute. | #76: Извините. | adapted: adapted |
 | 12 | Вика | Настя, если заплачешь, я тебя оштрафую! | Nastya, if you cry, I will fine you! | #77: Если еще раз ты | adapted: adapted |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I apparently misunderstood you.' With the restaurant and tears in play, Vika keeps this short reply brisk and direct.
-- 'Do you want to celebrate your dog's party?' Checking whether Eleonora wants to celebrate Eleonora's dog party is how Vika puts Eleonora on the spot. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Yes, I want to close the whole restaurant.' Mentioning that he wants to close the whole restaurant moves the talk in a new direction.
-- 'We and our guests need comfort.' Around the restaurant and conversation, the guest sets a calm, everyday tone with Eleonora.
-- 'He has a strong allergy to lactose.' Adding that he has a strong allergy to lactose fills in the missing piece for Eleonora. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'We do not hold such events.' Realizing that they do not hold such events changes how Vika handles the situation.
-- 'But Dima Nagiyev said something completely different.' Noting that Dima Nagiyev said something completely different keeps the guest's side of the story simple and clear.
-- 'He promised that everything will be fine.' Even though he promised that everything will be fine, the guest keeps a steady face in front of Eleonora.
-- 'I wanted to come to you the day before yesterday.' Admitting that she wanted to come to the guest the day before yesterday shows Eleonora being honest for a change. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'But he said that you are getting divorced.' Saying that he said that Eleonora is getting divorced is how the guest sets the tone with Eleonora.
-- 'Excuse me, please, for a minute.' Turning from the breakup to the conversation, Vika keeps the exchange moving.
-- 'Nastya, if you cry, I will fine you!' Saying that if Eleonora cries she will fine Eleonora is how Vika takes charge of the moment. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Why are you standing there, get to work quickly!' Insisting that why are Eleonora standing there get to work quickly shows Vika is not backing down.
+- 'I apparently misunderstood you.' Vika presents an easygoing course straight away, weaving "vidimo" ("apparently") together with "nepravilno" ("wrongly") just the way native speakers do.
+- 'Do you want to celebrate your dog's party?' Vika prompts promptly as they speak, linking "khotite" ("want"), "otmetit" ("to celebrate"), and "prazdnik" ("holiday") in one brisk exchange.
+- 'Yes, I want to close the whole restaurant.' The guest conveys a brisk direction toward Vika, using "khochu" (from "khotet", "want") alongside "zakryt" ("to close, to shut") to shape the meaning.
+- 'We and our guests need comfort.' The guest establishes a playful stance in their talk, combining "gostyam" ("guests") and "nuzhno" ("necessary") so the key meaning lands right away.
+- 'He has a strong allergy to lactose.' The guest displays a lively line on the spot, anchoring the Russian line on "silnaya" ("strong") and "allergiya" ("an allergy") without extra filler.
+- 'We do not hold such events.' Vika shares a wry view in front of the guest, leaning on "provodim" ("conduct") before closing the thought with "podobnyye" ("similar, like").
+- 'But Dima Nagiyev said something completely different.' The guest offers a calm manner across the room, leaning on "skazal" ("said") before closing the thought with "sovsem" ("at all").
+- 'He promised that everything will be fine.' The guest strikes a direct stance at once, weaving "obeshchal" ("promised") together with "budet" ("will be") just the way native speakers do.
+- 'I wanted to come to you the day before yesterday.' Vika holds a frank manner in the conversation, building the phrase around "khotela" ("wanted, meant") and "priyti" ("to come") for a crisp, natural delivery.
+- 'But he said that you are getting divorced.' The guest picks a brisk tempo without hesitation, combining "skazal" ("said") and "razvodites" ("to get divorced") so the key meaning lands right away.
+- 'Excuse me, please, for a minute.' Vika shows a firm tone for the guest, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "minutku" ("a minute") to shape the meaning.
+- 'Nastya, if you cry, I will fine you!' Vika takes a warm attitude beside the guest, joining "zaplachesh" ("to fine") to "oshtrafuyu" ("will fine") so every word pulls its weight.
+- 'Why are you standing there, get to work quickly!' Vika presents a lively note with the guest, leaning on "vstali" ("stood still") before closing the thought with "bystro" ("quickly").

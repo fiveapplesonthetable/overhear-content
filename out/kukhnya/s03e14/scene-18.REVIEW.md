@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, let's settle everything peacefully.' Explaining that they should settle everything peacefully lays the cards on the table for Barinov. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Yes, we both lost our temper a bit today.' Saying that they both lost their temper a bit today is how the guest sets the tone with Barinov.
-- 'Because my guys are very hot-tempered.' Once because his guys are very hot, the guest can finally tell Barinov what he means. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Why should we start a huge brawl here, right?' Asking why they start a huge brawl here right should cuts straight through the tension between the guest and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I completely agree, forgive me too.' Between the kitchen and the point, Max gives Barinov a quick, grounded response.
-- 'Alright, take care of yourself, brother, and good luck!' Around the room and conversation, the guest makes his point loud and clear. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Hey, hero, tell your friends to stay quiet!' Around the room and work, the guest makes his point loud and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What friends of his, we are seeing him for the first time!' Because what friends of his they are seeing him for the first time, Barinov does not bother softening the blow for the guest.
-- 'What do you mean, he said you were with him!' Insisting that what do Barinov means he said Barinov was with him shows the guest is not backing down. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Guys, you simply misunderstood me!' With the situation and shift at stake, Max reacts without holding back. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'What did we misunderstand, come over here right now!' Declaring that what did they misunderstand come over here right now brings the guest's temper right to the surface.
-- 'Ah, so that is where you are hiding, you scoundrel!' Barinov insists that that is where the guest is hiding the guest scoundrel, leaving the guest no room to argue. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Guys, let's settle everything peacefully.' The guest holds a firm angle in this beat, joining "parni" ("guys, boys") to "davayte" ("let's") so every word pulls its weight.
+- 'Yes, we both lost our temper a bit today.' The guest brings a lively stance in this beat, combining "segodnya" ("today") and "nemnogo" ("a bit") so the key meaning lands right away.
+- 'Because my guys are very hot-tempered.' The guest displays an honest manner straight away, joining "parni" ("guys, boys") to "ochen" ("very much") so every word pulls its weight.
+- 'Why should we start a huge brawl here, right?' The guest questions evenly in front of Max, anchoring the Russian line on "zachem" ("what for") and "tut" ("here") without extra filler.
+- 'I completely agree, forgive me too.' Max strikes a natural style right away, weaving "polnostyu" ("completely") together with "soglasen" ("agreed") just the way native speakers do.
+- 'Alright, take care of yourself, brother, and good luck!' The guest displays a wry direction straight away, joining "davay" ("let's") to "brat" ("brother") so every word pulls its weight.
+- 'Hey, hero, tell your friends to stay quiet!' The guest chooses an earnest footing in their talk, pairing "geroy" ("hero") with "skazhi" ("say") to get the point across in plain spoken Russian.
+- 'What friends of his, we are seeing him for the first time!' Barinov shares a serious mood at once, combining "pervyy" ("first") and "raz" ("time, once") so the key meaning lands right away.
+- 'What do you mean, he said you were with him!' The guest picks a serious attitude in front of Barinov, building the phrase around "kak" ("how") and "skazal" ("said") for a crisp, natural delivery.
+- 'Guys, you simply misunderstood me!' Max offers a grounded mood right away, building the phrase around "rebyata" ("the boys, the lads") and "prosto" ("just") for a crisp, natural delivery.
+- 'What did we misunderstand, come over here right now!' The guest adopts a steady note in their talk, weaving "nepravilno" ("wrongly") together with "ponyali" ("did you understand") just the way native speakers do.
+- 'Ah, so that is where you are hiding, you scoundrel!' Barinov sets an easygoing rhythm for Max, anchoring the Russian line on "gde" ("where") and "pryacheshsya" ("are hiding") without extra filler.

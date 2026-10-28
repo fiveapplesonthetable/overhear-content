@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys! Hello! You are my good girl.' Because Vika is his good girl, Nagiyev does not bother softening the blow for Vika. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yes, I really like how you work.' Saying that he really likes how Vika works is how Nagiyev sets the tone with Vika.
-- 'Well done! And who gets a bonus, Viktoria Sergeyevna?' When Nagiyev asks if and who gets a bonus Viktoria Sergeyevna, Vika has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Who gets a bonus?' Nagiyev asks whether who gets a bonus, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Are there many people in the dining room?' Here asking whether there many people in the dining room shows Nagiyev looking for the real truth.
-- 'About fifteen people.' With the work and money in play, Vika keeps this short reply brisk and direct.
-- 'Ladies and gentlemen, good champagne for everyone!' With the guest and work at stake, Nagiyev reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Thank you!' Here thanking Nagiyev lets Vika's real feelings break through.
-- 'Dmitry Vladimirovich, may I ask the occasion?' Vika asks whether may she asks the occasion, refusing to let the point slide. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, I will allow it!' Once he will allow it, Nagiyev makes sure Vika hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Champagne for everyone on my tab!' With the restaurant and moment at stake, Nagiyev reacts without holding back.
-- 'Wonderful news!' With the restaurant and work at stake, Vika reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Guys! Hello! You are my good girl.' Nagiyev adopts a warm course with Vika, linking "rebyata" ("the boys, the lads"), "zdravstvuyte" ("hello"), and "khoroshaya" ("good") in one brisk exchange.
+- 'Yes, I really like how you work.' Nagiyev keeps a firm direction with Vika, leaning on "ochen" ("very much") before closing the thought with "nravitsya" ("is pleasing").
+- 'Well done! And who gets a bonus, Viktoria Sergeyevna?' Nagiyev tests firmly in their exchange, putting "molodets" ("well done, good boy") alongside "premiya" ("bonus, prize") in a tight, everyday turn of phrase.
+- 'Who gets a bonus?' Nagiyev presses wryly in the room, leaning on "premiya" ("bonus, prize") before closing the thought with "komu" ("to whom, who").
+- 'Are there many people in the dining room?' Nagiyev presses promptly to Vika here, pairing "narodu" ("the people") with "mnogo" ("a lot") to get the point across in plain spoken Russian.
+- 'About fifteen people.' Vika sets a lively mood across the room, pairing "chelovek" ("a man, a person") with "pyatnadtsat" ("fifteen") to get the point across in plain spoken Russian.
+- 'Ladies and gentlemen, good champagne for everyone!' Nagiyev displays a resolute approach straight away, anchoring the Russian line on "gospoda" ("gentlemen") and "shampanskogo" ("of champagne") without extra filler.
+- 'Thank you!' Vika chooses a thoughtful bearing as the scene unfolds, putting all the weight on "spasibo" ("thank you") so the reply lands immediately.
+- 'Dmitry Vladimirovich, may I ask the occasion?' Vika inquires directly toward Nagiyev here, putting "pozvolte" ("allow me") alongside "uznat" ("to find out") in a tight, everyday turn of phrase.
+- 'Well, I will allow it!' Nagiyev sustains a lively tone for Vika, building the phrase around "pozvolyu" ("will allow") and "nu" ("oh, come on") for a crisp, natural delivery.
+- 'Champagne for everyone on my tab!' Nagiyev presents a playful approach at this moment, putting "shampanskogo" ("of champagne") alongside "schyot" ("counting, account") in a tight, everyday turn of phrase.
+- 'Wonderful news!' Vika holds a clear line beside Nagiyev, using "otlichnaya" (from "otlichnyy", "excellent") alongside "novost" ("the news") to shape the meaning.

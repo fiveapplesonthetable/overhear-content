@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Eleonora Andreevna, you do not look very good today.' Mentioning that Eleonora does not look very good today moves the talk in a new direction.
-- 'You have dark circles under your eyes, were you drinking again yesterday?' Wondering if Eleonora has dark circles under Eleonora's eyes were Eleonora drinking again yesterday shows Denis caught off guard. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'What are you saying, what do you think you are doing?' By wondering what Denis saying what do Denis thinks Denis is doing is, Eleonora presses Denis for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Dear guests, you had better not take this expensive room.' Explaining that dear guests Eleonora had better not take this expensive room lays the cards on the table for Eleonora.
-- 'Egor, what are you saying, I will fire you!' Once someone what are Denis saying she will fire Denis, Eleonora makes sure Denis hears every word. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Eleonora Andreevna, with such a small salary I will quit myself.' Claiming that with such a small salary he will quit himself sounds confident, even if Eleonora has doubts.
-- 'Alright, what is going on here, where on earth is Mikhail Dzhekovich?' Wondering if Alright what is going on here where on earth is Mikhail Dzhekovich shows Eleonora caught off guard.
-- 'He is resting in a room and asked not to tell anyone.' Adding that he is resting in a room and asked not to tell anyone fills in the missing piece for Eleonora.
-- 'Denis, are you going home after work right now?' Asking whether Denis going home after work right now is how Sveta puts Denis on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I will finish playing the song now and go, and where are you going?' Denis asks whether he will finish playing the song now and go and where are Eleonora going, refusing to let the point slide.
-- 'I am very tired from the night shift, I will go home to our place, will you give me the keys?' Here being very tired from the night shift she will go home to their place will Denis gives her the keys shows Sveta looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Of course, take them yourself, they are in my jacket in the locker room.' Taking them themselves they are in his jacket in the locker room moves the conversation forward without extra drama.
+- 'Hello, Eleonora Andreevna, you do not look very good today.' Denis displays a firm tempo beside Eleonora, joining "zdravstvuyte" ("hello") to "vyglyadite" ("look") so every word pulls its weight.
+- 'You have dark circles under your eyes, were you drinking again yesterday?' Denis prompts evenly without holding back, anchoring the Russian line on "sinyaki" ("bruise") and "glazami" ("eyes") without extra filler.
+- 'What are you saying, what do you think you are doing?' Eleonora checks naturally to keep things clear, combining the conversational booster "voobshche" ("in general, overall") with "govorish" ("you say") to give the line its natural spoken rhythm.
+- 'Dear guests, you had better not take this expensive room.' Denis takes an earnest view in their talk, joining "uvazhayemyye" ("respected, esteemed") to "gosti" ("visitors, guests") so every word pulls its weight.
+- 'Egor, what are you saying, I will fire you!' Eleonora takes an earnest style in this beat, joining "govorish" ("you say") to "uvolyu" ("will fire") so every word pulls its weight.
+- 'Eleonora Andreevna, with such a small salary I will quit myself.' Denis shares a candid approach at this moment, anchoring the Russian line on "malenkoy" ("little") and "zarplatoy" ("salary, pay") without extra filler.
+- 'Alright, what is going on here, where on earth is Mikhail Dzhekovich?' Eleonora probes frankly for Denis's benefit, building the phrase around "zdes" ("here") and "proiskhodit" ("is going on") for a crisp, natural delivery.
+- 'He is resting in a room and asked not to tell anyone.' Denis sets an honest stance in this beat, leaning on "otdykhayet" ("to rest, relax") before closing the thought with "nomere" ("in the hotel room").
+- 'Denis, are you going home after work right now?' Sveta probes wryly beside Denis, pairing "seychas" ("now") with "idyosh" ("are coming") to get the point across in plain spoken Russian.
+- 'I will finish playing the song now and go, and where are you going?' Denis presses naturally across the room, putting "seychas" ("now") alongside "doigrayu" ("I will finish playing") in a tight, everyday turn of phrase.
+- 'I am very tired from the night shift, I will go home to our place, will you give me the keys?' Sveta inquires earnestly at this point, putting "ochen" ("very much") alongside "ustala" ("are tired, got tired") in a tight, everyday turn of phrase.
+- 'Of course, take them yourself, they are in my jacket in the locker room.' Denis holds an unhurried note across the room, combining "konechno" ("of course") and "vozmi" ("take, pick up") so the key meaning lands right away.

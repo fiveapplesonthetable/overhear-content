@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e18.ru.srt'
 INTRO = "Viktor Petrovich waits eagerly for Dmitry Nagiyev to explode with anger after watching the video of German's fight. Instead, Nagiyev scoffs and reveals that German already told him a sympathetic story about a cheating wife. Let's listen to Nagiyev's unexpected response in Russian."
 OPENER = "Now let's break down the way Nagiyev dismisses Barinov's evidence line by line."
 TRANSITION = "Let's hear Nagiyev and Barinov's argument again from start to finish."
-OUTRO = "German has cleverly anticipated Barinov's move by feeding both Vika and Nagiyev a fake sob story in advance. Notice the verbs meaning stole, checks, and look in their exchange. See you next time!"
+OUTRO = "German has cleverly anticipated Barinov's move by feeding both Vika and Nagiyev a fake sob story in advance. Notice the action words meaning stole, checks, and look in their exchange. See you next time!"
 CLOSING = ('nagiyev', 'Всего хорошего!')
 STORY = [
     ('nagiyev', 'Витя, это же очень старая история.', 'Vitya, this is a very old story.', [(77, 'Какой баян')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('nagiyev', 'Иди лучше спокойно работай на кухне.', 'Better go work quietly in the kitchen.', [(88, 'Иди')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'Vitya, this is a very old story.\' Mentioning that this is a very old story moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (1, None, '\'Why are you laughing at someone else\'s grief?\' Asking why Barinov laughing at someone else grief is cuts straight through the tension between Nagiyev and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (2, None, "'That cook stole German's wife from him.' Because that cook stole German wife from him, Nagiyev treats the matter as settled."),
-    (3, None, '\'And they stole all his money from him.\' Explaining that they stole all his money from him lays the cards on the table for Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
-    (4, None, "'And then they decided to leave quickly.' Nagiyev mentions that they decided to leave quickly so Barinov sees what is at stake."),
-    (5, None, "'Any man would have acted the exact same way.' Claiming that any man would have acted the exact same way sounds confident, even if Barinov has doubts."),
-    (6, None, '\'Just look at the blacklist.\' Around the point and story, Barinov sets a calm, everyday tone with Nagiyev. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (7, None, '\'Vityusha, after you, I check everyone.\' Nagiyev explains that someone after Barinov he checks everyone, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (8, None, "'He is not there on our list.' By being not there on their list, Nagiyev keeps his side of the story grounded."),
-    (9, None, '\'Well, look in Latvia.\' Around the point and money, Barinov sets a calm, everyday tone with Nagiyev. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (10, None, '\'Deal with that yourself, kiddo.\' Pointing out that Barinov should deal with that themselves kiddo gives Barinov a sobering reality check. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (11, None, "'Better go work quietly in the kitchen.' With the truth and story in play, Nagiyev keeps this short reply brisk and direct."),
+    (0, None, '\'Vitya, this is a very old story.\' Nagiyev adopts a clear tempo beside Barinov, linking "ochen" ("very much") directly with "staraya" ("old"), since Russian drops "is" and "are" in the present.'),
+    (1, None, '\'Why are you laughing at someone else\'s grief?\' Nagiyev prompts briskly in the scene, leaning on "zachem" ("what for") before closing the thought with "smeyoshsya" ("are laughing").'),
+    (2, None, '\'That cook stole German\'s wife from him.\' Nagiyev shows a calm angle right away, linking "povar" ("chef, cook"), "uvyol" ("to lead away"), and "germana" ("german") in one brisk exchange.'),
+    (3, None, '\'And they stole all his money from him.\' Nagiyev adopts an easygoing line as the scene unfolds, weaving "dengi" ("money") together with "ukrali" ("stole") just the way native speakers do.'),
+    (4, None, '\'And then they decided to leave quickly.\' Nagiyev holds a sharp view toward Barinov, anchoring the Russian line on "potom" ("then") and "reshili" ("decided") without extra filler.'),
+    (5, None, '\'Any man would have acted the exact same way.\' Nagiyev picks a brisk stance as the scene unfolds, leaning on "lyuboy" ("any") before closing the thought with "muzhchina" ("man").'),
+    (6, None, '\'Just look at the blacklist.\' Barinov establishes a pointed angle right away, combining "chyornom" ("black") and "spiske" ("list") so the key meaning lands right away.'),
+    (7, None, '\'Vityusha, after you, I check everyone.\' Nagiyev takes a grounded line toward Barinov, leaning on "vityusha" ("vityusha") before closing the thought with "proveryayu" ("to check, test").'),
+    (8, None, '\'He is not there on our list.\' Nagiyev establishes a sharp attitude in the conversation, pairing "tam" ("there") with "spiske" ("list") to get the point across in plain spoken Russian.'),
+    (9, None, '\'Well, look in Latvia.\' Barinov offers a pointed tack as the scene unfolds, linking "latvii" ("blacklist"), "posmotri" ("look"), and "ty" ("you") in one brisk exchange.'),
+    (10, None, '\'Deal with that yourself, kiddo.\' Nagiyev presents a pointed direction straight away, combining "zanimaysya" ("attend to, deal with") and "malysh" ("kid, little one") so the key meaning lands right away.'),
+    (11, None, '\'Better go work quietly in the kitchen.\' Nagiyev maintains a sharp view in their talk, leaning on "idi" ("go") before closing the thought with "luchshe" ("better").'),
 ]

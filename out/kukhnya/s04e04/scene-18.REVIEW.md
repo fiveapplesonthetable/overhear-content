@@ -18,22 +18,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Вика | Замечательно. За кого я вышла замуж? | Wonderful. Whom did I marry? | #269: Замечательно. За кого я вышла замуж? | verbatim |
 | 7 | Вика | Даже дверь выломать не может. | He cannot even break down a door. | #270: Даже дверь выломать не может. | verbatim |
 | 8 | Макс | Да всё, успокойся. | Alright, calm down now. | #271: Да все, успокойся. | verbatim |
-| 9 | Макс | Поняла, что меня лучше не злить? | Do you understand now that it is better not to make me angry? | #274: Поняла,<br>#275: что меня лучше не злить? | verbatim |
+| 9 | Вика | Поняла, что меня лучше не злить? | Do you understand now that it is better not to make me angry? | #274: Поняла,<br>#275: что меня лучше не злить? | verbatim |
 | 10 | Вика | Поняла. Теперь буду злить чаще. | I understand. Now I will make you angry more often. | #275: Поняла.<br>#276: Теперь буду злить чаще. | verbatim |
 | 11 | Вика | Дверь обратно вставь. Мужчина ты или нет? | Put the door back in place. Are you a man or not? | #277: Дверь обратно вставь. Мужчина ты или нет? | verbatim |
 | 12 | Герман | Лев Семёнович Соловьёв. | Lev Semyonovich Solovyov. | #286: Лев Семенович Соловьев. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Could you not think of anything better than this?' By asking whether German not think of anything better than this, Vika presses German for a straight answer. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'I thought this was your clever plan.' Pointing out that he thought this was German's clever plan gives German a sobering reality check.
-- 'Break the door down.' Since German should break the door down, Vika does not waste words on excuses.
-- 'I am not going to stay in here all night.' Explaining that she is not going to stay in here all night lays the cards on the table for German.
-- 'If you need it broken, you break it.' Noting that if German needs it broken German breaks it keeps Max's side of the story simple and clear.
-- 'Wonderful. Whom did I marry?' Wondering if whom did she marries shows Vika caught off guard. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'He cannot even break down a door.' Admitting that he cannot even break down a door shows Vika being honest for a change.
-- 'Alright, calm down now.' Between the situation and the shift, Max gives German a quick, grounded response.
-- 'Do you understand now that it is better not to make me angry?' By asking whether German understands now that it is better not to make him angry, Max presses German for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I understand. Now I will make you angry more often.' Adding that now she will make German angry more often fills in the missing piece for German.
-- 'Put the door back in place. Are you a man or not?' Wondering if put the door back in place shows Vika caught off guard.
-- 'Lev Semyonovich Solovyov.' Over the situation and the plan, German answers Max without a second thought.
+- 'Could you not think of anything better than this?' Vika asks firmly as they speak, combining "luchshe" ("better") and "mog" ("can, to be able") so the key meaning lands right away.
+- 'I thought this was your clever plan.' Max holds an earnest mood during the exchange, building the phrase around "dumal" ("thought") and "khitroumnyy" ("plan") for a crisp, natural delivery.
+- 'Break the door down.' Vika adopts a warm manner right away, joining "vylomay" ("break") to "dver" ("door") so every word pulls its weight.
+- 'I am not going to stay in here all night.' Vika picks a pointed rhythm in their talk, pairing "sobirayus" ("am planning") with "tut" ("here") to get the point across in plain spoken Russian.
+- 'If you need it broken, you break it.' Max takes a warm attitude at this moment, joining "nado" ("it is necessary") to "lomay" ("break") so every word pulls its weight.
+- 'Wonderful. Whom did I marry?' Vika tests candidly right away, putting "zamechatelno" ("wonderful") alongside "vyshla" ("married") in a tight, everyday turn of phrase.
+- 'He cannot even break down a door.' Vika presents a serious mood as the scene unfolds, putting "dver" ("door") alongside "vylomat" ("to break") in a tight, everyday turn of phrase.
+- 'Alright, calm down now.' Max picks a warm tempo straight away, building the phrase around "uspokoysya" ("calm down") and "da" ("yes") for a crisp, natural delivery.
+- 'Do you understand now that it is better not to make me angry?' Vika probes decisively to make the point, building the phrase around "ponyala" ("understood") and "luchshe" ("better") for a crisp, natural delivery.
+- 'I understand. Now I will make you angry more often.' Vika presents a thoughtful course across the room, anchoring the Russian line on "ponyala" ("understood") and "teper" ("now") without extra filler.
+- 'Put the door back in place. Are you a man or not?' Vika queries quietly during the talk, leaning on "dver" ("door") before closing the thought with "obratno" ("back").
+- 'Lev Semyonovich Solovyov.' German presents a firm tack in the room, leaning on "semyonovich" ("semyonovich") before closing the thought with "lev" ("Lev").

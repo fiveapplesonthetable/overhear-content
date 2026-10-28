@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well here we are, come on in.' Because here they are come, the guest treats the matter as settled.
-- 'And will this friend of yours not cheat us?' Checking whether this friend of the guest's not cheat them cuts straight through the tension between Kostya and the guest.
-- 'He does not care about your money.' The guest mentions that he does not care about Kostya's money so Kostya sees what is at stake. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'The main thing is that you look after the apartment while he is abroad.' Claiming that the main thing is that Kostya looks after the apartment while he is abroad sounds confident, even if Kostya has doubts.
-- 'Dad, tell me honestly, is he in prison?' Nastya asks whether dad tell her honestly is he in prison, refusing to let the point slide.
-- 'No, he moved away to live by the sea.' The guest explains that he moved away to live by the sea, keeping his voice calm and direct.
-- 'I am giving you this apartment as a gift.' The guest explains that he is giving Kostya this apartment as a gift, keeping his voice calm and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Thank you, the apartment?' Over the shift and the gift, Kostya presses the guest for a straight answer.
-- 'Just do not say anything to her.' Even though just do not say anything, the guest keeps a steady face in front of Kostya. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'You know her, she will refuse it.' Admitting that her she will refuse it shows the guest being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What are you two whispering about here?' Asking what the guest two whispering about here is is how Nastya puts the guest on the spot.
-- 'Your dad just gave us a blender as a gift.' Once the guest's dad just gave them a blender as a gift, Kostya can finally tell the guest what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Well here we are, come on in.' The guest keeps a candid position on the spot, using "zakhodite" (from "zakhodit", "come in") alongside "nu" ("oh, come on") to shape the meaning.
+- 'And will this friend of yours not cheat us?' Kostya tests wryly beside Nastya, putting "drug" ("friend") alongside "obmanet" ("will deceive") in a tight, everyday turn of phrase.
+- 'He does not care about your money.' The guest takes a lively view as they talk, weaving "pleval" ("not to care") together with "dengi" ("money") just the way native speakers do.
+- 'The main thing is that you look after the apartment while he is abroad.' The guest conveys a playful note during the exchange, using "glavnoye" (from "glavnyy", "important") alongside "kvartiroy" ("apartment") to shape the meaning.
+- 'Dad, tell me honestly, is he in prison?' Nastya prompts openly without holding back, anchoring the Russian line on "papa" ("Dad") and "skazhi" ("say") without extra filler.
+- 'No, he moved away to live by the sea.' The guest shows a thoughtful posture in this beat, using "uyekhal" (from "uyekhat", "left, went away") alongside "zhit" ("to live") to shape the meaning.
+- 'I am giving you this apartment as a gift.' The guest displays an easygoing position for Kostya, anchoring the Russian line on "kvartiru" ("flat") and "daryu" ("am giving as a gift") without extra filler.
+- 'Thank you, the apartment?' Kostya prompts quietly for Nastya's benefit, putting "spasibo" ("thank you") alongside "kvartiru" ("flat") in a tight, everyday turn of phrase.
+- 'Just do not say anything to her.' The guest shows a lively approach in the scene, linking "tolko" ("only"), "govori" ("say, talk"), and "ty" ("you") in one brisk exchange.
+- 'You know her, she will refuse it.' The guest keeps an earnest position in front of Nastya, pairing "otkazhetsya" ("refuses") with "znayesh" ("know") so the "-sya" ending carries the action.
+- 'What are you two whispering about here?' Nastya asks decisively right away, building the phrase around "tut" ("here") and "shepchetes" ("whisper to each other") for a crisp, natural delivery.
+- 'Your dad just gave us a blender as a gift.' Kostya maintains a calm note as the scene unfolds, building the phrase around "papa" ("Dad") and "blender" ("blender") for a crisp, natural delivery.

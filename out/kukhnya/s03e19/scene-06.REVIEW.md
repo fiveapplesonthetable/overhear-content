@@ -18,22 +18,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Родион | Потому что чужие слёзы никому не нужны, даже бомжу. | Because nobody needs someone else's tears, not even a homeless man. | #97: они никому не нужны, даже бомжу | adapted: adapted |
 | 7 | Нагиев | Почему вы отказались взять деньги? Там неприлично много! | Why did you refuse to take the money? There is an indecently large amount! | #98: почему вы отказались взять деньги<br>#99: Там было неприлично много | adapted: adapted |
 | 8 | Нагиев | Тогда вот вам неприлично мало, не приходите пару дней. | Then here is an indecently small amount, do not come for a couple of days. | #100: Тогда вот вам неприлично мало<br>#101: пару дней | adapted: adapted |
-| 9 | Макс | Макс, давай мы сегодня выпьем за нашу честность! | Max, let us drink to our honesty today! | #103: Макс, давай выпьем за честность | adapted: adapted |
+| 9 | Родион | Макс, давай мы сегодня выпьем за нашу честность! | Max, let us drink to our honesty today! | #103: Макс, давай выпьем за честность | adapted: adapted |
 | 10 | Макс | А может быть, лучше выпьем за нашу любовь? | Or maybe it is better to drink to our love? | #104: Может, за любовь | adapted: adapted |
 | 11 | Макс | Пока не выпьем за честность, любви у нас не будет. | Until we drink to honesty, we will have no love. | #105: Пока не выпьем за честность, любви не будет | adapted: adapted |
 | 12 | Родион | Засекаю время, через минуту умру от печали! | I am checking the clock, in a minute I will die of sorrow! | #108: Засекаю время. Через минуту умру от печали | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, Dima, did you defeat our fearsome dragon?' Asking whether Nagiyev defeat their fearsome dragon cuts straight through the tension between Max and Nagiyev. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Yes, of course, he agreed with me right away.' With the date and point in play, Nagiyev keeps this short reply brisk and direct.
-- 'Respected sir, here is money for you, only I beg you.' Even though respected sir here is money for Max only he begs Max, Nagiyev keeps a steady face in front of Max. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Please find yourself some other restaurant.' Even though Max should find themselves some other restaurant, Nagiyev keeps a steady face in front of Max.
-- 'With your permission I will refuse this money.' Saying that with Max's permission he will refuse this money is how Rodion sets the tone with Max.
-- 'Because nobody needs someone else's tears, not even a homeless man.' Once because nobody needs someone else tears not even a homeless man, Rodion can finally tell Max what he means.
-- 'Why did you refuse to take the money? There is an indecently large amount!' Here asking why Max refuses to take the money shows Nagiyev looking for the real truth. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Then here is an indecently small amount, do not come for a couple of days.' Saying that here is an indecently small amount do not come for a couple of days is how Nagiyev sets the tone with Max.
-- 'Max, let us drink to our honesty today!' Drinking to their honesty today together is Max's blunt reaction in front of Nagiyev. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Or maybe it is better to drink to our love?' Wondering if maybe it is better to drink to their love shows Max caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Until we drink to honesty, we will have no love.' Max reminds Nagiyev that until they drink to honesty they will have no love before the moment passes.
-- 'I am checking the clock, in a minute I will die of sorrow!' Once he is checking the clock in a minute he will die of sorrow, Rodion makes sure Max hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Well, Dima, did you defeat our fearsome dragon?' Max asks calmly in the room, linking "pobedil" ("won"), "groznogo" ("terrible, menacing"), and "drakona" ("dragon") in one brisk exchange.
+- 'Yes, of course, he agreed with me right away.' Nagiyev shares a resolute course with Rodion, anchoring the Russian line on "konechno" ("of course") and "srazu" ("at once") without extra filler.
+- 'Respected sir, here is money for you, only I beg you.' Nagiyev shares a resolute tempo in the room, weaving "uvazhayemyy" ("respected, esteemed") together with "muzhchina" ("man") just the way native speakers do.
+- 'Please find yourself some other restaurant.' Nagiyev picks a frank mood as the scene unfolds, pairing "naydite" ("find") with "drugoy" ("other") to get the point across in plain spoken Russian.
+- 'With your permission I will refuse this money.' Rodion projects a measured posture straight away, joining "pozvoleniya" ("permission") to "deneg" ("money") so every word pulls its weight.
+- 'Because nobody needs someone else's tears, not even a homeless man.' Rodion brings a wry bearing beside Nagiyev, putting "potomu" ("because") alongside "chuzhiye" ("someone else's") in a tight, everyday turn of phrase.
+- 'Why did you refuse to take the money? There is an indecently large amount!' Nagiyev asks firmly from the start, anchoring the Russian line on "pochemu" ("why") and "otkazalis" ("to refuse, decline") without extra filler.
+- 'Then here is an indecently small amount, do not come for a couple of days.' Nagiyev brings a wry attitude toward Rodion, putting "togda" ("back then") alongside "neprilichno" ("indecently") in a tight, everyday turn of phrase.
+- 'Max, let us drink to our honesty today!' Rodion picks a measured tone in front of Max, weaving "davay" ("let's") together with "segodnya" ("today") just the way native speakers do.
+- 'Or maybe it is better to drink to our love?' Max queries sharply as the beat lands, using "mozhet" (from "moch", "can") alongside "byt" ("be") to shape the meaning.
+- 'Until we drink to honesty, we will have no love.' Max conveys a grounded footing straight away, leaning on "poka" ("bye") before closing the thought with "vypyem" ("will drink").
+- 'I am checking the clock, in a minute I will die of sorrow!' Rodion offers a calm rhythm across the room, joining "zasekayu" ("am clocking") to "vremya" ("time") so every word pulls its weight.

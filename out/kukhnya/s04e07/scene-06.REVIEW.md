@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well how is it, Denis, did you accept all the groceries?' Asking how it Denis did Denis accepts all the groceries is cuts straight through the tension between Senya and Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Listen, I made a huge mistake out there today.' Admitting that he made a huge mistake out there today shows Denis being honest for a change.
-- 'I carried part of the groceries to our storeroom.' Between the plan and the conversation, Denis gives Senya a quick, grounded response.
-- 'And when I returned, the dog had eaten all the pigeons!' Declaring that when he returned the dog had eaten all the pigeons brings Denis's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Everyone knows that this dog is very voracious.' Adding that everyone knows that this dog is very voracious fills in the missing piece for Denis.
-- 'Maybe you will call our Timur right now?' Asking whether maybe Senya will call their Timur right now puts Senya right on the defensive. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Let him quickly bring us more pigeons!' Once Senya should let him quickly bring them more pigeons, Denis makes sure Senya hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Hello, Timur, we have run out of pigeons here.' Mentioning that they have run out of pigeons here moves the talk in a new direction.
-- 'What pigeons? I do not have any more!' Asking whether he does not have any puts Denis right on the defensive. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'If you need them so badly, go catch some on the street!' Once if Denis needs them so badly go catch some on the street, Timur makes sure Denis hears every word. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Senya, please cover for me for one hour!' Saying that Senya should cover for him for one hour is how Denis takes charge of the moment.
-- 'Hello, Fedya, our client has gone out on the hunt!' Senya insists that their client has gone out on the hunt, leaving Denis no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Well how is it, Denis, did you accept all the groceries?' Senya wonders frankly in the scene, putting "kak" ("how") alongside "prinyal" ("received") in a tight, everyday turn of phrase.
+- 'Listen, I made a huge mistake out there today.' Denis establishes a calm approach at once, weaving "slushayte" ("listen") together with "tam" ("there") just the way native speakers do.
+- 'I carried part of the groceries to our storeroom.' Denis strikes a wry rhythm during the exchange, combining "otnyos" ("to carry to") and "chast" ("part") so the key meaning lands right away.
+- 'And when I returned, the dog had eaten all the pigeons!' Denis maintains a grounded tempo at once, pairing "vernulsya" ("returned") with "kogda" ("when") so the "-sya" ending carries the action.
+- 'Everyone knows that this dog is very voracious.' Senya establishes a playful view toward Denis, putting "znayut" ("know") alongside "sobaka" ("dog") in a tight, everyday turn of phrase.
+- 'Maybe you will call our Timur right now?' Denis asks pointedly in their exchange, leaning on "mozhet" ("can") before closing the thought with "byt" ("be").
+- 'Let him quickly bring us more pigeons!' Denis shows a brisk tempo for Senya, putting "bystro" ("quickly") alongside "privezyot" ("will bring") in a tight, everyday turn of phrase.
+- 'Hello, Timur, we have run out of pigeons here.' Denis brings a brisk angle during the exchange, pairing "zakonchilis" ("are over, have ended") with "tut" ("here") so the "-sya" ending carries the action.
+- 'What pigeons? I do not have any more!' Timur begins firmly on the spot, using the everyday "u menya" ("by me") alongside "yeshchyo" ("more, still") to show what belongs to the speaker.
+- 'If you need them so badly, go catch some on the street!' Timur picks a measured style without hesitation, pairing "nuzhno" ("necessary") with "idi" ("go") to get the point across in plain spoken Russian.
+- 'Senya, please cover for me for one hour!' Denis conveys a thoughtful direction with Senya, building the phrase around "prikroy" ("please") and "chas" ("hour") for a crisp, natural delivery.
+- 'Hello, Fedya, our client has gone out on the hunt!' Senya holds an easygoing footing across the room, linking "kliyent" ("client"), "vyshel" ("stepped out"), and "okhotu" ("hunt") in one brisk exchange.

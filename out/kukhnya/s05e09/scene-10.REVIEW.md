@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostyan, did you break the cognac?' Asking whether someone did Kostya breaks the cognac puts Kostya right on the defensive.
-- 'I am simply tidying up here.' Realizing that he is simply tidying up here changes how Kostya handles the situation.
-- 'And what is this?' With the hotel and point hanging in the air, Vika puts Kostya on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'A baby crib.' With the hotel and restaurant in play, Max keeps this short reply brisk and direct.
-- 'Sign right here, please.' Telling Kostya to sign right here please is how Vika lays out the situation for Kostya.
-- 'Forgive me, I mixed everything up.' Over the hotel and the restaurant, Max answers Kostya without a second thought.
-- 'Instead of the home address I wrote the work one.' Once instead of the home address he wrote the work one, Max can finally tell Kostya what he means.
-- 'Next time you will be more careful.' Adding that next time Kostya will be more careful fills in the missing piece for Kostya.
-- 'Maybe I can pay you extra?' Vika asks whether maybe she can pay Kostya extra, refusing to let the point slide. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Vika, let me drive it over.' Because Kostya should let him drive it, Max treats the matter as settled.
-- 'I will load the car and then help carry it up.' Mentioning that he will load the car and then help carry it up moves the talk in a new direction.
-- 'No need. Kostya, what is that smell?' Wondering if Kostya what is that smell shows Vika caught off guard. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Kostyan, did you break the cognac?' Max quizzes firmly in this moment, weaving "konyak" ("cognac, brandy") together with "razbil" ("wrecked, crashed") just the way native speakers do.
+- 'I am simply tidying up here.' Kostya keeps a grounded tempo during the exchange, weaving "zdes" ("here") together with "prosto" ("just") just the way native speakers do.
+- 'And what is this?' Vika wonders honestly in their exchange, putting "chto" ("what") alongside "eto" ("this") in a tight, everyday turn of phrase.
+- 'A baby crib.' Max presents a frank mood in the scene, putting "detskaya" ("children's") alongside "krovatka" ("baby crib, cot") in a tight, everyday turn of phrase.
+- 'Sign right here, please.' Vika takes an earnest direction on the spot, linking "raspishites" ("sign"), "zdes" ("here"), and "vot" ("there, here") in one brisk exchange.
+- 'Forgive me, I mixed everything up.' Max presents a pointed attitude for Vika, pairing "prostite" ("excuse me") with "pereputal" ("mixed up, confused") to get the point across in plain spoken Russian.
+- 'Instead of the home address I wrote the work one.' Max picks a frank view at once, anchoring the Russian line on "domashnego" ("house") and "adresa" ("address") without extra filler.
+- 'Next time you will be more careful.' Vika strikes a direct tack for Max, weaving "sleduyushchiy" ("next") together with "raz" ("time, once") just the way native speakers do.
+- 'Maybe I can pay you extra?' Vika asks evenly for Kostya's benefit, leaning on "mozhet" ("can") before closing the thought with "doplachu" ("will pay extra").
+- 'Vika, let me drive it over.' Max sustains a warm bearing in the scene, weaving "davay" ("let's") together with "zavezu" ("will drop off") just the way native speakers do.
+- 'I will load the car and then help carry it up.' Max projects a steady footing during the exchange, using "zagruzhu" (from "zagruzit", "to load") alongside "mashinu" ("car") to shape the meaning.
+- 'No need. Kostya, what is that smell?' Vika questions directly to Max here, combining "nado" ("it is necessary") and "pakhnet" ("it smells") so the key meaning lands right away.

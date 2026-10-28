@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e01.ru.srt'
 INTRO = "Inside the kitchen of Claude Monet, Viktor Barinov is delivering a grand speech to the television cameras about his rise to culinary fame when restaurant owner Dmitry Nagiyev walks in. Let's listen to the scene in Russian first."
 OPENER = "Let's step through the scene line by line to see how the speakers build each thought in Russian."
 TRANSITION = "Let's listen to the complete scene again from beginning to end."
-OUTRO = "That brings us to the end of Nagiyev's dramatic entrance into the kitchen during Viktor's interview. Listen for the imperative commands and future-tense promises next time you watch. See you next time!"
+OUTRO = "That brings us to the end of Nagiyev's dramatic entrance into the kitchen during Viktor's interview. Listen for the direct commands and future promises next time you watch. See you next time!"
 CLOSING = ('nagiyev', 'До встречи!')
 STORY = [
     ('barinov', 'Начали!', "Action, let's begin!", [(63, 'Начали!')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nagiyev', 'Понимаешь?', 'Do you understand?', [(75, 'Понимаешь?')], ''),
 ]
 WALK = [
-    (0, None, "'Action, let's begin!' Because action let them begin, Barinov does not bother softening the blow for Nagiyev."),
-    (1, None, "'My career climb was long and difficult.' Barinov reminds Nagiyev that his career climb was long and difficult before the moment passes."),
-    (2, None, "'I cooked for the presidents of Russia and France.' Over the restaurant and the interview, Barinov answers Nagiyev without a second thought."),
-    (3, None, "'Vitya, what is going on here, pal?' Here asking what going on here pal is shows Nagiyev looking for the real truth."),
-    (4, None, '\'I do not meddle in your kitchen.\' Saying that he does not meddle in Barinov\'s kitchen is how Nagiyev sets the tone with Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (5, None, "'Listen to me very carefully now.' With the restaurant and truth in play, Nagiyev keeps this short reply brisk and direct."),
-    (6, None, "'Tomorrow a very important guest is coming to us.' Pointing out that tomorrow a very important guest is coming to them gives Barinov a sobering reality check."),
-    (7, None, '\'Haven\'t all the important guests visited us already?\' By checking whether not all the important guests visited them already, Barinov presses Nagiyev for a straight answer. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
-    (8, None, "'No, not all of them wanted this.' Realizing that not all of them wanted this changes how Nagiyev handles the situation."),
-    (9, None, "'He wants to make me a general of the army.' Noting that he wants to make him a general of the army keeps Nagiyev's side of the story simple and clear."),
-    (10, None, "'And Emperor of France.' Over the moment and the interview, Nagiyev answers Barinov without a second thought."),
-    (11, None, '\'Do you understand?\' Here asking whether Barinov understands shows Nagiyev looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
+    (0, None, '\'Action, let\'s begin!\' Barinov favors a serious tack at this moment, leaning on "nachali" ("started") as a compact, one-word response that needs no extra words.'),
+    (1, None, '\'My career climb was long and difficult.\' Barinov shows a pointed style straight away, leaning on "karyernyy" ("climb") before closing the thought with "rost" ("growth").'),
+    (2, None, '\'I cooked for the presidents of Russia and France.\' Barinov shows a steady approach in the room, weaving "gotovil" ("prepared, made") together with "prezidentov" ("president") just the way native speakers do.'),
+    (3, None, '\'Vitya, what is going on here, pal?\' Nagiyev queries honestly as the beat lands, building the phrase around "proiskhodit" ("is going on") and "malysh" ("kid, little one") for a crisp, natural delivery.'),
+    (4, None, '\'I do not meddle in your kitchen.\' Nagiyev adopts a measured manner right away, anchoring the Russian line on "kukhnyu" ("kitchen") and "lezu" ("am climbing") without extra filler.'),
+    (5, None, '\'Listen to me very carefully now.\' Nagiyev shows a steady note in the conversation, joining "slushay" ("listen") to "vnimatelno" ("carefully, attentively") so every word pulls its weight.'),
+    (6, None, '\'Tomorrow a very important guest is coming to us.\' Nagiyev maintains a thoughtful view in front of Barinov, joining "zavtra" ("tomorrow") to "pridyot" ("will come") so every word pulls its weight.'),
+    (7, None, '\'Haven\'t all the important guests visited us already?\' Barinov asks earnestly as they speak, combining "gosti" ("visitors, guests") and "pobyvali" ("to already") so the key meaning lands right away.'),
+    (8, None, '\'No, not all of them wanted this.\' Nagiyev takes a measured bearing without hesitation, linking "khoteli" ("wanted"), "net" ("no"), and "ne" ("not") in one brisk exchange.'),
+    (9, None, '\'He wants to make me a general of the army.\' Nagiyev holds a candid note across the room, linking "khochet" ("wants"), "sdelat" ("to do"), and "generalom" ("general") in one brisk exchange.'),
+    (10, None, '\'And Emperor of France.\' Nagiyev conveys an earnest manner as they talk, putting "imperatorom" ("france") alongside "frantsii" ("France") in a tight, everyday turn of phrase.'),
+    (11, None, '\'Do you understand?\' Nagiyev wonders sharply as they speak, using "ponimayesh" ("do you understand") by itself, a common way spoken Russian keeps fast dialogue punchy.'),
 ]

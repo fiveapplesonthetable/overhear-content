@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We got hungry after yoga.' Vika tells Kostya that they got hungry after yoga without dressing it up.
-- 'You will gladly treat the girls to dinner.' Since Kostya will gladly treat the girls to dinner, Vika does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'After all, this is your restaurant and hotel.' Mentioning that after all this is Kostya's restaurant and hotel moves the talk in a new direction.
-- 'And here is the owner of this splendor.' Noting that here is the owner of this splendor keeps Vika's side of the story simple and clear.
-- 'It is so beautiful here, thank you for inviting us.' Because it is so beautiful here thank Max for inviting them, Kostya treats the matter as settled. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'You are welcome, excuse my appearance.' Explaining that Kostya is welcome excuse his appearance lays the cards on the table for Kostya.
-- 'I love cooking, it is my passion.' Admitting that he loves cooking it is his passion shows Max being honest for a change. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And I also have to keep an eye on the subordinates.' Claiming that he also has to keep an eye on the subordinates sounds confident, even if Kostya has doubts. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Good evening, a bottle of red wine, the best in our cellar.' Between the work and the wine, Kostya gives Max a quick, grounded response.
-- 'Are pregnant women really allowed wine?' Asking whether pregnant women really allowed wine is how Max puts Kostya on the spot. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Such expensive wine is allowed, one bottle for six people.' Realizing that such expensive wine is allowed one bottle for six people changes how Vika handles the situation. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Darling, thank you for your generosity.' With the point and hotel in play, Vika keeps this short reply brisk and direct.
+- 'We got hungry after yoga.' Vika presents a warm angle across the room, anchoring the Russian line on "progolodalis" ("to get hungry") and "yogi" ("yoga") without extra filler.
+- 'You will gladly treat the girls to dinner.' Vika strikes a grounded angle without hesitation, using "udovolstviyem" (from "udovolstviye", "pleasure") alongside "ugostish" ("will treat") to shape the meaning.
+- 'After all, this is your restaurant and hotel.' Vika keeps a calm bearing as the scene unfolds, leaning on "restoran" ("restaurant") before closing the thought with "otel" ("hotel").
+- 'And here is the owner of this splendor.' Vika strikes a direct style in front of Max, joining "khozyain" ("owner") to "velikolepiya" ("splendor") so every word pulls its weight.
+- 'It is so beautiful here, thank you for inviting us.' Kostya holds a wry direction at once, joining "krasivo" ("beautifully") to "spasibo" ("thank you") so every word pulls its weight.
+- 'You are welcome, excuse my appearance.' Max shares a resolute approach for Vika, pairing "izvinite" ("sorry, excuse me") with "vneshniy" ("outward, external") to get the point across in plain spoken Russian.
+- 'I love cooking, it is my passion.' Max displays a calm line in the scene, pairing "lyublyu" ("love") with "gotovit" ("to cook") to get the point across in plain spoken Russian.
+- 'And I also have to keep an eye on the subordinates.' Max adopts a sharp view in front of Vika, leaning on "podchinyonnymi" ("with subordinates") before closing the thought with "nuzhno" ("necessary").
+- 'Good evening, a bottle of red wine, the best in our cellar.' Kostya takes a measured attitude beside Max, joining "dobryy" ("good") to "vecher" ("evening") so every word pulls its weight.
+- 'Are pregnant women really allowed wine?' Max inquires candidly without holding back, combining "beremennym" ("pregnant women") and "mozhno" ("may, can") so the key meaning lands right away.
+- 'Such expensive wine is allowed, one bottle for six people.' Vika maintains a measured bearing in this beat, anchoring the Russian line on "dorogoye" ("expensive") and "mozhno" ("may, can") without extra filler.
+- 'Darling, thank you for your generosity.' Vika projects a firm position in the room, weaving "dorogoy" ("dear") together with "spasibo" ("thank you") just the way native speakers do.

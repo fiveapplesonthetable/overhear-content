@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Life never happens without partings.' Explaining that life never happens without partings lays the cards on the table for Barinov.
-- 'We part with our past.' With the surprise and room in play, Max keeps this short reply brisk and direct.
-- 'We say goodbye to our present.' Saying goodbye to their present is how Max lays out the situation for Barinov.
-- 'Sometimes we part with the future.' Around the surprise and room, Max sets a calm, everyday tone with Barinov.
-- 'But this world is arranged very well.' Max explains that this world is arranged very well, keeping his voice calm and direct.
-- 'After partings, new meetings always arrive.' Over the surprise and the shift, Max answers Barinov without a second thought.
-- 'Dad, hello, how are you doing?' Questioning whether dad hello how are Barinov doing is how Katya tests Barinov's story.
-- 'Katya, what are you doing here?' Over the test and the surprise, Barinov presses Katya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You have not called me for a long time.' Admitting that Katya has not called him for a long time shows Barinov being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Dad, please, just do not worry.' Saying that dad please just do not worry is how Katya sets the tone with Barinov.
-- 'I just wanted to see you.' Once she just wanted to see Barinov, Katya can finally tell Barinov what she means. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I wanted to test your reaction.' Adding that she wanted to test Barinov's reaction fills in the missing piece for Barinov.
+- 'Life never happens without partings.' Max strikes a wry stance with Barinov, building the phrase around "zhizn" ("life") and "byvayet" ("there can be") for a crisp, natural delivery.
+- 'We part with our past.' Max keeps a serious mood beside Katya, anchoring the Russian line on "rasstayomsya" ("are breaking up") and "proshlym" ("last, past") without extra filler.
+- 'We say goodbye to our present.' Max keeps a grounded direction in the conversation, using "proshchayemsya" (from "proshchatsya", "to goodbye") alongside "nastoyashchim" ("real, genuine") to shape the meaning.
+- 'Sometimes we part with the future.' Max takes a candid attitude in the room, leaning on "inogda" ("sometimes, at times") before closing the thought with "rasstayomsya" ("are breaking up").
+- 'But this world is arranged very well.' Max projects a lively note during the exchange, joining "mir" ("world") to "ustroyen" ("arranged") so every word pulls its weight.
+- 'After partings, new meetings always arrive.' Max sets a serious attitude during the exchange, combining "rasstavaniy" ("partings") and "vsegda" ("always") so the key meaning lands right away.
+- 'Dad, hello, how are you doing?' Katya prompts bluntly beside Barinov, joining "papa" ("Dad") to "kak" ("how") so every word pulls its weight.
+- 'Katya, what are you doing here?' Barinov presses firmly to Max here, leaning on "zdes" ("here") before closing the thought with "delayesh" ("are you doing").
+- 'You have not called me for a long time.' Barinov conveys a sharp mood right away, leaning on "davno" ("for a long time") before closing the thought with "zvonila" ("called").
+- 'Dad, please, just do not worry.' Katya chooses a serious position across the room, joining "papa" ("Dad") to "tolko" ("only") so every word pulls its weight.
+- 'I just wanted to see you.' Katya presents an unhurried direction on the spot, anchoring the Russian line on "prosto" ("just") and "khotela" ("wanted, meant") without extra filler.
+- 'I wanted to test your reaction.' Katya brings a direct stance for Max, anchoring the Russian line on "khotela" ("wanted, meant") and "proverit" ("to check, verify") without extra filler.

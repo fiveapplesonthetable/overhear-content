@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lena, forgive me.' Around the conversation and hotel, Barinov sets a calm, everyday tone with Elena.
-- 'That was not her, that is not my wife.' Barinov explains that that was not her that is not his wife, keeping his voice calm and direct.
-- 'My ex-wife is Eleonora.' Claiming that his ex wife is Eleonora sounds confident, even if Elena has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Ah, finally.' Between the conversation and the hotel, Elena gives Barinov a quick, grounded response.
-- 'Better late than never.' With the work and hotel in play, Elena keeps this short reply brisk and direct.
-- 'Vitya, she told me everything back at the exhibition.' Admitting that she told her everything back at the exhibition shows Elena being honest for a change.
-- 'I promise, I never will again.' Mentioning that he promises he never will again moves the talk in a new direction.
-- 'You do not need to promise me anything.' Once Barinov does not need to promise her anything, Elena can finally tell Barinov what she means.
-- 'I simply panicked.' Around the work and hotel, Barinov sets a calm, everyday tone with Elena.
-- 'And why did you not confess afterward?' Here wondering why Barinov not confess afterward shows Elena looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I was afraid of this very conversation.' Since he was afraid of this very conversation, Barinov does not waste words on excuses.
-- 'Listen, I forgot my bag, I will be quick.' Mentioning that she forgot her bag she will be quick moves the talk in a new direction.
+- 'Lena, forgive me.' Barinov picks an unhurried style in the room, anchoring the Russian line on "prosti" ("sorry, forgive me") and "lena" ("Lena") without extra filler.
+- 'That was not her, that is not my wife.' Barinov holds a resolute mood during the exchange, weaving "byla" ("was") together with "zhena" ("wife") just the way native speakers do.
+- 'My ex-wife is Eleonora.' Barinov displays a resolute stance in front of Elena, using "byvshaya" (from "byvshiy", "former") alongside "zhena" ("wife") to shape the meaning.
+- 'Ah, finally.' Elena favors a lively tone in this beat, leaning on "nakonets-to" ("at last, finally") as a compact, one-word response that needs no extra words.
+- 'Better late than never.' Elena holds a firm view in the conversation, building the phrase around "luchshe" ("better") and "pozdno" ("too late, late") for a crisp, natural delivery.
+- 'Vitya, she told me everything back at the exhibition.' Elena strikes a playful direction toward Barinov, building the phrase around "rasskazala" ("told") and "yeshchyo" ("more, still") for a crisp, natural delivery.
+- 'I promise, I never will again.' Barinov keeps a playful posture toward Elena, weaving "obeshchayu" ("promise") together with "bolshe" ("more") just the way native speakers do.
+- 'You do not need to promise me anything.' Elena sets an emphatic posture straight away, anchoring the Russian line on "nado" ("it is necessary") and "obeshchat" ("to promise") without extra filler.
+- 'I simply panicked.' Barinov conveys a resolute posture in their talk, weaving "prosto" ("just") together with "zapanikoval" ("panicked") just the way native speakers do.
+- 'And why did you not confess afterward?' Elena queries evenly from the start, pairing "priznalsya" ("did he confess") with "potom" ("then") so the "-sya" ending carries the action.
+- 'I was afraid of this very conversation.' Barinov picks a resolute rhythm in front of Elena, building the phrase around "boyalsya" ("was afraid") and "razgovora" ("conversation") for a crisp, natural delivery.
+- 'Listen, I forgot my bag, I will be quick.' Elena sustains an easygoing rhythm for Barinov, using "slushay" (from "slushat", "listen") alongside "zabyla" ("forgot") to shape the meaning.
