@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Блин, блин, блин, блин. | Damn, damn, damn, damn. | #86: Блин | verbatim |
+| 1 | Макс | Блин, блин, блин, блин. | Damn, damn, damn, damn. | #86 00:06:33: Блин | verbatim |
 | 2 | Макс | Я уронил коробку на пол. | I dropped the box onto the floor. | new | new |
 | 3 | Макс | Они очень быстро бегают. | They run very fast. | new | new |
 | 4 | Шеф | Что ты опять натворил, Макс? | What did you do again, Max? | new | new |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Damn, damn, damn, damn.' Max panics as things go wrong. He repeats the Russian word for 'pancake', a common mild curse.
-- 'I dropped the box onto the floor.' He explains the sudden disaster in the stockroom. Max confesses to dropping the box.
-- 'They run very fast.' Max watches helplessly as the escaped animals scatter. He is amazed at their speed.
-- 'What did you do again, Max?' The Chef bursts into the room in extreme anger. He cannot believe Max has caused more trouble.
-- 'I just wanted to take the products.' Max claims he was only trying to do his assigned job. He insists it was an accident.
-- 'Quickly get all the nets!' The Chef orders his team into immediate action. He needs everyone to grab a net.
-- 'Take the big and small ones.' He wants every single piece of equipment they own. Size does not matter right now.
-- 'Take everything that we have.' The Chef prepares to catch whatever got loose. He demands they bring everything available.
-- 'We need to catch them all.' He refuses to let a single one escape the building. Barinov is determined to round them all up.
-- 'One hid under the table.' Max spots one of the escapees. He points out where it took cover.
-- 'Do not just stand like that, search!' The Chef demands everyone participate in the hunt. He yells at them to stop staring and start looking.
-- 'I will catch it now.' Max lunges forward to fix his foolish mistake. He confidently promises to grab it.
+- 'Damn, damn, damn, damn.' 'Blin' is literally a pancake. It is a mild 'damn' that Russians use because it sounds like a stronger word and is safe. Max says it four times.
+- 'I dropped the box onto the floor.' 'Uronil' means 'dropped', literally 'made fall', and it is a man's past form. 'Na pol' is 'onto the floor', and 'na' means 'on' with a direction.
+- 'They run very fast.' 'Begayut' is 'run around', and it's used for things that run here and there, not for one running line. 'Oni' is 'they'.
+- 'What did you do again, Max?' 'Natvoril' is 'got up to', for trouble. It's built on 'tvorit', 'to create', so Barinov asks what Max has 'created' this time. 'Opyat' is 'again'.
+- 'I just wanted to take the products.' The word for 'products' means groceries or ingredients. Max picks the vaguest word, which suits someone with a lot to hide.
+- 'Quickly get all the nets!' 'Berite' is the order 'take!' to a group. 'Seti' is 'nets', and the singular 'set' is also the word for a computer network.
+- 'Take the big and small ones.' 'Bolshie' and 'malenkie' are 'big' and 'small', and the word for 'nets' is left out because everybody knows what he means. Russian does that a lot.
+- 'Take everything that we have.' Russian has no verb for 'to have' in this sense. It says 'at us there is', so the thing you own sits in the middle of an 'at' phrase.
+- 'We need to catch them all.' 'Poymat' is 'to catch', and it implies success. 'Ikh vsekh' is 'them all', and both words change form after 'catch'.
+- 'One hid under the table.' 'Spryatalsya' ends in 'sya' because it hid itself. 'Pod stolom' is 'under the table', and the 'om' ending marks where it is.
+- 'Do not just stand like that, search!' 'Just like that' is a stock phrase for 'for no reason'. The negative order and the positive one sit side by side, which is typical of an angry boss.
+- 'I will catch it now.' The little word for 'him' or 'it' is masculine here, because the Russian word for the runaway creature is masculine. Gender decides the pronoun, even for animals.

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'nastya': 'Настя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
-INTRO = "Trying to leave the apartment unnoticed, Victoria awkwardly bumps into Nastya in the hallway outside the bathroom. Surprised to see her boss there, Nastya asks whether Victoria and Max are together, creating an uncomfortable and amusing encounter. Let's listen to their conversation in Russian."
-OPENER = "Let's look at how Nastya and Victoria navigate this awkward morning encounter in the hallway."
+INTRO = "Vika is trying to slip out of Max's flat unnoticed, but Nastya, who lives there too, is standing in the hallway. Here is the meeting in Russian first."
+OPENER = "Let's take the awkward conversation again, slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Now you know how to greet a coworker unexpectedly, excuse a morning delay, and ask for discretion in Russian. Keep listening for these polite phrases in future scenes. Next time you watch the episode, listen for the Russian expressions for 'kind' and 'morning' — you will catch every word right away. See you next time!"
+OUTRO = 'Nastya promises to keep quiet, and Vika is not at all reassured. When you watch, see who looks more embarrassed. See you next time.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('nastya', 'Здравствуйте, Виктория Сергеевна.', 'Hello, Victoria Sergeyevna.', [(240, 'Здрасте, Виктория Сергеевна')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('nastya', 'Я никому ничего не скажу, обещаю.', 'I will not tell anyone anything, I promise.', [], ''),
 ]
 WALK = [
-    (0, None, "'Come in, I am already done.' A polite invitation indicating that the bathroom is free and ready for use."),
-    (1, None, "'Excuse me, I will be a little late today.' A courteous notice to a boss that she expects a delay."),
-    (2, None, "'Are you seeing Maxim now?' A curious question asking about the nature of a personal relationship."),
-    (3, None, "'I will not tell anyone anything, I promise.' A reassuring promise to keep the secret safe from others. Now, let's listen to their hallway exchange once again."),
+    (0, None, "'Hello, Victoria Sergeyevna.' 'Zdravstvuyte' is the polite, long hello. Nastya uses name plus father's name, as she would for her boss."),
+    (1, None, "'Good morning, Nastya.' 'Dobroe utro' is 'good morning'. Vika drops the formal tone and says only 'Nastya', which is how a boss speaks."),
+    (2, None, "'Come in, I am already done.' 'Prokhodite' means 'go through', so it works for letting someone pass. 'Zakonchila' means 'finished', with an 'a' for a woman."),
+    (3, None, "'Thank you, I am just leaving for work.' 'Ukhozhu' is 'I am going away', with the 'u' that means 'away'. 'Na rabotu' is 'to work', and 'rabota' becomes 'rabotu' for the direction."),
+    (4, None, "'Excuse me, I will be a little late today.' 'Opozdayu' is 'I will be late'. 'Izvinite' is the polite 'excuse me', and 'nemnogo' means 'a little'."),
+    (5, None, "'Yes, I understand everything perfectly.' 'Prekrasno' means 'beautifully', but here it just says 'perfectly well'. 'Ponimayu' is 'I understand'."),
+    (6, None, "'I will also be delayed a bit today.' 'Zaderzhus'' ends in 'sya'-like 'us', so it's 'I'll be held up', literally 'I will hold myself up'. 'Tozhe' means 'also'."),
+    (7, None, "'Did you spend the whole night here?' 'Proveli' is 'spent', for time. 'Vsyu noch' is 'the whole night', where 'noch' picks up a 'yu' ending."),
+    (8, None, "'Are you seeing Maxim now?' 'Vstrechaetes'' is literally 'are you meeting each other', and it's how Russians ask whether two people are a couple. 'S Maksimom' is 'with Maxim', the full form of Max."),
+    (9, None, "'Nastya, do not ask silly questions.' Russian says 'give a question' for 'ask a question', 'zadavat vopros'. 'Ne zadavay' is 'don't ask', and 'glupykh' means 'of silly'."),
+    (10, None, "'That is all, I am silent and understood everything.' 'Vsyo' at the start is 'that's it'. 'Molchu' is 'I'm silent', and 'ponyala' is 'I understood', in a woman's form."),
+    (11, None, "'No one at the restaurant knows about this.' 'Nobody' and 'not' sit next to each other in the sentence. Russian wants both, so 'nikto ne znaet' is 'nobody doesn't know'."),
+    (12, None, "'I will not tell anyone anything, I promise.' 'Nikomu nichego ne' has three negatives in a row. 'Skazhu' is 'I will say' and 'obeshchayu' is 'I promise', and both are in one word."),
 ]

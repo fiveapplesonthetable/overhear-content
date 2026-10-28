@@ -10,36 +10,38 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Вик, что с тобой? | Vik, what is wrong? | #303: вик | verbatim |
-| 2 | Вика | В чём дело, Макс? | What is the matter, Max? | #305: чем | verbatim |
-| 3 | Вика | В чем дело? | What is the matter? | #305: чем | verbatim |
-| 4 | Вика | Меня сегодня чуть не уволили с работы. | I almost got fired today. | #309: меня | verbatim |
-| 5 | Вика | И все благодаря тебе. | And it is all thanks to you. | #304: все | verbatim |
-| 6 | Вика | Макс, ты рушишь мою жизнь. | Max, you are ruining my life. | #302: макс | verbatim |
-| 7 | Вика | Все. | That is it. | #304: все | verbatim |
-| 8 | Вика | Не хочу тебя видеть. | I do not want to see you. | #304: хочу | verbatim |
-| 9 | Вика | Хочешь, я тебе скажу, в чем дело? | Want me to tell you what is going on? | #305: хочешь | verbatim |
-| 10 | Вика | Ты постоянно все усложняешь. | You make everything so complicated. | #306: постоянно | verbatim |
-| 11 | Вика | А виноватыми делаешь других. | Then you blame everyone else. | #307: виноватыми | verbatim |
-| 12 | Вика | Может, стоит поискать причины в себе? | Maybe you should look at yourself for the reasons? | #308: может | verbatim |
-| 13 | Макс | Меня всегда удивляло... | I have always wondered... | #309: меня | verbatim |
-| 14 | Макс | почему люди сами возводят между собой границы. | why people build walls between themselves. | #309: почему | verbatim |
-| 15 | Вика | Костя, давай с тобой сегодня тоже просто поспим. | Kostya, how about we just sleep tonight too, okay? | #310: костя | verbatim |
-| 16 | Макс | Но есть границы, которые мы специально возводим... | But there are walls we build on purpose... | #315: есть | verbatim |
-| 17 | Макс | чтобы с удовольствием их разрушить. | so we can enjoy tearing them down. | #316: чтобы | verbatim |
+| 1 | Макс | Вик, что с тобой? | Vik, what is wrong? | #303 00:23:06: вик | verbatim |
+| 2 | Вика | В чём дело, Макс? | What is the matter, Max? | #305 00:23:14: чем | verbatim |
+| 3 | Вика | В чем дело? | What is the matter? | #305 00:23:14: чем | verbatim |
+| 4 | Вика | Меня сегодня чуть не уволили с работы. | I almost got fired today. | #309 00:23:25: меня | verbatim |
+| 5 | Вика | И все благодаря тебе. | And it is all thanks to you. | #304 00:23:08: все | verbatim |
+| 6 | Вика | Макс, ты рушишь мою жизнь. | Max, you are ruining my life. | #302 00:23:04: макс | verbatim |
+| 7 | Вика | Все. | That is it. | #304 00:23:08: все | verbatim |
+| 8 | Вика | Не хочу тебя видеть. | I do not want to see you. | #304 00:23:08: хочу | verbatim |
+| 9 | Вика | Хочешь, я тебе скажу, в чем дело? | Want me to tell you what is going on? | #305 00:23:14: хочешь | verbatim |
+| 10 | Вика | Ты постоянно все усложняешь. | You make everything so complicated. | #306 00:23:15: постоянно | verbatim |
+| 11 | Вика | А виноватыми делаешь других. | Then you blame everyone else. | #307 00:23:17: виноватыми | verbatim |
+| 12 | Вика | Может, стоит поискать причины в себе? | Maybe you should look at yourself for the reasons? | #308 00:23:19: может | verbatim |
+| 13 | Макс | Меня всегда удивляло... | I have always wondered... | #309 00:23:25: меня | verbatim |
+| 14 | Макс | почему люди сами возводят между собой границы. | why people build walls between themselves. | #309 00:23:25: почему | verbatim |
+| 15 | Макс | Но есть границы, которые мы специально возводим... | But there are walls we build on purpose... | #315 00:23:59: есть | verbatim |
+| 16 | Макс | чтобы с удовольствием их разрушить. | so we can enjoy tearing them down. | #316 00:24:04: чтобы | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vik, what is wrong?' Max is genuinely confused by her anger. He asks Vika what is troubling her.
-- 'What is the matter, Max?' He pushes for an explanation. Max wants to know what he did wrong.
-- 'What is the matter?' Vika repeats his question in disbelief. She is amazed he does not know.
-- 'I almost got fired today.' She reveals the severe consequence of his actions. Vika explains she nearly lost her job.
-- 'And it is all thanks to you.' She places the blame entirely on him. Vika says it is all his fault.
-- 'Max, you are ruining my life.' Vika expresses her deep frustration. She accuses him of destroying her peace.
-- 'That is it.' She reaches her breaking point. Vika declares they are finished.
-- 'I do not want to see you.' She sets a firm boundary. Vika tells him to stay out of her sight.
-- 'Want me to tell you what is going on?' Vika offers to spell it out for him. She asks if he really wants the harsh truth.
-- 'You make everything so complicated.' She criticizes his chaotic nature. Vika claims he makes everything harder than it needs to be.
-- 'Then you blame everyone else.' She points out his inability to take responsibility. Vika accuses him of shifting the blame.
-- 'Maybe you should look at yourself for the reasons?' She suggests some self-reflection. Vika tells him to look in the mirror for once.
-- 'I have always wondered...' Max begins to respond thoughtfully. He reflects on his own continuous surprise.
+- 'Vik, what is wrong?' 'Vik' is a short form of Vika. Friends drop the last vowel when they call someone. 'Chto s toboy' is 'what with you', which is the way Russians ask what's wrong.
+- 'What is the matter, Max?' 'V chyom delo' is literally 'in what the matter', and it's a good set phrase. Vika repeats the question to make him say it.
+- 'What is the matter?' It's the same question again, and this time she writes the 'e' of 'chem' without the two dots, which doesn't change the sound. Repeating it shows how tense she is.
+- 'I almost got fired today.' 'Menya uvolili' is 'me they fired', so you don't say who. 'Chut ne' is 'nearly', and 's raboty' is 'from work'.
+- 'And it is all thanks to you.' 'Blagodarya tebe' is 'thanks to you'. It's usually said in a good sense, but Vika says it bitterly.
+- 'Max, you are ruining my life.' 'Rushish' is 'you are knocking down', and Russian uses it for walls and lives. 'Moyu zhizn' is 'my life', with 'yu' on the end.
+- 'That is it.' One word, 'vsyo', which Russians say as a verdict. It closes the matter.
+- 'I do not want to see you.' It's just the plain 'I don't want' and 'to see you', with nothing to soften it. Russian has no need for 'I am afraid that', and Vika doesn't use it.
+- 'Want me to tell you what is going on?' 'Khochesh, ya tebe skazhu' is literally 'want, I'll tell you'. Russian leaves out 'that'.
+- 'You make everything so complicated.' 'Usozhnyaesh' means 'complicate', and it's built from 'slozhny', complicated. 'Postoyanno' is 'constantly'.
+- 'Then you blame everyone else.' 'Vinovatymi' means 'guilty' and the 'ymi' ending follows 'make'. 'Drugikh' is 'others'.
+- 'Maybe you should look at yourself for the reasons?' 'Stoit' means 'it is worth', so it's 'maybe it's worth'. 'V sebe' is 'in yourself'.
+- 'I have always wondered...' 'Menya udivlyalo' is 'me it surprised'. Russian makes the surprise the subject, and the person the object.
+- 'why people build walls between themselves.' 'Vozvodyat' means 'erect', so it's the verb for building tall things. 'Mezhdu soboy' is 'between themselves', and 'granitsy' means 'borders' or 'boundaries'.
+- 'But there are walls we build on purpose...' 'Est' is 'there are', one of the few times Russians say 'is' aloud. 'Kotorye' is 'which', and 'spetsialno' is 'on purpose'.
+- 'so we can enjoy tearing them down.' 'With pleasure' is a stock phrase, and here it ends the episode with a wink. The word for 'tear down' is the one from 'destroy'.
