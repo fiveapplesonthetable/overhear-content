@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Therefore I will not pressure you.' -- The speaker makes the statement.
-- 'Let everything remain as it was.' -- The speaker makes the statement.
-- 'Yes, but I...' -- The speaker makes the statement.
-- 'We will definitely live together.' -- The speaker makes the statement.
-- 'And now good night.' -- The speaker makes the statement.
-- 'Until tomorrow, my friend.' -- The speaker makes the statement.
-- 'Until tomorrow.' -- The speaker makes the statement.
-- 'Moved to live in the hallway.' -- The speaker makes the statement.
-- 'Hi, Max.' -- The speaker makes the statement.
-- 'What do you need?' -- The speaker makes the statement.
-- 'Max, come back.' -- The speaker makes the statement.
-- 'We miss you.' -- The speaker makes the statement.
-- 'We will divide the apartment by three.' -- The speaker makes the statement.
-- 'I will try to come.' -- The speaker makes the statement.
+- 'Therefore I will not pressure you.' — Notice the adverb meaning 'that's why' paired with the pronoun for 'I'.
+- 'Let everything remain as it was.' — Notice the det meaning 'everything' paired with the verb for 'stays'.
+- 'Yes, but I...' — Built around the key pronoun meaning 'I'.
+- 'We will definitely live together.' — Notice the pronoun meaning 'we' paired with the adverb for 'surely, without fail'.
+- 'And now good night.' — Notice the adverb meaning 'now' paired with the adjective for 'good (lit. calm)'.
+- 'Until tomorrow, my friend.' — Notice the adverb meaning 'tomorrow' paired with the proper name for 'Max'.
+- 'Until tomorrow.' — Built around the key adverb meaning 'tomorrow'.
+- 'Moved to live in the hallway.' — Notice the verb meaning 'to move (to a new home or city)' paired with the verb for 'to live'.
+- 'Hi, Max.' — Notice the interjection meaning 'hi' paired with the proper name for 'Max'.
+- 'What do you need?' — Notice the pronoun meaning 'what' paired with the pronoun for 'for you, to you'.
+- 'Max, come back.' — Notice the proper name meaning 'Max' paired with the verb for 'return'.
+- 'We miss you.' — Notice the pronoun meaning '(to) us' paired with the pronoun for 'you'.
+- 'We will divide the apartment by three.' — Notice the pronoun meaning 'we' paired with the verb for 'we'll divide, split'.
+- 'I will try to come.' — Notice the pronoun meaning 'I' paired with the verb for 'to try, make an effort'.

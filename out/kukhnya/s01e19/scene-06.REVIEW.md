@@ -1,6 +1,6 @@
 # kukhnya-s01e19-scene-06: review sheet
 
-Title: Разговор на кухне  (Kitchen Conversation)
+Title: Извинения гостя  (A Guest's Apology)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Кухня (Kukhnya) S1.19
@@ -32,8 +32,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Or boyfriend?' It is a simple phrase.
 - 'I don't have a husband or a boyfriend.' It is a simple phrase.
 - 'In that case, I look forward to seeing you again.' It is a simple phrase.
-- 'What a pleasant evening 0.' -- The speaker responds in the scene.
-- 'What a pleasant evening 1.' -- The speaker responds in the scene.
-- 'What a pleasant evening 2.' -- The speaker responds in the scene.
-- 'What a pleasant evening 3.' -- The speaker responds in the scene.
-- 'What a pleasant evening 4.' -- The speaker responds in the scene.
+- 'What a pleasant evening 0.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
+- 'What a pleasant evening 1.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
+- 'What a pleasant evening 2.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
+- 'What a pleasant evening 3.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
+- 'What a pleasant evening 4.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.

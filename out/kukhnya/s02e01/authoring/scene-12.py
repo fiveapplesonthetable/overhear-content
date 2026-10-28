@@ -33,7 +33,7 @@ STORY = [
 WALK = [
     (2, None, "'Maybe if something happened to you.' ENG: The last word means happened."),
     (4, None, "'When I was a kid, I had a dog.' ENG: The first phrase means in childhood, and the last word is another word for dog."),
-    (5, None, "'Ralph. And one day he bit me really badly.' -- The speaker responds in the scene."),
+    (5, None, "'Ralph. And one day he bit me really badly.' — Notice the proper name meaning 'Ralph' paired with the pronoun for 'he'."),
     (6, None, "'I was mad at him for a long time.' ENG: The verb means took offense or was angry."),
     (8, None, "'Then a car hit him.' ENG: The verb means hit or knocked down, often used for vehicle accidents."),
     (10, None, "'Too bad he didn't appreciate it.' ENG: The first word means it is a pity, and the verb means appreciated."),

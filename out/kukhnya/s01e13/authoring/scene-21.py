@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S1.13"
 SOURCE_FILE = "sources/kukhnya/s01/e13.ru.dual.srt"
 SOURCE_NOTE = "Generated scene"
 
-INTRO = "In this scene, things get interesting. Let's listen closely to their exchange in Russian first, and then walk through each line together."
+INTRO = "In this scene focused on the crashed car, elena assesses the damage to her car while Barinov tries to prevent her from filing a police report. Let's listen closely to Chef Barinov and Elena's exchange in Russian first, and then walk through each line together."
 
 STORY = [
     ("elena", "Ну что, бампера нет...", "Well, the bumper is gone...", [(284, "Ну что, бампера нет и фара разбита.")], ""),

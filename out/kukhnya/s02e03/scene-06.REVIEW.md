@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, this is a leather belt.' It is clear what this means. This is an important detail.
-- 'Why do you have it in the kitchen?' It is clear what this means. This is an important detail.
-- 'I am going to eat it.' It is clear what this means. This is an important detail.
-- 'Is it a leather belt?' It is clear what this means. This is an important detail.
-- 'It is very long.' It is clear what this means. This is an important detail.
-- 'I am a chef.' It is clear what this means. This is an important detail.
-- 'I will cook it and eat it.' It is clear what this means. This is an important detail.
-- 'Nobody eats belts.' It is clear what this means. This is an important detail.
-- 'But I will.' It is clear what this means. This is an important detail.
-- 'All right, cook it.' It is clear what this means. This is an important detail.
-- 'I will watch this.' It is clear what this means. This is an important detail.
-- 'It will be very delicious.' It is clear what this means. This is an important detail.
+- 'Look, this is a leather belt.' — Notice the verb meaning 'look' paired with the pronoun for 'this'.
+- 'Why do you have it in the kitchen?' — Notice the adverb meaning 'what for' paired with the pronoun for 'he'.
+- 'I am going to eat it.' — Notice the pronoun meaning 'I' paired with the verb for 'will be (there)'.
+- 'Is it a leather belt?' — Notice the pronoun meaning 'this' paired with the noun for 'leather'.
+- 'It is very long.' — Notice the pronoun meaning 'he' paired with the adverb for 'very much'.
+- 'I am a chef.' — Notice the pronoun meaning 'I' paired with the noun for 'chef, cook'.
+- 'I will cook it and eat it.' — Notice the pronoun meaning 'I' paired with the verb for 'will prepare'.
+- 'Nobody eats belts.' — Notice the pronoun meaning 'nobody' paired with the verb for 'to eat'.
+- 'But I will.' — Notice the pronoun meaning 'I' paired with the verb for 'will be (there)'.
+- 'All right, cook it.' — Notice the adverb meaning 'good, fine' paired with the verb for 'prepare'.
+- 'I will watch this.' — Notice the pronoun meaning 'I' paired with the verb for '(I'll) have a look'.
+- 'It will be very delicious.' — Notice the pronoun meaning 'this' paired with the verb for 'will be'.

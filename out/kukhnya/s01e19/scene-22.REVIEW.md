@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you know what is the main thing?' -- The speaker makes the statement.
-- 'What?' -- The speaker makes the statement.
-- 'The main thing is to cherish.' -- The speaker makes the statement.
-- 'Cherish what?' -- The speaker makes the statement.
-- 'What we have.' -- The speaker makes the statement.
-- 'Where?' -- The speaker makes the statement.
-- 'Here.' -- The speaker makes the statement.
-- 'And when?' -- The speaker makes the statement.
-- 'And now.' -- The speaker makes the statement.
-- 'Here and now.' -- The speaker makes the statement.
-- 'Exactly.' -- The speaker makes the statement.
-- 'Good.' -- The speaker makes the statement.
+- 'Do you know what is the main thing?' — Notice the verb meaning 'know' paired with the pronoun for 'what'.
+- 'What?' — Built around the key pronoun meaning 'what'.
+- 'The main thing is to cherish.' — Notice the adjective meaning 'important (thing)' paired with the verb for 'to appreciate, to value'.
+- 'Cherish what?' — Notice the verb meaning 'to appreciate, to value' paired with the pronoun for 'what'.
+- 'What we have.' — Notice the det meaning 'that (thing)' paired with the pronoun for 'what'.
+- 'Where?' — Built around the key adverb meaning 'where'.
+- 'Here.' — Built around the key adverb meaning 'here'.
+- 'And when?' — Built around the key adverb meaning 'when'.
+- 'And now.' — Built around the key adverb meaning 'now'.
+- 'Here and now.' — Notice the adverb meaning 'here' paired with the adverb for 'now'.
+- 'Exactly.' — Built around the key adverb meaning 'definitely, for sure'.
+- 'Good.' — Built around the key adverb meaning 'good, fine'.

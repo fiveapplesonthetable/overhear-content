@@ -31,18 +31,18 @@ STORY = [
 
 OPENER = "Let's review the conversation line by line."
 WALK = [
-    (0, None, "'Hi.' It is clear what this means. This is an important detail."),
-    (1, None, "'Hi, my friend.' -- The speaker responds in the scene."),
-    (2, None, "'Was there a girl in a green dress here?' It is clear what this means. This is an important detail."),
-    (3, None, "'Yes, actually.' It is clear what this means. This is an important detail."),
-    (4, None, "'Where is she?' It is clear what this means. This is an important detail."),
-    (5, None, "'I don't know.' It is clear what this means. This is an important detail."),
-    (6, None, "'You didn't see her?' It is clear what this means. This is an important detail."),
-    (7, None, "'That's strange, I didn't see.' It is clear what this means. This is an important detail."),
-    (8, None, "'Maybe she left?' It is clear what this means. This is an important detail."),
-    (9, None, "'Maybe.' It is clear what this means. This is an important detail."),
-    (10, None, "'I need to find her.' It is clear what this means. This is an important detail."),
-    (11, None, "'Look in the bar.' It is clear what this means. This is an important detail.")
+    (0, None, "'Hi.' — Built around the key interjection meaning 'hi'."),
+    (1, None, "'Hi, my friend.' — Notice the interjection meaning 'hi' paired with the proper name for 'Ilya'."),
+    (2, None, "'Was there a girl in a green dress here?' — Notice the adverb meaning 'here' paired with the verb for 'was'."),
+    (3, None, "'Yes, actually.' — Built around the key adverb meaning 'at all'."),
+    (4, None, "'Where is she?' — Notice the adverb meaning 'where' paired with the pronoun for 'it (the pipe)'."),
+    (5, None, "'I don't know.' — Notice the pronoun meaning 'I' paired with the verb for '(I) know'."),
+    (6, None, "'You didn't see her?' — Notice the pronoun meaning 'you' paired with the noun for 'her, hers'."),
+    (7, None, "'That's strange, I didn't see.' — Notice the adverb meaning 'strange' paired with the pronoun for 'I'."),
+    (8, None, "'Maybe she left?' — Notice the verb meaning 'can' paired with the pronoun for 'it (the pipe)'."),
+    (9, None, "'Maybe.' — Notice the verb meaning 'can' paired with the verb for 'be'."),
+    (10, None, "'I need to find her.' — Notice the pronoun meaning 'to me (  = I have no time)' paired with the adverb for '(it is) necessary'."),
+    (11, None, "'Look in the bar.' — Notice the verb meaning 'look' paired with the noun for 'bar'.")
 ]
 TRANSITION = "Let's hear it again."
 OUTRO = "That was an interesting scene. See you in the next one."

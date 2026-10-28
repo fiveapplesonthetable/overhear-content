@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hi.' A quick greeting.
-- 'Hi, my friend.' -- The speaker responds in the scene.
+- 'Hi, my friend.' — Notice the interjection meaning 'hi' paired with the noun for 'Anya'.
 - 'Here is your thing.' Something needed to be returned.
 - 'Take this.' A simple command.
 - 'Here you go.' Giving the item over.

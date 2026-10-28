@@ -29,11 +29,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hi, Max.' It is a simple phrase.
 - 'How are things at work?' It is a simple phrase.
 - 'Everything is as usual.' It is a simple phrase.
-- 'What a pleasant evening 0.' -- The speaker responds in the scene.
-- 'What a pleasant evening 1.' -- The speaker responds in the scene.
-- 'What a pleasant evening 2.' -- The speaker responds in the scene.
-- 'What a pleasant evening 3.' -- The speaker responds in the scene.
-- 'What a pleasant evening 4.' -- The speaker responds in the scene.
-- 'What a pleasant evening 5.' -- The speaker responds in the scene.
-- 'What a pleasant evening 6.' -- The speaker responds in the scene.
-- 'What a pleasant evening 7.' -- The speaker responds in the scene.
+- 'What a pleasant evening 0.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
+- 'What a pleasant evening 1.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
+- 'What a pleasant evening 2.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
+- 'What a pleasant evening 3.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
+- 'What a pleasant evening 4.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
+- 'What a pleasant evening 5.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
+- 'What a pleasant evening 6.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
+- 'What a pleasant evening 7.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.

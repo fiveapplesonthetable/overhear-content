@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I didn't think it was so great here.' -- The speaker makes the statement.
-- 'It is great everywhere when there is no Max.' -- The speaker makes the statement.
-- 'Yes, it is very quiet today.' -- The speaker makes the statement.
-- 'We need to work.' -- The speaker makes the statement.
-- 'I am just resting.' -- The speaker makes the statement.
-- 'The chef can come.' -- The speaker makes the statement.
-- 'The chef is busy now.' -- The speaker makes the statement.
-- 'Anyway, let's work.' -- The speaker makes the statement.
-- 'Good, I am coming.' -- The speaker makes the statement.
-- 'Where is my knife?' -- The speaker makes the statement.
-- 'It is on the table.' -- The speaker makes the statement.
-- 'Thank you, I see it.' -- The speaker makes the statement.
+- 'I didn't think it was so great here.' — Notice the pronoun meaning 'I' paired with the verb for 'thought'.
+- 'It is great everywhere when there is no Max.' — Notice the adverb meaning 'everywhere' paired with the noun for 'great, cool'.
+- 'Yes, it is very quiet today.' — Notice the adverb meaning 'today' paired with the adverb for 'very much'.
+- 'We need to work.' — Notice the pronoun meaning '(to) us' paired with the adverb for 'it is necessary'.
+- 'I am just resting.' — Notice the pronoun meaning 'I' paired with the adverb for 'just'.
+- 'The chef can come.' — Notice the proper name meaning 'chef, boss' paired with the verb for 'can'.
+- 'The chef is busy now.' — Notice the proper name meaning 'chef, boss' paired with the adverb for 'now'.
+- 'Anyway, let's work.' — Notice the det meaning 'everything' paired with the adverb for 'the same'.
+- 'Good, I am coming.' — Notice the adverb meaning 'good, fine' paired with the pronoun for 'I'.
+- 'Where is my knife?' — Notice the adverb meaning 'where' paired with the det for 'my'.
+- 'It is on the table.' — Notice the pronoun meaning 'he' paired with the noun for 'table'.
+- 'Thank you, I see it.' — Notice the interjection meaning 'thank you' paired with the pronoun for 'I'.

@@ -11,7 +11,7 @@ LABELS = {"anya": "Макс", "sasha": "Саша"}
 SOURCE_NAME = "Кухня (Kukhnya) S2.02"
 SOURCE_FILE = "sources/kukhnya/s02/e02.ru.dual.srt"
 
-INTRO = "Max runs into Sasha in the kitchen. Sasha asks if he is still upset about Vika leaving, but Max denies it. Let us listen to the conversation in Russian first."
+INTRO = "In this scene focused on all in the past, max runs into Sasha in the kitchen. Sasha asks if he is still upset about Vika leaving, but Max denies it. Let's listen closely to Max and Sasha's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "Now let us listen to the conversation once again."
 OUTRO = "The conversation concludes the matter at hand."

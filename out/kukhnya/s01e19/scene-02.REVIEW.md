@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, is the sauce ready?' -- The speaker responds in the scene.
-- 'I am not Senya.' -- The speaker responds in the scene.
-- 'I am Artyom.' -- The speaker responds in the scene.
-- 'Senya got fired.' -- The speaker responds in the scene.
-- 'I do not care who you are.' -- The speaker responds in the scene.
-- 'Today you are Senya.' -- The speaker responds in the scene.
-- 'Fedya would have done it fast.' -- The speaker responds in the scene.
-- 'I am Fedya too, Chef.' -- The speaker responds in the scene.
-- 'No, you are not Fedya.' -- The speaker responds in the scene.
-- 'You have to earn the name Fedya.' -- The speaker responds in the scene.
-- 'Now you are Artyom.' -- The speaker responds in the scene.
-- 'Yes, Chef.' -- The speaker responds in the scene.
+- 'Senya, is the sauce ready?' — Notice the proper name meaning 'Senya' paired with the noun for 'sauce'.
+- 'I am not Senya.' — Notice the pronoun meaning 'I' paired with the proper name for 'Senya'.
+- 'I am Artyom.' — Notice the pronoun meaning 'I' paired with the proper name for 'Artyom'.
+- 'Senya got fired.' — Notice the proper name meaning 'Senya' paired with the verb for 'to fire, to dismiss'.
+- 'I do not care who you are.' — Notice the pronoun meaning 'to me (  = I have no time)' paired with the verb for 'don't care (lit. to spit)'.
+- 'Today you are Senya.' — Notice the adverb meaning 'today' paired with the pronoun for 'you'.
+- 'Fedya would have done it fast.' — Notice the proper name meaning 'Fedya' paired with the pronoun for 'this'.
+- 'I am Fedya too, Chef.' — Notice the pronoun meaning 'I' paired with the adverb for 'too'.
+- 'No, you are not Fedya.' — Notice the pronoun meaning 'you' paired with the proper name for 'Fedya'.
+- 'You have to earn the name Fedya.' — Notice the noun meaning 'name' paired with the proper name for 'Fedya'.
+- 'Now you are Artyom.' — Notice the adverb meaning 'now' paired with the pronoun for 'you'.
+- 'Yes, Chef.' — Built around the key proper name meaning 'chef, boss'.

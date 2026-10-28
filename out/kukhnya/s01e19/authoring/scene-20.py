@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S1.19"
 SOURCE_FILE = "sources/kukhnya/s01/e19.ru.dual.srt"
 SOURCE_NOTE = "Cues."
 
-INTRO = "Let us listen to the conversation. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together."
+INTRO = "In this scene focused on doubts, max reflects on how people value what they have. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "This is the end of the scene."
 OUTRO = "Goodbye."
@@ -35,16 +35,16 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'People often doubt.' -- The speaker makes the statement."),
-    (1, None, "'In what?' -- The speaker makes the statement."),
-    (2, None, "'In what they have.' -- The speaker makes the statement."),
-    (3, None, "'That is true.' -- The speaker makes the statement."),
-    (4, None, "'They do not know.' -- The speaker makes the statement."),
-    (5, None, "'What do they not know?' -- The speaker makes the statement."),
-    (6, None, "'How dear is what there is.' -- The speaker makes the statement."),
-    (7, None, "'We know.' -- The speaker makes the statement."),
-    (8, None, "'Yes, we know.' -- The speaker makes the statement."),
-    (9, None, "'This is good.' -- The speaker makes the statement."),
-    (10, None, "'Very good.' -- The speaker makes the statement."),
-    (11, None, "'I agree.' -- The speaker makes the statement."),
+    (0, None, "'People often doubt.' — Notice the noun meaning 'people' paired with the adverb for 'often'."),
+    (1, None, "'In what?' — Notice the preposition meaning 'in' paired with the conjunction for 'than'."),
+    (2, None, "'In what they have.' — Notice the pronoun meaning 'that' paired with the pronoun for 'what'."),
+    (3, None, "'That is true.' — Notice the pronoun meaning 'this' paired with the noun for 'honestly'."),
+    (4, None, "'They do not know.' — Notice the pronoun meaning 'they' paired with the verb for '(they) know'."),
+    (5, None, "'What do they not know?' — Notice the pronoun meaning 'what?' paired with the verb for '(they) know'."),
+    (6, None, "'How dear is what there is.' — Notice the adverb meaning 'as far as' paired with the pronoun for 'to them'."),
+    (7, None, "'We know.' — Notice the pronoun meaning 'we' paired with the verb for '(we) know'."),
+    (8, None, "'Yes, we know.' — Notice the pronoun meaning 'we' paired with the verb for '(we) know'."),
+    (9, None, "'This is good.' — Notice the pronoun meaning 'this' paired with the adverb for 'good, fine'."),
+    (10, None, "'Very good.' — Notice the adverb meaning 'very much' paired with the adverb for 'good, fine'."),
+    (11, None, "'I agree.' — Notice the pronoun meaning 'I' paired with the adjective for 'agree'."),
 ]

@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S1.14"
 SOURCE_FILE = "sources/kukhnya/s01/e14.ru.dual.srt"
 SOURCE_NOTE = "Cues 7-14."
 
-INTRO = "Vika's mother Eleonora visits the restaurant to criticize Vika's relationship with Max. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together."
+INTRO = "Vika's mother Eleonora visits the restaurant to criticize Vika's relationship with Max. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 
 STORY = [
     ("vika", "Мам, зачем ты пришла сюда сегодня?",

@@ -11,7 +11,7 @@ SOURCE_FILE = "sources/dix-pour-cent/s04/e06.fr.dual.srt"
 VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
 LABELS = {'lea': 'Elise', 'gabriel': 'Gabriel'}
 
-INTRO = "Gabriel confronts Elise about a shady move regarding Sofia. We will hear it in French first, don't worry about catching every word."
+INTRO = "In the ASK hallway, Gabriel angrily confronts Élise about a shady behind-the-scenes move regarding Sofia's career. We will hear it in French first, so don't worry about catching every word."
 OPENER = "Let's go back through it. Gabriel asks a direct question."
 TRANSITION = "Let's listen to the whole scene again."
 OUTRO = 'Elise continues to pressure Gabriel.'

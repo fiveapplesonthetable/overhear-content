@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S1.19"
 SOURCE_FILE = "sources/kukhnya/s01/e19.ru.dual.srt"
 SOURCE_NOTE = ""
 
-INTRO = "Here is a brief introduction to set the scene and context. It must be at least one hundred and forty characters long so that it meets the minimum length requirement easily."
+INTRO = "In this scene focused on the new plan, the characters discuss their situation. Don't worry. Let's listen closely to Vika and a restaurant guest's exchange in Russian first, and then walk through each line together."
 
 STORY = [
     ('max', 'Вика, привет.', 'Vika, hi.', [], ''),
@@ -35,14 +35,14 @@ WALK = [
     (1, None, "'Hi, Max.' It is a simple phrase."),
     (2, None, "'How are things at work?' It is a simple phrase."),
     (3, None, "'Everything is as usual.' It is a simple phrase."),
-    (4, None, "'What a pleasant evening 0.' -- The speaker responds in the scene."),
-    (5, None, "'What a pleasant evening 1.' -- The speaker responds in the scene."),
-    (6, None, "'What a pleasant evening 2.' -- The speaker responds in the scene."),
-    (7, None, "'What a pleasant evening 3.' -- The speaker responds in the scene."),
-    (8, None, "'What a pleasant evening 4.' -- The speaker responds in the scene."),
-    (9, None, "'What a pleasant evening 5.' -- The speaker responds in the scene."),
-    (10, None, "'What a pleasant evening 6.' -- The speaker responds in the scene."),
-    (11, None, "'What a pleasant evening 7.' -- The speaker responds in the scene.")
+    (4, None, "'What a pleasant evening 0.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
+    (5, None, "'What a pleasant evening 1.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
+    (6, None, "'What a pleasant evening 2.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
+    (7, None, "'What a pleasant evening 3.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
+    (8, None, "'What a pleasant evening 4.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
+    (9, None, "'What a pleasant evening 5.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
+    (10, None, "'What a pleasant evening 6.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
+    (11, None, "'What a pleasant evening 7.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.")
 ]
 
 TRANSITION = "Now let's hear the whole scene once more, start to finish."

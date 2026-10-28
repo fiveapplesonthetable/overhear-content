@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing here?' -- The speaker responds in the scene.
-- 'Why aren't you at work?' -- The speaker responds in the scene.
-- 'Another interrogation.' -- The speaker responds in the scene.
-- 'Did you plan this or something?' -- The speaker responds in the scene.
-- 'I am on the second shift today.' -- The speaker responds in the scene.
-- 'Great. I will go with you.' -- The speaker responds in the scene.
-- 'Maybe you forgot,' -- The speaker responds in the scene.
-- 'Yeah, I remember.' -- The speaker responds in the scene.
-- 'I got fired.' -- The speaker responds in the scene.
-- 'Why didn't you stay at Vika's?' -- The speaker responds in the scene.
-- 'She wouldn't let me in.' -- The speaker responds in the scene.
-- 'She started making everything complicated.' -- The speaker responds in the scene.
+- 'What are you doing here?' — Notice the pronoun meaning 'what' paired with the pronoun for 'you'.
+- 'Why aren't you at work?' — Notice the pronoun meaning 'what' paired with the noun for 'work'.
+- 'Another interrogation.' — Notice the adverb meaning 'again' paired with the noun for 'interrogation'.
+- 'Did you plan this or something?' — Notice the pronoun meaning 'you' paired with the verb for 'conspired'.
+- 'I am on the second shift today.' — Notice the pronoun meaning 'I' paired with the adverb for 'today'.
+- 'Great. I will go with you.' — Notice the adverb meaning 'perfect, great' paired with the pronoun for 'I'.
+- 'Maybe you forgot,' — Notice the verb meaning 'can' paired with the pronoun for 'you'.
+- 'Yeah, I remember.' — Notice the pronoun meaning 'I' paired with the verb for 'remember'.
+- 'I got fired.' — Notice the pronoun meaning 'me' paired with the verb for 'to fire, to dismiss'.
+- 'Why didn't you stay at Vika's?' — Notice the pronoun meaning 'what' paired with the pronoun for 'you'.
+- 'She wouldn't let me in.' — Notice the pronoun meaning 'it (the pipe)' paired with the pronoun for 'me'.
+- 'She started making everything complicated.' — Notice the pronoun meaning 'it (the pipe)' paired with the det for 'all'.

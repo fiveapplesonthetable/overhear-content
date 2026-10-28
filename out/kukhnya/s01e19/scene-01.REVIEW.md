@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did I wake you?' -- The speaker responds in the scene.
-- 'Please forgive me.' -- The speaker responds in the scene.
-- 'Where were you, anyway?' -- The speaker responds in the scene.
-- 'What is this, an interrogation?' -- The speaker responds in the scene.
-- 'You think you can wander off anywhere?' -- The speaker responds in the scene.
-- 'And stroll in at three o'clock?' -- The speaker responds in the scene.
-- 'Quarter to.' -- The speaker responds in the scene.
-- 'What kind of relationship do we have?' -- The speaker responds in the scene.
-- 'We have an open relationship.' -- The speaker responds in the scene.
-- 'Everything is fine.' -- The speaker responds in the scene.
-- 'Since we have an open relationship,' -- The speaker responds in the scene.
-- 'You are free for tonight.' -- The speaker responds in the scene.
+- 'Did I wake you?' — Built around the key verb meaning 'to wake (someone) up'.
+- 'Please forgive me.' — Notice the verb meaning 'sorry, forgive me' paired with the pronoun for 'me'.
+- 'Where were you, anyway?' — Notice the adverb meaning 'where' paired with the pronoun for 'you'.
+- 'What is this, an interrogation?' — Notice the pronoun meaning 'what' paired with the adverb for 'here'.
+- 'You think you can wander off anywhere?' — Notice the pronoun meaning 'you' paired with the verb for 'to count; to think, to consider'.
+- 'And stroll in at three o'clock?' — Notice the verb meaning 'to come, to walk in' paired with the numeral for 'three'.
+- 'Quarter to.' — Built around the key numeral meaning 'fifteen'.
+- 'What kind of relationship do we have?' — Notice the pronoun meaning 'what' paired with the pronoun for 'us'.
+- 'We have an open relationship.' — Notice the pronoun meaning 'us' paired with the adjective for 'free'.
+- 'Everything is fine.' — Notice the det meaning 'all' paired with the adverb for 'good, fine'.
+- 'Since we have an open relationship,' — Notice the noun meaning 'time, occasion' paired with the pronoun for 'us'.
+- 'You are free for tonight.' — Notice the adverb meaning 'today' paired with the pronoun for 'you'.

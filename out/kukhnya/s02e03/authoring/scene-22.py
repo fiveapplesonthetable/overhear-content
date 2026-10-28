@@ -11,7 +11,7 @@ LABELS = {"anya": "Шеф", "fedya": "Федя", "senya": "Сеня"}
 SOURCE_NAME = "Кухня (Kukhnya) S2.03"
 SOURCE_FILE = "sources/kukhnya/s02/e03.ru.dual.srt"
 
-INTRO = "Chef Viktor calls to apologize and ask for a ride. Meanwhile, Fedya demands five thousand from Senya for losing their crazy bet. Let us listen to the conversation in Russian first."
+INTRO = "In this scene focused on the price of a bet, the characters discuss their situation. -,   ,   -   , It's me again. First, I wanted to apologize for causing you so much trouble. Let's listen closely to Chef Viktor and Fedya's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "Now let us listen to the conversation once again."
 OUTRO = "The conversation concludes the matter at hand."

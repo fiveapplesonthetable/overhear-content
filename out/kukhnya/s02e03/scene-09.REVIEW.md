@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi.' It is clear what this means. This is an important detail.
-- 'Hi, my friend.' -- The speaker responds in the scene.
-- 'Was there a girl in a green dress here?' It is clear what this means. This is an important detail.
-- 'Yes, actually.' It is clear what this means. This is an important detail.
-- 'Where is she?' It is clear what this means. This is an important detail.
-- 'I don't know.' It is clear what this means. This is an important detail.
-- 'You didn't see her?' It is clear what this means. This is an important detail.
-- 'That's strange, I didn't see.' It is clear what this means. This is an important detail.
-- 'Maybe she left?' It is clear what this means. This is an important detail.
-- 'Maybe.' It is clear what this means. This is an important detail.
-- 'I need to find her.' It is clear what this means. This is an important detail.
-- 'Look in the bar.' It is clear what this means. This is an important detail.
+- 'Hi.' — Built around the key interjection meaning 'hi'.
+- 'Hi, my friend.' — Notice the interjection meaning 'hi' paired with the proper name for 'Ilya'.
+- 'Was there a girl in a green dress here?' — Notice the adverb meaning 'here' paired with the verb for 'was'.
+- 'Yes, actually.' — Built around the key adverb meaning 'at all'.
+- 'Where is she?' — Notice the adverb meaning 'where' paired with the pronoun for 'it (the pipe)'.
+- 'I don't know.' — Notice the pronoun meaning 'I' paired with the verb for '(I) know'.
+- 'You didn't see her?' — Notice the pronoun meaning 'you' paired with the noun for 'her, hers'.
+- 'That's strange, I didn't see.' — Notice the adverb meaning 'strange' paired with the pronoun for 'I'.
+- 'Maybe she left?' — Notice the verb meaning 'can' paired with the pronoun for 'it (the pipe)'.
+- 'Maybe.' — Notice the verb meaning 'can' paired with the verb for 'be'.
+- 'I need to find her.' — Notice the pronoun meaning 'to me (  = I have no time)' paired with the adverb for '(it is) necessary'.
+- 'Look in the bar.' — Notice the verb meaning 'look' paired with the noun for 'bar'.

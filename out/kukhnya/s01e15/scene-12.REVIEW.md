@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Open up, we need to talk.' -- The speaker makes the statement.
-- 'Leva, what do you want?' -- The speaker makes the statement.
-- 'I want to tell you one thing.' -- The speaker makes the statement.
-- 'So that your foot is no longer in my house.' -- The speaker makes the statement.
-- 'Today pack your things and leave.' -- The speaker makes the statement.
-- 'You no longer live with me and Mom.' -- The speaker makes the statement.
-- 'Is that clear to you?' -- The speaker makes the statement.
-- 'Yes, sure.' -- The speaker makes the statement.
-- 'As if I need it.' -- The speaker makes the statement.
-- 'I am waiting until you leave.' -- The speaker makes the statement.
-- 'I am already leaving.' -- The speaker makes the statement.
-- 'Leave the keys on the table.' -- The speaker makes the statement.
+- 'Open up, we need to talk.' — Notice the verb meaning 'to open' paired with the pronoun for '(to) us'.
+- 'Leva, what do you want?' — Notice the proper name meaning 'Lyova' paired with the pronoun for 'what'.
+- 'I want to tell you one thing.' — Notice the pronoun meaning 'I' paired with the verb for 'want'.
+- 'So that your foot is no longer in my house.' — Notice the noun meaning 'legs' paired with the det for 'your'.
+- 'Today pack your things and leave.' — Notice the adverb meaning 'today' paired with the verb for 'pack, gather'.
+- 'You no longer live with me and Mom.' — Notice the adverb meaning 'more' paired with the pronoun for 'you'.
+- 'Is that clear to you?' — Notice the pronoun meaning 'for you, to you' paired with the pronoun for 'this'.
+- 'Yes, sure.' — Notice the particle meaning 'yes (  = really?)' paired with the particle for 'please'.
+- 'As if I need it.' — Notice the adverb meaning 'very much' paired with the pronoun for 'to me (  = I have no time)'.
+- 'I am waiting until you leave.' — Notice the pronoun meaning 'I' paired with the verb for 'I'm waiting'.
+- 'I am already leaving.' — Notice the pronoun meaning 'I' paired with the adverb for 'already, now'.
+- 'Leave the keys on the table.' — Notice the noun meaning 'the keys' paired with the verb for 'keep, leave'.

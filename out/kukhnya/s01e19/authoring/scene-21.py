@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S1.19"
 SOURCE_FILE = "sources/kukhnya/s01/e19.ru.dual.srt"
 SOURCE_NOTE = "Cues."
 
-INTRO = "Let us listen to the conversation. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together."
+INTRO = "In this scene focused on together, max says that the main thing is that they are together. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "This is the end of the scene."
 OUTRO = "Goodbye."
@@ -35,16 +35,16 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'I worry.' -- The speaker makes the statement."),
-    (1, None, "'Do not worry so much.' -- The speaker makes the statement."),
-    (2, None, "'Why?' -- The speaker makes the statement."),
-    (3, None, "'The main thing is that we are together.' -- The speaker makes the statement."),
-    (4, None, "'This is the main thing.' -- The speaker makes the statement."),
-    (5, None, "'For some it is easier to lose everything.' -- The speaker makes the statement."),
-    (6, None, "'What for?' -- The speaker makes the statement."),
-    (7, None, "'In order to understand.' -- The speaker makes the statement."),
-    (8, None, "'To understand what?' -- The speaker makes the statement."),
-    (9, None, "'How dear it was.' -- The speaker makes the statement."),
-    (10, None, "'We do not need to lose.' -- The speaker makes the statement."),
-    (11, None, "'No need.' -- The speaker makes the statement."),
+    (0, None, "'I worry.' — Notice the pronoun meaning 'I' paired with the verb for 'worry'."),
+    (1, None, "'Do not worry so much.' — Built around the key verb meaning 'worry'."),
+    (2, None, "'Why?' — Built around the key adverb meaning 'why'."),
+    (3, None, "'The main thing is that we are together.' — Notice the adjective meaning 'important (thing)' paired with the pronoun for 'what'."),
+    (4, None, "'This is the main thing.' — Notice the pronoun meaning 'this' paired with the adjective for 'important (thing)'."),
+    (5, None, "'For some it is easier to lose everything.' — Notice the pronoun meaning 'someone, somebody' paired with the noun for 'simpler, easier'."),
+    (6, None, "'What for?' — Built around the key adverb meaning 'what for'."),
+    (7, None, "'In order to understand.' — Built around the key verb meaning 'to understand'."),
+    (8, None, "'To understand what?' — Notice the verb meaning 'to understand' paired with the pronoun for 'what'."),
+    (9, None, "'How dear it was.' — Notice the adverb meaning 'as far as' paired with the pronoun for 'this'."),
+    (10, None, "'We do not need to lose.' — Notice the pronoun meaning '(to) us' paired with the adverb for 'it is necessary'."),
+    (11, None, "'No need.' — Built around the key adverb meaning 'it is necessary'."),
 ]

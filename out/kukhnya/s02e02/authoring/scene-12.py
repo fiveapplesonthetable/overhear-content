@@ -11,7 +11,7 @@ LABELS = {"anya": "Макс", "nastya": "Настя", "valya": "Валя"}
 SOURCE_NAME = "Кухня (Kukhnya) S2.02"
 SOURCE_FILE = "sources/kukhnya/s02/e02.ru.dual.srt"
 
-INTRO = "Max begs Nastya to talk to her dad. Then they notice Valya making a dessert that looks exactly like the Chef's. Let us listen to the conversation in Russian first."
+INTRO = "In this scene focused on sweet lie, max begs Nastya to talk to her dad. Then they notice Valya making a dessert that looks exactly like the Chef's. Let's listen closely to Max and Nastya's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "Now let us listen to the conversation once again."
 OUTRO = "The conversation concludes the matter at hand."

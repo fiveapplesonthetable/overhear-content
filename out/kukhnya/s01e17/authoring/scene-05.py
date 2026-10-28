@@ -11,7 +11,7 @@ LABELS = {"anya": "Anya", "viktor": "Viktor", "max": "Max"}
 SOURCE_NAME = "Кухня (Kukhnya) S1.17"
 SOURCE_FILE = "sources/kukhnya/s01/e17.ru.dual.srt"
 
-INTRO = "Chef Viktor gathers the kitchen staff to make an important announcement about the menu. He explains the new contest for a seasonal dish."
+INTRO = "Chef Viktor gathers the kitchen staff to make an important announcement about the menu. He explains the new contest for a seasonal dish. Let's listen closely to their conversation in Russian first, and then walk through each line together."
 OPENER = "Let's walk through it together."
 TRANSITION = "Now listen to the whole scene again."
 OUTRO = "The chefs enthusiastically agree and get ready to cook."

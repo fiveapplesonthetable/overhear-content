@@ -11,7 +11,7 @@ LABELS = {"anya": "Макс", "vika": "Вика", "kostya": "Костя"}
 SOURCE_NAME = "Кухня (Kukhnya) S2.01"
 SOURCE_FILE = "sources/kukhnya/s02/e01.ru.dual.srt"
 
-INTRO = "Max's dangerous stunt goes horribly wrong when he accidentally slips. He finds himself actually hanging and cries out for help. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together."
+INTRO = "Max's dangerous stunt goes horribly wrong when he accidentally slips. He finds himself actually hanging and cries out for help. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 
 STORY = [
  ("anya", "Я хочу, чтобы ты знала.", "I want you to know.", [(248, "Я хочу, чтобы ты знала, я люблю тебя.")], ''),

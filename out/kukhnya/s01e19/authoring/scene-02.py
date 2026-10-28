@@ -33,16 +33,16 @@ STORY = [
 ]
 
 WALK = [
-    (0, 'Сеня, соус готов?', "'Senya, is the sauce ready?' -- The speaker responds in the scene."),
-    (1, 'А я не Сеня.', "'I am not Senya.' -- The speaker responds in the scene."),
-    (2, 'Я Артем.', "'I am Artyom.' -- The speaker responds in the scene."),
-    (3, 'Сеню уволили.', "'Senya got fired.' -- The speaker responds in the scene."),
-    (4, 'Мне плевать, кто ты.', "'I do not care who you are.' -- The speaker responds in the scene."),
-    (5, 'Сегодня ты Сеня.', "'Today you are Senya.' -- The speaker responds in the scene."),
-    (6, 'Федя бы это быстро сделал.', "'Fedya would have done it fast.' -- The speaker responds in the scene."),
-    (7, 'Я тоже Федя, шеф.', "'I am Fedya too, Chef.' -- The speaker responds in the scene."),
-    (8, 'Нет, ты не Федя.', "'No, you are not Fedya.' -- The speaker responds in the scene."),
-    (9, 'Имя Федя заслужить надо.', "'You have to earn the name Fedya.' -- The speaker responds in the scene."),
-    (10, 'Теперь ты Артем.', "'Now you are Artyom.' -- The speaker responds in the scene."),
-    (11, 'Да, шеф.', "'Yes, Chef.' -- The speaker responds in the scene.")
+    (0, 'Сеня, соус готов?', "'Senya, is the sauce ready?' — Notice the proper name meaning 'Senya' paired with the noun for 'sauce'."),
+    (1, 'А я не Сеня.', "'I am not Senya.' — Notice the pronoun meaning 'I' paired with the proper name for 'Senya'."),
+    (2, 'Я Артем.', "'I am Artyom.' — Notice the pronoun meaning 'I' paired with the proper name for 'Artyom'."),
+    (3, 'Сеню уволили.', "'Senya got fired.' — Notice the proper name meaning 'Senya' paired with the verb for 'to fire, to dismiss'."),
+    (4, 'Мне плевать, кто ты.', "'I do not care who you are.' — Notice the pronoun meaning 'to me (  = I have no time)' paired with the verb for 'don't care (lit. to spit)'."),
+    (5, 'Сегодня ты Сеня.', "'Today you are Senya.' — Notice the adverb meaning 'today' paired with the pronoun for 'you'."),
+    (6, 'Федя бы это быстро сделал.', "'Fedya would have done it fast.' — Notice the proper name meaning 'Fedya' paired with the pronoun for 'this'."),
+    (7, 'Я тоже Федя, шеф.', "'I am Fedya too, Chef.' — Notice the pronoun meaning 'I' paired with the adverb for 'too'."),
+    (8, 'Нет, ты не Федя.', "'No, you are not Fedya.' — Notice the pronoun meaning 'you' paired with the proper name for 'Fedya'."),
+    (9, 'Имя Федя заслужить надо.', "'You have to earn the name Fedya.' — Notice the noun meaning 'name' paired with the proper name for 'Fedya'."),
+    (10, 'Теперь ты Артем.', "'Now you are Artyom.' — Notice the adverb meaning 'now' paired with the pronoun for 'you'."),
+    (11, 'Да, шеф.', "'Yes, Chef.' — Built around the key proper name meaning 'chef, boss'.")
 ]

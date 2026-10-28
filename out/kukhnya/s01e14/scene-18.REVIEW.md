@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, let's work faster.' -- The speaker makes the statement.
-- 'We still have three dishes.' -- The speaker makes the statement.
-- 'We will do everything now.' -- The speaker makes the statement.
-- 'Well, why are you standing?' -- The speaker makes the statement.
-- 'The chef said to work faster.' -- The speaker makes the statement.
-- 'Well done, Leva.' -- The speaker makes the statement.
-- 'You are a good chef.' -- The speaker makes the statement.
-- 'Yes, well done.' -- The speaker makes the statement.
-- 'Well, are we switching on Terminator mode?' -- The speaker makes the statement.
-- 'Yes, we are switching it on.' -- The speaker makes the statement.
-- 'Then faster to work.' -- The speaker makes the statement.
-- 'The terminator is ready to cook food.' -- The speaker makes the statement.
-- 'Excellent, let's go faster.' -- The speaker makes the statement.
-- 'Everything will be ready on time.' -- The speaker makes the statement.
+- 'Guys, let's work faster.' — Notice the noun meaning 'the boys, the lads' paired with the verb for 'let's (do it)'.
+- 'We still have three dishes.' — Notice the pronoun meaning 'us' paired with the adverb for 'more, still'.
+- 'We will do everything now.' — Notice the adverb meaning 'now' paired with the pronoun for 'we'.
+- 'Well, why are you standing?' — Notice the pronoun meaning 'what?' paired with the pronoun for 'you'.
+- 'The chef said to work faster.' — Notice the proper name meaning 'chef, boss' paired with the verb for 'said'.
+- 'Well done, Leva.' — Notice the noun meaning 'well done, good boy' paired with the proper name for 'Lyova'.
+- 'You are a good chef.' — Notice the pronoun meaning 'you' paired with the adjective for 'good'.
+- 'Yes, well done.' — Built around the key noun meaning 'well done, good boy'.
+- 'Well, are we switching on Terminator mode?' — Notice the pronoun meaning 'what' paired with the pronoun for 'we'.
+- 'Yes, we are switching it on.' — Built around the key verb meaning 'we're switching on'.
+- 'Then faster to work.' — Notice the adverb meaning 'back then' paired with the adverb for 'faster'.
+- 'The terminator is ready to cook food.' — Notice the noun meaning 'Terminator' paired with the adjective for 'ready'.
+- 'Excellent, let's go faster.' — Notice the adverb meaning 'perfect, great' paired with the verb for 'let's (do it)'.
+- 'Everything will be ready on time.' — Notice the det meaning 'everything' paired with the verb for 'will be'.

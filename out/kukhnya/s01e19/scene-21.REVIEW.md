@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I worry.' -- The speaker makes the statement.
-- 'Do not worry so much.' -- The speaker makes the statement.
-- 'Why?' -- The speaker makes the statement.
-- 'The main thing is that we are together.' -- The speaker makes the statement.
-- 'This is the main thing.' -- The speaker makes the statement.
-- 'For some it is easier to lose everything.' -- The speaker makes the statement.
-- 'What for?' -- The speaker makes the statement.
-- 'In order to understand.' -- The speaker makes the statement.
-- 'To understand what?' -- The speaker makes the statement.
-- 'How dear it was.' -- The speaker makes the statement.
-- 'We do not need to lose.' -- The speaker makes the statement.
-- 'No need.' -- The speaker makes the statement.
+- 'I worry.' — Notice the pronoun meaning 'I' paired with the verb for 'worry'.
+- 'Do not worry so much.' — Built around the key verb meaning 'worry'.
+- 'Why?' — Built around the key adverb meaning 'why'.
+- 'The main thing is that we are together.' — Notice the adjective meaning 'important (thing)' paired with the pronoun for 'what'.
+- 'This is the main thing.' — Notice the pronoun meaning 'this' paired with the adjective for 'important (thing)'.
+- 'For some it is easier to lose everything.' — Notice the pronoun meaning 'someone, somebody' paired with the noun for 'simpler, easier'.
+- 'What for?' — Built around the key adverb meaning 'what for'.
+- 'In order to understand.' — Built around the key verb meaning 'to understand'.
+- 'To understand what?' — Notice the verb meaning 'to understand' paired with the pronoun for 'what'.
+- 'How dear it was.' — Notice the adverb meaning 'as far as' paired with the pronoun for 'this'.
+- 'We do not need to lose.' — Notice the pronoun meaning '(to) us' paired with the adverb for 'it is necessary'.
+- 'No need.' — Built around the key adverb meaning 'it is necessary'.

@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S1.13"
 SOURCE_FILE = "sources/kukhnya/s01/e13.ru.dual.srt"
 SOURCE_NOTE = "Generated scene"
 
-INTRO = "In this scene, things get interesting. Let's listen closely to their exchange in Russian first, and then walk through each line together."
+INTRO = "In this scene focused on the exposure, nagiev confronts Vika about her fake excuse and forces her to pay for the trip herself. Let's listen closely to Vika and Dmitry Nagiyev's exchange in Russian first, and then walk through each line together."
 
 STORY = [
     ("anya", "Доброе утро, Дмитрий Владимирович.", "Good morning, Dmitry Vladimirovich.", [(269, "Доброе утро, Дмитрий Владимирович.")], ""),

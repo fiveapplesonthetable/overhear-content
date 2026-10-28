@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Has anyone seen the spare key?' -- The speaker makes the statement.
-- 'We do not know.' -- The speaker makes the statement.
-- 'And we have not seen it.' -- The speaker makes the statement.
-- 'But, generally speaking...' -- The speaker makes the statement.
-- 'I am afraid I cannot help you.' -- The speaker makes the statement.
-- 'My staff lost the key.' -- The speaker makes the statement.
-- 'What a shame.' -- The speaker makes the statement.
-- 'Oh, oh, oh.' -- The speaker makes the statement.
-- 'So what are we to do?' -- The speaker makes the statement.
-- 'I have a spare key.' -- The speaker makes the statement.
-- 'I always keep a duplicate.' -- The speaker makes the statement.
-- 'Ah, there is the key.' -- The speaker makes the statement.
-- 'Found the key?' -- The speaker makes the statement.
+- 'Has anyone seen the spare key?' — Notice the pronoun meaning 'nobody' paired with the verb for 'saw, have seen'.
+- 'We do not know.' — Notice the pronoun meaning 'we' paired with the verb for '(we) know'.
+- 'And we have not seen it.' — Built around the key verb meaning 'saw'.
+- 'But, generally speaking...' — Built around the key adverb meaning 'at all'.
+- 'I am afraid I cannot help you.' — Notice the pronoun meaning 'by nothing, anything' paired with the verb for 'will be able to'.
+- 'My staff lost the key.' — Notice the det meaning 'my' paired with the noun for 'employees'.
+- 'What a shame.' — Notice the adjective meaning 'what a' paired with the noun for 'annoyance / shame'.
+- 'Oh, oh, oh.' — Notice the interjection meaning 'oh' paired with the interjection for 'oh'.
+- 'So what are we to do?' — Notice the adverb meaning 'how' paired with the pronoun for '(to) us'.
+- 'I have a spare key.' — Notice the pronoun meaning 'me' paired with the verb for 'there is (   = I have)'.
+- 'I always keep a duplicate.' — Notice the pronoun meaning 'I' paired with the adverb for 'always'.
+- 'Ah, there is the key.' — Notice the pronoun meaning 'he' paired with the noun for 'key'.
+- 'Found the key?' — Notice the verb meaning 'to turn up / be found' paired with the noun for 'key'.

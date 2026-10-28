@@ -11,7 +11,7 @@ LABELS = {"anya": "Федя", "senya": "Сеня", "louis": "Луи"}
 SOURCE_NAME = "Кухня (Kukhnya) S2.03"
 SOURCE_FILE = "sources/kukhnya/s02/e03.ru.dual.srt"
 
-INTRO = "Fedya and Senya are arguing about cooking meat in the kitchen. Senya says Fedya's meat is tough, but Fedya claims he ate boots in the navy."
+INTRO = "Fedya and Senya are arguing about cooking meat in the kitchen. Senya says Fedya's meat is tough, but Fedya claims he ate boots in the navy. Let's listen closely to their conversation in Russian first, and then walk through each line together."
 
 STORY = [
  ("senya", "Ты жарить не умеешь.", "You cannot fry.", [(58, "Жарить не умеешь.")], ''),

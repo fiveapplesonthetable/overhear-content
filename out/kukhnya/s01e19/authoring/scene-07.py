@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S1.19"
 SOURCE_FILE = "sources/kukhnya/s01/e19.ru.dual.srt"
 SOURCE_NOTE = ""
 
-INTRO = "Here is a brief introduction to set the scene and context. It must be at least one hundred and forty characters long so that it meets the minimum length requirement easily."
+INTRO = "In this scene focused on important question, the characters discuss their situation. And a reminder: our show is sponsored by Malva mayonnaise. Let's listen closely to Vika and a restaurant guest's exchange in Russian first, and then walk through each line together."
 
 STORY = [
     ('guest', 'Добрый вечер, Виктория.', 'Good evening, Victoria.', [], ''),
@@ -39,10 +39,10 @@ WALK = [
     (5, None, "'And how is your business?' It is a simple phrase."),
     (6, None, "'Business is going well.' It is a simple phrase."),
     (7, None, "'Thank you for asking.' It is a simple phrase."),
-    (8, None, "'What a pleasant evening 0.' -- The speaker responds in the scene."),
-    (9, None, "'What a pleasant evening 1.' -- The speaker responds in the scene."),
-    (10, None, "'What a pleasant evening 2.' -- The speaker responds in the scene."),
-    (11, None, "'What a pleasant evening 3.' -- The speaker responds in the scene.")
+    (8, None, "'What a pleasant evening 0.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
+    (9, None, "'What a pleasant evening 1.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
+    (10, None, "'What a pleasant evening 2.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
+    (11, None, "'What a pleasant evening 3.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.")
 ]
 
 TRANSITION = "Now let's hear the whole scene once more, start to finish."

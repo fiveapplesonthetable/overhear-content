@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S1.16"
 SOURCE_FILE = "sources/kukhnya/s01/e16.ru.dual.srt"
 SOURCE_NOTE = "Cues."
 
-INTRO = "Let us listen to the conversation. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together."
+INTRO = "In this scene focused on in search of the key, viktor Petrovich is asked to open the fridge. He pretends to need the spare key. Let's listen closely to Chef Viktor and the staff's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "This is the end of the scene."
 OUTRO = "Goodbye."
@@ -35,27 +35,27 @@ STORY = [
 
 WALK = [
     (0, None,
-     "'The inspector is here.' -- The speaker makes the statement. ENG"),
+     "'The inspector is here.' — Notice the noun meaning 'inspector' paired with the adverb for 'here'. ENG"),
     (1, None,
-     "'I know.' -- The speaker makes the statement. ENG"),
+     "'I know.' — Notice the pronoun meaning 'I' paired with the verb for '(I) know'. ENG"),
     (2, None,
-     "'He wants to check the kitchen.' -- The speaker makes the statement. ENG"),
+     "'He wants to check the kitchen.' — Notice the pronoun meaning 'he' paired with the verb for 'wants'. ENG"),
     (3, None,
-     "'Let him check.' -- The speaker makes the statement. ENG"),
+     "'Let him check.' — Built around the key verb meaning 'is testing'. ENG"),
     (4, None,
-     "'He is looking for illegals.' -- The speaker makes the statement. ENG"),
+     "'He is looking for illegals.' — Notice the pronoun meaning 'he' paired with the verb for 'looks for, seeks'. ENG"),
     (5, None,
-     "'We do not have them.' -- The speaker makes the statement. ENG"),
+     "'We do not have them.' — Notice the pronoun meaning 'us' paired with the pronoun for 'them'. ENG"),
     (6, None,
-     "'Where is Fedya?' -- The speaker makes the statement. ENG"),
+     "'Where is Fedya?' — Notice the adverb meaning 'where' paired with the proper name for 'Fedya'. ENG"),
     (7, None,
-     "'He is in the fridge.' -- The speaker makes the statement. ENG"),
+     "'He is in the fridge.' — Notice the pronoun meaning 'he' paired with the noun for 'fridge'. ENG"),
     (8, None,
-     "'Excellent.' -- The speaker makes the statement. ENG"),
+     "'Excellent.' — Built around the key adverb meaning 'perfect, great'. ENG"),
     (9, None,
-     "'Viktor Petrovich, would you be so kind.' -- The speaker makes the statement. ENG"),
+     "'Viktor Petrovich, would you be so kind.' — Notice the proper name meaning 'Viktor' paired with the proper name for 'Petrovich'. ENG"),
     (10, None,
-     "'Open the fridge, please.' -- The speaker makes the statement. ENG"),
+     "'Open the fridge, please.' — Notice the verb meaning 'open' paired with the noun for 'fridge'. ENG"),
     (11, None,
      "'I am waiting.' -- The speaker states this. ENG"),
 ]

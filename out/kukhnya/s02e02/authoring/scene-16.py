@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S2.02"
 SOURCE_FILE = "sources/kukhnya/s02/e02.ru.dual.srt"
 SOURCE_NOTE = "Scene 16"
 
-INTRO = "Nagiyev urgently asks Victoria to come with him to discuss a very important matter. Victoria is busy and annoyed by his sudden request."
+INTRO = "Nagiyev urgently asks Victoria to come with him to discuss a very important matter. Victoria is busy and annoyed by his sudden request. Let's listen closely to their conversation in Russian first, and then walk through each line together."
 
 STORY = [
     ("anja", "Вика!",

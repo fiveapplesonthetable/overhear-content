@@ -24,7 +24,7 @@ INTRO = ("Back at the agency, a lot has happened in a few minutes. "
          "answer every call, write everything down, always say Andréa is in a meeting, "
          "and never promise that she'll call back. Then she left Camille with two assistants, Hervé and Noémie, "
          "who give her the tour, and a lot of gossip with it. "
-         "Here's the story in French first. Just let it wash over you; you don't need every word.")
+         "Here's the story in French first. Don't worry about catching every word.")
 
 STORY = [
  ("lea", "Vous êtes l'assistante de Mathias Barneville?", "Are you Mathias Barneville's assistant?",

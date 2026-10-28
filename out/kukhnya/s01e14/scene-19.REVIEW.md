@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, we will figure this out.' -- The speaker makes the statement.
-- 'Everything will be fine.' -- The speaker makes the statement.
-- 'What should we do now?' -- The speaker makes the statement.
-- 'Let's go.' -- The speaker makes the statement.
-- 'Where are we going?' -- The speaker makes the statement.
-- 'We are not going anywhere.' -- The speaker makes the statement.
-- 'It means that we are starting.' -- The speaker makes the statement.
-- 'Now I understand everything.' -- The speaker makes the statement.
-- 'Then let's work.' -- The speaker makes the statement.
-- 'Yes, back to work.' -- The speaker makes the statement.
-- 'We have little time.' -- The speaker makes the statement.
-- 'We must be in time.' -- The speaker makes the statement.
-- 'Of course we will be in time.' -- The speaker makes the statement.
-- 'Then we start right now.' -- The speaker makes the statement.
+- 'Alright, we will figure this out.' — Notice the pronoun meaning 'we' paired with the verb for 'will sort this out'.
+- 'Everything will be fine.' — Notice the det meaning 'everything' paired with the verb for 'will be'.
+- 'What should we do now?' — Notice the pronoun meaning 'what' paired with the pronoun for '(to) us'.
+- 'Let's go.' — Built around the key verb meaning 'here we go, let's go'.
+- 'Where are we going?' — Notice the adverb meaning 'where to' paired with the pronoun for 'we'.
+- 'We are not going anywhere.' — Notice the pronoun meaning 'we' paired with the adverb for 'nowhere, anywhere (with motion)'.
+- 'It means that we are starting.' — Notice the pronoun meaning 'this' paired with the adverb for 'then, so'.
+- 'Now I understand everything.' — Notice the adverb meaning 'now' paired with the pronoun for 'I'.
+- 'Then let's work.' — Notice the adverb meaning 'back then' paired with the verb for 'let's (do it)'.
+- 'Yes, back to work.' — Built around the key noun meaning 'job'.
+- 'We have little time.' — Notice the pronoun meaning 'us' paired with the adverb for 'little, not enough'.
+- 'We must be in time.' — Notice the pronoun meaning 'we' paired with the adjective for 'must, should'.
+- 'Of course we will be in time.' — Notice the adverb meaning 'of course' paired with the pronoun for 'we'.
+- 'Then we start right now.' — Notice the adverb meaning 'back then' paired with the verb for 'are starting'.

@@ -15,7 +15,7 @@ INTRO = ("While Andréa and Gabriel were pretending to be lovers at the Hotel Sa
          "After giving up Augustin's film to stay with her children, Audrey still needed money urgently to pay her tax bill. "
          "So she secretly went to the Russian billionaire Kadropov's birthday party for twenty thousand euros — and the paparazzi took photos. "
          "After Andréa shows the magazines at the agency, Mathias goes straight to Audrey's flat. "
-         "Here it is in French first. Let the words wash over you and catch what you can.")
+         "Here it is in French first. Don't worry about catching every word.")
 
 STORY = [
  ("andrea", "Regardez! C'est dans tous les journaux.", "Look! It's in all the papers.",

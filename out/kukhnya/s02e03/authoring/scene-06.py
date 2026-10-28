@@ -11,7 +11,7 @@ LABELS = {"anya": "Виктор", "senya": "Сеня", "fedya": "Федя"}
 SOURCE_NAME = "Кухня (Kukhnya) S2.03"
 SOURCE_FILE = "sources/kukhnya/s02/e03.ru.dual.srt"
 
-INTRO = ("Fedya is doing a strange experiment in the kitchen. He is trying to cook and eat a leather belt. Senya thinks he is crazy. Let's listen.")
+INTRO = ("Fedya is doing a strange experiment in the kitchen. He is trying to cook and eat a leather belt. Senya thinks he is crazy. Let's listen. Let's listen closely to their conversation in Russian first, and then walk through each line together.")
 
 STORY = [
  ("fedya", "Смотри, это кожаный ремень.", "Look, this is a leather belt.", [], ""),
@@ -31,18 +31,18 @@ STORY = [
 
 OPENER = "Let's review the conversation line by line."
 WALK = [
- (0, None, "'Look, this is a leather belt.' It is clear what this means. This is an important detail."),
- (1, None, "'Why do you have it in the kitchen?' It is clear what this means. This is an important detail."),
- (2, None, "'I am going to eat it.' It is clear what this means. This is an important detail."),
- (3, None, "'Is it a leather belt?' It is clear what this means. This is an important detail."),
- (4, None, "'It is very long.' It is clear what this means. This is an important detail."),
- (5, None, "'I am a chef.' It is clear what this means. This is an important detail."),
- (6, None, "'I will cook it and eat it.' It is clear what this means. This is an important detail."),
- (7, None, "'Nobody eats belts.' It is clear what this means. This is an important detail."),
- (8, None, "'But I will.' It is clear what this means. This is an important detail."),
- (9, None, "'All right, cook it.' It is clear what this means. This is an important detail."),
- (10, None, "'I will watch this.' It is clear what this means. This is an important detail."),
- (11, None, "'It will be very delicious.' It is clear what this means. This is an important detail."),
+ (0, None, "'Look, this is a leather belt.' — Notice the verb meaning 'look' paired with the pronoun for 'this'."),
+ (1, None, "'Why do you have it in the kitchen?' — Notice the adverb meaning 'what for' paired with the pronoun for 'he'."),
+ (2, None, "'I am going to eat it.' — Notice the pronoun meaning 'I' paired with the verb for 'will be (there)'."),
+ (3, None, "'Is it a leather belt?' — Notice the pronoun meaning 'this' paired with the noun for 'leather'."),
+ (4, None, "'It is very long.' — Notice the pronoun meaning 'he' paired with the adverb for 'very much'."),
+ (5, None, "'I am a chef.' — Notice the pronoun meaning 'I' paired with the noun for 'chef, cook'."),
+ (6, None, "'I will cook it and eat it.' — Notice the pronoun meaning 'I' paired with the verb for 'will prepare'."),
+ (7, None, "'Nobody eats belts.' — Notice the pronoun meaning 'nobody' paired with the verb for 'to eat'."),
+ (8, None, "'But I will.' — Notice the pronoun meaning 'I' paired with the verb for 'will be (there)'."),
+ (9, None, "'All right, cook it.' — Notice the adverb meaning 'good, fine' paired with the verb for 'prepare'."),
+ (10, None, "'I will watch this.' — Notice the pronoun meaning 'I' paired with the verb for '(I'll) have a look'."),
+ (11, None, "'It will be very delicious.' — Notice the pronoun meaning 'this' paired with the verb for 'will be'."),
 ]
 TRANSITION = "Let's hear it again."
 OUTRO = "That was an interesting scene. See you in the next one."

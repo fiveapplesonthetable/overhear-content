@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S1.14"
 SOURCE_FILE = "sources/kukhnya/s01/e14.ru.dual.srt"
 SOURCE_NOTE = "Cues 1-3. Morning with Max and Vika."
 
-INTRO = "Max wakes up in Vika's apartment and tries to be playful, but Vika is focused on her day. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together."
+INTRO = "Max wakes up in Vika's apartment and tries to be playful, but Vika is focused on her day. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 
 STORY = [
     ("anya", "Вика, ты уже проснулась сегодня?",

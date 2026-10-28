@@ -20,8 +20,7 @@ SOURCE_NOTE = ("Cues 340-374. Nathalie is the viewpoint character (lea). In the 
 INTRO = ("While Colette Brancillon settles in to audit the agency's accounts, Nathalie Baye and her daughter Laura "
          "Smet arrive together at ASK and step into the lift. Both have read Solveig Akerfelt's script, and while "
          "they are face to face they pretend to be delighted. Yet the moment they step out of the lift, each "
-         "actress pulls her own agent aside for a private word in his office. Listen to the French first and let "
-         "the rhythm of the conversation wash over you.")
+         "actress pulls her own agent aside for a private word in his office.Don't worry about catching every word.")
 
 STORY = [
  ("lea", "C'est un super scénario, non?", "It's a great script, isn't it?",

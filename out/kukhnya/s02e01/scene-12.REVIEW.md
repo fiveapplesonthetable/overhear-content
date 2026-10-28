@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Maybe if something happened to you.' ENG: The last word means happened.
 - 'When I was a kid, I had a dog.' ENG: The first phrase means in childhood, and the last word is another word for dog.
-- 'Ralph. And one day he bit me really badly.' -- The speaker responds in the scene.
+- 'Ralph. And one day he bit me really badly.' — Notice the proper name meaning 'Ralph' paired with the pronoun for 'he'.
 - 'I was mad at him for a long time.' ENG: The verb means took offense or was angry.
 - 'Then a car hit him.' ENG: The verb means hit or knocked down, often used for vehicle accidents.
 - 'Too bad he didn't appreciate it.' ENG: The first word means it is a pity, and the verb means appreciated.

@@ -24,7 +24,7 @@ LABELS = {
     "eduard": "Эдуард",
 }
 
-INTRO = "In the municipal culture department, Eduard Valentinovich welcomes Marina and invites her to share new professional ideas."
+INTRO = "In the municipal culture department office, Eduard Valentinovich warmly welcomes Marina to her new job and invites her to share her professional ideas."
 
 STORY = [
     ("eduard", "Наше знакомство началось как-то неправильно.",

@@ -16,7 +16,7 @@ INTRO = ("Upstairs, Andréa has just found out that Camille never posted the let
          "Meanwhile, down in reception, Gabriel's client Laura Smet is waiting for him. She is an actress, and she "
          "passes the time rehearsing a famous speech from Chekhov's play The Seagull. Then her mother walks in: "
          "Nathalie Baye, a great actress herself, and also a client of the agency. "
-         "We'll hear it in French first; let it wash over you.")
+         "We'll hear it in French first. Don't worry about catching every word.")
 
 STORY = [
  ("lea", "Je suis la mouette.", "I am the seagull.",

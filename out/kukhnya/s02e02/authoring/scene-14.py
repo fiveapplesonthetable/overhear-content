@@ -11,7 +11,7 @@ LABELS = {"anya": "Саша", "kristina": "Кристина", "waiter": "Офи�
 SOURCE_NAME = "Кухня (Kukhnya) S2.02"
 SOURCE_FILE = "sources/kukhnya/s02/e02.ru.dual.srt"
 
-INTRO = "Kristina and Sasha chat in the dining room. Sasha asks about the new chef and Kristina says she's going to the doctor. Let us listen to the conversation in Russian first."
+INTRO = "In this scene focused on friends' conversation, kristina and Sasha chat in the dining room. Sasha asks about the new chef and Kristina says she's going to the doctor. Let's listen closely to Sasha and Kristina's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "Now let us listen to the conversation once again."
 OUTRO = "The conversation concludes the matter at hand."

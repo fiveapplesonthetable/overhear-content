@@ -26,7 +26,7 @@ LABELS = {
     "nina": "Нина",
 }
 
-INTRO = "Samsonov and Ilona continue their awkward romantic act at the restaurant table until an enraged Nina storms in to confront them both."
+INTRO = "Samsonov and Ilona continue their awkward romantic act at the restaurant table until an enraged Nina storms into the dining room to confront them both in front of the cameras."
 
 STORY = [
     ("ilona", "Почему именно блинчики?",

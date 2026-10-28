@@ -11,7 +11,7 @@ LABELS = {"anya": "Вика", "kristina": "Кристина"}
 SOURCE_NAME = "Кухня (Kukhnya) S2.02"
 SOURCE_FILE = "sources/kukhnya/s02/e02.ru.dual.srt"
 
-INTRO = "Kristina Semyonovna calls Vika for a private conversation and tells her that the restaurant needs fresh ideas and new people. Let us listen to the conversation in Russian first."
+INTRO = "In this scene centered on new blood, Vika and Kristina navigate a tense moment in the restaurant. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "Now let us listen to the conversation once again."
 OUTRO = "The conversation concludes the matter at hand."

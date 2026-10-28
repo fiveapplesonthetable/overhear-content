@@ -33,16 +33,16 @@ STORY = [
 ]
 
 WALK = [
-    (0, 'Что ты здесь делаешь?', "'What are you doing here?' -- The speaker responds in the scene."),
-    (1, 'Что не на работе?', "'Why aren't you at work?' -- The speaker responds in the scene."),
-    (2, 'Опять допрос.', "'Another interrogation.' -- The speaker responds in the scene."),
-    (3, 'Вы сговорились что ли?', "'Did you plan this or something?' -- The speaker responds in the scene."),
-    (4, 'Я сегодня во вторую смену.', "'I am on the second shift today.' -- The speaker responds in the scene."),
-    (5, 'Отлично. Я с тобой поеду.', "'Great. I will go with you.' -- The speaker responds in the scene."),
-    (6, 'Может ты забыл,', "'Maybe you forgot,' -- The speaker responds in the scene."),
-    (7, 'Да, я помню.', "'Yeah, I remember.' -- The speaker responds in the scene."),
-    (8, 'Меня уволили.', "'I got fired.' -- The speaker responds in the scene."),
-    (9, 'А что ты не у Вики остался?', "'Why didn't you stay at Vika's?' -- The speaker responds in the scene."),
-    (10, 'Она меня не пустила.', "'She wouldn't let me in.' -- The speaker responds in the scene."),
-    (11, 'Она все усложнять начала.', "'She started making everything complicated.' -- The speaker responds in the scene.")
+    (0, 'Что ты здесь делаешь?', "'What are you doing here?' — Notice the pronoun meaning 'what' paired with the pronoun for 'you'."),
+    (1, 'Что не на работе?', "'Why aren't you at work?' — Notice the pronoun meaning 'what' paired with the noun for 'work'."),
+    (2, 'Опять допрос.', "'Another interrogation.' — Notice the adverb meaning 'again' paired with the noun for 'interrogation'."),
+    (3, 'Вы сговорились что ли?', "'Did you plan this or something?' — Notice the pronoun meaning 'you' paired with the verb for 'conspired'."),
+    (4, 'Я сегодня во вторую смену.', "'I am on the second shift today.' — Notice the pronoun meaning 'I' paired with the adverb for 'today'."),
+    (5, 'Отлично. Я с тобой поеду.', "'Great. I will go with you.' — Notice the adverb meaning 'perfect, great' paired with the pronoun for 'I'."),
+    (6, 'Может ты забыл,', "'Maybe you forgot,' — Notice the verb meaning 'can' paired with the pronoun for 'you'."),
+    (7, 'Да, я помню.', "'Yeah, I remember.' — Notice the pronoun meaning 'I' paired with the verb for 'remember'."),
+    (8, 'Меня уволили.', "'I got fired.' — Notice the pronoun meaning 'me' paired with the verb for 'to fire, to dismiss'."),
+    (9, 'А что ты не у Вики остался?', "'Why didn't you stay at Vika's?' — Notice the pronoun meaning 'what' paired with the pronoun for 'you'."),
+    (10, 'Она меня не пустила.', "'She wouldn't let me in.' — Notice the pronoun meaning 'it (the pipe)' paired with the pronoun for 'me'."),
+    (11, 'Она все усложнять начала.', "'She started making everything complicated.' — Notice the pronoun meaning 'it (the pipe)' paired with the det for 'all'.")
 ]

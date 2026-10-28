@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S1.14"
 SOURCE_FILE = "sources/kukhnya/s01/e14.ru.dual.srt"
 SOURCE_NOTE = "Scene 14"
 
-INTRO = "In the kitchen, Kostya tells Lyova about a problem with a customer's dessert. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together."
+INTRO = "In the kitchen, Kostya tells Lyova about a problem with a customer's dessert. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 
 STORY = [
     ("anya", "Я никому не нужен.",

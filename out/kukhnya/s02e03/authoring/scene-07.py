@@ -31,18 +31,18 @@ STORY = [
 
 OPENER = "Let's review the conversation line by line."
 WALK = [
- (0, None, "'What happened?' It is clear what this means. This is an important detail."),
- (1, None, "'You're one to talk about cripples.' It is clear what this means. This is an important detail."),
- (2, None, "'I am on sick leave.' It is clear what this means. This is an important detail."),
- (3, None, "'I am not here.' It is clear what this means. This is an important detail."),
- (4, None, "'Are you fumigating cockroaches?' It is clear what this means. This is an important detail."),
- (5, None, "'There is a stink in the dining room.' It is clear what this means. This is an important detail."),
- (6, None, "'It is Fedya making breakfast.' It is clear what this means. This is an important detail."),
- (7, None, "'He is boiling a belt.' It is clear what this means. This is an important detail."),
- (8, None, "'Why is he boiling a belt?' It is clear what this means. This is an important detail."),
- (9, None, "'He made a bet for money.' It is clear what this means. This is an important detail."),
- (10, None, "'You are like children.' It is clear what this means. This is an important detail."),
- (11, None, "'Go to work!' It is clear what this means. This is an important detail."),
+ (0, None, "'What happened?' — Notice the pronoun meaning 'what' paired with the verb for 'happened'."),
+ (1, None, "'You're one to talk about cripples.' — Notice the pronoun meaning 'who' paired with the verb for 'said, were saying'."),
+ (2, None, "'I am on sick leave.' — Notice the pronoun meaning 'I' paired with the noun for 'sick leave'."),
+ (3, None, "'I am not here.' — Built around the key pronoun meaning 'me'."),
+ (4, None, "'Are you fumigating cockroaches?' — Notice the pronoun meaning 'you' paired with the verb for 'to torment (soul), poison'."),
+ (5, None, "'There is a stink in the dining room.' — Notice the noun meaning 'hall' paired with the verb for 'is parked (stands)'."),
+ (6, None, "'It is Fedya making breakfast.' — Notice the pronoun meaning 'this' paired with the proper name for 'Fedya'."),
+ (7, None, "'He is boiling a belt.' — Notice the pronoun meaning 'he' paired with the verb for 'is cooking'."),
+ (8, None, "'Why is he boiling a belt?' — Notice the adverb meaning 'what for' paired with the pronoun for 'he'."),
+ (9, None, "'He made a bet for money.' — Notice the pronoun meaning 'he' paired with the verb for 'to make a bet, argue, wager'."),
+ (10, None, "'You are like children.' — Notice the pronoun meaning 'you' paired with the adverb for 'how'."),
+ (11, None, "'Go to work!' — Notice the verb meaning 'come' paired with the verb for 'to work'."),
 ]
 TRANSITION = "Let's hear it again."
 OUTRO = "That was an interesting scene. See you in the next one."

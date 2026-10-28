@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, my friend.' -- The speaker makes the statement.
-- 'Hi.' -- The speaker makes the statement.
-- 'I want to move to your place.' -- The speaker makes the statement.
-- 'Do you have nowhere to live?' -- The speaker makes the statement.
-- 'No, I have a million options.' -- The speaker makes the statement.
-- 'Kostya is calling me back.' -- The speaker makes the statement.
-- 'Leva is also inviting me to live.' -- The speaker makes the statement.
-- 'But I am ready to live with you.' -- The speaker makes the statement.
-- 'What do you want to say?' -- The speaker makes the statement.
-- 'I want to live with you.' -- The speaker makes the statement.
-- 'I do not want to be without you.' -- The speaker makes the statement.
-- 'That is very pleasant to hear.' -- The speaker makes the statement.
-- 'Really?' -- The speaker makes the statement.
-- 'Yes, I believe you.' -- The speaker makes the statement.
+- 'Hi, my friend.' — Notice the interjection meaning 'hi' paired with the proper name for 'Max'.
+- 'Hi.' — Built around the key interjection meaning 'hi'.
+- 'I want to move to your place.' — Notice the pronoun meaning 'I' paired with the verb for 'want'.
+- 'Do you have nowhere to live?' — Notice the pronoun meaning 'for you, to you' paired with the adverb for 'nowhere'.
+- 'No, I have a million options.' — Notice the pronoun meaning 'me' paired with the noun for 'a million'.
+- 'Kostya is calling me back.' — Notice the proper name meaning 'Kostya' paired with the verb for 'calls'.
+- 'Leva is also inviting me to live.' — Notice the proper name meaning 'Lyova' paired with the adverb for 'too'.
+- 'But I am ready to live with you.' — Notice the pronoun meaning 'I' paired with the adjective for 'ready'.
+- 'What do you want to say?' — Notice the pronoun meaning 'what' paired with the pronoun for 'you'.
+- 'I want to live with you.' — Notice the pronoun meaning 'I' paired with the verb for 'want'.
+- 'I do not want to be without you.' — Notice the pronoun meaning 'I' paired with the verb for 'want'.
+- 'That is very pleasant to hear.' — Notice the pronoun meaning 'this' paired with the adverb for 'very much'.
+- 'Really?' — Built around the key noun meaning 'honestly'.
+- 'Yes, I believe you.' — Notice the pronoun meaning 'I' paired with the pronoun for 'for you, to you'.

@@ -17,7 +17,7 @@ INTRO = ("Back in the corridors of the agency, a storm is coming. "
          "This morning Camille also asked Mathias, the cold, ambitious agent, to help her find work, and he said no. "
          "What nobody here knows is that Mathias is her father. Now he walks down the corridor and finds her, "
          "at work, in his own agency. Later, his assistant Noémie, who has seen them argue, has a word with Camille. "
-         "First the whole scene in French; just let it wash over you.")
+         "First the whole scene in French. Don't worry about catching every word.")
 
 STORY = [
  ("mathias", "Qu'est-ce que tu fais là?", "What are you doing here?",

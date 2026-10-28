@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S1.14"
 SOURCE_FILE = "sources/kukhnya/s01/e14.ru.dual.srt"
 SOURCE_NOTE = "Cues 309-312"
 
-INTRO = "Nastya and Kostya watch from the bar. They discuss Max and Victoria. We'll hear it in Russian first; don't worry about catching every word."
+INTRO = "Nastya and Kostya watch from the bar. They discuss Max and Victoria. We'll hear it in Russian first; don't worry about catching every word. Let's listen closely to their conversation in Russian first, and then walk through each line together."
 
 STORY = [
  ("kostya", "Максим молодец.", "Maxim did great.", [(309, "Максим молодец")], ""),

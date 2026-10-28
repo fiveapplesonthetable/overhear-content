@@ -11,7 +11,7 @@ SOURCE_FILE = "sources/dix-pour-cent/s04/e06.fr.dual.srt"
 VOICES = {'narrator': 'sky', 'lea': 'lucie', 'mathias': 'theo'}
 LABELS = {'lea': 'Andrea', 'mathias': 'Mathias'}
 
-INTRO = "Andrea discusses a movie budget problem with Mathias. We will hear it in French first, don't worry about catching every word."
+INTRO = "In the agency office, Andréa urgently discusses a major movie budget problem with Mathias and asks for his help. We will hear it in French first, so don't worry about catching every word."
 OPENER = "Let's go back through it. Mathias greets Andrea."
 TRANSITION = "Let's listen to the whole scene again."
 OUTRO = 'Andrea realizes the budget problem is serious.'

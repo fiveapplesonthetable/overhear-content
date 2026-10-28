@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I feel good with you.' It is clear what this means. This is an important detail.
-- 'I feel good too.' It is clear what this means. This is an important detail.
-- 'Especially when you are without clothes.' It is clear what this means. This is an important detail.
-- 'You are very funny.' It is clear what this means. This is an important detail.
-- 'I am serious.' It is clear what this means. This is an important detail.
-- 'I know.' It is clear what this means. This is an important detail.
-- 'Should I call you a taxi?' It is clear what this means. This is an important detail.
-- 'Why?' It is clear what this means. This is an important detail.
-- 'You are without a car today.' It is clear what this means. This is an important detail.
-- 'How will you get home?' It is clear what this means. This is an important detail.
-- 'I will go by subway.' It is clear what this means. This is an important detail.
-- 'The subway is already closed.' It is clear what this means. This is an important detail.
+- 'I feel good with you.' — Notice the adverb meaning 'good, fine' paired with the pronoun for 'you'.
+- 'I feel good too.' — Notice the pronoun meaning 'to me (  = I have no time)' paired with the adverb for 'too'.
+- 'Especially when you are without clothes.' — Notice the adverb meaning 'especially' paired with the adverb for 'when'.
+- 'You are very funny.' — Notice the pronoun meaning 'you' paired with the adverb for 'very much'.
+- 'I am serious.' — Notice the pronoun meaning 'I' paired with the noun for 'seriously'.
+- 'I know.' — Notice the pronoun meaning 'I' paired with the verb for '(I) know'.
+- 'Should I call you a taxi?' — Notice the pronoun meaning 'for you, to you' paired with the verb for 'to call, to summon'.
+- 'Why?' — Built around the key adverb meaning 'what for'.
+- 'You are without a car today.' — Notice the pronoun meaning 'you' paired with the adverb for 'today'.
+- 'How will you get home?' — Notice the adverb meaning 'how' paired with the pronoun for 'you'.
+- 'I will go by subway.' — Notice the pronoun meaning 'I' paired with the verb for 'will go'.
+- 'The subway is already closed.' — Notice the noun meaning 'metro' paired with the adverb for 'already, now'.

@@ -11,7 +11,7 @@ LABELS = {"lea": "Andrea", "camille": "Camille", "gabriel": "Gabriel"}
 SOURCE_NAME = "Dix pour cent (Call My Agent!) S04E06"
 SOURCE_FILE = "sources/dix-pour-cent/s04/e06.fr.dual.srt"
 
-INTRO = "The agents gather one last time in the office to drink champagne and say goodbye. They discuss their plans for the future."
+INTRO = "The agents gather one last time in the empty ASK office to drink champagne, reflect on their journey together, and say goodbye as they discuss their plans for the future."
 OPENER = "Let's walk through it together."
 TRANSITION = "Now listen to the whole scene again."
 OUTRO = "They raise their glasses one last time, and turn off the lights."

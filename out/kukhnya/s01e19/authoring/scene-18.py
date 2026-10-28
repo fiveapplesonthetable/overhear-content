@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S1.19"
 SOURCE_FILE = "sources/kukhnya/s01/e19.ru.dual.srt"
 SOURCE_NOTE = "Cues."
 
-INTRO = "Let us listen to the conversation. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together."
+INTRO = "In this scene focused on the confession, max tells Vika that he does not want an open relationship. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "This is the end of the scene."
 OUTRO = "Goodbye."
@@ -35,16 +35,16 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'Vika.' -- The speaker makes the statement."),
-    (1, None, "'What?' -- The speaker makes the statement."),
-    (2, None, "'I thought about us.' -- The speaker makes the statement."),
-    (3, None, "'And what?' -- The speaker makes the statement."),
-    (4, None, "'I do not want an open relationship.' -- The speaker makes the statement."),
-    (5, None, "'Really?' -- The speaker makes the statement."),
-    (6, None, "'Yes.' -- The speaker makes the statement."),
-    (7, None, "'I also do not want it.' -- The speaker makes the statement."),
-    (8, None, "'I like you.' -- The speaker makes the statement."),
-    (9, None, "'I like you too.' -- The speaker makes the statement."),
-    (10, None, "'Would you be my girlfriend?' -- The speaker makes the statement."),
-    (11, None, "'Does...' -- The speaker makes the statement."),
+    (0, None, "'Vika.' — Built around the key proper name meaning 'Vika'."),
+    (1, None, "'What?' — Built around the key pronoun meaning 'what'."),
+    (2, None, "'I thought about us.' — Notice the pronoun meaning 'I' paired with the verb for 'thought'."),
+    (3, None, "'And what?' — Built around the key pronoun meaning 'what'."),
+    (4, None, "'I do not want an open relationship.' — Notice the pronoun meaning 'I' paired with the verb for 'want'."),
+    (5, None, "'Really?' — Built around the key noun meaning 'honestly'."),
+    (6, None, "'Yes.' — Built around the key particle meaning 'yes (  = really?)'."),
+    (7, None, "'I also do not want it.' — Notice the pronoun meaning 'I' paired with the adverb for 'too'."),
+    (8, None, "'I like you.' — Notice the pronoun meaning 'you' paired with the pronoun for 'to me (  = I have no time)'."),
+    (9, None, "'I like you too.' — Notice the pronoun meaning 'you' paired with the pronoun for 'to me (  = I have no time)'."),
+    (10, None, "'Would you be my girlfriend?' — Notice the pronoun meaning 'you' paired with the verb for 'be'."),
+    (11, None, "'Does...' — Built around the key pronoun meaning 'this'."),
 ]
