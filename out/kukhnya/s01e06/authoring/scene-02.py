@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "At the Claude Monet kitchen pass, Chef Viktor Barinov inspects a hot dish before it leaves for the dining room. He teaches young cook Max how the final touch of fresh herbs elevates a plate into an appetizing masterpiece. Let's listen to their exchange in Russian first."
-OPENER = "Now let's examine Barinov and Max's kitchen instructions line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+INTRO = "Back in the kitchen, Barinov is at the pass, the shelf where finished plates wait for the waiters. He is checking one dish, and he wants to show Max the last step. It's in Russian first, so don't worry about catching every word."
+OPENER = "Let's go through the plate. Barinov inspects it, and Max asks careful questions."
+TRANSITION = 'And the whole inspection once more.'
+OUTRO = "Barinov's last step is herbs, and yours is to remember a few kitchen words: plate, dish, herbs, hot. They'll come back. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Огузок, посмотри на эту тарелку.', 'Oguzok, look at this plate.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Отлично, продолжаем работать дальше.', 'Great, we continue working further.', [], ''),
 ]
 WALK = [
-    (0, None, "'Oguzok, look at this plate.' Calling out across the pass, Barinov commands his trainee to closely inspect the dish."),
-    (1, None, "'Chef, is this dish already ready?' Max asks if the hot plate is fully finished and ready to serve."),
-    (2, None, "'The main thing remains: to garnish it with herbs.' Firmly, Barinov insists that the presentation is incomplete without the final green touch."),
-    (3, None, "'Every detail has important meaning.' Hoping to impress, Max tries to show he understands the high culinary standards."),
-    (4, None, "'Food is obliged to look beautiful and appetizing.' Barinov preaches about the absolute necessity of visual appeal in high-end dining."),
-    (5, None, "'Shall we put fresh herbs here?' Holding a sprig, Max tentatively asks for guidance on placing the garnish."),
-    (6, None, "'Carefully! Do not ruin the expensive presentation.' Loudly, Barinov barks a warning not to mess up the delicate arrangement."),
-    (7, None, "'I do everything very carefully, chef.' Max nervously defends his careful handling of the delicate ingredients."),
-    (8, None, "'Beautiful presentation is very important for guests.' He reiterates his philosophy, Barinov states that visual aesthetics make a huge difference."),
-    (9, None, "'The waiters are already waiting in the kitchen.' Glancing backward, Max points out that the service staff is hovering and ready to carry the food."),
-    (10, None, "'Call the waiter, let them carry the order.' Barinov gives the green light to dispatch the meal to the customer."),
-    (11, None, "'Sasha, take the ready hot dish!' Max calls out to the waitress to grab the plate while it is still steaming."),
-    (12, None, "'Great, we continue working further.' Immediately pivoting, Barinov focuses the kitchen on the next ticket."),
+    (0, None, "'Oguzok, look at this plate.' The nickname comes first, as it often does. 'This plate' has an 'u' ending because the plate is what's being looked at."),
+    (1, None, "'Chef, is this dish already ready?' There is no word for 'is' or 'do': the voice goes up and that's the question. 'Ready' ends in 'o' to match 'dish'."),
+    (2, None, "'The main thing remains: to garnish it with herbs.' 'Remains' is in a neutral form with no person in it, like 'what's left'. 'Garnish' is related to 'beautiful', and 'with herbs' ends in 'yu', which is Russian's 'with'."),
+    (3, None, "'Every detail has important meaning.' 'Detail' is the French word, with a soft ending. 'Has meaning' is the usual way to say 'matters'."),
+    (4, None, "'Food is obliged to look beautiful and appetizing.' 'Obliged' ends in 'a' because 'food' is a she-word. The two ways of saying 'beautifully' and 'appetizingly' both end in 'o'."),
+    (5, None, "'Shall we put fresh herbs here?' 'Let's put' is the form that sounds like 'shall we'. 'Herbs' is a word for greens, and it comes from 'green'."),
+    (6, None, "'Carefully! Do not ruin the expensive presentation.' One word is enough for 'careful!'. 'expensive' also means 'dear', so a good presentation is a precious one."),
+    (7, None, "'I do everything very carefully, chef.' 'I do' ends in 'yu', and 'everything' is a short, handy word. Max repeats the word 'carefully' to show he heard."),
+    (8, None, "'Beautiful presentation is very important for guests.' 'Important' ends in 'a' to match 'presentation'. 'For guests' needs a changed ending on 'guests'."),
+    (9, None, "'The waiters are already waiting in the kitchen.' 'Waiting' ends in 'ut', the 'they' ending again. 'Already' comes right before it."),
+    (10, None, "'Call the waiter, let them carry the order.' 'Let them' is a single little word. 'carry' has the same 'ut' ending."),
+    (11, None, "'Sasha, take the ready hot dish!' 'Take' starts with 'za' and means 'pick up'. 'Ready' and 'hot' both end in 'oe' to agree with 'dish'."),
+    (12, None, "'Great, we continue working further.' 'We continue' ends in 'em', which is the 'we' ending. 'Further' is a short word meaning 'on'."),
 ]

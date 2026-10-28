@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "While cleaning out the darkest corner behind the kitchen storage shelves, Max and Kostya discover an old blue plastic bag. Unaware that it contains Chef's prized luxury truffles, they examine the strange lumpy objects and assume they are rotten potatoes. Let's listen to their conversation in Russian first."
-OPENER = "Let's review this fateful kitchen misunderstanding line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Unwittingly tossing away Chef Barinov's expensive truffles, Kostya heads outside to the garbage bin. See you next time!"
+INTRO = "Cleaning the back of the storeroom, Max and Kostya find an old plastic bag full of something black and knobbly. They agree it's rotten potatoes. It's in Russian first, and there is a joke in it that the chef would not enjoy."
+OPENER = "Let's go slowly. Max and Kostya sound like friends who have been cleaning for hours, which they have."
+TRANSITION = 'And the whole discovery again.'
+OUTRO = "Remember the Russian for 'rotten' and 'rubbish bin', because the chef will want them later. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('kostya', 'Макс, посмотри, что это такое лежит?', 'Max, look, what is that lying there?', [(79, 'Что это такое')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Отлично, нам ещё много мыть сегодня.', 'Great, we still have a lot to wash today.', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, look, what is that lying there?' Noticing something weird in a dark corner, Kostya points it out."),
-    (1, None, "'It looks like some rotten potato.' Max misidentifies the priceless truffles as decaying tubers."),
-    (2, None, "'It looks very strange and dirty.' He is grossed out by the lumpy items, Kostya wrinkles his nose."),
-    (3, None, "'Let's just throw out this old bag.' Max decides the best course of action is to toss the mysterious garbage."),
-    (4, None, "'Or maybe we will sell it online?' Joking around, Kostya suggests fencing the weird items on the web."),
-    (5, None, "'Who needs rotten and black potatoes?' Max laughs at the absurdity of anyone paying for rotten produce."),
-    (6, None, "'People on the internet buy absolutely everything!' Kostya argues that web buyers have famously low standards."),
-    (7, None, "'Kostyan, do not be silly, drop these jokes.' Max tells his friend to stop messing around and focus on cleaning."),
-    (8, None, "'Okay, I will take it to the dumpster.' Grabbing the bag of luxury ingredients, Kostya fully intends to trash them."),
-    (9, None, "'Take it quickly to the garbage bin outside.' Max directs him to get the foul-looking bag out of the kitchen quickly."),
-    (10, None, "'I will return quickly now and we will continue cleaning.' Kostya promises a swift trip to the alley before resuming their chores."),
-    (11, None, "'Great, we still have a lot to wash today.' Max acknowledges the mountain of deep cleaning still awaiting them."),
+    (0, None, "'Max, look, what is that lying there?' Russian says things 'lie', so a bag 'lies' on a shelf. 'What is that' has a small extra word in the middle that makes it 'what is that thing'."),
+    (1, None, "'It looks like some rotten potato.' 'It seems' is 'looks like'. 'Some kind of' is 'which' with the little 'to' at the end."),
+    (2, None, "'It looks very strange and dirty.' Potato is a she-word in Russian, so the line says 'she'. 'Strange' and 'dirty' both end in 'o'."),
+    (3, None, "'Let's just throw out this old bag.' 'Throw out' starts with 'vy', which means 'out'. 'Old' ends in 'y'."),
+    (4, None, "'Or maybe we will sell it online?' 'We will sell' is a one-word future. 'Through the internet' uses 'through' to mean 'online'."),
+    (5, None, "'Who needs rotten and black potatoes?' 'To whom needed' is how you say 'who needs'. 'Rotten' and 'black' agree with 'potato', as it's a she-word."),
+    (6, None, "'People on the internet buy absolutely everything!' 'On the internet' puts an 'e' on the end. 'Absolutely everything' is two words, and they sound as emphatic as they look."),
+    (7, None, "'Kostyan, don't be dense, drop these jokes.' 'Kostyan' is the casual form of Kostya's name. 'Don't be dense' is slang, and 'drop' is the command 'throw'."),
+    (8, None, "'Okay, I will take it to the dump.' 'Carry away' starts with 'ot', which means 'off'. 'dump' is informal."),
+    (9, None, "'Take it quickly to the garbage bin outside.' 'Garbage' is built from 'rubbish'. 'Outside' is literally 'onto the street'."),
+    (10, None, "'I'll be back quickly and we will carry on cleaning.' 'I'll return' ends in 'sya'. 'Cleaning' comes from the same word as 'clean up'."),
+    (11, None, "'Great, we still have a lot to wash today.' 'To us still much to wash' is the way Russian says 'we have a lot to wash'. 'Today' is pronounced with a 'v'."),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'louis': 'Луи'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "Waitress Sasha reports that the health inspector strictly turned down the complimentary wine. Refusing to give up, Chef Barinov decides that if the inspector will not drink alcohol, he will eat it. Barinov orders pastry chef Louis and the kitchen team to spike every course with cognac and wine. Let's listen to their conspiracy in Russian first."
-OPENER = "Let's analyze Barinov's culinary trickery line by line. Notice how the kitchen staff collaborates under pressure to execute an unconventional and risky plan."
-TRANSITION = "Now let's listen to the conversation again without interruption."
-OUTRO = "Barinov sets his secret menu in motion, confident the boozy dishes will charm the stubborn inspector. Terrific job following this lively culinary adventure! Next time you watch the episode, listen for the Russian expressions for 'alcohol' and 'dish' — you will catch every word right away. See you next time!"
+INTRO = "Sasha has failed: the inspector refused the free wine. Barinov isn't giving up. If the man won't drink it, he'll eat it, and he gives orders to his pastry chef, Louis, to put alcohol into every course. It's in Russian first."
+OPENER = "Let's go back through the scheme. Barinov is pleased with himself, and Louis is horrified."
+TRANSITION = 'And the whole scheme once more.'
+OUTRO = "Look at 'give drink' and 'give food' once more, since the two words sound alike and mean what they say. It's a neat pair to remember. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Этот инспектор отказался пить наше вино!', 'This inspector refused to drink our wine!', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Зато наш ресторан будет спасён, работай!', 'At least our restaurant will be saved, work!', [(236, 'Папочка будет готовить')], ''),
 ]
 WALK = [
-    (0, None, "'This inspector refused to drink our wine!' Outraged that his brilliant tactic failed, Barinov curses the complimentary booze."),
-    (1, None, "'Chef, what are we to do now?' Louis asks for guidance as their primary method of bribery is off the table."),
-    (2, None, "'Since we cannot give him drink, we will feed him!' Declaring a devious alternative, Barinov decides to intoxicate the stubborn official with food."),
-    (3, None, "'Do you want to add alcohol to food?' Realizing the plot, Louis confirms the chef plans to sneak liquor into the actual dishes."),
-    (4, None, "'Louis, prepare a dessert with cognac for him!' Barinov orders his pastry chef to spike the sweet course heavily."),
-    (5, None, "'How many spoonfuls of cognac to add to the cream?' Assuming a standard culinary dash, Louis asks for precise measurements."),
-    (6, None, "'Pour from the heart, do not spare cognac!' Commanding him to dump it in, Barinov says to use booze without holding back."),
-    (7, None, "'And how to deal with hot dishes?' Louis inquires how they will lace the savory courses of the meal."),
-    (8, None, "'We will generously pour dry wine into the meat.' Plotting a heavy reduction, Barinov plans to saturate the main course with an excessive wine."),
-    (9, None, "'The inspector will definitely taste strong alcohol.' Warning of the obvious taste, Louis notes that such massive amounts of liquor will be noticeable."),
-    (10, None, "'He will not notice anything in the sauce!' He arrogantly assuming success, Barinov claims his rich sauces will mask the heavy boozy punch."),
-    (11, None, "'Chef, this is a very daring and dangerous plan.' Expressing deep concern, Louis worries about intentionally drugging a government official."),
-    (12, None, "'At least our restaurant will be saved, work!' He is justifying the extreme risk, Barinov sees it as the only way to avoid closure."),
+    (0, None, "'This inspector refused to drink our wine!' 'Refused' ends in 'sya', and it's followed by the plain 'to drink'. 'Our wine' comes last, with the same ending as the word 'wine' itself."),
+    (1, None, "'Chef, what are we to do now?' 'Then' adds a note of 'so what now'. There's no 'should', just 'to us now to do'."),
+    (2, None, "'Since we can't give him drink, we will feed him!' 'Give drink' and 'give food' are two sibling words built on 'drink' and 'feed'. 'Since' is a short word that means 'if that's so'."),
+    (3, None, "'Do you want to add alcohol to food?' 'To add' is a bare word with no 'to'. 'Into the food' has a movement ending."),
+    (4, None, "'Louis, prepare a dessert with cognac for him!' 'Prepare' is a command. 'With cognac' has an 'om' on the end, which is what 'with' asks for."),
+    (5, None, "'How many spoonfuls of cognac to add to the cream?' 'How many' is followed by the 'of' form, so 'spoons' and 'cognac' both change. 'Cream' here is a single word, not a plural."),
+    (6, None, "'Pour from the heart, do not spare the cognac!' 'From the soul' means 'wholeheartedly'. 'Spare' is also 'pity', so don't pity the cognac."),
+    (7, None, "'And how to deal with hot dishes?' 'How to act' is a bare pair of words. 'With hot dishes' has plural endings."),
+    (8, None, "'We will generously pour dry wine into the meat.' 'Dry' is the word for wine that isn't sweet. 'We will pour' is a one-word future."),
+    (9, None, "'The inspector will definitely taste strong alcohol.' 'Definitely' also means 'exactly'. 'Strong' is a word you use for drinks and for coffee."),
+    (10, None, "'He will not notice anything in the sauce!' 'Not notice anything' keeps the 'not' and the 'nothing' together. 'In the sauce' ends in 'e'."),
+    (11, None, "'Chef, this is a very daring and dangerous plan.' 'Daring' is close to 'cheeky'. 'Dangerous' is related to 'danger'."),
+    (12, None, "'At least our restaurant will be saved, work!' The word at the start means 'but in return', and it is a favourite of Kostya. 'Saved' is from the same family as the Russian for 'thank you', which began as 'God save you'."),
 ]

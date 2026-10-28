@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'guest': 'Гость', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "In the elegant dining room of Claude Monet, an indignant diner summons waitress Nastya over to his table. He points out a long stray hair in his meal, sparking a hilariously deadpan exchange with the unflappable waitress. Let's listen to their conversation in Russian first."
-OPENER = "Let's review this hilarious confrontation in the dining room line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Leaving the infuriated guest waiting at his table, Nastya heads into the kitchen to alert Chef Barinov. See you next time!'
+INTRO = "In the dining room of Claude Monet, a guest has found a hair in his dinner and has called over the waitress, Nastya. She is very calm. He is not. It's in Russian first, and you'll hear plenty of polite phrases."
+OPENER = "Let's go back through the complaint. The guest raises his voice, and Nastya keeps hers very flat, which is where the joke is."
+TRANSITION = 'And the whole complaint once more.'
+OUTRO = "Nastya's politeness is worth borrowing: 'good day', 'I'm listening', 'I'll call the chef'. With those three you can handle most complaints. See you next time."
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('guest', 'Девушка, подойдите немедленно к нашему столу!', 'Miss, come over to our table immediately!', [(85, 'Бевушка')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nastya', 'Хорошо, я сейчас позову шеф-повара.', 'Fine, I will call the head chef right now.', [(96, 'Зову')], ''),
 ]
 WALK = [
-    (0, None, "'Miss, come over to our table immediately!' Snapping at the waitstaff, the outraged diner demands urgent attention."),
-    (1, None, "'Good day, I am listening to you very attentively.' Nastya responds with unwavering, slightly robotic politeness."),
-    (2, None, "'Look at this, what is that?' Furiously pointing at his plate, the guest expects her to be horrified."),
-    (3, None, "'I see that this is an ordinary hair.' Nastya states the obvious with completely deadpan delivery."),
-    (4, None, "'I also see this long hair perfectly well!' Growing angrier, the guest shouts at her literal and unemotional response."),
-    (5, None, "'Then why are you asking about it?' Nastya logically questions why he asked if he already knew the answer."),
-    (6, None, "'How did this hair get onto the plate?' Demanding an explanation, the guest wants to know the mechanics of the hygiene failure."),
-    (7, None, "'Probably it simply fell out of your head.' He blithely, Nastya suggests the diner himself is to blame for the contamination."),
-    (8, None, "'Such a long hair cannot be mine!' Defensively gesturing to his short haircut, the man rejects the theory."),
-    (9, None, "'Then probably it fell out of a beard.' Casually pivoting, Nastya suggests another absurd theory about his facial hair."),
-    (10, None, "'I do not have a beard, call the chef!' Losing all patience, the guest escalates the complaint to management."),
-    (11, None, "'Fine, I will call the head chef right now.' Calmly accepting the demand, Nastya turns to fetch Barinov."),
+    (0, None, "'Miss, come over to our table immediately!' Russians call a waitress 'girl', just as you might say 'miss'. The polite command ends in 'te', and 'to our table' puts an 'u' on the table."),
+    (1, None, "'Good day, I am listening to you very attentively.' 'Good day' is the usual daytime hello. 'I listen to you' is how a waitress says 'how can I help', and 'you' is the polite one."),
+    (2, None, "'Look at this, what is that?' 'Look' is the polite form, since he doesn't know her. The little 'such' at the end of 'what is that' makes the question sound more irritated."),
+    (3, None, "'I see that this is an ordinary hair.' 'I see' is irregular, because the 'd' changes to 'zh'. 'Hair' is singular here, which Russian does not often use."),
+    (4, None, "'I also see this long hair perfectly well!' He copies her sentence word for word, which is how people mock each other. 'Perfectly' comes from 'excellent'."),
+    (5, None, "'Then why are you asking about it?' This 'why' means 'for what purpose', and it is blunt. 'About this' has the form of 'about' that is used before a vowel."),
+    (6, None, "'How did this hair get onto the plate?' 'Got' is a past form of 'to land' or 'to hit'. 'Into the plate' ends in 'u', since it describes movement."),
+    (7, None, "'Probably it simply fell out of your head.' The prefix at the start of 'fell out' means 'out', as in 'out of'. 'Out of your head' is the short word 'from' plus the changed head."),
+    (8, None, "'Such a long hair cannot be mine!' 'Cannot be' is a neat two-word chunk. 'Mine' ends in 'im', which is the shape it takes after 'be'."),
+    (9, None, "'Then probably it fell out of a beard.' 'Probably' is a long word that you can use for anything you guess. The beard also changes shape after 'out of'."),
+    (10, None, "'I do not have a beard, call the chef!' 'At me there is no beard' has the beard in a different shape, the one used after 'there is no'. 'Call' is the polite command."),
+    (11, None, "'Fine, I will call the head chef right now.' 'I will call' is a one-word future. The head chef is written as two words joined by a hyphen, 'chef-cook'."),
 ]

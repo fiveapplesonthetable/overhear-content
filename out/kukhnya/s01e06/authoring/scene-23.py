@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "After Chef Barinov discovers the astronomical bill for the truffles, he assigns Max to pay off the debt. Faced with a month of unpaid labor, Max philosophically reflects on life's unexpected twists and tests of resilience."
-OPENER = "Let's explore Chef Barinov's strict punishment and Max's philosophical reflection on life."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Determined to face his debt and future challenges, Max looks forward with renewed culinary ambition. Next time you watch the episode, listen for the Russian expressions for 'for free' and 'big' — you will catch every word right away. See you next time!"
+INTRO = "The week of the inspection is over, and the bill for the truffles is a month of unpaid work for Max. He takes it with an odd calm and ends the episode with a speech about life. It's in Russian first."
+OPENER = "Let's go through the end of the day. Barinov has the practical lines and Max has the philosophy."
+TRANSITION = 'Here is the whole ending once more.'
+OUTRO = "Max's speech is in short Russian sentences about big ideas: life, difficulties, fate. They're a good way to practise longer thoughts without long words. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Огузок, ты оплатишь этот дорогой счёт!', 'Runt, you will pay this expensive bill!', [], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Завтра меня ждут новые кулинарные победы!', 'Tomorrow new culinary victories await me!', [], ''),
 ]
 WALK = [
-    (0, None, "'Runt, you will pay this expensive bill!' Harshly sentencing Max, Barinov demands he cover the massive financial loss."),
-    (1, None, "'Chef, but this is very big money.' Max protests the staggering cost of the missing truffles."),
-    (2, None, "'You will work for free a whole month!' Firmly establishing the brutal terms, Barinov sentences him to indentured servitude."),
-    (3, None, "'Life is constantly putting us to the test.' Dramatically narrating his realization, Max ponders the unpredictable nature of survival."),
-    (4, None, "'Some people easily cope with difficulties.' Observing resilience, Max notes how some individuals bounce back from disaster."),
-    (5, None, "'And some people give up right away.' Max notes the alternative path of simply surrendering to bad luck."),
-    (6, None, "'For some life is a kaleidoscope of adventures.' Romantically describing the chaos, Max sees the optimistic view of constant adventures."),
-    (7, None, "'For others, a series of bitter disappointments.' Contrasting this with pessimism, Max reflects on the reality of endless suffering."),
-    (8, None, "'Stop daydreaming, go wash the frying pans!' Barking an order, Barinov instantly shatters the young cook's philosophical monologue."),
-    (9, None, "'In any case one must be ready for everything.' Concluding his thoughts, Max decides that eternal vigilance is the only way to survive the kitchen."),
-    (10, None, "'Life teaches us unexpected turns of fate.' Max accepts that bizarre surprises are just part of the journey."),
-    (11, None, "'I will definitely deal with this problem.' Resolving to put his head down, Max prepares to work off the massive debt."),
-    (12, None, "'Now that is the right attitude for a cook!' Grudgingly approving, Barinov nods at his trainee's refusal to break."),
-    (13, None, "'Tomorrow new culinary victories await me!' Cheerfully looking forward, Max is ready for the next ridiculous day on the line."),
+    (0, None, "'Rump, you will pay this expensive bill!' 'Rump' is the usual nickname for Max. 'Will pay' is a one-word future, and 'this' agrees with 'bill'."),
+    (1, None, "'Chef, but this is very big money.' 'Money' is plural in Russian, so 'big' is plural. It's the kind of thing you can use for any large sum."),
+    (2, None, "'You will work for free for a whole month!' 'For free' comes from 'without payment'. 'Whole' is placed in front of 'month' to stress it."),
+    (3, None, "'Life is constantly putting us to the test.' 'Tests' is a strong word, and 'for strength' means 'to see if we hold'. The line sounds like something from a poster."),
+    (4, None, "'Some people easily cope with difficulties.' 'Someone' is 'who' with a tiny 'to'. 'Difficulties' comes from 'labour', and 'cope' goes with 'with'."),
+    (5, None, "'And some people give up right away.' 'Lowers the hands' is the Russian for 'gives up'. English says it the same way, with the arms dropping."),
+    (6, None, "'For some, life is a kaleidoscope of adventures.' 'For some' is 'for ones', as 'one' can be a plural. 'Kaleidoscope' is borrowed, so it is easy."),
+    (7, None, "'For others, a series of bitter disappointments.' 'For others' is 'for different', and it matches the previous line. 'Bitter' is the taste word, used for feelings."),
+    (8, None, "'Stop daydreaming, go wash the frying pans!' 'Enough' is followed by 'dreaming'. 'Go wash' needs no word for 'and'."),
+    (9, None, "'In any case one must be ready for everything.' 'In any case' is a fixed phrase. 'Must be ready' has 'ready' in a form that agrees with 'one'."),
+    (10, None, "'Life teaches us unexpected turns of fate.' 'Unexpected' is built from 'not' and 'expected'. 'Turn' and 'fate' are two related ideas."),
+    (11, None, "'I will definitely deal with this problem.' 'Deal with' ends in 'sya', and the problem takes the 'with' ending. 'Definitely' is a handy word."),
+    (12, None, "'Now that is the right attitude for a cook!' 'Attitude' is a word for 'mood' or 'tuning'. 'For a cook' uses a changed form of 'cook'."),
+    (13, None, "'Tomorrow new culinary victories await me!' 'Await me' is literally 'wait for me', with the plural 'victories' as the subject. 'Tomorrow' is a short word."),
 ]

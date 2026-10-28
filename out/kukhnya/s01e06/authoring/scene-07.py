@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'louis': 'Луи', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "In the kitchen of Claude Monet, the staff must clean every corner ahead of a surprise health inspection. Pastry chef Louis playfully pretends to duel Max with a giant stick of sausage before they start wiping down the dusty storage shelves. Let's listen to their playful exchange in Russian first."
-OPENER = "Let's review this humorous kitchen exchange line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'After their playful banter, Max and Louis roll up their sleeves and tackle the dusty kitchen shelves. See you next time!'
+INTRO = "The whole kitchen is cleaning for the inspection, and Louis, the French pastry chef, is not exactly working. He is fencing with Max, with a sausage for a sword. It's in Russian first, and Louis's drama will help you follow it."
+OPENER = 'Now slowly. Louis is dramatic, Max is practical, and the Russian is short enough for you to follow.'
+TRANSITION = 'And the whole duel again.'
+OUTRO = "The scene gives you the Russian for dust, rag, water and clean, which is enough to start a spring-clean. It also gives you 'otherwise we'll get it', which you can use all year. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('louis', 'Осторожно, ты пронзил меня своей колбасой!', 'Careful, you impaled me with your sausage!', [(75, 'Ты пронзил меня своей колбасой')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Точно, иначе нам сильно достанется!', 'Exactly, otherwise we will really get it!', [], ''),
 ]
 WALK = [
-    (0, None, "'Careful, you impaled me with your sausage!' Louis dramatically pretends to be mortally wounded in a playful duel."),
-    (1, None, "'Louis, stop screaming so loudly.' Max tries to quiet the flamboyant French pastry chef."),
-    (2, None, "'Tell Maria that I loved her!' Louis delivers an over-the-top final request as if taking his dying breath."),
-    (3, None, "'Stop dying, we need to clean the kitchen.' Max brings him back to reality before the inspection begins."),
-    (4, None, "'Does Chef force us to wash these shelves?' Louis sighs at the unglamorous cleaning assignment."),
-    (5, None, "'Yes, Chef demands perfect cleanliness everywhere.' Max reminds him of Viktor Barinov's fierce standards."),
-    (6, None, "'Dust has been lying here for a whole year!' Louis points out how thick the grime on the shelves really is."),
-    (7, None, "'Since the restaurant opened nobody cleaned here.' Max guesses that these storage spaces have never been touched."),
-    (8, None, "'Then take a rag and water quickly.' Louis gestures toward the bucket to get the chore started."),
-    (9, None, "'I am ready, let's finish this work.' Max sets to work with practical determination."),
-    (10, None, "'The main thing is that Chef is very pleased.' Louis hopes their hard work satisfies the temperamental head chef."),
-    (11, None, "'Exactly, otherwise we will really get it!' Max agrees that displeasing Barinov carries severe consequences."),
+    (0, None, "'Careful, you impaled me with your sausage!' 'Careful' is the same short warning you hear at the kitchen door. 'With your own sausage' ends in 'oy', which is the Russian 'with'."),
+    (1, None, "'Louis, stop screaming so loudly.' 'Stop' is a command you can use on anyone. 'Loudly' and 'to shout' come from the same family."),
+    (2, None, "'Tell Maria that I loved her!' 'Tell' is followed by 'to Maria', in which the name ends in 'i'. 'Loved' ends in 'l' because Louis is a man."),
+    (3, None, "'Stop dying, we need to clean the kitchen.' 'Enough' is followed by 'dying', so it is 'enough dying'. The verb 'clean up' means to put things away and make a place tidy."),
+    (4, None, "'Does Chef force us to wash these shelves?' 'Forces' is a strong word. 'Us' is a small word, and 'shelves' is the plural."),
+    (5, None, "'Yes, Chef demands perfect cleanliness everywhere.' 'Demands' is followed by 'cleanliness' with a different ending. 'Everywhere' is a handy word for 'in every place'."),
+    (6, None, "'Dust has been lying here for a whole year!' Russian says dust 'lies', as in lies on a shelf. 'Whole' is placed in front of 'year' to emphasize it."),
+    (7, None, "'Since the restaurant opened nobody has cleaned here.' 'Since the opening' is one small word and then a changed noun. 'Nobody' comes with 'not', as it must."),
+    (8, None, "'Then quickly take a rag and water.' 'Take' is a command. 'Water' has an 'u' ending because it's the thing you take."),
+    (9, None, "'I am ready, let's finish this work.' 'Let's finish' is the form that sounds like 'we will finish'. 'Ready' is the man's form."),
+    (10, None, "'The main thing is that Chef is very pleased.' 'So that' is a small word that makes the next part a wish. 'Pleased' is the man's form of 'satisfied'."),
+    (11, None, "'Exactly, otherwise we will really get it!' 'Otherwise' is a handy single word. 'We'll get it' is literally 'it will reach us', which is the way to say we'll catch it."),
 ]

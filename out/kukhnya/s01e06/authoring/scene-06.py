@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = 'Max discovers the cooks played a cruel prank on him about shaving his arms for the health inspection. Meanwhile in the kitchen, art director Vika confronts Chef Barinov about the messy storage and the impending inspection visit. Listen to their sharp conversation in Russian first, and then we will examine every line.'
-OPENER = "Let's examine this tense health inspection showdown step by step."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That concludes our sixth scene. In Kukhnya, sanitary inspections bring high tension and cynical humor to the entire Claude Monet staff. See you next time!'
+INTRO = "Max has just found out that the shaving story was a prank, and now he has the real inspection to worry about. In the kitchen, Vika, who runs the dining room, tells Barinov that the sanitary inspector is coming, and Barinov has his own idea of how to deal with it. It's in Russian first."
+OPENER = "Let's go back through it. Vika is exasperated, and Barinov is relaxed in a way that should worry you."
+TRANSITION = 'And the whole argument again.'
+OUTRO = "Look at 'if there were order, we wouldn't pay': that one small word, doing the work twice, is how Russian says 'would'. It's a handy shape to know. See you next time."
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('max', 'Они всех новичков так обманывают?', 'Do they trick all newcomers like that?', [(53, 'Они всех новичков так разводят')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Я пойду мыть полы на кухне.', 'I will go wash the floors in the kitchen.', [], ''),
 ]
 WALK = [
-    (0, None, "'Do they trick all newcomers like that?' Bitterly wiping his arms, Max wonders if every new hire falls for the shaving joke."),
-    (1, None, "'I must quickly put on my chef's hat.' Max hurries to cover up as much as possible before heading to the line."),
-    (2, None, "'Chef, today is the fifteenth, do you remember?' Warning the chef with a sharp tone, Vika mentions the date."),
-    (3, None, "'Soon the restaurant's sanitary inspection will arrive.' Vika announces the imminent arrival of the actual health officials."),
-    (4, None, "'And in your kitchen there is a mess again!' Scolding the chef, Vika points out the disastrous state of his workspace."),
-    (5, None, "'Where do you see a mess, my dear?' Feigning innocence, Barinov acts blindly defensive of his domain."),
-    (6, None, "'Look for yourself what a clean shelf this is!' Barinov points to a single tidy spot while ignoring the chaos everywhere else."),
-    (7, None, "'A little money solves any big problems.' Brazenly, Barinov implies that a small bribe will make any violations disappear."),
-    (8, None, "'If there were order, we wouldn't pay!' Snapping back, Vika says corruption wouldn't be necessary if he just cleaned up."),
-    (9, None, "'There is always a lot of work in a restaurant kitchen.' Barinov excuses the clutter by citing their immense workload."),
-    (10, None, "'Inspectors look for violations only for money.' Cynically dismissing the officials, Barinov calls them nothing but extortionists."),
-    (11, None, "'We must urgently establish perfect cleanliness.' Vika demands an immediate and thorough deep clean of the premises."),
-    (12, None, "'It seems today we have big problems.' Realizing the gravity of the situation, Max feels the panic settling in."),
-    (13, None, "'I will go wash the floors in the kitchen.' Quickly volunteering for a chore, Max escapes the escalating argument."),
+    (0, None, "'Do they trick all newcomers like that?' 'newcomers' is built from 'new'. 'Like that' is two short words that are useful in many sentences."),
+    (1, None, "'I must quickly put on my chef's hat.' Russian has one word for putting on clothes yourself, and another for dressing someone else. 'Cook's' is made from 'cook', so it is the cook's cap."),
+    (2, None, "'Chef, today is the fifteenth, do you remember?' Vika uses the informal 'you' with her boss, which tells you how close they are. 'Remember' is built from 'memory'."),
+    (3, None, "'Soon the restaurant's sanitary inspection will arrive.' 'Will arrive' is a one-word future. 'Of the restaurant' is shown by a changed ending, with no word for 'of'."),
+    (4, None, "'And in your kitchen there is a mess again!' 'At you in the kitchen' is how Russian says 'in your kitchen'. 'mess' is slang, and it sounds rude to a chef."),
+    (5, None, "'Where do you see a mess, my dear?' 'mess' is built from 'without' and 'order'. 'My dear' is a sweet word used with a sharp edge here."),
+    (6, None, "'Look for yourself what a clean shelf this is!' 'Which' turns into 'what a' in an exclamation. 'Yourself' is a small word that adds 'you take a look'."),
+    (7, None, "'A little money solves any big problems.' 'Money' is always plural in Russian, so 'solve' is plural too. 'Any' and 'big' agree with 'problems'."),
+    (8, None, "'If there were order, we wouldn't pay!' The little word 'by' appears twice, which is how Russian builds 'would'. It means 'if there were order, we would not be paying'."),
+    (9, None, "'There is always a lot of work in a restaurant kitchen.' 'A lot of' is followed by the 'of' ending, so 'work' changes. 'Always' is a very common small word."),
+    (10, None, "'Inspectors look for violations only for money.' 'For the sake of money' is a short phrase meaning 'because of'. 'Look for' is the same as 'seek'."),
+    (11, None, "'We must urgently establish perfect cleanliness.' 'Cleanliness' is built from 'clean'. 'Urgently' comes from 'urgent'."),
+    (12, None, "'It seems today we have big problems.' 'It seems' is one word. 'We have' is 'at us', as it always is in Russian."),
+    (13, None, "'I will go wash the floors in the kitchen.' 'Floors' is plural, as the word is used in the sense of 'the floor space'. 'I will go' is a single word, and 'wash' comes right after it."),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = 'Chef Viktor Barinov grows furious over the delay in preparing the truffle salad for the inspector. He confronts Max, who desperately stalls for time while trying to recover the missing luxury ingredients. Listen to their conversation in Russian first, then we will break down each line in English.'
-OPENER = 'Now let us go through each phrase to see how it works in Russian.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max faces extreme pressure from Chef Barinov to deliver the truffle immediately. Until then! Next time you watch the episode, listen for the Russian expressions for 'to mutter' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "The truffle salad is late, and Barinov has run out of patience. Max has no truffle and has to say something. It's in Russian first."
+OPENER = 'Slowly now. The chef gets angrier with every line, and Max gets more inventive.'
+TRANSITION = 'The whole stall once more.'
+OUTRO = "'Until next Easter' is a nice way to say that something takes forever, and 'under control' is a nice way to lie. Between them you've got a fair picture of kitchen life. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Огузок, где мой свежий дорогой трюфель?', 'Rump, where is my fresh expensive truffle?', [(243, 'свои трюфель')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('barinov', 'Тогда неси трюфель на стол шефа!', 'Then bring the truffle to the chef table!', [], ''),
 ]
 WALK = [
-    (0, None, "'Rump, where is my fresh expensive truffle?' Demanding the missing luxury item, Barinov interrogates his assistant with rising fury."),
-    (1, None, "'Am I going to wait for it until next Easter?' Using sharp sarcasm, Barinov emphasizes how long the intolerable delay has been."),
-    (2, None, "'Chef, I am already bringing it, all is well!' Babbling fake reassurances, Max tries to placate the roaring head chef."),
-    (3, None, "'You work too slowly in the kitchen!' Harshly criticizing his pace, Barinov yells at the rookie's inability to keep up with the line."),
-    (4, None, "'The important guest is waiting for his order.' Barinov points out that a VIP is sitting out there empty-handed."),
-    (5, None, "'I am looking for the best mushroom.' Inventing a desperate lie, Max claims to be meticulously selecting the perfect specimen."),
-    (6, None, "'You have exactly one minute!' Issuing a strict and terrifying deadline, Barinov gives him one minute to produce the ingredient."),
-    (7, None, "'Otherwise I will personally fire you today!' Explicitly threatening termination, Barinov promises to throw Max out on the street immediately."),
-    (8, None, "'Do not worry, chef, the order will be ready.' Promising the impossible, Max just wants Barinov to back off."),
-    (9, None, "'I want to see the result right now.' Demanding immediate tangible proof, Barinov wants to see the physical dish rather than excuses."),
-    (10, None, "'We fulfilled all your difficult conditions.' Accidentally speaking aloud, Max mutters his thoughts about the vagrant's ransom demands."),
-    (11, None, "'What are you muttering under your breath there?' Snapping at the weird murmuring, Barinov catches the suspicious quiet comment."),
-    (12, None, "'I am saying that everything is under control.' Quickly lying to cover his slip, Max reassures him before the chef gets suspicious."),
-    (13, None, "'Then bring the truffle to the chef table!' Barking his final order, Barinov commands the expensive plate out to the dining room."),
+    (0, None, "'Rump, where is my fresh expensive truffle?' The nickname shows up again. 'My' agrees with 'truffle', which is a he-word."),
+    (1, None, "'Am I going to wait for it until next Easter?' 'Until next Easter' is Barinov's sarcasm, like 'until the cows come home'. 'I will wait' is 'I will be' plus 'to wait'."),
+    (2, None, "'Chef, I am already bringing it, all is well!' 'I am carrying' is the plain present, which Russians use for what's happening now. 'All is well' is the usual cover story."),
+    (3, None, "'You work too slowly in the kitchen!' 'Too' is a single word. 'Slowly' is built on 'slow'."),
+    (4, None, "'The important guest is waiting for his order.' 'Waits for' takes the order directly, with no word for 'for'. 'His own' is the word that points back at the guest."),
+    (5, None, "'I am looking for the best mushroom.' 'I look for' changes its middle letters, from 'iskat' to 'ishchu'. 'Mushroom' is the plain word for the whole family."),
+    (6, None, "'You have exactly one minute!' 'At you there is' means 'you have'. 'Exactly' comes from 'flat' or 'even'."),
+    (7, None, "'Otherwise I will personally fire you today!' 'Otherwise' is a handy word. 'I will fire' is a one-word future."),
+    (8, None, "'Do not worry, Chef, the order will be ready.' 'Worry' also means 'live through'. 'Will be ready' is made of 'will be' plus 'ready'."),
+    (9, None, "'I want to see the result right now.' 'I want' changes to 'khochu'. 'Right now' is again the pair 'straight' and 'now'."),
+    (10, None, "'We fulfilled all your difficult conditions.' 'Fulfilled' is a business word. 'Your' and 'difficult' both agree with the plural 'conditions'."),
+    (11, None, "'What are you muttering under your breath there?' The Russian says 'to yourself under the nose'. 'Mutter' sounds like a mutter."),
+    (12, None, "'I am saying that everything is under control.' 'Under control' is the same shape as 'under the nose'. 'Control' is borrowed."),
+    (13, None, "'Then bring the truffle to the chef's table.' 'Carry' is the command for taking something on foot. 'Chef's table' is 'table of the chef'."),
 ]

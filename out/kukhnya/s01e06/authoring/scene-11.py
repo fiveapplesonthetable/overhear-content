@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'inspector': 'Инспектор', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "Having completed an inspection of the pristine dining area, Victoria leads the stern sanitary inspector toward the kitchen. While Victoria attempts to maintain an upbeat and confident tone, the inspector makes it clear that standards are uncompromising. Let's listen to their formal conversation in Russian first."
-OPENER = "Let's examine the polite yet tense exchange between Victoria and the inspector."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Now you understand how formal inspections are conducted in upscale restaurants. Listen for these official phrases next time you watch the episode. Next time you watch the episode, listen for the Russian expressions for 'everywhere' and 'carefully' — you will catch every word right away. See you next time!"
+INTRO = "The sanitary inspector has finished with the dining room, and Vika walks him through to the kitchen. She is polite and confident. He is polite and very, very thorough. It's in Russian first, and there is a lot of formal language to enjoy."
+OPENER = "Let's go back. Notice that both of them use the polite 'you' and the official words."
+TRANSITION = 'And the whole formal exchange once more.'
+OUTRO = "You've now heard a formal Russian conversation, with 'please', 'you', and 'welcome'. It's the opposite of the shouting in the kitchen, and it's good practice for official situations. See you next time."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Проходите, пожалуйста, вот и наша кухня.', 'Come in, please, here is our kitchen.', [(157, 'А вот и наша кухня'), (158, 'Прошу вас')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('vika', 'Добро пожаловать на нашу кухню!', 'Welcome to our kitchen!', [], ''),
 ]
 WALK = [
-    (0, None, "'Come in, please, here is our kitchen.' Politely gesturing the official forward, Vika leads the way into the kitchen."),
-    (1, None, "'Regarding the hall, I have no complaints.' Granting a rare shred of approval, the inspector praises the dining room."),
-    (2, None, "'Now let's look at your kitchen carefully.' Making his intentions clear, the official prepares for serious scrutiny."),
-    (3, None, "'I myself will check every workstation.' The inspector insists on conducting a thorough, hands-on sweep."),
+    (0, None, "'Come in, please, here is our kitchen.' 'Come through' is the polite way to invite someone to walk ahead. 'Here is' is a small word that points."),
+    (1, None, "'Regarding the hall, I have no complaints.' 'Regarding' is a small word that takes the next word in a changed shape. 'Complaints' follows the 'there are none' phrase and is therefore in the 'of' form."),
+    (2, None, "'We strictly monitor cleanliness everywhere.' 'Strictly' is built on 'strict'. 'Monitor' is followed by 'over' and 'cleanliness'."),
+    (3, None, "'Now let's look at your kitchen carefully.' 'Let's look' ends in 'im', as 'we' does. 'Your' is the polite form because he is speaking to the staff."),
+    (4, None, "'We have the best cooks working here.' 'At us here' is the way to say 'we have'. 'Best' is in the plural to match 'cooks'."),
+    (5, None, "'I am interested only in sanitary rules.' Russian turns the sentence round: 'me interest only the rules'. The rules are the thing doing the interesting."),
+    (6, None, "'All employees wear a clean uniform.' 'Employees' is built from 'with' and 'work', so they are 'co-workers'. 'Wear' is 'carry'."),
+    (7, None, "'I myself will check every workstation.' 'Myself' stresses that he will not trust anyone's report. 'Every' agrees with 'workstation' in its shape."),
+    (8, None, "'Our head chef personally oversees everything.' 'Personally' is built on 'personal'. 'Oversees' ends in 'et', as it is about one person."),
+    (9, None, "'In the kitchen one must not violate rules.' 'must not' is a flat 'forbidden', the opposite of 'allowed'. It's the word on prohibition signs."),
+    (10, None, "'You can see everything yourselves.' 'You can' is the polite form. 'Yourselves' ends in a plural, because Vika addresses him politely."),
+    (11, None, "'Then we begin a full sanitary inspection.' 'We begin' ends in 'em'. 'Full' and 'sanitary' are both in the shape to agree with 'inspection'."),
+    (12, None, "'Welcome to our kitchen!' The first phrase is a formal 'welcome', close to 'good to come'. It's what you see on a doormat or hear at a door."),
 ]
