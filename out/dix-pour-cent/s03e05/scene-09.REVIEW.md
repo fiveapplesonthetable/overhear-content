@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Andrea, Pascal just called me.' Arlette breaks the urgent news. The recent past 'vient d'appeler' reports an immediate event.
-- 'Beatrice left the shoot in anger.' Arlette explains Beatrice's sudden exit. The prepositional phrase 'en colere' expresses fury.
-- 'But what happened?' Andrea reacts with concern. The interrogative phrase 'qu'est-ce qui' asks about recent events.
-- 'The director lied to Beatrice.' Arlette reveals the director's deceit. The passe compose 'a menti' indicates dishonesty.
+- 'Andrea, Pascal just called me.' Arlette breaks the urgent news. The clause hinges on the everyday verb meaning 'just'.
+- 'Beatrice left the shoot in anger.' Arlette explains Beatrice's sudden exit. The verb meaning 'left' pairs naturally with the noun for 'shoot' in everyday conversation.
+- 'But what happened?' Andrea reacts with concern. In spoken French, the little word before 'has' drops its final vowel and attaches with an apostrophe.
+- 'The director lied to Beatrice.' Arlette reveals the director's deceit. This conversational past tense combines a helper verb with the past participle for 'lied'.
 - 'He wanted to force her to undress.' Arlette explains the boundary violation. The reflexive verb 'se deshabiller' means to undress.
 - 'That is outrageous, she was right.' Andrea defends her client fiercely. The idiom 'avoir raison' means to be justified.
-- 'But where is Beatrice now?' Arlette asks for the actress's whereabouts. The interrogative adverb 'ou' inquires about location.
-- 'She jumped into a taxi quickly.' Andrea describes Beatrice's hasty departure. The verb 'monter dans' means to get into a vehicle.
+- 'But where is Beatrice now?' Arlette asks for the actress's whereabouts. The adverb meaning 'where' gives the reply its conversational emphasis.
+- 'She jumped into a taxi quickly.' Andrea describes Beatrice's hasty departure. The verb meaning 'has' pairs naturally with the noun for 'taxi' in everyday conversation.
 - 'I could not catch up with her.' Andrea laments that she could not run fast enough with the stroller. The verb 'rattraper' means to catch up.
-- 'Did you try phoning her?' Arlette asks about phone contact. The verb 'telephoner a' takes an indirect object.
-- 'I keep reaching her voicemail.' Andrea vents her frustration. The idiom 'tomber sur la messagerie' means reaching voicemail.
+- 'Did you try phoning her?' Arlette asks about phone contact. Arlette uses the casual singular 'you' with 'have', showing close familiarity.
+- 'I keep reaching her voicemail.' Andrea vents her frustration. Notice how 'stop' leads directly into the noun meaning 'voicemail'.
 - 'The production threatens a lawsuit.' Arlette warns of legal repercussions. The noun 'proces' means lawsuit or trial.
 - 'Wait, my phone is ringing at last.' Andrea notices an incoming call. The verb 'sonner' refers to a phone ringing.
 - 'Hello Beatrice? Where are you exactly?' Andrea answers urgently. The greeting 'allo' opens phone dialogues.

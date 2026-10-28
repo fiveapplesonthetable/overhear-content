@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My mother always said...' Outside the agency, Camille shares a hopeful quote from her mother with Hervé.
-- 'it's at night you have to believe in the light.' She suggests that they must remain optimistic during this dark time.
-- 'Be realistic, Camille. It's over.' Hervé dismisses her optimism, telling her to accept that the agency is doomed.
-- 'Focus on what you'll do next.' He advises her to start thinking about her future career plans.
-- 'I'd like to start a young talent agency.' Camille reveals her ambitious dream to open her own business.
-- 'It's perfect for you! It's obvious.' Hervé is highly encouraging, agreeing that it suits her perfectly.
-- 'Would somebody close to 30 interest you?' He hints at his own secret aspiration to become an actor.
-- 'Of course I'd sign you with my agency.' She eagerly agrees to represent him if he pursues an acting career.
-- 'You're going to be an actor?' She asks if he has finally decided to pursue his dream.
-- 'I don't know, it's too risky.' He hesitates, afraid of the financial insecurity of the profession.
-- 'Either way, there'll always be a desk for you.' Camille promises him a job as an agent if his acting career fails.
-- 'Are you really going to let me produce the film?' Elsewhere, Noémie asks Mathias if he is truly giving her the project.
-- 'I'm letting you produce the film because you can do it.' He assures her that he trusts her skills and abilities completely.
-- 'My real gift is you taking good care of yourself.' He tells her that seeing her succeed and thrive is his true reward.
+- 'FIXME translation' Outside the agency, Camille shares a hopeful quote from her mother with Herve. The verb meaning 'to say' pairs naturally with the noun for 'mother' in everyday conversation.
+- 'FIXME translation' She suggests that they must remain optimistic during this dark time. Notice how 'to be' leads directly into the noun meaning 'night'.
+- 'FIXME translation' Herve dismisses her optimism, telling her to accept that the agency is doomed. This conversational past tense combines a helper verb with the past participle for 'to be'.
+- 'FIXME translation' He advises her to start thinking about her future career plans. The informal 'you' form around 'to concentrate' marks a direct, personal relationship.
+- 'FIXME translation' Camille reveals her ambitious dream to open her own business. This conversational past tense combines a helper verb with the past participle for 'to like'.
+- 'FIXME translation' Herve is highly encouraging, agreeing that it suits her perfectly. The descriptive adjective for 'perfect' agrees in gender and number with its noun.
+- 'FIXME translation' He hints at his own secret aspiration to become an actor. The verb meaning 'to be' pairs naturally with the noun for 'about thirty' in everyday conversation.
+- 'FIXME translation' She eagerly agrees to represent him if he pursues an acting career. The reflexive pronoun sits right in front of the verb for 'to sign', turning the action back onto the subject.
+- 'FIXME translation' She asks if he has finally decided to pursue his dream. Camille uses the casual singular 'you' with 'to go', showing close familiarity.
+- 'FIXME translation' He hesitates, afraid of the financial insecurity of the profession. The clause hinges on the everyday verb meaning 'to know'.
+- 'FIXME translation' Camille promises him a job as an agent if his acting career fails. The verb meaning 'to have' pairs naturally with the noun for 'way' in everyday conversation.
+- 'FIXME translation' Elsewhere, Noemie asks Mathias if he is truly giving her the project. The reflexive pronoun sits right in front of the verb for 'to go', turning the action back onto the subject.
+- 'FIXME translation' He assures her that he trusts her skills and abilities completely. The verb meaning 'to leave' pairs naturally with the noun for 'movie' in everyday conversation.
+- 'FIXME translation' He tells her that seeing her succeed and thrive is his true reward. The verb meaning 'to be' pairs naturally with the noun for 'present' in everyday conversation.

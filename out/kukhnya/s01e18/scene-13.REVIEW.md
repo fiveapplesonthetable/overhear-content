@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ты выглядишь совсем плохо. | You look completely bad. | #262 00:16:25: что-то совсем плохой. | adapted: adapted |
-| 2 | Аня | У тебя болит живот? | Does your stomach hurt? | new | new: adapted |
+| 1 | Федя | Ты выглядишь совсем плохо. | You look completely bad. | #262 00:16:25: что-то совсем плохой. | adapted: adapted |
+| 2 | Федя | У тебя болит живот? | Does your stomach hurt? | new | new: adapted |
 | 3 | Сеня | Да, мне очень плохо. | Yes, I feel very bad. | new | new: adapted |
-| 4 | Аня | Я же тебе говорил. | I told you so. | new | new: adapted |
-| 5 | Аня | Не надо было есть рыбу. | You should not have eaten the fish. | new | new: adapted |
+| 4 | Федя | Я же тебе говорил. | I told you so. | new | new: adapted |
+| 5 | Федя | Не надо было есть рыбу. | You should not have eaten the fish. | new | new: adapted |
 | 6 | Сеня | Я думал, она нормальная. | I thought it was normal. | new | new: adapted |
-| 7 | Аня | Знаешь, что надо делать? | Do you know what to do? | #262 00:16:25: в таких случаях знаешь, что надо делать? | adapted: adapted |
-| 8 | Аня | Надо выпить перец и воду. | You need to drink pepper and water. | #263 00:16:29: Перец и... | adapted: adapted |
+| 7 | Федя | Знаешь, что надо делать? | Do you know what to do? | #262 00:16:25: в таких случаях знаешь, что надо делать? | adapted: adapted |
+| 8 | Федя | Надо выпить перец и воду. | You need to drink pepper and water. | #263 00:16:29: Перец и... | adapted: adapted |
 | 9 | Сеня | Ой, я больше не могу. | Oh, I can not take it anymore. | new | new: adapted |
-| 10 | Аня | Сеня, что с тобой? | Senya, what is wrong with you? | #263 00:16:29: Сеня! | adapted: adapted |
-| 11 | Аня | Сеня, открой глаза! Сеня! | Senya, open your eyes! Senya! | #264 00:16:34: Сень! Сень! | adapted: adapted |
-| 12 | Аня | Понятно, давай дальше. | Got it, let's move on. | new | new |
+| 10 | Федя | Сеня, что с тобой? | Senya, what is wrong with you? | #263 00:16:29: Сеня! | adapted: adapted |
+| 11 | Федя | Сеня, открой глаза! Сеня! | Senya, open your eyes! Senya! | #264 00:16:34: Сень! Сень! | adapted: adapted |
+| 12 | Федя | Понятно, давай дальше. | Got it, let's move on. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You look completely bad.' Fedya uses the casual singular 'you' with 'you', as close colleagues and friends do.
-- 'Does your stomach hurt?' In Russian, 'you' leads into 'belly' in a very natural everyday phrasing. And Senya jumps in.
-- 'Yes, I feel very bad.' Here 'to me' sets up the idea, while 'badly' comes at the end for emphasis.
-- 'I told you so.' Notice the word order: 'I' comes first, and 'said' finishes the sentence.
-- 'You should not have eaten the fish.' The key word here means 'it is necessary', which Fedya combines with 'was'. Senya answers straight away.
-- 'I thought it was normal.' Senya starts with 'I' and pairs it with 'thought' to make the point clear.
-- 'Do you know what to do?' Fedya puts 'know' up front so the listener immediately catches the tone, followed by 'what'.
-- 'You need to drink pepper and water.' Here 'it is necessary' sets up the idea, while 'water' comes at the end for emphasis. Then Senya replies.
-- 'Oh, I can not take it anymore.' The first content word means 'oh', and 'can' rounds out the thought.
-- 'Senya, what is wrong with you?' Fedya puts 'Senya' up front so the listener immediately catches the tone, followed by 'what'.
-- 'Senya, open your eyes! Senya!' Listen for the word meaning 'Senya' right alongside 'to open' in this line.
-- 'Got it, let's move on.' The first content word means 'clear', and 'next' rounds out the thought.
+- 'You look completely bad.' Fedya chooses the imperfective verb meaning 'look' for the ongoing action, followed by 'at all' and 'badly'.
+- 'Does your stomach hurt?' To express possession, Russian uses the preposition 'by' plus the genitive pronoun followed by 'belly'. Then Senya responds.
+- 'Yes, I feel very bad.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'badly', combining 'very much' with 'badly'.
+- 'I told you so.' Fedya delivers a punchy one-word reaction built around the Russian word meaning 'said'.
+- 'You should not have eaten the fish.' Fedya puts the word for 'it is necessary' together with 'was' and 'there is' in a crisp, natural spoken turn of phrase.
+- 'I thought it was normal.' Senya chooses the imperfective verb meaning 'thought' for the ongoing action, followed by 'normal'.
+- 'Do you know what to do?' Fedya chooses the imperfective verb meaning 'know' for the ongoing action, followed by 'it is necessary' and 'do'.
+- 'You need to drink pepper and water.' Fedya expresses this naturally by combining the word for 'it is necessary' with 'to drink' and 'pepper'.
+- 'Oh, I can not take it anymore.' The negative particle sits directly before the verb for 'can' to negate the action.
+- 'Senya, what is wrong with you?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'you'.
+- 'Senya, open your eyes! Senya!' Fedya uses the perfective verb meaning 'to open' to focus on the single completed result, pairing it with 'eyes'.
+- 'Got it, let's move on.' Fedya leads with the direct command form meaning 'let's', pairing it with 'clear' and 'next'.

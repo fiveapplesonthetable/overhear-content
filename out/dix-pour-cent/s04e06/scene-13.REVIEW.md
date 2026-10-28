@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not understand his refusal.' Gabriel expresses bewilderment at the financier's rejection.
-- 'You had almost managed to convince him?' Andrea confirms how close they came to a deal.
-- 'Yes, and at the last moment, he refuses.' Gabriel describes the investor pulling out abruptly.
-- 'Did he give you a specific reason?' Andrea asks if any motive was provided.
-- 'No, he remains silent as a grave.' Gabriel uses a vivid idiom to indicate total silence.
-- 'Then it is over with him.' Andrea moves on from the lost opportunity.
-- 'Forget it, it is too late.' Gabriel cautions against wasting further energy.
-- 'We need a great actor.' Andrea identifies the key element needed to revive the film.
-- 'Jean Reno will be here soon!' Gabriel announces that a legendary star is arriving.
-- 'Jean Reno is really coming to the agency?' Andrea verifies the astonishing news.
-- 'Yes, he is on his way now.' Gabriel reassures her that the actor is traveling to ASK.
-- 'It is our last chance of survival.' Andrea stresses the existential stakes for the firm.
-- 'He already loves the beautiful script.' Gabriel builds confidence ahead of the pitch.
+- 'I do not understand his refusal.' Gabriel expresses bewilderment at the financier's rejection. Notice the classic French sandwich negation wrapping right around 'understand'.
+- 'You had almost managed to convince him?' Andrea confirms how close they came to a deal. The informal 'you' form around 'had' marks a direct, personal relationship.
+- 'Yes, and at the last moment, he refuses.' Gabriel describes the investor pulling out abruptly. The descriptive adjective for 'last' agrees in gender and number with its noun.
+- 'Did he give you a specific reason?' Andrea asks if any motive was provided. This conversational past tense combines a helper verb with the past participle for 'given'.
+- 'No, he remains silent as a grave.' Gabriel uses a vivid idiom to indicate total silence. Notice how 'remains' leads directly into the noun meaning 'grave'.
+- 'Then it is over with him.' Andrea moves on from the lost opportunity. The descriptive adjective for 'finished' agrees in gender and number with its noun.
+- 'Forget it, it is too late.' Gabriel cautions against wasting further energy. The clause hinges on the everyday verb meaning 'let'.
+- 'We need a great actor.' Andrea identifies the key element needed to revive the film. Notice how 'have' leads directly into the noun meaning 'need'.
+- 'Jean Reno will be here soon!' Gabriel announces that a legendary star is arriving. The clause hinges on the everyday verb meaning 'will be'.
+- 'Jean Reno is really coming to the agency?' Andrea verifies the astonishing news. The verb meaning 'arrives' pairs naturally with the noun for 'agency' in everyday conversation.
+- 'Yes, he is on his way now.' Gabriel reassures her that the actor is traveling to ASK. The key noun here means 'way', anchored by its matching French article.
+- 'It is our last chance of survival.' Andrea stresses the existential stakes for the firm. The adjective meaning 'last' takes its feminine form here to match the noun it describes.
+- 'He already loves the beautiful script.' Gabriel builds confidence ahead of the pitch. The verb meaning 'adores' pairs naturally with the noun for 'screenplay' in everyday conversation.
 - 'Let us prepare his welcome with great care.' Andrea prepares to give the star their utmost focus.

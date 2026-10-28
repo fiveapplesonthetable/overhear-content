@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The year-end review is approaching quickly.' A temporal statement setting the professional deadline.
-- 'Everyone is very stressed here.' An indefinite subject phrase noting general office anxiety.
-- 'The account closing takes place on Friday.' An idiomatic verbal formula stating an exact fiscal deadline.
-- 'We have only four short days left.' An impersonal countdown structure highlighting tight scheduling.
-- 'Mathias has signed very big contracts.' A compound past verb noting commercial success by a rival.
-- 'I must absolutely beat his revenue!' An intensified modal obligation expressing professional ambition.
-- 'You have already signed many projects.' A reassuring reminder pointing to recent achievements.
-- 'It is not yet enough to win.' A negative evaluation rejecting complacency in business.
-- 'Think first of your health, Andrea.' A caring imperative advising physical self-preservation.
-- 'Ouch, I have a rather painful contraction!' An involuntary exclamation reporting sudden pregnancy discomfort.
-- 'Andrea, sit down immediately on this armchair!' An urgent protective imperative providing assistance.
-- 'It is just a minor passing contraction.' A minimizing reassurance downplaying physiological strain.
-- 'I am going to get you a glass of water.' A near future offer providing immediate comfort.
-- 'Thank you Gabriel, that is very kind of you.' A polite acknowledgment welcoming friendly support.
+- 'The year-end review is approaching quickly.' The verb meaning 'approaches' pairs naturally with the noun for 'annual review' in everyday conversation.
+- 'Everyone is very stressed here.' The key noun here means 'people', anchored by its matching French article. The key noun here means 'people', anchored by its matching French article.
+- 'The account closing takes place on Friday.' The verb meaning 'has' pairs naturally with the noun for 'closing' in everyday conversation.
+- 'We have only four short days left.' Notice how 'remains' leads directly into the noun meaning 'calendar days'. Notice how 'remains' leads directly into the noun meaning 'calendar days'.
+- 'Mathias has signed very big contracts.' The verb meaning 'has' pairs naturally with the noun for 'business agreements' in everyday conversation.
+- 'I must absolutely beat his revenue!' An intensified modal obligation expressing professional ambition. Notice how 'must' leads directly into the noun meaning 'figure'.
+- 'You have already signed many projects.' The verb meaning 'have' pairs naturally with the noun for 'ventures' in everyday conversation.
+- 'It is not yet enough to win.' A negative evaluation rejecting complacency in business. The clause hinges on the everyday verb meaning 'win'.
+- 'Think first of your health, Andrea.' The verb meaning 'think' pairs naturally with the noun for 'approach' in everyday conversation.
+- 'Ouch, I have a rather painful contraction!' The adjective meaning 'painful' takes its feminine form here to match the noun it describes.
+- 'Andrea, sit down immediately on this armchair!' Dropping the subject pronoun turns the verb for 'sit down' into a direct, punchy command. Dropping the subject pronoun turns the verb for 'sit down' into a direct, punchy command.
+- 'It is just a minor passing contraction.' A minimizing reassurance downplaying physiological strain. The key noun here means 'uterine contraction', anchored by its matching French article.
+- 'I am going to get you a glass of water.' French forms the near future by pairing the present tense of 'to go' directly with 'fetch'. French forms the near future by pairing the present tense of 'to go' directly with 'fetch'.
+- 'Thank you Gabriel, that is very kind of you.' A polite acknowledgment welcoming friendly support. The informal 'you' form around 'this line' marks a direct, personal relationship.

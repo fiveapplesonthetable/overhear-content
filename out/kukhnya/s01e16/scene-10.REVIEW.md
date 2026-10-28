@@ -10,8 +10,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Попробуй новый вариант блюда. | Try the new version of the dish. | #88 00:07:16: попробуй новый вариант, а? | adapted: adapted |
-| 2 | Аня | Шеф, выход через зал закрыт. | Chef, the exit through the hall is closed. | #108 00:08:10: Шеф, с парадом не вариант. | adapted: adapted |
+| 1 | Макс | Попробуй новый вариант блюда. | Try the new version of the dish. | #88 00:07:16: попробуй новый вариант, а? | adapted: adapted |
+| 2 | Макс | Шеф, выход через зал закрыт. | Chef, the exit through the hall is closed. | #108 00:08:10: Шеф, с парадом не вариант. | adapted: adapted |
 | 3 | Шеф | Мы выходим по одному человеку. | We exit one person at a time. | #92 00:07:28: Не ломимся толпой, выходим по одному человеку. | adapted: adapted |
 | 4 | Шеф | Половина идёт через зал. | Half goes through the hall. | #97 00:07:43: Половина через зал. | adapted: adapted |
 | 5 | Шеф | Что вы за идиоты? | What kind of idiots are you? | #110 00:08:20: Что вы за инвалиды? | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Try the new version of the dish.' The first content word means 'to try', and 'of dish' rounds out the thought.
-- 'Chef, the exit through the hall is closed.' Notice the word order: 'chef' comes first, and 'is closed' finishes the sentence. Chef Viktor answers straight away.
-- 'We exit one person at a time.' In Russian, 'we' leads into 'person' in a very natural everyday phrasing.
-- 'Half goes through the hall.' Chef Viktor starts with 'half' and pairs it with 'goes' to make the point clear.
-- 'What kind of idiots are you?' The key word here means 'what', which Chef Viktor combines with 'you'.
-- 'Quickly to my office.' Chef Viktor starts with 'quickly' and pairs it with 'to me' to make the point clear.
-- 'Good afternoon, Viktor Petrovich.' the speaker puts 'good' up front so the listener immediately catches the tone, followed by 'day'.
-- 'I am a major of the migration service.' In Russian, 'I' leads into 'service' in a very natural everyday phrasing.
-- 'Can we go to the office?' The first content word means 'we', and 'office' rounds out the thought.
-- 'Unfortunately, I cannot.' A compact expression built around 'regret' and 'can'.
-- 'I need to cook for the guests.' Listen for the word meaning 'to me' right alongside 'necessary' in this line.
-- 'Alright, I will wait for you here.' the speaker uses the polite plural 'you' here alongside 'good', keeping a formal or respectful tone.
+- 'Try the new version of the dish.' Max uses the imperative command form of the verb meaning 'to try'.
+- 'Chef, the exit through the hall is closed.' Russian omits the present-tense verb 'to be' here, linking 'way out' directly with 'the hall', combining 'way out' with 'the hall' and 'is closed'.
+- 'We exit one person at a time.' Chef Barinov chooses the imperfective verb meaning 'we are getting out' for the ongoing action, followed by 'alone' and 'person'.
+- 'Half goes through the hall.' Chef Barinov expresses this naturally by combining the word for 'half' with 'goes' and 'the hall'.
+- 'What kind of idiots are you?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'idiot'.
+- 'Quickly to my office.' Russian omits the present-tense verb 'to be', connecting 'quickly' directly with 'office'.
+- 'Good afternoon, Viktor Petrovich.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'day', combining 'good' with 'day'.
+- 'I am a major of the migration service.' Russian omits the present-tense verb 'to be' here, linking 'major' directly with 'migration', combining 'major' with 'migration' and 'service'.
+- 'Can we go to the office?' , combining 'can' with 'take place' and 'office'.
+- 'Unfortunately, I cannot.' Here Chef Barinov anchors the line on the word meaning 'regret' and builds the thought around 'can'.
+- 'I need to cook for the guests.' Russian builds this impersonally with the dative ('to me' or 'to you') and 'guests'.
+- 'Alright, I will wait for you here.' , combining 'good' with 'will wait' and 'here'.

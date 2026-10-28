@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gerard, wait for me in the street!' An urgent imperative calling after the star.
-- 'Why are you running like that, Samy?' A curious inquiry asking about his hurried pace.
-- 'I am so angry with myself.' A raw emotional outburst confessing inner frustration.
-- 'But angry about what exactly?' A gentle question probing the cause of his distress.
-- 'I totally blew my audition today.' A regretful confession lamenting a failed performance.
-- 'It is not your fault.' A direct reassurance relieving the young actor of blame.
-- 'You trusted me so much!' An appreciative exclamation remembering his mentor's faith.
-- 'You have lots of natural talent.' An encouraging compliment praising his raw ability.
-- 'And look what I do with it.' A bitter self-criticism acknowledging missed opportunity.
-- 'Failure is part of this profession.' A realistic reminder framing setbacks as normal experience.
-- 'I am only a simple waiter.' A self-deprecating statement questioning his place in cinema.
-- 'Do not say such silly things.' A firm imperative rejecting unfair self-pity.
-- 'I do not have the right level.' A disheartened admission doubting his acting standard.
-- 'Sit down two minutes with me.' A friendly invitation offering compassionate counsel.
+- 'Gerard, wait for me in the street!' The verb meaning 'wait for me' pairs naturally with the noun for 'street' in everyday conversation.
+- 'Why are you running like that, Samy?' In everyday spoken French, rising intonation on 'run' at the end is enough to turn the sentence into a question. In everyday spoken French, rising intonation on 'run' at the end is enough to turn the sentence into a question.
+- 'I am so angry with myself.' A raw emotional outburst confessing inner frustration. In spoken French, the little word before 'I have' drops its final vowel and attaches with an apostrophe.
+- 'But angry about what exactly?' In everyday spoken French, rising intonation on 'rage' at the end is enough to turn the sentence into a question. In everyday spoken French, rising intonation on 'rage' at the end is enough to turn the sentence into a question.
+- 'I totally blew my audition today.' Notice how the short vowel drops before a vowel sound around 'I have', making the phrase flow smoothly as one unit. Notice how the short vowel drops before a vowel sound around 'I have', making the phrase flow smoothly as one unit.
+- 'It is not your fault.' A direct reassurance relieving the young actor of blame. The two-part French negation brackets the verb for 'the verb' on both sides.
+- 'You trusted me so much!' In spoken French, the little word before 'have' drops its final vowel and attaches with an apostrophe. In spoken French, the little word before 'have' drops its final vowel and attaches with an apostrophe.
+- 'You have lots of natural talent.' The informal 'you' form around 'have' marks a direct, personal relationship. The informal 'you' form around 'have' marks a direct, personal relationship.
+- 'And look what I do with it.' A bitter self-criticism acknowledging missed opportunity. Notice how the short vowel drops before a vowel sound around 'look at', making the phrase flow smoothly as one unit.
+- 'Failure is part of this profession.' The verb meaning 'makes' pairs naturally with the noun for 'failure' in everyday conversation.
+- 'I am only a simple waiter.' The key noun here means 'waiter', anchored by its matching French article. The key noun here means 'waiter', anchored by its matching French article.
+- 'Do not say such silly things.' Notice how 'say' leads directly into the noun meaning 'nonsense'. Notice how 'say' leads directly into the noun meaning 'nonsense'.
+- 'I do not have the right level.' The two-part French negation brackets the verb for 'have' on both sides. The two-part French negation brackets the verb for 'have' on both sides.
+- 'Sit down two minutes with me.' The verb meaning 'sit down' pairs naturally with the noun for 'minutes' in everyday conversation.

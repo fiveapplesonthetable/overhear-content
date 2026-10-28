@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything worked out with Beatrice Dalle!' Andrea shares the successful production rescue. The pronominal compound past verb announces positive resolution.
-- 'That is wonderful, but look at this letter.' Colette redirects Andrea's focus. The imperative verb introduces a crucial piece of mail.
-- 'What is going on, Colette?' Andrea senses an important family development. The interrogative phrase asks for immediate clarity.
-- 'It is an official letter from Hicham.' Colette reveals who sent the document. The presentative construction identifies the surprising correspondence.
-- 'It is addressed to the family judge.' Colette specifies the legal context. The passive participle construction indicates formal court communication.
-- 'What does Hicham say in this letter?' Andrea eagerly inquires about the contents. The present verb asks for a summary of his written words.
-- 'He recalls that he is the father.' Colette notes his initial statement of biological fact. The reporting verb introduces his personal opening acknowledgment.
-- 'But he admires our beautiful couple.' Colette shares his respect for their partnership. The coordinating conjunction contrasts biology with their loving domestic unit.
-- 'He wants to protect our little daughter.' Colette describes his deeper intent. The modal verb with an infinitive indicates selflessness for Flora's sake.
-- 'Hicham wrote all that?' Andrea is amazed by his personal maturity. The compound past question expresses happy disbelief.
-- 'He renounces legal recognition of the child.' Colette shares the life-changing waiver. The legal present verb confirms his voluntary surrender of formal paternity.
-- 'I officially become the second parent!' Colette celebrates her secured legal standing. The present linking verb marks her recognized maternal status.
-- 'It is a gesture of immense generosity.' Andrea is deeply touched by his gift. The evaluative noun phrase honors his gracious sacrifice.
+- 'Everything worked out with Beatrice Dalle!' Andrea shares the successful production rescue. The clause hinges on the everyday verb meaning 'worked out'.
+- 'That is wonderful, but look at this letter.' Colette redirects Andrea's focus. The descriptive adjective for 'wonderful' agrees in gender and number with its noun.
+- 'What is going on, Colette?' Andrea senses an important family development. The standard spoken question formula at the front turns the statement about 'is happening' into a natural inquiry.
+- 'It is an official letter from Hicham.' Colette reveals who sent the document. The adjective meaning 'official' takes its feminine form here to match the noun it describes.
+- 'It is addressed to the family judge.' Colette specifies the legal context. Notice how 'addressed' leads directly into the noun meaning 'judge'.
+- 'What does Hicham say in this letter?' Andrea eagerly inquires about the contents. The verb meaning 'says' pairs naturally with the noun for 'mail' in everyday conversation.
+- 'He recalls that he is the father.' Colette notes his initial statement of biological fact. Notice how 'recalls' leads directly into the noun meaning 'father'.
+- 'But he admires our beautiful couple.' Colette shares his respect for their partnership. The descriptive adjective for 'beautiful' agrees in gender and number with its noun.
+- 'He wants to protect our little daughter.' Colette describes his deeper intent. The verb meaning 'wants' pairs naturally with the noun for 'girl' in everyday conversation.
+- 'Hicham wrote all that?' Andrea is amazed by his personal maturity. The clause hinges on the everyday verb meaning 'has'.
+- 'He renounces legal recognition of the child.' Colette shares the life-changing waiver. Notice how 'waives' leads directly into the noun meaning 'child'.
+- 'I officially become the second parent!' Colette celebrates her secured legal standing. The verb meaning 'become' pairs naturally with the noun for 'parent' in everyday conversation.
+- 'It is a gesture of immense generosity.' Andrea is deeply touched by his gift. The key noun here means 'gesture', anchored by its matching French article.
 - 'We form a truly beautiful family!' Colette looks forward to raising Flora together. The present verb celebrates full, recognized parental harmony.

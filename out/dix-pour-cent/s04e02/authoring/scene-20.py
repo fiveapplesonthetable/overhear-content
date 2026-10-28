@@ -117,5 +117,5 @@ WALK = [
 ]
 
 TRANSITION = "Now, listen to the complete dialogue again at normal conversational pace."
-OUTRO = "Elise's sudden arrival late at night sets the stage for an unexpected corporate confrontation."
+OUTRO = "Elise's sudden arrival late at night sets the stage for an unexpected corporate confrontation. When you watch the episode, listen out for the expressions meaning 'been' and 'exhausting'. You'll catch them now. See you next time."
 CLOSING = ("elise", "Prépare-toi à une sacrée surprise.")

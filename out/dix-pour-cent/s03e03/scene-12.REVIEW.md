@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What happened at the screen tests?' Mathias interrogates Camille with sharp suspicion. The interrogative phrase investigates the unexpected turn of events.
-- 'Why did you not answer the telephone?' He demands an explanation for her unreachable status. The negative past question criticizes lack of communication.
-- 'I had a small unexpected issue.' Camille defends herself with a modest excuse. The noun phrase downplays the chaotic situation.
-- 'A small unexpected issue? Are you mocking me?' Mathias expresses incredulity at her casual tone. The pronominal question challenges her seriousness.
-- 'What do we look like right now?' He worries about the professional image of ASK. The idiomatic phrase evokes acute professional embarrassment.
-- 'We look like a wonderful agency!' Camille turns the narrative around with upbeat energy. The positive predicate noun reframes the outcome.
-- 'We just recruited a future sensation!' She reveals the exciting discovery. The near past construction announces a sensational signing.
-- 'The future great star of French cinema!' Camille makes a bold artistic prediction. The expansive noun phrase asserts supreme confidence.
-- 'Did Samy really succeed at his auditions?' Mathias begins to reconsider his anger. The past tense question seeks concrete confirmation.
-- 'Samy totally rocked the audition today!' Camille describes his triumphant performance. The colloquial French verb denotes overwhelming success.
-- 'The producers absolutely want him for tomorrow.' She reports urgent production enthusiasm. The adverbial intensifier confirms strong director interest.
-- 'They want to see him for a callback.' Camille cites the formal invitation. The industry loanword denotes the secondary selection stage.
-- 'And now, I am his talent agent!' She proudly establishes her own managerial status. The present copular statement marks a career milestone.
-- 'You took an enormous risk, Camille.' Mathias acknowledges her bold gamble with caution. The past active verb highlights perilous agency initiative.
+- 'What happened at the screen tests?' Mathias interrogates Camille with sharp suspicion. Notice how the short vowel drops before a vowel sound around 'has', making the phrase flow smoothly as one unit.
+- 'Why did you not answer the telephone?' He demands an explanation for her unreachable status. The informal 'you' form around 'have' marks a direct, personal relationship.
+- 'I had a small unexpected issue.' Camille defends herself with a modest excuse. The verb meaning 'have' pairs naturally with the noun for 'unexpected hitch' in everyday conversation.
+- 'A small unexpected issue? Are you mocking me?' Mathias expresses incredulity at her casual tone. The reflexive pronoun sits right in front of the verb for 'are kidding', turning the action back onto the subject.
+- 'What do we look like right now?' He worries about the professional image of ASK. The verb meaning 'have' pairs naturally with the noun for 'appearance' in everyday conversation.
+- 'We look like a wonderful agency!' Camille turns the narrative around with upbeat energy. Notice how 'have' leads directly into the noun meaning 'look'.
+- 'We just recruited a future sensation!' She reveals the exciting discovery. The adjective meaning 'upcoming' takes its feminine form here to match the noun it describes.
+- 'The future great star of French cinema!' Camille makes a bold artistic prediction. The key noun here means 'leading actor', anchored by its matching French article.
+- 'Did Samy really succeed at his auditions?' Mathias begins to reconsider his anger. This conversational past tense combines a helper verb with the past participle for 'succeeded'.
+- 'Samy totally rocked the audition today!' Camille describes his triumphant performance. The clause hinges on the everyday verb meaning 'has'.
+- 'The producers absolutely want him for tomorrow.' She reports urgent production enthusiasm. The verb meaning 'want' pairs naturally with the noun for 'film producers' in everyday conversation.
+- 'They want to see him for a callback.' Camille cites the formal invitation. Notice how 'want' leads directly into the noun meaning 'callback'.
+- 'And now, I am his talent agent!' She proudly establishes her own managerial status. The key noun here means 'talent manager', anchored by its matching French article.
+- 'You took an enormous risk, Camille.' Mathias acknowledges her bold gamble with caution. The informal 'you' form around 'have' marks a direct, personal relationship.
 - 'But that risk paid off perfectly!' Camille celebrates a decisive professional victory. The celebratory statement closes the debate with triumph.

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Исполняют Марсельезу. | They're singing La Marseillaise. | #302 00:19:44: Исполняют Марсельезу | verbatim |
-| 2 | Аня | Какой приятный вечер. | What a pleasant evening. | new | new |
-| 3 | Аня | Давайте извиним Жак. | Let's forgive Jacques. | #303 00:19:50: Давайте извиним Жак | verbatim |
-| 4 | Аня | Он, видимо, сильно накушался. | He seems to have had too much. | #303 00:19:50: он, видимо<br>#303 00:19:50: сильно накушался | verbatim |
-| 5 | Аня | Даже без нашего блюда. | Even before our dish. | #303 00:19:50: и без нашего блюда | verbatim |
-| 6 | Аня | Он очень устал сегодня. | He is very tired today. | new | new |
-| 7 | Аня | Поэтому он не может есть. | Therefore he cannot eat. | new | new |
-| 8 | Аня | Ну что ж. | Well, then. | #304 00:19:56: Ну что ж | verbatim |
-| 9 | Аня | Тогда дегустатором буду я. | Then I will be the taster. | #304 00:19:56: тогда дегустатором буду я | verbatim |
-| 10 | Аня | Я сам попробую это. | I will try it myself. | new | new |
-| 11 | Аня | Надеюсь, это вкусно. | I hope it's tasty. | new | new |
-| 12 | Аня | Посмотрим, что приготовил повар. | Let's see what the chef cooked. | new | new |
+| 1 | Нагиев | Исполняют Марсельезу. | They're singing La Marseillaise. | #302 00:19:44: Исполняют Марсельезу | verbatim |
+| 2 | Нагиев | Какой приятный вечер. | What a pleasant evening. | new | new |
+| 3 | Нагиев | Давайте извиним Жак. | Let's forgive Jacques. | #303 00:19:50: Давайте извиним Жак | verbatim |
+| 4 | Нагиев | Он, видимо, сильно накушался. | He seems to have had too much. | #303 00:19:50: он, видимо<br>#303 00:19:50: сильно накушался | verbatim |
+| 5 | Нагиев | Даже без нашего блюда. | Even before our dish. | #303 00:19:50: и без нашего блюда | verbatim |
+| 6 | Нагиев | Он очень устал сегодня. | He is very tired today. | new | new |
+| 7 | Нагиев | Поэтому он не может есть. | Therefore he cannot eat. | new | new |
+| 8 | Нагиев | Ну что ж. | Well, then. | #304 00:19:56: Ну что ж | verbatim |
+| 9 | Нагиев | Тогда дегустатором буду я. | Then I will be the taster. | #304 00:19:56: тогда дегустатором буду я | verbatim |
+| 10 | Нагиев | Я сам попробую это. | I will try it myself. | new | new |
+| 11 | Нагиев | Надеюсь, это вкусно. | I hope it's tasty. | new | new |
+| 12 | Нагиев | Посмотрим, что приготовил повар. | Let's see what the chef cooked. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They're singing La Marseillaise.' Dmitry starts with 'to perform' and pairs it with 'La Marseillaise' to make the point clear.
-- 'What a pleasant evening.' Dmitry puts 'nice' up front so the listener immediately catches the tone, followed by 'evening'.
+- 'They're singing La Marseillaise.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'to perform'.
+- 'What a pleasant evening.' Russian omits the present-tense verb 'to be' here, linking 'nice' directly with 'evening', combining 'nice' with 'evening'.
 - 'Let's forgive Jacques.' The key word here means 'let's', which Dmitry combines with 'to excuse'.
 - 'He seems to have had too much.' The verb for 'got drunk' is in the masculine past tense, marked by that 'l' sound at the end.
-- 'Even before our dish.' The key word here means 'of dish', which Dmitry combines with 'of dish'.
-- 'He is very tired today.' Dmitry starts with 'he' and pairs it with 'very much' to make the point clear.
-- 'Therefore he cannot eat.' Dmitry puts 'that's why' up front so the listener immediately catches the tone, followed by 'he'.
-- 'Well, then.' Here 'what' sets up the idea, while 'what' comes at the end for emphasis.
-- 'Then I will be the taster.' A compact expression built around 'back then' and 'I'.
-- 'I will try it myself.' In Russian, 'I' leads into 'this' in a very natural everyday phrasing.
-- 'I hope it's tasty.' Listen for the word meaning 'hope so' right alongside 'this' in this line.
-- 'Let's see what the chef cooked.' Notice the word order: 'have a look' comes first, and 'chef' finishes the sentence.
+- 'Even before our dish.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'of dish'.
+- 'He is very tired today.' Here Nagiyev anchors the line on the word meaning 'very much' and builds the thought around 'am tired' and 'today'.
+- 'Therefore he cannot eat.' The phrasing opens with 'that's why' before bringing in 'can' and 'there is' to make the point clear.
+- 'Well, then.' Russian omits the present-tense verb 'to be' here, linking 'oh' directly with 'what', combining 'oh' with 'what' and 'on earth'.
+- 'Then I will be the taster.' Nagiyev puts the word for 'back then' together with 'taster' and 'will be' in a crisp, natural spoken turn of phrase.
+- 'I will try it myself.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'will try'.
+- 'I hope it's tasty.' Nagiyev chooses the imperfective verb meaning 'hope so' for the ongoing action, followed by 'it's tasty'.
+- 'Let's see what the chef cooked.' The verb for 'cooked' is in the masculine past tense, marked by the '-l' ending.

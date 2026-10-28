@@ -18,10 +18,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Дима | Я ничего не знаю. | I don't know anything. | new | new |
 | 7 | Кристина | Мне Саша все сказала. | Sasha told me everything. | #359 00:22:09: Мне Саша сказала | verbatim |
 | 8 | Кристина | Она тут работает и все видит. | She works here and sees everything. | #359 00:22:09: она тут все видит, она тут работает | verbatim |
-| 9 | Аня | Можно я скажу? | Can I say something? | #361 00:22:14: Можно я скажу | verbatim |
-| 10 | Аня | Виктория Сергеевна — моя девушка. | Victoria Sergeyevna is my girlfriend. | #362 00:22:15: Виктория Сергеевна, моя девушка | verbatim |
-| 11 | Аня | У нас с ней серьезные отношения. | We have a serious relationship. | #362 00:22:15: и у нас с ней серьезные отношения | verbatim |
-| 12 | Аня | Пусть ваша жена извинится перед моей девушкой! | Let your wife apologize to my girlfriend! | #370 00:22:34: чтобы ваша же жена попросила прощения у моей девушки | verbatim |
+| 9 | Макс | Можно я скажу? | Can I say something? | #361 00:22:14: Можно я скажу | verbatim |
+| 10 | Макс | Виктория Сергеевна — моя девушка. | Victoria Sergeyevna is my girlfriend. | #362 00:22:15: Виктория Сергеевна, моя девушка | verbatim |
+| 11 | Макс | У нас с ней серьезные отношения. | We have a serious relationship. | #362 00:22:15: и у нас с ней серьезные отношения | verbatim |
+| 12 | Макс | Пусть ваша жена извинится перед моей девушкой! | Let your wife apologize to my girlfriend! | #370 00:22:34: чтобы ваша же жена попросила прощения у моей девушки | verbatim |
 | 13 | Дима | Пойдем домой, моя родная. | Let's go home, my dear. | #367 00:22:29: Пойдем, моя родная, домой | verbatim |
 | 14 | Дима | Завтра полетим отдыхать, хорошо? | Tomorrow we will fly to rest, okay? | #368 00:22:31: в Анага полетим | verbatim |
 

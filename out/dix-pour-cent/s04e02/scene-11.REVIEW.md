@@ -35,9 +35,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Who are you then, young woman?' Madame Bonnero asks for her true identity. The adverb 'alors' marks a logical transition.
 - 'Let's go in, I explain everything.' Andrea suggests talking inside. The imperative 'entrons' proposes entering together.
 - 'Come into my warm kitchen.' Madame Bonnero welcomes Andrea into her home. The adjective 'chaleureuse' describes a welcoming atmosphere.
-- 'At ASK, we know Dany well.' Andrea underscores the agency's closeness with the star. The preposition 'chez' denotes at the premises of.
-- 'Mathias always took care of him.' Madame Bonnero remembers the former agent fondly. The reflexive verb 's'occuper de' means to look after someone.
+- 'At ASK, we know Dany well.' Andrea underscores the agency's closeness with the star. The clause hinges on the everyday verb meaning 'know'.
+- 'Mathias always took care of him.' Madame Bonnero remembers the former agent fondly. The clause hinges on the everyday verb meaning 'cared for'.
 - 'Mathias abandoned ship.' Andrea uses a vivid metaphor for his sudden departure. The noun 'navire' evokes a seafaring vessel.
 - 'Take the time and eat well.' Madame Bonnero dispenses motherly wisdom. The imperative 'prenez' encourages slowing down.
-- 'I really want to take my time.' Andrea accepts the pause from agency stress. The phrase 'prendre son temps' means to unhurry.
-- 'So, what do we eat together?' Madame Bonnero prepares a generous northern meal. The interrogative pronoun 'qu'est-ce que' asks about the food.
+- 'I really want to take my time.' Andrea accepts the pause from agency stress. Notice how 'want' leads directly into the noun meaning 'time'.
+- 'So, what do we eat together?' Madame Bonnero prepares a generous northern meal. The standard spoken question formula at the front turns the statement about 'eat' into a natural inquiry.

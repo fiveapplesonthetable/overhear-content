@@ -31,13 +31,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Wow, Charlize Theron is back!' Gabriel jokes about the iconic perfume commercial featuring a golden dress. The idiom 'etre de retour' means to be back.
 - 'Thank you! It is a gorgeous dress.' Sofia beams with pride in her high-fashion attire. The adjective 'magnifique' means magnificent or gorgeous.
 - 'What is this beautiful outfit?' Gabriel wonders why she is dressed so formally in the middle of the day. The feminine noun 'tenue' designates an outfit or attire.
-- 'I have a photo session next door.' Sofia explains that her studio is right down the street. The locative phrase 'a cote' means next door or nearby.
+- 'I have a photo session next door.' Sofia explains that her studio is right down the street. Notice how 'have' leads directly into the noun meaning 'session'.
 - 'I just wanted to say hello.' Sofia stepped out during a break to greet her agency friends. The imperfect 'voulais' softens a polite intention.
 - 'That is very kind of you.' Gabriel appreciates her friendly visit to the office. The expression 'de ta part' means on your part or of you.
 - 'Is Camille in her office?' Sofia hopes to catch up with her agent before returning to set. The possessive 'son' is used before masculine singular nouns like 'bureau'.
 - 'No, she went out now.' Gabriel informs her that Camille is temporarily away from her desk. The past participle 'sortie' takes an extra 'e' to agree with a female subject.
 - 'She has an important meeting.' Gabriel explains why Camille had to step out. The feminine noun 'reunion' refers to a business meeting.
 - 'I must go back quickly.' Sofia remembers that the photographer is waiting for her next door. The impersonal structure 'il faut que' expresses necessity.
-- 'You can wait for her in her office.' Gabriel suggests she relax in Camille's room for a few minutes. The direct object pronoun 'la' contracts to 'l' before a vowel.
+- 'You can wait for her in her office.' Gabriel suggests she relax in Camille's room for a few minutes. Gabriel uses the casual singular 'you' with 'can', showing close familiarity.
 - 'All right, I am going to wait for her a bit.' Sofia decides to stay briefly until Camille returns. The quantifier 'un peu' means a little bit.
-- 'See you later, big star!' Gabriel waves goodbye with a playful tease. The farewell 'a tout a l'heure' is used when you will see someone again the same day.
+- 'See you later, big star!' Gabriel waves goodbye with a playful tease. The descriptive adjective for 'big' agrees in gender and number with its noun.

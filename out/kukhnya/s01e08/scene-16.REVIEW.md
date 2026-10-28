@@ -10,15 +10,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну, как тебе новый шеф-повар? | Well, how do you like the new head chef? | #203 00:11:37: Ну и как тебе новый шеф | verbatim |
+| 1 | Сеня | Ну, как тебе новый шеф-повар? | Well, how do you like the new head chef? | #203 00:11:37: Ну и как тебе новый шеф | verbatim |
 | 2 | Федя | Она кажется мне немного скучной. | She seems a bit boring to me. | #204 00:11:40: какая-то она нудная | verbatim |
-| 3 | Аня | Зато она спокойная и вежливая. | On the other hand she is calm and polite. | #205 00:11:42: Зато адекватная | verbatim |
+| 3 | Сеня | Зато она спокойная и вежливая. | On the other hand she is calm and polite. | #205 00:11:42: Зато адекватная | verbatim |
 | 4 | Федя | Это правда, она никогда не кричит. | That is true, she never yells. | #206 00:11:45: Ну да, не то что этот | verbatim |
-| 5 | Аня | С ней на кухне тихо и приятно. | With her the kitchen is quiet and pleasant. | new | new |
+| 5 | Сеня | С ней на кухне тихо и приятно. | With her the kitchen is quiet and pleasant. | new | new |
 | 6 | Шеф | Бездельники! Огрызки! Что вы делаете? | Slackers! Scraps! What are you doing? | #207 00:11:46: Гузки!<br>#208 00:11:48: Огрызки! Огрызки! Уничтожу! | verbatim |
 | 7 | Шеф | Я вернулся навести полный порядок! | I returned to restore complete order! | #208 00:11:48: Уничтожу! | verbatim |
 | 8 | Федя | Шеф, мы просто чистили рыбу. | Chef, we were just cleaning the fish. | #210 00:11:53: Ой, шеф, а мы это | verbatim |
-| 9 | Аня | Мы очень рады видеть вас! | We are very glad to see you! | new | new |
+| 9 | Сеня | Мы очень рады видеть вас! | We are very glad to see you! | new | new |
 | 10 | Шеф | Прекратите болтать и берите ножи! | Stop chatting and take your knives! | #209 00:11:51: Раз, два, два! | verbatim |
 | 11 | Шеф | Кто разрешил вам стоять без дела? | Who permitted you to stand idle? | new | new |
 | 12 | Федя | Мы сейчас всё нарежем, шеф. | We will chop everything right now, chef. | new | new |
@@ -29,4 +29,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'On the other hand she is calm and polite.' The coordinating conjunction contrasts an advantage against a previous mild criticism.
 - 'That is true, she never yells.' A negative statement employing a negative adverb and an imperfective present verb.
 - 'I returned to restore complete order!' The past tense perfective verb pairs with a purpose infinitive to express forceful intent.
-- 'Stop chatting and take your knives!' Two imperative verbs command immediate cessation of talking and return to culinary duties.
+- 'Stop chatting and take your knives!' Two imperative verbs command immediate cessation of talking and return to culinary duties. Now, let's hear the cooks reacting to Chef Barinov's chaotic arrival once more.

@@ -10,8 +10,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Они всех новичков так обманывают? | Do they trick all newcomers like that? | #53 00:03:46: Они всех новичков так разводят | verbatim |
-| 2 | Аня | Мне надо скорее надеть поварской колпак. | I must quickly put on my chef's hat. | #54 00:03:47: И колпак не забудь надеть | verbatim |
+| 1 | Макс | Они всех новичков так обманывают? | Do they trick all newcomers like that? | #53 00:03:46: Они всех новичков так разводят | verbatim |
+| 2 | Макс | Мне надо скорее надеть поварской колпак. | I must quickly put on my chef's hat. | #54 00:03:47: И колпак не забудь надеть | verbatim |
 | 3 | Вика | Шеф, сегодня пятнадцатое число, ты помнишь? | Chef, today is the fifteenth, do you remember? | #60 00:04:08: Сегодня пятнадцатое число<br>#61 00:04:11: Ты помнишь | verbatim |
 | 4 | Вика | Скоро придёт санитарная инспекция ресторана. | Soon the restaurant's sanitary inspection will arrive. | #61 00:04:11: Придет СЭС | verbatim |
 | 5 | Вика | А у тебя на кухне опять бардак! | And in your kitchen there is a mess again! | #61 00:04:11: а у тебя тут опять бардак | verbatim |
@@ -22,22 +22,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Шеф | На кухне ресторана всегда много работы. | There is always a lot of work in a restaurant kitchen. | #67 00:04:28: тут никто не готовил | adapted: new line |
 | 11 | Шеф | Инспекторы ищут нарушения только ради денег. | Inspectors look for violations only for money. | #68 00:04:31: нарушения ищут<br>#69 00:04:35: чтобы за них платили | verbatim |
 | 12 | Вика | Надо срочно навести идеальную чистоту. | We must urgently establish perfect cleanliness. | #72 00:04:44: убирать | adapted: new line |
-| 13 | Аня | Кажется, сегодня у нас большие проблемы. | It seems today we have big problems. | new | new: new line |
-| 14 | Аня | Я пойду мыть полы на кухне. | I will go wash the floors in the kitchen. | new | new: new line |
+| 13 | Макс | Кажется, сегодня у нас большие проблемы. | It seems today we have big problems. | new | new: new line |
+| 14 | Макс | Я пойду мыть полы на кухне. | I will go wash the floors in the kitchen. | new | new: new line |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Do they trick all newcomers like that?' Max realizes he was tricked by the senior cooks.
-- 'I must quickly put on my chef's hat.' Hurrying to cover up and head to the kitchen.
+- 'I must quickly put on my chef's hat.' Here Max anchors the line on the word meaning 'must' and builds the thought around 'quickly' and 'put on'.
 - 'Chef, today is the fifteenth, do you remember?' Vika enters the kitchen with an urgent reminder.
-- 'Soon the restaurant's sanitary inspection will arrive.' Warning Barinov about the strict health audit.
-- 'And in your kitchen there is a mess again!' Accusing the chef of failing basic hygiene standards.
-- 'Where do you see a mess, my dear?' Barinov feigns complete innocence and shock.
-- 'Look for yourself what a clean shelf this is!' Pointing proudly to a solitary wiped surface.
+- 'Soon the restaurant's sanitary inspection will arrive.' Vika expresses this naturally by combining the word for 'soon' with 'will arrive' and 'sanitary'.
+- 'And in your kitchen there is a mess again!' Vika uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', combining 'kitchen' with 'again' and 'mess'.
+- 'Where do you see a mess, my dear?' Here Chef Barinov anchors the line on the word meaning 'where' and builds the thought around 'see' and 'mess'.
+- 'Look for yourself what a clean shelf this is!' Chef Barinov leads with the direct command form meaning 'look', pairing it with 'around' and 'clean'.
 - 'A little money solves any big problems.' The chef openly boasts about paying off inspectors.
-- 'If there were order, we wouldn't pay!' Vika protests against relying on bribes.
-- 'There is always a lot of work in a restaurant kitchen.' Defending the chaotic nature of culinary prep.
+- 'If there were order, we wouldn't pay!' Vika chooses the imperfective verb meaning 'were' for the ongoing action, followed by 'order' and 'pay'.
+- 'There is always a lot of work in a restaurant kitchen.' Russian omits the present-tense verb 'to be' here, linking 'kitchen' directly with 'restaurant', combining 'kitchen' with 'restaurant' and 'always'.
 - 'Inspectors look for violations only for money.' Cynically explaining how local bureaucracy functions.
-- 'We must urgently establish perfect cleanliness.' Insisting on a proper scrub-down of the premises.
-- 'It seems today we have big problems.' Max braces for the coming regulatory storm.
-- 'I will go wash the floors in the kitchen.' Volunteering for menial chores to stay out of trouble.
+- 'We must urgently establish perfect cleanliness.' Vika expresses this naturally by combining the word for 'must' with 'urgently' and 'establish'.
+- 'It seems today we have big problems.' Max uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'it seems' with 'today' and 'big'.
+- 'I will go wash the floors in the kitchen.' Max uses the perfective verb meaning 'will go' to focus on the single completed result, pairing it with 'wash' and 'floors'.

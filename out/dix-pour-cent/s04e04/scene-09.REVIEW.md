@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Welcome to our shelter for elderly animals.' Ulrika shows the stylish Parisian producer around the grounds. The masculine noun 'refuge' means sanctuary or shelter.
-- 'Your work here is truly admirable, Ulrika.' Mathias begins his flattery to gain the author's favor. The adjective 'admirable' means worthy of admiration.
+- 'Your work here is truly admirable, Ulrika.' Mathias begins his flattery to gain the author's favor. Mathias uses the polite 'you' form alongside 'work' to keep a respectful professional tone.
 - 'Do you really like circus animals?' Ulrika checks whether his interest in rescue beasts is genuine. The feminine noun 'betes' means animals or beasts.
 - 'I have always loved protecting animals.' Mathias fabricates a lifelong commitment to animal welfare. The infinitive 'proteger' means to protect.
-- 'That is rare for a Parisian producer.' Ulrika notes that film executives rarely spend time around farm animals. The adjective 'rare' describes unusual occurrences.
-- 'I am a man of heart first.' Mathias lays on his charm with polished elegance. The phrase 'homme de coeur' describes a generous, caring person.
+- 'That is rare for a Parisian producer.' Ulrika notes that film executives rarely spend time around farm animals. The key noun here means 'producer', anchored by its matching French article.
+- 'I am a man of heart first.' Mathias lays on his charm with polished elegance. The key noun here means 'man', anchored by its matching French article.
 - 'We look for very generous new donors.' Ulrika highlights the severe operating expenses of the sanctuary. The adjective 'genereux' describes generous contributors.
 - 'I wish to support your magnificent project.' Mathias promises generous financial assistance to win her book rights. The verb 'soutenir' means to support.
 - 'Come help me with our daily work.' Ulrika invites him past the visitor gates into the pens. The adjective 'quotidien' means daily.
-- 'With pleasure, what must we do together?' Mathias accepts eagerly before knowing the details of the job. The modal verb 'devons' expresses obligation.
+- 'With pleasure, what must we do together?' Mathias accepts eagerly before knowing the details of the job. In everyday spoken French, rising intonation on 'must we' at the end is enough to turn the sentence into a question.
 - 'We are going to feed wild wolves!' Ulrika announces the terrifying chore with cheerful enthusiasm. The masculine noun 'loups' means wolves.
 - 'Wolves? Inside this enclosed pen?' Mathias stammers as his suave composure quickly evaporates. The masculine noun 'enclos' refers to an animal pen.
 - 'Do not be afraid, they are hungry!' Ulrika laughs and encourages the pale agent to enter. The adjective 'affames' describes starving beasts.
-- 'Very well, let us advance with great courage.' Mathias forces a smile while stepping trembling toward the wolves. The noun 'courage' means bravery.
+- 'Very well, let us advance with great courage.' Mathias forces a smile while stepping trembling toward the wolves. The verb meaning 'let us move forward' pairs naturally with the noun for 'courage' in everyday conversation.

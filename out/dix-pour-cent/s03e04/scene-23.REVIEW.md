@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How are you doing?' Gabriel asks Isabelle warmly as he arrives at her home. The expression 'comment ca va' checks on someone's well-being.
-- 'I blame myself a little.' Isabelle admits she feels guilty about exhausting herself. The pronominal idiom 's'en vouloir' means to feel guilty or blame oneself.
-- 'Will the insurance cover the shutdown?' Isabelle worries about the financial consequences of interrupting the shoot. The noun 'interruption' denotes temporary halting of work.
+- 'How are you doing?' Gabriel asks Isabelle warmly as he arrives at her home. The adverb meaning 'how' gives the reply its conversational emphasis.
+- 'I blame myself a little.' Isabelle admits she feels guilty about exhausting herself. The clause hinges on the everyday verb meaning 'blame'.
+- 'Will the insurance cover the shutdown?' Isabelle worries about the financial consequences of interrupting the shoot. In everyday spoken French, rising intonation on 'is going to' at the end is enough to turn the sentence into a question.
 - 'It is not your problem.' Gabriel reassures her that financial matters belong to the producers. The possessive adjective 'ton' agrees with masculine singular nouns.
-- 'You rest at home.' Gabriel insists she take care of herself and stay in bed. The reflexive verb 'se reposer' means to rest.
+- 'You rest at home.' Gabriel insists she take care of herself and stay in bed. The reflexive pronoun sits right in front of the verb for 'rest', turning the action back onto the subject.
 - 'I am not moving anymore now.' Isabelle promises she will not leave the apartment. The negative structure 'ne plus' indicates an action has ceased.
 - 'But what are you doing here?' Gabriel suddenly spots film equipment and cameras in her living room. The adverb 'quoi' is used in informal spoken questions.
 - 'Are you shooting a movie at home?' Gabriel realizes in disbelief that a film crew is present. The verb 'tourner' means to shoot or film a movie.
-- 'It is a small experimental film.' Isabelle explains the artistic nature of the spontaneous project. The adjective 'experimental' describes avant-garde filmmaking.
+- 'It is a small experimental film.' Isabelle explains the artistic nature of the spontaneous project. The key noun here means 'movie', anchored by its matching French article.
 - 'We are doing this quickly.' Isabelle describes the informal speed of the low-budget production. The colloquial idiom 'vite fait' means done quickly or knocked out rapidly.
-- 'You need to rest.' Gabriel reminds her firmly of her doctor's orders. The impersonal expression 'il faut que' takes a subjunctive verb clause.
-- 'But we are having so much fun.' Isabelle defends her passion for filmmaking without commercial pressure. The reflexive verb 's'amuser' means to have fun or enjoy oneself.
+- 'You need to rest.' Gabriel reminds her firmly of her doctor's orders. The informal 'you' form around 'is necessary' marks a direct, personal relationship.
+- 'But we are having so much fun.' Isabelle defends her passion for filmmaking without commercial pressure. The clause hinges on the everyday verb meaning 'are having fun'.
 - 'No contract, no producer.' Isabelle celebrates the pure freedom of making cinema without bureaucracy. The negative preposition 'pas de' expresses complete absence.
 - 'Just the camera and me.' Isabelle concludes with poetic dedication to her lifelong craft. The adverb 'juste' emphasizes simplicity and purity.

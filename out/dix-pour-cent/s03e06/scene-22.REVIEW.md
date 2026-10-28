@@ -31,13 +31,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I play the role of a nurse.' Corinne describes her on-screen character. The verbal phrase 'jouer le role' means to play the part.
 - 'You cared for an elderly patient?' Andrea asks about the touching hospital scene. The verb 'soigner' means to care for or treat medically.
 - 'Yes, elderly Mr. Cardette.' Corinne remembers the specific patient fondly. The courtesy title 'monsieur' precedes the family name.
-- 'He was nearly ninety years old.' Corinne mentions the patient's great age. The compound numeral 'quatre-vingt-dix' designates ninety.
-- 'He only wanted to talk a little.' Corinne evokes the patient's simple wish for company. The restrictive adverb 'seulement' emphasizes his humble request.
+- 'He was nearly ninety years old.' Corinne mentions the patient's great age. The verb meaning 'had' pairs naturally with the noun for 'years' in everyday conversation.
+- 'He only wanted to talk a little.' Corinne evokes the patient's simple wish for company. The clause hinges on the everyday verb meaning 'wanted'.
 - 'But I was desperately short on time.' Corinne describes the relentless pace of nursing. The verb 'manquer de' expresses lacking or being short of something.
 - 'When I returned, he had died.' Corinne recounts the heartbreaking hospital truth. The past tense 'etait mort' describes the tragic discovery.
 - 'Your emotion moved the entire room!' Andrea highlights how profoundly everyone reacted. The verb 'bouleverser' means to move deeply or overwhelm emotionally.
-- 'Claude Lelouch offered me a film.' Corinne shares the thrilling news of a role offer. The compound past verb 'a propose' denotes a formal proposal.
+- 'Claude Lelouch offered me a film.' Corinne shares the thrilling news of a role offer. The verb meaning 'has' pairs naturally with the noun for 'film' in everyday conversation.
 - 'It is an immense honor for you!' Andrea celebrates the prestigious recognition. The noun 'honneur' denotes deep respect and prestige.
 - 'Thank you for this totally incredible evening.' Corinne expresses her warmth and gratitude. The adjective 'incroyable' highlights the surreal, wondrous night.
-- 'Thank you for all this courage, Corinne.' Andrea honors her composure under pressure. The noun 'courage' commends her bravery before the producers.
+- 'Thank you for all this courage, Corinne.' Andrea honors her composure under pressure. The key noun here means 'courage', anchored by its matching French article.
 - 'I was very proud to be your agent!' Andrea closes with sincere professional pride. The adjective 'fiere' indicates deep admiration and pride.

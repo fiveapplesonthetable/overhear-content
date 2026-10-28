@@ -22,20 +22,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Nagiyev | Сделай нам два кофе. | Make us two coffees. | #54 00:03:16: Здрасте, здрасте. Сделай-ка нам два кофе. | verbatim |
 | 11 | Nagiyev | Это Виктория Сергеевна. | This is Viktoria Sergeyevna. | #55 00:03:19: Это Виктория Сергеевна, так сказать, арт-лицо, | verbatim |
 | 12 | Nagiyev | Арт-директор нашего ресторана. | The art director of our restaurant. | #56 00:03:24: арт-директор нашего ресторана. | verbatim |
-| 13 | Аня | Добрый день. | Good afternoon. | #59 00:03:29: Добрый день. Здравствуйте, Игорь. | verbatim |
+| 13 | Вика | Добрый день. | Good afternoon. | #59 00:03:29: Добрый день. Здравствуйте, Игорь. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Here you go, Igor.' — Built around the key proper name meaning 'Igor'.
-- 'This is an oasis of French cuisine.' Notice the word order: 'this' comes first, and 'kitchen' finishes the sentence.
-- 'A bastion of quality.' Here 'enclave' sets up the idea, while 'quality' comes at the end for emphasis.
-- 'So much effort went into this place.' You'll hear 'how much' all the time in the show, here connected with 'here'.
+- 'This is an oasis of French cuisine.' Russian omits the present-tense verb 'to be' here, linking 'oasis' directly with 'French', combining 'oasis' with 'French' and 'kitchen'.
+- 'A bastion of quality.' Russian omits the present-tense verb 'to be' here, linking 'enclave' directly with 'quality', combining 'enclave' with 'quality'.
+- 'So much effort went into this place.' Russian omits the present-tense verb 'to be', connecting 'how much' directly with 'here'.
 - 'A waiter is like my own child.' The question word for 'how' comes right at the start, followed directly by 'child'.
-- 'Oh, hi, Vilyash.' Nagiyev starts with 'hi' and pairs it with 'Vilyash' to make the point clear.
-- 'I am Nastya, actually.' Nastya puts 'I' up front so the listener immediately catches the tone, followed by 'Nastya'.
-- 'She must be new.' In Russian, 'new girl' leads into 'probably' in a very natural everyday phrasing.
-- 'Well, let's keep going.' The first content word means 'let's go', and 'next' rounds out the thought.
-- 'Make us two coffees.' A compact expression built around 'make' and 'of coffee'.
-- 'This is Viktoria Sergeyevna.' Listen for the word meaning 'this' right alongside 'Viktoriya' in this line.
+- 'Oh, hi, Vilyash.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'hi'.
+- 'I am Nastya, actually.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'actually'.
+- 'She must be new.' Russian omits the present-tense verb 'to be' here, linking 'new girl' directly with 'probably', combining 'new girl' with 'probably'.
+- 'Well, let's keep going.' Nagiyev chooses the imperfective verb meaning 'let's go' for the ongoing action, followed by 'next'.
+- 'Make us two coffees.' Dmitry uses the imperative command form of the verb meaning 'make'.
+- 'This is Viktoria Sergeyevna.' Russian omits the present-tense verb 'to be' here, linking 'this' directly with 'Viktoriya', combining 'this' with 'Viktoriya' and 'Sergeyevna'.
 - 'The art director of our restaurant.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'art director' straight to 'restaurant'.
-- 'Good afternoon.' — Notice the adjective meaning 'good' paired with the noun for 'day'.
+- 'Good afternoon.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'day', combining 'good' with 'day'.

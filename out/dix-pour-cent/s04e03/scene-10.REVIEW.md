@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You stole our best clients!' Gabriel accuses her of poaching ASK talent while at StarMedia. The past participle 'vole' comes from the verb 'voler'.
 - 'That is the game of our profession.' Elise defends competitive poaching as standard industry reality. The masculine noun 'metier' means profession or line of work.
 - 'Press the button to go down.' Gabriel just wants the elevator to reach the lobby so he can leave. The verb 'appuyer' means to press.
-- 'Wait, the elevator stops by itself!' Elise notices the machinery shudder and stall. The reflexive verb 's'arreter' means to stop.
+- 'Wait, the elevator stops by itself!' Elise notices the machinery shudder and stall. Notice how 'wait' leads directly into the noun meaning 'elevator'.
 - 'No, we are completely blocked!' Gabriel realizes the cabin is trapped between floors. The adjective 'bloques' means stuck or blocked.
 - 'Do not panic, it is nothing.' Elise tries to reassure her visibly shaking colleague. The negative imperative 'ne panique pas' means do not panic.
 - 'I am extremely claustrophobic!' Gabriel reveals his severe phobia of confined spaces. The adjective 'claustrophobe' describes someone who fears enclosed areas.

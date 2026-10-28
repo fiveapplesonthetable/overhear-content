@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who is this character, anyway?' The casting director asks about the magnetic actor. The informal demonstrative noun highlights his unique persona.
-- 'That is exactly what I came to explain!' Camille eagerly steps forward to offer context. The present motion verb introduces her explanation.
-- 'He is absolutely brilliant!' The director shares his enthusiastic impression. The predicate adjective conveys great admiration.
-- 'Brilliant, meaning very surprising.' He clarifies the unusual nature of the performance. The compound adverbial link explains his specific nuance.
-- 'He is not at all the intended character.' He acknowledges the departure from the script. The emphatic negative phrase notes the creative contrast.
-- 'But afterwards, I understood right away.' The director describes having an artistic revelation. The past tense verb indicates sudden appreciation.
-- 'I saw exactly what you saw.' He validates the agent's artistic eye. The relative clause emphasizes shared artistic perception.
-- 'He is a genuine raw talent!' The director identifies rare natural ability. The descriptive adjective pair praises unpolished instinct.
-- 'He has great explosive strength.' He praises the physical intensity on camera. The noun phrase describes powerful screen presence.
-- 'And he also has a lot of sensitivity.' He notes the emotional depth balancing the aggression. The abstract noun complements the actor's profile.
-- 'It is genuinely fascinating for the film.' He envisions the character on screen. The modern intensifier stresses compelling potential.
-- 'And who is his talent agent?' The director seeks the professional representative. The interrogative sentence opens business representation.
-- 'I am his agent!' Camille seizes her opportunity with confidence. The emphatic pronoun phrase claims exclusive management.
-- 'Camille Valentini, from the ASK agency.' She introduces herself formally. The proper noun phrase asserts agency affiliation.
+- 'Who is this character, anyway?' The casting director asks about the magnetic actor. The key noun here means 'remarkable sensation', anchored by its matching French article.
+- 'That is exactly what I came to explain!' Camille eagerly steps forward to offer context. Dropping the subject pronoun turns the verb for 'am coming' into a direct, punchy command.
+- 'He is absolutely brilliant!' The director shares his enthusiastic impression. The adverb meaning 'totally' gives the reply its conversational emphasis.
+- 'Brilliant, meaning very surprising.' He clarifies the unusual nature of the performance. Notice how the short vowel drops before a vowel sound around 'the next word', making the phrase flow smoothly as one unit.
+- 'He is not at all the intended character.' He acknowledges the departure from the script. This conversational past tense combines a helper verb with the past participle for 'expected'.
+- 'But afterwards, I understood right away.' The director describes having an artistic revelation. This conversational past tense combines a helper verb with the past participle for 'grasped'.
+- 'I saw exactly what you saw.' He validates the agent's artistic eye. The formal 'you' pronoun sets a courteous, professional distance around 'have'.
+- 'He is a genuine raw talent!' The director identifies rare natural ability. The descriptive adjective for 'genuine' agrees in gender and number with its noun.
+- 'He has great explosive strength.' He praises the physical intensity on camera. The verb meaning 'has' pairs naturally with the noun for 'dramatic power' in everyday conversation.
+- 'And he also has a lot of sensitivity.' He notes the emotional depth balancing the aggression. The verb meaning 'has' pairs naturally with the noun for 'tender feeling' in everyday conversation.
+- 'It is genuinely fascinating for the film.' He envisions the character on screen. The key noun here means 'feature production', anchored by its matching French article.
+- 'And who is his talent agent?' The director seeks the professional representative. The descriptive adjective for 'creative' agrees in gender and number with its noun.
+- 'I am his agent!' Camille seizes her opportunity with confidence. The key noun here means 'primary representative', anchored by its matching French article.
+- 'Camille Valentini, from the ASK agency.' She introduces herself formally. The key noun here means 'talent agency', anchored by its matching French article.
 - 'Delighted, Camille, congratulations on this discovery!' The director welcomes the young agent warmly. The complimentary greeting celebrates the successful audition.

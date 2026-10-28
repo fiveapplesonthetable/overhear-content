@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Шеф | Сегодня я приготовлю мясо молодого ягнёнка. | Today I will prepare meat of a young lamb. | #20 00:01:02: Я приготовлю сегодня жигой гненка | adapted: adapted |
-| 2 | Аня | Какое интересное и сложное мясное блюдо! | What an interesting and complex meat dish! | #22 00:01:10: Это блюдо | adapted: adapted |
+| 2 | Елена | Какое интересное и сложное мясное блюдо! | What an interesting and complex meat dish! | #22 00:01:10: Это блюдо | adapted: adapted |
 | 3 | Шеф | Такое блюдо лучше всего готовят мужчины. | Men prepare such a dish best of all. | #22 00:01:10: лучше всего удается поварам-мужчинам | adapted: adapted |
-| 4 | Аня | Почему вы говорите такие странные вещи? | Why do you say such strange things? | #28 00:01:26: вы действительно считаете, что | adapted: adapted |
+| 4 | Елена | Почему вы говорите такие странные вещи? | Why do you say such strange things? | #28 00:01:26: вы действительно считаете, что | adapted: adapted |
 | 5 | Шеф | Женщины часто режут мясо совсем неправильно. | Women often cut meat completely incorrectly. | #25 00:01:18: а женщинам что-то норовят поперек | adapted: adapted |
-| 6 | Аня | Вы просто не уважаете женский талант. | You simply do not respect female talent. | new | new: new |
+| 6 | Елена | Вы просто не уважаете женский талант. | You simply do not respect female talent. | new | new: new |
 | 7 | Шеф | Женщина не способна стать великим шефом. | A woman is not capable of becoming a great chef. | #26 00:01:21: женщина априори не может быть хорошим поваром | adapted: adapted |
-| 8 | Аня | Я руковожу кухней известного ресторана Аркабалено! | I run the kitchen of the famous Arcobaleno restaurant! | new | new: new |
+| 8 | Елена | Я руковожу кухней известного ресторана Аркабалено! | I run the kitchen of the famous Arcobaleno restaurant! | new | new: new |
 | 9 | Шеф | Настоящий шеф-повар требует сильной воли. | A real head chef requires strong willpower. | #27 00:01:25: Женщина на кухне — это кухарка | adapted: adapted |
-| 10 | Аня | У меня есть опыт и сильная воля. | I have experience and strong willpower. | new | new: new |
+| 10 | Елена | У меня есть опыт и сильная воля. | I have experience and strong willpower. | new | new: new |
 | 11 | Шеф | Для вас кухня остаётся обычной работой. | For you the kitchen remains an ordinary job. | new | new: new |
-| 12 | Аня | Кухня — это вся моя жизнь, Виктор! | The kitchen is my whole life, Viktor! | new | new: new |
+| 12 | Елена | Кухня — это вся моя жизнь, Виктор! | The kitchen is my whole life, Viktor! | new | new: new |
 | 13 | Шеф | Мы скоро проверим ваши смелые слова. | We will soon check your bold words. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)

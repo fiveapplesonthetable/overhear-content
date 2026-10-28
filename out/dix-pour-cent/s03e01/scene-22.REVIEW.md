@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing tonight, girls?' Herve asks his fellow assistants about their evening plans.
-- 'Me, I am going to the theater tonight.' Camille shares her cultural plan after work.
-- 'And you Noemie, are you seeing Philippe?' Herve teases Noemie about her romantic interest.
-- 'Who exactly is this Philippe?' Camille asks for background on the mysterious man.
-- 'Well wait, he is her dear neighbour!' Herve reveals that Philippe lives right next door.
-- 'In fact, Philippe is a married man.' Noemie explains the complicated marital status of her lover.
-- 'We had a little secret affair.' Noemie admits they shared a discreet past relationship.
-- 'They live in the same building!' Herve points out the awkward proximity of the living situation.
-- 'You should perhaps change apartments.' Camille suggests moving away to avoid daily run-ins.
-- 'Oh no, I am staying here!' Noemie firmly refuses to leave her home because of him.
-- 'It is up to him to move, honestly.' Noemie insists that Philippe should be the one to relocate.
-- 'I clearly see his discreet glances.' Noemie notices lingering signs of mutual attraction in the hallways.
-- 'I know he still thinks of me!' Noemie remains convinced of his ongoing feelings.
-- 'You love very complicated situations!' Herve humorously highlights Noemie's taste for drama.
+- 'What are you doing tonight, girls?' Herve asks his fellow assistants about their evening plans. The verb meaning 'are you doing' pairs naturally with the noun for 'evening' in everyday conversation.
+- 'Me, I am going to the theater tonight.' Camille shares her cultural plan after work. Notice how 'am going' leads directly into the noun meaning 'theater'.
+- 'And you Noemie, are you seeing Philippe?' Herve teases Noemie about her romantic interest. Herve uses the casual singular 'you' with 'are seeing', showing close familiarity.
+- 'Who exactly is this Philippe?' Camille asks for background on the mysterious man. The adverb meaning 'exactly' gives the reply its conversational emphasis.
+- 'Well wait, he is her dear neighbour!' Herve reveals that Philippe lives right next door. The verb meaning 'wait' pairs naturally with the noun for 'neighbour' in everyday conversation.
+- 'In fact, Philippe is a married man.' Noemie explains the complicated marital status of her lover. The key noun here means 'man', anchored by its matching French article.
+- 'We had a little secret affair.' Noemie admits they shared a discreet past relationship. This conversational past tense combines a helper verb with the past participle for 'had'.
+- 'They live in the same building!' Herve points out the awkward proximity of the living situation. Notice how 'live' leads directly into the noun meaning 'building'.
+- 'You should perhaps change apartments.' Camille suggests moving away to avoid daily run-ins. The verb meaning 'should' pairs naturally with the noun for 'apartment' in everyday conversation.
+- 'Oh no, I am staying here!' Noemie firmly refuses to leave her home because of him. The clause hinges on the everyday verb meaning 'stay'.
+- 'It is up to him to move, honestly.' Noemie insists that Philippe should be the one to relocate. The clause hinges on the everyday verb meaning 'to move out'.
+- 'I clearly see his discreet glances.' Noemie notices lingering signs of mutual attraction in the hallways. The descriptive adjective for 'discreet' agrees in gender and number with its noun.
+- 'I know he still thinks of me!' Noemie remains convinced of his ongoing feelings. The clause hinges on the everyday verb meaning 'know'.
+- 'You love very complicated situations!' Herve humorously highlights Noemie's taste for drama. The adjective meaning 'complicated' takes its feminine form here to match the noun it describes.

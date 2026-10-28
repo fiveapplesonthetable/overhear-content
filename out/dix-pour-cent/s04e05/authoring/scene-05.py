@@ -47,33 +47,33 @@ OPENER = "Let's walk through it. Elise walks in and asks a favor."
 
 WALK = [
  (0, None,
-  "'Can I intrude?' She asks for permission to interrupt his work."),
+  "'Can I intrude?' She asks for permission to interrupt his work. The clause hinges on the everyday verb meaning 'can'."),
  (1, None,
-  "'Yes, of course.' He welcomes her in without suspicion."),
+  "'Yes, of course.' He welcomes her in without suspicion. The descriptive adjective for 'sure' agrees in gender and number with its noun."),
  (2, None,
-  "'Give me Monica Bellucci's contact.' She immediately asks for a major client's details."),
+  "'Give me Monica Bellucci's contact.' She immediately asks for a major client's details. Notice how 'to give' leads directly into the noun meaning 'contact'."),
  (3, None,
-  "'Yes. What for?' He is a bit surprised by the direct request."),
+  "'Yes. What for?' He is a bit surprised by the direct request. In everyday spoken French, rising intonation on 'to do' at the end is enough to turn the sentence into a question."),
  (4, None,
-  "'To organize meetings.' She explains that it is for the agency's benefit."),
+  "'To organize meetings.' She explains that it is for the agency's benefit. The clause hinges on the everyday verb meaning 'to organize'."),
  (5, None,
-  "'We really have to think as a team.' She uses corporate teamwork language to manipulate him."),
+  "'We really have to think as a team.' She uses corporate teamwork language to manipulate him. The verb meaning 'to be necessary' pairs naturally with the noun for 'team' in everyday conversation."),
  (6, None,
-  "'We already do that.' He defends their current level of collaboration."),
+  "'We already do that.' He defends their current level of collaboration. The key noun here means 'reality', anchored by its matching French article."),
  (7, None,
-  "'But perhaps not enough.' She gently pushes back and insists they need to do more."),
+  "'But perhaps not enough.' She gently pushes back and insists they need to do more. The adverb meaning 'maybe' gives the reply its conversational emphasis."),
  (8, None,
-  "'OK, I will send you her card.' He gives in and agrees to share his star client."),
+  "'OK, I will send you her card.' He gives in and agrees to share his star client. The formal 'you' pronoun sets a courteous, professional distance around 'to send'."),
  (9, None,
-  "'Very good. And Dujardin's?' She immediately pushes her luck and asks for another star."),
+  "'Very good. And Dujardin's?' She immediately pushes her luck and asks for another star. In everyday spoken French, rising intonation on 'the key idea' at the end is enough to turn the sentence into a question."),
  (10, None,
-  "'Jean is with Andrea.' He clarifies that Jean Dujardin is represented by his colleague."),
+  "'Jean is with Andrea.' He clarifies that Jean Dujardin is represented by his colleague. The clause hinges on the everyday verb meaning 'to be'."),
  (11, None,
-  "'She is swamped, let's not bother her.' Elise quickly drops the subject to avoid dealing with Andrea."),
+  "'She is swamped, let's not bother her.' Elise quickly drops the subject to avoid dealing with Andrea. The adjective meaning 'overwhelmed' takes its feminine form here to match the noun it describes."),
  (12, None,
-  "'Thanks, Gaby!' She leaves with a cheerful, overly familiar goodbye.")
+  "'Thanks, Gaby!' She leaves with a cheerful, overly familiar goodbye. A short, idiomatic conversational reply that keeps the exchange moving naturally.")
 ]
 
 TRANSITION = "Now let's hear the scene once more."
-OUTRO = "Elise just smoothly extracted a major client's contact from Gabriel. See you next time."
+OUTRO = "Elise just smoothly extracted a major client's contact from Gabriel. When you watch the episode, listen out for the expressions meaning 'to allow' and 'sure'. You'll catch them now. See you next time."
 CLOSING = ("gabriel", "À bientôt!")

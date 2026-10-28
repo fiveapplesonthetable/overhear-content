@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Traitor's daughter, that is what he thinks.' Camille feels stung by office accusations against her father.
-- 'One must sometimes get one's hands dirty.' Noemie defends Mathias's aggressive maneuvers to secure his position.
-- 'You are pathetic defending him like that!' Herve criticizes Noemie's unconditional loyalty to Mathias.
-- 'And what about you with your little schemes?' Noemie reminds Herve of the junior agents' own plotting.
-- 'We all have a skeleton in the closet!' Noemie points out that nobody at ASK is completely blameless.
-- 'But we never betrayed anyone!' Herve insists on a moral distinction between their actions and Mathias's buyout.
-- 'I believed that we were friends.' Camille laments the damage done to their close workplace friendships.
-- 'Mathias is only looking to save his future.' Noemie explains Mathias's motivations under heavy pressure.
-- 'There is nothing left to say.' Herve attempts to end the painful argument.
-- 'It is up to me to tidy up everything here.' Herve prepares to clean the messy offices alone.
-- 'Wait Herve, we are going to help you.' Camille refuses to let her friend clean in isolation.
-- 'Yes, let's prepare this evening together.' Noemie joins in solidarity before the arrival of guests.
-- 'Thank you ladies, let's put away these files.' Herve accepts their help with genuine relief.
+- 'Traitor's daughter, that is what he thinks.' Camille feels stung by office accusations against her father. In spoken French, the little word before 'thinks.' drops its final vowel and attaches with an apostrophe.
+- 'One must sometimes get one's hands dirty.' Noemie defends Mathias's aggressive maneuvers to secure his position. The reflexive pronoun sits right in front of the verb for 'must', turning the action back onto the subject.
+- 'You are pathetic defending him like that!' Herve criticizes Noemie's unconditional loyalty to Mathias. The clause hinges on the everyday verb meaning 'defending'.
+- 'And what about you with your little schemes?' Noemie reminds Herve of the junior agents' own plotting. The formal 'you' pronoun sets a courteous, professional distance around 'schemes?'.
+- 'We all have a skeleton in the closet!' Noemie points out that nobody at ASK is completely blameless. Notice how 'have' leads directly into the noun meaning 'skeleton'.
+- 'But we never betrayed anyone!' Herve insists on a moral distinction between their actions and Mathias's buyout. The two-part French negation brackets the verb for 'have' on both sides.
+- 'I believed that we were friends.' Camille laments the damage done to their close workplace friendships. Notice how 'thought' leads directly into the noun meaning 'friends.'.
+- 'Mathias is only looking to save his future.' Noemie explains Mathias's motivations under heavy pressure. The verb meaning 'is seeking' pairs naturally with the noun for 'future.' in everyday conversation.
+- 'There is nothing left to say.' Herve attempts to end the painful argument. In spoken French, the little word before 'say.' drops its final vowel and attaches with an apostrophe.
+- 'It is up to me to tidy up everything here.' Herve prepares to clean the messy offices alone. The clause hinges on the everyday verb meaning 'it is'.
+- 'Wait Herve, we are going to help you.' Camille refuses to let her friend clean in isolation. Camille uses the casual singular 'you' with 'wait', showing close familiarity.
+- 'Yes, let's prepare this evening together.' Noemie joins in solidarity before the arrival of guests. The verb meaning 'let's prepare' pairs naturally with the noun for 'party' in everyday conversation.
+- 'Thank you ladies, let's put away these files.' Herve accepts their help with genuine relief. Notice how 'let's put away' leads directly into the noun meaning 'girls'.

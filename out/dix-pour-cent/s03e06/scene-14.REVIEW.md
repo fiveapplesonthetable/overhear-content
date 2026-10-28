@@ -38,6 +38,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The noise gives a dramatic tone.' Gabriel highlights the poetic mood. The adjective 'dramatique' conveys heightened theatrical intensity.
 - 'This crunching ruins all the emotion.' The director remains unconvinced by the sound. The verb 'gacher' means to spoil or ruin something.
 - 'The sound engineer can clean that.' Gabriel suggests fixing the audio in postproduction. The modal verb 'peut' indicates technical capability.
-- 'You always have a solution, Gabriel.' The director admires Gabriel's endless resourcefulness. The adverb 'toujours' expresses constant persistence.
+- 'You always have a solution, Gabriel.' The director admires Gabriel's endless resourcefulness. Notice how 'have' leads directly into the noun meaning 'solution'.
 - 'Let's keep this wonderful take now.' Gabriel presses to save the take and move on. The imperative 'gardons' calls for retaining the shot.
-- 'Agreed, it is good for me!' The director finally gives his approval. The phrase 'c'est bon' signals complete satisfaction.
+- 'Agreed, it is good for me!' The director finally gives his approval. In spoken French, the little word before 'the next word' drops its final vowel and attaches with an apostrophe.

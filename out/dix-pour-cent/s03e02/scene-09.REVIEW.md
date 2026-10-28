@@ -36,8 +36,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You are not seeing Philippe again, at least?' Herve suspects an illicit rendezvous. The interrogative 'au moins' seeks reassurance against backsliding.
 - 'Of course not, not at all!' Noemie quickly defends herself. The phrase 'mais non' expresses indignant denial.
 - 'You are not falling back into it, are you?' Herve warns against repeating past romantic mistakes. The verb 'replonger' metaphorically describes a relapse.
-- 'Friends serve to remind us of truths.' Herve defines genuine friendship. The verb phrase 'servir a' expresses utility and duty.
-- 'We shared very beautiful things with him.' Noemie fondly defends her past affair. The compound past 'avons vecu' recalls shared moments.
+- 'Friends serve to remind us of truths.' Herve defines genuine friendship. The verb meaning 'serve' pairs naturally with the noun for 'friends' in everyday conversation.
+- 'We shared very beautiful things with him.' Noemie fondly defends her past affair. The adjective meaning 'beautiful' takes its feminine form here to match the noun it describes.
 - 'Together, we really freed ourselves.' Noemie describes an exhilarating emotional escape. The reflexive verb 'se liberer' conveys personal liberation.
 - 'We became different from normal life.' Noemie contrasts romance with daily routine. The imperfect 'devenait' depicts a transformative mental state.
 - 'It was really incredible between us.' Noemie highlights the extraordinary passion. The adjective 'incroyable' underscores intense romance.

@@ -10,13 +10,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Бонжорно, синьоры. | Buongiorno, signori. | #127 00:10:20: Бонжорно, сеньоры. | adapted: typo fixed |
+| 1 | Макс | Бонжорно, синьоры. | Buongiorno, signori. | #127 00:10:20: Бонжорно, сеньоры. | adapted: typo fixed |
 | 2 | Ангелина | Добрый день, ресторан Клод Моне. | Good afternoon, Claude Monet restaurant. | #128 00:10:23: Добрый день, ресторан Клод Мане. | adapted: typo fixed |
-| 3 | Аня | Меня зовут Александр. | My name is Alexander. | #130 00:10:26: Меня зовут Александр | adapted: shortened |
-| 4 | Аня | Выставка отменяется. | The exhibition is cancelled. | #132 00:10:33: выставка отменится | adapted: adapted |
-| 5 | Аня | Передайте это Виктории. | Pass this on to Victoria. | #133 00:10:37: Передайте | adapted: adapted |
+| 3 | Макс | Меня зовут Александр. | My name is Alexander. | #130 00:10:26: Меня зовут Александр | adapted: shortened |
+| 4 | Макс | Выставка отменяется. | The exhibition is cancelled. | #132 00:10:33: выставка отменится | adapted: adapted |
+| 5 | Макс | Передайте это Виктории. | Pass this on to Victoria. | #133 00:10:37: Передайте | adapted: adapted |
 | 6 | Ангелина | Хорошо, я передам. | All right, I will pass it on. | new | new: new |
-| 7 | Аня | Граци, синьора, чао-чао. | Grazie, signora, ciao-ciao. | #134 00:10:42: Граци, сеньора<br>#135 00:10:44: Чао-чао. | adapted: combined |
+| 7 | Макс | Граци, синьора, чао-чао. | Grazie, signora, ciao-ciao. | #134 00:10:42: Граци, сеньора<br>#135 00:10:44: Чао-чао. | adapted: combined |
 | 8 | Ангелина | Да, алло. Виктория Сергеевна, здравствуйте. | Yes, hello. Victoria Sergeyevna, hello. | #138 00:10:58: Да, алло. Виктория Сергеевна, здравствуйте | verbatim |
 | 9 | Ангелина | Звонил представитель выставки из Милана. | A representative of the exhibition from Milan called. | #139 00:11:01: Звонил представитель выставки из Милана | verbatim |
 | 10 | Ангелина | Он сказал, что она отменяется. | He said that it is cancelled. | #139 00:11:01: сказал, что она отменяется. | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Buongiorno, signori.' -- Max starts his performance with a terrible Italian accent.
-- 'Good afternoon, Claude Monet restaurant.' -- The hostess answers the phone politely.
-- 'My name is Alexander.' -- Max introduces himself using a fake identity.
-- 'The exhibition is cancelled.' -- He delivers the crucial fake news about Milan.
-- 'Pass this on to Victoria.' -- He makes sure his manager gets the message.
-- 'All right, I will pass it on.' -- Angelina takes the important message seriously.
-- 'Grazie, signora, ciao-ciao.' -- Max ends the phone call with more bad Italian.
-- 'Yes, hello. Victoria Sergeyevna, hello.' -- The hostess greets her boss nervously.
-- 'A representative of the exhibition from Milan called.' -- She reports the urgent news immediately.
-- 'He said that it is cancelled.' -- The manager receives the shocking information.
-- 'Oh, really? I am already in Domodedovo.' -- Vika is standing right at the airport.
-- 'I almost flew away.' -- She realizes how close she was to leaving.
-- 'Thank you for warning me.' -- The relieved manager thanks her employee.
+- 'Buongiorno, signori.' Russian omits the present-tense verb 'to be' here, linking 'buongiorno' directly with 'signora' to make the point directly in conversation.
+- 'Good afternoon, Claude Monet restaurant.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'day', combining 'good' with 'day' and 'restaurant'.
+- 'My name is Alexander.' Max delivers a punchy conversational reaction built around the Russian word meaning 'call'.
+- 'The exhibition is cancelled.' Max expresses this naturally by combining the word for 'exhibition' with 'is canceled'.
+- 'Pass this on to Victoria.' Max leads with the direct command form meaning 'to pass on' to make the point directly in conversation.
+- 'All right, I will pass it on.' Here Angelina anchors the line on the word meaning 'good' and builds the thought around 'will pass on'.
+- 'Grazie, signora, ciao-ciao.' Russian omits the present-tense verb 'to be' here, linking 'grazie' directly with 'signora', followed by 'ciao-ciao'.
+- 'Yes, hello. Victoria Sergeyevna, hello.' Russian omits the present-tense verb 'to be' here, linking 'hello?' directly with 'hello', combining 'hello?' with 'hello'.
+- 'A representative of the exhibition from Milan called.' Angelina chooses the imperfective verb meaning 'called' for the ongoing action, followed by 'representative' and 'exhibition'.
+- 'He said that it is cancelled.' Angelina uses the perfective verb meaning 'said' to focus on the single completed result, pairing it with 'is canceled'.
+- 'Oh, really? I am already in Domodedovo.' Russian omits the present-tense verb 'to be' here, linking 'honestly' directly with 'already', combining 'honestly' with 'already'.
+- 'I almost flew away.' Vika expresses this naturally by combining the word for 'nearly' with 'to fly away'.
+- 'Thank you for warning me.' Vika puts the word for 'thank you' together with 'warned' in a crisp, natural spoken turn of phrase.

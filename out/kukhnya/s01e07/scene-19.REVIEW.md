@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Алло, Костя, ты меня слышишь? | Hello, Kostya, do you hear me? | #352 00:23:34: Алло. | adapted: Max calls on phone |
+| 1 | Макс | Алло, Костя, ты меня слышишь? | Hello, Kostya, do you hear me? | #352 00:23:34: Алло. | adapted: Max calls on phone |
 | 2 | Костя | Макс, привет, что случилось? | Max, hi, what happened? | new | new: Kostya answers |
-| 3 | Аня | Я стою ночью прямо на улице. | I am standing at night right on the street. | new | new: Max explains predicament |
+| 3 | Макс | Я стою ночью прямо на улице. | I am standing at night right on the street. | new | new: Max explains predicament |
 | 4 | Костя | А почему ты не поехал к другу? | And why did you not go to your friend? | new | new: Kostya asks |
-| 5 | Аня | Мне дали чужой домашний адрес. | They gave me someone else's home address. | new | new: Max explains mix-up |
+| 5 | Макс | Мне дали чужой домашний адрес. | They gave me someone else's home address. | new | new: Max explains mix-up |
 | 6 | Костя | И к кому ты в итоге пришёл? | And whose place did you end up at? | new | new: Kostya wonders |
-| 7 | Аня | Я пришёл к нашему кондитеру Луи! | I arrived at our pastry chef Louis's place! | new | new: Max reveals shock |
+| 7 | Макс | Я пришёл к нашему кондитеру Луи! | I arrived at our pastry chef Louis's place! | new | new: Max reveals shock |
 | 8 | Костя | К Луи? С чемоданом и вещами? | To Louis? With a suitcase and things? | new | new: Kostya is amazed |
-| 9 | Аня | Да, ещё и с букетом цветов! | Yes, and with a bouquet of flowers too! | new | new: Max confesses embarrassment |
+| 9 | Макс | Да, ещё и с букетом цветов! | Yes, and with a bouquet of flowers too! | new | new: Max confesses embarrassment |
 | 10 | Костя | Вот это парни над тобой подшутили! | Now that is a prank the guys played on you! | new | new: Kostya laughs |
-| 11 | Аня | Луи подумал, что я в него влюблён. | Louis thought that I was in love with him. | new | new: Max shares misunderstanding |
+| 11 | Макс | Луи подумал, что я в него влюблён. | Louis thought that I was in love with him. | new | new: Max shares misunderstanding |
 | 12 | Костя | И что он тебе сказал? | And what did he tell you? | new | new: Kostya asks amused |
-| 13 | Аня | Сказал, что его сердце уже занято. | He said that his heart is already taken. | #348 00:23:12: Мое сердце занято. | adapted: Max quotes Louis |
+| 13 | Макс | Сказал, что его сердце уже занято. | He said that his heart is already taken. | #348 00:23:12: Мое сердце занято. | adapted: Max quotes Louis |
 | 14 | Костя | Приезжай ко мне, будем ночевать вместе. | Come over to my place, we will stay the night together. | new | new: Kostya invites |
 
 ## Walk-through narration (English only, no target-language words quoted)

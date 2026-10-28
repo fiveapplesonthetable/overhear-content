@@ -34,14 +34,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You should not have traveled out here.' Jean minimizes the necessity of her visit. The imperfect 'fallait pas' frames an unnecessary effort.
 - 'But there is a real emergency for you!' Andrea highlights the critical situation. The noun phrase 'une vraie urgence' signals immediate crisis.
 - 'You need a shower immediately.' Andrea points bluntly to his neglected hygiene. The idiom 'avoir besoin de' expresses pressing personal necessity.
-- 'Yes, that is what my wife tells me too.' Jean concedes his family's complaints. The relative clause 'ce que me dit' reports third-party opinions.
-- 'Do not worry, it is not serious.' Jean brushes aside her sanitary concerns. The negative phrase 'c'est pas grave' downplays the issue.
+- 'Yes, that is what my wife tells me too.' Jean concedes his family's complaints. In spoken French, the little word before 'it is' drops its final vowel and attaches with an apostrophe.
+- 'Do not worry, it is not serious.' Jean brushes aside her sanitary concerns. The descriptive adjective for 'serious' agrees in gender and number with its noun.
 - 'It is the natural smell of the earth.' Jean romanticizes his outdoor grime. The noun 'odeur' refers to sensory atmospheric scent.
-- 'No, it is rather a smell of putrefaction.' Andrea counters with brutal honesty. The visceral noun 'putrefaction' describes organic decay.
+- 'No, it is rather a smell of putrefaction.' Andrea counters with brutal honesty. Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit.
 - 'You live in such a sanitized world!' Jean criticizes artificial modern comfort. The past participle 'aseptise' describes an excessively clean environment.
 - 'Look up there, that is a buzzard.' Jean spots a bird of prey overhead. The feminine noun 'buse' denotes a wild predatory hawk.
-- 'Do you see how it circles around?' Jean interprets the raptor's flight path. The phrase 'tourne en rond' describes circular hovering.
+- 'Do you see how it circles around?' Jean interprets the raptor's flight path. The informal 'you' form around 'see' marks a direct, personal relationship.
 - 'It is coming to steal something from me.' Jean projects paranoia onto the bird. The motion structure 'vient pour voler' expresses intended action.
-- 'Jean, you have an important meeting tomorrow.' Andrea tries to anchor him in reality. The noun phrase 'rendez-vous important' reminds him of work duties.
+- 'Jean, you have an important meeting tomorrow.' Andrea tries to anchor him in reality. The descriptive adjective for 'important' agrees in gender and number with its noun.
 - 'Here, I feel free and alive.' Jean defends his primitive outdoor lifestyle. The adjective pair 'libre et vivant' celebrates emotional liberation.
 - 'You must become an actor again now.' Andrea delivers her firm managerial verdict. The modal verb 'dois redevenir' demands a return to civilized professional life.

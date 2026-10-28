@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I share this prize with my team.' Xavier Beauvois addresses the hall from the podium. The present tense verb expresses heartfelt generosity.
-- 'Xavier Beauvois won the big prize.' Andrea whispers to Gabriel in the auditorium. The compound past highlights the director's major triumph.
-- 'He is going to present his next ambitious project.' Gabriel leans forward attentively. The near future verb introduces the upcoming pitch.
-- 'This project will be a totally crazy film.' Xavier describes the daring aesthetic of his script. The simple future promises an unconventional movie.
-- 'He is probably looking for a solid producer.' Andrea evaluates the financial needs of the project. The adverbial phrase weighs the business side.
-- 'Listen carefully to what he will announce.' Gabriel gestures for quiet as the director speaks. The imperative verb calls for sharp attention.
-- 'I am going to work with a crazy producer.' Xavier smiles broadly into the spotlights. The repetitive adjective builds suspense on stage.
-- 'Whom is he talking about before everyone?' Andrea frowns in growing curiosity. The interrogative phrase anticipates the dramatic reveal.
-- 'Mathias Barneville, my dear producer friend!' Xavier calls out the familiar name with enthusiasm. The affectionate noun phrase stuns the room.
-- 'What did he just say there?' Andrea gasps in utter astonishment. The idiom venir de with infinitive conveys her immediate disbelief.
-- 'He spoke the name of Mathias!' Gabriel turns to her with wide eyes. The compound past confirms the unexpected bombshell.
-- 'Did Mathias secretly betray our agreement?' Andrea grasps the full weight of the move. The adverb en secret underlines the deceit.
-- 'He partners directly with directors.' Gabriel recognizes the tactical threat to the agency. The reflexive verb describes his independent venture.
+- 'I share this prize with my team.' Xavier Beauvois addresses the hall from the podium. Notice how 'share' leads directly into the noun meaning 'prize'.
+- 'Xavier Beauvois won the big prize.' Andrea whispers to Gabriel in the auditorium. The verb meaning 'has' pairs naturally with the noun for 'prize' in everyday conversation.
+- 'He is going to present his next ambitious project.' Gabriel leans forward attentively. The descriptive adjective for 'next' agrees in gender and number with its noun.
+- 'This project will be a totally crazy film.' Xavier describes the daring aesthetic of his script. Notice how 'will be' leads directly into the noun meaning 'project'.
+- 'He is probably looking for a solid producer.' Andrea evaluates the financial needs of the project. The descriptive adjective for 'solid' agrees in gender and number with its noun.
+- 'Listen carefully to what he will announce.' Gabriel gestures for quiet as the director speaks. French forms the near future by pairing the present tense of 'to go' directly with 'to announce'.
+- 'I am going to work with a crazy producer.' Xavier smiles broadly into the spotlights. The descriptive adjective for 'crazy' agrees in gender and number with its noun.
+- 'Whom is he talking about before everyone?' Andrea frowns in growing curiosity. Inverting the verb and pronoun around 'does he speak' creates a crisp, polished question.
+- 'Mathias Barneville, my dear producer friend!' Xavier calls out the familiar name with enthusiasm. The key noun here means 'friend', anchored by its matching French article.
+- 'What did he just say there?' Andrea gasps in utter astonishment. The standard spoken question formula at the front turns the statement about 'comes' into a natural inquiry.
+- 'He spoke the name of Mathias!' Gabriel turns to her with wide eyes. This conversational past tense combines a helper verb with the past participle for 'spoken'.
+- 'Did Mathias secretly betray our agreement?' Andrea grasps the full weight of the move. This conversational past tense combines a helper verb with the past participle for 'betrayed'.
+- 'He partners directly with directors.' Gabriel recognizes the tactical threat to the agency. Notice how 'associates' leads directly into the noun meaning 'directors'.
 - 'This betrayal changes the game completely.' Andrea stares grimly toward the stage. The colloquial idiom marks a radical shift in power.

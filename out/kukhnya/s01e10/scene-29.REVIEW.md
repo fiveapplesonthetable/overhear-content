@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Вот товар, как вы заказывали, шеф. | Here is the goods, as you ordered, chef. | #204 00:14:00: вы заказывали | adapted: adapted |
+| 1 | Сеня | Вот товар, как вы заказывали, шеф. | Here is the goods, as you ordered, chef. | #204 00:14:00: вы заказывали | adapted: adapted |
 | 2 | Шеф | Открывай коробку и покажи мне икру. | Open the box and show me the caviar. | new | new: new |
-| 3 | Аня | Это отличная щучья икра, пять килограммов. | This is excellent pike caviar, five kilograms. | #205 00:14:02: Икра щучья. Пять кило | adapted: adapted |
+| 3 | Сеня | Это отличная щучья икра, пять килограммов. | This is excellent pike caviar, five kilograms. | #205 00:14:02: Икра щучья. Пять кило | adapted: adapted |
 | 4 | Шеф | Она выглядит очень красиво и аппетитно. | It looks very beautiful and appetizing. | new | new: new |
-| 5 | Аня | Цена всего двести рублей за килограмм. | The price is only two hundred rubles per kilogram. | #206 00:14:04: Двести рублей килограмм | adapted: adapted |
+| 5 | Сеня | Цена всего двести рублей за килограмм. | The price is only two hundred rubles per kilogram. | #206 00:14:04: Двести рублей килограмм | adapted: adapted |
 | 6 | Шеф | Это действительно очень дешёвая цена. | This is indeed a very cheap price. | new | new: new |
-| 7 | Аня | Мы сохранили ресторану очень много денег. | We saved the restaurant a lot of money. | new | new: new |
+| 7 | Сеня | Мы сохранили ресторану очень много денег. | We saved the restaurant a lot of money. | new | new: new |
 | 8 | Шеф | Но цвет этой икры слишком жёлтый. | But the color of this caviar is too yellow. | new | new: new |
-| 9 | Аня | Щучья икра всегда бывает жёлтого цвета. | Pike caviar is always yellow in color. | new | new: new |
+| 9 | Сеня | Щучья икра всегда бывает жёлтого цвета. | Pike caviar is always yellow in color. | new | new: new |
 | 10 | Шеф | А гости ждут дорогую чёрную икру. | And the guests expect expensive black caviar. | new | new: new |
-| 11 | Аня | Что же нам делать с этим цветом? | What are we to do with this color? | new | new: new |
+| 11 | Сеня | Что же нам делать с этим цветом? | What are we to do with this color? | new | new: new |
 | 12 | Шеф | У меня появился один хитрый план. | I have got a clever plan. | new | new: new |
-| 13 | Аня | Я готов помочь вам в этом деле. | I am ready to help you in this business. | new | new: new |
+| 13 | Сеня | Я готов помочь вам в этом деле. | I am ready to help you in this business. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is the goods, as you ordered, chef.' -- Senya presents the delivery exactly as instructed.
-- 'Open the box and show me the caviar.' -- Viktor asks to inspect the product visually.
-- 'This is excellent pike caviar, five kilograms.' -- Senya proudly specifies the type and weight of the roe.
-- 'It looks very beautiful and appetizing.' -- The chef acknowledges the appealing quality of the food.
-- 'The price is only two hundred rubles per kilogram.' -- Senya highlights the amazingly low cost.
-- 'This is indeed a very cheap price.' -- Viktor agrees that the bargain was exceptional.
-- 'We saved the restaurant a lot of money.' -- Senya praises their thrifty financial accomplishment.
-- 'But the color of this caviar is too yellow.' -- Viktor identifies an obvious problem with the color.
-- 'Pike caviar is always yellow in color.' -- The cook explains that pike roe naturally has golden shades.
-- 'And the guests expect expensive black caviar.' -- The head chef points out the expectations of wealthy diners.
-- 'What are we to do with this color?' -- Senya wonders how they will solve the chromatic mismatch.
-- 'I have got a clever plan.' -- Viktor hints at a cunning scheme to disguise the fish eggs.
-- 'I am ready to help you in this business.' -- The loyal cook pledges full cooperation in the trick.
+- 'Here is the goods, as you ordered, chef.' Senya puts the word for 'goods' together with 'as' and 'ordered' in a crisp, natural spoken turn of phrase.
+- 'Open the box and show me the caviar.' Chef Barinov leads with the direct command form meaning 'open', pairing it with 'box' and 'show'.
+- 'This is excellent pike caviar, five kilograms.' Russian omits the present-tense verb 'to be' here, linking 'excellent' directly with 'pike', pairing it with 'caviar' and 'five'.
+- 'It looks very beautiful and appetizing.' Chef Barinov chooses the imperfective verb meaning 'looks' for the ongoing action, followed by 'very' and 'beautifully'.
+- 'The price is only two hundred rubles per kilogram.' Russian omits the present-tense verb 'to be' here, linking 'price' directly with 'two hundred', combining 'price' with 'two hundred' and 'rubles'.
+- 'This is indeed a very cheap price.' Russian omits the present-tense verb 'to be' here, linking 'really' directly with 'very', pairing it with 'cheap' and 'price'.
+- 'We saved the restaurant a lot of money.' Senya uses the perfective verb meaning 'saved' to focus on the single completed result, pairing it with 'for the restaurant' and 'very'.
+- 'But the color of this caviar is too yellow.' Russian omits the present-tense verb 'to be' here, linking 'color' directly with 'caviar', pairing it with 'too' and 'yellow'.
+- 'Pike caviar is always yellow in color.' Senya puts the word for 'pike' together with 'caviar' and 'always' in a crisp, natural spoken turn of phrase.
+- 'And the guests expect expensive black caviar.' Here Chef Barinov anchors the line on the word meaning 'guests' and builds the thought around 'wait for' and 'expensive'.
+- 'What are we to do with this color?' Senya chooses the imperfective verb meaning 'to do' for the ongoing action, followed by 'color'.
+- 'I have got a clever plan.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'appeared' and 'one'.
+- 'I am ready to help you in this business.' Senya puts the word for 'ready' together with 'to help' and 'matter' in a crisp, natural spoken turn of phrase.

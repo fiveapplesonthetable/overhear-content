@@ -31,13 +31,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What a magnificent view over the Seine!' Sigourney admires the iconic Parisian panorama. The exclamative adjective 'quelle' introduces the feminine noun 'vue'.
 - 'Hello ma'am! Look at my beautiful souvenirs!' A street vendor invites her to browse his items. The imperative 'regardez' means look at.
 - 'Hello! Do you have Eiffel Towers?' Sigourney asks about miniature models of the monument. The question 'vous avez' asks do you have.
-- 'Yes, I have small miniatures.' The seller displays his collection of tiny replicas. The noun 'miniatures' refers to small scale models.
+- 'Yes, I have small miniatures.' The seller displays his collection of tiny replicas. The verb meaning 'have' pairs naturally with the noun for 'miniatures' in everyday conversation.
 - 'They are really very cute!' Sigourney is charmed by the little trinkets. The feminine plural adjective 'mignonnes' means cute or lovely.
 - 'Which one do you prefer? The golden one?' The seller offers her a shiny gold version. The interrogative pronoun 'laquelle' means which one.
 - 'Yes, I will take this little tower.' Sigourney makes her selection from the stand. The present tense 'je prends' is used to state a purchase choice.
-- 'It is five euros, please.' The vendor tells her the cost of the souvenir. The polite phrase 's'il vous plait' means please.
+- 'It is five euros, please.' The vendor tells her the cost of the souvenir. The key noun here means 'euros', anchored by its matching French article.
 - 'Here, take a ten-euro bill.' Sigourney hands over a banknote to pay. The imperative 'tenez' is used when handing something to someone.
-- 'Thank you very much! Are you waiting for someone?' The vendor notices her looking down the walkway. The indefinite pronoun 'quelqu'un' means someone.
+- 'Thank you very much! Are you waiting for someone?' The vendor notices her looking down the walkway. In everyday spoken French, rising intonation on 'are waiting for' at the end is enough to turn the sentence into a question.
 - 'Yes, I have a secret meeting.' Sigourney shares that she is meeting a mystery companion. The noun 'rendez-vous' means an appointment or meeting.
-- 'Watch out for photographers on the bridge!' The seller points out paparazzi hiding nearby. The warning 'attention a' means watch out for.
+- 'Watch out for photographers on the bridge!' The seller points out paparazzi hiding nearby. The key noun here means 'photographers', anchored by its matching French article.
 - 'Thank you! Ah, here he comes!' Sigourney waves as her companion walks onto the bridge. The expression 'le voila' means there he is.

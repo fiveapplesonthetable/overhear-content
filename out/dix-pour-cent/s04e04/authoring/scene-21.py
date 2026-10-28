@@ -118,5 +118,5 @@ WALK = [
      "The imperative trinquons seals their unexpected sisterhood."),
 ]
 
-OUTRO = "Andréa and Elise raise their glasses in laughter, united in friendship against the daily chaos of show business."
+OUTRO = "Andrea and Elise raise their glasses in laughter, united in friendship against the daily chaos of show business. When you watch the episode, listen out for the expressions meaning 'nanny' and 'fabulous'. You'll catch them now. See you next time."
 CLOSING = ("elise", "Trinquons à notre belle amitié secrète!")

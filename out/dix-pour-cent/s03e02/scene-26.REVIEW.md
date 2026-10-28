@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is Hicham, I cannot take it anymore.' Andrea vents her overwhelming frustration with their boss.
-- 'He is completely suffocating me.' Andrea describes how Hicham micromanages and stifles her work.
-- 'And you, he is crushing you.' Andrea points out the cruel pressure Hicham puts on Gabriel.
-- 'This is no longer possible.' Andrea declares that the current agency dynamic has reached a dead end.
-- 'I cannot take it anymore either.' Gabriel admits that he also feels broken by the hostile environment.
-- 'What if we took off?' Andrea floats a bold and unexpected question of rebellion.
-- 'What? But where to?' Gabriel is instantly taken aback by her sudden suggestion.
-- 'We take all our talent clients.' Andrea envisions bringing their faithful stars along with them.
-- 'We set up our own agency!' Andrea presents her grand vision of starting a new venture together.
-- 'No, that is really impossible.' Gabriel recoils at the immense legal and financial obstacles.
-- 'It is much too risky.' Gabriel worries about the terrifying dangers of an agency mutiny.
-- 'Of course it is risky.' Andrea acknowledges the immense danger with resolute confidence.
-- 'But we will not be the first.' Andrea reminds him that top talent agents split off all the time.
-- 'We would be our own bosses!' Andrea sells the intoxicating freedom of complete independence.
+- 'It is Hicham, I cannot take it anymore.' Andrea vents her overwhelming frustration with their boss. The clause hinges on the everyday verb meaning 'can'.
+- 'He is completely suffocating me.' Andrea describes how Hicham micromanages and stifles her work. The clause hinges on the everyday verb meaning 'smothers'.
+- 'And you, he is crushing you.' Andrea points out the cruel pressure Hicham puts on Gabriel. The informal 'you' form around 'oppresses' marks a direct, personal relationship.
+- 'This is no longer possible.' Andrea declares that the current agency dynamic has reached a dead end. The adverb meaning 'longer' gives the reply its conversational emphasis.
+- 'I cannot take it anymore either.' Gabriel admits that he also feels broken by the hostile environment. The clause hinges on the everyday verb meaning 'can'.
+- 'What if we took off?' Andrea floats a bold and unexpected question of rebellion. In everyday spoken French, rising intonation on 'took off' at the end is enough to turn the sentence into a question.
+- 'What? But where to?' Gabriel is instantly taken aback by her sudden suggestion. In everyday spoken French, rising intonation on 'the key idea' at the end is enough to turn the sentence into a question.
+- 'We take all our talent clients.' Andrea envisions bringing their faithful stars along with them. Notice how 'bring along' leads directly into the noun meaning 'star clients'.
+- 'We set up our own agency!' Andrea presents her grand vision of starting a new venture together. The verb meaning 'found' pairs naturally with the noun for 'talent firm' in everyday conversation.
+- 'No, that is really impossible.' Gabriel recoils at the immense legal and financial obstacles. The adverb meaning 'no' gives the reply its conversational emphasis.
+- 'It is much too risky.' Gabriel worries about the terrifying dangers of an agency mutiny. The descriptive adjective for 'hazardous' agrees in gender and number with its noun.
+- 'Of course it is risky.' Andrea acknowledges the immense danger with resolute confidence. The adverb meaning 'of course' gives the reply its conversational emphasis.
+- 'But we will not be the first.' Andrea reminds him that top talent agents split off all the time. The descriptive adjective for 'pioneers' agrees in gender and number with its noun.
+- 'We would be our own bosses!' Andrea sells the intoxicating freedom of complete independence. The descriptive adjective for 'very own' agrees in gender and number with its noun.
 - 'We can no longer work with him.' Andrea cements the absolute necessity of walking away from Hicham.

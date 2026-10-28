@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I caused you a lot of trouble.' Jean expresses remorse for his disruptive behavior on set.
-- 'You mostly bit that dog!' Andrea brings up the most bizarre incident with irony.
-- 'Is everyone already talking about it?' Jean wonders about the public reaction in Paris.
-- 'All of Paris loves this crazy story!' Andrea assures him that the industry finds it hilarious.
-- 'I make you lose your money.' Jean worries about the heavy financial fallout for his agent.
-- 'I am really sorry for you.' Jean apologizes sincerely to his devoted representative.
-- 'No Jean, I am the one responsible.' Andrea refuses to let him shoulder all the blame.
-- 'Why do you say such a thing?' Jean is surprised by her generous and self-critical attitude.
-- 'I thought about business above all.' Andrea admits she focused excessively on contracts.
-- 'I did not think enough about you.' Andrea regrets neglecting the human emotional toll on her actor.
-- 'This role was too difficult for you.' Andrea recognizes how deeply the extreme part affected him.
-- 'This character completely transformed me.' Jean explains how lost he felt inside the role.
-- 'I should have protected you better, Jean.' Andrea acknowledges her protective duty as an agent.
-- 'Thank you Andrea, you are a true friend.' Jean deeply appreciates her understanding and support.
+- 'I caused you a lot of trouble.' Jean expresses remorse for his disruptive behavior on set. Notice how 'have' leads directly into the noun meaning 'troubles'.
+- 'You mostly bit that dog!' Andrea brings up the most bizarre incident with irony. The informal 'you' form around 'have' marks a direct, personal relationship.
+- 'Is everyone already talking about it?' Jean wonders about the public reaction in Paris. The verb meaning 'is talking' pairs naturally with the noun for 'world' in everyday conversation.
+- 'All of Paris loves this crazy story!' Andrea assures him that the industry finds it hilarious. Dropping the subject pronoun turns the verb for 'adores' into a direct, punchy command.
+- 'I make you lose your money.' Jean worries about the heavy financial fallout for his agent. The reflexive pronoun sits right in front of the verb for 'make', turning the action back onto the subject.
+- 'I am really sorry for you.' Jean apologizes sincerely to his devoted representative. The descriptive adjective for 'sorry' agrees in gender and number with its noun.
+- 'No Jean, I am the one responsible.' Andrea refuses to let him shoulder all the blame. The key noun here means 'one responsible', anchored by its matching French article.
+- 'Why do you say such a thing?' Jean is surprised by her generous and self-critical attitude. Inverting the verb and pronoun around 'do you say' creates a crisp, polished question.
+- 'I thought about business above all.' Andrea admits she focused excessively on contracts. The verb meaning 'have' pairs naturally with the noun for 'business' in everyday conversation.
+- 'I did not think enough about you.' Andrea regrets neglecting the human emotional toll on her actor. This conversational past tense combines a helper verb with the past participle for 'thought'.
+- 'This role was too difficult for you.' Andrea recognizes how deeply the extreme part affected him. Notice how 'was' leads directly into the noun meaning 'role'.
+- 'This character completely transformed me.' Jean explains how lost he felt inside the role. The verb meaning 'has' pairs naturally with the noun for 'character' in everyday conversation.
+- 'I should have protected you better, Jean.' Andrea acknowledges her protective duty as an agent. The reflexive pronoun sits right in front of the verb for 'would have', turning the action back onto the subject.
+- 'Thank you Andrea, you are a true friend.' Jean deeply appreciates her understanding and support. The adjective meaning 'true' takes its feminine form here to match the noun it describes.

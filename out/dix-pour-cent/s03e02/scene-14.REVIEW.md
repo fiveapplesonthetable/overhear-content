@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Andrea, I need to talk to you!' Gabriel seeks immediate emotional comfort. The verbal idiom avoir besoin de expresses necessity.
-- 'Where are you at this late hour?' Andrea wonders about his location. The interrogative adverb où asks where.
-- 'I am in a Parisian taxi.' Gabriel reveals he is traveling alone. The masculine adjective parisien agrees with taxi.
-- 'You left the dinner at Monica's?' Andrea expresses mild surprise. The compound past as quitté comes from quitter.
-- 'Yes, it is Hicham's fault!' Gabriel shifts blame to his demanding boss. The noun phrase la faute de assigns responsibility.
-- 'Why do you accuse our boss tonight?' Andrea questions his frantic reasoning. The interrogative adverb pourquoi asks why.
-- 'He puts enormous pressure on me.' Gabriel explains his ongoing workplace stress. The feminine adjective énorme modifies pression.
-- 'Monica Bellucci is interested in you, Gabriel!' Andrea highlights the flattering reality. The reflexive construction s'intéresser à means to be interested in.
-- 'One must have confidence in oneself.' Gabriel admits his personal self-doubt. The reflexive pronoun soi functions as an impersonal referent.
-- 'That is not an awful drama.' Andrea attempts to downplay the crisis. The negative structure ce n'est pas negates the noun phrase.
-- 'For me, it was a real nightmare!' Gabriel describes his overwhelming anxiety. The masculine noun cauchemar means nightmare.
-- 'What was this extraordinary woman looking for?' Andrea prompts him for details. The interrogative pronoun que asks what in inversion.
-- 'She needs a wild animal!' Gabriel imagines her ideal partner. The masculine adjective sauvage describes wild beasts.
-- 'And how did you feel in front of her?' Andrea inquires about his self-perception. The preposition devant denotes physical presence.
+- 'Andrea, I need to talk to you!' Gabriel seeks immediate emotional comfort. The verb meaning 'I have' pairs naturally with the noun for 'need' in everyday conversation.
+- 'Where are you at this late hour?' Andrea wonders about his location. The adjective meaning 'late' takes its feminine form here to match the noun it describes.
+- 'I am in a Parisian taxi.' Gabriel reveals he is traveling alone. The descriptive adjective for 'Parisian' agrees in gender and number with its noun.
+- 'You left the dinner at Monica's?' Andrea expresses mild surprise. Notice how 'have' leads directly into the noun meaning 'dinner'.
+- 'Yes, it is Hicham's fault!' Gabriel shifts blame to his demanding boss. Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit.
+- 'Why do you accuse our boss tonight?' Andrea questions his frantic reasoning. The verb meaning 'do you accuse' pairs naturally with the noun for 'boss' in everyday conversation.
+- 'He puts enormous pressure on me.' Gabriel explains his ongoing workplace stress. The reflexive pronoun sits right in front of the verb for 'puts', turning the action back onto the subject.
+- 'Monica Bellucci is interested in you, Gabriel!' Andrea highlights the flattering reality. Notice how the short vowel drops before a vowel sound around 'is interested', making the phrase flow smoothly as one unit.
+- 'One must have confidence in oneself.' Gabriel admits his personal self-doubt. The verb meaning 'is necessary' pairs naturally with the noun for 'confidence' in everyday conversation.
+- 'That is not an awful drama.' Andrea attempts to downplay the crisis. Notice how the short vowel drops before a vowel sound around 'is not', making the phrase flow smoothly as one unit.
+- 'For me, it was a real nightmare!' Gabriel describes his overwhelming anxiety. Notice how the short vowel drops before a vowel sound around 'it was', making the phrase flow smoothly as one unit.
+- 'What was this extraordinary woman looking for?' Andrea prompts him for details. Notice how 'was seeking' leads directly into the noun meaning 'woman'.
+- 'She needs a wild animal!' Gabriel imagines her ideal partner. Notice how 'is needed' leads directly into the noun meaning 'animal'.
+- 'And how did you feel in front of her?' Andrea inquires about his self-perception. Inverting the verb and pronoun around 'did you feel' creates a crisp, polished question.

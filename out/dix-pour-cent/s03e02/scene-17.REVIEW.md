@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who dropped off these things here?' Gabriel spots his personal belongings. The interrogative pronoun qui asks who.
-- 'Monica Bellucci came by this morning.' Mathias explains the package arrival. The compound past est passée uses être as auxiliary.
-- 'She came in person here?' Gabriel reacts with shocked embarrassment. The phrase en personne indicates personal presence.
-- 'Yes, she left this note.' Mathias points out the written letter. The compound past a laissé comes from laisser.
-- 'What does this message say for me?' Gabriel inquires about the contents. The verb dit comes from dire.
-- 'She asks if she has an agent!' Mathias reveals her ironic question. The conjunction si introduces an indirect question.
-- 'I am so exhausted this morning.' Gabriel confesses his lack of sleep. The adjective épuisé agrees with the masculine speaker.
-- 'You made a serious mistake.' Mathias reproaches his handling of the star. The feminine adjective grave precedes or follows erreur.
-- 'If you want to fire me, fire me!' Gabriel lashes out under stress. The imperative renvoie-moi demands decisive action.
-- 'I must ask you a question.' Mathias pivots the conversation to agency business. The phrase poser une question means to ask a question.
-- 'What is it about now, Mathias?' Gabriel braces for another crisis. The impersonal construction s'agir de means to be about.
-- 'Did Noémie tell you about a new job?' Mathias checks for office rumors. The past tense t'a parlé addresses Gabriel directly.
-- 'No, I did not know anything at all!' Gabriel is blindsided by the news. The negative phrase rien du tout means nothing at all.
-- 'She is leaving our agency this morning.' Mathias breaks the unsettling development. The verb quitte denotes permanent departure.
+- 'Who dropped off these things here?' Gabriel spots his personal belongings. In everyday spoken French, rising intonation on 'has' at the end is enough to turn the sentence into a question.
+- 'Monica Bellucci came by this morning.' Mathias explains the package arrival. This conversational past tense combines a helper verb with the past participle for 'came by'.
+- 'She came in person here?' Gabriel reacts with shocked embarrassment. Notice how 'come' leads directly into the noun meaning 'person'.
+- 'Yes, she left this note.' Mathias points out the written letter. Notice how 'has' leads directly into the noun meaning 'note'.
+- 'What does this message say for me?' Gabriel inquires about the contents. In everyday spoken French, rising intonation on 'says' at the end is enough to turn the sentence into a question.
+- 'She asks if she has an agent!' Mathias reveals her ironic question. The verb meaning 'asks' pairs naturally with the noun for 'agent' in everyday conversation.
+- 'I am so exhausted this morning.' Gabriel confesses his lack of sleep. The key noun here means 'morning', anchored by its matching French article.
+- 'You made a serious mistake.' Mathias reproaches his handling of the star. Mathias uses the casual singular 'you' with 'have', showing close familiarity.
+- 'If you want to fire me, fire me!' Gabriel lashes out under stress. The reflexive pronoun sits right in front of the verb for 'want', turning the action back onto the subject.
+- 'I must ask you a question.' Mathias pivots the conversation to agency business. Notice how 'must' leads directly into the noun meaning 'question'.
+- 'What is it about now, Mathias?' Gabriel braces for another crisis. In spoken French, the little word before 'is it' drops its final vowel and attaches with an apostrophe.
+- 'Did Noemie tell you about a new job?' Mathias checks for office rumors. The verb meaning 'spoke to you' pairs naturally with the noun for 'job' in everyday conversation.
+- 'No, I did not know anything at all!' Gabriel is blindsided by the news. The clause hinges on the everyday verb meaning 'knew'.
+- 'She is leaving our agency this morning.' Mathias breaks the unsettling development. The verb meaning 'leaves' pairs naturally with the noun for 'agency' in everyday conversation.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dylan! Wait a second, please.' Gabriel tries to stop the young actor before he walks away. The polite formula 's'il te plait' is used with friends or peers.
-- 'What do you want from me?' Dylan reacts defensively to being cornered outside. The question phrase 'qu'est-ce que' asks for a direct object.
-- 'Franck has nothing to do with it.' Gabriel insists that Franck Dubosc is completely innocent in this conflict. The expression 'n'avoir rien a voir' means to have nothing to do with something.
+- 'Dylan! Wait a second, please.' Gabriel tries to stop the young actor before he walks away. The reflexive pronoun sits right in front of the verb for 'wait', turning the action back onto the subject.
+- 'What do you want from me?' Dylan reacts defensively to being cornered outside. The informal 'you' form around 'want' marks a direct, personal relationship.
+- 'Franck has nothing to do with it.' Gabriel insists that Franck Dubosc is completely innocent in this conflict. The clause hinges on the everyday verb meaning 'has'.
 - 'Please, withdraw your complaint.' Gabriel urges Dylan to drop the formal legal action against his client. The imperative verb 'retire' comes from 'retirer'.
-- 'No, I am withdrawing nothing at all.' Dylan firmly refuses to drop the charges against Franck. The negative structure 'ne ... rien du tout' strengthens the refusal.
+- 'No, I am withdrawing nothing at all.' Dylan firmly refuses to drop the charges against Franck. The two-part French negation brackets the verb for 'withdraw' on both sides.
 - 'Do you hand out cash to your friends?' Gabriel probes Dylan about the money he just handed over. The colloquial verb 'filer' means to give or hand over.
-- 'Why are you picking fights with me?' Dylan challenges Gabriel's hostile and intrusive questions. The idiom 'chercher des histoires' means to look for trouble.
-- 'Here is what I offer you.' Gabriel attempts to lay down an ultimatum to settle the issue. The demonstrative phrase 'voila ce que' presents a proposal.
+- 'Why are you picking fights with me?' Dylan challenges Gabriel's hostile and intrusive questions. The reflexive pronoun sits right in front of the verb for 'seek', turning the action back onto the subject.
+- 'Here is what I offer you.' Gabriel attempts to lay down an ultimatum to settle the issue. The clause hinges on the everyday verb meaning 'propose'.
 - 'Are you bringing your dealer on set?' Gabriel recklessly accuses Dylan of illegal drug dealings. The noun 'tournage' refers to a film shoot.
-- 'That is a nice ridiculous stereotype.' Dylan points out the insulting bias behind Gabriel's accusation. The noun 'stereotype' denotes a cliche or prejudice.
+- 'That is a nice ridiculous stereotype.' Dylan points out the insulting bias behind Gabriel's accusation. The key noun here means 'stereotype', anchored by its matching French article.
 - 'Go ahead, do what you want!' Dylan dismisses Gabriel and dares him to carry out his threat. The imperative 'vas-y' encourages someone to proceed.
 - 'What an idiot, I do not believe it!' Gabriel vents his irritation once Dylan turns his back. The exclamative adjective 'quel' introduces a strong emotional reaction.
-- 'I think you are mistaken.' Franck Dubosc steps in to correct Gabriel's hasty conclusion. The reflexive verb 'se tromper' means to make a mistake.
+- 'I think you are mistaken.' Franck Dubosc steps in to correct Gabriel's hasty conclusion. The reflexive pronoun sits right in front of the verb for 'believe', turning the action back onto the subject.
 - 'It was his speech therapist, not a dealer.' Franck clarifies the true identity of the man Dylan met. The noun 'orthophoniste' designates a speech-language therapist.

@@ -36,8 +36,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Good evening, I would like a courier.' Mathias places the telephone request for rapid pickup. The conditional 'je voudrais' expresses a polite order.
 - 'It is for the first arrondissement.' Mathias gives the central destination address in Paris. The ordinal 'premier' indicates the 1st district of Paris.
 - 'It is a very urgent delivery.' Mathias informs dispatch that speed is essential. The adjective 'urgente' agrees with the feminine noun livraison.
-- 'Thank you very much, see you shortly.' Mathias closes the phone call politely. The locution 'a tout de suite' means see you in a moment.
+- 'Thank you very much, see you shortly.' Mathias closes the phone call politely. The adverb meaning 'very much' gives the reply its conversational emphasis.
 - 'The courier arrives in ten minutes.' Noemie prepares the sealed package for dispatch. The preposition 'dans' indicates time until an event.
-- 'Tonight, our plan finally begins.' Mathias reflects on the launch of their campaign. The noun 'plan' refers to a strategic scheme.
+- 'Tonight, our plan finally begins.' Mathias reflects on the launch of their campaign. The verb meaning 'begins' pairs naturally with the noun for 'evening' in everyday conversation.
 - 'We are going to take back our agency, Mathias.' Noemie reaffirms their joint partnership and ambition. The infinitive 'reprendre' means to recover or reclaim.
 - 'Thank you for your trust, dear Noemie.' Mathias acknowledges her steadfast loyalty. The noun 'confiance' means faith or trust in someone.

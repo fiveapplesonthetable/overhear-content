@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Алиса, садись скорее за этот стол. | Alice, sit down at this table quickly. | #219 00:13:40: Садись | adapted: seating the girl at a table |
+| 1 | Вика | Алиса, садись скорее за этот стол. | Alice, sit down at this table quickly. | #219 00:13:40: Садись | adapted: seating the girl at a table |
 | 2 | Алиса | Тётя Вика, мы будем играть здесь? | Aunt Vika, will we play here? | new | new: asking about playtime |
-| 3 | Аня | Нет, мне нужно сейчас много работать. | No, I need to work a lot right now. | #220 00:13:42: Алиса, мне нужно сейчас поработать | adapted: explaining work duties |
+| 3 | Вика | Нет, мне нужно сейчас много работать. | No, I need to work a lot right now. | #220 00:13:42: Алиса, мне нужно сейчас поработать | adapted: explaining work duties |
 | 4 | Алиса | А что мне делать одной тут? | And what am I to do here alone? | new | new: wondering how to pass the time |
-| 5 | Аня | Посиди тихонечко и спокойно поиграй. | Sit quietly and play calmly. | #221 00:13:44: Ты, пожалуйста, посиди тихонечко, поиграй | adapted: asking for quiet behavior |
+| 5 | Вика | Посиди тихонечко и спокойно поиграй. | Sit quietly and play calmly. | #221 00:13:44: Ты, пожалуйста, посиди тихонечко, поиграй | adapted: asking for quiet behavior |
 | 6 | Алиса | Скоро придут важные гости ресторана? | Will important restaurant guests arrive soon? | new | new: asking about arriving visitors |
-| 7 | Аня | Да, скоро начнётся большой банкет. | Yes, a big banquet will begin soon. | new | new: confirming the upcoming event |
+| 7 | Вика | Да, скоро начнётся большой банкет. | Yes, a big banquet will begin soon. | new | new: confirming the upcoming event |
 | 8 | Алиса | Я обещаю вести себя очень хорошо. | I promise to behave very well. | #222 00:13:47: И само спокойствие, тетя Вик | adapted: promising good behavior |
-| 9 | Аня | Ты меня точно не подведёшь сегодня? | You definitely will not let me down today? | new | new: verifying her commitment |
+| 9 | Вика | Ты меня точно не подведёшь сегодня? | You definitely will not let me down today? | new | new: verifying her commitment |
 | 10 | Алиса | Я буду само спокойствие, честное слово! | I will be calmness itself, honest word! | #222 00:13:47: И само спокойствие | adapted: giving a solemn promise |
-| 11 | Аня | Ты настоящая умница, дорогая племянница. | You are a real clever girl, dear niece. | #223 00:13:49: Умница, играй | adapted: praising her cooperation |
+| 11 | Вика | Ты настоящая умница, дорогая племянница. | You are a real clever girl, dear niece. | #223 00:13:49: Умница, играй | adapted: praising her cooperation |
 | 12 | Алиса | Я просто буду тихо рисовать картинки. | I will simply draw pictures quietly. | new | new: explaining her planned activity |
 
 ## Walk-through narration (English only, no target-language words quoted)

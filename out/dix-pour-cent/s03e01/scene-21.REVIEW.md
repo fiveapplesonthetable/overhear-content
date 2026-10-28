@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Brian, welcome to my office.' Camille greets the promising young actor warmly.
-- 'Thank you Camille, it is a nice place.' Brian admires Camille's professional workplace.
-- 'Let us talk a bit about your career.' Camille begins their exploratory representation meeting.
-- 'I already have a talent agent.' Brian clarifies his current professional representation.
-- 'But ASK is a major agency.' Brian recognizes the agency's prestige and market power.
-- 'We want to support you with care.' Camille emphasizes ASK's personalized guidance for actors.
-- 'Sorry Camille, do you have a minute?' Mathias interrupts the meeting without knocking.
-- 'I am in a meeting, Mathias.' Camille reminds her senior colleague that she is busy.
-- 'Jacques Audiard called me this morning.' Mathias casually drops the prominent director's name.
-- 'He is looking for new young talent.' Mathias mentions a prestigious casting opportunity.
-- 'Jacques Audiard is preparing a new movie?' Brian immediately reacts to the filmmaker's name.
-- 'Yes, an absolutely wonderful project!' Mathias hypes the upcoming high-profile feature film.
-- 'Mathias, would you have just a minute?' Brian eagerly tries to pitch himself to the senior agent.
-- 'Every young actor seeks his chance!' Camille observes the intense competition in the industry.
+- 'Hello Brian, welcome to my office.' Camille greets the promising young actor warmly. The key noun here means 'welcome', anchored by its matching French article.
+- 'Thank you Camille, it is a nice place.' Brian admires Camille's professional workplace. The descriptive adjective for 'beautiful' agrees in gender and number with its noun.
+- 'Let us talk a bit about your career.' Camille begins their exploratory representation meeting. Notice how 'let us talk' leads directly into the noun meaning 'career'.
+- 'I already have a talent agent.' Brian clarifies his current professional representation. The descriptive adjective for 'artistic' agrees in gender and number with its noun.
+- 'But ASK is a major agency.' Brian recognizes the agency's prestige and market power. The key noun here means 'agency', anchored by its matching French article.
+- 'We want to support you with care.' Camille emphasizes ASK's personalized guidance for actors. Camille uses the polite 'you' form alongside 'want' to keep a respectful professional tone.
+- 'Sorry Camille, do you have a minute?' Mathias interrupts the meeting without knocking. Mathias uses the casual singular 'you' with 'have', showing close familiarity.
+- 'I am in a meeting, Mathias.' Camille reminds her senior colleague that she is busy. The key noun here means 'meeting', anchored by its matching French article.
+- 'Jacques Audiard called me this morning.' Mathias casually drops the prominent director's name. Notice how 'has' leads directly into the noun meaning 'morning'.
+- 'He is looking for new young talent.' Mathias mentions a prestigious casting opportunity. The descriptive adjective for 'new' agrees in gender and number with its noun.
+- 'Jacques Audiard is preparing a new movie?' Brian immediately reacts to the filmmaker's name. Notice how 'is preparing' leads directly into the noun meaning 'movie'.
+- 'Yes, an absolutely wonderful project!' Mathias hypes the upcoming high-profile feature film. The descriptive adjective for 'wonderful' agrees in gender and number with its noun.
+- 'Mathias, would you have just a minute?' Brian eagerly tries to pitch himself to the senior agent. Inverting the verb and pronoun around 'would you have' creates a crisp, polished question.
+- 'Every young actor seeks his chance!' Camille observes the intense competition in the industry. Dropping the subject pronoun turns the verb for 'seeks' into a direct, punchy command.

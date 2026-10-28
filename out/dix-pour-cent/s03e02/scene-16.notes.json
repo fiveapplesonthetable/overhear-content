@@ -44,7 +44,8 @@
           "pos": "name",
           "stress": "nɔemi",
           "gloss": "Noémie",
-          "gram": "proper noun"
+          "gram": "proper noun",
+          "stress": null
         }
       ]
     },
@@ -522,7 +523,8 @@
           "pos": "name",
           "stress": "bulɔɲ",
           "gloss": "Boulogne",
-          "gram": "proper noun"
+          "gram": "proper noun",
+          "stress": null
         }
       ]
     },
@@ -776,7 +778,8 @@
           "pos": "name",
           "stress": "nɔemi",
           "gloss": "Noémie",
-          "gram": "proper noun"
+          "gram": "proper noun",
+          "stress": null
         }
       ]
     },
@@ -1254,7 +1257,8 @@
           "pos": "name",
           "stress": "bulɔɲ",
           "gloss": "Boulogne",
-          "gram": "proper noun"
+          "gram": "proper noun",
+          "stress": null
         }
       ]
     },
@@ -1508,7 +1512,8 @@
           "pos": "name",
           "stress": "nɔemi",
           "gloss": "Noémie",
-          "gram": "proper noun"
+          "gram": "proper noun",
+          "stress": null
         }
       ]
     },
@@ -1986,7 +1991,8 @@
           "pos": "name",
           "stress": "bulɔɲ",
           "gloss": "Boulogne",
-          "gram": "proper noun"
+          "gram": "proper noun",
+          "stress": null
         }
       ]
     },
@@ -2305,11 +2311,11 @@
       "meanings": [
         {
           "en": "to accept",
-          "note": "First-group '-er' verb (from Latin first conjugation '-are'), the most productive verb class in French. Core French verb meaning 'to accept, to agree'."
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to accept'; conjugates with 'avoir' in compound tenses (past participle 'accepté')."
         },
         {
           "en": "to agree, to say yes",
-          "note": ""
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to agree'; conjugates with 'avoir' in compound tenses (past participle 'accepté')."
         }
       ],
       "moreForms": [
@@ -2462,7 +2468,7 @@
       "meanings": [
         {
           "en": "agency",
-          "note": "une agence artistique = a talent agency"
+          "note": "Feminine noun ('la agence', plural 'les agences') inherited through Romance vocabulary, used in everyday and professional French for 'agency'."
         }
       ],
       "moreForms": [],
@@ -2505,11 +2511,11 @@
       "meanings": [
         {
           "en": "today",
-          "note": "Everyday French adv meaning 'today'."
+          "note": "Invariable French adverb meaning 'today'; placed immediately after the conjugated verb in simple tenses."
         },
         {
           "en": "nowadays",
-          "note": ""
+          "note": "Invariable French adverb meaning 'nowadays'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "moreForms": [],
@@ -2517,8 +2523,12 @@
       "stress": "oʒuʁdɥi",
       "related": [
         {
-          "word": "très aujourd'hui",
-          "gloss": "related adverbial expression (today)"
+          "word": "jour",
+          "gloss": "day"
+        },
+        {
+          "word": "hier",
+          "gloss": "yesterday"
         }
       ]
     },
@@ -2608,13 +2618,22 @@
       "meanings": [
         {
           "en": "with",
-          "note": "Everyday French prep meaning 'with'."
+          "note": "Core French preposition meaning 'with', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "moreForms": [],
       "pos": "prep",
       "stress": "avɛk",
-      "related": []
+      "related": [
+        {
+          "word": "sans",
+          "gloss": "without"
+        },
+        {
+          "word": "ensemble",
+          "gloss": "together"
+        }
+      ]
     },
     "avoir": {
       "examples": [
@@ -2671,15 +2690,15 @@
         },
         {
           "en": "to be (an age)",
-          "note": "elle a quarante ans = she is forty"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'to be'; essential in everyday spoken and professional French."
         },
         {
           "en": "auxiliary for most past forms",
-          "note": "j'ai vécu = I lived"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'auxiliary for most past forms'; essential in everyday spoken and professional French."
         },
         {
           "en": "il y a = there is / there are",
-          "note": ""
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'il y a = there is'; essential in everyday spoken and professional French."
         }
       ],
       "moreForms": [
@@ -2812,8 +2831,12 @@
       "stress": "avwaʁ",
       "related": [
         {
-          "word": "avoir à voir",
-          "gloss": "to have to do with"
+          "word": "il y a",
+          "gloss": "there is, there are"
+        },
+        {
+          "word": "avoir besoin",
+          "gloss": "to need"
         }
       ]
     },
@@ -2855,11 +2878,11 @@
       "meanings": [
         {
           "en": "office",
-          "note": "Standard masculine noun meaning 'office; desk'."
+          "note": "Masculine noun ('le bureau', plural 'les bureaux') inherited through Romance vocabulary, used in everyday and professional French for 'office'."
         },
         {
           "en": "desk",
-          "note": ""
+          "note": "Masculine noun ('le bureau', plural 'les bureaux') inherited through Romance vocabulary, used in everyday and professional French for 'desk'."
         }
       ],
       "moreForms": [],
@@ -2868,8 +2891,8 @@
       "stress": "byʁo",
       "related": [
         {
-          "word": "le/la bureau",
-          "gloss": "the office (with article)"
+          "word": "un bureau / des bureaux",
+          "gloss": "a office / offices"
         }
       ]
     },
@@ -2927,7 +2950,16 @@
       "moreForms": [],
       "pos": "det",
       "stress": "sə",
-      "related": []
+      "related": [
+        {
+          "word": "cet",
+          "gloss": "this (before vowel)"
+        },
+        {
+          "word": "cette",
+          "gloss": "this (feminine)"
+        }
+      ]
     },
     "chasseur": {
       "lemma": "chasseur",
@@ -2937,7 +2969,7 @@
       "meanings": [
         {
           "en": "hunter; chasseur de têtes = headhunter, corporate recruiter",
-          "note": "un recruteur spécialisé"
+          "note": "Masculine noun ('le chasseur', plural 'les chasseurs') inherited through Romance vocabulary, used in everyday and professional French for 'hunter'."
         }
       ],
       "forms": {
@@ -2993,7 +3025,7 @@
       "meanings": [
         {
           "en": "behavior, manner of conducting oneself",
-          "note": "Masculine action/result noun formed with the Romance suffix '-ment' (from Latin '-mentum'). Prefix 'com-' (from Latin 'cum') means 'with, together'. Standard masculine noun meaning 'behavior, conduct'."
+          "note": "Masculine noun ('le comportement', plural 'les comportements') inherited through Romance vocabulary, used in everyday and professional French for 'behavior'."
         }
       ],
       "forms": {
@@ -3049,7 +3081,7 @@
       "meanings": [
         {
           "en": "to contact, to reach out to, to get in touch with",
-          "note": "joindre une personne"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to contact'; conjugates with 'avoir' in compound tenses (past participle 'contacté')."
         }
       ],
       "forms": {
@@ -3220,11 +3252,11 @@
       "meanings": [
         {
           "en": "in, inside",
-          "note": "j'étais dans les sous-vêtements"
+          "note": "Core French preposition meaning 'in', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "in (time from now)",
-          "note": "dans une heure = in an hour"
+          "note": "Core French preposition meaning 'in', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "moreForms": [],
@@ -3232,16 +3264,12 @@
       "stress": "dɑ̃",
       "related": [
         {
-          "word": "danse",
-          "gloss": "dance"
+          "word": "dedans",
+          "gloss": "inside, within"
         },
         {
-          "word": "danser",
-          "gloss": "to dance"
-        },
-        {
-          "word": "danseur",
-          "gloss": "dancer"
+          "word": "en",
+          "gloss": "in, within"
         }
       ]
     },
@@ -3270,19 +3298,19 @@
         },
         {
           "en": "from",
-          "note": ""
+          "note": "Core French preposition meaning 'from', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "some, any (partitive)",
-          "note": "de la chance"
+          "note": "Core French preposition meaning 'some', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "after a negation: no",
-          "note": "pas de chance"
+          "note": "Core French preposition meaning 'after a negation: no', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "becomes d' before a vowel",
-          "note": ""
+          "note": "Core French preposition meaning 'becomes d' before a vowel', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "moreForms": [],
@@ -3350,11 +3378,11 @@
       "meanings": [
         {
           "en": "must, to have to",
-          "note": "+ infinitive"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'must'; essential in everyday spoken and professional French."
         },
         {
           "en": "to owe",
-          "note": ""
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'to owe'; essential in everyday spoken and professional French."
         }
       ],
       "moreForms": [
@@ -3456,8 +3484,12 @@
       "stress": "dəvwaʁ",
       "related": [
         {
-          "word": "redevoir",
-          "gloss": "verb family relative (must)"
+          "word": "dû",
+          "gloss": "owed, due"
+        },
+        {
+          "word": "obliger",
+          "gloss": "to oblige"
         }
       ]
     },
@@ -3521,7 +3553,7 @@
       "meanings": [
         {
           "en": "effect, result, impact; effet secondaire = side effect",
-          "note": "Standard masculine noun meaning 'effect, result'."
+          "note": "Masculine noun ('le effet', plural 'les effets') inherited through Romance vocabulary, used in everyday and professional French for 'effect'."
         }
       ],
       "forms": {
@@ -3560,8 +3592,8 @@
       "plural": "effets",
       "related": [
         {
-          "word": "le/la effet",
-          "gloss": "the effect (with article)"
+          "word": "un effet / des effets",
+          "gloss": "a effect / effects"
         }
       ]
     },
@@ -3575,7 +3607,7 @@
       "meanings": [
         {
           "en": "company, enterprise, firm",
-          "note": "Standard feminine noun meaning 'company, business'."
+          "note": "Feminine noun ('la entreprise', plural 'les entreprises') inherited through Romance vocabulary, used in everyday and professional French for 'company'."
         }
       ],
       "forms": {
@@ -3628,16 +3660,12 @@
     "entrer": {
       "examples": [
         {
-          "text": "Entrez.",
-          "trans": "Come in."
+          "text": "Entrez je vous en prie, la porte est ouverte.",
+          "trans": "Come in please, the door is open."
         },
         {
-          "text": "On entre dans un bois.",
-          "trans": "We're going into some woods."
-        },
-        {
-          "text": "Bonjour, Camille. Entrez.",
-          "trans": "Hello, Camille. Come in."
+          "text": "L'actrice entre sur scène sous les applaudissements.",
+          "trans": "The actress walks onto the stage to applause."
         }
       ],
       "forms": {
@@ -3676,11 +3704,11 @@
       "meanings": [
         {
           "en": "to come in, to go in",
-          "note": "passé composé with être"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to come in'; conjugates with 'avoir' in compound tenses (past participle 'entré')."
         },
         {
           "en": "entrez! = come in!",
-          "note": "polite imperative"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'entrez! = come in!'; conjugates with 'avoir' in compound tenses (past participle 'entré')."
         }
       ],
       "moreForms": [
@@ -3840,17 +3868,26 @@
       "meanings": [
         {
           "en": "and",
-          "note": "the t is never pronounced"
+          "note": "French conjunction meaning 'and', used to link clauses in spoken and written discourse."
         },
         {
           "en": "and how!",
-          "note": "et comment! = you bet"
+          "note": "French conjunction meaning 'and how!', used to link clauses in spoken and written discourse."
         }
       ],
       "moreForms": [],
       "pos": "conj",
       "stress": "e",
-      "related": []
+      "related": [
+        {
+          "word": "ou",
+          "gloss": "or"
+        },
+        {
+          "word": "aussi",
+          "gloss": "also"
+        }
+      ]
     },
     "exactement": {
       "examples": [
@@ -3881,8 +3918,12 @@
       "stress": "ɛɡzaktəmɑ̃",
       "related": [
         {
-          "word": "exacte",
-          "gloss": "root adjective (exactly)"
+          "word": "exact",
+          "gloss": "exact, accurate"
+        },
+        {
+          "word": "précisément",
+          "gloss": "precisely"
         }
       ]
     },
@@ -3930,7 +3971,7 @@
       "meanings": [
         {
           "en": "final, last",
-          "note": "Everyday French adj meaning 'final, last'."
+          "note": "Descriptive French adjective meaning 'final'; agrees in gender and number with the noun it modifies."
         }
       ],
       "moreForms": [],
@@ -3995,7 +4036,7 @@
       "meanings": [
         {
           "en": "embarrassing, awkward, uncomfortable",
-          "note": "Everyday French adj meaning 'embarrassing, awkward'."
+          "note": "Descriptive French adjective meaning 'embarrassing'; agrees in gender and number with the noun it modifies."
         }
       ],
       "moreForms": [],
@@ -4003,8 +4044,8 @@
       "stress": "ʒɛnɑ̃",
       "related": [
         {
-          "word": "gênantement",
-          "gloss": "in a embarrassing manner (adv.)"
+          "word": "plus gênant",
+          "gloss": "more embarrassing"
         }
       ]
     },
@@ -4029,11 +4070,11 @@
       "meanings": [
         {
           "en": "yesterday",
-          "note": "hier soir: last night"
+          "note": "Invariable French adverb meaning 'yesterday'; placed immediately after the conjugated verb in simple tenses."
         },
         {
           "en": "hier soir = last night",
-          "note": ""
+          "note": "Invariable French adverb meaning 'hier soir = last night'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "moreForms": [],
@@ -4041,8 +4082,12 @@
       "stress": "jɛʁ",
       "related": [
         {
-          "word": "très hier",
-          "gloss": "related adverbial expression (yesterday)"
+          "word": "aujourd'hui",
+          "gloss": "today"
+        },
+        {
+          "word": "demain",
+          "gloss": "tomorrow"
         }
       ]
     },
@@ -4132,13 +4177,22 @@
       "meanings": [
         {
           "en": "I",
-          "note": "j' before a vowel"
+          "note": "High-frequency French pronoun meaning 'I'; clitic forms precede the conjugated verb."
         }
       ],
       "moreForms": [],
       "pos": "pron",
       "stress": "ʒə",
-      "related": []
+      "related": [
+        {
+          "word": "me",
+          "gloss": "me, myself"
+        },
+        {
+          "word": "moi",
+          "gloss": "me (stressed)"
+        }
+      ]
     },
     "mon": {
       "examples": [
@@ -4184,13 +4238,18 @@
       "meanings": [
         {
           "en": "my",
-          "note": "agrees with the thing owned"
+          "note": "Idiomatic French det expression meaning 'my', frequent in natural conversational dialogue."
         }
       ],
       "moreForms": [],
       "pos": "det",
       "stress": "mɔ̃",
-      "related": []
+      "related": [
+        {
+          "word": "mon",
+          "gloss": "my"
+        }
+      ]
     },
     "notre": {
       "examples": [
@@ -4236,13 +4295,18 @@
       "meanings": [
         {
           "en": "our",
-          "note": "plural nos"
+          "note": "Idiomatic French det expression meaning 'our', frequent in natural conversational dialogue."
         }
       ],
       "moreForms": [],
       "pos": "det",
       "stress": "nɔtʁ",
-      "related": []
+      "related": [
+        {
+          "word": "notre",
+          "gloss": "our"
+        }
+      ]
     },
     "nouveau": {
       "examples": [
@@ -4288,11 +4352,11 @@
       "meanings": [
         {
           "en": "new",
-          "note": "before the noun; nouvel before a vowel"
+          "note": "Descriptive French adjective meaning 'new'; agrees in gender and number with the noun it modifies."
         },
         {
           "en": "another, one more",
-          "note": "un nouveau caprice"
+          "note": "Descriptive French adjective meaning 'another'; agrees in gender and number with the noun it modifies."
         }
       ],
       "moreForms": [],
@@ -4351,7 +4415,7 @@
       "meanings": [
         {
           "en": "offer",
-          "note": "faire une offre = to make an offer"
+          "note": "Feminine noun ('la offre', plural 'les offres') inherited through Romance vocabulary, used in everyday and professional French for 'offer'."
         }
       ],
       "moreForms": [],
@@ -4386,7 +4450,7 @@
       "meanings": [
         {
           "en": "where",
-          "note": "tu vas où?; d'où = from where"
+          "note": "Invariable French adverb meaning 'where'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "moreForms": [],
@@ -4394,8 +4458,12 @@
       "stress": "u",
       "related": [
         {
-          "word": "très où",
-          "gloss": "related adverbial expression (where)"
+          "word": "d'où",
+          "gloss": "from where"
+        },
+        {
+          "word": "partout",
+          "gloss": "everywhere"
         }
       ]
     },
@@ -4450,11 +4518,11 @@
       "meanings": [
         {
           "en": "to speak, to talk",
-          "note": "parler à quelqu'un = to talk to someone"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to speak'; conjugates with 'avoir' in compound tenses (past participle 'parlé')."
         },
         {
           "en": "parler de = to talk about",
-          "note": ""
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'parler de = to talk about'; conjugates with 'avoir' in compound tenses (past participle 'parlé')."
         }
       ],
       "moreForms": [
@@ -4636,11 +4704,11 @@
       "meanings": [
         {
           "en": "to leave, to go away",
-          "note": "no object: je pars = I'm leaving"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'to leave'; essential in everyday spoken and professional French."
         },
         {
           "en": "to go (on a trip)",
-          "note": "partir en vacances = to go on holiday"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'to go'; essential in everyday spoken and professional French."
         }
       ],
       "moreForms": [
@@ -4770,12 +4838,8 @@
           "gloss": "departure"
         },
         {
-          "word": "particulier",
-          "gloss": "particular"
-        },
-        {
-          "word": "part",
-          "gloss": "share"
+          "word": "repartir",
+          "gloss": "to leave again"
         }
       ]
     },
@@ -4817,11 +4881,11 @@
       "meanings": [
         {
           "en": "job, position",
-          "note": "masculine: un poste"
+          "note": "Masculine noun ('le poste', plural 'les postes') inherited through Romance vocabulary, used in everyday and professional French for 'job'."
         },
         {
           "en": "post office",
-          "note": "feminine: la poste, a different word"
+          "note": "Masculine noun ('le poste', plural 'les postes') inherited through Romance vocabulary, used in everyday and professional French for 'post office'."
         }
       ],
       "moreForms": [],
@@ -4864,7 +4928,7 @@
         },
         {
           "en": "to, in order to",
-          "note": "+ infinitive: pour voir"
+          "note": "Core French preposition meaning 'to', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "moreForms": [],
@@ -4953,7 +5017,7 @@
       "meanings": [
         {
           "en": "proposal, offer, suggestion",
-          "note": "Feminine action/state noun from Latin '-tio'/'-sio'. Standard feminine noun meaning 'proposal, offer'."
+          "note": "Feminine noun ('la proposition', plural 'les propositions') inherited through Romance vocabulary, used in everyday and professional French for 'proposal'."
         }
       ],
       "forms": {
@@ -5026,11 +5090,11 @@
       "meanings": [
         {
           "en": "when (question)",
-          "note": "tu viens quand? = when are you coming?"
+          "note": "Invariable French adverb meaning 'when'; placed immediately after the conjugated verb in simple tenses."
         },
         {
           "en": "when (conjunction)",
-          "note": "quand il pleut"
+          "note": "Invariable French adverb meaning 'when'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "moreForms": [],
@@ -5087,11 +5151,11 @@
       "meanings": [
         {
           "en": "what, which (question)",
-          "note": "agrees with the noun"
+          "note": "Idiomatic French det expression meaning 'what', frequent in natural conversational dialogue."
         },
         {
           "en": "what a ...! (exclamation)",
-          "note": "quelle surprise!"
+          "note": "Idiomatic French det expression meaning 'what a ...!', frequent in natural conversational dialogue."
         }
       ],
       "moreForms": [],
@@ -5163,11 +5227,11 @@
       "meanings": [
         {
           "en": "to leave someone, to break up with",
-          "note": "elle m'a quitté = she left me"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to leave someone'; conjugates with 'avoir' in compound tenses (past participle 'quitté')."
         },
         {
           "en": "to leave a place",
-          "note": "always with an object"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to leave a place'; conjugates with 'avoir' in compound tenses (past participle 'quitté')."
         }
       ],
       "moreForms": [
@@ -5356,7 +5420,7 @@
       "meanings": [
         {
           "en": "to receive, to get",
-          "note": "recevoir une lettre"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'to receive'; essential in everyday spoken and professional French."
         },
         {
           "en": "to see, to welcome (a visitor)",
@@ -5475,7 +5539,7 @@
       "meanings": [
         {
           "en": "to seek out, to look for, to be in high demand",
-          "note": "First-group '-er' verb (from Latin first conjugation '-are'), the most productive verb class in French. Prefix 're-'/'ré-' marks repetition, return, or intensity. Core French verb meaning 'to seek out, to look for'."
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to seek out'; conjugates with 'avoir' in compound tenses (past participle 'recherché')."
         }
       ],
       "forms": {
@@ -5654,17 +5718,22 @@
       "meanings": [
         {
           "en": "reflexive pronoun, 3rd person",
-          "note": "becomes s' before a vowel"
+          "note": "High-frequency French pronoun meaning 'reflexive pronoun'; clitic forms precede the conjugated verb."
         },
         {
           "en": "each other",
-          "note": "elles s'entendent bien"
+          "note": "High-frequency French pronoun meaning 'each other'; clitic forms precede the conjugated verb."
         }
       ],
       "moreForms": [],
       "pos": "pron",
       "stress": "sə",
-      "related": []
+      "related": [
+        {
+          "word": "se",
+          "gloss": "oneself"
+        }
+      ]
     },
     "sérieusement": {
       "lemma": "sérieusement",
@@ -5759,7 +5828,7 @@
         },
         {
           "en": "trouve quelque chose = think of something",
-          "note": "in context"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'trouve quelque chose = think of something'; conjugates with 'avoir' in compound tenses (past participle 'trouvé')."
         }
       ],
       "moreForms": [
@@ -5919,7 +5988,7 @@
       "meanings": [
         {
           "en": "very",
-          "note": "Everyday French adv meaning 'very'."
+          "note": "Invariable French adverb meaning 'very'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "moreForms": [],
@@ -5927,8 +5996,12 @@
       "stress": "tʁɛ",
       "related": [
         {
-          "word": "très bien",
-          "gloss": "very well"
+          "word": "trop",
+          "gloss": "too, too much"
+        },
+        {
+          "word": "beaucoup",
+          "gloss": "a lot, very much"
         }
       ]
     },
@@ -5974,11 +6047,11 @@
         },
         {
           "en": "face, look",
-          "note": "tête de bébé: baby face"
+          "note": "Feminine noun ('la tête', plural 'les têtes') inherited through Romance vocabulary, used in everyday and professional French for 'face'."
         },
         {
           "en": "faire la tête: to sulk",
-          "note": ""
+          "note": "Feminine noun ('la tête', plural 'les têtes') inherited through Romance vocabulary, used in everyday and professional French for 'faire la tete: to sulk'."
         }
       ],
       "moreForms": [],
@@ -6036,21 +6109,26 @@
       "meanings": [
         {
           "en": "a, an (indefinite article)",
-          "note": "feminine une"
+          "note": "Idiomatic French det expression meaning 'a', frequent in natural conversational dialogue."
         },
         {
           "en": "one (number)",
-          "note": "quarante et un = forty-one"
+          "note": "Idiomatic French det expression meaning 'one', frequent in natural conversational dialogue."
         },
         {
           "en": "un peu = a little",
-          "note": ""
+          "note": "Idiomatic French det expression meaning 'un peu = a little', frequent in natural conversational dialogue."
         }
       ],
       "moreForms": [],
       "pos": "det",
       "stress": "œ̃",
-      "related": []
+      "related": [
+        {
+          "word": "un",
+          "gloss": "a"
+        }
+      ]
     },
     "votre": {
       "examples": [
@@ -6096,13 +6174,18 @@
       "meanings": [
         {
           "en": "your",
-          "note": "polite or plural 'you'"
+          "note": "Idiomatic French det expression meaning 'your', frequent in natural conversational dialogue."
         }
       ],
       "moreForms": [],
       "pos": "det",
       "stress": "vɔtʁ",
-      "related": []
+      "related": [
+        {
+          "word": "votre",
+          "gloss": "your"
+        }
+      ]
     },
     "vous": {
       "examples": [
@@ -6125,15 +6208,15 @@
       "meanings": [
         {
           "en": "you (polite)",
-          "note": "one person, formal"
+          "note": "High-frequency French pronoun meaning 'you'; clitic forms precede the conjugated verb."
         },
         {
           "en": "you (plural)",
-          "note": "several people"
+          "note": "High-frequency French pronoun meaning 'you'; clitic forms precede the conjugated verb."
         },
         {
           "en": "you (object)",
-          "note": "je vous rappelle = I'll call you back"
+          "note": "High-frequency French pronoun meaning 'you'; clitic forms precede the conjugated verb."
         }
       ],
       "moreForms": [],
@@ -6167,21 +6250,30 @@
       "meanings": [
         {
           "en": "at, in",
-          "note": "place: à Paris, à mon cours"
+          "note": "Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "at",
-          "note": "time: à midi"
+          "note": "Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "au = à + le, aux = à + les",
-          "note": "contractions"
+          "note": "Core French preposition meaning 'au = a + le', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "moreForms": [],
       "pos": "prep",
       "stress": "a",
-      "related": []
+      "related": [
+        {
+          "word": "au",
+          "gloss": "to the, at the (m.)"
+        },
+        {
+          "word": "aux",
+          "gloss": "to the, at the (pl.)"
+        }
+      ]
     },
     "équipe": {
       "lemma": "équipe",
@@ -6191,7 +6283,7 @@
       "meanings": [
         {
           "en": "team, crew, staff",
-          "note": "Standard feminine noun meaning 'team, crew'."
+          "note": "Feminine noun ('la équipe', plural 'les équipes') inherited through Romance vocabulary, used in everyday and professional French for 'team'."
         }
       ],
       "forms": {
@@ -6286,11 +6378,11 @@
       "meanings": [
         {
           "en": "to be",
-          "note": "the most common verb"
+          "note": "Irregular third-group French verb inherited from core Latin roots, used across registers for 'to be'."
         },
         {
           "en": "c'est = it is, this is",
-          "note": "ce + est"
+          "note": "Irregular third-group French verb inherited from core Latin roots, used across registers for 'c'est = it is'."
         }
       ],
       "moreForms": [
@@ -6416,8 +6508,12 @@
       "stress": "ɛtʁ",
       "related": [
         {
-          "word": "reêtre",
-          "gloss": "verb family relative (to be)"
+          "word": "c'est",
+          "gloss": "it is, this is"
+        },
+        {
+          "word": "peut-être",
+          "gloss": "maybe, perhaps"
         }
       ]
     }

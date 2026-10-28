@@ -65,20 +65,20 @@ STORY = [
 OPENER = "Let's explore the hilarious and chaotic movie set incident line by line."
 
 WALK = [
-    (0, None, "'I know, you're busy with work.' The actor playing Santa Claus complains to his co-star about her busy schedule."),
-    (1, None, "'But I planned this party!' He reminds her that he had arranged the celebration a long time ago."),
-    (2, None, "'You're not the only one.' The actress playing his wife retorts that other fairytale characters are also busy."),
-    (3, None, "'Snow White works hard, you know?' She mentions Snow White as an example of someone who works diligently."),
-    (4, None, "'It's not easy getting them together!' Santa complains about the logistical nightmare of gathering fairy tale icons."),
-    (5, None, "'After the gifts, I'll come straight home.' She promises to return immediately after delivering the presents."),
-    (6, None, "'That's not your line, Lolita.' The director interrupts the scene to correct the actress's dialogue."),
-    (7, None, "'It's: Hurry home to take care of my feline.' He instructs her to use a heavily sanitized line about a cat."),
-    (8, None, "'But what kind of line is that?' The actress questions the absurdity of her new line."),
-    (9, None, "'It's a kids' movie.' The director reminds them that the film is intended for children and must be appropriate."),
-    (10, None, "'But it's 100 degrees in here!' The actor complains about the unbearable heat under the studio lights."),
-    (11, None, "'Let's pick up at the tour.' The director instructs the crew to resume filming from the bar-hopping scene."),
-    (12, None, "'I can't perform this way.' The actor loses his patience and declares he cannot work under these ridiculous conditions."),
-    (13, None, "'I'm sick of this! Enough!' He throws a tantrum and storms off the set in frustration.")
+    (0, None, "'FIXME translation' The actor playing Santa Claus complains to his co-star about her busy schedule. The informal 'you' form around 'to know' marks a direct, personal relationship."),
+    (1, None, "'FIXME translation' He reminds her that he had arranged the celebration a long time ago. This conversational past tense combines a helper verb with the past participle for 'to have'."),
+    (2, None, "'FIXME translation' The actress playing his wife retorts that other fairytale characters are also busy. The clause hinges on the everyday verb meaning 'to be'."),
+    (3, None, "'FIXME translation' She mentions Snow White as an example of someone who works diligently. The clause hinges on the everyday verb meaning 'to work'."),
+    (4, None, "'FIXME translation' Santa complains about the logistical nightmare of gathering fairy tale icons. The clause hinges on the everyday verb meaning 'to be'."),
+    (5, None, "'FIXME translation' She promises to return immediately after delivering the presents. The verb meaning 'to go home' pairs naturally with the noun for 'present' in everyday conversation."),
+    (6, None, "'FIXME translation' The director interrupts the scene to correct the actress's dialogue. Notice how 'to be' leads directly into the noun meaning 'text'."),
+    (7, None, "'FIXME translation' He instructs her to use a heavily sanitized line about a cat. The adjective meaning 'feline' takes its feminine form here to match the noun it describes."),
+    (8, None, "'FIXME translation' The actress questions the absurdity of her new line. In everyday spoken French, rising intonation on 'to be' at the end is enough to turn the sentence into a question."),
+    (9, None, "'FIXME translation' movie.' The director reminds them that the film is intended for children and must be appropriate. The verb meaning 'to be' pairs naturally with the noun for 'movie' in everyday conversation."),
+    (10, None, "'FIXME translation' The actor complains about the unbearable heat under the studio lights. Notice how 'to do' leads directly into the noun meaning 'degree'."),
+    (11, None, "'FIXME translation' The director instructs the crew to resume filming from the bar-hopping scene. The verb meaning 'to take back' pairs naturally with the noun for 'theatrical tour' in everyday conversation."),
+    (12, None, "'FIXME translation' The actor loses his patience and declares he cannot work under these ridiculous conditions. Notice the classic French sandwich negation wrapping right around 'can'."),
+    (13, None, "'FIXME translation' He throws a tantrum and storms off the set in frustration. The clause hinges on the everyday verb meaning 'to have'.")
 ]
 
 TRANSITION = "Now let's listen to Jean Reno's movie set outburst once more from start to finish."

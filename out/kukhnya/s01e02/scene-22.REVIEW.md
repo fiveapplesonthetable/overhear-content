@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ты почему тут поставил грязную коробку? | Why did you put a dirty box here? | #235 00:17:46: коробку грязную поставил | adapted: Chef's annoyance |
-| 2 | Аня | Убери её отсюда очень быстро! | Remove it from here very quickly! | #236 00:17:49: Убери давай быстро. | adapted: Order to clean up |
-| 3 | Аня | Лёва, вы уже нашли мой нож? | Lyova, have you already found my knife? | #237 00:17:51: Лёва, нож нашли? | adapted: Inquiry about knife |
+| 1 | Шеф | Ты почему тут поставил грязную коробку? | Why did you put a dirty box here? | #235 00:17:46: коробку грязную поставил | adapted: Chef's annoyance |
+| 2 | Шеф | Убери её отсюда очень быстро! | Remove it from here very quickly! | #236 00:17:49: Убери давай быстро. | adapted: Order to clean up |
+| 3 | Шеф | Лёва, вы уже нашли мой нож? | Lyova, have you already found my knife? | #237 00:17:51: Лёва, нож нашли? | adapted: Inquiry about knife |
 | 4 | Лёва | Мы ещё не нашли его, шеф. | We have not found it yet, Chef. | #238 00:17:54: Ещё нет, шеф. | adapted: Lyova reports no success |
-| 5 | Аня | Вы точно везде хорошо искали? | Did you definitely look well everywhere? | #238 00:17:54: Везде смотрели? | adapted: Chef presses on |
+| 5 | Шеф | Вы точно везде хорошо искали? | Did you definitely look well everywhere? | #238 00:17:54: Везде смотрели? | adapted: Chef presses on |
 | 6 | Лёва | Да, мы всё проверили на кухне. | Yes, we checked everything in the kitchen. | #239 00:17:58: Везде. | adapted: Lyova confirms search |
-| 7 | Аня | Значит, продолжайте искать дальше! | Then continue to look further! | #239 00:17:58: Ну ищите. | adapted: Chef orders continued search |
-| 8 | Аня | Кто-то мог случайно оставить нож внутри. | Someone could accidentally leave the knife inside. | #240 00:18:00: оставил там нож | adapted: Chef's theory |
-| 9 | Аня | Например, кто-то забыл нож в рыбе. | For example, someone forgot the knife in the fish. | #241 00:18:04: Ну, в рыбе, например. | adapted: Specific suspicion |
+| 7 | Шеф | Значит, продолжайте искать дальше! | Then continue to look further! | #239 00:17:58: Ну ищите. | adapted: Chef orders continued search |
+| 8 | Шеф | Кто-то мог случайно оставить нож внутри. | Someone could accidentally leave the knife inside. | #240 00:18:00: оставил там нож | adapted: Chef's theory |
+| 9 | Шеф | Например, кто-то забыл нож в рыбе. | For example, someone forgot the knife in the fish. | #241 00:18:04: Ну, в рыбе, например. | adapted: Specific suspicion |
 | 10 | Лёва | В рыбе? Это невозможно, шеф! | In the fish? That is impossible, Chef! | #242 00:18:07: В рыбе? | adapted: Lyova's disbelief |
-| 11 | Аня | Я не знаю. Ищите везде! | I do not know. Look everywhere! | #243 00:18:10: Ищите везде. | adapted: Chef's insistence |
+| 11 | Шеф | Я не знаю. Ищите везде! | I do not know. Look everywhere! | #243 00:18:10: Ищите везде. | adapted: Chef's insistence |
 | 12 | Лёва | Хорошо, шеф, мы всё найдём. | Alright, Chef, we will find everything. | #244 00:18:13: Да, шеф. | adapted: Lyova agrees |
-| 13 | Аня | Без ножа мы не сможем работать! | Without the knife we will not be able to work! | new | new: Chef's conclusion |
+| 13 | Шеф | Без ножа мы не сможем работать! | Without the knife we will not be able to work! | new | new: Chef's conclusion |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -28,12 +28,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Welcome to my former office, dear Nathalie.' Mathias welcomes the actress into ASK. The adjective 'ancien' placed before a noun denotes former status.
-- 'It looks more like a lawyers' corral!' Nathalie compares the open desks to a cattle pen. The noun 'corral' refers humorously to an enclosure.
+- 'It looks more like a lawyers' corral!' corral!' corral!' Nathalie compares the open desks to a cattle pen. Notice how 'would say' leads directly into the noun meaning 'corral'.
 - 'The agency had to sublet this entire floor.' Mathias explains the financial sublet. The verb 'sous-louer' means to sublet space.
 - 'We must circulate the energy here!' Nathalie invokes harmonious energy flow. The causative verb 'faire circuler' means to cause to move or flow.
 - 'A nice green plant will change the whole ambiance.' Nathalie introduces natural decor. The noun phrase 'plante verte' denotes a houseplant.
 - 'Careful Nathalie, this is not your job.' Mathias warns her against interfering with staff. The warning interjection 'attention' urges caution.
-- 'Who has already heard of feng shui?' Nathalie addresses the astonished lawyers. The idiom 'entendre parler de' means to hear about something.
+- 'Who has already heard of feng shui?' Nathalie addresses the astonished lawyers. This conversational past tense combines a helper verb with the past participle for 'heard'.
 - 'Nathalie! What are you doing in this room?' Andrea bursts into the suite out of breath. The noun 'piece' refers to a room inside a building.
 - 'I am helping these poor lawyers breathe better.' Nathalie justifies her impromptu redesign. The comparative adverb 'mieux' modifies the infinitive respirer.
 - 'Mathias, are you still trying to steal my clients?' Andrea accuses Mathias of poaching. The verb 'voler' here colloquially means to poach or steal clients.

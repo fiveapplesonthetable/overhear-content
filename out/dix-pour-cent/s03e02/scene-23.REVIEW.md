@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I put this bag on the table for you.' A considerate announcement setting down groceries.
-- 'Thank you Mathias, that is very kind of you.' A polite acknowledgment expressing domestic gratitude.
-- 'Do you want to eat a good hot soup, Noemie?' A caring offer proposing homemade comfort food.
-- 'No thank you Catherine, do not trouble yourself.' A polite refusal relieving her host of effort.
-- 'We are going to let you rest now.' A considerate departure formula allowing the patient peace.
-- 'I am not paralyzed either!' A humorous defense asserting physical independence.
-- 'Mathias told me everything at the emergency room.' A candid disclosure revealing hospital confidences.
-- 'What did he tell you exactly?' A cautious question inquiring about shared secrets.
-- 'Do you really want to leave agency ASK?' A direct inquiry challenging her career departure.
-- 'A headhunter contacted me.' An objective explanation explaining external recruitment.
-- 'Noemie is in high demand for her talent.' A protective defense highlighting professional excellence.
-- 'This is perhaps not the right time.' A cautious opinion advising patient deliberation.
-- 'I am going to think about this whole situation.' A thoughtful concession promising careful reflection.
-- 'Mathias cares enormously about you, Noemie.' A profound revelation affirming deep professional loyalty.
+- 'I put this bag on the table for you.' A considerate announcement setting down groceries. Notice how 'place' leads directly into the noun meaning 'bag'.
+- 'Thank you Mathias, that is very kind of you.' A polite acknowledgment expressing domestic gratitude. Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit.
+- 'Do you want to eat a good hot soup, Noemie?' The adjective meaning 'good' takes its feminine form here to match the noun it describes.
+- 'No thank you Catherine, do not trouble yourself.' The two-part French negation brackets the verb for 'trouble' on both sides. The two-part French negation brackets the verb for 'trouble' on both sides.
+- 'We are going to let you rest now.' French forms the near future by pairing the present tense of 'to go' directly with 'to rest'. French forms the near future by pairing the present tense of 'to go' directly with 'to rest'.
+- 'I am not paralyzed either!' This conversational past tense combines a helper verb with the past participle for 'paralyzed'. This conversational past tense combines a helper verb with the past participle for 'paralyzed'.
+- 'Mathias told me everything at the emergency room.' A candid disclosure revealing hospital confidences. Notice how 'has' leads directly into the noun meaning 'emergency room'.
+- 'What did he tell you exactly?' The standard spoken question formula at the front turns the statement about 'has' into a natural inquiry.
+- 'Do you really want to leave agency ASK?' The verb meaning 'want' pairs naturally with the noun for 'the agency' in everyday conversation.
+- 'A headhunter contacted me.' An objective explanation explaining external recruitment. This conversational past tense combines a helper verb with the past participle for 'contacted'.
+- 'Noemie is in high demand for her talent.' This conversational past tense combines a helper verb with the past participle for 'sought-after'. This conversational past tense combines a helper verb with the past participle for 'sought-after'.
+- 'This is perhaps not the right time.' A cautious opinion advising patient deliberation. The descriptive adjective for 'good' agrees in gender and number with its noun.
+- 'I am going to think about this whole situation.' A thoughtful concession promising careful reflection. Notice how 'am going' leads directly into the noun meaning 'situation'.
+- 'Mathias cares enormously about you, Noemie.' A profound revelation affirming deep professional loyalty. Catherine uses the polite 'you' form alongside 'cares' to keep a respectful professional tone.

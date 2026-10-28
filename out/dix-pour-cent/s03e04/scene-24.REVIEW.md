@@ -32,12 +32,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'A breakthrough after so much tension?' Mathias listens attentively to the reading. The noun 'tension' denotes the protracted strain at ASK.
 - 'Like a river breaking its dikes.' Noemie quotes the poetic imagery of natural release. The noun 'fleuve' refers to a large river flowing to the sea.
 - 'Like a great cloud bursting.' Noemie describes the dramatic release of pent-up energy. The verb 'crever' here figuratively means to burst with rain.
-- 'Vulgar men are going to disappear.' Noemie interprets the hexagram's forecast about overcoming adversaries like Hicham. The adjective 'vulgaires' denotes coarse or inferior persons.
+- 'Vulgar men are going to disappear.' Noemie interprets the hexagram's forecast about overcoming adversaries like Hicham. Notice how 'are going to' leads directly into the noun meaning 'men'.
 - 'What does the text say about action?' Mathias asks for the tactical counsel of the reading. The interrogative pronoun 'que' opens the inverted question.
 - 'Resolute action brings about change.' Noemie recites the core principle of the hexagram. The feminine adjective 'resolue' describes decisive and purposeful conduct.
 - 'It is truly very striking, Noemie.' Mathias is struck by how accurately the ancient text fits their struggle. The adjective 'frappant' means vivid or remarkable.
 - 'It means that now is the time.' Noemie urges that hesitation must end immediately. The verbal expression 'veut dire' means signifies or indicates.
-- 'We must go on the offensive.' Mathias resolves to initiate their decisive takeover maneuver. The idiom 'passer a l'attaque' means to take the initiative.
+- 'We must go on the offensive.' Mathias resolves to initiate their decisive takeover maneuver. The verb meaning 'must' pairs naturally with the noun for 'attack' in everyday conversation.
 - 'Go for it boldly, Mathias!' Noemie encourages him to trust his strength. The imperative 'allez-y' urges someone forward with vigor.
 - 'Break through without hesitation!' Noemie repeats the inspirational command of the hexagram. The imperative 'percez' calls for breaking through obstacles.
 - 'Yes, we are going to break through together.' Mathias confirms their shared commitment to victory. The near-future construction 'allons percer' signals imminent resolution.

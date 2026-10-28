@@ -27,14 +27,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What level is your instinct at?' Herve asks Camille skeptically about her intuition. The noun 'instinct' refers to gut feeling.
-- 'He did that all by himself.' Camille defends Samy's self-tape initiative. The phrase 'tout seul' means alone or on his own.
-- 'Stop, he is a total amateur.' Herve dismisses the actor's audition video. The colloquial French slang 'une quiche' means someone terrible or incompetent at something.
+- 'What level is your instinct at?' Herve asks Camille skeptically about her intuition. In everyday spoken French, rising intonation on 'instinct' at the end is enough to turn the sentence into a question.
+- 'He did that all by himself.' Camille defends Samy's self-tape initiative. The clause hinges on the everyday verb meaning 'has'.
+- 'Stop, he is a total amateur.' Herve dismisses the actor's audition video. The verb meaning 'stop' pairs naturally with the noun for 'amateur' in everyday conversation.
 - 'It is innovative and very special.' Camille praises the unusual performance style. The adjective 'novateur' describes pioneering artistic work.
 - 'Great actors have succeeded.' Camille reminds him that unconventional actors often succeed. The past participle 'reussi' comes from reussir.
 - 'Nobody believed in Belmondo.' Camille cites legendary French actor Jean-Paul Belmondo. The negative pronoun 'personne' means nobody.
 - 'We are not representing this guy.' Herve refuses to sign the eccentric actor. The informal noun 'ce mec' means this guy.
-- 'I truly believe in him.' Camille asserts her strong conviction. The pronoun 'y' refers back to believing in him.
+- 'I truly believe in him.' Camille asserts her strong conviction. The clause hinges on the everyday verb meaning 'believe'.
 - 'He has enormous potential.' Camille highlights his untapped acting talent. The adjective 'enorme' emphasizes great capability.
 - 'Are you speaking for both of us?' Herve questions whether this serves their agency partnership. The preposition 'pour' expresses on behalf of.
 - 'I will be his own Pygmalion.' Camille vows to mentor and train him into shape. The simple future 'serai' comes from etre.

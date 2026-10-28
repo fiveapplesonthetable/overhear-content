@@ -27,16 +27,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing here?' Hicham storms into Mathias's office demanding answers. The inverted question expresses agitated disbelief.
+- 'What are you doing here?' Hicham storms into Mathias's office demanding answers. Hicham uses the casual singular 'you' with 'are doing', showing close familiarity.
 - 'Calm down, please.' Mathias tries to soothe his furious partner. The imperative 'calme-toi' urges composure.
 - 'What kind of terrible mess is this?' Hicham demands an explanation of the chaos. The colloquial French noun 'bordel' describes complete disarray.
 - 'Andrea wants to leave with Gabriel?' Hicham confirms the identities of the defecting agents. The verb 'partir' means to leave or depart.
 - 'Start another competing agency?' Hicham cannot believe they plan to set up a rival company. The verb 'monter' here means to found or set up.
-- 'This cannot be possible!' Hicham reacts with sheer disbelief to the revelation. The adjective 'possible' describes potential reality.
-- 'I am completely disgusted today.' Hicham confesses his deep personal revulsion at their disloyalty. The adjective 'ecoeure' expresses profound disgust.
+- 'This cannot be possible!' Hicham reacts with sheer disbelief to the revelation. A short, idiomatic conversational reply that keeps the exchange moving naturally.
+- 'I am completely disgusted today.' Hicham confesses his deep personal revulsion at their disloyalty. The descriptive adjective for 'disgusted' agrees in gender and number with its noun.
 - 'I understand you perfectly, Hicham.' Mathias adopts a sympathetic tone to gain his confidence. The adverb 'parfaitement' means thoroughly or completely.
 - 'My offer still stands, know that.' Mathias brings back his buyout proposal. The verbal idiom 'tenir toujours' means to remain valid.
-- 'You want to buy out my shares?' Hicham clarifies Mathias's intentions. The noun 'parts' denotes company ownership shares.
+- 'You want to buy out my shares?' Hicham clarifies Mathias's intentions. In everyday spoken French, rising intonation on 'want' at the end is enough to turn the sentence into a question.
 - 'I want to free you at last.' Mathias frames the buyout as liberating Hicham from unwanted stress. The verb 'liberer' means to release or free.
 - 'Your partners betray you cowardly.' Mathias drives a wedge between Hicham and his associates. The adverb 'lachement' means cowardly or deceitfully.
 - 'And with you, it will be different?' Hicham questions whether Mathias is truly trustworthy. The future tense 'ce sera' looks ahead to prospective ownership.

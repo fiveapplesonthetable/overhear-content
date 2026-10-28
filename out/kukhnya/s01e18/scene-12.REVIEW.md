@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | В смысле? | In what sense? | #1 00:00:10: девушки | adapted: adapted |
+| 1 | Макс | В смысле? | In what sense? | #1 00:00:10: девушки | adapted: adapted |
 | 2 | Илья | В прямом смысле. | In the direct sense. | #1 00:00:10: девушки | adapted: adapted |
 | 3 | Илья | Она умная и красивая. | She is smart and beautiful. | #1 00:00:10: девушки | adapted: adapted |
-| 4 | Аня | Я согласен с тобой. | I agree with you. | #1 00:00:10: девушки | adapted: new |
+| 4 | Макс | Я согласен с тобой. | I agree with you. | #1 00:00:10: девушки | adapted: new |
 | 5 | Илья | Она закончила университет. | She finished the university. | #1 00:00:10: девушки | adapted: adapted |
 | 6 | Илья | Она изучала управление ресторанами. | She studied restaurant management. | #1 00:00:10: девушки | adapted: adapted |
-| 7 | Аня | Это очень престижное образование. | This is a very prestigious education. | #1 00:00:10: девушки | adapted: new |
+| 7 | Макс | Это очень престижное образование. | This is a very prestigious education. | #1 00:00:10: девушки | adapted: new |
 | 8 | Илья | А потом она здесь работала. | And then she worked here. | #1 00:00:10: девушки | adapted: adapted |
-| 9 | Аня | Она работала в нашем ресторане? | She worked in our restaurant? | #1 00:00:10: девушки | adapted: new |
+| 9 | Макс | Она работала в нашем ресторане? | She worked in our restaurant? | #1 00:00:10: девушки | adapted: new |
 | 10 | Илья | Да, она была менеджером. | Yes, she was a manager. | #1 00:00:10: девушки | adapted: new |
-| 11 | Аня | Я не знал об этом. | I did not know about this. | #1 00:00:10: девушки | adapted: new |
+| 11 | Макс | Я не знал об этом. | I did not know about this. | #1 00:00:10: девушки | adapted: new |
 | 12 | Илья | Она очень талантливая девушка. | She is a very talented girl. | #1 00:00:10: девушки | adapted: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'In what sense?' There is no question word here — in Russian, rising intonation on 'sense' is enough to make it a question. And Ilya jumps in.
-- 'In the direct sense.' Notice the word order: 'straight' comes first, and 'sense' finishes the sentence.
-- 'She is smart and beautiful.' Here 'it' sets up the idea, while 'pretty' comes at the end for emphasis.
-- 'I agree with you.' A compact expression built around 'I' and 'you'. Ilya answers straight away.
-- 'She finished the university.' Here 'it' sets up the idea, while 'university' comes at the end for emphasis.
-- 'She studied restaurant management.' You'll hear 'it' all the time in the show, here connected with 'restaurant'.
-- 'This is a very prestigious education.' Max puts 'this' up front so the listener immediately catches the tone, followed by 'very much'. Then Ilya replies.
+- 'In the direct sense.' Russian omits the present-tense verb 'to be' here, linking 'straight' directly with 'sense', combining 'straight' with 'sense'.
+- 'She is smart and beautiful.' Russian omits the present-tense verb 'to be', connecting 'it' directly with 'pretty'.
+- 'I agree with you.' Max delivers a punchy one-word reaction built around the Russian word meaning 'agreed'.
+- 'She finished the university.' Ilya uses the perfective verb meaning 'finished' to focus on the single completed result, pairing it with 'university'.
+- 'She studied restaurant management.' Ilya chooses the imperfective verb meaning 'to study' for the ongoing action, followed by 'headquarters' and 'restaurant'.
+- 'This is a very prestigious education.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'prestigious', combining 'very much' with 'prestigious' and 'education'.
 - 'And then she worked here.' Notice how the verb meaning 'worked' takes the feminine past-tense ending '-a' here.
-- 'She worked in our restaurant?' Listen for the word meaning 'it' right alongside 'worked' in this line.
-- 'Yes, she was a manager.' Ilya starts with 'it' and pairs it with 'was' to make the point clear. And Max jumps in.
-- 'I did not know about this.' Max puts 'I' up front so the listener immediately catches the tone, followed by 'knew'.
+- 'She worked in our restaurant?' Max turns a statement into a question purely through rising intonation on the word meaning 'worked', followed by 'restaurant'.
+- 'Yes, she was a manager.' Ilya chooses the imperfective verb meaning 'was' for the ongoing action, followed by 'manager'.
+- 'I did not know about this.' Max delivers a punchy one-word reaction built around the Russian word meaning 'knew'.
 - 'She is a very talented girl.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'it' straight to 'girlfriend'.

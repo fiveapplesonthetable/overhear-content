@@ -27,13 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Chef, I did it.' The verb for 'did' is in the masculine past tense, marked by that 'l' sound at the end.
 - 'What did you make?' The verb for 'did' is in the masculine past tense, marked by that 'l' sound at the end.
-- 'I made your pâté.' Maks starts with 'I' and pairs it with 'did' to make the point clear. And Chef jumps in.
-- 'My pâté?' Chef puts 'pâté' up front so the listener immediately catches the tone, followed by 'pâté'.
-- 'It came out exactly the same.' The key word here means 'worked out', which Maks combines with 'one'.
-- 'I must taste it.' Chef puts 'I' up front so the listener immediately catches the tone, followed by 'has to'. Maks answers straight away.
-- 'Even a little better.' Maks puts 'a little bit' up front so the listener immediately catches the tone, followed by 'better'.
-- 'No way!' The first content word means 'yes', and 'all right' rounds out the thought.
-- 'Yeah.' You'll hear 'yes' all the time in the show, here connected with 'yes'. Then Chef replies.
-- 'This is impossible.' A compact expression built around 'this' and 'impossible'.
-- 'I am a good cook.' Listen for the word meaning 'I' right alongside 'good' in this line.
-- 'We will see.' The first content word means 'we', and 'have a look' rounds out the thought.
+- 'I made your pâté.' Max uses the polite plural 'you' alongside 'pâté', keeping a formal or respectful register.
+- 'My pâté?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'pâté'. Then Max responds.
+- 'It came out exactly the same.' Max uses the perfective verb meaning 'worked out' to focus on the single completed result, pairing it with 'one'.
+- 'I must taste it.' Here Chef Barinov anchors the line on the word meaning 'has to' and builds the thought around 'to taste'.
+- 'Even a little better.' Russian omits the present-tense verb 'to be' here, linking 'a little bit' directly with 'better', combining 'a little bit' with 'better'.
+- 'No way!' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'yes', followed by 'all right'.
+- 'Yeah.' A crisp, everyday conversational reply meaning 'yes' that you will hear constantly in Russian dialogue.
+- 'This is impossible.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'impossible'.
+- 'I am a good cook.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'chef', combining 'good' with 'chef'.
+- 'We will see.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'have a look'.

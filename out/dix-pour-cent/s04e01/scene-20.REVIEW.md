@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Our seats are there, in the middle.' Gabriel directs Sophia to their assigned spots. The prepositional phrase 'au milieu' indicates location midway in the row.
-- 'It is settled, I will not win.' Sophia jumps to a grim conclusion instantly. The idiom 'c'est regle' means the matter is settled or decided.
+- 'It is settled, I will not win.' Sophia jumps to a grim conclusion instantly. The clause hinges on the everyday verb meaning 'settled'.
 - 'Why do you say that so quickly, Sophia?' Gabriel tries to understand her sudden panic. The interrogative adverb 'pourquoi' inquires about her negative logic.
 - 'Because we are in the middle!' Sophia points out the inconvenient seat positioning. The conjunction 'parce que' introduces an explanation for her superstition.
 - 'That changes nothing about the vote.' Gabriel argues that seating does not dictate ballots. The negative structure 'ne... rien' means nothing at all.
@@ -38,6 +38,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Listen closely to the opening of the envelope.' Gabriel awaits the official verdict. The noun 'enveloppe' refers to the sealed award result.
 - 'Another actress won the trophy!' Sophia realizes her defeat as applause erupts. The verb 'remporter' means to take home or win a prize.
 - 'Sophia, stay seated, do not leave!' Gabriel urgently attempts to avoid a scandal. The negative imperative 'ne pars pas' urges remaining in place.
-- 'I did not win, I am leaving.' Sophia refuses to witness the winner's victory speech. The present verb 'pars' asserts an immediate exit.
-- 'That is too impulsive a reaction, wait!' Gabriel warns her about media optics. The adjective 'impulsive' describes acting without reflection.
+- 'I did not win, I am leaving.' Sophia refuses to witness the winner's victory speech. The clause hinges on the everyday verb meaning 'have'.
+- 'That is too impulsive a reaction, wait!' Gabriel warns her about media optics. Dropping the subject pronoun turns the verb for 'wait' into a direct, punchy command.
 - 'I refuse to sit here!' Sophia walks past the seated guests into the corridor. The verb 'refuser' followed by an infinitive indicates firm defiance.

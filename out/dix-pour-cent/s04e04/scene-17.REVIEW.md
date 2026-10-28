@@ -29,10 +29,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Let us look for this form on his computer.' Camille prepares to search for the legal paperwork. The imperative form 'voyons' expresses let us see.
 - 'Wait, what is this?' Camille is distracted by an unexpected open window on the screen. The conversational phrase 'qu'est-ce que c'est' asks what something is.
-- 'It is an open draft email.' Camille notices an unsent message written by Mathias. The compound noun 'brouillon d'e-mail' denotes a draft message.
-- 'I made promises to Ulrika...' Camille reads the beginning of her father's private strategy notes. The noun 'promesses' denotes commitments or vows.
+- 'It is an open draft email.' Camille notices an unsent message written by Mathias. The key noun here means 'draft', anchored by its matching French article.
+- 'I made promises to Ulrika...' Camille reads the beginning of her father's private strategy notes. Notice how 'have' leads directly into the noun meaning 'promises'.
 - 'So that she signs the contract...' Camille discovers how Mathias persuaded the Swedish author. The conjunction 'pour que' introduces a subjunctive purpose clause.
-- 'But I plan to discourage her gradually...' Camille discovers his plan to push the author aside. The verb phrase 'compter faire' expresses an intention to act.
+- 'But I plan to discourage her gradually...' Camille discovers his plan to push the author aside. The clause hinges on the everyday verb meaning 'plan'.
 - 'We can replace her later on...' Camille reads that Mathias intends to bring in a new writer. The verb 'remplacer' means to substitute or replace.
 - 'Use the expense account...' Camille uncovers his plan to charge the company for personal schemes. The business term 'note de frais' denotes an expense report.
 - 'For an animal foundation...' Camille reads how Mathias planned to feign charitable support. The noun 'fondation' designates an organization or charity.

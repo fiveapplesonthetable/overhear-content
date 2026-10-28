@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I read Xavier's screenplay.' Noemie enters the discussion with authority. The compound past introduces her preparation.
-- 'It is much too violent and dark.' Igor reiterates his reservations. The adverbs beaucoup trop emphasize his hesitation.
-- 'But this violence has a deep meaning.' Noemie counters with artistic conviction. The adjective profond highlights the script's substance.
-- 'Why show such cruelty on screen?' Igor questions the creative choice. The interrogative adverb opens a debate on storytelling.
+- 'I read Xavier's screenplay.' Noemie enters the discussion with authority. The verb meaning 'have' pairs naturally with the noun for 'screenplay' in everyday conversation.
+- 'It is much too violent and dark.' Igor reiterates his reservations. The descriptive adjective for 'violent' agrees in gender and number with its noun.
+- 'But this violence has a deep meaning.' Noemie counters with artistic conviction. The descriptive adjective for 'deep' agrees in gender and number with its noun.
+- 'Why show such cruelty on screen?' Igor questions the creative choice. In everyday spoken French, rising intonation on 'to show' at the end is enough to turn the sentence into a question.
 - 'It shows the harshness of that era.' Noemie provides historical context. The noun 'durete' captures the grim reality.
-- 'The public risks rejecting this film.' Igor worries about audience reception. The verb phrase risque de rejeter expresses caution.
-- 'This is not gratuitous violence.' Noemie defends the screenplay's narrative honesty. The negative construction dismisses sensationalism.
-- 'The characters take up arms without hesitating.' Igor points out the drastic actions of the protagonists. The phrase sans hésiter underscores their resolve.
-- 'They react to society's constraints.' Noemie explains their underlying oppression. The noun contraintes identifies the systemic pressure.
-- 'Yet they are treated as barbarians.' Igor echoes the judgment cast upon them. The adverb pourtant signals contrast.
-- 'Who are the real barbarians today?' Noemie delivers the central philosophical question. The interrogative pronounces the moral theme.
-- 'You defend this project with great passion.' Igor notes her remarkable conviction. The prepositional phrase avec beaucoup d'ardeur admires her fervor.
-- 'I truly believe in this great film.' Noemie reaffirms her confidence. The adverb vraiment shows complete dedication.
-- 'I am very impressed by your analysis.' Igor pays tribute to her unexpected insight. The participle impressionné concludes their debate on high respect.
+- 'The public risks rejecting this film.' Igor worries about audience reception. The verb meaning 'risks' pairs naturally with the noun for 'public' in everyday conversation.
+- 'This is not gratuitous violence.' Noemie defends the screenplay's narrative honesty. The key noun here means 'violence', anchored by its matching French article.
+- 'The characters take up arms without hesitating.' Igor points out the drastic actions of the protagonists. The verb meaning 'take' pairs naturally with the noun for 'characters' in everyday conversation.
+- 'They react to society's constraints.' Noemie explains their underlying oppression. Notice how 'react' leads directly into the noun meaning 'constraints'.
+- 'Yet they are treated as barbarians.' Igor echoes the judgment cast upon them. The verb meaning 'treats' pairs naturally with the noun for 'barbarians' in everyday conversation.
+- 'Who are the real barbarians today?' Noemie delivers the central philosophical question. In everyday spoken French, rising intonation on 'barbarians' at the end is enough to turn the sentence into a question.
+- 'You defend this project with great passion.' Igor notes her remarkable conviction. Igor uses the casual singular 'you' with 'defend', showing close familiarity.
+- 'I truly believe in this great film.' Noemie reaffirms her confidence. The verb meaning 'believe' pairs naturally with the noun for 'film' in everyday conversation.
+- 'I am very impressed by your analysis.' Igor pays tribute to her unexpected insight. The verb meaning 'impressed' pairs naturally with the noun for 'analysis' in everyday conversation.

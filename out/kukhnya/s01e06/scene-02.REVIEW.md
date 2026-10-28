@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Шеф | Огузок, посмотри на эту тарелку. | Oguzok, look at this plate. | new | new: new |
-| 2 | Аня | Шеф, это блюдо уже готово? | Chef, is this dish already ready? | new | new: new |
+| 2 | Макс | Шеф, это блюдо уже готово? | Chef, is this dish already ready? | new | new: new |
 | 3 | Шеф | Осталось главное: украсить его зеленью. | The main thing remains: to garnish it with herbs. | #4 00:00:30: Его украшают | adapted: adapted |
-| 4 | Аня | Каждая деталь имеет важное значение. | Every detail has important meaning. | new | new: new |
+| 4 | Макс | Каждая деталь имеет важное значение. | Every detail has important meaning. | new | new: new |
 | 5 | Шеф | Еда обязана выглядеть красиво и аппетитно. | Food is obliged to look beautiful and appetizing. | #4 00:00:30: украшают | adapted: adapted |
-| 6 | Аня | Положим сюда свежую зелень? | Shall we put fresh herbs here? | new | new: new |
+| 6 | Макс | Положим сюда свежую зелень? | Shall we put fresh herbs here? | new | new: new |
 | 7 | Шеф | Аккуратно! Не испорти дорогую подачу. | Carefully! Do not ruin the expensive presentation. | new | new: new |
-| 8 | Аня | Я делаю всё очень аккуратно, шеф. | I do everything very carefully, chef. | new | new: new |
+| 8 | Макс | Я делаю всё очень аккуратно, шеф. | I do everything very carefully, chef. | new | new: new |
 | 9 | Шеф | Красивая подача очень важна для гостей. | Beautiful presentation is very important for guests. | new | new: new |
-| 10 | Аня | Официанты уже ждут на кухне. | The waiters are already waiting in the kitchen. | new | new: new |
+| 10 | Макс | Официанты уже ждут на кухне. | The waiters are already waiting in the kitchen. | new | new: new |
 | 11 | Шеф | Зови официанта, пусть несут заказ. | Call the waiter, let them carry the order. | new | new: new |
-| 12 | Аня | Саша, забери готовое горячее блюдо! | Sasha, take the ready hot dish! | new | new: new |
+| 12 | Макс | Саша, забери готовое горячее блюдо! | Sasha, take the ready hot dish! | new | new: new |
 | 13 | Шеф | Отлично, продолжаем работать дальше. | Great, we continue working further. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)

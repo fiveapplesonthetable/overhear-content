@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sit down Mathias, you seem to be suffering.' Noemie invites him to take a seat on the couch. The polite imperative verb begins the caring exchange.
-- 'With my back and everything, I...' Mathias struggles to find words for his exhaustion. The colloquial prepositional phrase explains his physical limitation.
-- 'Is your back hurting you again?' Noemie inquires about his chronic condition. The present verbal idiom asks directly about pain.
-- 'Yes, these short nights are terrible.' Mathias describes his sleepless work schedule. The descriptive adjective emphasizes his accumulated exhaustion.
-- 'You should consult a good doctor.' Noemie offers practical health counsel. The conditional modal verb expresses a gentle recommendation.
-- 'Work exhausts me completely without you.' Mathias admits his vulnerability in the agency. The transitive verb conveys total depletion of energy.
-- 'At least drink your hot coffee.' Noemie points to the steaming mug on the table. The imperative verb urges him to relax and warm up.
-- 'This coffee does me a lot of good.' Mathias sips gratefully and feels immediate relief. The idiom with the verb expresses physical and emotional comfort.
-- 'You always refuse to listen to your body.' Noemie gently reproaches his obstinate routine. The negative structure highlights his habit of overworking.
-- 'I only wanted to see you today.' Mathias explains the true reason for dropping by. The past tense verb with the restrictive adverb underscores his personal longing.
-- 'Your morning visit touches me sincerely.' Noemie confesses that his presence matters. The emotional verb conveys sincere appreciation.
-- 'Can we speak about our common future?' Mathias steers the talk toward a professional reconciliation. The inverted modal question asks for an open dialogue.
-- 'First finish your delicious warm croissants.' Noemie smiles and defers serious business. The imperative construction encourages enjoying the morning meal together.
+- 'Sit down Mathias, you seem to be suffering.' Noemie invites him to take a seat on the couch. The formal 'you' pronoun sets a courteous, professional distance around 'sit down'.
+- 'With my back and everything, I...' Mathias struggles to find words for his exhaustion. The key noun here means 'back', anchored by its matching French article.
+- 'Is your back hurting you again?' Noemie inquires about his chronic condition. The formal 'you' pronoun sets a courteous, professional distance around 'makes'.
+- 'Yes, these short nights are terrible.' Mathias describes his sleepless work schedule. The adjective meaning 'short' takes its feminine form here to match the noun it describes.
+- 'You should consult a good doctor.' Noemie offers practical health counsel. Noemie uses the polite 'you' form alongside 'should' to keep a respectful professional tone.
+- 'Work exhausts me completely without you.' Mathias admits his vulnerability in the agency. The verb meaning 'exhausts' pairs naturally with the noun for 'work' in everyday conversation.
+- 'At least drink your hot coffee.' Noemie points to the steaming mug on the table. Notice how 'drink' leads directly into the noun meaning 'coffee'.
+- 'This coffee does me a lot of good.' Mathias sips gratefully and feels immediate relief. Notice how 'does' leads directly into the noun meaning 'coffee'.
+- 'You always refuse to listen to your body.' Noemie gently reproaches his obstinate routine. Notice how 'refuse' leads directly into the noun meaning 'body'.
+- 'I only wanted to see you today.' Mathias explains the true reason for dropping by. Notice how the short vowel drops before a vowel sound around 'wanted', making the phrase flow smoothly as one unit.
+- 'Your morning visit touches me sincerely.' Noemie confesses that his presence matters. Notice how 'touches' leads directly into the noun meaning 'visit'.
+- 'Can we speak about our common future?' Mathias steers the talk toward a professional reconciliation. In everyday spoken French, rising intonation on 'can we' at the end is enough to turn the sentence into a question.
+- 'First finish your delicious warm croissants.' Noemie smiles and defers serious business. Noemie uses the polite 'you' form alongside 'finish' to keep a respectful professional tone.
 - 'Promise me to think about it seriously, Noemie.' Mathias makes an earnest appeal before leaving. The imperative verb asks for thoughtful reflection.

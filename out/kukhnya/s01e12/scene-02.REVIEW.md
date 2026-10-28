@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ай! Как мне больно в животе! | Ouch! How it hurts me in the stomach! | #8 00:00:50: Блин, что это?<br>#12 00:00:58: Ой, что это? | adapted: adapted |
+| 1 | Макс | Ай! Как мне больно в животе! | Ouch! How it hurts me in the stomach! | #8 00:00:50: Блин, что это?<br>#12 00:00:58: Ой, что это? | adapted: adapted |
 | 2 | Вика | Макс, что такое? Тебе очень больно? | Max, what is it? Does it hurt you a lot? | #9 00:00:52: Что такое? Больно так? | adapted: adapted |
-| 3 | Аня | Я не знаю, что это такое. | I do not know what this is. | #10 00:00:54: Не знаю, что это. | adapted: adapted |
+| 3 | Макс | Я не знаю, что это такое. | I do not know what this is. | #10 00:00:54: Не знаю, что это. | adapted: adapted |
 | 4 | Вика | Ой, с правой стороны это очень плохо! | Oh, on the right side this is very bad! | #11 00:00:56: Боже мой. | adapted: adapted |
-| 5 | Аня | Боже мой, как мне сейчас больно. | My god, how much it hurts me now. | new | new: new |
+| 5 | Макс | Боже мой, как мне сейчас больно. | My god, how much it hurts me now. | new | new: new |
 | 6 | Вика | Давай я быстро вызову тебе врача. | Let me quickly call a doctor for you. | new | new: new |
-| 7 | Аня | Нет, серьёзно, не надо вызывать врачей. | No, seriously, do not call doctors. | #10 00:00:54: Нет, всё нормально, всё нормально. | adapted: adapted |
+| 7 | Макс | Нет, серьёзно, не надо вызывать врачей. | No, seriously, do not call doctors. | #10 00:00:54: Нет, всё нормально, всё нормально. | adapted: adapted |
 | 8 | Вика | Почему? Тебе же нужна срочная помощь. | Why? You need urgent help after all. | new | new: new |
-| 9 | Аня | Смотри, вот два билета в кино. | Look, here are two tickets to the cinema. | #13 00:01:02: Билетики. Пойдем в кино, а? | adapted: adapted |
+| 9 | Макс | Смотри, вот два билета в кино. | Look, here are two tickets to the cinema. | #13 00:01:02: Билетики. Пойдем в кино, а? | adapted: adapted |
 | 10 | Вика | Ну ты и придурок, честное слово! | Well you are a jerk, honestly! | #14 00:01:05: Дебил. | adapted: adapted |
-| 11 | Аня | Пойдём в кино сегодня вечером, а? | Shall we go to the cinema tonight, eh? | #13 00:01:02: Пойдем в кино, а? | adapted: adapted |
+| 11 | Макс | Пойдём в кино сегодня вечером, а? | Shall we go to the cinema tonight, eh? | #13 00:01:02: Пойдем в кино, а? | adapted: adapted |
 | 12 | Вика | Ты настоящий идиот, я никуда не пойду! | You are a real idiot, I will not go anywhere! | #14 00:01:05: Дебил. | adapted: adapted |
-| 13 | Аня | Ладно, тогда я пойду в кино один. | Alright, then I will go to the cinema alone. | new | new: new |
+| 13 | Макс | Ладно, тогда я пойду в кино один. | Alright, then I will go to the cinema alone. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ouch! How it hurts me in the stomach!' -- Max suddenly doubles over in intense pain.
-- 'Max, what is it? Does it hurt you a lot?' -- Victoria rushes to him with genuine concern.
-- 'I do not know what this is.' -- He pretends to be confused by the sudden ailment.
-- 'Oh, on the right side this is very bad!' -- The manager worries it might be appendicitis.
-- 'My god, how much it hurts me now.' -- He continues to dramatically fake his suffering.
-- 'Let me quickly call a doctor for you.' -- Victoria offers to summon medical assistance immediately.
-- 'No, seriously, do not call doctors.' -- Max quickly stops her from calling an ambulance.
-- 'Why? You need urgent help after all.' -- She insists that he needs professional care.
-- 'Look, here are two tickets to the cinema.' -- Dropping the act, he presents his romantic surprise.
-- 'Well you are a jerk, honestly!' -- Relieved but furious, Victoria insults his childish prank.
-- 'Shall we go to the cinema tonight, eh?' -- He playfully asks her out on a date.
-- 'You are a real idiot, I will not go anywhere!' -- Still angry about the trick, she flatly rejects him.
-- 'Alright, then I will go to the cinema alone.' -- Max accepts his defeat with a sigh.
+- 'Ouch! How it hurts me in the stomach!' Russian omits the present-tense verb 'to be' here, linking 'ouch' directly with 'how', pairing it with 'hurts' and 'stomach'.
+- 'Max, what is it? Does it hurt you a lot?' Russian omits the present-tense verb 'to be' here, linking 'a lot' directly with 'hurts' to make the point directly in conversation.
+- 'I do not know what this is.' Max delivers a punchy conversational reaction built around the Russian word meaning 'know'.
+- 'Oh, on the right side this is very bad!' Russian omits the present-tense verb 'to be' here, linking 'oh' directly with 'right', pairing it with 'side' and 'very'.
+- 'My god, how much it hurts me now.' Russian omits the present-tense verb 'to be' here, linking 'God' directly with 'how', pairing it with 'now' and 'hurts'.
+- 'Let me quickly call a doctor for you.' Here Vika anchors the line on the word meaning 'quickly' and builds the thought around 'will call' and 'doctor'.
+- 'No, seriously, do not call doctors.' The phrasing opens with 'seriously' before bringing in 'must' and 'to call' to make the point clear.
+- 'Why? You need urgent help after all.' Russian omits the present-tense verb 'to be' here, linking 'why' directly with 'needed', pairing it with 'urgent' and 'help'.
+- 'Look, here are two tickets to the cinema.' Max leads with the direct command form meaning 'look', pairing it with 'two' and 'tickets'.
+- 'Well you are a jerk, honestly!' Russian omits the present-tense verb 'to be' here, linking 'jerk' directly with 'honest', followed by 'word'.
+- 'Shall we go to the cinema tonight, eh?' Max turns a statement into a question purely through rising intonation on the word meaning 'shall we go', pairing it with 'cinema' and 'today'.
+- 'You are a real idiot, I will not go anywhere!' Vika expresses this naturally by combining the word for 'real' with 'idiot' and 'nowhere'.
+- 'Alright, then I will go to the cinema alone.' Max puts the word for 'alright' together with 'then' and 'will go' in a crisp, natural spoken turn of phrase.

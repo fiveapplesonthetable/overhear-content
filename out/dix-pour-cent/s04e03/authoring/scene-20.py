@@ -117,5 +117,5 @@ WALK = [
 ]
 
 TRANSITION = "Now, listen to the complete dialogue again at normal conversational pace."
-OUTRO = "Jose and Andrea settle into the hotel room, grateful to have survived a chaotic day of filming."
+OUTRO = "Jose and Andrea settle into the hotel room, grateful to have survived a chaotic day of filming. When you watch the episode, listen out for the expressions meaning 'lo--' and 'agent'. You'll catch them now. See you next time."
 CLOSING = ("lea", "Nous allons enfin pouvoir décompresser ensemble.")

@@ -118,5 +118,5 @@ WALK = [
 ]
 
 TRANSITION = "Now, listen to the complete dialogue again at normal conversational pace."
-OUTRO = "Mathias's surprise announcement as an independent producer leaves Andrea and Gabriel reeling."
+OUTRO = "Mathias's surprise announcement as an independent producer leaves Andrea and Gabriel reeling. When you watch the episode, listen out for the expressions meaning 'share' and 'prize'. You'll catch them now. See you next time."
 CLOSING = ("lea", "Cette trahison change absolument toute la donne.")

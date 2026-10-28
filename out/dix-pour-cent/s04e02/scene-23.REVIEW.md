@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Goodbye, Camille, thank you for everything.' Sarah thanks Camille warmly before leaving.
-- 'The party was really nice here.' Sarah compliments the pleasant evening at the agency.
-- 'Thank you for coming tonight, Sarah.' Camille smiles and sees her guest out.
-- 'There you are at last, is everything okay?' Gabriel catches up with Sarah by the door.
-- 'There is a party in Saint-Ouen.' Gabriel suggests extending their night out in town.
-- 'What is the big rush now?' Sarah playfully asks why they need to hurry.
-- 'This party is going to be incredible.' Gabriel promises an unforgettable atmosphere.
-- 'My friends are waiting for us there.' Gabriel explains that people are expecting them.
-- 'Did you arrange good transportation?' Sarah asks how they will reach the venue.
-- 'Yes, a taxi is waiting outside.' Gabriel assures her that travel is taken care of.
-- 'All right, let's leave right away.' Sarah agrees enthusiastically to the plan.
-- 'Perfect, we are going there together.' Gabriel happily confirms their departure.
-- 'Come on, come with me, Sarah!' Gabriel takes Sarah's hand as they head out.
+- 'Goodbye, Camille, thank you for everything.' Sarah thanks Camille warmly before leaving. A short, idiomatic conversational reply that keeps the exchange moving naturally.
+- 'The party was really nice here.' Sarah compliments the pleasant evening at the agency. The descriptive adjective for 'great' agrees in gender and number with its noun.
+- 'Thank you for coming tonight, Sarah.' Camille smiles and sees her guest out. The verb meaning 'having' pairs naturally with the noun for 'evening' in everyday conversation.
+- 'There you are at last, is everything okay?' Gabriel catches up with Sarah by the door. Gabriel uses the casual singular 'you' with 'goes', showing close familiarity.
+- 'There is a party in Saint-Ouen.' Gabriel suggests extending their night out in town. The key noun here means 'party', anchored by its matching French article.
+- 'What is the big rush now?' Sarah playfully asks why they need to hurry. The adjective meaning 'big' takes its feminine form here to match the noun it describes.
+- 'This party is going to be incredible.' Gabriel promises an unforgettable atmosphere. The descriptive adjective for 'incredible' agrees in gender and number with its noun.
+- 'My friends are waiting for us there.' Gabriel explains that people are expecting them. The verb meaning 'are waiting for' pairs naturally with the noun for 'friends' in everyday conversation.
+- 'Did you arrange good transportation?' Sarah asks how they will reach the venue. This conversational past tense combines a helper verb with the past participle for 'arranged'.
+- 'Yes, a taxi is waiting outside.' Gabriel assures her that travel is taken care of. The verb meaning 'waits' pairs naturally with the noun for 'taxi' in everyday conversation.
+- 'All right, let's leave right away.' Sarah agrees enthusiastically to the plan. Notice how the short vowel drops before a vowel sound around 'let's leave', making the phrase flow smoothly as one unit.
+- 'Perfect, we are going there together.' Gabriel happily confirms their departure. The descriptive adjective for 'perfect' agrees in gender and number with its noun.
+- 'Come on, come with me, Sarah!' Gabriel takes Sarah's hand as they head out. The clause hinges on the everyday verb meaning 'come on'.
 - 'Have a very good night!' Camille waves as the pair leaves the building.

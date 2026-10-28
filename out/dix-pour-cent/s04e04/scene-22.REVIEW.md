@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Camille, answer me.' Mathias begs her to pick up the phone.
-- 'Please, my darling.' He uses an affectionate term for his daughter.
-- 'Camille Valentini, I am not available.' It goes straight to her voicemail.
-- 'But please leave a message.' She asks the caller to speak after the beep.
-- 'It is me, Mathias.' He starts his message hesitantly.
-- 'I am sorry.' He apologises directly to her.
-- 'I regret everything.' He wishes he had acted differently with her.
-- 'Forgive me, please.' He asks for her forgiveness.
-- 'I beg you.' This is a strong expression of pleading.
-- 'Call me back.' He gives an instruction using an imperative verb.
-- 'I love you, my daughter.' He finally admits his true feelings.
-- 'Goodbye, Camille.' He ends the emotional message and hangs up.
+- 'Camille, answer me.' Mathias begs her to pick up the phone. The clause hinges on the everyday verb meaning 'to answer'.
+- 'Please, my darling.' He uses an affectionate term for his daughter. Notice how 'to please' leads directly into the noun meaning 'darling'.
+- 'Camille Valentini, I'm not available,' It goes straight to her voicemail. The adjective meaning 'absent' takes its feminine form here to match the noun it describes.
+- 'but please leave a message.' She asks the caller to speak after the beep. Notice how 'to leave' leads directly into the noun meaning 'message'.
+- 'It's me, Mathias.' He starts his message hesitantly. The clause hinges on the everyday verb meaning 'to be'.
+- 'I am sorry.' He apologises directly to her. The clause hinges on the everyday verb meaning 'to be'.
+- 'I regret everything.' He wishes he had acted differently with her. The clause hinges on the everyday verb meaning 'to regret'.
+- 'Forgive me, please.' He asks for her forgiveness. The clause hinges on the everyday verb meaning 'forgive me'.
+- 'I beg you.' This is a strong expression of pleading. The clause hinges on the everyday verb meaning 'to pray'.
+- 'Call me back.' He gives an instruction using an imperative verb. The clause hinges on the everyday verb meaning 'call me back'.
+- 'I love you, my daughter.' He finally admits his true feelings. Notice how 'to like' leads directly into the noun meaning 'daughter'.
+- 'Goodbye, Camille.' He ends the emotional message and hangs up. The clause hinges on the everyday verb meaning 'to see again'.

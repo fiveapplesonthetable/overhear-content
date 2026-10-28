@@ -118,5 +118,5 @@ WALK = [
 ]
 
 TRANSITION = "Now, listen to the complete dialogue again at normal conversational pace."
-OUTRO = "Meeting Charlotte Gainsbourg gives Sofia newfound pride and purpose in her acting career."
+OUTRO = "Meeting Charlotte Gainsbourg gives Sofia newfound pride and purpose in her acting career. When you watch the episode, listen out for the expressions meaning 'time' and 'stop'. You'll catch them now. See you next time."
 CLOSING = ("gabriel", "Tu vois, le public t'admire déjà.")

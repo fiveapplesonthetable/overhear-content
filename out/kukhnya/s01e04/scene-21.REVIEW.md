@@ -14,13 +14,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Шеф | Что ты опять натворил на кухне? | What did you do in the kitchen again? | new | new: Chef demands answers |
 | 3 | Федя | У гостя в зале язык стал синим! | In the dining room the guest's tongue turned blue! | #279 00:20:32: язык был | adapted: Blue tongue report |
 | 4 | Шеф | Ты испортил суп пищевым красителем? | Did you ruin the soup with food coloring? | #275 00:20:06: мой краситель | adapted: Chef realizes mistake |
-| 5 | Аня | Шеф, суп получился очень вкусным! | Chef, the soup turned out very delicious! | #285 00:20:49: супчик получился | adapted: Max defends cooking |
+| 5 | Макс | Шеф, суп получился очень вкусным! | Chef, the soup turned out very delicious! | #285 00:20:49: супчик получился | adapted: Max defends cooking |
 | 6 | Шеф | Вот как ты благодаришь за доброту! | This is how you thank me for kindness! | #283 00:20:41: за мою доброту | adapted: Chef feels betrayed |
 | 7 | Шеф | Я дал тебе шанс стать хорошим поваром. | I gave you a chance to become a good cook. | #284 00:20:45: шанс дал | adapted: Barinov reminds of chance |
-| 8 | Аня | Пожалуйста, выслушайте меня хотя бы минуту. | Please, listen to me for at least a minute. | new | new: Max pleads |
+| 8 | Макс | Пожалуйста, выслушайте меня хотя бы минуту. | Please, listen to me for at least a minute. | new | new: Max pleads |
 | 9 | Шеф | У тебя есть ровно две минуты! | You have exactly two minutes! | #286 00:20:51: Две минуты! | adapted: Two-minute warning |
 | 10 | Шеф | Быстро собери все свои вещи! | Quickly pack all your things! | #286 00:20:51: собрал свои | adapted: Chef orders packing |
-| 11 | Аня | Шеф, я не хотел никого обидеть. | Chef, I did not want to offend anyone. | new | new: Max explains intention |
+| 11 | Макс | Шеф, я не хотел никого обидеть. | Chef, I did not want to offend anyone. | new | new: Max explains intention |
 | 12 | Шеф | Уходи отсюда, ты уволен из ресторана! | Leave here, you are fired from the restaurant! | #288 00:20:58: Вон я сказал! | adapted: Chef fires Max |
 | 13 | Шеф | Я больше ничего не хочу слышать! | I do not want to hear anything anymore! | #289 00:21:00: Не желаю ничего слышать. | adapted: Chef ends discussion |
 

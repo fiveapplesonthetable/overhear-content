@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Макс | Вика, не паникуй, я уже несу горячее блюдо. | Vika, do not panic, I am already carrying the hot dish. | #166 00:11:53: Все, все, не паникуй, я уже отдаю блюдо | adapted: calming vika down |
-| 2 | Аня | Ты уверен, что несёшь его правильному гостю? | Are you sure you are carrying it to the right guest? | #166 00:11:53: твоему критику | adapted: questioning destination |
+| 2 | Вика | Ты уверен, что несёшь его правильному гостю? | Are you sure you are carrying it to the right guest? | #166 00:11:53: твоему критику | adapted: questioning destination |
 | 3 | Макс | Я отдаю этот шедевр твоему главному критику. | I am delivering this masterpiece to your chief critic. | #166 00:11:53: я уже отдаю блюдо твоему критику | adapted: boasting of dish |
-| 4 | Аня | Молодец, только я уже не уверена в ней. | Well done, only I am no longer sure about her. | #167 00:11:57: Молодец. Только я уже не уверена, что это она | adapted: confessing doubts |
+| 4 | Вика | Молодец, только я уже не уверена в ней. | Well done, only I am no longer sure about her. | #167 00:11:57: Молодец. Только я уже не уверена, что это она | adapted: confessing doubts |
 | 5 | Макс | Что изменилось за эти пять коротких минут? | What changed during these five short minutes? | #167 00:11:57: что это она | adapted: asking about change |
-| 6 | Аня | Кажется, настоящий критик сидит у другого окна. | It seems the real critic is sitting by the other window. | #167 00:11:57: я уже не уверена | adapted: pointing elsewhere |
+| 6 | Вика | Кажется, настоящий критик сидит у другого окна. | It seems the real critic is sitting by the other window. | #167 00:11:57: я уже не уверена | adapted: pointing elsewhere |
 | 7 | Макс | А вот это уже твои личные проблемы! | And that is already your personal problem! | #168 00:12:00: А это уже твои проблемы | adapted: brushing off worry |
-| 8 | Аня | Подожди секунду, верни дорогую тарелку назад. | Wait a second, bring the expensive plate back. | #168 00:12:00: твои проблемы | adapted: trying to stop service |
+| 8 | Вика | Подожди секунду, верни дорогую тарелку назад. | Wait a second, bring the expensive plate back. | #168 00:12:00: твои проблемы | adapted: trying to stop service |
 | 9 | Макс | Гостья уже ждёт и смотрит прямо сюда. | The guest is already waiting and looking right here. | #170 00:12:06: Девушка, можно вас? | adapted: noticing guest watching |
-| 10 | Аня | Скажи ей, что это особый подарок шефа. | Tell her that this is a special gift from the Chef. | #171 00:12:08: Сейчас к вам подойдет | adapted: giving cover line |
+| 10 | Вика | Скажи ей, что это особый подарок шефа. | Tell her that this is a special gift from the Chef. | #171 00:12:08: Сейчас к вам подойдет | adapted: giving cover line |
 | 11 | Макс | Я улыбнусь и скажу самые вежливые слова. | I will smile and say the most polite words. | #171 00:12:08: подойдет ваш официант | adapted: promising charm |
-| 12 | Аня | Иди скорее, не заставляй важного человека ждать. | Go quickly, do not make an important person wait. | #171 00:12:08: Сейчас к вам подойдет | adapted: sending max forward |
+| 12 | Вика | Иди скорее, не заставляй важного человека ждать. | Go quickly, do not make an important person wait. | #171 00:12:08: Сейчас к вам подойдет | adapted: sending max forward |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

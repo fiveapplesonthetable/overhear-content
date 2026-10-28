@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening everyone, thank you for being here!' Julien welcomes the packed theater audience warmly.
-- 'You are going to see our movie tonight.' Julien announces the premiere presentation of his film.
-- 'It is a completely crazy artistic dream!' Julien describes his visionary, eccentric cinematic project.
-- 'We shared a beautiful adventure.' Sofia reflects on the intense creative journey of filming.
-- 'Thank you to you Sofia, wonderful actress!' Julien honors his lead actress with glowing praise.
-- 'Thank you Julien for your great trust.' Sofia expresses appreciation for his creative collaboration.
-- 'I also thank my agent Gabriel.' Julien turns the spotlight onto his representative.
-- 'I thank you from the bottom of the heart.' Julien offers heartfelt emotional gratitude to Gabriel.
-- 'It is my job to support you.' Gabriel modestly acknowledges his duty as their agent.
-- 'You moved heaven and earth.' Julien reminds the crowd how tirelessly Gabriel secured funding.
-- 'Thanks to you, the film exists!' Julien credits Gabriel for saving the entire production.
-- 'Bravo Julien, we are very proud.' Gabriel congratulates the director on his major milestone.
-- 'Enjoy the film screening, everyone!' Julien invites the audience to enjoy the movie.
-- 'Let the screening finally begin, Gabriel!' Sofia looks forward to the audience's reaction.
+- 'Good evening everyone, thank you for being here!' Julien welcomes the packed theater audience warmly. The verb meaning 'to be' pairs naturally with the noun for 'good evening' in everyday conversation.
+- 'You are going to see our movie tonight.' Julien announces the premiere presentation of his film. Notice how 'are going' leads directly into the noun meaning 'film'.
+- 'It is a completely crazy artistic dream!' Julien describes his visionary, eccentric cinematic project. The key noun here means 'dream', anchored by its matching French article.
+- 'We shared a beautiful adventure.' Sofia reflects on the intense creative journey of filming. This conversational past tense combines a helper verb with the past participle for 'shared'.
+- 'Thank you to you Sofia, wonderful actress!' Julien honors his lead actress with glowing praise. The key noun here means 'actress', anchored by its matching French article.
+- 'Thank you Julien for your great trust.' Sofia expresses appreciation for his creative collaboration. The adjective meaning 'great' takes its feminine form here to match the noun it describes.
+- 'I also thank my agent Gabriel.' Julien turns the spotlight onto his representative. Notice how 'thank' leads directly into the noun meaning 'agent'.
+- 'I thank you from the bottom of the heart.' Julien offers heartfelt emotional gratitude to Gabriel. The informal 'you' form around 'thank' marks a direct, personal relationship.
+- 'It is my job to support you.' Gabriel modestly acknowledges his duty as their agent. Notice how 'to support' leads directly into the noun meaning 'job'.
+- 'You moved heaven and earth.' Julien reminds the crowd how tirelessly Gabriel secured funding. Julien uses the casual singular 'you' with 'have', showing close familiarity.
+- 'Thanks to you, the film exists!' Julien credits Gabriel for saving the entire production. Dropping the subject pronoun turns the verb for 'exists' into a direct, punchy command.
+- 'Bravo Julien, we are very proud.' Gabriel congratulates the director on his major milestone. The descriptive adjective for 'proud' agrees in gender and number with its noun.
+- 'Enjoy the film screening, everyone!' Julien invites the audience to enjoy the movie. The key noun here means 'screening', anchored by its matching French article.
+- 'Let the screening finally begin, Gabriel!' Sofia looks forward to the audience's reaction. Notice how 'begin' leads directly into the noun meaning 'screening'.

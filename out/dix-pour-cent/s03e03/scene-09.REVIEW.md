@@ -27,8 +27,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here I am, let me introduce myself to you.' The candidate opens his audition. The reflexive verb 'se presenter' is standard when introducing oneself.
-- 'I have no experience in this profession.' The candidate admits his amateur background. The noun 'experience' is introduced by the partitive with negation.
+- 'Here I am, let me introduce myself to you.' The candidate opens his audition. The formal 'you' pronoun sets a courteous, professional distance around 'introduce'.
+- 'I have no experience in this profession.' The candidate admits his amateur background. The verb meaning 'have' pairs naturally with the noun for 'experience' in everyday conversation.
 - 'But I have always wanted to be an actor.' The candidate expresses his lifelong passion. The prepositional phrase 'depuis toujours' means since always or all along.
 - 'I have a lot of natural charisma.' The candidate brags about his presence. The adverb 'beaucoup de' quantifies the masculine noun 'charisme'.
 - 'Are we really seeing him for the role of Baptiste?' The casting assistant whispers in disbelief. The verb 'voir' refers to auditioning a candidate.

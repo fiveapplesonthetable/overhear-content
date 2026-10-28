@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Dmitry, this was your stupid idea!' Viktor accuses the owner of orchestrating the public duel.
 - 'Stop shouting, it turned out a great show!' Dmitry defends the publicity stunt enthusiastically.
-- 'Rivals in life — rivals on screen.' Quoting the dramatic premise that hooked television viewers.
-- 'You just wanted to make me angry.' Calling out Nagiyev for provoking his legendary temper.
-- 'And it worked, you got angry perfectly!' Celebrating that the emotional reaction created high ratings.
+- 'Rivals in life — rivals on screen.' Russian omits the present-tense verb 'to be' here, linking 'rivals' directly with 'life', combining 'rivals' with 'life'.
+- 'You just wanted to make me angry.' Chef Barinov expresses this naturally by combining the word for 'just' with 'wanted' and 'make angry'.
+- 'And it worked, you got angry perfectly!' Nagiyev uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'worked out' with 'great' and 'got angry'.
 - 'Now that woman will be in my kitchen.' Bitterly anticipating his rival's arrival at Claude Monet.
-- 'She lost the bet and will work the shift honestly.' Reminding Barinov of the terms of the wager.
-- 'Viktor, get your cooks in order.' Commanding the chef to keep his kitchen staff disciplined.
-- 'My cooks always work perfectly.' Defending the pride and skill of his brigade.
-- 'I shouldn't feel ashamed before the guests.' Demanding that service standards remain spotless.
-- 'Don't worry, everything will be at the highest level.' Reassuring the owner that dinner service is safe.
-- 'Great, then I am calm about the restaurant.' Expressing relief that operations are in good hands.
-- 'I will go meet our new worker.' Heading off to greet Elena Sokolova on the kitchen pass.
-- 'Good luck in the kitchen, chef!' Offering a cheeky parting wish to Barinov.
+- 'She lost the bet and will work the shift honestly.' Nagiyev uses the perfective verb meaning 'lost' to focus on the single completed result, pairing it with 'bet' and 'honestly'.
+- 'Viktor, get your cooks in order.' Nagiyev leads with the direct command form meaning 'bring', pairing it with 'cooks' and 'order'.
+- 'My cooks always work perfectly.' Chef Barinov puts the word for 'cooks' together with 'always' and 'work' in a crisp, natural spoken turn of phrase.
+- 'I shouldn't feel ashamed before the guests.' Here Nagiyev anchors the line on the word meaning 'must' and builds the thought around 'be' and 'ashamed'.
+- 'Don't worry, everything will be at the highest level.' Chef Barinov leads with the direct command form meaning 'worry', pairing it with 'will be' and 'highest'.
+- 'Great, then I am calm about the restaurant.' Russian omits the present-tense verb 'to be' here, linking 'great' directly with 'then', combining 'great' with 'then' and 'calm'.
+- 'I will go meet our new worker.' Chef Barinov uses the perfective verb meaning 'will go' to focus on the single completed result, pairing it with 'meet' and 'new'.
+- 'Good luck in the kitchen, chef!' Russian omits the present-tense verb 'to be' here, linking 'good luck' directly with 'kitchen', combining 'good luck' with 'kitchen'.

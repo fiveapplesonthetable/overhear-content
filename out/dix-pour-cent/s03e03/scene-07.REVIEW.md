@@ -28,11 +28,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Andrea, we have a big problem with the casting.' Gabriel breaks the bad news to Andrea. The masculine noun phrase 'un gros probleme' signals an urgent complication.
-- 'What is going on with the film?' Andrea asks what happened. The expression 'qu'est-ce qui se passe' inquires about the situation.
-- 'I made a huge mistake.' Gabriel admits his serious blunder. The passe compose 'j'ai fait' expresses a completed past action.
-- 'Bassem is not Baptiste.' Gabriel explains the mix-up between two similar names. The negative structure 'ce n'est pas' corrects the mistaken identity.
+- 'What is going on with the film?' Andrea asks what happened. The reflexive pronoun sits right in front of the verb for 'happens', turning the action back onto the subject.
+- 'I made a huge mistake.' Gabriel admits his serious blunder. The adjective meaning 'huge' takes its feminine form here to match the noun it describes.
+- 'Bassem is not Baptiste.' Gabriel explains the mix-up between two similar names. The adverb meaning 'not' gives the reply its conversational emphasis.
 - 'What do you mean? Baptiste is forty-five years old!' Andrea reacts in shock. French expresses age using the verb 'avoir'.
-- 'Yes, it is a very important role.' Gabriel acknowledges the importance of the part. The adjective 'important' follows the masculine noun 'role'.
+- 'Yes, it is a very important role.' Gabriel acknowledges the importance of the part. The descriptive adjective for 'important' agrees in gender and number with its noun.
 - 'He is the main partner of Gerard Lanvin.' Gabriel names the major movie star. The adjective 'principal' indicates the primary co-star role.
 - 'But how could you confuse the two?' Andrea demands an explanation. The compound tense 'tu as pu' questions his decision-making.
 - 'The two first names sound too much alike.' Gabriel explains the confusion. The reciprocal verb 'se ressembler' indicates mutual resemblance.

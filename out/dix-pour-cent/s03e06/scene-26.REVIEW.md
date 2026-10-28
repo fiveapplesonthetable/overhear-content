@@ -32,12 +32,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You know our client Philippe?' Camille brings up their mystery assignment. The verb 'connaitre' means to know someone.
 - 'Yes, our famous mysterious client.' Herve remembers the anonymous contract. The adjective 'mysterieux' describes someone secretive.
 - 'Philippe, in fact, is Mathias.' Camille delivers the shocking truth. The locution 'en fait' means actually or in reality.
-- 'What? That is not possible!' Herve reacts with utter bewilderment. The adjective 'possible' describes conceivable events.
-- 'It is the pure truth, Herve.' Camille confirms that she is telling the truth. The feminine adjective 'pure' reinforces the noun verite.
-- 'Mathias hired us?' Herve cannot believe their senior partner used them. The passe compose 'a engages' indicates a completed hiring action.
-- 'He was preparing his big departure.' Camille explains Mathias's secret motive. The imperfect 'preparait' describes ongoing background planning.
+- 'What? That is not possible!' Herve reacts with utter bewilderment. A short, idiomatic conversational reply that keeps the exchange moving naturally.
+- 'It is the pure truth, Herve.' Camille confirms that she is telling the truth. The adjective meaning 'pure' takes its feminine form here to match the noun it describes.
+- 'Mathias hired us?' Herve cannot believe their senior partner used them. This conversational past tense combines a helper verb with the past participle for 'hired'.
+- 'He was preparing his big departure.' Camille explains Mathias's secret motive. The verb meaning 'was preparing' pairs naturally with the noun for 'departure' in everyday conversation.
 - 'He manipulated us completely!' Herve feels exploited by the deception. The verb 'manipuler' means to manipulate someone.
-- 'He had confidence in us.' Camille interprets Mathias's actions as a sign of trust. The verbal idiom 'avoir confiance' means to trust.
-- 'Everything makes sense now.' Herve finally understands the strange clues. The reflexive verb 's'expliquer' means to become clear or make sense.
-- 'We must keep the secret.' Camille urges discretion between the two assistants. The noun 'secret' refers to confidential knowledge.
+- 'He had confidence in us.' Camille interprets Mathias's actions as a sign of trust. The verb meaning 'had' pairs naturally with the noun for 'confidence' in everyday conversation.
+- 'Everything makes sense now.' Herve finally understands the strange clues. The clause hinges on the everyday verb meaning 'explains itself'.
+- 'We must keep the secret.' Camille urges discretion between the two assistants. The verb meaning 'must' pairs naturally with the noun for 'secret' in everyday conversation.
 - 'This agency is completely crazy!' Herve marvels at the daily drama of ASK. The feminine adjective 'folle' describes extreme eccentricity.

@@ -119,5 +119,5 @@ WALK = [
      "The participle impressionné concludes their debate on high respect."),
 ]
 
-OUTRO = "Igor and Mathias look at Noemie with newfound respect, struck by her intellectual depth and passion for cinema."
+OUTRO = "Igor and Mathias look at Noemie with newfound respect, struck by her intellectual depth and passion for cinema. When you watch the episode, listen out for the expressions meaning 'read' and 'screenplay'. You'll catch them now. See you next time."
 CLOSING = ("igor", "Je suis très impressionné par ton analyse.")

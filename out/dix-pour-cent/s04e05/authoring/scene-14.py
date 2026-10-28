@@ -34,20 +34,20 @@ STORY = [
 ]
 
 WALK = [
-    (0, "Ça va?", "'Are you okay?' Herve asks his friend gently."),
-    (1, "Je suis dévastée.", "'I am devastated.' Camille admits, looking very sad."),
-    (2, "C'est pour nous.", "'It is for us.' Herve says, trying to cheer her up."),
-    (3, "Je me déteste quand je suis comme ça.", "'I hate myself when I am like this.' Camille sighs in distress."),
-    (4, "Qu'est-ce qui t'arrive?", "'What is wrong with you?' Herve asks, confused."),
-    (5, "C'est papa...", "'It is dad...' Camille blurts out tearfully."),
-    (6, "C'est ma faute s'il est à l'hôpital.", "'It is my fault if he is in the hospital.' Camille confesses her deep guilt."),
-    (7, "Je l'ai presque tué!", "'I almost killed him!' Camille cries with anguish."),
-    (8, "C'est faux!", "'That is false!' Herve tells her firmly."),
-    (9, "Tout le monde a failli tuer ton père.", "'Everyone has almost killed your father.' Herve jokes to reassure her."),
-    (10, "Il a l'habitude.", "'He is used to it.' Herve adds with a reassuring smile."),
-    (11, "Tu viens d'appeler Mathias 'papa'.", "'You just called Mathias 'dad'.' Herve points out in surprise."),
-    (12, "Un, deux, trois, quatre...", "'One, two, three, four...' Camille counts out the board game moves."),
-    (13, "Tu récupères l'argent.", "'You get the money.' Herve explains the game rules.")
+    (0, "Ça va?", "'Are you okay?' Herve asks his friend gently. In everyday spoken French, rising intonation on 'goes' at the end is enough to turn the sentence into a question."),
+    (1, "Je suis dévastée.", "'I am devastated.' Camille admits, looking very sad. A short, idiomatic conversational reply that keeps the exchange moving naturally."),
+    (2, "C'est pour nous.", "'It is for us.' Herve says, trying to cheer her up. A short, idiomatic conversational reply that keeps the exchange moving naturally."),
+    (3, "Je me déteste quand je suis comme ça.", "'I hate myself when I am like this.' Camille sighs in distress. The clause hinges on the everyday verb meaning 'hate'."),
+    (4, "Qu'est-ce qui t'arrive?", "'What is wrong with you?' Herve asks, confused. The standard spoken question formula at the front turns the statement about 'happens' into a natural inquiry."),
+    (5, "C'est papa...", "'It is dad...' Camille blurts out tearfully. The key noun here means 'dad', anchored by its matching French article."),
+    (6, "C'est ma faute s'il est à l'hôpital.", "'It is my fault if he is in the hospital.' Camille confesses her deep guilt. The key noun here means 'fault', anchored by its matching French article."),
+    (7, "Je l'ai presque tué!", "'I almost killed him!' Camille cries with anguish. The clause hinges on the everyday verb meaning 'have'."),
+    (8, "C'est faux!", "'That is false!' Herve tells her firmly. The descriptive adjective for 'false' agrees in gender and number with its noun."),
+    (9, "Tout le monde a failli tuer ton père.", "'Everyone has almost killed your father.' Herve jokes to reassure her. Herve uses the casual singular 'you' with 'has', showing close familiarity."),
+    (10, "Il a l'habitude.", "'He is used to it.' Herve adds with a reassuring smile. The verb meaning 'has' pairs naturally with the noun for 'habit' in everyday conversation."),
+    (11, "Tu viens d'appeler Mathias 'papa'.", "'You just called Mathias 'dad'.' .' .' Herve points out in surprise. Notice how 'come' leads directly into the noun meaning 'dad'."),
+    (12, "Un, deux, trois, quatre...", "'One, two, three, four...' Camille counts out the board game moves. A short, idiomatic conversational reply that keeps the exchange moving naturally."),
+    (13, "Tu récupères l'argent.", "'You get the money.' Herve explains the game rules. The informal 'you' form around 'get' marks a direct, personal relationship.")
 ]
 OPENER = "Let's walk through it."
 TRANSITION = "Now let's hear the whole thing."

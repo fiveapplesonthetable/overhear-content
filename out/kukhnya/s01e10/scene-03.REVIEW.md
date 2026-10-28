@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Шеф, вас там какая-то девушка зовёт. | Chef, some young woman is calling for you over there. | #6 00:00:59: Вас там какая-то девушка зовет. | adapted: adapted |
+| 1 | Костя | Шеф, вас там какая-то девушка зовёт. | Chef, some young woman is calling for you over there. | #6 00:00:59: Вас там какая-то девушка зовет. | adapted: adapted |
 | 2 | Шеф | Кто она такая и что ей нужно? | Who is she and what does she need? | new | new: new |
-| 3 | Аня | Она сказала, что пришла с телевидения. | She said that she came from television. | new | new: new |
+| 3 | Костя | Она сказала, что пришла с телевидения. | She said that she came from television. | new | new: new |
 | 4 | Шеф | Я не хочу ни с кем говорить. | I do not want to talk to anyone. | new | new: new |
-| 5 | Аня | Она говорит, что дело очень важное. | She says that the matter is very important. | new | new: new |
+| 5 | Костя | Она говорит, что дело очень важное. | She says that the matter is very important. | new | new: new |
 | 6 | Шеф | У меня сейчас совершенно нет времени. | I currently have absolutely no time. | new | new: new |
-| 7 | Аня | Она ждёт вас возле главного входа. | She is waiting for you near the main entrance. | new | new: new |
+| 7 | Костя | Она ждёт вас возле главного входа. | She is waiting for you near the main entrance. | new | new: new |
 | 8 | Шеф | Пусть зайдёт ко мне в кабинет. | Let her come into my office. | new | new: new |
-| 9 | Аня | Она просила выйти на одну минуту. | She asked you to come out for one minute. | new | new: new |
+| 9 | Костя | Она просила выйти на одну минуту. | She asked you to come out for one minute. | new | new: new |
 | 10 | Шеф | Ладно, Костя, я сейчас подойду сам. | Fine, Kostya, I will come over myself now. | new | new: new |
-| 11 | Аня | Спасибо, шеф, я передам ваши слова. | Thank you, chef, I will convey your words. | new | new: new |
+| 11 | Костя | Спасибо, шеф, я передам ваши слова. | Thank you, chef, I will convey your words. | new | new: new |
 | 12 | Шеф | И налей мне крепкого чёрного чая. | And pour me some strong black tea. | new | new: new |
-| 13 | Аня | Конечно, шеф, сделаю прямо сейчас. | Of course, chef, I will do it right now. | new | new: new |
+| 13 | Костя | Конечно, шеф, сделаю прямо сейчас. | Of course, chef, I will do it right now. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, some young woman is calling for you over there.' -- Kostya announces the unexpected visitor waiting outside.
-- 'Who is she and what does she need?' -- The chef asks skeptically about her identity and purpose.
-- 'She said that she came from television.' -- The bartender mentions her connection to television production.
-- 'I do not want to talk to anyone.' -- Barinov grumbles that he wants to avoid all visitors.
-- 'She says that the matter is very important.' -- Kostya emphasizes the urgency of her request.
-- 'I currently have absolutely no time.' -- The chef insists that he has zero spare moments.
-- 'She is waiting for you near the main entrance.' -- Kostya indicates her location in the restaurant foyer.
-- 'Let her come into my office.' -- Barinov suggests meeting in the privacy of his office.
-- 'She asked you to come out for one minute.' -- The bartender clarifies that she requested a quick lobby meeting.
-- 'Fine, Kostya, I will come over myself now.' -- The chef relents and agrees to step outside.
-- 'Thank you, chef, I will convey your words.' -- Kostya accepts the response to inform the visitor.
-- 'And pour me some strong black tea.' -- Barinov orders a cup of strong tea for energy.
-- 'Of course, chef, I will do it right now.' -- Kostya promises to prepare the tea immediately.
+- 'Chef, some young woman is calling for you over there.' Kostya puts the word for 'chef' together with 'over there' and 'young woman' in a crisp, natural spoken turn of phrase.
+- 'Who is she and what does she need?' Chef Barinov delivers a punchy conversational reaction built around the Russian word meaning 'needed'.
+- 'She said that she came from television.' Kostya uses the perfective verb meaning 'said' to focus on the single completed result, pairing it with 'came' and 'television'.
+- 'I do not want to talk to anyone.' Chef Barinov chooses the imperfective verb meaning 'want' for the ongoing action, followed by 'to talk'.
+- 'She says that the matter is very important.' Kostya chooses the imperfective verb meaning 'says' for the ongoing action, followed by 'matter' and 'very'.
+- 'I currently have absolutely no time.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'now' and 'completely'.
+- 'She is waiting for you near the main entrance.' Kostya chooses the imperfective verb meaning 'is waiting for' for the ongoing action, followed by 'main' and 'entrance'.
+- 'Let her come into my office.' Chef Barinov uses the perfective verb meaning 'come in' to focus on the single completed result, pairing it with 'office'.
+- 'She asked you to come out for one minute.' Kostya chooses the imperfective verb meaning 'asked' for the ongoing action, followed by 'to step out' and 'one'.
+- 'Fine, Kostya, I will come over myself now.' Here Chef Barinov anchors the line on the word meaning 'fine' and builds the thought around 'now' and 'will come over'.
+- 'Thank you, chef, I will convey your words.' The phrasing opens with 'thank you' before bringing in 'chef' and 'will convey' to make the point clear.
+- 'And pour me some strong black tea.' Chef Barinov leads with the direct command form meaning 'pour', pairing it with 'strong' and 'black'.
+- 'Of course, chef, I will do it right now.' Kostya puts the word for 'of course' together with 'chef' and 'will do' in a crisp, natural spoken turn of phrase.

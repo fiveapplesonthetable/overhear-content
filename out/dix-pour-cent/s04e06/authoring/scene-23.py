@@ -11,10 +11,10 @@ LABELS = {"lea": "Andrea", "camille": "Camille", "gabriel": "Gabriel"}
 SOURCE_NAME = "Dix pour cent (Call My Agent!) S04E06"
 SOURCE_FILE = "sources/dix-pour-cent/s04/e06.fr.dual.srt"
 
-INTRO = "The agents gather one last time in the empty ASK office to drink champagne, reflect on their journey together, and say goodbye as they discuss their plans for the future."
+INTRO = "The agents gather one last time in the empty ASK office to drink champagne, reflect on their journey together, and say goodbye as they discuss their plans for the future. Let's listen to the whole story in French first — don't worry about catching every word."
 OPENER = "Let's walk through it together."
 TRANSITION = "Now listen to the whole scene again."
-OUTRO = "They raise their glasses one last time, and turn off the lights."
+OUTRO = "They raise their glasses one last time, and turn off the lights. When you watch the episode, listen out for the expressions meaning 'finished' and 'agency'. You'll catch them now. See you next time."
 CLOSING = ("lea", "Au revoir.")
 
 STORY = [
@@ -35,18 +35,18 @@ STORY = [
 ]
 
 WALK = [
-    (0, "C'est fini alors?", "'Is it finished then?' Gabriel asks sadly."),
-    (1, "L'agence, oui.", "'The agency, yes,' Andrea confirms."),
-    (2, "J'ai beaucoup appris.", "'I have much learned,' Andrea admits."),
-    (3, "Sur la vie aussi.", "'On the life too,' Gabriel adds gently."),
-    (4, "Bon, on trinque?", "'Well, we toast?' Gabriel suggests."),
-    (5, "Je monte ma propre agence.", "'I mount my own agency,' Camille announces proudly."),
-    (6, "L'agence CAM.", "'The agency CAM,' Camille says, naming it after them."),
-    (7, "Et toi, tes projets?", "'And you, your projects?' Gabriel asks Andrea."),
-    (8, "Je sais pas.", "'I know not,' Andrea admits honestly."),
-    (9, "Reconquérir ma femme.", "'Reconquer my wife,' she lists as her first goal."),
-    (10, "À nous!", "'To us!' Gabriel cheers, raising his glass."),
-    (11, "Santé!", "'Health!' Camille adds, toasting with them."),
-    (12, "Allez.", "'Go,' Gabriel says softly as they prepare to leave."),
+    (0, "C'est fini alors?", "'Is it over then?' Gabriel asks sadly. The adverb meaning 'so' gives the reply its conversational emphasis."),
+    (1, "L'agence, oui.", "'The agency, yes.' Notice how the short vowel drops before a vowel sound around 'agency', making the phrase flow smoothly as one unit. Notice how the short vowel drops before a vowel sound around 'agency', making the phrase flow smoothly as one unit."),
+    (2, "J'ai beaucoup appris.", "'I learned a lot.' In spoken French, the little word before 'to have' drops its final vowel and attaches with an apostrophe. In spoken French, the little word before 'to have' drops its final vowel and attaches with an apostrophe."),
+    (3, "Sur la vie aussi.", "'About life too.' Gabriel adds gently. The key noun here means 'life', anchored by its matching French article."),
+    (4, "Bon, on trinque?", "'Well, shall we drink?' The clause hinges on the everyday verb meaning 'to clink glasses'."),
+    (5, "Je monte ma propre agence.", "'I am starting my own agency.' Camille announces proudly. The verb meaning 'to go up' pairs naturally with the noun for 'agency' in everyday conversation."),
+    (6, "L'agence CAM.", "'The CAM Agency.' Camille says, naming it after them. The key noun here means 'agency', anchored by its matching French article."),
+    (7, "Et toi, tes projets?", "'And you, your plans?' Gabriel asks Andrea. Gabriel uses the casual singular 'you' with 'project', showing close familiarity."),
+    (8, "Je sais pas.", "'I don't know.' Andrea admits honestly. The clause hinges on the everyday verb meaning 'to know'."),
+    (9, "Reconquérir ma femme.", "'Win back my wife.' she lists as her first goal. The verb meaning 'win back' pairs naturally with the noun for 'woman' in everyday conversation."),
+    (10, "À nous!", "'To us!' Gabriel cheers, raising his glass. A short, idiomatic conversational reply that keeps the exchange moving naturally."),
+    (11, "Santé!", "'Cheers!' Camille adds, toasting with them. The key noun here means 'health', anchored by its matching French article."),
+    (12, "Allez.", "'Come on.' Gabriel says softly as they prepare to leave. The clause hinges on the everyday verb meaning 'to go'."),
     (13, "Les lumières.", "'The lights,' Andrea whispers, turning them off for the last time.")
 ]

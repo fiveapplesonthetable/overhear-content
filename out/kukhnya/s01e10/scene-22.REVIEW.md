@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Тимур | Шеф, вот всё, как мы договаривались. | Chef, here is everything, just as we agreed. | #166 00:11:29: Вот как и договаривались | adapted: presenting delivery |
-| 2 | Аня | Ты принёс полный заказ чёрной икры? | Did you bring the complete order of black caviar? | #167 00:11:31: отборной икры | adapted: checking order |
+| 2 | Шеф | Ты принёс полный заказ чёрной икры? | Did you bring the complete order of black caviar? | #167 00:11:31: отборной икры | adapted: checking order |
 | 3 | Тимур | Здесь ровно пять килограмм самой лучшей икры. | Here are exactly five kilograms of prime caviar. | #167 00:11:31: Пять килограмм отборной икры | adapted: boasting weight |
-| 4 | Аня | Ты точно уверен, что она свежая? | Are you definitely sure that it is fresh? | #168 00:11:34: Свежая? | adapted: questioning freshness |
+| 4 | Шеф | Ты точно уверен, что она свежая? | Are you definitely sure that it is fresh? | #168 00:11:34: Свежая? | adapted: questioning freshness |
 | 5 | Тимур | Обижаешь меня такими странными вопросами, дорогой брат! | You offend me with such strange questions, dear brother! | #168 00:11:34: Обижаешь, брат | adapted: taking mock offense |
-| 6 | Аня | Для нашего ресторана подходит только лучший выбор. | Only the highest grade is suitable for our restaurant. | #169 00:11:36: самая свежая икра | adapted: insisting on standards |
+| 6 | Шеф | Для нашего ресторана подходит только лучший выбор. | Only the highest grade is suitable for our restaurant. | #169 00:11:36: самая свежая икра | adapted: insisting on standards |
 | 7 | Тимур | Это самая свежая икра во всей Москве. | This is the freshest caviar in all of Moscow. | #169 00:11:36: самая свежая икра, которая в Москве | adapted: praising product |
-| 8 | Аня | Такой продукт требует строгого контроля качества. | Such a product requires strict quality control. | #170 00:11:39: которую потребляют на завтрак | adapted: stating inspection rule |
+| 8 | Шеф | Такой продукт требует строгого контроля качества. | Such a product requires strict quality control. | #170 00:11:39: которую потребляют на завтрак | adapted: stating inspection rule |
 | 9 | Тимур | Чиновники утром едят вчерашнюю икру хуже. | Officials eat yesterday's inferior caviar in the morning. | #170 00:11:39: и то вчерашняя | adapted: comparing to officials |
-| 10 | Аня | Тогда давай быстро проверим её вкус. | Then let's quickly check its taste. | #171 00:11:43: На, попробуй | adapted: demanding sample |
+| 10 | Шеф | Тогда давай быстро проверим её вкус. | Then let's quickly check its taste. | #171 00:11:43: На, попробуй | adapted: demanding sample |
 | 11 | Тимур | На, возьми ложку и попробуй сам. | Here, take a spoon and try it yourself. | #171 00:11:43: На, попробуй | adapted: offering spoon |
-| 12 | Аня | Сейчас я сразу оценю твой дорогой товар. | Now I will immediately evaluate your expensive goods. | #171 00:11:43: попробуй | adapted: preparing to taste |
+| 12 | Шеф | Сейчас я сразу оценю твой дорогой товар. | Now I will immediately evaluate your expensive goods. | #171 00:11:43: попробуй | adapted: preparing to taste |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -27,14 +27,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'You say nothing, Colette?' Andrea wonders about the long silence between them. The negative pronoun 'rien' means nothing.
-- 'I am listening to what you tell me.' Colette reflects on Andrea's thoughtful words. The verb 'ecoute' comes from 'ecouter', to listen.
+- 'I am listening to what you tell me.' Colette reflects on Andrea's thoughtful words. The reflexive pronoun sits right in front of the verb for 'am listening to', turning the action back onto the subject.
 - 'You did not really answer me.' Andrea notices that Colette has remained quiet. The compound past 'as repondu' comes from 'repondre'.
 - 'Look at me in the eyes, Andrea.' Colette turns toward her with warm affection. The imperative 'regarde-moi' combines the verb with an object pronoun.
 - 'I look at you with all my heart.' Andrea returns her steady, open gaze. The noun 'cœur' designates the heart.
-- 'You have never been so sincere.' Colette appreciates Andrea's absolute emotional truth. The adjective 'sincere' means honest or candid.
+- 'You have never been so sincere.' Colette appreciates Andrea's absolute emotional truth. This conversational past tense combines a helper verb with the past participle for 'been'.
 - 'I only want to be fair today.' Andrea explains her desire for clear honesty. The restrictive adverb 'seulement' means only.
 - 'Let me kiss you one last time.' Colette leans in softly toward Andrea. The verb 'embrasser' means to kiss.
-- 'Is this a goodbye kiss?' Andrea whispers softly as their lips touch. The compound noun 'baiser d'adieu' signifies a parting kiss.
+- 'Is this a goodbye kiss?' Andrea whispers softly as their lips touch. The key noun here means 'kiss', anchored by its matching French article.
 - 'It is a kiss of mutual respect.' Colette honors everything they shared together. The adjective 'mutuel' describes reciprocal feelings.
 - 'I will never forget our shared moments.' Andrea acknowledges the deep impact of their love. The future form 'oublierai' comes from 'oublier'.
 - 'Me neither, dear Andrea.' Colette smiles with peaceful finality. The phrase 'moi non plus' means me neither.

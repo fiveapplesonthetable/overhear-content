@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Шеф | Никогда не используй этот дешёвый коньяк! | Never use that cheap cognac! | #64 00:05:23: Никогда не используй этот | verbatim |
-| 2 | Аня | Да, шеф, я всё понял! | Yes, Chef, I understood everything! | #64 00:05:23: Да, шеф | verbatim |
+| 2 | Макс | Да, шеф, я всё понял! | Yes, Chef, I understood everything! | #64 00:05:23: Да, шеф | verbatim |
 | 3 | Шеф | Ты испортил этим соус для мяса. | You ruined the meat sauce with this. | #64 00:05:23: Да, шеф | verbatim |
-| 4 | Аня | Я просто хотел добавить яркий аромат. | I simply wanted to add a vivid aroma. | #64 00:05:23: Да, шеф | verbatim |
+| 4 | Макс | Я просто хотел добавить яркий аромат. | I simply wanted to add a vivid aroma. | #64 00:05:23: Да, шеф | verbatim |
 | 5 | Шеф | Настоящий повар чувствует каждый вкус блюда. | A real chef feels every taste of the dish. | #64 00:05:23: Да, шеф | verbatim |
-| 6 | Аня | Простите меня, шеф, я больше не буду. | Forgive me, Chef, I will not do it anymore. | #64 00:05:23: Да, шеф | verbatim |
+| 6 | Макс | Простите меня, шеф, я больше не буду. | Forgive me, Chef, I will not do it anymore. | #64 00:05:23: Да, шеф | verbatim |
 | 7 | Шеф | Возьми хорошую бутылку на верхней полке. | Take a good bottle on the top shelf. | #64 00:05:23: Да, шеф | verbatim |
-| 8 | Аня | Сейчас я быстро принесу нужное вино. | Now I will quickly bring the needed wine. | #64 00:05:23: Да, шеф | verbatim |
+| 8 | Макс | Сейчас я быстро принесу нужное вино. | Now I will quickly bring the needed wine. | #64 00:05:23: Да, шеф | verbatim |
 | 9 | Шеф | И начни готовить этот соус заново! | And begin making this sauce anew! | #64 00:05:23: Да, шеф | verbatim |
-| 10 | Аня | Я всё сделаю правильно прямо сейчас. | I will do everything correctly right now. | #64 00:05:23: Да, шеф | verbatim |
+| 10 | Макс | Я всё сделаю правильно прямо сейчас. | I will do everything correctly right now. | #64 00:05:23: Да, шеф | verbatim |
 | 11 | Шеф | Внимательно смотри за температурой на плите. | Watch carefully the temperature on the stove. | #64 00:05:23: Да, шеф | verbatim |
-| 12 | Аня | Да, шеф, я помню ваши правила! | Yes, Chef, I remember your rules! | #64 00:05:23: Да, шеф | verbatim |
+| 12 | Макс | Да, шеф, я помню ваши правила! | Yes, Chef, I remember your rules! | #64 00:05:23: Да, шеф | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

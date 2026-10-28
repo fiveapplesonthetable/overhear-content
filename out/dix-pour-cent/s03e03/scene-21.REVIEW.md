@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I did not know about your back.' A polite acknowledgment of physical vulnerability.
-- 'After fifty films, we hurt everywhere!' A humorous complaint describing long-term physical wear.
-- 'You really made fifty films?' An impressed question marveling at his vast filmography.
-- 'No, in reality, it is seventy films!' A proud correction updating the film count.
-- 'That is a very fine career, Gerard.' A respectful compliment honoring his artistic legacy.
-- 'It is true, a story with lots of class.' A satisfied agreement reflecting on an honorable journey.
-- 'And me, I have seventy coffees to serve.' A witty parallel linking cinema to catering duties.
-- 'Seventy-one coffees, my friend!' A playful tease adding another coffee to the tally.
-- 'I have to go back to work at the bar.' A practical statement returning to daily reality.
-- 'Wait, I am going to sort everything out for you.' A reassuring promise of professional intervention.
-- 'You want to speak to the director?' A curious question asking about his plan of action.
-- 'I am going to call Emma back immediately.' A decisive commitment to contact the filmmaker.
-- 'Thank you Gerard, you are a truly great person!' An affectionate exclamation admiring his generous spirit.
-- 'We are going to make this film together.' An inspiring pledge promising cinematic collaboration.
+- 'I did not know about your back.' A polite acknowledgment of physical vulnerability. The formal 'you' pronoun sets a courteous, professional distance around 'knew'.
+- 'After fifty films, we hurt everywhere!' The verb meaning 'has' pairs naturally with the noun for 'films' in everyday conversation.
+- 'You really made fifty films?' Notice how 'have' leads directly into the noun meaning 'films'. Notice how 'have' leads directly into the noun meaning 'films'.
+- 'No, in reality, it is seventy films!' A proud correction updating the film count. Notice how 'it is' leads directly into the noun meaning 'reality'.
+- 'That is a very fine career, Gerard.' In spoken French, the little word before 'it is' drops its final vowel and attaches with an apostrophe. In spoken French, the little word before 'it is' drops its final vowel and attaches with an apostrophe.
+- 'It is true, a story with lots of class.' A satisfied agreement reflecting on an honorable journey. The verb meaning 'it is' pairs naturally with the noun for 'story' in everyday conversation.
+- 'And me, I have seventy coffees to serve.' A witty parallel linking cinema to catering duties. Notice how 'I have' leads directly into the noun meaning 'coffees'.
+- 'Seventy-one coffees, my friend!' A playful tease adding another coffee to the tally. The key noun here means 'coffees', anchored by its matching French article.
+- 'I have to go back to work at the bar.' Notice how 'must' leads directly into the noun meaning 'bar'. Notice how 'must' leads directly into the noun meaning 'bar'.
+- 'Wait, I am going to sort everything out for you.' Gerard uses the casual singular 'you' with 'wait', showing close familiarity. Gerard uses the casual singular 'you' with 'wait', showing close familiarity.
+- 'You want to speak to the director?' The verb meaning 'want' pairs naturally with the noun for 'director' in everyday conversation.
+- 'I am going to call Emma back immediately.' A decisive commitment to contact the filmmaker. French forms the near future by pairing the present tense of 'to go' directly with 'to call back'.
+- 'Thank you Gerard, you are a truly great person!' The formal 'you' pronoun sets a courteous, professional distance around 'great person'.
+- 'We are going to make this film together.' An inspiring pledge promising cinematic collaboration. The verb meaning 'are going to' pairs naturally with the noun for 'film' in everyday conversation.

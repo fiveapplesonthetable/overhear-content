@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is it finished then?' Gabriel asks sadly.
-- 'The agency, yes,' Andrea confirms.
-- 'I have much learned,' Andrea admits.
-- 'On the life too,' Gabriel adds gently.
-- 'Well, we toast?' Gabriel suggests.
-- 'I mount my own agency,' Camille announces proudly.
-- 'The agency CAM,' Camille says, naming it after them.
-- 'And you, your projects?' Gabriel asks Andrea.
-- 'I know not,' Andrea admits honestly.
-- 'Reconquer my wife,' she lists as her first goal.
-- 'To us!' Gabriel cheers, raising his glass.
-- 'Health!' Camille adds, toasting with them.
-- 'Go,' Gabriel says softly as they prepare to leave.
+- 'Is it over then?' Gabriel asks sadly. The adverb meaning 'so' gives the reply its conversational emphasis.
+- 'The agency, yes.' Notice how the short vowel drops before a vowel sound around 'agency', making the phrase flow smoothly as one unit. Notice how the short vowel drops before a vowel sound around 'agency', making the phrase flow smoothly as one unit.
+- 'I learned a lot.' In spoken French, the little word before 'to have' drops its final vowel and attaches with an apostrophe. In spoken French, the little word before 'to have' drops its final vowel and attaches with an apostrophe.
+- 'About life too.' Gabriel adds gently. The key noun here means 'life', anchored by its matching French article.
+- 'Well, shall we drink?' The clause hinges on the everyday verb meaning 'to clink glasses'.
+- 'I am starting my own agency.' Camille announces proudly. The verb meaning 'to go up' pairs naturally with the noun for 'agency' in everyday conversation.
+- 'The CAM Agency.' Camille says, naming it after them. The key noun here means 'agency', anchored by its matching French article.
+- 'And you, your plans?' Gabriel asks Andrea. Gabriel uses the casual singular 'you' with 'project', showing close familiarity.
+- 'I don't know.' Andrea admits honestly. The clause hinges on the everyday verb meaning 'to know'.
+- 'Win back my wife.' she lists as her first goal. The verb meaning 'win back' pairs naturally with the noun for 'woman' in everyday conversation.
+- 'To us!' Gabriel cheers, raising his glass. A short, idiomatic conversational reply that keeps the exchange moving naturally.
+- 'Cheers!' Camille adds, toasting with them. The key noun here means 'health', anchored by its matching French article.
+- 'Come on.' Gabriel says softly as they prepare to leave. The clause hinges on the everyday verb meaning 'to go'.
 - 'The lights,' Andrea whispers, turning them off for the last time.

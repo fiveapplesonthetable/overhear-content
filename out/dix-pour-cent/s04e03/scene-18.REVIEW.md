@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have a lot of work right now.' Camille sighs over the phone. The expression de travail en ce moment conveys her hectic professional life.
-- 'You must also think of yourself.' Suzanne reminds Camille to preserve her personal wellbeing. The modal verb dois emphasizes self-care.
-- 'I have fifteen actors to manage now.' Camille shares the growing scale of her agency roster. The numeral quinze underlines her success.
-- 'Is this paternity business bothering you?' Suzanne turns the conversation to Mathias Barneville. The noun phrase targets the core issue.
-- 'I am still thinking about it, Mom.' Camille acknowledges her hesitation. The pronoun y refers to the decision.
-- 'Mathias is coming far too late for that.' Suzanne expresses bitter resentment. The adverbial phrase bien trop tard highlights the decades of neglect.
-- 'You wanted him to acknowledge me once.' Camille brings up her mother's past desires. The subjunctive clause echoes past wishes.
-- 'Yes, when we needed him!' Suzanne retorts with justifiable fury. The temporal clause refers to their difficult earlier years.
-- 'He is making a nice gesture today.' Camille tries to see the goodwill in Mathias's offer. The noun phrase un beau geste suggests reconciliation.
-- 'It is easy after twenty-seven years of absence.' Suzanne points out the convenient timing. The temporal expression measures the long absence.
-- 'I am not going to change my name.' Camille reassures her mother of her lasting identity. The near future structure promises loyalty.
-- 'Thankfully! I did everything all alone.' Suzanne proudly asserts her maternal devotion. The exclamation heureusement expresses relief.
-- 'I understand your anger, you are right.' Camille validates her mother's pain. The phrase tu as raison calms the tension.
-- 'Take care of yourself above all, honey.' Suzanne closes the conversation with tender warmth. The imperative phrase conveys maternal love.
+- 'I have a lot of work right now.' Camille sighs over the phone. The verb meaning 'have' pairs naturally with the noun for 'work' in everyday conversation.
+- 'You must also think of yourself.' Suzanne reminds Camille to preserve her personal wellbeing. The informal 'you' form around 'must' marks a direct, personal relationship.
+- 'I have fifteen actors to manage now.' Camille shares the growing scale of her agency roster. The verb meaning 'have' pairs naturally with the noun for 'actors' in everyday conversation.
+- 'Is this paternity business bothering you?' Suzanne turns the conversation to Mathias Barneville. In everyday spoken French, rising intonation on 'bothers' at the end is enough to turn the sentence into a question.
+- 'I am still thinking about it, Mom.' Camille acknowledges her hesitation. The verb meaning 'am thinking' pairs naturally with the noun for 'Mom' in everyday conversation.
+- 'Mathias is coming far too late for that.' Suzanne expresses bitter resentment. The clause hinges on the everyday verb meaning 'arrives'.
+- 'You wanted him to acknowledge me once.' Camille brings up her mother's past desires. Camille uses the casual singular 'you' with 'wanted', showing close familiarity.
+- 'Yes, when we needed him!' Suzanne retorts with justifiable fury. The verb meaning 'had' pairs naturally with the noun for 'need' in everyday conversation.
+- 'He is making a nice gesture today.' Camille tries to see the goodwill in Mathias's offer. Notice how the short vowel drops before a vowel sound around 'makes', making the phrase flow smoothly as one unit.
+- 'It is easy after twenty-seven years of absence.' Suzanne points out the convenient timing. The key noun here means 'years', anchored by its matching French article.
+- 'I am not going to change my name.' Camille reassures her mother of her lasting identity. Notice how 'am going to' leads directly into the noun meaning 'name'.
+- 'Thankfully! I did everything all alone.' Suzanne proudly asserts her maternal devotion. The clause hinges on the everyday verb meaning 'have'.
+- 'I understand your anger, you are right.' Camille validates her mother's pain. The verb meaning 'understand' pairs naturally with the noun for 'anger' in everyday conversation.
+- 'Take care of yourself above all, honey.' Suzanne closes the conversation with tender warmth. The informal 'you' form around 'take' marks a direct, personal relationship.

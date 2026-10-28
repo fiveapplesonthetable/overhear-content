@@ -34,10 +34,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hello? Yes, I am on my way!' Isabelle answers an unexpected phone call. The expression 'etre en route' means to be on one's way.
 - 'I arrive in five minutes for the broadcast.' Isabelle promises to reach the studio quickly. The noun 'emission' denotes a broadcast or show.
 - 'Is that the American producers on the phone?' Mathias worries that the American crew is calling. The demonstrative 'ce sont' introduces plural subjects.
-- 'No, that was the journalist Laure Adler.' Isabelle identifies the prominent cultural interviewer. The demonstrative phrase 'c'etait' refers to a past situation.
+- 'No, that was the journalist Laure Adler.' Isabelle identifies the prominent cultural interviewer. Notice how 'was' leads directly into the noun meaning 'journalist'.
 - 'She is waiting for me live on the radio.' Isabelle explains the broadcast format. The phrase 'en direct' means live on air.
-- 'This interview slipped my mind!' Isabelle admits she forgot the appointment. The idiom 'sortir de la tete' means to slip one's mind.
-- 'That is not possible tonight, Isabelle!' Mathias panics over their tight schedule. The negation 'ce n'est pas' refutes feasibility.
+- 'This interview slipped my mind!' Isabelle admits she forgot the appointment. Dropping the subject pronoun turns the verb for 'has' into a direct, punchy command.
+- 'That is not possible tonight, Isabelle!' Mathias panics over their tight schedule. The descriptive adjective for 'possible' agrees in gender and number with its noun.
 - 'This show will take only twenty minutes.' Isabelle downplays the detour duration. The adverb 'seulement' restricts the amount of time.
 - 'I cannot stand up a friend.' Isabelle refuses to ditch the host. The colloquial verb 'planter' means to stand someone up.
 - 'We are going to be very late!' Mathias stresses the impending production delay. The expression 'etre en retard' means to be late.

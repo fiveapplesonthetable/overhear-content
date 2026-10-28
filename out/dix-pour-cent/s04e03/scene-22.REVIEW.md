@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you have any news from Colette?' Jose asks gently across the table. The partitive noun phrase investigates her relationship troubles.
-- 'I messed up, I let her leave.' Andrea confesses her painful guilt. The colloquial verb merder conveys deep self-reproach.
-- 'We were destined for this evening.' Jose reflects on their shared solitary night. The passive construction accepts their situation.
-- 'I would do anything for my actors.' Andrea acknowledges her distorted priorities. The conditional verb reveals her career dedication.
-- 'But you neglect your own family?' Jose questions her life balance candidly. The present tense verb highlights the costly trade-off.
-- 'When Colette calls me, I do not come home.' Andrea details her recurring failure. The negative present tense marks her regret.
-- 'It should be totally the reverse.' Jose points out the proper order of priorities. The conditional verb prescribes emotional balance.
-- 'Maybe my brain is wired wrong.' Andrea blames her own stubborn nature. The colloquial adjective phrase humorously conveys self-doubt.
-- 'You know what? Let us make a pact!' Jose leans forward with sudden determination. The imperative verb proposes a joint commitment.
-- 'What kind of serious pact?' Andrea looks up with curious interest. The interrogative phrase invites his constructive idea.
-- 'We are going to take our lives back in hand.' Jose outlines a new resolution. The idiomatic phrase pledges personal reform.
-- 'And we stop impulsive decisions?' Andrea checks the terms of the promise. The present tense verb affirms a thoughtful approach.
-- 'Exactly, except for these delicious profiteroles!' Jose laughs as dessert arrives. The prepositional phrase creates a comical exception.
+- 'Do you have any news from Colette?' Jose asks gently across the table. The informal 'you' form around 'have' marks a direct, personal relationship.
+- 'I messed up, I let her leave.' Andrea confesses her painful guilt. The clause hinges on the everyday verb meaning 'have'.
+- 'We were destined for this evening.' Jose reflects on their shared solitary night. This conversational past tense combines a helper verb with the past participle for 'destined'.
+- 'I would do anything for my actors.' Andrea acknowledges her distorted priorities. In spoken French, the little word before 'would do' drops its final vowel and attaches with an apostrophe.
+- 'But you neglect your own family?' Jose questions her life balance candidly. In everyday spoken French, rising intonation on 'neglect' at the end is enough to turn the sentence into a question.
+- 'When Colette calls me, I do not come home.' Andrea details her recurring failure. The two-part French negation brackets the verb for 'calls' on both sides.
+- 'It should be totally the reverse.' Jose points out the proper order of priorities. The verb meaning 'should' pairs naturally with the noun for 'opposite' in everyday conversation.
+- 'Maybe my brain is wired wrong.' Andrea blames her own stubborn nature. Notice how 'have' leads directly into the noun meaning 'brain'.
+- 'You know what? Let us make a pact!' Jose leans forward with sudden determination. The verb meaning 'know' pairs naturally with the noun for 'pact' in everyday conversation.
+- 'What kind of serious pact?' Andrea looks up with curious interest. The descriptive adjective for 'serious' agrees in gender and number with its noun.
+- 'We are going to take our lives back in hand.' Jose outlines a new resolution. Notice how 'are going to' leads directly into the noun meaning 'lives'.
+- 'And we stop impulsive decisions?' Andrea checks the terms of the promise. Notice how 'stop' leads directly into the noun meaning 'decisions'.
+- 'Exactly, except for these delicious profiteroles!' Jose laughs as dessert arrives. The adjective meaning 'good' takes its feminine form here to match the noun it describes.
 - 'These profiteroles were an absolute emergency!' Andrea laughs as she takes a spoon. The expressive noun phrase playfully seals the pact.

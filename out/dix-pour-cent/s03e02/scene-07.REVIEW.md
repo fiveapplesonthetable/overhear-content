@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am not very domestic, you know.' Andrea admits that traditional family life makes her feel uneasy.
-- 'Yes, I know that very well, Andrea.' Colette acknowledges Andrea's independent nature with gentle understanding.
-- 'Domestic life seems very narrow to me.' Andrea worries that domestic routines could restrict her personal freedom.
-- 'It is petty-bourgeois and deadly boring for me.' Andrea fears falling into monotonous suburban habits.
-- 'It is the life of my parents in the past.' Andrea compares conventional household life to her parents' past.
-- 'I come from far away, remember that.' Andrea reminds Colette of how hard she fought to build her career in Paris.
-- 'Those are only cliches that annoy me.' Colette rejects the negative assumptions associated with building a home.
-- 'It is like people at parties.' Colette introduces a thoughtful comparison with party guests.
-- 'They stay seated on the sofa the whole evening.' Colette observes how passive guests fail to participate.
-- 'They say afterwards that the party was boring.' Colette explains that those who complain make no effort themselves.
-- 'A couple is what you make of it!' Colette emphasizes that partnership and family life reflect their own choices.
-- 'It is true, I want a beautiful party.' Andrea realizes that she has the power to shape their shared journey.
-- 'I want this beautiful party with you.' Andrea lovingly commits to creating a joyful life together.
+- 'I am not very domestic, you know.' Andrea admits that traditional family life makes her feel uneasy. Notice the classic French sandwich negation wrapping right around 'know.'.
+- 'Yes, I know that very well, Andrea.' Colette acknowledges Andrea's independent nature with gentle understanding. The clause hinges on the everyday verb meaning 'know'.
+- 'Domestic life seems very narrow to me.' Andrea worries that domestic routines could restrict her personal freedom. The adjective meaning 'domestic' takes its feminine form here to match the noun it describes.
+- 'It is petty-bourgeois and deadly boring for me.' Andrea fears falling into monotonous suburban habits. The descriptive adjective for 'petty-bourgeois' agrees in gender and number with its noun.
+- 'It is the life of my parents in the past.' Andrea compares conventional household life to her parents' past. Notice how 'it is' leads directly into the noun meaning 'life'.
+- 'I come from far away, remember that.' Andrea reminds Colette of how hard she fought to build her career in Paris. The clause hinges on the everyday verb meaning 'come'.
+- 'Those are only cliches that annoy me.' Colette rejects the negative assumptions associated with building a home. The verb meaning 'annoy me.' pairs naturally with the noun for 'cliches' in everyday conversation.
+- 'It is like people at parties.' Colette introduces a thoughtful comparison with party guests. Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit.
+- 'They stay seated on the sofa the whole evening.' Colette observes how passive guests fail to participate. This conversational past tense combines a helper verb with the past participle for 'seated'.
+- 'They say afterwards that the party was boring.' Colette explains that those who complain make no effort themselves. The verb meaning 'say' pairs naturally with the noun for 'party' in everyday conversation.
+- 'A couple is what you make of it!' Colette emphasizes that partnership and family life reflect their own choices. In spoken French, the little word before 'makes!' drops its final vowel and attaches with an apostrophe.
+- 'It is true, I want a beautiful party.' Andrea realizes that she has the power to shape their shared journey. The verb meaning 'it is' pairs naturally with the noun for 'party.' in everyday conversation.
+- 'I want this beautiful party with you.' Andrea lovingly commits to creating a joyful life together. Andrea uses the casual singular 'you' with 'want', showing close familiarity.

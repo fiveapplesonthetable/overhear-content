@@ -11,31 +11,31 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Шеф | Пойдём со мной в мой кабинет. | Come with me into my office. | #188 00:12:52: пойдем со мной | adapted: adapted |
-| 2 | Аня | Шеф, куда мы сейчас идём? | Chef, where are we going now? | new | new: new |
+| 2 | Макс | Шеф, куда мы сейчас идём? | Chef, where are we going now? | new | new: new |
 | 3 | Шеф | Нам нужен очень серьёзный разговор. | We need a very serious conversation. | new | new: new |
-| 4 | Аня | Вы всё слышали на кухне? | Did you hear everything in the kitchen? | new | new: new |
+| 4 | Макс | Вы всё слышали на кухне? | Did you hear everything in the kitchen? | new | new: new |
 | 5 | Шеф | Я слышал каждое твоё слово. | I heard every word of yours. | new | new: new |
-| 6 | Аня | Я сам ничего не понимаю. | I myself do not understand anything. | new | new: new |
+| 6 | Макс | Я сам ничего не понимаю. | I myself do not understand anything. | new | new: new |
 | 7 | Шеф | Ты устроил настоящий большой скандал. | You caused a real big scandal. | new | new: new |
-| 8 | Аня | Я не хотел никого обидеть. | I did not want to offend anyone. | new | new: new |
+| 8 | Макс | Я не хотел никого обидеть. | I did not want to offend anyone. | new | new: new |
 | 9 | Шеф | Заходи в комнату и закрой дверь. | Go into the room and close the door. | new | new: new |
-| 10 | Аня | Хорошо, я уже закрываю дверь. | Good, I am already closing the door. | new | new: new |
+| 10 | Макс | Хорошо, я уже закрываю дверь. | Good, I am already closing the door. | new | new: new |
 | 11 | Шеф | Сядь на стул и слушай меня. | Sit on a chair and listen to me. | new | new: new |
-| 12 | Аня | Я внимательно слушаю вас, шеф. | I am listening to you attentively, chef. | new | new: new |
+| 12 | Макс | Я внимательно слушаю вас, шеф. | I am listening to you attentively, chef. | new | new: new |
 | 13 | Шеф | Теперь твоя жизнь сильно изменится. | Now your life will change greatly. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come with me into my office.' -- Viktor commands Max to follow him for a private discussion.
-- 'Chef, where are we going now?' -- The cook nervously asks where they are heading.
-- 'We need a very serious conversation.' -- The chef insists that they must speak urgently.
-- 'Did you hear everything in the kitchen?' -- Max asks if Viktor overheard the scandalous news.
-- 'I heard every word of yours.' -- The chef confirms that he heard the entire revelation.
-- 'I myself do not understand anything.' -- Max confesses that he feels completely overwhelmed.
-- 'You caused a real big scandal.' -- Viktor points out that the boy has triggered major chaos.
-- 'I did not want to offend anyone.' -- The young man insists that he meant no harm.
-- 'Go into the room and close the door.' -- The chef orders privacy before addressing the matter.
-- 'Good, I am already closing the door.' -- Max complies obediently with the command.
-- 'Sit on a chair and listen to me.' -- Viktor tells him to sit down and pay close attention.
-- 'I am listening to you attentively, chef.' -- The young cook prepares to receive stern advice.
-- 'Now your life will change greatly.' -- Viktor ominously predicts significant changes ahead.
+- 'Come with me into my office.' Chef Barinov leads with the direct command form meaning 'let us go', followed by 'office'.
+- 'Chef, where are we going now?' Here Max anchors the line on the word meaning 'where' and builds the thought around 'now' and 'are going'.
+- 'We need a very serious conversation.' Russian omits the present-tense verb 'to be' here, linking 'necessary' directly with 'very', pairing it with 'serious' and 'conversation'.
+- 'Did you hear everything in the kitchen?' Max turns a statement into a question purely through rising intonation on the word meaning 'heard', followed by 'kitchen'.
+- 'I heard every word of yours.' Chef Barinov chooses the imperfective verb meaning 'heard' for the ongoing action, followed by 'word'.
+- 'I myself do not understand anything.' Max delivers a punchy conversational reaction built around the Russian word meaning 'understand'.
+- 'You caused a real big scandal.' Chef Barinov uses the perfective verb meaning 'caused' to focus on the single completed result, pairing it with 'real' and 'big'.
+- 'I did not want to offend anyone.' Max chooses the imperfective verb meaning 'wanted' for the ongoing action, followed by 'to offend'.
+- 'Go into the room and close the door.' Chef Barinov leads with the direct command form meaning 'step in', pairing it with 'room' and 'close'.
+- 'Good, I am already closing the door.' Here Max anchors the line on the word meaning 'fine' and builds the thought around 'already' and 'am closing'.
+- 'Sit on a chair and listen to me.' Chef Barinov leads with the direct command form meaning 'sit down', pairing it with 'chair' and 'listen to'.
+- 'I am listening to you attentively, chef.' Max expresses this naturally by combining the word for 'attentively' with 'am listening to'.
+- 'Now your life will change greatly.' Chef Barinov puts the word for 'now' together with 'life' and 'greatly' in a crisp, natural spoken turn of phrase.

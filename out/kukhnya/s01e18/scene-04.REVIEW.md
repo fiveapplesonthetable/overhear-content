@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Это ещё не всё, слушай дальше. | That is not all yet, listen further. | #129 00:07:41: Еще не все. Слушай дальше. | adapted: adapted |
+| 1 | Макс | Это ещё не всё, слушай дальше. | That is not all yet, listen further. | #129 00:07:41: Еще не все. Слушай дальше. | adapted: adapted |
 | 2 | Костя | Какой ещё секрет ты мне покажешь? | What other secret will you show me? | new | new: new |
-| 3 | Аня | Сейчас я покажу тебе новый фокус. | Now I will show you a new trick. | new | new: new |
-| 4 | Аня | Короче, сначала ты берёшь чистый стакан. | In short, first you take a clean glass. | #130 00:07:42: берешь стакан | adapted: adapted |
+| 3 | Макс | Сейчас я покажу тебе новый фокус. | Now I will show you a new trick. | new | new: new |
+| 4 | Макс | Короче, сначала ты берёшь чистый стакан. | In short, first you take a clean glass. | #130 00:07:42: берешь стакан | adapted: adapted |
 | 5 | Костя | Хорошо, я взял большой красивый бокал. | Alright, I took a large beautiful glass. | new | new: new |
-| 6 | Аня | Теперь представь, что я богатый гость. | Now imagine that I am a rich guest. | new | new: new |
+| 6 | Макс | Теперь представь, что я богатый гость. | Now imagine that I am a rich guest. | new | new: new |
 | 7 | Костя | Что вы желаете заказать сегодня вечером? | What would you like to order tonight? | new | new: new |
-| 8 | Аня | Налей мне пятьдесят грамм дорогого коньяка. | Pour me fifty grams of expensive cognac. | #131 00:07:46: 50 грамм | adapted: adapted |
+| 8 | Макс | Налей мне пятьдесят грамм дорогого коньяка. | Pour me fifty grams of expensive cognac. | #131 00:07:46: 50 грамм | adapted: adapted |
 | 9 | Костя | Отличный выбор, сейчас всё будет сделано. | Great choice, everything will be done right now. | #132 00:07:48: Будет сделано. | adapted: adapted |
-| 10 | Аня | Но наливай не дорогой, а дешёвый коньяк! | But pour cheap cognac, not the expensive one! | new | new: new |
+| 10 | Макс | Но наливай не дорогой, а дешёвый коньяк! | But pour cheap cognac, not the expensive one! | new | new: new |
 | 11 | Костя | Ты думаешь, гость совсем ничего не заметит? | Do you think the guest will notice nothing at all? | new | new: new |
-| 12 | Аня | Поверь мне, никто не почувствует разницу! | Believe me, nobody will feel the difference! | new | new: new |
+| 12 | Макс | Поверь мне, никто не почувствует разницу! | Believe me, nobody will feel the difference! | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That is not all yet, listen further.' -- Max tells his friend that there are more tricks to learn.
-- 'What other secret will you show me?' -- Kostya is curious about the next method.
-- 'Now I will show you a new trick.' -- Max prepares to demonstrate another technique at the bar.
-- 'In short, first you take a clean glass.' -- He instructs Kostya to pick up a vessel from the shelf.
-- 'Alright, I took a large beautiful glass.' -- Kostya follows the instruction and holds it ready.
-- 'Now imagine that I am a rich guest.' -- Max pretends to be a wealthy customer sitting at the counter.
-- 'What would you like to order tonight?' -- Kostya plays along with a polite question.
-- 'Pour me fifty grams of expensive cognac.' -- Max places an order for a luxury drink.
-- 'Great choice, everything will be done right now.' -- Kostya replies like a professional bartender.
-- 'But pour cheap cognac, not the expensive one!' -- Max reveals the secret swap to save money.
-- 'Do you think the guest will notice nothing at all?' -- Kostya doubts that customers can be fooled so easily.
-- 'Believe me, nobody will feel the difference!' -- Max assures him that patrons cannot tell the brands apart.
+- 'That is not all yet, listen further.' Max leads with the direct command form meaning 'listen', pairing it with 'more' and 'next'.
+- 'What other secret will you show me?' Here Kostya anchors the line on the word meaning 'more' and builds the thought around 'secret' and 'will show'.
+- 'Now I will show you a new trick.' The phrasing opens with 'now' before bringing in 'will show' and 'new' to make the point clear.
+- 'In short, first you take a clean glass.' Max expresses this naturally by combining the word for 'long story short' with 'first' and 'do you take'.
+- 'Alright, I took a large beautiful glass.' Kostya puts the word for 'good' together with 'got' and 'big' in a crisp, natural spoken turn of phrase.
+- 'Now imagine that I am a rich guest.' Max leads with the direct command form meaning 'imagine', pairing it with 'now' and 'wealthy'.
+- 'What would you like to order tonight?' Kostya chooses the imperfective verb meaning 'would you like' for the ongoing action, followed by 'to order' and 'today'.
+- 'Pour me fifty grams of expensive cognac.' Max leads with the direct command form meaning 'pour', pairing it with 'fifty' and 'grams'.
+- 'Great choice, everything will be done right now.' Kostya puts the word for 'excellent' together with 'choice' and 'now' in a crisp, natural spoken turn of phrase.
+- 'But pour cheap cognac, not the expensive one!' Max leads with the direct command form meaning 'pour', pairing it with 'dear' and 'cheap'.
+- 'Do you think the guest will notice nothing at all?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'think', pairing it with 'guest' and 'at all'.
+- 'Believe me, nobody will feel the difference!' Max leads with the direct command form meaning 'believe', pairing it with 'will feel' and 'difference'.

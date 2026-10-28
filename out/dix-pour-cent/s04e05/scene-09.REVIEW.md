@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'She was safe here.' Andrea argues that the daycare is a protected place. The feminine noun 'securite' designates safety.
 - 'It is a complete lack of respect.' The director condemns the late pickup. The masculine noun 'manque' means lack or shortage.
 - 'It was proof of trust!' Andrea reframes her lateness as total confidence in the staff. The feminine noun 'preuve' signifies proof.
-- 'No, it is unacceptable for us.' The director rejects Andrea's rationalization. The adjective 'inacceptable' means unacceptable.
+- 'No, it is unacceptable for us.' The director rejects Andrea's rationalization. The adverb meaning 'no' gives the reply its conversational emphasis.
 - 'Say goodbye to the daycare!' The director delivers the severe consequence. The noun 'creche' designates a daycare center.
 - 'Are you expelling Flora for that?' Andrea is shocked by the sudden expulsion. The verb 'renvoyez' comes from 'renvoyer', to dismiss or expel.
 - 'Yes, we enforce the rules.' The director insists on strict administrative regulations. The noun 'reglement' means rules or regulations.

@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Сеня | Шеф, пора начинать готовить горячие блюда? | Chef, is it time to start preparing hot dishes? | new | new |
-| 2 | Аня | Тихо, Сеня! Сейчас идёт решающий матч! | Quiet, Senya! A decisive match is on right now! | new | new |
+| 2 | Шеф | Тихо, Сеня! Сейчас идёт решающий матч! | Quiet, Senya! A decisive match is on right now! | new | new |
 | 3 | Сеня | Кто сегодня играет на этом матче? | Who is playing in this match today? | new | new |
-| 4 | Аня | Наш великий Спартак играет против ЦСКА! | Our great Spartak is playing against CSKA! | new | new |
+| 4 | Шеф | Наш великий Спартак играет против ЦСКА! | Our great Spartak is playing against CSKA! | new | new |
 | 5 | Сеня | И какой сейчас счёт в игре? | And what is the score in the game now? | new | new |
-| 6 | Аня | Пока ничья, но мы должны победить! | A draw so far, but we must win! | new | new |
+| 6 | Шеф | Пока ничья, но мы должны победить! | A draw so far, but we must win! | new | new |
 | 7 | Сеня | Смотрите, мяч летит к их воротам! | Look, the ball is flying toward their goal! | new | new |
-| 8 | Аня | У чужой штрафной площади ЦСКА держит оборону. | Near the opponent penalty area CSKA is holding defense. | #209 00:15:26: держит оборону | verbatim |
+| 8 | Шеф | У чужой штрафной площади ЦСКА держит оборону. | Near the opponent penalty area CSKA is holding defense. | #209 00:15:26: держит оборону | verbatim |
 | 9 | Сеня | Нападающий Спартака получает быстрый пас. | The Spartak forward receives a fast pass. | new | new |
-| 10 | Аня | Давай, Ари с мячом сильно бьёт! | Come on, Ari with the ball shoots hard! | #210 00:15:29: бьет | verbatim |
+| 10 | Шеф | Давай, Ари с мячом сильно бьёт! | Come on, Ari with the ball shoots hard! | #210 00:15:29: бьет | verbatim |
 | 11 | Сеня | Вратарь с трудом ловит этот мяч. | The goalkeeper catches this ball with difficulty. | new | new |
-| 12 | Аня | Какой опасный и красивый был момент! | What a dangerous and beautiful moment it was! | new | new |
+| 12 | Шеф | Какой опасный и красивый был момент! | What a dangerous and beautiful moment it was! | new | new |
 | 13 | Сеня | А теперь пора вернуться к нашей кухне. | And now it is time to return to our kitchen. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)

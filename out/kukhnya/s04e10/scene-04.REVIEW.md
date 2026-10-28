@@ -1,0 +1,39 @@
+# kukhnya-s04e10-scene-04: review sheet
+
+Title: Захват ресторана  (The Restaurant Siege)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S4.10
+
+
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Аня | Добрый день, господа и дамы. | Good afternoon, gentlemen and ladies. | #35 00:02:37: Добрый день, господа, милые дамы | adapted: adapted for A1 clarity |
+| 2 | Аня | Я позволю себе поправить вас. | I will allow myself to correct you. | #36 00:02:43: Я позволю | adapted: adapted for A1 clarity |
+| 3 | Аня | Мы не террористы, мы бизнесмены. | We are not terrorists, we are businessmen. | #37 00:02:48: Мы не террористы, мы бизнесмены | verbatim |
+| 4 | Аня | А сейчас прошу всех в зал. | And now I ask everyone into the dining room. | #38 00:02:52: А сейчас я попрошу всех пройти в зал | adapted: adapted for A1 clarity |
+| 5 | Костя | Ты слышала про стокгольмский синдром? | Have you heard about Stockholm syndrome? | #40 00:03:20: про стольгольмский синдром | adapted: adapted for A1 clarity |
+| 6 | Костя | Жертвы испытывают симпатию к захватчикам. | Victims feel sympathy toward their captors. | #40 00:03:20: жертвы испытывают симпатий | adapted: adapted for A1 clarity |
+| 7 | Вика | Извините, пожалуйста, можно вопрос? | Excuse me, please, may I ask a question? | #41 00:03:30: Извините, пожалуйста, а можно | adapted: adapted for A1 clarity |
+| 8 | Вика | Можно бармена ко мне привязать? | Could you tie the bartender to me instead? | #41 00:03:30: а можно бармена не к ней, а ко мне привязать | adapted: adapted for A1 clarity |
+| 9 | Аня | По списку не хватает повара. | According to the list, one cook is missing. | #42 00:03:38: По списку не хватает одного повара | adapted: adapted for A1 clarity |
+| 10 | Аня | Его зовут Арсений Чуганин. | His name is Arseny Chuganin. | #43 00:03:42: Арсений Чуганин | adapted: adapted for A1 clarity |
+| 11 | Аня | Где этот опасный повар? | Where is this dangerous cook? | #42 00:03:38: не хватает одного повара | adapted: adapted for A1 clarity |
+| 12 | Вика | Он сегодня на кухне. | He is in the kitchen today. | #42 00:03:38: одного повара | adapted: adapted for A1 clarity |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Good afternoon, gentlemen and ladies.' The villain opens with overly polite formal plurals to contrast with the stick-up.
+- 'I will allow myself to correct you.' The reflexive dative pronoun 'to myself' pairs with 'I will allow' in polished, theatrical speech.
+- 'We are not terrorists, we are businessmen.' Two parallel verbless clauses contrast the two plural nouns directly.
+- 'And now I ask everyone into the dining room.' After a request of motion, the destination 'into the hall' takes the accusative case.
+- 'Have you heard about Stockholm syndrome?' In casual speech, the preposition 'pro' plus the accusative replaces 'o' plus the prepositional for 'about'.
+- 'Victims feel sympathy toward their captors.' The word for 'sympathy' is a classic false friend: in Russian it means 'liking' or 'attraction', not pity.
+- 'Excuse me, please, may I ask a question?' Tied to a chair, Vika still addresses the kidnappers with impeccable manners.
+- 'Could you tie the bartender to me instead?' Jealous of Nastya's friend, Vika uses 'to me' with the dative case after the preposition 'ko'.
+- 'According to the list, one cook is missing.' The impersonal verb 'it lacks' always puts the missing person or thing into the genitive case.
+- 'His name is Arseny Chuganin.' In his own daydream, Senya makes sure the villain announces his full name dramatically.
+- 'Where is this dangerous cook?' The masculine adjective 'dangerous' agrees with 'cook' in the nominative case.
+- 'He is in the kitchen today.' Locations like 'kitchen' use the preposition 'on' rather than 'in' in Russian.

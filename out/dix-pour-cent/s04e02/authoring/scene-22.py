@@ -118,5 +118,5 @@ WALK = [
 ]
 
 TRANSITION = "Now, listen to the complete dialogue again at normal conversational pace."
-OUTRO = "Elise's bombshell about Dany Boon leaves Andrea facing a dangerous new war on two fronts."
+OUTRO = "Elise's bombshell about Dany Boon leaves Andrea facing a dangerous new war on two fronts. When you watch the episode, listen out for the expressions meaning 'come' and 'decided'. You'll catch them now. See you next time."
 CLOSING = ("elise", "Réfléchis bien avant de refuser, Andréa.")

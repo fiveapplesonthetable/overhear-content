@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Thank you all for your welcome at ASK.' Elise opens her speech with polite gratitude. The noun 'accueil' means welcome or reception.
 - 'Welcome among us to our team.' Andrea greets the newcomer warmly on behalf of the agency. The preposition 'parmi' means among.
 - 'I have a somewhat difficult reputation.' Elise frankly acknowledges her ruthless past at StarMedia. The adjective 'difficile' means difficult.
-- 'Here, we respect good work.' Andrea emphasizes ASK's professional values. The verb 'respecter' means to respect.
+- 'Here, we respect good work.' Andrea emphasizes ASK's professional values. Notice how 'respect' leads directly into the noun meaning 'work'.
 - 'I want to work with you two.' Elise expresses her desire to collaborate with Andrea and Gabriel. The number 'deux' means two.
 - 'You are very good agents.' Elise flatters the senior partners of ASK. The adjective 'bons' modifies the masculine plural noun 'agents'.
 - 'As for me, I do not have time.' Gabriel coldly rejects her attempts at charm. The emphatic pronoun 'moi' stresses the subject.
@@ -39,5 +39,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We can still drink a toast together.' Elise attempts to maintain a convivial atmosphere. The verb 'trinquer' means to clink glasses or toast.
 - 'I propose a very clear toast.' Gabriel steps forward with bitter sarcasm. The expression 'porter un toast' means to raise a toast.
 - 'To the end of our principles!' Gabriel raises his glass in solemn protest against the buyout. The noun 'principes' means moral principles.
-- 'Your welcome is really very direct!' Elise reacts with cool poise to Gabriel's blunt hostility. The adverb 'vraiment' means really.
-- 'Excuse us, we are all very tired.' Andrea apologizes to cover for her partner's explosive outburst. The adjective 'fatigues' means tired.
+- 'Your welcome is really very direct!' Elise reacts with cool poise to Gabriel's blunt hostility. Elise uses the casual singular 'you' with 'welcome', showing close familiarity.
+- 'Excuse us, we are all very tired.' Andrea apologizes to cover for her partner's explosive outburst. The key noun here means 'excuse us', anchored by its matching French article.

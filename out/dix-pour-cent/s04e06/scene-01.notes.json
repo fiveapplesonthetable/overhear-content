@@ -12,7 +12,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "form of je"
+          "gram": "1st sg subject pronoun"
         },
         {
           "t": "sais,",
@@ -20,7 +20,7 @@
           "pos": "verb",
           "stress": "savwaʁ",
           "gloss": "to know; to know how to",
-          "gram": "form of savoir"
+          "gram": "imperfect indicative / conditional"
         },
         {
           "t": "tu",
@@ -28,7 +28,7 @@
           "pos": "pron",
           "stress": "ty",
           "gloss": "you (informal)",
-          "gram": "form of tu"
+          "gram": "2nd sg subject pronoun"
         },
         {
           "t": "es",
@@ -36,7 +36,7 @@
           "pos": "verb",
           "stress": "ɛtʁ",
           "gloss": "to be",
-          "gram": "form of être"
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "débordée.",
@@ -44,7 +44,7 @@
           "pos": "adj",
           "stress": "debɔʁde",
           "gloss": "overwhelmed",
-          "gram": "form of débordé"
+          "gram": "feminine singular"
         }
       ]
     },
@@ -58,23 +58,31 @@
           "pos": "conj",
           "stress": "mɛ",
           "gloss": "but",
-          "gram": "form of mais"
+          "gram": "coordinating conjunction"
         },
         {
-          "t": "j'ai",
+          "t": "j'",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "ʒe",
-          "gloss": "I have",
-          "gram": "je + ai: 1sg subject pronoun + present 1sg"
+          "stress": "avwaʁ",
+          "gloss": "to have",
+          "gram": "past participle"
         },
         {
           "t": "organisé",
           "lemma": "organiser",
           "pos": "verb",
-          "stress": "ɔʁ.ɡa.ni.ze",
+          "stress": "ɔʁɡanize",
           "gloss": "to organize",
-          "gram": "form of organiser"
+          "gram": "past participle"
         },
         {
           "t": "cette",
@@ -82,7 +90,7 @@
           "pos": "det",
           "stress": "sə",
           "gloss": "this",
-          "gram": "form of ce"
+          "gram": "demonstrative determiner (f sg)"
         },
         {
           "t": "fête!",
@@ -90,7 +98,7 @@
           "pos": "noun",
           "stress": "fɛt",
           "gloss": "party; celebration",
-          "gram": "form of fête"
+          "gram": "feminine singular"
         }
       ]
     },
@@ -104,15 +112,23 @@
           "pos": "pron",
           "stress": "ty",
           "gloss": "you (informal)",
-          "gram": "form of tu"
+          "gram": "2nd sg subject pronoun"
         },
         {
-          "t": "n'es",
+          "t": "n'",
+          "lemma": "ne",
+          "pos": "part",
+          "stress": "nə",
+          "gloss": "not (first part)",
+          "gram": "negative particle"
+        },
+        {
+          "t": "es",
           "lemma": "être",
           "pos": "verb",
-          "stress": "nɛ",
-          "gloss": "are (not)",
-          "gram": "ne (elided n') + es: present, 2nd person singular"
+          "stress": "ɛtʁ",
+          "gloss": "to be",
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "pas",
@@ -120,7 +136,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "form of pas"
+          "gram": "negative particle"
         },
         {
           "t": "la",
@@ -128,7 +144,7 @@
           "pos": "det",
           "stress": "lə",
           "gloss": "the; him",
-          "gram": "form of le"
+          "gram": "definite article (f sg)"
         },
         {
           "t": "seule.",
@@ -136,7 +152,7 @@
           "pos": "adj",
           "stress": "sœl",
           "gloss": "alone",
-          "gram": "form of seul"
+          "gram": "feminine singular"
         }
       ]
     },
@@ -148,9 +164,9 @@
           "t": "Blanche-Neige",
           "lemma": "blanche-neige",
           "pos": "name",
-          "stress": "",
+          "stress": null,
           "gloss": "Snow White",
-          "gram": "form of Blanche-Neige"
+          "gram": "proper noun"
         },
         {
           "t": "travaille",
@@ -158,7 +174,7 @@
           "pos": "verb",
           "stress": "tʁavaje",
           "gloss": "to work",
-          "gram": "form of travailler"
+          "gram": "1st/3rd sg present indicative"
         },
         {
           "t": "dur,",
@@ -166,7 +182,7 @@
           "pos": "adj",
           "stress": "dyʁ",
           "gloss": "hard",
-          "gram": "form of dur"
+          "gram": "masculine singular"
         },
         {
           "t": "tu",
@@ -174,7 +190,7 @@
           "pos": "pron",
           "stress": "ty",
           "gloss": "you (informal)",
-          "gram": "form of tu"
+          "gram": "2nd sg subject pronoun"
         },
         {
           "t": "sais?",
@@ -182,7 +198,7 @@
           "pos": "verb",
           "stress": "savwaʁ",
           "gloss": "to know; to know how to",
-          "gram": "form of savoir"
+          "gram": "imperfect indicative / conditional"
         }
       ]
     },
@@ -191,12 +207,20 @@
       "trans": "FIXME translation",
       "words": [
         {
-          "t": "C'est",
+          "t": "C'",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "indefinite determiner"
+        },
+        {
+          "t": "est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "stress": "ɛtʁ",
+          "gloss": "to be",
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "pas",
@@ -204,7 +228,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "form of pas"
+          "gram": "negative particle"
         },
         {
           "t": "facile",
@@ -212,7 +236,7 @@
           "pos": "adj",
           "stress": "fasil",
           "gloss": "easy",
-          "gram": "form of facile"
+          "gram": "masculine singular"
         },
         {
           "t": "de",
@@ -220,7 +244,7 @@
           "pos": "prep",
           "stress": "də",
           "gloss": "of",
-          "gram": "form of de"
+          "gram": "preposition"
         },
         {
           "t": "les",
@@ -228,7 +252,7 @@
           "pos": "det",
           "stress": "lə",
           "gloss": "the; him",
-          "gram": "form of le"
+          "gram": "definite article (pl)"
         },
         {
           "t": "réunir!",
@@ -236,7 +260,7 @@
           "pos": "verb",
           "stress": "ʁeyniʁ",
           "gloss": "to gather",
-          "gram": "form of réunir"
+          "gram": "infinitive"
         }
       ]
     },
@@ -250,7 +274,7 @@
           "pos": "adv",
           "stress": "apʁɛ",
           "gloss": "after",
-          "gram": "form of après"
+          "gram": "adverb"
         },
         {
           "t": "les",
@@ -258,7 +282,7 @@
           "pos": "det",
           "stress": "lə",
           "gloss": "the; him",
-          "gram": "form of le"
+          "gram": "definite article (pl)"
         },
         {
           "t": "cadeaux,",
@@ -266,7 +290,7 @@
           "pos": "noun",
           "stress": "kado",
           "gloss": "present",
-          "gram": "form of cadeau"
+          "gram": "masculine plural"
         },
         {
           "t": "je",
@@ -274,7 +298,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "form of je"
+          "gram": "1st sg subject pronoun"
         },
         {
           "t": "rentre",
@@ -282,7 +306,7 @@
           "pos": "verb",
           "stress": "ʁɑ̃tʁe",
           "gloss": "to go home",
-          "gram": "form of rentrer"
+          "gram": "1st/3rd sg present indicative"
         },
         {
           "t": "directement.",
@@ -290,7 +314,7 @@
           "pos": "adv",
           "stress": "diʁɛktəmɑ̃",
           "gloss": "directly",
-          "gram": "form of directement"
+          "gram": "manner adverb"
         }
       ]
     },
@@ -299,12 +323,20 @@
       "trans": "FIXME translation",
       "words": [
         {
-          "t": "C'est",
+          "t": "C'",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "indefinite determiner"
+        },
+        {
+          "t": "est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "stress": "ɛtʁ",
+          "gloss": "to be",
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "pas",
@@ -312,7 +344,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "form of pas"
+          "gram": "negative particle"
         },
         {
           "t": "ton",
@@ -320,7 +352,7 @@
           "pos": "det",
           "stress": "tɔ̃",
           "gloss": "your (informal)",
-          "gram": "form of ton"
+          "gram": "possessive determiner (sg)"
         },
         {
           "t": "texte,",
@@ -328,15 +360,15 @@
           "pos": "noun",
           "stress": "tɛkst",
           "gloss": "text; lines (of a play or film)",
-          "gram": "form of texte"
+          "gram": "masculine singular"
         },
         {
           "t": "Lolita.",
           "lemma": "lolita",
           "pos": "name",
-          "stress": "",
+          "stress": null,
           "gloss": "Lolita (name)",
-          "gram": "form of Lolita"
+          "gram": "proper noun"
         }
       ]
     },
@@ -345,12 +377,20 @@
       "trans": "FIXME translation",
       "words": [
         {
-          "t": "C'est:",
+          "t": "C'",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "indefinite determiner"
+        },
+        {
+          "t": "est:",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "stress": "ɛtʁ",
+          "gloss": "to be",
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "Rentre",
@@ -358,15 +398,23 @@
           "pos": "verb",
           "stress": "ʁɑ̃tʁe",
           "gloss": "to go home",
-          "gram": "form of rentrer"
+          "gram": "1st/3rd sg present indicative"
         },
         {
-          "t": "t'occuper",
+          "t": "t'",
+          "lemma": "te",
+          "pos": "pron",
+          "stress": "tə",
+          "gloss": "you",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "occuper",
           "lemma": "occuper",
           "pos": "verb",
-          "stress": "təɔkype",
-          "gloss": "you to occupy; to take care of",
-          "gram": "t': form of te + occuper: form of occuper"
+          "stress": "ɔkype",
+          "gloss": "to occupy; to take care of",
+          "gram": "infinitive"
         },
         {
           "t": "de",
@@ -374,7 +422,7 @@
           "pos": "prep",
           "stress": "də",
           "gloss": "of",
-          "gram": "form of de"
+          "gram": "preposition"
         },
         {
           "t": "ma",
@@ -382,7 +430,7 @@
           "pos": "det",
           "stress": "mɔ̃",
           "gloss": "my",
-          "gram": "form of mon"
+          "gram": "possessive determiner (f sg)"
         },
         {
           "t": "féline.",
@@ -390,7 +438,7 @@
           "pos": "adj",
           "stress": "felɛ̃",
           "gloss": "feline",
-          "gram": "form of félin"
+          "gram": "feminine singular"
         }
       ]
     },
@@ -404,15 +452,23 @@
           "pos": "conj",
           "stress": "mɛ",
           "gloss": "but",
-          "gram": "form of mais"
+          "gram": "coordinating conjunction"
         },
         {
-          "t": "c'est",
+          "t": "c'",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "indefinite determiner"
+        },
+        {
+          "t": "est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "stress": "ɛtʁ",
+          "gloss": "to be",
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "quoi",
@@ -420,7 +476,7 @@
           "pos": "pron",
           "stress": "kwa",
           "gloss": "what",
-          "gram": "form of quoi"
+          "gram": "relative / interrogative pronoun"
         },
         {
           "t": "cette",
@@ -428,7 +484,7 @@
           "pos": "det",
           "stress": "sə",
           "gloss": "this",
-          "gram": "form of ce"
+          "gram": "demonstrative determiner (f sg)"
         },
         {
           "t": "réplique?",
@@ -436,7 +492,7 @@
           "pos": "noun",
           "stress": "ʁeplik",
           "gloss": "line (of dialogue); reply",
-          "gram": "form of réplique"
+          "gram": "feminine singular"
         }
       ]
     },
@@ -445,12 +501,20 @@
       "trans": "FIXME translation",
       "words": [
         {
-          "t": "C'est",
+          "t": "C'",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "indefinite determiner"
+        },
+        {
+          "t": "est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "stress": "ɛtʁ",
+          "gloss": "to be",
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "un",
@@ -458,7 +522,7 @@
           "pos": "det",
           "stress": "œ̃",
           "gloss": "a",
-          "gram": "form of un"
+          "gram": "indefinite article (m sg)"
         },
         {
           "t": "film",
@@ -466,7 +530,7 @@
           "pos": "noun",
           "stress": "film",
           "gloss": "movie, film",
-          "gram": "form of film"
+          "gram": "masculine singular"
         },
         {
           "t": "pour",
@@ -474,7 +538,7 @@
           "pos": "prep",
           "stress": "puʁ",
           "gloss": "for; (in order) to",
-          "gram": "form of pour"
+          "gram": "preposition"
         },
         {
           "t": "enfants.",
@@ -482,7 +546,7 @@
           "pos": "noun",
           "stress": "ɑ̃fɑ̃",
           "gloss": "child",
-          "gram": "form of enfant"
+          "gram": "masculine plural"
         }
       ]
     },
@@ -496,7 +560,7 @@
           "pos": "conj",
           "stress": "mɛ",
           "gloss": "but",
-          "gram": "form of mais"
+          "gram": "coordinating conjunction"
         },
         {
           "t": "il",
@@ -504,7 +568,7 @@
           "pos": "pron",
           "stress": "il",
           "gloss": "he; it",
-          "gram": "form of il"
+          "gram": "3rd sg subject pronoun"
         },
         {
           "t": "fait",
@@ -512,7 +576,7 @@
           "pos": "verb",
           "stress": "fɛʁ",
           "gloss": "to do",
-          "gram": "form of faire"
+          "gram": "imperfect indicative / conditional"
         },
         {
           "t": "40",
@@ -520,7 +584,7 @@
           "pos": "num",
           "stress": "kaʁɑ̃t",
           "gloss": "forty",
-          "gram": "form of quarante"
+          "gram": "cardinal numeral"
         },
         {
           "t": "degrés",
@@ -528,7 +592,7 @@
           "pos": "noun",
           "stress": "dəɡʁe",
           "gloss": "degree",
-          "gram": "form of degré"
+          "gram": "masculine plural"
         },
         {
           "t": "ici!",
@@ -536,7 +600,7 @@
           "pos": "adv",
           "stress": "isi",
           "gloss": "here",
-          "gram": "form of ici"
+          "gram": "place adverb"
         }
       ]
     },
@@ -550,7 +614,7 @@
           "pos": "pron",
           "stress": "ɔ̃",
           "gloss": "we; one",
-          "gram": "form of on"
+          "gram": "3rd sg subject pronoun"
         },
         {
           "t": "reprend",
@@ -558,7 +622,7 @@
           "pos": "verb",
           "stress": "ʁəpʁɑ̃dʁ",
           "gloss": "to take back; to start again",
-          "gram": "form of reprendre"
+          "gram": "1st/3rd sg present indicative"
         },
         {
           "t": "à",
@@ -566,7 +630,7 @@
           "pos": "prep",
           "stress": "a",
           "gloss": "at",
-          "gram": "form of à"
+          "gram": "preposition"
         },
         {
           "t": "la",
@@ -574,7 +638,7 @@
           "pos": "det",
           "stress": "lə",
           "gloss": "the; him",
-          "gram": "form of le"
+          "gram": "definite article (f sg)"
         },
         {
           "t": "tournée.",
@@ -582,7 +646,7 @@
           "pos": "noun",
           "stress": "tuʁne",
           "gloss": "theatrical tour",
-          "gram": "form of tournée"
+          "gram": "feminine singular"
         }
       ]
     },
@@ -596,7 +660,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "form of je"
+          "gram": "1st sg subject pronoun"
         },
         {
           "t": "ne",
@@ -604,7 +668,7 @@
           "pos": "part",
           "stress": "nə",
           "gloss": "not (first part)",
-          "gram": "form of ne"
+          "gram": "negative particle"
         },
         {
           "t": "peux",
@@ -612,7 +676,7 @@
           "pos": "verb",
           "stress": "puvwaʁ",
           "gloss": "can",
-          "gram": "form of pouvoir"
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "pas",
@@ -620,7 +684,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "form of pas"
+          "gram": "negative particle"
         },
         {
           "t": "jouer",
@@ -628,7 +692,7 @@
           "pos": "verb",
           "stress": "ʒwe",
           "gloss": "to play",
-          "gram": "form of jouer"
+          "gram": "infinitive"
         },
         {
           "t": "ainsi.",
@@ -636,7 +700,7 @@
           "pos": "adv",
           "stress": "ɛ̃si",
           "gloss": "thus",
-          "gram": "form of ainsi"
+          "gram": "adverb"
         }
       ]
     },
@@ -645,12 +709,20 @@
       "trans": "FIXME translation",
       "words": [
         {
-          "t": "J'en",
-          "lemma": "en",
+          "t": "J'",
+          "lemma": "je",
           "pos": "pron",
-          "stress": "ʒɑ̃",
-          "gloss": "of it",
-          "gram": "je + en: adverbial pronoun, 'of it'"
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in; (pronoun) of it",
+          "gram": "preposition"
         },
         {
           "t": "ai",
@@ -658,7 +730,7 @@
           "pos": "verb",
           "stress": "avwaʁ",
           "gloss": "to have",
-          "gram": "form of avoir"
+          "gram": "past participle"
         },
         {
           "t": "marre!",
@@ -666,7 +738,7 @@
           "pos": "adv",
           "stress": "maʁ",
           "gloss": "fed up",
-          "gram": "form of marre"
+          "gram": "adverb"
         },
         {
           "t": "Assez!",
@@ -674,7 +746,7 @@
           "pos": "adv",
           "stress": "ase",
           "gloss": "enough; quite",
-          "gram": "form of assez"
+          "gram": "degree adverb"
         }
       ]
     },
@@ -688,7 +760,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "form of je"
+          "gram": "1st sg subject pronoun"
         },
         {
           "t": "sais,",
@@ -696,7 +768,7 @@
           "pos": "verb",
           "stress": "savwaʁ",
           "gloss": "to know; to know how to",
-          "gram": "form of savoir"
+          "gram": "imperfect indicative / conditional"
         },
         {
           "t": "tu",
@@ -704,7 +776,7 @@
           "pos": "pron",
           "stress": "ty",
           "gloss": "you (informal)",
-          "gram": "form of tu"
+          "gram": "2nd sg subject pronoun"
         },
         {
           "t": "es",
@@ -712,7 +784,7 @@
           "pos": "verb",
           "stress": "ɛtʁ",
           "gloss": "to be",
-          "gram": "form of être"
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "débordée.",
@@ -720,7 +792,7 @@
           "pos": "adj",
           "stress": "debɔʁde",
           "gloss": "overwhelmed",
-          "gram": "form of débordé"
+          "gram": "feminine singular"
         }
       ]
     },
@@ -734,23 +806,31 @@
           "pos": "conj",
           "stress": "mɛ",
           "gloss": "but",
-          "gram": "form of mais"
+          "gram": "coordinating conjunction"
         },
         {
-          "t": "j'ai",
+          "t": "j'",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "ʒe",
-          "gloss": "I have",
-          "gram": "je + ai: 1sg subject pronoun + present 1sg"
+          "stress": "avwaʁ",
+          "gloss": "to have",
+          "gram": "past participle"
         },
         {
           "t": "organisé",
           "lemma": "organiser",
           "pos": "verb",
-          "stress": "ɔʁ.ɡa.ni.ze",
+          "stress": "ɔʁɡanize",
           "gloss": "to organize",
-          "gram": "form of organiser"
+          "gram": "past participle"
         },
         {
           "t": "cette",
@@ -758,7 +838,7 @@
           "pos": "det",
           "stress": "sə",
           "gloss": "this",
-          "gram": "form of ce"
+          "gram": "demonstrative determiner (f sg)"
         },
         {
           "t": "fête!",
@@ -766,7 +846,7 @@
           "pos": "noun",
           "stress": "fɛt",
           "gloss": "party; celebration",
-          "gram": "form of fête"
+          "gram": "feminine singular"
         }
       ]
     },
@@ -780,15 +860,23 @@
           "pos": "pron",
           "stress": "ty",
           "gloss": "you (informal)",
-          "gram": "form of tu"
+          "gram": "2nd sg subject pronoun"
         },
         {
-          "t": "n'es",
+          "t": "n'",
+          "lemma": "ne",
+          "pos": "part",
+          "stress": "nə",
+          "gloss": "not (first part)",
+          "gram": "negative particle"
+        },
+        {
+          "t": "es",
           "lemma": "être",
           "pos": "verb",
-          "stress": "nɛ",
-          "gloss": "are (not)",
-          "gram": "ne (elided n') + es: present, 2nd person singular"
+          "stress": "ɛtʁ",
+          "gloss": "to be",
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "pas",
@@ -796,7 +884,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "form of pas"
+          "gram": "negative particle"
         },
         {
           "t": "la",
@@ -804,7 +892,7 @@
           "pos": "det",
           "stress": "lə",
           "gloss": "the; him",
-          "gram": "form of le"
+          "gram": "definite article (f sg)"
         },
         {
           "t": "seule.",
@@ -812,7 +900,7 @@
           "pos": "adj",
           "stress": "sœl",
           "gloss": "alone",
-          "gram": "form of seul"
+          "gram": "feminine singular"
         }
       ]
     },
@@ -824,9 +912,9 @@
           "t": "Blanche-Neige",
           "lemma": "blanche-neige",
           "pos": "name",
-          "stress": "",
+          "stress": null,
           "gloss": "Snow White",
-          "gram": "form of Blanche-Neige"
+          "gram": "proper noun"
         },
         {
           "t": "travaille",
@@ -834,7 +922,7 @@
           "pos": "verb",
           "stress": "tʁavaje",
           "gloss": "to work",
-          "gram": "form of travailler"
+          "gram": "1st/3rd sg present indicative"
         },
         {
           "t": "dur,",
@@ -842,7 +930,7 @@
           "pos": "adj",
           "stress": "dyʁ",
           "gloss": "hard",
-          "gram": "form of dur"
+          "gram": "masculine singular"
         },
         {
           "t": "tu",
@@ -850,7 +938,7 @@
           "pos": "pron",
           "stress": "ty",
           "gloss": "you (informal)",
-          "gram": "form of tu"
+          "gram": "2nd sg subject pronoun"
         },
         {
           "t": "sais?",
@@ -858,7 +946,7 @@
           "pos": "verb",
           "stress": "savwaʁ",
           "gloss": "to know; to know how to",
-          "gram": "form of savoir"
+          "gram": "imperfect indicative / conditional"
         }
       ]
     },
@@ -867,12 +955,20 @@
       "trans": "FIXME translation",
       "words": [
         {
-          "t": "C'est",
+          "t": "C'",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "indefinite determiner"
+        },
+        {
+          "t": "est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "stress": "ɛtʁ",
+          "gloss": "to be",
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "pas",
@@ -880,7 +976,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "form of pas"
+          "gram": "negative particle"
         },
         {
           "t": "facile",
@@ -888,7 +984,7 @@
           "pos": "adj",
           "stress": "fasil",
           "gloss": "easy",
-          "gram": "form of facile"
+          "gram": "masculine singular"
         },
         {
           "t": "de",
@@ -896,7 +992,7 @@
           "pos": "prep",
           "stress": "də",
           "gloss": "of",
-          "gram": "form of de"
+          "gram": "preposition"
         },
         {
           "t": "les",
@@ -904,7 +1000,7 @@
           "pos": "det",
           "stress": "lə",
           "gloss": "the; him",
-          "gram": "form of le"
+          "gram": "definite article (pl)"
         },
         {
           "t": "réunir!",
@@ -912,7 +1008,7 @@
           "pos": "verb",
           "stress": "ʁeyniʁ",
           "gloss": "to gather",
-          "gram": "form of réunir"
+          "gram": "infinitive"
         }
       ]
     },
@@ -926,7 +1022,7 @@
           "pos": "adv",
           "stress": "apʁɛ",
           "gloss": "after",
-          "gram": "form of après"
+          "gram": "adverb"
         },
         {
           "t": "les",
@@ -934,7 +1030,7 @@
           "pos": "det",
           "stress": "lə",
           "gloss": "the; him",
-          "gram": "form of le"
+          "gram": "definite article (pl)"
         },
         {
           "t": "cadeaux,",
@@ -942,7 +1038,7 @@
           "pos": "noun",
           "stress": "kado",
           "gloss": "present",
-          "gram": "form of cadeau"
+          "gram": "masculine plural"
         },
         {
           "t": "je",
@@ -950,7 +1046,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "form of je"
+          "gram": "1st sg subject pronoun"
         },
         {
           "t": "rentre",
@@ -958,7 +1054,7 @@
           "pos": "verb",
           "stress": "ʁɑ̃tʁe",
           "gloss": "to go home",
-          "gram": "form of rentrer"
+          "gram": "1st/3rd sg present indicative"
         },
         {
           "t": "directement.",
@@ -966,7 +1062,7 @@
           "pos": "adv",
           "stress": "diʁɛktəmɑ̃",
           "gloss": "directly",
-          "gram": "form of directement"
+          "gram": "manner adverb"
         }
       ]
     },
@@ -975,12 +1071,20 @@
       "trans": "FIXME translation",
       "words": [
         {
-          "t": "C'est",
+          "t": "C'",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "indefinite determiner"
+        },
+        {
+          "t": "est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "stress": "ɛtʁ",
+          "gloss": "to be",
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "pas",
@@ -988,7 +1092,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "form of pas"
+          "gram": "negative particle"
         },
         {
           "t": "ton",
@@ -996,7 +1100,7 @@
           "pos": "det",
           "stress": "tɔ̃",
           "gloss": "your (informal)",
-          "gram": "form of ton"
+          "gram": "possessive determiner (sg)"
         },
         {
           "t": "texte,",
@@ -1004,15 +1108,15 @@
           "pos": "noun",
           "stress": "tɛkst",
           "gloss": "text; lines (of a play or film)",
-          "gram": "form of texte"
+          "gram": "masculine singular"
         },
         {
           "t": "Lolita.",
           "lemma": "lolita",
           "pos": "name",
-          "stress": "",
+          "stress": null,
           "gloss": "Lolita (name)",
-          "gram": "form of Lolita"
+          "gram": "proper noun"
         }
       ]
     },
@@ -1021,12 +1125,20 @@
       "trans": "FIXME translation",
       "words": [
         {
-          "t": "C'est:",
+          "t": "C'",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "indefinite determiner"
+        },
+        {
+          "t": "est:",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "stress": "ɛtʁ",
+          "gloss": "to be",
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "Rentre",
@@ -1034,15 +1146,23 @@
           "pos": "verb",
           "stress": "ʁɑ̃tʁe",
           "gloss": "to go home",
-          "gram": "form of rentrer"
+          "gram": "1st/3rd sg present indicative"
         },
         {
-          "t": "t'occuper",
+          "t": "t'",
+          "lemma": "te",
+          "pos": "pron",
+          "stress": "tə",
+          "gloss": "you",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "occuper",
           "lemma": "occuper",
           "pos": "verb",
-          "stress": "təɔkype",
-          "gloss": "you to occupy; to take care of",
-          "gram": "t': form of te + occuper: form of occuper"
+          "stress": "ɔkype",
+          "gloss": "to occupy; to take care of",
+          "gram": "infinitive"
         },
         {
           "t": "de",
@@ -1050,7 +1170,7 @@
           "pos": "prep",
           "stress": "də",
           "gloss": "of",
-          "gram": "form of de"
+          "gram": "preposition"
         },
         {
           "t": "ma",
@@ -1058,7 +1178,7 @@
           "pos": "det",
           "stress": "mɔ̃",
           "gloss": "my",
-          "gram": "form of mon"
+          "gram": "possessive determiner (f sg)"
         },
         {
           "t": "féline.",
@@ -1066,7 +1186,7 @@
           "pos": "adj",
           "stress": "felɛ̃",
           "gloss": "feline",
-          "gram": "form of félin"
+          "gram": "feminine singular"
         }
       ]
     },
@@ -1080,15 +1200,23 @@
           "pos": "conj",
           "stress": "mɛ",
           "gloss": "but",
-          "gram": "form of mais"
+          "gram": "coordinating conjunction"
         },
         {
-          "t": "c'est",
+          "t": "c'",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "indefinite determiner"
+        },
+        {
+          "t": "est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "stress": "ɛtʁ",
+          "gloss": "to be",
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "quoi",
@@ -1096,7 +1224,7 @@
           "pos": "pron",
           "stress": "kwa",
           "gloss": "what",
-          "gram": "form of quoi"
+          "gram": "relative / interrogative pronoun"
         },
         {
           "t": "cette",
@@ -1104,7 +1232,7 @@
           "pos": "det",
           "stress": "sə",
           "gloss": "this",
-          "gram": "form of ce"
+          "gram": "demonstrative determiner (f sg)"
         },
         {
           "t": "réplique?",
@@ -1112,7 +1240,7 @@
           "pos": "noun",
           "stress": "ʁeplik",
           "gloss": "line (of dialogue); reply",
-          "gram": "form of réplique"
+          "gram": "feminine singular"
         }
       ]
     },
@@ -1121,12 +1249,20 @@
       "trans": "FIXME translation",
       "words": [
         {
-          "t": "C'est",
+          "t": "C'",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "indefinite determiner"
+        },
+        {
+          "t": "est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "stress": "ɛtʁ",
+          "gloss": "to be",
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "un",
@@ -1134,7 +1270,7 @@
           "pos": "det",
           "stress": "œ̃",
           "gloss": "a",
-          "gram": "form of un"
+          "gram": "indefinite article (m sg)"
         },
         {
           "t": "film",
@@ -1142,7 +1278,7 @@
           "pos": "noun",
           "stress": "film",
           "gloss": "movie, film",
-          "gram": "form of film"
+          "gram": "masculine singular"
         },
         {
           "t": "pour",
@@ -1150,7 +1286,7 @@
           "pos": "prep",
           "stress": "puʁ",
           "gloss": "for; (in order) to",
-          "gram": "form of pour"
+          "gram": "preposition"
         },
         {
           "t": "enfants.",
@@ -1158,7 +1294,7 @@
           "pos": "noun",
           "stress": "ɑ̃fɑ̃",
           "gloss": "child",
-          "gram": "form of enfant"
+          "gram": "masculine plural"
         }
       ]
     },
@@ -1172,7 +1308,7 @@
           "pos": "conj",
           "stress": "mɛ",
           "gloss": "but",
-          "gram": "form of mais"
+          "gram": "coordinating conjunction"
         },
         {
           "t": "il",
@@ -1180,7 +1316,7 @@
           "pos": "pron",
           "stress": "il",
           "gloss": "he; it",
-          "gram": "form of il"
+          "gram": "3rd sg subject pronoun"
         },
         {
           "t": "fait",
@@ -1188,7 +1324,7 @@
           "pos": "verb",
           "stress": "fɛʁ",
           "gloss": "to do",
-          "gram": "form of faire"
+          "gram": "imperfect indicative / conditional"
         },
         {
           "t": "40",
@@ -1196,7 +1332,7 @@
           "pos": "num",
           "stress": "kaʁɑ̃t",
           "gloss": "forty",
-          "gram": "form of quarante"
+          "gram": "cardinal numeral"
         },
         {
           "t": "degrés",
@@ -1204,7 +1340,7 @@
           "pos": "noun",
           "stress": "dəɡʁe",
           "gloss": "degree",
-          "gram": "form of degré"
+          "gram": "masculine plural"
         },
         {
           "t": "ici!",
@@ -1212,7 +1348,7 @@
           "pos": "adv",
           "stress": "isi",
           "gloss": "here",
-          "gram": "form of ici"
+          "gram": "place adverb"
         }
       ]
     },
@@ -1226,7 +1362,7 @@
           "pos": "pron",
           "stress": "ɔ̃",
           "gloss": "we; one",
-          "gram": "form of on"
+          "gram": "3rd sg subject pronoun"
         },
         {
           "t": "reprend",
@@ -1234,7 +1370,7 @@
           "pos": "verb",
           "stress": "ʁəpʁɑ̃dʁ",
           "gloss": "to take back; to start again",
-          "gram": "form of reprendre"
+          "gram": "1st/3rd sg present indicative"
         },
         {
           "t": "à",
@@ -1242,7 +1378,7 @@
           "pos": "prep",
           "stress": "a",
           "gloss": "at",
-          "gram": "form of à"
+          "gram": "preposition"
         },
         {
           "t": "la",
@@ -1250,7 +1386,7 @@
           "pos": "det",
           "stress": "lə",
           "gloss": "the; him",
-          "gram": "form of le"
+          "gram": "definite article (f sg)"
         },
         {
           "t": "tournée.",
@@ -1258,7 +1394,7 @@
           "pos": "noun",
           "stress": "tuʁne",
           "gloss": "theatrical tour",
-          "gram": "form of tournée"
+          "gram": "feminine singular"
         }
       ]
     },
@@ -1272,7 +1408,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "form of je"
+          "gram": "1st sg subject pronoun"
         },
         {
           "t": "ne",
@@ -1280,7 +1416,7 @@
           "pos": "part",
           "stress": "nə",
           "gloss": "not (first part)",
-          "gram": "form of ne"
+          "gram": "negative particle"
         },
         {
           "t": "peux",
@@ -1288,7 +1424,7 @@
           "pos": "verb",
           "stress": "puvwaʁ",
           "gloss": "can",
-          "gram": "form of pouvoir"
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "pas",
@@ -1296,7 +1432,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "form of pas"
+          "gram": "negative particle"
         },
         {
           "t": "jouer",
@@ -1304,7 +1440,7 @@
           "pos": "verb",
           "stress": "ʒwe",
           "gloss": "to play",
-          "gram": "form of jouer"
+          "gram": "infinitive"
         },
         {
           "t": "ainsi.",
@@ -1312,7 +1448,7 @@
           "pos": "adv",
           "stress": "ɛ̃si",
           "gloss": "thus",
-          "gram": "form of ainsi"
+          "gram": "adverb"
         }
       ]
     },
@@ -1321,12 +1457,20 @@
       "trans": "FIXME translation",
       "words": [
         {
-          "t": "J'en",
-          "lemma": "en",
+          "t": "J'",
+          "lemma": "je",
           "pos": "pron",
-          "stress": "ʒɑ̃",
-          "gloss": "of it",
-          "gram": "je + en: adverbial pronoun, 'of it'"
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in; (pronoun) of it",
+          "gram": "preposition"
         },
         {
           "t": "ai",
@@ -1334,7 +1478,7 @@
           "pos": "verb",
           "stress": "avwaʁ",
           "gloss": "to have",
-          "gram": "form of avoir"
+          "gram": "past participle"
         },
         {
           "t": "marre!",
@@ -1342,7 +1486,7 @@
           "pos": "adv",
           "stress": "maʁ",
           "gloss": "fed up",
-          "gram": "form of marre"
+          "gram": "adverb"
         },
         {
           "t": "Assez!",
@@ -1350,7 +1494,7 @@
           "pos": "adv",
           "stress": "ase",
           "gloss": "enough; quite",
-          "gram": "form of assez"
+          "gram": "degree adverb"
         }
       ]
     },
@@ -1364,7 +1508,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "form of je"
+          "gram": "1st sg subject pronoun"
         },
         {
           "t": "sais,",
@@ -1372,7 +1516,7 @@
           "pos": "verb",
           "stress": "savwaʁ",
           "gloss": "to know; to know how to",
-          "gram": "form of savoir"
+          "gram": "imperfect indicative / conditional"
         },
         {
           "t": "tu",
@@ -1380,7 +1524,7 @@
           "pos": "pron",
           "stress": "ty",
           "gloss": "you (informal)",
-          "gram": "form of tu"
+          "gram": "2nd sg subject pronoun"
         },
         {
           "t": "es",
@@ -1388,7 +1532,7 @@
           "pos": "verb",
           "stress": "ɛtʁ",
           "gloss": "to be",
-          "gram": "form of être"
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "débordée.",
@@ -1396,7 +1540,7 @@
           "pos": "adj",
           "stress": "debɔʁde",
           "gloss": "overwhelmed",
-          "gram": "form of débordé"
+          "gram": "feminine singular"
         }
       ]
     },
@@ -1410,23 +1554,31 @@
           "pos": "conj",
           "stress": "mɛ",
           "gloss": "but",
-          "gram": "form of mais"
+          "gram": "coordinating conjunction"
         },
         {
-          "t": "j'ai",
+          "t": "j'",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "ʒe",
-          "gloss": "I have",
-          "gram": "je + ai: 1sg subject pronoun + present 1sg"
+          "stress": "avwaʁ",
+          "gloss": "to have",
+          "gram": "past participle"
         },
         {
           "t": "organisé",
           "lemma": "organiser",
           "pos": "verb",
-          "stress": "ɔʁ.ɡa.ni.ze",
+          "stress": "ɔʁɡanize",
           "gloss": "to organize",
-          "gram": "form of organiser"
+          "gram": "past participle"
         },
         {
           "t": "cette",
@@ -1434,7 +1586,7 @@
           "pos": "det",
           "stress": "sə",
           "gloss": "this",
-          "gram": "form of ce"
+          "gram": "demonstrative determiner (f sg)"
         },
         {
           "t": "fête!",
@@ -1442,7 +1594,7 @@
           "pos": "noun",
           "stress": "fɛt",
           "gloss": "party; celebration",
-          "gram": "form of fête"
+          "gram": "feminine singular"
         }
       ]
     },
@@ -1456,15 +1608,23 @@
           "pos": "pron",
           "stress": "ty",
           "gloss": "you (informal)",
-          "gram": "form of tu"
+          "gram": "2nd sg subject pronoun"
         },
         {
-          "t": "n'es",
+          "t": "n'",
+          "lemma": "ne",
+          "pos": "part",
+          "stress": "nə",
+          "gloss": "not (first part)",
+          "gram": "negative particle"
+        },
+        {
+          "t": "es",
           "lemma": "être",
           "pos": "verb",
-          "stress": "nɛ",
-          "gloss": "are (not)",
-          "gram": "ne (elided n') + es: present, 2nd person singular"
+          "stress": "ɛtʁ",
+          "gloss": "to be",
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "pas",
@@ -1472,7 +1632,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "form of pas"
+          "gram": "negative particle"
         },
         {
           "t": "la",
@@ -1480,7 +1640,7 @@
           "pos": "det",
           "stress": "lə",
           "gloss": "the; him",
-          "gram": "form of le"
+          "gram": "definite article (f sg)"
         },
         {
           "t": "seule.",
@@ -1488,7 +1648,7 @@
           "pos": "adj",
           "stress": "sœl",
           "gloss": "alone",
-          "gram": "form of seul"
+          "gram": "feminine singular"
         }
       ]
     },
@@ -1500,9 +1660,9 @@
           "t": "Blanche-Neige",
           "lemma": "blanche-neige",
           "pos": "name",
-          "stress": "",
+          "stress": null,
           "gloss": "Snow White",
-          "gram": "form of Blanche-Neige"
+          "gram": "proper noun"
         },
         {
           "t": "travaille",
@@ -1510,7 +1670,7 @@
           "pos": "verb",
           "stress": "tʁavaje",
           "gloss": "to work",
-          "gram": "form of travailler"
+          "gram": "1st/3rd sg present indicative"
         },
         {
           "t": "dur,",
@@ -1518,7 +1678,7 @@
           "pos": "adj",
           "stress": "dyʁ",
           "gloss": "hard",
-          "gram": "form of dur"
+          "gram": "masculine singular"
         },
         {
           "t": "tu",
@@ -1526,7 +1686,7 @@
           "pos": "pron",
           "stress": "ty",
           "gloss": "you (informal)",
-          "gram": "form of tu"
+          "gram": "2nd sg subject pronoun"
         },
         {
           "t": "sais?",
@@ -1534,7 +1694,7 @@
           "pos": "verb",
           "stress": "savwaʁ",
           "gloss": "to know; to know how to",
-          "gram": "form of savoir"
+          "gram": "imperfect indicative / conditional"
         }
       ]
     },
@@ -1543,12 +1703,20 @@
       "trans": "FIXME translation",
       "words": [
         {
-          "t": "C'est",
+          "t": "C'",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "indefinite determiner"
+        },
+        {
+          "t": "est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "stress": "ɛtʁ",
+          "gloss": "to be",
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "pas",
@@ -1556,7 +1724,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "form of pas"
+          "gram": "negative particle"
         },
         {
           "t": "facile",
@@ -1564,7 +1732,7 @@
           "pos": "adj",
           "stress": "fasil",
           "gloss": "easy",
-          "gram": "form of facile"
+          "gram": "masculine singular"
         },
         {
           "t": "de",
@@ -1572,7 +1740,7 @@
           "pos": "prep",
           "stress": "də",
           "gloss": "of",
-          "gram": "form of de"
+          "gram": "preposition"
         },
         {
           "t": "les",
@@ -1580,7 +1748,7 @@
           "pos": "det",
           "stress": "lə",
           "gloss": "the; him",
-          "gram": "form of le"
+          "gram": "definite article (pl)"
         },
         {
           "t": "réunir!",
@@ -1588,7 +1756,7 @@
           "pos": "verb",
           "stress": "ʁeyniʁ",
           "gloss": "to gather",
-          "gram": "form of réunir"
+          "gram": "infinitive"
         }
       ]
     },
@@ -1602,7 +1770,7 @@
           "pos": "adv",
           "stress": "apʁɛ",
           "gloss": "after",
-          "gram": "form of après"
+          "gram": "adverb"
         },
         {
           "t": "les",
@@ -1610,7 +1778,7 @@
           "pos": "det",
           "stress": "lə",
           "gloss": "the; him",
-          "gram": "form of le"
+          "gram": "definite article (pl)"
         },
         {
           "t": "cadeaux,",
@@ -1618,7 +1786,7 @@
           "pos": "noun",
           "stress": "kado",
           "gloss": "present",
-          "gram": "form of cadeau"
+          "gram": "masculine plural"
         },
         {
           "t": "je",
@@ -1626,7 +1794,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "form of je"
+          "gram": "1st sg subject pronoun"
         },
         {
           "t": "rentre",
@@ -1634,7 +1802,7 @@
           "pos": "verb",
           "stress": "ʁɑ̃tʁe",
           "gloss": "to go home",
-          "gram": "form of rentrer"
+          "gram": "1st/3rd sg present indicative"
         },
         {
           "t": "directement.",
@@ -1642,7 +1810,7 @@
           "pos": "adv",
           "stress": "diʁɛktəmɑ̃",
           "gloss": "directly",
-          "gram": "form of directement"
+          "gram": "manner adverb"
         }
       ]
     },
@@ -1651,12 +1819,20 @@
       "trans": "FIXME translation",
       "words": [
         {
-          "t": "C'est",
+          "t": "C'",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "indefinite determiner"
+        },
+        {
+          "t": "est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "stress": "ɛtʁ",
+          "gloss": "to be",
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "pas",
@@ -1664,7 +1840,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "form of pas"
+          "gram": "negative particle"
         },
         {
           "t": "ton",
@@ -1672,7 +1848,7 @@
           "pos": "det",
           "stress": "tɔ̃",
           "gloss": "your (informal)",
-          "gram": "form of ton"
+          "gram": "possessive determiner (sg)"
         },
         {
           "t": "texte,",
@@ -1680,15 +1856,15 @@
           "pos": "noun",
           "stress": "tɛkst",
           "gloss": "text; lines (of a play or film)",
-          "gram": "form of texte"
+          "gram": "masculine singular"
         },
         {
           "t": "Lolita.",
           "lemma": "lolita",
           "pos": "name",
-          "stress": "",
+          "stress": null,
           "gloss": "Lolita (name)",
-          "gram": "form of Lolita"
+          "gram": "proper noun"
         }
       ]
     },
@@ -1697,12 +1873,20 @@
       "trans": "FIXME translation",
       "words": [
         {
-          "t": "C'est:",
+          "t": "C'",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "indefinite determiner"
+        },
+        {
+          "t": "est:",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "stress": "ɛtʁ",
+          "gloss": "to be",
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "Rentre",
@@ -1710,15 +1894,23 @@
           "pos": "verb",
           "stress": "ʁɑ̃tʁe",
           "gloss": "to go home",
-          "gram": "form of rentrer"
+          "gram": "1st/3rd sg present indicative"
         },
         {
-          "t": "t'occuper",
+          "t": "t'",
+          "lemma": "te",
+          "pos": "pron",
+          "stress": "tə",
+          "gloss": "you",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "occuper",
           "lemma": "occuper",
           "pos": "verb",
-          "stress": "təɔkype",
-          "gloss": "you to occupy; to take care of",
-          "gram": "t': form of te + occuper: form of occuper"
+          "stress": "ɔkype",
+          "gloss": "to occupy; to take care of",
+          "gram": "infinitive"
         },
         {
           "t": "de",
@@ -1726,7 +1918,7 @@
           "pos": "prep",
           "stress": "də",
           "gloss": "of",
-          "gram": "form of de"
+          "gram": "preposition"
         },
         {
           "t": "ma",
@@ -1734,7 +1926,7 @@
           "pos": "det",
           "stress": "mɔ̃",
           "gloss": "my",
-          "gram": "form of mon"
+          "gram": "possessive determiner (f sg)"
         },
         {
           "t": "féline.",
@@ -1742,7 +1934,7 @@
           "pos": "adj",
           "stress": "felɛ̃",
           "gloss": "feline",
-          "gram": "form of félin"
+          "gram": "feminine singular"
         }
       ]
     },
@@ -1756,15 +1948,23 @@
           "pos": "conj",
           "stress": "mɛ",
           "gloss": "but",
-          "gram": "form of mais"
+          "gram": "coordinating conjunction"
         },
         {
-          "t": "c'est",
+          "t": "c'",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "indefinite determiner"
+        },
+        {
+          "t": "est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "stress": "ɛtʁ",
+          "gloss": "to be",
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "quoi",
@@ -1772,7 +1972,7 @@
           "pos": "pron",
           "stress": "kwa",
           "gloss": "what",
-          "gram": "form of quoi"
+          "gram": "relative / interrogative pronoun"
         },
         {
           "t": "cette",
@@ -1780,7 +1980,7 @@
           "pos": "det",
           "stress": "sə",
           "gloss": "this",
-          "gram": "form of ce"
+          "gram": "demonstrative determiner (f sg)"
         },
         {
           "t": "réplique?",
@@ -1788,7 +1988,7 @@
           "pos": "noun",
           "stress": "ʁeplik",
           "gloss": "line (of dialogue); reply",
-          "gram": "form of réplique"
+          "gram": "feminine singular"
         }
       ]
     },
@@ -1797,12 +1997,20 @@
       "trans": "FIXME translation",
       "words": [
         {
-          "t": "C'est",
+          "t": "C'",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "indefinite determiner"
+        },
+        {
+          "t": "est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "stress": "ɛtʁ",
+          "gloss": "to be",
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "un",
@@ -1810,7 +2018,7 @@
           "pos": "det",
           "stress": "œ̃",
           "gloss": "a",
-          "gram": "form of un"
+          "gram": "indefinite article (m sg)"
         },
         {
           "t": "film",
@@ -1818,7 +2026,7 @@
           "pos": "noun",
           "stress": "film",
           "gloss": "movie, film",
-          "gram": "form of film"
+          "gram": "masculine singular"
         },
         {
           "t": "pour",
@@ -1826,7 +2034,7 @@
           "pos": "prep",
           "stress": "puʁ",
           "gloss": "for; (in order) to",
-          "gram": "form of pour"
+          "gram": "preposition"
         },
         {
           "t": "enfants.",
@@ -1834,7 +2042,7 @@
           "pos": "noun",
           "stress": "ɑ̃fɑ̃",
           "gloss": "child",
-          "gram": "form of enfant"
+          "gram": "masculine plural"
         }
       ]
     },
@@ -1848,7 +2056,7 @@
           "pos": "conj",
           "stress": "mɛ",
           "gloss": "but",
-          "gram": "form of mais"
+          "gram": "coordinating conjunction"
         },
         {
           "t": "il",
@@ -1856,7 +2064,7 @@
           "pos": "pron",
           "stress": "il",
           "gloss": "he; it",
-          "gram": "form of il"
+          "gram": "3rd sg subject pronoun"
         },
         {
           "t": "fait",
@@ -1864,7 +2072,7 @@
           "pos": "verb",
           "stress": "fɛʁ",
           "gloss": "to do",
-          "gram": "form of faire"
+          "gram": "imperfect indicative / conditional"
         },
         {
           "t": "40",
@@ -1872,7 +2080,7 @@
           "pos": "num",
           "stress": "kaʁɑ̃t",
           "gloss": "forty",
-          "gram": "form of quarante"
+          "gram": "cardinal numeral"
         },
         {
           "t": "degrés",
@@ -1880,7 +2088,7 @@
           "pos": "noun",
           "stress": "dəɡʁe",
           "gloss": "degree",
-          "gram": "form of degré"
+          "gram": "masculine plural"
         },
         {
           "t": "ici!",
@@ -1888,7 +2096,7 @@
           "pos": "adv",
           "stress": "isi",
           "gloss": "here",
-          "gram": "form of ici"
+          "gram": "place adverb"
         }
       ]
     },
@@ -1902,7 +2110,7 @@
           "pos": "pron",
           "stress": "ɔ̃",
           "gloss": "we; one",
-          "gram": "form of on"
+          "gram": "3rd sg subject pronoun"
         },
         {
           "t": "reprend",
@@ -1910,7 +2118,7 @@
           "pos": "verb",
           "stress": "ʁəpʁɑ̃dʁ",
           "gloss": "to take back; to start again",
-          "gram": "form of reprendre"
+          "gram": "1st/3rd sg present indicative"
         },
         {
           "t": "à",
@@ -1918,7 +2126,7 @@
           "pos": "prep",
           "stress": "a",
           "gloss": "at",
-          "gram": "form of à"
+          "gram": "preposition"
         },
         {
           "t": "la",
@@ -1926,7 +2134,7 @@
           "pos": "det",
           "stress": "lə",
           "gloss": "the; him",
-          "gram": "form of le"
+          "gram": "definite article (f sg)"
         },
         {
           "t": "tournée.",
@@ -1934,7 +2142,7 @@
           "pos": "noun",
           "stress": "tuʁne",
           "gloss": "theatrical tour",
-          "gram": "form of tournée"
+          "gram": "feminine singular"
         }
       ]
     },
@@ -1948,7 +2156,7 @@
           "pos": "pron",
           "stress": "ʒə",
           "gloss": "I",
-          "gram": "form of je"
+          "gram": "1st sg subject pronoun"
         },
         {
           "t": "ne",
@@ -1956,7 +2164,7 @@
           "pos": "part",
           "stress": "nə",
           "gloss": "not (first part)",
-          "gram": "form of ne"
+          "gram": "negative particle"
         },
         {
           "t": "peux",
@@ -1964,7 +2172,7 @@
           "pos": "verb",
           "stress": "puvwaʁ",
           "gloss": "can",
-          "gram": "form of pouvoir"
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "pas",
@@ -1972,7 +2180,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "form of pas"
+          "gram": "negative particle"
         },
         {
           "t": "jouer",
@@ -1980,7 +2188,7 @@
           "pos": "verb",
           "stress": "ʒwe",
           "gloss": "to play",
-          "gram": "form of jouer"
+          "gram": "infinitive"
         },
         {
           "t": "ainsi.",
@@ -1988,7 +2196,7 @@
           "pos": "adv",
           "stress": "ɛ̃si",
           "gloss": "thus",
-          "gram": "form of ainsi"
+          "gram": "adverb"
         }
       ]
     },
@@ -1997,12 +2205,20 @@
       "trans": "FIXME translation",
       "words": [
         {
-          "t": "J'en",
-          "lemma": "en",
+          "t": "J'",
+          "lemma": "je",
           "pos": "pron",
-          "stress": "ʒɑ̃",
-          "gloss": "of it",
-          "gram": "je + en: adverbial pronoun, 'of it'"
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in; (pronoun) of it",
+          "gram": "preposition"
         },
         {
           "t": "ai",
@@ -2010,7 +2226,7 @@
           "pos": "verb",
           "stress": "avwaʁ",
           "gloss": "to have",
-          "gram": "form of avoir"
+          "gram": "past participle"
         },
         {
           "t": "marre!",
@@ -2018,7 +2234,7 @@
           "pos": "adv",
           "stress": "maʁ",
           "gloss": "fed up",
-          "gram": "form of marre"
+          "gram": "adverb"
         },
         {
           "t": "Assez!",
@@ -2026,7 +2242,7 @@
           "pos": "adv",
           "stress": "ase",
           "gloss": "enough; quite",
-          "gram": "form of assez"
+          "gram": "degree adverb"
         }
       ]
     },
@@ -2035,12 +2251,20 @@
       "trans": "FIXME translation",
       "words": [
         {
-          "t": "C'est",
+          "t": "C'",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "indefinite determiner"
+        },
+        {
+          "t": "est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "stress": "ɛtʁ",
+          "gloss": "to be",
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "un",
@@ -2048,7 +2272,7 @@
           "pos": "det",
           "stress": "œ̃",
           "gloss": "a",
-          "gram": "form of un"
+          "gram": "indefinite article (m sg)"
         },
         {
           "t": "véritable",
@@ -2056,7 +2280,7 @@
           "pos": "adj",
           "stress": "veʁitabl",
           "gloss": "real",
-          "gram": "form of véritable"
+          "gram": "masculine singular"
         },
         {
           "t": "cauchemar.",
@@ -2064,7 +2288,7 @@
           "pos": "noun",
           "stress": "koʃmaʁ",
           "gloss": "nightmare",
-          "gram": "form of cauchemar"
+          "gram": "masculine singular"
         }
       ]
     }
@@ -2078,7 +2302,7 @@
       "meanings": [
         {
           "en": "thus, in this way, like this",
-          "note": "ainsi que = as well as"
+          "note": "Invariable French adverb meaning 'thus'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "forms": null,
@@ -2099,8 +2323,12 @@
       ],
       "related": [
         {
-          "word": "très ainsi",
-          "gloss": "related adverbial expression (thus)"
+          "word": "comme ça",
+          "gloss": "like this"
+        },
+        {
+          "word": "alors",
+          "gloss": "then, so"
         }
       ]
     },
@@ -2125,11 +2353,11 @@
       "meanings": [
         {
           "en": "afterwards, then",
-          "note": "adverb"
+          "note": "Invariable French adverb meaning 'afterwards'; placed immediately after the conjugated verb in simple tenses."
         },
         {
           "en": "after (preposition)",
-          "note": "après le déjeuner"
+          "note": "Invariable French adverb meaning 'after'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "moreForms": [],
@@ -2167,7 +2395,7 @@
         },
         {
           "en": "quite, rather",
-          "note": "assez bien"
+          "note": "Invariable French adverb meaning 'quite'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "moreForms": [],
@@ -2239,15 +2467,15 @@
         },
         {
           "en": "to be (an age)",
-          "note": "elle a quarante ans = she is forty"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'to be'; essential in everyday spoken and professional French."
         },
         {
           "en": "auxiliary for most past forms",
-          "note": "j'ai vécu = I lived"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'auxiliary for most past forms'; essential in everyday spoken and professional French."
         },
         {
           "en": "il y a = there is / there are",
-          "note": ""
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'il y a = there is'; essential in everyday spoken and professional French."
         }
       ],
       "moreForms": [
@@ -2380,8 +2608,12 @@
       "stress": "avwaʁ",
       "related": [
         {
-          "word": "avoir à voir",
-          "gloss": "to have to do with"
+          "word": "il y a",
+          "gloss": "there is, there are"
+        },
+        {
+          "word": "avoir besoin",
+          "gloss": "to need"
         }
       ]
     },
@@ -2432,8 +2664,8 @@
       "plural": "cadeaux",
       "related": [
         {
-          "word": "le/la cadeau",
-          "gloss": "the present (with article)"
+          "word": "un cadeau d'anniversaire",
+          "gloss": "a birthday present"
         }
       ]
     },
@@ -2445,7 +2677,7 @@
       "meanings": [
         {
           "en": "nightmare, distressing dream",
-          "note": "faire un cauchemar"
+          "note": "Masculine noun ('le cauchemar', plural 'les cauchemars') inherited through Romance vocabulary, used in everyday and professional French for 'nightmare'."
         }
       ],
       "forms": {
@@ -2484,8 +2716,8 @@
       "plural": "cauchemars",
       "related": [
         {
-          "word": "le/la cauchemar",
-          "gloss": "the nightmare (with article)"
+          "word": "un cauchemar / des cauchemars",
+          "gloss": "a nightmare / nightmares"
         }
       ]
     },
@@ -2543,7 +2775,16 @@
       "moreForms": [],
       "pos": "det",
       "stress": "sə",
-      "related": []
+      "related": [
+        {
+          "word": "cet",
+          "gloss": "this (before vowel)"
+        },
+        {
+          "word": "cette",
+          "gloss": "this (feminine)"
+        }
+      ]
     },
     "de": {
       "examples": [
@@ -2570,19 +2811,19 @@
         },
         {
           "en": "from",
-          "note": ""
+          "note": "Core French preposition meaning 'from', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "some, any (partitive)",
-          "note": "de la chance"
+          "note": "Core French preposition meaning 'some', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "after a negation: no",
-          "note": "pas de chance"
+          "note": "Core French preposition meaning 'after a negation: no', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "becomes d' before a vowel",
-          "note": ""
+          "note": "Core French preposition meaning 'becomes d' before a vowel', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "moreForms": [],
@@ -2609,17 +2850,17 @@
       "meanings": [
         {
           "en": "degree",
-          "note": "Standard masculine noun meaning 'degree'."
+          "note": "Masculine noun ('le degré', plural 'les degrés') inherited through Romance vocabulary, used in everyday and professional French for 'degree'."
         }
       ],
       "examples": [
         {
-          "text": "Mais il fait 40 degrés ici!",
-          "trans": "FIXME translation"
+          "text": "Il faut prendre cette blague au second degré.",
+          "trans": "You have to take this joke with a grain of irony."
         },
         {
-          "text": "On entend souvent le mot degré ici.",
-          "trans": "We often hear the word 'degree' here."
+          "text": "L'eau chauffe jusqu'à cent degrés.",
+          "trans": "The water heats up to a hundred degrees."
         }
       ],
       "forms": {
@@ -2642,8 +2883,8 @@
       "moreForms": [],
       "related": [
         {
-          "word": "le/la degré",
-          "gloss": "the degree (with article)"
+          "word": "diplôme",
+          "gloss": "degree"
         }
       ]
     },
@@ -2655,7 +2896,7 @@
       "meanings": [
         {
           "en": "directly, straight, in person",
-          "note": "Everyday French diʁɛktəmɑ̃ meaning 'directly, straight'."
+          "note": "Manner adverb formed by adding '-ment' (from Latin 'mente', 'with a ... mind') to the feminine adjective stem."
         }
       ],
       "forms": null,
@@ -2676,16 +2917,12 @@
       ],
       "related": [
         {
-          "word": "dire",
-          "gloss": "to say"
-        },
-        {
-          "word": "directeur",
-          "gloss": "manager"
-        },
-        {
           "word": "direct",
           "gloss": "direct"
+        },
+        {
+          "word": "direction",
+          "gloss": "direction"
         }
       ]
     },
@@ -2733,11 +2970,11 @@
       "meanings": [
         {
           "en": "hard",
-          "note": "physically hard, or hard to bear"
+          "note": "Descriptive French adjective meaning 'hard'; agrees in gender and number with the noun it modifies."
         },
         {
           "en": "difficult",
-          "note": "c'est dur = it's tough"
+          "note": "Descriptive French adjective meaning 'difficult'; agrees in gender and number with the noun it modifies."
         }
       ],
       "moreForms": [],
@@ -2745,8 +2982,8 @@
       "stress": "dyʁ",
       "related": [
         {
-          "word": "durement",
-          "gloss": "in a hard manner (adv.)"
+          "word": "plus dur",
+          "gloss": "more hard"
         }
       ]
     },
@@ -2833,7 +3070,7 @@
       "meanings": [
         {
           "en": "in",
-          "note": "preposition: en vacances, en huit ans"
+          "note": "Core French preposition meaning 'in', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "of it, of them",
@@ -2843,7 +3080,16 @@
       "moreForms": [],
       "pos": "prep",
       "stress": "ɑ̃",
-      "related": []
+      "related": [
+        {
+          "word": "dans",
+          "gloss": "in, inside"
+        },
+        {
+          "word": "en fait",
+          "gloss": "in fact"
+        }
+      ]
     },
     "enfant": {
       "examples": [
@@ -2883,11 +3129,11 @@
       "meanings": [
         {
           "en": "child",
-          "note": "un enfant / une enfant"
+          "note": "Masculine noun ('le enfant', plural 'les enfants') inherited through Romance vocabulary, used in everyday and professional French for 'child'."
         },
         {
           "en": "les enfants = (to adults) folks, everyone",
-          "note": "affectionate"
+          "note": "Masculine noun ('le enfant', plural 'les enfants') inherited through Romance vocabulary, used in everyday and professional French for 'les enfants = folks'."
         }
       ],
       "moreForms": [],
@@ -2953,8 +3199,8 @@
       "stress": "fasil",
       "related": [
         {
-          "word": "facilement",
-          "gloss": "in a easy manner (adv.)"
+          "word": "plus facile",
+          "gloss": "more easy"
         }
       ]
     },
@@ -3009,11 +3255,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "pour faire quoi? = to do what?"
+          "note": "Irregular third-group French verb inherited from core Latin roots, used across registers for 'to do'."
         },
         {
           "en": "to make",
-          "note": "faire un café"
+          "note": "Irregular third-group French verb inherited from core Latin roots, used across registers for 'to make'."
         },
         {
           "en": "to go (an activity)",
@@ -3143,12 +3389,12 @@
       "stress": "fɛʁ",
       "related": [
         {
-          "word": "faire attention",
-          "gloss": "to pay attention"
+          "word": "refaire",
+          "gloss": "to redo, make again"
         },
         {
-          "word": "refaire",
-          "gloss": "redo"
+          "word": "en fait",
+          "gloss": "in fact, actually"
         }
       ]
     },
@@ -3190,7 +3436,7 @@
       "meanings": [
         {
           "en": "film, movie",
-          "note": "Standard masculine noun meaning 'film, movie'."
+          "note": "Masculine noun ('le film', plural 'les films') inherited through Romance vocabulary, used in everyday and professional French for 'film'."
         }
       ],
       "moreForms": [],
@@ -3199,8 +3445,8 @@
       "stress": "film",
       "related": [
         {
-          "word": "le/la film",
-          "gloss": "the film (with article)"
+          "word": "un film / des films",
+          "gloss": "a film / films"
         }
       ]
     },
@@ -3212,7 +3458,7 @@
       "meanings": [
         {
           "en": "feline, cat-like",
-          "note": "Everyday French adj meaning 'feline, cat-like'."
+          "note": "Descriptive French adjective meaning 'feline'; agrees in gender and number with the noun it modifies."
         }
       ],
       "forms": {
@@ -3307,11 +3553,11 @@
       "meanings": [
         {
           "en": "party",
-          "note": "faire la fête = to party"
+          "note": "Feminine noun ('la fête', plural 'les fêtes') inherited through Romance vocabulary, used in everyday and professional French for 'party'."
         },
         {
           "en": "holiday, festival",
-          "note": ""
+          "note": "Feminine noun ('la fête', plural 'les fêtes') inherited through Romance vocabulary, used in everyday and professional French for 'holiday'."
         }
       ],
       "moreForms": [],
@@ -3346,7 +3592,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Everyday French adv meaning 'here'."
+          "note": "Invariable French adverb meaning 'here'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "moreForms": [],
@@ -3354,8 +3600,12 @@
       "stress": "isi",
       "related": [
         {
-          "word": "très ici",
-          "gloss": "related adverbial expression (here)"
+          "word": "là",
+          "gloss": "there, here"
+        },
+        {
+          "word": "par ici",
+          "gloss": "this way"
         }
       ]
     },
@@ -3384,17 +3634,26 @@
         },
         {
           "en": "it (impersonal)",
-          "note": "il faut, il y a"
+          "note": "High-frequency French pronoun meaning 'it'; clitic forms precede the conjugated verb."
         },
         {
           "en": "they (ils, masculine or mixed)",
-          "note": ""
+          "note": "High-frequency French pronoun meaning 'they'; clitic forms precede the conjugated verb."
         }
       ],
       "moreForms": [],
       "pos": "pron",
       "stress": "il",
-      "related": []
+      "related": [
+        {
+          "word": "ils",
+          "gloss": "they (m.)"
+        },
+        {
+          "word": "lui",
+          "gloss": "him, to him"
+        }
+      ]
     },
     "je": {
       "examples": [
@@ -3417,13 +3676,22 @@
       "meanings": [
         {
           "en": "I",
-          "note": "j' before a vowel"
+          "note": "High-frequency French pronoun meaning 'I'; clitic forms precede the conjugated verb."
         }
       ],
       "moreForms": [],
       "pos": "pron",
       "stress": "ʒə",
-      "related": []
+      "related": [
+        {
+          "word": "me",
+          "gloss": "me, myself"
+        },
+        {
+          "word": "moi",
+          "gloss": "me (stressed)"
+        }
+      ]
     },
     "jouer": {
       "examples": [
@@ -3476,15 +3744,15 @@
       "meanings": [
         {
           "en": "to play (a part)",
-          "note": "jouer un rôle, jouer le frère de..."
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to play'; conjugates with 'avoir' in compound tenses (past participle 'joué')."
         },
         {
           "en": "to act, to perform",
-          "note": "je joue dans un spectacle"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to act'; conjugates with 'avoir' in compound tenses (past participle 'joué')."
         },
         {
           "en": "to play (a game, music)",
-          "note": "jouer au foot, jouer du piano"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to play'; conjugates with 'avoir' in compound tenses (past participle 'joué')."
         }
       ],
       "moreForms": [
@@ -3639,7 +3907,7 @@
       "meanings": [
         {
           "en": "the (definite article)",
-          "note": "le, la, l', les"
+          "note": "Idiomatic French det expression meaning 'the', frequent in natural conversational dialogue."
         },
         {
           "en": "him, her, it, them (object pronoun)",
@@ -3649,7 +3917,16 @@
       "moreForms": [],
       "pos": "det",
       "stress": "lə",
-      "related": []
+      "related": [
+        {
+          "word": "la",
+          "gloss": "the (feminine)"
+        },
+        {
+          "word": "les",
+          "gloss": "the (plural)"
+        }
+      ]
     },
     "mais": {
       "examples": [
@@ -3672,11 +3949,11 @@
       "meanings": [
         {
           "en": "but",
-          "note": "mais oui! = of course!"
+          "note": "French conjunction meaning 'but', used to link clauses in spoken and written discourse."
         },
         {
           "en": "(emphasis)",
-          "note": "mais oui! = of course!"
+          "note": "French conjunction meaning '', used to link clauses in spoken and written discourse."
         }
       ],
       "moreForms": [],
@@ -3710,7 +3987,7 @@
       "meanings": [
         {
           "en": "en avoir marre (de) = to be fed up (with), to be sick of",
-          "note": "casual everyday idiom"
+          "note": "Invariable French adverb meaning 'en avoir marre = to be fed up'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "moreForms": [],
@@ -3718,8 +3995,12 @@
       "stress": "maʁ",
       "related": [
         {
-          "word": "très marre",
-          "gloss": "related adverbial expression (fed up)"
+          "word": "en avoir marre",
+          "gloss": "to be fed up"
+        },
+        {
+          "word": "se marrer",
+          "gloss": "to have a laugh"
         }
       ]
     },
@@ -3767,13 +4048,18 @@
       "meanings": [
         {
           "en": "my",
-          "note": "agrees with the thing owned"
+          "note": "Idiomatic French det expression meaning 'my', frequent in natural conversational dialogue."
         }
       ],
       "moreForms": [],
       "pos": "det",
       "stress": "mɔ̃",
-      "related": []
+      "related": [
+        {
+          "word": "mon",
+          "gloss": "my"
+        }
+      ]
     },
     "ne": {
       "examples": [
@@ -3800,7 +4086,7 @@
         },
         {
           "en": "becomes n' before a vowel",
-          "note": "ce n'est pas"
+          "note": "Idiomatic French part expression meaning 'becomes n' before a vowel', frequent in natural conversational dialogue."
         }
       ],
       "moreForms": [],
@@ -3868,11 +4154,11 @@
       "meanings": [
         {
           "en": "s'occuper de = to take care of, to deal with",
-          "note": "occupe-toi de... = take care of..."
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 's'occuper de = to take care of'; conjugates with 'avoir' in compound tenses (past participle 'occupé')."
         },
         {
           "en": "to occupy (a place or time)",
-          "note": ""
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to occupy'; conjugates with 'avoir' in compound tenses (past participle 'occupé')."
         }
       ],
       "moreForms": [
@@ -4028,13 +4314,22 @@
         },
         {
           "en": "one, people",
-          "note": "general"
+          "note": "High-frequency French pronoun meaning 'one'; clitic forms precede the conjugated verb."
         }
       ],
       "moreForms": [],
       "pos": "pron",
       "stress": "ɔ̃",
-      "related": []
+      "related": [
+        {
+          "word": "nous",
+          "gloss": "we, us"
+        },
+        {
+          "word": "tout le monde",
+          "gloss": "everyone"
+        }
+      ]
     },
     "organiser": {
       "examples": [
@@ -4087,7 +4382,7 @@
       "meanings": [
         {
           "en": "to organize, to arrange, to set up",
-          "note": "First-group '-er' verb (from Latin first conjugation '-are'), the most productive verb class in French. Core French verb meaning 'to organize, to set up'."
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to organize'; conjugates with 'avoir' in compound tenses (past participle 'organisé')."
         }
       ],
       "moreForms": [
@@ -4186,7 +4481,7 @@
         }
       ],
       "pos": "verb",
-      "stress": "ɔʁ.ɡa.ni.ze",
+      "stress": "ɔʁɡanize",
       "related": [
         {
           "word": "organisateur",
@@ -4215,25 +4510,30 @@
       "meanings": [
         {
           "en": "not",
-          "note": "with ne: ne ... pas"
+          "note": "Idiomatic French part expression meaning 'not', frequent in natural conversational dialogue."
         },
         {
           "en": "no (before a noun)",
-          "note": "pas de chance: no luck"
+          "note": "Idiomatic French part expression meaning 'no', frequent in natural conversational dialogue."
         },
         {
           "en": "pas du tout: not at all",
-          "note": ""
+          "note": "Idiomatic French part expression meaning 'pas du tout: not at all', frequent in natural conversational dialogue."
         },
         {
           "en": "step, pace, stride (masculine noun)",
-          "note": "invariable in plural: un pas, des pas"
+          "note": "Idiomatic French part expression meaning 'step', frequent in natural conversational dialogue."
         }
       ],
       "moreForms": [],
       "pos": "part",
       "stress": "pa",
-      "related": []
+      "related": [
+        {
+          "word": "pas",
+          "gloss": "not"
+        }
+      ]
     },
     "pour": {
       "examples": [
@@ -4260,7 +4560,7 @@
         },
         {
           "en": "to, in order to",
-          "note": "+ infinitive: pour voir"
+          "note": "Core French preposition meaning 'to', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "moreForms": [],
@@ -4332,11 +4632,11 @@
       "meanings": [
         {
           "en": "can, to be able to",
-          "note": "+ infinitive: tu peux commencer?"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'can'; essential in everyday spoken and professional French."
         },
         {
           "en": "may (permission)",
-          "note": "je peux t'appeler? = may I call you?"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'may'; essential in everyday spoken and professional French."
         },
         {
           "en": "to cope",
@@ -4442,8 +4742,12 @@
       "stress": "puvwaʁ",
       "related": [
         {
-          "word": "pouvez-vous",
-          "gloss": "can you"
+          "word": "possible",
+          "gloss": "possible"
+        },
+        {
+          "word": "puissant",
+          "gloss": "powerful"
         }
       ]
     },
@@ -4468,7 +4772,7 @@
       "meanings": [
         {
           "en": "forty",
-          "note": "quarante et un = forty-one"
+          "note": "Invariable French cardinal numeral meaning 'forty', used before plural nouns and in time/date expressions."
         }
       ],
       "moreForms": [],
@@ -4492,16 +4796,12 @@
     "quoi": {
       "examples": [
         {
-          "text": "Quoi?",
-          "trans": "What?"
+          "text": "Quoi, tu n'as toujours pas lu le nouveau scénario?",
+          "trans": "What, you still haven't read the new script?"
         },
         {
-          "text": "Tu fais quoi?",
-          "trans": "What are you doing?"
-        },
-        {
-          "text": "C'est quoi le rôle?",
-          "trans": "What's the part?"
+          "text": "De quoi est-ce que vous avez parlé pendant le déjeuner?",
+          "trans": "What did you talk about during lunch?"
         }
       ],
       "forms": null,
@@ -4514,14 +4814,23 @@
         },
         {
           "en": "what",
-          "note": "after a preposition: de quoi?"
+          "note": "High-frequency French pronoun meaning 'what'; clitic forms precede the conjugated verb."
         }
       ],
       "moreForms": [],
       "pos": "pron",
       "register": "informal",
       "stress": "kwa",
-      "related": []
+      "related": [
+        {
+          "word": "que",
+          "gloss": "what"
+        },
+        {
+          "word": "pourquoi",
+          "gloss": "why"
+        }
+      ]
     },
     "rentrer": {
       "examples": [
@@ -4574,11 +4883,11 @@
       "meanings": [
         {
           "en": "to go home, to get back",
-          "note": "passé composé with être"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to go home'; conjugates with 'avoir' in compound tenses (past participle 'rentré')."
         },
         {
           "en": "to go in, to come in",
-          "note": "informal for entrer"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to go in'; conjugates with 'avoir' in compound tenses (past participle 'rentré')."
         }
       ],
       "moreForms": [
@@ -4740,11 +5049,11 @@
       "meanings": [
         {
           "en": "to start again, to resume, to pick up",
-          "note": "les affaires reprennent"
+          "note": "Irregular third-group French verb inherited from core Latin roots, used across registers for 'to start again'."
         },
         {
           "en": "to take back, to have more of",
-          "note": ""
+          "note": "Irregular third-group French verb inherited from core Latin roots, used across registers for 'to take back'."
         }
       ],
       "moreForms": [
@@ -4917,7 +5226,7 @@
         },
         {
           "en": "retort, reply",
-          "note": ""
+          "note": "Feminine noun ('la réplique', plural 'les répliques') inherited through Romance vocabulary, used in everyday and professional French for 'retort'."
         }
       ],
       "moreForms": [],
@@ -4939,11 +5248,11 @@
       "meanings": [
         {
           "en": "to gather, assemble, unite",
-          "note": "reflexive"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'to gather'; essential in everyday spoken and professional French."
         },
         {
           "en": "se réunir = to meet, to convene",
-          "note": "reflexive"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'se reunir = to meet'; essential in everyday spoken and professional French."
         }
       ],
       "forms": {
@@ -5144,11 +5453,11 @@
       "meanings": [
         {
           "en": "to know (a fact)",
-          "note": "je ne sais pas = I don't know"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'to know'; essential in everyday spoken and professional French."
         },
         {
           "en": "to know how to, can",
-          "note": "+ infinitive: savoir monter"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'to know how to'; essential in everyday spoken and professional French."
         }
       ],
       "moreForms": [
@@ -5249,8 +5558,12 @@
       "pos": "verb",
       "related": [
         {
+          "word": "savant",
+          "gloss": "learned, scholar"
+        },
+        {
           "word": "connaître",
-          "gloss": "to know (a person, a place)"
+          "gloss": "to know, be familiar with"
         }
       ],
       "stress": "savwaʁ"
@@ -5299,11 +5612,11 @@
       "meanings": [
         {
           "en": "alone, on one's own",
-          "note": "after the verb"
+          "note": "Descriptive French adjective meaning 'alone'; agrees in gender and number with the noun it modifies."
         },
         {
           "en": "only, single",
-          "note": "before the noun: le seul agent"
+          "note": "Descriptive French adjective meaning 'only'; agrees in gender and number with the noun it modifies."
         }
       ],
       "moreForms": [],
@@ -5337,17 +5650,22 @@
       "meanings": [
         {
           "en": "you (object, informal)",
-          "note": "before the verb; t' before a vowel"
+          "note": "High-frequency French pronoun meaning 'you'; clitic forms precede the conjugated verb."
         },
         {
           "en": "yourself",
-          "note": "reflexive"
+          "note": "High-frequency French pronoun meaning 'yourself'; clitic forms precede the conjugated verb."
         }
       ],
       "moreForms": [],
       "pos": "pron",
       "stress": "tə",
-      "related": []
+      "related": [
+        {
+          "word": "te",
+          "gloss": "you"
+        }
+      ]
     },
     "texte": {
       "examples": [
@@ -5387,11 +5705,11 @@
       "meanings": [
         {
           "en": "text",
-          "note": "apprendre un texte = to learn lines"
+          "note": "Masculine noun ('le texte', plural 'les textes') inherited through Romance vocabulary, used in everyday and professional French for 'text'."
         },
         {
           "en": "lines, script (for an actor)",
-          "note": "apprendre un texte = to learn lines"
+          "note": "Masculine noun ('le texte', plural 'les textes') inherited through Romance vocabulary, used in everyday and professional French for 'lines'."
         }
       ],
       "moreForms": [],
@@ -5400,8 +5718,8 @@
       "stress": "tɛkst",
       "related": [
         {
-          "word": "le/la texte",
-          "gloss": "the text (with article)"
+          "word": "apprendre un texte",
+          "gloss": "to learn lines"
         }
       ]
     },
@@ -5449,13 +5767,22 @@
       "meanings": [
         {
           "en": "your",
-          "note": "informal, one owner; ton, ta, tes"
+          "note": "Idiomatic French det expression meaning 'your', frequent in natural conversational dialogue."
         }
       ],
       "moreForms": [],
       "pos": "det",
       "stress": "tɔ̃",
-      "related": []
+      "related": [
+        {
+          "word": "ta",
+          "gloss": "your (f.)"
+        },
+        {
+          "word": "tes",
+          "gloss": "your (pl.)"
+        }
+      ]
     },
     "tournée": {
       "lemma": "tournée",
@@ -5465,7 +5792,7 @@
       "meanings": [
         {
           "en": "theatrical tour, circuit, round",
-          "note": "Standard feminine noun meaning 'theatrical tour, circuit'."
+          "note": "Feminine noun ('la tournée', plural 'les tournées') inherited through Romance vocabulary, used in everyday and professional French for 'theatrical tour'."
         }
       ],
       "forms": {
@@ -5761,21 +6088,26 @@
       "meanings": [
         {
           "en": "a, an (indefinite article)",
-          "note": "feminine une"
+          "note": "Idiomatic French det expression meaning 'a', frequent in natural conversational dialogue."
         },
         {
           "en": "one (number)",
-          "note": "quarante et un = forty-one"
+          "note": "Idiomatic French det expression meaning 'one', frequent in natural conversational dialogue."
         },
         {
           "en": "un peu = a little",
-          "note": ""
+          "note": "Idiomatic French det expression meaning 'un peu = a little', frequent in natural conversational dialogue."
         }
       ],
       "moreForms": [],
       "pos": "det",
       "stress": "œ̃",
-      "related": []
+      "related": [
+        {
+          "word": "un",
+          "gloss": "a"
+        }
+      ]
     },
     "véritable": {
       "lemma": "véritable",
@@ -5863,21 +6195,30 @@
       "meanings": [
         {
           "en": "at, in",
-          "note": "place: à Paris, à mon cours"
+          "note": "Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "at",
-          "note": "time: à midi"
+          "note": "Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "au = à + le, aux = à + les",
-          "note": "contractions"
+          "note": "Core French preposition meaning 'au = a + le', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "moreForms": [],
       "pos": "prep",
       "stress": "a",
-      "related": []
+      "related": [
+        {
+          "word": "au",
+          "gloss": "to the, at the (m.)"
+        },
+        {
+          "word": "aux",
+          "gloss": "to the, at the (pl.)"
+        }
+      ]
     },
     "être": {
       "examples": [
@@ -5930,11 +6271,11 @@
       "meanings": [
         {
           "en": "to be",
-          "note": "the most common verb"
+          "note": "Irregular third-group French verb inherited from core Latin roots, used across registers for 'to be'."
         },
         {
           "en": "c'est = it is, this is",
-          "note": "ce + est"
+          "note": "Irregular third-group French verb inherited from core Latin roots, used across registers for 'c'est = it is'."
         }
       ],
       "moreForms": [
@@ -6091,8 +6432,12 @@
       "stress": "ɛtʁ",
       "related": [
         {
-          "word": "reêtre",
-          "gloss": "verb family relative (to be)"
+          "word": "c'est",
+          "gloss": "it is, this is"
+        },
+        {
+          "word": "peut-être",
+          "gloss": "maybe, perhaps"
         }
       ]
     }

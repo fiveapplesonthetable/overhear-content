@@ -11,29 +11,29 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Саша | Ой, Кристина, здравствуйте! | Oh, Kristina, hello! | #5 00:00:26: Ой, Кристина, здравствуйте. | adapted: adapted |
-| 2 | Аня | Что ещё за официальное здравствуйте? | What is with the formal hello? | #6 00:00:28: что за здравствуйте | adapted: adapted |
+| 2 | Кристина | Что ещё за официальное здравствуйте? | What is with the formal hello? | #6 00:00:28: что за здравствуйте | adapted: adapted |
 | 3 | Саша | Я не могу иначе, я на работе. | I cannot do otherwise, I am at work. | #7 00:00:31: Я не могу | adapted: adapted |
-| 4 | Аня | Я тебя прекрасно понимаю, подруга. | I understand you very well, friend. | #8 00:00:34: Я тебя прекрасно понимаю | adapted: adapted |
-| 5 | Аня | Я сама здесь целый год работала. | I worked here for a whole year myself. | #8 00:00:34: я сама здесь год | adapted: adapted |
+| 4 | Кристина | Я тебя прекрасно понимаю, подруга. | I understand you very well, friend. | #8 00:00:34: Я тебя прекрасно понимаю | adapted: adapted |
+| 5 | Кристина | Я сама здесь целый год работала. | I worked here for a whole year myself. | #8 00:00:34: я сама здесь год | adapted: adapted |
 | 6 | Саша | Привет, Кристина, ты отлично выглядишь! | Hi, Kristina, you look great! | #11 00:00:42: Привет, отлично выглядишь! | adapted: adapted |
-| 7 | Аня | Спасибо, моя хорошая! | Thank you, my dear! | #10 00:00:40: моя хорошая | adapted: adapted |
+| 7 | Кристина | Спасибо, моя хорошая! | Thank you, my dear! | #10 00:00:40: моя хорошая | adapted: adapted |
 | 8 | Саша | Ты когда вернулась домой в Москву? | When did you return home to Moscow? | #12 00:00:44: Ты когда вернулась? | adapted: adapted |
-| 9 | Аня | Позавчера, но тут мне очень скучно. | The day before yesterday, but I am very bored here. | #13 00:00:45: Позавчера | adapted: adapted |
-| 10 | Аня | Я думаю скоро улететь в Монако! | I am thinking of flying to Monaco soon! | #13 00:00:45: в Монако улететь | adapted: adapted |
+| 9 | Кристина | Позавчера, но тут мне очень скучно. | The day before yesterday, but I am very bored here. | #13 00:00:45: Позавчера | adapted: adapted |
+| 10 | Кристина | Я думаю скоро улететь в Монако! | I am thinking of flying to Monaco soon! | #13 00:00:45: в Монако улететь | adapted: adapted |
 | 11 | Дмитрий | Сейчас я проверю отчёты и поедем. | Now I will check the reports and we will go. | #15 00:00:51: отчеты проверю и поедем | adapted: adapted |
 | 12 | Дмитрий | Мы поедем в магазин и купим подарки! | We will go to the store and buy gifts! | #15 00:00:51: поедем в магазин | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, Kristina, hello!' -- The waitress greets the owner's wife with formal politeness.
-- 'What is with the formal hello?' -- Kristina asks her friend to speak casually with her.
-- 'I cannot do otherwise, I am at work.' -- She explains that rules apply during her shift.
-- 'I understand you very well, friend.' -- Kristina remembers how strict the manager can be.
-- 'I worked here for a whole year myself.' -- She recalls her own time as a hostess in the hall.
-- 'Hi, Kristina, you look great!' -- Sasha admires her stylish outfit and happy smile.
-- 'Thank you, my dear!' -- Kristina warmly thanks her former colleague for the compliment.
-- 'When did you return home to Moscow?' -- Sasha asks about the recent trip abroad.
-- 'The day before yesterday, but I am very bored here.' -- Kristina complains that city life feels dull to her.
-- 'I am thinking of flying to Monaco soon!' -- She shares her glamorous travel plans with the girls.
-- 'Now I will check the reports and we will go.' -- Dmitry promises to finish his paperwork quickly.
-- 'We will go to the store and buy gifts!' -- He invites his wife to go shopping with him.
+- 'Oh, Kristina, hello!' Russian omits the present-tense verb 'to be' here, linking 'oh' directly with 'hello' to make the point directly in conversation.
+- 'What is with the formal hello?' Russian omits the present-tense verb 'to be' here, linking 'else' directly with 'formal', followed by 'hello'.
+- 'I cannot do otherwise, I am at work.' Sasha chooses the imperfective verb meaning 'can' for the ongoing action, followed by 'otherwise' and 'work'.
+- 'I understand you very well, friend.' Kristina expresses this naturally by combining the word for 'very well' with 'understand' and 'female friend'.
+- 'I worked here for a whole year myself.' Kristina puts the word for 'here' together with 'whole' and 'year' in a crisp, natural spoken turn of phrase.
+- 'Hi, Kristina, you look great!' Here Sasha anchors the line on the word meaning 'hi' and builds the thought around 'great' and 'look'.
+- 'Thank you, my dear!' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'dear' to make the point directly in conversation.
+- 'When did you return home to Moscow?' Sasha expresses this naturally by combining the word for 'when' with 'returned' and 'home'.
+- 'The day before yesterday, but I am very bored here.' Russian omits the present-tense verb 'to be' here, linking 'the day before yesterday' directly with 'here', pairing it with 'very' and 'bored'.
+- 'I am thinking of flying to Monaco soon!' Kristina chooses the imperfective verb meaning 'am thinking' for the ongoing action, followed by 'soon' and 'to fly away'.
+- 'Now I will check the reports and we will go.' The phrasing opens with 'now' before bringing in 'will check' and 'reports' to make the point clear.
+- 'We will go to the store and buy gifts!' Nagiyev uses the perfective verb meaning 'will go' to focus on the single completed result, pairing it with 'store' and 'will buy'.

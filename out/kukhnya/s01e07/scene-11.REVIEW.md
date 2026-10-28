@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Нагиев | Ну-ка, попробуем ваш знаменитый фирменный соус. | Well, let's try your famous signature sauce. | #196 00:13:01: попробуем ваш хваленый соус | adapted: anticipating taste |
-| 2 | Аня | Этот соус — настоящее высокое кулинарное искусство. | This sauce is true high culinary art. | #196 00:13:01: хваленый соус | adapted: praising his dish |
+| 2 | Шеф | Этот соус — настоящее высокое кулинарное искусство. | This sauce is true high culinary art. | #196 00:13:01: хваленый соус | adapted: praising his dish |
 | 3 | Нагиев | Ой, свежий хлеб упал на пол. | Oh, the fresh bread fell on the floor. | #197 00:13:05: булка упала | adapted: dropping bread |
-| 4 | Аня | Сейчас мы быстро принесём вам новый хлеб. | Right now we will quickly bring you new bread. | #199 00:13:16: еще есть | adapted: offering replacement |
+| 4 | Шеф | Сейчас мы быстро принесём вам новый хлеб. | Right now we will quickly bring you new bread. | #199 00:13:16: еще есть | adapted: offering replacement |
 | 5 | Нагиев | Нет, я очень спешу на важную встречу. | No, I am in a big hurry for an important meeting. | #203 00:13:26: Я уезжаю | adapted: declining politely |
-| 6 | Аня | Но вы обязаны распробовать этот редкий шедевр! | But you must taste this rare masterpiece! | #205 00:13:29: Это надо попробовать | adapted: insisting on tasting |
+| 6 | Шеф | Но вы обязаны распробовать этот редкий шедевр! | But you must taste this rare masterpiece! | #205 00:13:29: Это надо попробовать | adapted: insisting on tasting |
 | 7 | Нагиев | Я вернусь ровно в семь часов вечера. | I will return at exactly seven o'clock tonight. | #207 00:13:34: Около семи | adapted: setting return time |
-| 8 | Аня | Мы приготовим самый лучший соус для вас. | We will prepare the very best sauce for you. | #201 00:13:21: нового наварим | adapted: promising perfection |
+| 8 | Шеф | Мы приготовим самый лучший соус для вас. | We will prepare the very best sauce for you. | #201 00:13:21: нового наварим | adapted: promising perfection |
 | 9 | Нагиев | Договорились, Виктор, не подведите меня сегодня вечером. | Agreed, Viktor, do not let me down tonight. | #208 00:13:36: Прелесть | adapted: setting expectations |
-| 10 | Аня | Шеф никогда не обманывает своих любимых гостей. | The Chef never deceives his favorite guests. | #208 00:13:36: Прелесть | adapted: assuring excellence |
+| 10 | Шеф | Шеф никогда не обманывает своих любимых гостей. | The Chef never deceives his favorite guests. | #208 00:13:36: Прелесть | adapted: assuring excellence |
 | 11 | Нагиев | Тогда до вечера, желаю вам отличной работы. | Until tonight then, I wish you great work. | #204 00:13:27: Тогда вечером | adapted: saying goodbye |
-| 12 | Аня | Ждём вас на кухне с большой радостью. | We await you in the kitchen with great joy. | #204 00:13:27: Тогда вечером | adapted: bidding farewell |
+| 12 | Шеф | Ждём вас на кухне с большой радостью. | We await you in the kitchen with great joy. | #204 00:13:27: Тогда вечером | adapted: bidding farewell |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

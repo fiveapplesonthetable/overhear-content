@@ -32,12 +32,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The power struggle will be very tough.' Mathias assesses the intense standoff. The compound noun 'epreuve de force' means showdown or trial of strength.
 - 'We must send our best negotiator.' Mathias emphasizes the stakes. The superlative 'notre meilleur negociateur' designates the top advocate.
 - 'That is why I must go.' Mathias volunteers himself as chief negotiator. The modal verb 'devoir' conveys duty.
-- 'Excuse me? Who decided this ranking?' Hicham challenges Mathias's claim. The masculine noun 'classement' denotes a hierarchy or ranking.
+- 'Excuse me? Who decided this ranking?' Hicham challenges Mathias's claim. In everyday spoken French, rising intonation on 'has' at the end is enough to turn the sentence into a question.
 - 'I have twenty years of legal experience.' Mathias lists his professional credentials. The adjective 'juridique' relates to law.
 - 'And I know perfectly well how to bluff.' Mathias boasts of negotiation prowess. The verb 'bluffer' means to bluff in negotiations or poker.
-- 'I built my fortune quickly.' Hicham asserts his business authority. The noun 'fortune' refers to wealth.
-- 'And I play poker every Tuesday.' Hicham cites his weekly card game. The noun 'poker' refers to the card game.
-- 'I am the one who will handle this producer.' Hicham claims the mission. The emphatic construction 'c'est moi qui' highlights the agent.
-- 'Very well, Hicham, go ahead then.' Andrea yields to Hicham's determination. The imperative 'vas-y' grants permission.
+- 'I built my fortune quickly.' Hicham asserts his business authority. This conversational past tense combines a helper verb with the past participle for 'built'.
+- 'And I play poker every Tuesday.' Hicham cites his weekly card game. Notice how 'play' leads directly into the noun meaning 'poker'.
+- 'I am the one who will handle this producer.' Hicham claims the mission. Notice how 'go' leads directly into the noun meaning 'producer'.
+- 'Very well, Hicham, go ahead then.' Andrea yields to Hicham's determination. The clause hinges on the everyday verb meaning 'go ahead'.
 - 'But let me brief you before leaving.' Mathias insists on providing tactical advice. The borrowed verb 'briefer' means to give instructions.
 - 'Agreed for a quick ten-minute briefing.' Hicham accepts the preparation time. The adjective 'rapide' modifies the brief.

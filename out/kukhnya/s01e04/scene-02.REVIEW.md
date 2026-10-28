@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Шеф | Елена, вы набираете поваров по объявлению? | Elena, are you hiring cooks through an ad? | #6 00:00:47: вы персонал по объявлению набираете | adapted: adapted |
-| 2 | Аня | Здравствуйте, Виктор Петрович. Да, мы расширяемся. | Hello, Viktor Petrovich. Yes, we are expanding. | #6 00:00:47: Виктор Петрович | adapted: adapted |
+| 2 | Елена | Здравствуйте, Виктор Петрович. Да, мы расширяемся. | Hello, Viktor Petrovich. Yes, we are expanding. | #6 00:00:47: Виктор Петрович | adapted: adapted |
 | 3 | Шеф | Поставьте лучше табличку возле метро! | You had better put a sign near the metro! | #7 00:00:51: Вы бы лучше табличку у метро поставили | adapted: adapted |
-| 4 | Аня | В этом нет никакой необходимости. | There is no need for that. | #9 00:00:56: в этом нет необходимости | adapted: adapted |
+| 4 | Елена | В этом нет никакой необходимости. | There is no need for that. | #9 00:00:56: в этом нет необходимости | adapted: adapted |
 | 5 | Шеф | Нормальные профессионалы не ищут работу по газетам. | Normal professionals do not look for work in newspapers. | #8 00:00:53: проходимость профессиональных поваров выше | adapted: adapted |
-| 6 | Аня | Ко мне уже пришли отличные кандидаты. | Excellent candidates have already come to me. | #10 00:00:58: пришло несколько отличных поваров | adapted: adapted |
+| 6 | Елена | Ко мне уже пришли отличные кандидаты. | Excellent candidates have already come to me. | #10 00:00:58: пришло несколько отличных поваров | adapted: adapted |
 | 7 | Шеф | И из каких ресторанов эти люди? | And from which restaurants are these people? | new | new: new |
-| 8 | Аня | Некоторые работают в очень достойных местах. | Some work in very respectable places. | #11 00:01:01: некоторые из них работают в достойных ресторанах | adapted: adapted |
+| 8 | Елена | Некоторые работают в очень достойных местах. | Some work in very respectable places. | #11 00:01:01: некоторые из них работают в достойных ресторанах | adapted: adapted |
 | 9 | Шеф | Неужели кто-то уходит из хороших ресторанов? | Could someone really be leaving good restaurants? | new | new: new |
-| 10 | Аня | Может быть, даже из вашего ресторана. | Maybe even from your restaurant. | #13 00:01:07: если вы считаете свой ресторан | adapted: adapted |
+| 10 | Елена | Может быть, даже из вашего ресторана. | Maybe even from your restaurant. | #13 00:01:07: если вы считаете свой ресторан | adapted: adapted |
 | 11 | Шеф | Я съем колпак, если мои повара уйдут! | I will eat my chef's hat if my cooks leave! | #14 00:01:11: Я съем свой колпак, если узнаю, что кто-то из моих | adapted: adapted |
-| 12 | Аня | Тогда заранее желаю вам приятного аппетита! | Then in advance I wish you bon appétit! | #15 00:01:15: Тогда приятного аппетита | adapted: adapted |
+| 12 | Елена | Тогда заранее желаю вам приятного аппетита! | Then in advance I wish you bon appétit! | #15 00:01:15: Тогда приятного аппетита | adapted: adapted |
 | 13 | Шеф | Мои люди преданы мне до конца. | My people are loyal to me to the end. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)

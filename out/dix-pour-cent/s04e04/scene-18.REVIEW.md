@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I brought two glasses to toast.' Mathias walks in ready to celebrate. The compound past verb 'apporte' introduces his gesture.
-- 'I have just read your emails.' Camille confronts him with cold clarity. The recent past construction viens de lire marks her sudden discovery.
-- 'What are you saying there?' Mathias senses the sudden tension in the room. The interrogative phrase questions her words.
+- 'I have just read your emails.' Camille confronts him with cold clarity. The informal 'you' form around 'come' marks a direct, personal relationship.
+- 'What are you saying there?' Mathias senses the sudden tension in the room. Mathias uses the casual singular 'you' with 'are saying', showing close familiarity.
 - 'You want to discourage Ulrika secretly.' Camille reveals what was on the screen. The verb phrase 'veux decourager' cites his covert intention.
-- 'It is not what you think!' Mathias tries to deflect the accusation. The common French phrase ce n'est pas ce que tu crois serves as a defense.
-- 'Did you sign the acknowledgment for that?' Camille challenges his honesty. The noun phrase la reconnaissance targets his parental filing.
-- 'No, I only wanted to protect you.' Mathias attempts to reassure his daughter. The imperfect verb voulais softens his explanation.
-- 'You manipulate everyone here!' Camille rejects his excuses with anger. The present verb manipules identifies his repeated deception.
-- 'Listen to me for two minutes, please.' Mathias pleads for a brief conversation. The polite imperative formula je t'en prie requests her patience.
-- 'I do not want to hear anything anymore.' Camille shuts down the conversation. The negative structure ne veux plus rien emphasizes finality.
-- 'Do not leave like that, Camille!' Mathias panics as she grabs her coat. The negative imperative ne pars pas shows his desperation.
+- 'It is not what you think!' Mathias tries to deflect the accusation. Dropping the subject pronoun turns the verb for 'think' into a direct, punchy command.
+- 'Did you sign the acknowledgment for that?' Camille challenges his honesty. Notice how 'have' leads directly into the noun meaning 'recognition'.
+- 'No, I only wanted to protect you.' Mathias attempts to reassure his daughter. Mathias uses the casual singular 'you' with 'wanted', showing close familiarity.
+- 'You manipulate everyone here!' Camille rejects his excuses with anger. Notice how 'manipulate' leads directly into the noun meaning 'world'.
+- 'Listen to me for two minutes, please.' Mathias pleads for a brief conversation. The verb meaning 'listen' pairs naturally with the noun for 'minutes' in everyday conversation.
+- 'I do not want to hear anything anymore.' Camille shuts down the conversation. The clause hinges on the everyday verb meaning 'want'.
+- 'Do not leave like that, Camille!' Mathias panics as she grabs her coat. The two-part French negation brackets the verb for 'leave' on both sides.
 - 'I am going home immediately.' Camille steps toward the door. The adverb 'immediatement' highlights her resolve to leave.
-- 'Let me at least explain all that to you.' Mathias makes a final plea. The phrase au moins seeks a small concession.
+- 'Let me at least explain all that to you.' Mathias makes a final plea. The clause hinges on the everyday verb meaning 'let'.
 - 'It is over between us, Mr. Barneville.' Camille uses his formal surname to mark the break. The adjective 'termine' signals the painful rupture of their relationship.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sorry for leaving the screening room.' A polite apology explaining a sudden departure.
-- 'It is no big deal at all.' A comforting reassurance minimizing the awkward exit.
-- 'I am naked the entire time!' An exasperated exclamation revealing excessive screen nudity.
-- 'It is a very bold art film.' An objective framing placing the role in an artistic context.
-- 'It is simply horrible for me.' A subjective reaction rejecting the artistic justification.
-- 'The director made artistic choices.' An explanatory statement attributing decisions to the filmmaker.
-- 'He cut all the clothed scenes!' An indignant complaint regarding the post-production editing.
-- 'Your acting remains remarkable, Herve.' A complimentary reassurance praising his screen performance.
-- 'Above all do not speak of that to Julien.' A firm warning pleading for personal discretion.
-- 'I promise you to keep the secret.' A solemn pledge assuring confidentiality between friends.
-- 'Thank you for saying nothing to him, really.' A grateful acknowledgment thanking him for discretion.
-- 'It is not my place to speak.' A respectful boundary recognizing personal privacy.
-- 'I hope the public will understand this film.' A hopeful wish looking ahead to audience reception.
-- 'The viewers will admire your great courage.' An encouraging prediction supporting the artist's bravery.
+- 'Sorry for leaving the screening room.' In spoken French, the little word before 'for being' drops its final vowel and attaches with an apostrophe. In spoken French, the little word before 'for being' drops its final vowel and attaches with an apostrophe.
+- 'It is no big deal at all.' A comforting reassurance minimizing the awkward exit. The adverb meaning 'not' gives the reply its conversational emphasis.
+- 'I am naked the entire time!' The key noun here means 'naked', anchored by its matching French article. The key noun here means 'naked', anchored by its matching French article.
+- 'It is a very bold art film.' An objective framing placing the role in an artistic context. The descriptive adjective for 'daring' agrees in gender and number with its noun.
+- 'It is simply horrible for me.' The descriptive adjective for 'horrible' agrees in gender and number with its noun. The descriptive adjective for 'horrible' agrees in gender and number with its noun.
+- 'The director made artistic choices.' The descriptive adjective for 'artistic' agrees in gender and number with its noun. The descriptive adjective for 'artistic' agrees in gender and number with its noun.
+- 'He cut all the clothed scenes!' The verb meaning 'has' pairs naturally with the noun for 'scenes' in everyday conversation.
+- 'Your acting remains remarkable, Herve.' A complimentary reassurance praising his screen performance. Notice how 'remains' leads directly into the noun meaning 'acting'.
+- 'Above all do not speak of that to Julien.' The two-part French negation brackets the verb for 'speak' on both sides. The two-part French negation brackets the verb for 'speak' on both sides.
+- 'I promise you to keep the secret.' A solemn pledge assuring confidentiality between friends. Notice how 'promise' leads directly into the noun meaning 'secret'.
+- 'Thank you for saying nothing to him, really.' A grateful acknowledgment thanking him for discretion. The two-part negative frame surrounds 'to say' to mean 'nothing at all'.
+- 'It is not my place to speak.' A respectful boundary recognizing personal privacy. Notice the classic French sandwich negation wrapping right around 'to speak'.
+- 'I hope the public will understand this film.' A hopeful wish looking ahead to audience reception. The verb meaning 'I hope' pairs naturally with the noun for 'public' in everyday conversation.
+- 'The viewers will admire your great courage.' An encouraging prediction supporting the artist's bravery. Notice how 'are going to' leads directly into the noun meaning 'viewers'.

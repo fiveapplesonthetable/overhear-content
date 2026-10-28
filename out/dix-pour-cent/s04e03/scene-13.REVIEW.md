@@ -32,12 +32,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What an incredible night, Andrea!' Jose cannot contain his excitement after an evening out. The exclamative adjective 'incroyable' expresses overwhelming surprise.
 - 'Hush! Speak softly, please.' Andrea immediately hushes the boisterous actor. The interjection 'chut' is the standard French sound used to request silence.
 - 'My baby is sleeping in the bedroom.' Andrea explains why they must remain extremely quiet. The verb 'dormir' describes sleep in the present tense.
-- 'Oh sorry, I want to see your daughter!' Jose expresses spontaneous affection for Andrea's infant. The feminine noun 'fille' means daughter or girl.
+- 'Oh sorry, I want to see your daughter!' Jose expresses spontaneous affection for Andrea's infant. Notice how 'want' leads directly into the noun meaning 'forgiveness'.
 - 'No, stay here in the living room.' Andrea firmly directs him away from the nursery. The adverb 'ici' points to the immediate location.
 - 'You are gorgeous tonight, Andrea!' Jose delivers a cheerful, drunken compliment to his agent. The temporal phrase 'ce soir' refers to this evening or tonight.
-- 'But you drank a lot of alcohol!' Andrea notices Jose's inebriated state right away. The quantifier 'beaucoup de' takes an invariable 'de' before the noun.
+- 'But you drank a lot of alcohol!' Andrea notices Jose's inebriated state right away. Andrea uses the casual singular 'you' with 'have', showing close familiarity.
 - 'Yes, I spent the evening with Laurence.' Jose reveals that he spent hours reminiscing with Laurence. The past participle 'passe' combines with 'avoir' to describe spending time.
 - 'You must rest for your film shoot.' Andrea reminds him that a demanding camera crew awaits tomorrow. The modal verb 'devoir' indicates duty or obligation.
-- 'Can I serve myself a drink?' Jose heads toward the kitchen counter looking for refreshments. The reflexive verb 'se servir' means to help oneself.
+- 'Can I serve myself a drink?' Jose heads toward the kitchen counter looking for refreshments. The reflexive pronoun sits right in front of the verb for 'can', turning the action back onto the subject.
 - 'Drink only cold water now.' Andrea insists that alcohol is out of the question tonight. The restrictive adverb 'seulement' limits the choice to water.
 - 'All right, I am going to calm down a bit.' Jose relents and agrees to quiet down for the night. The near-future construction 'vais me calmer' signals an immediate change in behavior.

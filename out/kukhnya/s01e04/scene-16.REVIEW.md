@@ -10,23 +10,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Я понял, свидания у тебя не будет? | I take it you won't have a date? | #211 00:15:52: свидания у тебя не будет | verbatim |
+| 1 | Макс | Я понял, свидания у тебя не будет? | I take it you won't have a date? | #211 00:15:52: свидания у тебя не будет | verbatim |
 | 2 | Костя | Да, я опять сказал полную глупость. | Yes, I said something completely stupid again. | new | new |
-| 3 | Аня | Ты слишком сильно нервничаешь перед ней. | You get way too nervous around her. | new | new |
+| 3 | Макс | Ты слишком сильно нервничаешь перед ней. | You get way too nervous around her. | new | new |
 | 4 | Костя | Не получается у меня красиво говорить! | I cannot manage to speak beautifully! | #213 00:16:00: Не получается у меня красиво | verbatim |
-| 5 | Аня | Этому нужно долго и терпеливо учиться. | One needs to learn this long and patiently. | new | new |
+| 5 | Макс | Этому нужно долго и терпеливо учиться. | One needs to learn this long and patiently. | new | new |
 | 6 | Костя | Слушай, а может ты с ней поговоришь? | Listen, maybe you could talk with her? | #215 00:16:06: может ты с ней | verbatim |
-| 7 | Аня | Что именно я должен ей сказать? | What exactly am I supposed to tell her? | new | new |
+| 7 | Макс | Что именно я должен ей сказать? | What exactly am I supposed to tell her? | new | new |
 | 8 | Костя | Объясни, что она мне очень нравится. | Explain that I really like her. | new | new |
-| 9 | Аня | Ладно, я попробую поговорить с Настей. | Okay, I will try to talk with Nastya. | #216 00:16:11: Ладно | verbatim |
+| 9 | Макс | Ладно, я попробую поговорить с Настей. | Okay, I will try to talk with Nastya. | #216 00:16:11: Ладно | verbatim |
 | 10 | Костя | Спасибо, друг, ты меня очень выручишь! | Thank you, friend, you will really help me out! | new | new |
-| 11 | Аня | У меня как раз минут семь есть. | I have about seven minutes right now. | #217 00:16:12: минут семь есть | verbatim |
+| 11 | Макс | У меня как раз минут семь есть. | I have about seven minutes right now. | #217 00:16:12: минут семь есть | verbatim |
 | 12 | Костя | Только скажи всё максимально нежно. | Just say everything as gently as possible. | new | new |
-| 13 | Аня | Не волнуйся, я прирождённый дипломат! | Do not worry, I am a natural diplomat! | new | new |
+| 13 | Макс | Не волнуйся, я прирождённый дипломат! | Do not worry, I am a natural diplomat! | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I take it you will not have a date?' Past cognitive verb followed by a negative future genitive clause.
+- 'I take it you won't have a date?' Past cognitive verb followed by a negative future genitive clause.
 - 'Yes, I said something completely stupid again.' Affirmative particle with a past transitive verb and direct object.
 - 'You get way too nervous around her.' Present reflexive verb modified by an intensifying adverb of degree.
 - 'I cannot manage to speak beautifully!' Impersonal reflexive verb governing a manner adverb and infinitive.

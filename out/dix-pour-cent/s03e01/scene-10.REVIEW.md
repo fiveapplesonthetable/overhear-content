@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, we worked like crazy, you see.' Sofia talks about the hard film shoot. The colloquial idiom 'bosser comme des fous' means to work extremely hard.
+- 'Yes, we worked like crazy, you see.' Sofia talks about the hard film shoot. This conversational past tense combines a helper verb with the past participle for 'worked'.
 - 'I love the poster, it is so beautiful.' Gabriel expresses admiration for the promo artwork. The adjective 'belle' agrees with the feminine noun 'affiche'.
 - 'Thanks guys! I miss you a lot.' Sofia expresses genuine fondness for her former coworkers. The verb 'manquer' places the persons missed as the subject.
 - 'We miss you too.' Gabriel reassures her with reciprocal affection. The emphatic pronoun 'toi' highlights the mutual feeling.
 - 'I am going to Dujardin's place to settle a problem.' Andrea announces her emergency client visit. The preposition 'chez' denotes going to someone's home.
-- 'Oh, damn it!' Andrea groans in sudden physical distress. The colloquial exclamation expresses abrupt pain.
-- 'What is going on? Are you alright?' Gabriel reacts immediately with concern. The question 'qu'est-ce qui se passe' asks what is happening.
-- 'I am fine, it is nothing.' Andrea attempts to downplay the pain. The reassuring formula 'c'est rien' minimizes the medical scare.
-- 'It is okay, it is okay.' Andrea repeats the phrase to steady herself. The repetition of 'c'est bon' serves to calm the anxious bystanders.
-- 'It is just a contraction, I am fine.' Andrea identifies the physiological symptom. The feminine noun 'contraction' refers to pregnancy labor spasms.
+- 'Oh, damn it!' Andrea groans in sudden physical distress. A short, idiomatic conversational reply that keeps the exchange moving naturally.
+- 'What is going on? Are you alright?' Gabriel reacts immediately with concern. The standard spoken question formula at the front turns the statement about 'is happening' into a natural inquiry.
+- 'I am fine, it is nothing.' Andrea attempts to downplay the pain. The clause hinges on the everyday verb meaning 'goes'.
+- 'It is okay, it is okay.' Andrea repeats the phrase to steady herself. The descriptive adjective for 'okay' agrees in gender and number with its noun.
+- 'It is just a contraction, I am fine.' Andrea identifies the physiological symptom. The verb meaning 'it is' pairs naturally with the noun for 'contraction' in everyday conversation.
 - 'She is in labor! You need a doctor!' Gabriel panics dramatically. The verb 'accoucher' means to give birth.
 - 'No, I am not in labor at all!' Andrea rejects his alarmist reaction. The emphatic negative 'pas du tout' firmly denies his assumption.
 - 'Working so much is bad for the baby.' Gabriel cautions against overworking during pregnancy. The adjective 'mauvais' indicates a potential health risk.
 - 'I love my work, I do not want to stop.' Andrea asserts her professional dedication. The verb 'arreter' is used reflexively to mean stopping activity.
-- 'You must rest a little, Andrea.' Gabriel urges her to take care of her health. The reflexive infinitive 'se reposer' expresses physical rest.
+- 'You must rest a little, Andrea.' Gabriel urges her to take care of her health. Gabriel uses the casual singular 'you' with 'must', showing close familiarity.
 - 'Nobody tells me how I should be pregnant!' Andrea vehemently asserts her personal autonomy. The negative indefinite pronoun 'personne' takes the verb modifier 'ne'.

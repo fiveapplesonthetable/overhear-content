@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So Andrea, tell me about this famous movie.' Maxime demands an explanation for Dujardin's long absence.
-- 'It is the story of a brave wounded soldier.' Andrea introduces the central protagonist of the period drama.
-- 'This poor man deserts during the war.' Andrea highlights the soldier's moral crisis on the battlefield.
-- 'During the First World War, is that it?' Maxime clarifies the exact historical period of the narrative.
-- 'Yes, during the terrible war of nineteen fourteen.' Andrea emphasizes the brutal conditions of the conflict.
-- 'He hides alone in a vast forest.' Andrea paints a picture of extreme survival away from civilization.
-- 'Why is he hiding in the wild woods?' Maxime asks about the character's desperate motives.
-- 'He wants to escape the death penalty.' Andrea explains that deserters faced immediate execution by firing squad.
-- 'It is a tragic and very dark story.' Maxime recognizes the somber tone common in festival arthouse cinema.
-- 'Jean Dujardin acts with wild intensity in it.' Andrea praises the star's radical commitment to the role.
-- 'The audience loves this genre of historical drama.' Maxime admits that intense wartime narratives attract critical acclaim.
-- 'Watch this video excerpt on my computer screen.' Andrea turns her monitor to reveal exclusive behind-the-scenes files.
-- 'Show me these secret shots from the film set.' Maxime leans forward eagerly to inspect Dujardin's performance.
+- 'So Andrea, tell me about this famous movie.' Maxime demands an explanation for Dujardin's long absence. The verb meaning 'tell me' pairs naturally with the noun for 'movie.' in everyday conversation.
+- 'It is the story of a brave wounded soldier.' Andrea introduces the central protagonist of the period drama. The verb meaning 'it is' pairs naturally with the noun for 'the story' in everyday conversation.
+- 'This poor man deserts during the war.' Andrea highlights the soldier's moral crisis on the battlefield. The descriptive adjective for 'poor' agrees in gender and number with its noun.
+- 'During the First World War, is that it?' Maxime clarifies the exact historical period of the narrative. The verb meaning 'is it' pairs naturally with the noun for 'War' in everyday conversation.
+- 'Yes, during the terrible war of nineteen fourteen.' Andrea emphasizes the brutal conditions of the conflict. The key noun here means 'war', anchored by its matching French article.
+- 'He hides alone in a vast forest.' Andrea paints a picture of extreme survival away from civilization. The verb meaning 'hides' pairs naturally with the noun for 'forest.' in everyday conversation.
+- 'Why is he hiding in the wild woods?' Maxime asks about the character's desperate motives. The verb meaning 'does he hide' pairs naturally with the noun for 'woods' in everyday conversation.
+- 'He wants to escape the death penalty.' Andrea explains that deserters faced immediate execution by firing squad. The verb meaning 'wants' pairs naturally with the noun for 'penalty' in everyday conversation.
+- 'It is a tragic and very dark story.' Maxime recognizes the somber tone common in festival arthouse cinema. The descriptive adjective for 'tragic' agrees in gender and number with its noun.
+- 'Jean Dujardin acts with wild intensity in it.' Andrea praises the star's radical commitment to the role. The verb meaning 'acts' pairs naturally with the noun for 'intensity' in everyday conversation.
+- 'The audience loves this genre of historical drama.' Maxime admits that intense wartime narratives attract critical acclaim. Notice how 'loves' leads directly into the noun meaning 'audience'.
+- 'Watch this video excerpt on my computer screen.' Andrea turns her monitor to reveal exclusive behind-the-scenes files. The verb meaning 'look at' pairs naturally with the noun for 'clip' in everyday conversation.
+- 'Show me these secret shots from the film set.' Maxime leans forward eagerly to inspect Dujardin's performance. The verb meaning 'show me' pairs naturally with the noun for 'footage' in everyday conversation.

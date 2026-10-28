@@ -12,7 +12,7 @@
           "pos": "noun",
           "stress": "mɛʁsi",
           "gloss": "thanks,",
-          "gram": "noun"
+          "gram": "masculine singular noun used as exclamation"
         },
         {
           "t": "les",
@@ -20,7 +20,7 @@
           "pos": "det",
           "stress": "le",
           "gloss": "the",
-          "gram": "determiner"
+          "gram": "definite plural article"
         },
         {
           "t": "filles,",
@@ -28,7 +28,7 @@
           "pos": "noun",
           "stress": "fij",
           "gloss": "girls,",
-          "gram": "noun"
+          "gram": "feminine plural noun"
         },
         {
           "t": "bonne",
@@ -36,7 +36,7 @@
           "pos": "adj",
           "stress": "bɔn",
           "gloss": "good",
-          "gram": "adjective"
+          "gram": "feminine singular adjective"
         },
         {
           "t": "journée!",
@@ -44,7 +44,7 @@
           "pos": "noun",
           "stress": "ʒuʁne",
           "gloss": "day!",
-          "gram": "noun"
+          "gram": "feminine singular noun"
         }
       ]
     },
@@ -56,7 +56,7 @@
           "t": "Andréa,",
           "lemma": "andréa",
           "pos": "name",
-          "stress": "ɑ̃dʁea",
+          "stress": null,
           "gloss": "Andrea,",
           "gram": "proper noun"
         },
@@ -74,7 +74,7 @@
           "pos": "verb",
           "stress": "vjɛ̃",
           "gloss": "come",
-          "gram": "conjugated verb"
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "avec",
@@ -88,7 +88,7 @@
           "t": "Flora?",
           "lemma": "flora",
           "pos": "name",
-          "stress": "flɔʁa",
+          "stress": null,
           "gloss": "Flora?",
           "gram": "proper noun"
         }
@@ -120,7 +120,7 @@
           "pos": "verb",
           "stress": "sɔm",
           "gloss": "are",
-          "gram": "conjugated verb"
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "exclues",
@@ -128,7 +128,7 @@
           "pos": "verb",
           "stress": "ɛkskly",
           "gloss": "excluded",
-          "gram": "conjugated verb"
+          "gram": "past participle (f pl)"
         },
         {
           "t": "de",
@@ -144,7 +144,7 @@
           "pos": "det",
           "stress": "la",
           "gloss": "the",
-          "gram": "determiner"
+          "gram": "definite feminine singular article"
         },
         {
           "t": "crèche.",
@@ -152,7 +152,7 @@
           "pos": "noun",
           "stress": "kʁɛʃ",
           "gloss": "daycare.",
-          "gram": "noun"
+          "gram": "feminine singular noun"
         }
       ]
     },
@@ -172,9 +172,17 @@
           "t": "vas-tu",
           "lemma": "aller",
           "pos": "verb",
-          "stress": "vaty",
-          "gloss": "are you doing",
-          "gram": "vas + tu (present 2sg + subject pronoun)"
+          "stress": "va",
+          "gloss": "are going",
+          "gram": "1st/2nd sg present indicative"
+        },
+        {
+          "t": "-tu",
+          "lemma": "tu",
+          "pos": "pron",
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "subject pronoun, 2nd person singular inverted"
         },
         {
           "t": "gérer",
@@ -185,12 +193,20 @@
           "gram": "infinitive"
         },
         {
-          "t": "l'agence?",
+          "t": "l'",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "l",
+          "gloss": "the",
+          "gram": "definite feminine singular article, elided"
+        },
+        {
+          "t": "agence?",
           "lemma": "agence",
           "pos": "noun",
-          "stress": "laʒɑ̃s",
-          "gloss": "the agency",
-          "gram": "la (elided l') + agence, feminine singular"
+          "stress": "aʒɑ̃s",
+          "gloss": "agency?",
+          "gram": "feminine singular noun"
         }
       ]
     },
@@ -212,7 +228,7 @@
           "pos": "verb",
           "stress": "pø",
           "gloss": "can",
-          "gram": "conjugated verb"
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "tout",
@@ -220,7 +236,7 @@
           "pos": "pron",
           "stress": "tu",
           "gloss": "everything",
-          "gram": "pronoun"
+          "gram": "indefinite pronoun"
         },
         {
           "t": "faire",
@@ -244,7 +260,7 @@
           "pos": "adj",
           "stress": "mɛm",
           "gloss": "same",
-          "gram": "adjective"
+          "gram": "adjective in idiom"
         },
         {
           "t": "temps.",
@@ -252,7 +268,7 @@
           "pos": "noun",
           "stress": "tɑ̃",
           "gloss": "time.",
-          "gram": "noun"
+          "gram": "masculine singular noun in idiom"
         }
       ]
     },
@@ -266,7 +282,7 @@
           "pos": "det",
           "stress": "œ̃",
           "gloss": "a",
-          "gram": "determiner"
+          "gram": "indefinite masculine singular article"
         },
         {
           "t": "bébé",
@@ -274,7 +290,7 @@
           "pos": "noun",
           "stress": "bebe",
           "gloss": "baby",
-          "gram": "noun"
+          "gram": "masculine singular noun"
         },
         {
           "t": "dans",
@@ -290,7 +306,7 @@
           "pos": "det",
           "stress": "le",
           "gloss": "the",
-          "gram": "determiner"
+          "gram": "definite plural article"
         },
         {
           "t": "bureaux,",
@@ -298,15 +314,23 @@
           "pos": "noun",
           "stress": "byʁo",
           "gloss": "offices,",
-          "gram": "noun"
+          "gram": "masculine plural noun"
         },
         {
-          "t": "c'est",
+          "t": "c'",
+          "lemma": "ce",
+          "pos": "pron",
+          "stress": "s",
+          "gloss": "it",
+          "gram": "demonstrative pronoun, elided"
+        },
+        {
+          "t": "est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "stress": "ɛ",
+          "gloss": "is",
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "risqué.",
@@ -314,7 +338,7 @@
           "pos": "adj",
           "stress": "ʁiske",
           "gloss": "risky.",
-          "gram": "adjective"
+          "gram": "masculine singular adjective"
         }
       ]
     },
@@ -336,7 +360,7 @@
           "pos": "verb",
           "stress": "va",
           "gloss": "is going",
-          "gram": "conjugated verb"
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "dormir",
@@ -360,7 +384,7 @@
           "pos": "det",
           "stress": "lə",
           "gloss": "the",
-          "gram": "determiner"
+          "gram": "definite masculine singular article"
         },
         {
           "t": "tapis.",
@@ -368,7 +392,7 @@
           "pos": "noun",
           "stress": "tapi",
           "gloss": "carpet.",
-          "gram": "noun"
+          "gram": "masculine singular noun"
         }
       ]
     },
@@ -398,7 +422,7 @@
           "pos": "det",
           "stress": "le",
           "gloss": "the",
-          "gram": "determiner"
+          "gram": "definite plural article"
         },
         {
           "t": "clients",
@@ -406,7 +430,7 @@
           "pos": "noun",
           "stress": "klijɑ̃",
           "gloss": "clients, customers",
-          "gram": "noun"
+          "gram": "masculine plural noun"
         },
         {
           "t": "arrivent",
@@ -414,7 +438,7 @@
           "pos": "verb",
           "stress": "aʁiv",
           "gloss": "arrive",
-          "gram": "conjugated verb"
+          "gram": "3rd pl present indicative"
         },
         {
           "t": "bientôt?",
@@ -434,7 +458,7 @@
           "t": "Flora",
           "lemma": "flora",
           "pos": "name",
-          "stress": "flɔʁa",
+          "stress": null,
           "gloss": "Flora (name)",
           "gram": "proper noun"
         },
@@ -444,7 +468,7 @@
           "pos": "verb",
           "stress": "ɛ",
           "gloss": "is",
-          "gram": "conjugated verb"
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "très",
@@ -460,7 +484,7 @@
           "pos": "adj",
           "stress": "kalm",
           "gloss": "calm",
-          "gram": "adjective"
+          "gram": "masculine singular"
         },
         {
           "t": "aujourd'hui.",
@@ -490,7 +514,7 @@
           "pos": "verb",
           "stress": "a",
           "gloss": "have",
-          "gram": "conjugated verb"
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "beaucoup",
@@ -514,7 +538,7 @@
           "pos": "noun",
           "stress": "ʁɑ̃devu",
           "gloss": "appointments",
-          "gram": "noun"
+          "gram": "masculine noun, invariable"
         },
         {
           "t": "importants.",
@@ -522,7 +546,7 @@
           "pos": "adj",
           "stress": "ɛ̃pɔʁtɑ̃",
           "gloss": "important.",
-          "gram": "adjective"
+          "gram": "masculine plural adjective"
         }
       ]
     },
@@ -544,7 +568,7 @@
           "pos": "verb",
           "stress": "ɡaʁd",
           "gloss": "keep",
-          "gram": "conjugated verb"
+          "gram": "1st/3rd sg present indicative"
         },
         {
           "t": "le",
@@ -552,7 +576,7 @@
           "pos": "det",
           "stress": "lə",
           "gloss": "the",
-          "gram": "determiner"
+          "gram": "definite masculine singular article"
         },
         {
           "t": "contrôle",
@@ -560,7 +584,7 @@
           "pos": "noun",
           "stress": "kɔ̃tʁol",
           "gloss": "control",
-          "gram": "noun"
+          "gram": "masculine singular noun"
         },
         {
           "t": "de",
@@ -576,7 +600,7 @@
           "pos": "pron",
           "stress": "tu",
           "gloss": "everything.",
-          "gram": "pronoun"
+          "gram": "indefinite pronoun"
         }
       ]
     },
@@ -585,12 +609,20 @@
       "trans": "All right, I trust you.",
       "words": [
         {
-          "t": "D'accord,",
+          "t": "D'",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "d",
+          "gloss": "of",
+          "gram": "preposition"
+        },
+        {
+          "t": "accord,",
           "lemma": "accord",
           "pos": "noun",
-          "stress": "dakɔʁ",
-          "gloss": "okay?, all right?",
-          "gram": "de (elided d') + accord: fixed expression 'd'accord'"
+          "stress": "akɔʁ",
+          "gloss": "agreement,",
+          "gram": "masculine singular noun in idiom"
         },
         {
           "t": "je",
@@ -606,7 +638,7 @@
           "pos": "pron",
           "stress": "tə",
           "gloss": "you",
-          "gram": "pronoun"
+          "gram": "indirect object pronoun, 2nd person singular"
         },
         {
           "t": "fais",
@@ -614,7 +646,7 @@
           "pos": "verb",
           "stress": "fɛ",
           "gloss": "make / place",
-          "gram": "conjugated verb"
+          "gram": "imperfect indicative / conditional"
         },
         {
           "t": "confiance.",
@@ -622,7 +654,7 @@
           "pos": "noun",
           "stress": "kɔ̃fjɑ̃s",
           "gloss": "trust.",
-          "gram": "noun"
+          "gram": "feminine singular noun"
         }
       ]
     },
@@ -644,7 +676,7 @@
           "pos": "verb",
           "stress": "fɔʁmɔ̃",
           "gloss": "form",
-          "gram": "conjugated verb"
+          "gram": "1st pl present / imperative"
         },
         {
           "t": "une",
@@ -652,7 +684,7 @@
           "pos": "det",
           "stress": "yn",
           "gloss": "a",
-          "gram": "determiner"
+          "gram": "indefinite feminine singular article"
         },
         {
           "t": "équipe",
@@ -660,7 +692,7 @@
           "pos": "noun",
           "stress": "ekip",
           "gloss": "team",
-          "gram": "noun"
+          "gram": "feminine singular noun"
         },
         {
           "t": "solide.",
@@ -668,7 +700,7 @@
           "pos": "adj",
           "stress": "sɔlid",
           "gloss": "solid.",
-          "gram": "adjective"
+          "gram": "feminine singular adjective"
         }
       ]
     },
@@ -698,7 +730,7 @@
           "pos": "noun",
           "stress": "tʁavaj",
           "gloss": "work",
-          "gram": "noun"
+          "gram": "masculine singular noun"
         },
         {
           "t": "maintenant!",
@@ -720,7 +752,7 @@
           "pos": "noun",
           "stress": "mɛʁsi",
           "gloss": "thanks,",
-          "gram": "noun"
+          "gram": "masculine singular noun used as exclamation"
         },
         {
           "t": "les",
@@ -728,7 +760,7 @@
           "pos": "det",
           "stress": "le",
           "gloss": "the",
-          "gram": "determiner"
+          "gram": "definite plural article"
         },
         {
           "t": "filles,",
@@ -736,7 +768,7 @@
           "pos": "noun",
           "stress": "fij",
           "gloss": "girls,",
-          "gram": "noun"
+          "gram": "feminine plural noun"
         },
         {
           "t": "bonne",
@@ -744,7 +776,7 @@
           "pos": "adj",
           "stress": "bɔn",
           "gloss": "good",
-          "gram": "adjective"
+          "gram": "feminine singular adjective"
         },
         {
           "t": "journée!",
@@ -752,7 +784,7 @@
           "pos": "noun",
           "stress": "ʒuʁne",
           "gloss": "day!",
-          "gram": "noun"
+          "gram": "feminine singular noun"
         }
       ]
     },
@@ -764,7 +796,7 @@
           "t": "Andréa,",
           "lemma": "andréa",
           "pos": "name",
-          "stress": "ɑ̃dʁea",
+          "stress": null,
           "gloss": "Andrea,",
           "gram": "proper noun"
         },
@@ -782,7 +814,7 @@
           "pos": "verb",
           "stress": "vjɛ̃",
           "gloss": "come",
-          "gram": "conjugated verb"
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "avec",
@@ -796,7 +828,7 @@
           "t": "Flora?",
           "lemma": "flora",
           "pos": "name",
-          "stress": "flɔʁa",
+          "stress": null,
           "gloss": "Flora?",
           "gram": "proper noun"
         }
@@ -828,7 +860,7 @@
           "pos": "verb",
           "stress": "sɔm",
           "gloss": "are",
-          "gram": "conjugated verb"
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "exclues",
@@ -836,7 +868,7 @@
           "pos": "verb",
           "stress": "ɛkskly",
           "gloss": "excluded",
-          "gram": "conjugated verb"
+          "gram": "past participle (f pl)"
         },
         {
           "t": "de",
@@ -852,7 +884,7 @@
           "pos": "det",
           "stress": "la",
           "gloss": "the",
-          "gram": "determiner"
+          "gram": "definite feminine singular article"
         },
         {
           "t": "crèche.",
@@ -860,7 +892,7 @@
           "pos": "noun",
           "stress": "kʁɛʃ",
           "gloss": "daycare.",
-          "gram": "noun"
+          "gram": "feminine singular noun"
         }
       ]
     },
@@ -880,9 +912,17 @@
           "t": "vas-tu",
           "lemma": "aller",
           "pos": "verb",
-          "stress": "vaty",
-          "gloss": "are you doing",
-          "gram": "vas + tu (present 2sg + subject pronoun)"
+          "stress": "va",
+          "gloss": "are going",
+          "gram": "1st/2nd sg present indicative"
+        },
+        {
+          "t": "-tu",
+          "lemma": "tu",
+          "pos": "pron",
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "subject pronoun, 2nd person singular inverted"
         },
         {
           "t": "gérer",
@@ -893,12 +933,20 @@
           "gram": "infinitive"
         },
         {
-          "t": "l'agence?",
+          "t": "l'",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "l",
+          "gloss": "the",
+          "gram": "definite feminine singular article, elided"
+        },
+        {
+          "t": "agence?",
           "lemma": "agence",
           "pos": "noun",
-          "stress": "laʒɑ̃s",
-          "gloss": "the agency",
-          "gram": "la (elided l') + agence, feminine singular"
+          "stress": "aʒɑ̃s",
+          "gloss": "agency?",
+          "gram": "feminine singular noun"
         }
       ]
     },
@@ -920,7 +968,7 @@
           "pos": "verb",
           "stress": "pø",
           "gloss": "can",
-          "gram": "conjugated verb"
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "tout",
@@ -928,7 +976,7 @@
           "pos": "pron",
           "stress": "tu",
           "gloss": "everything",
-          "gram": "pronoun"
+          "gram": "indefinite pronoun"
         },
         {
           "t": "faire",
@@ -952,7 +1000,7 @@
           "pos": "adj",
           "stress": "mɛm",
           "gloss": "same",
-          "gram": "adjective"
+          "gram": "adjective in idiom"
         },
         {
           "t": "temps.",
@@ -960,7 +1008,7 @@
           "pos": "noun",
           "stress": "tɑ̃",
           "gloss": "time.",
-          "gram": "noun"
+          "gram": "masculine singular noun in idiom"
         }
       ]
     },
@@ -974,7 +1022,7 @@
           "pos": "det",
           "stress": "œ̃",
           "gloss": "a",
-          "gram": "determiner"
+          "gram": "indefinite masculine singular article"
         },
         {
           "t": "bébé",
@@ -982,7 +1030,7 @@
           "pos": "noun",
           "stress": "bebe",
           "gloss": "baby",
-          "gram": "noun"
+          "gram": "masculine singular noun"
         },
         {
           "t": "dans",
@@ -998,7 +1046,7 @@
           "pos": "det",
           "stress": "le",
           "gloss": "the",
-          "gram": "determiner"
+          "gram": "definite plural article"
         },
         {
           "t": "bureaux,",
@@ -1006,15 +1054,23 @@
           "pos": "noun",
           "stress": "byʁo",
           "gloss": "offices,",
-          "gram": "noun"
+          "gram": "masculine plural noun"
         },
         {
-          "t": "c'est",
+          "t": "c'",
+          "lemma": "ce",
+          "pos": "pron",
+          "stress": "s",
+          "gloss": "it",
+          "gram": "demonstrative pronoun, elided"
+        },
+        {
+          "t": "est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "stress": "ɛ",
+          "gloss": "is",
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "risqué.",
@@ -1022,7 +1078,7 @@
           "pos": "adj",
           "stress": "ʁiske",
           "gloss": "risky.",
-          "gram": "adjective"
+          "gram": "masculine singular adjective"
         }
       ]
     },
@@ -1044,7 +1100,7 @@
           "pos": "verb",
           "stress": "va",
           "gloss": "is going",
-          "gram": "conjugated verb"
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "dormir",
@@ -1068,7 +1124,7 @@
           "pos": "det",
           "stress": "lə",
           "gloss": "the",
-          "gram": "determiner"
+          "gram": "definite masculine singular article"
         },
         {
           "t": "tapis.",
@@ -1076,7 +1132,7 @@
           "pos": "noun",
           "stress": "tapi",
           "gloss": "carpet.",
-          "gram": "noun"
+          "gram": "masculine singular noun"
         }
       ]
     },
@@ -1106,7 +1162,7 @@
           "pos": "det",
           "stress": "le",
           "gloss": "the",
-          "gram": "determiner"
+          "gram": "definite plural article"
         },
         {
           "t": "clients",
@@ -1114,7 +1170,7 @@
           "pos": "noun",
           "stress": "klijɑ̃",
           "gloss": "clients, customers",
-          "gram": "noun"
+          "gram": "masculine plural noun"
         },
         {
           "t": "arrivent",
@@ -1122,7 +1178,7 @@
           "pos": "verb",
           "stress": "aʁiv",
           "gloss": "arrive",
-          "gram": "conjugated verb"
+          "gram": "3rd pl present indicative"
         },
         {
           "t": "bientôt?",
@@ -1142,7 +1198,7 @@
           "t": "Flora",
           "lemma": "flora",
           "pos": "name",
-          "stress": "flɔʁa",
+          "stress": null,
           "gloss": "Flora (name)",
           "gram": "proper noun"
         },
@@ -1152,7 +1208,7 @@
           "pos": "verb",
           "stress": "ɛ",
           "gloss": "is",
-          "gram": "conjugated verb"
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "très",
@@ -1168,7 +1224,7 @@
           "pos": "adj",
           "stress": "kalm",
           "gloss": "calm",
-          "gram": "adjective"
+          "gram": "masculine singular"
         },
         {
           "t": "aujourd'hui.",
@@ -1198,7 +1254,7 @@
           "pos": "verb",
           "stress": "a",
           "gloss": "have",
-          "gram": "conjugated verb"
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "beaucoup",
@@ -1222,7 +1278,7 @@
           "pos": "noun",
           "stress": "ʁɑ̃devu",
           "gloss": "appointments",
-          "gram": "noun"
+          "gram": "masculine noun, invariable"
         },
         {
           "t": "importants.",
@@ -1230,7 +1286,7 @@
           "pos": "adj",
           "stress": "ɛ̃pɔʁtɑ̃",
           "gloss": "important.",
-          "gram": "adjective"
+          "gram": "masculine plural adjective"
         }
       ]
     },
@@ -1252,7 +1308,7 @@
           "pos": "verb",
           "stress": "ɡaʁd",
           "gloss": "keep",
-          "gram": "conjugated verb"
+          "gram": "1st/3rd sg present indicative"
         },
         {
           "t": "le",
@@ -1260,7 +1316,7 @@
           "pos": "det",
           "stress": "lə",
           "gloss": "the",
-          "gram": "determiner"
+          "gram": "definite masculine singular article"
         },
         {
           "t": "contrôle",
@@ -1268,7 +1324,7 @@
           "pos": "noun",
           "stress": "kɔ̃tʁol",
           "gloss": "control",
-          "gram": "noun"
+          "gram": "masculine singular noun"
         },
         {
           "t": "de",
@@ -1284,7 +1340,7 @@
           "pos": "pron",
           "stress": "tu",
           "gloss": "everything.",
-          "gram": "pronoun"
+          "gram": "indefinite pronoun"
         }
       ]
     },
@@ -1293,12 +1349,20 @@
       "trans": "All right, I trust you.",
       "words": [
         {
-          "t": "D'accord,",
+          "t": "D'",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "d",
+          "gloss": "of",
+          "gram": "preposition"
+        },
+        {
+          "t": "accord,",
           "lemma": "accord",
           "pos": "noun",
-          "stress": "dakɔʁ",
-          "gloss": "okay?, all right?",
-          "gram": "de (elided d') + accord: fixed expression 'd'accord'"
+          "stress": "akɔʁ",
+          "gloss": "agreement,",
+          "gram": "masculine singular noun in idiom"
         },
         {
           "t": "je",
@@ -1314,7 +1378,7 @@
           "pos": "pron",
           "stress": "tə",
           "gloss": "you",
-          "gram": "pronoun"
+          "gram": "indirect object pronoun, 2nd person singular"
         },
         {
           "t": "fais",
@@ -1322,7 +1386,7 @@
           "pos": "verb",
           "stress": "fɛ",
           "gloss": "make / place",
-          "gram": "conjugated verb"
+          "gram": "imperfect indicative / conditional"
         },
         {
           "t": "confiance.",
@@ -1330,7 +1394,7 @@
           "pos": "noun",
           "stress": "kɔ̃fjɑ̃s",
           "gloss": "trust.",
-          "gram": "noun"
+          "gram": "feminine singular noun"
         }
       ]
     },
@@ -1352,7 +1416,7 @@
           "pos": "verb",
           "stress": "fɔʁmɔ̃",
           "gloss": "form",
-          "gram": "conjugated verb"
+          "gram": "1st pl present / imperative"
         },
         {
           "t": "une",
@@ -1360,7 +1424,7 @@
           "pos": "det",
           "stress": "yn",
           "gloss": "a",
-          "gram": "determiner"
+          "gram": "indefinite feminine singular article"
         },
         {
           "t": "équipe",
@@ -1368,7 +1432,7 @@
           "pos": "noun",
           "stress": "ekip",
           "gloss": "team",
-          "gram": "noun"
+          "gram": "feminine singular noun"
         },
         {
           "t": "solide.",
@@ -1376,7 +1440,7 @@
           "pos": "adj",
           "stress": "sɔlid",
           "gloss": "solid.",
-          "gram": "adjective"
+          "gram": "feminine singular adjective"
         }
       ]
     },
@@ -1406,7 +1470,7 @@
           "pos": "noun",
           "stress": "tʁavaj",
           "gloss": "work",
-          "gram": "noun"
+          "gram": "masculine singular noun"
         },
         {
           "t": "maintenant!",
@@ -1428,7 +1492,7 @@
           "pos": "noun",
           "stress": "mɛʁsi",
           "gloss": "thanks,",
-          "gram": "noun"
+          "gram": "masculine singular noun used as exclamation"
         },
         {
           "t": "les",
@@ -1436,7 +1500,7 @@
           "pos": "det",
           "stress": "le",
           "gloss": "the",
-          "gram": "determiner"
+          "gram": "definite plural article"
         },
         {
           "t": "filles,",
@@ -1444,7 +1508,7 @@
           "pos": "noun",
           "stress": "fij",
           "gloss": "girls,",
-          "gram": "noun"
+          "gram": "feminine plural noun"
         },
         {
           "t": "bonne",
@@ -1452,7 +1516,7 @@
           "pos": "adj",
           "stress": "bɔn",
           "gloss": "good",
-          "gram": "adjective"
+          "gram": "feminine singular adjective"
         },
         {
           "t": "journée!",
@@ -1460,7 +1524,7 @@
           "pos": "noun",
           "stress": "ʒuʁne",
           "gloss": "day!",
-          "gram": "noun"
+          "gram": "feminine singular noun"
         }
       ]
     },
@@ -1472,7 +1536,7 @@
           "t": "Andréa,",
           "lemma": "andréa",
           "pos": "name",
-          "stress": "ɑ̃dʁea",
+          "stress": null,
           "gloss": "Andrea,",
           "gram": "proper noun"
         },
@@ -1490,7 +1554,7 @@
           "pos": "verb",
           "stress": "vjɛ̃",
           "gloss": "come",
-          "gram": "conjugated verb"
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "avec",
@@ -1504,7 +1568,7 @@
           "t": "Flora?",
           "lemma": "flora",
           "pos": "name",
-          "stress": "flɔʁa",
+          "stress": null,
           "gloss": "Flora?",
           "gram": "proper noun"
         }
@@ -1536,7 +1600,7 @@
           "pos": "verb",
           "stress": "sɔm",
           "gloss": "are",
-          "gram": "conjugated verb"
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "exclues",
@@ -1544,7 +1608,7 @@
           "pos": "verb",
           "stress": "ɛkskly",
           "gloss": "excluded",
-          "gram": "conjugated verb"
+          "gram": "past participle (f pl)"
         },
         {
           "t": "de",
@@ -1560,7 +1624,7 @@
           "pos": "det",
           "stress": "la",
           "gloss": "the",
-          "gram": "determiner"
+          "gram": "definite feminine singular article"
         },
         {
           "t": "crèche.",
@@ -1568,7 +1632,7 @@
           "pos": "noun",
           "stress": "kʁɛʃ",
           "gloss": "daycare.",
-          "gram": "noun"
+          "gram": "feminine singular noun"
         }
       ]
     },
@@ -1588,9 +1652,17 @@
           "t": "vas-tu",
           "lemma": "aller",
           "pos": "verb",
-          "stress": "vaty",
-          "gloss": "are you doing",
-          "gram": "vas + tu (present 2sg + subject pronoun)"
+          "stress": "va",
+          "gloss": "are going",
+          "gram": "1st/2nd sg present indicative"
+        },
+        {
+          "t": "-tu",
+          "lemma": "tu",
+          "pos": "pron",
+          "stress": "ty",
+          "gloss": "you",
+          "gram": "subject pronoun, 2nd person singular inverted"
         },
         {
           "t": "gérer",
@@ -1601,12 +1673,20 @@
           "gram": "infinitive"
         },
         {
-          "t": "l'agence?",
+          "t": "l'",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "l",
+          "gloss": "the",
+          "gram": "definite feminine singular article, elided"
+        },
+        {
+          "t": "agence?",
           "lemma": "agence",
           "pos": "noun",
-          "stress": "laʒɑ̃s",
-          "gloss": "the agency",
-          "gram": "la (elided l') + agence, feminine singular"
+          "stress": "aʒɑ̃s",
+          "gloss": "agency?",
+          "gram": "feminine singular noun"
         }
       ]
     },
@@ -1628,7 +1708,7 @@
           "pos": "verb",
           "stress": "pø",
           "gloss": "can",
-          "gram": "conjugated verb"
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "tout",
@@ -1636,7 +1716,7 @@
           "pos": "pron",
           "stress": "tu",
           "gloss": "everything",
-          "gram": "pronoun"
+          "gram": "indefinite pronoun"
         },
         {
           "t": "faire",
@@ -1660,7 +1740,7 @@
           "pos": "adj",
           "stress": "mɛm",
           "gloss": "same",
-          "gram": "adjective"
+          "gram": "adjective in idiom"
         },
         {
           "t": "temps.",
@@ -1668,7 +1748,7 @@
           "pos": "noun",
           "stress": "tɑ̃",
           "gloss": "time.",
-          "gram": "noun"
+          "gram": "masculine singular noun in idiom"
         }
       ]
     },
@@ -1682,7 +1762,7 @@
           "pos": "det",
           "stress": "œ̃",
           "gloss": "a",
-          "gram": "determiner"
+          "gram": "indefinite masculine singular article"
         },
         {
           "t": "bébé",
@@ -1690,7 +1770,7 @@
           "pos": "noun",
           "stress": "bebe",
           "gloss": "baby",
-          "gram": "noun"
+          "gram": "masculine singular noun"
         },
         {
           "t": "dans",
@@ -1706,7 +1786,7 @@
           "pos": "det",
           "stress": "le",
           "gloss": "the",
-          "gram": "determiner"
+          "gram": "definite plural article"
         },
         {
           "t": "bureaux,",
@@ -1714,15 +1794,23 @@
           "pos": "noun",
           "stress": "byʁo",
           "gloss": "offices,",
-          "gram": "noun"
+          "gram": "masculine plural noun"
         },
         {
-          "t": "c'est",
+          "t": "c'",
+          "lemma": "ce",
+          "pos": "pron",
+          "stress": "s",
+          "gloss": "it",
+          "gram": "demonstrative pronoun, elided"
+        },
+        {
+          "t": "est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "sɛ",
-          "gloss": "it's",
-          "gram": "ce (it) + est: present, 3rd person singular"
+          "stress": "ɛ",
+          "gloss": "is",
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "risqué.",
@@ -1730,7 +1818,7 @@
           "pos": "adj",
           "stress": "ʁiske",
           "gloss": "risky.",
-          "gram": "adjective"
+          "gram": "masculine singular adjective"
         }
       ]
     },
@@ -1752,7 +1840,7 @@
           "pos": "verb",
           "stress": "va",
           "gloss": "is going",
-          "gram": "conjugated verb"
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "dormir",
@@ -1776,7 +1864,7 @@
           "pos": "det",
           "stress": "lə",
           "gloss": "the",
-          "gram": "determiner"
+          "gram": "definite masculine singular article"
         },
         {
           "t": "tapis.",
@@ -1784,7 +1872,7 @@
           "pos": "noun",
           "stress": "tapi",
           "gloss": "carpet.",
-          "gram": "noun"
+          "gram": "masculine singular noun"
         }
       ]
     },
@@ -1814,7 +1902,7 @@
           "pos": "det",
           "stress": "le",
           "gloss": "the",
-          "gram": "determiner"
+          "gram": "definite plural article"
         },
         {
           "t": "clients",
@@ -1822,7 +1910,7 @@
           "pos": "noun",
           "stress": "klijɑ̃",
           "gloss": "clients, customers",
-          "gram": "noun"
+          "gram": "masculine plural noun"
         },
         {
           "t": "arrivent",
@@ -1830,7 +1918,7 @@
           "pos": "verb",
           "stress": "aʁiv",
           "gloss": "arrive",
-          "gram": "conjugated verb"
+          "gram": "3rd pl present indicative"
         },
         {
           "t": "bientôt?",
@@ -1850,7 +1938,7 @@
           "t": "Flora",
           "lemma": "flora",
           "pos": "name",
-          "stress": "flɔʁa",
+          "stress": null,
           "gloss": "Flora (name)",
           "gram": "proper noun"
         },
@@ -1860,7 +1948,7 @@
           "pos": "verb",
           "stress": "ɛ",
           "gloss": "is",
-          "gram": "conjugated verb"
+          "gram": "3rd sg present indicative"
         },
         {
           "t": "très",
@@ -1876,7 +1964,7 @@
           "pos": "adj",
           "stress": "kalm",
           "gloss": "calm",
-          "gram": "adjective"
+          "gram": "masculine singular"
         },
         {
           "t": "aujourd'hui.",
@@ -1906,7 +1994,7 @@
           "pos": "verb",
           "stress": "a",
           "gloss": "have",
-          "gram": "conjugated verb"
+          "gram": "1st/2nd sg present indicative"
         },
         {
           "t": "beaucoup",
@@ -1930,7 +2018,7 @@
           "pos": "noun",
           "stress": "ʁɑ̃devu",
           "gloss": "appointments",
-          "gram": "noun"
+          "gram": "masculine noun, invariable"
         },
         {
           "t": "importants.",
@@ -1938,7 +2026,7 @@
           "pos": "adj",
           "stress": "ɛ̃pɔʁtɑ̃",
           "gloss": "important.",
-          "gram": "adjective"
+          "gram": "masculine plural adjective"
         }
       ]
     },
@@ -1960,7 +2048,7 @@
           "pos": "verb",
           "stress": "ɡaʁd",
           "gloss": "keep",
-          "gram": "conjugated verb"
+          "gram": "1st/3rd sg present indicative"
         },
         {
           "t": "le",
@@ -1968,7 +2056,7 @@
           "pos": "det",
           "stress": "lə",
           "gloss": "the",
-          "gram": "determiner"
+          "gram": "definite masculine singular article"
         },
         {
           "t": "contrôle",
@@ -1976,7 +2064,7 @@
           "pos": "noun",
           "stress": "kɔ̃tʁol",
           "gloss": "control",
-          "gram": "noun"
+          "gram": "masculine singular noun"
         },
         {
           "t": "de",
@@ -1992,7 +2080,7 @@
           "pos": "pron",
           "stress": "tu",
           "gloss": "everything.",
-          "gram": "pronoun"
+          "gram": "indefinite pronoun"
         }
       ]
     },
@@ -2001,12 +2089,20 @@
       "trans": "All right, I trust you.",
       "words": [
         {
-          "t": "D'accord,",
+          "t": "D'",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "d",
+          "gloss": "of",
+          "gram": "preposition"
+        },
+        {
+          "t": "accord,",
           "lemma": "accord",
           "pos": "noun",
-          "stress": "dakɔʁ",
-          "gloss": "okay?, all right?",
-          "gram": "de (elided d') + accord: fixed expression 'd'accord'"
+          "stress": "akɔʁ",
+          "gloss": "agreement,",
+          "gram": "masculine singular noun in idiom"
         },
         {
           "t": "je",
@@ -2022,7 +2118,7 @@
           "pos": "pron",
           "stress": "tə",
           "gloss": "you",
-          "gram": "pronoun"
+          "gram": "indirect object pronoun, 2nd person singular"
         },
         {
           "t": "fais",
@@ -2030,7 +2126,7 @@
           "pos": "verb",
           "stress": "fɛ",
           "gloss": "make / place",
-          "gram": "conjugated verb"
+          "gram": "imperfect indicative / conditional"
         },
         {
           "t": "confiance.",
@@ -2038,7 +2134,7 @@
           "pos": "noun",
           "stress": "kɔ̃fjɑ̃s",
           "gloss": "trust.",
-          "gram": "noun"
+          "gram": "feminine singular noun"
         }
       ]
     },
@@ -2060,7 +2156,7 @@
           "pos": "verb",
           "stress": "fɔʁmɔ̃",
           "gloss": "form",
-          "gram": "conjugated verb"
+          "gram": "1st pl present / imperative"
         },
         {
           "t": "une",
@@ -2068,7 +2164,7 @@
           "pos": "det",
           "stress": "yn",
           "gloss": "a",
-          "gram": "determiner"
+          "gram": "indefinite feminine singular article"
         },
         {
           "t": "équipe",
@@ -2076,7 +2172,7 @@
           "pos": "noun",
           "stress": "ekip",
           "gloss": "team",
-          "gram": "noun"
+          "gram": "feminine singular noun"
         },
         {
           "t": "solide.",
@@ -2084,7 +2180,7 @@
           "pos": "adj",
           "stress": "sɔlid",
           "gloss": "solid.",
-          "gram": "adjective"
+          "gram": "feminine singular adjective"
         }
       ]
     },
@@ -2114,7 +2210,7 @@
           "pos": "noun",
           "stress": "tʁavaj",
           "gloss": "work",
-          "gram": "noun"
+          "gram": "masculine singular noun"
         },
         {
           "t": "maintenant!",
@@ -2152,7 +2248,7 @@
           "pos": "noun",
           "stress": "tʁavaj",
           "gloss": "work",
-          "gram": "noun"
+          "gram": "masculine singular noun"
         },
         {
           "t": "maintenant!",
@@ -2204,11 +2300,11 @@
       "meanings": [
         {
           "en": "agreement, deal",
-          "note": "Standard masculine noun meaning 'deal, agreement'."
+          "note": "Masculine noun ('le accord', plural 'les accords') inherited through Romance vocabulary, used in everyday and professional French for 'agreement'."
         },
         {
           "en": "d'accord = okay, agreed",
-          "note": ""
+          "note": "Masculine noun ('le accord', plural 'les accords') inherited through Romance vocabulary, used in everyday and professional French for 'd'accord = okay'."
         }
       ],
       "moreForms": [],
@@ -2268,7 +2364,7 @@
       "meanings": [
         {
           "en": "agency",
-          "note": "une agence artistique = a talent agency"
+          "note": "Feminine noun ('la agence', plural 'les agences') inherited through Romance vocabulary, used in everyday and professional French for 'agency'."
         }
       ],
       "moreForms": [],
@@ -2345,15 +2441,15 @@
         },
         {
           "en": "to be (health), in 'ça va'",
-          "note": "ça va? = how are you? / are you okay?"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to be'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
         },
         {
           "en": "going to (near future)",
-          "note": "aller + infinitive: je vais partir"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'going to'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
         },
         {
           "en": "come on!",
-          "note": "imperative 'allez!' / 'allons!'"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'come on!'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
         }
       ],
       "moreForms": [
@@ -2479,16 +2575,12 @@
       "stress": "ale",
       "related": [
         {
-          "word": "allemand",
-          "gloss": "German"
+          "word": "allée",
+          "gloss": "path, aisle"
         },
         {
-          "word": "allergique",
-          "gloss": "allergic"
-        },
-        {
-          "word": "aller-retour",
-          "gloss": "round trip"
+          "word": "vas-y",
+          "gloss": "go ahead"
         }
       ]
     },
@@ -2500,7 +2592,7 @@
       "meanings": [
         {
           "en": "come on, let's go",
-          "note": "encouragement or urging"
+          "note": "Idiomatic French interj expression meaning 'come on', frequent in natural conversational dialogue."
         }
       ],
       "forms": null,
@@ -2533,35 +2625,6 @@
           "gloss": "allergic"
         }
       ]
-    },
-    "andréa": {
-      "lemma": "andréa",
-      "stress": "ɑ̃dʁea",
-      "pos": "name",
-      "gloss": "proper name Andréa",
-      "meanings": [
-        {
-          "en": "female first name",
-          "note": "Everyday French name meaning 'proper name Andréa'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Andréa est agente.",
-          "trans": "Andrea is an agent."
-        },
-        {
-          "text": "Je n'en peux plus, Andréa.",
-          "trans": "I can't take any more, Andréa."
-        },
-        {
-          "text": "Au revoir, Andréa!",
-          "trans": "Goodbye, Andréa!"
-        }
-      ],
-      "related": []
     },
     "arriver": {
       "examples": [
@@ -2614,11 +2677,11 @@
       "meanings": [
         {
           "en": "to arrive",
-          "note": "je viens d'arriver = I've just arrived"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to arrive'; conjugates with 'avoir' in compound tenses (past participle 'arrivé')."
         },
         {
           "en": "to happen",
-          "note": "qu'est-ce qui arrive?"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to happen'; conjugates with 'avoir' in compound tenses (past participle 'arrivé')."
         }
       ],
       "moreForms": [
@@ -2750,11 +2813,11 @@
       "meanings": [
         {
           "en": "today",
-          "note": "Everyday French adv meaning 'today'."
+          "note": "Invariable French adverb meaning 'today'; placed immediately after the conjugated verb in simple tenses."
         },
         {
           "en": "nowadays",
-          "note": ""
+          "note": "Invariable French adverb meaning 'nowadays'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "moreForms": [],
@@ -2762,8 +2825,12 @@
       "stress": "oʒuʁdɥi",
       "related": [
         {
-          "word": "très aujourd'hui",
-          "gloss": "related adverbial expression (today)"
+          "word": "jour",
+          "gloss": "day"
+        },
+        {
+          "word": "hier",
+          "gloss": "yesterday"
         }
       ]
     },
@@ -2788,13 +2855,22 @@
       "meanings": [
         {
           "en": "with",
-          "note": "Everyday French prep meaning 'with'."
+          "note": "Core French preposition meaning 'with', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "moreForms": [],
       "pos": "prep",
       "stress": "avɛk",
-      "related": []
+      "related": [
+        {
+          "word": "sans",
+          "gloss": "without"
+        },
+        {
+          "word": "ensemble",
+          "gloss": "together"
+        }
+      ]
     },
     "avoir": {
       "examples": [
@@ -2851,15 +2927,15 @@
         },
         {
           "en": "to be (an age)",
-          "note": "elle a quarante ans = she is forty"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'to be'; essential in everyday spoken and professional French."
         },
         {
           "en": "auxiliary for most past forms",
-          "note": "j'ai vécu = I lived"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'auxiliary for most past forms'; essential in everyday spoken and professional French."
         },
         {
           "en": "il y a = there is / there are",
-          "note": ""
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'il y a = there is'; essential in everyday spoken and professional French."
         }
       ],
       "moreForms": [
@@ -2992,8 +3068,12 @@
       "stress": "avwaʁ",
       "related": [
         {
-          "word": "avoir à voir",
-          "gloss": "to have to do with"
+          "word": "il y a",
+          "gloss": "there is, there are"
+        },
+        {
+          "word": "avoir besoin",
+          "gloss": "to need"
         }
       ]
     },
@@ -3022,7 +3102,7 @@
         },
         {
           "en": "beaucoup de = a lot of, many",
-          "note": ""
+          "note": "Invariable French adverb meaning 'beaucoup de = a lot of'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "moreForms": [],
@@ -3064,11 +3144,11 @@
       "meanings": [
         {
           "en": "soon",
-          "note": "à bientôt = see you soon"
+          "note": "Invariable French adverb meaning 'soon'; placed immediately after the conjugated verb in simple tenses."
         },
         {
           "en": "à bientôt: see you soon",
-          "note": ""
+          "note": "Invariable French adverb meaning 'a bientot: see you soon'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "moreForms": [],
@@ -3076,16 +3156,12 @@
       "stress": "bjɛ̃to",
       "related": [
         {
-          "word": "bien",
-          "gloss": "well"
+          "word": "tôt",
+          "gloss": "early, soon"
         },
         {
-          "word": "bien sûr",
-          "gloss": "of course"
-        },
-        {
-          "word": "bienvenue",
-          "gloss": "welcome"
+          "word": "à bientôt",
+          "gloss": "see you soon"
         }
       ]
     },
@@ -3141,7 +3217,7 @@
         },
         {
           "en": "bonne journée = have a nice day",
-          "note": ""
+          "note": "Descriptive French adjective meaning 'bonne journee = have a nice day'; agrees in gender and number with the noun it modifies."
         }
       ],
       "moreForms": [],
@@ -3149,8 +3225,8 @@
       "stress": "bɔ̃",
       "related": [
         {
-          "word": "bonement",
-          "gloss": "in a good manner (adv.)"
+          "word": "bon",
+          "gloss": "right"
         }
       ]
     },
@@ -3192,11 +3268,11 @@
       "meanings": [
         {
           "en": "office",
-          "note": "Standard masculine noun meaning 'office; desk'."
+          "note": "Masculine noun ('le bureau', plural 'les bureaux') inherited through Romance vocabulary, used in everyday and professional French for 'office'."
         },
         {
           "en": "desk",
-          "note": ""
+          "note": "Masculine noun ('le bureau', plural 'les bureaux') inherited through Romance vocabulary, used in everyday and professional French for 'desk'."
         }
       ],
       "moreForms": [],
@@ -3205,8 +3281,8 @@
       "stress": "byʁo",
       "related": [
         {
-          "word": "le/la bureau",
-          "gloss": "the office (with article)"
+          "word": "un bureau / des bureaux",
+          "gloss": "a office / offices"
         }
       ]
     },
@@ -3248,7 +3324,7 @@
       "meanings": [
         {
           "en": "baby",
-          "note": "always masculine, even for a girl"
+          "note": "Masculine noun ('le bébé', plural 'les bébés') inherited through Romance vocabulary, used in everyday and professional French for 'baby'."
         }
       ],
       "moreForms": [],
@@ -3257,8 +3333,8 @@
       "stress": "bebe",
       "related": [
         {
-          "word": "le/la bébé",
-          "gloss": "the baby (with article)"
+          "word": "un bébé / des bébés",
+          "gloss": "a baby / babys"
         }
       ]
     },
@@ -3306,11 +3382,11 @@
       "meanings": [
         {
           "en": "calm, relaxed, composed",
-          "note": "rester calme = to stay calm"
+          "note": "Descriptive French adjective meaning 'calm'; agrees in gender and number with the noun it modifies."
         },
         {
           "en": "quiet, peaceful (place)",
-          "note": "une rue calme = a quiet street"
+          "note": "Descriptive French adjective meaning 'quiet'; agrees in gender and number with the noun it modifies."
         }
       ],
       "moreForms": [],
@@ -3381,7 +3457,16 @@
       "moreForms": [],
       "pos": "det",
       "stress": "sə",
-      "related": []
+      "related": [
+        {
+          "word": "cet",
+          "gloss": "this (before vowel)"
+        },
+        {
+          "word": "cette",
+          "gloss": "this (feminine)"
+        }
+      ]
     },
     "client": {
       "examples": [
@@ -3421,7 +3506,7 @@
       "meanings": [
         {
           "en": "client, customer",
-          "note": "feminine: cliente"
+          "note": "Masculine noun ('le client', plural 'les clients') inherited through Romance vocabulary, used in everyday and professional French for 'client'."
         }
       ],
       "moreForms": [],
@@ -3456,15 +3541,15 @@
       "meanings": [
         {
           "en": "how",
-          "note": "comment ça va? = how are you?"
+          "note": "Manner adverb formed by adding '-ment' (from Latin 'mente', 'with a ... mind') to the feminine adjective stem. Prefix 'com-' (from Latin 'cum') means 'with, together'."
         },
         {
           "en": "you bet!",
-          "note": "et comment! = and how!"
+          "note": "Manner adverb formed by adding '-ment' (from Latin 'mente', 'with a ... mind') to the feminine adjective stem. Prefix 'com-' (from Latin 'cum') means 'with, together'."
         },
         {
           "en": "sorry?, pardon?",
-          "note": "comment? when you didn't hear"
+          "note": "Manner adverb formed by adding '-ment' (from Latin 'mente', 'with a ... mind') to the feminine adjective stem. Prefix 'com-' (from Latin 'cum') means 'with, together'."
         }
       ],
       "moreForms": [],
@@ -3497,24 +3582,20 @@
         }
       ],
       "forms": {
-        "title": "Singular & plural",
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
         "rows": [
           {
             "cells": [
-              "Singular",
-              "la confiance"
-            ]
-          },
-          {
-            "cells": [
-              "Plural",
+              "form",
+              "la confiance",
               "les confiances"
             ]
           }
-        ],
-        "columns": [
-          "Form",
-          "French"
         ]
       },
       "gender": "f",
@@ -3523,17 +3604,17 @@
       "meanings": [
         {
           "en": "trust, confidence",
-          "note": "faire confiance à = to trust"
+          "note": "Feminine noun ('la confiance', plural 'les confiances') inherited through Romance vocabulary, used in everyday and professional French for 'trust'."
         }
       ],
       "moreForms": [],
-      "plural": "—",
+      "plural": "confiances",
       "pos": "noun",
       "stress": "kɔ̃fjɑ̃s",
       "related": [
         {
-          "word": "le/la confiance",
-          "gloss": "the trust (with article)"
+          "word": "faire confiance à",
+          "gloss": "to trust"
         }
       ]
     },
@@ -3575,11 +3656,11 @@
       "meanings": [
         {
           "en": "control",
-          "note": "perdre le contrôle = to lose control"
+          "note": "Masculine noun ('le contrôle', plural 'les contrôles') inherited through Romance vocabulary, used in everyday and professional French for 'control'."
         },
         {
           "en": "check, inspection (contrôle fiscal = tax audit)",
-          "note": ""
+          "note": "Masculine noun ('le contrôle', plural 'les contrôles') inherited through Romance vocabulary, used in everyday and professional French for 'check'."
         }
       ],
       "moreForms": [],
@@ -3601,7 +3682,7 @@
       "meanings": [
         {
           "en": "daycare center, day nursery (for young children)",
-          "note": "Standard feminine noun meaning 'daycare, nursery'."
+          "note": "Feminine noun ('la crèche', plural 'les crèches') inherited through Romance vocabulary, used in everyday and professional French for 'daycare center'."
         }
       ],
       "forms": {
@@ -3640,8 +3721,8 @@
       "plural": "crèches",
       "related": [
         {
-          "word": "le/la crèche",
-          "gloss": "the daycare (with article)"
+          "word": "même",
+          "gloss": "same, very"
         }
       ]
     },
@@ -3666,11 +3747,11 @@
       "meanings": [
         {
           "en": "in, inside",
-          "note": "j'étais dans les sous-vêtements"
+          "note": "Core French preposition meaning 'in', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "in (time from now)",
-          "note": "dans une heure = in an hour"
+          "note": "Core French preposition meaning 'in', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "moreForms": [],
@@ -3678,16 +3759,12 @@
       "stress": "dɑ̃",
       "related": [
         {
-          "word": "danse",
-          "gloss": "dance"
+          "word": "dedans",
+          "gloss": "inside, within"
         },
         {
-          "word": "danser",
-          "gloss": "to dance"
-        },
-        {
-          "word": "danseur",
-          "gloss": "dancer"
+          "word": "en",
+          "gloss": "in, within"
         }
       ]
     },
@@ -3716,19 +3793,19 @@
         },
         {
           "en": "from",
-          "note": ""
+          "note": "Core French preposition meaning 'from', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "some, any (partitive)",
-          "note": "de la chance"
+          "note": "Core French preposition meaning 'some', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "after a negation: no",
-          "note": "pas de chance"
+          "note": "Core French preposition meaning 'after a negation: no', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "becomes d' before a vowel",
-          "note": ""
+          "note": "Core French preposition meaning 'becomes d' before a vowel', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "moreForms": [],
@@ -3796,7 +3873,7 @@
       "meanings": [
         {
           "en": "to sleep",
-          "note": "mal dormir = to sleep badly"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'to sleep'; essential in everyday spoken and professional French."
         }
       ],
       "moreForms": [
@@ -3928,17 +4005,26 @@
         },
         {
           "en": "it",
-          "note": "for feminine nouns"
+          "note": "High-frequency French pronoun meaning 'it'; clitic forms precede the conjugated verb."
         },
         {
           "en": "her",
-          "note": "after a preposition: avec elle"
+          "note": "High-frequency French pronoun meaning 'her'; clitic forms precede the conjugated verb."
         }
       ],
       "moreForms": [],
       "pos": "pron",
       "stress": "ɛl",
-      "related": []
+      "related": [
+        {
+          "word": "elles",
+          "gloss": "they (f.)"
+        },
+        {
+          "word": "il",
+          "gloss": "he"
+        }
+      ]
     },
     "en": {
       "examples": [
@@ -3961,7 +4047,7 @@
       "meanings": [
         {
           "en": "in",
-          "note": "preposition: en vacances, en huit ans"
+          "note": "Core French preposition meaning 'in', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "of it, of them",
@@ -3971,7 +4057,16 @@
       "moreForms": [],
       "pos": "prep",
       "stress": "ɑ̃",
-      "related": []
+      "related": [
+        {
+          "word": "dans",
+          "gloss": "in, inside"
+        },
+        {
+          "word": "en fait",
+          "gloss": "in fact"
+        }
+      ]
     },
     "et": {
       "examples": [
@@ -3994,17 +4089,26 @@
       "meanings": [
         {
           "en": "and",
-          "note": "the t is never pronounced"
+          "note": "French conjunction meaning 'and', used to link clauses in spoken and written discourse."
         },
         {
           "en": "and how!",
-          "note": "et comment! = you bet"
+          "note": "French conjunction meaning 'and how!', used to link clauses in spoken and written discourse."
         }
       ],
       "moreForms": [],
       "pos": "conj",
       "stress": "e",
-      "related": []
+      "related": [
+        {
+          "word": "ou",
+          "gloss": "or"
+        },
+        {
+          "word": "aussi",
+          "gloss": "also"
+        }
+      ]
     },
     "exclure": {
       "lemma": "exclure",
@@ -4014,7 +4118,7 @@
       "meanings": [
         {
           "en": "to exclude, to expel, to bar",
-          "note": "être exclu de = to be excluded from"
+          "note": "Irregular third-group French verb inherited from core Latin roots, used across registers for 'to exclude'."
         }
       ],
       "forms": {
@@ -4243,11 +4347,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "pour faire quoi? = to do what?"
+          "note": "Irregular third-group French verb inherited from core Latin roots, used across registers for 'to do'."
         },
         {
           "en": "to make",
-          "note": "faire un café"
+          "note": "Irregular third-group French verb inherited from core Latin roots, used across registers for 'to make'."
         },
         {
           "en": "to go (an activity)",
@@ -4377,12 +4481,12 @@
       "stress": "fɛʁ",
       "related": [
         {
-          "word": "faire attention",
-          "gloss": "to pay attention"
+          "word": "refaire",
+          "gloss": "to redo, make again"
         },
         {
-          "word": "refaire",
-          "gloss": "redo"
+          "word": "en fait",
+          "gloss": "in fact, actually"
         }
       ]
     },
@@ -4402,24 +4506,20 @@
         }
       ],
       "forms": {
-        "title": "Singular & plural",
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
         "rows": [
           {
             "cells": [
-              "Singular",
-              "la fille"
-            ]
-          },
-          {
-            "cells": [
-              "Plural",
+              "form",
+              "la fille",
               "les filles"
             ]
           }
-        ],
-        "columns": [
-          "Form",
-          "French"
         ]
       },
       "gender": "f",
@@ -4428,11 +4528,11 @@
       "meanings": [
         {
           "en": "daughter",
-          "note": "ma fille = my daughter"
+          "note": "Feminine noun ('la fille', plural 'les filles') inherited through Romance vocabulary, used in everyday and professional French for 'daughter'."
         },
         {
           "en": "girl",
-          "note": "une petite fille = a little girl"
+          "note": "Feminine noun ('la fille', plural 'les filles') inherited through Romance vocabulary, used in everyday and professional French for 'girl'."
         }
       ],
       "moreForms": [],
@@ -4441,39 +4541,10 @@
       "stress": "fij",
       "related": [
         {
-          "word": "le/la fille",
-          "gloss": "the daughter (with article)"
+          "word": "ma fille",
+          "gloss": "my daughter"
         }
       ]
-    },
-    "flora": {
-      "lemma": "flora",
-      "stress": "flɔʁa",
-      "pos": "name",
-      "gloss": "Flora (name)",
-      "meanings": [
-        {
-          "en": "female first name",
-          "note": "Everyday French name meaning 'Flora (name)'."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Flora est le bébé.",
-          "trans": "Flora is the baby."
-        },
-        {
-          "text": "Tu pourrais garder Flora cet après-midi?",
-          "trans": "Could you watch Flora this afternoon?"
-        },
-        {
-          "text": "Nous voulons le bonheur de Flora.",
-          "trans": "We want Flora's happiness."
-        }
-      ],
-      "related": []
     },
     "former": {
       "examples": [
@@ -4530,7 +4601,7 @@
         },
         {
           "en": "to form, to make up",
-          "note": "former un groupe"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to form'; conjugates with 'avoir' in compound tenses (past participle 'formé')."
         }
       ],
       "moreForms": [
@@ -4696,11 +4767,11 @@
       "meanings": [
         {
           "en": "to keep",
-          "note": "garder un enfant"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to keep'; conjugates with 'avoir' in compound tenses (past participle 'gardé')."
         },
         {
           "en": "to look after",
-          "note": "garder un enfant"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to look after'; conjugates with 'avoir' in compound tenses (past participle 'gardé')."
         }
       ],
       "moreForms": [
@@ -4866,7 +4937,7 @@
       "meanings": [
         {
           "en": "to manage, to handle",
-          "note": "c'est moi qui gère = I'm handling it"
+          "note": "Regular first-group '-er' verb (from Latin '-are') meaning 'to manage'; conjugates with 'avoir' in compound tenses (past participle 'géré')."
         }
       ],
       "moreForms": [
@@ -5059,13 +5130,22 @@
       "meanings": [
         {
           "en": "I",
-          "note": "j' before a vowel"
+          "note": "High-frequency French pronoun meaning 'I'; clitic forms precede the conjugated verb."
         }
       ],
       "moreForms": [],
       "pos": "pron",
       "stress": "ʒə",
-      "related": []
+      "related": [
+        {
+          "word": "me",
+          "gloss": "me, myself"
+        },
+        {
+          "word": "moi",
+          "gloss": "me (stressed)"
+        }
+      ]
     },
     "journée": {
       "examples": [
@@ -5171,7 +5251,7 @@
       "meanings": [
         {
           "en": "the (definite article)",
-          "note": "le, la, l', les"
+          "note": "Idiomatic French det expression meaning 'the', frequent in natural conversational dialogue."
         },
         {
           "en": "him, her, it, them (object pronoun)",
@@ -5181,7 +5261,16 @@
       "moreForms": [],
       "pos": "det",
       "stress": "lə",
-      "related": []
+      "related": [
+        {
+          "word": "la",
+          "gloss": "the (feminine)"
+        },
+        {
+          "word": "les",
+          "gloss": "the (plural)"
+        }
+      ]
     },
     "maintenant": {
       "examples": [
@@ -5204,7 +5293,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "Everyday French adv meaning 'now'."
+          "note": "Invariable French adverb meaning 'now'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "moreForms": [],
@@ -5224,16 +5313,12 @@
     "merci": {
       "examples": [
         {
-          "text": "Je prends ça. Merci.",
-          "trans": "I'll take that. Thanks."
+          "text": "Merci beaucoup pour votre aide précieuse aujourd'hui.",
+          "trans": "Thank you very much for your valuable help today."
         },
         {
-          "text": "Merci, au revoir!",
-          "trans": "Thank you, goodbye!"
-        },
-        {
-          "text": "Merci.",
-          "trans": "Thank you."
+          "text": "Je voudrais vous dire un grand merci pour votre confiance.",
+          "trans": "I would like to say a big thank you for your trust."
         }
       ],
       "forms": null,
@@ -5242,7 +5327,7 @@
       "meanings": [
         {
           "en": "thank you, thanks",
-          "note": "merci beaucoup = thank you very much"
+          "note": "Idiomatic French interj expression meaning 'thank you', frequent in natural conversational dialogue."
         }
       ],
       "moreForms": [],
@@ -5303,11 +5388,11 @@
       "meanings": [
         {
           "en": "same",
-          "note": "before the noun: le même lifting"
+          "note": "Descriptive French adjective meaning 'same'; agrees in gender and number with the noun it modifies."
         },
         {
           "en": "even",
-          "note": "as an adverb: même Andréa = even Andréa"
+          "note": "Descriptive French adjective meaning 'even'; agrees in gender and number with the noun it modifies."
         }
       ],
       "moreForms": [],
@@ -5315,8 +5400,8 @@
       "stress": "mɛm",
       "related": [
         {
-          "word": "mêmement",
-          "gloss": "in a same manner (adv.)"
+          "word": "plus même",
+          "gloss": "more same"
         }
       ]
     },
@@ -5341,11 +5426,11 @@
       "meanings": [
         {
           "en": "we",
-          "note": "Everyday French pron meaning 'we, us'."
+          "note": "High-frequency French pronoun meaning 'we'; clitic forms precede the conjugated verb."
         },
         {
           "en": "us",
-          "note": ""
+          "note": "High-frequency French pronoun meaning 'us'; clitic forms precede the conjugated verb."
         }
       ],
       "moreForms": [],
@@ -5379,7 +5464,7 @@
       "meanings": [
         {
           "en": "yes",
-          "note": "Everyday French adv meaning 'yes'."
+          "note": "Invariable French adverb meaning 'yes'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "moreForms": [],
@@ -5387,8 +5472,12 @@
       "stress": "wi",
       "related": [
         {
-          "word": "bien",
-          "gloss": "related adverbial expression (yes)"
+          "word": "ouais",
+          "gloss": "yeah (informal)"
+        },
+        {
+          "word": "si",
+          "gloss": "yes (after negative)"
         }
       ]
     },
@@ -5443,11 +5532,11 @@
       "meanings": [
         {
           "en": "can, to be able to",
-          "note": "+ infinitive: tu peux commencer?"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'can'; essential in everyday spoken and professional French."
         },
         {
           "en": "may (permission)",
-          "note": "je peux t'appeler? = may I call you?"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'may'; essential in everyday spoken and professional French."
         },
         {
           "en": "to cope",
@@ -5553,8 +5642,12 @@
       "stress": "puvwaʁ",
       "related": [
         {
-          "word": "pouvez-vous",
-          "gloss": "can you"
+          "word": "possible",
+          "gloss": "possible"
+        },
+        {
+          "word": "puissant",
+          "gloss": "powerful"
         }
       ]
     },
@@ -5600,7 +5693,7 @@
         },
         {
           "en": "date, meeting",
-          "note": ""
+          "note": "Masculine noun ('le rendez-vous', plural 'les rendez-vous') inherited through Romance vocabulary, used in everyday and professional French for 'date'."
         }
       ],
       "moreForms": [],
@@ -5609,8 +5702,8 @@
       "stress": "ʁɑ̃devu",
       "related": [
         {
-          "word": "le/la rendez-vous",
-          "gloss": "the appointment (with article)"
+          "word": "avoir rendez-vous avec",
+          "gloss": "to have an appointment with"
         }
       ]
     },
@@ -5622,7 +5715,7 @@
       "meanings": [
         {
           "en": "risky, hazardous, perilous",
-          "note": "Everyday French adj meaning 'risky, hazardous'."
+          "note": "Descriptive French adjective meaning 'risky'; agrees in gender and number with the noun it modifies."
         }
       ],
       "forms": {
@@ -5696,21 +5789,30 @@
       "meanings": [
         {
           "en": "if",
-          "note": "becomes s' before il/ils"
+          "note": "French conjunction meaning 'if', used to link clauses in spoken and written discourse."
         },
         {
           "en": "so (adverb)",
-          "note": ""
+          "note": "French conjunction meaning 'so', used to link clauses in spoken and written discourse."
         },
         {
           "en": "yes (after a negative question)",
-          "note": ""
+          "note": "French conjunction meaning 'yes', used to link clauses in spoken and written discourse."
         }
       ],
       "moreForms": [],
       "pos": "conj",
       "stress": "si",
-      "related": []
+      "related": [
+        {
+          "word": "comme si",
+          "gloss": "as if"
+        },
+        {
+          "word": "sinon",
+          "gloss": "otherwise"
+        }
+      ]
     },
     "solide": {
       "lemma": "solide",
@@ -5720,7 +5822,7 @@
       "meanings": [
         {
           "en": "solid, strong, durable",
-          "note": "Everyday French adj meaning 'solid, strong, sturdy'."
+          "note": "Descriptive French adjective meaning 'solid'; agrees in gender and number with the noun it modifies."
         }
       ],
       "forms": {
@@ -5798,17 +5900,26 @@
       "meanings": [
         {
           "en": "on, onto",
-          "note": "sur la table, sur la route"
+          "note": "Core French preposition meaning 'on', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "on (a device)",
-          "note": "sur haut-parleur = on speaker"
+          "note": "Core French preposition meaning 'on', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "moreForms": [],
       "pos": "prep",
       "stress": "syʁ",
-      "related": []
+      "related": [
+        {
+          "word": "au-dessus",
+          "gloss": "above"
+        },
+        {
+          "word": "sous",
+          "gloss": "under"
+        }
+      ]
     },
     "tapis": {
       "lemma": "tapis",
@@ -5818,7 +5929,7 @@
       "meanings": [
         {
           "en": "carpet, rug (tapis rouge = red carpet)",
-          "note": "tapis rouge = red carpet"
+          "note": "Masculine noun ('le tapis', plural 'les tapis') inherited through Romance vocabulary, used in everyday and professional French for 'carpet'."
         }
       ],
       "forms": {
@@ -5857,8 +5968,8 @@
       "plural": "tapis",
       "related": [
         {
-          "word": "le/la tapis",
-          "gloss": "the carpet (with article)"
+          "word": "même",
+          "gloss": "same, very"
         }
       ]
     },
@@ -5883,17 +5994,22 @@
       "meanings": [
         {
           "en": "you (object, informal)",
-          "note": "before the verb; t' before a vowel"
+          "note": "High-frequency French pronoun meaning 'you'; clitic forms precede the conjugated verb."
         },
         {
           "en": "yourself",
-          "note": "reflexive"
+          "note": "High-frequency French pronoun meaning 'yourself'; clitic forms precede the conjugated verb."
         }
       ],
       "moreForms": [],
       "pos": "pron",
       "stress": "tə",
-      "related": []
+      "related": [
+        {
+          "word": "te",
+          "gloss": "you"
+        }
+      ]
     },
     "temps": {
       "examples": [
@@ -5933,11 +6049,11 @@
       "meanings": [
         {
           "en": "time",
-          "note": "tout le temps = all the time"
+          "note": "Masculine noun ('le temps', plural 'les temps') inherited through Romance vocabulary, used in everyday and professional French for 'time'."
         },
         {
           "en": "weather",
-          "note": "quel temps fait-il?"
+          "note": "Masculine noun ('le temps', plural 'les temps') inherited through Romance vocabulary, used in everyday and professional French for 'weather'."
         }
       ],
       "moreForms": [],
@@ -6003,7 +6119,7 @@
       "meanings": [
         {
           "en": "everything",
-          "note": "oui à tout = yes to everything"
+          "note": "High-frequency French pronoun meaning 'everything'; clitic forms precede the conjugated verb."
         },
         {
           "en": "all, everyone",
@@ -6011,11 +6127,11 @@
         },
         {
           "en": "at all",
-          "note": "pas du tout"
+          "note": "High-frequency French pronoun meaning 'at all'; clitic forms precede the conjugated verb."
         },
         {
           "en": "all, the whole",
-          "note": "before a noun: tout le monde = everyone"
+          "note": "High-frequency French pronoun meaning 'all'; clitic forms precede the conjugated verb."
         }
       ],
       "moreForms": [],
@@ -6074,11 +6190,11 @@
       "meanings": [
         {
           "en": "job",
-          "note": "un travail = a job"
+          "note": "Masculine noun ('le travail', plural 'les travaux') inherited through Romance vocabulary, used in everyday and professional French for 'job'."
         },
         {
           "en": "work",
-          "note": ""
+          "note": "Masculine noun ('le travail', plural 'les travaux') inherited through Romance vocabulary, used in everyday and professional French for 'work'."
         }
       ],
       "moreForms": [],
@@ -6121,7 +6237,7 @@
       "meanings": [
         {
           "en": "very",
-          "note": "Everyday French adv meaning 'very'."
+          "note": "Invariable French adverb meaning 'very'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "moreForms": [],
@@ -6129,8 +6245,12 @@
       "stress": "tʁɛ",
       "related": [
         {
-          "word": "très bien",
-          "gloss": "very well"
+          "word": "trop",
+          "gloss": "too, too much"
+        },
+        {
+          "word": "beaucoup",
+          "gloss": "a lot, very much"
         }
       ]
     },
@@ -6212,21 +6332,26 @@
       "meanings": [
         {
           "en": "a, an (indefinite article)",
-          "note": "feminine une"
+          "note": "Idiomatic French det expression meaning 'a', frequent in natural conversational dialogue."
         },
         {
           "en": "one (number)",
-          "note": "quarante et un = forty-one"
+          "note": "Idiomatic French det expression meaning 'one', frequent in natural conversational dialogue."
         },
         {
           "en": "un peu = a little",
-          "note": ""
+          "note": "Idiomatic French det expression meaning 'un peu = a little', frequent in natural conversational dialogue."
         }
       ],
       "moreForms": [],
       "pos": "det",
       "stress": "œ̃",
-      "related": []
+      "related": [
+        {
+          "word": "un",
+          "gloss": "a"
+        }
+      ]
     },
     "venir": {
       "examples": [
@@ -6279,11 +6404,11 @@
       "meanings": [
         {
           "en": "to come",
-          "note": "tu viens? = are you coming?"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'to come'; essential in everyday spoken and professional French."
         },
         {
           "en": "to come from",
-          "note": "venir de: je viens de la Côte d'Azur"
+          "note": "French '-ir' verb (from Latin '-ire') meaning 'to come from'; essential in everyday spoken and professional French."
         },
         {
           "en": "to have just (done)",
@@ -6415,6 +6540,10 @@
         {
           "word": "revenir",
           "gloss": "to come back"
+        },
+        {
+          "word": "devenir",
+          "gloss": "to become"
         }
       ]
     },
@@ -6439,21 +6568,30 @@
       "meanings": [
         {
           "en": "at, in",
-          "note": "place: à Paris, à mon cours"
+          "note": "Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "at",
-          "note": "time: à midi"
+          "note": "Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "au = à + le, aux = à + les",
-          "note": "contractions"
+          "note": "Core French preposition meaning 'au = a + le', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "moreForms": [],
       "pos": "prep",
       "stress": "a",
-      "related": []
+      "related": [
+        {
+          "word": "au",
+          "gloss": "to the, at the (m.)"
+        },
+        {
+          "word": "aux",
+          "gloss": "to the, at the (pl.)"
+        }
+      ]
     },
     "équipe": {
       "lemma": "équipe",
@@ -6463,7 +6601,7 @@
       "meanings": [
         {
           "en": "team, crew, staff",
-          "note": "Standard feminine noun meaning 'team, crew'."
+          "note": "Feminine noun ('la équipe', plural 'les équipes') inherited through Romance vocabulary, used in everyday and professional French for 'team'."
         }
       ],
       "forms": {
@@ -6558,11 +6696,11 @@
       "meanings": [
         {
           "en": "to be",
-          "note": "the most common verb"
+          "note": "Irregular third-group French verb inherited from core Latin roots, used across registers for 'to be'."
         },
         {
           "en": "c'est = it is, this is",
-          "note": "ce + est"
+          "note": "Irregular third-group French verb inherited from core Latin roots, used across registers for 'c'est = it is'."
         }
       ],
       "moreForms": [
@@ -6688,8 +6826,12 @@
       "stress": "ɛtʁ",
       "related": [
         {
-          "word": "reêtre",
-          "gloss": "verb family relative (to be)"
+          "word": "c'est",
+          "gloss": "it is, this is"
+        },
+        {
+          "word": "peut-être",
+          "gloss": "maybe, perhaps"
         }
       ]
     }

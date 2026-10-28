@@ -10,24 +10,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Сеня, ты принёс то особое средство? | Senya, did you bring that special remedy? | new | new |
+| 1 | Шеф | Сеня, ты принёс то особое средство? | Senya, did you bring that special remedy? | new | new |
 | 2 | Сеня | Да, шеф, это сильное средство. | Yes, chef, this is a strong remedy. | new | new |
 | 3 | Сеня | Это вообще новое мощное лекарство. | This is brand new powerful medicine. | #258 00:16:34: Это вообще новое | verbatim |
-| 4 | Аня | Как быстро оно начинает действовать? | How quickly does it start to act? | new | new |
+| 4 | Шеф | Как быстро оно начинает действовать? | How quickly does it start to act? | new | new |
 | 5 | Сеня | Очень быстро, шеф, буквально сразу. | Very quickly, chef, literally right away. | new | new |
 | 6 | Сеня | Одна таблетка решает все ваши проблемы. | One pill solves all your problems. | #259 00:16:37: Одна таблетка | verbatim |
-| 7 | Аня | И какой будет точный эффект? | And what will be the exact effect? | new | new |
+| 7 | Шеф | И какой будет точный эффект? | And what will be the exact effect? | new | new |
 | 8 | Сеня | Обещаю, клиент от унитаза не отойдёт! | I promise, the customer will not leave the toilet! | #259 00:16:37: клиент от унитаза не отойдет | verbatim |
-| 9 | Аня | Отлично, судья запомнит этот юбилей! | Excellent, the judge will remember this anniversary! | new | new |
+| 9 | Шеф | Отлично, судья запомнит этот юбилей! | Excellent, the judge will remember this anniversary! | new | new |
 | 10 | Сеня | Мы добавим таблетку в её суп? | Shall we add the pill into her soup? | new | new |
-| 11 | Аня | Нет, положим порошок прямо на гуся. | No, we will put the powder directly on the goose. | new | new |
+| 11 | Шеф | Нет, положим порошок прямо на гуся. | No, we will put the powder directly on the goose. | new | new |
 | 12 | Сеня | Главное, чтобы другие гости не отравились. | The main thing is that other guests do not get poisoned. | new | new |
-| 13 | Аня | Не бойся, я сделаю всё лично. | Do not fear, I will do everything personally. | new | new |
+| 13 | Шеф | Не бойся, я сделаю всё лично. | Do not fear, I will do everything personally. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Senya, did you bring that special remedy?' Direct address with a past perfective transitive question.
-- 'Yes, chef, this is a strong remedy.' Affirmative particle with a demonstrative predicate clause.
+- 'Yes, chef, this is a strong remedy.' Russian omits the present-tense verb 'to be' here, linking 'chef' directly with 'strong', combining 'chef' with 'strong' and 'remedy'.
 - 'This is brand new powerful medicine.' Demonstrative subject with intensifying adverb and coordinated adjectives.
 - 'How quickly does it start to act?' Interrogative adverbial phrase governing an imperfective infinitive.
 - 'Very quickly, chef, literally right away.' Degree adverb phrase with modal particle and temporal adverb.

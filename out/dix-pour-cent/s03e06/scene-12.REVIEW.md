@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'This spectral pallor is really magnificent.' The director praises the ghost aesthetic. The feminine adjective 'spectrale' evokes ghostly apparitions.
 - 'I am too cold, my lips are locking up.' Isabelle shivers under the cold wind. The reflexive verb 'se bloquer' means to lock up or freeze.
 - 'Isabelle, say your line now, please!' The director demands her cue while rolling. The imperative 'dites' instructs the speaker directly.
-- 'I cannot speak at all anymore.' Isabelle feels paralyzed by the low temperature. The negative phrase 'ne plus... du tout' indicates complete inability.
+- 'I cannot speak at all anymore.' Isabelle feels paralyzed by the low temperature. The clause hinges on the everyday verb meaning 'can'.
 - 'You save people and you freeze up?' The director contrasts her surgery skills with acting. The verb 'bloquer' here means to freeze emotionally or mentally.
 - 'To each their own trade, I am going back to the hospital.' Isabelle asserts her real calling. The proverb 'chacun son metier' means to each their own trade.
 - 'Wait Isabelle, do not leave like that!' Camille intervenes to salvage the video. The negative imperative 'ne partez pas' urges her not to walk away.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I just wanted to speak to Elvis.' Hicham explains why he called his ex-wife. The imperfect tense expresses his simple intention.
-- 'For this weekend, he will not come.' Carlotta refuses to send their son over. The future tense delivers bad news.
-- 'What do you mean, he will not come?' Hicham reacts with angry disbelief. The interrogative phrase challenges her statement.
-- 'He has a game on Saturday, it is important.' Carlotta prioritizes the soccer match. The adjective justifies the change of plans.
-- 'It is my weekend with him, Carlotta!' Hicham insists on his parental custody rights. The exclamation marks his strong frustration.
-- 'He does not want to come to Paris.' Carlotta delivers a harsh emotional blow. The negative verb claims the boy made the decision.
-- 'As for me, I do everything for him!' Hicham defends his dedication as a loving father. The stressed pronoun asserts his devotion.
-- 'Good evening, Andrea. May I come in for a moment?' Feeling lonely, he visits his colleague late at night. The polite question asks for shelter.
-- 'It is too late to talk work.' Andrea greets him with weary caution. The impersonal expression sets professional boundaries.
-- 'I am not here to work.' Hicham denies any professional motive. The negative sentence reveals personal vulnerability.
-- 'Please. May I see the little one?' He asks softly to see his newborn daughter. The polite request expresses paternal tenderness.
-- 'She is sleeping peacefully in her crib.' Andrea points toward the infant. The present tense describes the quiet nursery.
-- 'May I hold her?' Hicham asks for permission to hold the baby girl. The polite question seeks physical comfort.
+- 'I just wanted to speak to Elvis.' Hicham explains why he called his ex-wife. The clause hinges on the everyday verb meaning 'wanted'.
+- 'For this weekend, he will not come.' Carlotta refuses to send their son over. Notice how 'will come' leads directly into the noun meaning 'weekend'.
+- 'What do you mean, he will not come?' Hicham reacts with angry disbelief. In everyday spoken French, rising intonation on 'will come' at the end is enough to turn the sentence into a question.
+- 'He has a game on Saturday, it is important.' Carlotta prioritizes the soccer match. In spoken French, the little word before 'has' drops its final vowel and attaches with an apostrophe.
+- 'It is my weekend with him, Carlotta!' Hicham insists on his parental custody rights. Notice how the short vowel drops before a vowel sound around 'weekend', making the phrase flow smoothly as one unit.
+- 'He does not want to come to Paris.' Carlotta delivers a harsh emotional blow. Notice the classic French sandwich negation wrapping right around 'wants'.
+- 'As for me, I do everything for him!' Hicham defends his dedication as a loving father. Dropping the subject pronoun turns the verb for 'do' into a direct, punchy command.
+- 'Good evening, Andrea. May I come in for a moment?' Feeling lonely, he visits his colleague late at night. In everyday spoken French, rising intonation on 'can' at the end is enough to turn the sentence into a question.
+- 'It is too late to talk work.' Andrea greets him with weary caution. The verb meaning 'to talk' pairs naturally with the noun for 'work' in everyday conversation.
+- 'I am not here to work.' Hicham denies any professional motive. The clause hinges on the everyday verb meaning 'to work'.
+- 'Please. May I see the little one?' He asks softly to see his newborn daughter. Hicham uses the casual singular 'you' with 'pleases', showing close familiarity.
+- 'She is sleeping peacefully in her crib.' Andrea points toward the infant. Notice how 'sleeps' leads directly into the noun meaning 'crib'.
+- 'May I hold her?' Hicham asks for permission to hold the baby girl. The standard spoken question formula at the front turns the statement about 'can' into a natural inquiry.
 - 'Yes, hold her gently against you.' Andrea softens and hands him the child. The imperative verb guides his cautious embrace.

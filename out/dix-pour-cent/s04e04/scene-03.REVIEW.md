@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Gabriel, you look well!' Andrea teases Gabriel about his tired and rumpled morning look.
-- 'Hello Andrea, I got home late.' Gabriel confesses that his client kept him out until the early morning hours.
-- 'How did your long evening go?' Andrea asks how negotiations went over dinner after the play.
-- 'Sandrine Kiberlain was simply remarkable.' Gabriel enthusiastically describes the actress's extraordinary performance on stage.
-- 'Is she signing for the historical movie?' Andrea focuses directly on closing the lucrative film deal.
-- 'No, she hesitates a lot about signing.' Gabriel shares the unexpected obstacle delaying the production contract.
-- 'What does she want to do instead?' Andrea seeks clarification about what other roles Sandrine is considering.
-- 'She now dreams of doing stand-up comedy.' Gabriel reveals Sandrine's newfound obsession with live comedy stages.
-- 'Are you joking? She loves theater!' Andrea expresses pure shock at the prospect of an established dramatic star doing stand-up.
-- 'She wants to make the audience laugh.' Gabriel explains her visceral need for direct, unfiltered audience laughter.
-- 'We must convince her quickly.' Andrea urges Gabriel to guide their valuable star back to prestigious cinematic roles.
-- 'I am going to see her again today.' Gabriel confirms he will speak with her once more before the final curtain.
-- 'Reassure her about her immense talent.' Andrea encourages Gabriel to rebuild Sandrine's confidence gently.
-- 'I will do my best, Andrea.' Gabriel promises to give his all to keep the agency on track.
+- 'Hello Gabriel, you look well!' Andrea teases Gabriel about his tired and rumpled morning look. The adjective meaning 'good' takes its feminine form here to match the noun it describes.
+- 'Hello Andrea, I got home late.' Gabriel confesses that his client kept him out until the early morning hours. This conversational past tense combines a helper verb with the past participle for 'returned'.
+- 'How did your long evening go?' Andrea asks how negotiations went over dinner after the play. The adjective meaning 'long' takes its feminine form here to match the noun it describes.
+- 'Sandrine Kiberlain was simply remarkable.' Gabriel enthusiastically describes the actress's extraordinary performance on stage. This conversational past tense combines a helper verb with the past participle for 'been'.
+- 'Is she signing for the historical movie?' Andrea focuses directly on closing the lucrative film deal. Notice how 'signs' leads directly into the noun meaning 'movie'.
+- 'No, she hesitates a lot about signing.' Gabriel shares the unexpected obstacle delaying the production contract. The clause hinges on the everyday verb meaning 'hesitates'.
+- 'What does she want to do instead?' Andrea seeks clarification about what other roles Sandrine is considering. Inverting the verb and pronoun around 'wants' creates a crisp, polished question.
+- 'She now dreams of doing stand-up comedy.' Gabriel reveals Sandrine's newfound obsession with live comedy stages. The verb meaning 'dreams' pairs naturally with the noun for 'stand-up comedy' in everyday conversation.
+- 'Are you joking? She loves theater!' Andrea expresses pure shock at the prospect of an established dramatic star doing stand-up. Notice how 'are joking' leads directly into the noun meaning 'theater'.
+- 'She wants to make the audience laugh.' Gabriel explains her visceral need for direct, unfiltered audience laughter. The verb meaning 'wants' pairs naturally with the noun for 'audience' in everyday conversation.
+- 'We must convince her quickly.' Andrea urges Gabriel to guide their valuable star back to prestigious cinematic roles. The clause hinges on the everyday verb meaning 'must'.
+- 'I am going to see her again today.' Gabriel confirms he will speak with her once more before the final curtain. Notice how the short vowel drops before a vowel sound around 'am going', making the phrase flow smoothly as one unit.
+- 'Reassure her about her immense talent.' Andrea encourages Gabriel to rebuild Sandrine's confidence gently. The descriptive adjective for 'immense' agrees in gender and number with its noun.
+- 'I will do my best, Andrea.' Gabriel promises to give his all to keep the agency on track. The clause hinges on the everyday verb meaning 'will do'.
