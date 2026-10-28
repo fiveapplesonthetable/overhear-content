@@ -30,14 +30,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Delighted to welcome you to the finest restaurant!' "Rad" is "glad", used for "delighted". "Privetstvovat'", "to welcome", has "privet", hi, inside it.
 - 'We are opening our restaurant in two weeks.' "Cherez dve nedeli" is "in two weeks", literally "through two weeks". "Dve" is the feminine "two", because "nedelya" is feminine.
 - 'Meet her, this is my chef Elena.' "Poznakomsya" is "get acquainted", from "znakomyy", familiar. Elena is a woman, but "povar" stays masculine, so Mark says "moy shef-povar", not a feminine form.
-- 'She worked at the very best restaurant.' "Rabotala" is "worked", with -la for a woman. "V samom luchshem restorane" is "in the very best restaurant".
+- 'She worked at the very best restaurant.' "Rabotala", "worked", ends in "-la" because Elena is a woman. "V samom luchshem restorane" is almost word for word what Max said about his interview restaurant, so you already know it.
 - 'And has your chef not fallen sick yet?' "Zabolel" is "fell ill", from "bolet'", to hurt or be ill. "Yeshchyo ne" is "not yet". "Tvoy" is the friendly "your".
 - 'Do not worry, my chef will outlive you.' "Perezhivyot" is "pere-", over, plus "zhit'", to live: outlive. "Ne volnuysya" is the friendly "don't worry".
 - 'Vika, serve the hot dishes to the guests quickly!' "Skoreye" is "faster", the word from the coffee invitation. "Podavay" is "serve", and "goryachiye blyuda" is plural, "hot dishes".
-- 'Our guests have gotten very hungry.' "Progolodalis'" has "golod", hunger, inside it, and "pro-" for "thoroughly". The "-lis'" shows the plural.
+- 'Our guests have gotten very hungry.' "Progolodalis'" has "golod", hunger, inside it, and the whole word means "got hungry". The "-li" in it is the plural, for the guests, and "-s'" is the "self" bit the verb always carries.
 - 'Good day, they will bring everything right now.' "Prinesut" is "they will bring", with no subject. Russian uses an unnamed "they" for staff, like English "they'll bring it".
 - 'Just make sure there is no pepper at all.' "Chtoby" is "so that", introducing what he wants. "Ne bylo pertsa" is "there not be of pepper", with an "of" ending on "perets".
 - 'Very well, I will notify the head chef immediately.' "Nemedlenno" is "ne" plus "medlenno", slowly: not slowly, so immediately. "Preduprezhu" is "I will warn", in one word.
 - 'In the kitchen they are already preparing this order.' "Gotovyat" is "they prepare", again with no named subject. "Zakaz" is "order", the word the chef used in "according to your order".
 - 'In our kitchen the best masters work.' "U nas na kukhne" is "at us on the kitchen", Russian for "in our kitchen". "Mastera" is a plural in "-a", like "povara", cooks.
-- 'I will personally oversee this dish.' "Proslezhu" is "I will watch through", the family of "prosledi" from the kitchen. "Za etim blyudom" is "over this dish", the ending that "za" calls for.
+- 'I will personally oversee this dish.' "Proslezhu" is "I'll see to it", the same verb as "prosledi" at the stove. After "za", "eto blyudo" becomes "etim blyudom": over this dish.

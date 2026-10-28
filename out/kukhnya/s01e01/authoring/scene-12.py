@@ -36,7 +36,7 @@ WALK = [
     (2, None, '\'Your face is pale, your hands are shaking a bit.\' "Blednoye" is the "pale" from the dining-room scene. "Ruki" is "hands", plural, and "drozhat" is "they shake", so the ending matches the plural.'),
     (3, None, '\'Yes, the night was very wild.\' "Byla" is "was", and the -a comes from "noch\'", night, being feminine; for Max himself it would be "byl". "Burnoy" comes from "burya", a storm.'),
     (4, None, '\'Enjoy your meal.\' "Priyatnogo appetita" is literally "of pleasant appetite", with "I wish you" left out. Russians say it to anyone who is about to eat, not only in restaurants.'),
-    (5, None, '\'Who did you just say that to?\' "Komu" is "to whom", the "to" form of "who". "Seychas" is "just now" here, and "skazal" is "said", with -l for a man.'),
+    (5, None, '\'Who did you just say that to?\' "Komu" is "to whom", the "to" form of "kto", who. "Seychas" usually means "now", and here it means "just now".'),
     (6, None, '\'To a guest at the next table.\' The "-yu" on "gostyu" is the "to" ending. "Sosednim" is "neighbouring", from "sosed", neighbour. "Stolik" is the little table again.'),
     (7, None, '\'Would you like anything?\' "Chto-nibud\'" is "anything": add "-nibud\'" to "what" and you get "any". Compare "kogo-to", "someone". "Zhelayete" is a waiter\'s "do you wish", more formal than "khotite".'),
     (8, None, '\'Water.\' Max doesn\'t say "voda". He says "vody", "of water", the shape Russian uses for "some water". It\'s the quick way to order a drink.'),

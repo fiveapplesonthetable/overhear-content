@@ -26,11 +26,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait a minute... What are you doing here at all?' "Podozhdi" is the friendly command "wait", and "minutu" takes an -u. "Vobshche" is "at all", the word that makes her sound exasperated.
-- 'Hello, I am simply strolling through your restaurant.' "Privet" is the casual hello, as opposed to the long polite one. "Po tvoyemu restoranu" is "around your restaurant": "po" calls for that ending.
-- 'How did you dare to come into my establishment?' "Posmel" is "dared", with -l. "Zavedeniye" is a word for any place that's been "set up": restaurant, cafe, bar. It sounds a little grand, which suits Vika.
-- 'I was just chatting for a long time with your head chef.' "Tol'ko chto" is "just now", literally "only what". "Boltal" is slang for chatting. Here Max says "vashim", the polite "your", after "tvoyemu" earlier, so he slides between friendly and formal.
-- 'And what did you talk with him about?' "O chyom" is "about what": "chto" turns into "chyom" after "o". "S nim" is "with him", and Russian adds an "n" to "him" after "s".
+- 'Wait a minute... What are you doing here at all?' "Podozhdi" is the friendly command "wait", and "minuta" turns into "minutu" as the thing she's asking for. "Voobshche", "at all", is the word that makes her sound exasperated.
+- 'Hello, I am simply strolling through your restaurant.' "Privet" is the casual hello, nothing like the long polite one. "Po" here means "around", and it changes "tvoy restoran" into "po tvoyemu restoranu".
+- 'How did you dare to come into my establishment?' "Kak ty posmel" is the Russian "how dare you". "Zavedeniye" is any place that's been set up, a restaurant, a cafe, a bar, and it sounds a little grand.
+- 'I was just chatting for a long time with your head chef.' "Tol'ko chto", literally "only what", means "just now". "Boltal" is casual for chatting, and "vashim" is the "your" for a group, because the chef belongs to the whole restaurant, not to Vika alone.
+- 'And what did you talk with him about?' "O chyom" is "about what": "chto" turns into "chyom" after "o". "Razgovarival", "were talking", is a longer cousin of "govorit'", to speak.
 - 'He is persistently inviting me to work with him.' "Nastoychivo" is "persistently", from "nastoychivyy", with the -o ending. "K sebe" is "to himself", which Russian uses for "to his place".
 - 'You are joking, the chef never takes novices!' "Shutish'" comes from "shutka", a joke. "Nikogda ne beryot" is "never not takes", with the double negative. "Novichok" is a newcomer, from "novyy".
 - 'Here I stand and think, whether to agree or not.' "Vot stoyu" is "here I stand", close to the English phrase. "Ili net" is "or not", literally "or no".

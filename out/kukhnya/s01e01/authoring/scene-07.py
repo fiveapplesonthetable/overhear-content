@@ -31,15 +31,15 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'Never use that cheap cognac!\' "Nikogda ne" is "never not", a double negative, and Russian insists on it. "Ispol\'zuy" is a short, sharp "use!", and "konyak" is just cognac.'),
-    (1, None, '\'Yes, Chef, I understood everything!\' "Ponyal" is "understood", with -l for a man. Russians use the past to say "got it". "Vsyo", "everything", is the same word as in "and that\'s all?".'),
-    (2, None, '\'You ruined the meat sauce with this.\' "Isportil" is "portit\'", to spoil, with "is-" on the front, so "you spoiled it for good". "Sous dlya myasa" is "sauce for meat", and "myaso" becomes "myasa" after "dlya".'),
-    (3, None, '\'I simply wanted to add a vivid aroma.\' "Khotel" is "wanted", with -l for a man. "Yarkiy" is bright, usually for colours, so Max is claiming the sauce would have been vivid. "Aromat" is borrowed.'),
-    (4, None, '\'A real chef feels every taste of the dish.\' "Nastoyashchiy" is "real", the word from "true love". "Vkus bluda" is "taste of the dish", and "blyudo" changes to "bluda" for "of".'),
+    (1, None, '\'Yes, Chef, I understood everything!\' "Ponyal", "understood", is the past tense, and Russians use it where English says "got it". "Vsyo", "everything", is the same word as in "and that\'s all?".'),
+    (2, None, '\'You ruined the meat sauce with this.\' "Isportil" is "you ruined". "Etim", "with this", needs no separate word for "with": the "-im" ending does it. And "myaso" becomes "myasa" after "dlya", "for".'),
+    (3, None, '\'I simply wanted to add a vivid aroma.\' "Khotel" is "wanted", and "dobavit\'" is "to add". "Yarkiy" means bright, the word you\'d use for a bright colour, and here it\'s a bright, strong smell.'),
+    (4, None, '\'A real chef feels every taste of the dish.\' "Nastoyashchiy" is "real", the word from "true love" in the night scene. "Vkus blyuda" is "the taste of the dish": "blyudo" swaps its -o for -a to mean "of the dish".'),
     (5, None, '\'Forgive me, Chef, I will not do it anymore.\' Max uses the formal "prostite", "forgive", with his boss. "Ya ne budu" is "I won\'t be", and Russians leave it at that: a bare "ne budu" means "I won\'t do it again".'),
     (6, None, '\'Take a good bottle on the top shelf.\' "Voz\'mi" is "take", an irregular command people simply learn. "Verkhniy" is "top", from "verkh", the peak, and "polka" is "shelf", ending in -e after "na", "on".'),
     (7, None, '\'Now I will quickly bring the needed wine.\' "Seychas" means "right now", though it often means "in a moment". "Prinesu" is "I will bring", the "prinesite" of the bar scene with a different ending.'),
     (8, None, '\'And begin making this sauce anew!\' "Nachni" is the command "begin". "Zanovo" is "anew", and you can hear "novyy", new, inside it.'),
-    (9, None, '\'I will do everything correctly right now.\' "Sdelayu" has an "s-" on the front that means "done", so it\'s "I will have done". "Pryamo seychas" is "straight now", meaning "this very second".'),
-    (10, None, '\'Watch carefully the temperature on the stove.\' "Vnimatel\'no" comes from "vnimaniye", attention. "Smotri za" is "keep an eye on", literally "look behind". And "plita" becomes "plite" after "na", "on".'),
+    (9, None, '\'I will do everything correctly right now.\' "Sdelayu" is "I\'ll do", the form for getting a job finished rather than just working at it. "Pryamo seychas" is "straight now", this very second.'),
+    (10, None, '\'Watch carefully the temperature on the stove.\' "Vnimatel\'no", "carefully", comes from "vnimaniye", attention. "Smotri za" is "keep an eye on", and "plita", the stove, becomes "plite" after "na".'),
     (11, None, '\'Yes, Chef, I remember your rules!\' "Pomnyu" is "I remember", and "vashi pravila" is "your rules" in the polite form. "Pravila", rules, is family to "pravil\'no", correctly, so correct means "by the rules".'),
 ]

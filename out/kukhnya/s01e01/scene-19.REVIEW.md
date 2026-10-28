@@ -28,11 +28,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Everyone get to work, quickly!' "Vse za rabotu" is "everyone for work". "Bystro" is "quickly", the root of "bystreye", faster.
-- 'And you, go get changed!' "A ty" is "and you", with "a" for contrast: everyone else works, you change. "Pereodevaysya" is "pere-", re-, plus "odevat'", to dress, with a "self" on the end.
+- 'And you, go get changed!' "A ty" is "and you", with "a" for contrast: everyone else works, you change. "Pereodevaysya" is "pere-", re-, plus "odevat'", to dress, and the final "-sya" means you're dressing yourself.
 - 'Chef, I am ready. What should I do?' "Gotov" is "ready", from the same family as "gotovit'", to cook: cooking is getting things ready. "Chto mne delat'" is "what to me to do".
 - 'Why did you come to this kitchen?' "Pochemu" is "why". "Prishyol" is "came", and "na etu kukhnyu" has -u because it's movement toward.
 - 'Because I am a cook. I am a true professional.' "Pochemu" asks and "potomu chto" answers: "why" and "because" are a matching pair. "Professional" is borrowed.
-- 'A professional? Come here.' "Idi syuda" is literally "go here". Russians use "go" where English says "come" when the target is a place.
+- 'A professional? Come here.' "Idi syuda" is literally "go here". Russian uses one verb, "idti", for both "come" and "go" on foot, and "syuda", "to here", tells you which.
 - 'Look around at my cooks.' "Vokrug" is "v" plus "krug", in a circle, so "around". "Posmotri" is "look". "Moikh povarov" is "my cooks", ending in the plural "-ov".
 - 'What can you do yourself?' "Sam" is "yourself", which pushes the question back at Max. "Umeyesh'" is "you know how to", the skill word.
 - 'I can cook very well.' "Khorosho" is "well", from "khoroshiy", good. "Umeyu gotovit'" is "I know how to cook", with Max sure of himself.
@@ -40,4 +40,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'A great cook has come to us!' "Velikiy" is "great", as in a great king, and here it's mockery. "K nam" is "to us".
 - 'We waited for him for so long!' "Zhdali" is "we waited", and "yego" is "him". It's the same word as "his", and it never changes.
 - 'What work will I have?' "U menya budet" is "at me will be", the "I have" pattern in the future. "Kakaya", "what kind of", ends in "-aya" to match "rabota".
-- 'There is a special job for you!' "Yest'" is "there is". It's a word you've not heard yet in this show, and it's often dropped in the present. "Dlya tebya" is "for you", in the friendly form.
+- 'There is a special job for you!' "Yest'" is "there is", a word Russian often leaves out in the present, so when the chef says it, he means it. "Dlya tebya" is "for you", in the friendly form.

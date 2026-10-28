@@ -32,12 +32,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Chef, I cooked this dish.' Russian puts the news last, so "ya" comes at the end: "this dish cooked I". That is how Max says it was him.
 - 'I replaced your dish with mine.' "Zamenil" is "replaced", from "menyat'", to change. "Na svoyo" is "with my own", so Russian doesn't have to repeat the word "dish".
 - 'How did you dare do such a thing?' "Kak posmel" is "how dared", the same "posmel" as Vika used. "Takoye" is "such a thing", ending in -oye.
-- 'Remember once and for all: this is my kitchen!' "Zapomni" is a command from "pomnit'", to remember. "Raz i navsegda" is literally "once and forever".
+- 'Remember once and for all: this is my kitchen!' "Zapomni" is a command from "pomnit'", to remember, and "za-" makes it "get it into your head". "Raz i navsegda" is "once and forever".
 - 'You endangered a human being's life!' "Postavil pod ugrozu" is "put under threat", a stock phrase for "endangered". "Zhizn' cheloveka" is "life of a person", with an -a for "of".
 - 'Get out of here right now!' "Poshyol" is "went", used as a rude command. "Von" is "out" here, and "otsyuda" is "from here", the partner of "syuda".
 - 'Hello? Yes, Dima, I'm listening.' "Allo" is borrowed, like English "hello". "Ya slushayu" is "I am listening", Russian for "go ahead". Dima is Nagiyev's friendly name.
 - 'What news from the hospital, speak quickly.' "Novosti", "news", is always plural in Russian. "Bol'nitsa" has "bol'", pain, inside it. "Govori" is "speak".
 - 'What? The doctors discovered an aneurysm in him?' "U nego" is "at him", the "at me" pattern with "him", and "nego" gets its "n" after "u". "Anevrizmu" is the object, with -u.
 - 'Does that mean this saved his life?' "Spaslo" is "saved", from the same root as "spasibo" and "spasayesh'". "Yemu zhizn'" is "to him life", for "his life".
-- 'Chef, does that mean nobody died?' "Nikto ne umer" is "nobody didn't die", correct Russian with its double negative. "Umer" is a man's "died", and it has no -l.
+- 'Chef, does that mean nobody died?' "Nikto ne umer" is "nobody didn't die", and Russian needs both negatives. "Umer", "died", is masculine because "nikto" always takes the masculine, and unusually it has no -l.
 - 'Keep quiet, today you were simply incredibly lucky.' "Tebe povezlo" is "to you it was lucky": luck happens to a person. "Neveroyatno" is "ne" plus "veroyatno", probable: improbable.

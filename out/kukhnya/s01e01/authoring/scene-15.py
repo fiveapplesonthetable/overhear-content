@@ -37,9 +37,9 @@ WALK = [
     (4, None, '\'Another cook said that the chef is already here.\' "Drugoy" is "another", which looks like "drug", friend, with an ending. "Skazal, chto" is "said that", and Russian always puts a comma before "chto".'),
     (5, None, '\'The real head chef of this restaurant is me!\' The dash stands for "is", and "ya" comes last for punch. "Etogo restorana" is "of this restaurant", with "-ogo" and "-a" showing "of".'),
     (6, None, '\'That person already hired me for the job.\' "Prinyal" is "accepted", a second way to say "hired", after "vzyat\' na rabotu". "Tot chelovek" is "that person".'),
-    (7, None, '\'Who dared hire you without my permission?\' "Posmel" is "dared", with -l. "Bez" is "without", the same one as in "bez gaza". "Razresheniya" is "of permission", with an "of" ending.'),
-    (8, None, '\'I dream of cooking delicious dishes in the kitchen.\' "Mechtayu" is "I dream", from "mechta". "Vkusnyye blyuda" is plural, "tasty dishes", so the describing word ends in "-ye".'),
-    (9, None, '\'Only I command here and no one else.\' "Komanduyu" is borrowed from "commander". "Nikto bol\'she" is "nobody more", the Russian for "no one else", with the "ni-" word again.'),
-    (10, None, '\'Please, give me one small chance.\' "Dayte" is the formal "give". "Odin malen\'kiy shans" is "one small chance", and "shans" is borrowed.'),
+    (7, None, '\'Who dared hire you without my permission?\' "Kto posmel" is "who dared", a furious question in any kitchen. "Bez" is "without", as in water "bez gaza", and "razresheniye", permission, becomes "razresheniya" after it.'),
+    (8, None, '\'I dream of cooking delicious dishes in the kitchen.\' Max uses "mechtayu", "I dream", once more, and this time a plain verb follows it: "mechtayu gotovit\'", "I dream to cook". "Vkusnyye blyuda" is plural, so the describing word ends in "-ye".'),
+    (9, None, '\'Only I command here and no one else.\' "Komanduyu", "I command", sounds a lot like the English word. "Nikto bol\'she" is "nobody more", which is how Russian says "no one else".'),
+    (10, None, '\'Please, give me one small chance.\' "Dayte" is the polite "give", and "mne" is "to me". "Shans" is borrowed from French "chance", and "odin malen\'kiy", "one small", makes the request sound humble.'),
     (11, None, '\'Fine, now we will test your real culinary skills.\' "Ladno" is "fine" or "okay", the same word as in "da ladno". "Tvoi" is "your" in the friendly form, which tells Max the chef talks down to him.'),
 ]

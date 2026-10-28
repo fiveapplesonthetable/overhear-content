@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Miss, are you all right?' Russian has no neat word for "miss". Max calls out "devushka", which is simply "girl", and that's what people really say to a young woman they don't know. The rest is literally "with you, everything in order?", with the polite "you".
-- 'Yes, thank you for your help.' "Spasibo za" works like a little frame: "spasibo", then "za" for "for", then whatever you're thankful for. Swap in "kofe" and you've thanked someone for the coffee.
-- 'Oh, it looks like your nose is broken!' There's no "have" in this sentence. Russian says "u vas", "at you", and then names the thing: at you, a broken nose. This is how Russians say who has something.
-- 'My nose is my main instrument.' Nothing in the Russian means "is". In the present tense Russian just leaves it out, and a dash sits in its place. "Eto", "this", is the little helper that holds the sentence together.
-- 'Why is your nose so important to you?' "Pochemu" is "why", and "tak" is "so". Vika is still saying "vy", so she keeps her distance from Max. They've only just met.
-- 'Tomorrow I have an important job interview.' Same pattern as the nose: "u menya", "at me", is how Max says "I have". The long word for "interview" has "beseda", a chat, hiding in the middle, so it's a talk you sit down for.
-- 'What job do you want to get?' "Kem" is a special form of "who" that means "as whom". She's asking what role he wants, and the answer will have to wear a matching ending.
-- 'I want to work as a cook in a restaurant.' Here's the matching ending. "Povar" is a cook, and "povarom" is "as a cook". Russian has no word for "a", so the ending does that job. "V restorane" gets its own -e because of the "v", "in".
-- 'Really? I work in a restaurant too!' "Pravda" means "truth", so "really?" is literally "truth?". The small word "tozhe", "also", sits right after "I" and you'll hear it all day long.
-- 'So you and I have a lot in common.' Max has dropped "vy" and says "s toboy", "with you", in the friendly form. "U nas s toboy" is literally "at us with you", which is how Russian says "you and I have".
-- 'You are a very sweet and brave guy.' She uses the friendly "you" too. "Paren'" is the casual word for "guy". "Milyy" is the everyday word for sweet, nice.
-- 'Maybe we should go drink coffee together?' "Mozhet byt'" is "maybe", literally "can be". "Poydyom vypyem" has two verbs side by side, "let's go, let's drink", and Russian doesn't bother with an "and". "Vmeste" is "together".
-- 'With great pleasure, let's go quickly!' "S bolshim udovolstviem" is how you politely say yes to an invitation, literally "with big pleasure". "Skoreye" is "faster", the word you'd use to hurry someone along.
+- 'Miss, are you all right?' Russian has no neat word for "miss". Max calls out "devushka", literally "girl", and that's really what people say to a young woman they don't know. The rest is "with you, everything in order?", with the polite "vy" you use for a stranger.
+- 'Yes, thank you for your help.' "Spasibo za" is a frame you can reuse: "spasibo", then "za", "for", then whatever you're thankful for. "Spasibo za kofe" thanks someone for the coffee.
+- 'Oh, it looks like your nose is broken!' There's no "have" in this sentence. Russian says "u vas", "at you", and then names the thing: at you, a broken nose. That little "u" is how Russians say who has something, and you'll hear it all through this scene.
+- 'My nose is my main instrument.' Nothing in the Russian means "is". In the present tense Russian simply leaves it out, and "eto", "this", often fills the gap: "my nose, this is my main instrument".
+- 'Why is your nose so important to you?' "Pochemu" is "why", and "tak vazhen" is "so important". "Dlya vas", "for you", is the polite "you" again: Vika is still keeping a stranger at arm's length.
+- 'Tomorrow I have an important job interview.' Same pattern as the nose: "u menya", "at me", is how Max says "I have". The long word for "interview", "sobesedovaniye", has "beseda", a talk, hiding inside it.
+- 'What job do you want to get?' "Kem" is a form of "kto", "who", that means "as whom". So Vika literally asks "as whom do you want to get a job?", and the answer has to come back in the same "as" form.
+- 'I want to work as a cook in a restaurant.' Here's that answer. "Povar" is a cook, and "povarom" is "as a cook": the "-om" ending does the job of English "as". "V restorane", "in a restaurant", adds an -e to "restoran" after "v".
+- 'Really? I work in a restaurant too!' "Pravda" means "truth", so her "really?" is, word for word, "truth?". "Tozhe", "too", is a word you'll hear all day: "ya tozhe" is "me too".
+- 'So you and I have a lot in common.' Max switches from the polite "vy" to the friendly "ty" here. "U nas s toboy" is "at us with you", the friendly way to say "you and I have", and "mnogo obshchego" is "a lot in common".
+- 'You are a very sweet and brave guy.' Now Vika says "ty" as well. "Paren'" is the casual word for a guy, and "milyy" is the everyday word for sweet or nice.
+- 'Maybe we should go drink coffee together?' "Mozhet byt'" is "maybe", literally "can be". Then come two verbs side by side, "poydyom, vypyem", "let's go, let's drink", with no "and" between them. That's a very common way to suggest doing something together.
+- 'With great pleasure, let's go quickly!' "S bol'shim udovol'stviyem", "with great pleasure", is the warm way to accept an invitation. "Skoreye" means "quicker", and on its own it's how you hurry someone along.

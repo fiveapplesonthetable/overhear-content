@@ -38,8 +38,8 @@ WALK = [
     (5, None, '\'We will prepare the very best dish for them.\' "Prigotovim" is "we will prepare", one word. "Dlya nikh" is "for them", and Russian puts an "n" on "them" after little words like "dlya".'),
     (6, None, '\'They brought a new chef straight from India.\' "Priveli" is "brought", but for a person, by leading. For a thing it would be "prinesli". "Shef-povar" is "chef" and "cook" stuck together.'),
     (7, None, '\'They would have done better finding a cook from Tajikistan.\' "Luchshe" is "better", a cousin of "luchshiy", best. The small word "by" is what makes the sentence "would have".'),
-    (8, None, '\'You must greatly surprise our guests.\' "Dolzhen" is "must", and a woman would say "dolzhna". "Udivit\'" is "to surprise", sharing a root with "udivitel\'nykh", surprising, from the night scene.'),
+    (8, None, '\'You must greatly surprise our guests.\' "Dolzhen" is "must" in the form for a man; said to a woman it would be "dolzhna". "Udivit\'", "to surprise", shares a root with "udivitel\'nykh", "surprising", from the night scene.'),
     (9, None, '\'My signature cuisine will amaze absolutely everyone.\' "Avtorskaya kukhnya" is "author\'s cuisine", a phrase for a chef\'s own style, as if the chef were a writer. "Porazit" is "will amaze".'),
-    (10, None, '\'If you make a mistake, I will fire you immediately.\' "Yesli" is "if". "Oshibyosh\'sya" is built from "oshibka", a mistake, with a "self" on the end. "Uvolyu" is "I will fire", one word.'),
+    (10, None, '\'If you make a mistake, I will fire you immediately.\' "Yesli" is "if". "Oshibyosh\'sya", "you make a mistake", is the verb behind "oshibka", a mistake. "Uvolyu" is "I will fire", one word.'),
     (11, None, '\'Do not worry, the chef always keeps his word.\' "Ne volnuysya" is "don\'t worry", a command with "self". Barinov calls himself "shef" in the third person. "Derzhit slovo" is "holds the word", the same "hold" as "hold the menu".'),
 ]
