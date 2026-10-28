@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Viktor Petrovich, why did you call me here?' 'Vy' and 'pozvali' are both in the polite form, so Vika is using the formal 'you'. 'Syuda' is 'to here', as in coming over, while 'zdes' would be 'at here'.
-- 'Good morning, Vika! I have a surprise for you.' 'Utro' is a neuter word, so 'good' is 'dobroe', not 'dobry'. 'U menya' is 'at me', which is how Russians say 'I have', and 'dlya tebya' is 'for you'.
+- 'Good morning, Vika! I have a surprise for you.' 'Morning' is a neuter word, so 'good' ends in 'oe' and not 'y'. The 'I have' part is the Russian 'at me', followed by the surprise.
 - 'I finally came up with an absolutely new restaurant menu.' 'Nakonets' is 'finally', 'pridumal' is 'thought up', and 'absolyutno' is 'absolutely'. 'Menyu' is neuter and never changes, so 'new' is 'novoe'.
 - 'Really new? Show me your fresh ideas.' 'Deystvitelno' means 'really' and is a good one for expressing doubt. 'Pokazhi' is 'show!', in the friendly form.
 - 'Taste this soup, it is a real culinary masterpiece!' 'Poprobuy' means both 'try' and 'taste', in the friendly form. 'Shedevr' is the French 'chef-d'oeuvre' reworked, and 'kulinarny' is the same word as 'culinary'.
 - 'Wait, this is your usual old soup after all.' 'Podozhdi' is 'wait a moment'. 'Obychny' means 'usual' and 'stary' means 'old', and the little 'zhe' says 'it's the same one'.
 - 'But I added very tasty spices here!' Barinov stresses 'here', 'syuda', which actually means 'to here', as if he were pouring them in. The tasty bit is 'vkusny', and it's what you'd say about food you like.
 - 'And is this your usual fish from the past menu?' 'Ryba' is fish, and 'iz proshlogo menyu' is 'from the past menu'. 'Proshly' means 'past' or 'last', as in 'last year'.
-- 'No, this is a special French dish from the chef!' 'Osoboe' means 'special', and it's neuter to match 'blyudo'. 'Ot shefa' means 'from the chef', with the 'a' coming from 'ot'.
+- 'No, this is a special French dish from the chef!' The describing words for 'special' and 'French' match the neuter word for 'dish', so both end in 'oe'. 'From the chef' puts an 'a' on the end of 'chef'.
 - 'You simply changed old names to new ones!' 'Nazvaniya' are names of things, not people, and that is the word to use for dish names. Russian leaves out the word 'ones', so it's just 'into new'.
 - 'Does that not sound magnificent for the guests?' 'Razve' starts a question where the speaker expects a 'yes'. 'Zvuchit' is 'sounds', and 'velikolepno' means 'magnificent'.
 - 'You will not be able to stop these important changes.' 'Ne smozhesh' is 'you won't be able', so Vika is predicting the future. 'Peremeny' is 'changes' and it's always plural.

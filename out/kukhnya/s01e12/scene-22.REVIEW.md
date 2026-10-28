@@ -29,13 +29,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Nastya, do not be afraid, they already put out the fire.' 'Ne boysya' has the 'sya' in it, so fear is something you do to yourself. Nobody is named as putting the fire out, just 'they put out', and Russian happily does this.
 - 'All the people here are safe now.' 'V bezopasnosti' is 'in safety'. 'Bezopasnost' is built from 'bez', 'without', and 'opasnost', 'danger'.
 - 'Kostya, thank you so much for the help.' 'Ogromnoe' means 'huge', so 'huge thanks' is a warm 'thank you so much'. 'Za pomoshch' is 'for the help'.
-- 'You are such a brave guy to me!' 'Ty u menya' is literally 'you at me', and it means 'in my eyes you are'. 'Smely' is 'brave', and 'paren' is a guy or a boyfriend.
+- 'You are such a brave guy to me!' The phrase 'you at me' means 'in my eyes you are'. 'Brave' ends in 'y', and the word for a guy can also mean boyfriend.
 - 'I simply helped the people go outside.' 'Pomog' is 'helped', and the people being helped take an ending: 'lyudi' becomes 'lyudyam'. 'Vyyti' is 'to go out'.
-- 'You are a real hero of our restaurant!' 'Nastoyashchy' means 'real', and 'geroy' is 'hero'. 'Nashego restorana' is 'of our restaurant', with 'ego' as the 'of'.
-- 'We ask for forgiveness for this inconvenience.' 'Prosim proshcheniya' is a polite 'we apologise'. 'Neudobstva' is 'inconveniences', and it's built from 'ne', 'not', and 'udobstvo', 'comfort'.
+- 'You are a real hero of our restaurant!' 'Real' means genuine. 'Of our restaurant' gives 'restaurant' an ending that says 'of'.
+- 'We ask for forgiveness for this inconvenience.' 'Inconvenience' is built from 'not' plus 'comfort'. A polite 'we ask forgiveness' opens it.
 - 'The neighboring cafe is closed for technical reasons.' 'Zakryto' is 'closed' with an 'o' because 'kafe' counts as neuter. 'Po tekhnicheskim prichinam' is the standard way to say 'for technical reasons'.
 - 'And where do we have dinner now?' 'Pouzhinat' is 'to have supper', from 'uzhin', supper. 'Gde zhe' is 'where, then'. 'Nam' is 'for us'.
 - 'Hey, let's go to that other restaurant instead!' 'Slushayte' is 'listen', in the plural form. 'Luchshe' means 'better', but here it means 'instead', and 'tot' means 'that one over there'.
-- 'All the guests are coming straight to us!' 'Idut' is 'they are going'. 'K nam' is 'to us', and the little 'k' means 'towards'.
+- 'All the guests are coming straight to us!' The little word for 'towards' sits in front of 'us', which turns into 'nam'. 'Straight' goes in front of it.
 - 'Today our dining room will be full of people.' The 'of' in 'full of people' is hidden in the ending: 'lyudi' turns into 'lyudey'. English needs a word there, but Russian just changes the last syllable.
 - 'Let's go quickly to work, beloved bartender!' 'Lyubimy' is 'beloved', from the action 'to love'. 'Skoree' is 'quickly'. 'Na rabotu' is 'to work', with 'u' for direction.

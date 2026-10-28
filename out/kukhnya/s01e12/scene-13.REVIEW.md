@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Because work requires order and discipline.' After 'requires', the things required change their endings, so 'poryadok' turns into 'poryadka' and 'distsiplina' into 'distsipliny'. 'Rabota' is work, and you can hear it in 'rabotay' below.
 - 'Did you make this strange decision because of Sasha?' Russian says 'accept a decision' where English says 'make one'. 'Iz-za Sashi' is 'because of Sasha', and Sasha picks up an 'i' ending.
 - 'Stop asking these foolish personal questions.' Russian says 'give a question' for 'ask one', so 'zadavat' is a handy partner for 'vopros'. 'Perestan' is 'stop'.
-- 'I just want to understand your real feelings.' 'Chuvstva' is 'feelings', from the same family as the action 'to feel'. 'Nastoyashchie' means 'real', and it's one of those words that works for anything.
+- 'I just want to understand your real feelings.' 'Feelings' is a close cousin of 'to feel'. 'Real' is a handy booster that fits any noun.
 - 'I have no feelings towards you!' 'U menya net' is literally 'at me there is not', and that's how Russian says 'I don't have'. The thing that's missing, 'chuvstv', takes a new ending after 'net'. 'Nikakikh' means 'none at all'.
 - 'But you will forget this rule yourself!' 'Sama' is 'yourself', and it points the finger at her. The little 'zhe' adds 'after all'.
 - 'I always strictly observe all my rules.' 'Strogo' means 'strictly', and 'soblyudayu' is 'I keep', as in keeping a rule. 'Svoi' means 'my own', which Russians use whenever the owner is the one doing the action.

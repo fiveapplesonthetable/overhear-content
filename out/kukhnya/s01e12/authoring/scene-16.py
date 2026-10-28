@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = 'Barinov and Vika are standing outside the restaurant when somebody hands them a flyer for the new Italian place across the street. It makes big promises, and Barinov is not impressed. Here it is in Russian first.'
-OPENER = "Let's go through it line by line and see how the two of them take the news."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Barinov and Vika agree on one thing: the competition won't take their guests. When you watch, listen for the word for 'best' in several shapes. Until next time."
+INTRO = 'Barinov and Vika are standing outside the restaurant when somebody hands them a flyer for the new Italian place across the street. It makes big promises, and Barinov is not impressed. First, in Russian, what they say.'
+OPENER = 'Line by line, to see how the two of them take the news.'
+TRANSITION = 'Now it all again, in one go.'
+OUTRO = "Barinov and Vika agree on one thing: the competition won't take their guests. Listen out for several forms of the word for 'best'. Until next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Посмотри, что раздают прямо у нашей двери!', 'Look at what they hand out right at our door!', [(221, 'что я нашел под дверью ресторана')], ''),
@@ -36,12 +36,12 @@ WALK = [
     (2, None, "'Nearby a new restaurant is opening today.' 'Ryadom' means 'nearby' or 'right next door'. 'Otkryvaetsya' ends in 'sya', so it literally 'opens itself'."),
     (3, None, "'They call themselves the best restaurant in town.' 'Nazyvayut sebya' is literally 'they call themselves', in nearly the same shape as English. 'Luchshim restoranom' ends in 'm' for 'as', and 'goroda' means 'of the city'."),
     (4, None, "'They brazenly hand out advertisements to our guests!' 'Naglo' means 'cheekily' or 'brazenly', and it's a sharp word. 'Nashim gostyam' is 'to our guests', where the 'm' ending shows who gets them."),
-    (5, None, "'Could they really be promising tastier food?' 'Neuzheli' is 'could it really be that', and it signals surprise. 'Bolee vkusnuyu' is 'more tasty', made with 'bolee', 'more'."),
+    (5, None, "'Could they really be promising tastier food?' Surprise opens the question: 'could it really be that...'. 'More tasty' is built by putting 'more' in front of 'tasty', the way English does."),
     (6, None, "'They write that with them it is much better.' 'U nikh' is 'at them', so 'with them'. 'Namnogo luchshe' is 'much better', and 'luchshe' is not a regular form: it's the word that stands for 'better' in everyday talk."),
     (7, None, "'Chef, you should not be so nervous.' 'Ne nado' is 'no need'. 'Tak silno' is 'so strongly' and 'nervnichat' is 'to be nervous', both clear from the English."),
-    (8, None, "'I will go and chase away this insolent fellow.' 'Progonyu' is 'I will drive off'. 'Nagly' is 'insolent', from the same root as 'naglo', and 'paren' is the everyday word for a guy."),
+    (8, None, "'I will go and chase away this insolent fellow.' 'Insolent' shares a root with 'brazenly'. The everyday word for 'a guy' sits in the second half."),
     (9, None, "'We simply must show top quality.' 'Dolzhny' means 'must', and 'vysshy klass' is 'highest class'. 'Vysshy' is related to 'vysoky', high."),
-    (10, None, "'Our restaurant is the best in all Moscow!' 'Luchshy' is 'the best', and it's the same word as 'better', with an ending. 'Vo vsey Moskve' is 'in all Moscow', with 'vo' instead of 'v' because the next word begins with two consonants."),
+    (10, None, "'Our restaurant is the best in all Moscow!' 'The best' is 'better' with a different suffix. 'In all Moscow' uses 'vo' in place of 'v', since two consonants follow."),
     (11, None, "'Not a single regular guest of ours will leave.' 'Ni odin' is 'not even one', with 'ni' pushing the 'no' further. 'Postoyanny' is 'regular' and also 'constant', and 'ne ukhodit' means 'will not leave'."),
     (12, None, "'Let them try opening properly first!' 'Pust' is 'let', so 'pust poprobuyut' is 'let them try'. 'Snachala' means 'first', and 'normalno' is 'properly'."),
 ]

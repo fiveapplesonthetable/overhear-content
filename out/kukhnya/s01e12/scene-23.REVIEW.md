@@ -26,13 +26,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, the dining hall is full of people again.' 'Snova' means 'again'. 'Polon lyudey' is 'full of people', with 'lyudey' as the form for 'of people'. No 'is', as usual.
+- 'Max, the dining hall is full of people again.' 'Full of people' puts 'people' in the 'of' form, with no word for 'of'. 'Again' is a single word.
 - 'Yes, our evening ended very successfully.' 'Zakonchilsya' ends in 'sya', so the evening 'ended itself'. 'Udachno' is 'successfully', from 'udacha', luck.
 - 'Still, changes always happen unexpectedly.' 'Vsyo-taki' means 'all the same', and 'neozhidanno' means 'unexpectedly', literally 'not expectedly'. 'Proiskhodyat' is 'happen'.
 - 'You are right, life constantly changes around us.' 'Prav' means 'right', with a man's bare ending. 'Menyaetsya' is 'changes', and its 'sya' means that life changes by itself. 'Vokrug nas' is 'around us'.
-- 'Sometimes we get something completely different.' 'Inogda' is 'sometimes'. 'Sovsem ne to' is 'completely not that', which is how Russians say 'something quite different'. 'Poluchaem' is 'we receive'.
+- 'Sometimes we get something completely different.' 'Completely not that' is the Russian way of saying 'something quite different'. 'Sometimes' is a single word.
 - 'We get not what we wanted before.' 'Ne to, chto' is 'not that which', so 'not what'. 'Khoteli' is 'we wanted', and 'ranshe' is 'earlier'.
-- 'But often everything turns out even better.' 'Skladyvaetsya' is literally 'folds itself', and Russians use it for 'things work out'. 'Dazhe' is 'even', and 'luchshe' is 'better'.
+- 'But often everything turns out even better.' The action word is literally 'folds itself', and Russians use it for 'works out'. 'Even' sits in front of 'better'.
 - 'Sometimes we realize that we were right.' 'Poroy' is a literary 'at times'. 'Ubezhdaemsya' is 'we become convinced', and 'byli pravy' is 'we were right', with 'pravy' in the plural.
 - 'And our old friends remain by our side.' 'Druzya' is the plural of 'drug', and it is irregular, with no 'y' like English. 'Ryadom' means 'right beside', so friends who stay are friends who are next to you.
 - 'And sometimes we arrive back at the starting point.' 'Byvaet' is 'it happens', and a handy opener for 'sometimes it happens that'. 'Iskhodnaya tochka' is 'starting point'.

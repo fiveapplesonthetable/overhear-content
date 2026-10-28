@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Chef, please speak a bit quieter.' Senya uses the polite 'you' form of 'speak', because the person is the chef. 'Tishe' is 'quieter', the 'sh-e' ending made from 'tikho', 'quiet'.
 - 'Do not teach me discipline!' 'Ne nado' is 'no need', and it's used as a strong 'don't'. 'Me' becomes 'menya' and 'discipline' picks up an 'e', because both are things the teaching is done to.
 - 'We are simply trying very hard for you.' 'Starayemsya' ends in 'sya', so it's literally 'we try ourselves'. 'Dlya vas' is 'for you', in the polite form.
-- 'There must be perfect order in my kitchen.' 'Dolzhen' means 'must' and it ends in a bare consonant because 'order' is a masculine word. Russians say 'on my kitchen' where English says 'in my kitchen'.
+- 'There must be perfect order in my kitchen.' Barinov's 'dolzhen' has no vowel after the 'n' because the thing that must be, 'order', is masculine. Also note 'on my kitchen': Russians stand 'on' a kitchen where English stands 'in' it.
 - 'We will clean everything up right now, chef.' 'Seychas zhe' is 'this very second', where the little 'zhe' pushes the 'now'. 'Uberyom' is 'we will clear', from the same word as Barinov's 'clean up!'.
 - 'Calm down, I will check every dish personally.' 'Spokoynee' is 'calmer', made with the same 'ee' ending as 'faster'. 'Blyudo' is a dish, in the sense of a plate of food, and 'lichno' is 'in person'.

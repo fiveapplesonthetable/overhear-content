@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = "Max has not forgotten Vika's new rule. He catches her in the corridor and asks why it exists, with a cheeky question or two. Here is their conversation in Russian first."
-OPENER = "Let's take it again, a line at a time, and watch Max try his luck."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "Max has not forgotten Vika's new rule. He catches her in the corridor and asks why it exists, with a cheeky question or two. Hear it in Russian first."
+OPENER = 'Again, a line at a time, as Max tries his luck.'
+TRANSITION = 'Now the corridor scene, straight through.'
 OUTRO = "Max leaves with a grin, and Vika leaves with her rule. If you ever need to say 'go on, off you go' to a friend, you've just heard how. Talk soon."
 CLOSING = ('vika', 'Пока!')
 STORY = [
@@ -34,7 +34,7 @@ WALK = [
     (1, None, "'Because work requires order and discipline.' After 'requires', the things required change their endings, so 'poryadok' turns into 'poryadka' and 'distsiplina' into 'distsipliny'. 'Rabota' is work, and you can hear it in 'rabotay' below."),
     (2, None, "'Did you make this strange decision because of Sasha?' Russian says 'accept a decision' where English says 'make one'. 'Iz-za Sashi' is 'because of Sasha', and Sasha picks up an 'i' ending."),
     (3, None, "'Stop asking these foolish personal questions.' Russian says 'give a question' for 'ask one', so 'zadavat' is a handy partner for 'vopros'. 'Perestan' is 'stop'."),
-    (4, None, "'I just want to understand your real feelings.' 'Chuvstva' is 'feelings', from the same family as the action 'to feel'. 'Nastoyashchie' means 'real', and it's one of those words that works for anything."),
+    (4, None, "'I just want to understand your real feelings.' 'Feelings' is a close cousin of 'to feel'. 'Real' is a handy booster that fits any noun."),
     (5, None, "'I have no feelings towards you!' 'U menya net' is literally 'at me there is not', and that's how Russian says 'I don't have'. The thing that's missing, 'chuvstv', takes a new ending after 'net'. 'Nikakikh' means 'none at all'."),
     (6, None, "'But you will forget this rule yourself!' 'Sama' is 'yourself', and it points the finger at her. The little 'zhe' adds 'after all'."),
     (7, None, "'I always strictly observe all my rules.' 'Strogo' means 'strictly', and 'soblyudayu' is 'I keep', as in keeping a rule. 'Svoi' means 'my own', which Russians use whenever the owner is the one doing the action."),

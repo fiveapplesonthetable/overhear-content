@@ -31,11 +31,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Nearby a new restaurant is opening today.' 'Ryadom' means 'nearby' or 'right next door'. 'Otkryvaetsya' ends in 'sya', so it literally 'opens itself'.
 - 'They call themselves the best restaurant in town.' 'Nazyvayut sebya' is literally 'they call themselves', in nearly the same shape as English. 'Luchshim restoranom' ends in 'm' for 'as', and 'goroda' means 'of the city'.
 - 'They brazenly hand out advertisements to our guests!' 'Naglo' means 'cheekily' or 'brazenly', and it's a sharp word. 'Nashim gostyam' is 'to our guests', where the 'm' ending shows who gets them.
-- 'Could they really be promising tastier food?' 'Neuzheli' is 'could it really be that', and it signals surprise. 'Bolee vkusnuyu' is 'more tasty', made with 'bolee', 'more'.
+- 'Could they really be promising tastier food?' Surprise opens the question: 'could it really be that...'. 'More tasty' is built by putting 'more' in front of 'tasty', the way English does.
 - 'They write that with them it is much better.' 'U nikh' is 'at them', so 'with them'. 'Namnogo luchshe' is 'much better', and 'luchshe' is not a regular form: it's the word that stands for 'better' in everyday talk.
 - 'Chef, you should not be so nervous.' 'Ne nado' is 'no need'. 'Tak silno' is 'so strongly' and 'nervnichat' is 'to be nervous', both clear from the English.
-- 'I will go and chase away this insolent fellow.' 'Progonyu' is 'I will drive off'. 'Nagly' is 'insolent', from the same root as 'naglo', and 'paren' is the everyday word for a guy.
+- 'I will go and chase away this insolent fellow.' 'Insolent' shares a root with 'brazenly'. The everyday word for 'a guy' sits in the second half.
 - 'We simply must show top quality.' 'Dolzhny' means 'must', and 'vysshy klass' is 'highest class'. 'Vysshy' is related to 'vysoky', high.
-- 'Our restaurant is the best in all Moscow!' 'Luchshy' is 'the best', and it's the same word as 'better', with an ending. 'Vo vsey Moskve' is 'in all Moscow', with 'vo' instead of 'v' because the next word begins with two consonants.
+- 'Our restaurant is the best in all Moscow!' 'The best' is 'better' with a different suffix. 'In all Moscow' uses 'vo' in place of 'v', since two consonants follow.
 - 'Not a single regular guest of ours will leave.' 'Ni odin' is 'not even one', with 'ni' pushing the 'no' further. 'Postoyanny' is 'regular' and also 'constant', and 'ne ukhodit' means 'will not leave'.
 - 'Let them try opening properly first!' 'Pust' is 'let', so 'pust poprobuyut' is 'let them try'. 'Snachala' means 'first', and 'normalno' is 'properly'.

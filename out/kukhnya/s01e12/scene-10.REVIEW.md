@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hookah has long become part of French culture.' 'Davno' means 'long ago', and 'stal' is 'became'. 'Chastyu' is 'part' in the form it takes after 'became', and 'frantsuzskoy' means 'French'.
 - 'We are a French restaurant, not a noisy bar!' Again, no 'are': it's literally 'we French restaurant'. 'Shumny' is 'noisy', from 'shum', noise.
 - 'Vitya, do not shout, our restaurant is changing.' 'Vitya' is a short, friendly form of Viktor, which Vika uses to take the heat out. 'Menyaetsya' ends in 'sya', so the restaurant is literally 'changing itself'.
-- 'Why change what is already working excellently?' 'To, chto' is literally 'that which'. 'Otlichno rabotaet' is 'works excellently', the word for 'works' coming from 'rabota', work.
+- 'Why change what is already working excellently?' Word for word it runs 'that which already excellently works'. 'Works' is built from 'work', and Barinov puts 'excellently' in front to push his point.
 - 'Life requires moving forward and fresh ideas.' 'Trebuet' means 'demands', which is a big word for a plain claim. 'Vperyod' is 'forward', and 'svezhikh idey' is 'of fresh ideas'.
 - 'I will not allow ruining my dear kitchen!' 'Ne pozvolyu' is 'I won't allow'. 'Dorogoy' means 'dear' and 'expensive', and here Barinov means 'dear to me'.
 - 'You promised me complete freedom in the hall yourself.' 'Sam' means 'yourself' or 'personally', and it pins the blame on him. 'Obeshchal' is 'promised', and 'svobodu' is 'freedom' in the form it takes after a promise.
