@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'louis': 'Луи', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "In the kitchen of Claude Monet, the staff must clean every corner ahead of a surprise health inspection. Pastry chef Louis playfully pretends to duel Max with a giant stick of sausage before they start wiping down the dusty storage shelves. Let's listen to their playful exchange in Russian first."
-OPENER = "Let's review this humorous kitchen exchange line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'After their playful banter, Max and Louis roll up their sleeves and tackle the dusty kitchen shelves. See you next time!'
+INTRO = "The whole kitchen at Claude Monet is cleaning for the inspection, and Louis, the French pastry chef, is not exactly working. He is fencing with Max, using a sausage for a sword. It's in Russian first, and Louis's drama will help you follow it."
+OPENER = 'Now slowly. Louis is dramatic, Max is practical, and the sentences are short.'
+TRANSITION = 'One last listen, from the first line.'
+OUTRO = 'The scene gives you "pyl", dust, "tryapka", rag, and "voda", water, which is enough to start a spring-clean. It also gives you "nam dostanetsya", we\'ll catch it, which you can use all year. See you next time.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('louis', 'Осторожно, ты пронзил меня своей колбасой!', 'Careful, you impaled me with your sausage!', [(75, 'Ты пронзил меня своей колбасой')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Точно, иначе нам сильно достанется!', 'Exactly, otherwise we will really get it!', [], ''),
 ]
 WALK = [
-    (0, None, "'Careful, you impaled me with your sausage!' Louis dramatically pretends to be mortally wounded in a playful duel."),
-    (1, None, "'Louis, stop screaming so loudly.' Max tries to quiet the flamboyant French pastry chef."),
-    (2, None, "'Tell Maria that I loved her!' Louis delivers an over-the-top final request as if taking his dying breath."),
-    (3, None, "'Stop dying, we need to clean the kitchen.' Max brings him back to reality before the inspection begins."),
-    (4, None, "'Does Chef force us to wash these shelves?' Louis sighs at the unglamorous cleaning assignment."),
-    (5, None, "'Yes, Chef demands perfect cleanliness everywhere.' Max reminds him of Viktor Barinov's fierce standards."),
-    (6, None, "'Dust has been lying here for a whole year!' Louis points out how thick the grime on the shelves really is."),
-    (7, None, "'Since the restaurant opened nobody cleaned here.' Max guesses that these storage spaces have never been touched."),
-    (8, None, "'Then take a rag and water quickly.' Louis gestures toward the bucket to get the chore started."),
-    (9, None, "'I am ready, let's finish this work.' Max sets to work with practical determination."),
-    (10, None, "'The main thing is that Chef is very pleased.' Louis hopes their hard work satisfies the temperamental head chef."),
-    (11, None, "'Exactly, otherwise we will really get it!' Max agrees that displeasing Barinov carries severe consequences."),
+    (0, None, '\'Careful, you impaled me with your sausage!\' "Kolbasa", sausage, becomes "svoey kolbasoy", and that -oy ending alone means \'with\', as in \'using\'. "Ostorozhno", careful, is the word you\'d shout at someone backing into a hot stove.'),
+    (1, None, '\'Louis, stop screaming so loudly.\' "Perestan", stop, goes with the plain dictionary form: "perestan krichat", stop shouting. It works for any habit you want someone to drop.'),
+    (2, None, '\'Tell Maria that I loved her!\' "Mariya" becomes "Marii", \'to Maria\', the person you tell something to. "Lyubil", I loved, ends in -l because Louis is a man.'),
+    (3, None, '\'Stop dying, we need to clean the kitchen.\' "Khvatit", enough, also goes with a plain verb: "khvatit umirat", \'enough dying\'. "Umirat" and "ubirat", to die and to clean up, differ by one letter, which Max seems to enjoy.'),
+    (4, None, '\'Does Chef force us to wash these shelves?\' "Zastavlyaet nas myt" is \'makes us wash\': the person, then the action. "Polka", shelf, is "polki" in the plural.'),
+    (5, None, '\'Yes, Chef demands perfect cleanliness everywhere.\' "Trebovat", to demand, changes the word after it, so "chistota" turns into "chistoty". "Vezde", everywhere, is worth having alongside "zdes", here.'),
+    (6, None, '\'Dust has been lying here for a whole year!\' Russian keeps the present tense for something still going on: \'dust lies here already a whole year\'. And dust lies, "lezhit", the way a book lies on a table.'),
+    (7, None, '\'Since the restaurant opened nobody cleaned here.\' S, since, makes "otkrytie", the opening, into "s otkrytiya". "Nikto ne", \'nobody not\', is the normal double negative.'),
+    (8, None, '\'Then take a rag and water quickly.\' "Beri", take, is said to one person, from "brat", the word behind "beru", I take. "Voda", water, becomes "vodu" because it\'s what you take.'),
+    (9, None, '\'I am ready, let\'s finish this work.\' "Davay" plus a \'we\' form, "zakonchim", makes \'let\'s finish\'. "Gotov", ready, is the form for a man; Nastya would say "gotova".'),
+    (10, None, '\'The main thing is that Chef is very pleased.\' After "chtoby", so that, Russian uses the past form, "byl", even about the future. "Dovolen", pleased, is a word you\'ll hear about every boss.'),
+    (11, None, '\'Exactly, otherwise we will really get it!\' "Nam dostanetsya" is literally \'it will reach us\', the Russian \'we\'ll catch it\'. "Inache", otherwise, is the word to put before any threat.'),
 ]

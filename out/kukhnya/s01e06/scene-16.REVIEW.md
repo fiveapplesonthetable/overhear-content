@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Мне правда неловко выдавать себя за писателя. | I really feel awkward impersonating a writer. | #209: Мне правда неловко выдавать себя за такого человека | verbatim |
+| 1 | Родион | Мне правда неловко выдавать себя за писателя. | I really feel awkward impersonating a writer. | #209 00:15:10: Мне правда неловко выдавать себя за такого человека | verbatim |
 | 2 | Макс | Перестань бояться, никто не знает его лицо. | Stop being afraid, nobody knows his face. | new | new |
-| 3 | Костя | А вдруг Саша читала его умные книги? | What if Sasha read his smart books? | new | new |
+| 3 | Родион | А вдруг Саша читала его умные книги? | What if Sasha read his smart books? | new | new |
 | 4 | Макс | Тогда она будет восхищаться тобой ещё сильнее. | Then she will admire you even more. | new | new |
-| 5 | Костя | Что мне делать, если она спросит сюжет? | What should I do if she asks about the plot? | new | new |
+| 5 | Родион | Что мне делать, если она спросит сюжет? | What should I do if she asks about the plot? | new | new |
 | 6 | Макс | Говори загадочно и смотри прямо в глаза. | Speak mysteriously and look straight into her eyes. | new | new |
-| 7 | Костя | Я совсем не умею говорить так загадочно. | I cannot speak that mysteriously at all. | new | new |
+| 7 | Родион | Я совсем не умею говорить так загадочно. | I cannot speak that mysteriously at all. | new | new |
 | 8 | Макс | Просто надень эти тёмные очки, друг. | Just put on these dark glasses, friend. | new | new |
-| 9 | Костя | Думаешь, тёмные очки решат все проблемы? | Do you think dark glasses will solve all problems? | new | new |
+| 9 | Родион | Думаешь, тёмные очки решат все проблемы? | Do you think dark glasses will solve all problems? | new | new |
 | 10 | Макс | Настоящие писатели всегда носят тёмные очки! | Real writers always wear dark glasses! | new | new |
-| 11 | Костя | Ладно, я попробую сыграть эту роль. | Okay, I will try to play this role. | new | new |
+| 11 | Родион | Ладно, я попробую сыграть эту роль. | Okay, I will try to play this role. | new | new |
 | 12 | Макс | Иди вперёд и покори её сердце! | Go ahead and win her heart! | new | new |
-| 13 | Костя | Надеюсь, этот обман закончится хорошо. | I hope this deception ends well. | new | new |
+| 13 | Родион | Надеюсь, этот обман закончится хорошо. | I hope this deception ends well. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I really feel awkward impersonating a writer.' He is squirming uncomfortably, Kostya admits his fear of the elaborate romantic lie.
-- 'Stop being afraid, nobody knows his face.' Max tells his roommate to chill out, leaning on the author's legendary anonymity.
-- 'What if Sasha read his smart books?' Kostya worries that the waitress will ask him deep literary questions.
-- 'Then she will admire you even more.' Spinning the potential danger, Max turns it into a massive romantic advantage.
-- 'What should I do if she asks about the plot?' Frantically searching for a backup plan, Kostya panics about being interrogated about novels.
-- 'Speak mysteriously and look straight into her eyes.' Max advises him to use intense eye contact and vague nonsense as a shield.
-- 'I cannot speak that mysteriously at all.' Admitting his lack of charisma, Kostya fears he cannot pull off brooding genius vibes.
-- 'Just put on these dark glasses, friend.' Forcing the cheap shades onto Kostya, Max completes the transformation.
-- 'Do you think dark glasses will solve all problems?' Skeptically questioning the disguise, Kostya doubts the magical protective power of sunglasses.
-- 'Real writers always wear dark glasses!' Stating a hilariously stupid stereotype, Max speaks with absolute conviction.
-- 'Okay, I will try to play this role.' Reluctantly agreeing, Kostya commits to the ridiculous charade.
-- 'Go ahead and win her heart!' Enthusiastically pushing his friend, Max sends him toward his crush.
-- 'I hope this deception ends well.' Muttering a dark premonition, Kostya fears this fake identity will end in disaster.
+- 'I really feel awkward impersonating a writer.' "Mne nelovko", 'to me awkward', is how Russians say they feel awkward. "Vydavat sebya za" is 'to pass oneself off as', with "za" meaning 'as'.
+- 'Stop being afraid, nobody knows his face.' "Perestan boyatsya", stop being afraid, is "perestan" plus the plain dictionary form. "Boyatsya", to fear, always ends in -sya.
+- 'What if Sasha read his smart books?' "Vdrug" again: 'suddenly', and here 'what if'. "Chitala", read, ends in -la because Sasha is a woman.
+- 'Then she will admire you even more.' "Voskhishchatsya", to admire, wants the person in the 'by' form, so "ty" becomes "toboy". "Eshchyo silnee", 'even stronger', stands in for 'even more'.
+- 'What should I do if she asks about the plot?' "Chto mne delat", 'what to me to do', is a common way to ask for advice. "Syuzhet", plot, comes from the French sujet.
+- 'Speak mysteriously and look straight into her eyes.' "Govori" and "smotri" are two "ty" commands in a row. "V glaza", into the eyes, uses "glaza", eyes, where one eye is "glaz".
+- 'I cannot speak that mysteriously at all.' "Ne umeyu" is 'I don't know how', a missing skill, not a ban. "Sovsem ne", 'not at all', puts "sovsem" in front.
+- 'Just put on these dark glasses, friend.' "Naden", put on, is the command from "nadet", the verb for anything you wear. "Drug", friend, at the end makes it warm.
+- 'Do you think dark glasses will solve all problems?' "Dumaesh", you think, opens the question with the -esh ending of "ty". "Reshat", they'll solve, has the future built in, with no separate 'will'.
+- 'Real writers always wear dark glasses!' "Nosyat", they wear, is for what people regularly have on. "Nastoyashchie", real, is the word for 'genuine' or 'proper'.
+- 'Okay, I will try to play this role.' "Poprobuyu", I'll try, is from "poprobovat", which also means 'to taste'. "Sygrat rol", to play a part, uses the same "igrat", play, as sport and music.
+- 'Go ahead and win her heart!' "Vperyod", forward, turns "idi" into 'go on, get in there'. "Pokori", conquer, is the old romantic verb for winning a heart.
+- 'I hope this deception ends well.' "Nadeyus", I hope, can open any wish. "Obman", deception, and "obmanut", to trick someone, share a root.

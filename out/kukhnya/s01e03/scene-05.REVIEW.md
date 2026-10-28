@@ -11,14 +11,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Макс | Шеф, у меня большие проблемы. | Chef, I have big problems. | new | new |
-| 2 | Шеф | Что опять стряслось, огузок? | What happened again, runt? | new | new |
+| 2 | Шеф | Что опять стряслось, огузок? | What happened again, Oguzok? | new | new |
 | 3 | Макс | Меня ищет грозный прокурор. | A terrible prosecutor is looking for me. | new | new |
 | 4 | Шеф | И за что же он тебя ищет? | And why is he looking for you? | new | new |
 | 5 | Макс | Он знает про меня и Вику. | He knows about me and Vika. | new | new |
-| 6 | Шеф | Ты спал с чужой женщиной? | You slept with someone else's woman? | #162: спал с чужой | verbatim |
+| 6 | Шеф | Ты спал с чужой женщиной? | You slept with someone else's woman? | #162 00:09:57: спал с чужой | verbatim |
 | 7 | Макс | Я не знал, что она замужем. | I did not know that she is married. | new | new |
-| 8 | Шеф | Это был самый талантливый повар. | He was the most talented cook. | #161: Это был самый талантливый | verbatim |
-| 9 | Шеф | Которого я когда-либо знал. | Whom I ever knew. | #161: которого я знал | verbatim |
+| 8 | Шеф | Это был самый талантливый повар. | He was the most talented cook. | #161 00:09:52: Это был самый талантливый | verbatim |
+| 9 | Шеф | Которого я когда-либо знал. | Whom I ever knew. | #161 00:09:52: которого я знал | verbatim |
 | 10 | Макс | Шеф, вы меня уже хороните? | Chef, are you already burying me? | new | new |
 | 11 | Шеф | С прокурором шутки плохи. | You don't mess with a prosecutor. | new | new |
 | 12 | Шеф | Он тебя быстро за решётку отправит. | He will quickly send you behind bars. | new | new |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I have big problems.' Deep trouble brings the frantic cook straight into his manager's office.
-- 'What happened again, runt?' Barinov groans and asks what disaster his subordinate has caused this time.
-- 'A terrible prosecutor is looking for me.' A frightening legal official is actively hunting down the newest kitchen staff member.
-- 'And why is he looking for you?' Discovering the exact nature of the supposed crime takes some prodding.
-- 'He knows about me and Vika.' Max reveals that the official has discovered his secret workplace romance.
-- 'You slept with someone else's woman?' Connecting the dots leads to the realization of a dangerous affair with a married woman.
-- 'I did not know that she is married.' Ignorance of her marital status serves as the only possible defense.
-- 'He was the most talented cook.' Barinov sarcastically eulogizes his employee's culinary potential.
-- 'Whom I ever knew.' Acting as if the young man is already gone adds a dark humor to the moment.
-- 'Chef, are you already burying me?' Max asks in a panic if his boss truly believes his life is over.
-- 'You don't mess with a prosecutor.' Powerful legal figures make incredibly dangerous enemies in any scenario.
-- 'He will quickly send you behind bars.' A swift trip to prison seems like the most likely outcome here.
-- 'What should I do now?' Desperate pleas for survival advice fall on deaf ears.
-- 'Go work and do not chat.' Barinov heartlessly commands him to stop whining and get back to his kitchen duties.
+- 'Chef, I have big problems.' "U menya", "at me", is the Russian "I have". "Bol'shiye problemy" puts the plural -iye and -y on both words.
+- 'What happened again, Oguzok?' "Stryaslos'" is a colloquial "happened", kept for unpleasant surprises. "Opyat'" is "again", and the chef uses his nickname for Max.
+- 'A terrible prosecutor is looking for me.' "Menya ishchet" puts "me" first, then "looks for". "Groznyy" is the tsar's title that English gives as "the Terrible", and it means fearsome.
+- 'And why is he looking for you?' "Za chto" is "for what", the "why" you ask about a punishment. "Zhe" sharpens the question.
+- 'He knows about me and Vika.' "Pro" is the spoken word for "about". After it, "Vika" becomes "Viku", and "ya" becomes "menya".
+- 'You slept with someone else's woman?' "Spal s" is "slept with", and after "s" the words take -oy: "s chuzhoy zhenshchinoy". "Chuzhoy" is "someone else's".
+- 'I did not know that she is married.' "Zamuzhem", for a woman, is "za muzhem", behind a husband. A married man is "zhenat", from "zhena", wife.
+- 'He was the most talented cook.' "Eto byl" is "this was", and Barinov talks about Max in the past. "Samyy talantlivyy" is "the most talented".
+- 'Whom I ever knew.' "Kotorogo", whom, is "kotoryy" in its object shape for a person. "Kogda-libo" is "ever", "kogda", when, with -libo.
+- 'Chef, are you already burying me?' Max says "vy" to the chef. "Khoronite" is "you bury", and "uzhe" is "already".
+- 'You don't mess with a prosecutor.' "S prokurorom shutki plokhi" is "with a prosecutor jokes are bad". It's a fixed phrase, and "prokuror" can be swapped for anyone dangerous.
+- 'He will quickly send you behind bars.' "Za reshyotku" is "behind the grille", which means prison. "Otpravit" is "will send".
+- 'What should I do now?' "Chto mne delat'?" is "what to me to do?", the pattern for asking advice. "Teper'" is "now", and "zhe" adds despair.
+- 'Go work and do not chat.' "Idi rabotay" puts two commands side by side, "go" and "work". "Ne boltay" is "don't chatter", from "boltat'".

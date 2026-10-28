@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'guest': 'Гость', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
-INTRO = "Inside the glamorous dining room of Claude Monet, the high-stakes VIP banquet reaches its long-awaited peak. Chef Viktor Barinov personally escorts the golden roasted goose to the guest of honor, proudly presenting the culinary triumph that nearly cost the kitchen staff their sanity. Let's listen to this proud dining room presentation in Russian first."
-OPENER = "Now let's examine Chef Barinov's proud presentation in the dining room line by line."
+INTRO = "The golden goose arrives at the guest of honour's table, and the chef presents it as though it were a triumph. Max chips in to help, and the guest is thrilled. Here is the Russian first."
+OPENER = "Let's go through the presentation."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With the prized goose triumphantly served and the banquet saved from disaster, Barinov and Max return to the kitchen to wrap up an eventful first week. Next time you watch the episode, listen for the Russian expressions for 'appetite' and 'to be' — you will catch every word right away. See you next time!"
+OUTRO = 'The goose is a hit, which no one in the kitchen quite believes. Keep "priyatnogo appetita", the wish before a meal.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('guest', 'Скажите, пожалуйста, это мой праздничный гусь?', 'Tell me please, is that my festive goose?', [(319, 'Это мой гусь?')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Макс, живо возвращайся обратно на кухню!', 'Max, quickly get back to the kitchen!', [], ''),
 ]
 WALK = [
-    (0, None, "'Tell me please, is that my festive goose?' The banquet host asks with eager anticipation as the platter arrives."),
-    (1, None, "'Yes, this is your main order today!' Barinov announces the centerpiece dish with theatrical confidence."),
-    (2, None, "'We prepared it according to an ancient recipe.' The head chef adds prestige to the dish by citing tradition."),
-    (3, None, "'Our chef personally checked every detail.' Max supports his mentor by emphasizing the chef's close attention."),
-    (4, None, "'The goose looks and smells simply magnificent!' The delighted diner marvels at the enticing aroma and plating."),
-    (5, None, "'The meat turned out very tender and juicy.' Barinov assures the guest that the texture is completely flawless."),
-    (6, None, "'We served it with apples and herbs.' Max describes the classic culinary accompaniments on the platter."),
-    (7, None, "'My guests will be in total delight!' The patron expresses profound satisfaction with the banquet presentation."),
-    (8, None, "'Our restaurant maintains only the highest standard.' Barinov proudly defends Claude Monet's elite reputation."),
-    (9, None, "'Thank you for the wonderful work, chefs!' The guest graciously thanks the culinary team for their effort."),
-    (10, None, "'Bon appetit to you and your guests!' Barinov delivers the classic parting wish of haute cuisine."),
-    (11, None, "'We hope to see you again at the restaurant.' Max politely welcomes the guest back for future visits."),
-    (12, None, "'Max, quickly get back to the kitchen!' Barinov snaps back into stern chef mode and hustles his rookie inside."),
+    (0, None, '\'Tell me please, is that my festive goose?\' "Skazhite, pozhaluysta" is "say, please", a polite way to open a question. "Eto moy prazdnichnyy gus\'?" is "this my festive goose?".'),
+    (1, None, '\'Yes, this is your main order today!\' Barinov says "vash", the polite "your". "Glavnyy zakaz" is "main order".'),
+    (2, None, '\'We prepared it according to an ancient recipe.\' "Po" here means "according to", and it puts -omu and -u on the words: "po starinnomu retseptu". "Starinnyy" means "from old times".'),
+    (3, None, '\'Our chef personally checked every detail.\' "Proveryal", checked, is the unfinished verb, for checking over and over. "Kazhduyu detal\'" is "every detail".'),
+    (4, None, '\'The goose looks and smells simply magnificent!\' "Vyglyadit i pakhnet" is "looks and smells". "Velikolepno" joins "veliko", great, to an old word for beautiful.'),
+    (5, None, '\'The meat turned out very tender and juicy.\' "Poluchilos\'" has a neuter ending to match "myaso". "Nezhnym i sochnym" ends in -ym, the shape after "turned out".'),
+    (6, None, '\'We served it with apples and herbs.\' "Podali" is "we served". "S yablokami i travami" puts -ami on both plurals after "s".'),
+    (7, None, '\'My guests will be in total delight!\' "V vostorge" is "in delight", and "polnom", full, matches it. "Budut" is "will be", plural for the guests.'),
+    (8, None, '\'Our restaurant maintains only the highest standard.\' "Derzhit", holds, here means "keeps up". "Vysshiy uroven\'" is "highest level".'),
+    (9, None, '\'Thank you for the wonderful work, chefs!\' "Spasibo za" is "thanks for", and "za prekrasnuyu rabotu" ends in -uyu and -u. "Povar" has the plural "povara", stressed on the end.'),
+    (10, None, '\'Bon appetit to you and your guests!\' "Priyatnogo appetita" is the standard wish before a meal. "Vashim gostyam" is "to your guests", with -im and -am.'),
+    (11, None, '\'We hope to see you again at the restaurant.\' "Nadeyemsya", we hope, ends in -sya. "Uvidet\' vas snova" is "to see you again".'),
+    (12, None, '\'Max, quickly get back to the kitchen!\' "Zhivo" is from "zhivoy", alive, and here it means "look lively". "Vozvrashchaysya obratno" is "come back back", doubling up for emphasis.'),
 ]

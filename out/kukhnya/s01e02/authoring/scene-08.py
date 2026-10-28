@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'senya': 'Сеня', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
-INTRO = "In the kitchen of Claude Monet, Victoria brings alarming news: Viktor Barinov refuses to cook without his favorite knife. Facing the threat of the Chef being fired, cooks Senya and Fedya debate whether to secretly prepare the fricassee themselves. Let's listen to their conversation in Russian first."
-OPENER = "Let's examine this kitchen dilemma line by line."
+INTRO = "Vika brings alarming news to the kitchen: Chef Barinov has refused to cook until his knife is found, and the owner might fire him. Senya and Fedya, two of the cooks, argue about whether they should cook the dish themselves. Here's the Russian first."
+OPENER = "Let's go back through the argument."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Determined to save their head chef from dismissal, the cooks decide to take the risk and start cooking the fricassee. See you next time!'
+OUTRO = 'They go back and forth, and in the end they decide to risk it. You\'ve heard "ty prav", "you\'re right", which is a good phrase for any argument.'
 CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('vika', 'Шеф наотрез отказывается готовить это блюдо.', 'Chef flatly refuses to cook this dish.', [(119, 'шеф отказывается готовить')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('fedya', 'Ладно, включай плиту и доставай мясо!', 'All right, turn on the stove and get the meat!', [], ''),
 ]
 WALK = [
-    (0, None, "'Chef flatly refuses to cook this dish.' Victoria enters the kitchen with dramatic news about the strike."),
-    (1, None, "'But why? What happened in the kitchen?' Senya asks with sudden worry about their volatile boss."),
-    (2, None, "'He lost his favorite knife.' Victoria explains the cause of Barinov's refusal to work."),
-    (3, None, "'Soon you will have a new chef!' Victoria warns the kitchen crew that the owner is running out of patience."),
-    (4, None, "'He will be fired if he does not make the fricassee.' Fedya states the immediate consequence of the refusal."),
-    (5, None, "'Guys, let us cook this dish ourselves!' Senya boldly proposes a rescue plan to save the restaurant."),
-    (6, None, "'Are you out of your mind? He will kill us!' Fedya fears Viktor's furious reaction if he finds out."),
-    (7, None, "'Yes, you are right, better not risk it.' Senya temporarily backtracks after considering the wrath."),
-    (8, None, "'But if we do not cook, Chef will be fired.' Fedya realizes inaction is equally disastrous."),
-    (9, None, "'Exactly, you are right, we must cook right away!' Senya swings back to action with fresh conviction."),
-    (10, None, "'Darn, I am confused. This is a dangerous idea.' Fedya admits his deep ambivalence about the secret operation."),
-    (11, None, "'But we have a duty to save our chef.' Senya appeals to their collective kitchen solidarity."),
-    (12, None, "'All right, turn on the stove and get the meat!' Fedya commits to the risky culinary endeavor."),
+    (0, None, '\'Chef flatly refuses to cook this dish.\' "Naotrez", "flatly", is built on "otrezat\'", to cut off, as if the answer were cut short. "Otkazyvayetsya", "refuses", ends in "-sya", the little "self" many Russian verbs carry.'),
+    (1, None, '\'But why? What happened in the kitchen?\' "Chto sluchilos\'", "what happened", is the question for any trouble. "Na kukhne" is "on the kitchen", as Russians always put it.'),
+    (2, None, '\'He lost his favorite knife.\' "Lyubimyy", favourite, is really "loved": inside it sits "lyubit\'". "Svoy", "his own", is one short word, and "poteryal" is "lost".'),
+    (3, None, '\'Soon you will have a new chef!\' Russian says "at you will be", the "I have" pattern but in the future. "Skoro" means "soon".'),
+    (4, None, '\'He will be fired if he does not make the fricassee.\' "Uvolyat" is "they will fire", with nobody named as doing it. "Frikase" is borrowed from French and never changes.'),
+    (5, None, '\'Guys, let us cook this dish ourselves!\' "Rebyata", guys, is for any informal group. "Davayte" turns the next verb into "let\'s", and "sami" is "ourselves".'),
+    (6, None, '\'Are you out of your mind? He will kill us!\' "S uma soshyol" is "went off the mind", which Russians say when someone is being reckless. "Ub\'yot" is "will kill".'),
+    (7, None, '\'Yes, you are right, better not risk it.\' A man says "prav", and a woman would say "prava". Then "better not", which is as short as it sounds.'),
+    (8, None, '\'But if we do not cook, Chef will be fired.\' "A yesli my ne prigotovim" is "but if we don\'t cook". It\'s the same nameless "uvolyat", "they\'ll fire", as before.'),
+    (9, None, '\'Exactly, you are right, we must cook right away!\' "Nado" is "it\'s necessary", the Russian way to say "we must". "Srochno", urgently, has "srok", a deadline, hiding in it.'),
+    (10, None, '\'Darn, I am confused. This is a dangerous idea.\' "Chyort" really means "devil", but it\'s a mild curse. "Zaputalsya", "I got confused", has "putat\'", to tangle, at its heart.'),
+    (11, None, '\'But we have a duty to save our chef.\' "Obyazany", "obliged", belongs to the family of "obyazatel\'no", definitely. "Spasti", to save, shares a root with "spasibo", which began as "God save you".'),
+    (12, None, '\'All right, turn on the stove and get the meat!\' "Vklyuchay" is "switch on", and "dostavay" is "get out", two friendly commands in a row.'),
 ]

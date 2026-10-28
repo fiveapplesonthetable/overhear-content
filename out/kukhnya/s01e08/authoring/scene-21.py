@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'elena': 'Елена', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "With Chef Barinov away, guest chef Elena Pavlovna Sokolova takes command of the Claude Monet kitchen. Accustomed to Barinov's relaxed habits, the cooks struggle under Elena's uncompromising discipline. When she refuses smoke breaks and orders sous-chef Lyova to fetch herbs from the cellar, tension flares. Let's listen to their confrontation in Russian first."
-OPENER = "Let's examine how authority and resistance clash in this restaurant kitchen. Notice the decisive imperative commands and the indignant defensive replies."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Lyova reluctantly heads off to the storage room, stewing over Elena's demanding management style. Outstanding work mastering workplace and culinary Russian! Next time you watch the episode, listen for the Russian expressions for 'fast' and 'to go out' — you will catch every word right away. See you next time!"
+INTRO = "Back in the kitchen at Claude Monet, Elena Pavlovna, borrowed from a rival restaurant, is in charge while Barinov sulks. The cooks want a smoke break, the way they had under Barinov. Lyova, the sous-chef, asks for one, and Elena says no. Here it is in Russian first."
+OPENER = "Let's go through the standoff. Lyova stays polite, and Elena doesn't give an inch."
+TRANSITION = "Now the full exchange without stopping."
+OUTRO = "Lyova gets the last word in spirit: \"ya su-shef, a ne kurer\", I'm a sous-chef, not a courier. Then he goes to fetch the arugula anyway. See you next time."
 CLOSING = ('elena', 'Пока!')
 STORY = [
     ('lyova', 'Шеф, можно поварам выйти перекурить?', 'Chef, can the cooks go smoke?', [(241, 'Шеф, мы перекурить')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('lyova', 'Хорошо, шеф, я принесу эту зелень.', 'Fine, Chef, I will bring this greenery.', [], ''),
 ]
 WALK = [
-    (0, None, "'Chef, can the cooks go smoke?' Lyova asks for a simple break, expecting the usual relaxed kitchen atmosphere."),
-    (1, None, "'Are you mad? Plenty of orders!' Elena reacts with pure outrage, pointing to the endless stream of waiting orders."),
-    (2, None, "'But there are no meat orders now.' He tries to justify the request logically by noting a lull in his specific station."),
-    (3, None, "'Then quickly switch over to poultry!' Elena demands absolute efficiency, ordering him to immediately pivot to a different task."),
-    (4, None, "'The cooks are very tired from this work.' Lyova attempts to appeal to her sympathy, explaining the crew's exhaustion."),
-    (5, None, "'No smoke breaks, everyone stays in the kitchen!' She completely shuts down any talk of rest, enforcing a strict lockdown on the line."),
-    (6, None, "'You are too strict with our team.' He bravely calls out her dictatorial management style right to her face."),
-    (7, None, "'I need you to work excellently!' Elena does not care about being liked, only about achieving flawless culinary results."),
-    (8, None, "'The kitchen has run out of fresh arugula.' Lyova reports a missing ingredient, expecting someone else to handle the logistics."),
-    (9, None, "'Lyova, quickly bring arugula from the storeroom!' She barks a direct order at him to fetch it himself from the basement."),
-    (10, None, "'I am a sous-chef, not a courier!' Lyova protests the severe demotion, insulted that a sous-chef is being sent on errands."),
-    (11, None, "'I decide myself who will go there!' Elena brutally reminds him that her word is absolute law in this kitchen."),
-    (12, None, "'Fine, Chef, I will bring this greenery.' Defeated, he bites his tongue and accepts the humiliating task."),
+    (0, None, "'Chef, can the cooks go smoke?' Permission with \"mozhno\" is asked 'to' someone, so \"povara\", cooks, becomes \"povaram\". Inside \"perekurit\" sits \"kurit\", to smoke, with \"pere-\" added: a quick smoke break."),
+    (1, None, "'Are you mad? Plenty of orders!' Elena's question, \"vy v svoyom ume\", is literally 'are you in your own mind?' After \"polno\", plenty, orders come out as \"zakazov\", 'of orders'."),
+    (2, None, "'But there are no meat orders now.' In kitchen talk, \"po myasu\" means 'on the meat side'. A \"chek\" is the printed order ticket, and after \"net\", there are no, it becomes \"chekov\"."),
+    (3, None, "'Then quickly switch over to poultry!' Literally 'it means', \"znachit\" is the everyday 'so' or 'then'. To switch to something is \"perekhodit na\": the chicken, \"kuritsa\", becomes \"na kuritsu\"."),
+    (4, None, "'The cooks are very tired from this work.' Lyova says \"ustali\", which looks past: Russians say they 'got tired' and still are. Tired of something is \"ustat ot\", so the work becomes \"etoy raboty\"."),
+    (5, None, "'No smoke breaks, everyone stays in the kitchen!' The phrase \"nikakikh perekurov\", no smoke breaks of any kind, is how Russian makes a flat ban. Kitchens take \"na\", on, so it's \"na kukhne\"."),
+    (6, None, "'You are too strict with our team.' Lyova says \"strogi\", a shortened \"strogiy\", the shape Russians use for what someone is like right now. With the team is \"s nashey komandoy\", and that -oy ending is what \"s\", with, asks for."),
+    (7, None, "'I need you to work excellently!' To want someone else to do something, Russian says \"chtoby\" plus a past-looking form: \"chtoby vy rabotali\". And \"mne nuzhno\" is literally 'to me it is needed'."),
+    (8, None, "'The kitchen has run out of fresh arugula.' Literally 'finished itself': \"zakonchilas\" is what Russians say when something has run out. Because \"rukola\" is a 'she' word, it ends in -as to match."),
+    (9, None, "'Lyova, quickly bring arugula from the storeroom!' Elena says \"prinesite\", the polite 'bring', even to her own staff. In \"so sklada\", from the storeroom, the \"so\" is \"s\", from, with an extra o before a tricky cluster of consonants."),
+    (10, None, "'I am a sous-chef, not a courier!' There's no 'am' at all, just \"ya su-shef\". And \"a ne\" means 'and not', the usual way to say 'this, not that'."),
+    (11, None, "'I decide myself who will go there!' Elena says \"sama\", myself, as a woman; a man would say \"sam\". The word \"tuda\", to there, is for movement, the partner of \"syuda\", to here."),
+    (12, None, "'Fine, Chef, I will bring this greenery.' Lyova's \"prinesu\" means 'I will bring', a promise about later. And \"zelen\", greens, comes from \"zelyonyy\", green."),
 ]

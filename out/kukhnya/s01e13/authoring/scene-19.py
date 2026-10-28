@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена', 'fedya': 'Федя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
-INTRO = "Focused on the stolen car, Elena discovers her car is missing and threatens Barinov, who then forces a confession from Fedya. Let's listen closely to Chef Barinov and Elena's exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around The Stolen Car line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Elena discovers her car is missing and threatens Barinov, who then forces a confession from Fedya. Next time you watch the episode, listen for the Russian expressions for 'to knock' and 'to learn' — you will catch every word right away. See you next time!"
+INTRO = "Elena's car has disappeared from its place, and she storms into Barinov's kitchen to ask where it is. Barinov turns to Fedya for an answer. The Russian comes first."
+OPENER = 'Line by line, to watch the plot come out.'
+TRANSITION = 'Here is the whole hunt again.'
+OUTRO = "So that is where the car went. Fedya took it, and Barinov's only question is about the mirror. More soon."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Постучаться не учили?', "Didn't they teach you to knock?", [], ''),
@@ -36,18 +36,22 @@ STORY = [
     ('barinov', 'Ты зеркало починил?', 'Did you fix the mirror?', [(266, 'зеркало')], ''),
 ]
 WALK = [
-    (0, None, "'Didn't they teach you to knock?' Chef Barinov meets her intrusion with sarcasm. He asks if she forgot her manners."),
-    (1, None, "'I am calling the police.' Elena gets straight to the point. She announces she is contacting the authorities."),
-    (2, None, "'Where is my car?' She demands answers about her missing property. Elena wants to know where her vehicle went."),
-    (3, None, "'I have no idea.' Chef Barinov pleads ignorance. He claims he knows absolutely nothing about it."),
-    (4, None, "'That is it. I have had enough.' Elena loses her patience completely. She declares she is sick of his games."),
-    (5, None, "'If in five minutes...' She issues a strict deadline. Elena gives him exactly five minutes to fix the situation."),
-    (6, None, "'My car is not back...' She lays out the condition. Elena expects her property returned to its rightful place."),
-    (7, None, "'I am reporting it stolen.' She states the consequence clearly. Elena promises to officially report a theft."),
-    (8, None, "'Do you understand me?' Elena demands confirmation. She asks if he fully comprehends her threat."),
-    (9, None, "'That is all.' She ends the conversation abruptly. Elena declares she has nothing more to say."),
-    (10, None, "'Before I kill you...' Chef Barinov turns his wrath on Fedya. He promises violent retribution."),
-    (11, None, "'Answer one question.' He demands a single answer before acting. Barinov tells Fedya to explain himself."),
-    (12, None, "'Why did you take the car?' Chef Barinov asks the crucial question. He wants to know why Fedya moved the vehicle."),
-    (13, None, "'Boss, he could not make it.' Fedya offers a weak excuse. He blames someone else for failing to show up."),
+    (0, None, "'Didn't they teach you to knock?' 'Postuchatsya' is 'to knock' in the sense of knocking to be let in, and it's the usual word for knocking at a door. 'Ne uchili' is 'didn't they teach', with nobody named."),
+    (1, None, "'I am calling the police.' 'Zvonyu v politsiyu' is 'I phone to the police', with 'v' and an 'yu' ending for the direction."),
+    (2, None, "'Where is my car?' 'Mashina' is feminine, so Elena says 'moya', not 'moy'. Nobody bothers with an 'is' in a question like this."),
+    (3, None, "'I have no idea.' 'Ponyatiya ne imeyu' is a set phrase, literally 'idea I don't have'. Russians say it all the time."),
+    (4, None, "'That is it. I have had enough.' 'Znachit tak' is a brisk 'right, so'. 'Nadoelo' is neuter, 'it has bored', and 'mne' is 'to me', so she's saying she's sick of it all."),
+    (5, None, "'If in five minutes...' The sentence stops in the middle, and the three dots show it. Elena lets the threat hang and carries on in the next line."),
+    (6, None, "'my car is not back...' 'Ne budet' with the thing after it means 'will not be there'. 'Moyey mashiny' is 'of my car', so it's 'there will be no car of mine'."),
+    (7, None, "'I am reporting it stolen.' 'Zayavlyayu' is 'I declare' or 'I report'. 'Ob ugone' is 'about the theft', a word used only for stolen vehicles."),
+    (8, None, "'Do you understand me?' 'Ponyali' is the polite plural, 'did you understand'. 'Khorosho' is 'well'."),
+    (9, None, "'That is all.' One word, 'vsyo', which Russians say to end a conversation. It's clear and firm."),
+    (10, None, "'Before I kill you...' 'Pered tem, kak' is a set phrase for 'before'. 'Ubyu' is 'I will kill', and it's a threat people make without meaning it."),
+    (11, None, "'answer one question.' The order 'answer!' wants 'on', so Russians answer 'on a question'. 'Me' becomes 'to me'."),
+    (12, None, "'Why did you take the car?' 'Zachem' is 'what for', and 'uvyoz' is 'drove off with'. The 'u' means 'away'."),
+    (13, None, "'Boss, he could not make it.' 'U nego ne poluchilos'' is 'with him it didn't work out'. 'Priekhat' is to arrive by vehicle."),
+    (14, None, "'He told me to bring the car.' 'Chtoby' is 'so that', and Russian puts the following action in the past: 'chtoby ya privyoz' is 'that I should bring'. 'Privyoz' means 'bring by vehicle'."),
+    (15, None, "'How did you even start it?' 'Zavyol' is 'started', the verb for getting an engine going. 'Voobshche', at all, here works like 'even'."),
+    (16, None, "'Well, whatever I used to unlock it, I used to start it.' 'Chem' means 'with what' and 'tem' means 'with that', so 'chem otkryl, tem i zavyol' is 'with what I opened, with that I started'. It's a clever, short way to dodge the question."),
+    (17, None, "'Did you fix the mirror?' 'Pochinil' is 'fixed' or 'mended'. 'Ty zerkalo pochinil?' has the mirror before the verb, the thing he cares about first."),
 ]

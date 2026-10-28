@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = "Chef Viktor makes a deal with Lyova, but later unfairly demotes him. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Favor for a Favor line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Viktor makes a deal with Lyova. Next time you watch the episode, listen for the Russian expressions for 'get carried away' and 'pancake' — you will catch every word right away. See you next time!"
+INTRO = "Barinov is on his way out when he spots Lyova eating pancakes, and he has a favour to ask. It is not really a favour, and it doesn't end well for Lyova. Listen to it in Russian first."
+OPENER = 'The deal, slowly.'
+TRANSITION = 'Now the deal from start to finish.'
+OUTRO = "Lyova agrees to the swap and loses his job title in the same breath. Speak soon."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Лёва, не увлекайся блинами.', 'Lyova, do not get carried away with pancakes.', [(39, 'Лёва, Лёва, Лёва, не увлекайся блинами.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Марш в подсобку.', 'March to the utility room.', [], ''),
 ]
 WALK = [
-    (0, None, "'Lyova, do not get carried away with pancakes.' Barinov warns his colleague not to get too enthusiastic about eating the pancakes."),
-    (1, None, "'And what is bad about these tasty pancakes?' Lyova questions what could possibly be wrong with such a delicious dish."),
-    (2, None, "'Remember your last test.' The chef points out a recent medical checkup as a reason for caution."),
-    (3, None, "'My cholesterol level was almost in range.' Defending his health, Lyova mentions his cholesterol was almost within normal limits."),
-    (4, None, "'Go to the dry cleaners and take my suit.' Barinov then gives a direct order to pick up his clothes from the dry cleaners."),
-    (5, None, "'I do not have time. That is the other way.' Complaining about the lack of time, Lyova notes that the errand is completely out of his way."),
-    (6, None, "'Lyova, come on, favor for a favor.' Barinov tries to make a deal, offering a trade of favors."),
-    (7, None, "'What useful favor can there be from you?' Skeptical of the offer, Lyova wonders what useful thing his boss could possibly do for him."),
-    (8, None, "'You get me the suit, and I allow you to be late.' The chef proposes a simple exchange: picking up the suit in return for permission to arrive late."),
-    (9, None, "'Alright, I agree to these strange conditions.' Accepting the deal, Lyova agrees to the unusual terms."),
-    (10, None, "'That is it, you are no longer sous-chef.' Barinov suddenly pulls rank, declaring that Lyova has lost his position as sous-chef."),
-    (11, None, "'How can you act like this with me?' Shocked by the betrayal, Lyova asks how his boss could treat him this way."),
-    (12, None, "'March to the utility room.' Dismissing him completely, the chef orders him straight to the utility room."),
+    (0, None, "'Lyova, do not get carried away with pancakes.' 'Uvlekaysya' ends in 'sya', 'carry yourself away'. The pancakes go into the 'with' form, 'blinami', and that '-ami' ending does the job of 'with' on its own."),
+    (1, None, "'And what is bad about these tasty pancakes?' 'Chto plokhogo' is 'what of bad', a handy phrase meaning 'what's wrong with'. 'V etikh' is 'in these'."),
+    (2, None, "'Remember your last test.' Russians say 'remember about' something, so the little word 'pro', 'about', sits in the middle. A medical test is 'analiz', a word that looks just like its English cousin."),
+    (3, None, "'My cholesterol level was almost in range.' 'V norme' is 'in the norm', which Russians use for 'normal range'. 'Kholesterina' ends in 'a' to say 'of'."),
+    (4, None, "'Go to the dry cleaners and take my suit.' 'Khimchistka' is short for 'chemical cleaning', which is what Russians call a dry cleaner. 'Zaydi' is the order to pop in."),
+    (5, None, "'I do not have time. That is the other way.' Literally, 'I'm not managing to be in time'. 'To another side' means 'the other way'."),
+    (6, None, "'Lyova, come on, favor for a favor.' 'Usluga za uslugu' means 'service for service'. Russians say it for a swap, and it has no verb."),
+    (7, None, "'What useful favor can there be from you?' Lyova uses the polite 'vy' with his boss, so 'from you' is 'ot vas'. 'Poleznaya' comes from 'polza', benefit, and ends in 'aya' to match 'usluga'."),
+    (8, None, "'You get me the suit, and I allow you to be late.' The first half has no verb, 'you to me suit'. Barinov doesn't say 'bring' because both of them know what he means."),
+    (9, None, "'Alright, I agree to these strange conditions.' 'Soglasen na' is literally 'agreed onto'. 'Usloviya', conditions, is the usual word for the terms of a deal."),
+    (10, None, "'That is it, you are no longer sous-chef.' 'Bolshe ne', 'more not', is how Russian says 'no longer'. 'Su-shef' is the French 'sous-chef', borrowed with a hyphen."),
+    (11, None, "'How can you act like this with me?' 'Postupat'' can mean both 'act' and 'treat'. 'Kak vy mozhete' is the polite 'how can you'."),
+    (12, None, "'March to the utility room.' 'Marsh' is the military 'march!', borrowed whole. 'V podsobku' is 'into the back room', a word for a small storeroom."),
 ]

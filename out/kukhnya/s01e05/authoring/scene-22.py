@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "With orders rolling in during the intense dinner rush at Claude Monet, Max puts Fedya's breathing advice into action. Working alongside the experienced fish cook, Max stays calm and focused, carefully cooking and plating each order. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine Fedya and Max's plating and coaching line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With Fedya's steady guidance, Max successfully conquers the fish station and plates each dish with pride. Next time you watch the episode, listen for the Russian expressions for 'carefully' and 'dish' — you will catch every word right away. See you next time!"
+INTRO = "Back at the fish station in the Claude Monet kitchen, Max is cooking with Fedya at his shoulder, using the advice he's just been given. This time the orders go out clean. Listen in Russian first."
+OPENER = "Let's go back through it. The panic is gone, and the sentences are short and calm."
+TRANSITION = 'Now the calm version, from first line to last.'
+OUTRO = 'Plenty of these kitchen words sound familiar: "ritm", "sous", "protsess", "kontroliruyu". Add Fedya\'s "molodets", "ne toropis", and you can coach someone through a busy night.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('fedya', 'Вот так, Макс, держи правильный ритм.', 'Like that, Max, keep the right rhythm.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Спасибо, Федя, я готов к работе!', 'Thank you, Fedya, I am ready for work!', [], ''),
 ]
 WALK = [
-    (0, None, "'Like that, Max, keep the right rhythm.' Fedya monitors Max at the station and sets a steady pace."),
-    (1, None, "'The fish is almost ready on the hot pan.' Max keeps track of the cooking fish with focused attention."),
-    (2, None, "'Great, carefully transfer the fish to the plate.' Fedya guides the rookie through the delicate plating process."),
-    (3, None, "'I add fresh greens and sauce.' Max completes the garnishing according to the kitchen's strict standard."),
-    (4, None, "'Well done, take your time.' Fedya praises Max's focus and reminds him not to rush under pressure."),
-    (5, None, "'Each dish must look beautiful.' The experienced chef highlights the importance of visual presentation."),
-    (6, None, "'Inhale and exhale, I am calm.' Max uses the breathing technique to keep his stress under control."),
-    (7, None, "'See, the panic disappears by itself.' Fedya observes the young cook settling into a smooth flow."),
-    (8, None, "'Now I control this entire process.' Max feels genuine confidence returning as he manages the station."),
-    (9, None, "'This order is ready to serve.' Fedya checks the completed plate and gives his professional approval."),
-    (10, None, "'The waiter can already take the plate.' Max announces that the hot dish is ready for the dining room."),
-    (11, None, "'You are doing great on the shift today.' Fedya acknowledges the rookie's perseverance and progress."),
-    (12, None, "'Thank you, Fedya, I am ready for work!' Max expresses his gratitude and looks ahead to the remaining orders."),
+    (0, None, '\'Like that, Max, keep the right rhythm.\' "Ritm" is borrowed, so it\'s easy to catch. "Derzhi", \'hold\', also covers keeping a beat or a pace.'),
+    (1, None, '\'The fish is almost ready on the hot pan.\' "Gotova" has -a because "ryba" is feminine. After "na", the pan, "skovoroda", takes -e: "na goryachey skovorode".'),
+    (2, None, '\'Great, carefully transfer the fish to the plate.\' "Perelozhi" starts with "pere-", \'across\', so it\'s \'lay over\'. "Rybu", the fish being moved, has -u, and so does "na tarelku", where it goes.'),
+    (3, None, '\'I add fresh greens and sauce.\' "Zelen", \'greens\' or \'herbs\', is simply "zelyonyy", \'green\', turned into a thing. "Dobavlyayu", \'I add\', has the \'I\' form -yu.'),
+    (4, None, '\'Well done, take your time.\' "Molodets" is the warm \'good job\' you give someone younger or junior. "Ne toropis", \'don\'t hurry\', ends in -s, the short form of -sya.'),
+    (5, None, '\'Each dish must look beautiful.\' "Dolzhno" ends in -o to match "blyudo", which is neuter. "Krasivo" is the adverb, so Russian literally says \'look beautifully\'.'),
+    (6, None, '\'Inhale and exhale, I am calm.\' "Vdokh i vydokh" come back from Fedya\'s lesson. "Spokoen", \'calm\', is the short form for a man; Nastya would say "spokoyna".'),
+    (7, None, '\'See, the panic disappears by itself.\' "Vidish", \'you see\', is the usual \'see?\'. "Sama soboy", literally \'itself by itself\', means \'on its own\', and "sama" is feminine to match "panika".'),
+    (8, None, '\'Now I control this entire process.\' "Kontroliruyu" and "protsess" are borrowed, with Russian endings. "Ves etot", \'all this\', piles up two words before "protsess".'),
+    (9, None, '\'This order is ready to serve.\' "Gotov" has no ending because "zakaz" is masculine. "K podache", \'for serving\', uses the noun "podacha", after "k" with the dative -e.'),
+    (10, None, '\'The waiter can already take the plate.\' "Mozhet" is \'he can\', and "zabirat" is to come and take something away. "Tarelku", the plate being taken, ends in -u.'),
+    (11, None, '\'You are doing great on the shift today.\' "Spravlyaeshsya", \'you\'re coping\', is how Russians praise someone\'s work. "Na smene", \'on the shift\', has the place ending -e.'),
+    (12, None, '\'Thank you, Fedya, I am ready for work!\' Max answers with the same "gotov k rabote" he gave Barinov earlier. This time he sounds as if he means it.'),
 ]

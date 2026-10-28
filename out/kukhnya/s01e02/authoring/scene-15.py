@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
-INTRO = "Staring at the empty shelf where the vintage cognac was displayed, Kostya panics under Vika's stern questioning. Realizing the bogus repairman stole the valuable bottle, Kostya sprints out to catch the thief before it is too late. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the conversational idioms and fast-paced expressions of alarm."
+INTRO = 'The cognac is gone from the shelf, and Vika wants answers. Kostya realises the "repairman" must have taken it, and he runs out to catch him. This is the Russian first.'
+OPENER = 'Now the chase, from the start.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Kostya dashes out of the restaurant in hot pursuit of the thief to recover the stolen cognac. Great work practicing energetic conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'bottle' and 'fast' — you will catch every word right away. See you next time!"
+OUTRO = 'Kostya is off down the street after a thief, with a threat from Vika behind him. You\'ve now met "kuda", the "where to" question, next to "gde", "where".'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Куда пропала бутылка дорогого коньяка?', 'Where did the bottle of expensive cognac disappear to?', [(192, 'Я не знаю')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('vika', 'Попробуй только не вернуть его назад!', 'Just you dare not bring it back!', [(193, 'уволить')], ''),
 ]
 WALK = [
-    (0, None, "'Where did the bottle of expensive cognac disappear to?' Vika questions where the bottle of expensive cognac disappeared to."),
-    (1, None, "'Honestly speaking, I don't know at all.' Kostya admits honestly that he does not know at all."),
-    (2, None, "'And who should know if not you?' Vika retorts, asking who should know if not him."),
-    (3, None, "'Kostya, you need to be fired from your job immediately!' Vika states that Kostya needs to be fired from his job immediately."),
-    (4, None, "'It definitely stood here, I remember myself.' Kostya insists the bottle definitely stood there, remembering it clearly."),
-    (5, None, "'So that fake repairman stole it.' Vika concludes that the fake repairman must have stolen it."),
-    (6, None, "'What an insolent, vile thief!' Kostya calls the man an insolent, vile thief."),
-    (7, None, "'This bottle costs huge money.' Vika reminds him that the bottle costs a huge amount of money."),
-    (8, None, "'Excuse me, I will fix everything right now.' Kostya asks for forgiveness and promises to fix everything right now."),
-    (9, None, "'Where did you run so fast?' Vika asks where he is running so fast."),
-    (10, None, "'I will catch up with that thief and return the cognac!' Kostya declares he will catch up with the thief and return the cognac."),
-    (11, None, "'Just you dare not bring it back!' Vika warns him not to come back without it."),
+    (0, None, '\'Where did the bottle of expensive cognac disappear to?\' "Kuda" means "where to", and it\'s different from "gde", "where it is". Russian wants one for moving and one for staying.'),
+    (1, None, '\'Honestly speaking, I don\'t know at all.\' "Chestno govorya" is "honestly speaking", exactly as in English. "Sovsem ne znayu" is "at all not I know".'),
+    (2, None, '\'And who should know if not you?\' "Dolzhen znat\'" is "must know" or "is supposed to know". "Yesli ne ty", "if not you", is as short as it sounds.'),
+    (3, None, '\'Kostya, you need to be fired from your job immediately!\' "Tebya nuzhno uvolit\'" is "you necessary to fire": "ty" becomes "tebya" because Kostya is the one being fired. "S raboty" is "from work".'),
+    (4, None, '\'It definitely stood here, I remember myself.\' "Tochno", definitely, and "sam", myself, add weight. "Pomnyu" is "I remember", and "on", it, is the cognac, a masculine word.'),
+    (5, None, '\'So that fake repairman stole it.\' "Fal\'shivyy", fake, comes from German "falsch". "Ukral", stole, is the singular of the chef\'s "ukrali".'),
+    (6, None, '\'What an insolent, vile thief!\' "Vot zhe" turns the sentence into "what a...!". "Naglyy" is "cheeky" or "insolent", "podlyy" is "vile", and "vor" is a thief.'),
+    (7, None, '\'This bottle costs huge money.\' "Stoit", costs, is spelled exactly like "stoit", stands, and context tells you which. Russians say "ogromnykh deneg", "of huge money".'),
+    (8, None, '\'Excuse me, I will fix everything right now.\' "Ispravlyu", I\'ll fix, comes from "pravyy", right: you make it right again. "Izvinite" is the polite "excuse me".'),
+    (9, None, '\'Where did you run so fast?\' "Kuda", where to, again. "Pobezhal" is "ran off", and the "po-" marks the start of the run.'),
+    (10, None, '\'I will catch up with that thief and return the cognac!\' "Dogonyu", I\'ll catch up, is "gonyat\'", to chase, with "do-", as far as. "Vernu" is "I\'ll return".'),
+    (11, None, '\'Just you dare not bring it back!\' "Poprobuy tol\'ko" is "just try", a threat, close to "don\'t you dare". "Nazad", back, ends it.'),
 ]

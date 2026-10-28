@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vadim': 'Вадим'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
-INTRO = 'Outside restaurant Claude Monet in the third episode. A stern prosecutor named Vadim confronts Max and demands to know who Vika is dating. Listen to their tense conversation in Russian first, and then we will break it down together.'
-OPENER = "Let's examine this threatening interrogation step by step."
+INTRO = "A rough-looking man stops Max outside Claude Monet. His name is Vadim, he is a prosecutor, and he wants to know who Vika is seeing these days. Max is not enjoying this. Here's the conversation in Russian first."
+OPENER = "Let's go through the threat."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That is our fourth scene. In Kukhnya, running into an angry prosecutor is the last thing Max needed. See you next time!'
+OUTRO = 'Max promises that Vika is seeing nobody, and Vadim does not look convinced. Take away "ni s kem ne", the double negative with a word wedged in the middle.'
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('vadim', 'Слышь, малой, есть разговор.', 'Listen, kid, I want to talk.', [(132, 'разговор есть')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Надо срочно предупредить всех.', 'Must urgently warn everyone.', [(160, 'Надо предупредить')], ''),
 ]
 WALK = [
-    (0, None, "'Listen, kid, I want to talk.' Cornered in the hall, the young cook finds himself facing a serious chat."),
-    (1, None, "'What do you need?' Max warily asks what the older man wants from him."),
-    (2, None, "'Vika works here with you.' A certain female employee quickly becomes the main subject of their conversation."),
-    (3, None, "'Viktoria Sergeyevna.' Vadim clarifies exactly which woman he is talking about using her full formal name."),
-    (4, None, "'Who is she seeing here?' Romantic engagements at the workplace are suddenly under intense scrutiny."),
-    (5, None, "'Well, why are we silent?' Pressing for a response, the interrogator refuses to accept silence."),
-    (6, None, "'Why should I answer?' Max defensively questions why he should be interrogated."),
-    (7, None, "'Don't want to answer here?' Intimidating questions flow freely when the current location is deemed suitable."),
-    (8, None, "'You'll answer in my prosecutor's office.' Vadim threatens to relocate their chat to an official government building if necessary."),
-    (9, None, "'Did you understand me?' Making sure his menacing implication has been fully grasped is key."),
-    (10, None, "'Understood, understood everything.' Hastily confirming he comprehends the threat, the cook backs down."),
-    (11, None, "'She is not seeing anyone.' Covering for his lover involves insisting she is completely single."),
-    (12, None, "'Well, you watch yourself.' Vadim issues a final warning before letting the matter drop."),
-    (13, None, "'Must urgently warn everyone.' Sounding the alarm about the suspicious investigator becomes the immediate priority."),
+    (0, None, '\'Listen, kid, I want to talk.\' "Slysh\'" is street speech, clipped from "slyshish\'", do you hear. "Maloy", kid, is really "malyy", small, and "yest\' razgovor" is "there is a conversation".'),
+    (1, None, '\'What do you need?\' "Chto vam nuzhno?" is "what to you needed?". Max uses "vam", the polite "you", with a stranger.'),
+    (2, None, '\'Vika works here with you.\' "U vas" is "at you", meaning "at your place". "Tut" is an everyday "here", and "rabotayet" is "works".'),
+    (3, None, '\'Viktoria Sergeyevna.\' A first name plus the father\'s name, "Sergeyevna", daughter of Sergey, is the formal way to name an adult.'),
+    (4, None, '\'Who is she seeing here?\' "Vstrechat\'sya s", to meet with, is the normal way to say you\'re dating someone. "S kem" is "with whom", from "kto", who.'),
+    (5, None, '\'Well, why are we silent?\' "Molchim" is "we are silent", from "molchat\'". Vadim says "we" when he means "you", the scolding "we" used on children.'),
+    (6, None, '\'Why should I answer?\' "Dolzhen", should, has a man\'s ending. "Otvechat\'", to answer, sits next to the noun "otvet", an answer.'),
+    (7, None, '\'Don\'t want to answer here?\' Vadim has called Max "ty" from his first word, and "khochesh\'" is the "ty" form of "want". "Zdes\'" is "here".'),
+    (8, None, '\'You\'ll answer in my prosecutor\'s office.\' "Otvetish\'" is the finished verb, so it means "you will answer". "U menya v prokurature" is "at me in the prosecutor\'s office".'),
+    (9, None, '\'Did you understand me?\' "Ty menya ponyal?" is "you me understood?". "Ponyal" ends in -l because Max is a man.'),
+    (10, None, '\'Understood, understood everything.\' "Ponyal, vsyo ponyal" repeats the same word and adds "vsyo", everything.'),
+    (11, None, '\'She is not seeing anyone.\' The pieces of "nikem", nobody, come apart around "s", with: "ni s kem". Then "ne" follows, so the double negative has a preposition inside it.'),
+    (12, None, '\'Well, you watch yourself.\' "Smotri u menya" is "look, at me", meaning "careful, or you\'ll answer to me". "Smotri" is the "ty" command of "smotret\'", to look.'),
+    (13, None, '\'Must urgently warn everyone.\' "Nado" is a one-word "must". "Predupredit\'" is "to warn", and "vse", everyone, becomes "vsekh" as the object.'),
 ]

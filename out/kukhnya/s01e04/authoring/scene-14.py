@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
-INTRO = "While delivering drinks, Kostya attempts to pay waitress Nastya a romantic compliment about her new curls. Unfortunately, comparing her hair to a little sheep backfires completely when an insulted Nastya retaliates. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the conversational compliments, expressive adjectives, and humorous misunderstandings."
+INTRO = "Kostya has been working up the courage to pay Nastya a compliment about her new curls, and he gets it terribly wrong. He compares her hair to a little sheep, and she does not take it well. Here's the Russian first."
+OPENER = "Let's see how the compliment falls apart."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Kostya's clumsy animal comparison ruins his romantic moment, leaving him scrambling to apologize to an annoyed Nastya. Great work practicing lively conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'stupid' and 'to do' — you will catch every word right away. See you next time!"
+OUTRO = 'Kostya\'s compliment was meant kindly, but a sheep is a sheep. Notice "sam ty", the Russian way to throw an insult back.'
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Настя, посмотри на меня одну секунду.', 'Nastya, look at me for one second.', [(173, 'Настя')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('kostya', 'Извини, я просто хотел сделать комплимент!', 'Sorry, I just wanted to make a compliment!', [(178, 'овца')], ''),
 ]
 WALK = [
-    (0, None, "'Nastya, look at me for one second.' Kostya asks for the hostess's attention."),
-    (1, None, "'What happened, Kostya?' Asking what is wrong, the hostess turns to him."),
-    (2, None, "'You have a really cool hairstyle today.' Praising her new look, the bartender smiles."),
-    (3, None, "'Really? Do you really like it?' Eager to check if he is sincere, she responds."),
-    (4, None, "'Yes, it is so unusual and beautiful.' Admiration for the unique style is confirmed."),
-    (5, None, "'You have very sweet, soft curls.' The texture of her hair gets a compliment."),
-    (6, None, "'Thank you, I took a long time doing this styling.' Explaining the effort, she mentions it took a long time."),
-    (7, None, "'They are curled like a little lamb' A comparison to a farm animal is made."),
-    (8, None, "'What did you just say like that?' Reacting with sudden offense, she questions his words."),
-    (9, None, "'I meant a fluffy little lamb.' Trying to salvage the situation, he clarifies his meaning."),
-    (10, None, "'You are a foolish sheep yourself, got it?' Insulting him right back, she shows her anger."),
-    (11, None, "'Sorry, I just wanted to make a compliment!' Apologizing for his clumsy words, the bartender retreats."),
+    (0, None, '\'Nastya, look at me for one second.\' "Posmotri na menya" is "look at me". A length of time takes -u: "odnu sekundu".'),
+    (1, None, '\'What happened, Kostya?\' "Chto sluchilos\'?" is "what has happened?". "Sluchilos\'" shares a root with "sluchay", an event.'),
+    (2, None, '\'You have a really cool hairstyle today.\' "Prikol\'naya" is slang for "cool", from "prikol", a gag. "U tebya" is the "have" pattern.'),
+    (3, None, '\'Really? Do you really like it?\' "Pravda", truth, is used here for "really?", twice. "Tebe nravitsya" is "to you it\'s pleasing".'),
+    (4, None, '\'Yes, it is so unusual and beautiful.\' "Neobychnaya" is "ne-" plus "obychnaya", usual. The -aya endings match "prichyoska".'),
+    (5, None, '\'You have very sweet, soft curls.\' "Kudri", curls, is a plural word. "Milyye myagkiye" both carry plural -ye.'),
+    (6, None, '\'Thank you, I took a long time doing this styling.\' "Dolgo delala" is "long did", with -la for a woman. "Ukladka", styling, is from "ukladyvat\'", to lay in place.'),
+    (7, None, '\'They are curled like a little lamb\'s.\' "Zakrucheny", twisted, is plural. "Kak u ovechki" is "as at a little sheep", and "ovechka" is a pet form of "ovtsa".'),
+    (8, None, '\'What did you just say like that?\' "Chto ty takoye skazal?" is "what such did you say?", a question that signals offence.'),
+    (9, None, '\'I meant a fluffy little lamb.\' "Imel v vidu" is "had in view", Russian for "meant". "Pushistyy", fluffy, comes from "pukh", down.'),
+    (10, None, '\'You are a foolish sheep yourself, got it?\' "Sam ty" throws an insult back: "you yourself are". "Ovtsa" is the plain sheep, without the pet ending.'),
+    (11, None, '\'Sorry, I just wanted to make a compliment!\' "Izvini" is the familiar "sorry". Russians "make" a compliment, "sdelat\' kompliment", where English pays one.'),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'nastya': 'Настя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "In the staff hallway behind the dining room, art director Victoria finds waitress Nastya crying after an argument with Max. Victoria gives her practical advice on dealing with heartbreak and urges her to focus on work. Let's listen to their conversation in Russian first."
-OPENER = "Let's review this comforting conversation in the hallway line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Encouraged by Victoria's supportive words, Nastya returns to her duties in the restaurant. See you next time!"
+INTRO = "After Max's breakup speech, Nastya is crying in the staff corridor behind the Claude Monet dining room. Vika, the art director who runs the dining room, finds her there. Here it is in Russian first."
+OPENER = 'Now through it slowly. Vika is kind, but in a brisk, no-nonsense way.'
+TRANSITION = 'Now the whole scene as it was told.'
+OUTRO = 'Listen to Vika\'s commands again: "umoysya", "uspokoysya", "vozvrashchaysya". Every one ends in -sya, because each tells Nastya to do something to herself.'
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('vika', 'Настя, почему ты так горько плачешь?', 'Nastya, why are you crying so bitterly?', [(111, 'Настя, что случилось')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nastya', 'Вы абсолютно правы, иду работать!', 'You are absolutely right, I am going to work!', [], ''),
 ]
 WALK = [
-    (0, None, "'Nastya, why are you crying so bitterly?' Vika finds the distraught waitress crying in the corridor."),
-    (1, None, "'Max treated me very badly.' Nastya reveals her deep disappointment in the new cook."),
-    (2, None, "'What did this guy do again?' Vika asks for specific details about the latest offense."),
-    (3, None, "'He said that we are just friends.' Nastya tearfully recounts how she was rejected."),
-    (4, None, "'Do not be upset over a foolish cook.' Vika tries to put the situation into realistic perspective."),
-    (5, None, "'I feel very hurt and sad.' Nastya admits how painful the sudden rejection feels."),
-    (6, None, "'Wash your face with cold water and calm down.' Vika offers practical advice to restore composure."),
-    (7, None, "'Thank you for the support, Victoria Sergeevna.' Nastya expresses gratitude to her manager for the comfort."),
-    (8, None, "'Return to the dining hall, the guests are waiting for their order.' Vika reminds her that the customers need her attention."),
-    (9, None, "'I already dried my tears and am ready.' Nastya gathers herself with quiet determination."),
-    (10, None, "'Good girl, work cures everything!' Vika encourages her with reassuring confidence."),
-    (11, None, "'You are absolutely right, I am going to work!' Nastya agrees and heads back to her duties."),
+    (0, None, '\'Nastya, why are you crying so bitterly?\' "Gorko" comes from "gorkiy", \'bitter\', the word for the taste. Russians cry \'bitterly\' just as English speakers shed bitter tears.'),
+    (1, None, '\'Max treated me very badly.\' "Postupil so mnoy" is literally \'acted with me\'. Before "mnoy", the little "s", \'with\', takes an extra vowel and becomes so.'),
+    (2, None, '\'What did this guy do again?\' "Etot paren", \'this guy\', instead of his name tells you Vika is fed up. "Natvoril" means \'got up to\', always about something bad.'),
+    (3, None, '\'He said that we are just friends.\' "Prosto", \'just\', here means \'merely\'. "Drug", \'friend\', has an irregular plural: "druzya".'),
+    (4, None, '\'Do not be upset over a foolish cook.\' "Ne" before a command makes \'don\'t\'. "Iz-za" means \'because of\', and after it the cook becomes "glupogo povara".'),
+    (5, None, '\'I feel very hurt and sad.\' Literally \'to me very hurtful and heavy\'. Feelings in Russian often work like this: "mne" plus a word ending in -o, like "obidno" or "tyazhelo".'),
+    (6, None, '\'Wash your face with cold water and calm down.\' "Kholodnoy vodoy", \'with cold water\', has instrumental endings and no word for \'with\' at all, because the water is what you use.'),
+    (7, None, '\'Thank you for the support, Victoria Sergeevna.\' "Spasibo za" means \'thanks for\', and "podderzhka" becomes "podderzhku" after it. A first name plus a father\'s name, "Viktoriya Sergeevna" in Russian, is how you address a boss.'),
+    (8, None, '\'Return to the dining hall, the guests are waiting for their order.\' "V zal", \'into the hall\', is about direction. "Zhdut", \'they wait\', takes "zakaz", \'the order\', straight after it.'),
+    (9, None, '\'I already dried my tears and am ready.\' "Vyterla" and "gotova" both end in -a, the woman\'s forms. "Slyozy", \'tears\', is the plural of "slyoza".'),
+    (10, None, '\'Good girl, work cures everything!\' "Umnitsa", a warm \'clever girl\', comes from um, \'mind\'. "Lechit" is a doctor\'s verb, \'treats\' or \'heals\'.'),
+    (11, None, '\'You are absolutely right, I am going to work!\' With the polite "vy", \'right\' takes a plural form: "pravy", even for one person. "Idu rabotat" is \'I\'m going to work\'.'),
 ]

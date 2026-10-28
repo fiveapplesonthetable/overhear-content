@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
-INTRO = "Max arrives in the Claude Monet kitchen eager to start cooking after a full week of manual unloading. Instead of a saucepan, Chef Viktor Barinov hands him a live goose delivered for tonight's grand banquet. Barinov declares that every true cook must be able to slaughter and prepare their own meat. Let's listen to their confrontation in Russian first."
-OPENER = "Now let's examine Chef Barinov and Max's tense dialogue line by line."
+INTRO = "This is Kukhnya, the Russian comedy about a hot-tempered chef and the staff of a smart Moscow restaurant called Claude Monet. In this third episode, Max, the young cook, has spent a week unloading deliveries and is longing to be allowed near a stove. Instead, Chef Barinov hands him something very different: a live goose. Here is their conversation in Russian first, so don't worry about catching every word."
+OPENER = "Let's go back and watch Max's face."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+OUTRO = 'So Max has been given a goose and an ultimatum. If "zhivoy", alive, sticks in your head after this, good: you\'ll meet it again.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Доброе утро, шеф!', 'Good morning, chef!', [(46, 'Доброе утро, шеф')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Хорошо, я попробую сделать это.', 'Fine, I will try to do it.', [], ''),
 ]
 WALK = [
-    (0, None, "'Good morning, chef!' Cheerful greetings kick off the morning as the young cook addresses his boss."),
-    (1, None, "'Hello, oguzok. Here is your work.' Barinov welcomes his new cook with a slightly derogatory nickname and immediately hands him an assignment."),
-    (2, None, "'Chef, this is a live goose!' Seeing the unusual task in front of him, the young chef reacts with pure surprise."),
-    (3, None, "'We have a very important banquet today.' The upcoming evening event carries high stakes for their restaurant."),
-    (4, None, "'Why do we need a live goose in the kitchen?' Max questions the necessity of bringing an unslaughtered bird into their workspace."),
-    (5, None, "'The guests need the freshest product!' Top-tier ingredients are required for their demanding patrons, according to the boss."),
-    (6, None, "'But I am a cook, not a butcher.' Preparing meat from scratch is far outside the usual job description of a standard line cook."),
-    (7, None, "'Every chef is obliged to know how to butcher meat.' Every culinary professional must know how to properly handle a butcher knife."),
-    (8, None, "'What, do I need to kill it?' Max asks directly if he is expected to end the animal's life."),
-    (9, None, "'Did you think meat grows on trees?' Growing meat on trees is sadly impossible, as the head chef mockingly points out."),
-    (10, None, "'I have never done this in my life.' This kind of gruesome task is completely foreign to the inexperienced worker."),
-    (11, None, "'Kill the goose, or you are fired!' Barinov issues a harsh ultimatum, demanding compliance or immediate termination."),
-    (12, None, "'Fine, I will try to do it.' Reluctantly, the terrified cook agrees to make an attempt in order to keep his job."),
+    (0, None, '\'Good morning, chef!\' "Dobroye utro" puts -oye on "good" because "utro", morning, is a neuter word. For the evening it changes to "dobryy vecher", since "vecher" is masculine.'),
+    (1, None, '\'Hello, oguzok. Here is your work.\' "Zdravstvuy" is the hello for one person you call "ty". Add -te and you get "zdravstvuyte", the polite one. "Oguzok" is a butcher\'s word for the rump cut, and "vot tvoya rabota" is "here your work".'),
+    (2, None, '\'Chef, this is a live goose!\' "Eto zhivoy gus\'" is "this live goose", with no word for "is". "Zhivoy" means alive, and "gus\'" is a goose.'),
+    (3, None, '\'We have a very important banquet today.\' "U nas", "at us", is how Russian says "we have". "Vazhnyy" is "important", and "banket" is the banquet.'),
+    (4, None, '\'Why do we need a live goose in the kitchen?\' "Zachem nam" is "what for, to us", and that "nam" carries the "we need". Note "na kukhne": Russians are "on" the kitchen, not "in" it.'),
+    (5, None, '\'The guests need the freshest product!\' "Gostyam nuzhen" is "to the guests is needed", and "nuzhen" is masculine to match "produkt". "Samyy svezhiy" is "the most fresh", the easy way to say "freshest".'),
+    (6, None, '\'But I am a cook, not a butcher.\' "Ya povar, a ne myasnik": the little "a ne", "and not", sets one job against the other. "Myasnik" is built on "myaso", meat.'),
+    (7, None, '\'Every chef is obliged to know how to butcher meat.\' "Obyazan", obliged, has a man\'s ending, and for a woman it would be "obyazana". "Umet\'" is "know how", for skills, and "razdelyvat\'" is to cut a carcass into pieces.'),
+    (8, None, '\'What, do I need to kill it?\' "Mne nuzhno" is "to me necessary", the plain "I need to". "Ubit\'" is "to kill", and "yego", him, is the goose.'),
+    (9, None, '\'Did you think meat grows on trees?\' "Dumal" ends in -l, so Barinov is talking to a man. "Derevo", tree, has the odd plural "derev\'ya", and "on trees" is "na derev\'yakh".'),
+    (10, None, '\'I have never done this in my life.\' "Nikogda... ne delal" is "never not did", the Russian double negative. "Etogo", this, takes its "of" form after the "ne", and "v zhizni" is "in life".'),
+    (11, None, '\'Kill the goose, or you are fired!\' "Ubey" is the command "kill". "Gus\'" becomes "gusya" as the thing killed, the ending for a living creature. "Ty uvolen" is "you are fired".'),
+    (12, None, '\'Fine, I will try to do it.\' "Poprobuyu", I\'ll try, is the future of "poprobovat\'", the finished partner of "probovat\'". "Sdelat\' eto" is "to do it".'),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
-INTRO = "Slumping onto a stool at the Claude Monet bar, Max attempts to recover from a sleepless night of drinking at the nightclub. Bartender Kostya immediately detects the painful signs of a hangover and pours a lifesaving jug of cold water for the young newcomer. Let's listen to their conversation in Russian first."
-OPENER = "Let's replay a few lines to examine key phrases and grammar."
+INTRO = 'Max reaches the bar of Claude Monet, and the bartender, Kostya, takes one look at him. After the long night Max had, he looks terrible, and Kostya has just the cure in mind. Here is their talk in Russian first.'
+OPENER = "Let's go through it slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Kostya slides a large carafe of water across the bar. Next time you watch the episode, listen for the Russian expressions for 'appetite' and 'pale' — you will catch every word right away. See you next time!"
+OUTRO = 'A litre of water, and a friend for life: Kostya and Max will be inseparable from here on. You\'ve picked up the polite phrase for "enjoy your meal", which you can use at any table.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('kostya', 'Бухал вчера?', 'Been drinking yesterday?', [(75, 'Бухал вчера')], ''),
@@ -31,9 +31,17 @@ STORY = [
     ('max', 'Спасибо, друг, ты спасаешь мне жизнь.', 'Thank you, my friend, you are saving my life.', [], ''),
 ]
 WALK = [
-    (0, None, "'Been drinking yesterday?' Kostya asks casually, using the colloquial verb for drinking alcohol."),
-    (1, None, "'Is it noticeable?' Max replies ruefully, realizing his rough night shows on his face."),
-    (2, None, "'Would you like anything?' Kostya asks politely, switching into professional hospitality mode behind the bar."),
-    (3, None, "'Water.' Max croaks, as he is in need of cold water before his interview."),
-    (4, None, "'A liter! Without any gas at all!' Max exclaims, emphasizing the urgent quantity of cold still water he requires. Now listen to the full bar dialogue once more."),
+    (0, None, '\'Been drinking yesterday?\' "Bukhal" is slang for drinking a lot, and with "vchera", yesterday, it makes a blunt, friendly question. There\'s no "you" and no question word, only a rising voice.'),
+    (1, None, '\'Is it noticeable?\' "Zametno" does the whole sentence by itself. Russian often drops the little words that English can\'t do without.'),
+    (2, None, '\'Your face is pale, your hands are shaking a bit.\' "Blednoye" is the "pale" from the dining-room scene. "Ruki" is "hands", plural, and "drozhat" is "they shake", so the ending matches the plural.'),
+    (3, None, '\'Yes, the night was very wild.\' "Byla" is "was", and the -a comes from "noch\'", night, being feminine; for Max himself it would be "byl". "Burnoy" comes from "burya", a storm.'),
+    (4, None, '\'Enjoy your meal.\' "Priyatnogo appetita" is literally "of pleasant appetite", with "I wish you" left out. Russians say it to anyone who is about to eat, not only in restaurants.'),
+    (5, None, '\'Who did you just say that to?\' "Komu" is "to whom", the "to" form of "kto", who. "Seychas" usually means "now", and here it means "just now".'),
+    (6, None, '\'To a guest at the next table.\' The "-yu" on "gostyu" is the "to" ending. "Sosednim" is "neighbouring", from "sosed", neighbour. "Stolik" is the little table again.'),
+    (7, None, '\'Would you like anything?\' "Chto-nibud\'" is "anything": add "-nibud\'" to "what" and you get "any". Compare "kogo-to", "someone". "Zhelayete" is a waiter\'s "do you wish", more formal than "khotite".'),
+    (8, None, '\'Water.\' Max doesn\'t say "voda". He says "vody", "of water", the shape Russian uses for "some water". It\'s the quick way to order a drink.'),
+    (9, None, '\'Sparkling or still?\' Russians call fizzy water "water with gas": "s gazom" is "with gas", "bez gaza" is "without gas". "Ili" is "or".'),
+    (10, None, '\'A liter! Without any gas at all!\' "Bez vsyakogo gaza" is "without any gas whatsoever". "Vsyakiy" means "any" and "every", and it adds emphasis.'),
+    (11, None, '\'Right away, I am already bringing it.\' "Vsyo" here means "that\'s it, done". "Uzhe nesu" is "already carrying", and Kostya uses the present for something he\'s about to do.'),
+    (12, None, '\'Thank you, my friend, you are saving my life.\' "Spasibo" began as "spasi Bog", "God save", and "spasayesh\'", saving, is the same root. "Mne zhizn\'" is "to me life", Russian\'s way of saying "my life".'),
 ]

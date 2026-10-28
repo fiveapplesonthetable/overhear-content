@@ -10,14 +10,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Луи | Осторожно, ты пронзил меня своей колбасой! | Careful, you impaled me with your sausage! | #75: Ты пронзил меня своей колбасой | verbatim |
+| 1 | Луи | Осторожно, ты пронзил меня своей колбасой! | Careful, you impaled me with your sausage! | #75 00:04:57: Ты пронзил меня своей колбасой | verbatim |
 | 2 | Макс | Луи, перестань так громко кричать. | Louis, stop screaming so loudly. | new | new |
-| 3 | Луи | Скажи Марии, что я любил её! | Tell Maria that I loved her! | #76: Скажи Марию, что я любил ее друг | verbatim |
+| 3 | Луи | Скажи Марии, что я любил её! | Tell Maria that I loved her! | #76 00:05:01: Скажи Марию, что я любил ее друг | verbatim |
 | 4 | Макс | Хватит умирать, нам нужно убирать кухню. | Stop dying, we need to clean the kitchen. | new | new |
 | 5 | Луи | Шеф заставляет нас мыть эти полки? | Does Chef force us to wash these shelves? | new | new |
 | 6 | Макс | Да, шеф требует идеальной чистоты везде. | Yes, Chef demands perfect cleanliness everywhere. | new | new |
 | 7 | Луи | Тут пыль лежит уже целый год! | Dust has been lying here for a whole year! | new | new |
-| 8 | Макс | С открытия ресторана здесь никто не убирался. | Since the restaurant opened nobody cleaned here. | #77: Тут, наверное, с открытия никто не убирался | verbatim |
+| 8 | Макс | С открытия ресторана здесь никто не убирался. | Since the restaurant opened nobody cleaned here. | #77 00:05:09: Тут, наверное, с открытия никто не убирался | verbatim |
 | 9 | Луи | Тогда бери скорее тряпку и воду. | Then take a rag and water quickly. | new | new |
 | 10 | Макс | Я готов, давай закончим эту работу. | I am ready, let's finish this work. | new | new |
 | 11 | Луи | Главное, чтобы шеф был очень доволен. | The main thing is that Chef is very pleased. | new | new |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Careful, you impaled me with your sausage!' Louis dramatically pretends to be mortally wounded in a playful duel.
-- 'Louis, stop screaming so loudly.' Max tries to quiet the flamboyant French pastry chef.
-- 'Tell Maria that I loved her!' Louis delivers an over-the-top final request as if taking his dying breath.
-- 'Stop dying, we need to clean the kitchen.' Max brings him back to reality before the inspection begins.
-- 'Does Chef force us to wash these shelves?' Louis sighs at the unglamorous cleaning assignment.
-- 'Yes, Chef demands perfect cleanliness everywhere.' Max reminds him of Viktor Barinov's fierce standards.
-- 'Dust has been lying here for a whole year!' Louis points out how thick the grime on the shelves really is.
-- 'Since the restaurant opened nobody cleaned here.' Max guesses that these storage spaces have never been touched.
-- 'Then take a rag and water quickly.' Louis gestures toward the bucket to get the chore started.
-- 'I am ready, let's finish this work.' Max sets to work with practical determination.
-- 'The main thing is that Chef is very pleased.' Louis hopes their hard work satisfies the temperamental head chef.
-- 'Exactly, otherwise we will really get it!' Max agrees that displeasing Barinov carries severe consequences.
+- 'Careful, you impaled me with your sausage!' "Kolbasa", sausage, becomes "svoey kolbasoy", and that -oy ending alone means 'with', as in 'using'. "Ostorozhno", careful, is the word you'd shout at someone backing into a hot stove.
+- 'Louis, stop screaming so loudly.' "Perestan", stop, goes with the plain dictionary form: "perestan krichat", stop shouting. It works for any habit you want someone to drop.
+- 'Tell Maria that I loved her!' "Mariya" becomes "Marii", 'to Maria', the person you tell something to. "Lyubil", I loved, ends in -l because Louis is a man.
+- 'Stop dying, we need to clean the kitchen.' "Khvatit", enough, also goes with a plain verb: "khvatit umirat", 'enough dying'. "Umirat" and "ubirat", to die and to clean up, differ by one letter, which Max seems to enjoy.
+- 'Does Chef force us to wash these shelves?' "Zastavlyaet nas myt" is 'makes us wash': the person, then the action. "Polka", shelf, is "polki" in the plural.
+- 'Yes, Chef demands perfect cleanliness everywhere.' "Trebovat", to demand, changes the word after it, so "chistota" turns into "chistoty". "Vezde", everywhere, is worth having alongside "zdes", here.
+- 'Dust has been lying here for a whole year!' Russian keeps the present tense for something still going on: 'dust lies here already a whole year'. And dust lies, "lezhit", the way a book lies on a table.
+- 'Since the restaurant opened nobody cleaned here.' S, since, makes "otkrytie", the opening, into "s otkrytiya". "Nikto ne", 'nobody not', is the normal double negative.
+- 'Then take a rag and water quickly.' "Beri", take, is said to one person, from "brat", the word behind "beru", I take. "Voda", water, becomes "vodu" because it's what you take.
+- 'I am ready, let's finish this work.' "Davay" plus a 'we' form, "zakonchim", makes 'let's finish'. "Gotov", ready, is the form for a man; Nastya would say "gotova".
+- 'The main thing is that Chef is very pleased.' After "chtoby", so that, Russian uses the past form, "byl", even about the future. "Dovolen", pleased, is a word you'll hear about every boss.
+- 'Exactly, otherwise we will really get it!' "Nam dostanetsya" is literally 'it will reach us', the Russian 'we'll catch it'. "Inache", otherwise, is the word to put before any threat.

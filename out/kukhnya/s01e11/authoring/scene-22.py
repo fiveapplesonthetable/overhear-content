@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'rodion': 'Родион'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = "At the bar of Claude Monet, bartender Kostya is anxiously polishing a glass because an arrogant food critic is harassing Nastya. As the homeless philosopher Rodion savors his complimentary soup, he offers Kostya deep and unexpected wisdom. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the philosophical advice, expressions of worry, and questions of self-respect."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Inspired by Rodion's wise words about honor and boundaries, Kostya realizes that protecting Nastya matters far more than any critic's opinion. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to be afraid' and 'important' — you will catch every word right away. See you next time!"
+INTRO = 'At the bar, the soup eater tastes his bouillabaisse, and he notices that Kostya is washing the same glass again. Kostya tells him why. Listen out for the little words.'
+OPENER = "Let's see how it's put together."
+TRANSITION = 'Now it should sound clearer.'
+OUTRO = "The old customer gives Kostya a simple lesson: it is his life and his decision. Whether he'll listen is another matter. See you soon."
 CLOSING = ('rodion', 'Пока!')
 STORY = [
     ('rodion', 'Этот суп действительно очень вкусный и горячий.', 'This soup is really very tasty and hot.', [(290, 'Хорош супец.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('rodion', 'Жизнь твоя, и только ты принимаешь решение!', 'The life is yours, and only you make the decision!', [(307, 'Ну что, жизнь твоя, девушка твоя.'), (308, 'И решение твоя.')], ''),
 ]
 WALK = [
-    (0, None, "'This soup is really very tasty and hot.' Rodion enjoys the meal and praises the hot food. He is very happy with his dish."),
-    (1, None, "'Kostya, tell honestly, what happened with you?' Rodion notices something is wrong and asks the bartender to be honest. He wants to know what happened."),
-    (2, None, "'Everything is fine, I am simply wiping this glass.' Kostya tries to act normal and says he is just wiping a glass. He is clearly avoiding the question."),
-    (3, None, "'You have been washing it for a whole half hour already.' Rodion points out that the guy has been cleaning the same glass for half an hour. It is a dead giveaway."),
-    (4, None, "'An important critic is sitting at Nastya' Kostya finally admits that a VIP is sitting at his girlfriend's table. He is very stressed about it."),
-    (5, None, "'This insolent man is rudely hitting on her.' Kostya explains that this arrogant man is hitting on her rudely. It makes him furious."),
-    (6, None, "'I am afraid of doing something bad for the restaurant.' Kostya confesses his fear of doing something that will harm the business. He feels trapped between love and work."),
-    (7, None, "'You see, the problem is not at all in this critic.' Rodion wisely tells him that the problem is not actually the VIP at all. There is a deeper issue here."),
-    (8, None, "'The main question here is in who you are.' Rodion explains that the real question is about his own identity. It is about what kind of man he wants to be."),
-    (9, None, "'Pass me the salt, please, young friend.' Rodion casually asks his young friend to pass the salt. He pauses his deep advice for a moment."),
-    (10, None, "'Whether he is a janitor or a critic—that is completely unimportant.' Rodion says the man's job title does not matter at all. A janitor or a VIP, a jerk is a jerk."),
-    (11, None, "'Do you allow someone to insult your girlfriend or not?' Rodion asks the tough question of whether he will allow someone to insult his girl. This is the real test."),
-    (12, None, "'The life is yours, and only you make the decision!' Rodion reminds him that it is his life and his choice to make. No one else can decide for him."),
+    (0, None, '\'This soup is really very tasty and hot.\' "Deystvitelno" is "really", "truly". "Vkusny", "tasty", is built on "vkus", "taste". The guest is happy with Barinov\'s soup, and he says so.'),
+    (1, None, '\'Kostya, tell honestly, what happened with you?\' "Skazhi chestno" is the usual way to ask for the truth. "S toboy" is "with you". The guest uses "ty" with the bartender, as a regular does.'),
+    (2, None, '\'Everything is fine, I am simply wiping this glass.\' Russian has several words for "glass". "Ryumka" is a small one, the kind for spirits. "Vytirayu" is "I am wiping". His mind is elsewhere.'),
+    (3, None, '\'You have been washing it for a whole half hour already.\' Russian uses the present for something still going on: "moesh eyo uzhe polchasa", "you wash it already half an hour". "Tselykh", "whole", adds the exasperation.'),
+    (4, None, '\'An important critic is sitting at Nastya\'s table.\' "U Nasti za stolom" is "at Nastya, at the table", meaning "at her table". Kostya finally admits what is on his mind.'),
+    (5, None, '\'This insolent man is rudely hitting on her.\' "Nagly" is "insolent", and "grubo" is "rudely". "Pristayot k ney" is the verb Nastya used about the critic: "on postoyanno pristayot ko mne". Kostya\'s anger shows.'),
+    (6, None, '\'I am afraid of doing something bad for the restaurant.\' "Chto-nibud", "something", ends in -nibud, the "any" ending. "Boyus sdelat" is "I am afraid to do". Kostya is torn between love and loyalty.'),
+    (7, None, '\'You see, the problem is not at all in this critic.\' "Ponimaesh", "you understand", is the Russian "you see". Russians say the problem is "v", "in", something: "ne v etom kritike". The guest is about to say something wise.'),
+    (8, None, '\'The main question here is in who you are.\' "V tom, kto ty", "in that, who you are", is the Russian frame for "the point is who you are". The guest, a stranger, holds up a mirror to the bartender.'),
+    (9, None, '\'Pass me the salt, please, young friend.\' "Peredai" is "pass", hand something on. "Sol", "salt", is a feminine word. The guest breaks off his own wisdom to ask for salt.'),
+    (10, None, '\'Whether he is a janitor or a critic—that is completely unimportant.\' "Dvornik", "janitor", comes from "dvor", "yard": the man who keeps the yard. "Nevazhno", "unimportant", is "ne vazhno" written as one word.'),
+    (11, None, '\'Do you allow someone to insult your girlfriend or not?\' The verb comes first: "pozvolyaesh ty", "allow you", for a pointed question. "Obizhat" is "to insult" or "to hurt". "Ili net" is "or not".'),
+    (12, None, '\'The life is yours, and only you make the decision!\' "Zhizn tvoya", "life yours", has no "is". And you "accept" a decision, "prinimaesh reshenie", rather than make one. The guest finishes his sermon.'),
 ]

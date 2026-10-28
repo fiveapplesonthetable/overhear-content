@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "Stranded out on the cold street with his suitcase and a bouquet of flowers after Louis's awkward rejection, Max dials Kostya in desperation to explain the kitchen prank and ask for a place to spend the night."
-OPENER = "Let's explore Max's hilarious phone call to Kostya after falling for a kitchen prank."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Rescued by Kostya's hospitality, Max grabs his bags and heads to his friend's apartment. Next time you watch the episode, listen for the Russian expressions for 'address' and 'bouquet' — you will catch every word right away. See you next time!"
+INTRO = 'Late at night, after Louis has shut the door on him, Max is standing outside with a suitcase and flowers. He rings Kostya, the bartender, to explain what has happened. Listen to the call in Russian.'
+OPENER = "Let's go through the phone call. Kostya asks, and Max has to confess."
+TRANSITION = 'Now the phone call without interruptions.'
+OUTRO = "A phone call is a good way to practise Russian: 'hello', 'do you hear me', 'come to me'. You've now had all three. See you next time."
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('max', 'Алло, Костя, ты меня слышишь?', 'Hello, Kostya, do you hear me?', [(352, 'Алло.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('kostya', 'Приезжай ко мне, будем ночевать вместе.', 'Come over to my place, we will stay the night together.', [], ''),
 ]
 WALK = [
-    (0, None, "'Hello, Kostya, do you hear me?' Max calls his friend in desperation from the dark sidewalk."),
-    (1, None, "'Max, hi, what happened?' Kostya answers the phone from his quiet apartment."),
-    (2, None, "'I am standing at night right on the street.' Max explains his miserable situation out in the cold."),
-    (3, None, "'And why did you not go to your friend?' Kostya wonders why Max has not settled in anywhere."),
-    (4, None, "'They gave me someone else's home address.' Max explains that he was handed a deceptive note."),
-    (5, None, "'And whose place did you end up at?' The bartender is curious about the unexpected destination."),
-    (6, None, "'I arrived at our pastry chef Louis's place!' Max reveals the hilarious and embarrassing mistake."),
-    (7, None, "'To Louis? With a suitcase and things?' Kostya is completely stunned by the bizarre mix-up."),
-    (8, None, "'Yes, and with a bouquet of flowers too!' Max confesses the most awkward detail of the evening."),
-    (9, None, "'Now that is a prank the guys played on you!' Kostya realizes the kitchen cooks orchestrated a practical joke."),
-    (10, None, "'Louis thought that I was in love with him.' Max describes the mortifying misunderstanding at the door."),
-    (11, None, "'And what did he tell you?' Kostya asks while struggling to suppress laughter at the situation."),
-    (12, None, "'He said that his heart is already taken.' Max repeats the pastry chef's gentle romantic rejection."),
-    (13, None, "'Come over to my place, we will stay the night together.' The loyal friend offers him a warm place to stay."),
+    (0, None, '\'Hello, Kostya, do you hear me?\' "Allo" is only for the phone. "Slyshish\'", \'you hear\', is from slyshat\', to hear, a different verb from slushat\', to listen.'),
+    (1, None, '\'Max, hi, what happened?\' "Chto sluchilos\'" is what you ask when something\'s wrong, with -sya cut to -s\'. "Privet" is the casual \'hi\'.'),
+    (2, None, '\'I am standing at night right on the street.\' "Noch\'yu", \'at night\', is noch\' in its \'with\' form, used as a time word. Na ulitse, \'on the street\', is how Russian says \'outside\'.'),
+    (3, None, '\'And why did you not go to your friend?\' "Poyekhal", \'went\', is for going by transport. After k, \'to\', drug becomes drugu.'),
+    (4, None, '\'They gave me someone else\'s home address.\' "Dali", \'they gave\', names nobody, like the English \'they\'. "Chuzhoy" means \'someone else\'s\', the opposite of svoy.'),
+    (5, None, "'And whose place did you end up at?' K komu, 'to whom', is kto changed to komu after k. V itoge, 'in the end', literally means 'in the total'."),
+    (6, None, '\'I arrived at our pastry chef Louis\'s place!\' K nashemu konditeru, \'to our pastry chef\', gives both words a \'to\' ending. "Luis" is a foreign name and never changes its ending.'),
+    (7, None, '\'To Louis? With a suitcase and things?\' S chemodanom i veshchami adds the \'with\' endings -om and -ami. "Veshchi", \'things\', is how Russians talk about their belongings.'),
+    (8, None, '\'Yes, and with a bouquet of flowers too!\' "Yeshchyo" i, \'and also\', adds one more embarrassing detail. S buketom tsvetov is the bouquet Kostya told him to buy.'),
+    (9, None, '\'Now that is a prank the guys played on you!\' "Vot eto" at the start means \'now that\'s what I call\'. After nad, \'over\', ty becomes toboy: podshutit\' nad toboy, \'to play a joke on you\'.'),
+    (10, None, '\'Louis thought that I was in love with him.\' "Vlyublyon v", \'in love with\', is the short form for a man; a woman would say vlyublena. After v, yego takes an n: v nego.'),
+    (11, None, '\'And what did he tell you?\' Tebe, \'to you\', is ty with a \'to\' ending. "Skazal", \'said\', pairs with govorit\' as its completed partner.'),
+    (12, None, '\'He said that his heart is already taken.\' "Skazal" opens the line with no \'he\', since it\'s clear who spoke. "Zanyato" is Louis\'s word for his heart: occupied.'),
+    (13, None, '\'Come over to my place, we will stay the night together.\' "Priyezzhay", \'come over\', tells Max to come by transport. "Budem nochevat\'", \'we will stay the night\', grows out of noch\', night.'),
 ]

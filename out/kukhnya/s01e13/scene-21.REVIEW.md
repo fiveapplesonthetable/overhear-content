@@ -10,34 +10,38 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Елена | Ну что, бампера нет... | Well, the bumper is gone... | #291: что | verbatim |
+| 1 | Елена | Ну что, бампера нет... | Well, the bumper is gone... | #291 00:22:22: что | verbatim |
 | 2 | Елена | и фара разбита. | and the headlight is smashed. | new | new |
 | 3 | Елена | Я в порядке, не я была за рулем. | I am fine. I was not driving. | new | new |
 | 4 | Елена | Это длинная история... | It is a long story... | new | new |
 | 5 | Елена | потом расскажу, ладно? | I will tell you later, okay? | new | new |
-| 6 | Елена | Все, давай, пока. | All right, bye. | #288: все | verbatim |
-| 7 | Шеф | Да вы не переживайте, я все починю. | Do not worry, I will fix everything. | #289: переживайте | verbatim |
-| 8 | Шеф | Просто хотел как лучше. | I was only trying to help. | #290: просто | verbatim |
-| 9 | Елена | Я представляю, что бы было... | I can imagine what you would have done... | #291: представляю | verbatim |
-| 10 | Елена | если бы вы захотели как хуже. | if you meant to make things worse. | #291: если | verbatim |
-| 11 | Елена | Вы вообще понимаете... | Do you realize... | #292: вообще | verbatim |
-| 12 | Елена | что я могу написать заявление? | I could file a complaint? | #291: что | verbatim |
-| 13 | Елена | И вашего повара посадят. | And your chef could go to prison. | #293: вашего | verbatim |
-| 14 | Шеф | Понимаю. | I understand. | #294: понимаю | verbatim |
-| 15 | Шеф | Может быть, обойдемся без заявления? | Maybe we can settle this without a complaint? | #295: может | verbatim |
-| 16 | Елена | Я подумаю. | I will think about it. | #296: подумаю | verbatim |
+| 6 | Елена | Все, давай, пока. | All right, bye. | #288 00:22:15: все | verbatim |
+| 7 | Шеф | Да вы не переживайте, я все починю. | Do not worry, I will fix everything. | #289 00:22:17: переживайте | verbatim |
+| 8 | Шеф | Просто хотел как лучше. | I was only trying to help. | #290 00:22:19: просто | verbatim |
+| 9 | Елена | Я представляю, что бы было... | I can imagine what you would have done... | #291 00:22:22: представляю | verbatim |
+| 10 | Елена | если бы вы захотели как хуже. | if you meant to make things worse. | #291 00:22:22: если | verbatim |
+| 11 | Елена | Вы вообще понимаете... | Do you realize... | #292 00:22:26: вообще | verbatim |
+| 12 | Елена | что я могу написать заявление? | I could file a complaint? | #291 00:22:22: что | verbatim |
+| 13 | Елена | И вашего повара посадят. | And your chef could go to prison. | #293 00:22:30: вашего | verbatim |
+| 14 | Шеф | Понимаю. | I understand. | #294 00:22:32: понимаю | verbatim |
+| 15 | Шеф | Может быть, обойдемся без заявления? | Maybe we can settle this without a complaint? | #295 00:22:33: может | verbatim |
+| 16 | Елена | Я подумаю. | I will think about it. | #296 00:22:36: подумаю | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, the bumper is gone...' Elena assesses the missing parts. She notes the front end is damaged.
-- 'And the headlight is smashed.' She inspects the rest of the destruction. Elena sees the light is shattered.
-- 'I am fine. I was not driving.' She reassures him about her safety. Elena clarifies she was not the one involved in the crash.
-- 'It is a long story...' Elena avoids giving a full explanation. She waves it off as too complicated.
-- 'I will tell you later, okay?' She promises to explain later. Elena asks for his patience.
-- 'All right, bye.' Elena hastily ends the conversation. She says a quick goodbye.
-- 'Do not worry, I will fix everything.' Chef Barinov tries to calm her down. He promises to repair all the damage himself.
-- 'I was only trying to help.' He offers a weak defense for his actions. Barinov claims his intentions were good.
-- 'I can imagine what you would have done...' Elena sarcastically contemplates his 'help'. She wonders about his true capabilities.
-- 'If you meant to make things worse.' She considers the alternative. Elena shudders to think what he would do if he meant harm.
-- 'Do you realize...' Elena checks if he understands the gravity of the situation. She demands his attention.
-- 'I could file a complaint?' She reminds him of her legal options. Elena threatens to make an official police report.
+- 'Well, the bumper is gone...' Russian says 'bumper not', and the bumper changes to 'bampera' after 'net'. That 'net' stands for 'there isn't'.
+- 'and the headlight is smashed.' 'Fara' is a car headlight. 'Razbita' is 'smashed', with an 'a' to go with 'fara'.
+- 'I am fine. I was not driving.' 'V poryadke', literally 'in order', means 'fine'. 'Za rulyom', behind the wheel, is the standard way to say who was driving.
+- 'It is a long story...' 'Istoriya' means 'story' and 'history', so you could use it for a school subject as well. 'Dlinnaya' has the 'aya' ending to match 'istoriya'.
+- 'I will tell you later, okay?' The 'okay' is the little word 'ladno', which Russians use all the time. 'Rasskazhu', I will tell, is a future with no helper word.
+- 'All right, bye.' 'Vsyo, davay, poka' is a chain of little words that Russians use to end a phone call. 'Poka' is a casual 'bye'.
+- 'Do not worry, I will fix everything.' The polite plural 'don't worry' ends in 'te'. 'Pochinyu', I will fix, is from the same verb as 'pochinil' in the kitchen.
+- 'I was only trying to help.' 'Khotel kak luchshe' is 'wanted as better', a famous Russian phrase for good intentions. People often finish it with 'but it turned out as always'.
+- 'I can imagine what you would have done...' The little 'by' means 'would'. It turns 'what was' into 'what would have been'.
+- 'if you meant to make things worse.' She plays on his phrase: 'kak khuzhe' is 'as worse', the opposite of his 'kak luchshe'. 'Zakhoteli' is 'you wanted'.
+- 'Do you realize...' 'Vy voobshche ponimaete' is 'do you even understand', with 'voobshche' adding the edge, as it did in the kitchen.
+- 'that I could file a complaint?' Russians say 'write a statement' where English says 'file a complaint'. It's the thing you do at a police desk.
+- 'And your chef could go to prison.' Literally, 'they will seat', and it means 'jail'. The same action also means 'sit someone down' and 'plant a tree'.
+- 'I understand.' One word, 'ponimayu'. Barinov is, for once, brief.
+- 'Maybe we can settle this without a complaint?' 'Bez' makes the next word change its ending, so 'complaint' turns into 'zayavleniya'. 'Oboydemsya', we'll manage, is literally 'we will go around'.
+- 'I will think about it.' It's a polite way of not saying yes. The 'po' in front means 'for a while'.

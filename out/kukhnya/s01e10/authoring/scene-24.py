@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "During the busy dinner rush in Claude Monet's kitchen, cook Fedya gets completely lost in thought while working the hot line. His partner Senya notices smoke pouring from a neglected frying pan and frantically screams at him to save the burning food. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the frantic kitchen emergencies, cooking vocabulary, and colloquial admonishments."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Thanks to Senya's urgent alert, the kitchen crisis is averted and Fedya swiftly restarts the dinner ticket. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'dish' and 'fast' — you will catch every word right away. See you next time!"
+INTRO = "Away from the caviar, there is trouble on the line. Senya smells something burning, and it is Fedya's stove. It plays out like this."
+OPENER = 'Let me show you how it works.'
+TRANSITION = 'The same story again, now with meaning.'
+OUTRO = 'The pan is off the heat, and a new portion is on the way. Both cooks hope that the chef did not notice. Take it easy, and see you in the next scene.'
 CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('senya', 'Федя, ты что, совсем с ума сошёл?', 'Fedya, have you completely lost your mind?', [(183, 'Ты что, Гузик, охренел?')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('fedya', 'Через пять минут прекрасное блюдо будет готово.', 'In five minutes the fine dish will be ready.', [(184, 'Да, извини')], ''),
 ]
 WALK = [
-    (0, None, "'Fedya, have you completely lost your mind?' Senya warmly gives such meaning by blending 'fedya' and 'completely' plus 'mind'."),
-    (1, None, "'What happened, Senya, why are you shouting so?' Fedya plainly gives the idea through grouping 'what' and 'why' along with 'so'."),
-    (2, None, "'All the meat on your stove is burning!' Senya boldly builds the thought through matching 'all' with 'your' along with 'burning'."),
-    (3, None, "'Oh, forgive me, I accidentally forgot the frying pan.' Fedya plainly shows some idea by merging 'oh' with 'accidentally' along with 'pan'."),
-    (4, None, "'Quickly take the hot frying pan off the high flame.' Senya boldly shares such view by combining 'quickly' and 'pan' and 'flame'."),
-    (5, None, "'I have already taken it off and turned off the flame.' Fedya simply shapes such meaning through linking 'i' and 'off' plus 'flame'."),
-    (6, None, "'What are you even thinking about during work?' Senya plainly forms that feeling through pairing 'what' and 'thinking' as well as 'work'."),
-    (7, None, "'I was simply thinking long about our complicated life.' Fedya gladly casts the image by linking 'i' with 'long' and 'life'."),
-    (8, None, "'The Chef will see this black smoke and kill us!' Senya simply gives the concept by linking 'chef' and 'black' along with 'us'."),
-    (9, None, "'I will quickly prepare a new fresh portion right now.' Fedya truly makes that idea through matching 'i' with 'new' as well as 'now'."),
-    (10, None, "'Hurry up quickly, the guests have been waiting for their order for a long time.' Senya neatly casts that picture by grouping 'hurry' with 'waiting' as well as 'time'."),
-    (11, None, "'In five minutes the fine dish will be ready.' Fedya gladly shows the idea by blending 'five' and 'dish' plus 'ready'."),
+    (0, None, '\'Fedya, have you completely lost your mind?\' "S uma soshyol", literally "went off the mind", is "lost your mind". "Um", "mind", is the root of "umnitsa", "clever girl". "Ty chto" adds "what\'s wrong with you".'),
+    (1, None, '\'What happened, Senya, why are you shouting so?\' "Chto sluchilos" is "what happened", a phrase you\'ve heard many times. "Krichish" is "you\'re shouting", the verb in Louis\'s "ne nuzhno krichat", "no need to shout".'),
+    (2, None, '\'All the meat on your stove is burning!\' "U tebya na plite", literally "at you on the stove", is "on your stove". "Gorit" is "is burning", and "vsyo myaso" is "all the meat".'),
+    (3, None, '\'Oh, forgive me, I accidentally forgot the frying pan.\' "Sluchayno", "by accident", is the family of "sluchilos", "happened". "Skovorodu" is "the frying pan", from "skovoroda". "Izvini menya" is "forgive me".'),
+    (4, None, '\'Quickly take the hot frying pan off the high flame.\' "S silnogo ognya", "off the strong fire", is "off the high heat". "Silny" also turns up in "silnaya allergiya", "a strong allergy". "Ubiray" is "take away", and also "tidy up".'),
+    (5, None, '\'I have already taken it off and turned off the flame.\' "Vyklyuchil" is "turned off", the verb in Lyova\'s "my vyklyuchili", "we turned off". "Snyal eyo" is "took it off": "eyo" is "her", because the pan is feminine.'),
+    (6, None, '\'What are you even thinking about during work?\' "O chyom" is "about what". "Vo vremya raboty", literally "in the time of work", is "during work". "Voobshche" adds "even" or "at all".'),
+    (7, None, '\'I was simply thinking long about our complicated life.\' "Slozhny", "complicated", is the word Vika used for the banquet, "slozhny banket". "Dolgo dumal" is "thought for a long time". "Zhizn" is "life".'),
+    (8, None, '\'The Chef will see this black smoke and kill us!\' "Dym" is "smoke". Barinov said \"ubyot\", \"will kill\", about Tanya. "Uvidit" is "will see", from "videt".'),
+    (9, None, '\'I will quickly prepare a new fresh portion right now.\' "Prigotovlyu" is "I will prepare", from "gotovit", "to cook". "Portsiyu" is borrowed and easy to catch. "Novuyu svezhuyu" is "new, fresh".'),
+    (10, None, '\'Hurry up quickly, the guests have been waiting for their order for a long time.\' "Davno zhdut" is "have been waiting for a long time". "Davno" means "since long ago", and "dolgo" means "for a long stretch". "Speshi" is "hurry".'),
+    (11, None, '\'In five minutes the fine dish will be ready.\' "Cherez pyat minut", literally "through five minutes", is "in five minutes". "Gotovo", "ready", has -o to match "blyudo", "dish".'),
 ]

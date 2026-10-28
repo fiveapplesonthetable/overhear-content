@@ -10,14 +10,14 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
-INTRO = 'Max falls asleep in the restaurant dining room and has an affectionate dream about Chef Viktor Barinov. Barinov violently wakes him up and demands to know why he is sleeping during working hours. Listen to their funny confrontation in Russian first, and then we will examine every line.'
-OPENER = "Let's examine this hilarious wake-up call line by line."
+INTRO = "Max has fallen asleep in the dining room and is having a lovely dream about the chef. When Barinov shakes him awake, Max is still half in the dream and says things he really shouldn't. Here's the Russian first."
+OPENER = "Now let's see what Max says in his sleep."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That concludes our fourth scene. In Kukhnya, calling your temperamental boss by an affectionate diminutive is definitely not the best way to keep your job. See you next time!'
+OUTRO = 'Calling the boss by a pet name is not the way to keep a job. If you take one thing away, remember "nel\'zya", "it\'s not allowed".'
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('max', 'Ты молодец, Витька.', 'Good job, Vitka.', [(30, 'Ты молодец, Витька')], ''),
-    ('max', 'Витюшенька, мой огузок.', 'Vityushenka, my little runt.', [(31, 'Витюшенька'), (31, 'Мой Агузак')], ''),
+    ('max', 'Витюшенька, мой огузок.', 'Vityushenka, my Oguzok.', [(31, 'Витюшенька'), (31, 'Мой Агузак')], ''),
     ('barinov', 'Ты что, совсем с ума сошёл?', 'Have you completely lost your mind?', [(32, 'Ты что, совсем')], ''),
     ('barinov', 'Ты что здесь спишь?', 'Why are you sleeping here?', [(33, 'Ты что здесь')], ''),
     ('max', 'Шеф, простите меня, пожалуйста.', 'Chef, please forgive me.', [(33, 'Шеф, я')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Уже встаю, шеф.', 'Already getting up, Chef.', [], ''),
 ]
 WALK = [
-    (0, None, "'Good job, Vitka.' Max praises his friend for a good job."),
-    (1, None, "'Vityushenka, my little runt.' He affectionately calls him a little runt."),
-    (2, None, "'Have you completely lost your mind?' Barinov asks if he has completely lost his mind."),
-    (3, None, "'Why are you sleeping here?' He demands to know why he is sleeping here."),
-    (4, None, "'Chef, please forgive me.' Max begs the chef to forgive him."),
-    (5, None, "'I lay down for five minutes.' He says he only lay down for five minutes."),
-    (6, None, "'You cannot sleep in the kitchen!' Barinov tells him sleeping in the kitchen is forbidden."),
-    (7, None, "'I could not sleep all night.' Max complains he could not sleep all night."),
-    (8, None, "'Why didn't you sleep at night?' Barinov asks why he did not sleep at night."),
-    (9, None, "'Probably it is acclimatization.' Max blames it on acclimatization."),
-    (10, None, "'What acclimatization?' Barinov questions what acclimatization he means."),
-    (11, None, "'I am not used to Moscow yet.' He explains he is not used to Moscow yet."),
-    (12, None, "'Quickly get up and wash dishes!' The chef orders him to quickly get up and wash dishes."),
-    (13, None, "'Already getting up, Chef.' Max tells the chef he is already getting up."),
+    (0, None, '\'Good job, Vitka.\' "Ty molodets" is "you\'re a fine fellow", the everyday praise. "Vit\'ka" is an overfamiliar short form of "Viktor", and Max says "ty" to his boss in his sleep.'),
+    (1, None, '\'Vityushenka, my Oguzok.\' "Vityushen\'ka" is a doting pet form of "Viktor", with extra syllables for tenderness. Max then flips the chef\'s nickname for him back onto the chef: "moy oguzok".'),
+    (2, None, '\'Have you completely lost your mind?\' "S uma soshyol" is "came down off the mind". "Ty chto" at the start means "what\'s wrong with you?".'),
+    (3, None, '\'Why are you sleeping here?\' Here "ty chto" does the job of "why", as in speech. "Spish\'" is "you sleep".'),
+    (4, None, '\'Chef, please forgive me.\' Awake, Max switches to "vy": "prostite", forgive, with the polite -te.'),
+    (5, None, '\'I lay down for five minutes.\' "Pri-" turns "lyog", lay down, into "prilyog", lay down for a bit. "Na pyat\' minut" is "for five minutes".'),
+    (6, None, '\'You cannot sleep in the kitchen!\' "Nel\'zya" is "it\'s not allowed", and it needs no subject. "Spat\'" is the plain "to sleep".'),
+    (7, None, '\'I could not sleep all night.\' "Vsyu noch\'" needs no "during". "Ne mog usnut\'" is "could not fall asleep", with "mog" the man\'s past of "can".'),
+    (8, None, '\'Why didn\'t you sleep at night?\' "Noch\'yu", at night, is "noch\'" with -yu. Other times of day work the same way: "utrom", in the morning, and "vecherom", in the evening.'),
+    (9, None, '\'Probably it is acclimatization.\' Max gives the same long borrowed word as before, "akklimatizatsiya". "Navernoye" is "probably".'),
+    (10, None, '\'What acclimatization?\' "Kakaya yeshchyo" repeats the word back with an edge, like "what acclimatization, exactly?".'),
+    (11, None, '\'I am not used to Moscow yet.\' "Privyk k" is "got used to", and "k" puts an -e on the city: "k Moskve". "Yeshchyo ne" is "not yet".'),
+    (12, None, '\'Quickly get up and wash dishes!\' "Moy" here is the command "wash", from "myt\'", and it is spelled the same as "moy", my. "Posuda", dishes, is one singular word in Russian.'),
+    (13, None, '\'Already getting up, Chef.\' "Uzhe vstayu" is "already I get up". The plain present stands in for "I\'m getting up".'),
 ]

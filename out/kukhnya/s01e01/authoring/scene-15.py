@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
-INTRO = "Max arrives in the bustling kitchen of Claude Monet for a job interview, where pranksters trick him into the back office. Moments later, the fiery and imposing head chef Viktor Barinov bursts in, furiously demanding to know who this intruder is. Let's listen to their confrontation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the workplace confrontation vocabulary and assertive speech."
+INTRO = "Max has been sent into a room by a couple of cooks who were pulling his leg, and it turns out to be the chef's office. Then the real head chef, Viktor Barinov, walks in and wants to know who this stranger is. Here's the confrontation in Russian first."
+OPENER = "Let's go through their exchange."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Viktor Barinov angrily reprimands Max for entering his office, but agrees to test his cooking skills on the line. Great work practicing emotional and professional Russian dialogue! Next time you watch the episode, listen for the Russian expressions for 'dish' and 'more' — you will catch every word right away. See you next time!"
+OUTRO = 'Barinov is going to test him, and the test will be a hard one. You\'ve heard how a chef says "here, only I command", which is a good line to remember.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('max', 'Здравствуйте, я пришёл сюда на важное собеседование.', 'Hello, I came here for an important interview.', [(123, 'Я на собеседовании')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Ладно, сейчас проверим твои настоящие кулинарные навыки.', 'Fine, now we will test your real culinary skills.', [(132, 'увидел твой потенциал')], ''),
 ]
 WALK = [
-    (0, None, "'Hello, I came here for an important interview.' Max greets the room, announcing his formal purpose while hoping to make a good impression."),
-    (1, None, "'Who are you and how did you get in here?' Barinov explodes with suspicion, demanding immediate answers about the stranger trespassing in his sanctuary."),
-    (2, None, "'I brought my résumé for the head chef.' Holding up his paperwork, the naive candidate tries to legitimize his presence in the back room."),
-    (3, None, "'What are you even doing in my office?' The furious boss zeroes in on the inappropriate location chosen for this impromptu meeting."),
-    (4, None, "'Another cook said that the chef is already here.' Explaining his mistake, the young man blames a colleague for misdirecting him into the trap."),
-    (5, None, "'The real head chef of this restaurant is me!' Asserting his absolute dominance, the veteran cook makes his supreme identity known with forceful pride."),
-    (6, None, "'That person already hired me for the job.' Still confused by the prank, the newcomer claims he has already been granted a position."),
-    (7, None, "'Who dared hire you without my permission?' Outraged by the idea of bypassed authority, the head honcho demands the name of the traitor."),
-    (8, None, "'I dream of cooking delicious dishes in the kitchen.' Max pivots to his passion, sharing his heartfelt desire to create amazing food."),
-    (9, None, "'Only I command here and no one else.' A stern reminder of the hierarchy is delivered to ensure the rookie understands who holds power."),
-    (10, None, "'Please, give me one small chance.' Begging for an opportunity, the underdog pleads for just a moment to demonstrate his worth."),
-    (11, None, "'Fine, now we will test your real culinary skills.' Reluctantly agreeing, the master cook declares that a practical trial will determine the boy's fate."),
+    (0, None, '\'Hello, I came here for an important interview.\' "Syuda" is "to here", the same word that told Max not to come back. "Vazhnoye" ends in "-oye" because "sobesedovaniye" is neuter.'),
+    (1, None, '\'Who are you and how did you get in here?\' "Ty kto takoy" is "you who such", a blunt way to say "who do you think you are?". The "ty" is rude from a stranger. "Popal" means "ended up", as if by chance.'),
+    (2, None, '\'I brought my résumé for the head chef.\' "Prinyos" is "brought", carried by a man; a woman would say "prinesla". "Svoyo" is "my own". "Rezyume" never changes.'),
+    (3, None, '\'What are you even doing in my office?\' "Voobshche" means "at all" or "even", and it adds irritation. "V moyom kabinete" is "in my office", and both "moyom" and "kabinete" take endings after "v".'),
+    (4, None, '\'Another cook said that the chef is already here.\' "Drugoy" is "another", which looks like "drug", friend, with an ending. "Skazal, chto" is "said that", and Russian always puts a comma before "chto".'),
+    (5, None, '\'The real head chef of this restaurant is me!\' The dash stands for "is", and "ya" comes last for punch. "Etogo restorana" is "of this restaurant", with "-ogo" and "-a" showing "of".'),
+    (6, None, '\'That person already hired me for the job.\' "Prinyal" is "accepted", a second way to say "hired", after "vzyat\' na rabotu". "Tot chelovek" is "that person".'),
+    (7, None, '\'Who dared hire you without my permission?\' "Kto posmel" is "who dared", a furious question in any kitchen. "Bez" is "without", as in water "bez gaza", and "razresheniye", permission, becomes "razresheniya" after it.'),
+    (8, None, '\'I dream of cooking delicious dishes in the kitchen.\' Max uses "mechtayu", "I dream", once more, and this time a plain verb follows it: "mechtayu gotovit\'", "I dream to cook". "Vkusnyye blyuda" is plural, so the describing word ends in "-ye".'),
+    (9, None, '\'Only I command here and no one else.\' "Komanduyu", "I command", sounds a lot like the English word. "Nikto bol\'she" is "nobody more", which is how Russian says "no one else".'),
+    (10, None, '\'Please, give me one small chance.\' "Dayte" is the polite "give", and "mne" is "to me". "Shans" is borrowed from French "chance", and "odin malen\'kiy", "one small", makes the request sound humble.'),
+    (11, None, '\'Fine, now we will test your real culinary skills.\' "Ladno" is "fine" or "okay", the same word as in "da ladno". "Tvoi" is "your" in the friendly form, which tells Max the chef talks down to him.'),
 ]

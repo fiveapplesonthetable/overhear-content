@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = "In the restaurant corridor, Max suddenly grabs his right side and groans in pain. When a concerned Victoria rushes over to help him, he miraculously recovers and reveals his true intentions. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine this tricky conversation in the corridor line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Furious at being tricked into worrying about his health, Victoria storms off, leaving Max standing alone with his cinema tickets. Next time you watch the episode, listen for the Russian expressions for 'ticket' and 'hurts' — you will catch every word right away. See you next time!"
+INTRO = 'Max has just made up his mind to go after Vika, and his first idea is a bad one. He meets her in the corridor and suddenly clutches his side and groans. The Russian comes first.'
+OPENER = "Let's slow down and watch the trick come apart."
+TRANSITION = 'Here it all is again, at a quicker pace.'
+OUTRO = "Vika is not amused, and Max is left holding two tickets and no one to use them with. Keep an ear out for 'to me painful', because Russian pain always happens to you."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Ай! Как мне больно в животе!', 'Ouch! How it hurts me in the stomach!', [(8, 'Блин, что это?'), (12, 'Ой, что это?')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Ладно, тогда я пойду в кино один.', 'Alright, then I will go to the cinema alone.', [], ''),
 ]
 WALK = [
-    (0, None, "'Ouch! How it hurts me in the stomach!' Max cries out because his stomach hurts a lot. Literally he says how it is painful to me in the stomach."),
-    (1, None, "'Max, what is it? Does it hurt you a lot?' Vika asks Max what is wrong and if he is in a lot of pain."),
-    (2, None, "'I do not know what this is.' Max says he does not know what is happening to him."),
-    (3, None, "'Oh, on the right side this is very bad!' Vika worries because pain on the right side can be dangerous."),
-    (4, None, "'My god, how much it hurts me now.' Max groans about how much pain he is feeling right now."),
-    (5, None, "'Let me quickly call a doctor for you.' Vika offers to get a doctor for him right away."),
-    (6, None, "'No, seriously, do not call doctors.' Max tells her not to call any doctors. He is pretending to be sick."),
-    (7, None, "'Why? You need urgent help after all.' Vika asks why because she thinks he needs help right now."),
-    (8, None, "'Look, here are two tickets to the cinema.' Max suddenly shows her two movie tickets. His pain was just a trick."),
-    (9, None, "'Well you are a jerk, honestly!' Vika calls him a jerk for tricking her. She is really annoyed."),
-    (10, None, "'Shall we go to the cinema tonight, eh?' Max invites her to the movies for tonight."),
-    (11, None, "'You are a real idiot, I will not go anywhere!' Vika refuses to go anywhere with him because he acted like an idiot."),
-    (12, None, "'Alright, then I will go to the cinema alone.' Max says he will just go to the movies by himself then."),
+    (0, None, "'Ouch! How it hurts me in the stomach!' Russian doesn't say 'I am in pain'. It says 'to me painful', and 'to me' is the word 'mne'. 'In the stomach' is v zhivote: zhivot picks up an 'e' after v when it means where."),
+    (1, None, "'Max, what is it? Does it hurt you a lot?' The first question, 'chto takoe', is a handy way to say 'what's the matter?', literally 'what such'. The second uses 'to you painful', the same pattern as 'to me painful', with 'tebe' for 'you'."),
+    (2, None, "'I do not know what this is.' 'Ya ne znayu' is 'I not know': ne just goes in front of the verb. 'Chto eto takoe' is a fuller version of Vika's 'chto takoe'."),
+    (3, None, "'Oh, on the right side this is very bad!' Russian says 'from the right side', s pravoy storony, where English says 'on'. Vika knows that a pain on the right can mean the appendix."),
+    (4, None, "'My God, how much it hurts me now.' The first word is a special shape of 'God', used only when you call out to him. 'Seychas' means 'now', and it is also what people say for 'in a moment'."),
+    (5, None, "'Let me quickly call a doctor for you.' It starts with 'give', which is how Russians say 'let me' or 'let's'. 'Call' here means 'summon', so 'I will summon you a doctor'."),
+    (6, None, "'No, seriously, do not call doctors.' 'Ne nado', 'not necessary', is the standard way to say 'don't' or 'no need'. 'Vrachey', 'doctors', is the plural of vrach."),
+    (7, None, "'Why? You need urgent help after all.' The small word 'zhe' is the 'after all' in the sentence, with a touch of 'come on'. 'Needed' ends in 'a' to match 'help', which is a feminine word."),
+    (8, None, "'Look, here are two tickets to the cinema.' 'Smotri' is 'look!', the order form you use with ty. 'Vot' means 'here it is', and you'll hear it everywhere. The word for cinema never changes shape, whether it's 'to the cinema' or 'at the cinema'."),
+    (9, None, "'Well you are a jerk, honestly!' 'Nu ty i' works like a rolled-eyes 'well, aren't you something'. The last two words are literally 'honest word', which is how Russians say 'I swear'."),
+    (10, None, "'Shall we go to the cinema tonight, eh?' 'Let's go' is the 'we' form of 'go', which Russians use for invitations. 'Evening' ends in 'om' here to mean 'in the evening'. The little 'a' at the end is a 'right?'."),
+    (11, None, "'You are a real idiot, I will not go anywhere!' 'Nowhere' and 'not' sit side by side, so it's literally 'I nowhere not will go'. That is correct Russian. 'Real' is a handy booster: a real idiot, a real friend, a real chef."),
+    (12, None, "'Alright, then I will go to the cinema alone.' The word for 'alone' is the same as the number 'one', so literally he says 'I will go one'. 'Ladno' is a shrug that means 'fine'."),
 ]

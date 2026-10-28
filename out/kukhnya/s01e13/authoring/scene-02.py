@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
-INTRO = 'In the parking courtyard behind Claude Monet, Chef Viktor arrives to find an unfamiliar car parked in his favorite spot. When he confronts the driver, she turns out to be Elena, the formidable chef of a rival restaurant, who refuses to budge. Listen to their conversation in Russian first, then we will break down each line in English.'
-OPENER = "Now let's go back through the exchange around Someone Else's Car line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In the parking courtyard behind Claude Monet, Chef Viktor arrives to find an unfamiliar car parked in his favorite spot. When he confronts the driver, she turns out to be Elena, the formidable chef of a rival restaurant, who refuses to budge. Listen to their conversation in Russian first, then we will break down each line in English. Next time you watch the episode, listen for the Russian expressions for 'to put' and 'here' — you will catch every word right away. See you next time!"
+INTRO = 'The next morning, Barinov finds a strange car parked in his usual space behind the restaurant. The driver turns out to be Elena, the chef from the Italian place next door. Their first meeting comes in Russian.'
+OPENER = 'One jab at a time, then.'
+TRANSITION = 'Here is the quarrel in one go.'
+OUTRO = "Elena wins the first round, politely and without budging. Notice how both of them stay on the polite 'vy' while they insult each other. Catch you next time."
 CLOSING = ('elena', 'Пока!')
 STORY = [
     ('barinov', 'Кто поставил сюда эту старую машину?', 'Who parked this old car here?', [(26, 'Какой кретин поставил сюда машину?')], ''),
@@ -31,14 +31,17 @@ STORY = [
     ('elena', 'Приятного рабочего дня, господин шеф!', 'Have a nice working day, Mr. Chef!', [], ''),
 ]
 WALK = [
-    (0, None, "'Who parked this old car here?' Chef Barinov is annoyed. He returns to his favorite spot only to find it taken."),
-    (1, None, "'Woman, move the automobile from my spot.' He demands she move it. Barinov uses the formal 'you' to show his authority over a stranger."),
-    (2, None, "'Where does it say this is your spot?' Elena is not intimidated. She calmly challenges his claim to the space."),
-    (3, None, "'It only says about icicles there.' She points out the only warning sign around. It is just about falling ice, not reserved parking."),
-    (4, None, "'I am the head chef of this famous restaurant.' The Chef tries to pull rank. He mentions his prestigious job title to impress her."),
-    (5, None, "'And I am the head chef of the neighboring restaurant.' Elena counters immediately. She holds the exact same position right next door."),
-    (6, None, "'Then you must understand the rules.' He insists she should know better. Barinov thinks professional courtesy means he gets the spot."),
-    (7, None, "'I will not move my car.' Elena flatly refuses. She has no intention of moving her vehicle."),
-    (8, None, "'Over there is another open spot.' She points out an alternative. Elena suggests he park elsewhere instead."),
-    (9, None, "'Have a nice working day, Mr. Chef!' Elena leaves with a sarcastic farewell. Calling him 'Mr. Chef' is her way of mocking his self-importance."),
+    (0, None, "'Who parked this old car here?' Russians don't 'park' a car, they 'put' it, so 'postavil' is 'put' or 'stood'. 'Syuda' means 'to here', as it would in 'come here'."),
+    (1, None, "'Hello. I parked my car.' The long, polite hello is for strangers. Elena is a woman, so 'parked' ends in 'a', and 'svoyu' is 'my own', the word Russian uses when the owner is the subject of the sentence."),
+    (2, None, "'Woman, move the automobile from my spot.' Calling a woman just 'zhenshchina' is rude, like shouting 'Hey, woman!'. 'Avtomobil' is the stiff word for 'car' where 'mashina' is the everyday one. Barinov is trying to sound official."),
+    (3, None, "'Where does it say this is your spot?' 'Napisano' is 'is written', and Russian doesn't say who wrote it. 'Vashe' is the polite 'your', fitting for a stranger."),
+    (4, None, "'A warning sign is hanging here.' A sign 'hangs' in Russian, 'visit', where English just says 'there is'. 'S preduprezhdeniem' means 'with a warning', and the 'em' is the ending for 'with'."),
+    (5, None, "'It only says about icicles there.' 'Sosulki' are icicles. Signs warning of falling icicles are a regular sight on Russian winter buildings, and Elena points out that it says nothing about parking. 'Napisano' is back, and 'pro' means 'about'."),
+    (6, None, "'I am the head chef of this famous restaurant.' There's no 'am', so it's just 'I head-chef'. 'Shef-povar' is 'chief cook', and 'izvestny' is 'well known'. He is boasting."),
+    (7, None, "'And I am the head chef of the neighboring restaurant.' The little 'a' at the front means 'and' with a hint of 'but', which is the right mood for a comeback. 'Sosedny' comes from 'sosed', neighbour."),
+    (8, None, "'Then you must understand the rules.' Barinov uses the polite 'you must' for a stranger. 'Dolzhny' is the plural form that goes with 'vy', followed by the plain verb 'ponimat', to understand."),
+    (9, None, "'I will not move my car.' Elena's 'I won't' uses 'budu', the same word that means 'I will be'. The 'pere' on the moving action means 'over' or 'again'."),
+    (10, None, "'Over there is another open spot.' 'Von tam' is a pointing 'over there', further away than 'tam'. 'Drugoe' and 'svobodnoe' both end in 'oe' because 'mesto' is a neuter word. 'Est' here is 'there is'."),
+    (11, None, "'What a stubborn and obnoxious woman!' 'Kakaya' with an exclamation means 'what a'. 'Upryamaya' is 'stubborn' and 'vrednaya' means 'harmful' or 'nasty'. Both end in 'aya' because 'zhenshchina' is feminine."),
+    (12, None, "'Have a nice working day, Mr. Chef!' Wishes in Russian use an 'of': 'of a pleasant working day'. The old-fashioned 'Mr.' is how Elena teases him."),
 ]

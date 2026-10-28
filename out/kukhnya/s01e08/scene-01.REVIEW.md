@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Дима, зачем ты позвал меня сюда? | Dima, why did you call me here? | #1: Дим, ну в каком хрен я здесь | verbatim |
-| 2 | Нагиев | Ты будешь выступать на телевидении, Виктор. | You will perform on television, Viktor. | #3: Ты не только повар, ты лицо нашего ресторана | verbatim |
-| 3 | Шеф | Я шеф-повар, а не известный актёр! | I am a head chef, not a famous actor! | #2: Я же не актер, я повар | verbatim |
-| 4 | Нагиев | Ты главное лицо нашего дорогого ресторана. | You are the main face of our expensive restaurant. | #3: ты лицо нашего ресторана | verbatim |
+| 1 | Шеф | Дима, зачем ты позвал меня сюда? | Dima, why did you call me here? | #1 00:00:10: Дим, ну в каком хрен я здесь | verbatim |
+| 2 | Нагиев | Ты будешь выступать на телевидении, Виктор. | You will perform on television, Viktor. | #3 00:00:13: Ты не только повар, ты лицо нашего ресторана | verbatim |
+| 3 | Шеф | Я шеф-повар, а не известный актёр! | I am a head chef, not a famous actor! | #2 00:00:11: Я же не актер, я повар | verbatim |
+| 4 | Нагиев | Ты главное лицо нашего дорогого ресторана. | You are the main face of our expensive restaurant. | #3 00:00:13: ты лицо нашего ресторана | verbatim |
 | 5 | Шеф | Моё место на кухне у плиты. | My place is in the kitchen at the stove. | new | new |
-| 6 | Нагиев | Зрители хотят видеть настоящего шефа. | The viewers want to see a real chef. | #4: этим лицом светить | verbatim |
-| 7 | Шеф | Отпусти меня обратно в Клод Моне. | Let me go back to Claude Monet. | #5: Давай в ресторан поеду | verbatim |
-| 8 | Нагиев | Перестань спорить и иди вперёд. | Stop arguing and go forward. | #10: Все, в тени живот и вперед | verbatim |
-| 9 | Шеф | Там будет выступать эта Соколова? | Will that Sokolova perform there? | #17: Елена Соколова | verbatim |
-| 10 | Нагиев | Да, Елена Соколова из ресторана Аркабалено. | Yes, Elena Sokolova from Arcobaleno restaurant. | #16: шеф-повар ресторана Арка Баляна<br>#17: Елена Соколова | verbatim |
+| 6 | Нагиев | Зрители хотят видеть настоящего шефа. | The viewers want to see a real chef. | #4 00:00:15: этим лицом светить | verbatim |
+| 7 | Шеф | Отпусти меня обратно в Клод Моне. | Let me go back to Claude Monet. | #5 00:00:17: Давай в ресторан поеду | verbatim |
+| 8 | Нагиев | Перестань спорить и иди вперёд. | Stop arguing and go forward. | #10 00:00:30: Все, в тени живот и вперед | verbatim |
+| 9 | Шеф | Там будет выступать эта Соколова? | Will that Sokolova perform there? | #17 00:00:49: Елена Соколова | verbatim |
+| 10 | Нагиев | Да, Елена Соколова из ресторана Аркабалено. | Yes, Elena Sokolova from Arcobaleno restaurant. | #16 00:00:44: шеф-повар ресторана Арка Баляна<br>#17 00:00:49: Елена Соколова | verbatim |
 | 11 | Шеф | Я докажу всем свой высокий класс. | I will prove my high caliber to everyone. | new | new |
 | 12 | Нагиев | Вот это отличный настрой, шеф! | Now that is a great attitude, chef! | new | new |
-| 13 | Шеф | Прямой эфир начинается прямо сейчас. | Live broadcast begins right now. | #19: Итак, мы начинаем | verbatim |
+| 13 | Шеф | Прямой эфир начинается прямо сейчас. | Live broadcast begins right now. | #19 00:00:53: Итак, мы начинаем | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, why did you call me here?' Barinov uses the owner's informal nickname. He is annoyed to be dragged out of his kitchen.
-- 'You will perform on television, Viktor.' Nagiyev drops the big news casually. He expects the chef to be thrilled about the exposure.
-- 'I am a head chef, not a famous actor!' Barinov immediately rejects the idea. He hates the thought of performing for a camera.
-- 'You are the main face of our expensive restaurant.' Nagiyev tries to flatter him into compliance. He reminds Viktor that he represents their luxury brand.
-- 'My place is in the kitchen at the stove.' Barinov stubbornly defends his professional territory. He believes a cook belongs behind the scenes.
-- 'The viewers want to see a real chef.' Nagiyev explains the marketing strategy. He needs Viktor's authentic grumpy persona for the show.
-- 'Let me go back to Claude Monet.' Barinov begs to be released from this PR stunt. He just wants to return to his comfortable domain.
-- 'Stop arguing and go forward.' Nagiyev physically pushes him toward the stage. He leaves the chef no room for debate.
-- 'Will that Sokolova perform there?' Barinov suddenly stops when he hears his rival's name. His competitive instincts flare up instantly.
-- 'Yes, Elena Sokolova from Arcobaleno restaurant.' Nagiyev confirms the presence of the other head chef. He knows this will motivate Viktor better than anything else.
-- 'I will prove my high caliber to everyone.' Barinov changes his tune completely. He is now determined to crush his competitor on live television.
-- 'Now that is a great attitude, chef!' Nagiyev celebrates his successful manipulation. He is pleased to see the chef finally fired up.
-- 'Live broadcast begins right now.' Barinov prepares himself for the cameras. He marches onto the stage ready for a fight.
+- 'Dima, why did you call me here?' Barinov calls him Dima, the friendly short form of Dmitry, which tells you how close the two men are. The word pozval, 'you called', also covers 'you invited', as when someone asks you over.
+- 'You will perform on television, Viktor.' Here budesh vystupat means 'you will be performing': budu, budesh and the rest, put before vystupat, talk about an activity that will go on for a while. On television is na televidenii, with -ii for the place.
+- 'I am a head chef, not a famous actor!' Russian builds 'X, not Y' with the little word a: shef-povar, a ne akter. The title shef-povar, literally 'chef-cook', is the formal name for a head chef.
+- 'You are the main face of our expensive restaurant.' Just as in English, litso, 'face', can mean the person who represents a company. The word dorogoy means both 'expensive' and 'dear', and here it's the price that counts.
+- 'My place is in the kitchen at the stove.' Russian drops 'is' in the present, so the line is simply moyo mesto na kukhne, 'my place in the kitchen'. After u, 'by', plita becomes plity.
+- 'The viewers want to see a real chef.' The word zriteli, 'viewers', is built on an old word for seeing, zret. As the one being seen, a male chef takes -a: nastoyashchego shefa.
+- 'Let me go back to Claude Monet.' The command otpusti, 'let me go', is what you'd say to a boss when asking to leave. With obratno, 'back', it means returning to where you came from.
+- 'Stop arguing and go forward.' After perestan, 'stop', comes the basic form of the action: perestan sporit. And idi vperyod, 'go forward', is a push to get on with it.
+- 'Will that Sokolova perform there?' Putting eta, 'this', in front of a surname sounds dismissive, like 'that Sokolova woman'. The -a at the end of Sokolova marks a woman's surname.
+- 'Yes, Elena Sokolova from Arcobaleno restaurant.' After iz, 'out of, from', restoran becomes restorana. The name Arcobaleno is Italian for 'rainbow', and as a foreign word it never changes.
+- 'I will prove my high caliber to everyone.' Although dokazhu, 'I will prove', looks like a present form, it points to one result in the future. The word svoy, 'my own', refers back to whoever is acting, here Barinov himself.
+- 'Now that is a great attitude, chef!' At the start of a sentence, vot eto points at something and approves of it, 'now that's...'. The word nastroy, 'attitude', shares a root with nastroyeniye, 'mood'.
+- 'Live broadcast begins right now.' TV people call a live show pryamoy efir, literally 'straight air'. The same root turns up in pryamo seychas, 'right now', so there's no more time to argue.

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
-INTRO = "At the restaurant bar, an unfortunate misunderstanding leads Max to accidentally punch his friend Kostya. Full of regret, Max tries to apologize while Kostya nurses a sore nose and asks for fresh juice to clear his head. Meanwhile, the search for Chef Barinov's missing knife is throwing the whole kitchen into turmoil. Listen to their conversation in Russian first, then we will break down each line."
-OPENER = 'Now let us walk through each line together to understand every expression.'
+INTRO = "At the bar, Max has done something clumsy that nearly broke his friend Kostya's nose. He tries to make it up to him, while Kostya, dizzy, asks for a glass of fresh orange juice. Meanwhile the hunt for the chef's knife is still turning the kitchen upside down. Here it is in Russian first."
+OPENER = "Let's go over the apology."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max and Kostya patch up their misunderstanding over a fresh glass of juice, but the atmosphere on the kitchen floor remains electric. Until then, keep studying! Next time you watch the episode, listen for the Russian expressions for 'orange' and 'big' — you will catch every word right away. See you next time!"
+OUTRO = 'A glass of juice puts the two friends right, but the kitchen is still a battlefield. You\'ve heard "prosti", the friendly "sorry" for people you call "ty".'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Как-то неловко получилось, Костя.', 'It turned out somewhat awkward, Kostya.', [(212, 'неудобненько получилось')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Держи свой сок, друг мой.', 'Hold your juice, my friend.', [(222, 'Фрэш сделай')], ''),
 ]
 WALK = [
-    (0, None, "'It turned out somewhat awkward, Kostya.' Max awkwardly admits that his impulsive action created a really terrible situation."),
-    (1, None, "'You almost broke my nose!' Kostya angrily points out that the reckless punch nearly caused a serious facial fracture."),
-    (2, None, "'Old buddy, forgive me, please!' Max pleads for forgiveness using a warm, informal nickname to soothe his injured buddy."),
-    (3, None, "'What good is your simple apology to me?' Kostya sharply dismisses the hollow apology, making it clear that mere words aren't enough."),
-    (4, None, "'Now you owe me big time.' Kostya informs his friend that he will have to work hard to make up for the painful assault."),
-    (5, None, "'What can I do for you?' Max eagerly offers to perform any task necessary to get back in his friend's good graces."),
-    (6, None, "'Make me some fresh orange juice.' Kostya orders a healthy beverage to help him recover from the stunning blow to the face."),
-    (7, None, "'My head is spinning very much.' Kostya complains about severe dizziness resulting from the unexpected strike."),
-    (8, None, "'I will do everything quickly right now.' Max jumps to action, promising to prepare the restorative drink as swiftly as possible."),
-    (9, None, "'It is very loud in the kitchen right now.' Max notes the chaotic noise coming from the back of the house to distract from the tension."),
-    (10, None, "'Is the chef shouting at the cooks again?' Kostya correctly guesses that the booming sounds are just the head chef berating his staff again."),
-    (11, None, "'He is still looking for the knife.' Max reveals that the boss is still tearing the place apart searching for his beloved tool."),
-    (12, None, "'Then it is better for us to be quieter.' Kostya wisely suggests that they keep a low profile to avoid drawing the angry boss's attention."),
-    (13, None, "'Here is your juice, my friend.' Max hands over the freshly squeezed remedy while trying to reestablish their close bond."),
+    (0, None, '\'It turned out somewhat awkward, Kostya.\' "Kak-to" is "somehow": the "-to" makes things vague. "Nelovko", awkward, is "ne" plus "lovko", deftly.'),
+    (1, None, '\'You almost broke my nose!\' "Chut\' ne" is "barely not", and it means "almost". Russian says "slomal mne nos", "broke to me the nose", where English says "my nose".'),
+    (2, None, '\'Old buddy, forgive me, please!\' "Starichok" is "starik", old man, made small and warm. "Prosti" is the friendly "forgive me".'),
+    (3, None, '\'What good is your simple apology to me?\' Kostya puns on "prostoye", simple, and "prosti", forgive, which share a root. "Zachem mne" is "what for to me".'),
+    (4, None, '\'Now you owe me big time.\' Russian says "za toboy bol\'shoy dolg", "behind you a big debt". "Dolg" is a debt.'),
+    (5, None, '\'What can I do for you?\' "Mogu" is "I can", and "sdelat\'" is "to do". "Dlya tebya", for you, is the friendly form.'),
+    (6, None, '\'Make me some fresh orange juice.\' "Apel\'sinovyy", orange, is the fruit "apel\'sin" turned into a describing word. "Svezhiy" is "fresh", and "sok" is juice.'),
+    (7, None, '\'My head is spinning very much.\' Russian says "u menya kruzhitsya golova", "at me spins the head". "Kruzhitsya" comes from "krug", a circle.'),
+    (8, None, '\'I will do everything quickly right now.\' "Sdelayu" is "I\'ll get it done": the "s-" makes it finished. "Seychas" is "right now".'),
+    (9, None, '\'It is very loud in the kitchen right now.\' "Gromko" means "loud" and doubles as "loudly". Russian needs no "it is": just "in the kitchen loud".'),
+    (10, None, '\'Is the chef shouting at the cooks again?\' "Krichit na" is "shouts at". After "na", "povara" becomes "povarov", and "opyat\'" is "again".'),
+    (11, None, '\'He is still looking for the knife.\' "Do sikh por" is "until these times", and it means "still". "Ishchet" is "looks for".'),
+    (12, None, '\'Then it is better for us to be quieter.\' "Tishe", quieter, comes from "tikho", quiet. "Nam luchshe" is "to us better", the Russian for "we\'d better".'),
+    (13, None, '\'Hold your juice, my friend.\' "Derzhi" is "hold", but it\'s what Russians say when handing something over: "here you go". "Drug moy", "friend mine", puts "my" last for warmth.'),
 ]

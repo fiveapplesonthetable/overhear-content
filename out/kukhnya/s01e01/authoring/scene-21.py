@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
-INTRO = 'Max proudly presents his dessert for Eleonora Andreyevna, only to discover that she is a dog, and she completely refuses to eat sweet pastry! Indignant, Max challenges the Chef to a high-stakes bet. Listen to the dialogue in Russian first, then we will break down each line in English.'
-OPENER = 'Now let us go through the scene line by line to understand every expression.'
+INTRO = "Max proudly shows off his festive dessert, and the guest who is supposed to taste it turns out to be Eleonora Andreyevna, a dog. She won't even look at it. Max is furious at the unfairness, and ends up challenging the chef to a bet. Here is the Russian first."
+OPENER = 'Back to the kitchen, slowly.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'The stakes could not be higher: Max must cook a dish that truly impresses Chef Viktor Barinov, or lose his place at Claude Monet for good. See you next time!'
+OUTRO = 'So the stakes are set: one dish, one taster, and Max\'s job on the line. Remember "let\'s bet" and "I agree", the two phrases that start the whole wager.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Шеф, праздничный десерт уже готов!', 'Chef, the festive dessert is already ready!', [(244, 'Десерт'), (244, 'готов')], ''),
@@ -32,22 +32,18 @@ STORY = [
     ('barinov', 'Посмотрим, какой из тебя повар!', 'We will see what kind of cook you are!', [(274, 'Папочка готовить будет')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, the festive dessert is already ready!' Max excitedly announces that his masterpiece is fully plated."),
-    (1, None, "'Attention everyone!' Chef Barinov calls the staff over for a public spectacle."),
-    (2, None, "'The guest is tasting the newcomer' He directs all eyes to the dramatic tasting moment."),
-    (3, None, "'Come here, sweet little doggy!' Chef Barinov shockingly summons a canine to evaluate the food."),
-    (4, None, "'Taste the dessert.' He playfully encourages the animal to eat the fancy pastry."),
-    (5, None, "'She doesn't even look at the plate.' Chef Barinov points out the dog's complete lack of interest."),
-    (6, None, "'Chef, that is unfair!' Max bursts out in anger at the rigged evaluation."),
-    (7, None, "'After all, it is a dog.' He points out the absurdity of feeding sweets to a pet."),
-    (8, None, "'The world is not ideal at all, young man.' Chef Barinov smugly dismisses the complaint with a cynical life lesson."),
-    (9, None, "'Let's make a bet, chef!' Max angrily challenges his boss to a real contest."),
-    (10, None, "'What will we bet about?' Chef Barinov pauses, intrigued by the rookie's sudden boldness."),
-    (11, None, "'An ordinary person will like my hot dish.' Max wagers that any human being would love his cooking."),
-    (12, None, "'Good!' Chef Barinov accepts the premise of the challenge."),
-    (13, None, "'You will cook a dish for me.' He decides to be the final judge of the boy's talent."),
-    (14, None, "'If I like it, you stay here.' Chef Barinov reiterates the reward of permanent employment."),
-    (15, None, "'If not, you will leave here forever.' He clearly states the devastating consequence of failure."),
-    (16, None, "'I agree to this bet!' Max fearlessly accepts the all-or-nothing deal."),
-    (17, None, "'We will see what kind of cook you are!' Chef Barinov looks forward to destroying the young man's ego."),
+    (0, None, '\'Chef, the festive dessert is already ready!\' "Prazdnichnyy" comes from "prazdnik", a holiday. "Uzhe gotov" is "already ready", which sounds clumsy in English but perfectly normal in Russian.'),
+    (1, None, '\'Attention everyone! The guest is tasting the newcomer\'s dish.\' A woman guest is "gost\'ya", the same word with a feminine ending. "Blyudo novichka" is "dish of newcomer", with a short "of" ending on "novichok" and no \'s.'),
+    (2, None, '\'Come here, sweet little doggy! Taste the dessert.\' "Sobachka" is "sobaka", dog, with a small ending that makes it a pet name. "Milaya" is "sweet", the feminine of "milyy". "Poprobuy" is a command from "probovat\'", to try.'),
+    (3, None, '\'She doesn\'t even look at the plate.\' A dog is "ona", she, because "sobachka" is a feminine word. "Smotret\' na" is "to look at", and "tarelku" takes -u.'),
+    (4, None, '\'Chef, that is unfair! After all, it is a dog.\' "Nechestno" is "ne" plus "chestno", honestly, the word from "frankly speaking". "Eto zhe sobaka" has the "zhe" for "after all".'),
+    (5, None, '\'The world is not ideal at all, young man.\' "Mir" means both "world" and "peace". "Ideal\'en" is the short form of "ideal\'nyy", the shape Russian uses after "is".'),
+    (6, None, '\'Let\'s make a bet, chef!\' "Davayte" means "give", but before another verb it means "let\'s", and it\'s one of the most useful words in Russian. "Posporim" comes from "spor", an argument or bet.'),
+    (7, None, '\'What will we bet about?\' "O chyom" is "about what", as before. "My budem sporit\'" is "we will bet", the future "will be" plus "to bet".'),
+    (8, None, '\'An ordinary person will like my hot dish.\' "Obychnomu cheloveku" is "to an ordinary person", both words with the "to" ending, because the person is the one pleased. "Goryacheye" is "hot".'),
+    (9, None, '\'Good! You will prepare a dish for me.\' "Dlya menya" is "for me". Where English has one "me", Russian has several forms, and this is the "for" one.'),
+    (10, None, '\'If I like it, you stay here.\' "Yesli mne ponravitsya" is "if it pleases me". "Ostayosh\'sya" is "you stay", in the present, which Russians use for firm promises.'),
+    (11, None, '\'If not, you will leave here forever.\' "Navsegda" is "na" plus "vsegda", always: forever. "Otsyuda" is "from here", the partner of "syuda", "to here".'),
+    (12, None, '\'I agree to this bet!\' A man says "soglasen", and a woman would say "soglasna". "Na etot spor" is "to this bet".'),
+    (13, None, '\'We will see what kind of cook you are!\' "Posmotrim" is "we will see". "Kakoy iz tebya povar" is literally "what from you cook", Russian for "what kind of cook you\'ll turn out to be".'),
 ]

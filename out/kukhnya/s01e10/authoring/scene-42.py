@@ -7,13 +7,13 @@ SCENE = 42
 TITLE = 'Щучья афера  (The Pike Roe Scam)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'nagiyev': 'Нагиев'}
+LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Pressed by Nagiyev, Chef Barinov finally confesses that the supposed sturgeon caviar is dyed pike roe. Furious at the reckless risk to the restaurant's reputation, Nagiyev imposes a crushing fine on the head chef."
-OPENER = "Let's explore Barinov's confession about the dyed pike roe and Nagiyev's furious disciplinary punishment."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Facing a massive deduction and living on edge, Barinov hurries back to the kitchen to see through the banquet service. Next time you watch the episode, listen for the Russian expressions for 'scam' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = 'Barinov has been caught. Nagiyev wants the truth, and the chef gives it, with a bit of spin. Then the owner passes sentence. Let the Russian wash over you first.'
+OPENER = 'Time to look at it properly.'
+TRANSITION = 'Now, from the top, in one go.'
+OUTRO = "Barinov will work a month without pay, and he owes a fine as well. That's all for now."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Ладно, это обычная щучья икра, Дим.', 'Fine, it is ordinary pike roe, Dim.', [(299, 'Щучья.')], ''),
@@ -27,21 +27,21 @@ STORY = [
     ('nagiyev', 'Ты будешь целый месяц работать без зарплаты!', 'You will work an entire month without salary!', [(306, 'Ты просто будешь работать месяц без зарплаты.')], ''),
     ('nagiyev', 'Я штрафую тебя на двести тысяч рублей.', 'I am fining you two hundred thousand rubles.', [(307, 'Я тебя штрафую на двести тысяч.')], ''),
     ('barinov', 'Серьёзно? На что я буду жить месяц?!', 'Seriously? On what will I live for a month?!', [(308, 'Серьезно? Да. А как же я буду жить этот месяц?')], ''),
-    ('nagiyev', 'Всё, иди на кухню и не зли!', 'That is all, go to the kitchen and do not anger me!', [(309, 'Все, иди. Не зли меня.')], ''),
-    ('max', 'Слушаюсь, шеф, то есть Дмитрий Владимирович.', 'Yes sir, chef, I mean Dmitry Vladimirovich.', [], ''),
+    ('nagiyev', 'Всё, иди на кухню и не зли меня!', 'That is all, go to the kitchen and do not make me angry!', [(309, 'Все, иди. Не зли меня.')], ''),
+    ('barinov', 'Слушаюсь, Дмитрий Владимирович.', 'Yes, sir, Dmitry Vladimirovich.', [], ''),
 ]
 WALK = [
-    (0, None, "'Fine, it is ordinary pike roe, Dim.' Barinov finally drops the charade and admits the truth."),
-    (1, None, "'Scientists say it is even healthier than black!' After confessing that it is dyed pike roe, Viktor jokes weakly that scientists say pike roe is even healthier."),
-    (2, None, "'Sorry, we could not get decent one in time.' Barinov cites delivery failures for the scam."),
-    (3, None, "'Therefore I decided to dye it a little.' He explains that since they could not get sturgeon caviar in time, he decided to tint the pike roe."),
-    (4, None, "'If your scam surfaces, they will simply kill you!' Nagiyev whispers in horror that if the tough VIP guests find out, they will kill Viktor."),
-    (5, None, "'They will kill you and bury you in the woods.' The owner paints a terrifying picture of revenge."),
-    (6, None, "'I will not even weep at your grave.' He jokes darkly that if they bury Viktor in the woods, he will not even cry at his grave."),
-    (7, None, "'And if it does not surface, you are a real lucky guy.' However, if the guests never notice the dye, Nagiyev says Viktor is the luckiest man alive."),
-    (8, None, "'You will work an entire month without salary!' Even so, for pocketing the caviar money, Nagiyev sentences Viktor to work a full month without pay."),
-    (9, None, "'I am fining you two hundred thousand rubles.' The restaurant owner names the stiff financial penalty."),
-    (10, None, "'Seriously? On what will I live for a month?!' Viktor protests in dismay, asking how he is supposed to live for a month after a two-hundred-thousand-ruble fine."),
-    (11, None, "'That is all, go to the kitchen and do not anger me!' Nagiyev tells him to march back to the kitchen before he makes the fine even worse."),
-    (12, None, "'Yes sir, chef, I mean Dmitry Vladimirovich.' Defeated, Barinov mutters 'yes, chef' — before correcting himself to address the owner."),
+    (0, None, '\'Fine, it is ordinary pike roe, Dim.\' Russians clip a name when they call someone: "Dima" becomes "Dim". "Obychnaya shchuchya ikra" is "ordinary pike roe". Barinov gives up the pretence.'),
+    (1, None, '\'Scientists say it is even healthier than black!\' "Poleznee" is "more useful", "healthier", from "polezny". There is no word for "than": "chyornoy" takes the "of" ending instead. "Uchyonye" is "scientists".'),
+    (2, None, '\'Sorry, we could not get decent one in time.\' "Dostat" is "to get hold of", something hard to find. "Normalnuyu" is "normal", here "decent". "Vovremya" is "in time", as in Senya\'s "Vsyo budet gotovo vovremya".'),
+    (3, None, '\'Therefore I decided to dye it a little.\' To dye is "pokrasit", the kitchen\'s "krasit" with po-. "Poetomu" is "therefore", and "reshil" is "I decided".'),
+    (4, None, '\'If your scam surfaces, they will simply kill you!\' "Vsplyvyot" is "floats up", the Russian for "comes out". "Ubyut" is "they will kill", with no one named, the verb of Senya\'s "Shef uvidit... i ubyot!".'),
+    (5, None, '\'They will kill you and bury you in the woods.\' "V lesu" is "in the woods", from "les", with a special ending -u. "Zakopayut" is "they will bury", literally "dig in".'),
+    (6, None, '\'I will not even weep at your grave.\' Nagiyev says "dazhe ne budu plakat", "I will not even cry". "Na mogile", "at the grave", is literally "on the grave", from "mogila".'),
+    (7, None, '\'And if it does not surface, you are a real lucky guy.\' "Vezunchik", "lucky guy", comes from the root of "povezlo", "got lucky", in the first scene: "Tebe povezlo, chto papa spit".'),
+    (8, None, '\'You will work an entire month without salary!\' "Bez zarplaty" is "without salary"; "bez" is heard in Louis\'s "bez komochkov", "without lumps". "Zarplata" was in Nagiyev\'s "Ya tebe dve zarplaty uzhe vydal".'),
+    (9, None, '\'I am fining you two hundred thousand rubles.\' "Shtrafuyu" is "I fine", from "shtraf", "a fine". Two hundred thousand, "dvesti tysyach", is what Timur asked for the caviar: "S tebya rovno dvesti tysyach rubley".'),
+    (10, None, '\'Seriously? On what will I live for a month?!\' "Na chto" is "on what", meaning "on what money". "Zhit" is "to live", the root of "zhizn", "life". "Seryozno?" is "seriously?".'),
+    (11, None, '\'That is all, go to the kitchen and do not make me angry!\' "Vsyo" here is "that\'s it". "Ne zli menya" is "don\'t anger me", from "zloy", "angry" or "wicked". "Idi na kukhnyu" is "go to the kitchen".'),
+    (12, None, '\'Yes, sir, Dmitry Vladimirovich.\' "Slushayus" is "I am listening", with -sya, and means "yes, sir": the answer to an order. Barinov uses the owner\'s first name and father\'s name.'),
 ]

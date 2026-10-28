@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
-INTRO = "In Chef Barinov's office, the head chef corners young cook Max Lavrov to check if the staff lunch has been prepared. Caught lying by the polygraph results, Max tries flattery by declaring the chef is like a father to him, before being ordered back to the kitchen. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the workplace confrontations, kitchen idioms, and comic excuses."
+INTRO = "The chef catches Max in his office and asks whether the staff lunch is cooked. Max says it is nearly done, the lie detector says otherwise, and Max tries flattery. Here's the Russian first."
+OPENER = "Let's listen to the chef catch him out."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max narrowly escapes Chef Barinov's wrath and sprints back to the stoves to finish cooking staff lunch. Great work practicing lively conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to run' and 'fast' — you will catch every word right away. See you next time!"
+OUTRO = 'Max narrowly escapes, and sprints back to the stove. You\'ve heard "slushayus\'", the soldier\'s "yes, sir", which Max uses whenever the chef gives an order.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Лавров, подойди сюда прямо сейчас.', 'Lavrov, come here right now.', [(180, 'соседний ресторан')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Слушаюсь, шеф, я сделаю всё моментально.', 'Understood, chef, I will do everything instantly.', [(195, 'не обману')], ''),
 ]
 WALK = [
-    (0, None, "'Lavrov, come here right now.' Barinov calls Lavrov to come over right away."),
-    (1, None, "'Chef, can I already go to the kitchen?' Max asks if he can go to the kitchen yet."),
-    (2, None, "'Wait! Did you cook lunch for the cooks?' Barinov stops him and asks if he made lunch for the cooks."),
-    (3, None, "'Yes, of course, I already made everything.' Max confirms he already made everything."),
-    (4, None, "'Is everything definitely ready? You aren't deceiving me?' Barinov questions if it is truly ready and if his employee is deceiving him."),
-    (5, None, "'Well, almost cooked, very little is left.' Max clarifies that the meal is almost done."),
-    (6, None, "'You are lying to my face again!' Barinov accuses him of lying straight to his face again."),
-    (7, None, "'Chef, I never lie to you.' Max insists he never lies to his boss."),
-    (8, None, "'The lie detector shows something completely different!' Barinov points out that the lie detector indicates otherwise."),
-    (9, None, "'This stupid machine simply broke.' Max claims the machine just malfunctioned."),
-    (10, None, "'Chef, you are like my own father to me.' Max tries to appeal to their relationship by calling him a father figure."),
-    (11, None, "'Quickly run to the kitchen and feed people!' Barinov orders him to run to the kitchen and feed everyone quickly."),
-    (12, None, "'Understood, chef, I will do everything instantly.' Max agrees to do it instantly."),
+    (0, None, '\'Lavrov, come here right now.\' "Podoydi" is "come up", with "pod-", up to. The surname, "Lavrov", marks a serious talk.'),
+    (1, None, '\'Chef, can I already go to the kitchen?\' "Mogu" is "I can", and "uzhe idti" is "already go".'),
+    (2, None, '\'Wait! Did you cook lunch for the cooks?\' "Podozhdi" is the familiar "wait". "Dlya povarov" is "for the cooks", with -ov.'),
+    (3, None, '\'Yes, of course, I already made everything.\' "Sdelal" is "did" or "made", with the man\'s -l. "Uzhe" is "already".'),
+    (4, None, '\'Is everything definitely ready? You aren\'t deceiving me?\' "Tochno" is "for sure". "Obmanyvayesh\'" is from "obman", a deception.'),
+    (5, None, '\'Well, almost cooked, very little is left.\' "Pochti" is "almost". "Ostalos\'", is left, takes the neuter -o because nothing named is the subject.'),
+    (6, None, '\'You are lying to my face again!\' "Vryosh\'" is the blunt everyday "you lie", from "vrat\'". "V litso" is "into the face".'),
+    (7, None, '\'Chef, I never lie to you.\' "Nikogda ne vru" is "never not lie", the double negative. "Vam" is the polite "to you".'),
+    (8, None, '\'The lie detector shows something completely different!\' "Pokazyvayet" is "shows". "Sovsem drugoye" is "something else entirely", neuter for an unnamed thing.'),
+    (9, None, '\'This stupid machine simply broke.\' "Slomalas\'" is "broke", with -s\' for breaking by itself and -a for "mashina".'),
+    (10, None, '\'Chef, you are like my own father to me.\' "Rodnoy", one\'s own, is from "rod", kin. "Kak rodnoy otets" is "like a blood father".'),
+    (11, None, '\'Quickly run to the kitchen and feed people!\' "Begi" is "run", and "kormi" is "feed", two commands joined by "i".'),
+    (12, None, '\'Understood, chef, I will do everything instantly.\' "Slushayus\'" is the soldier\'s "yes, sir", literally "I obey". "Momental\'no" is "instantly", from "moment".'),
 ]

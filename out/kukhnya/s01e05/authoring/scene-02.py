@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'nastya': 'Настя', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "In the restaurant locker room, waitress Nastya glows with romantic excitement. She confides in fellow waitress Sasha about yesterday's unexpected kiss with Max. Sasha is stunned by how quickly Nastya has planned out their future together, including children and family life. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine Nastya and Sasha's romantic conversation line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+INTRO = "Meanwhile, in the staff locker room at Claude Monet, the waitress Nastya is floating. She thinks yesterday's kiss with Max was the start of a love story, which is not what Max just told Kostya. Her friend Sasha, another waitress, is trying to keep up. Here it is in Russian."
+OPENER = 'Now slowly. Nastya races ahead, and Sasha keeps asking questions to pull her back.'
+TRANSITION = 'And now the chat in one piece.'
+OUTRO = 'Sasha\'s little questions are worth stealing: "pravda", "neuzheli", a "ty uzhe". They keep any conversation going. Max, of course, has no idea about the children.'
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('sasha', 'Настя, у вас с Максом всё серьёзно?', 'Nastya, is everything serious between you and Max?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('nastya', 'Скоро мы обязательно всё обсудим.', 'Soon we will definitely discuss everything.', [], ''),
 ]
 WALK = [
-    (0, None, "'Nastya, is everything serious between you and Max?' Sasha inquires whether the romance is actually serious."),
-    (1, None, "'Yes, yesterday we even kissed.' Nastya proudly shares the news of their intimate moment."),
-    (2, None, "'Really? And how did that happen?' Sasha reacts with intense curiosity about the details."),
-    (3, None, "'It was incredibly romantic!' Nastya describes the moment as a dream come true."),
-    (4, None, "'Did you really fall in love with him?' Sasha asks in surprise if her friend has already fallen hard."),
-    (5, None, "'He is such a kind and attentive guy.' Nastya praises his personality with genuine affection."),
-    (6, None, "'After all, you have only known each other one week.' Sasha reminds her friend how briefly they have known each other."),
-    (7, None, "'True love knows no time.' Nastya brushes off the logic with a romantic cliché."),
-    (8, None, "'Imagine what beautiful children we will have!' Nastya is already imagining their future family together."),
-    (9, None, "'Are you already thinking about children?!' Sasha is completely astonished by the speed of these plans."),
-    (10, None, "'Of course, we will create a wonderful family.' Nastya confidently predicts a happy family life."),
-    (11, None, "'And does Max know about your plans?' Sasha wonders if the prospective groom has any idea."),
-    (12, None, "'Soon we will definitely discuss everything.' Nastya confidently resolves to bring it up soon."),
+    (0, None, '\'Nastya, is everything serious between you and Max?\' Russian says \'at you with Max everything serious\', with no \'is\' at all. "U vas" is plural here, because Sasha means the two of them.'),
+    (1, None, '\'Yes, yesterday we even kissed.\' The same kissing verb, but now it\'s "potselovalis", with "po-" in front. That makes it one kiss, done and finished, where Kostya\'s "tselovalis" sounded more like an ongoing activity.'),
+    (2, None, '\'Really? And how did that happen?\' "Pravda" literally means \'truth\', and said with a rising voice it\'s \'really?\'. "Proizoshlo" ends in -o to agree with "eto", \'it\'.'),
+    (3, None, '\'It was incredibly romantic!\' "Neveroyatno" is "ne", \'not\', in front of "veroyatno", \'probably\', so: improbably, unbelievably. "Romantichno" you can guess.'),
+    (4, None, '\'Did you really fall in love with him?\' "Neuzheli" is a surprised \'can it really be?\'. In Russian you fall in love \'into\' someone: "vlyubilas v nego", and the -las tells you it\'s a woman who fell.'),
+    (5, None, '\'He is such a kind and attentive guy.\' "Takoy" before a description means \'such a\'. "Dobryy" and "vnimatelnyy" both end in -yy, the usual ending when the adjective describes a man, here "paren", \'guy\'.'),
+    (6, None, '\'After all, you have only known each other one week.\' "Ved", tucked in the middle, is \'after all\', a gentle \'come on\'. "Nedelya", \'week\', becomes "odnu nedelyu" when it says how long.'),
+    (7, None, '\'True love knows no time.\' It sounds like a song lyric, and Nastya means it. After "ne znaet", \'doesn\'t know\', the word for \'time\' shifts from "vremya" to "vremeni".'),
+    (8, None, '\'Imagine what beautiful children we will have!\' "Predstavlyaesh" is literally \'do you imagine?\', used like \'just imagine!\'. \'We will have\' is "u nas budut", \'at us will be\'.'),
+    (9, None, '\'Are you already thinking about children?!\' "Uzhe", \'already\', carries all of Sasha\'s shock. After "o", \'about\', "deti", \'children\', turns into "detyakh".'),
+    (10, None, '\'Of course, we will create a wonderful family.\' "Konechno" is spelled with a ch but said \'koneshno\'. "Semya", \'family\', becomes "semyu" because it\'s the thing they\'ll create.'),
+    (11, None, '\'And does Max know about your plans?\' The one question Nastya has dodged. After "o", both words take plural endings: "o tvoikh planakh".'),
+    (12, None, '\'Soon we will definitely discuss everything.\' "Obsudim" is \'we will discuss\', with the same -im as "sozdadim" in her last line. "Obyazatelno", \'definitely\', is a word Russians say all the time to promise something.'),
 ]

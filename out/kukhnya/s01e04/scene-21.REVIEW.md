@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Федя | Шеф, наш новичок снова сильно отличился. | Chef, our newcomer stood out again. | #281: опять отличился | verbatim |
+| 1 | Федя | Шеф, наш новичок снова сильно отличился. | Chef, our newcomer stood out again. | #281 00:20:38: опять отличился | verbatim |
 | 2 | Шеф | Что ты опять натворил на кухне? | What did you do in the kitchen again? | new | new |
-| 3 | Федя | У гостя в зале язык стал синим! | In the dining room the guest's tongue turned blue! | #279: язык был | verbatim |
+| 3 | Федя | У гостя в зале язык стал синим! | In the dining room the guest's tongue turned blue! | #279 00:20:32: язык был | verbatim |
 | 4 | Шеф | Ты испортил суп пищевым красителем? | Did you ruin the soup with food coloring? | new | new |
-| 5 | Макс | Шеф, суп получился очень вкусным! | Chef, the soup turned out very delicious! | #285: супчик получился | verbatim |
-| 6 | Шеф | Вот как ты благодаришь за доброту! | This is how you thank me for kindness! | #283: за мою доброту | verbatim |
-| 7 | Шеф | Я дал тебе шанс стать хорошим поваром. | I gave you a chance to become a good cook. | #284: шанс дал | verbatim |
+| 5 | Макс | Шеф, суп получился очень вкусным! | Chef, the soup turned out very delicious! | #285 00:20:49: супчик получился | verbatim |
+| 6 | Шеф | Вот как ты благодаришь за доброту! | This is how you thank me for kindness! | #283 00:20:41: за мою доброту | verbatim |
+| 7 | Шеф | Я дал тебе шанс стать хорошим поваром. | I gave you a chance to become a good cook. | #284 00:20:45: шанс дал | verbatim |
 | 8 | Макс | Пожалуйста, выслушайте меня хотя бы минуту. | Please, listen to me for at least a minute. | new | new |
-| 9 | Шеф | У тебя есть ровно две минуты! | You have exactly two minutes! | #286: Две минуты! | verbatim |
-| 10 | Шеф | Быстро собери все свои вещи! | Quickly pack all your things! | #286: собрал свои | verbatim |
+| 9 | Шеф | У тебя есть ровно две минуты! | You have exactly two minutes! | #286 00:20:51: Две минуты! | verbatim |
+| 10 | Шеф | Быстро собери все свои вещи! | Quickly pack all your things! | #286 00:20:51: собрал свои | verbatim |
 | 11 | Макс | Шеф, я не хотел никого обидеть. | Chef, I did not want to offend anyone. | new | new |
-| 12 | Шеф | Уходи отсюда, ты уволен из ресторана! | Leave here, you are fired from the restaurant! | #288: Вон я сказал! | verbatim |
-| 13 | Шеф | Я больше ничего не хочу слышать! | I do not want to hear anything anymore! | #289: Не желаю ничего слышать. | verbatim |
+| 12 | Шеф | Уходи отсюда, ты уволен из ресторана! | Leave here, you are fired from the restaurant! | #288 00:20:58: Вон я сказал! | verbatim |
+| 13 | Шеф | Я больше ничего не хочу слышать! | I do not want to hear anything anymore! | #289 00:21:00: Не желаю ничего слышать. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, our newcomer stood out again.' Fedya informs the head chef of yet another kitchen mishap.
-- 'What did you do in the kitchen again?' Barinov angrily demands an explanation for the disturbance.
-- 'In the dining room the guest's tongue turned blue!' Fedya reveals the bizarre cosmetic side effect of the dish.
-- 'Did you ruin the soup with food coloring?' Barinov identifies the pastry dye that colored the soup.
-- 'Chef, the soup turned out very delicious!' Max naively defends the taste despite the outrageous color.
-- 'This is how you thank me for kindness!' The head chef feels his generosity has been thoroughly mocked.
-- 'I gave you a chance to become a good cook.' Barinov laments the wasted opportunity he offered his apprentice.
-- 'Please, listen to me for at least a minute.' Max desperately begs for an opportunity to explain his actions.
-- 'You have exactly two minutes!' Barinov gives a strict and merciless deadline for departure.
-- 'Quickly pack all your things!' The chef orders the young apprentice to clear his locker immediately.
-- 'Chef, I did not want to offend anyone.' Max tries to express that he had no malicious intent.
-- 'Leave here, you are fired from the restaurant!' Barinov delivers the devastating final verdict.
-- 'I do not want to hear anything anymore!' The head chef firmly slams the door on any further debate.
+- 'Chef, our newcomer stood out again.' "Otlichilsya" is "distinguished himself", said here with irony. "Otlichnyy", excellent, comes from the same root.
+- 'What did you do in the kitchen again?' "Natvoril" is "got up to mischief", with "tvorit'", to create, inside.
+- 'In the dining room the guest's tongue turned blue!' "U gostya yazyk" is "at the guest the tongue". "Stal sinim" is "became blue", with -im after "stal".
+- 'Did you ruin the soup with food coloring?' "Pishchevym" is "food" as an adjective, from "pishcha". "Krasitelem" ends in -em for "with".
+- 'Chef, the soup turned out very delicious!' "Poluchilsya", turned out, is masculine for "sup". After it, "vkusnyy" becomes "vkusnym".
+- 'This is how you thank me for kindness!' "Blagodarish'" joins "blago", good, and "dar", gift. "Za dobrotu" is "for kindness".
+- 'I gave you a chance to become a good cook.' "Stat'" is "to become", and after it "khoroshiy povar" becomes "khoroshim povarom".
+- 'Please, listen to me for at least a minute.' "Vyslushayte" has "vy-", out: hear me out. "Khotya by minutu" is "at least a minute".
+- 'You have exactly two minutes!' "Rovno" is "exactly". "Dve" is "two" for feminine nouns, and after it "minuta" becomes "minuty".
+- 'Quickly pack all your things!' "Soberi" is "gather", Russian for packing. "Svoi veshchi" is "your own things".
+- 'Chef, I did not want to offend anyone.' "Nikogo" is "nobody" as the object, with "ne" too. "Obidet'" is from "obida", a hurt.
+- 'Leave here, you are fired from the restaurant!' "Ukhodi" is the command "leave". "Uvolen iz" is "fired from".
+- 'I do not want to hear anything anymore!' "Bol'she nichego ne" is "more nothing not", the double negative.

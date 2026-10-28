@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Continuing his provocative commentary on the morning cooking broadcast, Chef Viktor Barinov declares that he would never allow a female chef to work in the Claude Monet kitchen. He argues that women talk too much and cannot withstand the grueling pressure of haute cuisine, but Elena Sokolova fiercely defends the competence and discipline of her staff. Let's listen to their argument in Russian first."
-OPENER = "Now let's examine Barinov and Elena's debate on kitchen discipline line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With neither chef backing down from their entrenched positions, Elena prepares to challenge Barinov to put his pride on the line before the entire television audience. Next time you watch the episode, listen for the Russian expressions for 'carefully' and 'to be afraid' — you will catch every word right away. See you next time!"
+INTRO = "Still live in the television studio, Barinov keeps going at Elena Sokolova, the chef from Arcobaleno. He says he would never take a woman into his kitchen, and Elena has an answer to every point. It's in Russian first."
+OPENER = 'Slowly now. Each of his claims gets a reply from her.'
+TRANSITION = 'And here it is again, claim and reply, without the pauses.'
+OUTRO = "Elena's sort of line is dokazhite na dele, 'prove it in practice', and Barinov ends up using it on her. You've also heard tyazholyy three times: it means 'heavy', and it's the everyday word for hard work, heavy bags and a hard day. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Я никогда не возьму женщину на кухню.', 'I will never take a woman into the kitchen.', [(29, 'Я бы себе на кухню поварику бы не взял')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Тогда докажите это на деле, Елена!', 'Then prove it in deed, Elena!', [], ''),
 ]
 WALK = [
-    (0, None, "'I will never take a woman into the kitchen.' Barinov bluntly states his hiring policy against female cooks."),
-    (1, None, "'What foolish thoughts, Viktor?' Elena calls out the absurdity of his outdated mindset."),
-    (2, None, "'Women talk too much at work.' He throws out another stereotype about women being too chatty during service."),
-    (3, None, "'In my kitchen there is always perfect order.' Elena counters by highlighting the pristine discipline in her own restaurant."),
-    (4, None, "'In a restaurant kitchen strict control is needed.' Barinov insists that a top-tier kitchen requires a firm hand to keep things running."),
-    (5, None, "'My cooks work calmly and neatly.' Elena emphasizes that her staff operates smoothly without unnecessary yelling."),
-    (6, None, "'You will not cope with our hard work.' He bluntly predicts that she would fail under the immense pressure of his kitchen."),
-    (7, None, "'I cope with any difficult task.' Elena confidently asserts her ability to handle any culinary crisis."),
-    (8, None, "'At Claude Monet restaurant it is very hard.' Barinov tries to intimidate her by talking up the punishing environment at Claude Monet."),
-    (9, None, "'I am not afraid of hard work, chef!' Elena refuses to back down, stating she does not fear a demanding shift."),
-    (10, None, "'You do not understand our male rules.' He implies there is an unspoken brotherhood that she could never grasp."),
-    (11, None, "'The rules in the kitchen are the same for everyone.' Elena rejects his exclusivity, arguing that professional standards apply to everyone."),
-    (12, None, "'Then prove it in deed, Elena!' Barinov finally dares her to put her skills to the ultimate test."),
+    (0, None, "'I will never take a woman into the kitchen.' Like other forms of vzyat, vozmu, 'I will take', already points to the future. Movement into the kitchen is na kukhnyu, ending in -yu; being in it is na kukhne."),
+    (1, None, "'What foolish thoughts, Viktor?' The everyday chto za means 'what kind of', and often carries disapproval. The plural mysli comes from mysl, 'thought'."),
+    (2, None, "'Women talk too much at work.' Here slishkom mnogo, 'too much', is literally 'too many'. Russians say na rabote, 'on work', for being at work."),
+    (3, None, "'In my kitchen there is always perfect order.' After na, moya changes to moyey to match kukhne. The word idealnyy, 'perfect', is simply 'ideal' with a Russian ending."),
+    (4, None, "'In a restaurant kitchen strict control is needed.' Here nuzhen, 'needed', matches kontrol, which is masculine; with a feminine word it would be nuzhna. The phrase na kukhne restorana is literally 'in the kitchen of the restaurant'."),
+    (5, None, "'My cooks work calmly and neatly.' The plural povara, 'cooks', is irregular, with a stressed -a where most words take -y. Swapping the ending for -o turns spokoynyy, 'calm', into spokoyno, 'calmly', and akkuratnyy into akkuratno."),
+    (6, None, "'You will not cope with our hard work.' The form spravites is the polite 'you will cope', and it always takes s, 'with', and -oy endings: s nashey tyazholoy rabotoy. Literally, tyazholyy means 'heavy'."),
+    (7, None, "'I cope with any difficult task.' Elena's spravlyayus describes what she does as a rule, rather than one future success. After s again, zadacha, 'task', becomes zadachey."),
+    (8, None, "'At Claude Monet restaurant it is very hard.' With no subject at all, ochen tyazhelo means 'it is very hard'. Inside a place, restoran gets -e: v restorane."),
+    (9, None, "'I am not afraid of hard work, chef!' Fear in Russian takes the 'of' form, so rabota becomes raboty: ne boyus tyazholoy raboty. She repeats his own word for 'hard', tyazholyy, and shrugs it off."),
+    (10, None, "'You do not understand our male rules.' After ne, the object can slip into the 'of' form: nashikh muzhskikh pravil rather than nashi muzhskiye pravila. The word muzhskoy, 'male', is related to muzh, 'husband'."),
+    (11, None, "'The rules in the kitchen are the same for everyone.' The short plural odinakovy, 'the same', matches pravila, 'rules'. In dlya vsekh, 'for everyone', vse changes to vsekh after dlya."),
+    (12, None, "'Then prove it in deed, Elena!' With vy, dokazat, 'to prove', becomes the command dokazhite. The set phrase na dele, literally 'in the deed', means 'in practice', as opposed to talk."),
 ]

@@ -28,7 +28,7 @@
           "pos": "verb",
           "stress": "была́",
           "gloss": "was",
-          "gram": "past, feminine singular (agrees with комната)"
+          "gram": "past, feminine singular (agrees with идея)"
         },
         {
           "t": "твоя",
@@ -328,23 +328,23 @@
     },
     {
       "seg": 7,
-      "trans": "She lost the bet and will work the shift honestly.",
+      "trans": "She proposed the bet and will work the shift honestly.",
       "words": [
         {
           "t": "Она",
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she",
           "gram": "nominative, feminine"
         },
         {
-          "t": "проиграла",
-          "lemma": "проиграть",
+          "t": "предложила",
+          "lemma": "предложить",
           "pos": "verb",
-          "stress": "проигра́ла",
-          "gloss": "lost",
-          "gram": "past feminine singular"
+          "stress": "предложи́ла",
+          "gloss": "proposed, suggested",
+          "gram": "past feminine singular, perfective"
         },
         {
           "t": "спор",
@@ -784,7 +784,7 @@
           "pos": "verb",
           "stress": "была́",
           "gloss": "was",
-          "gram": "past, feminine singular (agrees with комната)"
+          "gram": "past, feminine singular (agrees with идея)"
         },
         {
           "t": "твоя",
@@ -1084,23 +1084,23 @@
     },
     {
       "seg": 28,
-      "trans": "She lost the bet and will work the shift honestly.",
+      "trans": "She proposed the bet and will work the shift honestly.",
       "words": [
         {
           "t": "Она",
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she",
           "gram": "nominative, feminine"
         },
         {
-          "t": "проиграла",
-          "lemma": "проиграть",
+          "t": "предложила",
+          "lemma": "предложить",
           "pos": "verb",
-          "stress": "проигра́ла",
-          "gloss": "lost",
-          "gram": "past feminine singular"
+          "stress": "предложи́ла",
+          "gloss": "proposed, suggested",
+          "gram": "past feminine singular, perfective"
         },
         {
           "t": "спор",
@@ -1540,7 +1540,7 @@
           "pos": "verb",
           "stress": "была́",
           "gloss": "was",
-          "gram": "past, feminine singular (agrees with комната)"
+          "gram": "past, feminine singular (agrees with идея)"
         },
         {
           "t": "твоя",
@@ -1840,23 +1840,23 @@
     },
     {
       "seg": 50,
-      "trans": "She lost the bet and will work the shift honestly.",
+      "trans": "She proposed the bet and will work the shift honestly.",
       "words": [
         {
           "t": "Она",
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she",
           "gram": "nominative, feminine"
         },
         {
-          "t": "проиграла",
-          "lemma": "проиграть",
+          "t": "предложила",
+          "lemma": "предложить",
           "pos": "verb",
-          "stress": "проигра́ла",
-          "gloss": "lost",
-          "gram": "past feminine singular"
+          "stress": "предложи́ла",
+          "gloss": "proposed, suggested",
+          "gram": "past feminine singular, perfective"
         },
         {
           "t": "спор",
@@ -5314,6 +5314,106 @@
         }
       ]
     },
+    "предложить": {
+      "lemma": "предложить",
+      "stress": "предложи́ть",
+      "pos": "verb",
+      "gloss": "to offer, to suggest",
+      "aspect": "pf",
+      "pair": "предлагать",
+      "meanings": [
+        {
+          "en": "to offer",
+          "note": "Prefix 'пред-' ('before, fore-') indicates anticipation or prior position (stem 'ложить'). Used as an perfective (single completed action) verb meaning 'to offer, to suggest', paired with 'предлагать'."
+        },
+        {
+          "en": "to suggest",
+          "note": "Prefix 'пред-' ('before, fore-') indicates anticipation or prior position (stem 'ложить'). Used as an perfective (single completed action) verb meaning 'to offer, to suggest', paired with 'предлагать'."
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "предложу",
+              "предложим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "предложишь",
+              "предложите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "предложит",
+              "предложат"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "предложил",
+                "предложила",
+                "предложило",
+                "предложили"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Тебе же предложили работу.",
+          "trans": "But you were offered a job."
+        },
+        {
+          "text": "Он предложил кофе.",
+          "trans": "He offered coffee."
+        },
+        {
+          "text": "Тебе же предложили работу. Что, плохая работа?",
+          "trans": "But you were offered a job. What, is it a bad job?"
+        }
+      ],
+      "related": [
+        {
+          "word": "предлагать",
+          "gloss": "to suggest"
+        },
+        {
+          "word": "положительный",
+          "gloss": "positive"
+        },
+        {
+          "word": "заложить",
+          "gloss": "to lay"
+        }
+      ]
+    },
     "привести": {
       "lemma": "привести",
       "stress": "привести́",
@@ -5424,119 +5524,6 @@
         {
           "word": "перевести",
           "gloss": "to transfer"
-        }
-      ]
-    },
-    "проиграть": {
-      "lemma": "проиграть",
-      "stress": "проигра́ть",
-      "pos": "verb",
-      "gloss": "to lose (a game, money)",
-      "aspect": "pf",
-      "pair": "проигрывать",
-      "meanings": [
-        {
-          "en": "to lose",
-          "note": "money, a game, a bet, or an election"
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "проиграю",
-              "проиграем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "проиграешь",
-              "проиграете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "проиграет",
-              "проиграют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "проиграл",
-                "проиграла",
-                "проиграло",
-                "проиграли"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "проиграй",
-                "проиграйте"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Я их на бирже проиграл.",
-          "trans": "I lost it on the stock exchange."
-        },
-        {
-          "text": "Наша команда проиграла.",
-          "trans": "Our team lost."
-        },
-        {
-          "text": "Денег нет, Самсон. Я их на бирже проиграл.",
-          "trans": "There is no money, Samson. I lost it on the stock exchange."
-        }
-      ],
-      "related": [
-        {
-          "word": "проигрывать",
-          "gloss": "to lose"
-        },
-        {
-          "word": "выиграть",
-          "gloss": "to win"
-        },
-        {
-          "word": "поиграть",
-          "gloss": "to play for a while"
         }
       ]
     },

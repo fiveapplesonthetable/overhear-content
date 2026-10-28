@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "In the dining room near the bar counter, art director Victoria notices bartender Kostya finishing up his drink preparations. Having watched Max quickly slip away from the bar area, Victoria approaches Kostya to check if everything is ready and see what is going on. Let's listen to their conversation in Russian first."
-OPENER = "Let's examine the conversation between Victoria and the bartender at the counter line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Now you know how to talk about finished tasks, suspicious behavior, and honest answers in Russian. See you next time!'
+INTRO = "Max has fled, and Vika wants to know why. She walks up to the bar and questions Kostya, who is Max's best friend and a poor liar. See what you can catch."
+OPENER = "Here's what is going on, line by line."
+TRANSITION = 'Now you can hear it all again.'
+OUTRO = 'Kostya has told her nothing, and Vika decides to ask Max herself. Kostya advises against it, with little hope. Until the next scene.'
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('vika', 'Костя, ты закончил готовить напитки?', 'Kostya, have you finished preparing the drinks?', [(87, 'Все')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('kostya', 'Лучше сейчас не трогать его, Вика.', 'It is better not to disturb him right now, Vika.', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, have you finished preparing the drinks?' Vika checks if the drinks are ready."),
-    (1, None, "'Yes, all orders are already ready.' Kostya confirms the completion of all orders."),
-    (2, None, "'Why did Max run away from here so quickly?' Vika asks why he left so fast."),
-    (3, None, "'He was simply in a big hurry to get to the kitchen.' Kostya explains his friend was in a rush."),
-    (4, None, "'It seems to me that he is behaving strangely.' Vika notes his odd behavior lately."),
-    (5, None, "'Max is always a slightly strange guy.' Kostya brushes it off as normal behavior."),
-    (6, None, "'Did he not say anything to you about me?' Vika probes for any conversations about herself."),
-    (7, None, "'We spoke only about our work.' Kostya insists they only discussed work."),
-    (8, None, "'Are you definitely telling me the pure truth?' Vika doubts his honesty."),
-    (9, None, "'Of course, I never deceive you.' Kostya swears he would never lie."),
-    (10, None, "'Fine, then I will ask him myself.' Vika decides to investigate on her own."),
-    (11, None, "'It is better not to disturb him right now, Vika.' Kostya warns her against bothering him now."),
+    (0, None, '\'Kostya, have you finished preparing the drinks?\' "Zakonchil", "finished", is the word Max used for whipping the cream. "Napitki", "drinks", grows from "pit", "to drink". Vika starts with a work question.'),
+    (1, None, '\'Yes, all orders are already ready.\' "Gotovy", "ready", has the plural -y to match "zakazy", "orders". "Zakaz" is a restaurant order, not a command. Kostya answers fast, perhaps too fast.'),
+    (2, None, '\'Why did Max run away from here so quickly?\' "Ubezhal" is "ran away", with the u- of "away". "Otsyuda", "from here", is one word, one of a trio with "zdes", "here", and "syuda", "to here".'),
+    (3, None, '\'He was simply in a big hurry to get to the kitchen.\' "Speshil" is "was hurrying". "Na kukhnyu" is "to the kitchen": "kukhnya" becomes "kukhnyu" when you\'re heading there. Kostya\'s excuse sounds more like a lie than the truth.'),
+    (4, None, '\'It seems to me that he is behaving strangely.\' "Mne kazhetsya", "to me it seems", is the pattern you\'ve heard. "Sebya vedyot" is "leads himself", the behave word from the dining room scene. "Stranno" is "strangely".'),
+    (5, None, '\'Max is always a slightly strange guy.\' "Paren", "guy", is casual, the way English says "bloke". "Strannyy" is "strange", and "nemnogo" is "a bit". Kostya tries to turn the oddness into a fact about Max.'),
+    (6, None, '\'Did he not say anything to you about me?\' "Obo mne" is "about me": "o" grows to "obo" before "mne", to make the cluster easier to say. "Nichego ne govoril" is "nothing not said". Vika has a pretty good guess.'),
+    (7, None, '\'We spoke only about our work.\' "Tolko" is "only". "O nashey rabote" is "about our work": after "o", "rabota" becomes "rabote". Kostya sounds like a witness who has rehearsed his statement.'),
+    (8, None, '\'Are you definitely telling me the pure truth?\' Russian says "chistaya pravda", "clean truth", for the plain truth. "Pravda" is the base of "nepravda", "not true", from the chocolate scene. Vika presses.'),
+    (9, None, '\'Of course, I never deceive you.\' "Nikogda ... ne", "never not", is the double negative Russian requires. "Obmanyvayu" is "I deceive", a strong word. Kostya says it solemnly, and the lie is plain.'),
+    (10, None, '\'Fine, then I will ask him myself.\' Russian has two words for "ask". "Sprosit" is to ask a question, as here; "prosit" is to ask for something, as in "prosila peredat". "Sama" is "myself" for a woman.'),
+    (11, None, '\'It is better not to disturb him right now, Vika.\' "Ne trogat ego", "not to touch him", is the Russian for "leave him alone". "Luchshe" is "better". Kostya gives a last, feeble piece of advice.'),
 ]

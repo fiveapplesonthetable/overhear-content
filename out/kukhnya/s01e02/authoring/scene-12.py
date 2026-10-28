@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
-INTRO = "Furious that someone took his prized Japanese chef's knife and served an unauthorized dish, Viktor Barinov storms back into the kitchen. Confronting cooks Senya and Fedya, Barinov maliciously lies that the rival chef found their fricassee utterly revolting, triggering a frantic blame game between the panicked staff. Let's listen in Russian first."
-OPENER = "Let's replay a few lines to examine key phrases and vocabulary."
+INTRO = 'Elena has told Barinov the fricassee was fine, and the chef marches back to the kitchen anyway, furious that his knife is gone and his kitchen has been used without him. He lies about what the guest said, and Senya and Fedya start to blame each other. Here it is in Russian first.'
+OPENER = "Let's hear the blame game again."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Senya and Fedya scurry away as Barinov stands alone fuming in the kitchen. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'fast' — you will catch every word right away. See you next time!"
+OUTRO = 'Barinov sends them all out, and he is still fuming when they go. The phrase to keep is "khvatit", which means "enough".'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Вы украли мой любимый японский нож!', 'You stole my favorite Japanese knife!', [(169, 'нож мой сперли')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('barinov', 'Убирайтесь с моей кухни прямо сейчас!', 'Get out of my kitchen right now!', [], ''),
 ]
 WALK = [
-    (0, None, "'And all of you get out of here quickly!' Chef Barinov bellows, clearing the line in fury."),
-    (1, None, "'Chef, we were only trying to help!' Senya tries to explain they were only trying to help."),
-    (2, None, "'She said that it was disgusting!' Barinov lies gleefully to terrify his subordinate cooks."),
-    (3, None, "'Chef, I told them right away!' Senya exclaims, instantly throwing his fellow cooks under the bus."),
+    (0, None, '\'You stole my favorite Japanese knife!\' "Ukrali" is "stole", from "krast\'", to steal, with "u-", away, at the front. It ends in -li because the chef is accusing several people.'),
+    (1, None, '\'And you completely ruined my dish!\' "Isportili" is "spoiled", the finished form of "portit\'". "Sovershenno", completely, is related to "sovershennyy", perfect.'),
+    (2, None, '\'And all of you get out of here quickly!\' "Vyshli" is a past "went out", but the chef barks it as an order. Russians sometimes do that when they want something done right now. "Otsyuda" is "from here".'),
+    (3, None, '\'Chef, we were only trying to help!\' "My khoteli kak luchshe" is "we wanted as better". It\'s the stock excuse when good intentions go wrong.'),
+    (4, None, '\'I do not care what you were trying to do!\' "Mne plevat\'" is "to me to spit", a rude "I couldn\'t care less". Then "chego vy tam khoteli", "what you there wanted".'),
+    (5, None, '\'Do you know what the guest said about the fricassee?\' A rising voice turns "znayete", "you know", into a question. "Gost\'ya" is the feminine of "gost\'", guest, and "pro" is a casual "about".'),
+    (6, None, '\'Was she completely delighted?\' "V polnom vostorge", "in full delight", is a phrase worth keeping. "Byla", was, ends in -a for a woman.'),
+    (7, None, '\'She said that it was disgusting!\' "Otvratitel\'no", disgusting, ends in -o to match "ono", the fricassee. The "that" is "chto", the same word as "what".'),
+    (8, None, '\'Chef, I told them right away!\' "Im" is "to them", and "srazu" is "right away". Senya now claims he warned everyone.'),
+    (9, None, '\'It was Senya who made that terrible sauce!\' "Eto Senya gotovil" is "this Senya cooked", a handy way to point at who did it. "Uzhasnyy", terrible, comes from "uzhas", horror.'),
+    (10, None, '\'No, Fedya roasted that partridge himself!\' "Sam", himself, is the word for passing the blame. "Zharil", roasted, comes from "zhar", heat, and "kuropatka" becomes "kuropatku" as the thing roasted.'),
+    (11, None, '\'Stop arguing! You are all terrible cooks!\' "Khvatit" is "enough", or "it suffices". "Povara", cooks, makes its plural with -a, like "doma", houses.'),
+    (12, None, '\'Get out of my kitchen right now!\' "Ubiraytes\'" is "take yourselves away", a rude "clear off". In "s moyey kukhni", "off my kitchen", "s" is the "from" that goes with "na" places.'),
 ]

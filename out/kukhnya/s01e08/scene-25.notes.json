@@ -736,8 +736,40 @@
     },
     {
       "seg": 16,
-      "trans": "What is this?",
+      "trans": "Vika, look at me. What is this?",
       "words": [
+        {
+          "t": "Вика,",
+          "lemma": "вика",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Vika",
+          "gram": "short for Виктория, used as address"
+        },
+        {
+          "t": "посмотри",
+          "lemma": "посмотреть",
+          "pos": "verb",
+          "stress": "посмотри́",
+          "gloss": "look",
+          "gram": "imperative, 2nd person singular, perfective"
+        },
+        {
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "on, onto",
+          "gram": "preposition"
+        },
+        {
+          "t": "меня.",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": "меня́",
+          "gloss": "me",
+          "gram": "1st person singular, genitive"
+        },
         {
           "t": "Это",
           "lemma": "это",
@@ -858,6 +890,60 @@
     },
     {
       "seg": 22,
+      "trans": "Why do you need a dog of the same breed?",
+      "words": [
+        {
+          "t": "Зачем",
+          "lemma": "зачем",
+          "pos": "adv",
+          "stress": "заче́м",
+          "gloss": "what for",
+          "gram": "question word (purpose)"
+        },
+        {
+          "t": "тебе",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебе́",
+          "gloss": "for you, to you",
+          "gram": "2nd person singular, dative"
+        },
+        {
+          "t": "собака",
+          "lemma": "собака",
+          "pos": "noun",
+          "stress": "соба́ка",
+          "gloss": "dog",
+          "gram": "nominative singular, feminine"
+        },
+        {
+          "t": "такой",
+          "lemma": "такой",
+          "pos": "pron",
+          "stress": "тако́й",
+          "gloss": "such, so",
+          "gram": "masculine, nominative singular"
+        },
+        {
+          "t": "же",
+          "lemma": "же",
+          "pos": "part",
+          "stress": null,
+          "gloss": "but, after all",
+          "gram": "emphatic particle"
+        },
+        {
+          "t": "породы?",
+          "lemma": "порода",
+          "pos": "noun",
+          "stress": "поро́ды",
+          "gloss": "breed",
+          "gram": "nominative / accusative"
+        }
+      ]
+    },
+    {
+      "seg": 24,
       "trans": "I just really liked your Dyson.",
       "words": [
         {
@@ -911,7 +997,7 @@
       ]
     },
     {
-      "seg": 24,
+      "seg": 26,
       "trans": "I could not resist and bought a puppy.",
       "words": [
         {
@@ -965,7 +1051,53 @@
       ]
     },
     {
-      "seg": 26,
+      "seg": 28,
+      "trans": "But they are completely identical!",
+      "words": [
+        {
+          "t": "Но",
+          "lemma": "но",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "они",
+          "lemma": "они",
+          "pos": "pron",
+          "stress": "они́",
+          "gloss": "they",
+          "gram": "3rd person plural, nominative"
+        },
+        {
+          "t": "же",
+          "lemma": "же",
+          "pos": "part",
+          "stress": null,
+          "gloss": "but, after all",
+          "gram": "emphatic particle"
+        },
+        {
+          "t": "совершенно",
+          "lemma": "совершенно",
+          "pos": "adv",
+          "stress": "соверше́нно",
+          "gloss": "quite, completely",
+          "gram": "adverb"
+        },
+        {
+          "t": "одинаковые!",
+          "lemma": "одинаковый",
+          "pos": "adj",
+          "stress": "одина́ковые",
+          "gloss": "the same, alike",
+          "gram": "plural, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 30,
       "trans": "Sorry, I still mix them up.",
       "words": [
         {
@@ -1027,7 +1159,7 @@
       ]
     },
     {
-      "seg": 28,
+      "seg": 32,
       "trans": "It seems this one is yours, and this one is mine.",
       "words": [
         {
@@ -1097,7 +1229,7 @@
       ]
     },
     {
-      "seg": 30,
+      "seg": 34,
       "trans": "Vika, what is your dog's name?",
       "words": [
         {
@@ -1151,9 +1283,17 @@
       ]
     },
     {
-      "seg": 32,
-      "trans": "His name is Maxik!",
+      "seg": 36,
+      "trans": "Mine? His name is Maxik!",
       "words": [
+        {
+          "t": "Моего?",
+          "lemma": "мой",
+          "pos": "det",
+          "stress": "моего́",
+          "gloss": "of my",
+          "gram": "genitive singular, neuter"
+        },
         {
           "t": "Его",
           "lemma": "он",
@@ -1181,9 +1321,79 @@
       ]
     },
     {
-      "seg": 34,
-      "trans": "Oh, Shih Tzu!",
+      "seg": 38,
+      "trans": "And what breed is this dog?",
       "words": [
+        {
+          "t": "А",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "какая",
+          "lemma": "какой",
+          "pos": "det",
+          "stress": "кака́я",
+          "gloss": "what, which",
+          "gram": "nominative, feminine singular"
+        },
+        {
+          "t": "порода",
+          "lemma": "порода",
+          "pos": "noun",
+          "stress": "поро́да",
+          "gloss": "breed",
+          "gram": "feminine singular nominative"
+        },
+        {
+          "t": "у",
+          "lemma": "у",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
+        },
+        {
+          "t": "этой",
+          "lemma": "этот",
+          "pos": "det",
+          "stress": "э́той",
+          "gloss": "this",
+          "gram": "genitive, feminine singular"
+        },
+        {
+          "t": "собаки?",
+          "lemma": "собака",
+          "pos": "noun",
+          "stress": "соба́ки",
+          "gloss": "dog",
+          "gram": "nominative / accusative"
+        }
+      ]
+    },
+    {
+      "seg": 40,
+      "trans": "Breed sushi... Oh, Shih Tzu!",
+      "words": [
+        {
+          "t": "Порода",
+          "lemma": "порода",
+          "pos": "noun",
+          "stress": "поро́да",
+          "gloss": "breed",
+          "gram": "feminine singular nominative"
+        },
+        {
+          "t": "суши...",
+          "lemma": "суши",
+          "pos": "noun",
+          "stress": "су́ши",
+          "gloss": "sushi",
+          "gram": "nominative / accusative"
+        },
         {
           "t": "Ой,",
           "lemma": "ой",
@@ -1203,8 +1413,8 @@
       ]
     },
     {
-      "seg": 36,
-      "trans": "Just like your dog.",
+      "seg": 42,
+      "trans": "Just like your dog. I will go!",
       "words": [
         {
           "t": "Как",
@@ -1237,11 +1447,27 @@
           "stress": "соба́ка",
           "gloss": "dog",
           "gram": "nominative singular, feminine"
+        },
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "пойду!",
+          "lemma": "пойти",
+          "pos": "verb",
+          "stress": "пойду́",
+          "gloss": "(I'll) go",
+          "gram": "future, 1st person singular, perfective"
         }
       ]
     },
     {
-      "seg": 38,
+      "seg": 44,
       "trans": "Vika, look at me. What is this?",
       "words": [
         {
@@ -1303,7 +1529,7 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 45,
       "trans": "Chef, this is my new little dog!",
       "words": [
         {
@@ -1349,7 +1575,7 @@
       ]
     },
     {
-      "seg": 40,
+      "seg": 46,
       "trans": "I bought her this morning.",
       "words": [
         {
@@ -1395,7 +1621,7 @@
       ]
     },
     {
-      "seg": 41,
+      "seg": 47,
       "trans": "Why do you need a dog of the same breed?",
       "words": [
         {
@@ -1449,7 +1675,7 @@
       ]
     },
     {
-      "seg": 42,
+      "seg": 48,
       "trans": "I just really liked your Dyson.",
       "words": [
         {
@@ -1503,7 +1729,7 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 49,
       "trans": "I could not resist and bought a puppy.",
       "words": [
         {
@@ -1557,7 +1783,7 @@
       ]
     },
     {
-      "seg": 44,
+      "seg": 50,
       "trans": "But they are completely identical!",
       "words": [
         {
@@ -1603,7 +1829,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 51,
       "trans": "Sorry, I still mix them up.",
       "words": [
         {
@@ -1665,7 +1891,7 @@
       ]
     },
     {
-      "seg": 46,
+      "seg": 52,
       "trans": "It seems this one is yours, and this one is mine.",
       "words": [
         {
@@ -1735,7 +1961,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 53,
       "trans": "Vika, what is your dog's name?",
       "words": [
         {
@@ -1789,7 +2015,7 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 54,
       "trans": "Mine? His name is Maxik!",
       "words": [
         {
@@ -1827,7 +2053,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 55,
       "trans": "And what breed is this dog?",
       "words": [
         {
@@ -1881,7 +2107,7 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 56,
       "trans": "Breed sushi... Oh, Shih Tzu!",
       "words": [
         {
@@ -1919,7 +2145,7 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 57,
       "trans": "Just like your dog. I will go!",
       "words": [
         {
@@ -1973,7 +2199,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 59,
       "trans": "Bye!",
       "words": [
         {

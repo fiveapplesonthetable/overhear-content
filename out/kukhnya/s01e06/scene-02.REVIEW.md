@@ -12,9 +12,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Шеф | Огузок, посмотри на эту тарелку. | Oguzok, look at this plate. | new | new |
 | 2 | Макс | Шеф, это блюдо уже готово? | Chef, is this dish already ready? | new | new |
-| 3 | Шеф | Осталось главное: украсить его зеленью. | The main thing remains: to garnish it with herbs. | #4: Его украшают | verbatim |
+| 3 | Шеф | Осталось главное: украсить его зеленью. | The main thing remains: to garnish it with herbs. | #4 00:00:30: Его украшают | verbatim |
 | 4 | Макс | Каждая деталь имеет важное значение. | Every detail has important meaning. | new | new |
-| 5 | Шеф | Еда обязана выглядеть красиво и аппетитно. | Food is obliged to look beautiful and appetizing. | #4: украшают | verbatim |
+| 5 | Шеф | Еда обязана выглядеть красиво и аппетитно. | Food is obliged to look beautiful and appetizing. | #4 00:00:30: украшают | verbatim |
 | 6 | Макс | Положим сюда свежую зелень? | Shall we put fresh herbs here? | new | new |
 | 7 | Шеф | Аккуратно! Не испорти дорогую подачу. | Carefully! Do not ruin the expensive presentation. | new | new |
 | 8 | Макс | Я делаю всё очень аккуратно, шеф. | I do everything very carefully, chef. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oguzok, look at this plate.' Calling out across the pass, Barinov commands his trainee to closely inspect the dish.
-- 'Chef, is this dish already ready?' Max asks if the hot plate is fully finished and ready to serve.
-- 'The main thing remains: to garnish it with herbs.' Firmly, Barinov insists that the presentation is incomplete without the final green touch.
-- 'Every detail has important meaning.' Hoping to impress, Max tries to show he understands the high culinary standards.
-- 'Food is obliged to look beautiful and appetizing.' Barinov preaches about the absolute necessity of visual appeal in high-end dining.
-- 'Shall we put fresh herbs here?' Holding a sprig, Max tentatively asks for guidance on placing the garnish.
-- 'Carefully! Do not ruin the expensive presentation.' Loudly, Barinov barks a warning not to mess up the delicate arrangement.
-- 'I do everything very carefully, chef.' Max nervously defends his careful handling of the delicate ingredients.
-- 'Beautiful presentation is very important for guests.' He reiterates his philosophy, Barinov states that visual aesthetics make a huge difference.
-- 'The waiters are already waiting in the kitchen.' Glancing backward, Max points out that the service staff is hovering and ready to carry the food.
-- 'Call the waiter, let them carry the order.' Barinov gives the green light to dispatch the meal to the customer.
-- 'Sasha, take the ready hot dish!' Max calls out to the waitress to grab the plate while it is still steaming.
-- 'Great, we continue working further.' Immediately pivoting, Barinov focuses the kitchen on the next ticket.
+- 'Oguzok, look at this plate.' Barinov uses his nickname for Max before anything else. "Tarelka", plate, becomes "tarelku" because it's the thing being looked at.
+- 'Chef, is this dish already ready?' No 'is', no 'do': the voice rises and that makes it a question. "Gotovo", ready, ends in -o to match "blyudo".
+- 'The main thing remains: to garnish it with herbs.' "Ukrasit", to decorate, shares a root with "krasivyy", beautiful. "Zelen", greens, becomes "zelenyu", and that ending alone says 'with', as in 'using'.
+- 'Every detail has important meaning.' "Detal", detail, ends in a soft sign and is a feminine word, which is why 'every' is "kazhdaya" here. "Imet znachenie", to have meaning, is a stiff way of saying 'it matters'.
+- 'Food is obliged to look beautiful and appetizing.' "Eda", food, is feminine, so 'obliged' comes out as "obyazana". Russian food looks "krasivo", 'beautifully', with the -o of a how-word.
+- 'Shall we put fresh herbs here?' "Polozhim" is 'we'll put', and as a question it works like 'shall we put'. "Syuda" means 'to here', because putting something is a movement.
+- 'Carefully! Do not ruin the expensive presentation.' "Ne isporti" is the warning 'don't go and spoil it'. "Dorogoy" means both 'expensive' and 'dear', so the plate is precious either way.
+- 'I do everything very carefully, chef.' "Delayu", I do, has the -yu ending for 'I'. Max hands Barinov's own word back to him, "akkuratno", carefully.
+- 'Beautiful presentation is very important for guests.' "Podacha", presentation, comes from "podavat", to serve. "Vazhna", important, ends in -a to agree with it.
+- 'The waiters are already waiting in the kitchen.' "Zhdut", they wait, is from "zhdat", with the -ut ending for 'they'. "Na kukhne" again: the kitchen is a place you're 'on'.
+- 'Call the waiter, let them carry the order.' "Pust" is 'let', and you put it before any verb to mean 'let them do it'. "Nesut", they carry, is from "nesti", carrying something in your hands as you go.
+- 'Sasha, take the ready hot dish!' "Zaberi", take it away, is the command 'take' with za- in front, the sense of collecting something. On a menu, "goryachee" alone means the hot main courses.
+- 'Great, we continue working further.' "Otlichno" is also the top school grade, so it's a real 'excellent'. "Prodolzhaem rabotat" is literally 'we continue to work'.

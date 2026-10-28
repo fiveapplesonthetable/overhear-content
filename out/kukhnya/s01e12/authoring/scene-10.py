@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = "Chef Barinov is outraged to find a hookah in the dining room of his traditional French restaurant. Victoria argues that modern dining requires staying ahead of trends, sparking a fierce debate about the future of Claude Monet. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the traditional versus modern debate, culinary culture clashes, and management disputes."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Victoria stands her ground as Viktor prepares to take the fight to the restaurant owner. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to appear' and 'forward' — you will catch every word right away. See you next time!"
+INTRO = 'Barinov has found a hookah in the dining room of his French restaurant, and he is not happy. Vika thinks the place has to move with the times. The argument, in Russian first.'
+OPENER = "Let's hear how each of them argues, one line at a time."
+TRANSITION = 'And now the argument at full length.'
+OUTRO = "Barinov decides to call the owner, and Vika is sure the owner will take her side. Listen for 'davay' at the very start: here it's a sarcastic 'let's'. Catch you next time."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('barinov', 'Давай ещё стену в туалете уберём!', 'Let us also remove the wall in the toilet!', [(78, 'Давай стеклянную стенку в туалете поставим')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('vika', 'Звони, хозяин полностью поддержит этот новый план.', 'Call, the owner will fully support this new plan.', [(88, 'Пожалуйста, пожалуйста')], ''),
 ]
 WALK = [
-    (0, None, "'Let us also remove the wall in the toilet!' Barinov sarcastically suggests they take down the bathroom walls too."),
-    (1, None, "'Stop foolishly joking, this is an excellent idea.' Vika tells him to stop making silly jokes. She thinks the open kitchen is great."),
-    (2, None, "'Where did this strange hookah come from here?' Barinov is confused about why there is a hookah in the restaurant."),
-    (3, None, "'Hookah has long become part of French culture.' Vika claims that smoking hookah is now totally normal in France."),
-    (4, None, "'We are a French restaurant, not a noisy bar!' Barinov points out they run a classy place, not a loud bar."),
-    (5, None, "'Vitya, do not shout, our restaurant is changing.' Vika asks him to stop yelling and accept the changes."),
-    (6, None, "'Why change what is already working excellently?' Barinov wonders why they need to fix something that is not broken."),
-    (7, None, "'Life requires moving forward and fresh ideas.' Vika says you always need fresh ideas to keep moving forward."),
-    (8, None, "'I will not allow ruining my dear kitchen!' Barinov vows to protect his beloved kitchen from being ruined."),
-    (9, None, "'You promised me complete freedom in the hall yourself.' Vika reminds him that he gave her control over the dining area."),
-    (10, None, "'That is it, I am calling Nagiyev right now!' Barinov threatens to call the owner to settle the argument."),
-    (11, None, "'Call, the owner will fully support this new plan.' Vika tells him to go ahead because the owner will agree with her."),
+    (0, None, "'Let us also remove the wall in the toilet!' 'Davay' means 'let's', and literally 'give'. 'Eshchyo' means 'also' here, and the sarcasm is that he suggests removing every wall."),
+    (1, None, "'Stop foolishly joking, this is an excellent idea.' 'Perestan' is 'stop', and it's followed by the action in its basic shape, 'to joke'. 'Glupo' means 'foolishly', and 'otlichnaya' is 'excellent'."),
+    (2, None, "'Where did this strange hookah come from here?' 'Otkuda' means 'from where'. 'Vzyalsya' is a nice word: it's 'took itself', and it's what Russians say when something just appeared."),
+    (3, None, "'Hookah has long become part of French culture.' 'Davno' means 'long ago', and 'stal' is 'became'. 'Chastyu' is 'part' in the form it takes after 'became', and 'frantsuzskoy' means 'French'."),
+    (4, None, "'We are a French restaurant, not a noisy bar!' Again, no 'are': it's literally 'we French restaurant'. 'Shumny' is 'noisy', from 'shum', noise."),
+    (5, None, "'Vitya, do not shout, our restaurant is changing.' 'Ne krichi' is 'don't shout': ne in front of the ty order krichi. 'Menyaetsya' ends in 'sya', so the restaurant is literally 'changing itself'."),
+    (6, None, "'Why change what is already working excellently?' Word for word it runs 'that which already excellently works'. 'To, chto', 'that which', is how Russian says 'what' in the middle of a sentence."),
+    (7, None, "'Life requires moving forward and fresh ideas.' 'Trebuet' means 'demands', and what is demanded takes the 'of' endings: dvizheniya, 'of movement', and svezhikh idey, 'of fresh ideas'."),
+    (8, None, "'I will not allow ruining my dear kitchen!' 'Ne pozvolyu' is 'I won't allow'. 'Dorogoy' means 'dear' and 'expensive', and here Barinov means 'dear to me'."),
+    (9, None, "'You promised me complete freedom in the hall yourself.' 'Sam' means 'yourself' or 'personally', and it pins the blame on him. 'Obeshchal' is 'promised', and svoboda, 'freedom', becomes svobodu as the thing promised."),
+    (10, None, "'That is it, I am calling Nagiyev right now!' 'Vsyo' on its own means 'that's it', like a door shutting. 'Zvonyu' is 'I call', and Nagiyev takes an 'u' ending because the call is to him."),
+    (11, None, "'Call, the owner will fully support this new plan.' 'Zvoni' is the order 'call!'. 'Polnostyu' means 'fully', and 'podderzhit' is 'will support'."),
 ]

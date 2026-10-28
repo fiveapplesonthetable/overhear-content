@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Backstage at the television studio of a morning culinary program, restaurant owner Dmitry Nagiev corners Chef Viktor Barinov. Barinov grumbles that he is a professional cook rather than a television star, but Nagiev insists that as the face of Claude Monet, he must represent the establishment on air. Let's listen to their backstage argument in Russian first."
-OPENER = "Now let's examine Barinov and Nagiev's backstage argument line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With seconds to spare before the live broadcast begins, Chef Barinov steps out under the studio lights ready to defend his restaurant's prestige against rival chef Elena Sokolova. Next time you watch the episode, listen for the Russian expressions for 'actor' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "This is Kukhnya, which means The Kitchen: a Russian comedy set in Claude Monet, a smart Moscow restaurant where the head chef, Viktor Barinov, rules with a loud voice. In episode eight the restaurant's owner, Dmitry Nagiyev, has brought Barinov to a television studio for a live cooking show. The chef would rather be at his own stove, and then he hears that his rival is on the programme too. It comes first in Russian, and it's fine if you miss a few words."
+OPENER = "Let's take it again slowly. Nagiyev is smooth, and Barinov keeps looking for a way out."
+TRANSITION = "Here's the whole conversation once more, at full speed."
+OUTRO = "Barinov's line moyo mesto u plity, 'my place is at the stove', suits anyone who'd rather stay in their own corner. And pryamoy efir, 'live broadcast', is what you'll see in the corner of a Russian TV screen during a live show. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Дима, зачем ты позвал меня сюда?', 'Dima, why did you call me here?', [(1, 'Дим, ну в каком хрен я здесь')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Прямой эфир начинается прямо сейчас.', 'Live broadcast begins right now.', [(19, 'Итак, мы начинаем')], ''),
 ]
 WALK = [
-    (0, None, "'Dima, why did you call me here?' Barinov uses the owner's informal nickname. He is annoyed to be dragged out of his kitchen."),
-    (1, None, "'You will perform on television, Viktor.' Nagiyev drops the big news casually. He expects the chef to be thrilled about the exposure."),
-    (2, None, "'I am a head chef, not a famous actor!' Barinov immediately rejects the idea. He hates the thought of performing for a camera."),
-    (3, None, "'You are the main face of our expensive restaurant.' Nagiyev tries to flatter him into compliance. He reminds Viktor that he represents their luxury brand."),
-    (4, None, "'My place is in the kitchen at the stove.' Barinov stubbornly defends his professional territory. He believes a cook belongs behind the scenes."),
-    (5, None, "'The viewers want to see a real chef.' Nagiyev explains the marketing strategy. He needs Viktor's authentic grumpy persona for the show."),
-    (6, None, "'Let me go back to Claude Monet.' Barinov begs to be released from this PR stunt. He just wants to return to his comfortable domain."),
-    (7, None, "'Stop arguing and go forward.' Nagiyev physically pushes him toward the stage. He leaves the chef no room for debate."),
-    (8, None, "'Will that Sokolova perform there?' Barinov suddenly stops when he hears his rival's name. His competitive instincts flare up instantly."),
-    (9, None, "'Yes, Elena Sokolova from Arcobaleno restaurant.' Nagiyev confirms the presence of the other head chef. He knows this will motivate Viktor better than anything else."),
-    (10, None, "'I will prove my high caliber to everyone.' Barinov changes his tune completely. He is now determined to crush his competitor on live television."),
-    (11, None, "'Now that is a great attitude, chef!' Nagiyev celebrates his successful manipulation. He is pleased to see the chef finally fired up."),
-    (12, None, "'Live broadcast begins right now.' Barinov prepares himself for the cameras. He marches onto the stage ready for a fight."),
+    (0, None, "'Dima, why did you call me here?' Barinov calls him Dima, the friendly short form of Dmitry, which tells you how close the two men are. The word pozval, 'you called', also covers 'you invited', as when someone asks you over."),
+    (1, None, "'You will perform on television, Viktor.' Here budesh vystupat means 'you will be performing': budu, budesh and the rest, put before vystupat, talk about an activity that will go on for a while. On television is na televidenii, with -ii for the place."),
+    (2, None, "'I am a head chef, not a famous actor!' Russian builds 'X, not Y' with the little word a: shef-povar, a ne akter. The title shef-povar, literally 'chef-cook', is the formal name for a head chef."),
+    (3, None, "'You are the main face of our expensive restaurant.' Just as in English, litso, 'face', can mean the person who represents a company. The word dorogoy means both 'expensive' and 'dear', and here it's the price that counts."),
+    (4, None, "'My place is in the kitchen at the stove.' Russian drops 'is' in the present, so the line is simply moyo mesto na kukhne, 'my place in the kitchen'. After u, 'by', plita becomes plity."),
+    (5, None, "'The viewers want to see a real chef.' The word zriteli, 'viewers', is built on an old word for seeing, zret. As the one being seen, a male chef takes -a: nastoyashchego shefa."),
+    (6, None, "'Let me go back to Claude Monet.' The command otpusti, 'let me go', is what you'd say to a boss when asking to leave. With obratno, 'back', it means returning to where you came from."),
+    (7, None, "'Stop arguing and go forward.' After perestan, 'stop', comes the basic form of the action: perestan sporit. And idi vperyod, 'go forward', is a push to get on with it."),
+    (8, None, "'Will that Sokolova perform there?' Putting eta, 'this', in front of a surname sounds dismissive, like 'that Sokolova woman'. The -a at the end of Sokolova marks a woman's surname."),
+    (9, None, "'Yes, Elena Sokolova from Arcobaleno restaurant.' After iz, 'out of, from', restoran becomes restorana. The name Arcobaleno is Italian for 'rainbow', and as a foreign word it never changes."),
+    (10, None, "'I will prove my high caliber to everyone.' Although dokazhu, 'I will prove', looks like a present form, it points to one result in the future. The word svoy, 'my own', refers back to whoever is acting, here Barinov himself."),
+    (11, None, "'Now that is a great attitude, chef!' At the start of a sentence, vot eto points at something and approves of it, 'now that's...'. The word nastroy, 'attitude', shares a root with nastroyeniye, 'mood'."),
+    (12, None, "'Live broadcast begins right now.' TV people call a live show pryamoy efir, literally 'straight air'. The same root turns up in pryamo seychas, 'right now', so there's no more time to argue."),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = 'Chef Viktor Barinov grows furious over the delay in preparing the truffle salad for the inspector. He confronts Max, who desperately stalls for time while trying to recover the missing luxury ingredients. Listen to their conversation in Russian first, then we will break down each line in English.'
-OPENER = 'Now let us go through each phrase to see how it works in Russian.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max faces extreme pressure from Chef Barinov to deliver the truffle immediately. Until then! Next time you watch the episode, listen for the Russian expressions for 'to mutter' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "Back in the kitchen at Claude Monet, the truffle salad for table seven is late, and Barinov has run out of patience. Max has no truffle and has to say something. It's in Russian first."
+OPENER = 'Slowly now. The chef gets angrier with every line, and Max gets more inventive.'
+TRANSITION = "Here's the standoff in one go."
+OUTRO = 'Do "sleduyushchey Paskhi", until next Easter, is a good way to say something takes forever, and "vsyo pod kontrolem" is a good way to lie. Between them you\'ve got a fair picture of kitchen life. See you next time.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Огузок, где мой свежий дорогой трюфель?', 'Rump, where is my fresh expensive truffle?', [(243, 'свои трюфель')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('barinov', 'Тогда неси трюфель на стол шефа!', 'Then bring the truffle to the chef table!', [], ''),
 ]
 WALK = [
-    (0, None, "'Rump, where is my fresh expensive truffle?' Demanding the missing luxury item, Barinov interrogates his assistant with rising fury."),
-    (1, None, "'Am I going to wait for it until next Easter?' Using sharp sarcasm, Barinov emphasizes how long the intolerable delay has been."),
-    (2, None, "'Chef, I am already bringing it, all is well!' Babbling fake reassurances, Max tries to placate the roaring head chef."),
-    (3, None, "'You work too slowly in the kitchen!' Harshly criticizing his pace, Barinov yells at the rookie's inability to keep up with the line."),
-    (4, None, "'The important guest is waiting for his order.' Barinov points out that a VIP is sitting out there empty-handed."),
-    (5, None, "'I am looking for the best mushroom.' Inventing a desperate lie, Max claims to be meticulously selecting the perfect specimen."),
-    (6, None, "'You have exactly one minute!' Issuing a strict and terrifying deadline, Barinov gives him one minute to produce the ingredient."),
-    (7, None, "'Otherwise I will personally fire you today!' Explicitly threatening termination, Barinov promises to throw Max out on the street immediately."),
-    (8, None, "'Do not worry, chef, the order will be ready.' Promising the impossible, Max just wants Barinov to back off."),
-    (9, None, "'I want to see the result right now.' Demanding immediate tangible proof, Barinov wants to see the physical dish rather than excuses."),
-    (10, None, "'We fulfilled all your difficult conditions.' Accidentally speaking aloud, Max mutters his thoughts about the vagrant's ransom demands."),
-    (11, None, "'What are you muttering under your breath there?' Snapping at the weird murmuring, Barinov catches the suspicious quiet comment."),
-    (12, None, "'I am saying that everything is under control.' Quickly lying to cover his slip, Max reassures him before the chef gets suspicious."),
-    (13, None, "'Then bring the truffle to the chef table!' Barking his final order, Barinov commands the expensive plate out to the dining room."),
+    (0, None, '\'Rump, where is my fresh expensive truffle?\' Oguzok again, the chef\'s nickname for Max. "Moy", "svezhiy", "dorogoy" all end in masculine forms because "tryufel" is masculine.'),
+    (1, None, '\'Am I going to wait for it until next Easter?\' Do "sleduyushchey Paskhi" is sarcasm, like \'till the cows come home\'. "Budu zhdat", \'will be waiting\', is the long future for a drawn-out action.'),
+    (2, None, '\'Chef, I am already bringing it, all is well!\' "Nesu", I\'m carrying, is the present, used for something happening right now. "Vsyo khorosho", \'all is good\', is the usual cover story.'),
+    (3, None, '\'You work too slowly in the kitchen!\' "Medlenno", slowly, is "medlennyy", slow, with -o, which makes it describe how. "Slishkom", too, goes in front of it.'),
+    (4, None, '\'The important guest is waiting for his order.\' "Zhdyot svoy zakaz", \'waits his order\', needs no word for \'for\'. "Svoy", his own, points back at the guest.'),
+    (5, None, '\'I am looking for the best mushroom.\' "Ishchu", I\'m looking for, is from "iskat", with the sk turning into shch. "Samyy luchshiy", the very best, is a normal Russian double.'),
+    (6, None, '\'You have exactly one minute!\' "U tebya est" is \'at you there is\', which is Russian for \'you have\'. "Rovno", exactly, also means \'evenly\'.'),
+    (7, None, '\'Otherwise I will personally fire you today!\' "Uvolyu", I\'ll fire, comes from "uvolit", the official verb for sacking someone. "Lichno", personally, makes the threat sound official.'),
+    (8, None, '\'Do not worry, Chef, the order will be ready.\' "Ne perezhivayte" is \'don\'t worry\' said with -te, the way Max talks to his boss. "Budet gotov", will be ready, uses "budet", \'will be\'.'),
+    (9, None, '\'I want to see the result right now.\' "Khochu", I want, is from "khotet", and it\'s "khochu", not khotyu. "Pryamo seychas", \'straight now\', is Barinov\'s favourite deadline.'),
+    (10, None, '\'We fulfilled all your difficult conditions.\' "Vypolnili", fulfilled, is a formal word that makes Max sound like a contractor. "Uslovie", condition, has the plural "usloviya".'),
+    (11, None, '\'What are you muttering under your breath there?\' "Sebe pod nos", \'to yourself under the nose\', is how Russians say \'under your breath\'. "Bormochesh", you mutter, even sounds like muttering.'),
+    (12, None, '\'I am saying that everything is under control.\' "Pod kontrolem", under control, has -em after "pod". "Govoryu", "chto" is \'I\'m saying that\', the start of any excuse.'),
+    (13, None, '\'Then bring the truffle to the chef table!\' "Nesi", carry it, is the order you heard a few scenes ago. "Na stol shefa", onto the chef\'s table, has "shef" with -a for \'of the chef\'.'),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'sasha': 'Саша', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
-INTRO = "Exhausted by constant workplace crises, missing liquor, and staff arguments, art director Vika sits down in the restaurant dining room. Waitress Sasha listens sympathetically as Vika vents her frustration about how everything constantly seems to go wrong at Claude Monet. Yearning for peace, Vika begs for just one quiet, normal working day. Let's listen to their conversation in Russian first."
-OPENER = "Let's examine the dialogue line by line. Notice the expressions of exhaustion and the sympathetic workplace reassurance."
+INTRO = 'The crises keep coming, and Vika finally sits down in the dining room, worn out. Sasha, the waitress, offers her a coffee and listens as Vika complains that nothing ever goes right at Claude Monet. Here is their talk in Russian first.'
+OPENER = "Now let's look at the complaints."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Vika finds a moment of calm empathy with Sasha before the busy evening rush begins. Keep up the great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'mess' and 'bartender' — you will catch every word right away. See you next time!"
+OUTRO = 'Vika asks for nothing more than one quiet day, which is not much to ask. If you take away only "ya uverena", "I\'m sure", you\'ll find it useful.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('sasha', 'Виктория Сергеевна, вам принести чашку кофе?', 'Viktoriya Sergeyevna, should I bring you a cup of coffee?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('sasha', 'Мы все очень хотим этого, поверьте.', 'We all want this very much, believe me.', [], ''),
 ]
 WALK = [
-    (0, None, "'Viktoriya Sergeyevna, should I bring you a cup of coffee?' Sasha respectfully approaches her exhausted boss and offers a hot beverage to help her relax."),
-    (1, None, "'Lord, how sick of everything I am!' Vika lets out a deeply emotional sigh, expressing just how completely fed up she is with her job."),
-    (2, None, "'Have new problems arisen in the restaurant again?' Sasha gently inquires if another disaster has struck the establishment during the shift."),
-    (3, None, "'Of course, expensive cognac went missing in the bar.' Vika sarcastically confirms the bad news while mentioning the theft of a very pricey bottle."),
-    (4, None, "'Bartender Kostya is looking for that bottle now.' Sasha tries to reassure her manager by mentioning that the bartender is actively investigating the theft."),
-    (5, None, "'Well why does everything always go wrong?' Vika despairs over the seemingly endless string of chaotic events that ruin her days."),
-    (6, None, "'Our work is always very stressful.' Sasha offers a comforting observation about the inherently stressful nature of the hospitality industry."),
-    (7, None, "'The chef shouts, cooks argue, mess everywhere!' Vika lists the exhausting daily realities of a screaming boss and a chaotic kitchen staff."),
-    (8, None, "'You need to rest a bit and calm down.' Sasha kindly advises her superior to take a deep breath and find a moment of peace."),
-    (9, None, "'Can a day really not pass normally?' Vika pleads to the universe for a single ordinary shift without any dramatic catastrophes."),
-    (10, None, "'I am sure everything will work out soon.' Sasha provides a dose of optimism, promising that the situation will improve shortly."),
-    (11, None, "'I want at least one calm day!' Vika dramatically states her simple desire for just twenty-four hours of absolute tranquility."),
-    (12, None, "'We all want this very much, believe me.' Sasha emphasizes that the entire staff shares the manager's desperate wish for a peaceful workplace."),
+    (0, None, '\'Viktoriya Sergeyevna, should I bring you a cup of coffee?\' "Vam prinesti", "to you to bring", is how Russians offer something. "Chashka" becomes "chashku", and "kofe" never changes.'),
+    (1, None, '\'Lord, how sick of everything I am!\' The first word is "Gospodi", an exclamation like "oh Lord". The second half is "everything reached me", a stock way to say you\'ve had enough.'),
+    (2, None, '\'Have new problems arisen in the restaurant again?\' "Voznikli" is "arose", and "opyat\'" is "again". "Novyye problemy" are both plural.'),
+    (3, None, '\'Of course, expensive cognac went missing in the bar.\' "Disappeared" is "propal", with the -l of a masculine word, because "cognac" is masculine. It\'s the same verb as "disappear to" in the last scene.'),
+    (4, None, '\'Bartender Kostya is looking for that bottle now.\' "Ishchet", is looking for, is the same verb as "ishchi" from the knife scene. "Etu butylku" ends in -u as the thing being sought.'),
+    (5, None, '\'Well, why does everything always go wrong?\' "Idyot ne tak" is "goes not so". Russians say "idti", to go, about events as well as people.'),
+    (6, None, '\'Our work is always very stressful.\' "Stressful" comes from "nerves". It ends in -aya to match the feminine word "work".'),
+    (7, None, '\'The chef shouts, cooks argue, mess everywhere!\' "Bardak" is slang for a mess, a stronger word than "besporyadok". No "and" between the items, just commas.'),
+    (8, None, '\'You need to rest a bit and calm down.\' "Vam nuzhno", "to you necessary", is the Russian "you need". "Otdokhnut\'" is "to rest", and "uspokoit\'sya", to calm down, ends in "-sya".'),
+    (9, None, '\'Can a day really not pass normally?\' "Neuzheli" is "can it really be?". "Nel\'zya, chtoby" is "is it impossible that", and "proshyol", passed, is the past form that goes after "chtoby".'),
+    (10, None, '\'I am sure everything will work out soon.\' A woman says "uverena", a man says "uveren". "Will work out" has the same root as "ladno", fine, so it means "will get into harmony".'),
+    (11, None, '\'I want at least one calm day!\' "Khochu" already says "I want", so Vika drops the "ya". "Khotya by", at least, is two small words.'),
+    (12, None, '\'We all want this very much, believe me.\' "Pover\'te", believe me, is the polite command from "verit\'", to believe. "My vse" is "we all".'),
 ]

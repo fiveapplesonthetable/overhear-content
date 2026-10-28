@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "In the restaurant back room, Max is washing his jeans on his day off when Vika walks in with Nagiyev's dog Tyson. When Tyson grabs Max's hot dog near a faulty socket and collapses, the two panic and rush the dog to the vet. Listen to their conversation in Russian first."
-OPENER = "Let's examine this hilarious emergency line by line."
-TRANSITION = "Now let's listen to the whole panic once again."
-OUTRO = "That concludes our eighth scene. In Kukhnya, watching a celebrity owner's pet can quickly become a life-or-death comedic disaster. See you next time!"
+INTRO = "Meanwhile, at Claude Monet, Max the cook is in on his day off, and Vika the hostess is minding Tyson, the owner Nagiyev's dog. A hot dog and a broken socket are about to ruin everyone's afternoon. It's in Russian first."
+OPENER = "Let's go back through the accident. It all happens fast, so the sentences are short."
+TRANSITION = 'Now the whole disaster again, in one go.'
+OUTRO = "Short emergency words come in handy: ostorozhno, 'careful', spokoyno, 'calm down', and bystreye, 'quick'. And note that sobaka, 'dog', is feminine even for a male dog, while pyos is the masculine word. See you next time."
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('vika', 'Макс, почему ты ходишь без формы?', 'Max, why are you walking without a uniform?', [(98, 'Что за внешний вид? Где форма')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('vika', 'Быстрее бежим к ветеринару спасать пса!', "Quick, let's run to the vet to save the dog!", [(115, 'О, Господи')], ''),
 ]
 WALK = [
-    (0, None, "'Max, why are you walking without a uniform?' Vika confronts Max for wandering in casual clothes."),
-    (1, None, "'Today is my legitimate day off!' Defending his right to relax away from the cooking line."),
-    (2, None, "'My only jeans are in the wash right now.' Explaining why he is not properly dressed."),
-    (3, None, "'This is a restaurant, not a home laundromat.' Reminding him of basic workplace standards."),
-    (4, None, "'And whose little angry dog is this?' Max eyes the growling dog suspiciously."),
-    (5, None, "'This is Tyson, Nagiyev's favorite dog.' Revealing the celebrity pedigree of the VIP pet."),
-    (6, None, "'Careful, the dog grabbed my hot dog!' Shouting as the terrier steals his lunch."),
-    (7, None, "'Tyson, drop it, drop the sausage immediately!' Vika commands the dog to drop the stolen food."),
-    (8, None, "'Oh, it seems the dog was hit by electric current!' Max notices the sparks from the faulty wall socket."),
-    (9, None, "'My God, he is lying and not breathing!' Panicking as the little dog collapses motionless on the floor."),
-    (10, None, "'I told you, this socket is broken!' Reminding Vika of his earlier safety warning."),
-    (11, None, "'What will I say to Dmitry Vladimirovich now?' Imagining the owner's terrifying wrath."),
-    (12, None, "'Calm down, let's put the dog in a bag.' Max scrambles for a way to transport the unconscious pet."),
-    (13, None, "'Quick, let's run to the vet to save the dog!' Rushing out the door to find emergency medical help."),
+    (0, None, "'Max, why are you walking without a uniform?' Vika uses khodish, from khodit, for going around in general or for what you wear, rather than one trip. After bez, 'without', forma becomes formy."),
+    (1, None, "'Today is my legitimate day off!' Built on zakon, 'law', zakonnyy means a day off by right. Russians call a day off vykhodnoy, from vykhodit, 'to go out'."),
+    (2, None, "'My only jeans are in the wash right now.' As in English, dzhinsy exists only in the plural. Adding -sya to stirat, 'to wash clothes', gives stirayutsya, 'are being washed'."),
+    (3, None, "'This is a restaurant, not a home laundromat.' Here a ne, 'and not', sets up the contrast, X, a ne Y, as in Barinov's shef-povar, a ne akter. The word prachechnaya, 'laundry', comes from an old word for washing clothes."),
+    (4, None, "'And whose little angry dog is this?' To match sobaka, 'dog', whose becomes chya. For the same reason malenkaya and zlaya end in -aya."),
+    (5, None, "'This is Tyson, Nagiyev's favorite dog.' Russian puts the owner after the dog and adds -a to his surname: 'the dog of Nagiyev'. The word lyubimaya, 'favourite', comes from lyubit, 'to love'."),
+    (6, None, "'Careful, the dog grabbed my hot dog!' Notice that skhvatila ends in -a because sobaka is feminine, even though Tyson is male. And ostorozhno, 'careful', is the warning you shout."),
+    (7, None, "'Tyson, drop it, drop the sausage immediately!' Russians say fu to a dog doing something bad, like 'no!' or 'leave it!'. The command bros, 'drop', comes from brosit, 'to throw'."),
+    (8, None, "'Oh, it seems the dog was hit by electric current!' There's no subject in sobaku udarilo tokom: literally 'it struck the dog with current'. The current takes -om, tokom, and the dog is the object, sobaku."),
+    (9, None, "'My God, he is lying and not breathing!' Vika says on, 'he', because Tyson is male, even though sobaka is feminine. And ne dyshit, 'isn't breathing', comes from dyshat."),
+    (10, None, "'I told you, this socket is broken!' In ya zhe govoril, 'I did tell you', zhe adds the 'didn't I say so'. The -a on slomana matches rozetka, 'socket'."),
+    (11, None, "'What will I say to Dmitry Vladimirovich now?' After skazhu, 'I'll tell', both his first name and his patronymic change, to -yu and -u. Name and patronymic, 'son of Vladimir', is how the staff address their boss."),
+    (12, None, "'Calm down, let's put the dog in a bag.' On its own, spokoyno, 'calmly', works as 'calm down'. Between friends, 'let's put' is davay plus the 'we' form: davay polozhim."),
+    (13, None, "'Quick, let's run to the vet to save the dog!' Here bezhim, 'let's run', is the 'we' form used as a suggestion. For a male dog there's also pyos, and as the one being saved it becomes psa."),
 ]

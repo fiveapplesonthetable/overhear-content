@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = "Tension peaks in the dining room of Claude Monet as the staff scrambles to identify a mysterious food critic. When art director Victoria points out another suspicious guest writing notes at a table, Chef Barinov is exasperated by the conflicting clues. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the vocabulary of suspicion, restaurant inspection, and hospitality standards."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Faced with multiple potential reviewers, Chef Barinov prepares to defend Claude Monet's culinary reputation with perfection. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'dish' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "There seem to be two possible critics now, and Vika and Barinov talk about how to handle them. Their plan: feed both of them as well as they can. You'll hear it all in Russian before I explain a thing."
+OPENER = "Now we'll go over it."
+TRANSITION = 'Listen again, and see how much more you catch.'
+OUTRO = 'Both critics will get the best the kitchen can offer. The chef will watch every dish. Goodbye for now.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('vika', 'Шеф, в углу зала сидит странный гость.', 'Chef, a strange guest is sitting in the corner of the dining room.', [(163, 'Писатель?')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Я лично прослежу за каждым готовым заказом!', 'I will personally oversee every finished order!', [(165, 'два критика')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, a strange guest is sitting in the corner of the dining room.' Vika reports to the boss. She points out that there is a weird customer sitting in the corner."),
-    (1, None, "'What is this person doing at his table?' Barinov wants to know more details. He asks what the man is up to while sitting there."),
-    (2, None, "'He does not order anything and constantly writes.' She explains the suspicious behavior. The guy is just writing and has not asked for any food."),
-    (3, None, "'Could it be a famous writer or journalist?' He guesses who the man might be. The chef wonders if they have a famous author in the hall."),
-    (4, None, "'He studies everything around us too attentively.' The manager points out how observant the man is. He is looking at everything a little too closely."),
-    (5, None, "'But you yourself considered that young woman to be the critic!' Barinov is confused by the changing story. He reminds her that she previously thought the woman was the reviewer."),
-    (6, None, "'That young woman also behaves very suspiciously.' Vika defends her earlier guess. She notes that the woman is also acting in a weird way."),
-    (7, None, "'Does it turn out that I have two critics at once in the restaurant?' He repeats his fear. The boss cannot believe he might be dealing with two reviewers at the same time."),
-    (8, None, "'We must feed both guests at the highest level.' She suggests a safe plan. They need to provide top quality service to both of these people."),
-    (9, None, "'I will prepare my best dishes for them.' The chef agrees to the strategy. He promises to cook his absolute best food for them."),
-    (10, None, "'The main thing is that the waiters do not make foolish mistakes.' Vika worries about the rest of the staff. She hopes the waiters will not mess things up."),
-    (11, None, "'I will personally oversee every finished order!' Barinov takes full control. He vows to check every single plate before it leaves the kitchen."),
+    (0, None, '\'Chef, a strange guest is sitting in the corner of the dining room.\' "V uglu" is "in the corner", from "ugol", with a special -u ending that a few words take after "v". "Zala" is "of the hall".'),
+    (1, None, '\'What is this person doing at his table?\' "Chelovek", "person", is the word in Barinov\'s "kakoy glupy chelovek". "Za svoim stolom" is "at his own table", where "svoim" is "own".'),
+    (2, None, '\'He does not order anything and constantly writes.\' Vika repeats Sasha\'s clue. "Nichego ne zakazyvaet" keeps both negatives, and "postoyanno pishet" is "constantly writes".'),
+    (3, None, '\'Could it be a famous writer or journalist?\' "Mozhet byt", "can be", is "maybe". "Zhurnalist" is borrowed from French. Barinov offers two jobs, because he is guessing.'),
+    (4, None, '\'He studies everything around us too attentively.\' "Vokrug nas" is "around us". "Slishkom vnimatelno" is "too attentively". Vika is suspicious of anyone who watches so closely.'),
+    (5, None, '\'But you yourself considered that young woman to be the critic!\' "Schitala kritikom", "considered as critic", puts "kritik" in its -om form, as with "schitala menya trusom". "Sama" is "yourself".'),
+    (6, None, '\'That young woman also behaves very suspiciously.\' "Podozritelno", "suspiciously", grows from "podozrenie", "suspicion". "Vedyot sebya" is "behaves", the "leads herself" phrase.'),
+    (7, None, '\'Does it turn out that I have two critics at once in the restaurant?\' "Srazu" can mean "immediately" or "at the same time", and here it is "at the same time". "Dva kritika" is "two critics".'),
+    (8, None, '\'We must feed both guests at the highest level.\' "Nakormit", "to feed", has na-, "fill up". "Na vysshem urovne", "at the highest level", is Louis\'s phrase about the banquet.'),
+    (9, None, '\'I will prepare my best dishes for them.\' "Svoi luchshie blyuda" is "my own best dishes", with "svoi" for "own". "Dlya nikh" is "for them".'),
+    (10, None, '\'The main thing is that the waiters do not make foolish mistakes.\' After "chtoby", "so that", the verb takes its past form, "ne sdelali", though the meaning is not past. "Glavnoe" is "the main thing".'),
+    (11, None, '\'I will personally oversee every finished order!\' "Proslezhu", "I will oversee", grows from "sled", "track", so the chef will follow each plate. "Lichno" is "personally".'),
 ]

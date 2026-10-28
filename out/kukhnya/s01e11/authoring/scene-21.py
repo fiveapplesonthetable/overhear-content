@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = 'In the dining room of Claude Monet, Chef Viktor personally carries a bowl of hot soup to an ordinary guest. Victoria hurries over in a panic, horrified that the influential food critic was made to wait, but Viktor proudly declares that everyone is equal in his kitchen. Listen to their conversation in Russian first, then we will break down each line in English.'
-OPENER = "Now let's go back through the exchange around Everyone Is Equal line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In the dining room, Chef Viktor personally delivers the soup to an ordinary guest, boldly asserting to Victoria that all customers are equal in his kitchen. Next time you watch the episode, listen for the Russian expressions for 'kitchen' and 'pleasant' — you will catch every word right away. See you next time!"
+INTRO = 'Barinov carries the soup himself, to the guest who ordered it first. Vika watches in horror, because the critic is still waiting. Let the Russian wash over you first.'
+OPENER = 'Time to look at it properly.'
+TRANSITION = 'Now, from the top, in one go.'
+OUTRO = "In the chef's kitchen, everyone is equal, even critics. It's the kind of principle you can admire from a distance. That's all for now."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Твой суп, дружище, приятного аппетита.', 'Your soup, buddy, enjoy your meal.', [(282, 'Твой суп, дружище, приятного аппетита.')], ''),
@@ -30,14 +30,16 @@ STORY = [
     ('barinov', 'У меня на кухне все равны!', 'In my kitchen everyone is equal!', [(289, 'У меня на кухне все равны.')], ''),
 ]
 WALK = [
-    (0, None, "'Your soup, buddy, enjoy your meal.' Barinov friendly gives the soup to the regular customer. He wishes his buddy a good meal."),
-    (1, None, "'Viktor Petrovich, what are you doing?' Vika is horrified and asks what on earth he is doing. She cannot believe he just did that."),
-    (2, None, "'I am doing what I must do.' Barinov simply replies that he is doing what must be done. He is following his own rules."),
-    (3, None, "'But an important critic is sitting right there!' Vika frantically points out the important VIP sitting out there. She thinks this is a huge mistake."),
-    (4, None, "'I do not care who is sitting there.' Barinov stubbornly declares that he does not care who is sitting there. Status means nothing to him."),
-    (5, None, "'This guest ordered soup earlier.' Barinov defends his choice by saying the other person ordered first. It is just basic fairness."),
-    (6, None, "'Let him leave if he does not know how to wait.' Barinov adds that the impatient man can leave if he cannot wait. He refuses to be bossed around."),
-    (7, None, "'You are risking our restaurant' Vika warns him that he is risking their entire reputation. This could destroy everything they built."),
-    (8, None, "'Even if he were three times a critic!' Barinov yells back that it does not matter if the guy is a critic three times over. He stands his ground."),
-    (9, None, "'In my kitchen everyone is equal!' Barinov proudly announces that everyone is equal in his kitchen. He serves food fairly to all."),
+    (0, None, '\'Your soup, buddy, enjoy your meal.\' "Priyatnogo appetita" is literally "of pleasant appetite", the usual Russian "bon appetit". "Druzhishche", "buddy", is the warm word the guest at the bar used for Kostya. Barinov serves the man himself.'),
+    (1, None, '\'Viktor Petrovich, what are you doing?\' Vika uses the polite "vy", with his first name and father\'s name. "Chto vy delaete" is "what are you doing". She can see perfectly well what he is doing.'),
+    (2, None, '\'I am doing what I must do.\' "To, chto", "that which", is the Russian frame for "what" in the middle of a sentence. "Dolzhen" is "must". Barinov answers calmly.'),
+    (3, None, '\'But an important critic is sitting right there!\' The little "zhe" in "tam zhe" adds "after all, right there". "Vazhny kritik" is "an important critic". Vika points at the table.'),
+    (4, None, '\'I do not care who is sitting there.\' "Mne vsyo ravno", "to me all the same", is the idiom for "I don\'t care". "Ravno" is built on "ravny", "equal", which comes back in the last line. Barinov is clear.'),
+    (5, None, '\'This guest ordered soup earlier.\' "Ranshe" is "earlier", "before" in time. "Zakazal sup" is "ordered soup". The guest at the bar had ordered first, and for Barinov that settles it.'),
+    (6, None, '\'The critic is very angry, he will leave!\' "Zol" is the short form of "zloy", "angry" or "wicked". "Uydyot", "he will leave", has u- for "away". Vika\'s voice is rising.'),
+    (7, None, '\'Let him leave if he does not know how to wait.\' "Pust", "let him", came up a moment ago, about the same critic: "pust snachala sdelaet normalny zakaz". "Umeet" is "knows how to". Barinov dares the critic to go.'),
+    (8, None, '\'You are risking our restaurant\'s reputation.\' In Russian you risk "with" something, so "reputatsiya" becomes "reputatsiey". "Nashego restorana" is "of our restaurant". This is Vika\'s real fear.'),
+    (9, None, '\'Even if he were three times a critic!\' "Bud on", "be he", is a way to say "even if he were". "Trizhdy", "three times", is one word. Barinov exaggerates, and it is part of the charm.'),
+    (10, None, '\'I serve all guests in turn.\' "Podayu" is "I serve". "Vsem gostyam", "to all guests", has the "to" ending on both words. "Po ocheredi", "in turn", is the phrase from his "pust zhdyot sup po ocheredi".'),
+    (11, None, '\'In my kitchen everyone is equal!\' "Ravny" is the plural short form of "equal", the root of "vsyo ravno". "U menya na kukhne" is "at me in the kitchen", "in my kitchen". Barinov ends the argument on a principle.'),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'ainura': 'Айнура', 'jindi': 'Джинди'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
-INTRO = "In the dishwashing corner of the kitchen, cleaner Ainura catches Jindi holding Chef Barinov's missing knife. Terrified of the chef's explosive anger, she urgently orders him to conceal the blade before anyone notices. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine Ainura and Jindi's tense kitchen exchange line by line."
+INTRO = "Ainura, who cleans and washes up, catches Jindi holding the chef's famous missing knife. She knows what will happen if the chef sees it, so she tells him to hide it, fast. Here is the exchange in Russian first."
+OPENER = "Let's take it line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Ainura makes sure the knife is hidden from immediate sight, while Barinov continues hunting across the entire restaurant. Next time you watch the episode, listen for the Russian expressions for 'faster' and 'to be' — you will catch every word right away. See you next time!"
+OUTRO = 'Ainura has given the order: hide it, and say nothing. Notice how often she says "no one" and "nothing" in the same sentence.'
 CLOSING = ('ainura', 'Пока!')
 STORY = [
     ('ainura', 'Ой, Джинди, скорее спрячь этот нож!', 'Oh, Jindi, hide this knife quickly!', [(245, 'Джинди, спрячь нож')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('ainura', 'Только никому ничего не говори!', 'Just do not say anything to anyone!', [], ''),
 ]
 WALK = [
-    (0, None, "'Oh, Jindi, hide this knife quickly!' Ainura gasps in sheer terror, instantly demanding that her coworker conceal the weapon he is holding."),
-    (1, None, "'Why should I hide this knife?' Jindi looks genuinely puzzled about why an ordinary kitchen tool is causing such intense panic."),
-    (2, None, "'This is our chef's favorite knife!' Ainura reveals the terrifying truth about the blade's true owner to convey the gravity of the situation."),
-    (3, None, "'The chef has been looking for it all morning.' Ainura frantically explains that the boss has been aggressively hunting for this exact item for hours."),
-    (4, None, "'I simply wanted to wash dishes.' Jindi meekly defends his actions, stating he only picked it up to do his cleaning duties."),
-    (5, None, "'If the chef sees the knife, there will be a scandal!' Ainura predicts a massive, violent explosion if the fearsome boss catches them with the stolen property."),
-    (6, None, "'He will yell at us very loudly.' Ainura warns that they will be subjected to the most deafening verbal abuse imaginable."),
-    (7, None, "'What should I do now?' Jindi panics, desperately asking his more experienced colleague how to escape this deadly trap."),
-    (8, None, "'Put the knife back onto the table.' Ainura advises him to casually drop the evidence exactly where he found it."),
-    (9, None, "'Let the chef find his knife himself.' Ainura decides it is safest if the raging boss simply discovers the lost item on his own."),
-    (10, None, "'Hide it further away from here, quickly!' Ainura changes her mind, yelling at him to get the cursed object as far away from them as possible."),
-    (11, None, "'Alright, I will put everything away now.' Jindi hastily agrees to ditch the terrible evidence before the angry chef spots them."),
-    (12, None, "'Just do not say anything to anyone!' Ainura fiercely commands absolute silence, demanding that they keep this terrifying incident a complete secret."),
+    (0, None, '\'Oh, Jindi, hide this knife quickly!\' "Oy" is a short "oh!". "Skoreye" is "quicker", and "spryach\'", hide, is the command form of "spryatat\'".'),
+    (1, None, '\'Why should I hide this knife?\' "Zachem mne pryatat\'" is "what for to me to hide", which is how Russian asks "why should I?".'),
+    (2, None, '\'This is our chef\'s favorite knife!\' "Lyubimyy nozh" is the "loved knife" again. "Nashego shefa", "of our chef", puts an "of" ending on both words.'),
+    (3, None, '\'The chef has been looking for it all morning.\' "Ishchet uzhe", "looks already", uses the present for something that started earlier and is still going. "Vsyo utro" is "the whole morning".'),
+    (4, None, '\'I simply wanted to wash dishes.\' "Pomyt\'" is the finished partner of "myt\'", to wash. "Posuda", dishes, is a single word for all the crockery.'),
+    (5, None, '\'If the chef sees the knife, there will be a scandal!\' "Uvidit" is "will see". "Budet" is "there will be", and "skandal" is borrowed.'),
+    (6, None, '\'He will yell at us very loudly.\' "Budet krichat\'" is "will shout", made from "budet" plus the verb. "Na nas" is "at us", and "ochen\' sil\'no" is "very strongly".'),
+    (7, None, '\'What should I do now?\' "Chto mne delat\'" is "what to me to do", the same "should I" pattern again. "Zhe" adds worry.'),
+    (8, None, '\'Put the knife back onto the table.\' "Polozhi" is the command for laying something flat. "Obratno" is "back", and "na stol" is "onto the table".'),
+    (9, None, '\'Let the chef find his knife himself.\' "Pust\'" is "let", for wishing something on someone else. "Sam" is "himself" and "svoy" is "his own".'),
+    (10, None, '\'Hide it further away from here, quickly!\' "Podal\'she", further away, is "daleko", far, with "po-" and a comparing ending. "Bystreye" is "faster".'),
+    (11, None, '\'Alright, I will put everything away now.\' "Uberu", I\'ll put away, is from "ubrat\'", the verb the chef used for the dirty box.'),
+    (12, None, '\'Just do not say anything to anyone!\' Count them: "nikomu", to nobody, "nichego", nothing, and "ne". It\'s a Russian triple negative, completely correct.'),
 ]

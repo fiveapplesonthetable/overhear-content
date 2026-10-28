@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Виктор, у меня сегодня много работы. | Viktor, I have a lot of work today. | #38: у меня еще сегодня банкет. | verbatim |
-| 2 | Шеф | В чём дело, дорогая Виктория? | What is the matter, dear Victoria? | #70: в чем дело? | verbatim |
-| 3 | Вика | Сестра попросила меня посидеть с Алисой. | My sister asked me to babysit Alisa. | #71: Алиса побудет с тетей. | verbatim |
-| 4 | Шеф | А почему с тобой, а не со мной? | And why with you and not with me? | #72: А почему с тетей, а не с папой? | verbatim |
+| 1 | Вика | Виктор, у меня сегодня много работы. | Viktor, I have a lot of work today. | #38 00:02:23: у меня еще сегодня банкет. | verbatim |
+| 2 | Шеф | В чём дело, дорогая Виктория? | What is the matter, dear Victoria? | #70 00:04:03: в чем дело? | verbatim |
+| 3 | Вика | Сестра попросила меня посидеть с Алисой. | My sister asked me to babysit Alisa. | #71 00:04:05: Алиса побудет с тетей. | verbatim |
+| 4 | Шеф | А почему с тобой, а не со мной? | And why with you and not with me? | #72 00:04:08: А почему с тетей, а не с папой? | verbatim |
 | 5 | Вика | Потому что ты всегда занят на кухне. | Because you are always busy in the kitchen. | new | new |
 | 6 | Шеф | Я хочу сам провести время с дочерью. | I want to spend time with my daughter myself. | new | new |
-| 7 | Вика | Алиса, с кем ты хочешь остаться? | Alisa, who do you want to stay with? | #75: ты хочешь остаться с папой или с теткой | verbatim |
-| 8 | Шеф | Дочка хочет остаться со своим папой. | My daughter wants to stay with her dad. | #77: Но останусь с папой. | verbatim |
-| 9 | Вика | Ну вот, вы всё решили сами. | Well, you decided everything yourselves. | #78: Ну вот и решили. | verbatim |
-| 10 | Шеф | Я куплю ей вкусный сладкий шоколад. | I will buy her delicious sweet chocolate. | #80: Я тебе шоколадку дам. | verbatim |
-| 11 | Вика | Помни, ей нельзя есть шоколад. | Remember, she is not allowed to eat chocolate. | #81: Ей нельзя шоколадку. | verbatim |
-| 12 | Шеф | Не волнуйся, Вика, я всё знаю. | Do not worry, Vika, I know everything. | #81: Я знаю. | verbatim |
-| 13 | Вика | Смотри за ней внимательно до вечера. | Watch her attentively until the evening. | #82: Вика, до вечера. | verbatim |
+| 7 | Вика | Алиса, с кем ты хочешь остаться? | Alisa, who do you want to stay with? | #75 00:04:21: ты хочешь остаться с папой или с теткой | verbatim |
+| 8 | Шеф | Дочка хочет остаться со своим папой. | My daughter wants to stay with her dad. | #77 00:04:32: Но останусь с папой. | verbatim |
+| 9 | Вика | Ну вот, вы всё решили сами. | Well, you decided everything yourselves. | #78 00:04:35: Ну вот и решили. | verbatim |
+| 10 | Шеф | Я куплю ей вкусный сладкий шоколад. | I will buy her delicious sweet chocolate. | #80 00:04:38: Я тебе шоколадку дам. | verbatim |
+| 11 | Вика | Помни, ей нельзя есть шоколад. | Remember, she is not allowed to eat chocolate. | #81 00:04:41: Ей нельзя шоколадку. | verbatim |
+| 12 | Шеф | Не волнуйся, Вика, я всё знаю. | Do not worry, Vika, I know everything. | #81 00:04:41: Я знаю. | verbatim |
+| 13 | Вика | Смотри за ней внимательно до вечера. | Watch her attentively until the evening. | #82 00:04:44: Вика, до вечера. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor, I have a lot of work today.' With her niece visiting during a busy shift, Vika tells Viktor she is swamped with work today.
-- 'What is the matter, dear Victoria?' Barinov asks Victoria what the problem is.
-- 'My sister asked me to babysit Alisa.' Vika explains that her sister asked her to look after little Alisa for the day.
-- 'And why with you and not with me?' Since Alisa is Viktor's own daughter, he feels hurt and asks why Tanya trusted Vika instead of him.
-- 'Because you are always busy in the kitchen.' Vika reminds him frankly that he is always tied up running the kitchen.
-- 'I want to spend time with my daughter myself.' Stung by the remark, Viktor insists he wants to spend time with his daughter himself.
-- 'Alisa, who do you want to stay with?' To settle it fairly, Vika bends down and asks Alisa who she wants to stay with.
-- 'My daughter wants to stay with her dad.' Viktor proudly answers for her, declaring that his little girl wants to stay with her dad.
-- 'Well, you decided everything yourselves.' Seeing the two of them team up, Vika smiles and says they have made their choice.
-- 'I will buy her delicious sweet chocolate.' Wanting to spoil his daughter, Viktor promises to buy her delicious sweet chocolate.
-- 'Remember, she is not allowed to eat chocolate.' Vika immediately warns him to stop, reminding him that Alisa is not allowed to eat chocolate.
-- 'Do not worry, Vika, I know everything.' Brushing off the warning, Barinov tells Vika not to worry because he knows all about his daughter.
-- 'Watch her attentively until the evening.' Vika tells him to keep a close eye on the girl until evening.
+- 'Viktor, I have a lot of work today.' It's the same "at me" pattern as in the last scene: "at me today a lot of work". Vika uses his first name, Viktor, so these two know each other well.
+- 'What is the matter, dear Victoria?' Word for word it's "in what is the matter?", "v chyom delo". Barinov uses her full name, Victoria, instead of Vika, and puts "dorogaya", "dear", in front of it.
+- 'My sister asked me to babysit Alisa.' Russian babysits by saying "sit with": you "sit with" a child. The sister is Tanya, Alisa's mother. And the Russian for "asked" ends in -a because a woman did the asking.
+- 'And why with you and not with me?' "S toboy" and "so mnoy", "with you" and "with me", side by side; "s" grows an "o" before "mnoy" so it's easier to say. The little word "a" sets the two against each other.
+- 'Because you are always busy in the kitchen.' "Potomu chto" is "because", and the "chto" in it is said "shto". "Zanyat" is "busy", and there's no word for "are".
+- 'I want to spend time with my daughter myself.' "Sam" is "myself", as in "me, personally". "Provesti vremya" is "to spend time", built from "vesti", "to lead", so you lead your time through the day. It's a very common phrase.
+- 'Alisa, who do you want to stay with?' "S kem" is "with whom", and the Russian for "stay" really means "stay behind". Vika uses "ty" with the little girl, as you do with any child.
+- 'My daughter wants to stay with her dad.' "Doch" is "daughter", and "dochka" is the fond, softer version. Barinov beats the girl to the answer. He says "with his own dad", using "svoim" for "one's own".
+- 'Well, you decided everything yourselves.' "Nu vot" is "well, there you are". Here "vy" means "you two", so it's plural, and "sami" is "yourselves". Vika shrugs. She knows she has lost.
+- 'I will buy her delicious sweet chocolate.' Barinov starts spoiling his daughter at once. "Kuplyu" is "I will buy", and "ey" is "her" in the sense of "for her". Two describing words sit in front of the chocolate, "vkusny" and "sladky", tasty and sweet.
+- 'Remember, she is not allowed to eat chocolate.' "Nelzya" is one handy word for "not allowed" or "must not", and Russian puts it as "to her, not allowed". "Pomni" is a bare command, "remember", with no "you" needed.
+- 'Do not worry, Vika, I know everything.' "Ne volnuysya" is "don't worry". The -sya on the end is a small "yourself", like "don't get yourself worked up". "Vsyo znayu" is "I know everything", and that's quite a promise.
+- 'Watch her attentively until the evening.' "Smotri za ney" is "look after her": the verb "look" plus the small word "za", "after". "Do vechera" is "until evening", and "vecher" picks up an -a after "do".

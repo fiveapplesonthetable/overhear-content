@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "In the Claude Monet kitchen, line cook Senya is astonished to discover that their large commercial stove has disappeared without explanation. To conceal the fact that he secretly pawned the kitchen equipment to place a football bet, Chef Barinov insists he sent it for routine maintenance. Let's listen to their humorous confrontation in Russian first."
-OPENER = "Let's review the humorous kitchen confrontation regarding the missing stove line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Now you know how to talk about missing kitchen appliances, cooking adjustments, and chef excuses in Russian. See you next time!'
+INTRO = "Something is wrong in the kitchen: the big stove has disappeared. Senya, the meat cook, wants to know where it has gone, and Barinov has an answer ready. Listen first, and I'll explain afterwards."
+OPENER = "Let's unpack it."
+TRANSITION = 'Back to the full version.'
+OUTRO = "The stove is gone, and the kitchen is cooking on a toy. Barinov says it will be back in a day or two. We'll see how that goes. Take care until then."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('senya', 'Шеф, куда пропала наша большая плита?', 'Chef, where has our big stove disappeared to?', [(125, 'Шеф, а где наша плита')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Через день или два всё привезут!', 'In a day or two they will bring everything!', [(129, 'День-другой привезут обратно')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, where has our big stove disappeared to?' Senya asks where the equipment went."),
-    (1, None, "'I personally took it to a reliable repair service.' Barinov lies about taking it for repairs."),
-    (2, None, "'But it was working perfectly yesterday evening!' Senya points out it was working fine."),
-    (3, None, "'I turned it in for important preventive maintenance.' Barinov makes up an excuse about maintenance."),
-    (4, None, "'And on what are we to cook today?' Senya wonders how they will work now."),
-    (5, None, "'For now cook the dishes on this little hotplate.' Barinov orders them to improvise on the domestic electric hotplate."),
-    (6, None, "'This little hotplate heats up much too slowly!' Senya complains about the slow heat."),
-    (7, None, "'Stop whining, cooks must know how to do everything!' Barinov tells him to deal with it."),
-    (8, None, "'The guests will wait for their orders very long!' Senya worries about customer wait times."),
-    (9, None, "'Set the heat to four and get to work!' Barinov barks orders to keep moving."),
-    (10, None, "'When will they return our old stove to us?' Senya asks for a return timeline."),
-    (11, None, "'In a day or two they will bring everything!' Barinov gives a vague delivery window."),
+    (0, None, '\'Chef, where has our big stove disappeared to?\' "Kuda" is the "where to" word, and "propala" is "vanished", with -la because "plita", "stove", is a feminine word. Senya sees an empty space.'),
+    (1, None, '\'I personally took it to a reliable repair service.\' "Otvyoz" is "took away" by vehicle, not on foot. "Nadyozhny", "reliable", grows from "nadezhda", "hope". "Lichno" is "personally".'),
+    (2, None, '\'But it was working perfectly yesterday evening!\' "Vchera vecherom" is "yesterday in the evening": "vecher" becomes "vecherom". The stove is "she" in Russian, so "rabotala", "worked", ends in -la.'),
+    (3, None, '\'I turned it in for important preventive maintenance.\' "Sdal" is "handed in". "Profilaktika", prophylaxis, is a doctor\'s word Russians also use for servicing machines. It sounds impressive, and that\'s why he uses it.'),
+    (4, None, '\'And on what are we to cook today?\' Russians cook "na", "on", a stove, so it\'s "na chyom", "on what". "Nam gotovit" is "to us to cook", the Russian for "are we to cook". Senya is practical.'),
+    (5, None, '\'For now cook the dishes on this little hotplate.\' "Poka", "for now", is the same word as "while" and "bye". "Plitka" is "plita" with -ka, a little hotplate. "Gotovte" is a command to the whole kitchen.'),
+    (6, None, '\'This little hotplate heats up much too slowly!\' "Nagrevaetsya", "heats up", has the -sya, "heats itself". "Slishkom" is "too", and "medlenno" is "slowly". Senya complains, and he has every right.'),
+    (7, None, '\'Stop whining, cooks must know how to do everything!\' "Khvatit", "enough", is the usual way to say "stop it". "Dolzhny umet" is "must know how": "umet" is "to be able", a skill. "Nyt" is "to whine".'),
+    (8, None, '\'The guests will wait for their orders very long!\' "Budut zhdat" is "will wait", made from "budut", "will be", plus the dictionary form. "Zakazy" is "orders", the plural of "zakaz".'),
+    (9, None, '\'Set the heat to four and get to work!\' The Russian says "put the heating on a four": "chetvyorka" is the number four as a thing, also a school mark. "Postavte" and "rabotayte" are commands to everyone.'),
+    (10, None, '\'When will they return our old stove to us?\' "Vernut" is "they will return", with no one named. "Nashu staruyu plitu" ends in -u three times, because the stove is being returned. Senya knows there\'s no answer.'),
+    (11, None, '\'In a day or two they will bring everything!\' "Cherez den", "through a day", is how Russians say "in a day". "Privezut" is "will bring" by vehicle, like "otvyoz". Barinov\'s plan depends on nobody checking.'),
 ]

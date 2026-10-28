@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
-INTRO = 'Max has been tasked with peeling stickers off crates of bananas, but he longs to show off his real skills. He pitches his signature chicken dish to the Chef, who mocks him but offers an unexpected test. Listen carefully to the Russian dialogue first, and then we will examine every sentence.'
-OPENER = 'Now let us walk through each phrase to see how it works.'
+INTRO = 'Max has been given a first job: peeling stickers off bananas. He tries to pitch his chicken in cream sauce to the chef, who laughs at him, and then, unexpectedly, gives him a test: a dessert for an important guest. Here it is in Russian first.'
+OPENER = "Let's go back over the pitch."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Max has secured his chance to cook, confident that his dessert will win over Eleonora Andreyevna. See you next time!'
+OUTRO = 'So Max has his chance, and a dessert to make for Eleonora Andreyevna, who is a regular at the restaurant. You can now say "I can cook" and "I have an idea".'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Шеф, у меня есть отличная идея.', 'Chef, I have an excellent idea.', [(218, 'есть идея')], ''),
@@ -32,19 +32,18 @@ STORY = [
     ('max', 'Договорились, шеф! Я сделаю лучший десерт.', 'Agreed, chef! I will make the best dessert.', [(240, 'Окей'), (241, 'Ну, держитесь')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, I have an excellent idea.' Max interrupts the peeling chore to propose something far more exciting."),
-    (1, None, "'I can prepare my signature dish.' He offers to show off his personal culinary masterpiece."),
-    (2, None, "'It is tender chicken in cream sauce.' Max eagerly describes the appealing flavor profile of his recipe."),
-    (3, None, "'A magnificent idea from an unknown person.' Chef Barinov drips with sarcasm while rejecting the unsolicited menu change."),
-    (4, None, "'You came to my kitchen by accident.' He coldly reminds the young cook of his utterly unearned position."),
-    (5, None, "'Better keep peeling bananas!' Chef Barinov dismissively orders him back to the menial fruit prep."),
-    (6, None, "'Why peel off these stickers at all?' Max questions the pointless nature of this ridiculous task."),
-    (7, None, "'For ideal order in the universe.' Chef Barinov provides a mockingly philosophical reason for the busywork."),
-    (8, None, "'But I know how to prepare wonderful desserts.' Max pivots to pitching his pastry skills instead."),
-    (9, None, "'All right, I will give you one chance.' Chef Barinov surprisingly relents and agrees to a single test."),
-    (10, None, "'Our regular guest has arrived.' He mentions that a frequent VIP is currently in the dining room."),
-    (11, None, "'You will prepare dessert for Eleonora Andreyevna.' Chef Barinov assigns the rookie to cook for a supposedly important lady."),
-    (12, None, "'If the dessert is liked, you will stay here.' He sets the absolute condition for the young man keeping his job."),
-    (13, None, "'Agreed, chef!' Max immediately accepts the high-stakes culinary challenge."),
-    (14, None, "'I will make the best dessert.' He confidently promises to deliver a phenomenal sweet treat."),
+    (0, None, '\'Chef, I have an excellent idea.\' "U menya yest\'" is "at me there is", the full form of "I have". Earlier it was just "u menya dela", with "yest\'" left out.'),
+    (1, None, '\'I can prepare my signature dish.\' "Mogu" is "I can". "Firmennoye" comes from "firma", company, so a "firmennoye blyudo" is the house\'s own dish.'),
+    (2, None, '\'It is tender chicken in cream sauce.\' "Nezhnaya" is "tender", and "kuritsa" is "chicken". "Slivochnyy" comes from "slivki", cream, and "v souse" is "in the sauce".'),
+    (3, None, '\'A magnificent idea from an unknown person.\' "Velikolepnaya" has "velikiy", great, inside it. "Neizvestnogo" is "ne" plus "izvestnyy", known, so "unknown". Praise this big from Barinov is a joke at Max\'s expense.'),
+    (4, None, '\'You came to my kitchen by accident.\' "Sluchayno" comes from "sluchay", chance, which is also in "chto sluchilos\'", "what happened". "Na moyu kukhnyu" is "to my kitchen".'),
+    (5, None, '\'Better keep peeling bananas!\' "Luchshe" is "better", used as "you\'d better". "Chisti" is the command "peel", from "chistyy", clean. "Dal\'she" is "further", meaning "keep going".'),
+    (6, None, '\'Why peel off these stickers at all?\' "Zachem" is "what for". "Snimat\'" is "to take off", the everyday partner of "snimu" from the stove. "Nakleyki" are stickers, from "kleit\'", to glue.'),
+    (7, None, '\'For ideal order in the universe.\' "Poryadok" is "order", the word from "keep order on your table". "Vo vselennoy" is "in the universe": "v" becomes "vo" before a heavy cluster like "vs", just to make it sayable.'),
+    (8, None, '\'But I know how to prepare wonderful desserts.\' "No" is the plain "but", different from "a". "Prekrasnyye deserty" is plural, so the describing word ends in "-ye".'),
+    (9, None, '\'All right, I will give you one chance.\' "Dam" is "I will give", irregular and short. "Tebe" is "to you", the friendly form.'),
+    (10, None, '\'Our regular guest has arrived.\' "Postoyannyy" means "regular", and its partner "postoyanno" means "constantly". "K nam prishyol" is "has come to us".'),
+    (11, None, '\'You will prepare dessert for Eleonora Andreyevna.\' Names change after "dlya", even the father\'s name: "Eleonora" becomes "Eleonory", and "Andreyevna" becomes "Andreyevny".'),
+    (12, None, '\'If the dessert is liked, you will stay here.\' "Ponravitsya" is "will please", the future of "nravit\'sya". "Ostanyosh\'sya" is "you will stay", the "self" ending included.'),
+    (13, None, '\'Agreed, chef! I will make the best dessert.\' "Dogovorilis\'!" is the everyday "deal!", the finished partner of "dogovarivalis\'" from the morning after. "Luchshiy" already means "best", with no need for "very".'),
 ]

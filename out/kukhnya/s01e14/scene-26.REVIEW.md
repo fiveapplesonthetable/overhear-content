@@ -15,25 +15,25 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Макс | А с другой стороны... | And on the other hand... | new | new |
 | 4 | Макс | Именно благодаря ей завоёвываем уважение. | It is what earns us respect. | new | new |
 | 5 | Макс | И становимся ближе друг к другу. | And brings us closer together. | new | new |
-| 6 | Макс | Совершая безответственные поступки... | When we act irresponsibly... | #371: А совершая безответственные поступки | verbatim |
-| 7 | Макс | Мы делаем правильные выводы. | We draw the right conclusions. | #371: делаем правильные выводы | verbatim |
-| 8 | Шеф | Всё, на работе больше не пью. | That's it, I won't drink at work anymore. | #372: Все, на работе больше не пью | verbatim |
+| 6 | Макс | Совершая безответственные поступки... | When we act irresponsibly... | #371 00:23:50: А совершая безответственные поступки | verbatim |
+| 7 | Макс | Мы делаем правильные выводы. | We draw the right conclusions. | #371 00:23:50: делаем правильные выводы | verbatim |
+| 8 | Шеф | Всё, на работе больше не пью. | That's it, I won't drink at work anymore. | #372 00:23:54: Все, на работе больше не пью | verbatim |
 | 9 | Шеф | Я решил. | I've decided. | new | new |
 | 10 | Шеф | Точно не пью. | I definitely won't drink. | new | new |
-| 11 | Шеф | Но это надо отметить. | But we should celebrate that. | #374: Это надо отметить | verbatim |
+| 11 | Шеф | Но это надо отметить. | But we should celebrate that. | #374 00:24:00: Это надо отметить | verbatim |
 | 12 | Шеф | Наливай! | Pour! | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Responsibility is a strange thing.' Max reflects on the nature of duty. He calls responsibility a very strange thing.
-- 'On the one hand, we are afraid of it.' He explains the common fear associated with it. Max notes that on the one hand, people are afraid of it.
-- 'And on the other hand...' Max introduces the opposing view. He transitions to the other hand of his argument.
-- 'It is what earns us respect.' He explains the positive side of taking charge. Max says it is exactly how we earn respect.
-- 'And brings us closer together.' Max highlights the bonding power of shared challenges. He notes it brings people closer together.
-- 'When we act irresponsibly...' He points out the value of making mistakes. Max mentions that acting irresponsibly has a purpose.
-- 'We draw the right conclusions.' Max concludes his philosophical thought. He says our mistakes help us draw the right conclusions.
-- 'That's it, I won't drink at work anymore.' Chef Barinov makes a grand declaration. He swears he will never drink at work again.
-- 'I've decided.' He insists he has made a firm choice. Barinov says he has finally decided for good.
-- 'I definitely won't drink.' Barinov repeats his promise for emphasis. He firmly states he definitely will not drink.
-- 'But we should celebrate that.' He immediately finds an excuse to break his new rule. Barinov says they need to celebrate his decision.
-- 'Pour!' Barinov gives a joyful command to start the party. He enthusiastically yells to pour the drinks.
+- 'Responsibility is a strange thing.' 'Otvetstvennost' grows from otvet, 'answer', so it's 'answerability', like otvechaet za in the office. 'Shtuka' is a casual word for 'thing'.
+- 'On the one hand, we are afraid of it.' S odnoy storony is literally 'from one side'. 'Boimsya' ends in 'sya'; the verb never appears without it.
+- 'And on the other hand...' S drugoy storony, 'from the other side', completes the pair.
+- 'It is what earns us respect.' 'Blagodarya ey' is 'thanks to it', from blagodarit, to thank. 'Zavoyovyvaem' is literally 'we conquer', the verb you'd use for winning a war.
+- 'And brings us closer together.' Drug k drugu, 'friend to friend', is the fixed way to say 'each other'. 'Blizhe' is 'closer'.
+- 'When we act irresponsibly...' 'Bezotvetstvennye' is bez, 'without', plus the responsibility word. 'Sovershaya' means 'while committing', a form that ends in 'ya'.
+- 'We draw the right conclusions.' Russians 'make' conclusions, delat vyvody, where English draws them. 'Pravilnye', 'right', has the plural ending to match.
+- 'That's it, I won't drink at work anymore.' 'Vsyo', 'all', closes the topic. 'Bolshe ne' is 'no more', and na rabote is 'at work', with an 'e' after na.
+- 'I've decided.' 'Reshil' is a man's past form, a done deal. A woman would say reshila.
+- 'I definitely won't drink.' 'Tochno' is 'exactly', and here it means 'definitely'. Ne pyu is present, but it works as a promise for the future.
+- 'But we should celebrate that.' Nado otmetit is literally 'it's needed to mark it', the usual way to say 'let's celebrate'.
+- 'Pour!' 'Nalivay' is the ty command from nalit, the same verb as nalyot, Nastya's 'she will pour'. It's what you say to whoever has the bottle.
