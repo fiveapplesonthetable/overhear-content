@@ -33,7 +33,7 @@
           "lemma": "пачкать",
           "pos": "verb",
           "stress": "па́чкай",
-          "gloss": "dirty, soil",
+          "gloss": "dirty, make dirty",
           "gram": "imperative singular, imperfective"
         },
         {
@@ -42,7 +42,7 @@
           "pos": "noun",
           "stress": "таре́лки",
           "gloss": "plate",
-          "gram": "feminine singular genitive"
+          "gram": "nominative / accusative plural, feminine"
         },
         {
           "t": "потом",
@@ -542,7 +542,7 @@
           "pos": "adv",
           "stress": "опа́сно",
           "gloss": "dangerous",
-          "gram": "nominative / accusative"
+          "gram": "predicative adverb"
         },
         {
           "t": "надо",
@@ -601,7 +601,7 @@
           "lemma": "пачкать",
           "pos": "verb",
           "stress": "па́чкай",
-          "gloss": "dirty, soil",
+          "gloss": "dirty, make dirty",
           "gram": "imperative singular, imperfective"
         },
         {
@@ -610,7 +610,7 @@
           "pos": "noun",
           "stress": "таре́лки",
           "gloss": "plate",
-          "gram": "feminine singular genitive"
+          "gram": "nominative / accusative plural, feminine"
         },
         {
           "t": "потом",
@@ -1110,7 +1110,7 @@
           "pos": "adv",
           "stress": "опа́сно",
           "gloss": "dangerous",
-          "gram": "nominative / accusative"
+          "gram": "predicative adverb"
         },
         {
           "t": "надо",
@@ -1169,7 +1169,7 @@
           "lemma": "пачкать",
           "pos": "verb",
           "stress": "па́чкай",
-          "gloss": "dirty, soil",
+          "gloss": "dirty, make dirty",
           "gram": "imperative singular, imperfective"
         },
         {
@@ -1178,7 +1178,7 @@
           "pos": "noun",
           "stress": "таре́лки",
           "gloss": "plate",
-          "gram": "feminine singular genitive"
+          "gram": "nominative / accusative plural, feminine"
         },
         {
           "t": "потом",
@@ -1678,7 +1678,7 @@
           "pos": "adv",
           "stress": "опа́сно",
           "gloss": "dangerous",
-          "gram": "nominative / accusative"
+          "gram": "predicative adverb"
         },
         {
           "t": "надо",
@@ -2049,11 +2049,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2108,6 +2108,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2143,12 +2160,12 @@
       "lemma": "водичка",
       "stress": "води́чка",
       "pos": "noun",
-      "gloss": "some water",
+      "gloss": "water (affectionate)",
       "gender": "f",
       "meanings": [
         {
-          "en": "some water",
-          "note": "Common feminine noun meaning 'some water' in everyday Russian."
+          "en": "water (affectionate diminutive)",
+          "note": "налей водички = pour me a bit of water"
         }
       ],
       "forms": {
@@ -2170,7 +2187,7 @@
             "cells": [
               "genitive",
               "водички",
-              "водичк"
+              "водичек"
             ]
           },
           {
@@ -2207,14 +2224,19 @@
       "examples": [
         {
           "text": "Слушай, налей водички, пить хочется.",
-          "trans": "Listen, pour me some water, I am so thirsty."
+          "trans": "Listen, pour me some water, I'm thirsty."
         },
         {
-          "text": "На кухне ресторана всегда есть водичка.",
-          "trans": "In the restaurant kitchen there is always some water."
+          "text": "Хотите, я принесу вам водички?",
+          "trans": "Would you like me to bring you some water?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "вода",
+          "gloss": "water"
+        }
+      ]
     },
     "вот": {
       "lemma": "вот",
@@ -2224,11 +2246,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2258,84 +2280,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "да": {
       "lemma": "да",
       "stress": "да",
@@ -2348,7 +2292,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2374,49 +2318,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2427,11 +2328,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2522,15 +2427,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2624,7 +2529,7 @@
       "meanings": [
         {
           "en": "diet (food restriction)",
-          "note": "Common feminine noun meaning 'diet' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2700,11 +2605,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2746,11 +2651,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2818,10 +2723,6 @@
       "meanings": [
         {
           "en": "belly, tummy",
-          "note": "у меня болит живот = I have a stomach ache"
-        },
-        {
-          "en": "stomach",
           "note": "у меня болит живот = I have a stomach ache"
         }
       ],
@@ -2902,11 +2803,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3331,11 +3232,11 @@
       "meanings": [
         {
           "en": "by the way, speaking of which",
-          "note": "Used as a parenthetical word. Core Russian adv meaning 'by the way; handy' in everyday speech."
+          "note": "Used as a parenthetical word."
         },
         {
           "en": "handy, well-timed",
-          "note": "Это очень кстати. Core Russian adv meaning 'by the way; handy' in everyday speech."
+          "note": "Это очень кстати."
         }
       ],
       "forms": null,
@@ -3364,7 +3265,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -3386,7 +3287,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -3398,7 +3303,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -3432,11 +3337,11 @@
       "meanings": [
         {
           "en": "a lot, much, many",
-          "note": "+ genitive plural: много дел. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive plural: много дел."
         },
         {
           "en": "больше = more",
-          "note": "Comparative. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Comparative."
         }
       ],
       "forms": null,
@@ -3705,7 +3610,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3901,11 +3806,11 @@
       "lemma": "опасно",
       "stress": "опа́сно",
       "pos": "adv",
-      "gloss": "dangerous",
+      "gloss": "dangerously; (it is) dangerous",
       "meanings": [
         {
-          "en": "dangerous",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "en": "dangerously; (it is) dangerous",
+          "note": "Often predicative: это опасно = that's dangerous."
         }
       ],
       "forms": null,
@@ -3939,13 +3844,13 @@
       "lemma": "пачкать",
       "stress": "па́чкать",
       "pos": "verb",
-      "gloss": "dirty, soil",
+      "gloss": "to dirty, to soil",
       "aspect": "impf",
-      "pair": null,
+      "pair": "испачкать",
       "meanings": [
         {
-          "en": "dirty, soil",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'dirty, soil'."
+          "en": "to dirty, to soil, to stain",
+          "note": ""
         }
       ],
       "forms": {
@@ -4000,40 +3905,57 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "пачкай",
+                "пачкайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Ладно, пачкай тарелки, потом иди мой.",
-          "trans": "Alright, dirty the plates, then go wash them."
+          "trans": "All right, dirty the plates, then go and wash them."
         },
         {
-          "text": "Надо всё сделать и пачкать вовремя.",
-          "trans": "We need to do everything and dirty on time."
+          "text": "Не пачкай руки!",
+          "trans": "Don't get your hands dirty!"
         }
       ],
       "related": [
         {
-          "word": "попачкать",
-          "gloss": "to dirty (prefixed perfective)"
+          "word": "испачкать",
+          "gloss": "to dirty (pf)"
         },
         {
-          "word": "не пачкать",
-          "gloss": "not to dirty (negated infinitive)"
+          "word": "грязный",
+          "gloss": "dirty"
         }
       ]
     },
     "позавтракать": {
       "lemma": "позавтракать",
-      "stress": "позавтра́кать",
+      "stress": "поза́втракать",
       "pos": "verb",
-      "gloss": "had breakfast",
+      "gloss": "to have breakfast",
       "aspect": "pf",
-      "pair": null,
+      "pair": "завтракать",
       "meanings": [
         {
-          "en": "had breakfast",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'завтракать'). Used as a perfective (single completed action) verb meaning 'had breakfast'."
+          "en": "to have breakfast",
+          "note": ""
         }
       ],
       "forms": {
@@ -4088,6 +4010,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "позавтракай",
+                "позавтракайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4096,18 +4035,18 @@
           "trans": "I didn't have breakfast today."
         },
         {
-          "text": "Надо всё сделать и позавтракать вовремя.",
-          "trans": "We need to do everything and had breakfast on time."
+          "text": "А ты со мной не позавтракаешь?",
+          "trans": "Won't you have breakfast with me?"
         }
       ],
       "related": [
         {
           "word": "завтракать",
-          "gloss": "to had breakfast (base verb)"
+          "gloss": "to have breakfast (impf)"
         },
         {
-          "word": "не позавтракать",
-          "gloss": "not to had breakfast (negated infinitive)"
+          "word": "завтрак",
+          "gloss": "breakfast"
         }
       ]
     },
@@ -4119,7 +4058,7 @@
       "meanings": [
         {
           "en": "then, afterwards, later",
-          "note": "Core Russian adv meaning 'then, later, afterwards' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4146,10 +4085,11 @@
       "pos": "noun",
       "gloss": "limit",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "limit",
-          "note": "Common masculine noun meaning 'limit' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4207,26 +4147,30 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Потому что я предала свои принципы.",
-          "trans": "Because I betrayed my principles."
+          "text": "Но это не предел.",
+          "trans": "But that's not the limit."
         },
         {
-          "text": "Если я предала принципы, значит, я и тебя могу предать.",
-          "trans": "If I betrayed my principles, that means I could betray you too."
+          "text": "Да, это ещё не предел.",
+          "trans": "Yes, and that's not the limit yet."
         },
         {
-          "text": "Представляешь, у них три су-шефа.",
-          "trans": "Can you imagine, they have three sous-chefs."
+          "text": "Всему есть предел!",
+          "trans": "There's a limit to everything!"
         }
       ],
       "related": [
         {
-          "word": "без преде",
-          "gloss": "without limit"
+          "word": "предельно",
+          "gloss": "extremely"
         },
         {
-          "word": "наш предел",
-          "gloss": "our limit"
+          "word": "граница",
+          "gloss": "border, limit"
+        },
+        {
+          "word": "беспредел",
+          "gloss": "lawlessness"
         }
       ]
     },
@@ -4238,7 +4182,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -4302,13 +4246,17 @@
       "lemma": "сбросить",
       "stress": "сбро́сить",
       "pos": "verb",
-      "gloss": "to drop",
+      "gloss": "to drop, throw off; to lose (weight)",
       "aspect": "pf",
-      "pair": null,
+      "pair": "сбрасывать",
       "meanings": [
         {
-          "en": "to drop",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (root 'бросить'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to drop'."
+          "en": "to drop, throw down/off",
+          "note": ""
+        },
+        {
+          "en": "to lose (weight)",
+          "note": "сбросить вес = to lose weight"
         }
       ],
       "forms": {
@@ -4363,6 +4311,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "сбрось",
+                "сбросьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4386,11 +4351,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4462,8 +4427,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -4476,7 +4449,7 @@
       "meanings": [
         {
           "en": "plate, platter, bowl",
-          "note": "Tableware. Common feminine noun meaning 'plate, platter, dish' in everyday Russian."
+          "note": "Tableware."
         }
       ],
       "forms": {
@@ -4687,11 +4660,11 @@
       "pos": "verb",
       "gloss": "to shrink, get smaller",
       "aspect": "impf",
-      "pair": null,
+      "pair": "уменьшиться",
       "meanings": [
         {
           "en": "to shrink, get smaller",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to shrink, get smaller'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4746,6 +4719,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "уменьшайся",
+                "уменьшайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4754,14 +4744,18 @@
           "trans": "And your belly will get smaller."
         },
         {
-          "text": "Надо всё сделать и уменьшаться вовремя.",
-          "trans": "We need to do everything and to shrink on time."
+          "text": "Очередь медленно уменьшалась.",
+          "trans": "The queue was slowly getting shorter."
         }
       ],
       "related": [
         {
-          "word": "не уменьшаться",
-          "gloss": "not to to shrink (negated infinitive)"
+          "word": "уменьшить",
+          "gloss": "to reduce"
+        },
+        {
+          "word": "меньше",
+          "gloss": "less, smaller"
         }
       ]
     },
@@ -4769,17 +4763,17 @@
       "lemma": "фиксировать",
       "stress": "фикси́ровать",
       "pos": "verb",
-      "gloss": "to record / track",
+      "gloss": "to record, register",
       "aspect": "impf",
-      "pair": null,
+      "pair": "зафиксировать",
       "meanings": [
         {
           "en": "to record / track",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to record / track'."
+          "note": ""
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -4830,36 +4824,57 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "фиксируй",
+                "фиксируйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Чтобы строго фиксировать, когда сотрудник приходит.",
-          "trans": "To strictly record when an employee arrives."
+          "trans": "To keep a strict record of when an employee arrives."
         },
         {
-          "text": "Надо всё сделать и фиксировать вовремя.",
-          "trans": "We need to do everything and to record on time."
+          "text": "Кстати, давай мы будем это всё фиксировать.",
+          "trans": "By the way, let's write all this down."
         }
       ],
       "related": [
         {
-          "word": "не фиксировать",
-          "gloss": "not to to record (negated infinitive)"
+          "word": "зафиксировать",
+          "gloss": "to record (pf)"
+        },
+        {
+          "word": "записывать",
+          "gloss": "to write down"
         }
       ]
     },
     "фотографировать": {
       "lemma": "фотографировать",
-      "stress": "фотографиро́вать",
+      "stress": "фотографи́ровать",
       "pos": "verb",
       "gloss": "to photograph",
       "aspect": "impf",
-      "pair": null,
+      "pair": "сфотографировать",
       "meanings": [
         {
           "en": "to photograph",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to photograph'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4914,22 +4929,47 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "фотографируй",
+                "фотографируйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Будем каждый день тебя фотографировать.",
-          "trans": "We will photograph you every day."
+          "trans": "We'll photograph you every day."
         },
         {
-          "text": "Надо всё сделать и фотографировать вовремя.",
-          "trans": "We need to do everything and to photograph on time."
+          "text": "Здесь нельзя фотографировать.",
+          "trans": "You can't take photos here."
         }
       ],
       "related": [
         {
-          "word": "не фотографировать",
-          "gloss": "not to to photograph (negated infinitive)"
+          "word": "сфотографировать",
+          "gloss": "to photograph (pf)"
+        },
+        {
+          "word": "фотограф",
+          "gloss": "photographer"
+        },
+        {
+          "word": "фотография",
+          "gloss": "photograph"
         }
       ]
     },
@@ -5037,7 +5077,7 @@
       "meanings": [
         {
           "en": "to joke",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to joke', paired with 'пошутить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5089,6 +5129,23 @@
                 "шутила",
                 "шутило",
                 "шутили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "шути",
+                "шутите"
               ]
             }
           ]

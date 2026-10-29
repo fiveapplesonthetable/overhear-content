@@ -123,8 +123,8 @@
           "lemma": "пошутить",
           "pos": "verb",
           "stress": "пошути́л",
-          "gloss": "to joke, to make a joke",
-          "gram": "pf praet m sg"
+          "gloss": "joked",
+          "gram": "past tense, masculine singular, perfective"
         }
       ]
     },
@@ -158,14 +158,14 @@
           "t": "Степан",
           "lemma": "степан",
           "pos": "name",
-          "stress": null,
+          "stress": "степа́н",
           "gloss": "Stepan",
           "gram": "first name, used to address him"
         },
         {
           "t": "Андреевич?",
           "lemma": "андреевич",
-          "pos": "noun",
+          "pos": "name",
           "stress": "андрее́вич",
           "gloss": "andreyevich",
           "gram": "nominative / accusative"
@@ -229,7 +229,7 @@
           "lemma": "балет",
           "pos": "noun",
           "stress": "бале́т",
-          "gloss": "(chose) ballet",
+          "gloss": "ballet",
           "gram": "masculine singular nominative/accusative"
         },
         {
@@ -489,8 +489,8 @@
           "lemma": "пошутить",
           "pos": "verb",
           "stress": "пошути́л",
-          "gloss": "to joke, to make a joke",
-          "gram": "pf praet m sg"
+          "gloss": "joked",
+          "gram": "past tense, masculine singular, perfective"
         }
       ]
     },
@@ -524,14 +524,14 @@
           "t": "Степан",
           "lemma": "степан",
           "pos": "name",
-          "stress": null,
+          "stress": "степа́н",
           "gloss": "Stepan",
           "gram": "first name, used to address him"
         },
         {
           "t": "Андреевич?",
           "lemma": "андреевич",
-          "pos": "noun",
+          "pos": "name",
           "stress": "андрее́вич",
           "gloss": "andreyevich",
           "gram": "nominative / accusative"
@@ -595,7 +595,7 @@
           "lemma": "балет",
           "pos": "noun",
           "stress": "бале́т",
-          "gloss": "(chose) ballet",
+          "gloss": "ballet",
           "gram": "masculine singular nominative/accusative"
         },
         {
@@ -855,8 +855,8 @@
           "lemma": "пошутить",
           "pos": "verb",
           "stress": "пошути́л",
-          "gloss": "to joke, to make a joke",
-          "gram": "pf praet m sg"
+          "gloss": "joked",
+          "gram": "past tense, masculine singular, perfective"
         }
       ]
     },
@@ -890,14 +890,14 @@
           "t": "Степан",
           "lemma": "степан",
           "pos": "name",
-          "stress": null,
+          "stress": "степа́н",
           "gloss": "Stepan",
           "gram": "first name, used to address him"
         },
         {
           "t": "Андреевич?",
           "lemma": "андреевич",
-          "pos": "noun",
+          "pos": "name",
           "stress": "андрее́вич",
           "gloss": "andreyevich",
           "gram": "nominative / accusative"
@@ -961,7 +961,7 @@
           "lemma": "балет",
           "pos": "noun",
           "stress": "бале́т",
-          "gloss": "(chose) ballet",
+          "gloss": "ballet",
           "gram": "masculine singular nominative/accusative"
         },
         {
@@ -1117,90 +1117,13 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
     }
   ],
   "lexicon": {
-    "андреевич": {
-      "lemma": "андреевич",
-      "stress": "андрее́вич",
-      "pos": "noun",
-      "gloss": "andreyevich",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "andreyevich",
-          "note": "Common masculine noun meaning 'andreyevich' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "андреевич",
-              "андреевичи"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "андреевича",
-              "андреевичей"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "андреевичу",
-              "андреевичам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "андреевич",
-              "андреевичи"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "андреевичем",
-              "андреевичами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "андреевиче",
-              "андреевичах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Степан Андреевич заболел, к нам нельзя.",
-          "trans": "Stepan Andreyevich got sick, so he can't come home."
-        },
-        {
-          "text": "Степан Андреевич?",
-          "trans": "Stepan Andreyevich?"
-        }
-      ],
-      "related": []
-    },
     "балет": {
       "lemma": "балет",
       "stress": "бале́т",
@@ -1449,11 +1372,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1550,7 +1473,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -1584,11 +1507,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1664,11 +1587,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -1830,7 +1753,7 @@
       "meanings": [
         {
           "en": "impudence, nerve, gall, audacity",
-          "note": "Вот это наглость! = What nerve!. Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'impudence, nerve, audacity' in everyday Russian."
+          "note": "Вот это наглость! = What nerve!."
         }
       ],
       "forms": {
@@ -1990,7 +1913,7 @@
       "meanings": [
         {
           "en": "on foot",
-          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'on foot'."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2017,7 +1940,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -2156,7 +2079,7 @@
       "meanings": [
         {
           "en": "to joke, to kid",
-          "note": "Я пошутил(а) = I was only joking. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'шутить'). Used as a perfective (single completed action) verb meaning 'to joke, to make a joke', paired with 'шутить'."
+          "note": "Я пошутил(а) = I was only joking. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'шутить')."
         }
       ],
       "forms": {
@@ -2241,7 +2164,7 @@
         },
         {
           "text": "Может быть, шеф просто неудачно пошутил?",
-          "trans": "Maybe the chef was just joking unsuccessfully?"
+          "trans": "Maybe the chef just made a bad joke?"
         }
       ],
       "related": [
@@ -2265,7 +2188,7 @@
       "meanings": [
         {
           "en": "to talk, to speak, to have a conversation",
-          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'говаривать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to talk, to speak'."
+          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'говаривать')."
         }
       ],
       "forms": {
@@ -2320,6 +2243,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "разговаривай",
+                "разговаривайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2361,7 +2301,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -2452,15 +2392,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -2473,11 +2413,11 @@
       "meanings": [
         {
           "en": "sense, meaning",
-          "note": "'В смысле?'. Common masculine noun meaning 'sense, meaning' in everyday Russian."
+          "note": "'В смысле?'."
         },
         {
           "en": "what do you mean?",
-          "note": "'В смысле?'. Common masculine noun meaning 'sense, meaning' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2730,7 +2670,7 @@
       "meanings": [
         {
           "en": "to leave on foot, go away",
-          "note": "Used as a perfective (single completed action) verb meaning 'to leave, go away', paired with 'уходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2921,7 +2861,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3068,7 +3008,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -3120,6 +3060,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -3331,105 +3288,6 @@
         {
           "word": "этот",
           "gloss": "this (before a noun)"
-        }
-      ]
-    },
-    "этот": {
-      "lemma": "этот",
-      "stress": "э́тот",
-      "pos": "det",
-      "gloss": "this",
-      "meanings": [
-        {
-          "en": "this",
-          "note": "alone: 'я этого не хочу' = I don't want that"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "этот",
-              "эта",
-              "это",
-              "эти"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "этого",
-              "этой",
-              "этого",
-              "этих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "этому",
-              "этой",
-              "этому",
-              "этим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "этот / этого",
-              "эту",
-              "это",
-              "эти / этих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "этим",
-              "этой",
-              "этим",
-              "этими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "этом",
-              "этой",
-              "этом",
-              "этих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Этот дом.",
-          "trans": "This house."
-        },
-        {
-          "text": "Меня тошнит от этой коммуналки.",
-          "trans": "I'm sick of this communal flat."
-        },
-        {
-          "text": "Меня уже тошнит от этой коммуналки! У нас труба уже неделю течёт.",
-          "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
-        }
-      ],
-      "related": [
-        {
-          "word": "это",
-          "gloss": "this is, it"
         }
       ]
     },

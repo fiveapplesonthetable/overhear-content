@@ -58,7 +58,7 @@
           "pos": "adj",
           "stress": "любу́ю",
           "gloss": "any",
-          "gram": "feminine singular accusative pronoun"
+          "gram": "accusative, feminine singular"
         },
         {
           "t": "можно",
@@ -94,9 +94,9 @@
           "t": "пойдут",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "по́йдут",
-          "gloss": "to go (set off)",
-          "gram": "3rd person plural"
+          "stress": "пойду́т",
+          "gloss": "will go",
+          "gram": "3rd person plural future, perfective"
         },
         {
           "t": "на",
@@ -150,7 +150,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "гордость.",
@@ -409,8 +409,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "Виктор",
@@ -594,7 +594,7 @@
           "pos": "adj",
           "stress": "любу́ю",
           "gloss": "any",
-          "gram": "feminine singular accusative pronoun"
+          "gram": "accusative, feminine singular"
         },
         {
           "t": "можно",
@@ -630,9 +630,9 @@
           "t": "пойдут",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "по́йдут",
-          "gloss": "to go (set off)",
-          "gram": "3rd person plural"
+          "stress": "пойду́т",
+          "gloss": "will go",
+          "gram": "3rd person plural future, perfective"
         },
         {
           "t": "на",
@@ -686,7 +686,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "гордость.",
@@ -945,8 +945,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "Виктор",
@@ -1130,7 +1130,7 @@
           "pos": "adj",
           "stress": "любу́ю",
           "gloss": "any",
-          "gram": "feminine singular accusative pronoun"
+          "gram": "accusative, feminine singular"
         },
         {
           "t": "можно",
@@ -1166,9 +1166,9 @@
           "t": "пойдут",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "по́йдут",
-          "gloss": "to go (set off)",
-          "gram": "3rd person plural"
+          "stress": "пойду́т",
+          "gloss": "will go",
+          "gram": "3rd person plural future, perfective"
         },
         {
           "t": "на",
@@ -1222,7 +1222,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "гордость.",
@@ -1481,8 +1481,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "Виктор",
@@ -1678,14 +1678,14 @@
     },
     "благотворительность": {
       "lemma": "благотворительность",
-      "stress": "благотворите́льность",
+      "stress": "благотвори́тельность",
       "pos": "noun",
       "gloss": "charity",
       "gender": "f",
       "meanings": [
         {
           "en": "charity",
-          "note": "Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'charity' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1747,18 +1747,18 @@
           "trans": "The money will go to charity."
         },
         {
-          "text": "На кухне отеля всегда есть благотворительность.",
-          "trans": "In the hotel kitchen there is always charity."
+          "text": "А не заниматься благотворительностью.",
+          "trans": "And not do charity work."
         }
       ],
       "related": [
         {
-          "word": "без благотворительност",
-          "gloss": "without charity"
+          "word": "благотворительный",
+          "gloss": "charity, charitable"
         },
         {
-          "word": "наш благотворительность",
-          "gloss": "our charity"
+          "word": "спонсор",
+          "gloss": "sponsor"
         }
       ]
     },
@@ -1981,11 +1981,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2040,6 +2040,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2079,11 +2096,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2122,7 +2139,7 @@
       "meanings": [
         {
           "en": "pride",
-          "note": "Singular only. Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'pride' in everyday Russian."
+          "note": "Singular only."
         }
       ],
       "forms": {
@@ -2137,42 +2154,42 @@
             "cells": [
               "nominative",
               "гордость",
-              "—"
+              "гордости"
             ]
           },
           {
             "cells": [
               "genitive",
               "гордости",
-              "—"
+              "гордостей"
             ]
           },
           {
             "cells": [
               "dative",
               "гордости",
-              "—"
+              "гордостям"
             ]
           },
           {
             "cells": [
               "accusative",
               "гордость",
-              "—"
+              "гордости"
             ]
           },
           {
             "cells": [
               "instrumental",
               "гордостью",
-              "—"
+              "гордостями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "гордости",
-              "—"
+              "гордостях"
             ]
           }
         ]
@@ -2204,7 +2221,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -2289,11 +2305,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2399,87 +2415,6 @@
         }
       ]
     },
-    "искусство": {
-      "lemma": "искусство",
-      "stress": "иску́сство",
-      "pos": "noun",
-      "gloss": "art, skill",
-      "gender": "n",
-      "meanings": [
-        {
-          "en": "art; skill, mastery",
-          "note": "Искусство войны = The Art of War. Common neuter noun meaning 'art, skill' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "искусство",
-              "искусства"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "искусства",
-              "искусств"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "искусству",
-              "искусствам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "искусство",
-              "искусства"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "искусством",
-              "искусствами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "искусстве",
-              "искусствах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Читай Искусство войны, Сунь-цзы!",
-          "trans": "Read The Art of War, by Sun Tzu!"
-        },
-        {
-          "text": "Она очень любит современное искусство.",
-          "trans": "She loves modern art very much."
-        },
-        {
-          "text": "Это настоящее кулинарное произведение искусства!",
-          "trans": "This is a real culinary work of art!"
-        }
-      ],
-      "related": []
-    },
     "какой": {
       "lemma": "какой",
       "stress": "како́й",
@@ -2488,7 +2423,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -2596,7 +2531,7 @@
       "meanings": [
         {
           "en": "painting, piece of art",
-          "note": "Common feminine noun meaning 'painting, picture' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2674,10 +2609,11 @@
       "pos": "noun",
       "gloss": "liar",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "liar",
-          "note": "Common masculine noun meaning 'liar' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2712,8 +2648,8 @@
           {
             "cells": [
               "accusative",
-              "лжец",
-              "лжецы"
+              "лжеца",
+              "лжецов"
             ]
           },
           {
@@ -2736,21 +2672,25 @@
       "examples": [
         {
           "text": "Потому что он трус и лжец.",
-          "trans": "Because he is a coward and a liar."
+          "trans": "Because he's a coward and a liar."
         },
         {
-          "text": "На кухне отеля всегда есть лжец.",
-          "trans": "In the hotel kitchen there is always liar."
+          "text": "Сегодня этот лжец спас вам жизнь.",
+          "trans": "Today this liar saved your life."
         }
       ],
       "related": [
         {
-          "word": "без лже",
-          "gloss": "without liar"
+          "word": "ложь",
+          "gloss": "lie"
         },
         {
-          "word": "наш лжец",
-          "gloss": "our liar"
+          "word": "лгать",
+          "gloss": "to lie"
+        },
+        {
+          "word": "врун",
+          "gloss": "liar (colloquial)"
         }
       ]
     },
@@ -2762,7 +2702,7 @@
       "meanings": [
         {
           "en": "personally, in person",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2796,7 +2736,7 @@
       "meanings": [
         {
           "en": "any",
-          "note": "В любой момент = at any moment. Agrees in gender, number, and case with the noun it modifies ('any')."
+          "note": "В любой момент = at any moment."
         }
       ],
       "forms": {
@@ -2890,11 +2830,11 @@
       "meanings": [
         {
           "en": "may I?, can I?",
-          "note": "Asking permission. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Asking permission."
         },
         {
           "en": "it is possible",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3027,7 +2967,7 @@
       "meanings": [
         {
           "en": "husband",
-          "note": "Мой муж = my husband. Common masculine noun meaning 'husband' in everyday Russian."
+          "note": "Мой муж = my husband."
         }
       ],
       "forms": {
@@ -3243,7 +3183,7 @@
       "meanings": [
         {
           "en": "to write (and finish)",
-          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'писать'). Used as a perfective (single completed action) verb meaning 'to write', paired with 'писать'."
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'писать')."
         }
       ],
       "forms": {
@@ -3346,90 +3286,6 @@
         }
       ]
     },
-    "наслаждаться": {
-      "lemma": "наслаждаться",
-      "stress": "наслажда́ться",
-      "pos": "verb",
-      "gloss": "enjoy",
-      "aspect": "impf",
-      "pair": null,
-      "meanings": [
-        {
-          "en": "enjoy",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'enjoy'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "наслаждаюсь",
-              "наслаждаемся"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "наслаждаешься",
-              "наслаждаетесь"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "наслаждается",
-              "наслаждаются"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "наслаждался",
-                "наслаждалась",
-                "наслаждалось",
-                "наслаждались"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Надо всё сделать и наслаждаться вовремя.",
-          "trans": "We need to do everything and enjoy on time."
-        },
-        {
-          "text": "На нашей кухне все умеют наслаждаться.",
-          "trans": "In our kitchen everyone knows how to enjoy."
-        }
-      ],
-      "related": [
-        {
-          "word": "не наслаждаться",
-          "gloss": "not to enjoy (negated infinitive)"
-        }
-      ]
-    },
     "не": {
       "lemma": "не",
       "stress": "не",
@@ -3478,11 +3334,11 @@
       "meanings": [
         {
           "en": "to deceive, to cheat",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to deceive, to cheat', paired with 'обмануть'."
+          "note": ""
         },
         {
           "en": "to lie to",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to deceive, to cheat', paired with 'обмануть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3679,7 +3535,7 @@
       "meanings": [
         {
           "en": "first",
-          "note": "С первого раза = the first time. Agrees in gender, number, and case with the noun it modifies ('first')."
+          "note": "С первого раза = the first time."
         }
       ],
       "forms": {
@@ -3775,7 +3631,7 @@
       "meanings": [
         {
           "en": "to call, to phone",
-          "note": "+ dative: 'позвони мне' = call me. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звонить'). Used as a perfective (single completed action) verb meaning 'to call, to phone', paired with 'звонить'."
+          "note": "+ dative: 'позвони мне' = call me. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звонить')."
         }
       ],
       "forms": {
@@ -3884,11 +3740,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -4031,7 +3887,7 @@
       "meanings": [
         {
           "en": "to confess, to admit",
-          "note": "+ в + prepositional. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'знаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to confess, to admit', paired with 'признаваться'."
+          "note": "+ в + prepositional. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'знаться')."
         }
       ],
       "forms": {
@@ -4144,7 +4000,7 @@
       "meanings": [
         {
           "en": "to bring (carrying on foot)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести'). Used as a perfective (single completed action) verb meaning 'to bring (on foot)', paired with 'приносить'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести')."
         }
       ],
       "forms": {
@@ -4249,15 +4105,15 @@
     },
     "приобрести": {
       "lemma": "приобрести",
-      "stress": "приобре́сти",
+      "stress": "приобрести́",
       "pos": "verb",
-      "gloss": "acquired / bought",
+      "gloss": "to acquire, to buy",
       "aspect": "pf",
-      "pair": null,
+      "pair": "приобретать",
       "meanings": [
         {
-          "en": "acquired / bought",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'обрести'). Used as a perfective (single completed action) verb meaning 'acquired / bought'."
+          "en": "to acquire, to buy, to obtain",
+          "note": "formal for купить"
         }
       ],
       "forms": {
@@ -4271,22 +4127,22 @@
           {
             "cells": [
               "1st",
-              "приобресю",
-              "приобресем"
+              "приобрету",
+              "приобретём"
             ]
           },
           {
             "cells": [
               "2nd",
-              "приобресешь",
-              "приобресете"
+              "приобретёшь",
+              "приобретёте"
             ]
           },
           {
             "cells": [
               "3rd",
-              "приобресет",
-              "приобресют"
+              "приобретёт",
+              "приобретут"
             ]
           }
         ]
@@ -4305,10 +4161,27 @@
             {
               "cells": [
                 "past",
-                "приобресл",
-                "приобресла",
-                "приобресло",
-                "приобресли"
+                "приобрёл",
+                "приобрела",
+                "приобрело",
+                "приобрели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "приобрети",
+                "приобретите"
               ]
             }
           ]
@@ -4316,18 +4189,22 @@
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и приобрести вовремя.",
-          "trans": "We need to do everything and acquired on time."
+          "text": "Любую можно приобрести.",
+          "trans": "You can buy any of them."
         },
         {
-          "text": "На нашей кухне все умеют приобрести.",
-          "trans": "In our kitchen everyone knows how to acquired."
+          "text": "Точнее, ресторан приобрёл нового совладельца.",
+          "trans": "More precisely, the restaurant has acquired a new co-owner."
         }
       ],
       "related": [
         {
-          "word": "не приобрести",
-          "gloss": "not to acquired (negated infinitive)"
+          "word": "приобретение",
+          "gloss": "acquisition"
+        },
+        {
+          "word": "купить",
+          "gloss": "to buy"
         }
       ]
     },
@@ -4519,7 +4396,7 @@
       "meanings": [
         {
           "en": "coward",
-          "note": "Person who lacks courage. Common masculine noun meaning 'coward' in everyday Russian."
+          "note": "Person who lacks courage."
         }
       ],
       "forms": {
@@ -4554,8 +4431,8 @@
           {
             "cells": [
               "accusative",
-              "труса",
-              "трусов"
+              "трус",
+              "трусы"
             ]
           },
           {
@@ -4696,7 +4573,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4748,6 +4625,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -4896,42 +4790,42 @@
             "cells": [
               "nominative",
               "шампанское",
-              "—"
+              "шампанские"
             ]
           },
           {
             "cells": [
               "genitive",
               "шампанского",
-              "—"
+              "шампанских"
             ]
           },
           {
             "cells": [
               "dative",
               "шампанскому",
-              "—"
+              "шампанским"
             ]
           },
           {
             "cells": [
               "accusative",
               "шампанское",
-              "—"
+              "шампанские"
             ]
           },
           {
             "cells": [
               "instrumental",
               "шампанским",
-              "—"
+              "шампанскими"
             ]
           },
           {
             "cells": [
               "prepositional",
               "шампанском",
-              "—"
+              "шампанских"
             ]
           }
         ]

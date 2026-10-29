@@ -44,7 +44,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "начинать?",
@@ -82,7 +82,7 @@
           "pos": "noun",
           "stress": "моме́нт",
           "gloss": "moment",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -230,7 +230,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         },
         {
           "t": "в",
@@ -648,7 +648,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "начинать?",
@@ -686,7 +686,7 @@
           "pos": "noun",
           "stress": "моме́нт",
           "gloss": "moment",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -834,7 +834,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         },
         {
           "t": "в",
@@ -1252,7 +1252,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "начинать?",
@@ -1290,7 +1290,7 @@
           "pos": "noun",
           "stress": "моме́нт",
           "gloss": "moment",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -1438,7 +1438,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         },
         {
           "t": "в",
@@ -2183,84 +2183,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "готовый": {
       "lemma": "готовый",
       "stress": "гото́вый",
@@ -2338,29 +2260,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "готов",
-                "готова",
-                "готово",
-                "готовы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я готов!",
@@ -2398,11 +2298,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2441,7 +2341,7 @@
       "meanings": [
         {
           "en": "post, position",
-          "note": "A job title, e.g. boss, director. Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'post, position' in everyday Russian."
+          "note": "A job title, e.g. boss, director."
         }
       ],
       "forms": {
@@ -2525,11 +2425,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2560,11 +2460,11 @@
       "meanings": [
         {
           "en": "to wait (for)",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": "+ accusative."
         },
         {
           "en": "to expect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2671,7 +2571,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -2779,7 +2679,7 @@
       "meanings": [
         {
           "en": "flat, apartment",
-          "note": "Also a flat number in an address. Common feminine noun meaning 'flat, apartment' in everyday Russian."
+          "note": "Also a flat number in an address."
         }
       ],
       "forms": {
@@ -2868,7 +2768,7 @@
       "meanings": [
         {
           "en": "when",
-          "note": "Question word and conjunction. Core Russian adv meaning 'when' in everyday speech."
+          "note": "Question word and conjunction."
         }
       ],
       "forms": null,
@@ -3000,12 +2900,8 @@
           "gloss": "communal flat"
         },
         {
-          "word": "комментарий",
-          "gloss": "comment"
-        },
-        {
-          "word": "коммунистка",
-          "gloss": "communist"
+          "word": "коммунальные услуги",
+          "gloss": "utilities"
         }
       ]
     },
@@ -3017,7 +2913,7 @@
       "meanings": [
         {
           "en": "any",
-          "note": "В любой момент = at any moment. Agrees in gender, number, and case with the noun it modifies ('any')."
+          "note": "В любой момент = at any moment."
         }
       ],
       "forms": {
@@ -3111,7 +3007,7 @@
       "meanings": [
         {
           "en": "small, little",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('small, little')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3198,7 +3094,11 @@
       "related": [
         {
           "word": "маленько",
-          "gloss": "in a small way (adv.)"
+          "gloss": "a little, a bit (colloq.)"
+        },
+        {
+          "word": "большой",
+          "gloss": "big"
         }
       ]
     },
@@ -3296,7 +3196,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3332,7 +3232,7 @@
       "meanings": [
         {
           "en": "to begin, to start",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to begin, to start', paired with 'начать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3412,8 +3312,8 @@
           "trans": "When do I start?"
         },
         {
-          "text": "Урок начинается в девять.",
-          "trans": "The lesson starts at nine."
+          "text": "Ну что ты начинаешь?",
+          "trans": "Oh, don't start."
         },
         {
           "text": "Аркаш, ну что скажешь? Когда начинать?",
@@ -3771,11 +3671,11 @@
       "meanings": [
         {
           "en": "security guards",
-          "note": "As a group. Common feminine noun meaning 'security, guards' in everyday Russian."
+          "note": "As a group."
         },
         {
           "en": "protection",
-          "note": "Common feminine noun meaning 'security, guards' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3790,42 +3690,42 @@
             "cells": [
               "nominative",
               "охрана",
-              "—"
+              "охраны"
             ]
           },
           {
             "cells": [
               "genitive",
               "охраны",
-              "—"
+              "охран"
             ]
           },
           {
             "cells": [
               "dative",
               "охране",
-              "—"
+              "охранам"
             ]
           },
           {
             "cells": [
               "accusative",
               "охрану",
-              "—"
+              "охраны"
             ]
           },
           {
             "cells": [
               "instrumental",
               "охраной",
-              "—"
+              "охранами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "охране",
-              "—"
+              "охранах"
             ]
           }
         ]
@@ -3921,6 +3821,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "передумай",
+                "передумайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3960,7 +3877,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -4004,7 +3921,7 @@
       "meanings": [
         {
           "en": "to remember",
-          "note": "To keep in memory. Used as an imperfective (ongoing/repeated action) verb meaning 'to remember'."
+          "note": "To keep in memory."
         }
       ],
       "forms": {
@@ -4109,7 +4026,7 @@
       "meanings": [
         {
           "en": "to kiss",
-          "note": "Once. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'целовать'). Used as a perfective (single completed action) verb meaning 'to kiss', paired with 'целовать'."
+          "note": "Once. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'целовать')."
         }
       ],
       "forms": {
@@ -4552,11 +4469,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4628,8 +4545,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -4679,7 +4604,7 @@
       "meanings": [
         {
           "en": "seriously",
-          "note": "Серьёзно? = really?. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Серьёзно? = really?."
         }
       ],
       "forms": null,
@@ -4719,7 +4644,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4810,15 +4735,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -4884,8 +4809,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -4898,7 +4831,7 @@
       "meanings": [
         {
           "en": "toilet",
-          "note": "The room or the bowl. Common masculine noun meaning 'toilet' in everyday Russian."
+          "note": "The room or the bowl."
         }
       ],
       "forms": {
@@ -5070,7 +5003,7 @@
       "meanings": [
         {
           "en": "formality",
-          "note": "Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'formality' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5255,7 +5188,7 @@
       "meanings": [
         {
           "en": "to joke",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to joke', paired with 'пошутить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5307,6 +5240,23 @@
                 "шутила",
                 "шутило",
                 "шутили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "шути",
+                "шутите"
               ]
             }
           ]

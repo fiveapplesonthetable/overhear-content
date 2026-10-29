@@ -286,7 +286,7 @@
           "pos": "interj",
           "stress": "здра́сте",
           "gloss": "hello, hi",
-          "gram": "prepositional / dative singular"
+          "gram": "interjection, colloquial short form of здравствуйте"
         }
       ]
     },
@@ -329,8 +329,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "кошмар.",
@@ -350,7 +350,7 @@
           "t": "Аморальная",
           "lemma": "аморальный",
           "pos": "adj",
-          "stress": "аморальна́я",
+          "stress": "амора́льная",
           "gloss": "immoral",
           "gram": "nominative feminine singular"
         },
@@ -358,9 +358,9 @@
           "t": "молодежь",
           "lemma": "молодёжь",
           "pos": "noun",
-          "stress": "моло́дежь",
+          "stress": "молоде́жь",
           "gloss": "youth, kids",
-          "gram": "nominative singular, feminine, used as address"
+          "gram": "nominative singular, feminine"
         },
         {
           "t": "пошла.",
@@ -381,8 +381,8 @@
           "lemma": "превращать",
           "pos": "verb",
           "stress": "превраща́ет",
-          "gloss": "to turn",
-          "gram": "3rd person singular"
+          "gloss": "turns (into)",
+          "gram": "3rd person singular present, imperfective"
         },
         {
           "t": "ресторан.",
@@ -724,7 +724,7 @@
           "pos": "interj",
           "stress": "здра́сте",
           "gloss": "hello, hi",
-          "gram": "prepositional / dative singular"
+          "gram": "interjection, colloquial short form of здравствуйте"
         }
       ]
     },
@@ -767,8 +767,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "кошмар.",
@@ -788,7 +788,7 @@
           "t": "Аморальная",
           "lemma": "аморальный",
           "pos": "adj",
-          "stress": "аморальна́я",
+          "stress": "амора́льная",
           "gloss": "immoral",
           "gram": "nominative feminine singular"
         },
@@ -796,9 +796,9 @@
           "t": "молодежь",
           "lemma": "молодёжь",
           "pos": "noun",
-          "stress": "моло́дежь",
+          "stress": "молоде́жь",
           "gloss": "youth, kids",
-          "gram": "nominative singular, feminine, used as address"
+          "gram": "nominative singular, feminine"
         },
         {
           "t": "пошла.",
@@ -819,8 +819,8 @@
           "lemma": "превращать",
           "pos": "verb",
           "stress": "превраща́ет",
-          "gloss": "to turn",
-          "gram": "3rd person singular"
+          "gloss": "turns (into)",
+          "gram": "3rd person singular present, imperfective"
         },
         {
           "t": "ресторан.",
@@ -1162,7 +1162,7 @@
           "pos": "interj",
           "stress": "здра́сте",
           "gloss": "hello, hi",
-          "gram": "prepositional / dative singular"
+          "gram": "interjection, colloquial short form of здравствуйте"
         }
       ]
     },
@@ -1205,8 +1205,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "кошмар.",
@@ -1226,7 +1226,7 @@
           "t": "Аморальная",
           "lemma": "аморальный",
           "pos": "adj",
-          "stress": "аморальна́я",
+          "stress": "амора́льная",
           "gloss": "immoral",
           "gram": "nominative feminine singular"
         },
@@ -1234,9 +1234,9 @@
           "t": "молодежь",
           "lemma": "молодёжь",
           "pos": "noun",
-          "stress": "моло́дежь",
+          "stress": "молоде́жь",
           "gloss": "youth, kids",
-          "gram": "nominative singular, feminine, used as address"
+          "gram": "nominative singular, feminine"
         },
         {
           "t": "пошла.",
@@ -1257,8 +1257,8 @@
           "lemma": "превращать",
           "pos": "verb",
           "stress": "превраща́ет",
-          "gloss": "to turn",
-          "gram": "3rd person singular"
+          "gloss": "turns (into)",
+          "gram": "3rd person singular present, imperfective"
         },
         {
           "t": "ресторан.",
@@ -1390,7 +1390,7 @@
       "meanings": [
         {
           "en": "immoral",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('immoral')."
+          "note": ""
         }
       ],
       "forms": {
@@ -1433,10 +1433,10 @@
           {
             "cells": [
               "accusative",
-              "аморальный",
+              "аморальный / аморального",
               "аморальную",
               "аморальное",
-              "аморальные"
+              "аморальные / аморальных"
             ]
           },
           {
@@ -1463,11 +1463,11 @@
       "examples": [
         {
           "text": "Аморальная молодежь пошла.",
-          "trans": "Young people nowadays have no morals at all."
+          "trans": "Young people these days have no morals."
         },
         {
-          "text": "Сегодня у шефа очень аморальный день в ресторане.",
-          "trans": "Today the chef is having a very immoral day at the restaurant."
+          "text": "Это аморальный поступок.",
+          "trans": "That is an immoral act."
         }
       ],
       "related": [
@@ -1532,11 +1532,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1712,7 +1712,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -1750,11 +1750,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1830,7 +1830,7 @@
       "meanings": [
         {
           "en": "hello, hi",
-          "note": "Expressive conversational Russian interjection or greeting ('hello') used directly in spoken exchanges."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1865,12 +1865,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -1925,6 +1923,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -1944,17 +1959,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "извинить": {
       "lemma": "извинить",
@@ -1966,11 +1982,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -2050,12 +2066,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -2081,7 +2097,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -2262,7 +2278,11 @@
       "related": [
         {
           "word": "кошмарный",
-          "gloss": "related to nightmare (adj.)"
+          "gloss": "nightmarish, awful"
+        },
+        {
+          "word": "ужас",
+          "gloss": "horror"
         }
       ]
     },
@@ -2274,11 +2294,11 @@
       "meanings": [
         {
           "en": "personal",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('personal, private')."
+          "note": ""
         },
         {
           "en": "private, one's own",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('personal, private')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2321,10 +2341,10 @@
           {
             "cells": [
               "accusative",
-              "личный/личного",
+              "личный / личного",
               "личную",
               "личное",
-              "личные/личных"
+              "личные / личных"
             ]
           },
           {
@@ -2472,7 +2492,7 @@
       "meanings": [
         {
           "en": "youth, young people",
-          "note": "Collective singular noun. Common feminine noun meaning 'youth, young people' in everyday Russian."
+          "note": "Collective singular noun."
         }
       ],
       "forms": {
@@ -2487,42 +2507,42 @@
             "cells": [
               "nominative",
               "молодёжь",
-              "—"
+              "молодёжи"
             ]
           },
           {
             "cells": [
               "genitive",
               "молодёжи",
-              "—"
+              "молодёжей"
             ]
           },
           {
             "cells": [
               "dative",
               "молодёжи",
-              "—"
+              "молодёжам"
             ]
           },
           {
             "cells": [
               "accusative",
               "молодёжь",
-              "—"
+              "молодёжи"
             ]
           },
           {
             "cells": [
               "instrumental",
               "молодёжью",
-              "—"
+              "молодёжами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "молодёжи",
-              "—"
+              "молодёжах"
             ]
           }
         ]
@@ -2677,11 +2697,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -2778,15 +2798,15 @@
     },
     "превращать": {
       "lemma": "превращать",
-      "stress": "превра́щать",
+      "stress": "превраща́ть",
       "pos": "verb",
-      "gloss": "to turn",
+      "gloss": "to turn (into)",
       "aspect": "impf",
-      "pair": null,
+      "pair": "превратить",
       "meanings": [
         {
-          "en": "to turn",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to turn'."
+          "en": "to turn (something) into, to transform",
+          "note": "+ в + accusative"
         }
       ],
       "forms": {
@@ -2841,22 +2861,47 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "превращай",
+                "превращайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Только чтобы не превращали гимнастику в перекуры!",
-          "trans": "Only make sure they do not turn gymnastics into smoke breaks!"
+          "trans": "Just make sure they don't turn the exercises into smoke breaks!"
         },
         {
-          "text": "Превращает ресторан.",
-          "trans": "Turning a respectable restaurant."
+          "text": "Она превращает каждый ужин в праздник.",
+          "trans": "She turns every dinner into a celebration."
         }
       ],
       "related": [
         {
-          "word": "не превращать",
-          "gloss": "not to to turn (negated infinitive)"
+          "word": "превратить",
+          "gloss": "to turn into (pf)"
+        },
+        {
+          "word": "превращаться",
+          "gloss": "to turn into, become"
+        },
+        {
+          "word": "превращение",
+          "gloss": "transformation"
         }
       ]
     },
@@ -3180,11 +3225,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3256,8 +3301,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -3270,7 +3323,7 @@
       "meanings": [
         {
           "en": "surprise, unexpected gift",
-          "note": "Приятный сюрприз. Common masculine noun meaning 'surprise' in everyday Russian."
+          "note": "Приятный сюрприз."
         }
       ],
       "forms": {
@@ -3350,7 +3403,7 @@
       "meanings": [
         {
           "en": "that",
-          "note": "The one over there. Core Russian det meaning 'that' in everyday speech."
+          "note": "The one over there."
         },
         {
           "en": "that which, the thing",

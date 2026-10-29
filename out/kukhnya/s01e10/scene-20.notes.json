@@ -233,10 +233,10 @@
         {
           "t": "Шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "ждёт",
@@ -368,7 +368,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "thing",
-          "gram": "f inan acc sg"
+          "gram": "nominative/accusative singular, feminine"
         }
       ]
     },
@@ -927,10 +927,10 @@
         {
           "t": "Шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "ждёт",
@@ -1062,7 +1062,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "thing",
-          "gram": "f inan acc sg"
+          "gram": "nominative/accusative singular, feminine"
         }
       ]
     },
@@ -1621,10 +1621,10 @@
         {
           "t": "Шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "ждёт",
@@ -1756,7 +1756,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "thing",
-          "gram": "f inan acc sg"
+          "gram": "nominative/accusative singular, feminine"
         }
       ]
     },
@@ -2156,7 +2156,7 @@
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -2306,10 +2306,10 @@
           {
             "cells": [
               "accusative",
-              "беременного",
+              "беременный / беременного",
               "беременную",
               "беременное",
-              "беременных"
+              "беременные / беременных"
             ]
           },
           {
@@ -2357,11 +2357,11 @@
       "meanings": [
         {
           "en": "more",
-          "note": "Comparative of много. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of много."
         },
         {
           "en": "bigger",
-          "note": "Comparative of большой. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of большой."
         }
       ],
       "forms": null,
@@ -2804,11 +2804,11 @@
       "meanings": [
         {
           "en": "thing",
-          "note": "Plural 'вещи'. Common feminine noun meaning 'thing' in everyday Russian."
+          "note": "Plural 'вещи'."
         },
         {
           "en": "things, belongings",
-          "note": "Plural 'вещи'. Common feminine noun meaning 'thing' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2880,8 +2880,16 @@
       ],
       "related": [
         {
-          "word": "вещный",
-          "gloss": "related to thing (adj.)"
+          "word": "вещи",
+          "gloss": "things, belongings"
+        },
+        {
+          "word": "вещица",
+          "gloss": "little thing"
+        },
+        {
+          "word": "вещичка",
+          "gloss": "little thing, trinket"
         }
       ]
     },
@@ -2898,7 +2906,7 @@
         },
         {
           "en": "view",
-          "note": "иметь в виду = to mean, to have in mind"
+          "note": ""
         }
       ],
       "forms": {
@@ -2970,8 +2978,20 @@
       ],
       "related": [
         {
-          "word": "видный",
-          "gloss": "related to look (adj.)"
+          "word": "видеть",
+          "gloss": "to see"
+        },
+        {
+          "word": "иметь в виду",
+          "gloss": "to mean"
+        },
+        {
+          "word": "делать вид",
+          "gloss": "to pretend"
+        },
+        {
+          "word": "на вид",
+          "gloss": "in appearance"
         }
       ]
     },
@@ -3079,11 +3099,11 @@
       "meanings": [
         {
           "en": "to wait (for)",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": "+ accusative."
         },
         {
           "en": "to expect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3187,12 +3207,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3247,6 +3265,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3266,17 +3301,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "как": {
       "lemma": "как",
@@ -3404,11 +3440,11 @@
       "meanings": [
         {
           "en": "personal",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('personal, private')."
+          "note": ""
         },
         {
           "en": "private, one's own",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('personal, private')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3451,10 +3487,10 @@
           {
             "cells": [
               "accusative",
-              "личный/личного",
+              "личный / личного",
               "личную",
               "личное",
-              "личные/личных"
+              "личные / личных"
             ]
           },
           {
@@ -3509,7 +3545,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3561,6 +3597,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3675,7 +3728,7 @@
       "meanings": [
         {
           "en": "fine, OK, normal",
-          "note": "Colloquial. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Colloquial."
         }
       ],
       "forms": null,
@@ -3772,6 +3825,23 @@
                 "нравилась",
                 "нравилось",
                 "нравились"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "нравься",
+                "нравьтесь"
               ]
             }
           ]
@@ -3936,11 +4006,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -3978,7 +4048,7 @@
       "meanings": [
         {
           "en": "excellent, great, perfectly",
-          "note": "Used as an exclamation of approval. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Used as an exclamation of approval."
         }
       ],
       "forms": null,
@@ -4050,7 +4120,7 @@
       "meanings": [
         {
           "en": "first",
-          "note": "С первого раза = the first time. Agrees in gender, number, and case with the noun it modifies ('first')."
+          "note": "С первого раза = the first time."
         }
       ],
       "forms": {
@@ -4147,7 +4217,7 @@
       "meanings": [
         {
           "en": "to have a talk, to speak (with someone)",
-          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to have a talk', paired with 'говорить'."
+          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить')."
         }
       ],
       "forms": {
@@ -4260,7 +4330,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -4494,7 +4564,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -4525,7 +4595,7 @@
       "meanings": [
         {
           "en": "to scare, to try to frighten, to threaten",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to scare, to try to frighten', paired with 'напугать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4705,8 +4775,20 @@
       ],
       "related": [
         {
-          "word": "разный",
-          "gloss": "related to time (adj.)"
+          "word": "однажды",
+          "gloss": "once, one day"
+        },
+        {
+          "word": "как раз",
+          "gloss": "just right, exactly"
+        },
+        {
+          "word": "ни разу",
+          "gloss": "not once, never"
+        },
+        {
+          "word": "сразу",
+          "gloss": "at once"
         }
       ]
     },
@@ -4881,11 +4963,11 @@
       "meanings": [
         {
           "en": "serious, earnest",
-          "note": "Серьёзный человек. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('serious; important, influential')."
+          "note": ""
         },
         {
           "en": "important, weighty, influential",
-          "note": "Серьёзный человек. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('serious; important, influential')."
+          "note": "серьёзный человек = an important man"
         }
       ],
       "forms": {
@@ -4928,10 +5010,10 @@
           {
             "cells": [
               "accusative",
-              "серьёзный",
+              "серьёзный / серьёзного",
               "серьёзную",
               "серьёзное",
-              "серьёзные"
+              "серьёзные / серьёзных"
             ]
           },
           {
@@ -4990,7 +5072,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5081,15 +5163,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -5103,11 +5185,11 @@
       "meanings": [
         {
           "en": "to hide, conceal",
-          "note": "To keep from sight or knowledge. Used as an imperfective (ongoing/repeated action) verb meaning 'to hide; to conceal', paired with 'скрыть'."
+          "note": "To keep from sight or knowledge."
         },
         {
           "en": "to withhold",
-          "note": "To withhold truth. Used as an imperfective (ongoing/repeated action) verb meaning 'to hide; to conceal', paired with 'скрыть'."
+          "note": "To withhold truth."
         }
       ],
       "forms": {
@@ -5220,11 +5302,11 @@
       "meanings": [
         {
           "en": "to hear",
-          "note": "Слышать о + prepositional. Used as an imperfective (ongoing/repeated action) verb meaning 'to hear', paired with 'услышать'."
+          "note": "Слышать о + prepositional."
         },
         {
           "en": "to hear about",
-          "note": "Слышать о + prepositional. Used as an imperfective (ongoing/repeated action) verb meaning 'to hear', paired with 'услышать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5279,6 +5361,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "слышь",
+                "слышьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5310,7 +5409,7 @@
       "meanings": [
         {
           "en": "urgently, right away; predicative: it is urgent",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5350,7 +5449,7 @@
         },
         {
           "en": "freeze!",
-          "note": "the infinitive 'Стоять!' as a police order"
+          "note": ""
         }
       ],
       "forms": {
@@ -5457,7 +5556,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -5654,7 +5753,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5704,8 +5803,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -5896,7 +6003,7 @@
         },
         {
           "en": "although, even though (as conjunction)",
-          "note": "Core Russian part meaning 'even if, at least (with бы); although' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6019,6 +6126,88 @@
           "gloss": "because"
         }
       ]
+    },
+    "шеф": {
+      "lemma": "шеф",
+      "stress": "шеф",
+      "pos": "noun",
+      "gloss": "boss, chief",
+      "gender": "m",
+      "animacy": "anim",
+      "meanings": [
+        {
+          "en": "boss, chief",
+          "note": "Informal. Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "шеф",
+              "шефы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "шефу",
+              "шефам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "шефом",
+              "шефами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "шефе",
+              "шефах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хитро придумано, шеф!",
+          "trans": "Cleverly thought out, boss!"
+        },
+        {
+          "text": "Шеф подписал приказ.",
+          "trans": "The boss signed the order."
+        },
+        {
+          "text": "Шеф на кухне.",
+          "trans": "The chef is in the kitchen."
+        }
+      ],
+      "related": []
     },
     "я": {
       "lemma": "я",

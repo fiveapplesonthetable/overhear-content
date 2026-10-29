@@ -143,7 +143,7 @@
           "lemma": "борт",
           "pos": "noun",
           "stress": null,
-          "gloss": "board, hull",
+          "gloss": "board, side (of a ship)",
           "gram": "accusative singular, masculine"
         }
       ]
@@ -226,7 +226,7 @@
           "pos": "adv",
           "stress": "осо́бо",
           "gloss": "particularly, especially",
-          "gram": "UNKNOWN"
+          "gram": "adverb"
         },
         {
           "t": "ничего.",
@@ -256,7 +256,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "прилетаешь?",
@@ -339,8 +339,8 @@
           "lemma": "приехать",
           "pos": "verb",
           "stress": "прие́дешь",
-          "gloss": "to arrive (by vehicle)",
-          "gram": "2nd person singular"
+          "gloss": "will you come, you'll come",
+          "gram": "2nd person singular future, perfective"
         },
         {
           "t": "расскажу.",
@@ -399,7 +399,7 @@
           "lemma": "прекратить",
           "pos": "verb",
           "stress": "прекрати́ли",
-          "gloss": "stopped, knock it off",
+          "gloss": "stop it, knock it off",
           "gram": "past tense, plural"
         }
       ]
@@ -567,7 +567,7 @@
           "lemma": "борт",
           "pos": "noun",
           "stress": null,
-          "gloss": "board, hull",
+          "gloss": "board, side (of a ship)",
           "gram": "accusative singular, masculine"
         }
       ]
@@ -650,7 +650,7 @@
           "pos": "adv",
           "stress": "осо́бо",
           "gloss": "particularly, especially",
-          "gram": "UNKNOWN"
+          "gram": "adverb"
         },
         {
           "t": "ничего.",
@@ -680,7 +680,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "прилетаешь?",
@@ -763,8 +763,8 @@
           "lemma": "приехать",
           "pos": "verb",
           "stress": "прие́дешь",
-          "gloss": "to arrive (by vehicle)",
-          "gram": "2nd person singular"
+          "gloss": "will you come, you'll come",
+          "gram": "2nd person singular future, perfective"
         },
         {
           "t": "расскажу.",
@@ -823,7 +823,7 @@
           "lemma": "прекратить",
           "pos": "verb",
           "stress": "прекрати́ли",
-          "gloss": "stopped, knock it off",
+          "gloss": "stop it, knock it off",
           "gram": "past tense, plural"
         }
       ]
@@ -991,7 +991,7 @@
           "lemma": "борт",
           "pos": "noun",
           "stress": null,
-          "gloss": "board, hull",
+          "gloss": "board, side (of a ship)",
           "gram": "accusative singular, masculine"
         }
       ]
@@ -1074,7 +1074,7 @@
           "pos": "adv",
           "stress": "осо́бо",
           "gloss": "particularly, especially",
-          "gram": "UNKNOWN"
+          "gram": "adverb"
         },
         {
           "t": "ничего.",
@@ -1104,7 +1104,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "прилетаешь?",
@@ -1187,8 +1187,8 @@
           "lemma": "приехать",
           "pos": "verb",
           "stress": "прие́дешь",
-          "gloss": "to arrive (by vehicle)",
-          "gram": "2nd person singular"
+          "gloss": "will you come, you'll come",
+          "gram": "2nd person singular future, perfective"
         },
         {
           "t": "расскажу.",
@@ -1247,7 +1247,7 @@
           "lemma": "прекратить",
           "pos": "verb",
           "stress": "прекрати́ли",
-          "gloss": "stopped, knock it off",
+          "gloss": "stop it, knock it off",
           "gram": "past tense, plural"
         }
       ]
@@ -1291,7 +1291,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -1340,12 +1340,13 @@
       "lemma": "борт",
       "stress": "борт",
       "pos": "noun",
-      "gloss": "board, deck",
+      "gloss": "side (of a ship); board",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
-          "en": "board, deck",
-          "note": "Common masculine noun meaning 'board, deck' in everyday Russian."
+          "en": "side of a ship or vehicle",
+          "note": "на борт = aboard; на борту = on board"
         }
       ],
       "forms": {
@@ -1360,7 +1361,7 @@
             "cells": [
               "nominative",
               "борт",
-              "борты"
+              "борта"
             ]
           },
           {
@@ -1381,7 +1382,7 @@
             "cells": [
               "accusative",
               "борт",
-              "борты"
+              "борта"
             ]
           },
           {
@@ -1403,22 +1404,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это оборудование для молекулярной кухни.",
-          "trans": "This is equipment for molecular cuisine."
-        },
-        {
           "text": "Поднимайтесь на борт. Ну, как вам?",
           "trans": "Come aboard. Well, how do you like it?"
+        },
+        {
+          "text": "Хочешь войны? Будет тебе торпеда в борт.",
+          "trans": "You want war? You'll get a torpedo in the side."
         }
       ],
       "related": [
         {
-          "word": "без бор",
-          "gloss": "without board"
+          "word": "на борту",
+          "gloss": "on board"
         },
         {
-          "word": "наш борт",
-          "gloss": "our board"
+          "word": "корабль",
+          "gloss": "ship"
+        },
+        {
+          "word": "палуба",
+          "gloss": "deck"
         }
       ]
     },
@@ -1775,10 +1780,11 @@
       "pos": "noun",
       "gloss": "war",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "war, warfare",
-          "note": "Common feminine noun meaning 'war' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1862,7 +1868,7 @@
         },
         {
           "en": "everyone",
-          "note": "Всем = to everyone (dative). Core Russian pron meaning 'all; everyone' in everyday speech."
+          "note": "Всем = to everyone (dative)."
         }
       ],
       "forms": null,
@@ -1885,10 +1891,6 @@
         {
           "word": "весь",
           "gloss": "all, whole"
-        },
-        {
-          "word": "всё",
-          "gloss": "everything"
         }
       ]
     },
@@ -1998,11 +2000,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2102,7 +2104,7 @@
       "meanings": [
         {
           "en": "when",
-          "note": "Question word and conjunction. Core Russian adv meaning 'when' in everyday speech."
+          "note": "Question word and conjunction."
         }
       ],
       "forms": null,
@@ -2226,7 +2228,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -2504,7 +2506,7 @@
       "meanings": [
         {
           "en": "particularly, especially",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2512,11 +2514,11 @@
       "examples": [
         {
           "text": "Сегодня днём в зале нет особо сложных заказов.",
-          "trans": "This afternoon there are no particulièrement complicated orders in the dining room."
+          "trans": "This afternoon there are no particularly complicated orders in the dining room."
         },
         {
-          "text": "Шеф просил особо внимательно следить за качеством свежих устриц.",
-          "trans": "The chef asked to watch the quality of the fresh oysters with particular care."
+          "text": "Я вас не особо люблю.",
+          "trans": "I'm not particularly fond of you."
         }
       ],
       "related": [
@@ -2544,7 +2546,7 @@
       "meanings": [
         {
           "en": "to call back",
-          "note": "On the phone. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'звонить'). Used as a perfective (single completed action) verb meaning 'to call back', paired with 'перезванивать'."
+          "note": "On the phone. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'звонить')."
         }
       ],
       "forms": {
@@ -2649,7 +2651,7 @@
       "meanings": [
         {
           "en": "to appear, to show up, to turn up",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'явиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to appear, to show up', paired with 'появляться'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'явиться')."
         }
       ],
       "forms": {
@@ -2762,7 +2764,7 @@
       "meanings": [
         {
           "en": "to stop, put an end to",
-          "note": "Прекрати! = Stop it!. Used as a perfective (single completed action) verb meaning 'to stop, quit', paired with 'прекращать'."
+          "note": "Прекрати! = Stop it!."
         }
       ],
       "forms": {
@@ -2867,7 +2869,7 @@
       "meanings": [
         {
           "en": "to arrive, to come (by transport)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to arrive (by vehicle)', paired with 'приезжать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -2955,15 +2957,15 @@
     },
     "прилетать": {
       "lemma": "прилетать",
-      "stress": "приле́тать",
+      "stress": "прилета́ть",
       "pos": "verb",
-      "gloss": "arrive by plane",
+      "gloss": "to arrive by plane, to fly in",
       "aspect": "impf",
-      "pair": null,
+      "pair": "прилететь",
       "meanings": [
         {
-          "en": "arrive by plane",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'летать'). Used as an imperfective (ongoing/repeated action) verb meaning 'arrive by plane'."
+          "en": "to arrive by plane, to fly in",
+          "note": ""
         }
       ],
       "forms": {
@@ -3018,6 +3020,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "прилетай",
+                "прилетайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3026,14 +3045,22 @@
           "trans": "When do you fly in? Tomorrow?"
         },
         {
-          "text": "Надо всё сделать и прилетать вовремя.",
-          "trans": "We need to do everything and arrive by plane on time."
+          "text": "Мама всегда прилетает к нам летом.",
+          "trans": "Mom always flies in to see us in the summer."
         }
       ],
       "related": [
         {
-          "word": "не прилетать",
-          "gloss": "not to arrive by plane (negated infinitive)"
+          "word": "прилететь",
+          "gloss": "to fly in (pf)"
+        },
+        {
+          "word": "прилёт",
+          "gloss": "arrival (by air)"
+        },
+        {
+          "word": "улетать",
+          "gloss": "to fly away"
         }
       ]
     },
@@ -3275,7 +3302,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -3386,7 +3413,7 @@
       "meanings": [
         {
           "en": "complicated, complex, difficult",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('complicated, difficult')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3477,7 +3504,11 @@
         },
         {
           "word": "сложно",
-          "gloss": "difficultly"
+          "gloss": "it's difficult"
+        },
+        {
+          "word": "простой",
+          "gloss": "simple"
         }
       ]
     },
@@ -3490,7 +3521,7 @@
       "meanings": [
         {
           "en": "surprise, unexpected gift",
-          "note": "Приятный сюрприз. Common masculine noun meaning 'surprise' in everyday Russian."
+          "note": "Приятный сюрприз."
         }
       ],
       "forms": {
@@ -3600,7 +3631,7 @@
       "meanings": [
         {
           "en": "torpedo",
-          "note": "Common feminine noun meaning 'torpedo' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3659,21 +3690,21 @@
       "examples": [
         {
           "text": "Хочешь войны? Будет тебе торпеда в борт.",
-          "trans": "Do you want war? You will get a torpedo to the hull."
+          "trans": "You want war? You'll get a torpedo in your hull."
         },
         {
-          "text": "На кухне ресторана всегда есть торпеда.",
-          "trans": "In the restaurant kitchen there is always torpedo."
+          "text": "Подводная лодка выпустила торпеду.",
+          "trans": "The submarine fired a torpedo."
         }
       ],
       "related": [
         {
-          "word": "без торпед",
-          "gloss": "without torpedo"
+          "word": "подводная лодка",
+          "gloss": "submarine"
         },
         {
-          "word": "наш торпеда",
-          "gloss": "our torpedo"
+          "word": "ракета",
+          "gloss": "missile"
         }
       ]
     },
@@ -3685,7 +3716,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -3853,7 +3884,7 @@
       "meanings": [
         {
           "en": "formula",
-          "note": "Common feminine noun meaning 'formula' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3912,21 +3943,21 @@
       "examples": [
         {
           "text": "Там сложная формула.",
-          "trans": "There is a complex formula there."
+          "trans": "There's a complicated formula there."
         },
         {
-          "text": "На кухне ресторана всегда есть формула.",
-          "trans": "In the restaurant kitchen there is always formula."
+          "text": "Он вывел формулу идеального соуса.",
+          "trans": "He worked out the formula for the perfect sauce."
         }
       ],
       "related": [
         {
-          "word": "без формул",
-          "gloss": "without formula"
+          "word": "уравнение",
+          "gloss": "equation"
         },
         {
-          "word": "наш формула",
-          "gloss": "our formula"
+          "word": "рецепт",
+          "gloss": "recipe"
         }
       ]
     },
@@ -3938,7 +3969,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4043,7 +4074,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4098,6 +4129,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4134,7 +4182,7 @@
       "meanings": [
         {
           "en": "joker, prankster",
-          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'joker, prankster' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4169,8 +4217,8 @@
           {
             "cells": [
               "accusative",
-              "шутник",
-              "шутники"
+              "шутника",
+              "шутников"
             ]
           },
           {
@@ -4193,14 +4241,23 @@
       "examples": [
         {
           "text": "У нас появился ещё один шутник.",
-          "trans": "We have got ourselves another prankster."
+          "trans": "We've got ourselves another joker."
         },
         {
-          "text": "На кухне ресторана всегда есть шутник.",
-          "trans": "In the restaurant kitchen there is always joker."
+          "text": "Ну что, шутники, сильно вы сейчас испугались?",
+          "trans": "Well, jokers, did you get a real fright just now?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "шутка",
+          "gloss": "joke"
+        },
+        {
+          "word": "шутить",
+          "gloss": "to joke"
+        }
+      ]
     },
     "я": {
       "lemma": "я",

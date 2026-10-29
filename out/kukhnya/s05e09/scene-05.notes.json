@@ -73,7 +73,7 @@
           "lemma": "хватать",
           "pos": "verb",
           "stress": "хвата́ет",
-          "gloss": "grabs",
+          "gloss": "grabs; is enough (не хватает = is missing, there isn't enough)",
           "gram": "present, 3rd person singular, imperfective"
         }
       ]
@@ -183,8 +183,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "туда",
@@ -351,7 +351,7 @@
           "lemma": "пропадать",
           "pos": "verb",
           "stress": "пропада́ют",
-          "gloss": "to waste",
+          "gloss": "are going to waste",
           "gram": "3rd person plural"
         }
       ]
@@ -374,7 +374,7 @@
           "pos": "noun",
           "stress": "прове́рки",
           "gloss": "check, inspection, test",
-          "gram": "nominative / accusative"
+          "gram": "accusative plural"
         }
       ]
     },
@@ -449,7 +449,7 @@
           "lemma": "хватать",
           "pos": "verb",
           "stress": "хвата́ет",
-          "gloss": "grabs",
+          "gloss": "grabs; is enough (не хватает = is missing, there isn't enough)",
           "gram": "present, 3rd person singular, imperfective"
         }
       ]
@@ -559,8 +559,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "туда",
@@ -727,7 +727,7 @@
           "lemma": "пропадать",
           "pos": "verb",
           "stress": "пропада́ют",
-          "gloss": "to waste",
+          "gloss": "are going to waste",
           "gram": "3rd person plural"
         }
       ]
@@ -750,7 +750,7 @@
           "pos": "noun",
           "stress": "прове́рки",
           "gloss": "check, inspection, test",
-          "gram": "nominative / accusative"
+          "gram": "accusative plural"
         }
       ]
     },
@@ -825,7 +825,7 @@
           "lemma": "хватать",
           "pos": "verb",
           "stress": "хвата́ет",
-          "gloss": "grabs",
+          "gloss": "grabs; is enough (не хватает = is missing, there isn't enough)",
           "gram": "present, 3rd person singular, imperfective"
         }
       ]
@@ -935,8 +935,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "туда",
@@ -1103,7 +1103,7 @@
           "lemma": "пропадать",
           "pos": "verb",
           "stress": "пропада́ют",
-          "gloss": "to waste",
+          "gloss": "are going to waste",
           "gram": "3rd person plural"
         }
       ]
@@ -1126,7 +1126,7 @@
           "pos": "noun",
           "stress": "прове́рки",
           "gloss": "check, inspection, test",
-          "gram": "nominative / accusative"
+          "gram": "accusative plural"
         }
       ]
     },
@@ -1147,7 +1147,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -1206,7 +1206,7 @@
       "meanings": [
         {
           "en": "to take",
-          "note": "Habitually or in general. Used as an imperfective (ongoing/repeated action) verb meaning 'to take', paired with 'взять'."
+          "note": "Habitually or in general."
         },
         {
           "en": "to take bribes",
@@ -1301,15 +1301,19 @@
       "related": [
         {
           "word": "взять",
-          "gloss": "to take"
+          "gloss": "to take (pf)"
         },
         {
           "word": "забрать",
-          "gloss": "to take back"
+          "gloss": "to take away, pick up"
         },
         {
-          "word": "убрать",
-          "gloss": "to remove"
+          "word": "брать трубку",
+          "gloss": "to answer the phone"
+        },
+        {
+          "word": "взятка",
+          "gloss": "bribe"
         }
       ]
     },
@@ -1438,11 +1442,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1494,6 +1498,23 @@
                 "видела",
                 "видело",
                 "видели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
               ]
             }
           ]
@@ -1565,7 +1586,7 @@
       "meanings": [
         {
           "en": "or",
-          "note": "Core Russian conj meaning 'or' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1843,7 +1864,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -2011,7 +2032,7 @@
       "meanings": [
         {
           "en": "to put, to place, to lay down",
-          "note": "+ в/на + accusative. Used as a perfective (single completed action) verb meaning 'to put, to lay down', paired with 'класть'."
+          "note": "+ в/на + accusative."
         }
       ],
       "forms": {
@@ -2102,11 +2123,15 @@
       "related": [
         {
           "word": "класть",
-          "gloss": "to put"
+          "gloss": "to put (impf)"
         },
         {
-          "word": "предложить",
-          "gloss": "to offer"
+          "word": "выложить",
+          "gloss": "to lay out"
+        },
+        {
+          "word": "отложить",
+          "gloss": "to put aside, to postpone"
         }
       ]
     },
@@ -2120,7 +2145,7 @@
       "meanings": [
         {
           "en": "to check, to test, to verify",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'верить'). Used as a perfective (single completed action) verb meaning 'to check, to test', paired with 'проверять'."
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'верить')."
         }
       ],
       "forms": {
@@ -2229,10 +2254,11 @@
       "pos": "noun",
       "gloss": "check, inspection, test",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "check, verification, test",
-          "note": "Common feminine noun meaning 'check, inspection, test' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2392,15 +2418,19 @@
     },
     "пропадать": {
       "lemma": "пропадать",
-      "stress": "пропа́дать",
+      "stress": "пропада́ть",
       "pos": "verb",
-      "gloss": "to immediately",
+      "gloss": "to disappear, go missing; to go to waste",
       "aspect": "impf",
-      "pair": null,
+      "pair": "пропасть",
       "meanings": [
         {
-          "en": "to immediately",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (root 'падать'). Used in Russian as an imperfective verb expressing ongoing, habitual, or repeated action meaning 'to immediately'."
+          "en": "to disappear, go missing",
+          "note": ""
+        },
+        {
+          "en": "to go to waste, spoil",
+          "note": "продукты пропадают"
         }
       ],
       "forms": {
@@ -2455,19 +2485,45 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "пропадай",
+                "пропадайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Как он появился, сразу стали пропадать продукты!",
-          "trans": "As soon as he appeared, groceries immediately started disappearing!"
+          "trans": "As soon as he showed up, food started disappearing!"
         },
         {
           "text": "Да, у нас пропадают свежие устрицы.",
-          "trans": "Yes, fresh oysters are going to waste here."
+          "trans": "Yes, our fresh oysters are going to waste."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "пропасть",
+          "gloss": "to disappear (pf)"
+        },
+        {
+          "word": "пропажа",
+          "gloss": "missing thing"
+        }
+      ]
     },
     "просто": {
       "lemma": "просто",
@@ -2512,11 +2568,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -2619,7 +2675,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2665,7 +2721,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -2891,67 +2947,23 @@
       "meanings": [
         {
           "en": "that",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'that', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Здесь находится наш ресторан.",
-          "trans": "Our restaurant is located right here."
+          "text": "Ну, то, что ты говорил.",
+          "trans": "Well, what you were saying."
         },
         {
-          "text": "Мы теперь работаем в этом отеле.",
-          "trans": "We now work in this hotel."
+          "text": "Если проблема только в этом, то да.",
+          "trans": "If that's the only problem, then yes."
         },
         {
-          "text": "Чем отличается ресторан при отеле?",
-          "trans": "How does a hotel restaurant differ?"
+          "text": "А то мы уже начали беспокоиться.",
+          "trans": "Otherwise we were already starting to worry."
         }
       ],
       "related": []
@@ -2966,7 +2978,7 @@
       "meanings": [
         {
           "en": "truffle (mushroom / delicacy)",
-          "note": "Declinable masculine noun meaning 'truffle', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -3046,7 +3058,7 @@
       "meanings": [
         {
           "en": "there, thither (towards that place)",
-          "note": "Directional adverb. Core Russian adv meaning 'there, thither (motion)' in everyday speech."
+          "note": "Directional adverb."
         }
       ],
       "forms": null,
@@ -3084,7 +3096,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -3210,7 +3222,7 @@
         },
         {
           "en": "to be enough",
-          "note": "Impersonal, with the genitive. Used as an imperfective (ongoing/repeated action) verb meaning 'to grab, to seize', paired with 'схватить'."
+          "note": "Impersonal, with the genitive."
         }
       ],
       "forms": {
@@ -3321,7 +3333,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3426,7 +3438,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -3478,6 +3490,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

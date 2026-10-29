@@ -1317,7 +1317,7 @@
       "meanings": [
         {
           "en": "small pancake, blintz",
-          "note": "Diminutive of блин. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'pancake, crepe, blintz' in everyday Russian."
+          "note": "Diminutive of блин."
         }
       ],
       "forms": {
@@ -1673,7 +1673,7 @@
         },
         {
           "en": "deliciously",
-          "note": "Вкусно готовить = to cook well. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Вкусно готовить = to cook well."
         }
       ],
       "forms": null,
@@ -1711,11 +1711,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -1822,29 +1822,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "готов",
-                "готова",
-                "готово",
-                "готовы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я готов!",
@@ -1874,49 +1852,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -1927,11 +1862,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2022,15 +1961,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2082,7 +2021,7 @@
       "meanings": [
         {
           "en": "to order (food, a taxi, goods)",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to order', paired with 'заказывать'."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'казать')."
         }
       ],
       "forms": {
@@ -2231,7 +2170,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -2265,44 +2204,6 @@
         }
       ]
     },
-    "может": {
-      "lemma": "может",
-      "stress": "мо́жет",
-      "pos": "adv",
-      "gloss": "maybe, perhaps",
-      "meanings": [
-        {
-          "en": "maybe, perhaps",
-          "note": "Short for может быть. Core Russian part meaning 'maybe, perhaps' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Может, завтра.",
-          "trans": "Maybe tomorrow."
-        },
-        {
-          "text": "Я думал, может, не примешь.",
-          "trans": "I thought maybe you wouldn't see me."
-        }
-      ],
-      "related": [
-        {
-          "word": "может быть",
-          "gloss": "maybe (full form)"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
-        }
-      ]
-    },
     "мочь": {
       "lemma": "мочь",
       "stress": "мочь",
@@ -2313,7 +2214,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2365,6 +2266,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -2523,7 +2441,7 @@
       "meanings": [
         {
           "en": "a little, a bit",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много')."
         }
       ],
       "forms": null,
@@ -2607,7 +2525,7 @@
       "meanings": [
         {
           "en": "excellent, great, perfectly",
-          "note": "Used as an exclamation of approval. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Used as an exclamation of approval."
         }
       ],
       "forms": null,
@@ -2698,6 +2616,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "пахни",
+                "пахните"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2724,7 +2659,7 @@
       "meanings": [
         {
           "en": "quickly, on the fly, in a rush",
-          "note": "Manner adverb formed with the circumfix 'по-...-ски'/'-ому', meaning 'quickly'."
+          "note": "Colloquial; по- + dative-like -ому form of быстрый."
         }
       ],
       "forms": null,
@@ -2745,12 +2680,12 @@
       ],
       "related": [
         {
-          "word": "так",
-          "gloss": "so, thus"
+          "word": "быстро",
+          "gloss": "quickly"
         },
         {
-          "word": "уже",
-          "gloss": "already"
+          "word": "быстрый",
+          "gloss": "quick"
         }
       ]
     },
@@ -2795,7 +2730,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -2826,7 +2761,7 @@
       "meanings": [
         {
           "en": "to cook, to make (food), to prepare",
-          "note": "Takes accusative. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'готовить'). Used as a perfective (single completed action) verb meaning 'to prepare, to cook, to make', paired with 'готовить'."
+          "note": "Takes accusative. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'готовить')."
         }
       ],
       "forms": {
@@ -2934,12 +2869,10 @@
       "stress": "проголода́ться",
       "pos": "verb",
       "gloss": "to get hungry",
-      "aspect": "pf",
-      "pair": "голодать",
       "meanings": [
         {
-          "en": "to become hungry, work up an appetite",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'голодаться'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to get hungry', forming an aspectual pair with 'голодать'. The reflexive suffix '-ся'/'-сь' makes the action intransitive, reciprocal, or directed at the subject."
+          "en": "to get hungry, work up an appetite",
+          "note": "Perfective only; usually past: я проголодался = I'm hungry."
         }
       ],
       "forms": {
@@ -3029,10 +2962,15 @@
       ],
       "related": [
         {
-          "word": "голодать",
-          "gloss": "to get hungry"
+          "word": "голодный",
+          "gloss": "hungry"
+        },
+        {
+          "word": "голод",
+          "gloss": "hunger"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "просто": {
       "lemma": "просто",
@@ -3111,7 +3049,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -3119,7 +3057,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -3230,67 +3168,23 @@
       "meanings": [
         {
           "en": "that",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'that', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Здесь находится наш ресторан.",
-          "trans": "Our restaurant is located right here."
+          "text": "Ну, то, что ты говорил.",
+          "trans": "Well, what you were saying."
         },
         {
-          "text": "Мы теперь работаем в этом отеле.",
-          "trans": "We now work in this hotel."
+          "text": "Если проблема только в этом, то да.",
+          "trans": "If that's the only problem, then yes."
         },
         {
-          "text": "Чем отличается ресторан при отеле?",
-          "trans": "How does a hotel restaurant differ?"
+          "text": "А то мы уже начали беспокоиться.",
+          "trans": "Otherwise we were already starting to worry."
         }
       ],
       "related": []
@@ -3437,7 +3331,7 @@
       "meanings": [
         {
           "en": "dinner, supper (evening meal)",
-          "note": "Common masculine noun meaning 'dinner, supper (evening meal)' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3721,7 +3615,7 @@
       "meanings": [
         {
           "en": "something, anything",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'anything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {

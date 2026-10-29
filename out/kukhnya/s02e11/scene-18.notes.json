@@ -74,13 +74,13 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "сломанная",
           "lemma": "сломанный",
           "pos": "adj",
-          "stress": "сломанна́я",
+          "stress": "сло́манная",
           "gloss": "broken",
           "gram": "nominative feminine singular"
         },
@@ -363,7 +363,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         }
       ]
@@ -392,9 +392,9 @@
           "t": "чужом",
           "lemma": "чужой",
           "pos": "adj",
-          "stress": "чу́жом",
+          "stress": "чужо́м",
           "gloss": "someone else's, foreign",
-          "gram": "nominative masculine singular"
+          "gram": "prepositional singular, masculine"
         },
         {
           "t": "споре",
@@ -616,13 +616,13 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "сломанная",
           "lemma": "сломанный",
           "pos": "adj",
-          "stress": "сломанна́я",
+          "stress": "сло́манная",
           "gloss": "broken",
           "gram": "nominative feminine singular"
         },
@@ -905,7 +905,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         }
       ]
@@ -934,9 +934,9 @@
           "t": "чужом",
           "lemma": "чужой",
           "pos": "adj",
-          "stress": "чу́жом",
+          "stress": "чужо́м",
           "gloss": "someone else's, foreign",
-          "gram": "nominative masculine singular"
+          "gram": "prepositional singular, masculine"
         },
         {
           "t": "споре",
@@ -1158,13 +1158,13 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "сломанная",
           "lemma": "сломанный",
           "pos": "adj",
-          "stress": "сломанна́я",
+          "stress": "сло́манная",
           "gloss": "broken",
           "gram": "nominative feminine singular"
         },
@@ -1447,7 +1447,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         }
       ]
@@ -1476,9 +1476,9 @@
           "t": "чужом",
           "lemma": "чужой",
           "pos": "adj",
-          "stress": "чу́жом",
+          "stress": "чужо́м",
           "gloss": "someone else's, foreign",
-          "gram": "nominative masculine singular"
+          "gram": "prepositional singular, masculine"
         },
         {
           "t": "споре",
@@ -1703,7 +1703,7 @@
       "meanings": [
         {
           "en": "performer, actor, entertainer",
-          "note": "ironic, about someone who puts on an act"
+          "note": ""
         },
         {
           "en": "show-off, a real performer",
@@ -1783,13 +1783,19 @@
       "lemma": "болеть",
       "stress": "боле́ть",
       "pos": "verb",
-      "gloss": "to be ill",
-      "aspect": "impf",
-      "pair": "заболеть",
+      "gloss": "to be ill; to hurt; to root for",
       "meanings": [
         {
           "en": "to be ill, to be sick",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to be ill', paired with 'заболеть'."
+          "note": "болею, болеет"
+        },
+        {
+          "en": "to hurt, to ache",
+          "note": "3rd person only: болит, болят (у меня болит голова)"
+        },
+        {
+          "en": "to root for, to support (a team)",
+          "note": "болеть за + accusative"
         }
       ],
       "forms": {
@@ -1890,7 +1896,8 @@
           "word": "заболевание",
           "gloss": "disease"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "быть": {
       "lemma": "быть",
@@ -2206,83 +2213,6 @@
         }
       ]
     },
-    "дебил": {
-      "lemma": "дебил",
-      "stress": "деби́л",
-      "pos": "noun",
-      "gloss": "moron, idiot (colloq.)",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "moron, idiot (colloq.)",
-          "note": "Common masculine noun meaning 'moron, idiot (colloq.)' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "дебил",
-              "дебилы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "дебила",
-              "дебилов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "дебилу",
-              "дебилам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "дебил",
-              "дебилы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "дебилом",
-              "дебилами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "дебиле",
-              "дебилах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Этот дебил его сожрал.",
-          "trans": "This moron devoured it."
-        },
-        {
-          "text": "На нашей кухне уже есть новый дебил.",
-          "trans": "In our kitchen there is already a new moron."
-        }
-      ],
-      "related": []
-    },
     "для": {
       "lemma": "для",
       "stress": "для",
@@ -2292,7 +2222,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2330,11 +2260,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2373,7 +2303,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2463,7 +2393,7 @@
         },
         {
           "en": "sacrifice",
-          "note": "Приносить в жертву. Common feminine noun meaning 'victim; sacrifice' in everyday Russian."
+          "note": "Приносить в жертву."
         }
       ],
       "forms": {
@@ -2657,7 +2587,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -2691,15 +2621,15 @@
       "meanings": [
         {
           "en": "little, not much",
-          "note": "Это мало = That's not enough. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Это мало = That's not enough."
         },
         {
           "en": "not enough, too little",
-          "note": "Это мало = That's not enough. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "few, not many",
-          "note": "+ genitive: мало людей. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive: мало людей."
         }
       ],
       "forms": null,
@@ -2733,11 +2663,11 @@
       "meanings": [
         {
           "en": "may I?, can I?",
-          "note": "Asking permission. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Asking permission."
         },
         {
           "en": "it is possible",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3319,7 +3249,7 @@
       "meanings": [
         {
           "en": "excellent",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('excellent')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3457,7 +3387,7 @@
       "meanings": [
         {
           "en": "plan, scheme",
-          "note": "Common masculine noun meaning 'plan' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3563,8 +3493,16 @@
       ],
       "related": [
         {
-          "word": "очень по-мужски",
-          "gloss": "intensified / related adverb (like a man)"
+          "word": "мужчина",
+          "gloss": "man"
+        },
+        {
+          "word": "мужской",
+          "gloss": "male, men's"
+        },
+        {
+          "word": "по-женски",
+          "gloss": "like a woman"
         }
       ]
     },
@@ -3592,7 +3530,7 @@
           {
             "cells": [
               "1st",
-              "—",
+              "побежу",
               "победим"
             ]
           },
@@ -3687,7 +3625,7 @@
       "meanings": [
         {
           "en": "to triumph, prevail, win",
-          "note": "Imperfective verb of victory. Used as an imperfective (ongoing/repeated action) verb meaning 'to win, triumph, overcome', paired with 'победить'."
+          "note": "Imperfective verb of victory."
         }
       ],
       "forms": {
@@ -3778,11 +3716,11 @@
       "related": [
         {
           "word": "победить",
-          "gloss": "to win"
+          "gloss": "to win (pf)"
         },
         {
-          "word": "убеждаться",
-          "gloss": "to become convinced"
+          "word": "победа",
+          "gloss": "victory"
         }
       ]
     },
@@ -3794,7 +3732,7 @@
       "meanings": [
         {
           "en": "at times, sometimes, now and then",
-          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'at times'."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3811,87 +3749,6 @@
       ],
       "related": []
     },
-    "придурок": {
-      "lemma": "придурок",
-      "stress": "приду́рок",
-      "pos": "noun",
-      "gloss": "fool, moron, jerk",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "fool, moron, jerk",
-          "note": "Derived masculine noun formed with a productive Slavic suffix, used in spoken Russian to mean 'fool'."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "придурок",
-              "придурки"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "придурка",
-              "придурков"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "придурку",
-              "придуркам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "придурка",
-              "придурков"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "придурком",
-              "придурками"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "придурке",
-              "придурках"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Вокруг одни придурки!",
-          "trans": "There are only morons around!"
-        },
-        {
-          "text": "Вокруг меня одни лентяи и придурки!",
-          "trans": "Around me are only slackers and fools!"
-        },
-        {
-          "text": "Ну ты и придурок, честное слово!",
-          "trans": "Well you are a jerk, honestly!"
-        }
-      ],
-      "related": []
-    },
     "принести": {
       "lemma": "принести",
       "stress": "принести́",
@@ -3902,7 +3759,7 @@
       "meanings": [
         {
           "en": "to bring (carrying on foot)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести'). Used as a perfective (single completed action) verb meaning 'to bring (on foot)', paired with 'приносить'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести')."
         }
       ],
       "forms": {
@@ -4269,7 +4126,7 @@
       "meanings": [
         {
           "en": "hand, arm",
-          "note": "Жать руку = to shake hands. Common feminine noun meaning 'hand; arm' in everyday Russian."
+          "note": "Жать руку = to shake hands."
         }
       ],
       "forms": {
@@ -4349,7 +4206,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -4454,7 +4311,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -4653,7 +4510,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4744,15 +4601,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -4764,7 +4621,7 @@
       "meanings": [
         {
           "en": "broken",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('broken')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4962,7 +4819,7 @@
       "meanings": [
         {
           "en": "way, method, means of doing something",
-          "note": "Common masculine noun meaning 'way, method, means' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5051,7 +4908,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -5220,7 +5077,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5272,6 +5129,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -5451,10 +5325,10 @@
           {
             "cells": [
               "accusative",
-              "чужой",
+              "чужой / чужого",
               "чужую",
               "чужое",
-              "чужие"
+              "чужие / чужих"
             ]
           },
           {

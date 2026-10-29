@@ -572,7 +572,7 @@
           "pos": "num",
           "stress": "де́сять",
           "gloss": "ten",
-          "gram": "cardinal number, accusative"
+          "gram": "cardinal number, nominative/accusative"
         },
         {
           "t": "лет.",
@@ -633,7 +633,7 @@
           "lemma": "над",
           "pos": "prep",
           "stress": null,
-          "gloss": "on",
+          "gloss": "over, above; at",
           "gram": "preposition governing instrumental"
         },
         {
@@ -1628,7 +1628,7 @@
           "pos": "num",
           "stress": "де́сять",
           "gloss": "ten",
-          "gram": "cardinal number, accusative"
+          "gram": "cardinal number, nominative/accusative"
         },
         {
           "t": "лет.",
@@ -1695,7 +1695,7 @@
           "lemma": "над",
           "pos": "prep",
           "stress": null,
-          "gloss": "on",
+          "gloss": "over, above; at",
           "gram": "preposition governing instrumental"
         },
         {
@@ -2696,7 +2696,7 @@
           "pos": "num",
           "stress": "де́сять",
           "gloss": "ten",
-          "gram": "cardinal number, accusative"
+          "gram": "cardinal number, nominative/accusative"
         },
         {
           "t": "лет.",
@@ -2757,7 +2757,7 @@
           "lemma": "над",
           "pos": "prep",
           "stress": null,
-          "gloss": "on",
+          "gloss": "over, above; at",
           "gram": "preposition governing instrumental"
         },
         {
@@ -3242,7 +3242,7 @@
       "meanings": [
         {
           "en": "future, next, coming",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('future, next')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3285,10 +3285,10 @@
           {
             "cells": [
               "accusative",
-              "будущий/будущего",
+              "будущий / будущего",
               "будущую",
               "будущее",
-              "будущие/будущих"
+              "будущие / будущих"
             ]
           },
           {
@@ -3647,11 +3647,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3703,6 +3703,23 @@
                 "видела",
                 "видело",
                 "видели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
               ]
             }
           ]
@@ -3775,126 +3792,6 @@
         }
       ]
     },
-    "все": {
-      "lemma": "все",
-      "stress": "все",
-      "pos": "pron",
-      "gloss": "all; everyone",
-      "meanings": [
-        {
-          "en": "all (of them)",
-          "note": "after a plural noun or pronoun: вы все"
-        },
-        {
-          "en": "everyone",
-          "note": "Всем = to everyone (dative). Core Russian pron meaning 'all; everyone' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Вы все воры.",
-          "trans": "You're all thieves."
-        },
-        {
-          "text": "Всем всё равно.",
-          "trans": "Nobody cares."
-        },
-        {
-          "text": "И знаешь, что самое главное? Всем всё равно.",
-          "trans": "And you know the main thing? Nobody cares."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, whole"
-        },
-        {
-          "word": "всё",
-          "gloss": "everything"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "выйти": {
       "lemma": "выйти",
       "stress": "вы́йти",
@@ -3905,11 +3802,11 @@
       "meanings": [
         {
           "en": "to go out, to leave",
-          "note": "Used as a perfective (single completed action) verb meaning 'to go out, to get out', paired with 'выходить'."
+          "note": ""
         },
         {
           "en": "to get out (be released)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to go out, to get out', paired with 'выходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4116,7 +4013,7 @@
             "cells": [
               "genitive",
               "года",
-              "лет"
+              "годов"
             ]
           },
           {
@@ -4143,7 +4040,7 @@
           {
             "cells": [
               "prepositional",
-              "годе (в году)",
+              "годе",
               "годах"
             ]
           }
@@ -4178,7 +4075,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -4241,11 +4138,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4321,11 +4218,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -4360,12 +4257,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -4420,6 +4315,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4439,17 +4351,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -4552,42 +4465,42 @@
             "cells": [
               "nominative",
               "интернет",
-              "—"
+              "интернеты"
             ]
           },
           {
             "cells": [
               "genitive",
               "интернета",
-              "—"
+              "интернетов"
             ]
           },
           {
             "cells": [
               "dative",
               "интернету",
-              "—"
+              "интернетам"
             ]
           },
           {
             "cells": [
               "accusative",
               "интернет",
-              "—"
+              "интернеты"
             ]
           },
           {
             "cells": [
               "instrumental",
               "интернетом",
-              "—"
+              "интернетами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "интернете",
-              "—"
+              "интернетах"
             ]
           }
         ]
@@ -4693,7 +4606,7 @@
         },
         {
           "en": "'Конец связи' = over and out",
-          "note": "Radio and phone phrase. Common masculine noun meaning 'end' in everyday Russian."
+          "note": "Radio and phone phrase."
         }
       ],
       "forms": {
@@ -4868,7 +4781,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -4890,7 +4803,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -4904,7 +4821,7 @@
       "meanings": [
         {
           "en": "to fly, go flying",
-          "note": "Motion in one direction. Used as an imperfective (ongoing/repeated action) verb meaning 'to fly (in one direction)', paired with 'полететь'."
+          "note": "Motion in one direction."
         }
       ],
       "forms": {
@@ -5016,11 +4933,11 @@
       "meanings": [
         {
           "en": "car",
-          "note": "Common feminine noun meaning 'car; machine' in everyday Russian."
+          "note": ""
         },
         {
           "en": "machine",
-          "note": "Common feminine noun meaning 'car; machine' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5295,7 +5212,7 @@
       "meanings": [
         {
           "en": "sea",
-          "note": "На море = at/to the seaside. Common neuter noun meaning 'sea' in everyday Russian."
+          "note": "На море = at/to the seaside."
         }
       ],
       "forms": {
@@ -5460,6 +5377,7 @@
       "pos": "noun",
       "gloss": "mayor",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "mayor",
@@ -5533,7 +5451,16 @@
           "trans": "I've been working as mayor for four years now."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "мэрия",
+          "gloss": "town hall"
+        },
+        {
+          "word": "губернатор",
+          "gloss": "governor"
+        }
+      ]
     },
     "над": {
       "lemma": "над",
@@ -5544,7 +5471,7 @@
       "meanings": [
         {
           "en": "over, above",
-          "note": "+ instrumental. Core Russian prep meaning 'over, above; at' in everyday speech."
+          "note": "+ instrumental."
         },
         {
           "en": "at (laugh at)",
@@ -5628,11 +5555,11 @@
       "meanings": [
         {
           "en": "people's, public",
-          "note": "Belonging to the people. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('people's, public, folk')."
+          "note": "Belonging to the people. Agrees in gender, number, and case with the noun it modifies ('people's, public, folk')."
         },
         {
           "en": "folk, traditional",
-          "note": "Народная песня = folk song. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('people's, public, folk')."
+          "note": "Народная песня = folk song. Agrees in gender, number, and case with the noun it modifies ('people's, public, folk')."
         }
       ],
       "forms": {
@@ -5675,10 +5602,10 @@
           {
             "cells": [
               "accusative",
-              "народный",
+              "народный / народного",
               "народную",
               "народное",
-              "народные"
+              "народные / народных"
             ]
           },
           {
@@ -5777,7 +5704,7 @@
         },
         {
           "en": "ни... ни = neither... nor",
-          "note": "Core Russian part meaning 'not a (single); neither... nor' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5804,44 +5731,6 @@
         {
           "word": "никто",
           "gloss": "nobody"
-        }
-      ]
-    },
-    "но": {
-      "lemma": "но",
-      "stress": "но",
-      "pos": "conj",
-      "gloss": "but",
-      "meanings": [
-        {
-          "en": "but",
-          "note": "Stronger contrast than 'а'. Core Russian conj meaning 'but' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Мы сделали много, но надо ещё.",
-          "trans": "We've done a lot, but we need more."
-        },
-        {
-          "text": "Я хочу, но не могу.",
-          "trans": "I want to, but I can't."
-        },
-        {
-          "text": "Мы сделали много, но надо сделать ещё больше.",
-          "trans": "We've done a lot, but we need to do even more."
-        }
-      ],
-      "related": [
-        {
-          "word": "а",
-          "gloss": "and, but"
-        },
-        {
-          "word": "однако",
-          "gloss": "however"
         }
       ]
     },
@@ -6033,7 +5922,7 @@
       "meanings": [
         {
           "en": "window",
-          "note": "Common neuter noun meaning 'window' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6115,7 +6004,7 @@
       "meanings": [
         {
           "en": "to leave (behind or for someone)",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to leave, let someone keep', paired with 'оставить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6226,11 +6115,11 @@
       "meanings": [
         {
           "en": "badly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "it's bad",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6293,8 +6182,12 @@
       ],
       "related": [
         {
-          "word": "очень по-человечески",
-          "gloss": "intensified / related adverb (decently)"
+          "word": "человек",
+          "gloss": "person"
+        },
+        {
+          "word": "человеческий",
+          "gloss": "human"
         }
       ]
     },
@@ -6417,11 +6310,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -6559,11 +6452,11 @@
       "meanings": [
         {
           "en": "to tear, rip",
-          "note": "Literal. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'рвать'). Used as a perfective (single completed action) verb meaning 'to tear up; (slang) to blow away, break (the internet)', paired with 'рвать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'рвать')."
         },
         {
           "en": "to blow away, smash, 'break the internet'",
-          "note": "Colloquial: порвать весь интернет. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'рвать'). Used as a perfective (single completed action) verb meaning 'to tear up; (slang) to blow away, break (the internet)', paired with 'рвать'."
+          "note": "Colloquial: порвать весь интернет. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'рвать')."
         }
       ],
       "forms": {
@@ -6674,7 +6567,7 @@
       "meanings": [
         {
           "en": "last, final",
-          "note": "Последний раз = for the last time. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('last, final')."
+          "note": "Последний раз = for the last time."
         }
       ],
       "forms": {
@@ -6717,10 +6610,10 @@
           {
             "cells": [
               "accusative",
-              "последний",
+              "последний / последнего",
               "последнюю",
               "последнее",
-              "последние"
+              "последние / последних"
             ]
           },
           {
@@ -6773,11 +6666,11 @@
         },
         {
           "en": "sentence",
-          "note": "In grammar. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'offer, proposal; sentence' in everyday Russian."
+          "note": "In grammar."
         },
         {
           "en": "marriage proposal",
-          "note": "Сделать предложение. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'offer, proposal; sentence' in everyday Russian."
+          "note": "Сделать предложение."
         }
       ],
       "forms": {
@@ -6867,11 +6760,11 @@
       "meanings": [
         {
           "en": "view, hit",
-          "note": "Of an online video. Common masculine noun meaning 'view (online); viewing' in everyday Russian."
+          "note": "Of an online video."
         },
         {
           "en": "viewing, screening",
-          "note": "Of a film or flat. Common masculine noun meaning 'view (online); viewing' in everyday Russian."
+          "note": "Of a film or flat."
         }
       ],
       "forms": {
@@ -6964,7 +6857,7 @@
       "meanings": [
         {
           "en": "five",
-          "note": "+ genitive plural: пять рублей. Core Russian num meaning 'five' in everyday speech."
+          "note": "+ genitive plural: пять рублей."
         }
       ],
       "forms": null,
@@ -7002,7 +6895,7 @@
       "meanings": [
         {
           "en": "dear, darling, my friend (in address: родной мой)",
-          "note": "Often used ironically. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('native, own; dear, darling')."
+          "note": "Often used ironically."
         },
         {
           "en": "own (by blood), native",
@@ -7049,10 +6942,10 @@
           {
             "cells": [
               "accusative",
-              "родной/родного",
+              "родной / родного",
               "родную",
               "родное",
-              "родные/родных"
+              "родные / родных"
             ]
           },
           {
@@ -7149,7 +7042,7 @@
       "meanings": [
         {
           "en": "freedom, liberty",
-          "note": "Common feminine noun meaning 'freedom, liberty' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7272,7 +7165,7 @@
       "meanings": [
         {
           "en": "seriously",
-          "note": "Серьёзно? = really?. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Серьёзно? = really?."
         }
       ],
       "forms": null,
@@ -7306,11 +7199,11 @@
       "meanings": [
         {
           "en": "how much, how many",
-          "note": "+ genitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive."
         },
         {
           "en": "what a lot of!",
-          "note": "In exclamations. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "In exclamations."
         }
       ],
       "forms": null,
@@ -7345,7 +7238,7 @@
         },
         {
           "en": "to laugh at (над + instrumental)",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to laugh', paired with 'засмеяться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -7449,11 +7342,11 @@
       "meanings": [
         {
           "en": "sense, meaning",
-          "note": "'В смысле?'. Common masculine noun meaning 'sense, meaning' in everyday Russian."
+          "note": "'В смысле?'."
         },
         {
           "en": "what do you mean?",
-          "note": "'В смысле?'. Common masculine noun meaning 'sense, meaning' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7539,7 +7432,7 @@
       "meanings": [
         {
           "en": "neighbour",
-          "note": "Next door, or in the same flat. Common masculine noun meaning 'neighbour' in everyday Russian."
+          "note": "Next door, or in the same flat."
         }
       ],
       "forms": {
@@ -7625,11 +7518,11 @@
       "meanings": [
         {
           "en": "term (of office)",
-          "note": "Второй срок = a second term. Common masculine noun meaning 'term, period' in everyday Russian."
+          "note": "Второй срок = a second term."
         },
         {
           "en": "period, deadline",
-          "note": "Common masculine noun meaning 'term, period' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7710,7 +7603,7 @@
       "meanings": [
         {
           "en": "country, nation",
-          "note": "Common feminine noun meaning 'country' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7782,16 +7675,16 @@
       ],
       "related": [
         {
-          "word": "странно",
-          "gloss": "strange"
+          "word": "государство",
+          "gloss": "state"
         },
         {
-          "word": "странный",
-          "gloss": "strange"
+          "word": "родина",
+          "gloss": "homeland"
         },
         {
-          "word": "страница",
-          "gloss": "page"
+          "word": "мир",
+          "gloss": "world"
         }
       ]
     },
@@ -8022,7 +7915,7 @@
       "meanings": [
         {
           "en": "prison, jail",
-          "note": "В тюрьме = in prison. Common feminine noun meaning 'prison, jail' in everyday Russian."
+          "note": "В тюрьме = in prison."
         }
       ],
       "forms": {
@@ -8104,11 +7997,15 @@
       "meanings": [
         {
           "en": "to pull",
-          "note": "тянуть с + instrumental, colloquial"
+          "note": ""
         },
         {
           "en": "to delay, to drag out",
           "note": "тянуть с + instrumental, colloquial"
+        },
+        {
+          "en": "to be drawn to (impersonal)",
+          "note": "Меня тянет к нему = I'm drawn to him."
         }
       ],
       "forms": {
@@ -8262,7 +8159,7 @@
         },
         {
           "en": "conditional, agreed",
-          "note": "Условный знак = an agreed signal. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('conditional; agreed; suspended (sentence)')."
+          "note": "Условный знак = an agreed signal."
         }
       ],
       "forms": {
@@ -8305,10 +8202,10 @@
           {
             "cells": [
               "accusative",
-              "условный/условного",
+              "условный / условного",
               "условную",
               "условное",
-              "условные/условных"
+              "условные / условных"
             ]
           },
           {
@@ -8363,7 +8260,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -8415,6 +8312,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -8561,7 +8475,7 @@
         },
         {
           "en": "through, across",
-          "note": "Core Russian prep meaning 'in (time); through' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -8590,26 +8504,35 @@
       "meanings": [
         {
           "en": "four",
-          "note": "+ genitive singular: четыре года. Core Russian num meaning 'four' in everyday speech."
+          "note": "к четырём = by four (o'clock)"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Четыре года.",
-          "trans": "Four years."
+          "text": "Леночка, дорогая, жди меня сегодня к четырём.",
+          "trans": "Lenochka, darling, expect me today by four."
         },
         {
-          "text": "У меня четыре фломастера.",
-          "trans": "I have four markers."
-        },
-        {
-          "text": "Я уже четыре года работаю мэром.",
-          "trans": "I've been working as mayor for four years now."
+          "text": "У нас четыре повара.",
+          "trans": "We have four cooks."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "четвёртый",
+          "gloss": "fourth"
+        },
+        {
+          "word": "четырнадцать",
+          "gloss": "fourteen"
+        },
+        {
+          "word": "сорок",
+          "gloss": "forty"
+        }
+      ]
     },
     "что": {
       "lemma": "что",

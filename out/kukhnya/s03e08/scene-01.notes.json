@@ -311,10 +311,10 @@
         {
           "t": "шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "уволил",
@@ -337,7 +337,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -391,7 +391,7 @@
           "lemma": "блюдо",
           "pos": "noun",
           "stress": "блю́да",
-          "gloss": "of dish",
+          "gloss": "dish",
           "gram": "neuter inanimate noun, genitive singular"
         },
         {
@@ -634,7 +634,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "раза.",
@@ -726,7 +726,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "ты",
@@ -1079,10 +1079,10 @@
         {
           "t": "шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "уволил",
@@ -1105,7 +1105,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1159,7 +1159,7 @@
           "lemma": "блюдо",
           "pos": "noun",
           "stress": "блю́да",
-          "gloss": "of dish",
+          "gloss": "dish",
           "gram": "neuter inanimate noun, genitive singular"
         },
         {
@@ -1402,7 +1402,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "раза.",
@@ -1494,7 +1494,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "ты",
@@ -1847,10 +1847,10 @@
         {
           "t": "шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "уволил",
@@ -1873,7 +1873,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1927,7 +1927,7 @@
           "lemma": "блюдо",
           "pos": "noun",
           "stress": "блю́да",
-          "gloss": "of dish",
+          "gloss": "dish",
           "gram": "neuter inanimate noun, genitive singular"
         },
         {
@@ -2170,7 +2170,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "раза.",
@@ -2262,7 +2262,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "ты",
@@ -2339,7 +2339,7 @@
       "meanings": [
         {
           "en": "dish",
-          "note": "Declinable neuter noun meaning 'dish', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "platter",
@@ -2420,12 +2420,10 @@
       "stress": "боро́ться",
       "pos": "verb",
       "gloss": "to fight, struggle",
-      "aspect": "impf",
-      "pair": "побороться",
       "meanings": [
         {
           "en": "to fight, struggle",
-          "note": "Intransitive reflexive verb. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to fight, struggle', paired with 'побороться'."
+          "note": "Intransitive reflexive verb."
         }
       ],
       "forms": {
@@ -2515,10 +2513,19 @@
       ],
       "related": [
         {
+          "word": "борьба",
+          "gloss": "struggle, fight"
+        },
+        {
+          "word": "борец",
+          "gloss": "fighter, wrestler"
+        },
+        {
           "word": "побороться",
-          "gloss": "to fight"
+          "gloss": "to put up a fight (for a while)"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "быть": {
       "lemma": "быть",
@@ -2722,11 +2729,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2766,11 +2773,11 @@
       "meanings": [
         {
           "en": "to date, go out with each other",
-          "note": "Мы встречаемся = we're dating. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to meet; to date, go out', paired with 'встретиться'."
+          "note": "Мы встречаемся = we're dating."
         },
         {
           "en": "to meet up, see each other",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to meet; to date, go out', paired with 'встретиться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2881,7 +2888,7 @@
       "meanings": [
         {
           "en": "yesterday",
-          "note": "Core Russian adv meaning 'yesterday' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2997,7 +3004,7 @@
       "meanings": [
         {
           "en": "even",
-          "note": "Core Russian part meaning 'even' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3035,11 +3042,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3077,7 +3084,7 @@
       "meanings": [
         {
           "en": "expensive",
-          "note": "to a loved one, and at the start of letters"
+          "note": ""
         },
         {
           "en": "dear",
@@ -3124,10 +3131,10 @@
           {
             "cells": [
               "accusative",
-              "дорогой/дорогого",
+              "дорогой / дорогого",
               "дорогую",
               "дорогое",
-              "дорогие/дорогих"
+              "дорогие / дорогих"
             ]
           },
           {
@@ -3150,29 +3157,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "дорог",
-                "дорога",
-                "дорого",
-                "дороги"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Это дорогая одежда.",
@@ -3203,7 +3188,7 @@
       "meanings": [
         {
           "en": "delivery (of food, parcels, etc.)",
-          "note": "Common feminine noun meaning 'delivery' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3275,16 +3260,12 @@
       ],
       "related": [
         {
-          "word": "поставить",
-          "gloss": "to put"
+          "word": "доставить",
+          "gloss": "to deliver"
         },
         {
-          "word": "отставать",
-          "gloss": "to fall behind"
-        },
-        {
-          "word": "приставка",
-          "gloss": "games console"
+          "word": "курьер",
+          "gloss": "courier"
         }
       ]
     },
@@ -3297,7 +3278,7 @@
       "meanings": [
         {
           "en": "food, meal",
-          "note": "Singular only. Common feminine noun meaning 'food, meal' in everyday Russian."
+          "note": "Singular only."
         }
       ],
       "forms": {
@@ -3312,42 +3293,42 @@
             "cells": [
               "nominative",
               "еда",
-              "еды"
+              "—"
             ]
           },
           {
             "cells": [
               "genitive",
               "еды",
-              "ед"
+              "—"
             ]
           },
           {
             "cells": [
               "dative",
               "еде",
-              "едам"
+              "—"
             ]
           },
           {
             "cells": [
               "accusative",
               "еду",
-              "еды"
+              "—"
             ]
           },
           {
             "cells": [
               "instrumental",
               "едой",
-              "едами"
+              "—"
             ]
           },
           {
             "cells": [
               "prepositional",
               "еде",
-              "едах"
+              "—"
             ]
           }
         ]
@@ -3563,7 +3544,7 @@
       "meanings": [
         {
           "en": "life",
-          "note": "Common feminine noun meaning 'life' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3828,7 +3809,7 @@
       "meanings": [
         {
           "en": "or",
-          "note": "Core Russian conj meaning 'or' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3900,7 +3881,7 @@
       "meanings": [
         {
           "en": "cinema, movies",
-          "note": "Film theater or cinematic art. Common neuter noun meaning 'cinema, movies, film' in everyday Russian."
+          "note": "Film theater or cinematic art."
         }
       ],
       "forms": {
@@ -3915,42 +3896,42 @@
             "cells": [
               "nominative",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "genitive",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "dative",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "accusative",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "instrumental",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "prepositional",
               "кино",
-              "—"
+              "кино"
             ]
           }
         ]
@@ -3980,7 +3961,7 @@
       "meanings": [
         {
           "en": "when",
-          "note": "Question word and conjunction. Core Russian adv meaning 'when' in everyday speech."
+          "note": "Question word and conjunction."
         }
       ],
       "forms": null,
@@ -4022,7 +4003,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -4068,7 +4049,7 @@
         },
         {
           "en": "soundly",
-          "note": "Крепко спать = sleep soundly. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Крепко спать = sleep soundly."
         }
       ],
       "forms": null,
@@ -4106,7 +4087,7 @@
       "meanings": [
         {
           "en": "where to",
-          "note": "For movement; где is for location. Core Russian adv meaning 'where (to)' in everyday speech."
+          "note": "For movement; где is for location."
         }
       ],
       "forms": null,
@@ -4149,7 +4130,7 @@
       "meanings": [
         {
           "en": "courier, errand runner",
-          "note": "Agentive or instrument masculine noun meaning 'courier', declining across all six Russian grammatical cases."
+          "note": ""
         }
       ],
       "forms": {
@@ -4229,7 +4210,7 @@
         },
         {
           "en": "darling",
-          "note": "милый / милая used as a form of address"
+          "note": ""
         }
       ],
       "forms": {
@@ -4316,11 +4297,15 @@
       "related": [
         {
           "word": "мило",
-          "gloss": "in a sweet way (adv.)"
+          "gloss": "sweetly; it's nice"
         },
         {
           "word": "милость",
-          "gloss": "quality of being sweet"
+          "gloss": "mercy, favour"
+        },
+        {
+          "word": "миленький",
+          "gloss": "sweet, cute"
         }
       ]
     },
@@ -4420,7 +4405,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4472,6 +4457,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -4590,7 +4592,7 @@
       "meanings": [
         {
           "en": "to hope, to count on",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to hope, to rely on', paired with 'понадеяться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4971,15 +4973,15 @@
       "meanings": [
         {
           "en": "about, concerning",
-          "note": "In 'по поводу' + genitive. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "In 'по поводу' + genitive."
         },
         {
           "en": "along, around",
-          "note": "+ dative. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "+ dative."
         },
         {
           "en": "by (phone)",
-          "note": "'по телефону'. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "'по телефону'."
         }
       ],
       "forms": null,
@@ -5071,6 +5073,23 @@
                 "понимала",
                 "понимало",
                 "понимали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понимай",
+                "понимайте"
               ]
             }
           ]
@@ -5178,8 +5197,20 @@
       ],
       "related": [
         {
-          "word": "разный",
-          "gloss": "related to time (adj.)"
+          "word": "однажды",
+          "gloss": "once, one day"
+        },
+        {
+          "word": "как раз",
+          "gloss": "just right, exactly"
+        },
+        {
+          "word": "ни разу",
+          "gloss": "not once, never"
+        },
+        {
+          "word": "сразу",
+          "gloss": "at once"
         }
       ]
     },
@@ -5322,7 +5353,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5413,15 +5444,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -5504,7 +5535,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5554,8 +5585,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -5567,7 +5606,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -5731,7 +5770,7 @@
       "meanings": [
         {
           "en": "to fire, to sack",
-          "note": "Уволен = fired (short participle). Used as a perfective (single completed action) verb meaning 'to fire, to dismiss', paired with 'увольнять'."
+          "note": "Уволен = fired (short participle)."
         }
       ],
       "forms": {
@@ -5786,6 +5825,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "уволь",
+                "увольте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5823,7 +5879,7 @@
       "meanings": [
         {
           "en": "to fall asleep",
-          "note": "Used as a perfective (single completed action) verb meaning 'to fall asleep', paired with 'засыпать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5935,7 +5991,7 @@
       "meanings": [
         {
           "en": "football, soccer",
-          "note": "Играть в футбол = to play football. Common masculine noun meaning 'football, soccer' in everyday Russian."
+          "note": "Играть в футбол = to play football."
         }
       ],
       "forms": {
@@ -5950,42 +6006,42 @@
             "cells": [
               "nominative",
               "футбол",
-              "-"
+              "футболы"
             ]
           },
           {
             "cells": [
               "genitive",
               "футбола",
-              "-"
+              "футболов"
             ]
           },
           {
             "cells": [
               "dative",
               "футболу",
-              "-"
+              "футболам"
             ]
           },
           {
             "cells": [
               "accusative",
               "футбол",
-              "-"
+              "футболы"
             ]
           },
           {
             "cells": [
               "instrumental",
               "футболом",
-              "-"
+              "футболами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "футболе",
-              "-"
+              "футболах"
             ]
           }
         ]
@@ -6181,7 +6237,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -6236,6 +6292,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6269,11 +6342,11 @@
       "pos": "verb",
       "gloss": "to kiss",
       "aspect": "impf",
-      "pair": null,
+      "pair": "поцеловаться",
       "meanings": [
         {
           "en": "to kiss",
-          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'to kiss'; conjugates for person and number in the present/future and agrees in gender in the past tense. The reflexive suffix '-ся'/'-сь' makes the action intransitive, reciprocal, or directed at the subject."
+          "note": ""
         }
       ],
       "forms": {
@@ -6325,6 +6398,23 @@
                 "целовалась",
                 "целовалось",
                 "целовались"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "целуйся",
+                "целуйтесь"
               ]
             }
           ]
@@ -6589,6 +6679,88 @@
           "gloss": "because"
         }
       ]
+    },
+    "шеф": {
+      "lemma": "шеф",
+      "stress": "шеф",
+      "pos": "noun",
+      "gloss": "boss, chief",
+      "gender": "m",
+      "animacy": "anim",
+      "meanings": [
+        {
+          "en": "boss, chief",
+          "note": "Informal. Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "шеф",
+              "шефы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "шефу",
+              "шефам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "шефом",
+              "шефами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "шефе",
+              "шефах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хитро придумано, шеф!",
+          "trans": "Cleverly thought out, boss!"
+        },
+        {
+          "text": "Шеф подписал приказ.",
+          "trans": "The boss signed the order."
+        },
+        {
+          "text": "Шеф на кухне.",
+          "trans": "The chef is in the kitchen."
+        }
+      ],
+      "related": []
     },
     "я": {
       "lemma": "я",

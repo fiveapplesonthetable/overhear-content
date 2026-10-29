@@ -204,7 +204,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "fight, combat, battle",
-          "gram": "noun m nom"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "посуды",
@@ -234,7 +234,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "ты",
@@ -266,7 +266,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "жизни?",
@@ -407,7 +407,7 @@
         {
           "t": "Спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -724,7 +724,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "fight, combat, battle",
-          "gram": "noun m nom"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "посуды",
@@ -754,7 +754,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "ты",
@@ -786,7 +786,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "жизни?",
@@ -927,7 +927,7 @@
         {
           "t": "Спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1244,7 +1244,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "fight, combat, battle",
-          "gram": "noun m nom"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "посуды",
@@ -1274,7 +1274,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "ты",
@@ -1306,7 +1306,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "жизни?",
@@ -1447,7 +1447,7 @@
         {
           "t": "Спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1595,7 +1595,7 @@
       "meanings": [
         {
           "en": "fight, combat, battle",
-          "note": "Prepositional in battle: в бою. Common masculine noun meaning 'fight, combat, battle' in everyday Russian."
+          "note": "Prepositional in battle: в бою."
         }
       ],
       "forms": {
@@ -1667,8 +1667,16 @@
       ],
       "related": [
         {
-          "word": "бойный",
-          "gloss": "related to fight (adj.)"
+          "word": "боевой",
+          "gloss": "combat, fighting"
+        },
+        {
+          "word": "боец",
+          "gloss": "fighter"
+        },
+        {
+          "word": "бить",
+          "gloss": "to beat"
         }
       ]
     },
@@ -1797,11 +1805,11 @@
       "meanings": [
         {
           "en": "to date, go out with each other",
-          "note": "Мы встречаемся = we're dating. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to meet; to date, go out', paired with 'встретиться'."
+          "note": "Мы встречаемся = we're dating."
         },
         {
           "en": "to meet up, see each other",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to meet; to date, go out', paired with 'встретиться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1904,84 +1912,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вы": {
       "lemma": "вы",
       "stress": "вы",
@@ -2074,7 +2004,7 @@
       "meanings": [
         {
           "en": "to look, appear (well, strange)",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'глядеть'). Used as an verbal verb meaning 'to look, appear'."
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'глядеть')."
         }
       ],
       "forms": {
@@ -2112,6 +2042,7 @@
         {
           "title": "Past",
           "columns": [
+            "",
             "m",
             "f",
             "n",
@@ -2120,10 +2051,28 @@
           "rows": [
             {
               "cells": [
+                "past",
                 "выглядел",
                 "выглядела",
                 "выглядело",
                 "выглядели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "выгляди",
+                "выглядите"
               ]
             }
           ]
@@ -2189,7 +2138,7 @@
             "cells": [
               "genitive",
               "года",
-              "лет"
+              "годов"
             ]
           },
           {
@@ -2216,7 +2165,7 @@
           {
             "cells": [
               "prepositional",
-              "годе (в году)",
+              "годе",
               "годах"
             ]
           }
@@ -2251,7 +2200,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2285,11 +2234,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2423,12 +2372,8 @@
           "gloss": "to strive for"
         },
         {
-          "word": "убить",
-          "gloss": "to kill"
-        },
-        {
-          "word": "бить",
-          "gloss": "to beat"
+          "word": "успех",
+          "gloss": "success"
         }
       ]
     },
@@ -2441,7 +2386,7 @@
       "meanings": [
         {
           "en": "life",
-          "note": "Common feminine noun meaning 'life' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2521,11 +2466,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2565,7 +2510,7 @@
       "meanings": [
         {
           "en": "to call (someone over)",
-          "note": "Звать на помощь = to call for help. Used as an imperfective (ongoing/repeated action) verb meaning 'to call', paired with 'позвать'."
+          "note": "Звать на помощь = to call for help."
         },
         {
           "en": "to be called (a name)",
@@ -2795,7 +2740,7 @@
       "meanings": [
         {
           "en": "when",
-          "note": "Question word and conjunction. Core Russian adv meaning 'when' in everyday speech."
+          "note": "Question word and conjunction."
         }
       ],
       "forms": null,
@@ -2837,7 +2782,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -2859,7 +2804,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -3014,7 +2963,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3066,6 +3015,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3224,11 +3190,11 @@
       "meanings": [
         {
           "en": "ago (after a time expression)",
-          "note": "Два года назад = two years ago. Core Russian adv meaning 'ago; back, backwards' in everyday speech."
+          "note": "Два года назад = two years ago."
         },
         {
           "en": "back, backwards",
-          "note": "Шаг назад = a step back. Core Russian adv meaning 'ago; back, backwards' in everyday speech."
+          "note": "Шаг назад = a step back."
         }
       ],
       "forms": null,
@@ -3355,7 +3321,7 @@
       "meanings": [
         {
           "en": "fine, OK, normal",
-          "note": "Colloquial. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Colloquial."
         }
       ],
       "forms": null,
@@ -3440,7 +3406,7 @@
       "meanings": [
         {
           "en": "dishes, plates and cups, tableware (collective singular)",
-          "note": "Мыть посуду = to wash the dishes. Common feminine noun meaning 'dishes, tableware, crockery' in everyday Russian."
+          "note": "Мыть посуду = to wash the dishes."
         }
       ],
       "forms": {
@@ -3455,42 +3421,42 @@
             "cells": [
               "nominative",
               "посуда",
-              "—"
+              "посуды"
             ]
           },
           {
             "cells": [
               "genitive",
               "посуды",
-              "—"
+              "посуд"
             ]
           },
           {
             "cells": [
               "dative",
               "посуде",
-              "—"
+              "посудам"
             ]
           },
           {
             "cells": [
               "accusative",
               "посуду",
-              "—"
+              "посуды"
             ]
           },
           {
             "cells": [
               "instrumental",
               "посудой",
-              "—"
+              "посудами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "посуде",
-              "—"
+              "посудах"
             ]
           }
         ]
@@ -3559,7 +3525,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -3769,10 +3735,10 @@
           {
             "cells": [
               "accusative",
-              "прочий",
+              "прочий / прочего",
               "прочую",
               "прочее",
-              "прочие"
+              "прочие / прочих"
             ]
           },
           {
@@ -3811,45 +3777,6 @@
         }
       ],
       "related": []
-    },
-    "с": {
-      "lemma": "с",
-      "stress": "с",
-      "pos": "prep",
-      "gloss": "with",
-      "governs": "+ instrumental",
-      "meanings": [
-        {
-          "en": "with",
-          "note": "+ instrumental; со before some consonant clusters: со всеми"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Поделись со всеми.",
-          "trans": "Share with everyone."
-        },
-        {
-          "text": "Я с папой.",
-          "trans": "I'm with Dad."
-        },
-        {
-          "text": "Со всеми поделись поровну, понял?",
-          "trans": "Share it all equally with everyone, understand?"
-        }
-      ],
-      "related": [
-        {
-          "word": "со",
-          "gloss": "with, from"
-        },
-        {
-          "word": "без",
-          "gloss": "without"
-        }
-      ]
     },
     "самый": {
       "lemma": "самый",
@@ -3958,11 +3885,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4034,75 +3961,31 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -4128,7 +4011,7 @@
       "meanings": [
         {
           "en": "stop!, halt!; cut! (in filming)",
-          "note": "Core Russian interj meaning 'stop!, cut!' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4245,7 +4128,7 @@
       "meanings": [
         {
           "en": "to leave on foot, go away",
-          "note": "Used as a perfective (single completed action) verb meaning 'to leave, go away', paired with 'уходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4349,7 +4232,7 @@
       "meanings": [
         {
           "en": "festival",
-          "note": "Common masculine noun meaning 'festival' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4408,21 +4291,21 @@
       "examples": [
         {
           "text": "И то на кулинарных фестивалях.",
-          "trans": "And both times were at culinary festivals."
+          "trans": "And even then only at cooking festivals."
         },
         {
-          "text": "На нашей кухне уже есть новый фестиваль.",
-          "trans": "In our kitchen there is already a new festival."
+          "text": "Мы встречались год назад на фестивале.",
+          "trans": "We met a year ago at a festival."
         }
       ],
       "related": [
         {
-          "word": "без фестивал",
-          "gloss": "without festival"
+          "word": "конкурс",
+          "gloss": "competition"
         },
         {
-          "word": "наш фестиваль",
-          "gloss": "our festival"
+          "word": "праздник",
+          "gloss": "celebration"
         }
       ]
     },
@@ -4436,7 +4319,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4488,6 +4371,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -4624,7 +4524,7 @@
         },
         {
           "en": "in order to",
-          "note": "+ infinitive. Core Russian conj meaning 'so that, in order to' in everyday speech."
+          "note": "+ infinitive."
         }
       ],
       "forms": null,
@@ -4664,7 +4564,7 @@
       "meanings": [
         {
           "en": "fine, penalty",
-          "note": "Declinable masculine noun meaning 'fine', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {

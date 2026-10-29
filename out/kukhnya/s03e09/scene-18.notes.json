@@ -28,7 +28,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "любимая",
@@ -329,8 +329,8 @@
           "lemma": "устроиться",
           "pos": "verb",
           "stress": "устро́ился",
-          "gloss": "to settle, to get a job",
-          "gram": "verb, perfective"
+          "gloss": "settled, got a job",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
@@ -360,7 +360,7 @@
           "pos": "noun",
           "stress": "выходны́х",
           "gloss": "weekend",
-          "gram": "prepositional plural"
+          "gram": "plural (prepositional / genitive)"
         },
         {
           "t": "мой",
@@ -404,7 +404,7 @@
           "t": "старается",
           "lemma": "стараться",
           "pos": "verb",
-          "stress": "старае́тся",
+          "stress": "стара́ется",
           "gloss": "to try, to make an effort",
           "gram": "3rd person singular"
         },
@@ -553,8 +553,8 @@
           "lemma": "дать",
           "pos": "verb",
           "stress": null,
-          "gloss": "to give",
-          "gram": "past m sg"
+          "gloss": "gave",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
@@ -692,7 +692,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "любимая",
@@ -993,8 +993,8 @@
           "lemma": "устроиться",
           "pos": "verb",
           "stress": "устро́ился",
-          "gloss": "to settle, to get a job",
-          "gram": "verb, perfective"
+          "gloss": "settled, got a job",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
@@ -1024,7 +1024,7 @@
           "pos": "noun",
           "stress": "выходны́х",
           "gloss": "weekend",
-          "gram": "prepositional plural"
+          "gram": "plural (prepositional / genitive)"
         },
         {
           "t": "мой",
@@ -1068,7 +1068,7 @@
           "t": "старается",
           "lemma": "стараться",
           "pos": "verb",
-          "stress": "старае́тся",
+          "stress": "стара́ется",
           "gloss": "to try, to make an effort",
           "gram": "3rd person singular"
         },
@@ -1217,8 +1217,8 @@
           "lemma": "дать",
           "pos": "verb",
           "stress": null,
-          "gloss": "to give",
-          "gram": "past m sg"
+          "gloss": "gave",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
@@ -1356,7 +1356,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "любимая",
@@ -1657,8 +1657,8 @@
           "lemma": "устроиться",
           "pos": "verb",
           "stress": "устро́ился",
-          "gloss": "to settle, to get a job",
-          "gram": "verb, perfective"
+          "gloss": "settled, got a job",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
@@ -1688,7 +1688,7 @@
           "pos": "noun",
           "stress": "выходны́х",
           "gloss": "weekend",
-          "gram": "prepositional plural"
+          "gram": "plural (prepositional / genitive)"
         },
         {
           "t": "мой",
@@ -1732,7 +1732,7 @@
           "t": "старается",
           "lemma": "стараться",
           "pos": "verb",
-          "stress": "старае́тся",
+          "stress": "стара́ется",
           "gloss": "to try, to make an effort",
           "gram": "3rd person singular"
         },
@@ -1881,8 +1881,8 @@
           "lemma": "дать",
           "pos": "verb",
           "stress": null,
-          "gloss": "to give",
-          "gram": "past m sg"
+          "gloss": "gave",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
@@ -2011,7 +2011,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -2022,11 +2022,11 @@
       "lemma": "бедненький",
       "stress": "бе́дненький",
       "pos": "adj",
-      "gloss": "poor little thing",
+      "gloss": "poor (little), poor dear",
       "meanings": [
         {
-          "en": "poor little thing",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('poor little thing')."
+          "en": "poor little thing, poor dear",
+          "note": "Affectionate diminutive of бедный."
         }
       ],
       "forms": {
@@ -2069,10 +2069,10 @@
           {
             "cells": [
               "accusative",
-              "бедненький",
+              "бедненький / бедненького",
               "бедненькую",
               "бедненькое",
-              "бедненькие"
+              "бедненькие / бедненьких"
             ]
           },
           {
@@ -2102,14 +2102,18 @@
           "trans": "He works without days off, my poor darling."
         },
         {
-          "text": "Шеф говорит, что это очень бедненький выбор.",
-          "trans": "The chef says that this is a very poor little thing choice."
+          "text": "Ах ты, бедненький, совсем замёрз!",
+          "trans": "Oh, you poor little thing, you're frozen!"
         }
       ],
       "related": [
         {
-          "word": "очень бедненький",
-          "gloss": "very poor little thing"
+          "word": "бедный",
+          "gloss": "poor"
+        },
+        {
+          "word": "бедняжка",
+          "gloss": "poor thing"
         }
       ]
     },
@@ -2122,7 +2126,7 @@
       "meanings": [
         {
           "en": "without",
-          "note": "+ genitive. Core Russian prep meaning 'without' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2246,11 +2250,11 @@
       "meanings": [
         {
           "en": "to give back, to return",
-          "note": "+ accusative. Used as a perfective (single completed action) verb meaning 'to give back, to get back', paired with 'возвращать'."
+          "note": "+ accusative."
         },
         {
           "en": "to get back",
-          "note": "Money you spent. Used as a perfective (single completed action) verb meaning 'to give back, to get back', paired with 'возвращать'."
+          "note": "Money you spent."
         }
       ],
       "forms": {
@@ -2477,7 +2481,7 @@
       "meanings": [
         {
           "en": "attention, notice",
-          "note": "Внимание! = Attention!. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'attention' in everyday Russian."
+          "note": "Внимание! = Attention!."
         }
       ],
       "forms": {
@@ -2492,42 +2496,42 @@
             "cells": [
               "nominative",
               "внимание",
-              "—"
+              "внимания"
             ]
           },
           {
             "cells": [
               "genitive",
               "внимания",
-              "—"
+              "вниманий"
             ]
           },
           {
             "cells": [
               "dative",
               "вниманию",
-              "—"
+              "вниманиям"
             ]
           },
           {
             "cells": [
               "accusative",
               "внимание",
-              "—"
+              "внимания"
             ]
           },
           {
             "cells": [
               "instrumental",
               "вниманием",
-              "—"
+              "вниманиями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "внимании",
-              "—"
+              "вниманиях"
             ]
           }
         ]
@@ -2558,84 +2562,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "второй": {
       "lemma": "второй",
       "stress": "второ́й",
@@ -2644,7 +2570,7 @@
       "meanings": [
         {
           "en": "second",
-          "note": "Ordinal number. Agrees in gender, number, and case with the noun it modifies ('second')."
+          "note": "Ordinal number."
         }
       ],
       "forms": {
@@ -2730,16 +2656,20 @@
       ],
       "related": [
         {
-          "word": "повторить",
-          "gloss": "to repeat"
+          "word": "два",
+          "gloss": "two"
         },
         {
-          "word": "повторять",
-          "gloss": "to repeat"
+          "word": "во-вторых",
+          "gloss": "secondly"
         },
         {
-          "word": "повториться",
-          "gloss": "to recur"
+          "word": "вторник",
+          "gloss": "Tuesday"
+        },
+        {
+          "word": "первый",
+          "gloss": "first"
         }
       ]
     },
@@ -2954,7 +2884,7 @@
       "meanings": [
         {
           "en": "even",
-          "note": "Core Russian part meaning 'even' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2994,7 +2924,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -3085,11 +3015,11 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
@@ -3102,7 +3032,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -3192,7 +3121,7 @@
         },
         {
           "en": "duty",
-          "note": "Common masculine noun meaning 'debt; duty' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3241,7 +3170,7 @@
           {
             "cells": [
               "prepositional",
-              "долге (в долгу)",
+              "долге",
               "долгах"
             ]
           }
@@ -3355,15 +3284,15 @@
       "meanings": [
         {
           "en": "to borrow (money)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to borrow; (colloquial) to lend', paired with 'занимать'."
+          "note": ""
         },
         {
           "en": "to lend (colloquial with dative: займите мне денег)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to borrow; (colloquial) to lend', paired with 'занимать'."
+          "note": ""
         },
         {
           "en": "to occupy, take up",
-          "note": "Used as a perfective (single completed action) verb meaning 'to borrow; (colloquial) to lend', paired with 'занимать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3454,15 +3383,15 @@
       "related": [
         {
           "word": "занимать",
-          "gloss": "occupy"
+          "gloss": "to occupy; to borrow (impf)"
         },
         {
-          "word": "понять",
-          "gloss": "to understand"
+          "word": "одолжить",
+          "gloss": "to lend, to borrow"
         },
         {
-          "word": "принять",
-          "gloss": "to receive"
+          "word": "заём",
+          "gloss": "loan"
         }
       ]
     },
@@ -3626,11 +3555,11 @@
       "meanings": [
         {
           "en": "favourite, best-liked",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('favourite, beloved')."
+          "note": ""
         },
         {
           "en": "beloved, darling",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('favourite, beloved')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3673,10 +3602,10 @@
           {
             "cells": [
               "accusative",
-              "любимый/любимого",
+              "любимый / любимого",
               "любимую",
               "любимое",
-              "любимые/любимых"
+              "любимые / любимых"
             ]
           },
           {
@@ -3842,7 +3771,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3894,6 +3823,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -4136,7 +4082,7 @@
         },
         {
           "en": "ни... ни = neither... nor",
-          "note": "Core Russian part meaning 'not a (single); neither... nor' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4376,7 +4322,7 @@
       "meanings": [
         {
           "en": "to have a talk, to speak (with someone)",
-          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to have a talk', paired with 'говорить'."
+          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить')."
         }
       ],
       "forms": {
@@ -4487,7 +4433,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -4522,7 +4468,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4833,13 +4779,13 @@
       "lemma": "рассердиться",
       "stress": "рассерди́ться",
       "pos": "verb",
-      "gloss": "will get angry",
+      "gloss": "to get angry",
       "aspect": "pf",
-      "pair": null,
+      "pair": "сердиться",
       "meanings": [
         {
-          "en": "will get angry",
-          "note": "Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'сердиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'will get angry'."
+          "en": "to get angry",
+          "note": "на + accusative"
         }
       ],
       "forms": {
@@ -4894,22 +4840,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "рассердись",
+                "рассердитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и рассердиться вовремя.",
-          "trans": "We need to do everything and will get angry on time."
+          "text": "Только Костику не говори, он рассердится.",
+          "trans": "Just don't tell Kostik, he'll get angry."
         },
         {
-          "text": "На нашей кухне все умеют рассердиться.",
-          "trans": "In our kitchen everyone knows how to will get angry."
+          "text": "Мама рассердилась на меня за опоздание.",
+          "trans": "Mom got angry at me for being late."
         }
       ],
       "related": [
         {
-          "word": "не рассердиться",
-          "gloss": "not to will get angry (negated infinitive)"
+          "word": "сердиться",
+          "gloss": "to be angry"
+        },
+        {
+          "word": "злиться",
+          "gloss": "to be angry"
         }
       ]
     },
@@ -4961,7 +4928,7 @@
       "meanings": [
         {
           "en": "wedding, marriage ceremony",
-          "note": "Marriage celebration. Common feminine noun meaning 'wedding' in everyday Russian."
+          "note": "Marriage celebration."
         }
       ],
       "forms": {
@@ -5019,8 +4986,8 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Посмотри фильм Свадьба по скайпу.",
-          "trans": "Watch the movie Wedding on Skype."
+          "text": "Мы обязательно сыграем большую свадьбу!",
+          "trans": "We'll definitely have a big wedding!"
         },
         {
           "text": "Макс, зачем ты соврал про нашу будущую свадьбу?",
@@ -5081,7 +5048,7 @@
       "meanings": [
         {
           "en": "to try hard, to make an effort",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to try, to make an effort', paired with 'постараться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5251,8 +5218,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -5264,7 +5239,7 @@
       "meanings": [
         {
           "en": "a bit difficult, tight",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5272,21 +5247,21 @@
       "examples": [
         {
           "text": "Но сейчас у нас трудновато с деньгами.",
-          "trans": "But right now things are a bit tight with money for us."
+          "trans": "But money's a bit tight for us right now."
         },
         {
-          "text": "Макс сказал это совершенно трудновато и спокойно.",
-          "trans": "Max said this quite a bit difficult and calmly."
+          "text": "Одному мне будет трудновато.",
+          "trans": "It'll be a bit hard for me on my own."
         }
       ],
       "related": [
         {
-          "word": "очень трудновато",
-          "gloss": "very a bit difficult"
+          "word": "трудно",
+          "gloss": "hard, difficult"
         },
         {
-          "word": "так трудновато",
-          "gloss": "so a bit difficult"
+          "word": "тяжеловато",
+          "gloss": "a bit hard"
         }
       ]
     },
@@ -5429,11 +5404,15 @@
       "pos": "verb",
       "gloss": "to get a job, settle",
       "aspect": "pf",
-      "pair": null,
+      "pair": "устраиваться",
       "meanings": [
         {
           "en": "to get a job, find employment",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'строиться'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to get a job'. The reflexive suffix '-ся'/'-сь' makes the action intransitive, reciprocal, or directed at the subject."
+          "note": "устроиться на работу"
+        },
+        {
+          "en": "to settle in, set oneself up",
+          "note": ""
         }
       ],
       "forms": {
@@ -5488,6 +5467,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "устройся",
+                "устройтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5506,16 +5502,16 @@
       ],
       "related": [
         {
-          "word": "построить",
-          "gloss": "to build"
+          "word": "устраиваться",
+          "gloss": "to get a job (impf)"
         },
         {
-          "word": "настроение",
-          "gloss": "mood"
+          "word": "устроить",
+          "gloss": "to arrange"
         },
         {
-          "word": "постройка",
-          "gloss": "building"
+          "word": "работа",
+          "gloss": "work, job"
         }
       ]
     },
@@ -5527,7 +5523,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5632,7 +5628,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5684,6 +5680,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

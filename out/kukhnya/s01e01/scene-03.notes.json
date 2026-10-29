@@ -2032,7 +2032,7 @@
       "meanings": [
         {
           "en": "to meet",
-          "note": "By chance or at a station. Used as a perfective (single completed action) verb meaning 'to meet', paired with 'встречать'."
+          "note": "By chance or at a station."
         }
       ],
       "forms": {
@@ -2261,7 +2261,7 @@
       "meanings": [
         {
           "en": "town, city",
-          "note": "Common masculine noun meaning 'town, city' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2539,7 +2539,11 @@
       "related": [
         {
           "word": "подарить",
-          "gloss": "to give"
+          "gloss": "to give as a gift (pf)"
+        },
+        {
+          "word": "подарок",
+          "gloss": "present"
         }
       ]
     },
@@ -2552,7 +2556,7 @@
       "meanings": [
         {
           "en": "food, meal",
-          "note": "Singular only. Common feminine noun meaning 'food, meal' in everyday Russian."
+          "note": "Singular only."
         }
       ],
       "forms": {
@@ -2567,42 +2571,42 @@
             "cells": [
               "nominative",
               "еда",
-              "еды"
+              "—"
             ]
           },
           {
             "cells": [
               "genitive",
               "еды",
-              "ед"
+              "—"
             ]
           },
           {
             "cells": [
               "dative",
               "еде",
-              "едам"
+              "—"
             ]
           },
           {
             "cells": [
               "accusative",
               "еду",
-              "еды"
+              "—"
             ]
           },
           {
             "cells": [
               "instrumental",
               "едой",
-              "едами"
+              "—"
             ]
           },
           {
             "cells": [
               "prepositional",
               "еде",
-              "едах"
+              "—"
             ]
           }
         ]
@@ -2630,11 +2634,11 @@
       "pos": "verb",
       "gloss": "to fall asleep",
       "aspect": "impf",
-      "pair": null,
+      "pair": "заснуть",
       "meanings": [
         {
-          "en": "to fall asleep, doze off",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'сыпать'). Used in Russian as an imperfective verb expressing ongoing, habitual, or repeated action meaning 'to fall asleep'."
+          "en": "to fall asleep, to doze off",
+          "note": "засыпать (impf). Do not confuse with засыпать (pf) 'to fill, to cover (with something poured)'."
         }
       ],
       "forms": {
@@ -2689,6 +2693,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "засыпай",
+                "засыпайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2703,16 +2724,16 @@
       ],
       "related": [
         {
+          "word": "заснуть",
+          "gloss": "to fall asleep (pf)"
+        },
+        {
+          "word": "уснуть",
+          "gloss": "to fall asleep"
+        },
+        {
           "word": "просыпаться",
           "gloss": "to wake up"
-        },
-        {
-          "word": "рассыпать",
-          "gloss": "to spill"
-        },
-        {
-          "word": "насыпать",
-          "gloss": "to pour"
         }
       ]
     },
@@ -2795,7 +2816,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -2904,7 +2925,7 @@
       "meanings": [
         {
           "en": "to lie down, go to bed",
-          "note": "Ложиться спать = to go to bed. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to lie down, go to bed', paired with 'лечь'."
+          "note": "Ложиться спать = to go to bed."
         }
       ],
       "forms": {
@@ -2995,11 +3016,15 @@
       "related": [
         {
           "word": "лечь",
-          "gloss": "to lie down"
+          "gloss": "to lie down (pf.)"
         },
         {
-          "word": "предложить",
-          "gloss": "to offer"
+          "word": "ложиться спать",
+          "gloss": "to go to bed"
+        },
+        {
+          "word": "спать",
+          "gloss": "to sleep"
         }
       ]
     },
@@ -3015,7 +3040,7 @@
         },
         {
           "en": "better",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('best; better')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3116,11 +3141,11 @@
       "meanings": [
         {
           "en": "to love",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         },
         {
           "en": "to like",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3204,8 +3229,8 @@
           "trans": "Do you like gum?"
         },
         {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
+          "text": "Ты любишь чужую жену!",
+          "trans": "You're in love with another man's wife!"
         }
       ],
       "related": [
@@ -3229,11 +3254,11 @@
       "pos": "verb",
       "gloss": "to admire",
       "aspect": "impf",
-      "pair": null,
+      "pair": "полюбоваться",
       "meanings": [
         {
           "en": "to admire, feast eyes on",
-          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'to admire'; conjugates for person and number in the present/future and agrees in gender in the past tense. The reflexive suffix '-ся'/'-сь' makes the action intransitive, reciprocal, or directed at the subject."
+          "note": ""
         }
       ],
       "forms": {
@@ -3288,6 +3313,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "любуйся",
+                "любуйтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3302,16 +3344,12 @@
       ],
       "related": [
         {
-          "word": "любой",
-          "gloss": "any"
+          "word": "полюбоваться",
+          "gloss": "to admire (pf)"
         },
         {
-          "word": "любопытно",
-          "gloss": "curiously"
-        },
-        {
-          "word": "любовь",
-          "gloss": "love"
+          "word": "любование",
+          "gloss": "admiration"
         }
       ]
     },
@@ -3353,7 +3391,7 @@
             "cells": [
               "dative",
               "любви",
-              "любовям"
+              "любвям"
             ]
           },
           {
@@ -3367,14 +3405,14 @@
             "cells": [
               "instrumental",
               "любовью",
-              "любовями"
+              "любвями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "любви",
-              "любовях"
+              "любвях"
             ]
           }
         ]
@@ -3512,7 +3550,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3908,7 +3946,7 @@
       "meanings": [
         {
           "en": "huge, enormous, vast",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('huge, enormous')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3951,10 +3989,10 @@
           {
             "cells": [
               "accusative",
-              "огромный/огромного",
+              "огромный / огромного",
               "огромную",
               "огромное",
-              "огромные/огромных"
+              "огромные / огромных"
             ]
           },
           {
@@ -4004,11 +4042,11 @@
       "meanings": [
         {
           "en": "to rest",
-          "note": "To relax, take a break. Used as a perfective (single completed action) verb meaning 'to have a rest; to relax', paired with 'отдыхать'."
+          "note": "To relax, take a break."
         },
         {
           "en": "to vacation",
-          "note": "To take time off. Used as a perfective (single completed action) verb meaning 'to have a rest; to relax', paired with 'отдыхать'."
+          "note": "To take time off."
         }
       ],
       "forms": {
@@ -4112,7 +4150,7 @@
       "meanings": [
         {
           "en": "cook, chef",
-          "note": "Irregular plural повара. Common masculine noun meaning 'cook, chef' in everyday Russian."
+          "note": "Irregular plural повара."
         }
       ],
       "forms": {
@@ -4328,7 +4366,7 @@
       "meanings": [
         {
           "en": "almost, nearly",
-          "note": "Core Russian adv meaning 'almost, nearly' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4355,10 +4393,11 @@
       "pos": "noun",
       "gloss": "poet",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "poet",
-          "note": "Common masculine noun meaning 'poet' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4426,12 +4465,16 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "поэзия",
+          "gloss": "poetry"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "стихи",
+          "gloss": "poems, verse"
+        },
+        {
+          "word": "поэтесса",
+          "gloss": "female poet"
         }
       ]
     },
@@ -4541,7 +4584,7 @@
       "meanings": [
         {
           "en": "beautiful, wonderful",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('beautiful, wonderful')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4986,7 +5029,7 @@
       "meanings": [
         {
           "en": "very much, deeply, strongly",
-          "note": "Adverb of degree. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb of degree."
         }
       ],
       "forms": null,
@@ -5111,7 +5154,7 @@
       "meanings": [
         {
           "en": "coincidence",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'coincidence' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5198,7 +5241,7 @@
       "meanings": [
         {
           "en": "to sleep, to be asleep",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to sleep', paired with 'поспать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5405,7 +5448,7 @@
       "meanings": [
         {
           "en": "passion, strong desire or hobby",
-          "note": "Тайные страсти = secret passions. Common feminine noun meaning 'passion' in everyday Russian."
+          "note": "Тайные страсти = secret passions."
         }
       ],
       "forms": {
@@ -5491,7 +5534,7 @@
       "meanings": [
         {
           "en": "happiness, good fortune",
-          "note": "К счастью = fortunately. Common neuter noun meaning 'happiness' in everyday Russian."
+          "note": "К счастью = fortunately."
         }
       ],
       "forms": {
@@ -5755,7 +5798,7 @@
       "meanings": [
         {
           "en": "surprising, wonderful, amazing",
-          "note": "Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('surprising, wonderful')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5887,7 +5930,7 @@
       "meanings": [
         {
           "en": "French",
-          "note": "Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('French')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5981,7 +6024,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6126,7 +6169,7 @@
       "meanings": [
         {
           "en": "brave, courageous, valiant",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('brave, courageous')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6169,10 +6212,10 @@
           {
             "cells": [
               "accusative",
-              "храброго",
+              "храбрый / храброго",
               "храбрую",
               "храброе",
-              "храбрых"
+              "храбрые / храбрых"
             ]
           },
           {

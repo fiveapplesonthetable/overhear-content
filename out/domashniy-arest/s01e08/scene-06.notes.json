@@ -274,7 +274,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -472,7 +472,7 @@
           "pos": "num",
           "stress": "де́сять",
           "gloss": "ten",
-          "gram": "cardinal number, accusative"
+          "gram": "cardinal number, nominative/accusative"
         }
       ]
     },
@@ -510,7 +510,7 @@
           "pos": "adj",
           "stress": "то́чный",
           "gloss": "exact, precise",
-          "gram": "accusative singular masculine"
+          "gram": "masculine singular, nominative / accusative"
         },
         {
           "t": "ответ.",
@@ -617,7 +617,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         }
       ]
@@ -894,7 +894,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -1092,7 +1092,7 @@
           "pos": "num",
           "stress": "де́сять",
           "gloss": "ten",
-          "gram": "cardinal number, accusative"
+          "gram": "cardinal number, nominative/accusative"
         }
       ]
     },
@@ -1130,7 +1130,7 @@
           "pos": "adj",
           "stress": "то́чный",
           "gloss": "exact, precise",
-          "gram": "accusative singular masculine"
+          "gram": "masculine singular, nominative / accusative"
         },
         {
           "t": "ответ.",
@@ -1237,7 +1237,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         }
       ]
@@ -1514,7 +1514,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -1712,7 +1712,7 @@
           "pos": "num",
           "stress": "де́сять",
           "gloss": "ten",
-          "gram": "cardinal number, accusative"
+          "gram": "cardinal number, nominative/accusative"
         }
       ]
     },
@@ -1750,7 +1750,7 @@
           "pos": "adj",
           "stress": "то́чный",
           "gloss": "exact, precise",
-          "gram": "accusative singular masculine"
+          "gram": "masculine singular, nominative / accusative"
         },
         {
           "t": "ответ.",
@@ -1857,7 +1857,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         }
       ]
@@ -1887,11 +1887,11 @@
       "meanings": [
         {
           "en": "appetite",
-          "note": "= Enjoy your meal!. Common masculine noun meaning 'appetite' in everyday Russian."
+          "note": ""
         },
         {
-          "en": "Приятного аппетита!",
-          "note": "= Enjoy your meal!. Common masculine noun meaning 'appetite' in everyday Russian."
+          "en": "Enjoy your meal!",
+          "note": "Приятного аппетита!"
         }
       ],
       "forms": {
@@ -2175,7 +2175,7 @@
       "meanings": [
         {
           "en": "villa, country house",
-          "note": "Common feminine noun meaning 'villa' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2340,11 +2340,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2527,7 +2527,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -2642,7 +2641,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2684,11 +2683,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2748,12 +2747,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2808,6 +2805,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2827,17 +2841,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -2885,7 +2900,7 @@
       "meanings": [
         {
           "en": "or",
-          "note": "Core Russian conj meaning 'or' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3017,15 +3032,15 @@
       "meanings": [
         {
           "en": "little, not much",
-          "note": "Это мало = That's not enough. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Это мало = That's not enough."
         },
         {
           "en": "not enough, too little",
-          "note": "Это мало = That's not enough. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "few, not many",
-          "note": "+ genitive: мало людей. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive: мало людей."
         }
       ],
       "forms": null,
@@ -3145,7 +3160,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3217,7 +3232,7 @@
       "meanings": [
         {
           "en": "a little, a bit",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много')."
         }
       ],
       "forms": null,
@@ -3259,7 +3274,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -3408,131 +3423,6 @@
         }
       ]
     },
-    "нужный": {
-      "lemma": "нужный",
-      "stress": "ну́жный",
-      "pos": "adj",
-      "gloss": "necessary, needed",
-      "meanings": [
-        {
-          "en": "needed",
-          "note": "short form 'нужен / нужна / нужно / нужны' + dative: 'мне нужна работа' = I need a job"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "нужный",
-              "нужная",
-              "нужное",
-              "нужные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "нужного",
-              "нужной",
-              "нужного",
-              "нужных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "нужному",
-              "нужной",
-              "нужному",
-              "нужным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "нужный / нужного",
-              "нужную",
-              "нужное",
-              "нужные / нужных"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "нужным",
-              "нужной",
-              "нужным",
-              "нужными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "нужном",
-              "нужной",
-              "нужном",
-              "нужных"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Мне ещё работа нужна.",
-          "trans": "I need a job too."
-        },
-        {
-          "text": "Тебе нужна ручка?",
-          "trans": "Do you need a pen?"
-        },
-        {
-          "text": "Ему нужны деньги.",
-          "trans": "He needs money."
-        }
-      ],
-      "related": [
-        {
-          "word": "нужно",
-          "gloss": "necessary"
-        },
-        {
-          "word": "нужнее",
-          "gloss": "more needed"
-        }
-      ]
-    },
     "ответ": {
       "lemma": "ответ",
       "stress": "отве́т",
@@ -3542,7 +3432,7 @@
       "meanings": [
         {
           "en": "answer, response, reply",
-          "note": "Reply to a question. Common masculine noun meaning 'answer' in everyday Russian."
+          "note": "Reply to a question."
         }
       ],
       "forms": {
@@ -3657,7 +3547,7 @@
       "meanings": [
         {
           "en": "to grow, to grow up, to develop",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to grow, to grow up', paired with 'вырасти'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3762,7 +3652,7 @@
       "meanings": [
         {
           "en": "to decide, to make up one's mind",
-          "note": "Решать, что делать. Used as an imperfective (ongoing/repeated action) verb meaning 'to decide, to solve', paired with 'решить'."
+          "note": "Решать, что делать."
         }
       ],
       "forms": {
@@ -3873,7 +3763,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -3976,11 +3866,11 @@
       "meanings": [
         {
           "en": "how much, how many",
-          "note": "+ genitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive."
         },
         {
           "en": "what a lot of!",
-          "note": "In exclamations. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "In exclamations."
         }
       ],
       "forms": null,
@@ -4016,7 +3906,7 @@
         },
         {
           "en": "to start (doing)",
-          "note": "+ infinitive. Used as a perfective (single completed action) verb meaning 'to become', paired with 'становиться'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4119,15 +4009,15 @@
       "meanings": [
         {
           "en": "happy",
-          "note": "Сч is pronounced like щ. Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": "Сч is pronounced like щ."
         },
         {
           "en": "lucky",
-          "note": "Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": ""
         },
         {
           "en": "happy (ending)",
-          "note": "Счастливый конец = happy ending. Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": "Счастливый конец = happy ending."
         }
       ],
       "forms": {
@@ -4196,29 +4086,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "счастлив",
-                "счастлива",
-                "счастливо",
-                "счастливы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я очень счастливый.",
@@ -4249,7 +4117,7 @@
       "meanings": [
         {
           "en": "happiness, good fortune",
-          "note": "К счастью = fortunately. Common neuter noun meaning 'happiness' in everyday Russian."
+          "note": "К счастью = fortunately."
         }
       ],
       "forms": {
@@ -4339,11 +4207,11 @@
       "meanings": [
         {
           "en": "bank account",
-          "note": "Счёт в банке. Common masculine noun meaning 'account, bill, score' in everyday Russian."
+          "note": "Счёт в банке."
         },
         {
           "en": "bill, check",
-          "note": "In a restaurant. Common masculine noun meaning 'account, bill, score' in everyday Russian."
+          "note": "In a restaurant."
         }
       ],
       "forms": {
@@ -4365,14 +4233,14 @@
             "cells": [
               "genitive",
               "счёта",
-              "счетов"
+              "счётов"
             ]
           },
           {
             "cells": [
               "dative",
               "счёту",
-              "счетам"
+              "счётам"
             ]
           },
           {
@@ -4386,14 +4254,14 @@
             "cells": [
               "instrumental",
               "счётом",
-              "счетами"
+              "счётами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "счёте",
-              "счетах"
+              "счётах"
             ]
           }
         ]
@@ -4457,7 +4325,7 @@
       "meanings": [
         {
           "en": "exact, precise, accurate",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('exact, precise')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4500,10 +4368,10 @@
           {
             "cells": [
               "accusative",
-              "точный",
+              "точный / точного",
               "точную",
               "точное",
-              "точные"
+              "точные / точных"
             ]
           },
           {
@@ -4765,7 +4633,7 @@
         },
         {
           "en": "in order to",
-          "note": "+ infinitive. Core Russian conj meaning 'so that, in order to' in everyday speech."
+          "note": "+ infinitive."
         }
       ],
       "forms": null,
@@ -4803,7 +4671,7 @@
       "meanings": [
         {
           "en": "six",
-          "note": "Core Russian num meaning 'six' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,

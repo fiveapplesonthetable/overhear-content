@@ -95,7 +95,7 @@
         {
           "t": "спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -348,7 +348,7 @@
           "pos": "det",
           "stress": "э́тому",
           "gloss": "this (thing)",
-          "gram": "neuter, dative singular"
+          "gram": "dative singular"
         },
         {
           "t": "не",
@@ -634,7 +634,7 @@
           "pos": "noun",
           "stress": "бюдже́т",
           "gloss": "budget",
-          "gram": "accusative singular, masculine"
+          "gram": "accusative / nominative singular, masculine"
         },
         {
           "t": "операции.",
@@ -793,8 +793,8 @@
           "lemma": "бабушка",
           "pos": "noun",
           "stress": "ба́бушку",
-          "gloss": "(our) grandmother",
-          "gram": "accusative singular"
+          "gloss": "grandmother; old woman",
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "брать.",
@@ -905,7 +905,7 @@
         {
           "t": "спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1176,7 +1176,7 @@
           "pos": "det",
           "stress": "э́тому",
           "gloss": "this (thing)",
-          "gram": "neuter, dative singular"
+          "gram": "dative singular"
         },
         {
           "t": "не",
@@ -1474,7 +1474,7 @@
           "pos": "noun",
           "stress": "бюдже́т",
           "gloss": "budget",
-          "gram": "accusative singular, masculine"
+          "gram": "accusative / nominative singular, masculine"
         },
         {
           "t": "операции.",
@@ -1639,8 +1639,8 @@
           "lemma": "бабушка",
           "pos": "noun",
           "stress": "ба́бушку",
-          "gloss": "(our) grandmother",
-          "gram": "accusative singular"
+          "gloss": "grandmother; old woman",
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "брать.",
@@ -1745,7 +1745,7 @@
         {
           "t": "спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1998,7 +1998,7 @@
           "pos": "det",
           "stress": "э́тому",
           "gloss": "this (thing)",
-          "gram": "neuter, dative singular"
+          "gram": "dative singular"
         },
         {
           "t": "не",
@@ -2284,7 +2284,7 @@
           "pos": "noun",
           "stress": "бюдже́т",
           "gloss": "budget",
-          "gram": "accusative singular, masculine"
+          "gram": "accusative / nominative singular, masculine"
         },
         {
           "t": "операции.",
@@ -2443,8 +2443,8 @@
           "lemma": "бабушка",
           "pos": "noun",
           "stress": "ба́бушку",
-          "gloss": "(our) grandmother",
-          "gram": "accusative singular"
+          "gloss": "grandmother; old woman",
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "брать.",
@@ -2523,7 +2523,7 @@
       "meanings": [
         {
           "en": "advance, advance payment",
-          "note": "Money paid before the work is done. Common masculine noun meaning 'advance (payment)' in everyday Russian."
+          "note": "Money paid before the work is done."
         }
       ],
       "forms": {
@@ -2593,12 +2593,7 @@
           "trans": "Stepan Gennadyevich, I did pay the advance!"
         }
       ],
-      "related": [
-        {
-          "word": "авантюра",
-          "gloss": "adventure"
-        }
-      ]
+      "related": []
     },
     "бабушка": {
       "lemma": "бабушка",
@@ -2609,11 +2604,11 @@
       "meanings": [
         {
           "en": "grandmother",
-          "note": "About any elderly woman. Common feminine noun meaning 'grandmother; old woman' in everyday Russian."
+          "note": ""
         },
         {
           "en": "old woman, old lady",
-          "note": "About any elderly woman. Common feminine noun meaning 'grandmother; old woman' in everyday Russian."
+          "note": "About any elderly woman."
         }
       ],
       "forms": {
@@ -2671,16 +2666,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Моя бабушка живёт в деревне.",
-          "trans": "My grandmother lives in the village."
+          "text": "Она с бабушкой живёт. Бабушка болеет всё время.",
+          "trans": "She lives with her grandmother. Grandma is ill all the time."
         },
         {
-          "text": "Это лучше, чем бабушка.",
-          "trans": "That's better than the old lady."
+          "text": "Ну ладно, давай беги. Бабушке привет!",
+          "trans": "Okay, off you go. Say hi to Grandma!"
         },
         {
-          "text": "Да, но лучше, чем бабушка.",
-          "trans": "Yes, but better than the old lady."
+          "text": "Какая вы прогрессивная бабушка!",
+          "trans": "What a progressive granny you are!"
         }
       ],
       "related": [
@@ -2700,7 +2695,7 @@
       "meanings": [
         {
           "en": "to take",
-          "note": "Habitually or in general. Used as an imperfective (ongoing/repeated action) verb meaning 'to take', paired with 'взять'."
+          "note": "Habitually or in general."
         },
         {
           "en": "to take bribes",
@@ -2795,15 +2790,19 @@
       "related": [
         {
           "word": "взять",
-          "gloss": "to take"
+          "gloss": "to take (pf)"
         },
         {
           "word": "забрать",
-          "gloss": "to take back"
+          "gloss": "to take away, pick up"
         },
         {
-          "word": "убрать",
-          "gloss": "to remove"
+          "word": "брать трубку",
+          "gloss": "to answer the phone"
+        },
+        {
+          "word": "взятка",
+          "gloss": "bribe"
         }
       ]
     },
@@ -3095,7 +3094,7 @@
       "meanings": [
         {
           "en": "your, yours",
-          "note": "Polite (вы) or plural. Core Russian det meaning 'your, yours (polite or plural)' in everyday speech."
+          "note": "Polite (вы) or plural."
         }
       ],
       "forms": {
@@ -3199,7 +3198,7 @@
       "meanings": [
         {
           "en": "payment sheet, payroll register, official list",
-          "note": "3rd-declension feminine noun in -ь. Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'payroll sheet, register, list' in everyday Russian."
+          "note": "3rd-declension feminine noun in -ь."
         }
       ],
       "forms": {
@@ -3504,7 +3503,7 @@
       "meanings": [
         {
           "en": "to worry, to be nervous",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3607,11 +3606,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -3638,84 +3637,6 @@
         {
           "word": "вот-вот",
           "gloss": "any moment now"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -3813,7 +3734,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3847,11 +3768,11 @@
       "meanings": [
         {
           "en": "further, farther",
-          "note": "In a list or a story. Core Russian adv meaning 'next; further' in everyday speech."
+          "note": "In a list or a story."
         },
         {
           "en": "next, go on",
-          "note": "In a list or a story. Core Russian adv meaning 'next; further' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3911,7 +3832,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -3996,11 +3916,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4266,7 +4186,7 @@
         },
         {
           "en": "to pawn, to mortgage",
-          "note": "Used as a perfective (single completed action) verb meaning 'to lay, to build into, to include (in a budget)', paired with 'закладывать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4357,15 +4277,15 @@
       "related": [
         {
           "word": "закладывать",
-          "gloss": "to lay"
+          "gloss": "to lay, to pawn (impf)"
         },
         {
-          "word": "положительный",
-          "gloss": "positive"
+          "word": "залог",
+          "gloss": "deposit, collateral"
         },
         {
-          "word": "предложить",
-          "gloss": "to offer"
+          "word": "положить",
+          "gloss": "to put"
         }
       ]
     },
@@ -4408,106 +4328,6 @@
         {
           "word": "значить",
           "gloss": "to mean"
-        },
-        {
-          "word": "назначение",
-          "gloss": "appointment"
-        }
-      ]
-    },
-    "значить": {
-      "lemma": "значить",
-      "stress": "зна́чить",
-      "pos": "verb",
-      "gloss": "to mean",
-      "aspect": "impf",
-      "pair": null,
-      "meanings": [
-        {
-          "en": "to mean",
-          "note": "что это значит? = what does this mean?"
-        },
-        {
-          "en": "so, right then",
-          "note": "the form значит is used as a linking word"
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "значу",
-              "значим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "значишь",
-              "значите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "значит",
-              "значат"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "значил",
-                "значила",
-                "значило",
-                "значили"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Что это значит?",
-          "trans": "What does this mean?"
-        },
-        {
-          "text": "Значит, ты не придёшь.",
-          "trans": "So you're not coming."
-        },
-        {
-          "text": "Паша, что всё это значит?",
-          "trans": "Pasha, what does all this mean?"
-        }
-      ],
-      "related": [
-        {
-          "word": "назначить",
-          "gloss": "to set"
-        },
-        {
-          "word": "значит",
-          "gloss": "so"
         },
         {
           "word": "назначение",
@@ -4670,11 +4490,11 @@
       "meanings": [
         {
           "en": "by the way, speaking of which",
-          "note": "Used as a parenthetical word. Core Russian adv meaning 'by the way; handy' in everyday speech."
+          "note": "Used as a parenthetical word."
         },
         {
           "en": "handy, well-timed",
-          "note": "Это очень кстати. Core Russian adv meaning 'by the way; handy' in everyday speech."
+          "note": "Это очень кстати."
         }
       ],
       "forms": null,
@@ -4703,7 +4523,7 @@
       "meanings": [
         {
           "en": "where to",
-          "note": "For movement; где is for location. Core Russian adv meaning 'where (to)' in everyday speech."
+          "note": "For movement; где is for location."
         }
       ],
       "forms": null,
@@ -4745,11 +4565,11 @@
       "meanings": [
         {
           "en": "whether, if",
-          "note": "In indirect questions. Core Russian part meaning 'whether, if; (что ли) or what' in everyday speech."
+          "note": "In indirect questions."
         },
         {
           "en": "что ли = or what, I suppose",
-          "note": "Colloquial tag. Core Russian part meaning 'whether, if; (что ли) or what' in everyday speech."
+          "note": "Colloquial tag."
         }
       ],
       "forms": null,
@@ -4787,7 +4607,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -4819,6 +4639,7 @@
       "pos": "noun",
       "gloss": "taxpayer",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "taxpayer",
@@ -4894,8 +4715,16 @@
       ],
       "related": [
         {
-          "word": "логотип",
-          "gloss": "logo"
+          "word": "налог",
+          "gloss": "tax"
+        },
+        {
+          "word": "платить",
+          "gloss": "to pay"
+        },
+        {
+          "word": "налоговая",
+          "gloss": "tax office"
         }
       ]
     },
@@ -4945,7 +4774,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -5162,11 +4991,11 @@
       "meanings": [
         {
           "en": "operation",
-          "note": "Police or military. International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'operation' in everyday Russian."
+          "note": "Police or military."
         },
         {
           "en": "surgery",
-          "note": "In a hospital. International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'operation' in everyday Russian."
+          "note": "In a hospital."
         }
       ],
       "forms": {
@@ -5291,11 +5120,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -5433,7 +5262,7 @@
       "meanings": [
         {
           "en": "to buy",
-          "note": "Habitually or in progress. Used as an imperfective (ongoing/repeated action) verb meaning 'to buy', paired with 'купить'."
+          "note": "Habitually or in progress."
         }
       ],
       "forms": {
@@ -5542,11 +5371,11 @@
       "meanings": [
         {
           "en": "to try, to have a go",
-          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         },
         {
           "en": "to taste",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         }
       ],
       "forms": {
@@ -5655,7 +5484,7 @@
       "meanings": [
         {
           "en": "to sit down, to have a seat",
-          "note": "Polite invitation: Присядьте!. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'сесть'). Used as a perfective (single completed action) verb meaning 'to sit down (for a moment), to take a seat', paired with 'присаживаться'."
+          "note": "Polite invitation: Присядьте!. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'сесть')."
         }
       ],
       "forms": {
@@ -5885,7 +5714,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5990,7 +5819,7 @@
       "meanings": [
         {
           "en": "to be resolved, to work out",
-          "note": "Of a problem or situation. Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'решиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to be resolved, to work itself out', paired with 'разрешаться'."
+          "note": "Of a problem or situation. Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'решиться')."
         }
       ],
       "forms": {
@@ -6045,6 +5874,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "разрешись",
+                "разрешитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6086,11 +5932,11 @@
       "meanings": [
         {
           "en": "to sign (a receipt, register, or document)",
-          "note": "+ в + prepositional. Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'писаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to sign (one's name)', paired with 'расписываться'."
+          "note": "+ в + prepositional (расписаться в ведомости)"
         },
         {
-          "en": "to register a marriage (colloq.)",
-          "note": "Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'писаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to sign (one's name)', paired with 'расписываться'."
+          "en": "to register a marriage",
+          "note": "colloquial"
         }
       ],
       "forms": {
@@ -6240,7 +6086,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -6344,11 +6190,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6420,8 +6266,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -6435,7 +6289,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -6575,67 +6429,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -6661,7 +6463,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6704,11 +6506,11 @@
       "meanings": [
         {
           "en": "court (of law)",
-          "note": "Common masculine noun meaning 'court' in everyday Russian."
+          "note": ""
         },
         {
           "en": "trial",
-          "note": "Common masculine noun meaning 'court' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6861,8 +6663,12 @@
       ],
       "related": [
         {
-          "word": "подушка",
-          "gloss": "pillow"
+          "word": "баранка",
+          "gloss": "bread ring (larger)"
+        },
+        {
+          "word": "сушить",
+          "gloss": "to dry"
         }
       ]
     },
@@ -7182,7 +6988,7 @@
       "meanings": [
         {
           "en": "a little, slightly",
-          "note": "Чуть-чуть = a tiny bit. Core Russian adv meaning 'a little; nearly' in everyday speech."
+          "note": "Чуть-чуть = a tiny bit."
         },
         {
           "en": "nearly, almost",

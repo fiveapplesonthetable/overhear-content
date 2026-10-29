@@ -90,7 +90,7 @@
           "pos": "det",
           "stress": "моего́",
           "gloss": "of my",
-          "gram": "genitive singular, neuter"
+          "gram": "genitive singular, masculine / neuter"
         },
         {
           "t": "ребёнка.",
@@ -193,7 +193,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -279,7 +279,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -487,7 +487,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -680,7 +680,7 @@
           "pos": "det",
           "stress": "моего́",
           "gloss": "of my",
-          "gram": "genitive singular, neuter"
+          "gram": "genitive singular, masculine / neuter"
         },
         {
           "t": "ребёнка.",
@@ -783,7 +783,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -869,7 +869,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1083,7 +1083,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1276,7 +1276,7 @@
           "pos": "det",
           "stress": "моего́",
           "gloss": "of my",
-          "gram": "genitive singular, neuter"
+          "gram": "genitive singular, masculine / neuter"
         },
         {
           "t": "ребёнка.",
@@ -1379,7 +1379,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1465,7 +1465,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1673,7 +1673,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1803,7 +1803,7 @@
       "meanings": [
         {
           "en": "without",
-          "note": "+ genitive. Core Russian prep meaning 'without' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2036,7 +2036,7 @@
       "meanings": [
         {
           "en": "downstairs, down below (location)",
-          "note": "Кто там внизу?. Core Russian adv meaning 'downstairs, below, at the bottom' in everyday speech."
+          "note": "Кто там внизу?."
         }
       ],
       "forms": null,
@@ -2062,84 +2062,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "второй": {
       "lemma": "второй",
       "stress": "второ́й",
@@ -2148,7 +2070,7 @@
       "meanings": [
         {
           "en": "second",
-          "note": "Ordinal number. Agrees in gender, number, and case with the noun it modifies ('second')."
+          "note": "Ordinal number."
         }
       ],
       "forms": {
@@ -2234,16 +2156,20 @@
       ],
       "related": [
         {
-          "word": "повторить",
-          "gloss": "to repeat"
+          "word": "два",
+          "gloss": "two"
         },
         {
-          "word": "повторять",
-          "gloss": "to repeat"
+          "word": "во-вторых",
+          "gloss": "secondly"
         },
         {
-          "word": "повториться",
-          "gloss": "to recur"
+          "word": "вторник",
+          "gloss": "Tuesday"
+        },
+        {
+          "word": "первый",
+          "gloss": "first"
         }
       ]
     },
@@ -2341,7 +2267,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2748,7 +2674,7 @@
       "meanings": [
         {
           "en": "to lie down, go to bed",
-          "note": "Ложиться спать = to go to bed. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to lie down, go to bed', paired with 'лечь'."
+          "note": "Ложиться спать = to go to bed."
         }
       ],
       "forms": {
@@ -2839,11 +2765,15 @@
       "related": [
         {
           "word": "лечь",
-          "gloss": "to lie down"
+          "gloss": "to lie down (pf.)"
         },
         {
-          "word": "предложить",
-          "gloss": "to offer"
+          "word": "ложиться спать",
+          "gloss": "to go to bed"
+        },
+        {
+          "word": "спать",
+          "gloss": "to sleep"
         }
       ]
     },
@@ -3125,7 +3055,7 @@
         },
         {
           "en": "a fine young man",
-          "note": "Old-fashioned. Common masculine noun meaning 'well done; good person' in everyday Russian."
+          "note": "Old-fashioned."
         }
       ],
       "forms": {
@@ -3216,7 +3146,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3268,6 +3198,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3476,11 +3423,11 @@
       "meanings": [
         {
           "en": "carefully, cautiously",
-          "note": "Adverb of manner. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb of manner."
         },
         {
           "en": "careful!, watch out!",
-          "note": "Used as a warning. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Used as a warning."
         }
       ],
       "forms": null,
@@ -3505,12 +3452,12 @@
           "gloss": "careful"
         },
         {
-          "word": "состояние",
-          "gloss": "condition"
-        },
-        {
           "word": "осторожность",
           "gloss": "caution"
+        },
+        {
+          "word": "осторожнее",
+          "gloss": "more carefully"
         }
       ]
     },
@@ -3520,10 +3467,11 @@
       "pos": "noun",
       "gloss": "hospital room, ward",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "hospital ward, patient room",
-          "note": "Common feminine noun meaning 'hospital room, ward' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3590,7 +3538,7 @@
         },
         {
           "text": "Мальчик в другой палате на втором этаже.",
-          "trans": "The boy is in another room on the second floor."
+          "trans": "The boy is in another ward on the second floor."
         }
       ],
       "related": []
@@ -3604,7 +3552,7 @@
       "meanings": [
         {
           "en": "walking stick, crutch, small stick",
-          "note": "Diminutive of палка. Common feminine noun meaning 'crutch, walking stick, small stick' in everyday Russian."
+          "note": "Diminutive of палка."
         }
       ],
       "forms": {
@@ -3681,15 +3629,15 @@
       "meanings": [
         {
           "en": "about, concerning",
-          "note": "In 'по поводу' + genitive. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "In 'по поводу' + genitive."
         },
         {
           "en": "along, around",
-          "note": "+ dative. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "+ dative."
         },
         {
           "en": "by (phone)",
-          "note": "'по телефону'. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "'по телефону'."
         }
       ],
       "forms": null,
@@ -3729,7 +3677,7 @@
       "meanings": [
         {
           "en": "to sign",
-          "note": "A document. Prefix 'под-' ('under, up to') indicates approaching or supporting from below (stem 'писать'). Used as a perfective (single completed action) verb meaning 'to sign', paired with 'подписывать'."
+          "note": "A document. Prefix 'под-' ('under, up to') indicates approaching or supporting from below (stem 'писать')."
         }
       ],
       "forms": {
@@ -3842,7 +3790,7 @@
       "meanings": [
         {
           "en": "to sign, put one's signature",
-          "note": "Подпишитесь здесь = sign here. Prefix 'под-' ('under, up to') indicates approaching or supporting from below (stem 'писаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to sign, put one's signature; subscribe', paired with 'подписываться'."
+          "note": "Подпишитесь здесь = sign here. Prefix 'под-' ('under, up to') indicates approaching or supporting from below (stem 'писаться'). Used as a perfective (single completed action) verb meaning 'to sign, put one's signature; subscribe', paired with 'подписываться'."
         }
       ],
       "forms": {
@@ -3951,7 +3899,7 @@
       "meanings": [
         {
           "en": "to confirm, to verify",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to confirm', paired with 'подтвердить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4042,15 +3990,11 @@
       "related": [
         {
           "word": "подтвердить",
-          "gloss": "to confirm"
+          "gloss": "to confirm (pf)"
         },
         {
-          "word": "тверской",
-          "gloss": "Tverskoy"
-        },
-        {
-          "word": "утвердить",
-          "gloss": "to approve"
+          "word": "подтверждение",
+          "gloss": "confirmation"
         }
       ]
     },
@@ -4096,7 +4040,7 @@
       "meanings": [
         {
           "en": "child",
-          "note": "Plural: дети. Common masculine noun meaning 'child' in everyday Russian."
+          "note": "Plural: дети."
         }
       ],
       "forms": {
@@ -4176,7 +4120,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -4280,8 +4224,8 @@
       "pair": "сбегать",
       "meanings": [
         {
-          "en": "to escape, run away (from custody)",
-          "note": "сбежать из-под ареста = to escape house arrest"
+          "en": "to escape, run away",
+          "note": "сбежать из-под венца = to run away from the altar"
         }
       ],
       "forms": {
@@ -4358,25 +4302,25 @@
       "examples": [
         {
           "text": "Да, он сбежал, чтобы спасти моего ребёнка.",
-          "trans": "Yes, he escaped custody to save my child."
+          "trans": "Yes, he ran away to save my child."
         },
         {
-          "text": "Заключённый сбежал из тюрьмы ночью.",
-          "trans": "The prisoner escaped from prison at night."
+          "text": "Твоя дочь сбежала из-под венца.",
+          "trans": "Your daughter ran away from the altar."
         },
         {
           "text": "Ты думал, что легко сбежишь отсюда?",
-          "trans": "Did you think that you would easily escape from here?"
+          "trans": "Did you think you'd escape from here easily?"
         }
       ],
       "related": [
         {
           "word": "сбегать",
-          "gloss": "to escape"
+          "gloss": "to run away (impf)"
         },
         {
-          "word": "побежать",
-          "gloss": "to start running"
+          "word": "побег",
+          "gloss": "escape"
         },
         {
           "word": "прибежать",
@@ -4398,7 +4342,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4489,15 +4433,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -4514,7 +4458,7 @@
         },
         {
           "en": "promise",
-          "note": "'дать слово' = to give one's word, 'держать слово' = to keep one's word"
+          "note": ""
         }
       ],
       "forms": {
@@ -4596,11 +4540,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -4698,67 +4642,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -4786,7 +4678,7 @@
       "meanings": [
         {
           "en": "to save, to rescue",
-          "note": "+ accusative. Used as a perfective (single completed action) verb meaning 'to save, to rescue', paired with 'спасать'."
+          "note": "+ accusative."
         }
       ],
       "forms": {
@@ -4891,7 +4783,7 @@
       "meanings": [
         {
           "en": "to sleep, to be asleep",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to sleep', paired with 'поспать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5000,7 +4892,7 @@
         },
         {
           "en": "freeze!",
-          "note": "the infinitive 'Стоять!' as a police order"
+          "note": ""
         }
       ],
       "forms": {
@@ -5104,7 +4996,7 @@
       "meanings": [
         {
           "en": "page (of a book or document)",
-          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common feminine noun meaning 'page' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5176,16 +5068,16 @@
       ],
       "related": [
         {
-          "word": "странно",
-          "gloss": "strange"
+          "word": "страничка",
+          "gloss": "page (diminutive)"
         },
         {
-          "word": "странный",
-          "gloss": "strange"
+          "word": "книга",
+          "gloss": "book"
         },
         {
-          "word": "страна",
-          "gloss": "country"
+          "word": "лист",
+          "gloss": "sheet"
         }
       ]
     },
@@ -5358,7 +5250,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5408,8 +5300,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -5666,7 +5566,7 @@
         },
         {
           "en": "in order to",
-          "note": "+ infinitive. Core Russian conj meaning 'so that, in order to' in everyday speech."
+          "note": "+ infinitive."
         }
       ],
       "forms": null,
@@ -5704,7 +5604,7 @@
       "meanings": [
         {
           "en": "a little bit, just a little",
-          "note": "Core Russian adv meaning 'a little bit, slightly' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,

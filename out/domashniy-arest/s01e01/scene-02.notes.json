@@ -209,8 +209,8 @@
         {
           "t": "Япония!",
           "lemma": "япония",
-          "pos": "name",
-          "stress": null,
+          "pos": "noun",
+          "stress": "япо́ния",
           "gloss": "Japan",
           "gram": "nominative singular, feminine"
         }
@@ -258,7 +258,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "машинка?",
@@ -391,8 +391,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "у",
@@ -514,7 +514,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         }
       ]
     },
@@ -528,7 +528,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "вырасту,",
@@ -837,8 +837,8 @@
         {
           "t": "Япония!",
           "lemma": "япония",
-          "pos": "name",
-          "stress": null,
+          "pos": "noun",
+          "stress": "япо́ния",
           "gloss": "Japan",
           "gram": "nominative singular, feminine"
         }
@@ -886,7 +886,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "машинка?",
@@ -1019,8 +1019,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "у",
@@ -1142,7 +1142,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         }
       ]
     },
@@ -1156,7 +1156,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "вырасту,",
@@ -1453,8 +1453,8 @@
         {
           "t": "Япония!",
           "lemma": "япония",
-          "pos": "name",
-          "stress": null,
+          "pos": "noun",
+          "stress": "япо́ния",
           "gloss": "Japan",
           "gram": "nominative singular, feminine"
         }
@@ -1502,7 +1502,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "машинка?",
@@ -1635,8 +1635,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "у",
@@ -1758,7 +1758,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         }
       ]
     },
@@ -1772,7 +1772,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "вырасту,",
@@ -2082,11 +2082,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2141,6 +2141,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2172,48 +2189,6 @@
         }
       ]
     },
-    "вот": {
-      "lemma": "вот",
-      "stress": "вот",
-      "pos": "part",
-      "gloss": "here, there (pointing)",
-      "meanings": [
-        {
-          "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
-        },
-        {
-          "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Вот, смотри.",
-          "trans": "There, look."
-        },
-        {
-          "text": "Вот моя машинка.",
-          "trans": "Here's my toy car."
-        },
-        {
-          "text": "Ладно, держи. Вот, смотри.",
-          "trans": "All right, here you go. There, look."
-        }
-      ],
-      "related": [
-        {
-          "word": "вон",
-          "gloss": "over there"
-        },
-        {
-          "word": "вот-вот",
-          "gloss": "any moment now"
-        }
-      ]
-    },
     "вырасти": {
       "lemma": "вырасти",
       "stress": "вы́расти",
@@ -2224,11 +2199,11 @@
       "meanings": [
         {
           "en": "to grow up",
-          "note": "Of a child. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'расти'). Used as a perfective (single completed action) verb meaning 'to grow up', paired with 'вырастать'."
+          "note": "Of a child. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'расти')."
         },
         {
           "en": "to grow",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'расти'). Used as a perfective (single completed action) verb meaning 'to grow up', paired with 'вырастать'."
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'расти')."
         }
       ],
       "forms": {
@@ -2280,6 +2255,23 @@
                 "выросла",
                 "выросло",
                 "выросли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "вырасти",
+                "вырастите"
               ]
             }
           ]
@@ -2347,7 +2339,7 @@
       "meanings": [
         {
           "en": "dirty",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('dirty')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2454,7 +2446,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2490,7 +2482,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -2581,11 +2573,11 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
@@ -2607,11 +2599,11 @@
         },
         {
           "en": "here you are!",
-          "note": "imperative держи! when handing something over"
+          "note": ""
         },
         {
           "en": "catch!, grab (him)!",
-          "note": "Держи его!. Used as an imperfective (ongoing/repeated action) verb meaning 'to hold'."
+          "note": "Держи его!."
         }
       ],
       "forms": {
@@ -2726,11 +2718,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2879,7 +2871,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -2986,7 +2978,7 @@
       "meanings": [
         {
           "en": "when",
-          "note": "Question word and conjunction. Core Russian adv meaning 'when' in everyday speech."
+          "note": "Question word and conjunction."
         }
       ],
       "forms": null,
@@ -3029,11 +3021,11 @@
       "meanings": [
         {
           "en": "toy car, little car",
-          "note": "Diminutive of машина. Common feminine noun meaning 'toy car; small machine' in everyday Russian."
+          "note": "Diminutive of машина."
         },
         {
           "en": "small machine (sewing machine, typewriter)",
-          "note": "Common feminine noun meaning 'toy car; small machine' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3303,7 +3295,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3723,7 +3715,7 @@
         },
         {
           "en": "to stay",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to remain, to be left', paired with 'оставаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3832,6 +3824,7 @@
       "pos": "noun",
       "gloss": "four-eyes",
       "gender": "m",
+      "animacy": "anim",
       "register": "colloquial, teasing",
       "meanings": [
         {
@@ -3895,7 +3888,7 @@
       "examples": [
         {
           "text": "Он очкарик.",
-          "trans": "He wears glasses."
+          "trans": "He's a four-eyes."
         },
         {
           "text": "Не называй его очкариком!",
@@ -3927,7 +3920,7 @@
         },
         {
           "en": "to feel sorry for",
-          "note": "+ accusative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жалеть'). Used as a perfective (single completed action) verb meaning 'to regret; to feel sorry', paired with 'жалеть'."
+          "note": "+ accusative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жалеть')."
         }
       ],
       "forms": {
@@ -4065,7 +4058,7 @@
       "meanings": [
         {
           "en": "to wash, to clean",
-          "note": "Completed: the job gets done. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мыть'). Used as a perfective (single completed action) verb meaning 'to wash', paired with 'мыть'."
+          "note": "Completed: the job gets done. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мыть')."
         }
       ],
       "forms": {
@@ -4178,11 +4171,11 @@
       "meanings": [
         {
           "en": "to get caught",
-          "note": "Попался! = gotcha!. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пасться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to get caught', paired with 'попадаться'."
+          "note": "Попался! = gotcha!. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пасться')."
         },
         {
           "en": "to turn up, to come across",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пасться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to get caught', paired with 'попадаться'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пасться')."
         }
       ],
       "forms": {
@@ -4237,6 +4230,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "попадись",
+                "попадитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4274,11 +4284,11 @@
       "meanings": [
         {
           "en": "to have a look, to take a look",
-          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         },
         {
           "en": "to watch (a film) through",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         }
       ],
       "forms": {
@@ -4395,7 +4405,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4581,11 +4591,11 @@
       "meanings": [
         {
           "en": "to let go, to release",
-          "note": "Пусти! = let go!. Used as a perfective (single completed action) verb meaning 'to let go; to let in', paired with 'пускать'."
+          "note": "Пусти! = let go!."
         },
         {
           "en": "to let (in)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to let go; to let in', paired with 'пускать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4702,7 +4712,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4793,15 +4803,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -4815,11 +4825,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -4943,8 +4953,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -5081,102 +5099,6 @@
         }
       ]
     },
-    "увидеть": {
-      "lemma": "увидеть",
-      "stress": "уви́деть",
-      "pos": "verb",
-      "gloss": "to see",
-      "aspect": "pf",
-      "pair": "видеть",
-      "meanings": [
-        {
-          "en": "to see, to catch sight of",
-          "note": "Вот увидишь! = you'll see!. Prefix 'у-' marks departure, removal, or successful completion (stem 'видеть'). Used as a perfective (single completed action) verb meaning 'to see', paired with 'видеть'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "увижу",
-              "увидим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "увидишь",
-              "увидите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "увидит",
-              "увидят"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "увидел",
-                "увидела",
-                "увидело",
-                "увидели"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Вот увидишь!",
-          "trans": "You'll see!"
-        },
-        {
-          "text": "Я увидел папу.",
-          "trans": "I saw Dad."
-        },
-        {
-          "text": "И Нину свою ты больше не увидишь!",
-          "trans": "And you'll never see your Nina again!"
-        }
-      ],
-      "related": [
-        {
-          "word": "видеть",
-          "gloss": "to see"
-        },
-        {
-          "word": "свидетель",
-          "gloss": "witness"
-        },
-        {
-          "word": "видеться",
-          "gloss": "to see each other"
-        }
-      ]
-    },
     "унитаз": {
       "lemma": "унитаз",
       "stress": "унита́з",
@@ -5186,7 +5108,7 @@
       "meanings": [
         {
           "en": "toilet bowl, toilet",
-          "note": "The fixture itself. Common masculine noun meaning 'toilet bowl' in everyday Russian."
+          "note": "The fixture itself."
         }
       ],
       "forms": {
@@ -5267,7 +5189,7 @@
       "meanings": [
         {
           "en": "felt-tip pen, marker",
-          "note": "Common masculine noun meaning 'felt-tip pen' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5347,7 +5269,7 @@
       "meanings": [
         {
           "en": "at least, just",
-          "note": "Дай хоть одну = give me just one. Core Russian part meaning 'at least, just' in everyday speech."
+          "note": "Дай хоть одну = give me just one."
         }
       ],
       "forms": null,
@@ -5644,6 +5566,92 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "япония": {
+      "lemma": "япония",
+      "stress": "япо́ния",
+      "pos": "noun",
+      "gloss": "Japan",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "Japan",
+          "note": "proper noun (country)"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "япония",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "японии",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "японии",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "японию",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "японией",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "японии",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "В Японии есть одна кулинарная легенда.",
+          "trans": "In Japan there is one culinary legend."
+        },
+        {
+          "text": "Видишь фломастеры? Это Япония!",
+          "trans": "See the markers? They're from Japan!"
+        }
+      ],
+      "related": [
+        {
+          "word": "японский",
+          "gloss": "Japanese"
+        },
+        {
+          "word": "японец",
+          "gloss": "Japanese man"
         }
       ]
     }

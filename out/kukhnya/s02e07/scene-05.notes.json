@@ -110,7 +110,7 @@
           "pos": "adv",
           "stress": "похо́ду",
           "gloss": "apparently, it seems",
-          "gram": "UNKNOWN"
+          "gram": "adverb (colloquial)"
         },
         {
           "t": "свои",
@@ -231,8 +231,8 @@
           "lemma": "тёплый",
           "pos": "adj",
           "stress": "тепле́е",
-          "gloss": "warm",
-          "gram": "nominative / accusative neuter singular"
+          "gloss": "warmer",
+          "gram": "comparative"
         },
         {
           "t": "чем",
@@ -316,9 +316,9 @@
           "t": "идет.",
           "lemma": "идти",
           "pos": "verb",
-          "stress": "идёт",
-          "gloss": "go, walk",
-          "gram": "UNKNOWN"
+          "stress": "иде́т",
+          "gloss": "goes; suits (вам идёт = it suits you)",
+          "gram": "present, 3rd person singular, imperfective"
         }
       ]
     },
@@ -668,7 +668,7 @@
           "pos": "adv",
           "stress": "похо́ду",
           "gloss": "apparently, it seems",
-          "gram": "UNKNOWN"
+          "gram": "adverb (colloquial)"
         },
         {
           "t": "свои",
@@ -789,8 +789,8 @@
           "lemma": "тёплый",
           "pos": "adj",
           "stress": "тепле́е",
-          "gloss": "warm",
-          "gram": "nominative / accusative neuter singular"
+          "gloss": "warmer",
+          "gram": "comparative"
         },
         {
           "t": "чем",
@@ -874,9 +874,9 @@
           "t": "идет.",
           "lemma": "идти",
           "pos": "verb",
-          "stress": "идёт",
-          "gloss": "go, walk",
-          "gram": "UNKNOWN"
+          "stress": "иде́т",
+          "gloss": "goes; suits (вам идёт = it suits you)",
+          "gram": "present, 3rd person singular, imperfective"
         }
       ]
     },
@@ -1226,7 +1226,7 @@
           "pos": "adv",
           "stress": "похо́ду",
           "gloss": "apparently, it seems",
-          "gram": "UNKNOWN"
+          "gram": "adverb (colloquial)"
         },
         {
           "t": "свои",
@@ -1347,8 +1347,8 @@
           "lemma": "тёплый",
           "pos": "adj",
           "stress": "тепле́е",
-          "gloss": "warm",
-          "gram": "nominative / accusative neuter singular"
+          "gloss": "warmer",
+          "gram": "comparative"
         },
         {
           "t": "чем",
@@ -1432,9 +1432,9 @@
           "t": "идет.",
           "lemma": "идти",
           "pos": "verb",
-          "stress": "идёт",
-          "gloss": "go, walk",
-          "gram": "UNKNOWN"
+          "stress": "иде́т",
+          "gloss": "goes; suits (вам идёт = it suits you)",
+          "gram": "present, 3rd person singular, imperfective"
         }
       ]
     },
@@ -1819,13 +1819,19 @@
       "lemma": "болеть",
       "stress": "боле́ть",
       "pos": "verb",
-      "gloss": "to be ill",
-      "aspect": "impf",
-      "pair": "заболеть",
+      "gloss": "to be ill; to hurt; to root for",
       "meanings": [
         {
           "en": "to be ill, to be sick",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to be ill', paired with 'заболеть'."
+          "note": "болею, болеет"
+        },
+        {
+          "en": "to hurt, to ache",
+          "note": "3rd person only: болит, болят (у меня болит голова)"
+        },
+        {
+          "en": "to root for, to support (a team)",
+          "note": "болеть за + accusative"
         }
       ],
       "forms": {
@@ -1926,7 +1932,8 @@
           "word": "заболевание",
           "gloss": "disease"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "в": {
       "lemma": "в",
@@ -2062,7 +2069,7 @@
       "meanings": [
         {
           "en": "to kick out, to drive out",
-          "note": "Expel someone from a place. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'гнать'). Used as a perfective (single completed action) verb meaning 'to kick out, to evict, to drive out', paired with 'выгонять'."
+          "note": "Expel someone from a place. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'гнать')."
         }
       ],
       "forms": {
@@ -2175,11 +2182,11 @@
       "meanings": [
         {
           "en": "to go out, to come out",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to go out, to get out', paired with 'выйти'."
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ходить')."
         },
         {
           "en": "to get out (of prison, arrest)",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to go out, to get out', paired with 'выйти'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2290,7 +2297,7 @@
       "meanings": [
         {
           "en": "home, homeward (direction)",
-          "note": "Contrast дома = at home. Core Russian adv meaning '(to) home, homeward' in everyday speech."
+          "note": "Contrast дома = at home."
         }
       ],
       "forms": null,
@@ -2321,7 +2328,7 @@
       "meanings": [
         {
           "en": "to forbid, to prohibit",
-          "note": "Запретить кому + infinitive. Used as a perfective (single completed action) verb meaning 'to forbid, to ban', paired with 'запрещать'."
+          "note": "Запретить кому + infinitive."
         }
       ],
       "forms": {
@@ -2425,12 +2432,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2485,6 +2490,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2504,17 +2526,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "идти": {
       "lemma": "идти",
@@ -2634,7 +2657,7 @@
       "meanings": [
         {
           "en": "key",
-          "note": "For a door or a car. Common masculine noun meaning 'key' in everyday Russian."
+          "note": "For a door or a car."
         }
       ],
       "forms": {
@@ -2706,16 +2729,16 @@
       ],
       "related": [
         {
-          "word": "отключить",
-          "gloss": "to switch off"
+          "word": "ключик",
+          "gloss": "little key"
         },
         {
-          "word": "переключиться",
-          "gloss": "to switch over"
+          "word": "замок",
+          "gloss": "lock"
         },
         {
-          "word": "выключить",
-          "gloss": "to turn off"
+          "word": "связка ключей",
+          "gloss": "bunch of keys"
         }
       ]
     },
@@ -2810,7 +2833,7 @@
       "meanings": [
         {
           "en": "jacket, short coat",
-          "note": "Common feminine noun meaning 'jacket, coat' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2892,7 +2915,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2944,6 +2967,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3187,11 +3227,11 @@
       "meanings": [
         {
           "en": "to leave (someone or something somewhere)",
-          "note": "Оставь мне кусок = save me a piece. Used as a perfective (single completed action) verb meaning 'to leave (behind)', paired with 'оставлять'."
+          "note": "Оставь мне кусок = save me a piece."
         },
         {
           "en": "to keep, to save",
-          "note": "Оставь мне кусок = save me a piece. Used as a perfective (single completed action) verb meaning 'to leave (behind)', paired with 'оставлять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3298,12 +3338,12 @@
       "lemma": "подъезд",
       "stress": "подъе́зд",
       "pos": "noun",
-      "gloss": "entrance, doorway",
+      "gloss": "entrance, stairwell (of an apartment block)",
       "gender": "m",
       "meanings": [
         {
           "en": "entrance, doorway",
-          "note": "Entrance to a residential building. Common masculine noun meaning 'entrance, doorway' in everyday Russian."
+          "note": "Entrance to a residential building."
         }
       ],
       "forms": {
@@ -3362,21 +3402,29 @@
       "examples": [
         {
           "text": "Они стояли около подъезда.",
-          "trans": "They were standing near the entrance."
+          "trans": "They were standing by the entrance to the building."
         },
         {
           "text": "Просто постояли у подъезда и быстро уехали.",
-          "trans": "They just stood near the entrance and quickly left."
+          "trans": "They just stood by the entrance for a bit and quickly left."
         },
         {
-          "text": "Переехал жить в подъезд.",
-          "trans": "Moved to live in the hallway."
+          "text": "Ты сегодня в подъезде чисто подмёл?",
+          "trans": "Did you sweep the stairwell clean today?"
         }
       ],
       "related": [
         {
-          "word": "съезд",
-          "gloss": "convention"
+          "word": "вход",
+          "gloss": "entrance"
+        },
+        {
+          "word": "лестница",
+          "gloss": "staircase"
+        },
+        {
+          "word": "этаж",
+          "gloss": "floor, storey"
         }
       ]
     },
@@ -3385,6 +3433,7 @@
       "stress": "похо́ду",
       "pos": "adv",
       "gloss": "apparently, it seems",
+      "register": "slang",
       "meanings": [
         {
           "en": "apparently, it seems",
@@ -3399,8 +3448,8 @@
           "trans": "Looks like your plan worked."
         },
         {
-          "text": "Очень похоже!",
-          "trans": "That's just like him!"
+          "text": "Блин, походу я загранпаспорт у Вики забыл.",
+          "trans": "Damn, looks like I left my passport at Vika's."
         }
       ],
       "related": []
@@ -3415,11 +3464,11 @@
       "meanings": [
         {
           "en": "to bring, to carry in",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'носить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to bring; to offer (apologies)', paired with 'принести'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'носить')."
         },
         {
           "en": "to offer (apologies: приносить извинения)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'носить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to bring; to offer (apologies)', paired with 'принести'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3607,7 +3656,7 @@
       "meanings": [
         {
           "en": "to quarrel, to fight verbally",
-          "note": "Intransitive reflexive verb. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to quarrel, to swear', paired with 'поругаться'."
+          "note": "Intransitive reflexive verb."
         }
       ],
       "forms": {
@@ -3659,6 +3708,23 @@
                 "ругалась",
                 "ругалось",
                 "ругались"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "ругайся",
+                "ругайтесь"
               ]
             }
           ]
@@ -3802,11 +3868,11 @@
       "meanings": [
         {
           "en": "to intend, to plan, to be going to",
-          "note": "+ infinitive. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to intend, to be about to; to gather', paired with 'собраться'."
+          "note": "+ infinitive."
         },
         {
           "en": "to gather, to get ready",
-          "note": "Pack or assemble. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to intend, to be about to; to gather', paired with 'собраться'."
+          "note": "Pack or assemble."
         }
       ],
       "forms": {
@@ -4070,7 +4136,7 @@
       "meanings": [
         {
           "en": "warm",
-          "note": "Having a moderate degree of heat. Agrees in gender, number, and case with the noun it modifies ('warm')."
+          "note": "Having a moderate degree of heat."
         }
       ],
       "forms": {
@@ -4113,10 +4179,10 @@
           {
             "cells": [
               "accusative",
-              "тёплый",
+              "тёплый / тёплого",
               "тёплую",
               "тёплое",
-              "тёплые"
+              "тёплые / тёплых"
             ]
           },
           {
@@ -4326,7 +4392,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -4381,6 +4447,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4425,7 +4508,7 @@
         },
         {
           "en": "outside, outdoors",
-          "note": "на улице = out on the street / outside"
+          "note": ""
         }
       ],
       "forms": {
@@ -4531,100 +4614,6 @@
         }
       ]
     },
-    "что": {
-      "lemma": "что",
-      "stress": "что",
-      "pos": "pron",
-      "gloss": "what",
-      "meanings": [
-        {
-          "en": "what",
-          "note": "Question word. Core Russian pron meaning 'what' in everyday speech."
-        },
-        {
-          "en": "that",
-          "note": "Conjunction. Core Russian pron meaning 'what' in everyday speech."
-        },
-        {
-          "en": "ну что? = well?",
-          "note": "Core Russian pron meaning 'what' in everyday speech."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "что"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "чего"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "чему"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "что"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "чем"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "чём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Что это?",
-          "trans": "What's this?"
-        },
-        {
-          "text": "Смотри, что у меня есть.",
-          "trans": "Look what I've got."
-        },
-        {
-          "text": "Привет! Смотри, что у меня есть.",
-          "trans": "Hi! Look what I've got."
-        }
-      ],
-      "related": [
-        {
-          "word": "что-то",
-          "gloss": "something"
-        },
-        {
-          "word": "ничто",
-          "gloss": "nothing"
-        },
-        {
-          "word": "потому что",
-          "gloss": "because"
-        }
-      ]
-    },
     "чуть": {
       "lemma": "чуть",
       "stress": "чуть",
@@ -4633,7 +4622,7 @@
       "meanings": [
         {
           "en": "a little, slightly",
-          "note": "Чуть-чуть = a tiny bit. Core Russian adv meaning 'a little; nearly' in everyday speech."
+          "note": "Чуть-чуть = a tiny bit."
         },
         {
           "en": "nearly, almost",

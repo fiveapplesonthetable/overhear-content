@@ -98,11 +98,11 @@
         },
         {
           "t": "шинковки.",
-          "lemma": "шинковки",
+          "lemma": "шинковка",
           "pos": "noun",
           "stress": "шинко́вки",
-          "gloss": "vegetable",
-          "gram": "nominative / accusative"
+          "gloss": "shredding, chopping",
+          "gram": "genitive singular, feminine"
         }
       ]
     },
@@ -202,7 +202,7 @@
           "pos": "noun",
           "stress": "табле́тки",
           "gloss": "pill, tablet",
-          "gram": "nominative / accusative"
+          "gram": "nominative / accusative plural, feminine"
         }
       ]
     },
@@ -248,7 +248,7 @@
           "pos": "noun",
           "stress": "табле́ток",
           "gloss": "pill, tablet",
-          "gram": "nominative / accusative"
+          "gram": "genitive plural, feminine"
         }
       ]
     },
@@ -351,7 +351,7 @@
         {
           "t": "Спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -445,8 +445,8 @@
           "lemma": "беспокоиться",
           "pos": "verb",
           "stress": "беспоко́йся",
-          "gloss": "to worry",
-          "gram": "conjugated verb"
+          "gloss": "worry",
+          "gram": "2nd person singular imperative, imperfective"
         },
         {
           "t": "Я",
@@ -578,11 +578,11 @@
         },
         {
           "t": "шинковки.",
-          "lemma": "шинковки",
+          "lemma": "шинковка",
           "pos": "noun",
           "stress": "шинко́вки",
-          "gloss": "vegetable",
-          "gram": "nominative / accusative"
+          "gloss": "shredding, chopping",
+          "gram": "genitive singular, feminine"
         }
       ]
     },
@@ -682,7 +682,7 @@
           "pos": "noun",
           "stress": "табле́тки",
           "gloss": "pill, tablet",
-          "gram": "nominative / accusative"
+          "gram": "nominative / accusative plural, feminine"
         }
       ]
     },
@@ -728,7 +728,7 @@
           "pos": "noun",
           "stress": "табле́ток",
           "gloss": "pill, tablet",
-          "gram": "nominative / accusative"
+          "gram": "genitive plural, feminine"
         }
       ]
     },
@@ -831,7 +831,7 @@
         {
           "t": "Спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -925,8 +925,8 @@
           "lemma": "беспокоиться",
           "pos": "verb",
           "stress": "беспоко́йся",
-          "gloss": "to worry",
-          "gram": "conjugated verb"
+          "gloss": "worry",
+          "gram": "2nd person singular imperative, imperfective"
         },
         {
           "t": "Я",
@@ -1058,11 +1058,11 @@
         },
         {
           "t": "шинковки.",
-          "lemma": "шинковки",
+          "lemma": "шинковка",
           "pos": "noun",
           "stress": "шинко́вки",
-          "gloss": "vegetable",
-          "gram": "nominative / accusative"
+          "gloss": "shredding, chopping",
+          "gram": "genitive singular, feminine"
         }
       ]
     },
@@ -1162,7 +1162,7 @@
           "pos": "noun",
           "stress": "табле́тки",
           "gloss": "pill, tablet",
-          "gram": "nominative / accusative"
+          "gram": "nominative / accusative plural, feminine"
         }
       ]
     },
@@ -1208,7 +1208,7 @@
           "pos": "noun",
           "stress": "табле́ток",
           "gloss": "pill, tablet",
-          "gram": "nominative / accusative"
+          "gram": "genitive plural, feminine"
         }
       ]
     },
@@ -1311,7 +1311,7 @@
         {
           "t": "Спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1405,8 +1405,8 @@
           "lemma": "беспокоиться",
           "pos": "verb",
           "stress": "беспоко́йся",
-          "gloss": "to worry",
-          "gram": "conjugated verb"
+          "gloss": "worry",
+          "gram": "2nd person singular imperative, imperfective"
         },
         {
           "t": "Я",
@@ -1463,12 +1463,10 @@
       "stress": "беспоко́иться",
       "pos": "verb",
       "gloss": "to worry",
-      "aspect": "impf",
-      "pair": "забеспокоиться",
       "meanings": [
         {
           "en": "to worry, to be anxious",
-          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'покоиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry', paired with 'забеспокоиться'."
+          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'покоиться')."
         }
       ],
       "forms": {
@@ -1558,8 +1556,8 @@
       ],
       "related": [
         {
-          "word": "забеспокоиться",
-          "gloss": "to worry"
+          "word": "побеспокоиться",
+          "gloss": "to take care of, to see to"
         },
         {
           "word": "беспокоить",
@@ -1569,7 +1567,8 @@
           "word": "спокойный",
           "gloss": "calm"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "быть": {
       "lemma": "быть",
@@ -1774,10 +1773,10 @@
           {
             "cells": [
               "accusative",
-              "виноватый",
+              "виноватый / виноватого",
               "виноватую",
               "виноватое",
-              "виноватые"
+              "виноватые / виноватых"
             ]
           },
           {
@@ -1800,29 +1799,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "виноват",
-                "виновата",
-                "виновато",
-                "виноваты"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я знаю, что я виноват.",
@@ -1929,7 +1906,7 @@
       "meanings": [
         {
           "en": "stupid, silly, foolish",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('stupid, silly, foolish')."
+          "note": ""
         }
       ],
       "forms": {
@@ -1972,10 +1949,10 @@
           {
             "cells": [
               "accusative",
-              "глупый/глупого",
+              "глупый / глупого",
               "глупую",
               "глупое",
-              "глупые/глупых"
+              "глупые / глупых"
             ]
           },
           {
@@ -2034,7 +2011,7 @@
       "meanings": [
         {
           "en": "to burn, to be on fire, to glow",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to burn, to shine', paired with 'сгореть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2132,8 +2109,12 @@
           "gloss": "to burn out"
         },
         {
-          "word": "горе",
-          "gloss": "grief"
+          "word": "пожар",
+          "gloss": "fire"
+        },
+        {
+          "word": "горячий",
+          "gloss": "hot"
         }
       ]
     },
@@ -2147,7 +2128,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -2238,11 +2219,11 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
@@ -2367,11 +2348,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2407,10 +2388,11 @@
       "pos": "noun",
       "gloss": "idea",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "idea, thought, concept",
-          "note": "Common feminine noun meaning 'idea' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2492,7 +2474,7 @@
       "meanings": [
         {
           "en": "lemon",
-          "note": "Declinable masculine noun meaning 'lemon', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -2560,44 +2542,6 @@
       ],
       "related": []
     },
-    "может": {
-      "lemma": "может",
-      "stress": "мо́жет",
-      "pos": "adv",
-      "gloss": "maybe, perhaps",
-      "meanings": [
-        {
-          "en": "maybe, perhaps",
-          "note": "Short for может быть. Core Russian part meaning 'maybe, perhaps' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Может, завтра.",
-          "trans": "Maybe tomorrow."
-        },
-        {
-          "text": "Я думал, может, не примешь.",
-          "trans": "I thought maybe you wouldn't see me."
-        }
-      ],
-      "related": [
-        {
-          "word": "может быть",
-          "gloss": "maybe (full form)"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
-        }
-      ]
-    },
     "мочь": {
       "lemma": "мочь",
       "stress": "мочь",
@@ -2608,7 +2552,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2660,6 +2604,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -2736,7 +2697,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -2938,8 +2899,16 @@
       ],
       "related": [
         {
-          "word": "множество",
-          "gloss": "multitude"
+          "word": "немного",
+          "gloss": "a little"
+        },
+        {
+          "word": "чуть-чуть",
+          "gloss": "a tiny bit"
+        },
+        {
+          "word": "много",
+          "gloss": "a lot"
         }
       ]
     },
@@ -2994,11 +2963,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -3038,11 +3007,11 @@
       "meanings": [
         {
           "en": "to rest",
-          "note": "To relax, take a break. Used as a perfective (single completed action) verb meaning 'to have a rest; to relax', paired with 'отдыхать'."
+          "note": "To relax, take a break."
         },
         {
           "en": "to vacation",
-          "note": "To take time off. Used as a perfective (single completed action) verb meaning 'to have a rest; to relax', paired with 'отдыхать'."
+          "note": "To take time off."
         }
       ],
       "forms": {
@@ -3147,11 +3116,11 @@
       "meanings": [
         {
           "en": "to let go, to release",
-          "note": "An action in progress or repeated. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пускать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to let go, to release', paired with 'отпустить'."
+          "note": ""
         },
         {
-          "en": "to be letting go",
-          "note": "An action in progress or repeated. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пускать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to let go, to release', paired with 'отпустить'."
+          "en": "to let someone leave, to give leave",
+          "note": "Мама не отпускает меня гулять."
         }
       ],
       "forms": {
@@ -3258,7 +3227,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -3443,7 +3412,7 @@
       "meanings": [
         {
           "en": "market, bazaar",
-          "note": "Fleeting vowel о: рынка, на рынке. Common masculine noun meaning 'market' in everyday Russian."
+          "note": "Fleeting vowel о: рынка, на рынке."
         }
       ],
       "forms": {
@@ -3557,67 +3526,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -3644,7 +3561,7 @@
       "meanings": [
         {
           "en": "old age",
-          "note": "Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'old age' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3659,42 +3576,42 @@
             "cells": [
               "nominative",
               "старость",
-              "—"
+              "старости"
             ]
           },
           {
             "cells": [
               "genitive",
               "старости",
-              "—"
+              "старостей"
             ]
           },
           {
             "cells": [
               "dative",
               "старости",
-              "—"
+              "старостям"
             ]
           },
           {
             "cells": [
               "accusative",
               "старость",
-              "—"
+              "старости"
             ]
           },
           {
             "cells": [
               "instrumental",
               "старостью",
-              "—"
+              "старостями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "старости",
-              "—"
+              "старостях"
             ]
           }
         ]
@@ -3725,7 +3642,7 @@
       "meanings": [
         {
           "en": "pill, tablet",
-          "note": "Common feminine noun meaning 'pill, tablet' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3810,7 +3727,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -3980,58 +3897,7 @@
           "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "увы",
-              "увыы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "увыа",
-              "увыов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "увыу",
-              "увыам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "увы",
-              "увыы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "увыом",
-              "увыами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "увые",
-              "увыах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -4039,8 +3905,8 @@
           "trans": "Alas, there are no pills for old age."
         },
         {
-          "text": "Увы, ах, надо идти.",
-          "trans": "Alas and alack, I have to go."
+          "text": "Увы, тут уже ничего не поделаешь.",
+          "trans": "Alas, nothing can be done about it now."
         }
       ],
       "related": []
@@ -4049,90 +3915,47 @@
       "lemma": "что-то",
       "stress": "что́-то",
       "pos": "pron",
-      "gloss": "something; somehow",
+      "gloss": "something",
       "meanings": [
         {
           "en": "something",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'something; somehow', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": "instrumental чем-то: чем-то помочь = help with something"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "что-того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "что-тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "что-том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "что-том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "А что-то случилось?",
-          "trans": "Did something happen?"
+          "text": "Так может быть, тебе надо чем-то помочь?",
+          "trans": "So maybe you need help with something?"
         },
         {
-          "text": "Что-то случилось?",
-          "trans": "Has something happened?"
-        },
-        {
-          "text": "Что-то я устал.",
-          "trans": "Somehow I'm tired."
+          "text": "Могу я чем-то помочь?",
+          "trans": "Can I help with anything?"
         }
       ],
       "related": [
         {
-          "word": "что-нибудь",
-          "gloss": "something"
+          "word": "что",
+          "gloss": "what"
+        },
+        {
+          "word": "кто-то",
+          "gloss": "someone"
         }
       ]
     },
-    "шинковки": {
-      "lemma": "шинковки",
-      "stress": "шинко́вки",
+    "шинковка": {
+      "lemma": "шинковка",
+      "stress": "шинко́вка",
       "pos": "noun",
-      "gloss": "vegetable",
-      "gender": "m",
+      "gloss": "shredding, fine chopping",
+      "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
-          "en": "vegetable",
-          "note": "Declinable masculine noun meaning 'vegetable', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "en": "shredding, fine chopping (of vegetables)",
+          "note": ""
         }
       ],
       "forms": {
@@ -4146,43 +3969,43 @@
           {
             "cells": [
               "nominative",
-              "шинковки",
-              "шинковкиы"
+              "шинковка",
+              "шинковки"
             ]
           },
           {
             "cells": [
               "genitive",
-              "шинковкиа",
-              "шинковкиов"
+              "шинковки",
+              "шинковок"
             ]
           },
           {
             "cells": [
               "dative",
-              "шинковкиу",
-              "шинковкиам"
+              "шинковке",
+              "шинковкам"
             ]
           },
           {
             "cells": [
               "accusative",
-              "шинковки",
-              "шинковкиы"
+              "шинковку",
+              "шинковки"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "шинковкиом",
-              "шинковкиами"
+              "шинковкой",
+              "шинковками"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "шинковкие",
-              "шинковкиах"
+              "шинковке",
+              "шинковках"
             ]
           }
         ]
@@ -4191,14 +4014,23 @@
       "examples": [
         {
           "text": "Начнём с шинковки.",
-          "trans": "Let's start with vegetable chopping."
+          "trans": "Let's start with the shredding."
         },
         {
           "text": "Для шинковки капусты нужен острый нож.",
           "trans": "You need a sharp knife for shredding cabbage."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "шинковать",
+          "gloss": "to shred"
+        },
+        {
+          "word": "нарезка",
+          "gloss": "slicing"
+        }
+      ]
     },
     "это": {
       "lemma": "это",

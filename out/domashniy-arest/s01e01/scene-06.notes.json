@@ -217,7 +217,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1147,7 +1147,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -2071,7 +2071,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -3021,11 +3021,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3080,6 +3080,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3108,84 +3125,6 @@
         {
           "word": "видеться",
           "gloss": "to see each other"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -3283,7 +3222,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3319,11 +3258,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3414,15 +3357,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3528,11 +3471,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3685,11 +3628,11 @@
       "meanings": [
         {
           "en": "to call, to phone",
-          "note": "+ dative of the person. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
+          "note": "+ dative of the person."
         },
         {
           "en": "to ring",
-          "note": "A bell or phone. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
+          "note": "A bell or phone."
         }
       ],
       "forms": {
@@ -3844,11 +3787,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -3928,12 +3871,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -4116,7 +4059,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -4240,7 +4183,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -4262,7 +4205,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -4357,44 +4304,6 @@
         {
           "word": "местный",
           "gloss": "local"
-        }
-      ]
-    },
-    "может": {
-      "lemma": "может",
-      "stress": "мо́жет",
-      "pos": "adv",
-      "gloss": "maybe, perhaps",
-      "meanings": [
-        {
-          "en": "maybe, perhaps",
-          "note": "Short for может быть. Core Russian part meaning 'maybe, perhaps' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Может, завтра.",
-          "trans": "Maybe tomorrow."
-        },
-        {
-          "text": "Я думал, может, не примешь.",
-          "trans": "I thought maybe you wouldn't see me."
-        }
-      ],
-      "related": [
-        {
-          "word": "может быть",
-          "gloss": "maybe (full form)"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
         }
       ]
     },
@@ -4511,7 +4420,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4563,6 +4472,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -4677,6 +4603,7 @@
       "pos": "noun",
       "gloss": "mayor",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "mayor",
@@ -4750,7 +4677,16 @@
           "trans": "I've been working as mayor for four years now."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "мэрия",
+          "gloss": "town hall"
+        },
+        {
+          "word": "губернатор",
+          "gloss": "governor"
+        }
+      ]
     },
     "на": {
       "lemma": "на",
@@ -4803,12 +4739,16 @@
       "pair": "назначать",
       "meanings": [
         {
-          "en": "to set, to call (a meeting)",
-          "note": "Назначить на место. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'значить'). Used as a perfective (single completed action) verb meaning 'to set, to appoint', paired with 'назначать'."
+          "en": "to set, to call (a meeting), to schedule",
+          "note": ""
         },
         {
           "en": "to appoint (to a post)",
-          "note": "Назначить на место. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'значить'). Used as a perfective (single completed action) verb meaning 'to set, to appoint', paired with 'назначать'."
+          "note": "назначить на место / + instrumental"
+        },
+        {
+          "en": "to prescribe (treatment)",
+          "note": "назначить операцию / лечение"
         }
       ],
       "forms": {
@@ -4863,6 +4803,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "назначь",
+                "назначьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4882,15 +4839,11 @@
       "related": [
         {
           "word": "назначать",
-          "gloss": "to set"
+          "gloss": "to appoint (impf)"
         },
         {
-          "word": "значит",
-          "gloss": "so"
-        },
-        {
-          "word": "значить",
-          "gloss": "to mean"
+          "word": "назначение",
+          "gloss": "appointment"
         }
       ]
     },
@@ -4903,7 +4856,7 @@
       "meanings": [
         {
           "en": "boss, head, chief",
-          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'boss, head' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5129,7 +5082,7 @@
       "meanings": [
         {
           "en": "fine, OK, normal",
-          "note": "Colloquial. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Colloquial."
         }
       ],
       "forms": null,
@@ -5347,7 +5300,7 @@
       "meanings": [
         {
           "en": "to help",
-          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь'). Used as a perfective (single completed action) verb meaning 'to help', paired with 'помогать'."
+          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь')."
         }
       ],
       "forms": {
@@ -5460,7 +5413,7 @@
       "meanings": [
         {
           "en": "to ask (for a favour)",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'просить'). Used as a perfective (single completed action) verb meaning 'to ask (for), to request', paired with 'просить'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'просить')."
         }
       ],
       "forms": {
@@ -5554,8 +5507,12 @@
           "gloss": "to ask"
         },
         {
+          "word": "просьба",
+          "gloss": "request"
+        },
+        {
           "word": "спрос",
-          "gloss": "asking"
+          "gloss": "demand"
         }
       ]
     },
@@ -5569,11 +5526,11 @@
       "meanings": [
         {
           "en": "to receive, to see (visitors)",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to receive, to see (visitors); to take', paired with 'принять'."
+          "note": ""
         },
         {
           "en": "to take, to accept",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to receive, to see (visitors); to take', paired with 'принять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5628,6 +5585,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "принимай",
+                "принимайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5669,11 +5643,11 @@
       "meanings": [
         {
           "en": "to receive, to see (a visitor)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to receive, to see (a visitor); to accept', paired with 'принимать'."
+          "note": ""
         },
         {
           "en": "to accept, to take",
-          "note": "Used as a perfective (single completed action) verb meaning 'to receive, to see (a visitor); to accept', paired with 'принимать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5725,6 +5699,23 @@
                 "приняла",
                 "приняло",
                 "приняли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "прими",
+                "примите"
               ]
             }
           ]
@@ -6086,11 +6077,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6162,8 +6153,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -6247,7 +6246,7 @@
       "meanings": [
         {
           "en": "seriously",
-          "note": "Серьёзно? = really?. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Серьёзно? = really?."
         }
       ],
       "forms": null,
@@ -6287,7 +6286,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -6378,82 +6377,30 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -6480,7 +6427,7 @@
       "meanings": [
         {
           "en": "building site, construction site",
-          "note": "На стройке = at a building site. Common feminine noun meaning 'building site' in everyday Russian."
+          "note": "На стройке = at a building site."
         }
       ],
       "forms": {
@@ -6560,7 +6507,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -6594,7 +6541,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -6763,7 +6710,7 @@
       "meanings": [
         {
           "en": "to fire, to sack",
-          "note": "Уволен = fired (short participle). Used as a perfective (single completed action) verb meaning 'to fire, to dismiss', paired with 'увольнять'."
+          "note": "Уволен = fired (short participle)."
         }
       ],
       "forms": {
@@ -6815,6 +6762,23 @@
                 "уволила",
                 "уволило",
                 "уволили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "уволь",
+                "увольте"
               ]
             }
           ]
@@ -6954,7 +6918,7 @@
       "meanings": [
         {
           "en": "level",
-          "note": "Common masculine noun meaning 'level' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7036,7 +7000,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -7088,6 +7052,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -7311,7 +7292,7 @@
       "meanings": [
         {
           "en": "excavator driver, digger operator",
-          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'excavator driver' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {

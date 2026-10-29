@@ -120,7 +120,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "пожалуйста.",
@@ -240,7 +240,7 @@
           "t": "волнуешься,",
           "lemma": "волноваться",
           "pos": "verb",
-          "stress": "волнуе́шься",
+          "stress": "волну́ешься",
           "gloss": "to worry",
           "gram": "2nd person singular"
         },
@@ -688,7 +688,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "пожалуйста.",
@@ -808,7 +808,7 @@
           "t": "волнуешься,",
           "lemma": "волноваться",
           "pos": "verb",
-          "stress": "волнуе́шься",
+          "stress": "волну́ешься",
           "gloss": "to worry",
           "gram": "2nd person singular"
         },
@@ -1256,7 +1256,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "пожалуйста.",
@@ -1376,7 +1376,7 @@
           "t": "волнуешься,",
           "lemma": "волноваться",
           "pos": "verb",
-          "stress": "волнуе́шься",
+          "stress": "волну́ешься",
           "gloss": "to worry",
           "gram": "2nd person singular"
         },
@@ -1782,7 +1782,7 @@
       "meanings": [
         {
           "en": "to infuriate, drive mad, annoy",
-          "note": "Colloquial. Used as an imperfective (ongoing/repeated action) verb meaning 'to infuriate, to annoy', paired with 'взбесить'."
+          "note": "Colloquial."
         }
       ],
       "forms": {
@@ -1885,7 +1885,7 @@
       "meanings": [
         {
           "en": "your, yours",
-          "note": "Polite (вы) or plural. Core Russian det meaning 'your, yours (polite or plural)' in everyday speech."
+          "note": "Polite (вы) or plural."
         }
       ],
       "forms": {
@@ -2109,7 +2109,7 @@
         },
         {
           "en": "to hire",
-          "note": "'взять на работу' = to give someone a job"
+          "note": ""
         }
       ],
       "forms": {
@@ -2222,7 +2222,7 @@
       "meanings": [
         {
           "en": "to worry, to be nervous",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2440,48 +2440,6 @@
       ],
       "related": []
     },
-    "всего": {
-      "lemma": "всего",
-      "stress": "всего́",
-      "pos": "adv",
-      "gloss": "only, in total",
-      "meanings": [
-        {
-          "en": "only, merely",
-          "note": "With numbers: всего восемь лет. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        },
-        {
-          "en": "in all, in total",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Дадут всего восемь лет.",
-          "trans": "They will give only eight years."
-        },
-        {
-          "text": "Всего хорошего!",
-          "trans": "All the best!"
-        },
-        {
-          "text": "Предлагаю чистосердечное признание. Дадут всего восемь лет.",
-          "trans": "I suggest a full confession. They'll give you only eight years."
-        }
-      ],
-      "related": [
-        {
-          "word": "всегда",
-          "gloss": "always"
-        },
-        {
-          "word": "навсегда",
-          "gloss": "forever"
-        }
-      ]
-    },
     "вы": {
       "lemma": "вы",
       "stress": "вы",
@@ -2564,49 +2522,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2617,11 +2532,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2712,15 +2631,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2815,7 +2734,7 @@
       "meanings": [
         {
           "en": "to pay (someone for something)",
-          "note": "+ dative of person. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'платить'). Used as a perfective (single completed action) verb meaning 'to pay', paired with 'платить'."
+          "note": "+ dative of person. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'платить')."
         }
       ],
       "forms": {
@@ -2928,7 +2847,7 @@
       "meanings": [
         {
           "en": "to remember, to memorise",
-          "note": "To fix something in memory. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'помнить'). Used as a perfective (single completed action) verb meaning 'to remember, to memorise', paired with 'запоминать'."
+          "note": "To fix something in memory. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'помнить')."
         }
       ],
       "forms": {
@@ -3036,7 +2955,7 @@
       "meanings": [
         {
           "en": "given name, first name",
-          "note": "Common neuter noun meaning 'name' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3154,7 +3073,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -3196,11 +3115,11 @@
       "meanings": [
         {
           "en": "personal",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('personal, private')."
+          "note": ""
         },
         {
           "en": "private, one's own",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('personal, private')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3243,10 +3162,10 @@
           {
             "cells": [
               "accusative",
-              "личный/личного",
+              "личный / личного",
               "личную",
               "личное",
-              "личные/личных"
+              "личные / личных"
             ]
           },
           {
@@ -3404,7 +3323,7 @@
       "meanings": [
         {
           "en": "to begin, to start",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to begin, to start', paired with 'начать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3484,8 +3403,8 @@
           "trans": "When do I start?"
         },
         {
-          "text": "Урок начинается в девять.",
-          "trans": "The lesson starts at nine."
+          "text": "Ну что ты начинаешь?",
+          "trans": "Oh, don't start."
         },
         {
           "text": "Аркаш, ну что скажешь? Когда начинать?",
@@ -3863,7 +3782,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -3966,7 +3885,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -4006,11 +3925,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -4395,7 +4314,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4418,15 +4337,19 @@
     },
     "ступать": {
       "lemma": "ступать",
-      "stress": "сту́пать",
+      "stress": "ступа́ть",
       "pos": "verb",
-      "gloss": "go on, off you go",
+      "gloss": "to step, to tread; (imperative) go!",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "go on, off you go",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'go on, off you go'."
+          "en": "to step, to tread",
+          "note": ""
+        },
+        {
+          "en": "go, off you go",
+          "note": "imperative ступай/ступайте, somewhat old-fashioned"
         }
       ],
       "forms": {
@@ -4481,26 +4404,47 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "ступай",
+                "ступайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и ступать вовремя.",
-          "trans": "We need to do everything and go on on time."
+          "text": "Максим, ступай, мне ещё работать надо.",
+          "trans": "Maxim, off you go, I still have work to do."
         },
         {
-          "text": "На нашей кухне все умеют ступать.",
-          "trans": "In our kitchen everyone knows how to go on."
+          "text": "Ступайте домой и отдохните как следует.",
+          "trans": "Go home and get a good rest."
         }
       ],
       "related": [
         {
-          "word": "поступать",
-          "gloss": "to go on (prefixed perfective)"
+          "word": "ступить",
+          "gloss": "to step (pf)"
         },
         {
-          "word": "не ступать",
-          "gloss": "not to go on (negated infinitive)"
+          "word": "ступень",
+          "gloss": "step"
+        },
+        {
+          "word": "идти",
+          "gloss": "to go"
         }
       ]
     },
@@ -4513,11 +4457,11 @@
       "meanings": [
         {
           "en": "bank account",
-          "note": "Счёт в банке. Common masculine noun meaning 'account, bill, score' in everyday Russian."
+          "note": "Счёт в банке."
         },
         {
           "en": "bill, check",
-          "note": "In a restaurant. Common masculine noun meaning 'account, bill, score' in everyday Russian."
+          "note": "In a restaurant."
         }
       ],
       "forms": {
@@ -4539,14 +4483,14 @@
             "cells": [
               "genitive",
               "счёта",
-              "счетов"
+              "счётов"
             ]
           },
           {
             "cells": [
               "dative",
               "счёту",
-              "счетам"
+              "счётам"
             ]
           },
           {
@@ -4560,14 +4504,14 @@
             "cells": [
               "instrumental",
               "счётом",
-              "счетами"
+              "счётами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "счёте",
-              "счетах"
+              "счётах"
             ]
           }
         ]
@@ -4736,7 +4680,7 @@
       "meanings": [
         {
           "en": "fact",
-          "note": "Common masculine noun meaning 'fact' in everyday Russian."
+          "note": "Не факт = not necessarily; это факт = that's a fact"
         }
       ],
       "forms": {
@@ -4795,11 +4739,15 @@
       "examples": [
         {
           "text": "Нет, это совсем не факт.",
-          "trans": "No, that is not a fact at all."
+          "trans": "No, that's not certain at all."
         },
         {
           "text": "Не факт, меня вообще Дмитрий бесит.",
-          "trans": "Not a fact, Dmitry infuriates me altogether."
+          "trans": "Not necessarily, Dmitry gets on my nerves anyway."
+        },
+        {
+          "text": "Да, это факт, место здесь очень уютное.",
+          "trans": "Yes, that's a fact, this place is very cosy."
         }
       ],
       "related": []
@@ -4812,7 +4760,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4917,7 +4865,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4972,6 +4920,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5007,7 +4972,7 @@
       "meanings": [
         {
           "en": "often, frequently",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,

@@ -441,8 +441,8 @@
           "lemma": "переодеться",
           "pos": "verb",
           "stress": "переоде́ться",
-          "gloss": "change clothes",
-          "gram": "nominative / accusative"
+          "gloss": "to get changed",
+          "gram": "infinitive, perfective"
         },
         {
           "t": "сбегаю.",
@@ -993,8 +993,8 @@
           "lemma": "переодеться",
           "pos": "verb",
           "stress": "переоде́ться",
-          "gloss": "change clothes",
-          "gram": "nominative / accusative"
+          "gloss": "to get changed",
+          "gram": "infinitive, perfective"
         },
         {
           "t": "сбегаю.",
@@ -1545,8 +1545,8 @@
           "lemma": "переодеться",
           "pos": "verb",
           "stress": "переоде́ться",
-          "gloss": "change clothes",
-          "gram": "nominative / accusative"
+          "gloss": "to get changed",
+          "gram": "infinitive, perfective"
         },
         {
           "t": "сбегаю.",
@@ -1924,11 +1924,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1980,6 +1980,23 @@
                 "видела",
                 "видело",
                 "видели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
               ]
             }
           ]
@@ -2062,7 +2079,7 @@
       "meanings": [
         {
           "en": "to lie, to tell lies",
-          "note": "Colloquial. Used as an imperfective (ongoing/repeated action) verb meaning 'to lie, to tell lies', paired with 'соврать'."
+          "note": "Colloquial."
         }
       ],
       "forms": {
@@ -2157,49 +2174,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2210,11 +2184,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2305,15 +2283,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2406,7 +2384,7 @@
       "meanings": [
         {
           "en": "cheap, inexpensive; tacky (fig.)",
-          "note": "Qualitative adjective. Agrees in gender, number, and case with the noun it modifies ('cheap, inexpensive')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2449,10 +2427,10 @@
           {
             "cells": [
               "accusative",
-              "дешёвый",
+              "дешёвый / дешёвого",
               "дешёвую",
               "дешёвое",
-              "дешёвые"
+              "дешёвые / дешёвых"
             ]
           },
           {
@@ -2578,11 +2556,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -2662,12 +2640,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -2747,6 +2725,23 @@
                 "изменилась",
                 "изменилось",
                 "изменились"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "изменись",
+                "изменитесь"
               ]
             }
           ]
@@ -2952,7 +2947,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -2974,7 +2969,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -2987,7 +2986,7 @@
       "meanings": [
         {
           "en": "minute",
-          "note": "Common feminine noun meaning 'minute' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3119,7 +3118,7 @@
       "meanings": [
         {
           "en": "untruth; it's not true",
-          "note": "Это неправда! = That's not true!. Negative prefix 'не-' ('un-, non-, not') (stem 'правда'). Common feminine noun meaning 'untruth, lie' in everyday Russian."
+          "note": "Это неправда! = That's not true!. Negative prefix 'не-' ('un-, non-, not') (stem 'правда')."
         }
       ],
       "forms": {
@@ -3134,42 +3133,42 @@
             "cells": [
               "nominative",
               "неправда",
-              "—"
+              "неправды"
             ]
           },
           {
             "cells": [
               "genitive",
               "неправды",
-              "—"
+              "неправд"
             ]
           },
           {
             "cells": [
               "dative",
               "неправде",
-              "—"
+              "неправдам"
             ]
           },
           {
             "cells": [
               "accusative",
               "неправду",
-              "—"
+              "неправды"
             ]
           },
           {
             "cells": [
               "instrumental",
               "неправдой",
-              "—"
+              "неправдами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "неправде",
-              "—"
+              "неправдах"
             ]
           }
         ]
@@ -3191,16 +3190,16 @@
       ],
       "related": [
         {
-          "word": "правильно",
-          "gloss": "right"
+          "word": "правда",
+          "gloss": "truth; true"
         },
         {
-          "word": "правый",
-          "gloss": "right"
+          "word": "ложь",
+          "gloss": "lie"
         },
         {
-          "word": "правило",
-          "gloss": "rule"
+          "word": "враньё",
+          "gloss": "lies (colloquial)"
         }
       ]
     },
@@ -3254,7 +3253,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -3447,7 +3446,7 @@
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -3495,6 +3494,23 @@
                 "обещала",
                 "обещало",
                 "обещали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "обещай",
+                "обещайте"
               ]
             }
           ]
@@ -3619,13 +3635,13 @@
       "lemma": "переодеться",
       "stress": "переоде́ться",
       "pos": "verb",
-      "gloss": "change clothes",
+      "gloss": "to change clothes, get changed",
       "aspect": "pf",
-      "pair": null,
+      "pair": "переодеваться",
       "meanings": [
         {
-          "en": "change clothes",
-          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'одеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'change clothes'."
+          "en": "to change clothes, get changed",
+          "note": "переодеться в + accusative: в чистую форму"
         }
       ],
       "forms": {
@@ -3680,6 +3696,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "переоденься",
+                "переоденьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3708,7 +3741,7 @@
       "meanings": [
         {
           "en": "to help",
-          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь'). Used as a perfective (single completed action) verb meaning 'to help', paired with 'помогать'."
+          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь')."
         }
       ],
       "forms": {
@@ -3917,7 +3950,7 @@
       "meanings": [
         {
           "en": "five",
-          "note": "+ genitive plural: пять рублей. Core Russian num meaning 'five' in everyday speech."
+          "note": "+ genitive plural: пять рублей."
         }
       ],
       "forms": null,
@@ -3957,7 +3990,7 @@
       "meanings": [
         {
           "en": "to smash, break",
-          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'бивать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to smash, break'."
+          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'бивать')."
         }
       ],
       "forms": {
@@ -4012,6 +4045,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "разбивай",
+                "разбивайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4053,11 +4103,11 @@
       "meanings": [
         {
           "en": "to break, smash, shatter",
-          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'бить'). Used as a perfective (single completed action) verb meaning 'to break, to smash, to wreck (a car)', paired with 'разбивать'."
+          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'бить')."
         },
         {
           "en": "to wreck, crash (a vehicle)",
-          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'бить'). Used as a perfective (single completed action) verb meaning 'to break, to smash, to wreck (a car)', paired with 'разбивать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4162,19 +4212,23 @@
     },
     "сбегать": {
       "lemma": "сбегать",
-      "stress": "сбе́гать",
+      "stress": "сбега́ть",
       "pos": "verb",
-      "gloss": "are running away",
-      "aspect": "pf",
-      "pair": null,
+      "gloss": "to run away, escape; (сбегать, pf) to dash over",
+      "aspect": "impf",
+      "pair": "сбежать",
       "meanings": [
         {
-          "en": "are running away",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'бегать'). Used as a perfective (single completed action) verb meaning 'are running away'."
+          "en": "to run away, escape (impf сбегать)",
+          "note": "pair сбежать"
+        },
+        {
+          "en": "to run over quickly, dash somewhere and back (pf сбегать)",
+          "note": "сбегать в аптеку = to pop over to the pharmacy"
         }
       ],
       "forms": {
-        "title": "Future",
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -4225,16 +4279,37 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "сбегай",
+                "сбегайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Такое впечатление, что ты не переезжаешь, а сбегаешь.",
-          "trans": "It feels like you are not moving, but running away."
+          "trans": "It feels like you're not moving out, you're running away."
         },
         {
-          "text": "Надо всё сделать и сбегать вовремя.",
-          "trans": "We need to do everything and are running away on time."
+          "text": "От тебя же все мужики сбегают.",
+          "trans": "All the men run away from you."
+        },
+        {
+          "text": "Давай я сейчас в аптеку сбегаю и куплю.",
+          "trans": "Let me dash to the pharmacy now and buy some."
         }
       ],
       "related": []
@@ -4249,7 +4324,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -4257,7 +4332,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -4372,7 +4447,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -4616,7 +4691,7 @@
       "meanings": [
         {
           "en": "to leave, to go away (on foot)",
-          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to leave, to go away', paired with 'уйти'."
+          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить')."
         }
       ],
       "forms": {
@@ -4727,7 +4802,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4826,77 +4901,33 @@
       "lemma": "что-то",
       "stress": "что́-то",
       "pos": "pron",
-      "gloss": "something; somehow",
+      "gloss": "something",
       "meanings": [
         {
           "en": "something",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'something; somehow', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": "instrumental чем-то: чем-то помочь = help with something"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "что-того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "что-тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "что-том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "что-том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "А что-то случилось?",
-          "trans": "Did something happen?"
+          "text": "Так может быть, тебе надо чем-то помочь?",
+          "trans": "So maybe you need help with something?"
         },
         {
-          "text": "Что-то случилось?",
-          "trans": "Has something happened?"
-        },
-        {
-          "text": "Что-то я устал.",
-          "trans": "Somehow I'm tired."
+          "text": "Могу я чем-то помочь?",
+          "trans": "Can I help with anything?"
         }
       ],
       "related": [
         {
-          "word": "что-нибудь",
-          "gloss": "something"
+          "word": "что",
+          "gloss": "what"
+        },
+        {
+          "word": "кто-то",
+          "gloss": "someone"
         }
       ]
     },
@@ -4908,7 +4939,7 @@
       "meanings": [
         {
           "en": "hey!",
-          "note": "To get someone's attention. Core Russian interj meaning 'hey' in everyday speech."
+          "note": "To get someone's attention."
         }
       ],
       "forms": null,
@@ -5021,105 +5052,6 @@
         {
           "word": "этот",
           "gloss": "this (before a noun)"
-        }
-      ]
-    },
-    "этот": {
-      "lemma": "этот",
-      "stress": "э́тот",
-      "pos": "det",
-      "gloss": "this",
-      "meanings": [
-        {
-          "en": "this",
-          "note": "alone: 'я этого не хочу' = I don't want that"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "этот",
-              "эта",
-              "это",
-              "эти"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "этого",
-              "этой",
-              "этого",
-              "этих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "этому",
-              "этой",
-              "этому",
-              "этим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "этот / этого",
-              "эту",
-              "это",
-              "эти / этих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "этим",
-              "этой",
-              "этим",
-              "этими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "этом",
-              "этой",
-              "этом",
-              "этих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Этот дом.",
-          "trans": "This house."
-        },
-        {
-          "text": "Меня тошнит от этой коммуналки.",
-          "trans": "I'm sick of this communal flat."
-        },
-        {
-          "text": "Меня уже тошнит от этой коммуналки! У нас труба уже неделю течёт.",
-          "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
-        }
-      ],
-      "related": [
-        {
-          "word": "это",
-          "gloss": "this is, it"
         }
       ]
     },

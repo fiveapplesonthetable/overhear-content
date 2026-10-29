@@ -298,7 +298,7 @@
           "pos": "pron",
           "stress": "кото́рые",
           "gloss": "which, that",
-          "gram": "relative pronoun, accusative plural"
+          "gram": "relative pronoun, nominative / accusative plural"
         },
         {
           "t": "есть",
@@ -520,14 +520,14 @@
           "pos": "noun",
           "stress": "колбасу́",
           "gloss": "sausage",
-          "gram": "accusative / dative singular"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "ночью",
           "lemma": "ночь",
           "pos": "noun",
           "stress": "но́чью",
-          "gloss": "night",
+          "gloss": "at night",
           "gram": "ins.f.sg"
         },
         {
@@ -548,7 +548,7 @@
           "t": "Федя,",
           "lemma": "федя",
           "pos": "name",
-          "stress": null,
+          "stress": "фе́дя",
           "gloss": "Fedya",
           "gram": "nominative masculine singular"
         },
@@ -874,7 +874,7 @@
           "pos": "pron",
           "stress": "кото́рые",
           "gloss": "which, that",
-          "gram": "relative pronoun, accusative plural"
+          "gram": "relative pronoun, nominative / accusative plural"
         },
         {
           "t": "есть",
@@ -1096,14 +1096,14 @@
           "pos": "noun",
           "stress": "колбасу́",
           "gloss": "sausage",
-          "gram": "accusative / dative singular"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "ночью",
           "lemma": "ночь",
           "pos": "noun",
           "stress": "но́чью",
-          "gloss": "night",
+          "gloss": "at night",
           "gram": "ins.f.sg"
         },
         {
@@ -1124,7 +1124,7 @@
           "t": "Федя,",
           "lemma": "федя",
           "pos": "name",
-          "stress": null,
+          "stress": "фе́дя",
           "gloss": "Fedya",
           "gram": "nominative masculine singular"
         },
@@ -1450,7 +1450,7 @@
           "pos": "pron",
           "stress": "кото́рые",
           "gloss": "which, that",
-          "gram": "relative pronoun, accusative plural"
+          "gram": "relative pronoun, nominative / accusative plural"
         },
         {
           "t": "есть",
@@ -1672,14 +1672,14 @@
           "pos": "noun",
           "stress": "колбасу́",
           "gloss": "sausage",
-          "gram": "accusative / dative singular"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "ночью",
           "lemma": "ночь",
           "pos": "noun",
           "stress": "но́чью",
-          "gloss": "night",
+          "gloss": "at night",
           "gram": "ins.f.sg"
         },
         {
@@ -1700,7 +1700,7 @@
           "t": "Федя,",
           "lemma": "федя",
           "pos": "name",
-          "stress": null,
+          "stress": "фе́дя",
           "gloss": "Fedya",
           "gram": "nominative masculine singular"
         },
@@ -1798,14 +1798,18 @@
     },
     "белок": {
       "lemma": "белок",
-      "stress": "бе́лок",
+      "stress": "бело́к",
       "pos": "noun",
-      "gloss": "proteins",
+      "gloss": "protein; egg white",
       "gender": "m",
       "meanings": [
         {
-          "en": "proteins",
-          "note": "Common masculine noun meaning 'proteins' in everyday Russian."
+          "en": "protein",
+          "note": "Plural белки = proteins."
+        },
+        {
+          "en": "egg white",
+          "note": "Not to be confused with белок, genitive plural of белка 'squirrel'."
         }
       ],
       "forms": {
@@ -1820,42 +1824,42 @@
             "cells": [
               "nominative",
               "белок",
-              "белоки"
+              "белки"
             ]
           },
           {
             "cells": [
               "genitive",
-              "белока",
-              "белоков"
+              "белка",
+              "белков"
             ]
           },
           {
             "cells": [
               "dative",
-              "белоку",
-              "белокам"
+              "белку",
+              "белкам"
             ]
           },
           {
             "cells": [
               "accusative",
               "белок",
-              "белоки"
+              "белки"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "белоком",
-              "белоками"
+              "белком",
+              "белками"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "белоке",
-              "белоках"
+              "белке",
+              "белках"
             ]
           }
         ]
@@ -1864,21 +1868,21 @@
       "examples": [
         {
           "text": "Ребёнку необходимы белки, которые есть только в мясе.",
-          "trans": "A baby needs proteins that are only in meat."
+          "trans": "A child needs proteins that are only found in meat."
         },
         {
-          "text": "На кухне ресторана всегда есть белок.",
-          "trans": "In the restaurant kitchen there is always proteins."
+          "text": "Там белок из ванильного мороженого.",
+          "trans": "There's egg white from the vanilla ice cream in there."
         }
       ],
       "related": [
         {
-          "word": "без бело",
-          "gloss": "without proteins"
+          "word": "желток",
+          "gloss": "yolk"
         },
         {
-          "word": "наш белок",
-          "gloss": "our proteins"
+          "word": "яйцо",
+          "gloss": "egg"
         }
       ]
     },
@@ -1933,10 +1937,10 @@
           {
             "cells": [
               "accusative",
-              "беременного",
+              "беременный / беременного",
               "беременную",
               "беременное",
-              "беременных"
+              "беременные / беременных"
             ]
           },
           {
@@ -1985,7 +1989,7 @@
       "meanings": [
         {
           "en": "sandwich (slang)",
-          "note": "Common masculine noun meaning 'sandwich (slang)' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2047,18 +2051,18 @@
           "trans": "Fedya, make me a sandwich, will you?"
         },
         {
-          "text": "На кухне ресторана всегда есть бутик.",
-          "trans": "In the restaurant kitchen there is always sandwich."
+          "text": "Я с утра только один бутик съел.",
+          "trans": "All I've eaten since morning is one sandwich."
         }
       ],
       "related": [
         {
-          "word": "без бути",
-          "gloss": "without sandwich"
+          "word": "бутерброд",
+          "gloss": "sandwich"
         },
         {
-          "word": "наш бутик",
-          "gloss": "our sandwich"
+          "word": "бутер",
+          "gloss": "sandwich (slang)"
         }
       ]
     },
@@ -2381,7 +2385,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -2472,11 +2476,11 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
@@ -2492,11 +2496,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2681,12 +2685,12 @@
       "lemma": "желание",
       "stress": "жела́ние",
       "pos": "noun",
-      "gloss": "desire, craving",
+      "gloss": "wish, desire",
       "gender": "n",
       "meanings": [
         {
-          "en": "desire, craving",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'desire, craving' in everyday Russian."
+          "en": "wish, desire, craving",
+          "note": "по собственному желанию = of one's own accord (resignation)"
         }
       ],
       "forms": {
@@ -2748,8 +2752,12 @@
           "trans": "Sometimes a pregnant woman feels a craving."
         },
         {
-          "text": "На кухне ресторана всегда есть желание.",
-          "trans": "In the restaurant kitchen there is always desire."
+          "text": "Ну, желание дамы закон.",
+          "trans": "Well, a lady's wish is law."
+        },
+        {
+          "text": "Вот его заявление по собственному желанию.",
+          "trans": "Here is his voluntary resignation letter."
         }
       ],
       "related": []
@@ -2843,11 +2851,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2882,12 +2890,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2942,6 +2948,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2961,17 +2984,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "иногда": {
       "lemma": "иногда",
@@ -2981,7 +3005,7 @@
       "meanings": [
         {
           "en": "sometimes, from time to time, occasionally",
-          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'sometimes'."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3011,7 +3035,7 @@
       "meanings": [
         {
           "en": "sausage",
-          "note": "Declinable feminine noun meaning 'sausage', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -3099,72 +3123,7 @@
           "note": "joins a description to a noun; agrees with that noun in gender and number"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "который",
-              "которая",
-              "которое",
-              "которые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "которого",
-              "которой",
-              "которого",
-              "которых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "которому",
-              "которой",
-              "которому",
-              "которым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "который/которого",
-              "которую",
-              "которое",
-              "которые/которых"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "которым",
-              "которой",
-              "которым",
-              "которыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "котором",
-              "которой",
-              "котором",
-              "которых"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -3176,8 +3135,8 @@
           "trans": "Where is the book that was here?"
         },
         {
-          "text": "А что я за мэр такой, который держит своё слово?",
-          "trans": "And what kind of mayor would I be if I kept my word?"
+          "text": "Это секрет, который умрёт вместе со мной.",
+          "trans": "It's a secret that will die with me."
         }
       ],
       "related": [
@@ -3197,7 +3156,7 @@
       "meanings": [
         {
           "en": "to buy",
-          "note": "Used as a perfective (single completed action) verb meaning 'to buy', paired with 'покупать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3304,7 +3263,7 @@
         },
         {
           "en": "better",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('best; better')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3405,7 +3364,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3457,6 +3416,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3574,7 +3550,7 @@
       "meanings": [
         {
           "en": "meat",
-          "note": "Culinary. Common neuter noun meaning 'meat' in everyday Russian."
+          "note": "Culinary."
         }
       ],
       "forms": {
@@ -3589,42 +3565,42 @@
             "cells": [
               "nominative",
               "мясо",
-              "мяса"
+              "—"
             ]
           },
           {
             "cells": [
               "genitive",
               "мяса",
-              "мяс"
+              "—"
             ]
           },
           {
             "cells": [
               "dative",
               "мясу",
-              "мясам"
+              "—"
             ]
           },
           {
             "cells": [
               "accusative",
               "мясо",
-              "мяса"
+              "—"
             ]
           },
           {
             "cells": [
               "instrumental",
               "мясом",
-              "мясами"
+              "—"
             ]
           },
           {
             "cells": [
               "prepositional",
               "мясе",
-              "мясах"
+              "—"
             ]
           }
         ]
@@ -3653,14 +3629,15 @@
     },
     "навоз": {
       "lemma": "навоз",
-      "stress": "на́воз",
+      "stress": "наво́з",
       "pos": "noun",
       "gloss": "manure",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "manure",
-          "note": "Common masculine noun meaning 'manure' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3732,12 +3709,12 @@
       ],
       "related": [
         {
-          "word": "без наво",
-          "gloss": "without manure"
+          "word": "удобрение",
+          "gloss": "fertilizer"
         },
         {
-          "word": "наш навоз",
-          "gloss": "our manure"
+          "word": "огород",
+          "gloss": "vegetable garden"
         }
       ]
     },
@@ -3787,7 +3764,7 @@
       "meanings": [
         {
           "en": "a little, a bit",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много')."
         }
       ],
       "forms": null,
@@ -3872,10 +3849,10 @@
           {
             "cells": [
               "accusative",
-              "необходимый",
+              "необходимый / необходимого",
               "необходимую",
               "необходимое",
-              "необходимые"
+              "необходимые / необходимых"
             ]
           },
           {
@@ -3898,29 +3875,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "необходим",
-                "необходима",
-                "необходимо",
-                "необходимы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Это вам сейчас необходимо.",
@@ -4164,7 +4119,7 @@
       "meanings": [
         {
           "en": "weather",
-          "note": "Common feminine noun meaning 'weather' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4222,40 +4177,40 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Рыжий, погоди.",
-          "trans": "Redhead, wait."
+          "text": "Ох, Елена Павловна, какая прекрасная погода!",
+          "trans": "Oh, Elena Pavlovna, what lovely weather!"
+        },
+        {
+          "text": "Погода там ужасная, сильный тайфун.",
+          "trans": "The weather there is awful, a strong typhoon."
         },
         {
           "text": "Ты так погоду смотрела?",
-          "trans": "Were you checking the weather like that?"
-        },
-        {
-          "text": "Умница! Пойдём поговорим.",
-          "trans": "Clever girl! Let's go talk."
+          "trans": "Is that how you checked the weather?"
         }
       ],
       "related": [
         {
-          "word": "без погод",
-          "gloss": "without weather"
+          "word": "прогноз погоды",
+          "gloss": "weather forecast"
         },
         {
-          "word": "наш погода",
-          "gloss": "our weather"
+          "word": "непогода",
+          "gloss": "bad weather"
         }
       ]
     },
     "позавтракать": {
       "lemma": "позавтракать",
-      "stress": "позавтра́кать",
+      "stress": "поза́втракать",
       "pos": "verb",
-      "gloss": "had breakfast",
+      "gloss": "to have breakfast",
       "aspect": "pf",
-      "pair": null,
+      "pair": "завтракать",
       "meanings": [
         {
-          "en": "had breakfast",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'завтракать'). Used as a perfective (single completed action) verb meaning 'had breakfast'."
+          "en": "to have breakfast",
+          "note": ""
         }
       ],
       "forms": {
@@ -4310,6 +4265,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "позавтракай",
+                "позавтракайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4318,18 +4290,18 @@
           "trans": "I didn't have breakfast today."
         },
         {
-          "text": "Надо всё сделать и позавтракать вовремя.",
-          "trans": "We need to do everything and had breakfast on time."
+          "text": "А ты со мной не позавтракаешь?",
+          "trans": "Won't you have breakfast with me?"
         }
       ],
       "related": [
         {
           "word": "завтракать",
-          "gloss": "to had breakfast (base verb)"
+          "gloss": "to have breakfast (impf)"
         },
         {
-          "word": "не позавтракать",
-          "gloss": "not to had breakfast (negated infinitive)"
+          "word": "завтрак",
+          "gloss": "breakfast"
         }
       ]
     },
@@ -4347,7 +4319,7 @@
         },
         {
           "en": "to introduce, present",
-          "note": "Someone or something. Used as an imperfective (ongoing/repeated action) verb meaning 'to imagine; to introduce, present', paired with 'представить'."
+          "note": "Someone or something."
         }
       ],
       "forms": {
@@ -4455,7 +4427,7 @@
       "meanings": [
         {
           "en": "child",
-          "note": "Plural: дети. Common masculine noun meaning 'child' in everyday Russian."
+          "note": "Plural: дети."
         }
       ],
       "forms": {
@@ -4535,7 +4507,7 @@
       "meanings": [
         {
           "en": "fresh",
-          "note": "Food, air, news. Agrees in gender, number, and case with the noun it modifies ('fresh')."
+          "note": "Food, air, news."
         }
       ],
       "forms": {
@@ -4578,10 +4550,10 @@
           {
             "cells": [
               "accusative",
-              "свежий",
+              "свежий / свежего",
               "свежую",
               "свежее",
-              "свежие"
+              "свежие / свежих"
             ]
           },
           {
@@ -4635,11 +4607,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4711,8 +4683,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -4726,7 +4706,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -4871,11 +4851,11 @@
       "meanings": [
         {
           "en": "how much, how many",
-          "note": "+ genitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive."
         },
         {
           "en": "what a lot of!",
-          "note": "In exclamations. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "In exclamations."
         }
       ],
       "forms": null,
@@ -4896,92 +4876,6 @@
       ],
       "related": []
     },
-    "скотина": {
-      "lemma": "скотина",
-      "stress": "скоти́на",
-      "pos": "noun",
-      "gloss": "brute, beast",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "brute, beast",
-          "note": "Common feminine noun meaning 'brute, beast' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "скотина",
-              "скотины"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "скотины",
-              "скотин"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "скотине",
-              "скотинам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "скотину",
-              "скотины"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "скотиной",
-              "скотинами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "скотине",
-              "скотинах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Вот скотина.",
-          "trans": "What a bastard."
-        },
-        {
-          "text": "Какая же неблагодарная скотина оставила здесь этот беспорядок!",
-          "trans": "What an ungrateful brute left this mess here!"
-        },
-        {
-          "text": "Не смей вести себя как бездушная скотина с друзьями.",
-          "trans": "Do not dare behave like a heartless beast toward your friends."
-        }
-      ],
-      "related": [
-        {
-          "word": "котик",
-          "gloss": "kitten"
-        }
-      ]
-    },
     "смотреть": {
       "lemma": "смотреть",
       "stress": "смотре́ть",
@@ -4992,11 +4886,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -5100,11 +4994,11 @@
       "meanings": [
         {
           "en": "sense, meaning",
-          "note": "'В смысле?'. Common masculine noun meaning 'sense, meaning' in everyday Russian."
+          "note": "'В смысле?'."
         },
         {
           "en": "what do you mean?",
-          "note": "'В смысле?'. Common masculine noun meaning 'sense, meaning' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5181,98 +5075,6 @@
         }
       ]
     },
-    "сожрать": {
-      "lemma": "сожрать",
-      "stress": "сожра́ть",
-      "pos": "verb",
-      "gloss": "devour, gobble up",
-      "aspect": "pf",
-      "pair": null,
-      "meanings": [
-        {
-          "en": "devour, gobble up",
-          "note": "Used as a perfective (single completed action) verb meaning 'devour, gobble up'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "сожру",
-              "сожрём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "сожрёшь",
-              "сожрёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "сожрёт",
-              "сожрут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "сожрал",
-                "сожрала",
-                "сожрало",
-                "сожрали"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ага, две пачки сожрал.",
-          "trans": "Yeah, I ate two packs."
-        },
-        {
-          "text": "Кто опять успел сожрать все свежие круассаны до открытия?",
-          "trans": "Who managed to devour all the fresh croissants before opening again?"
-        },
-        {
-          "text": "Голодный пёс за секунду сожрал целый кусок дорогой вырезки.",
-          "trans": "In a second the hungry dog gobbled up a whole piece of expensive tenderloin."
-        }
-      ],
-      "related": [
-        {
-          "word": "делать",
-          "gloss": "to do, make"
-        },
-        {
-          "word": "время",
-          "gloss": "time"
-        }
-      ]
-    },
     "съесть": {
       "lemma": "съесть",
       "stress": "съесть",
@@ -5283,7 +5085,7 @@
       "meanings": [
         {
           "en": "to eat, to eat up",
-          "note": "A whole portion; completed action. Used as a perfective (single completed action) verb meaning 'to eat (up)', paired with 'есть'."
+          "note": "A whole portion; completed action."
         }
       ],
       "forms": {
@@ -5449,8 +5251,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -5578,7 +5388,7 @@
           {
             "cells": [
               "3rd",
-              "хочется",
+              "—",
               "—"
             ]
           }
@@ -5792,6 +5602,23 @@
                 "чувствовала",
                 "чувствовало",
                 "чувствовали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "чувствуй",
+                "чувствуйте"
               ]
             }
           ]

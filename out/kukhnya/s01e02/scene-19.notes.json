@@ -457,7 +457,7 @@
           "lemma": "громко",
           "pos": "adv",
           "stress": "гро́мко",
-          "gloss": "on speaker (lit. loudly)",
+          "gloss": "loudly",
           "gram": "adverb"
         }
       ]
@@ -469,10 +469,10 @@
         {
           "t": "Шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "опять",
@@ -539,10 +539,10 @@
         {
           "t": "пор",
           "lemma": "пора",
-          "pos": "adv",
+          "pos": "noun",
           "stress": null,
-          "gloss": "time",
-          "gram": "feminine plural genitive"
+          "gloss": "time (до сих пор = still, until now; с каких пор = since when)",
+          "gram": "genitive plural"
         },
         {
           "t": "ищет",
@@ -642,7 +642,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         },
         {
           "t": "мой.",
@@ -1109,7 +1109,7 @@
           "lemma": "громко",
           "pos": "adv",
           "stress": "гро́мко",
-          "gloss": "on speaker (lit. loudly)",
+          "gloss": "loudly",
           "gram": "adverb"
         }
       ]
@@ -1121,10 +1121,10 @@
         {
           "t": "Шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "опять",
@@ -1191,10 +1191,10 @@
         {
           "t": "пор",
           "lemma": "пора",
-          "pos": "adv",
+          "pos": "noun",
           "stress": null,
-          "gloss": "time",
-          "gram": "feminine plural genitive"
+          "gloss": "time (до сих пор = still, until now; с каких пор = since when)",
+          "gram": "genitive plural"
         },
         {
           "t": "ищет",
@@ -1294,7 +1294,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         },
         {
           "t": "мой.",
@@ -1761,7 +1761,7 @@
           "lemma": "громко",
           "pos": "adv",
           "stress": "гро́мко",
-          "gloss": "on speaker (lit. loudly)",
+          "gloss": "loudly",
           "gram": "adverb"
         }
       ]
@@ -1773,10 +1773,10 @@
         {
           "t": "Шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "опять",
@@ -1843,10 +1843,10 @@
         {
           "t": "пор",
           "lemma": "пора",
-          "pos": "adv",
+          "pos": "noun",
           "stress": null,
-          "gloss": "time",
-          "gram": "feminine plural genitive"
+          "gloss": "time (до сих пор = still, until now; с каких пор = since when)",
+          "gram": "genitive plural"
         },
         {
           "t": "ищет",
@@ -1946,7 +1946,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         },
         {
           "t": "мой.",
@@ -1978,11 +1978,11 @@
       "lemma": "апельсиновый",
       "stress": "апельси́новый",
       "pos": "adj",
-      "gloss": "orange (fruit/colour)",
+      "gloss": "orange (made of oranges)",
       "meanings": [
         {
-          "en": "orange (fruit/colour)",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('orange (fruit/colour)')."
+          "en": "orange, made from oranges",
+          "note": "апельсиновый сок = orange juice"
         }
       ],
       "forms": {
@@ -2025,10 +2025,10 @@
           {
             "cells": [
               "accusative",
-              "апельсиновый",
+              "апельсиновый / апельсинового",
               "апельсиновую",
               "апельсиновое",
-              "апельсиновые"
+              "апельсиновые / апельсиновых"
             ]
           },
           {
@@ -2054,12 +2054,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это апельсиновый.",
-          "trans": "This is orange."
-        },
-        {
           "text": "Сделай мне свежий апельсиновый сок.",
           "trans": "Make me some fresh orange juice."
+        },
+        {
+          "text": "Сок апельсиновый мне быстро в бокал налей.",
+          "trans": "Quickly pour me some orange juice in a glass."
         }
       ],
       "related": [
@@ -2077,7 +2077,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2482,11 +2482,11 @@
       "meanings": [
         {
           "en": "head",
-          "note": "An idiom for a big telling-off. Common feminine noun meaning 'head' in everyday Russian."
+          "note": ""
         },
         {
-          "en": "'голову оторвать' = to tear someone's head off",
-          "note": "An idiom for a big telling-off. Common feminine noun meaning 'head' in everyday Russian."
+          "en": "голову оторвать = to tear someone's head off",
+          "note": "an idiom for a big telling-off"
         }
       ],
       "forms": {
@@ -2610,11 +2610,11 @@
         },
         {
           "en": "here you are!",
-          "note": "imperative держи! when handing something over"
+          "note": ""
         },
         {
           "en": "catch!, grab (him)!",
-          "note": "Держи его!. Used as an imperfective (ongoing/repeated action) verb meaning 'to hold'."
+          "note": "Держи его!."
         }
       ],
       "forms": {
@@ -2726,7 +2726,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2764,11 +2764,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2811,7 +2811,7 @@
         },
         {
           "en": "duty",
-          "note": "Common masculine noun meaning 'debt; duty' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2860,7 +2860,7 @@
           {
             "cells": [
               "prepositional",
-              "долге (в долгу)",
+              "долге",
               "долгах"
             ]
           }
@@ -2892,7 +2892,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2977,11 +2977,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3019,7 +3019,7 @@
       "meanings": [
         {
           "en": "what for, why",
-          "note": "Asks about the purpose. Core Russian adv meaning 'what for, why' in everyday speech."
+          "note": "Asks about the purpose."
         }
       ],
       "forms": null,
@@ -3055,7 +3055,7 @@
       "meanings": [
         {
           "en": "to look for, to search",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to look for'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3158,7 +3158,7 @@
       "meanings": [
         {
           "en": "somehow, kind of, a bit",
-          "note": "Indefinite adverb. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Indefinite adverb."
         }
       ],
       "forms": null,
@@ -3189,7 +3189,7 @@
       "meanings": [
         {
           "en": "to shout, to yell",
-          "note": "Кричать на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to shout', paired with 'крикнуть'."
+          "note": "Кричать на + accusative."
         }
       ],
       "forms": {
@@ -3273,8 +3273,8 @@
           "trans": "Why are you shouting?"
         },
         {
-          "text": "Не надо кричать. Хорошо, я буду сегодня.",
-          "trans": "There's no need to shout. All right, I'll be there tonight."
+          "text": "Что вы кричите на меня?",
+          "trans": "Why are you shouting at me?"
         }
       ],
       "related": [
@@ -3490,7 +3490,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -3629,7 +3629,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3681,6 +3681,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3899,11 +3916,15 @@
       "related": [
         {
           "word": "неловкий",
-          "gloss": "clumsy"
+          "gloss": "clumsy, awkward"
         },
         {
-          "word": "уловка",
-          "gloss": "trick"
+          "word": "неудобно",
+          "gloss": "awkward, embarrassing"
+        },
+        {
+          "word": "стыдно",
+          "gloss": "ashamed"
         }
       ]
     },
@@ -3997,7 +4018,7 @@
       "meanings": [
         {
           "en": "nose",
-          "note": "Locative на носу. Common masculine noun meaning 'nose' in everyday Russian."
+          "note": "Locative на носу."
         }
       ],
       "forms": {
@@ -4171,7 +4192,7 @@
       "meanings": [
         {
           "en": "again",
-          "note": "Often with annoyance. Core Russian adv meaning 'again' in everyday speech."
+          "note": "Often with annoyance."
         }
       ],
       "forms": null,
@@ -4239,7 +4260,7 @@
       "meanings": [
         {
           "en": "cook, chef",
-          "note": "Irregular plural повара. Common masculine noun meaning 'cook, chef' in everyday Russian."
+          "note": "Irregular plural повара."
         }
       ],
       "forms": {
@@ -4319,7 +4340,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -4396,7 +4417,7 @@
       "meanings": [
         {
           "en": "to turn out, to work out",
-          "note": "Всё получилось = it all worked out. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to turn out, to work out', paired with 'получаться'."
+          "note": "Всё получилось = it all worked out."
         },
         {
           "en": "to come out of, to make",
@@ -4452,6 +4473,23 @@
                 "получилась",
                 "получилось",
                 "получились"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "получись",
+                "получитесь"
               ]
             }
           ]
@@ -4679,11 +4717,11 @@
       "meanings": [
         {
           "en": "simple, easy",
-          "note": "Простые люди = ordinary people. Agrees in gender, number, and case with the noun it modifies ('simple; ordinary')."
+          "note": "Простые люди = ordinary people."
         },
         {
           "en": "ordinary, common",
-          "note": "Простые люди = ordinary people. Agrees in gender, number, and case with the noun it modifies ('simple; ordinary')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4777,7 +4815,7 @@
       "meanings": [
         {
           "en": "fresh",
-          "note": "Food, air, news. Agrees in gender, number, and case with the noun it modifies ('fresh')."
+          "note": "Food, air, news."
         }
       ],
       "forms": {
@@ -4820,10 +4858,10 @@
           {
             "cells": [
               "accusative",
-              "свежий",
+              "свежий / свежего",
               "свежую",
               "свежее",
-              "свежие"
+              "свежие / свежих"
             ]
           },
           {
@@ -4981,7 +5019,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -5170,7 +5208,7 @@
       "meanings": [
         {
           "en": "to break",
-          "note": "Сломать руку = to break one's arm. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ломать'). Used as a perfective (single completed action) verb meaning 'to break', paired with 'ломать'."
+          "note": "Сломать руку = to break one's arm. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ломать')."
         }
       ],
       "forms": {
@@ -5242,27 +5280,6 @@
               ]
             }
           ]
-        },
-        {
-          "title": "Short participle",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short passive participle",
-                "сломан",
-                "сломана",
-                "сломано",
-                "сломаны"
-              ]
-            }
-          ]
         }
       ],
       "examples": [
@@ -5303,7 +5320,7 @@
       "meanings": [
         {
           "en": "juice",
-          "note": "Common masculine noun meaning 'juice' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5379,13 +5396,17 @@
       "lemma": "старичок",
       "stress": "старичо́к",
       "pos": "noun",
-      "gloss": "old buddy, old fellow",
+      "gloss": "little old man; old buddy",
       "gender": "m",
       "animacy": "anim",
       "meanings": [
         {
-          "en": "colloquial friendly address",
-          "note": "Formed with a diminutive/expressive Slavic suffix adding warmth or small scale. Common masculine noun meaning 'old buddy, old fellow' in everyday Russian."
+          "en": "little old man",
+          "note": "Diminutive of старик."
+        },
+        {
+          "en": "old buddy, old chap",
+          "note": "Colloquial friendly address."
         }
       ],
       "forms": {
@@ -5443,12 +5464,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это старичок.",
-          "trans": "This is a old buddy, old fellow."
-        },
-        {
           "text": "Старичок, прости меня, пожалуйста!",
           "trans": "Old buddy, forgive me, please!"
+        },
+        {
+          "text": "Ты сдал, старичок.",
+          "trans": "You've gone downhill, old chap."
         }
       ],
       "related": [
@@ -5457,8 +5478,8 @@
           "gloss": "old man"
         },
         {
-          "word": "старинный",
-          "gloss": "ancient"
+          "word": "старушка",
+          "gloss": "old lady"
         }
       ]
     },
@@ -5573,7 +5594,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -5618,16 +5639,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Тише, дети спят!",
-          "trans": "Quiet, the children are asleep!"
-        },
-        {
           "text": "Здесь тихо.",
           "trans": "It's quiet here."
         },
         {
-          "text": "Тише!",
-          "trans": "Quiet!"
+          "text": "Почему на кухне так тихо?",
+          "trans": "Why is the kitchen so quiet?"
         }
       ],
       "related": [
@@ -5905,7 +5922,7 @@
       "meanings": [
         {
           "en": "a little, slightly",
-          "note": "Чуть-чуть = a tiny bit. Core Russian adv meaning 'a little; nearly' in everyday speech."
+          "note": "Чуть-чуть = a tiny bit."
         },
         {
           "en": "nearly, almost",
@@ -5934,6 +5951,88 @@
           "gloss": "a little bit"
         }
       ]
+    },
+    "шеф": {
+      "lemma": "шеф",
+      "stress": "шеф",
+      "pos": "noun",
+      "gloss": "boss, chief",
+      "gender": "m",
+      "animacy": "anim",
+      "meanings": [
+        {
+          "en": "boss, chief",
+          "note": "Informal. Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "шеф",
+              "шефы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "шефу",
+              "шефам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "шефом",
+              "шефами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "шефе",
+              "шефах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хитро придумано, шеф!",
+          "trans": "Cleverly thought out, boss!"
+        },
+        {
+          "text": "Шеф подписал приказ.",
+          "trans": "The boss signed the order."
+        },
+        {
+          "text": "Шеф на кухне.",
+          "trans": "The chef is in the kitchen."
+        }
+      ],
+      "related": []
     },
     "я": {
       "lemma": "я",

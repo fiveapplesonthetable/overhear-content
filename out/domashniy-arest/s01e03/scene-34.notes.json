@@ -328,15 +328,15 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "комнаты,",
           "lemma": "комната",
           "pos": "noun",
           "stress": "ко́мнаты",
-          "gloss": "rooms",
-          "gram": "genitive singular after 'три', feminine"
+          "gloss": "room(s)",
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "кухня,",
@@ -499,7 +499,7 @@
           "lemma": "мужик",
           "pos": "noun",
           "stress": "мужи́к",
-          "gloss": "a real man",
+          "gloss": "man, guy",
           "gram": "nominative singular, masculine"
         }
       ]
@@ -513,7 +513,7 @@
           "lemma": "такой",
           "pos": "pron",
           "stress": "така́я",
-          "gloss": "one like her, such a one",
+          "gloss": "such, so",
           "gram": "nominative singular, feminine"
         },
         {
@@ -522,7 +522,7 @@
           "pos": "adj",
           "stress": "интере́сная",
           "gloss": "interesting (ironic)",
-          "gram": "nominative singular, feminine; такая интересная = funny you should say that"
+          "gram": "nominative singular, feminine; такая интересная (ironic) = aren't you a funny one"
         },
         {
           "t": "Я",
@@ -1080,15 +1080,15 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "комнаты,",
           "lemma": "комната",
           "pos": "noun",
           "stress": "ко́мнаты",
-          "gloss": "rooms",
-          "gram": "genitive singular after 'три', feminine"
+          "gloss": "room(s)",
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "кухня,",
@@ -1263,7 +1263,7 @@
           "lemma": "мужик",
           "pos": "noun",
           "stress": "мужи́к",
-          "gloss": "a real man",
+          "gloss": "man, guy",
           "gram": "nominative singular, masculine"
         }
       ]
@@ -1277,7 +1277,7 @@
           "lemma": "такой",
           "pos": "pron",
           "stress": "така́я",
-          "gloss": "one like her, such a one",
+          "gloss": "such, so",
           "gram": "nominative singular, feminine"
         },
         {
@@ -1286,7 +1286,7 @@
           "pos": "adj",
           "stress": "интере́сная",
           "gloss": "interesting (ironic)",
-          "gram": "nominative singular, feminine; такая интересная = funny you should say that"
+          "gram": "nominative singular, feminine; такая интересная (ironic) = aren't you a funny one"
         }
       ]
     },
@@ -1838,15 +1838,15 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "комнаты,",
           "lemma": "комната",
           "pos": "noun",
           "stress": "ко́мнаты",
-          "gloss": "rooms",
-          "gram": "genitive singular after 'три', feminine"
+          "gloss": "room(s)",
+          "gram": "genitive singular, feminine"
         },
         {
           "t": "кухня,",
@@ -2009,7 +2009,7 @@
           "lemma": "мужик",
           "pos": "noun",
           "stress": "мужи́к",
-          "gloss": "a real man",
+          "gloss": "man, guy",
           "gram": "nominative singular, masculine"
         }
       ]
@@ -2023,7 +2023,7 @@
           "lemma": "такой",
           "pos": "pron",
           "stress": "така́я",
-          "gloss": "one like her, such a one",
+          "gloss": "such, so",
           "gram": "nominative singular, feminine"
         },
         {
@@ -2032,7 +2032,7 @@
           "pos": "adj",
           "stress": "интере́сная",
           "gloss": "interesting (ironic)",
-          "gram": "nominative singular, feminine; такая интересная = funny you should say that"
+          "gram": "nominative singular, feminine; такая интересная (ironic) = aren't you a funny one"
         },
         {
           "t": "Я",
@@ -2319,7 +2319,7 @@
       "meanings": [
         {
           "en": "gangster, bandit, thug",
-          "note": "Common masculine noun meaning 'gangster, bandit' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2378,21 +2378,25 @@
       "examples": [
         {
           "text": "Я тебе не бандит.",
-          "trans": "I'm no gangster for you."
+          "trans": "I'm not some gangster, you know."
         },
         {
           "text": "Полиция поймала бандитов.",
           "trans": "The police caught the gangsters."
         },
         {
-          "text": "Такая интересная. Я тебе не бандит.",
-          "trans": "Funny you should say that. I'm no gangster for you."
+          "text": "Меня эти бандиты чуть не утопили!",
+          "trans": "Those thugs nearly drowned me!"
         }
       ],
       "related": [
         {
           "word": "бандитский",
-          "gloss": "gangster"
+          "gloss": "gangster (adj.)"
+        },
+        {
+          "word": "банда",
+          "gloss": "gang"
         }
       ]
     },
@@ -2405,7 +2409,7 @@
       "meanings": [
         {
           "en": "without",
-          "note": "+ genitive. Core Russian prep meaning 'without' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2445,7 +2449,7 @@
       "meanings": [
         {
           "en": "to take",
-          "note": "Habitually or in general. Used as an imperfective (ongoing/repeated action) verb meaning 'to take', paired with 'взять'."
+          "note": "Habitually or in general."
         },
         {
           "en": "to take bribes",
@@ -2540,15 +2544,19 @@
       "related": [
         {
           "word": "взять",
-          "gloss": "to take"
+          "gloss": "to take (pf)"
         },
         {
           "word": "забрать",
-          "gloss": "to take back"
+          "gloss": "to take away, pick up"
         },
         {
-          "word": "убрать",
-          "gloss": "to remove"
+          "word": "брать трубку",
+          "gloss": "to answer the phone"
+        },
+        {
+          "word": "взятка",
+          "gloss": "bribe"
         }
       ]
     },
@@ -2829,11 +2837,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2885,6 +2893,23 @@
                 "видела",
                 "видело",
                 "видели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
               ]
             }
           ]
@@ -3010,11 +3035,11 @@
       "meanings": [
         {
           "en": "to get up",
-          "note": "Out of bed or from the floor. Used as an imperfective (ongoing/repeated action) verb meaning 'to get up, to stand up', paired with 'встать'."
+          "note": "Out of bed or from the floor."
         },
         {
           "en": "to stand up",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to get up, to stand up', paired with 'встать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3110,84 +3135,6 @@
         {
           "word": "вставить",
           "gloss": "to insert"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -3310,11 +3257,11 @@
       "meanings": [
         {
           "en": "sadly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "мне грустно = I'm sad",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3356,7 +3303,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3382,49 +3329,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -3435,11 +3339,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3530,15 +3438,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3661,7 +3569,7 @@
       "meanings": [
         {
           "en": "to live",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to live'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3716,6 +3624,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "живи",
+                "живите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3735,7 +3660,7 @@
       "related": [
         {
           "word": "житься",
-          "gloss": "to live"
+          "gloss": "to get on, for life to go (impersonal)"
         },
         {
           "word": "дожить",
@@ -3743,7 +3668,7 @@
         },
         {
           "word": "пережить",
-          "gloss": "to survive"
+          "gloss": "to survive, to live through"
         }
       ]
     },
@@ -3793,11 +3718,11 @@
       "meanings": [
         {
           "en": "interesting",
-          "note": "ironic: такая интересная = look at her, how convenient"
+          "note": ""
         },
         {
-          "en": "funny you should say that",
-          "note": "ironic: такая интересная = look at her, how convenient"
+          "en": "(ironic) aren't you a funny one",
+          "note": "Такая интересная! = look at you, how cheeky"
         }
       ],
       "forms": {
@@ -3840,10 +3765,10 @@
           {
             "cells": [
               "accusative",
-              "интересный",
+              "интересный / интересного",
               "интересную",
               "интересное",
-              "интересные"
+              "интересные / интересных"
             ]
           },
           {
@@ -3873,12 +3798,12 @@
           "trans": "This is a very interesting book."
         },
         {
-          "text": "Такая интересная!",
-          "trans": "Funny you should say that!"
+          "text": "У нас для вас есть очень интересное предложение.",
+          "trans": "We have a very interesting offer for you."
         },
         {
           "text": "Такая интересная. Я тебе не бандит.",
-          "trans": "Funny you should say that. I'm no gangster for you."
+          "trans": "Aren't you a funny one. I'm not some gangster."
         }
       ],
       "related": [
@@ -3933,7 +3858,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -4041,7 +3966,7 @@
       "meanings": [
         {
           "en": "flat, apartment",
-          "note": "Also a flat number in an address. Common feminine noun meaning 'flat, apartment' in everyday Russian."
+          "note": "Also a flat number in an address."
         }
       ],
       "forms": {
@@ -4131,7 +4056,7 @@
       "meanings": [
         {
           "en": "room",
-          "note": "In a flat or house. Common feminine noun meaning 'room' in everyday Russian."
+          "note": "In a flat or house."
         }
       ],
       "forms": {
@@ -4389,7 +4314,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4444,6 +4369,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4476,11 +4418,11 @@
       "meanings": [
         {
           "en": "man, bloke, guy",
-          "note": "Colloquial. Common masculine noun meaning 'man, real man, bloke' in everyday Russian."
+          "note": "Colloquial."
         },
         {
           "en": "real man, tough guy",
-          "note": "Как мужик = like a real man. Common masculine noun meaning 'man, real man, bloke' in everyday Russian."
+          "note": "Как мужик = like a real man."
         }
       ],
       "forms": {
@@ -4642,7 +4584,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -4907,11 +4849,11 @@
       "meanings": [
         {
           "en": "badly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "it's bad",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4953,7 +4895,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -5025,8 +4967,6 @@
       "stress": "помолча́ть",
       "pos": "verb",
       "gloss": "to be quiet (for a while)",
-      "aspect": "pf",
-      "pair": "молчать",
       "meanings": [
         {
           "en": "to be quiet, to keep silent for a bit",
@@ -5131,7 +5071,8 @@
           "word": "молча",
           "gloss": "silently"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "ремонт": {
       "lemma": "ремонт",
@@ -5142,11 +5083,11 @@
       "meanings": [
         {
           "en": "renovation, redecoration",
-          "note": "Of a flat or building. Common masculine noun meaning 'renovation, repair' in everyday Russian."
+          "note": "Of a flat or building."
         },
         {
           "en": "repair",
-          "note": "Of a car, pipe, or appliance. Common masculine noun meaning 'renovation, repair' in everyday Russian."
+          "note": "Of a car, pipe, or appliance."
         }
       ],
       "forms": {
@@ -5233,7 +5174,7 @@
       "meanings": [
         {
           "en": "to sit down",
-          "note": "Садитесь = sit down (polite). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to sit down', paired with 'сесть'."
+          "note": "Садитесь = sit down (polite)."
         }
       ],
       "forms": {
@@ -5338,7 +5279,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -5487,11 +5428,11 @@
       "meanings": [
         {
           "en": "sweet, sugary",
-          "note": "Of food or drink. Agrees in gender, number, and case with the noun it modifies ('sweet')."
+          "note": "Of food or drink."
         },
         {
           "en": "sweet, darling",
-          "note": "Affectionate, to a child or pet. Agrees in gender, number, and case with the noun it modifies ('sweet')."
+          "note": "Affectionate, to a child or pet."
         }
       ],
       "forms": {
@@ -5534,10 +5475,10 @@
           {
             "cells": [
               "accusative",
-              "сладкий",
+              "сладкий / сладкого",
               "сладкую",
               "сладкое",
-              "сладкие"
+              "сладкие / сладких"
             ]
           },
           {
@@ -5590,11 +5531,11 @@
       "meanings": [
         {
           "en": "funny, amusing",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('funny, ridiculous')."
+          "note": ""
         },
         {
           "en": "ridiculous, laughable",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('funny, ridiculous')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5637,10 +5578,10 @@
           {
             "cells": [
               "accusative",
-              "смешной",
+              "смешной / смешного",
               "смешную",
               "смешное",
-              "смешные"
+              "смешные / смешных"
             ]
           },
           {
@@ -5713,42 +5654,42 @@
             "cells": [
               "nominative",
               "спрос",
-              "—"
+              "спросы"
             ]
           },
           {
             "cells": [
               "genitive",
               "спроса",
-              "—"
+              "спросов"
             ]
           },
           {
             "cells": [
               "dative",
               "спросу",
-              "—"
+              "спросам"
             ]
           },
           {
             "cells": [
               "accusative",
               "спрос",
-              "—"
+              "спросы"
             ]
           },
           {
             "cells": [
               "instrumental",
               "спросом",
-              "—"
+              "спросами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "спросе",
-              "—"
+              "спросах"
             ]
           }
         ]
@@ -5770,16 +5711,12 @@
       ],
       "related": [
         {
-          "word": "просто",
-          "gloss": "just"
-        },
-        {
-          "word": "попросить",
-          "gloss": "to ask"
-        },
-        {
           "word": "спросить",
           "gloss": "to ask"
+        },
+        {
+          "word": "без спроса",
+          "gloss": "without asking"
         }
       ]
     },
@@ -5793,11 +5730,15 @@
       "meanings": [
         {
           "en": "to knock, to tap",
-          "note": "At a door or window. Used as an imperfective (ongoing/repeated action) verb meaning 'to knock', paired with 'постучать'."
+          "note": "At a door or window."
         },
         {
           "en": "to rattle, to pound",
-          "note": "Of a heart or engine. Used as an imperfective (ongoing/repeated action) verb meaning 'to knock', paired with 'постучать'."
+          "note": "Of a heart or engine."
+        },
+        {
+          "en": "to snitch, to inform on",
+          "note": "colloquial; стучать на кого-то"
         }
       ],
       "forms": {
@@ -5946,7 +5887,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -6069,7 +6010,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -6114,16 +6055,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Тише, дети спят!",
-          "trans": "Quiet, the children are asleep!"
-        },
-        {
           "text": "Здесь тихо.",
           "trans": "It's quiet here."
         },
         {
-          "text": "Тише!",
-          "trans": "Quiet!"
+          "text": "Ладно, сиди. Только тихо.",
+          "trans": "All right, sit down. Just keep quiet."
         }
       ],
       "related": [
@@ -6141,7 +6078,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -6287,7 +6224,7 @@
       "meanings": [
         {
           "en": "to calm down",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to calm down', paired with 'успокаиваться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6398,7 +6335,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6732,10 +6669,10 @@
           {
             "cells": [
               "accusative",
-              "чужой",
+              "чужой / чужого",
               "чужую",
               "чужое",
-              "чужие"
+              "чужие / чужих"
             ]
           },
           {

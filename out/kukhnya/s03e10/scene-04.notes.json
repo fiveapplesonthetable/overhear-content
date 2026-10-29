@@ -243,8 +243,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "я",
@@ -405,7 +405,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -638,7 +638,7 @@
           "pos": "noun",
           "stress": "отноше́ния",
           "gloss": "relations, relationship",
-          "gram": "neuter plural, accusative"
+          "gram": "neuter plural, nominative/accusative"
         }
       ]
     },
@@ -883,8 +883,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "я",
@@ -1045,7 +1045,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1278,7 +1278,7 @@
           "pos": "noun",
           "stress": "отноше́ния",
           "gloss": "relations, relationship",
-          "gram": "neuter plural, accusative"
+          "gram": "neuter plural, nominative/accusative"
         }
       ]
     },
@@ -1523,8 +1523,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "я",
@@ -1685,7 +1685,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1918,7 +1918,7 @@
           "pos": "noun",
           "stress": "отноше́ния",
           "gloss": "relations, relationship",
-          "gram": "neuter plural, accusative"
+          "gram": "neuter plural, nominative/accusative"
         }
       ]
     },
@@ -1939,7 +1939,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -2232,7 +2232,7 @@
       "meanings": [
         {
           "en": "after all, you know",
-          "note": "Adds a reason or an obvious truth. Core Russian part meaning 'after all, you know' in everyday speech."
+          "note": "Adds a reason or an obvious truth."
         }
       ],
       "forms": null,
@@ -2442,7 +2442,7 @@
             "cells": [
               "genitive",
               "года",
-              "лет"
+              "годов"
             ]
           },
           {
@@ -2469,7 +2469,7 @@
           {
             "cells": [
               "prepositional",
-              "годе (в году)",
+              "годе",
               "годах"
             ]
           }
@@ -2619,11 +2619,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2699,7 +2699,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -2952,10 +2952,10 @@
           {
             "cells": [
               "accusative",
-              "молодого",
+              "молодой / молодого",
               "молодую",
               "молодое",
-              "молодых"
+              "молодые / молодых"
             ]
           },
           {
@@ -3094,7 +3094,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3130,7 +3130,7 @@
       "meanings": [
         {
           "en": "to find",
-          "note": "Used as a perfective (single completed action) verb meaning 'to find', paired with 'находить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3271,7 +3271,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -3420,29 +3420,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Мне ещё работа нужна.",
@@ -3557,11 +3535,11 @@
       "meanings": [
         {
           "en": "relationship, relations (in plural отношения)",
-          "note": "Between people or groups. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'attitude, relation; (pl.) relationship' in everyday Russian."
+          "note": "Between people or groups."
         },
         {
           "en": "attitude, treatment",
-          "note": "Towards someone or something. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'attitude, relation; (pl.) relationship' in everyday Russian."
+          "note": "Towards someone or something."
         }
       ],
       "forms": {
@@ -3642,7 +3620,7 @@
       "meanings": [
         {
           "en": "monument, memorial",
-          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'monument, memorial' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3801,7 +3779,7 @@
       "related": [
         {
           "word": "паспортный",
-          "gloss": "related to passport (adj.)"
+          "gloss": "passport (adj.)"
         }
       ]
     },
@@ -3813,7 +3791,7 @@
       "meanings": [
         {
           "en": "lean, trim",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('lean, trim')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3856,10 +3834,10 @@
           {
             "cells": [
               "accusative",
-              "поджарый",
+              "поджарый / поджарого",
               "поджарую",
               "поджарое",
-              "поджарые"
+              "поджарые / поджарых"
             ]
           },
           {
@@ -3889,18 +3867,18 @@
           "trans": "Look how young and lean I am."
         },
         {
-          "text": "Шеф говорит, что это очень поджарый выбор.",
-          "trans": "The chef says that this is a very lean choice."
+          "text": "Он высокий и поджарый, как бегун.",
+          "trans": "He's tall and lean, like a runner."
         }
       ],
       "related": [
         {
-          "word": "поджаро",
-          "gloss": "leanly (adverbial form)"
+          "word": "стройный",
+          "gloss": "slim"
         },
         {
-          "word": "очень поджарый",
-          "gloss": "very lean"
+          "word": "худощавый",
+          "gloss": "lean, thin"
         }
       ]
     },
@@ -3914,7 +3892,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -4017,7 +3995,7 @@
       "meanings": [
         {
           "en": "last, final",
-          "note": "Последний раз = for the last time. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('last, final')."
+          "note": "Последний раз = for the last time."
         }
       ],
       "forms": {
@@ -4060,10 +4038,10 @@
           {
             "cells": [
               "accusative",
-              "последний",
+              "последний / последнего",
               "последнюю",
               "последнее",
-              "последние"
+              "последние / последних"
             ]
           },
           {
@@ -4113,11 +4091,11 @@
       "meanings": [
         {
           "en": "to have a look, to take a look",
-          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         },
         {
           "en": "to watch (a film) through",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         }
       ],
       "forms": {
@@ -4262,7 +4240,7 @@
       "meanings": [
         {
           "en": "old wreck",
-          "note": "Common feminine noun meaning 'old wreck' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4321,21 +4299,21 @@
       "examples": [
         {
           "text": "А ты уже старая развалюха.",
-          "trans": "And you are already an old wreck."
+          "trans": "And you're already an old wreck."
         },
         {
-          "text": "На кухне ресторана всегда есть развалюха.",
-          "trans": "In the restaurant kitchen there is always old wreck."
+          "text": "Мы купили дачу, а там дом — настоящая развалюха.",
+          "trans": "We bought a dacha, and the house there is a real ruin."
         }
       ],
       "related": [
         {
-          "word": "без развалюх",
-          "gloss": "without old wreck"
+          "word": "развалиться",
+          "gloss": "to fall apart"
         },
         {
-          "word": "наш развалюха",
-          "gloss": "our old wreck"
+          "word": "рухлядь",
+          "gloss": "junk"
         }
       ]
     },
@@ -4507,11 +4485,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -4616,7 +4594,7 @@
       "meanings": [
         {
           "en": "to sympathize with, feel for",
-          "note": "+ dat. Used as an imperfective (ongoing/repeated action) verb meaning 'to sympathize, feel for', paired with 'посочувствовать'."
+          "note": "+ dat."
         }
       ],
       "forms": {
@@ -4854,7 +4832,7 @@
       "meanings": [
         {
           "en": "old age",
-          "note": "Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'old age' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4869,42 +4847,42 @@
             "cells": [
               "nominative",
               "старость",
-              "—"
+              "старости"
             ]
           },
           {
             "cells": [
               "genitive",
               "старости",
-              "—"
+              "старостей"
             ]
           },
           {
             "cells": [
               "dative",
               "старости",
-              "—"
+              "старостям"
             ]
           },
           {
             "cells": [
               "accusative",
               "старость",
-              "—"
+              "старости"
             ]
           },
           {
             "cells": [
               "instrumental",
               "старостью",
-              "—"
+              "старостями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "старости",
-              "—"
+              "старостях"
             ]
           }
         ]
@@ -4934,11 +4912,11 @@
       "meanings": [
         {
           "en": "old",
-          "note": "Of things and people. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "Of things and people."
         },
         {
           "en": "former, old",
-          "note": "'старый друг' = an old friend. Agrees in gender, number, and case with the noun it modifies ('old')."
+          "note": "'старый друг' = an old friend."
         }
       ],
       "forms": {
@@ -4981,10 +4959,10 @@
           {
             "cells": [
               "accusative",
-              "старый/старого",
+              "старый / старого",
               "старую",
               "старое",
-              "старые/старых"
+              "старые / старых"
             ]
           },
           {
@@ -5007,29 +4985,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "стар",
-                "стара",
-                "старо",
-                "стары"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "У меня старый телефон.",
@@ -5059,67 +5015,23 @@
       "meanings": [
         {
           "en": "that",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'that', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Здесь находится наш ресторан.",
-          "trans": "Our restaurant is located right here."
+          "text": "Ну, то, что ты говорил.",
+          "trans": "Well, what you were saying."
         },
         {
-          "text": "Мы теперь работаем в этом отеле.",
-          "trans": "We now work in this hotel."
+          "text": "Если проблема только в этом, то да.",
+          "trans": "If that's the only problem, then yes."
         },
         {
-          "text": "Чем отличается ресторан при отеле?",
-          "trans": "How does a hotel restaurant differ?"
+          "text": "А то мы уже начали беспокоиться.",
+          "trans": "Otherwise we were already starting to worry."
         }
       ],
       "related": []
@@ -5294,7 +5206,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5441,7 +5353,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5493,6 +5405,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -5623,10 +5552,11 @@
       "pos": "noun",
       "gloss": "chance",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "chance",
-          "note": "У меня есть шанс = I have a chance. From French 'chance' (favorable turn of the dice, from Late Latin 'cadentia')."
+          "note": "У меня есть шанс = I have a chance."
         }
       ],
       "forms": {
@@ -5706,7 +5636,7 @@
       "meanings": [
         {
           "en": "six",
-          "note": "Core Russian num meaning 'six' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5742,15 +5672,15 @@
     },
     "щадить": {
       "lemma": "щадить",
-      "stress": "ща́дить",
+      "stress": "щади́ть",
       "pos": "verb",
-      "gloss": "spares",
+      "gloss": "to spare",
       "aspect": "impf",
-      "pair": null,
+      "pair": "пощадить",
       "meanings": [
         {
-          "en": "spares",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'spares'."
+          "en": "to spare, have mercy on",
+          "note": "никого не щадит = spares no one"
         }
       ],
       "forms": {
@@ -5805,26 +5735,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "щади",
+                "щадите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Старость ведь вообще никого не щадит.",
-          "trans": "Old age spares no one at all, after all."
+          "trans": "Old age spares no one, after all."
         },
         {
-          "text": "Надо всё сделать и щадить вовремя.",
-          "trans": "We need to do everything and spares on time."
+          "text": "Он не щадил себя на работе.",
+          "trans": "He didn't spare himself at work."
         }
       ],
       "related": [
         {
           "word": "пощадить",
-          "gloss": "to spares (prefixed perfective)"
+          "gloss": "to spare (pf)"
         },
         {
-          "word": "не щадить",
-          "gloss": "not to spares (negated infinitive)"
+          "word": "беспощадный",
+          "gloss": "merciless"
         }
       ]
     },

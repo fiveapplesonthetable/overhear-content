@@ -47,10 +47,10 @@
         {
           "t": "Здравствуйте,",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "а",
@@ -388,7 +388,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "же",
@@ -607,10 +607,10 @@
         {
           "t": "Здравствуйте,",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "а",
@@ -948,7 +948,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "же",
@@ -1167,10 +1167,10 @@
         {
           "t": "Здравствуйте,",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "а",
@@ -1508,7 +1508,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "же",
@@ -2017,11 +2017,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2076,6 +2076,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2115,7 +2132,7 @@
       "meanings": [
         {
           "en": "carefully, attentively, closely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2153,7 +2170,7 @@
       "meanings": [
         {
           "en": "actually, as a matter of fact, for the record",
-          "note": "Polite or pointed correction. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Polite or pointed correction."
         }
       ],
       "forms": null,
@@ -2176,84 +2193,6 @@
         {
           "word": "вообще",
           "gloss": "at all"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2567,11 +2506,11 @@
       "meanings": [
         {
           "en": "to marry (на + prepositional, of a man); to get married",
-          "note": "Biaspectual verb. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to marry (of a man), to get married'."
+          "note": "Biaspectual verb."
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -2661,70 +2600,17 @@
     "здравствуйте": {
       "lemma": "здравствуйте",
       "stress": "здра́вствуйте",
-      "pos": "verb",
-      "gloss": "hello",
-      "aspect": "impf",
+      "pos": "interj",
+      "gloss": "hello (polite or to several people)",
       "pair": null,
       "meanings": [
         {
           "en": "hello",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'hello'."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "здравствуйю",
-              "здравствуйем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "здравствуйешь",
-              "здравствуйете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "здравствуйет",
-              "здравствуйют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "здравствуйл",
-                "здравствуйла",
-                "здравствуйло",
-                "здравствуйли"
-              ]
-            }
-          ]
-        }
-      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Здравствуйте! Как там в Венгрии?",
@@ -2876,7 +2762,7 @@
       "meanings": [
         {
           "en": "when",
-          "note": "Question word and conjunction. Core Russian adv meaning 'when' in everyday speech."
+          "note": "Question word and conjunction."
         }
       ],
       "forms": null,
@@ -2918,7 +2804,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -3074,11 +2960,11 @@
       "meanings": [
         {
           "en": "may I?, can I?",
-          "note": "Asking permission. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Asking permission."
         },
         {
           "en": "it is possible",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3405,7 +3291,7 @@
       "meanings": [
         {
           "en": "without fail, definitely, necessarily",
-          "note": "Firm promise or requirement. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Firm promise or requirement."
         }
       ],
       "forms": null,
@@ -3521,7 +3407,7 @@
       "meanings": [
         {
           "en": "to cure a hangover",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to cure a hangover'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3576,6 +3462,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "опохмелись",
+                "опохмелитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3599,13 +3502,13 @@
       "lemma": "пожениться",
       "stress": "пожени́ться",
       "pos": "verb",
-      "gloss": "we will get married",
+      "gloss": "to get married (of a couple)",
       "aspect": "pf",
       "pair": null,
       "meanings": [
         {
-          "en": "we will get married",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жениться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'we will get married'."
+          "en": "to get married (of two people)",
+          "note": "subject is a couple: мы поженимся; compare жениться (man), выйти замуж (woman)"
         }
       ],
       "forms": {
@@ -3660,26 +3563,51 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "поженись",
+                "поженитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и пожениться вовремя.",
-          "trans": "We need to do everything and we will get married on time."
-        },
-        {
-          "text": "На нашей кухне все умеют пожениться.",
-          "trans": "In our kitchen everyone knows how to we will get married."
-        },
-        {
           "text": "Конечно, мы обязательно поженимся.",
-          "trans": "Of course, we will definitely get married."
+          "trans": "Of course we'll definitely get married."
+        },
+        {
+          "text": "Мы вернулись в Россию и поженились.",
+          "trans": "We came back to Russia and got married."
+        },
+        {
+          "text": "Все думали даже, что они поженятся.",
+          "trans": "Everyone even thought they'd get married."
         }
       ],
       "related": [
         {
           "word": "жениться",
-          "gloss": "to we will get married (base verb)"
+          "gloss": "to marry (of a man)"
+        },
+        {
+          "word": "свадьба",
+          "gloss": "wedding"
+        },
+        {
+          "word": "выйти замуж",
+          "gloss": "to marry (of a woman)"
         }
       ]
     },
@@ -3689,11 +3617,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -3798,7 +3726,7 @@
       "meanings": [
         {
           "en": "to ask (for a favour)",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'просить'). Used as a perfective (single completed action) verb meaning 'to ask (for), to request', paired with 'просить'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'просить')."
         }
       ],
       "forms": {
@@ -3892,8 +3820,12 @@
           "gloss": "to ask"
         },
         {
+          "word": "просьба",
+          "gloss": "request"
+        },
+        {
           "word": "спрос",
-          "gloss": "asking"
+          "gloss": "demand"
         }
       ]
     },
@@ -4010,7 +3942,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -4114,7 +4046,7 @@
       "meanings": [
         {
           "en": "wedding, marriage ceremony",
-          "note": "Marriage celebration. Common feminine noun meaning 'wedding' in everyday Russian."
+          "note": "Marriage celebration."
         }
       ],
       "forms": {
@@ -4172,8 +4104,8 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Посмотри фильм Свадьба по скайпу.",
-          "trans": "Watch the movie Wedding on Skype."
+          "text": "Мы обязательно сыграем большую свадьбу!",
+          "trans": "We'll definitely have a big wedding!"
         },
         {
           "text": "Макс, зачем ты соврал про нашу будущую свадьбу?",
@@ -4196,7 +4128,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -4381,7 +4313,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -4389,7 +4321,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -4502,11 +4434,11 @@
       "meanings": [
         {
           "en": "to intend, to plan, to be going to",
-          "note": "+ infinitive. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to intend, to be about to; to gather', paired with 'собраться'."
+          "note": "+ infinitive."
         },
         {
           "en": "to gather, to get ready",
-          "note": "Pack or assemble. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to intend, to be about to; to gather', paired with 'собраться'."
+          "note": "Pack or assemble."
         }
       ],
       "forms": {
@@ -4781,7 +4713,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -4836,6 +4768,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4877,7 +4826,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4929,6 +4878,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

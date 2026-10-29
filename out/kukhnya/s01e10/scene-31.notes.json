@@ -142,7 +142,7 @@
           "t": "песок.",
           "lemma": "песок",
           "pos": "noun",
-          "stress": "песо́к.",
+          "stress": "песо́к",
           "gloss": "sand",
           "gram": "nominative / accusative"
         }
@@ -203,8 +203,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "краской",
@@ -381,7 +381,7 @@
           "lemma": "дорогой",
           "pos": "adj",
           "stress": "дорога́я",
-          "gloss": "expensive",
+          "gloss": "expensive; dear",
           "gram": "feminine singular, nominative"
         },
         {
@@ -482,7 +482,7 @@
           "pos": "verb",
           "stress": "переме́шивай",
           "gloss": "stir",
-          "gram": "conjugated verb"
+          "gram": "imperative, 2nd person singular, imperfective"
         }
       ]
     },
@@ -718,7 +718,7 @@
           "t": "песок.",
           "lemma": "песок",
           "pos": "noun",
-          "stress": "песо́к.",
+          "stress": "песо́к",
           "gloss": "sand",
           "gram": "nominative / accusative"
         }
@@ -779,8 +779,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "краской",
@@ -957,7 +957,7 @@
           "lemma": "дорогой",
           "pos": "adj",
           "stress": "дорога́я",
-          "gloss": "expensive",
+          "gloss": "expensive; dear",
           "gram": "feminine singular, nominative"
         },
         {
@@ -1058,7 +1058,7 @@
           "pos": "verb",
           "stress": "переме́шивай",
           "gloss": "stir",
-          "gram": "conjugated verb"
+          "gram": "imperative, 2nd person singular, imperfective"
         }
       ]
     },
@@ -1294,7 +1294,7 @@
           "t": "песок.",
           "lemma": "песок",
           "pos": "noun",
-          "stress": "песо́к.",
+          "stress": "песо́к",
           "gloss": "sand",
           "gram": "nominative / accusative"
         }
@@ -1355,8 +1355,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "краской",
@@ -1533,7 +1533,7 @@
           "lemma": "дорогой",
           "pos": "adj",
           "stress": "дорога́я",
-          "gloss": "expensive",
+          "gloss": "expensive; dear",
           "gram": "feminine singular, nominative"
         },
         {
@@ -1634,7 +1634,7 @@
           "pos": "verb",
           "stress": "переме́шивай",
           "gloss": "stir",
-          "gram": "conjugated verb"
+          "gram": "imperative, 2nd person singular, imperfective"
         }
       ]
     },
@@ -1796,7 +1796,7 @@
       "meanings": [
         {
           "en": "carefully, neatly, gently",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1830,7 +1830,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -1931,7 +1931,7 @@
       "meanings": [
         {
           "en": "to take",
-          "note": "Habitually or in general. Used as an imperfective (ongoing/repeated action) verb meaning 'to take', paired with 'взять'."
+          "note": "Habitually or in general."
         },
         {
           "en": "to take bribes",
@@ -2026,15 +2026,19 @@
       "related": [
         {
           "word": "взять",
-          "gloss": "to take"
+          "gloss": "to take (pf)"
         },
         {
           "word": "забрать",
-          "gloss": "to take back"
+          "gloss": "to take away, pick up"
         },
         {
-          "word": "убрать",
-          "gloss": "to remove"
+          "word": "брать трубку",
+          "gloss": "to answer the phone"
+        },
+        {
+          "word": "взятка",
+          "gloss": "bribe"
         }
       ]
     },
@@ -2278,7 +2282,7 @@
       "meanings": [
         {
           "en": "brilliant, ingenious",
-          "note": "Exceptionally clever. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('brilliant, ingenious, of genius')."
+          "note": "Exceptionally clever."
         }
       ],
       "forms": {
@@ -2321,10 +2325,10 @@
           {
             "cells": [
               "accusative",
-              "гениальный",
+              "гениальный / гениального",
               "гениальную",
               "гениальное",
-              "гениальные"
+              "гениальные / гениальных"
             ]
           },
           {
@@ -2477,11 +2481,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2572,15 +2580,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2592,7 +2600,7 @@
       "meanings": [
         {
           "en": "expensive",
-          "note": "to a loved one, and at the start of letters"
+          "note": ""
         },
         {
           "en": "dear",
@@ -2639,10 +2647,10 @@
           {
             "cells": [
               "accusative",
-              "дорогой/дорогого",
+              "дорогой / дорогого",
               "дорогую",
               "дорогое",
-              "дорогие/дорогих"
+              "дорогие / дорогих"
             ]
           },
           {
@@ -2665,29 +2673,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "дорог",
-                "дорога",
-                "дорого",
-                "дороги"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Это дорогая одежда.",
@@ -2755,7 +2741,7 @@
       "meanings": [
         {
           "en": "yellow",
-          "note": "Descriptive Russian adjective meaning 'yellow', agreeing in gender, number, and case with the noun it modifies."
+          "note": ""
         }
       ],
       "forms": {
@@ -2841,12 +2827,12 @@
       ],
       "related": [
         {
-          "word": "очень",
-          "gloss": "very"
+          "word": "желток",
+          "gloss": "egg yolk"
         },
         {
-          "word": "такой",
-          "gloss": "such"
+          "word": "желтеть",
+          "gloss": "to turn yellow"
         }
       ]
     },
@@ -2860,7 +2846,7 @@
       "meanings": [
         {
           "en": "to notice, spot",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'метить'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to notice', forming an aspectual pair with 'замечать'."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'метить')."
         }
       ],
       "forms": {
@@ -3003,10 +2989,11 @@
       "pos": "noun",
       "gloss": "idea",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "idea, thought, concept",
-          "note": "Common feminine noun meaning 'idea' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3102,42 +3089,42 @@
             "cells": [
               "nominative",
               "икра",
-              "—"
+              "икры"
             ]
           },
           {
             "cells": [
               "genitive",
               "икры",
-              "—"
+              "икр"
             ]
           },
           {
             "cells": [
               "dative",
               "икре",
-              "—"
+              "икрам"
             ]
           },
           {
             "cells": [
               "accusative",
               "икру",
-              "—"
+              "икры"
             ]
           },
           {
             "cells": [
               "instrumental",
               "икрой",
-              "—"
+              "икрами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "икре",
-              "—"
+              "икрах"
             ]
           }
         ]
@@ -3200,7 +3187,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -3307,7 +3294,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -3350,7 +3337,7 @@
       "meanings": [
         {
           "en": "coloring agent",
-          "note": "Agentive or instrument masculine noun meaning 'dye', declining across all six Russian grammatical cases."
+          "note": ""
         }
       ],
       "forms": {
@@ -3408,30 +3395,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это краситель.",
-          "trans": "This is a dye, food coloring."
+          "text": "Пардон, это же мой краситель!",
+          "trans": "Pardon me, that's my food colouring!"
         },
         {
-          "text": "Пардон, это же мой краситель!",
-          "trans": "Pardon, that is my food coloring!"
+          "text": "Ты испортил суп пищевым красителем?",
+          "trans": "Did you ruin the soup with food colouring?"
         },
         {
           "text": "Повар добавил в крем синий краситель.",
-          "trans": "The chef added blue food coloring to the cream."
+          "trans": "The chef added blue food colouring to the cream."
         }
       ],
       "related": [
         {
-          "word": "красота",
-          "gloss": "beauty"
+          "word": "красить",
+          "gloss": "to dye, to paint"
         },
         {
-          "word": "украсть",
-          "gloss": "to steal"
-        },
-        {
-          "word": "красивый",
-          "gloss": "beautiful"
+          "word": "краска",
+          "gloss": "paint, dye"
         }
       ]
     },
@@ -3445,7 +3428,7 @@
       "meanings": [
         {
           "en": "to paint, to dye, to color",
-          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'to paint', forming an aspectual pair with 'покрасить'; conjugates for person and number in the present/future and agrees in gender in the past tense."
+          "note": ""
         }
       ],
       "forms": {
@@ -3536,15 +3519,15 @@
       "related": [
         {
           "word": "покрасить",
-          "gloss": "to dye"
+          "gloss": "to paint, to dye (pf)"
         },
         {
-          "word": "красота",
-          "gloss": "beauty"
+          "word": "краска",
+          "gloss": "paint, dye"
         },
         {
-          "word": "украсть",
-          "gloss": "to steal"
+          "word": "краситель",
+          "gloss": "dye, colouring"
         }
       ]
     },
@@ -3557,7 +3540,7 @@
       "meanings": [
         {
           "en": "paint, dye, food coloring",
-          "note": "Derived feminine noun formed with a productive Slavic suffix, used in spoken Russian to mean 'paint'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3629,12 +3612,16 @@
       ],
       "related": [
         {
-          "word": "красота",
-          "gloss": "beauty"
+          "word": "красить",
+          "gloss": "to paint, to dye"
         },
         {
-          "word": "красивый",
-          "gloss": "beautiful"
+          "word": "краситель",
+          "gloss": "dye, colouring"
+        },
+        {
+          "word": "кисть",
+          "gloss": "paintbrush"
         }
       ]
     },
@@ -3729,7 +3716,7 @@
       "meanings": [
         {
           "en": "to change, alter",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to change, alter', paired with 'поменяться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4131,7 +4118,7 @@
       "meanings": [
         {
           "en": "to begin, to start",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to begin, to start', paired with 'начать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4211,8 +4198,8 @@
           "trans": "When do I start?"
         },
         {
-          "text": "Урок начинается в девять.",
-          "trans": "The lesson starts at nine."
+          "text": "Ну что ты начинаешь?",
+          "trans": "Oh, don't start."
         },
         {
           "text": "Аркаш, ну что скажешь? Когда начинать?",
@@ -4520,7 +4507,7 @@
       "meanings": [
         {
           "en": "sturgeon (relational)",
-          "note": "Descriptive Russian adjective meaning 'sturgeon', agreeing in gender, number, and case with the noun it modifies."
+          "note": ""
         }
       ],
       "forms": {
@@ -4602,12 +4589,16 @@
       ],
       "related": [
         {
-          "word": "очень",
-          "gloss": "very"
+          "word": "осётр",
+          "gloss": "sturgeon"
         },
         {
-          "word": "такой",
-          "gloss": "such"
+          "word": "осетрина",
+          "gloss": "sturgeon (meat)"
+        },
+        {
+          "word": "икра",
+          "gloss": "caviar"
         }
       ]
     },
@@ -4619,7 +4610,7 @@
       "meanings": [
         {
           "en": "excellent, great, perfectly",
-          "note": "Used as an exclamation of approval. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Used as an exclamation of approval."
         }
       ],
       "forms": null,
@@ -4651,11 +4642,11 @@
       "pos": "verb",
       "gloss": "to stir, mix thoroughly",
       "aspect": "impf",
-      "pair": null,
+      "pair": "перемешать",
       "meanings": [
         {
           "en": "to stir, mix thoroughly",
-          "note": "Used in Russian as an imperfective verb expressing ongoing, habitual, or repeated action meaning 'to stir'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4710,6 +4701,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "перемешивай",
+                "перемешивайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4724,8 +4732,12 @@
       ],
       "related": [
         {
-          "word": "смешить",
-          "gloss": "to make laugh"
+          "word": "перемешать",
+          "gloss": "to mix (pf)"
+        },
+        {
+          "word": "мешать",
+          "gloss": "to stir; to disturb"
         }
       ]
     },
@@ -4738,7 +4750,7 @@
       "meanings": [
         {
           "en": "sand",
-          "note": "Derived masculine noun formed with a productive Slavic suffix, used in spoken Russian to mean 'sand'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4806,12 +4818,12 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "сахарный песок",
+          "gloss": "granulated sugar"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "пляж",
+          "gloss": "beach"
         }
       ]
     },
@@ -4824,7 +4836,7 @@
       "meanings": [
         {
           "en": "plan, scheme",
-          "note": "Common masculine noun meaning 'plan' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4911,7 +4923,7 @@
       "meanings": [
         {
           "en": "to think it over, to give it a thought",
-          "note": "Once, for a while. Used as a perfective (single completed action) verb meaning 'to think (it over)', paired with 'думать'."
+          "note": "Once, for a while."
         }
       ],
       "forms": {
@@ -5049,7 +5061,7 @@
       "meanings": [
         {
           "en": "to dye, paint, color",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'красить'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to dye', forming an aspectual pair with 'красить'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'красить')."
         }
       ],
       "forms": {
@@ -5104,6 +5116,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "покрась",
+                "покрасьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5123,15 +5152,15 @@
       "related": [
         {
           "word": "красить",
-          "gloss": "to paint"
+          "gloss": "to paint, to dye"
         },
         {
-          "word": "красота",
-          "gloss": "beauty"
+          "word": "краска",
+          "gloss": "paint, dye"
         },
         {
-          "word": "украсть",
-          "gloss": "to steal"
+          "word": "перекрасить",
+          "gloss": "to repaint"
         }
       ]
     },
@@ -5197,6 +5226,23 @@
                 "получалась",
                 "получалось",
                 "получались"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "получайся",
+                "получайтесь"
               ]
             }
           ]
@@ -5373,11 +5419,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -5484,7 +5530,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5513,7 +5559,7 @@
       "meanings": [
         {
           "en": "special, designed for a particular purpose",
-          "note": "From Latin specialis. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('special, dedicated, purpose-built')."
+          "note": "From Latin specialis."
         }
       ],
       "forms": {
@@ -5556,10 +5602,10 @@
           {
             "cells": [
               "accusative",
-              "специальный",
+              "специальный / специального",
               "специальную",
               "специальное",
-              "специальные"
+              "специальные / специальных"
             ]
           },
           {
@@ -5782,11 +5828,11 @@
       "meanings": [
         {
           "en": "confident, assured",
-          "note": "Short form уверен / уверена. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('confident, sure')."
+          "note": "Short form уверен / уверена."
         },
         {
           "en": "sure, certain",
-          "note": "Short form уверен / уверена. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('confident, sure')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5829,10 +5875,10 @@
           {
             "cells": [
               "accusative",
-              "уверенный",
+              "уверенный / уверенного",
               "уверенную",
               "уверенное",
-              "уверенные"
+              "уверенные / уверенных"
             ]
           },
           {
@@ -5915,7 +5961,7 @@
       "meanings": [
         {
           "en": "colour",
-          "note": "Common masculine noun meaning 'colour' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6098,7 +6144,7 @@
       "meanings": [
         {
           "en": "black",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('black')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6141,10 +6187,10 @@
           {
             "cells": [
               "accusative",
-              "чёрный",
+              "чёрный / чёрного",
               "чёрную",
               "чёрное",
-              "чёрные"
+              "чёрные / чёрных"
             ]
           },
           {
@@ -6184,8 +6230,16 @@
       ],
       "related": [
         {
-          "word": "чёрно",
-          "gloss": "in a black way (adv.)"
+          "word": "белый",
+          "gloss": "white"
+        },
+        {
+          "word": "темнота",
+          "gloss": "darkness"
+        },
+        {
+          "word": "чёрная икра",
+          "gloss": "black caviar"
         }
       ]
     },

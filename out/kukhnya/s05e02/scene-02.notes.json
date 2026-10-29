@@ -280,7 +280,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "кухне?",
@@ -418,7 +418,7 @@
           "pos": "noun",
           "stress": "прове́рки",
           "gloss": "check, inspection, test",
-          "gram": "nominative / accusative"
+          "gram": "accusative plural"
         },
         {
           "t": "в",
@@ -824,7 +824,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "кухне?",
@@ -962,7 +962,7 @@
           "pos": "noun",
           "stress": "прове́рки",
           "gloss": "check, inspection, test",
-          "gram": "nominative / accusative"
+          "gram": "accusative plural"
         },
         {
           "t": "в",
@@ -1368,7 +1368,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "кухне?",
@@ -1506,7 +1506,7 @@
           "pos": "noun",
           "stress": "прове́рки",
           "gloss": "check, inspection, test",
-          "gram": "nominative / accusative"
+          "gram": "accusative plural"
         },
         {
           "t": "в",
@@ -1660,14 +1660,14 @@
   "lexicon": {
     "бекон": {
       "lemma": "бекон",
-      "stress": "бе́кон",
+      "stress": "беко́н",
       "pos": "noun",
       "gloss": "bacon",
       "gender": "m",
       "meanings": [
         {
           "en": "bacon",
-          "note": "Common masculine noun meaning 'bacon' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1735,12 +1735,12 @@
       ],
       "related": [
         {
-          "word": "без беко",
-          "gloss": "without bacon"
+          "word": "яичница",
+          "gloss": "fried eggs"
         },
         {
-          "word": "наш бекон",
-          "gloss": "our bacon"
+          "word": "ветчина",
+          "gloss": "ham"
         }
       ]
     },
@@ -1779,109 +1779,6 @@
         {
           "word": "медленно",
           "gloss": "slowly"
-        }
-      ]
-    },
-    "быстрый": {
-      "lemma": "быстрый",
-      "stress": "бы́стрый",
-      "pos": "adv",
-      "gloss": "fast, quick",
-      "meanings": [
-        {
-          "en": "fast, quick",
-          "note": "moving or capable of moving at high speed"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "быстрый",
-              "быстрая",
-              "быстрое",
-              "быстрые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "быстрого",
-              "быстрой",
-              "быстрого",
-              "быстрых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "быстрому",
-              "быстрой",
-              "быстрому",
-              "быстрым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "быстрый",
-              "быструю",
-              "быстрое",
-              "быстрые"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "быстрым",
-              "быстрой",
-              "быстрым",
-              "быстрыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "быстром",
-              "быстрой",
-              "быстром",
-              "быстрых"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Нам нужен быстрый интернет.",
-          "trans": "We need fast internet."
-        },
-        {
-          "text": "Они сказали, что устанавливают быстрый интернет.",
-          "trans": "They said that they were installing fast internet."
-        },
-        {
-          "text": "Большое спасибо за вашу быструю помощь!",
-          "trans": "Thank you very much for your quick help!"
-        }
-      ],
-      "related": [
-        {
-          "word": "быстро",
-          "gloss": "fast"
-        },
-        {
-          "word": "быстрее",
-          "gloss": "faster"
         }
       ]
     },
@@ -2042,44 +1939,6 @@
         }
       ]
     },
-    "всегда": {
-      "lemma": "всегда",
-      "stress": "всегда́",
-      "pos": "adv",
-      "gloss": "always",
-      "meanings": [
-        {
-          "en": "always",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "У неё всегда так.",
-          "trans": "She's always like that."
-        },
-        {
-          "text": "Выход всегда есть.",
-          "trans": "There's always a way out."
-        },
-        {
-          "text": "Обиделась. У неё всегда так.",
-          "trans": "She's offended. She's always like that."
-        }
-      ],
-      "related": [
-        {
-          "word": "всего",
-          "gloss": "only"
-        },
-        {
-          "word": "навсегда",
-          "gloss": "forever"
-        }
-      ]
-    },
     "где": {
       "lemma": "где",
       "stress": "где",
@@ -2213,11 +2072,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2308,15 +2171,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2330,11 +2193,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2445,11 +2308,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2489,7 +2352,7 @@
       "meanings": [
         {
           "en": "to fry, roast",
-          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'to fry', forming an aspectual pair with 'пожарить'; conjugates for person and number in the present/future and agrees in gender in the past tense."
+          "note": ""
         }
       ],
       "forms": {
@@ -2566,7 +2429,7 @@
       "examples": [
         {
           "text": "Повар жарит сочное мясо на сковороде.",
-          "trans": "The cook fries juicy meat on the pan."
+          "trans": "The cook is frying juicy meat in a pan."
         },
         {
           "text": "Нет, Федя сам жарил эту куропатку!",
@@ -2574,7 +2437,7 @@
         },
         {
           "text": "Я просто жарю рыбу на горячей сковороде.",
-          "trans": "I simply fry fish on a hot pan."
+          "trans": "I'm just frying fish in a hot pan."
         }
       ],
       "related": [
@@ -2608,17 +2471,21 @@
         },
         {
           "text": "Идите живее, мы опаздываем!",
-          "trans": "Walk faster, we are late!"
+          "trans": "Walk faster, we're late!"
         },
         {
           "text": "Живее, лентяи, начинаем дружно работать!",
-          "trans": "Move lively, sluggards, let us begin working together!"
+          "trans": "Move it, you slackers, let's all get to work!"
         }
       ],
       "related": [
         {
-          "word": "очень живее",
-          "gloss": "intensified / related adverb (faster)"
+          "word": "живо",
+          "gloss": "quickly, look lively"
+        },
+        {
+          "word": "живой",
+          "gloss": "alive, lively"
         }
       ]
     },
@@ -2632,7 +2499,7 @@
       "meanings": [
         {
           "en": "to live",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to live'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2687,6 +2554,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "живи",
+                "живите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2706,7 +2590,7 @@
       "related": [
         {
           "word": "житься",
-          "gloss": "to live"
+          "gloss": "to get on, for life to go (impersonal)"
         },
         {
           "word": "дожить",
@@ -2714,7 +2598,7 @@
         },
         {
           "word": "пережить",
-          "gloss": "to survive"
+          "gloss": "to survive, to live through"
         }
       ]
     },
@@ -2726,11 +2610,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2942,105 +2826,6 @@
         {
           "word": "тут",
           "gloss": "here (colloquial)"
-        }
-      ]
-    },
-    "идеальный": {
-      "lemma": "идеальный",
-      "stress": "идеа́льный",
-      "pos": "adj",
-      "gloss": "ideal, perfect",
-      "meanings": [
-        {
-          "en": "ideal, perfect",
-          "note": "Fitting the highest standard. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('ideal, perfect')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "идеальный",
-              "идеальная",
-              "идеальное",
-              "идеальные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "идеального",
-              "идеальной",
-              "идеального",
-              "идеальных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "идеальному",
-              "идеальной",
-              "идеальному",
-              "идеальным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "идеальный",
-              "идеальную",
-              "идеальное",
-              "идеальные"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "идеальным",
-              "идеальной",
-              "идеальным",
-              "идеальными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "идеальном",
-              "идеальной",
-              "идеальном",
-              "идеальных"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Мы создадим идеальную команду для работы.",
-          "trans": "We will create an ideal team for work."
-        },
-        {
-          "text": "Сегодня стояла идеальная погода для прогулки.",
-          "trans": "Today there was ideal weather for a walk."
-        },
-        {
-          "text": "Для идеального порядка во вселенной.",
-          "trans": "For ideal order in the universe."
-        }
-      ],
-      "related": [
-        {
-          "word": "идеально",
-          "gloss": "ideally"
         }
       ]
     },
@@ -3399,11 +3184,11 @@
       "meanings": [
         {
           "en": "to come, to set in (night, winter, a moment)",
-          "note": "Наступила ночь = night has fallen. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'ступить'). Used as a perfective (single completed action) verb meaning 'to come (of time); to step on', paired with 'наступать'."
+          "note": "Наступила ночь = night has fallen. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'ступить')."
         },
         {
           "en": "to step on",
-          "note": "Наступить на + accusative. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'ступить'). Used as a perfective (single completed action) verb meaning 'to come (of time); to step on', paired with 'наступать'."
+          "note": "Наступить на + accusative. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'ступить')."
         }
       ],
       "forms": {
@@ -3458,6 +3243,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "наступи",
+                "наступите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3477,15 +3279,15 @@
       "related": [
         {
           "word": "наступать",
-          "gloss": "to step on"
+          "gloss": "to step on; to advance (impf)"
         },
         {
-          "word": "поступить",
-          "gloss": "to enter"
+          "word": "наступление",
+          "gloss": "offensive; onset"
         },
         {
-          "word": "выступать",
-          "gloss": "to speak"
+          "word": "ступить",
+          "gloss": "to step"
         }
       ]
     },
@@ -3831,12 +3633,12 @@
       "lemma": "отель",
       "stress": "оте́ль",
       "pos": "noun",
-      "gloss": "of the hotel",
+      "gloss": "hotel",
       "gender": "m",
       "meanings": [
         {
-          "en": "of the hotel",
-          "note": "Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common masculine noun meaning 'of the hotel' in everyday Russian."
+          "en": "hotel",
+          "note": ""
         }
       ],
       "forms": {
@@ -3894,51 +3696,30 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это гематома, она и стала причиной потери памяти.",
-          "trans": "That is a hematoma, it became the cause of memory loss."
+          "text": "Наш отель должен удивить гостей.",
+          "trans": "Our hotel has to impress the guests."
         },
         {
-          "text": "Андрей, положи её к себе, а то и эту потеряю.",
-          "trans": "Andrey, put it in your pocket, or I will lose this one too."
+          "text": "В нашем отеле действует новая услуга.",
+          "trans": "Our hotel has a new service."
         },
         {
-          "text": "Я хотел бы просмотреть все документы по закупке продуктов.",
-          "trans": "I would like to review all the documents on food purchases."
-        }
-      ],
-      "related": []
-    },
-    "побыстрее": {
-      "lemma": "побыстрее",
-      "stress": "побыстре́е",
-      "pos": "adv",
-      "gloss": "a bit faster",
-      "meanings": [
-        {
-          "en": "a bit faster",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Побыстрее, ну где наш бекон?",
-          "trans": "A bit faster, well, where is our bacon?"
-        },
-        {
-          "text": "Костя сказал это совершенно побыстрее и спокойно.",
-          "trans": "Kostya said this quite a bit faster and calmly."
+          "text": "Кто бы мог подумать, что буду управлять отелем?",
+          "trans": "Who'd have thought I'd be running a hotel?"
         }
       ],
       "related": [
         {
-          "word": "очень побыстрее",
-          "gloss": "very a bit faster"
+          "word": "гостиница",
+          "gloss": "hotel"
         },
         {
-          "word": "так побыстрее",
-          "gloss": "so a bit faster"
+          "word": "номер",
+          "gloss": "hotel room"
+        },
+        {
+          "word": "постоялец",
+          "gloss": "hotel guest"
         }
       ]
     },
@@ -3952,7 +3733,7 @@
       "meanings": [
         {
           "en": "to eat, to have something to eat",
-          "note": "Perfective of есть. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'есть'). Used as a perfective (single completed action) verb meaning 'to eat, to have a meal', paired with 'есть'."
+          "note": "Perfective of есть. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'есть')."
         }
       ],
       "forms": {
@@ -4051,106 +3832,17 @@
         }
       ]
     },
-    "порядок": {
-      "lemma": "порядок",
-      "stress": "поря́док",
-      "pos": "noun",
-      "gloss": "order",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "order, sequence",
-          "note": "по порядку = in order; всё в порядке = everything is fine"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "порядок",
-              "порядки"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "порядка",
-              "порядков"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "порядку",
-              "порядкам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "порядок",
-              "порядки"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "порядком",
-              "порядками"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "порядке",
-              "порядках"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Теперь давай всё по порядку.",
-          "trans": "Now let's go through everything in order."
-        },
-        {
-          "text": "Всё в полном порядке.",
-          "trans": "Everything is in complete order."
-        },
-        {
-          "text": "Теперь давай всё по порядку. Скажи мне, сколько ты им должна?",
-          "trans": "Now let's go through everything in order. Tell me, how much do you owe them?"
-        }
-      ],
-      "related": [
-        {
-          "word": "рядом",
-          "gloss": "nearby"
-        },
-        {
-          "word": "порядочность",
-          "gloss": "decency"
-        }
-      ]
-    },
     "проверка": {
       "lemma": "проверка",
       "stress": "прове́рка",
       "pos": "noun",
       "gloss": "check, inspection, test",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "check, verification, test",
-          "note": "Common feminine noun meaning 'check, inspection, test' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4232,7 +3924,7 @@
       "meanings": [
         {
           "en": "to check, test, verify",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to check, test, verify', paired with 'проверить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4333,14 +4025,15 @@
     },
     "проверяющий": {
       "lemma": "проверяющий",
-      "stress": "проверяю́щий",
+      "stress": "проверя́ющий",
       "pos": "noun",
       "gloss": "inspector",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "inspector",
-          "note": "Common masculine noun meaning 'inspector' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4408,12 +4101,16 @@
       ],
       "related": [
         {
-          "word": "без проверяющи",
-          "gloss": "without inspector"
+          "word": "проверять",
+          "gloss": "to check, inspect"
         },
         {
-          "word": "наш проверяющий",
-          "gloss": "our inspector"
+          "word": "проверка",
+          "gloss": "inspection"
+        },
+        {
+          "word": "ревизор",
+          "gloss": "inspector, auditor"
         }
       ]
     },
@@ -4427,7 +4124,7 @@
       "meanings": [
         {
           "en": "wake up",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'wake up'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4482,6 +4179,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "проснись",
+                "проснитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4519,7 +4233,7 @@
       "meanings": [
         {
           "en": "to wake up",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'сыпаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to wake up', paired with 'проснуться'."
+          "note": "from спать; pf проснуться"
         }
       ],
       "forms": {
@@ -4873,11 +4587,11 @@
       "meanings": [
         {
           "en": "service, public agency, department",
-          "note": "Дорожная служба = road service. Common feminine noun meaning 'service, department' in everyday Russian."
+          "note": "Дорожная служба = road service."
         },
         {
           "en": "service, duty, work",
-          "note": "Common feminine noun meaning 'service, department' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4958,7 +4672,7 @@
       "meanings": [
         {
           "en": "way, method, means of doing something",
-          "note": "Common masculine noun meaning 'way, method, means' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5047,7 +4761,7 @@
       "meanings": [
         {
           "en": "secret, clandestine, hidden",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('secret, hidden')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5090,10 +4804,10 @@
           {
             "cells": [
               "accusative",
-              "тайный/тайного",
+              "тайный / тайного",
               "тайную",
               "тайное",
-              "тайные/тайных"
+              "тайные / тайных"
             ]
           },
           {
@@ -5154,7 +4868,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -5467,7 +5181,7 @@
       "meanings": [
         {
           "en": "morning",
-          "note": "Утром = in the morning. Common neuter noun meaning 'morning' in everyday Russian."
+          "note": "Утром = in the morning."
         }
       ],
       "forms": {

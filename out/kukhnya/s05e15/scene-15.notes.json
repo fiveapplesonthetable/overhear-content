@@ -43,7 +43,7 @@
           "lemma": "о",
           "pos": "prep",
           "stress": "о́бо",
-          "gloss": "about, for",
+          "gloss": "about",
           "gram": "takes prepositional"
         },
         {
@@ -152,7 +152,7 @@
           "pos": "verb",
           "stress": "разво́дим",
           "gloss": "divorce",
-          "gram": "1st person plural present"
+          "gram": "present, 1st person plural, imperfective"
         },
         {
           "t": "вас,",
@@ -323,8 +323,8 @@
           "lemma": "уговорить",
           "pos": "verb",
           "stress": "уговорю́",
-          "gloss": "persuade, talk into",
-          "gram": "1st person singular future"
+          "gloss": "I'll talk round",
+          "gram": "future, 1st person singular, perfective"
         }
       ]
     },
@@ -579,7 +579,7 @@
           "lemma": "выходить",
           "pos": "verb",
           "stress": "выхожу́",
-          "gloss": "get out, go out",
+          "gloss": "am getting married",
           "gram": "present, 1st person singular, imperfective"
         },
         {
@@ -843,7 +843,7 @@
           "lemma": "о",
           "pos": "prep",
           "stress": "о́бо",
-          "gloss": "about, for",
+          "gloss": "about",
           "gram": "takes prepositional"
         },
         {
@@ -952,7 +952,7 @@
           "pos": "verb",
           "stress": "разво́дим",
           "gloss": "divorce",
-          "gram": "1st person plural present"
+          "gram": "present, 1st person plural, imperfective"
         },
         {
           "t": "вас,",
@@ -1123,8 +1123,8 @@
           "lemma": "уговорить",
           "pos": "verb",
           "stress": "уговорю́",
-          "gloss": "persuade, talk into",
-          "gram": "1st person singular future"
+          "gloss": "I'll talk round",
+          "gram": "future, 1st person singular, perfective"
         }
       ]
     },
@@ -1379,7 +1379,7 @@
           "lemma": "выходить",
           "pos": "verb",
           "stress": "выхожу́",
-          "gloss": "get out, go out",
+          "gloss": "am getting married",
           "gram": "present, 1st person singular, imperfective"
         },
         {
@@ -1643,7 +1643,7 @@
           "lemma": "о",
           "pos": "prep",
           "stress": "о́бо",
-          "gloss": "about, for",
+          "gloss": "about",
           "gram": "takes prepositional"
         },
         {
@@ -1752,7 +1752,7 @@
           "pos": "verb",
           "stress": "разво́дим",
           "gloss": "divorce",
-          "gram": "1st person plural present"
+          "gram": "present, 1st person plural, imperfective"
         },
         {
           "t": "вас,",
@@ -1923,8 +1923,8 @@
           "lemma": "уговорить",
           "pos": "verb",
           "stress": "уговорю́",
-          "gloss": "persuade, talk into",
-          "gram": "1st person singular future"
+          "gloss": "I'll talk round",
+          "gram": "future, 1st person singular, perfective"
         }
       ]
     },
@@ -2179,7 +2179,7 @@
           "lemma": "выходить",
           "pos": "verb",
           "stress": "выхожу́",
-          "gloss": "get out, go out",
+          "gloss": "am getting married",
           "gram": "present, 1st person singular, imperfective"
         },
         {
@@ -2819,7 +2819,7 @@
       "meanings": [
         {
           "en": "near, beside, right by",
-          "note": "+ genitive. Core Russian prep meaning 'near, beside, right by' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2859,7 +2859,7 @@
       "meanings": [
         {
           "en": "to worry, to be nervous",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2956,15 +2956,15 @@
     },
     "ворчать": {
       "lemma": "ворчать",
-      "stress": "во́рчать",
+      "stress": "ворча́ть",
       "pos": "verb",
-      "gloss": "grumble!",
+      "gloss": "to grumble",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "grumble!",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'grumble!'."
+          "en": "to grumble, to grouse",
+          "note": ""
         }
       ],
       "forms": {
@@ -2978,22 +2978,22 @@
           {
             "cells": [
               "1st",
-              "ворчаю",
-              "ворчаем"
+              "ворчу",
+              "ворчим"
             ]
           },
           {
             "cells": [
               "2nd",
-              "ворчаешь",
-              "ворчаете"
+              "ворчишь",
+              "ворчите"
             ]
           },
           {
             "cells": [
               "3rd",
-              "ворчает",
-              "ворчают"
+              "ворчит",
+              "ворчат"
             ]
           }
         ]
@@ -3019,26 +3019,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "ворчи",
+                "ворчите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и ворчать вовремя.",
-          "trans": "We need to do everything and grumble! on time."
+          "text": "Хватит ворчать, Миша, у меня завтра утром свадьба!",
+          "trans": "Stop grumbling, Misha, I'm getting married tomorrow morning!"
         },
         {
-          "text": "На нашей кухне все умеют ворчать.",
-          "trans": "In our kitchen everyone knows how to grumble!."
+          "text": "Папа, не ворчи, да ты сначала попробуй!",
+          "trans": "Dad, don't grumble, just try it first!"
         }
       ],
       "related": [
         {
           "word": "поворчать",
-          "gloss": "to grumble! (prefixed perfective)"
+          "gloss": "to grumble a little"
         },
         {
-          "word": "не ворчать",
-          "gloss": "not to grumble! (negated infinitive)"
+          "word": "ворчун",
+          "gloss": "grumbler"
         }
       ]
     },
@@ -3051,11 +3068,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3144,23 +3161,23 @@
       "lemma": "втроём",
       "stress": "втроём",
       "pos": "adv",
-      "gloss": "as three, the three of us",
+      "gloss": "the three of us, three together",
       "meanings": [
         {
-          "en": "as three, the three of us",
-          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'as three'."
+          "en": "the three of us, three together",
+          "note": ""
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Мы живём здесь втроём.",
-          "trans": "We live here as three."
+          "text": "Да, теперь мы живём здесь втроём.",
+          "trans": "Yes, now the three of us live here."
         },
         {
-          "text": "Да, теперь мы живём здесь втроём.",
-          "trans": "Yes, now we live here as three."
+          "text": "Пойдём втроём: ты, я и Настя.",
+          "trans": "Let's go, the three of us: you, me and Nastya."
         }
       ],
       "related": []
@@ -3257,11 +3274,11 @@
       "meanings": [
         {
           "en": "to drink up, to have a drink of",
-          "note": "+ accusative or partitive genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить'). Used as a perfective (single completed action) verb meaning 'to drink (up); to have a drink', paired with 'пить'."
+          "note": "+ accusative or partitive genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить')."
         },
         {
           "en": "to have an alcoholic drink",
-          "note": "Used without an object. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить'). Used as a perfective (single completed action) verb meaning 'to drink (up); to have a drink', paired with 'пить'."
+          "note": "Used without an object. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить')."
         }
       ],
       "forms": {
@@ -3374,11 +3391,11 @@
       "meanings": [
         {
           "en": "to go out, to come out",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to go out, to get out', paired with 'выйти'."
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ходить')."
         },
         {
           "en": "to get out (of prison, arrest)",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to go out, to get out', paired with 'выйти'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3575,49 +3592,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -3628,11 +3602,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3723,15 +3701,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3743,11 +3721,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3894,13 +3872,13 @@
       "lemma": "жаловаться",
       "stress": "жа́ловаться",
       "pos": "verb",
-      "gloss": "complain",
+      "gloss": "to complain",
       "aspect": "impf",
-      "pair": null,
+      "pair": "пожаловаться",
       "meanings": [
         {
-          "en": "complain",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'complain'."
+          "en": "to complain",
+          "note": "на + accusative: about someone/something"
         }
       ],
       "forms": {
@@ -3955,6 +3933,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "жалуйся",
+                "жалуйтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3963,8 +3958,12 @@
           "trans": "I will definitely complain about you!"
         },
         {
-          "text": "Надо всё сделать и жаловаться вовремя.",
-          "trans": "We need to do everything and complain on time."
+          "text": "Нам с тобой вообще грех жаловаться.",
+          "trans": "You and I really can't complain."
+        },
+        {
+          "text": "Гости жалуются на сильный холод.",
+          "trans": "The guests are complaining that it's very cold."
         }
       ],
       "related": []
@@ -4017,11 +4016,11 @@
       "meanings": [
         {
           "en": "to marry off",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to marry off'."
+          "note": ""
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -4072,16 +4071,33 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "жени",
+                "жените"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Ты его так расхваливаешь, будто женить собрался.",
-          "trans": "You are praising him so much, as if you intended to marry him off."
+          "trans": "You're praising him so much, as if you were planning to marry him off."
         },
         {
-          "text": "Надо всё сделать и женить вовремя.",
-          "trans": "We need to do everything and to marry off on time."
+          "text": "Родители решили женить сына.",
+          "trans": "The parents decided to marry off their son."
         }
       ],
       "related": []
@@ -4094,11 +4110,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -4281,12 +4297,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -4341,6 +4355,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4360,17 +4391,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "к": {
       "lemma": "к",
@@ -4451,7 +4483,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -4485,7 +4517,7 @@
       "meanings": [
         {
           "en": "any",
-          "note": "В любой момент = at any moment. Agrees in gender, number, and case with the noun it modifies ('any')."
+          "note": "В любой момент = at any moment."
         }
       ],
       "forms": {
@@ -4724,16 +4756,16 @@
       ],
       "related": [
         {
-          "word": "конечно",
-          "gloss": "of course"
+          "word": "наконец-то",
+          "gloss": "at last!"
         },
         {
           "word": "конец",
           "gloss": "end"
         },
         {
-          "word": "наконец-то",
-          "gloss": "at last"
+          "word": "в конце концов",
+          "gloss": "in the end, after all"
         }
       ]
     },
@@ -4783,7 +4815,7 @@
       "meanings": [
         {
           "en": "small, not large, modest",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'большой'). Agrees in gender, number, and case with the noun it modifies ('small, modest')."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'большой')."
         }
       ],
       "forms": {
@@ -4826,10 +4858,10 @@
           {
             "cells": [
               "accusative",
-              "небольшой",
+              "небольшой / небольшого",
               "небольшую",
               "небольшое",
-              "небольшие"
+              "небольшие / небольших"
             ]
           },
           {
@@ -5020,7 +5052,7 @@
       "meanings": [
         {
           "en": "to drink",
-          "note": "Пить чай = to drink tea. Used as an imperfective (ongoing/repeated action) verb meaning 'to drink', paired with 'выпить'."
+          "note": "Пить чай = to drink tea."
         },
         {
           "en": "to drink (alcohol)",
@@ -5136,7 +5168,7 @@
       "meanings": [
         {
           "en": "female friend, girlfriend",
-          "note": "Common feminine noun meaning 'female friend, girlfriend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5273,6 +5305,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понимай",
+                "понимайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5304,7 +5353,7 @@
       "meanings": [
         {
           "en": "then, afterwards, later",
-          "note": "Core Russian adv meaning 'then, later, afterwards' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5338,7 +5387,7 @@
         },
         {
           "en": "celebration, party",
-          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'holiday, celebration' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5417,15 +5466,23 @@
     },
     "разводить": {
       "lemma": "разводить",
-      "stress": "разво́дить",
+      "stress": "разводи́ть",
       "pos": "verb",
-      "gloss": "divorce",
+      "gloss": "to breed, raise; to divorce (a couple)",
       "aspect": "impf",
-      "pair": null,
+      "pair": "развести",
       "meanings": [
         {
-          "en": "divorce",
-          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'водить'). Used as an imperfective (ongoing/repeated action) verb meaning 'divorce'."
+          "en": "to breed, raise (animals, plants)",
+          "note": "разводить устриц = to farm oysters"
+        },
+        {
+          "en": "to divorce (a couple, as an official)",
+          "note": ""
+        },
+        {
+          "en": "to con, scam (slang)",
+          "note": ""
         }
       ],
       "forms": {
@@ -5480,22 +5537,47 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "разводи",
+                "разводите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Сначала быстро разводим вас, а потом женим нас!",
-          "trans": "First we quickly divorce you two, and then we marry us!"
+          "text": "Мы будем разводить свежих устриц здесь, в России.",
+          "trans": "We'll farm fresh oysters here in Russia."
         },
         {
-          "text": "Надо всё сделать и разводить вовремя.",
-          "trans": "We need to do everything and divorce on time."
+          "text": "Сначала быстро разводим вас, а потом женим нас!",
+          "trans": "First we quickly divorce you two, and then we marry us!"
         }
       ],
       "related": [
         {
-          "word": "не разводить",
-          "gloss": "not to divorce (negated infinitive)"
+          "word": "разводиться",
+          "gloss": "to get divorced"
+        },
+        {
+          "word": "развод",
+          "gloss": "divorce"
+        },
+        {
+          "word": "развести",
+          "gloss": "to breed; to divorce (pf.)"
         }
       ]
     },
@@ -5504,7 +5586,6 @@
       "stress": "ребя́та",
       "pos": "noun",
       "gloss": "guys, lads, kids (plural only)",
-      "gender": "m",
       "number": "pl",
       "meanings": [
         {
@@ -5513,7 +5594,7 @@
         },
         {
           "en": "kids, children",
-          "note": "Colloquial plural of ребёнок. Common substantive noun meaning 'guys, lads, kids (plural only)' in everyday Russian."
+          "note": "Colloquial plural of ребёнок."
         }
       ],
       "forms": {
@@ -5639,7 +5720,7 @@
       "meanings": [
         {
           "en": "to sit down",
-          "note": "Садитесь = sit down (polite). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to sit down', paired with 'сесть'."
+          "note": "Садитесь = sit down (polite)."
         }
       ],
       "forms": {
@@ -5743,7 +5824,7 @@
       "meanings": [
         {
           "en": "wedding, marriage ceremony",
-          "note": "Marriage celebration. Common feminine noun meaning 'wedding' in everyday Russian."
+          "note": "Marriage celebration."
         }
       ],
       "forms": {
@@ -5801,8 +5882,8 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Посмотри фильм Свадьба по скайпу.",
-          "trans": "Watch the movie Wedding on Skype."
+          "text": "Мы обязательно сыграем большую свадьбу!",
+          "trans": "We'll definitely have a big wedding!"
         },
         {
           "text": "Макс, зачем ты соврал про нашу будущую свадьбу?",
@@ -5891,7 +5972,7 @@
       "meanings": [
         {
           "en": "table, desk",
-          "note": "End-stressed in all oblique cases. Common masculine noun meaning 'table, desk' in everyday Russian."
+          "note": "End-stressed in all oblique cases."
         }
       ],
       "forms": {
@@ -5971,7 +6052,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -6136,11 +6217,11 @@
       "pos": "verb",
       "gloss": "persuade",
       "aspect": "pf",
-      "pair": null,
+      "pair": "уговаривать",
       "meanings": [
         {
           "en": "persuade",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'persuade'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'говорить')."
         }
       ],
       "forms": {
@@ -6195,23 +6276,49 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "уговори",
+                "уговорите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Витя, попробуй её уговорить.",
-          "trans": "Vitya, try to persuade her."
+          "trans": "Vitya, try to talk her round."
         },
         {
-          "text": "Надо всё сделать и уговорить вовремя.",
-          "trans": "We need to do everything and persuade on time."
+          "text": "Витя, а как тебе удалось его уговорить?",
+          "trans": "Vitya, how did you manage to persuade him?"
         },
         {
           "text": "Жив, я его еле уговорила.",
-          "trans": "He is alive, I barely persuaded him."
+          "trans": "He's alive, I barely talked him into it."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "уговаривать",
+          "gloss": "to persuade (impf)"
+        },
+        {
+          "word": "уговор",
+          "gloss": "deal"
+        }
+      ]
     },
     "удаться": {
       "lemma": "удаться",
@@ -6223,7 +6330,7 @@
       "meanings": [
         {
           "en": "to turn out well, to succeed, to manage (impersonal + dative)",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'даться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to succeed, to manage', paired with 'удаваться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'даться')."
         }
       ],
       "forms": {
@@ -6237,22 +6344,22 @@
           {
             "cells": [
               "1st",
-              "удаюсь",
-              "удаемся"
+              "удамся",
+              "удадимся"
             ]
           },
           {
             "cells": [
               "2nd",
-              "удаешься",
-              "удаетесь"
+              "удашься",
+              "удадитесь"
             ]
           },
           {
             "cells": [
               "3rd",
-              "удается",
-              "удаются"
+              "удастся",
+              "удадутся"
             ]
           }
         ]
@@ -6275,6 +6382,23 @@
                 "удалась",
                 "удалось",
                 "удались"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "удайся",
+                "удайтесь"
               ]
             }
           ]
@@ -6340,11 +6464,11 @@
       "meanings": [
         {
           "en": "to arrange, organize",
-          "note": "Transitive verb. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить'). Used as a perfective (single completed action) verb meaning 'to arrange, cause', paired with 'устраивать'."
+          "note": "Transitive verb. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить')."
         },
         {
           "en": "to cause",
-          "note": "A disturbance. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить'). Used as a perfective (single completed action) verb meaning 'to arrange, cause', paired with 'устраивать'."
+          "note": "A disturbance. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить')."
         }
       ],
       "forms": {
@@ -6435,98 +6559,17 @@
       "related": [
         {
           "word": "устраивать",
-          "gloss": "to organize"
+          "gloss": "to organize (impf)"
         },
         {
-          "word": "построить",
-          "gloss": "to build"
+          "word": "устроиться",
+          "gloss": "to get a job, settle in"
         },
         {
-          "word": "настроение",
-          "gloss": "mood"
+          "word": "скандал",
+          "gloss": "scene, row"
         }
       ]
-    },
-    "утро": {
-      "lemma": "утро",
-      "stress": "у́тро",
-      "pos": "noun",
-      "gloss": "morning",
-      "gender": "n",
-      "meanings": [
-        {
-          "en": "morning",
-          "note": "Утром = in the morning. Common neuter noun meaning 'morning' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "утро",
-              "утра"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "утра",
-              "утр"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "утру",
-              "утрам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "утро",
-              "утра"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "утром",
-              "утрами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "утре",
-              "утрах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Доброе утро!",
-          "trans": "Good morning!"
-        },
-        {
-          "text": "Какое хорошее утро!",
-          "trans": "What a lovely morning!"
-        },
-        {
-          "text": "Какое хорошее утро! Лидия Алексеевна, чашку кофе, пожалуйста.",
-          "trans": "What a lovely morning! Lidia Alekseyevna, a cup of coffee, please."
-        }
-      ],
-      "related": []
     },
     "утром": {
       "lemma": "утром",
@@ -6577,7 +6620,7 @@
         },
         {
           "en": "that's enough!",
-          "note": "Хватит!. Used as a perfective (single completed action) verb meaning 'to be enough', paired with 'хватать'."
+          "note": "Хватит!."
         }
       ],
       "forms": {
@@ -6632,6 +6675,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хвати",
+                "хватите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6651,15 +6711,15 @@
       "related": [
         {
           "word": "хватать",
-          "gloss": "to grab"
+          "gloss": "to be enough (impf); to grab"
         },
         {
-          "word": "схватить",
-          "gloss": "to grab"
+          "word": "хватит!",
+          "gloss": "that's enough!"
         },
         {
-          "word": "перехватить",
-          "gloss": "to intercept"
+          "word": "достаточно",
+          "gloss": "enough"
         }
       ]
     },
@@ -6898,7 +6958,7 @@
       "meanings": [
         {
           "en": "noise",
-          "note": "Common substantive noun meaning 'noise' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6971,7 +7031,11 @@
       "related": [
         {
           "word": "шумный",
-          "gloss": "related to noise (adj.)"
+          "gloss": "noisy"
+        },
+        {
+          "word": "шуметь",
+          "gloss": "to make noise"
         }
       ]
     },

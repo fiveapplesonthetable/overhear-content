@@ -2055,10 +2055,10 @@
           {
             "cells": [
               "accusative",
-              "бюджетный",
+              "бюджетный / бюджетного",
               "бюджетную",
               "бюджетное",
-              "бюджетные"
+              "бюджетные / бюджетных"
             ]
           },
           {
@@ -2154,7 +2154,7 @@
         },
         {
           "en": "view",
-          "note": "иметь в виду = to mean, to have in mind"
+          "note": ""
         }
       ],
       "forms": {
@@ -2226,8 +2226,20 @@
       ],
       "related": [
         {
-          "word": "видный",
-          "gloss": "related to look (adj.)"
+          "word": "видеть",
+          "gloss": "to see"
+        },
+        {
+          "word": "иметь в виду",
+          "gloss": "to mean"
+        },
+        {
+          "word": "делать вид",
+          "gloss": "to pretend"
+        },
+        {
+          "word": "на вид",
+          "gloss": "in appearance"
         }
       ]
     },
@@ -2405,11 +2417,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2517,7 +2529,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -2776,15 +2787,11 @@
       "related": [
         {
           "word": "заниматься",
-          "gloss": "to be busy with"
+          "gloss": "to be busy with (impf)"
         },
         {
-          "word": "понять",
-          "gloss": "to understand"
-        },
-        {
-          "word": "принять",
-          "gloss": "to receive"
+          "word": "занятие",
+          "gloss": "activity"
         }
       ]
     },
@@ -2793,12 +2800,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2853,6 +2858,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2872,17 +2894,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -3035,11 +3058,11 @@
       "meanings": [
         {
           "en": "interesting",
-          "note": "ironic: такая интересная = look at her, how convenient"
+          "note": ""
         },
         {
-          "en": "funny you should say that",
-          "note": "ironic: такая интересная = look at her, how convenient"
+          "en": "(ironic) aren't you a funny one",
+          "note": "Такая интересная! = look at you, how cheeky"
         }
       ],
       "forms": {
@@ -3082,10 +3105,10 @@
           {
             "cells": [
               "accusative",
-              "интересный",
+              "интересный / интересного",
               "интересную",
               "интересное",
-              "интересные"
+              "интересные / интересных"
             ]
           },
           {
@@ -3115,12 +3138,12 @@
           "trans": "This is a very interesting book."
         },
         {
-          "text": "Такая интересная!",
-          "trans": "Funny you should say that!"
+          "text": "У нас для вас есть очень интересное предложение.",
+          "trans": "We have a very interesting offer for you."
         },
         {
           "text": "Такая интересная. Я тебе не бандит.",
-          "trans": "Funny you should say that. I'm no gangster for you."
+          "trans": "Aren't you a funny one. I'm not some gangster."
         }
       ],
       "related": [
@@ -3226,11 +3249,11 @@
       "meanings": [
         {
           "en": "to love",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         },
         {
           "en": "to like",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3314,8 +3337,8 @@
           "trans": "Do you like gum?"
         },
         {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
+          "text": "Ты любишь чужую жену!",
+          "trans": "You're in love with another man's wife!"
         }
       ],
       "related": [
@@ -3339,6 +3362,7 @@
       "pos": "noun",
       "gloss": "lover (male)",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "lover, paramour",
@@ -3410,12 +3434,8 @@
       ],
       "related": [
         {
-          "word": "любой",
-          "gloss": "any"
-        },
-        {
-          "word": "любопытно",
-          "gloss": "curiously"
+          "word": "любовница",
+          "gloss": "mistress"
         },
         {
           "word": "любовь",
@@ -3432,7 +3452,7 @@
       "meanings": [
         {
           "en": "major (rank)",
-          "note": "Common masculine noun meaning 'major (military rank)' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3597,6 +3617,7 @@
       "pos": "noun",
       "gloss": "mayor",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "mayor",
@@ -3670,7 +3691,16 @@
           "trans": "I've been working as mayor for four years now."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "мэрия",
+          "gloss": "town hall"
+        },
+        {
+          "word": "губернатор",
+          "gloss": "governor"
+        }
+      ]
     },
     "на": {
       "lemma": "на",
@@ -4056,7 +4086,7 @@
       "meanings": [
         {
           "en": "excellent",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('excellent')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4191,6 +4221,7 @@
       "pos": "noun",
       "gloss": "character, figure, personality",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "character, figure",
@@ -4284,7 +4315,7 @@
       "meanings": [
         {
           "en": "plan, scheme",
-          "note": "Common masculine noun meaning 'plan' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4405,7 +4436,7 @@
       "meanings": [
         {
           "en": "to use, to make use of",
-          "note": "+ instrumental. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to use, to take advantage of', paired with 'воспользоваться'."
+          "note": "+ instrumental."
         },
         {
           "en": "to take advantage of",
@@ -4512,7 +4543,7 @@
       "meanings": [
         {
           "en": "very much, deeply, strongly",
-          "note": "Adverb of degree. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb of degree."
         }
       ],
       "forms": null,
@@ -4550,7 +4581,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -4589,7 +4620,7 @@
         },
         {
           "en": "friend, mate",
-          "note": "Common masculine noun meaning 'comrade' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4669,11 +4700,11 @@
       "meanings": [
         {
           "en": "definitely, for sure",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "exactly, precisely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,

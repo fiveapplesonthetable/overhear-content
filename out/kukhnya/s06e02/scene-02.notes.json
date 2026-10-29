@@ -73,7 +73,7 @@
           "lemma": "новость",
           "pos": "noun",
           "stress": "но́вость",
-          "gloss": "the news",
+          "gloss": "piece of news, news",
           "gram": "feminine singular accusative"
         }
       ]
@@ -641,7 +641,7 @@
           "lemma": "новость",
           "pos": "noun",
           "stress": "но́вость",
-          "gloss": "the news",
+          "gloss": "piece of news, news",
           "gram": "feminine singular accusative"
         }
       ]
@@ -1209,7 +1209,7 @@
           "lemma": "новость",
           "pos": "noun",
           "stress": "но́вость",
-          "gloss": "the news",
+          "gloss": "piece of news, news",
           "gram": "feminine singular accusative"
         }
       ]
@@ -1723,7 +1723,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -1823,10 +1823,10 @@
           {
             "cells": [
               "accusative",
-              "авторский",
+              "авторский / авторского",
               "авторскую",
               "авторское",
-              "авторские"
+              "авторские / авторских"
             ]
           },
           {
@@ -1871,12 +1871,10 @@
       "stress": "боро́ться",
       "pos": "verb",
       "gloss": "to fight, struggle",
-      "aspect": "impf",
-      "pair": "побороться",
       "meanings": [
         {
           "en": "to fight, struggle",
-          "note": "Intransitive reflexive verb. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to fight, struggle', paired with 'побороться'."
+          "note": "Intransitive reflexive verb."
         }
       ],
       "forms": {
@@ -1966,10 +1964,19 @@
       ],
       "related": [
         {
+          "word": "борьба",
+          "gloss": "struggle, fight"
+        },
+        {
+          "word": "борец",
+          "gloss": "fighter, wrestler"
+        },
+        {
           "word": "побороться",
-          "gloss": "to fight"
+          "gloss": "to put up a fight (for a while)"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "быть": {
       "lemma": "быть",
@@ -2226,13 +2233,17 @@
       "lemma": "вводить",
       "stress": "вводи́ть",
       "pos": "verb",
-      "gloss": "introduce",
+      "gloss": "to introduce, bring in",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "introduce",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'introduce'."
+          "en": "to introduce, bring in (a rule, menu, offer)",
+          "note": ""
+        },
+        {
+          "en": "to put into (a state)",
+          "note": "вводить в транс = to put into a trance"
         }
       ],
       "forms": {
@@ -2287,19 +2298,41 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "вводи",
+                "вводите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Мы не будем вводить это блюдо в меню.",
-          "trans": "We will not introduce this dish into the menu."
+          "trans": "We won't be putting this dish on the menu."
         },
         {
-          "text": "Надо всё сделать и вводить вовремя.",
-          "trans": "We need to do everything and introduce on time."
+          "text": "Ну так что, я ввожу акцию?",
+          "trans": "So, shall I launch the promotion?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "ввести",
+          "gloss": "to introduce (pf)"
+        }
+      ]
     },
     "весь": {
       "lemma": "весь",
@@ -2425,11 +2458,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2631,111 +2664,6 @@
         }
       ]
     },
-    "гордиться": {
-      "lemma": "гордиться",
-      "stress": "горди́ться",
-      "pos": "verb",
-      "gloss": "to be proud, to take pride",
-      "aspect": "impf",
-      "pair": "погордиться",
-      "meanings": [
-        {
-          "en": "to be proud of",
-          "note": "to feel pride in someone or something (+ instrumental)"
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "горжусь",
-              "гордимся"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "гордишься",
-              "гордитесь"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "гордится",
-              "гордятся"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "гордился",
-                "гордилась",
-                "гордилось",
-                "гордились"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "гордись",
-                "гордитесь"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Отец всегда гордился своими детьми.",
-          "trans": "The father was always proud of his children."
-        },
-        {
-          "text": "Твой отец очень сильно гордился бы тобой.",
-          "trans": "Your father would be very proud of you."
-        }
-      ],
-      "related": [
-        {
-          "word": "погордиться",
-          "gloss": "to be proud"
-        },
-        {
-          "word": "гордость",
-          "gloss": "pride"
-        }
-      ]
-    },
     "да": {
       "lemma": "да",
       "stress": "да",
@@ -2748,7 +2676,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2892,11 +2820,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2934,7 +2862,7 @@
       "meanings": [
         {
           "en": "wonderfully; it is wonderful (predicative)",
-          "note": "From замечательный. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "From замечательный."
         }
       ],
       "forms": null,
@@ -2977,11 +2905,11 @@
       "meanings": [
         {
           "en": "star",
-          "note": "In the sky. Common feminine noun meaning 'star; celebrity' in everyday Russian."
+          "note": "In the sky."
         },
         {
           "en": "star, famous performer",
-          "note": "Common feminine noun meaning 'star; celebrity' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3053,8 +2981,12 @@
       ],
       "related": [
         {
-          "word": "звездный",
-          "gloss": "related to star (adj.)"
+          "word": "звёздный",
+          "gloss": "star (adj.), starry"
+        },
+        {
+          "word": "звёздочка",
+          "gloss": "little star; asterisk"
         }
       ]
     },
@@ -3071,7 +3003,7 @@
         },
         {
           "en": "passbook, ID booklet",
-          "note": "Трудовая книжка, зачётная книжка. Common feminine noun meaning 'book (colloquial/diminutive); booklet' in everyday Russian."
+          "note": "Трудовая книжка, зачётная книжка."
         }
       ],
       "forms": {
@@ -3261,42 +3193,42 @@
             "cells": [
               "nominative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "genitive",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "dative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "accusative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "instrumental",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "prepositional",
               "меню",
-              "—"
+              "меню"
             ]
           }
         ]
@@ -3328,7 +3260,7 @@
       "meanings": [
         {
           "en": "to write (and finish)",
-          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'писать'). Used as a perfective (single completed action) verb meaning 'to write', paired with 'писать'."
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'писать')."
         }
       ],
       "forms": {
@@ -3516,11 +3448,11 @@
       "meanings": [
         {
           "en": "piece of news",
-          "note": "Plural, also the TV news programme. Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'piece of news' in everyday Russian."
+          "note": "Хорошая новость = good news."
         },
         {
           "en": "the news",
-          "note": "Plural, also the TV news programme. Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'piece of news' in everyday Russian."
+          "note": "Plural новости, also the TV news programme."
         }
       ],
       "forms": {
@@ -3592,8 +3524,16 @@
       ],
       "related": [
         {
-          "word": "заново",
-          "gloss": "anew"
+          "word": "новый",
+          "gloss": "new"
+        },
+        {
+          "word": "известие",
+          "gloss": "news, notice"
+        },
+        {
+          "word": "что нового?",
+          "gloss": "what's new?"
         }
       ]
     },
@@ -3847,7 +3787,7 @@
       "meanings": [
         {
           "en": "first",
-          "note": "С первого раза = the first time. Agrees in gender, number, and case with the noun it modifies ('first')."
+          "note": "С первого раза = the first time."
         }
       ],
       "forms": {
@@ -3942,7 +3882,7 @@
       "meanings": [
         {
           "en": "cook, chef",
-          "note": "Irregular plural повара. Common masculine noun meaning 'cook, chef' in everyday Russian."
+          "note": "Irregular plural повара."
         }
       ],
       "forms": {
@@ -4023,11 +3963,11 @@
       "meanings": [
         {
           "en": "reason, occasion",
-          "note": "'по поводу' + genitive. Common masculine noun meaning 'reason, occasion' in everyday Russian."
+          "note": "'по поводу' + genitive."
         },
         {
           "en": "about, concerning",
-          "note": "'по поводу' + genitive. Common masculine noun meaning 'reason, occasion' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4109,11 +4049,11 @@
       "meanings": [
         {
           "en": "to offer",
-          "note": "Used as a perfective (single completed action) verb meaning 'to offer, to suggest', paired with 'предлагать'."
+          "note": ""
         },
         {
           "en": "to suggest",
-          "note": "Used as a perfective (single completed action) verb meaning 'to offer, to suggest', paired with 'предлагать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4168,6 +4108,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "предложи",
+                "предложите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4187,11 +4144,11 @@
       "related": [
         {
           "word": "предлагать",
-          "gloss": "to suggest"
+          "gloss": "to offer (impf)"
         },
         {
-          "word": "заложить",
-          "gloss": "to lay"
+          "word": "предложение",
+          "gloss": "offer, proposal"
         }
       ]
     },
@@ -4416,7 +4373,7 @@
         },
         {
           "en": "to solve",
-          "note": "Решить задачу. Used as a perfective (single completed action) verb meaning 'to decide; to solve', paired with 'решать'."
+          "note": "Решить задачу."
         }
       ],
       "forms": {
@@ -4568,7 +4525,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -4753,11 +4710,11 @@
       "meanings": [
         {
           "en": "to intend, to plan, to be going to",
-          "note": "+ infinitive. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to intend, to be about to; to gather', paired with 'собраться'."
+          "note": "+ infinitive."
         },
         {
           "en": "to gather, to get ready",
-          "note": "Pack or assemble. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to intend, to be about to; to gather', paired with 'собраться'."
+          "note": "Pack or assemble."
         }
       ],
       "forms": {
@@ -4865,7 +4822,7 @@
       "meanings": [
         {
           "en": "surprise, unexpected gift",
-          "note": "Приятный сюрприз. Common masculine noun meaning 'surprise' in everyday Russian."
+          "note": "Приятный сюрприз."
         }
       ],
       "forms": {
@@ -5183,7 +5140,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5288,7 +5245,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5343,6 +5300,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5383,7 +5357,7 @@
         },
         {
           "en": "through, across",
-          "note": "Core Russian prep meaning 'in (time); through' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5414,7 +5388,7 @@
       "meanings": [
         {
           "en": "reader",
-          "note": "Agentive or instrument masculine noun meaning 'reader', declining across all six Russian grammatical cases."
+          "note": ""
         }
       ],
       "forms": {
@@ -5482,16 +5456,16 @@
       ],
       "related": [
         {
-          "word": "считать",
-          "gloss": "to count"
-        },
-        {
-          "word": "вычитать",
+          "word": "читать",
           "gloss": "to read"
         },
         {
-          "word": "почитать",
-          "gloss": "to read"
+          "word": "читательница",
+          "gloss": "reader (female)"
+        },
+        {
+          "word": "книга",
+          "gloss": "book"
         }
       ]
     },

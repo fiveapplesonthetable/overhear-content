@@ -65,7 +65,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -311,10 +311,10 @@
         {
           "t": "шеф!",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -693,7 +693,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -945,10 +945,10 @@
         {
           "t": "шеф!",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -1345,7 +1345,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1591,10 +1591,10 @@
         {
           "t": "шеф!",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -2277,84 +2277,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "второй": {
       "lemma": "второй",
       "stress": "второ́й",
@@ -2363,7 +2285,7 @@
       "meanings": [
         {
           "en": "second",
-          "note": "Ordinal number. Agrees in gender, number, and case with the noun it modifies ('second')."
+          "note": "Ordinal number."
         }
       ],
       "forms": {
@@ -2449,16 +2371,20 @@
       ],
       "related": [
         {
-          "word": "повторить",
-          "gloss": "to repeat"
+          "word": "два",
+          "gloss": "two"
         },
         {
-          "word": "повторять",
-          "gloss": "to repeat"
+          "word": "во-вторых",
+          "gloss": "secondly"
         },
         {
-          "word": "повториться",
-          "gloss": "to recur"
+          "word": "вторник",
+          "gloss": "Tuesday"
+        },
+        {
+          "word": "первый",
+          "gloss": "first"
         }
       ]
     },
@@ -2472,11 +2398,11 @@
       "meanings": [
         {
           "en": "to go out, to leave",
-          "note": "Used as a perfective (single completed action) verb meaning 'to go out, to get out', paired with 'выходить'."
+          "note": ""
         },
         {
           "en": "to get out (be released)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to go out, to get out', paired with 'выходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2608,11 +2534,11 @@
       "meanings": [
         {
           "en": "children's",
-          "note": "For or belonging to children. Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('children's, childish')."
+          "note": "For or belonging to children. Agrees in gender, number, and case with the noun it modifies ('children's, childish')."
         },
         {
           "en": "childish, babyish",
-          "note": "Детский лепет = baby talk. Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('children's, childish')."
+          "note": "Детский лепет = baby talk. Agrees in gender, number, and case with the noun it modifies ('children's, childish')."
         }
       ],
       "forms": {
@@ -2655,10 +2581,10 @@
           {
             "cells": [
               "accusative",
-              "детский",
+              "детский / детского",
               "детскую",
               "детское",
-              "детские"
+              "детские / детских"
             ]
           },
           {
@@ -2858,106 +2784,6 @@
         }
       ]
     },
-    "значить": {
-      "lemma": "значить",
-      "stress": "зна́чить",
-      "pos": "verb",
-      "gloss": "to mean",
-      "aspect": "impf",
-      "pair": null,
-      "meanings": [
-        {
-          "en": "to mean",
-          "note": "что это значит? = what does this mean?"
-        },
-        {
-          "en": "so, right then",
-          "note": "the form значит is used as a linking word"
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "значу",
-              "значим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "значишь",
-              "значите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "значит",
-              "значат"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "значил",
-                "значила",
-                "значило",
-                "значили"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Что это значит?",
-          "trans": "What does this mean?"
-        },
-        {
-          "text": "Значит, ты не придёшь.",
-          "trans": "So you're not coming."
-        },
-        {
-          "text": "Паша, что всё это значит?",
-          "trans": "Pasha, what does all this mean?"
-        }
-      ],
-      "related": [
-        {
-          "word": "назначить",
-          "gloss": "to set"
-        },
-        {
-          "word": "значит",
-          "gloss": "so"
-        },
-        {
-          "word": "назначение",
-          "gloss": "appointment"
-        }
-      ]
-    },
     "и": {
       "lemma": "и",
       "stress": "и",
@@ -3098,11 +2924,11 @@
       "meanings": [
         {
           "en": "may I?, can I?",
-          "note": "Asking permission. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Asking permission."
         },
         {
           "en": "it is possible",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3257,7 +3083,7 @@
       "meanings": [
         {
           "en": "to begin, to start, to break out (intransitive)",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to begin, to start, to break out', paired with 'начинаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3309,6 +3135,23 @@
                 "началась",
                 "началось",
                 "начались"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "начнись",
+                "начнитесь"
               ]
             }
           ]
@@ -3449,131 +3292,6 @@
         }
       ]
     },
-    "нужный": {
-      "lemma": "нужный",
-      "stress": "ну́жный",
-      "pos": "adj",
-      "gloss": "necessary, needed",
-      "meanings": [
-        {
-          "en": "needed",
-          "note": "short form 'нужен / нужна / нужно / нужны' + dative: 'мне нужна работа' = I need a job"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "нужный",
-              "нужная",
-              "нужное",
-              "нужные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "нужного",
-              "нужной",
-              "нужного",
-              "нужных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "нужному",
-              "нужной",
-              "нужному",
-              "нужным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "нужный / нужного",
-              "нужную",
-              "нужное",
-              "нужные / нужных"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "нужным",
-              "нужной",
-              "нужным",
-              "нужными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "нужном",
-              "нужной",
-              "нужном",
-              "нужных"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Мне ещё работа нужна.",
-          "trans": "I need a job too."
-        },
-        {
-          "text": "Тебе нужна ручка?",
-          "trans": "Do you need a pen?"
-        },
-        {
-          "text": "Ему нужны деньги.",
-          "trans": "He needs money."
-        }
-      ],
-      "related": [
-        {
-          "word": "нужно",
-          "gloss": "necessary"
-        },
-        {
-          "word": "нужнее",
-          "gloss": "more needed"
-        }
-      ]
-    },
     "обидеться": {
       "lemma": "обидеться",
       "stress": "оби́деться",
@@ -3584,7 +3302,7 @@
       "meanings": [
         {
           "en": "to be offended, to take offence",
-          "note": "На + accusative = at someone. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to take offence', paired with 'обижаться'."
+          "note": "На + accusative = at someone."
         }
       ],
       "forms": {
@@ -3639,20 +3357,37 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "обидься",
+                "обидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Она обиделась.",
-          "trans": "She's offended."
-        },
-        {
-          "text": "Не обижайся!",
-          "trans": "Don't be offended!"
-        },
-        {
           "text": "Обиделась. У неё всегда так.",
           "trans": "She's offended. She's always like that."
+        },
+        {
+          "text": "Я очень надеюсь, что вы не обидитесь.",
+          "trans": "I really hope you won't be offended."
+        },
+        {
+          "text": "Я не поняла, ты сейчас на меня обиделся?",
+          "trans": "I didn't get it, are you offended at me now?"
         }
       ],
       "related": [
@@ -3755,11 +3490,11 @@
       "meanings": [
         {
           "en": "operation",
-          "note": "Police or military. International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'operation' in everyday Russian."
+          "note": "Police or military."
         },
         {
           "en": "surgery",
-          "note": "In a hospital. International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'operation' in everyday Russian."
+          "note": "In a hospital."
         }
       ],
       "forms": {
@@ -3848,7 +3583,7 @@
       "meanings": [
         {
           "en": "first",
-          "note": "С первого раза = the first time. Agrees in gender, number, and case with the noun it modifies ('first')."
+          "note": "С первого раза = the first time."
         }
       ],
       "forms": {
@@ -3944,7 +3679,7 @@
       "meanings": [
         {
           "en": "to go, to set off (by car, bus, train)",
-          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to go (by vehicle), to set off', paired with 'ехать'."
+          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -4053,11 +3788,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -4224,7 +3959,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -4327,7 +4062,7 @@
       "meanings": [
         {
           "en": "after",
-          "note": "Preposition + genitive, or adverb. Core Russian prep meaning 'after' in everyday speech."
+          "note": "Preposition + genitive, or adverb."
         }
       ],
       "forms": null,
@@ -4367,7 +4102,7 @@
       "meanings": [
         {
           "en": "to think up, to invent, to come up with",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'думать'). Used as a perfective (single completed action) verb meaning 'to think up, to come up with', paired with 'придумывать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'думать')."
         }
       ],
       "forms": {
@@ -4584,7 +4319,6 @@
       "stress": "ребя́та",
       "pos": "noun",
       "gloss": "guys, lads, kids (plural only)",
-      "gender": "m",
       "number": "pl",
       "meanings": [
         {
@@ -4593,7 +4327,7 @@
         },
         {
           "en": "kids, children",
-          "note": "Colloquial plural of ребёнок. Common substantive noun meaning 'guys, lads, kids (plural only)' in everyday Russian."
+          "note": "Colloquial plural of ребёнок."
         }
       ],
       "forms": {
@@ -4679,7 +4413,7 @@
       "meanings": [
         {
           "en": "garden, orchard, public park",
-          "note": "Locative в саду. Common masculine noun meaning 'garden, public park' in everyday Russian."
+          "note": "Locative в саду."
         }
       ],
       "forms": {
@@ -4903,11 +4637,11 @@
       "meanings": [
         {
           "en": "sense, meaning",
-          "note": "'В смысле?'. Common masculine noun meaning 'sense, meaning' in everyday Russian."
+          "note": "'В смысле?'."
         },
         {
           "en": "what do you mean?",
-          "note": "'В смысле?'. Common masculine noun meaning 'sense, meaning' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5065,11 +4799,11 @@
       "meanings": [
         {
           "en": "to put up with, to bear",
-          "note": "Терпеть боль = to bear pain. Used as an imperfective (ongoing/repeated action) verb meaning 'to bear, to put up with; to hold on', paired with 'потерпеть'."
+          "note": "Терпеть боль = to bear pain."
         },
         {
           "en": "to hold on, to wait",
-          "note": "E.g. to wait for the toilet. Used as an imperfective (ongoing/repeated action) verb meaning 'to bear, to put up with; to hold on', paired with 'потерпеть'."
+          "note": "E.g. to wait for the toilet."
         }
       ],
       "forms": {
@@ -5149,10 +4883,6 @@
           "trans": "I can't hold on!"
         },
         {
-          "text": "Потерпи немного.",
-          "trans": "Hold on a little."
-        },
-        {
           "text": "Маленькие умеют терпеть, а взрослые нет, понял?",
           "trans": "Little ones can hold on, but grown-ups can't, got it?"
         }
@@ -5191,16 +4921,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Тише, дети спят!",
-          "trans": "Quiet, the children are asleep!"
-        },
-        {
           "text": "Здесь тихо.",
           "trans": "It's quiet here."
         },
         {
-          "text": "Тише!",
-          "trans": "Quiet!"
+          "text": "Ладно, сиди. Только тихо.",
+          "trans": "All right, sit down. Just keep quiet."
         }
       ],
       "related": [
@@ -5257,7 +4983,7 @@
         },
         {
           "en": "to be sick of",
-          "note": "Меня тошнит от... = I'm sick of. Used as an imperfective (ongoing/repeated action) verb meaning 'to feel sick (impersonal)', paired with 'стошнить'."
+          "note": "Меня тошнит от... = I'm sick of."
         }
       ],
       "forms": {
@@ -5285,7 +5011,7 @@
           {
             "cells": [
               "3rd",
-              "тошнит",
+              "—",
               "—"
             ]
           }
@@ -5331,7 +5057,15 @@
       "related": [
         {
           "word": "стошнить",
-          "gloss": "to feel sick"
+          "gloss": "to throw up (pf, impersonal)"
+        },
+        {
+          "word": "тошнота",
+          "gloss": "nausea"
+        },
+        {
+          "word": "тошно",
+          "gloss": "sickening, nauseating"
         }
       ]
     },
@@ -5386,10 +5120,10 @@
           {
             "cells": [
               "accusative",
-              "третий/третьего",
+              "третий / третьего",
               "третью",
               "третье",
-              "третьи/третьих"
+              "третьи / третьих"
             ]
           },
           {
@@ -5741,7 +5475,7 @@
       "meanings": [
         {
           "en": "cleverly, slyly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5779,7 +5513,7 @@
         },
         {
           "en": "pure",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('clean')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5848,29 +5582,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "чист",
-                "чиста",
-                "чисто",
-                "чисты"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Всё чисто.",
@@ -5888,11 +5600,15 @@
       "related": [
         {
           "word": "чисто",
-          "gloss": "clearly"
+          "gloss": "clean; all clear"
         },
         {
           "word": "чистота",
           "gloss": "cleanliness"
+        },
+        {
+          "word": "чистить",
+          "gloss": "to clean"
         }
       ]
     },
@@ -6081,7 +5797,7 @@
       "meanings": [
         {
           "en": "assault, storming, raid",
-          "note": "Common masculine noun meaning 'assault, storming' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6240,105 +5956,6 @@
         {
           "word": "этот",
           "gloss": "this (before a noun)"
-        }
-      ]
-    },
-    "этот": {
-      "lemma": "этот",
-      "stress": "э́тот",
-      "pos": "det",
-      "gloss": "this",
-      "meanings": [
-        {
-          "en": "this",
-          "note": "alone: 'я этого не хочу' = I don't want that"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "этот",
-              "эта",
-              "это",
-              "эти"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "этого",
-              "этой",
-              "этого",
-              "этих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "этому",
-              "этой",
-              "этому",
-              "этим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "этот / этого",
-              "эту",
-              "это",
-              "эти / этих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "этим",
-              "этой",
-              "этим",
-              "этими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "этом",
-              "этой",
-              "этом",
-              "этих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Этот дом.",
-          "trans": "This house."
-        },
-        {
-          "text": "Меня тошнит от этой коммуналки.",
-          "trans": "I'm sick of this communal flat."
-        },
-        {
-          "text": "Меня уже тошнит от этой коммуналки! У нас труба уже неделю течёт.",
-          "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
-        }
-      ],
-      "related": [
-        {
-          "word": "это",
-          "gloss": "this is, it"
         }
       ]
     },

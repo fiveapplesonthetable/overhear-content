@@ -12,7 +12,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "звезды",
@@ -73,7 +73,7 @@
           "lemma": "дотянуть",
           "pos": "verb",
           "stress": "дотяну́ть",
-          "gloss": "to stretch, pull up to",
+          "gloss": "to hold out until",
           "gram": "infinitive, perfective"
         },
         {
@@ -195,8 +195,8 @@
           "lemma": "представлять",
           "pos": "verb",
           "stress": "представля́ете",
-          "gloss": "to imagine; to introduce, present",
-          "gram": "2nd person plural / imperative"
+          "gloss": "can you imagine",
+          "gram": "2nd person plural present, imperfective"
         },
         {
           "t": "что",
@@ -467,8 +467,8 @@
           "lemma": "закончить",
           "pos": "verb",
           "stress": "зако́нчили",
-          "gloss": "to finish, to complete",
-          "gram": "verb past"
+          "gloss": "finished",
+          "gram": "past plural, perfective"
         },
         {
           "t": "проверять",
@@ -708,7 +708,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "звезды",
@@ -769,7 +769,7 @@
           "lemma": "дотянуть",
           "pos": "verb",
           "stress": "дотяну́ть",
-          "gloss": "to stretch, pull up to",
+          "gloss": "to hold out until",
           "gram": "infinitive, perfective"
         },
         {
@@ -891,8 +891,8 @@
           "lemma": "представлять",
           "pos": "verb",
           "stress": "представля́ете",
-          "gloss": "to imagine; to introduce, present",
-          "gram": "2nd person plural / imperative"
+          "gloss": "can you imagine",
+          "gram": "2nd person plural present, imperfective"
         },
         {
           "t": "что",
@@ -1163,8 +1163,8 @@
           "lemma": "закончить",
           "pos": "verb",
           "stress": "зако́нчили",
-          "gloss": "to finish, to complete",
-          "gram": "verb past"
+          "gloss": "finished",
+          "gram": "past plural, perfective"
         },
         {
           "t": "проверять",
@@ -1404,7 +1404,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "звезды",
@@ -1465,7 +1465,7 @@
           "lemma": "дотянуть",
           "pos": "verb",
           "stress": "дотяну́ть",
-          "gloss": "to stretch, pull up to",
+          "gloss": "to hold out until",
           "gram": "infinitive, perfective"
         },
         {
@@ -1587,8 +1587,8 @@
           "lemma": "представлять",
           "pos": "verb",
           "stress": "представля́ете",
-          "gloss": "to imagine; to introduce, present",
-          "gram": "2nd person plural / imperative"
+          "gloss": "can you imagine",
+          "gram": "2nd person plural present, imperfective"
         },
         {
           "t": "что",
@@ -1859,8 +1859,8 @@
           "lemma": "закончить",
           "pos": "verb",
           "stress": "зако́нчили",
-          "gloss": "to finish, to complete",
-          "gram": "verb past"
+          "gloss": "finished",
+          "gram": "past plural, perfective"
         },
         {
           "t": "проверять",
@@ -2439,7 +2439,7 @@
       "meanings": [
         {
           "en": "everywhere",
-          "note": "Core Russian adv meaning 'everywhere' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2592,7 +2592,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2628,11 +2628,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2723,15 +2727,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2745,7 +2749,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -2836,11 +2840,11 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
@@ -2937,11 +2941,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2973,15 +2977,19 @@
     },
     "дотянуть": {
       "lemma": "дотянуть",
-      "stress": "дотя́нуть",
+      "stress": "дотяну́ть",
       "pos": "verb",
-      "gloss": "to stretch, pull up to",
+      "gloss": "to hold out until; to stretch to",
       "aspect": "pf",
-      "pair": null,
+      "pair": "дотягивать",
       "meanings": [
         {
-          "en": "to stretch, pull up to",
-          "note": "Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'тянуть'). Used as a perfective (single completed action) verb meaning 'to stretch, pull up to'."
+          "en": "to hold out until, to make it to (a time)",
+          "note": "дотянуть до четырёх = to hold out until four"
+        },
+        {
+          "en": "to stretch, pull as far as",
+          "note": ""
         }
       ],
       "forms": {
@@ -3036,22 +3044,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "дотяни",
+                "дотяните"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Постараюсь дотянуть до четырёх.",
-          "trans": "I will try to stretch it to four."
+          "trans": "I'll try to hold out until four."
         },
         {
-          "text": "Надо всё сделать и дотянуть вовремя.",
-          "trans": "We need to do everything and to stretch on time."
+          "text": "Он не смог дотянуть до зарплаты.",
+          "trans": "He couldn't make it to payday."
         }
       ],
       "related": [
         {
-          "word": "не дотянуть",
-          "gloss": "not to to stretch (negated infinitive)"
+          "word": "тянуть",
+          "gloss": "to pull"
+        },
+        {
+          "word": "дотянуться",
+          "gloss": "to reach (with a hand)"
         }
       ]
     },
@@ -3095,14 +3124,18 @@
     },
     "заключение": {
       "lemma": "заключение",
-      "stress": "заключени́е",
+      "stress": "заключе́ние",
       "pos": "noun",
       "gloss": "conclusion, official report",
       "gender": "n",
       "meanings": [
         {
-          "en": "conclusion, official report",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'conclusion, official report' in everyday Russian."
+          "en": "conclusion, official report (expert finding)",
+          "note": ""
+        },
+        {
+          "en": "imprisonment, confinement",
+          "note": "в заключении = in prison"
         }
       ],
       "forms": {
@@ -3161,21 +3194,25 @@
       "examples": [
         {
           "text": "Комиссия вообще отказалась давать заключение.",
-          "trans": "The commission refused to give an official report at all."
+          "trans": "The commission refused to give any official report at all."
         },
         {
-          "text": "На кухне отеля всегда есть заключение.",
-          "trans": "In the hotel kitchen there is always conclusion."
+          "text": "Врач написал заключение.",
+          "trans": "The doctor wrote up his findings."
         }
       ],
       "related": [
         {
-          "word": "без заключени",
-          "gloss": "without conclusion"
+          "word": "заключить",
+          "gloss": "to conclude"
         },
         {
-          "word": "наш заключение",
-          "gloss": "our conclusion"
+          "word": "в заключение",
+          "gloss": "in conclusion"
+        },
+        {
+          "word": "заключённый",
+          "gloss": "prisoner"
         }
       ]
     },
@@ -3189,7 +3226,7 @@
       "meanings": [
         {
           "en": "to finish, to end, to complete",
-          "note": "+ acc. or infinitive. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'кончить'). Used as a perfective (single completed action) verb meaning 'to finish, to complete', paired with 'заканчивать'."
+          "note": "+ acc. or infinitive. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'кончить')."
         }
       ],
       "forms": {
@@ -3301,11 +3338,11 @@
       "meanings": [
         {
           "en": "star",
-          "note": "In the sky. Common feminine noun meaning 'star; celebrity' in everyday Russian."
+          "note": "In the sky."
         },
         {
           "en": "star, famous performer",
-          "note": "Common feminine noun meaning 'star; celebrity' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3377,8 +3414,12 @@
       ],
       "related": [
         {
-          "word": "звездный",
-          "gloss": "related to star (adj.)"
+          "word": "звёздный",
+          "gloss": "star (adj.), starry"
+        },
+        {
+          "word": "звёздочка",
+          "gloss": "little star; asterisk"
         }
       ]
     },
@@ -3390,7 +3431,7 @@
       "meanings": [
         {
           "en": "or",
-          "note": "Core Russian conj meaning 'or' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3428,7 +3469,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -3991,12 +4032,12 @@
       "lemma": "отель",
       "stress": "оте́ль",
       "pos": "noun",
-      "gloss": "of the hotel",
+      "gloss": "hotel",
       "gender": "m",
       "meanings": [
         {
-          "en": "of the hotel",
-          "note": "Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common masculine noun meaning 'of the hotel' in everyday Russian."
+          "en": "hotel",
+          "note": ""
         }
       ],
       "forms": {
@@ -4054,19 +4095,32 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это гематома, она и стала причиной потери памяти.",
-          "trans": "That is a hematoma, it became the cause of memory loss."
+          "text": "Наш отель должен удивить гостей.",
+          "trans": "Our hotel has to impress the guests."
         },
         {
-          "text": "Андрей, положи её к себе, а то и эту потеряю.",
-          "trans": "Andrey, put it in your pocket, or I will lose this one too."
+          "text": "В нашем отеле действует новая услуга.",
+          "trans": "Our hotel has a new service."
         },
         {
-          "text": "Я хотел бы просмотреть все документы по закупке продуктов.",
-          "trans": "I would like to review all the documents on food purchases."
+          "text": "Кто бы мог подумать, что буду управлять отелем?",
+          "trans": "Who'd have thought I'd be running a hotel?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "гостиница",
+          "gloss": "hotel"
+        },
+        {
+          "word": "номер",
+          "gloss": "hotel room"
+        },
+        {
+          "word": "постоялец",
+          "gloss": "hotel guest"
+        }
+      ]
     },
     "отказаться": {
       "lemma": "отказаться",
@@ -4181,7 +4235,7 @@
       "meanings": [
         {
           "en": "excellent",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('excellent')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4276,12 +4330,12 @@
       "lemma": "перелом",
       "stress": "перело́м",
       "pos": "noun",
-      "gloss": "fractures / broken bones",
+      "gloss": "fracture, broken bone",
       "gender": "m",
       "meanings": [
         {
-          "en": "fractures / broken bones",
-          "note": "Common masculine noun meaning 'fractures / broken bones' in everyday Russian."
+          "en": "fracture, broken bone",
+          "note": "перелом ребра = a broken rib"
         }
       ],
       "forms": {
@@ -4343,11 +4397,20 @@
           "trans": "He has no fractures, which is actually amazing!"
         },
         {
-          "text": "На кухне ресторана всегда есть перелом.",
-          "trans": "In the restaurant kitchen there is always fractures."
+          "text": "У вас неполный перелом ребра.",
+          "trans": "You have a partial rib fracture."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "сломать",
+          "gloss": "to break"
+        },
+        {
+          "word": "переломать",
+          "gloss": "to break (many things)"
+        }
+      ]
     },
     "пойти": {
       "lemma": "пойти",
@@ -4355,11 +4418,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -4525,22 +4588,26 @@
           "trans": "Now let's go through everything in order."
         },
         {
-          "text": "Всё в полном порядке.",
-          "trans": "Everything is in complete order."
+          "text": "Не бойся, всё в порядке!",
+          "trans": "Don't worry, everything's fine!"
         },
         {
-          "text": "Теперь давай всё по порядку. Скажи мне, сколько ты им должна?",
-          "trans": "Now let's go through everything in order. Tell me, how much do you owe them?"
+          "text": "Да, я наведу здесь железный порядок.",
+          "trans": "Yes, I'll establish iron order here."
         }
       ],
       "related": [
         {
-          "word": "рядом",
-          "gloss": "nearby"
+          "word": "в порядке",
+          "gloss": "fine, OK"
         },
         {
-          "word": "порядочность",
-          "gloss": "decency"
+          "word": "порядочный",
+          "gloss": "decent"
+        },
+        {
+          "word": "беспорядок",
+          "gloss": "mess, disorder"
         }
       ]
     },
@@ -4554,7 +4621,7 @@
       "meanings": [
         {
           "en": "to try hard, do one's best",
-          "note": "Followed by infinitive. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to try, make an effort', paired with 'стараться'."
+          "note": "Followed by infinitive."
         }
       ],
       "forms": {
@@ -4663,7 +4730,7 @@
         },
         {
           "en": "to introduce, present",
-          "note": "Someone or something. Used as an imperfective (ongoing/repeated action) verb meaning 'to imagine; to introduce, present', paired with 'представить'."
+          "note": "Someone or something."
         }
       ],
       "forms": {
@@ -4771,7 +4838,7 @@
       "meanings": [
         {
           "en": "crime, criminal offence",
-          "note": "Law. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'crime, offence' in everyday Russian."
+          "note": "Law."
         }
       ],
       "forms": {
@@ -4866,7 +4933,7 @@
       "meanings": [
         {
           "en": "to check, test, verify",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to check, test, verify', paired with 'проверить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4973,7 +5040,7 @@
       "meanings": [
         {
           "en": "five",
-          "note": "+ genitive plural: пять рублей. Core Russian num meaning 'five' in everyday speech."
+          "note": "+ genitive plural: пять рублей."
         }
       ],
       "forms": null,
@@ -5012,7 +5079,7 @@
       "meanings": [
         {
           "en": "for the sake of, for",
-          "note": "+ genitive. Core Russian prep meaning 'for the sake of' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -5146,7 +5213,7 @@
       "meanings": [
         {
           "en": "to go on, be happening (usually of chaos or strange events)",
-          "note": "3rd person only. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to go on, to happen'."
+          "note": "3rd person only."
         }
       ],
       "forms": {
@@ -5160,15 +5227,15 @@
           {
             "cells": [
               "1st",
-              "—",
-              "—"
+              "творюсь",
+              "творимся"
             ]
           },
           {
             "cells": [
               "2nd",
-              "—",
-              "—"
+              "творишься",
+              "творитесь"
             ]
           },
           {
@@ -5201,6 +5268,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "творись",
+                "творитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5220,15 +5304,15 @@
       "related": [
         {
           "word": "творить",
-          "gloss": "to do"
-        },
-        {
-          "word": "притворяться",
-          "gloss": "to pretend"
+          "gloss": "to do, to create"
         },
         {
           "word": "натворить",
-          "gloss": "to do"
+          "gloss": "to get up to (mischief)"
+        },
+        {
+          "word": "происходить",
+          "gloss": "to happen"
         }
       ]
     },
@@ -5240,11 +5324,11 @@
       "meanings": [
         {
           "en": "definitely, for sure",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "exactly, precisely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5278,7 +5362,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -5582,7 +5666,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5685,7 +5769,7 @@
       "meanings": [
         {
           "en": "at least, just",
-          "note": "Дай хоть одну = give me just one. Core Russian part meaning 'at least, just' in everyday speech."
+          "note": "Дай хоть одну = give me just one."
         }
       ],
       "forms": null,
@@ -5813,26 +5897,35 @@
       "meanings": [
         {
           "en": "four",
-          "note": "+ genitive singular: четыре года. Core Russian num meaning 'four' in everyday speech."
+          "note": "к четырём = by four (o'clock)"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Четыре года.",
-          "trans": "Four years."
+          "text": "Леночка, дорогая, жди меня сегодня к четырём.",
+          "trans": "Lenochka, darling, expect me today by four."
         },
         {
-          "text": "У меня четыре фломастера.",
-          "trans": "I have four markers."
-        },
-        {
-          "text": "Я уже четыре года работаю мэром.",
-          "trans": "I've been working as mayor for four years now."
+          "text": "У нас четыре повара.",
+          "trans": "We have four cooks."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "четвёртый",
+          "gloss": "fourth"
+        },
+        {
+          "word": "четырнадцать",
+          "gloss": "fourteen"
+        },
+        {
+          "word": "сорок",
+          "gloss": "forty"
+        }
+      ]
     },
     "что": {
       "lemma": "что",

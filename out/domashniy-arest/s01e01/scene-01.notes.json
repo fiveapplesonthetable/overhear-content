@@ -115,10 +115,10 @@
         {
           "t": "Здравствуйте!",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "Как",
@@ -361,7 +361,7 @@
           "lemma": "класс",
           "pos": "noun",
           "stress": null,
-          "gloss": "cool!, great!",
+          "gloss": "cool! / class",
           "gram": "nominative singular, colloquial exclamation"
         }
       ]
@@ -411,7 +411,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -683,10 +683,10 @@
         {
           "t": "Здравствуйте!",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         }
       ]
     },
@@ -941,7 +941,7 @@
           "lemma": "класс",
           "pos": "noun",
           "stress": null,
-          "gloss": "cool!, great!",
+          "gloss": "cool! / class",
           "gram": "nominative singular, colloquial exclamation"
         }
       ]
@@ -991,7 +991,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1271,10 +1271,10 @@
         {
           "t": "Здравствуйте!",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "Как",
@@ -1517,7 +1517,7 @@
           "lemma": "класс",
           "pos": "noun",
           "stress": null,
-          "gloss": "cool!, great!",
+          "gloss": "cool! / class",
           "gram": "nominative singular, colloquial exclamation"
         }
       ]
@@ -1567,7 +1567,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -2109,11 +2109,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2148,7 +2148,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -2239,11 +2238,11 @@
         },
         {
           "en": "here you are!",
-          "note": "imperative держи! when handing something over"
+          "note": ""
         },
         {
           "en": "catch!, grab (him)!",
-          "note": "Держи его!. Used as an imperfective (ongoing/repeated action) verb meaning 'to hold'."
+          "note": "Держи его!."
         }
       ],
       "forms": {
@@ -2355,11 +2354,11 @@
       "meanings": [
         {
           "en": "chewing gum",
-          "note": "Colloquial everyday word. Common feminine noun meaning 'chewing gum' in everyday Russian."
+          "note": "Colloquial everyday word."
         },
         {
           "en": "a piece of gum",
-          "note": "Common feminine noun meaning 'chewing gum' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2434,70 +2433,17 @@
     "здравствуйте": {
       "lemma": "здравствуйте",
       "stress": "здра́вствуйте",
-      "pos": "verb",
-      "gloss": "hello",
-      "aspect": "impf",
+      "pos": "interj",
+      "gloss": "hello (polite or to several people)",
       "pair": null,
       "meanings": [
         {
           "en": "hello",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'hello'."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "здравствуйю",
-              "здравствуйем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "здравствуйешь",
-              "здравствуйете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "здравствуйет",
-              "здравствуйют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "здравствуйл",
-                "здравствуйла",
-                "здравствуйло",
-                "здравствуйли"
-              ]
-            }
-          ]
-        }
-      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Здравствуйте! Как там в Венгрии?",
@@ -2568,16 +2514,20 @@
       "gender": "m",
       "meanings": [
         {
-          "en": "class, form (at school)",
-          "note": "Colloquial exclamation. Common masculine noun meaning 'class; (colloquial) cool!' in everyday Russian."
+          "en": "class, form, grade (at school)",
+          "note": ""
         },
         {
           "en": "classroom",
-          "note": "Common masculine noun meaning 'class; (colloquial) cool!' in everyday Russian."
+          "note": ""
         },
         {
           "en": "cool!, great!",
-          "note": "Colloquial exclamation. Common masculine noun meaning 'class; (colloquial) cool!' in everyday Russian."
+          "note": "Colloquial exclamation."
+        },
+        {
+          "en": "class, level",
+          "note": "высшего класса = top-class"
         }
       ],
       "forms": {
@@ -2662,7 +2612,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -2684,7 +2634,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -2697,7 +2651,7 @@
       "meanings": [
         {
           "en": "tape recorder, cassette player",
-          "note": "The boombox of the 1980s. Common masculine noun meaning 'tape recorder' in everyday Russian."
+          "note": "The boombox of the 1980s."
         }
       ],
       "forms": {
@@ -2783,11 +2737,11 @@
       "meanings": [
         {
           "en": "toy car, little car",
-          "note": "Diminutive of машина. Common feminine noun meaning 'toy car; small machine' in everyday Russian."
+          "note": "Diminutive of машина."
         },
         {
           "en": "small machine (sewing machine, typewriter)",
-          "note": "Common feminine noun meaning 'toy car; small machine' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2872,11 +2826,11 @@
       "meanings": [
         {
           "en": "may I?, can I?",
-          "note": "Asking permission. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Asking permission."
         },
         {
           "en": "it is possible",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2976,7 +2930,7 @@
       "meanings": [
         {
           "en": "fine, OK, normal",
-          "note": "Colloquial. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Colloquial."
         }
       ],
       "forms": null,
@@ -3060,7 +3014,7 @@
       "meanings": [
         {
           "en": "wow, oh my",
-          "note": "Surprise. Core Russian interj meaning 'wow' in everyday speech."
+          "note": "Surprise."
         }
       ],
       "forms": null,
@@ -3278,11 +3232,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -3420,7 +3374,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -3567,11 +3521,11 @@
       "meanings": [
         {
           "en": "to have a look, to take a look",
-          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         },
         {
           "en": "to watch (a film) through",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         }
       ],
       "forms": {
@@ -3795,7 +3749,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -3863,11 +3817,11 @@
       "meanings": [
         {
           "en": "how much, how many",
-          "note": "+ genitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive."
         },
         {
           "en": "what a lot of!",
-          "note": "In exclamations. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "In exclamations."
         }
       ],
       "forms": null,
@@ -3898,11 +3852,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -4000,67 +3954,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -4253,7 +4155,7 @@
         },
         {
           "en": "homework",
-          "note": "in уроки учить / делать уроки, plural"
+          "note": ""
         }
       ],
       "forms": {
@@ -4335,11 +4237,11 @@
       "meanings": [
         {
           "en": "to learn, to study",
-          "note": "Учить уроки = to do one's homework. Used as an imperfective (ongoing/repeated action) verb meaning 'to learn; to teach', paired with 'выучить'."
+          "note": "Учить уроки = to do one's homework."
         },
         {
           "en": "to teach",
-          "note": "+ accusative of the person. Used as an imperfective (ongoing/repeated action) verb meaning 'to learn; to teach', paired with 'выучить'."
+          "note": "+ accusative of the person."
         }
       ],
       "forms": {
@@ -4453,7 +4355,7 @@
         },
         {
           "en": "that's enough!",
-          "note": "Хватит!. Used as a perfective (single completed action) verb meaning 'to be enough', paired with 'хватать'."
+          "note": "Хватит!."
         }
       ],
       "forms": {
@@ -4508,6 +4410,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хвати",
+                "хватите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4527,15 +4446,15 @@
       "related": [
         {
           "word": "хватать",
-          "gloss": "to grab"
+          "gloss": "to be enough (impf); to grab"
         },
         {
-          "word": "схватить",
-          "gloss": "to grab"
+          "word": "хватит!",
+          "gloss": "that's enough!"
         },
         {
-          "word": "перехватить",
-          "gloss": "to intercept"
+          "word": "достаточно",
+          "gloss": "enough"
         }
       ]
     },
@@ -4859,7 +4778,7 @@
       "meanings": [
         {
           "en": "Japanese",
-          "note": "Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('Japanese')."
+          "note": ""
         }
       ],
       "forms": {

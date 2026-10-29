@@ -111,8 +111,8 @@
           "lemma": "подарок",
           "pos": "noun",
           "stress": "пода́рок",
-          "gloss": "gift, voucher",
-          "gram": "nominative singular, masculine"
+          "gloss": "present, gift",
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -322,9 +322,9 @@
           "t": "нашел",
           "lemma": "найти",
           "pos": "verb",
-          "stress": "нашёл",
+          "stress": "наше́л",
           "gloss": "found",
-          "gram": "UNKNOWN"
+          "gram": "past, masculine singular, perfective"
         },
         {
           "t": "деньги.",
@@ -445,7 +445,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -462,7 +462,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "her",
-          "gram": "instrumental singular"
+          "gram": "3rd person feminine singular, prepositional / instrumental"
         },
         {
           "t": "поеду.",
@@ -605,8 +605,8 @@
           "lemma": "подарок",
           "pos": "noun",
           "stress": "пода́рок",
-          "gloss": "gift, voucher",
-          "gram": "nominative singular, masculine"
+          "gloss": "present, gift",
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -816,9 +816,9 @@
           "t": "нашел",
           "lemma": "найти",
           "pos": "verb",
-          "stress": "нашёл",
+          "stress": "наше́л",
           "gloss": "found",
-          "gram": "UNKNOWN"
+          "gram": "past, masculine singular, perfective"
         },
         {
           "t": "деньги.",
@@ -939,7 +939,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -956,7 +956,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "her",
-          "gram": "instrumental singular"
+          "gram": "3rd person feminine singular, prepositional / instrumental"
         },
         {
           "t": "поеду.",
@@ -1099,8 +1099,8 @@
           "lemma": "подарок",
           "pos": "noun",
           "stress": "пода́рок",
-          "gloss": "gift, voucher",
-          "gram": "nominative singular, masculine"
+          "gloss": "present, gift",
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -1310,9 +1310,9 @@
           "t": "нашел",
           "lemma": "найти",
           "pos": "verb",
-          "stress": "нашёл",
+          "stress": "наше́л",
           "gloss": "found",
-          "gram": "UNKNOWN"
+          "gram": "past, masculine singular, perfective"
         },
         {
           "t": "деньги.",
@@ -1433,7 +1433,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1450,7 +1450,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "her",
-          "gram": "instrumental singular"
+          "gram": "3rd person feminine singular, prepositional / instrumental"
         },
         {
           "t": "поеду.",
@@ -1602,11 +1602,11 @@
       "meanings": [
         {
           "en": "to give back, to return",
-          "note": "+ accusative. Used as a perfective (single completed action) verb meaning 'to give back, to get back', paired with 'возвращать'."
+          "note": "+ accusative."
         },
         {
           "en": "to get back",
-          "note": "Money you spent. Used as a perfective (single completed action) verb meaning 'to give back, to get back', paired with 'возвращать'."
+          "note": "Money you spent."
         }
       ],
       "forms": {
@@ -1719,11 +1719,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1775,6 +1775,23 @@
                 "видела",
                 "видело",
                 "видели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
               ]
             }
           ]
@@ -1886,29 +1903,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "готов",
-                "готова",
-                "готово",
-                "готовы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я готов!",
@@ -1950,7 +1945,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -1986,11 +1981,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2081,15 +2080,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2179,7 +2178,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -2264,11 +2262,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2303,12 +2301,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2363,6 +2359,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2382,17 +2395,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "к": {
       "lemma": "к",
@@ -2626,7 +2640,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2678,6 +2692,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -2838,7 +2869,7 @@
       "meanings": [
         {
           "en": "to find",
-          "note": "Used as a perfective (single completed action) verb meaning 'to find', paired with 'находить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2979,7 +3010,7 @@
       "meanings": [
         {
           "en": "without fail, definitely, necessarily",
-          "note": "Firm promise or requirement. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Firm promise or requirement."
         }
       ],
       "forms": null,
@@ -3180,7 +3211,7 @@
       "meanings": [
         {
           "en": "present, gift",
-          "note": "Common masculine noun meaning 'present, gift' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3262,7 +3293,7 @@
       "meanings": [
         {
           "en": "to go, to set off (by car, bus, train)",
-          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to go (by vehicle), to set off', paired with 'ехать'."
+          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -3375,7 +3406,7 @@
       "meanings": [
         {
           "en": "to quarrel, to have an argument",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ругаться'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to quarrel', forming an aspectual pair with 'ругаться'. The reflexive suffix '-ся'/'-сь' makes the action intransitive, reciprocal, or directed at the subject."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ругаться')."
         }
       ],
       "forms": {
@@ -3521,7 +3552,7 @@
       "meanings": [
         {
           "en": "salad dish",
-          "note": "Common masculine noun meaning 'salad' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3601,7 +3632,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -3705,11 +3736,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3781,8 +3812,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -3794,7 +3833,7 @@
       "meanings": [
         {
           "en": "holy, sacred",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('holy, sacred')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3837,10 +3876,10 @@
           {
             "cells": [
               "accusative",
-              "святой/святого",
+              "святой / святого",
               "святую",
               "святое",
-              "святые/святых"
+              "святые / святых"
             ]
           },
           {
@@ -3895,7 +3934,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -4008,7 +4047,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -4016,7 +4055,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -4131,7 +4170,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4206,7 +4245,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -4429,11 +4468,15 @@
       "lemma": "удобно",
       "stress": "удо́бно",
       "pos": "adv",
-      "gloss": "comfortable, convenient",
+      "gloss": "comfortably, conveniently; (it's) convenient",
       "meanings": [
         {
-          "en": "comfortable, convenient",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "en": "comfortably, conveniently",
+          "note": ""
+        },
+        {
+          "en": "(it's) comfortable / convenient",
+          "note": "Predicative + dative: вам удобно говорить? = is it a good time to talk?"
         }
       ],
       "forms": null,
@@ -4441,14 +4484,23 @@
       "examples": [
         {
           "text": "Я вижу, тебе у нас не совсем удобно.",
-          "trans": "I can see that you are not entirely comfortable staying at our place."
+          "trans": "I can see you're not quite comfortable at our place."
         },
         {
-          "text": "На кухне все стараются работать удобно.",
-          "trans": "In the kitchen everyone tries to work comfortable."
+          "text": "Шеф, а вам удобно сейчас говорить?",
+          "trans": "Chef, is it a good time to talk?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "удобный",
+          "gloss": "comfortable, convenient"
+        },
+        {
+          "word": "неудобно",
+          "gloss": "awkward, inconvenient"
+        }
+      ]
     },
     "уже": {
       "lemma": "уже",
@@ -4488,7 +4540,7 @@
       "meanings": [
         {
           "en": "landlady, female owner, mistress of the house",
-          "note": "Common feminine noun meaning 'landlady, hostess, mistress of the house' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4583,7 +4635,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4635,6 +4687,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

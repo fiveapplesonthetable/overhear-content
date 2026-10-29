@@ -205,7 +205,7 @@
           "lemma": "выписывать",
           "pos": "verb",
           "stress": "выпи́сывают",
-          "gloss": "they discharge",
+          "gloss": "are discharging",
           "gram": "3rd person plural present, imperfective"
         }
       ]
@@ -273,7 +273,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -282,7 +282,7 @@
           "pos": "noun",
           "stress": "му́жа",
           "gloss": "husband",
-          "gram": "accusative singular, masculine animate"
+          "gram": "genitive / accusative singular, masculine"
         },
         {
           "t": "ни",
@@ -405,8 +405,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "у",
@@ -837,7 +837,7 @@
           "lemma": "выписывать",
           "pos": "verb",
           "stress": "выпи́сывают",
-          "gloss": "they discharge",
+          "gloss": "are discharging",
           "gram": "3rd person plural present, imperfective"
         }
       ]
@@ -905,7 +905,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -914,7 +914,7 @@
           "pos": "noun",
           "stress": "му́жа",
           "gloss": "husband",
-          "gram": "accusative singular, masculine animate"
+          "gram": "genitive / accusative singular, masculine"
         },
         {
           "t": "ни",
@@ -1037,8 +1037,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "у",
@@ -1469,7 +1469,7 @@
           "lemma": "выписывать",
           "pos": "verb",
           "stress": "выпи́сывают",
-          "gloss": "they discharge",
+          "gloss": "are discharging",
           "gram": "3rd person plural present, imperfective"
         }
       ]
@@ -1537,7 +1537,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1546,7 +1546,7 @@
           "pos": "noun",
           "stress": "му́жа",
           "gloss": "husband",
-          "gram": "accusative singular, masculine animate"
+          "gram": "genitive / accusative singular, masculine"
         },
         {
           "t": "ни",
@@ -1669,8 +1669,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "у",
@@ -1974,11 +1974,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2030,6 +2030,23 @@
                 "видела",
                 "видело",
                 "видели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
               ]
             }
           ]
@@ -2148,22 +2165,18 @@
           "trans": "This is the key to Vika's apartment."
         },
         {
-          "text": "Шеф, я завтра Вику с дочкой забираю.",
-          "trans": "Chef, tomorrow I am picking up Vika and our daughter."
-        },
-        {
-          "text": "Сделайте так, чтобы к приезду Вики было готово.",
-          "trans": "Make sure everything is ready by Vika's arrival."
+          "text": "Это Викин телефон?",
+          "trans": "Is this Vika's phone?"
         }
       ],
       "related": [
         {
-          "word": "вот викин",
-          "gloss": "right here (Vika's)"
+          "word": "мамин",
+          "gloss": "mum's"
         },
         {
-          "word": "именно викин",
-          "gloss": "precisely Vika's"
+          "word": "папин",
+          "gloss": "dad's"
         }
       ]
     },
@@ -2251,15 +2264,19 @@
     },
     "выписывать": {
       "lemma": "выписывать",
-      "stress": "выписы́вать",
+      "stress": "выпи́сывать",
       "pos": "verb",
-      "gloss": "they discharge",
+      "gloss": "to discharge (from hospital); to write out",
       "aspect": "impf",
-      "pair": null,
+      "pair": "выписать",
       "meanings": [
         {
-          "en": "they discharge",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'they discharge'."
+          "en": "to discharge (from hospital)",
+          "note": ""
+        },
+        {
+          "en": "to write out, to issue",
+          "note": ""
         }
       ],
       "forms": {
@@ -2314,6 +2331,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "выписывай",
+                "выписывайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2322,14 +2356,18 @@
           "trans": "Tomorrow she is being discharged from the maternity hospital."
         },
         {
-          "text": "Завтра утром моих девчонок выписывают из роддома.",
-          "trans": "Tomorrow morning my girls are being discharged from the hospital."
+          "text": "Врач выписывает рецепт.",
+          "trans": "The doctor is writing out a prescription."
         }
       ],
       "related": [
         {
-          "word": "не выписывать",
-          "gloss": "not to they discharge (negated infinitive)"
+          "word": "выписать",
+          "gloss": "to discharge; to write out (pf)"
+        },
+        {
+          "word": "выписка",
+          "gloss": "discharge"
         }
       ]
     },
@@ -2341,7 +2379,7 @@
       "meanings": [
         {
           "en": "even",
-          "note": "Core Russian part meaning 'even' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2379,11 +2417,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2425,11 +2463,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2452,14 +2490,19 @@
     },
     "завал": {
       "lemma": "завал",
-      "stress": "за́вал",
+      "stress": "зава́л",
       "pos": "noun",
-      "gloss": "pile-up, rush of work",
+      "gloss": "pile-up of work, being swamped",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
-          "en": "pile-up, rush of work",
-          "note": "Common masculine noun meaning 'pile-up, rush of work' in everyday Russian."
+          "en": "(colloquial) a pile-up of work, being swamped",
+          "note": "у меня завал = I'm swamped"
+        },
+        {
+          "en": "blockage, obstruction",
+          "note": "завал на дороге = a road blockage"
         }
       ],
       "forms": {
@@ -2518,21 +2561,25 @@
       "examples": [
         {
           "text": "По работе у меня сегодня полный завал.",
-          "trans": "I am completely swamped at work today."
+          "trans": "I'm completely swamped at work today."
         },
         {
-          "text": "На кухне отеля всегда есть завал.",
-          "trans": "In the hotel kitchen there is always pile-up."
+          "text": "У нас сегодня на кухне завал.",
+          "trans": "We're swamped in the kitchen today."
+        },
+        {
+          "text": "Я вижу, какой у вас завал.",
+          "trans": "I can see how swamped you are."
         }
       ],
       "related": [
         {
-          "word": "без зава",
-          "gloss": "without pile-up"
+          "word": "завалить",
+          "gloss": "to bury, to overload; to fail"
         },
         {
-          "word": "наш завал",
-          "gloss": "our pile-up"
+          "word": "аврал",
+          "gloss": "rush job, all hands on deck"
         }
       ]
     },
@@ -2772,7 +2819,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -2880,7 +2927,7 @@
       "meanings": [
         {
           "en": "flat, apartment",
-          "note": "Also a flat number in an address. Common feminine noun meaning 'flat, apartment' in everyday Russian."
+          "note": "Also a flat number in an address."
         }
       ],
       "forms": {
@@ -2970,7 +3017,7 @@
       "meanings": [
         {
           "en": "key",
-          "note": "For a door or a car. Common masculine noun meaning 'key' in everyday Russian."
+          "note": "For a door or a car."
         }
       ],
       "forms": {
@@ -3042,16 +3089,16 @@
       ],
       "related": [
         {
-          "word": "отключить",
-          "gloss": "to switch off"
+          "word": "ключик",
+          "gloss": "little key"
         },
         {
-          "word": "переключиться",
-          "gloss": "to switch over"
+          "word": "замок",
+          "gloss": "lock"
         },
         {
-          "word": "выключить",
-          "gloss": "to turn off"
+          "word": "связка ключей",
+          "gloss": "bunch of keys"
         }
       ]
     },
@@ -3064,7 +3111,7 @@
       "meanings": [
         {
           "en": "baby crib, cot",
-          "note": "Common feminine noun meaning 'baby crib, cot' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3086,7 +3133,7 @@
             "cells": [
               "genitive",
               "кроватки",
-              "кроватк"
+              "кроваток"
             ]
           },
           {
@@ -3126,8 +3173,8 @@
           "trans": "A baby crib."
         },
         {
-          "text": "На кухне отеля всегда есть кроватка.",
-          "trans": "In the hotel kitchen there is always baby crib."
+          "text": "Папа, собери кроватку, пожалуйста.",
+          "trans": "Dad, put the crib together, please."
         }
       ],
       "related": []
@@ -3229,7 +3276,7 @@
         },
         {
           "en": "better",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('best; better')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3329,7 +3376,7 @@
       "meanings": [
         {
           "en": "husband",
-          "note": "Мой муж = my husband. Common masculine noun meaning 'husband' in everyday Russian."
+          "note": "Мой муж = my husband."
         }
       ],
       "forms": {
@@ -3533,7 +3580,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3609,7 +3656,7 @@
         },
         {
           "en": "ни... ни = neither... nor",
-          "note": "Core Russian part meaning 'not a (single); neither... nor' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3805,11 +3852,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -3930,7 +3977,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -4035,7 +4082,7 @@
       "meanings": [
         {
           "en": "to go, to set off (by car, bus, train)",
-          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to go (by vehicle), to set off', paired with 'ехать'."
+          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -4146,7 +4193,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -4189,7 +4236,7 @@
       "meanings": [
         {
           "en": "floor",
-          "note": "На полу = on the floor. Common masculine noun meaning 'floor' in everyday Russian."
+          "note": "На полу = on the floor."
         }
       ],
       "forms": {
@@ -4224,8 +4271,8 @@
           {
             "cells": [
               "accusative",
-              "пол",
-              "полы"
+              "пола",
+              "полов"
             ]
           },
           {
@@ -4238,7 +4285,7 @@
           {
             "cells": [
               "prepositional",
-              "поле (на полу)",
+              "поле",
               "полах"
             ]
           }
@@ -4270,7 +4317,7 @@
       "meanings": [
         {
           "en": "shelf",
-          "note": "Derived feminine noun formed with a productive Slavic suffix, used in spoken Russian to mean 'shelf'."
+          "note": ""
         },
         {
           "en": "berth",
@@ -4356,7 +4403,7 @@
       "meanings": [
         {
           "en": "to wash, to clean",
-          "note": "Completed: the job gets done. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мыть'). Used as a perfective (single completed action) verb meaning 'to wash', paired with 'мыть'."
+          "note": "Completed: the job gets done. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мыть')."
         }
       ],
       "forms": {
@@ -4501,13 +4548,17 @@
       "lemma": "прибить",
       "stress": "приби́ть",
       "pos": "verb",
-      "gloss": "to kill, clobber (colloq.)",
+      "gloss": "to kill (colloq.); to nail up",
       "aspect": "pf",
-      "pair": null,
+      "pair": "прибивать",
       "meanings": [
         {
-          "en": "to kill, clobber (colloq.)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'бить'). Used as a perfective (single completed action) verb meaning 'to kill, clobber (colloq.)'."
+          "en": "to kill, to clobber (colloq.)",
+          "note": ""
+        },
+        {
+          "en": "to nail up, to fix with nails",
+          "note": "прибить полку = to put up a shelf"
         }
       ],
       "forms": {
@@ -4521,22 +4572,22 @@
           {
             "cells": [
               "1st",
-              "приблю",
-              "прибим"
+              "прибью",
+              "прибьём"
             ]
           },
           {
             "cells": [
               "2nd",
-              "прибишь",
-              "прибите"
+              "прибьёшь",
+              "прибьёте"
             ]
           },
           {
             "cells": [
               "3rd",
-              "прибит",
-              "прибят"
+              "прибьёт",
+              "прибьют"
             ]
           }
         ]
@@ -4562,22 +4613,47 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "прибей",
+                "прибейте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Шеф реально тебя прибьет, если увидит.",
-          "trans": "The Chef will literally kill you if he sees you."
+          "text": "Шеф реально тебя прибьёт, если увидит.",
+          "trans": "The chef will seriously kill you if he sees."
         },
         {
-          "text": "На кухне никто не хочет прибить без причины.",
-          "trans": "In the kitchen nobody wants to kill without a reason."
+          "text": "Там ещё полки нужно прибить, сделаешь?",
+          "trans": "The shelves there still need putting up, will you do it?"
         }
       ],
       "related": [
         {
-          "word": "не прибить",
-          "gloss": "not to to kill (negated infinitive)"
+          "word": "бить",
+          "gloss": "to beat, to hit"
+        },
+        {
+          "word": "убить",
+          "gloss": "to kill"
+        },
+        {
+          "word": "гвоздь",
+          "gloss": "nail"
         }
       ]
     },
@@ -4595,7 +4671,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4699,7 +4775,7 @@
       "meanings": [
         {
           "en": "maternity hospital",
-          "note": "Common masculine noun meaning 'maternity hospital' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4758,14 +4834,23 @@
       "examples": [
         {
           "text": "В моём районе есть один неплохой роддом.",
-          "trans": "In my neighborhood there is a pretty good maternity hospital."
+          "trans": "There's a pretty good maternity hospital in my neighbourhood."
         },
         {
-          "text": "На кухне отеля всегда есть роддом.",
-          "trans": "In the hotel kitchen there is always maternity hospital."
+          "text": "Завтра её из роддома выписывают.",
+          "trans": "She's being discharged from the maternity hospital tomorrow."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "роды",
+          "gloss": "childbirth"
+        },
+        {
+          "word": "больница",
+          "gloss": "hospital"
+        }
+      ]
     },
     "самый": {
       "lemma": "самый",
@@ -4875,7 +4960,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -5022,11 +5107,11 @@
       "meanings": [
         {
           "en": "to collect, to put together",
-          "note": "Money, things, people. Used as a perfective (single completed action) verb meaning 'to collect, to gather', paired with 'собирать'."
+          "note": "Money, things, people."
         },
         {
           "en": "to pack",
-          "note": "'собрать вещи' = to pack. Used as a perfective (single completed action) verb meaning 'to collect, to gather', paired with 'собирать'."
+          "note": "'собрать вещи' = to pack."
         }
       ],
       "forms": {
@@ -5117,11 +5202,15 @@
       "related": [
         {
           "word": "собирать",
-          "gloss": "to collect"
+          "gloss": "to collect (impf)"
         },
         {
-          "word": "отобрать",
-          "gloss": "to take away"
+          "word": "собрание",
+          "gloss": "meeting"
+        },
+        {
+          "word": "собраться",
+          "gloss": "to get ready, gather"
         }
       ]
     },
@@ -5162,7 +5251,7 @@
       "meanings": [
         {
           "en": "there, thither (towards that place)",
-          "note": "Directional adverb. Core Russian adv meaning 'there, thither (motion)' in everyday speech."
+          "note": "Directional adverb."
         }
       ],
       "forms": null,
@@ -5200,7 +5289,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,

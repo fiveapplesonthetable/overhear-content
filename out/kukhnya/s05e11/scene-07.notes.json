@@ -50,9 +50,9 @@
           "t": "мастера.",
           "lemma": "мастер",
           "pos": "noun",
-          "stress": "мастера́",
+          "stress": "ма́стера",
           "gloss": "technician, master",
-          "gram": "nom.m.pl"
+          "gram": "genitive singular"
         }
       ]
     },
@@ -158,7 +158,7 @@
           "pos": "name",
           "stress": null,
           "gloss": "Andreyevna",
-          "gram": "UNKNOWN"
+          "gram": "patronymic, nominative"
         },
         {
           "t": "ваша",
@@ -418,13 +418,13 @@
           "pos": "det",
           "stress": "мои́м",
           "gloss": "my",
-          "gram": "masculine instrumental singular"
+          "gram": "instrumental singular, masculine / neuter"
         },
         {
           "t": "врагом.",
           "lemma": "враг",
           "pos": "noun",
-          "stress": "вра́гом",
+          "stress": "враго́м",
           "gloss": "enemy",
           "gram": "instrumental singular"
         }
@@ -562,9 +562,9 @@
           "t": "мастера.",
           "lemma": "мастер",
           "pos": "noun",
-          "stress": "мастера́",
+          "stress": "ма́стера",
           "gloss": "technician, master",
-          "gram": "nom.m.pl"
+          "gram": "genitive singular"
         }
       ]
     },
@@ -670,7 +670,7 @@
           "pos": "name",
           "stress": null,
           "gloss": "Andreyevna",
-          "gram": "UNKNOWN"
+          "gram": "patronymic, nominative"
         },
         {
           "t": "ваша",
@@ -930,13 +930,13 @@
           "pos": "det",
           "stress": "мои́м",
           "gloss": "my",
-          "gram": "masculine instrumental singular"
+          "gram": "instrumental singular, masculine / neuter"
         },
         {
           "t": "врагом.",
           "lemma": "враг",
           "pos": "noun",
-          "stress": "вра́гом",
+          "stress": "враго́м",
           "gloss": "enemy",
           "gram": "instrumental singular"
         }
@@ -1074,9 +1074,9 @@
           "t": "мастера.",
           "lemma": "мастер",
           "pos": "noun",
-          "stress": "мастера́",
+          "stress": "ма́стера",
           "gloss": "technician, master",
-          "gram": "nom.m.pl"
+          "gram": "genitive singular"
         }
       ]
     },
@@ -1182,7 +1182,7 @@
           "pos": "name",
           "stress": null,
           "gloss": "Andreyevna",
-          "gram": "UNKNOWN"
+          "gram": "patronymic, nominative"
         },
         {
           "t": "ваша",
@@ -1442,13 +1442,13 @@
           "pos": "det",
           "stress": "мои́м",
           "gloss": "my",
-          "gram": "masculine instrumental singular"
+          "gram": "instrumental singular, masculine / neuter"
         },
         {
           "t": "врагом.",
           "lemma": "враг",
           "pos": "noun",
-          "stress": "вра́гом",
+          "stress": "враго́м",
           "gloss": "enemy",
           "gram": "instrumental singular"
         }
@@ -1806,7 +1806,7 @@
       "meanings": [
         {
           "en": "your, yours",
-          "note": "Polite (вы) or plural. Core Russian det meaning 'your, yours (polite or plural)' in everyday speech."
+          "note": "Polite (вы) or plural."
         }
       ],
       "forms": {
@@ -1913,7 +1913,7 @@
         },
         {
           "en": "what if (in hypotheses)",
-          "note": "А вдруг... = what if. Core Russian adv meaning 'suddenly; all of a sudden' in everyday speech."
+          "note": "А вдруг... = what if."
         }
       ],
       "forms": null,
@@ -2057,7 +2057,7 @@
       "meanings": [
         {
           "en": "one can see, it's clear",
-          "note": "Predicative, no subject. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Predicative, no subject."
         }
       ],
       "forms": null,
@@ -2089,6 +2089,7 @@
       "pos": "noun",
       "gloss": "enemy",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "enemy, foe",
@@ -2164,84 +2165,6 @@
       ],
       "related": []
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "выглядеть": {
       "lemma": "выглядеть",
       "stress": "вы́глядеть",
@@ -2252,7 +2175,7 @@
       "meanings": [
         {
           "en": "to look, appear (well, strange)",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'глядеть'). Used as an verbal verb meaning 'to look, appear'."
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'глядеть')."
         }
       ],
       "forms": {
@@ -2290,6 +2213,7 @@
         {
           "title": "Past",
           "columns": [
+            "",
             "m",
             "f",
             "n",
@@ -2298,10 +2222,28 @@
           "rows": [
             {
               "cells": [
+                "past",
                 "выглядел",
                 "выглядела",
                 "выглядело",
                 "выглядели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "выгляди",
+                "выглядите"
               ]
             }
           ]
@@ -2348,7 +2290,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2382,11 +2324,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2424,7 +2366,7 @@
       "meanings": [
         {
           "en": "for a long time",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2646,7 +2588,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -2668,7 +2610,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -2681,7 +2627,7 @@
       "meanings": [
         {
           "en": "technician, master",
-          "note": "Skilled worker or craftsman. Common masculine noun meaning 'technician, master' in everyday Russian."
+          "note": "Skilled worker or craftsman."
         }
       ],
       "forms": {
@@ -2953,7 +2899,7 @@
       "meanings": [
         {
           "en": "to hope, to count on",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to hope, to rely on', paired with 'понадеяться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3086,84 +3032,6 @@
         }
       ]
     },
-    "ничто": {
-      "lemma": "ничто",
-      "stress": "ничто́",
-      "pos": "pron",
-      "gloss": "nothing",
-      "meanings": [
-        {
-          "en": "nothing",
-          "note": "usually in the genitive ничего, with не: ничего не осталось"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "ничто"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "ничего"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "ничему"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "ничто"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "ничем"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "ни о чём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ничего не осталось.",
-          "trans": "There's nothing left."
-        },
-        {
-          "text": "Я ничего не знаю.",
-          "trans": "I don't know anything."
-        },
-        {
-          "text": "Ну что, очкарик? Видишь, ничего не осталось.",
-          "trans": "Well, four-eyes? See, there's nothing left."
-        }
-      ],
-      "related": [
-        {
-          "word": "уничтожить",
-          "gloss": "to destroy"
-        }
-      ]
-    },
     "номер": {
       "lemma": "номер",
       "stress": "но́мер",
@@ -3173,15 +3041,15 @@
       "meanings": [
         {
           "en": "number",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         },
         {
           "en": "phone number",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         },
         {
           "en": "hotel room",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3303,19 +3171,23 @@
       "meanings": [
         {
           "en": "eleventh",
-          "note": "High-frequency Russian cardinal or ordinal numeral meaning 'eleventh', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Костя сказал это совершенно одиннадцатый и спокойно.",
-          "trans": "Kostya said this quite eleventh and calmly."
+          "text": "Триста тринадцатый занят, триста одиннадцатый свободен.",
+          "trans": "Three-thirteen is taken, three-eleven is free."
         },
         {
-          "text": "На кухне всегда одиннадцатый кипит работа.",
-          "trans": "Work is always bustling eleventh in the kitchen."
+          "text": "Настя, я в триста одиннадцатом люксе, отправляй ко мне Дэна.",
+          "trans": "Nastya, I'm in suite three-eleven, send Dan to me."
+        },
+        {
+          "text": "Сегодня одиннадцатый день месяца.",
+          "trans": "Today is the eleventh day of the month."
         }
       ],
       "related": []
@@ -3422,7 +3294,7 @@
       "meanings": [
         {
           "en": "excellent, great, perfectly",
-          "note": "Used as an exclamation of approval. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Used as an exclamation of approval."
         }
       ],
       "forms": null,
@@ -3458,11 +3330,11 @@
       "meanings": [
         {
           "en": "to work off (a debt or favour), to pay back by working",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'работать'). Used as a perfective (single completed action) verb meaning 'to work off (a debt), to put in (hours)', paired with 'отрабатывать'."
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'работать')."
         },
         {
           "en": "to work (a shift or set time)",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'работать'). Used as a perfective (single completed action) verb meaning 'to work off (a debt), to put in (hours)', paired with 'отрабатывать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3571,10 +3443,11 @@
       "pos": "noun",
       "gloss": "quail",
       "gender": "f",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "quail",
-          "note": "Common feminine noun meaning 'quail' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3596,7 +3469,7 @@
             "cells": [
               "genitive",
               "перепёлки",
-              "перепёлк"
+              "перепёлок"
             ]
           },
           {
@@ -3610,7 +3483,7 @@
             "cells": [
               "accusative",
               "перепёлку",
-              "перепёлки"
+              "перепёлок"
             ]
           },
           {
@@ -3633,21 +3506,21 @@
       "examples": [
         {
           "text": "У меня гости в зале требуют перепёлку от шефа.",
-          "trans": "My guests in the dining room are demanding the Chef's quail."
+          "trans": "My guests in the dining room are demanding the chef's quail."
         },
         {
-          "text": "На кухне ресторана всегда есть перепёлка.",
-          "trans": "In the restaurant kitchen there is always quail."
+          "text": "Элеонора Андреевна, ваша перепёлка.",
+          "trans": "Eleonora Andreyevna, your quail."
         }
       ],
       "related": [
         {
-          "word": "без перепёлк",
-          "gloss": "without quail"
+          "word": "перепел",
+          "gloss": "quail"
         },
         {
-          "word": "наш перепёлка",
-          "gloss": "our quail"
+          "word": "перепелиный",
+          "gloss": "quail (adj.)"
         }
       ]
     },
@@ -3694,7 +3567,7 @@
       "meanings": [
         {
           "en": "to turn out, to work out",
-          "note": "Всё получилось = it all worked out. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to turn out, to work out', paired with 'получаться'."
+          "note": "Всё получилось = it all worked out."
         },
         {
           "en": "to come out of, to make",
@@ -3753,6 +3626,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "получись",
+                "получитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3790,7 +3680,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -3927,11 +3817,11 @@
       "meanings": [
         {
           "en": "right (not left)",
-          "note": "Short form: ты прав = you're right. Agrees in gender, number, and case with the noun it modifies ('right (side)')."
+          "note": "Short form: ты прав = you're right."
         },
         {
           "en": "right, correct",
-          "note": "Short form: ты прав = you're right. Agrees in gender, number, and case with the noun it modifies ('right (side)')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3974,10 +3864,10 @@
           {
             "cells": [
               "accusative",
-              "правый/правого",
+              "правый / правого",
               "правую",
               "правое",
-              "правые/правых"
+              "правые / правых"
             ]
           },
           {
@@ -4054,15 +3944,15 @@
           {
             "cells": [
               "1st",
-              "—",
-              "—"
+              "придусь",
+              "придёмся"
             ]
           },
           {
             "cells": [
               "2nd",
-              "—",
-              "—"
+              "придёшься",
+              "придётесь"
             ]
           },
           {
@@ -4092,6 +3982,23 @@
                 "пришлась",
                 "пришлось",
                 "пришлись"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "придись",
+                "придитесь"
               ]
             }
           ]
@@ -4126,7 +4033,7 @@
       "meanings": [
         {
           "en": "dear, darling, my friend (in address: родной мой)",
-          "note": "Often used ironically. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('native, own; dear, darling')."
+          "note": "Often used ironically."
         },
         {
           "en": "own (by blood), native",
@@ -4173,10 +4080,10 @@
           {
             "cells": [
               "accusative",
-              "родной/родного",
+              "родной / родного",
               "родную",
               "родное",
-              "родные/родных"
+              "родные / родных"
             ]
           },
           {
@@ -4234,7 +4141,7 @@
       "meanings": [
         {
           "en": "hand, arm",
-          "note": "Жать руку = to shake hands. Common feminine noun meaning 'hand; arm' in everyday Russian."
+          "note": "Жать руку = to shake hands."
         }
       ],
       "forms": {
@@ -4315,11 +4222,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4391,8 +4298,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -4534,7 +4449,7 @@
       "meanings": [
         {
           "en": "son",
-          "note": "Common masculine noun meaning 'son' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4656,7 +4571,7 @@
       "meanings": [
         {
           "en": "three hundred (300)",
-          "note": "Takes genitive plural. Core Russian num meaning 'three hundred (300)' in everyday speech."
+          "note": "Takes genitive plural."
         }
       ],
       "forms": null,
@@ -4823,7 +4738,7 @@
         },
         {
           "en": "success",
-          "note": "Common feminine noun meaning 'luck' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4903,7 +4818,7 @@
       "meanings": [
         {
           "en": "honestly, frankly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,

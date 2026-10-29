@@ -150,7 +150,7 @@
           "pos": "num",
           "stress": "де́сять",
           "gloss": "ten",
-          "gram": "cardinal number, accusative"
+          "gram": "cardinal number, nominative/accusative"
         },
         {
           "t": "секунд.",
@@ -188,7 +188,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         }
       ]
     },
@@ -346,7 +346,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         }
       ]
     },
@@ -414,7 +414,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         },
         {
           "t": "иду!",
@@ -634,7 +634,7 @@
           "pos": "num",
           "stress": "де́сять",
           "gloss": "ten",
-          "gram": "cardinal number, accusative"
+          "gram": "cardinal number, nominative/accusative"
         },
         {
           "t": "секунд.",
@@ -672,7 +672,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         }
       ]
     },
@@ -830,7 +830,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         }
       ]
     },
@@ -898,7 +898,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         },
         {
           "t": "иду!",
@@ -1118,7 +1118,7 @@
           "pos": "num",
           "stress": "де́сять",
           "gloss": "ten",
-          "gram": "cardinal number, accusative"
+          "gram": "cardinal number, nominative/accusative"
         },
         {
           "t": "секунд.",
@@ -1156,7 +1156,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         }
       ]
     },
@@ -1314,7 +1314,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         }
       ]
     },
@@ -1382,7 +1382,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         },
         {
           "t": "иду!",
@@ -1479,7 +1479,7 @@
       "meanings": [
         {
           "en": "without",
-          "note": "+ genitive. Core Russian prep meaning 'without' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -1618,7 +1618,7 @@
       "meanings": [
         {
           "en": "path, little road",
-          "note": "Скатертью дорожка = good riddance. Common feminine noun meaning 'path, runner, small track' in everyday Russian."
+          "note": "Скатертью дорожка = good riddance."
         }
       ],
       "forms": {
@@ -1681,11 +1681,11 @@
         },
         {
           "text": "Иди, скатертью дорожка!",
-          "trans": "Go, and good riddance!"
+          "trans": "Go on, good riddance!"
         },
         {
           "text": "Давайте скорее присядем на дорожку.",
-          "trans": "Come on, let us sit for a moment before the road."
+          "trans": "Come on, let's quickly sit down before we set off."
         }
       ],
       "related": []
@@ -1737,10 +1737,6 @@
       "meanings": [
         {
           "en": "belly, tummy",
-          "note": "у меня болит живот = I have a stomach ache"
-        },
-        {
-          "en": "stomach",
           "note": "у меня болит живот = I have a stomach ache"
         }
       ],
@@ -1822,7 +1818,7 @@
       "meanings": [
         {
           "en": "life",
-          "note": "Common feminine noun meaning 'life' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2044,7 +2040,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -2088,11 +2084,11 @@
       "meanings": [
         {
           "en": "to twist, turn, spin",
-          "note": "Colloquial: живот крутит. Used as an imperfective (ongoing/repeated action) verb meaning 'to twist, spin; churn (of stomach)'."
+          "note": "Colloquial: живот крутит."
         },
         {
           "en": "to churn, ache (of belly)",
-          "note": "Colloquial: живот крутит. Used as an imperfective (ongoing/repeated action) verb meaning 'to twist, spin; churn (of stomach)'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2130,6 +2126,7 @@
         {
           "title": "Past",
           "columns": [
+            "",
             "m",
             "f",
             "n",
@@ -2138,10 +2135,28 @@
           "rows": [
             {
               "cells": [
+                "past",
                 "крутил",
                 "крутила",
                 "крутило",
                 "крутили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "крути",
+                "крутите"
               ]
             }
           ]
@@ -2214,7 +2229,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -2496,8 +2511,16 @@
       ],
       "related": [
         {
-          "word": "очень по-мужски",
-          "gloss": "intensified / related adverb (like a man)"
+          "word": "мужчина",
+          "gloss": "man"
+        },
+        {
+          "word": "мужской",
+          "gloss": "male, men's"
+        },
+        {
+          "word": "по-женски",
+          "gloss": "like a woman"
         }
       ]
     },
@@ -2542,7 +2565,7 @@
       "meanings": [
         {
           "en": "five",
-          "note": "+ genitive plural: пять рублей. Core Russian num meaning 'five' in everyday speech."
+          "note": "+ genitive plural: пять рублей."
         }
       ],
       "forms": null,
@@ -2584,7 +2607,7 @@
         },
         {
           "en": "evenly, smoothly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2713,7 +2736,7 @@
       "meanings": [
         {
           "en": "tablecloth",
-          "note": "Скатертью дорожка = good riddance. Common feminine noun meaning 'tablecloth' in everyday Russian."
+          "note": "Скатертью дорожка = good riddance."
         }
       ],
       "forms": {
@@ -2800,11 +2823,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -2904,12 +2927,10 @@
       "stress": "сходи́ть",
       "pos": "verb",
       "gloss": "to go (somewhere and come back)",
-      "aspect": "pf",
-      "pair": "ходить",
       "meanings": [
         {
           "en": "to go and come back, to pop over",
-          "note": "'Сходите!' = Go on, go and see. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ходить'). Used as a perfective (single completed action) verb meaning 'to go (somewhere and come back)', paired with 'ходить'."
+          "note": "perfective; сходите! = go on, go and see"
         }
       ],
       "forms": {
@@ -3010,7 +3031,8 @@
           "word": "заходить",
           "gloss": "to come in"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "так": {
       "lemma": "так",
@@ -3064,11 +3086,11 @@
       "meanings": [
         {
           "en": "to put up with, to bear",
-          "note": "Терпеть боль = to bear pain. Used as an imperfective (ongoing/repeated action) verb meaning 'to bear, to put up with; to hold on', paired with 'потерпеть'."
+          "note": "Терпеть боль = to bear pain."
         },
         {
           "en": "to hold on, to wait",
-          "note": "E.g. to wait for the toilet. Used as an imperfective (ongoing/repeated action) verb meaning 'to bear, to put up with; to hold on', paired with 'потерпеть'."
+          "note": "E.g. to wait for the toilet."
         }
       ],
       "forms": {
@@ -3148,10 +3170,6 @@
           "trans": "I can't hold on!"
         },
         {
-          "text": "Потерпи немного.",
-          "trans": "Hold on a little."
-        },
-        {
           "text": "Маленькие умеют терпеть, а взрослые нет, понял?",
           "trans": "Little ones can hold on, but grown-ups can't, got it?"
         }
@@ -3180,7 +3198,7 @@
       "meanings": [
         {
           "en": "nervous tic, twitch",
-          "note": "Нервный тик. Common masculine noun meaning 'tic, twitch' in everyday Russian."
+          "note": "Нервный тик."
         }
       ],
       "forms": {
@@ -3242,8 +3260,8 @@
           "trans": "Do you have a nervous tic?"
         },
         {
-          "text": "Я купил герметик. Всё будет нормально.",
-          "trans": "I've bought sealant. Everything will be fine."
+          "text": "У него от стресса начался тик.",
+          "trans": "He developed a twitch from stress."
         }
       ],
       "related": []
@@ -3256,7 +3274,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -3286,7 +3304,7 @@
       "meanings": [
         {
           "en": "toilet",
-          "note": "The room or the bowl. Common masculine noun meaning 'toilet' in everyday Russian."
+          "note": "The room or the bowl."
         }
       ],
       "forms": {
@@ -3461,7 +3479,7 @@
         },
         {
           "en": "heavily",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3482,8 +3500,12 @@
       ],
       "related": [
         {
-          "word": "тяжелый",
-          "gloss": "hard (adjective)"
+          "word": "тяжёлый",
+          "gloss": "heavy; hard"
+        },
+        {
+          "word": "трудно",
+          "gloss": "hard, difficult"
         }
       ]
     },
@@ -3544,7 +3566,7 @@
       "meanings": [
         {
           "en": "to stare, gaze blankly or intently",
-          "note": "Colloquial: чего уставился?. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to stare, gaze intently'."
+          "note": "Colloquial: чего уставился?."
         }
       ],
       "forms": {
@@ -3582,6 +3604,7 @@
         {
           "title": "Past",
           "columns": [
+            "",
             "m",
             "f",
             "n",
@@ -3590,10 +3613,28 @@
           "rows": [
             {
               "cells": [
+                "past",
                 "уставился",
                 "уставилась",
                 "уставилось",
                 "уставились"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "уставься",
+                "уставьтесь"
               ]
             }
           ]
@@ -3611,16 +3652,16 @@
       ],
       "related": [
         {
-          "word": "поставить",
-          "gloss": "to put"
+          "word": "глазеть",
+          "gloss": "to gawk"
         },
         {
-          "word": "отставать",
-          "gloss": "to fall behind"
+          "word": "смотреть",
+          "gloss": "to look"
         },
         {
-          "word": "приставка",
-          "gloss": "games console"
+          "word": "пялиться",
+          "gloss": "to stare (colloq.)"
         }
       ]
     },
@@ -3634,7 +3675,7 @@
       "meanings": [
         {
           "en": "to leave, to go away (on foot)",
-          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to leave, to go away', paired with 'уйти'."
+          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить')."
         }
       ],
       "forms": {
@@ -3746,7 +3787,7 @@
       "meanings": [
         {
           "en": "flask, small pocket flask, canteen",
-          "note": "Common feminine noun meaning 'flask, canteen' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3825,8 +3866,8 @@
       "gloss": "bachelor's, single man's",
       "meanings": [
         {
-          "en": "bachelor's, of a bachelor",
-          "note": "Холостяцкая жизнь = bachelor life. Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('bachelor's, single man's')."
+          "en": "bachelor's, of a single man",
+          "note": "холостяцкая жизнь = bachelor life"
         }
       ],
       "forms": {
@@ -3869,10 +3910,10 @@
           {
             "cells": [
               "accusative",
-              "холостяцкий / -ого",
+              "холостяцкий / холостяцкого",
               "холостяцкую",
               "холостяцкое",
-              "холостяцкие / -их"
+              "холостяцкие / холостяцких"
             ]
           },
           {
@@ -3908,16 +3949,12 @@
       ],
       "related": [
         {
-          "word": "холодно",
-          "gloss": "cold"
+          "word": "холостяк",
+          "gloss": "bachelor"
         },
         {
-          "word": "холодильник",
-          "gloss": "fridge"
-        },
-        {
-          "word": "холодный",
-          "gloss": "cold"
+          "word": "холостой",
+          "gloss": "single, unmarried"
         }
       ]
     },
@@ -3929,26 +3966,35 @@
       "meanings": [
         {
           "en": "four",
-          "note": "+ genitive singular: четыре года. Core Russian num meaning 'four' in everyday speech."
+          "note": "к четырём = by four (o'clock)"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Четыре года.",
-          "trans": "Four years."
+          "text": "Леночка, дорогая, жди меня сегодня к четырём.",
+          "trans": "Lenochka, darling, expect me today by four."
         },
         {
-          "text": "У меня четыре фломастера.",
-          "trans": "I have four markers."
-        },
-        {
-          "text": "Я уже четыре года работаю мэром.",
-          "trans": "I've been working as mayor for four years now."
+          "text": "У нас четыре повара.",
+          "trans": "We have four cooks."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "четвёртый",
+          "gloss": "fourth"
+        },
+        {
+          "word": "четырнадцать",
+          "gloss": "fourteen"
+        },
+        {
+          "word": "сорок",
+          "gloss": "forty"
+        }
+      ]
     },
     "что": {
       "lemma": "что",
@@ -4052,7 +4098,7 @@
       "meanings": [
         {
           "en": "six",
-          "note": "Core Russian num meaning 'six' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,

@@ -149,7 +149,7 @@
           "lemma": "враг",
           "pos": "noun",
           "stress": "враги́",
-          "gloss": "enemy",
+          "gloss": "enemies",
           "gram": "noun m pl nom"
         },
         {
@@ -292,7 +292,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -379,7 +379,7 @@
           "lemma": "о",
           "pos": "prep",
           "stress": "о́бо",
-          "gloss": "about, for",
+          "gloss": "about",
           "gram": "takes prepositional"
         },
         {
@@ -450,7 +450,7 @@
           "pos": "verb",
           "stress": null,
           "gloss": "hide",
-          "gram": "conjugated verb"
+          "gram": "imperative singular, imperfective"
         },
         {
           "t": "летопись!",
@@ -755,7 +755,7 @@
           "lemma": "враг",
           "pos": "noun",
           "stress": "враги́",
-          "gloss": "enemy",
+          "gloss": "enemies",
           "gram": "noun m pl nom"
         },
         {
@@ -898,7 +898,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -985,7 +985,7 @@
           "lemma": "о",
           "pos": "prep",
           "stress": "о́бо",
-          "gloss": "about, for",
+          "gloss": "about",
           "gram": "takes prepositional"
         },
         {
@@ -1056,7 +1056,7 @@
           "pos": "verb",
           "stress": null,
           "gloss": "hide",
-          "gram": "conjugated verb"
+          "gram": "imperative singular, imperfective"
         },
         {
           "t": "летопись!",
@@ -1361,7 +1361,7 @@
           "lemma": "враг",
           "pos": "noun",
           "stress": "враги́",
-          "gloss": "enemy",
+          "gloss": "enemies",
           "gram": "noun m pl nom"
         },
         {
@@ -1504,7 +1504,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -1591,7 +1591,7 @@
           "lemma": "о",
           "pos": "prep",
           "stress": "о́бо",
-          "gloss": "about, for",
+          "gloss": "about",
           "gram": "takes prepositional"
         },
         {
@@ -1662,7 +1662,7 @@
           "pos": "verb",
           "stress": null,
           "gloss": "hide",
-          "gram": "conjugated verb"
+          "gram": "imperative singular, imperfective"
         },
         {
           "t": "летопись!",
@@ -1892,7 +1892,7 @@
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -2043,7 +2043,7 @@
       "meanings": [
         {
           "en": "to burst in, break in",
-          "note": "Prefix 'во-' ('into, up') marks inward or upward movement (stem 'рваться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an verbal verb meaning 'to burst in'."
+          "note": "Prefix 'во-' ('into, up') marks inward or upward movement (stem 'рваться')."
         }
       ],
       "forms": {
@@ -2098,6 +2098,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "ворвись",
+                "ворвитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2118,6 +2135,7 @@
       "pos": "noun",
       "gloss": "enemy",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "enemy, foe",
@@ -2283,7 +2301,7 @@
       "meanings": [
         {
           "en": "Good Lord!, oh God!",
-          "note": "Exclamation of surprise or dismay. Core Russian interj meaning 'Good Lord!' in everyday speech."
+          "note": "Exclamation of surprise or dismay."
         }
       ],
       "forms": null,
@@ -2313,96 +2331,6 @@
         }
       ]
     },
-    "господь": {
-      "lemma": "господь",
-      "stress": "госпо́дь",
-      "pos": "noun",
-      "gloss": "Lord",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "Lord, God",
-          "note": "Common masculine noun meaning 'Lord' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "Господь",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "Господа",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "Господу",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "Господа",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "Господом",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "Господе",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Господи, помилуй.",
-          "trans": "Lord, have mercy."
-        },
-        {
-          "text": "Господи, прости меня грешного.",
-          "trans": "Lord, forgive me a sinner."
-        },
-        {
-          "text": "Господи, Иисусе Христе, спаси нас!",
-          "trans": "Lord Jesus Christ, save us!"
-        }
-      ],
-      "related": [
-        {
-          "word": "господи",
-          "gloss": "Good Lord!"
-        },
-        {
-          "word": "господин",
-          "gloss": "gentleman"
-        }
-      ]
-    },
     "деревянный": {
       "lemma": "деревянный",
       "stress": "деревя́нный",
@@ -2411,7 +2339,7 @@
       "meanings": [
         {
           "en": "wooden, made of wood",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('wooden')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2515,7 +2443,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2884,7 +2812,7 @@
       "meanings": [
         {
           "en": "stone, made of stone",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('stone, masonry')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2970,8 +2898,8 @@
           "gloss": "stone"
         },
         {
-          "word": "камера",
-          "gloss": "camera"
+          "word": "кирпичный",
+          "gloss": "brick"
         }
       ]
     },
@@ -2984,7 +2912,7 @@
       "meanings": [
         {
           "en": "book",
-          "note": "Common feminine noun meaning 'book' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3064,7 +2992,7 @@
       "meanings": [
         {
           "en": "where to",
-          "note": "For movement; где is for location. Core Russian adv meaning 'where (to)' in everyday speech."
+          "note": "For movement; где is for location."
         }
       ],
       "forms": null,
@@ -3107,7 +3035,7 @@
       "meanings": [
         {
           "en": "chronicle, historical record",
-          "note": "Ancient historical record. Common feminine noun meaning 'chronicle, annals' in everyday Russian."
+          "note": "Ancient historical record."
         }
       ],
       "forms": {
@@ -3193,7 +3121,7 @@
       "meanings": [
         {
           "en": "monastery",
-          "note": "Common masculine noun meaning 'monastery' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3389,7 +3317,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3564,7 +3492,7 @@
       "meanings": [
         {
           "en": "immediately, at once",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'медленно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'медленно')."
         }
       ],
       "forms": null,
@@ -3913,7 +3841,7 @@
       "meanings": [
         {
           "en": "memory, remembrance",
-          "note": "Common feminine noun meaning 'memory' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3941,29 +3869,29 @@
           {
             "cells": [
               "dative",
-              "памяте",
-              "памятам"
+              "памяти",
+              "памятям"
             ]
           },
           {
             "cells": [
               "accusative",
-              "памяту",
+              "память",
               "памяти"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "памятьой",
-              "памятами"
+              "памятью",
+              "памятями"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "памяте",
-              "памятах"
+              "памяти",
+              "памятях"
             ]
           }
         ]
@@ -3999,7 +3927,7 @@
       "meanings": [
         {
           "en": "basement, cellar",
-          "note": "Common masculine noun meaning 'basement, cellar' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4077,11 +4005,11 @@
       "pos": "verb",
       "gloss": "to set on fire",
       "aspect": "impf",
-      "pair": null,
+      "pair": "поджечь",
       "meanings": [
         {
           "en": "to set on fire, ignite",
-          "note": "Used as an verbal verb meaning 'to set on fire'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4133,6 +4061,23 @@
                 "поджигала",
                 "поджигало",
                 "поджигали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "поджигай",
+                "поджигайте"
               ]
             }
           ]
@@ -4192,7 +4137,7 @@
       "meanings": [
         {
           "en": "descendant, offspring",
-          "note": "Fleeting о in oblique cases. Common masculine noun meaning 'descendant, offspring' in everyday Russian."
+          "note": "Fleeting о in oblique cases."
         }
       ],
       "forms": {
@@ -4274,7 +4219,7 @@
       "meanings": [
         {
           "en": "to hide, to conceal",
-          "note": "Takes accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to hide, to conceal', paired with 'спрятать'."
+          "note": "Takes accusative."
         }
       ],
       "forms": {
@@ -4383,11 +4328,11 @@
       "pos": "verb",
       "gloss": "to save, preserve",
       "aspect": "pf",
-      "pair": null,
+      "pair": "сберегать",
       "meanings": [
         {
           "en": "to save, preserve",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'беречь'). Used as an verbal verb meaning 'to save, preserve'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'беречь')."
         }
       ],
       "forms": {
@@ -4435,10 +4380,27 @@
             {
               "cells": [
                 "past",
-                "сберел",
-                "сберела",
-                "сберело",
-                "сберели"
+                "сберёг",
+                "сберегла",
+                "сберегло",
+                "сберегли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "сбереги",
+                "сберегите"
               ]
             }
           ]
@@ -4456,16 +4418,16 @@
       ],
       "related": [
         {
-          "word": "беременный",
-          "gloss": "pregnant"
+          "word": "беречь",
+          "gloss": "to take care of, protect"
         },
         {
           "word": "бережно",
           "gloss": "carefully"
         },
         {
-          "word": "берег",
-          "gloss": "shore"
+          "word": "сбережения",
+          "gloss": "savings"
         }
       ]
     },
@@ -4477,7 +4439,7 @@
       "meanings": [
         {
           "en": "sacred, holy",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('sacred, holy')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4643,35 +4605,6 @@
       ],
       "related": []
     },
-    "скоро": {
-      "lemma": "скоро",
-      "stress": "ско́ро",
-      "pos": "adv",
-      "gloss": "soon",
-      "meanings": [
-        {
-          "en": "soon",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я скоро вернусь.",
-          "trans": "I'll be back soon."
-        },
-        {
-          "text": "Скоро лето.",
-          "trans": "Summer is coming soon."
-        },
-        {
-          "text": "Так, не шумим. Я скоро вернусь.",
-          "trans": "Right, no noise. I'll be back soon."
-        }
-      ],
-      "related": []
-    },
     "сохранить": {
       "lemma": "сохранить",
       "stress": "сохрани́ть",
@@ -4682,11 +4615,11 @@
       "meanings": [
         {
           "en": "to keep, to preserve",
-          "note": "Сохранить тайну = to keep a secret. Used as a perfective (single completed action) verb meaning 'to keep, to preserve, to save', paired with 'сохранять'."
+          "note": "Сохранить тайну = to keep a secret."
         },
         {
           "en": "to save",
-          "note": "A file. Used as a perfective (single completed action) verb meaning 'to keep, to preserve, to save', paired with 'сохранять'."
+          "note": "A file."
         }
       ],
       "forms": {
@@ -4799,7 +4732,7 @@
       "meanings": [
         {
           "en": "to save, to rescue from danger",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to save, to rescue', paired with 'спасти'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4908,7 +4841,7 @@
       "meanings": [
         {
           "en": "to save, to rescue",
-          "note": "+ accusative. Used as a perfective (single completed action) verb meaning 'to save, to rescue', paired with 'спасать'."
+          "note": "+ accusative."
         }
       ],
       "forms": {
@@ -5013,7 +4946,7 @@
       "meanings": [
         {
           "en": "to hide (something)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'прятать'). Used as a perfective (single completed action) verb meaning 'to hide', paired with 'прятать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5125,7 +5058,7 @@
       "meanings": [
         {
           "en": "wall",
-          "note": "Of a room, building or fortress. Common feminine noun meaning 'wall' in everyday Russian."
+          "note": "Of a room, building or fortress."
         }
       ],
       "forms": {
@@ -5205,7 +5138,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,

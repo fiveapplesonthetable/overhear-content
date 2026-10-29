@@ -540,7 +540,7 @@
           "pos": "noun",
           "stress": "причи́на",
           "gloss": "reason, cause",
-          "gram": "UNKNOWN"
+          "gram": "nominative singular, feminine"
         }
       ]
     },
@@ -1082,7 +1082,7 @@
           "pos": "noun",
           "stress": "причи́на",
           "gloss": "reason, cause",
-          "gram": "UNKNOWN"
+          "gram": "nominative singular, feminine"
         }
       ]
     },
@@ -1624,7 +1624,7 @@
           "pos": "noun",
           "stress": "причи́на",
           "gloss": "reason, cause",
-          "gram": "UNKNOWN"
+          "gram": "nominative singular, feminine"
         }
       ]
     },
@@ -1645,7 +1645,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -1737,26 +1737,27 @@
       "stress": "благодаря́",
       "pos": "prep",
       "gloss": "thanks to",
+      "governs": "dative",
       "meanings": [
         {
           "en": "thanks to",
-          "note": "Russian preposition meaning 'thanks to' that governs a specific oblique case on the following noun phrase."
+          "note": "takes the dative: благодаря тебе"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "И все благодаря тебе.",
-          "trans": "And it is all thanks to you."
+          "text": "И всё благодаря тебе.",
+          "trans": "And it's all thanks to you."
         },
         {
           "text": "Именно благодаря ей завоёвываем уважение.",
-          "trans": "It is what earns us respect."
+          "trans": "It's precisely thanks to it that we earn respect."
         },
         {
-          "text": "Но благодаря вам у нас все получилось. Спасибо вам за вас.",
-          "trans": "But thanks to you, we made it work. Thank you for being you."
+          "text": "Но благодаря вам у нас всё получилось.",
+          "trans": "But thanks to you, it all worked out."
         }
       ],
       "related": [
@@ -2083,84 +2084,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вы": {
       "lemma": "вы",
       "stress": "вы",
@@ -2253,11 +2176,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2462,7 +2385,7 @@
       "meanings": [
         {
           "en": "what for, why",
-          "note": "Asks about the purpose. Core Russian adv meaning 'what for, why' in everyday speech."
+          "note": "Asks about the purpose."
         }
       ],
       "forms": null,
@@ -2607,11 +2530,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -2691,12 +2614,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -2806,7 +2729,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2858,6 +2781,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3010,11 +2950,11 @@
       "meanings": [
         {
           "en": "normal, ordinary",
-          "note": "Colloquial. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('normal')."
+          "note": "Colloquial."
         },
         {
           "en": "decent, OK",
-          "note": "Colloquial. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('normal')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3144,131 +3084,6 @@
         }
       ]
     },
-    "нужный": {
-      "lemma": "нужный",
-      "stress": "ну́жный",
-      "pos": "adj",
-      "gloss": "necessary, needed",
-      "meanings": [
-        {
-          "en": "needed",
-          "note": "short form 'нужен / нужна / нужно / нужны' + dative: 'мне нужна работа' = I need a job"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "нужный",
-              "нужная",
-              "нужное",
-              "нужные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "нужного",
-              "нужной",
-              "нужного",
-              "нужных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "нужному",
-              "нужной",
-              "нужному",
-              "нужным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "нужный / нужного",
-              "нужную",
-              "нужное",
-              "нужные / нужных"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "нужным",
-              "нужной",
-              "нужным",
-              "нужными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "нужном",
-              "нужной",
-              "нужном",
-              "нужных"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Мне ещё работа нужна.",
-          "trans": "I need a job too."
-        },
-        {
-          "text": "Тебе нужна ручка?",
-          "trans": "Do you need a pen?"
-        },
-        {
-          "text": "Ему нужны деньги.",
-          "trans": "He needs money."
-        }
-      ],
-      "related": [
-        {
-          "word": "нужно",
-          "gloss": "necessary"
-        },
-        {
-          "word": "нужнее",
-          "gloss": "more needed"
-        }
-      ]
-    },
     "обязательно": {
       "lemma": "обязательно",
       "stress": "обяза́тельно",
@@ -3277,7 +3092,7 @@
       "meanings": [
         {
           "en": "without fail, definitely, necessarily",
-          "note": "Firm promise or requirement. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Firm promise or requirement."
         }
       ],
       "forms": null,
@@ -3504,11 +3319,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -3668,6 +3483,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понимай",
+                "понимайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3739,7 +3571,7 @@
       "meanings": [
         {
           "en": "to cook, to make (food), to prepare",
-          "note": "Takes accusative. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'готовить'). Used as a perfective (single completed action) verb meaning 'to prepare, to cook, to make', paired with 'готовить'."
+          "note": "Takes accusative. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'готовить')."
         }
       ],
       "forms": {
@@ -3852,7 +3684,7 @@
       "meanings": [
         {
           "en": "to confess, to admit",
-          "note": "+ в + prepositional. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'знаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to confess, to admit', paired with 'признаваться'."
+          "note": "+ в + prepositional. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'знаться')."
         }
       ],
       "forms": {
@@ -3964,7 +3796,7 @@
       "meanings": [
         {
           "en": "reason, cause, grounds",
-          "note": "Common feminine noun meaning 'reason, cause' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4046,7 +3878,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -4159,7 +3991,7 @@
       "meanings": [
         {
           "en": "to eat, to eat up",
-          "note": "A whole portion; completed action. Used as a perfective (single completed action) verb meaning 'to eat (up)', paired with 'есть'."
+          "note": "A whole portion; completed action."
         }
       ],
       "forms": {
@@ -4304,7 +4136,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -4471,7 +4303,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4576,7 +4408,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4628,6 +4460,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

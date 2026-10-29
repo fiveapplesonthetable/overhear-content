@@ -36,7 +36,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "smoke",
-          "gram": "m inan acc"
+          "gram": "nominative/accusative singular, masculine"
         },
         {
           "t": "и",
@@ -127,7 +127,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -198,7 +198,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "fight, combat, battle",
-          "gram": "noun m nom"
+          "gram": "nominative singular, masculine"
         }
       ]
     },
@@ -258,7 +258,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "fight, combat, battle",
-          "gram": "noun m nom"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "будет",
@@ -632,7 +632,7 @@
           "t": "Иван!",
           "lemma": "иван",
           "pos": "name",
-          "stress": null,
+          "stress": "ива́н",
           "gloss": "Ivan",
           "gram": "first name, used as address"
         },
@@ -688,7 +688,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "smoke",
-          "gram": "m inan acc"
+          "gram": "nominative/accusative singular, masculine"
         },
         {
           "t": "и",
@@ -779,7 +779,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -850,7 +850,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "fight, combat, battle",
-          "gram": "noun m nom"
+          "gram": "nominative singular, masculine"
         }
       ]
     },
@@ -910,7 +910,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "fight, combat, battle",
-          "gram": "noun m nom"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "будет",
@@ -1284,7 +1284,7 @@
           "t": "Иван!",
           "lemma": "иван",
           "pos": "name",
-          "stress": null,
+          "stress": "ива́н",
           "gloss": "Ivan",
           "gram": "first name, used as address"
         },
@@ -1340,7 +1340,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "smoke",
-          "gram": "m inan acc"
+          "gram": "nominative/accusative singular, masculine"
         },
         {
           "t": "и",
@@ -1431,7 +1431,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1502,7 +1502,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "fight, combat, battle",
-          "gram": "noun m nom"
+          "gram": "nominative singular, masculine"
         }
       ]
     },
@@ -1562,7 +1562,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "fight, combat, battle",
-          "gram": "noun m nom"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "будет",
@@ -1936,7 +1936,7 @@
           "t": "Иван!",
           "lemma": "иван",
           "pos": "name",
-          "stress": null,
+          "stress": "ива́н",
           "gloss": "Ivan",
           "gram": "first name, used as address"
         },
@@ -2106,7 +2106,7 @@
       "meanings": [
         {
           "en": "fight, combat, battle",
-          "note": "Prepositional in battle: в бою. Common masculine noun meaning 'fight, combat, battle' in everyday Russian."
+          "note": "Prepositional in battle: в бою."
         }
       ],
       "forms": {
@@ -2178,8 +2178,16 @@
       ],
       "related": [
         {
-          "word": "бойный",
-          "gloss": "related to fight (adj.)"
+          "word": "боевой",
+          "gloss": "combat, fighting"
+        },
+        {
+          "word": "боец",
+          "gloss": "fighter"
+        },
+        {
+          "word": "бить",
+          "gloss": "to beat"
         }
       ]
     },
@@ -2387,7 +2395,7 @@
       "meanings": [
         {
           "en": "to come back, to return",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to come back, to return', paired with 'возвращаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2615,11 +2623,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2674,6 +2682,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2711,10 +2736,11 @@
       "pos": "noun",
       "gloss": "crater, funnel",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "crater, bomb crater; funnel",
-          "note": "Common feminine noun meaning 'crater, funnel' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2782,16 +2808,12 @@
       ],
       "related": [
         {
-          "word": "провороваться",
-          "gloss": "to be caught stealing"
+          "word": "взрыв",
+          "gloss": "explosion"
         },
         {
-          "word": "воровать",
-          "gloss": "to steal"
-        },
-        {
-          "word": "воровство",
-          "gloss": "stealing"
+          "word": "снаряд",
+          "gloss": "shell"
         }
       ]
     },
@@ -2811,7 +2833,7 @@
         },
         {
           "en": "forward!, let's go!",
-          "note": "As a command. Core Russian adv meaning 'forward, ahead' in everyday speech."
+          "note": "As a command."
         }
       ],
       "forms": null,
@@ -2879,7 +2901,7 @@
       "meanings": [
         {
           "en": "mud, dirt, filth",
-          "note": "Common feminine noun meaning 'mud, dirt' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2968,7 +2990,7 @@
         },
         {
           "en": "long ago",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2995,6 +3017,7 @@
       "pos": "noun",
       "gloss": "grandfather, grandpa",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "grandfather, grandpa",
@@ -3088,7 +3111,7 @@
         },
         {
           "en": "to hang in there",
-          "note": "Держись! = hang in there!. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to hold on; to stick with'."
+          "note": "Держись! = hang in there!."
         }
       ],
       "forms": {
@@ -3193,11 +3216,11 @@
       "meanings": [
         {
           "en": "to reach, get to",
-          "note": "Takes до + genitive. Used as a perfective (single completed action) verb meaning 'to reach, walk as far as', paired with 'доходить'."
+          "note": "Takes до + genitive."
         },
         {
           "en": "to arrive (of mail, money, news)",
-          "note": "Reach the recipient. Used as a perfective (single completed action) verb meaning 'to reach, walk as far as', paired with 'доходить'."
+          "note": "Reach the recipient."
         }
       ],
       "forms": {
@@ -3300,7 +3323,7 @@
       "meanings": [
         {
           "en": "for a long time",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3338,7 +3361,7 @@
       "meanings": [
         {
           "en": "home, homeward (direction)",
-          "note": "Contrast дома = at home. Core Russian adv meaning '(to) home, homeward' in everyday speech."
+          "note": "Contrast дома = at home."
         }
       ],
       "forms": null,
@@ -3368,7 +3391,7 @@
       "meanings": [
         {
           "en": "smoke",
-          "note": "Common masculine noun meaning 'smoke' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3426,22 +3449,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Кругом дым.",
-          "trans": "Smoke all around."
-        },
-        {
           "text": "Где мы? Кругом дым и воронки.",
-          "trans": "Where are we? Smoke and bomb craters are all around."
+          "trans": "Where are we? There's smoke and craters all around."
         },
         {
           "text": "Какой кошмар, на кухне полный дым!",
-          "trans": "What a nightmare, complete smoke in the kitchen!"
+          "trans": "What a nightmare, the kitchen is full of smoke!"
+        },
+        {
+          "text": "Шеф увидит этот чёрный дым и убьёт!",
+          "trans": "The chef will see this black smoke and kill us!"
         }
       ],
       "related": [
         {
+          "word": "дымить",
+          "gloss": "to smoke, to give off smoke"
+        },
+        {
           "word": "дымный",
-          "gloss": "related to smoke (adj.)"
+          "gloss": "smoky"
         }
       ]
     },
@@ -3457,11 +3484,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3492,11 +3519,11 @@
       "meanings": [
         {
           "en": "to wait (for)",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": "+ accusative."
         },
         {
           "en": "to expect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3603,7 +3630,7 @@
       "meanings": [
         {
           "en": "living, alive",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('living, alive, live')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3646,10 +3673,10 @@
           {
             "cells": [
               "accusative",
-              "живой/живого",
+              "живой / живого",
               "живую",
               "живое",
-              "живые/живых"
+              "живые / живых"
             ]
           },
           {
@@ -3742,10 +3769,11 @@
       "pos": "noun",
       "gloss": "ground, earth, land",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "ground, earth, land",
-          "note": "Genitive: земли. Common feminine noun meaning 'ground, earth, land' in everyday Russian."
+          "note": "Genitive: земли."
         }
       ],
       "forms": {
@@ -3822,12 +3850,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3882,6 +3908,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3901,17 +3944,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -3959,7 +4003,7 @@
       "meanings": [
         {
           "en": "all around, everywhere around",
-          "note": "Core Russian adv meaning 'all around' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4297,7 +4341,7 @@
       "meanings": [
         {
           "en": "a little, a bit",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много')."
         }
       ],
       "forms": null,
@@ -4340,15 +4384,15 @@
       "meanings": [
         {
           "en": "about, concerning",
-          "note": "In 'по поводу' + genitive. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "In 'по поводу' + genitive."
         },
         {
           "en": "along, around",
-          "note": "+ dative. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "+ dative."
         },
         {
           "en": "by (phone)",
-          "note": "'по телефону'. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "'по телефону'."
         }
       ],
       "forms": null,
@@ -4421,7 +4465,7 @@
       "meanings": [
         {
           "en": "to crawl, creep",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to crawl'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4435,22 +4479,22 @@
           {
             "cells": [
               "1st",
-              "ползю",
-              "ползем"
+              "ползу",
+              "ползём"
             ]
           },
           {
             "cells": [
               "2nd",
-              "ползешь",
-              "ползете"
+              "ползёшь",
+              "ползёте"
             ]
           },
           {
             "cells": [
               "3rd",
-              "ползет",
-              "ползют"
+              "ползёт",
+              "ползут"
             ]
           }
         ]
@@ -4469,10 +4513,27 @@
             {
               "cells": [
                 "past",
-                "ползл",
+                "полз",
                 "ползла",
                 "ползло",
                 "ползли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "ползи",
+                "ползите"
               ]
             }
           ]
@@ -4494,8 +4555,16 @@
       ],
       "related": [
         {
+          "word": "ползать",
+          "gloss": "to crawl around"
+        },
+        {
+          "word": "поползти",
+          "gloss": "to start crawling"
+        },
+        {
           "word": "сползти",
-          "gloss": "aspect/prefix relative (to crawl)"
+          "gloss": "to crawl down, to slip down"
         }
       ]
     },
@@ -4587,7 +4656,7 @@
       "meanings": [
         {
           "en": "last, final",
-          "note": "Последний раз = for the last time. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('last, final')."
+          "note": "Последний раз = for the last time."
         }
       ],
       "forms": {
@@ -4630,10 +4699,10 @@
           {
             "cells": [
               "accusative",
-              "последний",
+              "последний / последнего",
               "последнюю",
               "последнее",
-              "последние"
+              "последние / последних"
             ]
           },
           {
@@ -4681,7 +4750,7 @@
       "meanings": [
         {
           "en": "almost, nearly",
-          "note": "Core Russian adv meaning 'almost, nearly' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4806,10 +4875,11 @@
       "pos": "noun",
       "gloss": "traitor",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "traitor, betrayer",
-          "note": "Animate masculine noun in -тель. Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common masculine noun meaning 'traitor' in everyday Russian."
+          "note": "Animate masculine noun in -тель."
         }
       ],
       "forms": {
@@ -4896,7 +4966,7 @@
       "meanings": [
         {
           "en": "to betray, deliver up",
-          "note": "Single act of betrayal. Used as an imperfective (ongoing/repeated action) verb meaning 'to betray'."
+          "note": "Single act of betrayal."
         }
       ],
       "forms": {
@@ -4910,22 +4980,22 @@
           {
             "cells": [
               "1st",
-              "предаю",
-              "предаем"
+              "предам",
+              "предадим"
             ]
           },
           {
             "cells": [
               "2nd",
-              "предаешь",
-              "предаете"
+              "предашь",
+              "предадите"
             ]
           },
           {
             "cells": [
               "3rd",
-              "предает",
-              "предают"
+              "предаст",
+              "предадут"
             ]
           }
         ]
@@ -4948,6 +5018,23 @@
                 "предала",
                 "предало",
                 "предали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "предай",
+                "предайте"
               ]
             }
           ]
@@ -4979,7 +5066,7 @@
       "meanings": [
         {
           "en": "to wake up",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'сыпаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to wake up', paired with 'проснуться'."
+          "note": "from спать; pf проснуться"
         }
       ],
       "forms": {
@@ -5086,7 +5173,7 @@
       "meanings": [
         {
           "en": "dear, darling, my friend (in address: родной мой)",
-          "note": "Often used ironically. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('native, own; dear, darling')."
+          "note": "Often used ironically."
         },
         {
           "en": "own (by blood), native",
@@ -5133,10 +5220,10 @@
           {
             "cells": [
               "accusative",
-              "родной/родного",
+              "родной / родного",
               "родную",
               "родное",
-              "родные/родных"
+              "родные / родных"
             ]
           },
           {
@@ -5590,7 +5677,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5645,6 +5732,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5680,7 +5784,7 @@
       "meanings": [
         {
           "en": "a little bit, just a little",
-          "note": "Core Russian adv meaning 'a little bit, slightly' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,

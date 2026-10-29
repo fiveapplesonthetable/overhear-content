@@ -214,7 +214,7 @@
           "pos": "det",
           "stress": "твои́ми",
           "gloss": "your",
-          "gram": "pronoun"
+          "gram": "instrumental plural"
         },
         {
           "t": "друзьями.",
@@ -362,7 +362,7 @@
           "pos": "noun",
           "stress": "выходны́х",
           "gloss": "weekend",
-          "gram": "prepositional plural"
+          "gram": "plural (prepositional / genitive)"
         }
       ]
     },
@@ -427,10 +427,10 @@
         {
           "t": "Здравствуйте,",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "уважаемый",
@@ -648,7 +648,7 @@
           "pos": "noun",
           "stress": "банке́т",
           "gloss": "banquet",
-          "gram": "masculine singular nominative"
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -958,7 +958,7 @@
           "pos": "det",
           "stress": "твои́ми",
           "gloss": "your",
-          "gram": "pronoun"
+          "gram": "instrumental plural"
         },
         {
           "t": "друзьями.",
@@ -1106,7 +1106,7 @@
           "pos": "noun",
           "stress": "выходны́х",
           "gloss": "weekend",
-          "gram": "prepositional plural"
+          "gram": "plural (prepositional / genitive)"
         }
       ]
     },
@@ -1171,10 +1171,10 @@
         {
           "t": "Здравствуйте,",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "уважаемый",
@@ -1392,7 +1392,7 @@
           "pos": "noun",
           "stress": "банке́т",
           "gloss": "banquet",
-          "gram": "masculine singular nominative"
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -1702,7 +1702,7 @@
           "pos": "det",
           "stress": "твои́ми",
           "gloss": "your",
-          "gram": "pronoun"
+          "gram": "instrumental plural"
         },
         {
           "t": "друзьями.",
@@ -1850,7 +1850,7 @@
           "pos": "noun",
           "stress": "выходны́х",
           "gloss": "weekend",
-          "gram": "prepositional plural"
+          "gram": "plural (prepositional / genitive)"
         }
       ]
     },
@@ -1915,10 +1915,10 @@
         {
           "t": "Здравствуйте,",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "уважаемый",
@@ -2136,7 +2136,7 @@
           "pos": "noun",
           "stress": "банке́т",
           "gloss": "banquet",
-          "gram": "masculine singular nominative"
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -2382,16 +2382,16 @@
       ],
       "related": [
         {
-          "word": "банк",
-          "gloss": "bank"
+          "word": "банкетный",
+          "gloss": "banquet (adj.)"
         },
         {
-          "word": "банкомат",
-          "gloss": "ATM"
+          "word": "праздник",
+          "gloss": "celebration"
         },
         {
-          "word": "банка",
-          "gloss": "jar"
+          "word": "корпоратив",
+          "gloss": "office party"
         }
       ]
     },
@@ -2400,8 +2400,6 @@
       "stress": "бе́гать",
       "pos": "verb",
       "gloss": "to run (around, repeatedly)",
-      "aspect": "impf",
-      "pair": "побежать",
       "meanings": [
         {
           "en": "to run (in various directions or habitually)",
@@ -2506,7 +2504,8 @@
           "word": "убегать",
           "gloss": "to run away"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "без": {
       "lemma": "без",
@@ -2517,7 +2516,7 @@
       "meanings": [
         {
           "en": "without",
-          "note": "+ genitive. Core Russian prep meaning 'without' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2555,7 +2554,7 @@
       "meanings": [
         {
           "en": "after all, you know",
-          "note": "Adds a reason or an obvious truth. Core Russian part meaning 'after all, you know' in everyday speech."
+          "note": "Adds a reason or an obvious truth."
         }
       ],
       "forms": null,
@@ -3060,11 +3059,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3103,7 +3102,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3220,15 +3219,15 @@
     },
     "заявить": {
       "lemma": "заявить",
-      "stress": "зая́вить",
+      "stress": "заяви́ть",
       "pos": "verb",
-      "gloss": "declared / stated",
+      "gloss": "to declare, to state; to report",
       "aspect": "pf",
-      "pair": null,
+      "pair": "заявлять",
       "meanings": [
         {
-          "en": "declared / stated",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'явить'). Used as a perfective (single completed action) verb meaning 'declared / stated'."
+          "en": "to declare, to state, to announce",
+          "note": "заявить в полицию = to report to the police"
         }
       ],
       "forms": {
@@ -3283,22 +3282,47 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "заяви",
+                "заявите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "А он мне заявил, что развлекаться надо вечером.",
-          "trans": "And he declared to me that one must have fun in the evening."
+          "trans": "And he told me flat out that fun is for the evening."
         },
         {
-          "text": "Надо всё сделать и заявить вовремя.",
-          "trans": "We need to do everything and declared on time."
+          "text": "Она заявила о краже в полицию.",
+          "trans": "She reported the theft to the police."
         }
       ],
       "related": [
         {
-          "word": "не заявить",
-          "gloss": "not to declared (negated infinitive)"
+          "word": "заявлять",
+          "gloss": "to declare (impf)"
+        },
+        {
+          "word": "заявление",
+          "gloss": "statement; application"
+        },
+        {
+          "word": "заявка",
+          "gloss": "request, application"
         }
       ]
     },
@@ -3315,7 +3339,7 @@
         },
         {
           "en": "application",
-          "note": "Written request. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'statement; application' in everyday Russian."
+          "note": "Written request."
         }
       ],
       "forms": {
@@ -3390,70 +3414,17 @@
     "здравствуйте": {
       "lemma": "здравствуйте",
       "stress": "здра́вствуйте",
-      "pos": "verb",
-      "gloss": "hello",
-      "aspect": "impf",
+      "pos": "interj",
+      "gloss": "hello (polite or to several people)",
       "pair": null,
       "meanings": [
         {
           "en": "hello",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'hello'."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "здравствуйю",
-              "здравствуйем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "здравствуйешь",
-              "здравствуйете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "здравствуйет",
-              "здравствуйют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "здравствуйл",
-                "здравствуйла",
-                "здравствуйло",
-                "здравствуйли"
-              ]
-            }
-          ]
-        }
-      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Здравствуйте! Как там в Венгрии?",
@@ -3529,11 +3500,11 @@
       "meanings": [
         {
           "en": "otherwise, or else",
-          "note": "Core Russian adv meaning 'otherwise' in everyday speech."
+          "note": ""
         },
         {
           "en": "differently",
-          "note": "Core Russian adv meaning 'otherwise' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3595,7 +3566,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -3829,7 +3800,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3865,7 +3836,7 @@
       "meanings": [
         {
           "en": "to write (and finish)",
-          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'писать'). Used as a perfective (single completed action) verb meaning 'to write', paired with 'писать'."
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'писать')."
         }
       ],
       "forms": {
@@ -4147,7 +4118,7 @@
       "meanings": [
         {
           "en": "day off / time off",
-          "note": "Common masculine noun meaning 'day off / time off' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4206,21 +4177,21 @@
       "examples": [
         {
           "text": "Представляешь, я попросил у Нагиева сегодня отгул.",
-          "trans": "Can you imagine, I asked Nagiyev for time off today."
+          "trans": "Can you imagine, I asked Nagiyev for the day off today."
         },
         {
-          "text": "На кухне ресторана всегда есть отгул.",
-          "trans": "In the restaurant kitchen there is always day off."
+          "text": "А за это тебе премия и отгул.",
+          "trans": "And for that you get a bonus and a day off."
         }
       ],
       "related": [
         {
-          "word": "без отгу",
-          "gloss": "without day off"
+          "word": "выходной",
+          "gloss": "day off"
         },
         {
-          "word": "наш отгул",
-          "gloss": "our day off"
+          "word": "отпуск",
+          "gloss": "vacation, leave"
         }
       ]
     },
@@ -4234,11 +4205,11 @@
       "meanings": [
         {
           "en": "to let go, to release",
-          "note": "A prisoner, a hand. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить'). Used as a perfective (single completed action) verb meaning 'to let go, to release', paired with 'отпускать'."
+          "note": "A prisoner, a hand. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить')."
         },
         {
           "en": "to let someone leave",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить'). Used as a perfective (single completed action) verb meaning 'to let go, to release', paired with 'отпускать'."
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить')."
         }
       ],
       "forms": {
@@ -4345,7 +4316,7 @@
       "meanings": [
         {
           "en": "oh, ah",
-          "note": "Exclamation of surprise or sorrow. Core Russian interj meaning 'oh, ah' in everyday speech."
+          "note": "Exclamation of surprise or sorrow."
         }
       ],
       "forms": null,
@@ -4380,7 +4351,7 @@
       "meanings": [
         {
           "en": "weather",
-          "note": "Common feminine noun meaning 'weather' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4438,68 +4409,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Рыжий, погоди.",
-          "trans": "Redhead, wait."
+          "text": "Ох, Елена Павловна, какая прекрасная погода!",
+          "trans": "Oh, Elena Pavlovna, what lovely weather!"
+        },
+        {
+          "text": "Погода там ужасная, сильный тайфун.",
+          "trans": "The weather there is awful, a strong typhoon."
         },
         {
           "text": "Ты так погоду смотрела?",
-          "trans": "Were you checking the weather like that?"
-        },
-        {
-          "text": "Умница! Пойдём поговорим.",
-          "trans": "Clever girl! Let's go talk."
+          "trans": "Is that how you checked the weather?"
         }
       ],
       "related": [
         {
-          "word": "без погод",
-          "gloss": "without weather"
+          "word": "прогноз погоды",
+          "gloss": "weather forecast"
         },
         {
-          "word": "наш погода",
-          "gloss": "our weather"
-        }
-      ]
-    },
-    "пожалуйста": {
-      "lemma": "пожалуйста",
-      "stress": "пожа́луйста",
-      "pos": "part",
-      "gloss": "please; you're welcome",
-      "meanings": [
-        {
-          "en": "please",
-          "note": "Handing something over."
-        },
-        {
-          "en": "you're welcome",
-          "note": "Answer to thanks."
-        },
-        {
-          "en": "here you are",
-          "note": "Handing something over."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Кофе, пожалуйста.",
-          "trans": "A coffee, please."
-        },
-        {
-          "text": "Спасибо! — Пожалуйста.",
-          "trans": "Thank you! — You're welcome."
-        },
-        {
-          "text": "Проводите его, пожалуйста.",
-          "trans": "Please see him out."
-        }
-      ],
-      "related": [
-        {
-          "word": "пожалуй",
-          "gloss": "perhaps"
+          "word": "непогода",
+          "gloss": "bad weather"
         }
       ]
     },
@@ -4512,7 +4441,7 @@
       "meanings": [
         {
           "en": "half",
-          "note": "С половиной = and a half. Common feminine noun meaning 'half' in everyday Russian."
+          "note": "С половиной = and a half."
         }
       ],
       "forms": {
@@ -4574,12 +4503,12 @@
           "trans": "Three and a half per mille?"
         },
         {
-          "text": "Прошла половина часа.",
-          "trans": "Half an hour went by."
+          "text": "Ты же мне продаёшь половину ресторана.",
+          "trans": "You're selling me half the restaurant."
         },
         {
-          "text": "Три с половиной промилле? У меня семь кредитов!",
-          "trans": "Three and a half per mille? I have seven loans!"
+          "text": "Да, каждый платит ровно половину суммы.",
+          "trans": "Yes, everyone pays exactly half the amount."
         }
       ],
       "related": []
@@ -4594,7 +4523,7 @@
       "meanings": [
         {
           "en": "to ask (for a favour)",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'просить'). Used as a perfective (single completed action) verb meaning 'to ask (for), to request', paired with 'просить'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'просить')."
         }
       ],
       "forms": {
@@ -4688,8 +4617,12 @@
           "gloss": "to ask"
         },
         {
+          "word": "просьба",
+          "gloss": "request"
+        },
+        {
           "word": "спрос",
-          "gloss": "asking"
+          "gloss": "demand"
         }
       ]
     },
@@ -4701,7 +4634,7 @@
       "meanings": [
         {
           "en": "last, final",
-          "note": "Последний раз = for the last time. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('last, final')."
+          "note": "Последний раз = for the last time."
         }
       ],
       "forms": {
@@ -4744,10 +4677,10 @@
           {
             "cells": [
               "accusative",
-              "последний",
+              "последний / последнего",
               "последнюю",
               "последнее",
-              "последние"
+              "последние / последних"
             ]
           },
           {
@@ -4839,7 +4772,7 @@
         },
         {
           "en": "to introduce, present",
-          "note": "Someone or something. Used as an imperfective (ongoing/repeated action) verb meaning 'to imagine; to introduce, present', paired with 'представить'."
+          "note": "Someone or something."
         }
       ],
       "forms": {
@@ -4946,7 +4879,7 @@
       "meanings": [
         {
           "en": "beautiful, wonderful",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('beautiful, wonderful')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5047,7 +4980,7 @@
       "meanings": [
         {
           "en": "to arrive, to come (by transport)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to arrive (by vehicle)', paired with 'приезжать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -5328,8 +5261,20 @@
       ],
       "related": [
         {
-          "word": "разный",
-          "gloss": "related to time (adj.)"
+          "word": "однажды",
+          "gloss": "once, one day"
+        },
+        {
+          "word": "как раз",
+          "gloss": "just right, exactly"
+        },
+        {
+          "word": "ни разу",
+          "gloss": "not once, never"
+        },
+        {
+          "word": "сразу",
+          "gloss": "at once"
         }
       ]
     },
@@ -5339,11 +5284,11 @@
       "pos": "verb",
       "gloss": "to have fun, amuse oneself",
       "aspect": "impf",
-      "pair": null,
+      "pair": "развлечься",
       "meanings": [
         {
           "en": "to have fun, to amuse oneself",
-          "note": "Used in Russian as an imperfective verb expressing ongoing, habitual, or repeated action meaning 'to have fun'. The reflexive suffix '-ся'/'-сь' makes the action intransitive, reciprocal, or directed at the subject."
+          "note": ""
         }
       ],
       "forms": {
@@ -5395,6 +5340,23 @@
                 "развлекалась",
                 "развлекалось",
                 "развлекались"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "развлекайся",
+                "развлекайтесь"
               ]
             }
           ]
@@ -5469,11 +5431,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5545,8 +5507,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -5598,7 +5568,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5689,15 +5659,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -5711,7 +5681,7 @@
       "meanings": [
         {
           "en": "to happen",
-          "note": "Что случилось? = what happened?. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to happen', paired with 'случаться'."
+          "note": "Что случилось? = what happened?."
         }
       ],
       "forms": {
@@ -5763,6 +5733,23 @@
                 "случилась",
                 "случилось",
                 "случились"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "случись",
+                "случитесь"
               ]
             }
           ]
@@ -5827,11 +5814,11 @@
       "meanings": [
         {
           "en": "play, theatrical performance",
-          "note": "On stage. Common masculine noun meaning 'performance, play, show' in everyday Russian."
+          "note": "On stage."
         },
         {
           "en": "show, scene, act",
-          "note": "Figurative dramatic display. Common masculine noun meaning 'performance, play, show' in everyday Russian."
+          "note": "Figurative dramatic display."
         }
       ],
       "forms": {
@@ -5911,7 +5898,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6274,10 +6261,10 @@
           {
             "cells": [
               "accusative",
-              "уважаемый",
+              "уважаемый / уважаемого",
               "уважаемую",
               "уважаемое",
-              "уважаемые"
+              "уважаемые / уважаемых"
             ]
           },
           {
@@ -6326,12 +6313,16 @@
       "lemma": "уход",
       "stress": "ухо́д",
       "pos": "noun",
-      "gloss": "leaving / resignation",
+      "gloss": "leaving, departure; care",
       "gender": "m",
       "meanings": [
         {
-          "en": "leaving / resignation",
-          "note": "Common masculine noun meaning 'leaving / resignation' in everyday Russian."
+          "en": "leaving, departure, resignation",
+          "note": "заявление об уходе = letter of resignation"
+        },
+        {
+          "en": "care, nursing",
+          "note": "уход за + instr."
         }
       ],
       "forms": {
@@ -6390,18 +6381,27 @@
       "examples": [
         {
           "text": "Иначе я напишу заявление об уходе.",
-          "trans": "Otherwise I will write a letter of resignation."
+          "trans": "Otherwise I'll hand in my resignation."
         },
         {
-          "text": "Никуда не уходи, я скоро вернусь.",
-          "trans": "Do not go anywhere, I will be back soon."
+          "text": "А нашему больному нужен хороший уход и главное — покой.",
+          "trans": "And our patient needs good care and, above all, rest."
         },
         {
-          "text": "Ребята, внимание, я сегодня увольняюсь и ухожу в другой ресторан.",
-          "trans": "Guys, attention, today I am quitting and leaving for another restaurant."
+          "text": "И последней каплей для учредителей стал уход Сергея.",
+          "trans": "And the last straw for the founders was Sergey's departure."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "уходить",
+          "gloss": "to leave"
+        },
+        {
+          "word": "ухаживать",
+          "gloss": "to look after"
+        }
+      ]
     },
     "что": {
       "lemma": "что",
@@ -6509,7 +6509,7 @@
         },
         {
           "en": "in order to",
-          "note": "+ infinitive. Core Russian conj meaning 'so that, in order to' in everyday speech."
+          "note": "+ infinitive."
         }
       ],
       "forms": null,

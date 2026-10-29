@@ -260,7 +260,7 @@
           "pos": "det",
           "stress": "ва́шего",
           "gloss": "your",
-          "gram": "accusative singular, masculine animate"
+          "gram": "genitive / accusative singular, masculine"
         },
         {
           "t": "тоже",
@@ -569,7 +569,7 @@
           "lemma": "этот",
           "pos": "det",
           "stress": "э́ти",
-          "gloss": "this (these)",
+          "gloss": "these",
           "gram": "plural, accusative, inanimate"
         },
         {
@@ -1248,7 +1248,7 @@
           "pos": "det",
           "stress": "ва́шего",
           "gloss": "your",
-          "gram": "accusative singular, masculine animate"
+          "gram": "genitive / accusative singular, masculine"
         },
         {
           "t": "тоже",
@@ -1563,7 +1563,7 @@
           "lemma": "этот",
           "pos": "det",
           "stress": "э́ти",
-          "gloss": "this (these)",
+          "gloss": "these",
           "gram": "plural, accusative, inanimate"
         },
         {
@@ -2248,7 +2248,7 @@
           "pos": "det",
           "stress": "ва́шего",
           "gloss": "your",
-          "gram": "accusative singular, masculine animate"
+          "gram": "genitive / accusative singular, masculine"
         },
         {
           "t": "тоже",
@@ -2557,7 +2557,7 @@
           "lemma": "этот",
           "pos": "det",
           "stress": "э́ти",
-          "gloss": "this (these)",
+          "gloss": "these",
           "gram": "plural, accusative, inanimate"
         },
         {
@@ -3033,7 +3033,7 @@
       "meanings": [
         {
           "en": "gangster, bandit, thug",
-          "note": "Common masculine noun meaning 'gangster, bandit' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3092,21 +3092,25 @@
       "examples": [
         {
           "text": "Я тебе не бандит.",
-          "trans": "I'm no gangster for you."
+          "trans": "I'm not some gangster, you know."
         },
         {
           "text": "Полиция поймала бандитов.",
           "trans": "The police caught the gangsters."
         },
         {
-          "text": "Такая интересная. Я тебе не бандит.",
-          "trans": "Funny you should say that. I'm no gangster for you."
+          "text": "Меня эти бандиты чуть не утопили!",
+          "trans": "Those thugs nearly drowned me!"
         }
       ],
       "related": [
         {
           "word": "бандитский",
-          "gloss": "gangster"
+          "gloss": "gangster (adj.)"
+        },
+        {
+          "word": "банда",
+          "gloss": "gang"
         }
       ]
     },
@@ -3124,7 +3128,7 @@
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -3232,7 +3236,7 @@
       "meanings": [
         {
           "en": "without",
-          "note": "+ genitive. Core Russian prep meaning 'without' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -3312,7 +3316,7 @@
       "meanings": [
         {
           "en": "your, yours",
-          "note": "Polite (вы) or plural. Core Russian det meaning 'your, yours (polite or plural)' in everyday speech."
+          "note": "Polite (вы) or plural."
         }
       ],
       "forms": {
@@ -3417,11 +3421,11 @@
       "meanings": [
         {
           "en": "to believe (someone or something)",
-          "note": "+ dative: верить мне. Used as an imperfective (ongoing/repeated action) verb meaning 'to believe', paired with 'поверить'."
+          "note": "+ dative: верить мне."
         },
         {
           "en": "to believe in",
-          "note": "Верить в + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to believe', paired with 'поверить'."
+          "note": "Верить в + accusative."
         }
       ],
       "forms": {
@@ -3534,11 +3538,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3590,6 +3594,23 @@
                 "видела",
                 "видело",
                 "видели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
               ]
             }
           ]
@@ -3753,7 +3774,7 @@
       "meanings": [
         {
           "en": "benefit, advantage, gain, profit",
-          "note": "Личная выгода = personal gain. Common feminine noun meaning 'benefit, profit, personal gain' in everyday Russian."
+          "note": "Личная выгода = personal gain."
         }
       ],
       "forms": {
@@ -3822,7 +3843,11 @@
       "related": [
         {
           "word": "выгодный",
-          "gloss": "related to benefit (adj.)"
+          "gloss": "profitable, advantageous"
+        },
+        {
+          "word": "выгодно",
+          "gloss": "profitably; it pays"
         }
       ]
     },
@@ -3836,11 +3861,11 @@
       "meanings": [
         {
           "en": "to go out, to leave",
-          "note": "Used as a perfective (single completed action) verb meaning 'to go out, to get out', paired with 'выходить'."
+          "note": ""
         },
         {
           "en": "to get out (be released)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to go out, to get out', paired with 'выходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4064,7 +4089,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -4100,11 +4125,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -4195,15 +4224,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -4217,11 +4246,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4329,11 +4358,11 @@
       "stress": "де́нежки",
       "pos": "noun",
       "gloss": "money, cash (affectionate diminutive of деньги)",
-      "gender": "f",
+      "number": "pl",
       "meanings": [
         {
           "en": "money, cash (colloquial/affectionate plural diminutive of деньги)",
-          "note": "Common feminine noun meaning 'money, cash (affectionate diminutive of деньги)' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4410,7 +4439,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -4613,7 +4641,7 @@
         },
         {
           "en": "duty",
-          "note": "Common masculine noun meaning 'debt; duty' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4662,7 +4690,7 @@
           {
             "cells": [
               "prepositional",
-              "долге (в долгу)",
+              "долге",
               "долгах"
             ]
           }
@@ -4919,11 +4947,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -4952,11 +4980,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -5067,7 +5095,7 @@
       "meanings": [
         {
           "en": "key",
-          "note": "For a door or a car. Common masculine noun meaning 'key' in everyday Russian."
+          "note": "For a door or a car."
         }
       ],
       "forms": {
@@ -5139,16 +5167,16 @@
       ],
       "related": [
         {
-          "word": "отключить",
-          "gloss": "to switch off"
+          "word": "ключик",
+          "gloss": "little key"
         },
         {
-          "word": "переключиться",
-          "gloss": "to switch over"
+          "word": "замок",
+          "gloss": "lock"
         },
         {
-          "word": "выключить",
-          "gloss": "to turn off"
+          "word": "связка ключей",
+          "gloss": "bunch of keys"
         }
       ]
     },
@@ -5161,7 +5189,7 @@
       "meanings": [
         {
           "en": "room",
-          "note": "In a flat or house. Common feminine noun meaning 'room' in everyday Russian."
+          "note": "In a flat or house."
         }
       ],
       "forms": {
@@ -5251,7 +5279,7 @@
       "meanings": [
         {
           "en": "small room, little room (diminutive of комната)",
-          "note": "Common feminine noun meaning 'little room (diminutive of комната)' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5342,7 +5370,7 @@
       "meanings": [
         {
           "en": "to supervise, to keep an eye on, to control",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to control, to keep an eye on', paired with 'проконтролировать'."
+          "note": "+ accusative."
         }
       ],
       "forms": {
@@ -5433,15 +5461,15 @@
       "related": [
         {
           "word": "проконтролировать",
-          "gloss": "to keep an eye on"
+          "gloss": "to check, supervise (pf.)"
         },
         {
           "word": "контроль",
           "gloss": "control"
         },
         {
-          "word": "контрольная",
-          "gloss": "test"
+          "word": "следить",
+          "gloss": "to keep an eye on"
         }
       ]
     },
@@ -5535,11 +5563,11 @@
       "meanings": [
         {
           "en": "personal",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('personal, private')."
+          "note": ""
         },
         {
           "en": "private, one's own",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('personal, private')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5582,10 +5610,10 @@
           {
             "cells": [
               "accusative",
-              "личный/личного",
+              "личный / личного",
               "личную",
               "личное",
-              "личные/личных"
+              "личные / личных"
             ]
           },
           {
@@ -5639,7 +5667,7 @@
       "meanings": [
         {
           "en": "boy",
-          "note": "A male child. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'boy' in everyday Russian."
+          "note": "A male child."
         },
         {
           "en": "boy!",
@@ -5720,44 +5748,6 @@
         }
       ]
     },
-    "может": {
-      "lemma": "может",
-      "stress": "мо́жет",
-      "pos": "adv",
-      "gloss": "maybe, perhaps",
-      "meanings": [
-        {
-          "en": "maybe, perhaps",
-          "note": "Short for может быть. Core Russian part meaning 'maybe, perhaps' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Может, завтра.",
-          "trans": "Maybe tomorrow."
-        },
-        {
-          "text": "Я думал, может, не примешь.",
-          "trans": "I thought maybe you wouldn't see me."
-        }
-      ],
-      "related": [
-        {
-          "word": "может быть",
-          "gloss": "maybe (full form)"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
-        }
-      ]
-    },
     "мочь": {
       "lemma": "мочь",
       "stress": "мочь",
@@ -5768,7 +5758,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -5820,6 +5810,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -6235,7 +6242,7 @@
       "meanings": [
         {
           "en": "to get dressed, to put on one's clothes",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to get dressed, to dress oneself', paired with 'одеться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6524,7 +6531,7 @@
       "meanings": [
         {
           "en": "to stay, to remain",
-          "note": "Остаётся у нас = stays with us. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to stay, to remain', paired with 'остаться'."
+          "note": "Остаётся у нас = stays with us."
         }
       ],
       "forms": {
@@ -6637,11 +6644,11 @@
       "meanings": [
         {
           "en": "to leave (someone or something somewhere)",
-          "note": "Оставь мне кусок = save me a piece. Used as a perfective (single completed action) verb meaning 'to leave (behind)', paired with 'оставлять'."
+          "note": "Оставь мне кусок = save me a piece."
         },
         {
           "en": "to keep, to save",
-          "note": "Оставь мне кусок = save me a piece. Used as a perfective (single completed action) verb meaning 'to leave (behind)', paired with 'оставлять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6754,7 +6761,7 @@
       "meanings": [
         {
           "en": "to repeat, to say again",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to repeat, to review', paired with 'повторить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6863,7 +6870,7 @@
       "meanings": [
         {
           "en": "to divide up, to split, to share between",
-          "note": "Share out between people. Used as a perfective (single completed action) verb meaning 'to divide, to split, to share out', paired with 'делить'."
+          "note": "Share out between people."
         }
       ],
       "forms": {
@@ -7053,16 +7060,16 @@
       ],
       "related": [
         {
-          "word": "предполагать",
-          "gloss": "to suppose"
+          "word": "половина",
+          "gloss": "half"
         },
         {
-          "word": "предполагаемый",
-          "gloss": "suspected"
+          "word": "делить",
+          "gloss": "to divide, split"
         },
         {
-          "word": "располагаться",
-          "gloss": "to settle down"
+          "word": "поровну",
+          "gloss": "equally"
         }
       ]
     },
@@ -7216,7 +7223,7 @@
       "meanings": [
         {
           "en": "to look after, to keep an eye on",
-          "note": "+ за + instrumental. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'глядеть'). Used as a perfective (single completed action) verb meaning 'to look after, to keep an eye on', paired with 'приглядывать'."
+          "note": "+ за + instrumental. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'глядеть')."
         }
       ],
       "forms": {
@@ -7415,7 +7422,7 @@
       "meanings": [
         {
           "en": "to hide oneself, to be in hiding",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to hide (oneself)', paired with 'спрятаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -7528,7 +7535,7 @@
       "meanings": [
         {
           "en": "to scare, to try to frighten, to threaten",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to scare, to try to frighten', paired with 'напугать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -7708,8 +7715,20 @@
       ],
       "related": [
         {
-          "word": "разный",
-          "gloss": "related to time (adj.)"
+          "word": "однажды",
+          "gloss": "once, one day"
+        },
+        {
+          "word": "как раз",
+          "gloss": "just right, exactly"
+        },
+        {
+          "word": "ни разу",
+          "gloss": "not once, never"
+        },
+        {
+          "word": "сразу",
+          "gloss": "at once"
         }
       ]
     },
@@ -7727,7 +7746,7 @@
         },
         {
           "en": "to solve",
-          "note": "Решить задачу. Used as a perfective (single completed action) verb meaning 'to decide; to solve', paired with 'решать'."
+          "note": "Решить задачу."
         }
       ],
       "forms": {
@@ -7981,12 +8000,20 @@
       "pair": "сдавать",
       "meanings": [
         {
-          "en": "to return, to hand back, to turn in",
-          "note": "A rented car, key, or ticket. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'дать'). Used as a perfective (single completed action) verb meaning 'to return, to hand in; to pass (an exam)', paired with 'сдавать'."
+          "en": "to return, hand back, turn in",
+          "note": "сдать машину = to return the car"
         },
         {
-          "en": "to pass",
-          "note": "An exam: сдать экзамен. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'дать'). Used as a perfective (single completed action) verb meaning 'to return, to hand in; to pass (an exam)', paired with 'сдавать'."
+          "en": "to pass (an exam)",
+          "note": "сдать экзамен"
+        },
+        {
+          "en": "to rent out",
+          "note": "сдать комнату"
+        },
+        {
+          "en": "to rat out, turn in",
+          "note": "colloquial: Спасибо, что не сдал меня."
         }
       ],
       "forms": {
@@ -8077,15 +8104,15 @@
       "related": [
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to take (an exam); to hand in (impf)"
         },
         {
-          "word": "дать",
-          "gloss": "to give"
+          "word": "сдаться",
+          "gloss": "to give up"
         },
         {
-          "word": "отдать",
-          "gloss": "to give"
+          "word": "сдача",
+          "gloss": "change (money)"
         }
       ]
     },
@@ -8180,7 +8207,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -8188,7 +8215,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -8458,7 +8485,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -8585,7 +8612,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -8616,7 +8643,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -8668,6 +8695,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -8780,91 +8824,6 @@
         {
           "text": "Слушай, я уеду на полтора часа. Ты с Викой посиди, понял?",
           "trans": "Listen, I'm going out for an hour and a half. You stay with Vika, got it?"
-        }
-      ],
-      "related": []
-    },
-    "часы": {
-      "lemma": "часы",
-      "stress": "часы́",
-      "pos": "noun",
-      "gloss": "watch, clock",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "watch, clock",
-          "note": "plural-only noun: эти часы = this watch"
-        },
-        {
-          "en": "hours",
-          "note": "Plural of час. Common substantive noun meaning 'watch, clock' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "—",
-              "часы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "—",
-              "часов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "—",
-              "часам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "—",
-              "часы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "—",
-              "часами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "—",
-              "часах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Видишь эти часы?",
-          "trans": "See this watch?"
-        },
-        {
-          "text": "Мои часы стоят.",
-          "trans": "My watch has stopped."
-        },
-        {
-          "text": "Видишь эти часы? Это швейцарское золото.",
-          "trans": "See this watch? It's Swiss gold."
         }
       ],
       "related": []

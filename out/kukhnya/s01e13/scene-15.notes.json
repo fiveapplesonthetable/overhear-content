@@ -111,8 +111,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "же",
@@ -781,8 +781,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "же",
@@ -1451,8 +1451,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "же",
@@ -2423,7 +2423,7 @@
       "meanings": [
         {
           "en": "adult, grown-up",
-          "note": "Взрослый человек = an adult. Agrees in gender, number, and case with the noun it modifies ('adult, grown-up; (as a noun) a grown-up')."
+          "note": "Взрослый человек = an adult."
         },
         {
           "en": "a grown-up",
@@ -2470,10 +2470,10 @@
           {
             "cells": [
               "accusative",
-              "взрослый/взрослого",
+              "взрослый / взрослого",
               "взрослую",
               "взрослое",
-              "взрослые/взрослых"
+              "взрослые / взрослых"
             ]
           },
           {
@@ -2519,10 +2519,11 @@
       "pos": "noun",
       "gloss": "age",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "age",
-          "note": "Declinable masculine noun meaning 'age', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -2580,12 +2581,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Разница в возрасте не важна.",
-          "trans": "The age difference is not important."
+          "text": "Разница в возрасте совсем не важна.",
+          "trans": "The age difference doesn't matter at all."
         },
         {
-          "text": "Разница в возрасте совсем не важна.",
-          "trans": "The age difference is not important."
+          "text": "В твоём возрасте ещё смотрят сериалы?",
+          "trans": "At your age people still watch TV series?"
         }
       ],
       "related": []
@@ -2746,11 +2747,11 @@
       "meanings": [
         {
           "en": "to wait (for)",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": "+ accusative."
         },
         {
           "en": "to expect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2895,11 +2896,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3090,7 +3091,7 @@
         },
         {
           "en": "it seems, I think",
-          "note": "Кажется as a parenthetical word. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to seem', paired with 'показаться'."
+          "note": "Кажется as a parenthetical word."
         }
       ],
       "forms": {
@@ -3145,6 +3146,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "кажись",
+                "кажитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3164,15 +3182,15 @@
       "related": [
         {
           "word": "показаться",
-          "gloss": "to seem"
+          "gloss": "to seem (pf)"
         },
         {
-          "word": "сказать",
-          "gloss": "to say"
+          "word": "кажется",
+          "gloss": "it seems, I think"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "оказаться",
+          "gloss": "to turn out"
         }
       ]
     },
@@ -3184,7 +3202,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -3293,11 +3311,11 @@
       "meanings": [
         {
           "en": "to love",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         },
         {
           "en": "to like",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3381,8 +3399,8 @@
           "trans": "Do you like gum?"
         },
         {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
+          "text": "Ты любишь чужую жену!",
+          "trans": "You're in love with another man's wife!"
         }
       ],
       "related": [
@@ -3451,10 +3469,10 @@
           {
             "cells": [
               "accusative",
-              "молодого",
+              "молодой / молодого",
               "молодую",
               "молодое",
-              "молодых"
+              "молодые / молодых"
             ]
           },
           {
@@ -3635,7 +3653,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3671,7 +3689,7 @@
       "meanings": [
         {
           "en": "to punish",
-          "note": "+ accusative. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to punish', paired with 'наказывать'."
+          "note": "+ accusative; за + accusative for the reason."
         }
       ],
       "forms": {
@@ -3812,7 +3830,7 @@
       "meanings": [
         {
           "en": "incorrigible, irredeemable",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'исправимый'). Agrees in gender, number, and case with the noun it modifies ('incorrigible, incurable')."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'исправимый')."
         }
       ],
       "forms": {
@@ -3962,10 +3980,10 @@
           {
             "cells": [
               "accusative",
-              "несерьёзный",
+              "несерьёзный / несерьёзного",
               "несерьёзную",
               "несерьёзное",
-              "несерьёзные"
+              "несерьёзные / несерьёзных"
             ]
           },
           {
@@ -4001,12 +4019,16 @@
       ],
       "related": [
         {
-          "word": "очень",
-          "gloss": "very"
+          "word": "серьёзный",
+          "gloss": "serious"
         },
         {
-          "word": "такой",
-          "gloss": "such"
+          "word": "легкомысленный",
+          "gloss": "frivolous"
+        },
+        {
+          "word": "несерьёзно",
+          "gloss": "not seriously"
         }
       ]
     },
@@ -4152,11 +4174,11 @@
       "meanings": [
         {
           "en": "to worry, to be anxious",
-          "note": "Intransitive or за + accusative. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry, to fret; to go through', paired with 'пережить'."
+          "note": "Intransitive or за + accusative. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать')."
         },
         {
           "en": "to experience, to live through",
-          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry, to fret; to go through', paired with 'пережить'."
+          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать')."
         }
       ],
       "forms": {
@@ -4508,7 +4530,7 @@
       "meanings": [
         {
           "en": "to hide oneself, to be in hiding",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to hide (oneself)', paired with 'спрятаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4799,7 +4821,7 @@
       "meanings": [
         {
           "en": "child",
-          "note": "Plural: дети. Common masculine noun meaning 'child' in everyday Russian."
+          "note": "Plural: дети."
         }
       ],
       "forms": {
@@ -4970,11 +4992,11 @@
       "meanings": [
         {
           "en": "nearby, close by",
-          "note": "Adverb. Core Russian adv meaning 'nearby, next to' in everyday speech."
+          "note": "Adverb."
         },
         {
           "en": "next to, beside",
-          "note": "Рядом с + instrumental. Core Russian adv meaning 'nearby, next to' in everyday speech."
+          "note": "Рядом с + instrumental."
         }
       ],
       "forms": null,
@@ -4995,8 +5017,16 @@
       ],
       "related": [
         {
-          "word": "порядок",
-          "gloss": "order"
+          "word": "около",
+          "gloss": "near, beside"
+        },
+        {
+          "word": "поблизости",
+          "gloss": "nearby"
+        },
+        {
+          "word": "рядом с",
+          "gloss": "next to (+ instr.)"
         }
       ]
     },
@@ -5047,7 +5077,7 @@
       "meanings": [
         {
           "en": "seriously",
-          "note": "Серьёзно? = really?. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Серьёзно? = really?."
         }
       ],
       "forms": null,
@@ -5112,7 +5142,7 @@
       "meanings": [
         {
           "en": "to commit an act or make a mistake",
-          "note": "Transitive verb. Used as an imperfective (ongoing/repeated action) verb meaning 'to commit, make (mistake)', paired with 'совершить'."
+          "note": "Transitive verb."
         }
       ],
       "forms": {
@@ -5223,7 +5253,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5252,7 +5282,7 @@
       "meanings": [
         {
           "en": "sternly, strictly, severely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5420,22 +5450,30 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "У меня сильная тревога на душе.",
-          "trans": "I have strong anxiety in my soul."
-        },
-        {
           "text": "У меня на душе сильная тревога.",
-          "trans": "I have a strong anxiety in my soul."
+          "trans": "I feel very anxious inside."
         },
         {
           "text": "Рядом со мной ты забудешь тревоги.",
-          "trans": "Beside me you will forget all worries."
+          "trans": "With me you'll forget your worries."
+        },
+        {
+          "text": "Это ложная тревога.",
+          "trans": "It's a false alarm."
         }
       ],
       "related": [
         {
-          "word": "потревожить",
-          "gloss": "to disturb"
+          "word": "тревожить",
+          "gloss": "to worry, to disturb"
+        },
+        {
+          "word": "беспокойство",
+          "gloss": "worry, anxiety"
+        },
+        {
+          "word": "ложная тревога",
+          "gloss": "false alarm"
         }
       ]
     },
@@ -5563,7 +5601,7 @@
           {
             "cells": [
               "3rd",
-              "хочется",
+              "—",
               "—"
             ]
           }
@@ -5815,7 +5853,7 @@
       "meanings": [
         {
           "en": "to joke",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to joke', paired with 'пошутить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5867,6 +5905,23 @@
                 "шутила",
                 "шутило",
                 "шутили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "шути",
+                "шутите"
               ]
             }
           ]

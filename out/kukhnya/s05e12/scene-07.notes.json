@@ -206,7 +206,7 @@
           "pos": "noun",
           "stress": "бере́менных",
           "gloss": "pregnant women",
-          "gram": "genitive plural, feminine"
+          "gram": "genitive plural"
         }
       ]
     },
@@ -243,7 +243,7 @@
           "lemma": "хватать",
           "pos": "verb",
           "stress": "хвата́ет",
-          "gloss": "grabs",
+          "gloss": "grabs; is enough (не хватает = is missing, there isn't enough)",
           "gram": "present, 3rd person singular, imperfective"
         },
         {
@@ -370,7 +370,7 @@
           "pos": "noun",
           "stress": "полчаса́",
           "gloss": "half-hour",
-          "gram": "masculine singular genitive"
+          "gram": "nominative/accusative"
         }
       ]
     },
@@ -405,7 +405,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -878,7 +878,7 @@
           "pos": "noun",
           "stress": "бере́менных",
           "gloss": "pregnant women",
-          "gram": "genitive plural, feminine"
+          "gram": "genitive plural"
         }
       ]
     },
@@ -915,7 +915,7 @@
           "lemma": "хватать",
           "pos": "verb",
           "stress": "хвата́ет",
-          "gloss": "grabs",
+          "gloss": "grabs; is enough (не хватает = is missing, there isn't enough)",
           "gram": "present, 3rd person singular, imperfective"
         },
         {
@@ -1042,7 +1042,7 @@
           "pos": "noun",
           "stress": "полчаса́",
           "gloss": "half-hour",
-          "gram": "masculine singular genitive"
+          "gram": "nominative/accusative"
         }
       ]
     },
@@ -1077,7 +1077,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1550,7 +1550,7 @@
           "pos": "noun",
           "stress": "бере́менных",
           "gloss": "pregnant women",
-          "gram": "genitive plural, feminine"
+          "gram": "genitive plural"
         }
       ]
     },
@@ -1587,7 +1587,7 @@
           "lemma": "хватать",
           "pos": "verb",
           "stress": "хвата́ет",
-          "gloss": "grabs",
+          "gloss": "grabs; is enough (не хватает = is missing, there isn't enough)",
           "gram": "present, 3rd person singular, imperfective"
         },
         {
@@ -1714,7 +1714,7 @@
           "pos": "noun",
           "stress": "полчаса́",
           "gloss": "half-hour",
-          "gram": "masculine singular genitive"
+          "gram": "nominative/accusative"
         }
       ]
     },
@@ -1749,7 +1749,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -2044,14 +2044,15 @@
   "lexicon": {
     "беременная": {
       "lemma": "беременная",
-      "stress": "беременна́я",
+      "stress": "бере́менная",
       "pos": "noun",
-      "gloss": "pregnant women",
+      "gloss": "pregnant woman",
       "gender": "f",
+      "animacy": "anim",
       "meanings": [
         {
-          "en": "pregnant women",
-          "note": "Common feminine noun meaning 'pregnant women' in everyday Russian."
+          "en": "pregnant woman",
+          "note": "substantivized adjective"
         }
       ],
       "forms": {
@@ -2066,42 +2067,42 @@
             "cells": [
               "nominative",
               "беременная",
-              "беременнаи"
+              "беременные"
             ]
           },
           {
             "cells": [
               "genitive",
-              "беременнаи",
-              "беременнаь"
+              "беременной",
+              "беременных"
             ]
           },
           {
             "cells": [
               "dative",
-              "беременнае",
-              "беременнаям"
+              "беременной",
+              "беременным"
             ]
           },
           {
             "cells": [
               "accusative",
-              "беременнаю",
-              "беременнаи"
+              "беременную",
+              "беременных"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "беременнаей",
-              "беременнаями"
+              "беременной",
+              "беременными"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "беременнае",
-              "беременнаях"
+              "беременной",
+              "беременных"
             ]
           }
         ]
@@ -2110,21 +2111,21 @@
       "examples": [
         {
           "text": "А беременным разве можно вино?",
-          "trans": "Are pregnant women really allowed wine?"
+          "trans": "Are pregnant women even allowed wine?"
         },
         {
-          "text": "На кухне отеля всегда есть беременная.",
-          "trans": "In the hotel kitchen there is always pregnant women."
+          "text": "Особенно все хвалят его массаж для беременных.",
+          "trans": "Everyone especially praises his massage for pregnant women."
         }
       ],
       "related": [
         {
-          "word": "без беременна",
-          "gloss": "without pregnant women"
+          "word": "беременный",
+          "gloss": "pregnant"
         },
         {
-          "word": "наш беременная",
-          "gloss": "our pregnant women"
+          "word": "беременность",
+          "gloss": "pregnancy"
         }
       ]
     },
@@ -2132,13 +2133,19 @@
       "lemma": "болеть",
       "stress": "боле́ть",
       "pos": "verb",
-      "gloss": "to be ill",
-      "aspect": "impf",
-      "pair": "заболеть",
+      "gloss": "to be ill; to hurt; to root for",
       "meanings": [
         {
           "en": "to be ill, to be sick",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to be ill', paired with 'заболеть'."
+          "note": "болею, болеет"
+        },
+        {
+          "en": "to hurt, to ache",
+          "note": "3rd person only: болит, болят (у меня болит голова)"
+        },
+        {
+          "en": "to root for, to support (a team)",
+          "note": "болеть за + accusative"
         }
       ],
       "forms": {
@@ -2239,7 +2246,8 @@
           "word": "заболевание",
           "gloss": "disease"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "большой": {
       "lemma": "большой",
@@ -2249,7 +2257,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2747,7 +2755,7 @@
         },
         {
           "en": "to hire",
-          "note": "'взять на работу' = to give someone a job"
+          "note": ""
         }
       ],
       "forms": {
@@ -2859,7 +2867,7 @@
       "meanings": [
         {
           "en": "business card",
-          "note": "Common feminine noun meaning 'business card' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2881,7 +2889,7 @@
             "cells": [
               "genitive",
               "визитки",
-              "визитк"
+              "визиток"
             ]
           },
           {
@@ -2935,7 +2943,7 @@
       "meanings": [
         {
           "en": "magic, magical, enchanting",
-          "note": "Qualitative or relational adjective formed with the productive '-н-' suffix, meaning 'magic' and agreeing in gender, number, and case."
+          "note": ""
         }
       ],
       "forms": {
@@ -2978,10 +2986,10 @@
           {
             "cells": [
               "accusative",
-              "волшебный",
+              "волшебный / волшебного",
               "волшебную",
               "волшебное",
-              "волшебных"
+              "волшебные / волшебных"
             ]
           },
           {
@@ -3034,11 +3042,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -3077,11 +3085,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3349,15 +3357,15 @@
       "related": [
         {
           "word": "выполнять",
-          "gloss": "to perform"
+          "gloss": "to carry out (impf)"
         },
         {
-          "word": "полно",
-          "gloss": "plenty"
+          "word": "исполнить",
+          "gloss": "to fulfil, to perform"
         },
         {
-          "word": "сполна",
-          "gloss": "in full"
+          "word": "обещание",
+          "gloss": "promise"
         }
       ]
     },
@@ -3369,7 +3377,7 @@
       "meanings": [
         {
           "en": "somewhere",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3397,14 +3405,14 @@
     },
     "гормон": {
       "lemma": "гормон",
-      "stress": "го́рмон",
+      "stress": "гормо́н",
       "pos": "noun",
-      "gloss": "hormones",
+      "gloss": "hormone",
       "gender": "m",
       "meanings": [
         {
-          "en": "hormones",
-          "note": "Common masculine noun meaning 'hormones' in everyday Russian."
+          "en": "hormone",
+          "note": "usually plural гормоны"
         }
       ],
       "forms": {
@@ -3472,12 +3480,8 @@
       ],
       "related": [
         {
-          "word": "без гормо",
-          "gloss": "without hormones"
-        },
-        {
-          "word": "наш гормон",
-          "gloss": "our hormones"
+          "word": "гормональный",
+          "gloss": "hormonal"
         }
       ]
     },
@@ -3491,11 +3495,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3586,15 +3594,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3607,7 +3615,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -3645,11 +3653,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3692,7 +3700,7 @@
         },
         {
           "en": "duty",
-          "note": "Common masculine noun meaning 'debt; duty' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3741,7 +3749,7 @@
           {
             "cells": [
               "prepositional",
-              "долге (в долгу)",
+              "долге",
               "долгах"
             ]
           }
@@ -3846,11 +3854,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -3930,12 +3938,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -3962,7 +3970,7 @@
       "meanings": [
         {
           "en": "massage",
-          "note": "Делать массаж = to give a massage. Common masculine noun meaning 'massage' in everyday Russian."
+          "note": "Делать массаж = to give a massage."
         }
       ],
       "forms": {
@@ -4048,7 +4056,7 @@
       "meanings": [
         {
           "en": "technician, master",
-          "note": "Skilled worker or craftsman. Common masculine noun meaning 'technician, master' in everyday Russian."
+          "note": "Skilled worker or craftsman."
         }
       ],
       "forms": {
@@ -4358,7 +4366,7 @@
       "meanings": [
         {
           "en": "in no way",
-          "note": "Никак не могу = I just can't. Core Russian adv meaning 'in no way, not at all' in everyday speech."
+          "note": "Никак не могу = I just can't."
         }
       ],
       "forms": null,
@@ -4393,15 +4401,15 @@
       "meanings": [
         {
           "en": "number",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         },
         {
           "en": "phone number",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         },
         {
           "en": "hotel room",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4655,7 +4663,7 @@
       "meanings": [
         {
           "en": "especially, in particular",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4693,12 +4701,12 @@
       "lemma": "отель",
       "stress": "оте́ль",
       "pos": "noun",
-      "gloss": "of the hotel",
+      "gloss": "hotel",
       "gender": "m",
       "meanings": [
         {
-          "en": "of the hotel",
-          "note": "Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common masculine noun meaning 'of the hotel' in everyday Russian."
+          "en": "hotel",
+          "note": ""
         }
       ],
       "forms": {
@@ -4756,31 +4764,44 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это гематома, она и стала причиной потери памяти.",
-          "trans": "That is a hematoma, it became the cause of memory loss."
+          "text": "Наш отель должен удивить гостей.",
+          "trans": "Our hotel has to impress the guests."
         },
         {
-          "text": "Андрей, положи её к себе, а то и эту потеряю.",
-          "trans": "Andrey, put it in your pocket, or I will lose this one too."
+          "text": "В нашем отеле действует новая услуга.",
+          "trans": "Our hotel has a new service."
         },
         {
-          "text": "Я хотел бы просмотреть все документы по закупке продуктов.",
-          "trans": "I would like to review all the documents on food purchases."
+          "text": "Кто бы мог подумать, что буду управлять отелем?",
+          "trans": "Who'd have thought I'd be running a hotel?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "гостиница",
+          "gloss": "hotel"
+        },
+        {
+          "word": "номер",
+          "gloss": "hotel room"
+        },
+        {
+          "word": "постоялец",
+          "gloss": "hotel guest"
+        }
+      ]
     },
     "отлучиться": {
       "lemma": "отлучиться",
       "stress": "отлучи́ться",
       "pos": "verb",
-      "gloss": "to more",
+      "gloss": "to step away, to leave for a while",
       "aspect": "pf",
-      "pair": null,
+      "pair": "отлучаться",
       "meanings": [
         {
-          "en": "to more",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (root 'лучиться'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to more'."
+          "en": "to step away, to leave for a while",
+          "note": "often with ненадолго"
         }
       ],
       "forms": {
@@ -4835,6 +4856,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "отлучись",
+                "отлучитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4847,19 +4885,28 @@
           "trans": "I need to step away for a moment."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "отлучаться",
+          "gloss": "to step away (impf)"
+        },
+        {
+          "word": "отлучка",
+          "gloss": "absence"
+        }
+      ]
     },
     "повлиять": {
       "lemma": "повлиять",
-      "stress": "повли́ять",
+      "stress": "повлия́ть",
       "pos": "verb",
-      "gloss": "will affect, influence",
+      "gloss": "to influence, to affect",
       "aspect": "pf",
-      "pair": null,
+      "pair": "влиять",
       "meanings": [
         {
-          "en": "will affect, influence",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'влиять'). Used as a perfective (single completed action) verb meaning 'will affect, influence'."
+          "en": "to influence, to affect",
+          "note": "повлиять на что-то"
         }
       ],
       "forms": {
@@ -4914,26 +4961,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "повлияй",
+                "повлияйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Извините, спину свело. Моё положение никак не повлияет на работу.",
-          "trans": "Excuse me, my back cramped up. My condition will not affect my work in any way."
+          "trans": "Excuse me, my back cramped up. My condition won't affect my work in any way."
         },
         {
-          "text": "Надо всё сделать и повлиять вовремя.",
-          "trans": "We need to do everything and will affect on time."
+          "text": "Это решение повлияло на всех.",
+          "trans": "This decision affected everyone."
         }
       ],
       "related": [
         {
           "word": "влиять",
-          "gloss": "to will affect (base verb)"
+          "gloss": "to influence (impf)"
         },
         {
-          "word": "не повлиять",
-          "gloss": "not to will affect (negated infinitive)"
+          "word": "влияние",
+          "gloss": "influence"
         }
       ]
     },
@@ -4947,7 +5011,7 @@
       "meanings": [
         {
           "en": "to eat, to have something to eat",
-          "note": "Perfective of есть. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'есть'). Used as a perfective (single completed action) verb meaning 'to eat, to have a meal', paired with 'есть'."
+          "note": "Perfective of есть. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'есть')."
         }
       ],
       "forms": {
@@ -5127,12 +5191,16 @@
       ],
       "related": [
         {
-          "word": "предложение",
-          "gloss": "offer"
+          "word": "ситуация",
+          "gloss": "situation"
         },
         {
-          "word": "приложение",
-          "gloss": "app"
+          "word": "положить",
+          "gloss": "to put"
+        },
+        {
+          "word": "в положении",
+          "gloss": "pregnant (colloq.)"
         }
       ]
     },
@@ -5145,7 +5213,7 @@
       "meanings": [
         {
           "en": "half an hour",
-          "note": "Common masculine noun meaning 'half an hour' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5160,42 +5228,42 @@
             "cells": [
               "nominative",
               "полчаса",
-              "полчасы"
+              "полчаса"
             ]
           },
           {
             "cells": [
               "genitive",
-              "полчасы",
-              "полчас"
+              "получаса",
+              "получасов"
             ]
           },
           {
             "cells": [
               "dative",
-              "полчасе",
-              "полчасам"
+              "получасу",
+              "получасам"
             ]
           },
           {
             "cells": [
               "accusative",
-              "полчасу",
-              "полчасы"
+              "полчаса",
+              "полчаса"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "полчасой",
-              "полчасами"
+              "получасом",
+              "получасами"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "полчасе",
-              "полчасах"
+              "получасе",
+              "получасах"
             ]
           }
         ]
@@ -5223,11 +5291,11 @@
       "pos": "verb",
       "gloss": "to wash up, shower",
       "aspect": "pf",
-      "pair": null,
+      "pair": "мыться",
       "meanings": [
         {
           "en": "to wash up, shower",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мыться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to wash up, shower'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мыться')."
         }
       ],
       "forms": {
@@ -5241,22 +5309,22 @@
           {
             "cells": [
               "1st",
-              "помыюсь",
-              "помыемся"
+              "помоюсь",
+              "помоемся"
             ]
           },
           {
             "cells": [
               "2nd",
-              "помыешься",
-              "помыетесь"
+              "помоешься",
+              "помоетесь"
             ]
           },
           {
             "cells": [
               "3rd",
-              "помыется",
-              "помыются"
+              "помоется",
+              "помоются"
             ]
           }
         ]
@@ -5282,26 +5350,47 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "помойся",
+                "помойтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Таня, мне вечером хватает сил только поесть и помыться.",
-          "trans": "Tanya, in the evening I only have enough strength to eat and wash up."
+          "trans": "Tanya, in the evening I only have the strength to eat and wash."
         },
         {
-          "text": "Надо всё сделать и помыться вовремя.",
-          "trans": "We need to do everything and to wash up on time."
+          "text": "Вика, помойся пока без лейки.",
+          "trans": "Vika, wash without the shower head for now."
         }
       ],
       "related": [
         {
           "word": "мыться",
-          "gloss": "to to wash up (base verb)"
+          "gloss": "to wash oneself"
         },
         {
-          "word": "не помыться",
-          "gloss": "not to to wash up (negated infinitive)"
+          "word": "помыть",
+          "gloss": "to wash (something)"
+        },
+        {
+          "word": "душ",
+          "gloss": "shower"
         }
       ]
     },
@@ -5319,7 +5408,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5668,7 +5757,7 @@
       "meanings": [
         {
           "en": "hand, arm",
-          "note": "Жать руку = to shake hands. Common feminine noun meaning 'hand; arm' in everyday Russian."
+          "note": "Жать руку = to shake hands."
         }
       ],
       "forms": {
@@ -5742,15 +5831,19 @@
     },
     "свести": {
       "lemma": "свести",
-      "stress": "све́сти",
+      "stress": "свести́",
       "pos": "verb",
-      "gloss": "brought together",
+      "gloss": "to bring together; to cramp",
       "aspect": "pf",
-      "pair": null,
+      "pair": "сводить",
       "meanings": [
         {
-          "en": "brought together",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'вести'). Used as a perfective (single completed action) verb meaning 'brought together'."
+          "en": "to bring together, set (people) up",
+          "note": "свести Костю и Настю = to set Kostya and Nastya up"
+        },
+        {
+          "en": "(impersonal) to cramp",
+          "note": "спину свело = my back cramped up"
         }
       ],
       "forms": {
@@ -5764,22 +5857,22 @@
           {
             "cells": [
               "1st",
-              "свесю",
-              "свесем"
+              "сведу",
+              "сведём"
             ]
           },
           {
             "cells": [
               "2nd",
-              "свесешь",
-              "свесете"
+              "сведёшь",
+              "сведёте"
             ]
           },
           {
             "cells": [
               "3rd",
-              "свесет",
-              "свесют"
+              "сведёт",
+              "сведут"
             ]
           }
         ]
@@ -5798,10 +5891,27 @@
             {
               "cells": [
                 "past",
-                "свесл",
-                "свесла",
-                "свесло",
-                "свесли"
+                "свёл",
+                "свела",
+                "свело",
+                "свели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "сведи",
+                "сведите"
               ]
             }
           ]
@@ -5809,18 +5919,26 @@
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и свести вовремя.",
-          "trans": "We need to do everything and brought together on time."
+          "text": "К тому же ты свёл Костю и Настю.",
+          "trans": "Besides, you got Kostya and Nastya together."
         },
         {
-          "text": "На нашей кухне все умеют свести.",
-          "trans": "In our kitchen everyone knows how to brought together."
+          "text": "Извините, спину свело.",
+          "trans": "Sorry, my back cramped up."
         }
       ],
       "related": [
         {
-          "word": "не свести",
-          "gloss": "not to brought together (negated infinitive)"
+          "word": "сводить",
+          "gloss": "to bring together (impf)"
+        },
+        {
+          "word": "вести",
+          "gloss": "to lead"
+        },
+        {
+          "word": "свести с ума",
+          "gloss": "to drive crazy"
         }
       ]
     },
@@ -5833,11 +5951,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5909,8 +6027,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -6026,7 +6152,7 @@
       "meanings": [
         {
           "en": "strength, power, force",
-          "note": "colloquial plural силы = engine horsepower"
+          "note": "в силе = still valid"
         },
         {
           "en": "horsepower",
@@ -6112,15 +6238,15 @@
       "meanings": [
         {
           "en": "to film, to take a photo/video of",
-          "note": "Снять на телефон. Used as a perfective (single completed action) verb meaning 'to film, to photograph; to take off; to rent', paired with 'снимать'."
+          "note": "Снять на телефон."
         },
         {
           "en": "to take off, to remove",
-          "note": "Clothing. Used as a perfective (single completed action) verb meaning 'to film, to photograph; to take off; to rent', paired with 'снимать'."
+          "note": "Clothing."
         },
         {
           "en": "to rent",
-          "note": "A flat or room. Used as a perfective (single completed action) verb meaning 'to film, to photograph; to take off; to rent', paired with 'снимать'."
+          "note": "A flat or room."
         }
       ],
       "forms": {
@@ -6211,82 +6337,30 @@
       "related": [
         {
           "word": "снимать",
-          "gloss": "to take off"
+          "gloss": "to take off; to film (impf)"
         },
         {
-          "word": "понять",
-          "gloss": "to understand"
+          "word": "снимок",
+          "gloss": "photo, shot"
         },
         {
-          "word": "принять",
-          "gloss": "to receive"
+          "word": "съёмка",
+          "gloss": "filming"
         }
       ]
     },
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -6313,7 +6387,7 @@
       "meanings": [
         {
           "en": "back",
-          "note": "За спиной = behind one's back. Common feminine noun meaning 'back (body part)' in everyday Russian."
+          "note": "За спиной = behind one's back."
         }
       ],
       "forms": {
@@ -6387,13 +6461,13 @@
     },
     "супружеский": {
       "lemma": "супружеский",
-      "stress": "супруже́ский",
+      "stress": "супру́жеский",
       "pos": "adj",
       "gloss": "marital / conjugal",
       "meanings": [
         {
           "en": "marital / conjugal",
-          "note": "Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('marital / conjugal')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6436,10 +6510,10 @@
           {
             "cells": [
               "accusative",
-              "супружеский",
+              "супружеский / супружеского",
               "супружескую",
               "супружеское",
-              "супружеские"
+              "супружеские / супружеских"
             ]
           },
           {
@@ -6466,17 +6540,25 @@
       "examples": [
         {
           "text": "Он хочет исполнить супружеский долг!",
-          "trans": "He wants to fulfill his marital duty!"
+          "trans": "He wants to fulfil his marital duty!"
         },
         {
-          "text": "Шеф говорит, что это очень супружеский выбор.",
-          "trans": "The chef says that this is a very marital choice."
+          "text": "Ты бы выполнил свой супружеский долг.",
+          "trans": "You should do your marital duty."
         }
       ],
       "related": [
         {
-          "word": "очень супружеский",
-          "gloss": "very marital"
+          "word": "супруг",
+          "gloss": "husband, spouse"
+        },
+        {
+          "word": "супруга",
+          "gloss": "wife, spouse"
+        },
+        {
+          "word": "брак",
+          "gloss": "marriage"
         }
       ]
     },
@@ -6509,8 +6591,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -6651,11 +6741,15 @@
       "lemma": "удобно",
       "stress": "удо́бно",
       "pos": "adv",
-      "gloss": "comfortable, convenient",
+      "gloss": "comfortably, conveniently; (it's) convenient",
       "meanings": [
         {
-          "en": "comfortable, convenient",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "en": "comfortably, conveniently",
+          "note": ""
+        },
+        {
+          "en": "(it's) comfortable / convenient",
+          "note": "Predicative + dative: вам удобно говорить? = is it a good time to talk?"
         }
       ],
       "forms": null,
@@ -6663,14 +6757,23 @@
       "examples": [
         {
           "text": "Я вижу, тебе у нас не совсем удобно.",
-          "trans": "I can see that you are not entirely comfortable staying at our place."
+          "trans": "I can see you're not quite comfortable at our place."
         },
         {
-          "text": "На кухне все стараются работать удобно.",
-          "trans": "In the kitchen everyone tries to work comfortable."
+          "text": "Шеф, а вам удобно сейчас говорить?",
+          "trans": "Chef, is it a good time to talk?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "удобный",
+          "gloss": "comfortable, convenient"
+        },
+        {
+          "word": "неудобно",
+          "gloss": "awkward, inconvenient"
+        }
+      ]
     },
     "ужасно": {
       "lemma": "ужасно",
@@ -6680,7 +6783,7 @@
       "meanings": [
         {
           "en": "terrible, awful; terribly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6716,7 +6819,7 @@
       "meanings": [
         {
           "en": "to praise",
-          "note": "Express approval. Used as an imperfective (ongoing/repeated action) verb meaning 'to praise', paired with 'похвалить'."
+          "note": "Express approval."
         }
       ],
       "forms": {
@@ -6825,7 +6928,7 @@
         },
         {
           "en": "to be enough",
-          "note": "Impersonal, with the genitive. Used as an imperfective (ongoing/repeated action) verb meaning 'to grab, to seize', paired with 'схватить'."
+          "note": "Impersonal, with the genitive."
         }
       ],
       "forms": {
@@ -6936,7 +7039,7 @@
       "meanings": [
         {
           "en": "six",
-          "note": "Core Russian num meaning 'six' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,

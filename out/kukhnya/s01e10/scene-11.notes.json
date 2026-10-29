@@ -297,7 +297,7 @@
           "lemma": "парень",
           "pos": "noun",
           "stress": "па́рень",
-          "gloss": "boyfriend",
+          "gloss": "guy; boyfriend",
           "gram": "nominative singular, masculine"
         }
       ]
@@ -351,7 +351,7 @@
           "lemma": "о",
           "pos": "prep",
           "stress": "о́бо",
-          "gloss": "about, for",
+          "gloss": "about",
           "gram": "takes prepositional"
         },
         {
@@ -929,7 +929,7 @@
           "lemma": "парень",
           "pos": "noun",
           "stress": "па́рень",
-          "gloss": "boyfriend",
+          "gloss": "guy; boyfriend",
           "gram": "nominative singular, masculine"
         }
       ]
@@ -983,7 +983,7 @@
           "lemma": "о",
           "pos": "prep",
           "stress": "о́бо",
-          "gloss": "about, for",
+          "gloss": "about",
           "gram": "takes prepositional"
         },
         {
@@ -1561,7 +1561,7 @@
           "lemma": "парень",
           "pos": "noun",
           "stress": "па́рень",
-          "gloss": "boyfriend",
+          "gloss": "guy; boyfriend",
           "gram": "nominative singular, masculine"
         }
       ]
@@ -1615,7 +1615,7 @@
           "lemma": "о",
           "pos": "prep",
           "stress": "о́бо",
-          "gloss": "about, for",
+          "gloss": "about",
           "gram": "takes prepositional"
         },
         {
@@ -1962,7 +1962,7 @@
       "meanings": [
         {
           "en": "to lead, to guide, to drive",
-          "note": "Unidirectional verb of motion. Used as an imperfective (ongoing/repeated action) verb meaning 'to lead, to conduct (вести себя = to behave)', paired with 'повести'."
+          "note": "Unidirectional verb of motion."
         },
         {
           "en": "вести себя: to behave, to conduct oneself",
@@ -2516,29 +2516,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "готов",
-                "готова",
-                "готово",
-                "готовы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я готов!",
@@ -2580,7 +2558,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2612,10 +2590,11 @@
       "pos": "noun",
       "gloss": "order",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "order",
-          "note": "Declinable masculine noun meaning 'order', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "booking",
@@ -2706,7 +2685,7 @@
       "meanings": [
         {
           "en": "to finish, to end, to complete",
-          "note": "+ acc. or infinitive. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'кончить'). Used as a perfective (single completed action) verb meaning 'to finish, to complete', paired with 'заканчивать'."
+          "note": "+ acc. or infinitive. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'кончить')."
         }
       ],
       "forms": {
@@ -2823,7 +2802,7 @@
         },
         {
           "en": "it seems, I think",
-          "note": "Кажется as a parenthetical word. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to seem', paired with 'показаться'."
+          "note": "Кажется as a parenthetical word."
         }
       ],
       "forms": {
@@ -2878,6 +2857,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "кажись",
+                "кажитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2897,15 +2893,15 @@
       "related": [
         {
           "word": "показаться",
-          "gloss": "to seem"
+          "gloss": "to seem (pf)"
         },
         {
-          "word": "сказать",
-          "gloss": "to say"
+          "word": "кажется",
+          "gloss": "it seems, I think"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "оказаться",
+          "gloss": "to turn out"
         }
       ]
     },
@@ -2917,7 +2913,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -3044,7 +3040,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -3200,10 +3196,11 @@
       "pos": "noun",
       "gloss": "drink, beverage",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "drink, beverage",
-          "note": "Derived masculine noun formed with a productive Slavic suffix, used in spoken Russian to mean 'drink'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3275,8 +3272,16 @@
       ],
       "related": [
         {
-          "word": "напиться",
-          "gloss": "get drunk"
+          "word": "пить",
+          "gloss": "to drink"
+        },
+        {
+          "word": "выпивка",
+          "gloss": "booze"
+        },
+        {
+          "word": "сок",
+          "gloss": "juice"
         }
       ]
     },
@@ -3429,7 +3434,7 @@
       "meanings": [
         {
           "en": "a little, a bit",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много')."
         }
       ],
       "forms": null,
@@ -3618,11 +3623,11 @@
       "meanings": [
         {
           "en": "to deceive, to cheat",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to deceive, to cheat', paired with 'обмануть'."
+          "note": ""
         },
         {
           "en": "to lie to",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to deceive, to cheat', paired with 'обмануть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3892,11 +3897,11 @@
       "meanings": [
         {
           "en": "guy, young man",
-          "note": "Informal. Common masculine noun meaning 'guy, lad; boyfriend' in everyday Russian."
+          "note": "Informal."
         },
         {
           "en": "boyfriend",
-          "note": "Мой парень = my boyfriend. Common masculine noun meaning 'guy, lad; boyfriend' in everyday Russian."
+          "note": "Мой парень = my boyfriend."
         }
       ],
       "forms": {
@@ -4272,7 +4277,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -4602,7 +4607,7 @@
       "meanings": [
         {
           "en": "to ask (a question, or someone: спросить у кого-то)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'просить'). Used as a perfective (single completed action) verb meaning 'to ask', paired with 'спрашивать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4709,7 +4714,7 @@
       "meanings": [
         {
           "en": "strange, odd",
-          "note": "Как странно = how strange. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Как странно = how strange."
         }
       ],
       "forms": null,
@@ -4734,12 +4739,12 @@
           "gloss": "strange"
         },
         {
-          "word": "страна",
-          "gloss": "country"
+          "word": "странность",
+          "gloss": "oddity, quirk"
         },
         {
-          "word": "страница",
-          "gloss": "page"
+          "word": "удивительно",
+          "gloss": "surprisingly"
         }
       ]
     },
@@ -4954,8 +4959,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -4967,11 +4980,11 @@
       "meanings": [
         {
           "en": "definitely, for sure",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "exactly, precisely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5007,7 +5020,7 @@
       "meanings": [
         {
           "en": "to touch",
-          "note": "Не трогай! = Don't touch!. Used as an imperfective (ongoing/repeated action) verb meaning 'to touch', paired with 'тронуть'."
+          "note": "Не трогай! = Don't touch!."
         }
       ],
       "forms": {
@@ -5384,7 +5397,7 @@
         },
         {
           "en": "pure",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('clean')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5453,29 +5466,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "чист",
-                "чиста",
-                "чисто",
-                "чисты"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Всё чисто.",
@@ -5493,11 +5484,15 @@
       "related": [
         {
           "word": "чисто",
-          "gloss": "clearly"
+          "gloss": "clean; all clear"
         },
         {
           "word": "чистота",
           "gloss": "cleanliness"
+        },
+        {
+          "word": "чистить",
+          "gloss": "to clean"
         }
       ]
     },

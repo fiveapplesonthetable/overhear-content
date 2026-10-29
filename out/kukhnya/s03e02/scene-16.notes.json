@@ -132,9 +132,9 @@
           "t": "проводит",
           "lemma": "проводить",
           "pos": "verb",
-          "stress": "прово́дит",
-          "gloss": "spends",
-          "gram": "3rd person singular present, imperfective"
+          "stress": "проводи́т",
+          "gloss": "will show (you) to",
+          "gram": "3rd person singular future, perfective"
         },
         {
           "t": "за",
@@ -196,7 +196,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "Меня",
@@ -450,7 +450,7 @@
           "pos": "noun",
           "stress": "полчаса́",
           "gloss": "half-hour",
-          "gram": "masculine singular genitive"
+          "gram": "nominative/accusative"
         }
       ]
     },
@@ -503,7 +503,7 @@
           "lemma": "посадить",
           "pos": "verb",
           "stress": "поса́дишь",
-          "gloss": "will seat",
+          "gloss": "will you seat (them)",
           "gram": "future tense, 2nd person singular, perfective"
         }
       ]
@@ -660,9 +660,9 @@
           "t": "проводит",
           "lemma": "проводить",
           "pos": "verb",
-          "stress": "прово́дит",
-          "gloss": "spends",
-          "gram": "3rd person singular present, imperfective"
+          "stress": "проводи́т",
+          "gloss": "will show (you) to",
+          "gram": "3rd person singular future, perfective"
         },
         {
           "t": "за",
@@ -724,7 +724,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "Меня",
@@ -978,7 +978,7 @@
           "pos": "noun",
           "stress": "полчаса́",
           "gloss": "half-hour",
-          "gram": "masculine singular genitive"
+          "gram": "nominative/accusative"
         }
       ]
     },
@@ -1031,7 +1031,7 @@
           "lemma": "посадить",
           "pos": "verb",
           "stress": "поса́дишь",
-          "gloss": "will seat",
+          "gloss": "will you seat (them)",
           "gram": "future tense, 2nd person singular, perfective"
         }
       ]
@@ -1188,9 +1188,9 @@
           "t": "проводит",
           "lemma": "проводить",
           "pos": "verb",
-          "stress": "прово́дит",
-          "gloss": "spends",
-          "gram": "3rd person singular present, imperfective"
+          "stress": "проводи́т",
+          "gloss": "will show (you) to",
+          "gram": "3rd person singular future, perfective"
         },
         {
           "t": "за",
@@ -1252,7 +1252,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "Меня",
@@ -1506,7 +1506,7 @@
           "pos": "noun",
           "stress": "полчаса́",
           "gloss": "half-hour",
-          "gram": "masculine singular genitive"
+          "gram": "nominative/accusative"
         }
       ]
     },
@@ -1559,7 +1559,7 @@
           "lemma": "посадить",
           "pos": "verb",
           "stress": "поса́дишь",
-          "gloss": "will seat",
+          "gloss": "will you seat (them)",
           "gram": "future tense, 2nd person singular, perfective"
         }
       ]
@@ -1610,7 +1610,7 @@
       "meanings": [
         {
           "en": "as if",
-          "note": "Usually как будто. Core Russian conj meaning 'as if, as though' in everyday speech."
+          "note": "Usually как будто."
         }
       ],
       "forms": null,
@@ -1690,11 +1690,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -1724,49 +1724,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -1777,11 +1734,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -1872,15 +1833,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -1897,7 +1858,7 @@
         },
         {
           "en": "duty",
-          "note": "Common masculine noun meaning 'debt; duty' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1946,7 +1907,7 @@
           {
             "cells": [
               "prepositional",
-              "долге (в долгу)",
+              "долге",
               "долгах"
             ]
           }
@@ -2015,11 +1976,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2059,7 +2020,7 @@
       "meanings": [
         {
           "en": "to order (food, a taxi, goods)",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to order', paired with 'заказывать'."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'казать')."
         }
       ],
       "forms": {
@@ -2289,7 +2250,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -2325,14 +2286,15 @@
     },
     "листок": {
       "lemma": "листок",
-      "stress": "ли́сток",
+      "stress": "листо́к",
       "pos": "noun",
       "gloss": "slip of paper",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "slip of paper",
-          "note": "Common masculine noun meaning 'slip of paper' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2347,42 +2309,42 @@
             "cells": [
               "nominative",
               "листок",
-              "листоки"
+              "листки"
             ]
           },
           {
             "cells": [
               "genitive",
-              "листока",
-              "листоков"
+              "листка",
+              "листков"
             ]
           },
           {
             "cells": [
               "dative",
-              "листоку",
-              "листокам"
+              "листку",
+              "листкам"
             ]
           },
           {
             "cells": [
               "accusative",
               "листок",
-              "листоки"
+              "листки"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "листоком",
-              "листоками"
+              "листком",
+              "листками"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "листоке",
-              "листоках"
+              "листке",
+              "листках"
             ]
           }
         ]
@@ -2391,21 +2353,25 @@
       "examples": [
         {
           "text": "Положишь в папку вот этот листок.",
-          "trans": "You will put this slip of paper into the folder."
+          "trans": "Put this slip of paper in the folder."
         },
         {
-          "text": "На кухне ресторана всегда есть листок.",
-          "trans": "In the restaurant kitchen there is always slip of paper."
+          "text": "Смотри, не потеряй этот важный листок.",
+          "trans": "Mind you don't lose this important piece of paper."
         }
       ],
       "related": [
         {
-          "word": "без листо",
-          "gloss": "without slip of paper"
+          "word": "лист",
+          "gloss": "sheet; leaf"
         },
         {
-          "word": "наш листок",
-          "gloss": "our slip of paper"
+          "word": "листик",
+          "gloss": "little sheet"
+        },
+        {
+          "word": "бумага",
+          "gloss": "paper"
         }
       ]
     },
@@ -2564,7 +2530,7 @@
       "meanings": [
         {
           "en": "to begin, to start",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to begin, to start', paired with 'начать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2644,8 +2610,8 @@
           "trans": "When do I start?"
         },
         {
-          "text": "Урок начинается в девять.",
-          "trans": "The lesson starts at nine."
+          "text": "Ну что ты начинаешь?",
+          "trans": "Oh, don't start."
         },
         {
           "text": "Аркаш, ну что скажешь? Когда начинать?",
@@ -2707,11 +2673,11 @@
       "pos": "verb",
       "gloss": "to shortchange, overcharge",
       "aspect": "pf",
-      "pair": null,
+      "pair": "обсчитывать",
       "meanings": [
         {
-          "en": "to shortchange, overcharge",
-          "note": "Prefix 'об-' ('around, about') marks encirclement or comprehensive action (stem 'считать'). Used as a perfective (single completed action) verb meaning 'to shortchange, overcharge'."
+          "en": "to shortchange, overcharge (cheat in counting)",
+          "note": ""
         }
       ],
       "forms": {
@@ -2766,6 +2732,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "обсчитай",
+                "обсчитайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2784,8 +2767,16 @@
       ],
       "related": [
         {
-          "word": "не обсчитать",
-          "gloss": "not to to shortchange (negated infinitive)"
+          "word": "обсчитывать",
+          "gloss": "to shortchange"
+        },
+        {
+          "word": "считать",
+          "gloss": "to count"
+        },
+        {
+          "word": "обмануть",
+          "gloss": "to cheat"
         }
       ]
     },
@@ -2803,7 +2794,7 @@
         },
         {
           "en": "to stay",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to remain, to be left', paired with 'оставаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2916,7 +2907,7 @@
       "meanings": [
         {
           "en": "to step aside, to move back",
-          "note": "Perfective of отходить. Used as a perfective (single completed action) verb meaning 'to step back, to move away', paired with 'отходить'."
+          "note": "Perfective of отходить."
         }
       ],
       "forms": {
@@ -3069,7 +3060,7 @@
             "cells": [
               "accusative",
               "папку",
-              "папок"
+              "папки"
             ]
           },
           {
@@ -3113,7 +3104,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -3157,7 +3148,7 @@
       "meanings": [
         {
           "en": "to congratulate, to wish happy ...",
-          "note": "Поздравляю! = congratulations!. Used as an imperfective (ongoing/repeated action) verb meaning 'to congratulate', paired with 'поздравить'."
+          "note": "Поздравляю! = congratulations!."
         }
       ],
       "forms": {
@@ -3270,7 +3261,7 @@
       "meanings": [
         {
           "en": "to put, to place, to lay down",
-          "note": "+ в/на + accusative. Used as a perfective (single completed action) verb meaning 'to put, to lay down', paired with 'класть'."
+          "note": "+ в/на + accusative."
         }
       ],
       "forms": {
@@ -3361,11 +3352,15 @@
       "related": [
         {
           "word": "класть",
-          "gloss": "to put"
+          "gloss": "to put (impf)"
         },
         {
-          "word": "предложить",
-          "gloss": "to offer"
+          "word": "выложить",
+          "gloss": "to lay out"
+        },
+        {
+          "word": "отложить",
+          "gloss": "to put aside, to postpone"
         }
       ]
     },
@@ -3378,7 +3373,7 @@
       "meanings": [
         {
           "en": "half an hour",
-          "note": "Common masculine noun meaning 'half an hour' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3393,42 +3388,42 @@
             "cells": [
               "nominative",
               "полчаса",
-              "полчасы"
+              "полчаса"
             ]
           },
           {
             "cells": [
               "genitive",
-              "полчасы",
-              "полчас"
+              "получаса",
+              "получасов"
             ]
           },
           {
             "cells": [
               "dative",
-              "полчасе",
-              "полчасам"
+              "получасу",
+              "получасам"
             ]
           },
           {
             "cells": [
               "accusative",
-              "полчасу",
-              "полчасы"
+              "полчаса",
+              "полчаса"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "полчасой",
-              "полчасами"
+              "получасом",
+              "получасами"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "полчасе",
-              "полчасах"
+              "получасе",
+              "получасах"
             ]
           }
         ]
@@ -3460,7 +3455,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -3565,15 +3560,15 @@
       "meanings": [
         {
           "en": "to put in prison, to lock up",
-          "note": "Colloquial. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'садить'). Used as a perfective (single completed action) verb meaning 'to seat; to plant; to put in prison', paired with 'сажать'."
+          "note": "Colloquial. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'садить')."
         },
         {
           "en": "to sit somebody down, to seat",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'садить'). Used as a perfective (single completed action) verb meaning 'to seat; to plant; to put in prison', paired with 'сажать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'садить')."
         },
         {
           "en": "to plant",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'садить'). Used as a perfective (single completed action) verb meaning 'to seat; to plant; to put in prison', paired with 'сажать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3663,8 +3658,16 @@
       ],
       "related": [
         {
-          "word": "сидеть",
-          "gloss": "to sit"
+          "word": "сажать",
+          "gloss": "to seat, plant (impf)"
+        },
+        {
+          "word": "сесть",
+          "gloss": "to sit down; to go to prison"
+        },
+        {
+          "word": "тюрьма",
+          "gloss": "prison"
         }
       ]
     },
@@ -3680,7 +3683,7 @@
         },
         {
           "en": "permanent, constant",
-          "note": "Постоянная работа = permanent job. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('regular, permanent, constant')."
+          "note": "Постоянная работа = permanent job."
         }
       ],
       "forms": {
@@ -3723,10 +3726,10 @@
           {
             "cells": [
               "accusative",
-              "постоянный",
+              "постоянный / постоянного",
               "постоянную",
               "постоянное",
-              "постоянные"
+              "постоянные / постоянных"
             ]
           },
           {
@@ -3774,7 +3777,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -3910,7 +3913,7 @@
       "meanings": [
         {
           "en": "to bring (carrying on foot)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести'). Used as a perfective (single completed action) verb meaning 'to bring (on foot)', paired with 'приносить'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести')."
         }
       ],
       "forms": {
@@ -4178,7 +4181,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4269,15 +4272,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -4290,7 +4293,7 @@
       "meanings": [
         {
           "en": "scandal, row, noisy quarrel",
-          "note": "Declinable masculine noun meaning 'scandal', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -4377,7 +4380,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -4385,7 +4388,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -4497,11 +4500,11 @@
       "meanings": [
         {
           "en": "sweetheart, darling (affectionate address)",
-          "note": "Common neuter noun meaning 'sweetheart, darling; little sun' in everyday Russian."
+          "note": ""
         },
         {
           "en": "little sun (diminutive of солнце)",
-          "note": "Common neuter noun meaning 'sweetheart, darling; little sun' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4582,7 +4585,7 @@
       "meanings": [
         {
           "en": "table, desk",
-          "note": "End-stressed in all oblique cases. Common masculine noun meaning 'table, desk' in everyday Russian."
+          "note": "End-stressed in all oblique cases."
         }
       ],
       "forms": {
@@ -4663,11 +4666,11 @@
       "meanings": [
         {
           "en": "bank account",
-          "note": "Счёт в банке. Common masculine noun meaning 'account, bill, score' in everyday Russian."
+          "note": "Счёт в банке."
         },
         {
           "en": "bill, check",
-          "note": "In a restaurant. Common masculine noun meaning 'account, bill, score' in everyday Russian."
+          "note": "In a restaurant."
         }
       ],
       "forms": {
@@ -4689,14 +4692,14 @@
             "cells": [
               "genitive",
               "счёта",
-              "счетов"
+              "счётов"
             ]
           },
           {
             "cells": [
               "dative",
               "счёту",
-              "счетам"
+              "счётам"
             ]
           },
           {
@@ -4710,14 +4713,14 @@
             "cells": [
               "instrumental",
               "счётом",
-              "счетами"
+              "счётами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "счёте",
-              "счетах"
+              "счётах"
             ]
           }
         ]
@@ -4840,7 +4843,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -4895,6 +4898,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4936,7 +4956,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4988,6 +5008,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

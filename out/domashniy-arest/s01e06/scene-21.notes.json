@@ -369,7 +369,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -771,7 +771,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1237,7 +1237,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1639,7 +1639,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -2105,7 +2105,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -2507,7 +2507,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -2712,7 +2712,7 @@
       "meanings": [
         {
           "en": "to take",
-          "note": "Habitually or in general. Used as an imperfective (ongoing/repeated action) verb meaning 'to take', paired with 'взять'."
+          "note": "Habitually or in general."
         },
         {
           "en": "to take bribes",
@@ -2807,15 +2807,19 @@
       "related": [
         {
           "word": "взять",
-          "gloss": "to take"
+          "gloss": "to take (pf)"
         },
         {
           "word": "забрать",
-          "gloss": "to take back"
+          "gloss": "to take away, pick up"
         },
         {
-          "word": "убрать",
-          "gloss": "to remove"
+          "word": "брать трубку",
+          "gloss": "to answer the phone"
+        },
+        {
+          "word": "взятка",
+          "gloss": "bribe"
         }
       ]
     },
@@ -3138,7 +3142,7 @@
       "meanings": [
         {
           "en": "to explode, blow up, burst",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to explode, blow up, burst', paired with 'взрываться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3243,11 +3247,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3302,6 +3306,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3338,12 +3359,10 @@
       "stress": "висе́ть",
       "pos": "verb",
       "gloss": "to hang (be suspended)",
-      "aspect": "impf",
-      "pair": "повисеть",
       "meanings": [
         {
           "en": "to hang, to be hanging",
-          "note": "+ на + prepositional. Used as an imperfective (ongoing/repeated action) verb meaning 'to hang (be suspended)', paired with 'повисеть'."
+          "note": "+ на + prepositional."
         }
       ],
       "forms": {
@@ -3433,14 +3452,19 @@
       ],
       "related": [
         {
-          "word": "повисеть",
-          "gloss": "to hang"
+          "word": "повиснуть",
+          "gloss": "to be left hanging"
+        },
+        {
+          "word": "вешать",
+          "gloss": "to hang (something) up"
         },
         {
           "word": "зависеть",
           "gloss": "to depend on"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "вот": {
       "lemma": "вот",
@@ -3450,11 +3474,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -3500,7 +3524,7 @@
         },
         {
           "en": "forward!, let's go!",
-          "note": "As a command. Core Russian adv meaning 'forward, ahead' in everyday speech."
+          "note": "As a command."
         }
       ],
       "forms": null,
@@ -3624,7 +3648,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3660,11 +3684,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3755,15 +3783,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3875,11 +3903,11 @@
         },
         {
           "en": "here you are!",
-          "note": "imperative держи! when handing something over"
+          "note": ""
         },
         {
           "en": "catch!, grab (him)!",
-          "note": "Держи его!. Used as an imperfective (ongoing/repeated action) verb meaning 'to hold'."
+          "note": "Держи его!."
         }
       ],
       "forms": {
@@ -3991,11 +4019,11 @@
       "meanings": [
         {
           "en": "fiancé, bridegroom",
-          "note": "Man engaged or about to be married. Common masculine noun meaning 'bridegroom, fiancé, suitor, boyfriend' in everyday Russian."
+          "note": "Man engaged or about to be married."
         },
         {
           "en": "suitor, boyfriend",
-          "note": "Colloquial or ironic. Common masculine noun meaning 'bridegroom, fiancé, suitor, boyfriend' in everyday Russian."
+          "note": "Colloquial or ironic."
         }
       ],
       "forms": {
@@ -4080,11 +4108,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -4124,7 +4152,7 @@
       "meanings": [
         {
           "en": "to climb onto, get into",
-          "note": "Takes на/в + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to climb up, climb onto/into', paired with 'залезть'."
+          "note": "Takes на/в + accusative."
         }
       ],
       "forms": {
@@ -4215,11 +4243,15 @@
       "related": [
         {
           "word": "залезть",
-          "gloss": "to climb up"
+          "gloss": "to climb in, onto (pf)"
         },
         {
-          "word": "слеза",
-          "gloss": "tear"
+          "word": "лезть",
+          "gloss": "to climb"
+        },
+        {
+          "word": "вылезать",
+          "gloss": "to climb out"
         }
       ]
     },
@@ -4453,7 +4485,7 @@
         },
         {
           "en": "soundly",
-          "note": "Крепко спать = sleep soundly. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Крепко спать = sleep soundly."
         }
       ],
       "forms": null,
@@ -4573,7 +4605,7 @@
       "meanings": [
         {
           "en": "where to",
-          "note": "For movement; где is for location. Core Russian adv meaning 'where (to)' in everyday speech."
+          "note": "For movement; где is for location."
         }
       ],
       "forms": null,
@@ -4615,7 +4647,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -4637,7 +4669,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -4650,7 +4686,7 @@
       "meanings": [
         {
           "en": "month",
-          "note": "Уже месяц = for a month now. Common masculine noun meaning 'month' in everyday Russian."
+          "note": "Уже месяц = for a month now."
         }
       ],
       "forms": {
@@ -4732,7 +4768,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4784,6 +4820,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -4942,7 +4995,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -4978,7 +5031,7 @@
       "meanings": [
         {
           "en": "to find",
-          "note": "Used as a perfective (single completed action) verb meaning 'to find', paired with 'находить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5081,71 +5134,37 @@
       "meanings": [
         {
           "en": "gently, tenderly, affectionately",
-          "note": "Adverb from нежный. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb from нежный."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "А как держать? — Нежно!",
-          "trans": "How do I hold you? — Gently!"
+          "text": "Только держи меня! — А как держать? — Нежно!",
+          "trans": "Just hold me! — How should I hold you? — Gently!"
+        },
+        {
+          "text": "Только скажи всё максимально нежно.",
+          "trans": "Just say it all as gently as possible."
         },
         {
           "text": "Мама нежно обняла дочку.",
           "trans": "Mum gently hugged her daughter."
-        },
-        {
-          "text": "Только держи меня! — А как держать? — Нежно!",
-          "trans": "Just hold me! — How do I hold you? — Gently!"
         }
       ],
       "related": [
         {
-          "word": "снежный",
-          "gloss": "snowy"
-        }
-      ]
-    },
-    "ничего": {
-      "lemma": "ничего",
-      "stress": "ничего́",
-      "pos": "pron",
-      "gloss": "nothing; never mind",
-      "meanings": [
-        {
-          "en": "nothing",
-          "note": "Pronounced 'nichevo'. Core Russian pron meaning 'nothing; never mind' in everyday speech."
+          "word": "нежный",
+          "gloss": "tender, gentle"
         },
         {
-          "en": "never mind, it's okay",
-          "note": "As a reply on its own. Core Russian pron meaning 'nothing; never mind' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ничего, ничего.",
-          "trans": "Never mind, never mind."
+          "word": "нежность",
+          "gloss": "tenderness"
         },
         {
-          "text": "Я ничего не знаю.",
-          "trans": "I don't know anything."
-        },
-        {
-          "text": "Я ничего не понял, Аркаш.",
-          "trans": "I didn't understand a thing, Arkash."
-        }
-      ],
-      "related": [
-        {
-          "word": "ничто",
-          "gloss": "nothing"
-        },
-        {
-          "word": "всё",
-          "gloss": "everything"
+          "word": "ласково",
+          "gloss": "affectionately"
         }
       ]
     },
@@ -5236,11 +5255,11 @@
       "meanings": [
         {
           "en": "leg",
-          "note": "Russian uses one word for both. Common feminine noun meaning 'leg, foot' in everyday Russian."
+          "note": "Russian uses one word for both."
         },
         {
           "en": "foot",
-          "note": "Russian uses one word for both. Common feminine noun meaning 'leg, foot' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5320,7 +5339,7 @@
       "meanings": [
         {
           "en": "oh",
-          "note": "Surprise, fright or pain. Core Russian interj meaning 'oh' in everyday speech."
+          "note": "Surprise, fright or pain."
         }
       ],
       "forms": null,
@@ -5359,7 +5378,7 @@
       "meanings": [
         {
           "en": "window",
-          "note": "Common neuter noun meaning 'window' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5611,11 +5630,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -5753,7 +5772,7 @@
       "meanings": [
         {
           "en": "to climb, start climbing",
-          "note": "Takes на/в + accusative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'лезть'). Used as a perfective (single completed action) verb meaning 'to climb, start climbing', paired with 'лезть'."
+          "note": "Takes на/в + accusative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'лезть')."
         }
       ],
       "forms": {
@@ -5820,8 +5839,8 @@
             {
               "cells": [
                 "imperative",
-                "полезь",
-                "полезьте"
+                "полезай",
+                "полезайте"
               ]
             }
           ]
@@ -5862,7 +5881,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -5965,7 +5984,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -5996,7 +6015,7 @@
       "meanings": [
         {
           "en": "to run past, run a distance",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'бежать'). Used as a perfective (single completed action) verb meaning 'to run past, run through', paired with 'пробегать'."
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'бежать')."
         }
       ],
       "forms": {
@@ -6140,7 +6159,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -6245,7 +6264,7 @@
       "meanings": [
         {
           "en": "to knock down, strike off",
-          "note": "Dislodge by hitting. Used as an imperfective (ongoing/repeated action) verb meaning 'to knock down, knock off', paired with 'сбить'."
+          "note": "Dislodge by hitting."
         }
       ],
       "forms": {
@@ -6584,7 +6603,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -6675,15 +6694,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -6696,7 +6715,7 @@
       "meanings": [
         {
           "en": "tear, teardrop",
-          "note": "В слезах = in tears. Common feminine noun meaning 'tear, teardrop' in everyday Russian."
+          "note": "В слезах = in tears."
         }
       ],
       "forms": {
@@ -6778,11 +6797,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -6887,15 +6906,15 @@
       "meanings": [
         {
           "en": "to film, to take a photo/video of",
-          "note": "Снять на телефон. Used as a perfective (single completed action) verb meaning 'to film, to photograph; to take off; to rent', paired with 'снимать'."
+          "note": "Снять на телефон."
         },
         {
           "en": "to take off, to remove",
-          "note": "Clothing. Used as a perfective (single completed action) verb meaning 'to film, to photograph; to take off; to rent', paired with 'снимать'."
+          "note": "Clothing."
         },
         {
           "en": "to rent",
-          "note": "A flat or room. Used as a perfective (single completed action) verb meaning 'to film, to photograph; to take off; to rent', paired with 'снимать'."
+          "note": "A flat or room."
         }
       ],
       "forms": {
@@ -6986,15 +7005,15 @@
       "related": [
         {
           "word": "снимать",
-          "gloss": "to take off"
+          "gloss": "to take off; to film (impf)"
         },
         {
-          "word": "понять",
-          "gloss": "to understand"
+          "word": "снимок",
+          "gloss": "photo, shot"
         },
         {
-          "word": "принять",
-          "gloss": "to receive"
+          "word": "съёмка",
+          "gloss": "filming"
         }
       ]
     },
@@ -7012,7 +7031,7 @@
         },
         {
           "en": "freeze!",
-          "note": "the infinitive 'Стоять!' as a police order"
+          "note": ""
         }
       ],
       "forms": {
@@ -7117,11 +7136,11 @@
       "meanings": [
         {
           "en": "to spot, back up, hold someone so they don't fall",
-          "note": "In climbing or physical tasks. Used as an imperfective (ongoing/repeated action) verb meaning 'to spot, hold safe; to insure', paired with 'подстраховать'."
+          "note": "In climbing or physical tasks."
         },
         {
           "en": "to insure",
-          "note": "Against loss. Used as an imperfective (ongoing/repeated action) verb meaning 'to spot, hold safe; to insure', paired with 'подстраховать'."
+          "note": "Against loss."
         }
       ],
       "forms": {
@@ -7233,7 +7252,7 @@
       "meanings": [
         {
           "en": "son",
-          "note": "Common masculine noun meaning 'son' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7313,7 +7332,7 @@
       "meanings": [
         {
           "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
+          "note": "Direction."
         }
       ],
       "forms": null,
@@ -7542,8 +7561,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },

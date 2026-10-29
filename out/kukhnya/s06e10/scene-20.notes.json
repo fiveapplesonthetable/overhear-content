@@ -137,8 +137,8 @@
           "lemma": "донести",
           "pos": "verb",
           "stress": "донесу́",
-          "gloss": "I will carry",
-          "gram": "1st person singular future"
+          "gloss": "will carry (all the way)",
+          "gram": "1st person singular future, perfective"
         }
       ]
     },
@@ -321,9 +321,9 @@
         {
           "t": "Денисом,",
           "lemma": "денис",
-          "pos": "noun",
+          "pos": "name",
           "stress": "дени́сом",
-          "gloss": "time",
+          "gloss": "Denis",
           "gram": "instrumental singular"
         },
         {
@@ -447,7 +447,7 @@
           "lemma": "считать",
           "pos": "verb",
           "stress": "счита́ю",
-          "gloss": "am counting",
+          "gloss": "I count; I think, I consider",
           "gram": "1st person singular present"
         },
         {
@@ -638,11 +638,11 @@
         },
         {
           "t": "Дениса",
-          "lemma": "дениса",
-          "pos": "noun",
+          "lemma": "денис",
+          "pos": "name",
           "stress": "дени́са",
-          "gloss": "denis",
-          "gram": "nominative / accusative"
+          "gloss": "Denis",
+          "gram": "genitive / accusative singular"
         },
         {
           "t": "тоже",
@@ -961,8 +961,8 @@
           "lemma": "донести",
           "pos": "verb",
           "stress": "донесу́",
-          "gloss": "I will carry",
-          "gram": "1st person singular future"
+          "gloss": "will carry (all the way)",
+          "gram": "1st person singular future, perfective"
         }
       ]
     },
@@ -1145,9 +1145,9 @@
         {
           "t": "Денисом,",
           "lemma": "денис",
-          "pos": "noun",
+          "pos": "name",
           "stress": "дени́сом",
-          "gloss": "time",
+          "gloss": "Denis",
           "gram": "instrumental singular"
         },
         {
@@ -1271,7 +1271,7 @@
           "lemma": "считать",
           "pos": "verb",
           "stress": "счита́ю",
-          "gloss": "am counting",
+          "gloss": "I count; I think, I consider",
           "gram": "1st person singular present"
         },
         {
@@ -1462,11 +1462,11 @@
         },
         {
           "t": "Дениса",
-          "lemma": "дениса",
-          "pos": "noun",
+          "lemma": "денис",
+          "pos": "name",
           "stress": "дени́са",
-          "gloss": "denis",
-          "gram": "nominative / accusative"
+          "gloss": "Denis",
+          "gram": "genitive / accusative singular"
         },
         {
           "t": "тоже",
@@ -1785,8 +1785,8 @@
           "lemma": "донести",
           "pos": "verb",
           "stress": "донесу́",
-          "gloss": "I will carry",
-          "gram": "1st person singular future"
+          "gloss": "will carry (all the way)",
+          "gram": "1st person singular future, perfective"
         }
       ]
     },
@@ -1969,9 +1969,9 @@
         {
           "t": "Денисом,",
           "lemma": "денис",
-          "pos": "noun",
+          "pos": "name",
           "stress": "дени́сом",
-          "gloss": "time",
+          "gloss": "Denis",
           "gram": "instrumental singular"
         },
         {
@@ -2095,7 +2095,7 @@
           "lemma": "считать",
           "pos": "verb",
           "stress": "счита́ю",
-          "gloss": "am counting",
+          "gloss": "I count; I think, I consider",
           "gram": "1st person singular present"
         },
         {
@@ -2286,11 +2286,11 @@
         },
         {
           "t": "Дениса",
-          "lemma": "дениса",
-          "pos": "noun",
+          "lemma": "денис",
+          "pos": "name",
           "stress": "дени́са",
-          "gloss": "denis",
-          "gram": "nominative / accusative"
+          "gloss": "Denis",
+          "gram": "genitive / accusative singular"
         },
         {
           "t": "тоже",
@@ -2753,7 +2753,7 @@
         },
         {
           "en": "to hire",
-          "note": "'взять на работу' = to give someone a job"
+          "note": ""
         }
       ],
       "forms": {
@@ -2866,11 +2866,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2922,6 +2922,23 @@
                 "видела",
                 "видело",
                 "видели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
               ]
             }
           ]
@@ -3019,84 +3036,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вы": {
       "lemma": "вы",
       "stress": "вы",
@@ -3188,11 +3127,11 @@
       "meanings": [
         {
           "en": "choice",
-          "note": "The plural 'выборы'. Common masculine noun meaning 'choice' in everyday Russian."
+          "note": "The plural 'выборы'."
         },
         {
           "en": "election(s)",
-          "note": "The plural 'выборы'. Common masculine noun meaning 'choice' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3269,164 +3208,6 @@
         }
       ]
     },
-    "денис": {
-      "lemma": "денис",
-      "stress": "дени́с",
-      "pos": "noun",
-      "gloss": "time",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "time",
-          "note": "Declinable masculine noun meaning 'time', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "денис",
-              "денисы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "дениса",
-              "денисов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "денису",
-              "денисам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "денис",
-              "денисы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "денисом",
-              "денисами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "денисе",
-              "денисах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я решила, ты тут с Денисом надолго зависнешь.",
-          "trans": "I figured you would be stuck here with Denis for a long time."
-        },
-        {
-          "text": "С Денисом у меня уже всё. Поехали домой?",
-          "trans": "I am already done with Denis. Shall we go home?"
-        },
-        {
-          "text": "Вы все должны работать как Денис.",
-          "trans": "All of you should work like Denis."
-        }
-      ],
-      "related": []
-    },
-    "дениса": {
-      "lemma": "дениса",
-      "stress": "дени́са",
-      "pos": "noun",
-      "gloss": "out",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "out",
-          "note": "Declinable feminine noun meaning 'out', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "дениса",
-              "денисы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "денисы",
-              "денис"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "денисе",
-              "денисам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "денису",
-              "денисы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "денисой",
-              "денисами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "денисе",
-              "денисах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "А у меня выходной. Я вот решил Денису помочь.",
-          "trans": "It is my day off. I decided to help Denis out."
-        },
-        {
-          "text": "А где Денис?",
-          "trans": "Where is Denis?"
-        }
-      ],
-      "related": []
-    },
     "до": {
       "lemma": "до",
       "stress": "до",
@@ -3435,11 +3216,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3477,7 +3258,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -3568,21 +3349,29 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "gloss": "good, kindness"
+        },
+        {
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
     "донести": {
       "lemma": "донести",
-      "stress": "доне́сти",
+      "stress": "донести́",
       "pos": "verb",
-      "gloss": "reported / snitched",
+      "gloss": "to carry (all the way); to inform on",
       "aspect": "pf",
-      "pair": null,
+      "pair": "доносить",
       "meanings": [
         {
-          "en": "reported / snitched",
-          "note": "Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'нести'). Used as a perfective (single completed action) verb meaning 'reported / snitched'."
+          "en": "to carry (as far as)",
+          "note": "до машины не донесу = I can't carry it to the car"
+        },
+        {
+          "en": "to inform on, to report (to the authorities)",
+          "note": "на кого-то; обо всём донесли = someone reported everything"
         }
       ],
       "forms": {
@@ -3596,22 +3385,22 @@
           {
             "cells": [
               "1st",
-              "донесю",
-              "донесем"
+              "донесу",
+              "донесём"
             ]
           },
           {
             "cells": [
               "2nd",
-              "донесешь",
-              "донесете"
+              "донесёшь",
+              "донесёте"
             ]
           },
           {
             "cells": [
               "3rd",
-              "донесет",
-              "донесют"
+              "донесёт",
+              "донесут"
             ]
           }
         ]
@@ -3630,10 +3419,27 @@
             {
               "cells": [
                 "past",
-                "донесл",
+                "донёс",
                 "донесла",
                 "донесло",
                 "донесли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "донеси",
+                "донесите"
               ]
             }
           ]
@@ -3642,17 +3448,25 @@
       "examples": [
         {
           "text": "Ей уже обо всём донесли.",
-          "trans": "Someone has already reported everything to her."
+          "trans": "Someone has already told her everything."
         },
         {
-          "text": "Надо всё сделать и донести вовремя.",
-          "trans": "We need to do everything and reported on time."
+          "text": "Помогите, пожалуйста, я всё до машины не донесу.",
+          "trans": "Please help, I can't carry all this to the car."
         }
       ],
       "related": [
         {
-          "word": "не донести",
-          "gloss": "not to reported (negated infinitive)"
+          "word": "нести",
+          "gloss": "to carry"
+        },
+        {
+          "word": "донос",
+          "gloss": "denunciation"
+        },
+        {
+          "word": "принести",
+          "gloss": "to bring"
         }
       ]
     },
@@ -3665,7 +3479,7 @@
       "meanings": [
         {
           "en": "shower (bathroom apparatus or act of washing)",
-          "note": "Common masculine noun meaning 'shower' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3745,11 +3559,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3981,7 +3795,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -4088,7 +3902,7 @@
       "meanings": [
         {
           "en": "beautiful, pretty, handsome",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('beautiful, pretty, handsome')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4131,10 +3945,10 @@
           {
             "cells": [
               "accusative",
-              "красивый",
+              "красивый / красивого",
               "красивую",
               "красивое",
-              "красивые"
+              "красивые / красивых"
             ]
           },
           {
@@ -4193,7 +4007,7 @@
       "meanings": [
         {
           "en": "to buy",
-          "note": "Used as a perfective (single completed action) verb meaning 'to buy', paired with 'покупать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4296,7 +4110,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -4332,11 +4146,11 @@
       "meanings": [
         {
           "en": "to love",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         },
         {
           "en": "to like",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4420,8 +4234,8 @@
           "trans": "Do you like gum?"
         },
         {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
+          "text": "Ты любишь чужую жену!",
+          "trans": "You're in love with another man's wife!"
         }
       ],
       "related": [
@@ -4448,11 +4262,11 @@
       "meanings": [
         {
           "en": "car",
-          "note": "Common feminine noun meaning 'car; machine' in everyday Russian."
+          "note": ""
         },
         {
           "en": "machine",
-          "note": "Common feminine noun meaning 'car; machine' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4642,7 +4456,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4694,6 +4508,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -4848,7 +4679,7 @@
       "meanings": [
         {
           "en": "a little, a bit",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много')."
         }
       ],
       "forms": null,
@@ -4932,7 +4763,7 @@
       "meanings": [
         {
           "en": "nowhere (location, with negative verb)",
-          "note": "Core Russian adv meaning 'nowhere' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4940,21 +4771,29 @@
       "examples": [
         {
           "text": "В том смысле, что его нигде нет!",
-          "trans": "In the sense that he is nowhere to be found!"
+          "trans": "In the sense that he's nowhere to be found!"
         },
         {
           "text": "Я нигде не мог найти ключи.",
-          "trans": "I could find the keys nowhere."
+          "trans": "I couldn't find the keys anywhere."
         },
         {
           "text": "Тебя такого длинного нигде не спрячешь.",
-          "trans": "You are so tall, you cannot be hidden anywhere."
+          "trans": "Someone as tall as you can't be hidden anywhere."
         }
       ],
       "related": [
         {
-          "word": "очень нигде",
-          "gloss": "intensified / related adverb (nowhere)"
+          "word": "никуда",
+          "gloss": "nowhere (direction)"
+        },
+        {
+          "word": "где",
+          "gloss": "where"
+        },
+        {
+          "word": "везде",
+          "gloss": "everywhere"
         }
       ]
     },
@@ -5224,6 +5063,7 @@
       "pos": "noun",
       "gloss": "queue, line; turn",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "queue, line",
@@ -5231,7 +5071,7 @@
         },
         {
           "en": "turn",
-          "note": "Моя очередь = it's my turn. Common feminine noun meaning 'queue, line; turn' in everyday Russian."
+          "note": "Моя очередь = it's my turn."
         }
       ],
       "forms": {
@@ -5320,7 +5160,7 @@
       "meanings": [
         {
           "en": "first",
-          "note": "С первого раза = the first time. Agrees in gender, number, and case with the noun it modifies ('first')."
+          "note": "С первого раза = the first time."
         }
       ],
       "forms": {
@@ -5415,7 +5255,7 @@
       "meanings": [
         {
           "en": "plan, scheme",
-          "note": "Common masculine noun meaning 'plan' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5502,7 +5342,7 @@
       "meanings": [
         {
           "en": "to go, to set off (by car, bus, train)",
-          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to go (by vehicle), to set off', paired with 'ехать'."
+          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -5613,7 +5453,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -5653,11 +5493,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -5817,6 +5657,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "получайся",
+                "получайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5854,7 +5711,7 @@
       "meanings": [
         {
           "en": "to help",
-          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь'). Used as a perfective (single completed action) verb meaning 'to help', paired with 'помогать'."
+          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь')."
         }
       ],
       "forms": {
@@ -5965,7 +5822,7 @@
       "meanings": [
         {
           "en": "correct, proper, accurate",
-          "note": "Qualitative adjective. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('correct, right, proper')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6008,10 +5865,10 @@
           {
             "cells": [
               "accusative",
-              "правильный",
+              "правильный / правильного",
               "правильную",
               "правильное",
-              "правильные"
+              "правильные / правильных"
             ]
           },
           {
@@ -6074,7 +5931,7 @@
       "meanings": [
         {
           "en": "to think up, to invent, to come up with",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'думать'). Used as a perfective (single completed action) verb meaning 'to think up, to come up with', paired with 'придумывать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'думать')."
         }
       ],
       "forms": {
@@ -6218,11 +6075,11 @@
       "meanings": [
         {
           "en": "right, just, directly",
-          "note": "Прямо так = just like that. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Прямо так = just like that."
         },
         {
           "en": "straight ahead",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6257,7 +6114,7 @@
       "meanings": [
         {
           "en": "jealousy",
-          "note": "Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'jealousy' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6383,7 +6240,7 @@
       "meanings": [
         {
           "en": "to sit down",
-          "note": "Садитесь = sit down (polite). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to sit down', paired with 'сесть'."
+          "note": "Садитесь = sit down (polite)."
         }
       ],
       "forms": {
@@ -6627,7 +6484,7 @@
       "meanings": [
         {
           "en": "strange, odd",
-          "note": "Как странно = how strange. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Как странно = how strange."
         }
       ],
       "forms": null,
@@ -6652,12 +6509,12 @@
           "gloss": "strange"
         },
         {
-          "word": "страна",
-          "gloss": "country"
+          "word": "странность",
+          "gloss": "oddity, quirk"
         },
         {
-          "word": "страница",
-          "gloss": "page"
+          "word": "удивительно",
+          "gloss": "surprisingly"
         }
       ]
     },
@@ -6769,7 +6626,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -6803,7 +6660,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6853,8 +6710,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -7029,7 +6894,7 @@
       "meanings": [
         {
           "en": "morning",
-          "note": "Утром = in the morning. Common neuter noun meaning 'morning' in everyday Russian."
+          "note": "Утром = in the morning."
         }
       ],
       "forms": {
@@ -7109,7 +6974,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -7216,7 +7081,7 @@
         },
         {
           "en": "although, even though (as conjunction)",
-          "note": "Core Russian part meaning 'even if, at least (with бы); although' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -7255,7 +7120,7 @@
       "meanings": [
         {
           "en": "flower",
-          "note": "Irregular plural цветы (flowers). Common masculine noun meaning 'flower' in everyday Russian."
+          "note": "Irregular plural цветы (flowers)."
         }
       ],
       "forms": {
@@ -7270,14 +7135,14 @@
             "cells": [
               "nominative",
               "цветок",
-              "цветы"
+              "цветки"
             ]
           },
           {
             "cells": [
               "genitive",
               "цветка",
-              "цветов"
+              "цветков"
             ]
           },
           {
@@ -7291,7 +7156,7 @@
             "cells": [
               "accusative",
               "цветок",
-              "цветы"
+              "цветки"
             ]
           },
           {
@@ -7437,14 +7302,14 @@
     },
     "эхолот": {
       "lemma": "эхолот",
-      "stress": "эхо́лот",
+      "stress": "эхоло́т",
       "pos": "noun",
       "gloss": "fishfinder",
       "gender": "m",
       "meanings": [
         {
           "en": "fishfinder",
-          "note": "Common masculine noun meaning 'fishfinder' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7512,12 +7377,8 @@
       ],
       "related": [
         {
-          "word": "без эхоло",
-          "gloss": "without fishfinder"
-        },
-        {
-          "word": "наш эхолот",
-          "gloss": "our fishfinder"
+          "word": "рыбалка",
+          "gloss": "fishing"
         }
       ]
     },

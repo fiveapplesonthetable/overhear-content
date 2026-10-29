@@ -63,10 +63,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "вы",
@@ -424,7 +424,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "страховки.",
@@ -616,9 +616,9 @@
           "t": "сломай!",
           "lemma": "сломать",
           "pos": "verb",
-          "stress": "сло́май",
-          "gloss": "to break",
-          "gram": "conjugated verb"
+          "stress": "слома́й",
+          "gloss": "break",
+          "gram": "imperative, 2nd person singular, perfective"
         }
       ]
     },
@@ -807,10 +807,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "вы",
@@ -1168,7 +1168,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "страховки.",
@@ -1360,9 +1360,9 @@
           "t": "сломай!",
           "lemma": "сломать",
           "pos": "verb",
-          "stress": "сло́май",
-          "gloss": "to break",
-          "gram": "conjugated verb"
+          "stress": "слома́й",
+          "gloss": "break",
+          "gram": "imperative, 2nd person singular, perfective"
         }
       ]
     },
@@ -1551,10 +1551,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "вы",
@@ -1912,7 +1912,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "страховки.",
@@ -2104,9 +2104,9 @@
           "t": "сломай!",
           "lemma": "сломать",
           "pos": "verb",
-          "stress": "сло́май",
-          "gloss": "to break",
-          "gram": "conjugated verb"
+          "stress": "слома́й",
+          "gloss": "break",
+          "gram": "imperative, 2nd person singular, perfective"
         }
       ]
     },
@@ -2324,42 +2324,42 @@
             "cells": [
               "nominative",
               "бизнес",
-              "—"
+              "бизнесы"
             ]
           },
           {
             "cells": [
               "genitive",
               "бизнеса",
-              "—"
+              "бизнесов"
             ]
           },
           {
             "cells": [
               "dative",
               "бизнесу",
-              "—"
+              "бизнесам"
             ]
           },
           {
             "cells": [
               "accusative",
               "бизнес",
-              "—"
+              "бизнесы"
             ]
           },
           {
             "cells": [
               "instrumental",
               "бизнесом",
-              "—"
+              "бизнесами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "бизнесе",
-              "—"
+              "бизнесах"
             ]
           }
         ]
@@ -2389,11 +2389,11 @@
       "meanings": [
         {
           "en": "more",
-          "note": "Comparative of много. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of много."
         },
         {
           "en": "bigger",
-          "note": "Comparative of большой. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of большой."
         }
       ],
       "forms": null,
@@ -2583,7 +2583,7 @@
         },
         {
           "en": "what if (in hypotheses)",
-          "note": "А вдруг... = what if. Core Russian adv meaning 'suddenly; all of a sudden' in everyday speech."
+          "note": "А вдруг... = what if."
         }
       ],
       "forms": null,
@@ -2688,13 +2688,13 @@
     },
     "выгодный": {
       "lemma": "выгодный",
-      "stress": "выго́дный",
+      "stress": "вы́годный",
       "pos": "adj",
       "gloss": "profitable / advantageous",
       "meanings": [
         {
           "en": "profitable / advantageous",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('profitable / advantageous')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2737,10 +2737,10 @@
           {
             "cells": [
               "accusative",
-              "выгодный",
+              "выгодный / выгодного",
               "выгодную",
               "выгодное",
-              "выгодные"
+              "выгодные / выгодных"
             ]
           },
           {
@@ -2767,21 +2767,25 @@
       "examples": [
         {
           "text": "По-моему, это просто отличный и выгодный бизнес.",
-          "trans": "In my opinion, it is simply great and profitable business."
+          "trans": "I think it's simply a great, profitable business."
         },
         {
-          "text": "Шеф говорит, что это очень выгодный выбор.",
-          "trans": "The chef says that this is a very profitable choice."
+          "text": "Это очень выгодное предложение.",
+          "trans": "This is a very good deal."
         }
       ],
       "related": [
         {
-          "word": "выгодно",
-          "gloss": "profitablely (adverbial form)"
+          "word": "выгода",
+          "gloss": "benefit, gain"
         },
         {
-          "word": "очень выгодный",
-          "gloss": "very profitable"
+          "word": "выгодно",
+          "gloss": "profitably; it pays"
+        },
+        {
+          "word": "невыгодный",
+          "gloss": "unprofitable"
         }
       ]
     },
@@ -2816,7 +2820,7 @@
             "cells": [
               "genitive",
               "года",
-              "лет"
+              "годов"
             ]
           },
           {
@@ -2843,7 +2847,7 @@
           {
             "cells": [
               "prepositional",
-              "годе (в году)",
+              "годе",
               "годах"
             ]
           }
@@ -2875,11 +2879,11 @@
       "meanings": [
         {
           "en": "head",
-          "note": "An idiom for a big telling-off. Common feminine noun meaning 'head' in everyday Russian."
+          "note": ""
         },
         {
-          "en": "'голову оторвать' = to tear someone's head off",
-          "note": "An idiom for a big telling-off. Common feminine noun meaning 'head' in everyday Russian."
+          "en": "голову оторвать = to tear someone's head off",
+          "note": "an idiom for a big telling-off"
         }
       ],
       "forms": {
@@ -2951,100 +2955,6 @@
       ],
       "related": []
     },
-    "гость": {
-      "lemma": "гость",
-      "stress": "гость",
-      "pos": "noun",
-      "gloss": "guest, visitor",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "guest, visitor",
-          "note": "В гости = for a visit. Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common masculine noun meaning 'guest, visitor' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "гость",
-              "гости"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "гостя",
-              "гостей"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "гостю",
-              "гостям"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "гостя",
-              "гостей"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "гостем",
-              "гостями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "госте",
-              "гостях"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "К вам гости!",
-          "trans": "You have visitors!"
-        },
-        {
-          "text": "Мы идём в гости.",
-          "trans": "We're going visiting."
-        },
-        {
-          "text": "Клавдия Викторовна, к вам гости! Па-пам!",
-          "trans": "Klavdia Viktorovna, you have visitors! Ta-da!"
-        }
-      ],
-      "related": [
-        {
-          "word": "гостиница",
-          "gloss": "hotel"
-        },
-        {
-          "word": "угостить",
-          "gloss": "to treat"
-        },
-        {
-          "word": "гостья",
-          "gloss": "female guest"
-        }
-      ]
-    },
     "да": {
       "lemma": "да",
       "stress": "да",
@@ -3057,7 +2967,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3093,7 +3003,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -3184,11 +3094,11 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
@@ -3282,7 +3192,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -3359,221 +3268,6 @@
       ],
       "related": []
     },
-    "добро": {
-      "lemma": "добро",
-      "stress": "добро́",
-      "pos": "noun",
-      "gloss": "good, kindness",
-      "gender": "n",
-      "meanings": [
-        {
-          "en": "good, kindness, good deeds",
-          "note": "Colloquial. Common neuter noun meaning 'good, kindness' in everyday Russian."
-        },
-        {
-          "en": "goods, stuff",
-          "note": "Colloquial. Common neuter noun meaning 'good, kindness' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "добро",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "добра",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "добру",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "добро",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "добром",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "добре",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Добро возвращается.",
-          "trans": "Kindness comes back."
-        },
-        {
-          "text": "Спасибо за добро.",
-          "trans": "Thank you for your kindness."
-        },
-        {
-          "text": "Добро возвращается к отправителю.",
-          "trans": "Good deeds come back to the sender."
-        }
-      ],
-      "related": [
-        {
-          "word": "добрый",
-          "gloss": "kind"
-        }
-      ]
-    },
-    "дорогой": {
-      "lemma": "дорогой",
-      "stress": "дорого́й",
-      "pos": "adj",
-      "gloss": "expensive; dear",
-      "meanings": [
-        {
-          "en": "expensive",
-          "note": "to a loved one, and at the start of letters"
-        },
-        {
-          "en": "dear",
-          "note": "to a loved one, and at the start of letters"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "дорогой",
-              "дорогая",
-              "дорогое",
-              "дорогие"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "дорогого",
-              "дорогой",
-              "дорогого",
-              "дорогих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "дорогому",
-              "дорогой",
-              "дорогому",
-              "дорогим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "дорогой/дорогого",
-              "дорогую",
-              "дорогое",
-              "дорогие/дорогих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "дорогим",
-              "дорогой",
-              "дорогим",
-              "дорогими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "дорогом",
-              "дорогой",
-              "дорогом",
-              "дорогих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "дорог",
-                "дорога",
-                "дорого",
-                "дороги"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Это дорогая одежда.",
-          "trans": "These are expensive clothes."
-        },
-        {
-          "text": "Дорогая, я дома!",
-          "trans": "Darling, I'm home!"
-        },
-        {
-          "text": "В Москве вам дают деньги на дорогую одежду, а мозги не дают.",
-          "trans": "In Moscow they give you money for expensive clothes, but they don't give you brains."
-        }
-      ],
-      "related": [
-        {
-          "word": "дёшево",
-          "gloss": "cheap(ly)"
-        }
-      ]
-    },
     "если": {
       "lemma": "если",
       "stress": "е́сли",
@@ -3620,11 +3314,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3658,13 +3352,17 @@
       "lemma": "зависнуть",
       "stress": "зави́снуть",
       "pos": "verb",
-      "gloss": "froze up / spaced out",
+      "gloss": "to freeze, to get stuck; to hang out",
       "aspect": "pf",
-      "pair": null,
+      "pair": "зависать",
       "meanings": [
         {
-          "en": "froze up / spaced out",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'виснуть'). Used as a perfective (single completed action) verb meaning 'froze up / spaced out'."
+          "en": "to freeze, to hang (of a computer); to space out",
+          "note": "Ты чего завис? = Why have you frozen up?"
+        },
+        {
+          "en": "(colloquial) to get stuck somewhere, to hang out for a long time",
+          "note": "зависнуть в пробке = to get stuck in traffic"
         }
       ],
       "forms": {
@@ -3712,10 +3410,27 @@
             {
               "cells": [
                 "past",
-                "зависнул",
-                "зависнула",
-                "зависнуло",
-                "зависнули"
+                "завис",
+                "зависла",
+                "зависло",
+                "зависли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "зависни",
+                "зависните"
               ]
             }
           ]
@@ -3723,18 +3438,26 @@
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и зависнуть вовремя.",
-          "trans": "We need to do everything and froze up on time."
+          "text": "Сеня, ты чего там вдруг завис?",
+          "trans": "Senya, why have you suddenly frozen up?"
         },
         {
-          "text": "На нашей кухне все умеют зависнуть.",
-          "trans": "In our kitchen everyone knows how to froze up."
+          "text": "Я решила, ты тут с Денисом надолго зависнешь.",
+          "trans": "I figured you'd be hanging out here with Denis for a long time."
+        },
+        {
+          "text": "Не хочу зависнуть в пробке на два часа.",
+          "trans": "I don't want to get stuck in traffic for two hours."
         }
       ],
       "related": [
         {
-          "word": "не зависнуть",
-          "gloss": "not to froze up (negated infinitive)"
+          "word": "зависать",
+          "gloss": "to freeze, to hang (impf)"
+        },
+        {
+          "word": "висеть",
+          "gloss": "to hang"
         }
       ]
     },
@@ -3748,7 +3471,7 @@
       "meanings": [
         {
           "en": "to pay (someone for something)",
-          "note": "+ dative of person. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'платить'). Used as a perfective (single completed action) verb meaning 'to pay', paired with 'платить'."
+          "note": "+ dative of person. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'платить')."
         }
       ],
       "forms": {
@@ -3851,102 +3574,6 @@
         }
       ]
     },
-    "здравствуйте": {
-      "lemma": "здравствуйте",
-      "stress": "здра́вствуйте",
-      "pos": "verb",
-      "gloss": "hello",
-      "aspect": "impf",
-      "pair": null,
-      "meanings": [
-        {
-          "en": "hello",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'hello'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "здравствуйю",
-              "здравствуйем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "здравствуйешь",
-              "здравствуйете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "здравствуйет",
-              "здравствуйют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "здравствуйл",
-                "здравствуйла",
-                "здравствуйло",
-                "здравствуйли"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Здравствуйте! Как там в Венгрии?",
-          "trans": "Hello! How was it in Hungary?"
-        },
-        {
-          "text": "Аркадий Борисович, здравствуйте.",
-          "trans": "Arkady Borisovich, hello."
-        },
-        {
-          "text": "Здравствуйте, Аркадий Борисович.",
-          "trans": "Hello, Arkady Borisovich."
-        }
-      ],
-      "related": [
-        {
-          "word": "здравствуй",
-          "gloss": "hello"
-        },
-        {
-          "word": "здравие",
-          "gloss": "health"
-        },
-        {
-          "word": "поздравлять",
-          "gloss": "to congratulate"
-        }
-      ]
-    },
     "и": {
       "lemma": "и",
       "stress": "и",
@@ -3993,7 +3620,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -4016,52 +3643,6 @@
         {
           "word": "лучший",
           "gloss": "best"
-        }
-      ]
-    },
-    "много": {
-      "lemma": "много",
-      "stress": "мно́го",
-      "pos": "adv",
-      "gloss": "a lot, much, many",
-      "meanings": [
-        {
-          "en": "a lot, much, many",
-          "note": "+ genitive plural: много дел. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        },
-        {
-          "en": "больше = more",
-          "note": "Comparative. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Мы сделали много.",
-          "trans": "We've done a lot."
-        },
-        {
-          "text": "Слишком много дел.",
-          "trans": "Too much to do."
-        },
-        {
-          "text": "Мы сделали много, но надо сделать ещё больше.",
-          "trans": "We've done a lot, but we need to do even more."
-        }
-      ],
-      "related": [
-        {
-          "word": "немного",
-          "gloss": "a little"
-        },
-        {
-          "word": "многовато",
-          "gloss": "a bit too much"
-        },
-        {
-          "word": "намного",
-          "gloss": "much"
         }
       ]
     },
@@ -4218,11 +3799,11 @@
       "meanings": [
         {
           "en": "ago (after a time expression)",
-          "note": "Два года назад = two years ago. Core Russian adv meaning 'ago; back, backwards' in everyday speech."
+          "note": "Два года назад = two years ago."
         },
         {
           "en": "back, backwards",
-          "note": "Шаг назад = a step back. Core Russian adv meaning 'ago; back, backwards' in everyday speech."
+          "note": "Шаг назад = a step back."
         }
       ],
       "forms": null,
@@ -4289,7 +3870,7 @@
       "meanings": [
         {
           "en": "a little, a bit",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много')."
         }
       ],
       "forms": null,
@@ -4377,7 +3958,7 @@
         },
         {
           "en": "ни... ни = neither... nor",
-          "note": "Core Russian part meaning 'not a (single); neither... nor' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4595,7 +4176,7 @@
       "meanings": [
         {
           "en": "excellent",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('excellent')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4797,14 +4378,15 @@
       "pos": "noun",
       "gloss": "finger; toe",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "finger",
-          "note": "Палец на ноге. Common masculine noun meaning 'finger; toe' in everyday Russian."
+          "note": ""
         },
         {
           "en": "toe",
-          "note": "Палец на ноге. Common masculine noun meaning 'finger; toe' in everyday Russian."
+          "note": "палец на ноге"
         }
       ],
       "forms": {
@@ -4905,106 +4487,6 @@
       ],
       "related": []
     },
-    "пожаловать": {
-      "lemma": "пожаловать",
-      "stress": "пожа́ловать",
-      "pos": "verb",
-      "gloss": "to come, grant (welcome)",
-      "aspect": "pf",
-      "pair": "жаловать",
-      "meanings": [
-        {
-          "en": "to come, grant (welcome)",
-          "note": "in greeting formula добро пожаловать"
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "пожалую",
-              "пожалуем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "пожалуешь",
-              "пожалуете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "пожалует",
-              "пожалуют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "пожаловал",
-                "пожаловала",
-                "пожаловало",
-                "пожаловали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "пожалуй",
-                "пожалуйте"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Очень приятно познакомиться. Добро пожаловать к нам!",
-          "trans": "Very nice to meet you. Welcome to our team!"
-        },
-        {
-          "text": "Добро пожаловать в наш новый дом!",
-          "trans": "Welcome to our new home!"
-        },
-        {
-          "text": "Гости пожаловали прямо к обеду.",
-          "trans": "The guests arrived right at lunchtime."
-        }
-      ],
-      "related": []
-    },
     "получить": {
       "lemma": "получить",
       "stress": "получи́ть",
@@ -5015,7 +4497,7 @@
       "meanings": [
         {
           "en": "to get, to receive",
-          "note": "Used as a perfective (single completed action) verb meaning 'to get, to receive', paired with 'получать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5124,7 +4606,7 @@
       "meanings": [
         {
           "en": "to cut, slice",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'резать'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to cut', forming an aspectual pair with 'резать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'резать')."
         }
       ],
       "forms": {
@@ -5231,7 +4713,7 @@
       "meanings": [
         {
           "en": "last, final",
-          "note": "Последний раз = for the last time. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('last, final')."
+          "note": "Последний раз = for the last time."
         }
       ],
       "forms": {
@@ -5274,10 +4756,10 @@
           {
             "cells": [
               "accusative",
-              "последний",
+              "последний / последнего",
               "последнюю",
               "последнее",
-              "последние"
+              "последние / последних"
             ]
           },
           {
@@ -5358,11 +4840,11 @@
       "meanings": [
         {
           "en": "empty",
-          "note": "Colloquial. Agrees in gender, number, and case with the noun it modifies ('empty')."
+          "note": ""
         },
         {
           "en": "empty-handed (of a person)",
-          "note": "Colloquial. Agrees in gender, number, and case with the noun it modifies ('empty')."
+          "note": "colloquial"
         }
       ],
       "forms": {
@@ -5448,16 +4930,16 @@
       ],
       "related": [
         {
-          "word": "пустить",
-          "gloss": "to let go"
+          "word": "пустота",
+          "gloss": "emptiness"
         },
         {
-          "word": "пусть",
-          "gloss": "let"
+          "word": "пусто",
+          "gloss": "empty"
         },
         {
-          "word": "допустить",
-          "gloss": "to allow"
+          "word": "пустое место",
+          "gloss": "a nobody"
         }
       ]
     },
@@ -5742,10 +5224,10 @@
           {
             "cells": [
               "accusative",
-              "следующий/следующего",
+              "следующий / следующего",
               "следующую",
               "следующее",
-              "следующие/следующих"
+              "следующие / следующих"
             ]
           },
           {
@@ -5795,7 +5277,7 @@
       "meanings": [
         {
           "en": "to break",
-          "note": "Сломать руку = to break one's arm. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ломать'). Used as a perfective (single completed action) verb meaning 'to break', paired with 'ломать'."
+          "note": "Сломать руку = to break one's arm. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ломать')."
         }
       ],
       "forms": {
@@ -5867,27 +5349,6 @@
               ]
             }
           ]
-        },
-        {
-          "title": "Short participle",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short passive participle",
-                "сломан",
-                "сломана",
-                "сломано",
-                "сломаны"
-              ]
-            }
-          ]
         }
       ],
       "examples": [
@@ -5931,7 +5392,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5961,7 +5422,7 @@
       "meanings": [
         {
           "en": "back",
-          "note": "За спиной = behind one's back. Common feminine noun meaning 'back (body part)' in everyday Russian."
+          "note": "За спиной = behind one's back."
         }
       ],
       "forms": {
@@ -6271,7 +5732,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6376,7 +5837,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -6428,6 +5889,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -6547,26 +6025,35 @@
       "meanings": [
         {
           "en": "four",
-          "note": "+ genitive singular: четыре года. Core Russian num meaning 'four' in everyday speech."
+          "note": "к четырём = by four (o'clock)"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Четыре года.",
-          "trans": "Four years."
+          "text": "Леночка, дорогая, жди меня сегодня к четырём.",
+          "trans": "Lenochka, darling, expect me today by four."
         },
         {
-          "text": "У меня четыре фломастера.",
-          "trans": "I have four markers."
-        },
-        {
-          "text": "Я уже четыре года работаю мэром.",
-          "trans": "I've been working as mayor for four years now."
+          "text": "У нас четыре повара.",
+          "trans": "We have four cooks."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "четвёртый",
+          "gloss": "fourth"
+        },
+        {
+          "word": "четырнадцать",
+          "gloss": "fourteen"
+        },
+        {
+          "word": "сорок",
+          "gloss": "forty"
+        }
+      ]
     },
     "что": {
       "lemma": "что",
@@ -6661,6 +6148,88 @@
           "gloss": "because"
         }
       ]
+    },
+    "шеф": {
+      "lemma": "шеф",
+      "stress": "шеф",
+      "pos": "noun",
+      "gloss": "boss, chief",
+      "gender": "m",
+      "animacy": "anim",
+      "meanings": [
+        {
+          "en": "boss, chief",
+          "note": "Informal. Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "шеф",
+              "шефы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "шефу",
+              "шефам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "шефом",
+              "шефами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "шефе",
+              "шефах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хитро придумано, шеф!",
+          "trans": "Cleverly thought out, boss!"
+        },
+        {
+          "text": "Шеф подписал приказ.",
+          "trans": "The boss signed the order."
+        },
+        {
+          "text": "Шеф на кухне.",
+          "trans": "The chef is in the kitchen."
+        }
+      ],
+      "related": []
     },
     "это": {
       "lemma": "это",
@@ -6945,7 +6514,7 @@
       "meanings": [
         {
           "en": "clearly, evidently",
-          "note": "Manner or predicative adverb in '-о' derived from the corresponding adjective stem, used in everyday speech to mean 'clearly'."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6963,7 +6532,7 @@
       "related": [
         {
           "word": "явный",
-          "gloss": "clearly (adjective)"
+          "gloss": "clear, obvious"
         }
       ]
     }

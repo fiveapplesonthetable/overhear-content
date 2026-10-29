@@ -36,7 +36,7 @@
           "pos": "adj",
           "stress": "друго́й",
           "gloss": "other",
-          "gram": "feminine singular, genitive"
+          "gram": "masculine nominative/accusative singular or feminine oblique singular"
         },
         {
           "t": "возраст",
@@ -60,7 +60,7 @@
           "pos": "pron",
           "stress": "таки́х",
           "gloss": "such, that kind of",
-          "gram": "accusative plural animate"
+          "gram": "genitive / accusative plural"
         },
         {
           "t": "сюрпризов.",
@@ -462,7 +462,7 @@
           "t": "формальностью.",
           "lemma": "формальность",
           "pos": "noun",
-          "stress": "формально́стью",
+          "stress": "форма́льностью",
           "gloss": "formality",
           "gram": "instrumental singular, feminine"
         }
@@ -537,10 +537,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "мы",
@@ -587,8 +587,8 @@
           "lemma": "мёрзнуть",
           "pos": "verb",
           "stress": null,
-          "gloss": "to freeze, feel cold",
-          "gram": "1st person plural"
+          "gloss": "are freezing",
+          "gram": "1st person plural present, imperfective"
         },
         {
           "t": "все!",
@@ -669,7 +669,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -820,7 +820,7 @@
           "pos": "adj",
           "stress": "друго́й",
           "gloss": "other",
-          "gram": "feminine singular, genitive"
+          "gram": "masculine nominative/accusative singular or feminine oblique singular"
         },
         {
           "t": "возраст",
@@ -844,7 +844,7 @@
           "pos": "pron",
           "stress": "таки́х",
           "gloss": "such, that kind of",
-          "gram": "accusative plural animate"
+          "gram": "genitive / accusative plural"
         },
         {
           "t": "сюрпризов.",
@@ -1246,7 +1246,7 @@
           "t": "формальностью.",
           "lemma": "формальность",
           "pos": "noun",
-          "stress": "формально́стью",
+          "stress": "форма́льностью",
           "gloss": "formality",
           "gram": "instrumental singular, feminine"
         }
@@ -1321,10 +1321,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "мы",
@@ -1371,8 +1371,8 @@
           "lemma": "мёрзнуть",
           "pos": "verb",
           "stress": null,
-          "gloss": "to freeze, feel cold",
-          "gram": "1st person plural"
+          "gloss": "are freezing",
+          "gram": "1st person plural present, imperfective"
         },
         {
           "t": "все!",
@@ -1453,7 +1453,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1604,7 +1604,7 @@
           "pos": "adj",
           "stress": "друго́й",
           "gloss": "other",
-          "gram": "feminine singular, genitive"
+          "gram": "masculine nominative/accusative singular or feminine oblique singular"
         },
         {
           "t": "возраст",
@@ -1628,7 +1628,7 @@
           "pos": "pron",
           "stress": "таки́х",
           "gloss": "such, that kind of",
-          "gram": "accusative plural animate"
+          "gram": "genitive / accusative plural"
         },
         {
           "t": "сюрпризов.",
@@ -2030,7 +2030,7 @@
           "t": "формальностью.",
           "lemma": "формальность",
           "pos": "noun",
-          "stress": "формально́стью",
+          "stress": "форма́льностью",
           "gloss": "formality",
           "gram": "instrumental singular, feminine"
         }
@@ -2105,10 +2105,10 @@
         {
           "t": "Шеф,",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "мы",
@@ -2155,8 +2155,8 @@
           "lemma": "мёрзнуть",
           "pos": "verb",
           "stress": null,
-          "gloss": "to freeze, feel cold",
-          "gram": "1st person plural"
+          "gloss": "are freezing",
+          "gram": "1st person plural present, imperfective"
         },
         {
           "t": "все!",
@@ -2237,7 +2237,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -2709,10 +2709,11 @@
       "pos": "noun",
       "gloss": "age",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "age",
-          "note": "Declinable masculine noun meaning 'age', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -2770,12 +2771,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Разница в возрасте не важна.",
-          "trans": "The age difference is not important."
+          "text": "Разница в возрасте совсем не важна.",
+          "trans": "The age difference doesn't matter at all."
         },
         {
-          "text": "Разница в возрасте совсем не важна.",
-          "trans": "The age difference is not important."
+          "text": "В твоём возрасте ещё смотрят сериалы?",
+          "trans": "At your age people still watch TV series?"
         }
       ],
       "related": []
@@ -2788,7 +2789,7 @@
       "meanings": [
         {
           "en": "actually, as a matter of fact, for the record",
-          "note": "Polite or pointed correction. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Polite or pointed correction."
         }
       ],
       "forms": null,
@@ -2822,11 +2823,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2864,7 +2865,7 @@
       "meanings": [
         {
           "en": "temporarily, for a time",
-          "note": "Manner or predicative adverb in '-о' derived from the corresponding adjective stem, used in everyday speech to mean 'temporarily'."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2883,84 +2884,6 @@
         {
           "word": "время",
           "gloss": "time"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -3165,7 +3088,7 @@
         },
         {
           "en": "long ago",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3289,7 +3212,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -3434,11 +3357,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3506,7 +3429,7 @@
       "meanings": [
         {
           "en": "wife",
-          "note": "Common feminine noun meaning 'wife' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3593,11 +3516,11 @@
       "meanings": [
         {
           "en": "to marry (на + prepositional, of a man); to get married",
-          "note": "Biaspectual verb. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to marry (of a man), to get married'."
+          "note": "Biaspectual verb."
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -3689,12 +3612,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3749,6 +3670,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3768,17 +3706,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "значит": {
       "lemma": "значит",
@@ -3872,7 +3811,7 @@
       "meanings": [
         {
           "en": "or",
-          "note": "Core Russian conj meaning 'or' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3911,11 +3850,11 @@
       "meanings": [
         {
           "en": "car",
-          "note": "Common feminine noun meaning 'car; machine' in everyday Russian."
+          "note": ""
         },
         {
           "en": "machine",
-          "note": "Common feminine noun meaning 'car; machine' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4105,7 +4044,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4160,6 +4099,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4192,7 +4148,7 @@
       "meanings": [
         {
           "en": "husband",
-          "note": "Мой муж = my husband. Common masculine noun meaning 'husband' in everyday Russian."
+          "note": "Мой муж = my husband."
         }
       ],
       "forms": {
@@ -4356,7 +4312,7 @@
       "meanings": [
         {
           "en": "to freeze, be cold",
-          "note": "Colloquial: я мёрзну. Used as an imperfective (ongoing/repeated action) verb meaning 'to freeze, feel cold'."
+          "note": "Colloquial: я мёрзну."
         }
       ],
       "forms": {
@@ -4394,6 +4350,7 @@
         {
           "title": "Past",
           "columns": [
+            "",
             "m",
             "f",
             "n",
@@ -4402,10 +4359,28 @@
           "rows": [
             {
               "cells": [
+                "past",
                 "мёрз",
                 "мёрзла",
                 "мёрзло",
                 "мёрзли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "мёрзни",
+                "мёрзните"
               ]
             }
           ]
@@ -4480,7 +4455,7 @@
       "meanings": [
         {
           "en": "to hope, to count on",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to hope, to rely on', paired with 'понадеяться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4745,7 +4720,7 @@
       "meanings": [
         {
           "en": "to be canceled, called off",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'меняться'). Used in Russian as an imperfective verb expressing ongoing, habitual, or repeated action meaning 'to be canceled', forming an aspectual pair with 'отмениться'. The reflexive suffix '-ся'/'-сь' makes the action intransitive, reciprocal, or directed at the subject."
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'меняться')."
         }
       ],
       "forms": {
@@ -4926,7 +4901,7 @@
       "related": [
         {
           "word": "паспортный",
-          "gloss": "related to passport (adj.)"
+          "gloss": "passport (adj.)"
         }
       ]
     },
@@ -4940,7 +4915,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -5045,7 +5020,7 @@
       "meanings": [
         {
           "en": "to call, to phone",
-          "note": "+ dative: 'позвони мне' = call me. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звонить'). Used as a perfective (single completed action) verb meaning 'to call, to phone', paired with 'звонить'."
+          "note": "+ dative: 'позвони мне' = call me. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звонить')."
         }
       ],
       "forms": {
@@ -5154,11 +5129,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -5549,7 +5524,7 @@
       "meanings": [
         {
           "en": "wedding, marriage ceremony",
-          "note": "Marriage celebration. Common feminine noun meaning 'wedding' in everyday Russian."
+          "note": "Marriage celebration."
         }
       ],
       "forms": {
@@ -5607,8 +5582,8 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Посмотри фильм Свадьба по скайпу.",
-          "trans": "Watch the movie Wedding on Skype."
+          "text": "Мы обязательно сыграем большую свадьбу!",
+          "trans": "We'll definitely have a big wedding!"
         },
         {
           "text": "Макс, зачем ты соврал про нашу будущую свадьбу?",
@@ -5707,7 +5682,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5798,15 +5773,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -5820,11 +5795,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -5922,67 +5897,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -6009,7 +5932,7 @@
       "meanings": [
         {
           "en": "surprise, unexpected gift",
-          "note": "Приятный сюрприз. Common masculine noun meaning 'surprise' in everyday Russian."
+          "note": "Приятный сюрприз."
         }
       ],
       "forms": {
@@ -6093,7 +6016,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -6208,8 +6131,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -6221,7 +6152,7 @@
       "meanings": [
         {
           "en": "that",
-          "note": "The one over there. Core Russian det meaning 'that' in everyday speech."
+          "note": "The one over there."
         },
         {
           "en": "that which, the thing",
@@ -6328,7 +6259,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -6520,13 +6451,13 @@
       "lemma": "уладить",
       "stress": "ула́дить",
       "pos": "verb",
-      "gloss": "will settle",
+      "gloss": "to settle, sort out",
       "aspect": "pf",
-      "pair": null,
+      "pair": "улаживать",
       "meanings": [
         {
-          "en": "will settle",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'ладить'). Used as a perfective (single completed action) verb meaning 'will settle'."
+          "en": "to settle, sort out, smooth over",
+          "note": ""
         }
       ],
       "forms": {
@@ -6581,22 +6512,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "уладь",
+                "уладьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Друзья, давайте мирно уладим это недоразумение.",
-          "trans": "Friends, let us peacefully settle this misunderstanding."
+          "trans": "Friends, let's settle this misunderstanding peacefully."
         },
         {
-          "text": "Надо всё сделать и уладить вовремя.",
-          "trans": "We need to do everything and will settle on time."
+          "text": "Алло, Тимур, привет, как уладить конфликт?",
+          "trans": "Hello, Timur, hi, how do I settle a conflict?"
         }
       ],
       "related": [
         {
-          "word": "не уладить",
-          "gloss": "not to will settle (negated infinitive)"
+          "word": "улаживать",
+          "gloss": "to settle (impf.)"
+        },
+        {
+          "word": "ладить",
+          "gloss": "to get along"
         }
       ]
     },
@@ -6613,7 +6565,7 @@
         },
         {
           "en": "outside, outdoors",
-          "note": "на улице = out on the street / outside"
+          "note": ""
         }
       ],
       "forms": {
@@ -6694,7 +6646,7 @@
       "meanings": [
         {
           "en": "formality",
-          "note": "Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'formality' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6785,7 +6737,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -6837,6 +6789,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -6960,6 +6929,88 @@
           "gloss": "because"
         }
       ]
+    },
+    "шеф": {
+      "lemma": "шеф",
+      "stress": "шеф",
+      "pos": "noun",
+      "gloss": "boss, chief",
+      "gender": "m",
+      "animacy": "anim",
+      "meanings": [
+        {
+          "en": "boss, chief",
+          "note": "Informal. Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "шеф",
+              "шефы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "шефу",
+              "шефам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "шефом",
+              "шефами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "шефе",
+              "шефах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хитро придумано, шеф!",
+          "trans": "Cleverly thought out, boss!"
+        },
+        {
+          "text": "Шеф подписал приказ.",
+          "trans": "The boss signed the order."
+        },
+        {
+          "text": "Шеф на кухне.",
+          "trans": "The chef is in the kitchen."
+        }
+      ],
+      "related": []
     },
     "штамп": {
       "lemma": "штамп",

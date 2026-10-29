@@ -104,7 +104,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "дня",
@@ -912,7 +912,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "дня",
@@ -1720,7 +1720,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "дня",
@@ -2605,10 +2605,11 @@
       "pos": "noun",
       "gloss": "beauty, beautiful woman",
       "gender": "f",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "beautiful woman, beauty",
-          "note": "Common feminine noun meaning 'beauty, beautiful woman' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2684,12 +2685,12 @@
           "gloss": "beauty"
         },
         {
-          "word": "украсть",
-          "gloss": "to steal"
-        },
-        {
           "word": "красивый",
           "gloss": "beautiful"
+        },
+        {
+          "word": "красавец",
+          "gloss": "handsome man"
         }
       ]
     },
@@ -2749,7 +2750,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -2840,15 +2841,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -3071,11 +3072,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3186,7 +3187,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -3296,11 +3297,11 @@
       "meanings": [
         {
           "en": "ago (after a time expression)",
-          "note": "Два года назад = two years ago. Core Russian adv meaning 'ago; back, backwards' in everyday speech."
+          "note": "Два года назад = two years ago."
         },
         {
           "en": "back, backwards",
-          "note": "Шаг назад = a step back. Core Russian adv meaning 'ago; back, backwards' in everyday speech."
+          "note": "Шаг назад = a step back."
         }
       ],
       "forms": null,
@@ -3331,7 +3332,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -3386,6 +3387,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3423,7 +3441,7 @@
       "meanings": [
         {
           "en": "to fire, to sack",
-          "note": "Уволен = fired (short participle). Used as a perfective (single completed action) verb meaning 'to fire, to dismiss', paired with 'увольнять'."
+          "note": "Уволен = fired (short participle)."
         }
       ],
       "forms": {
@@ -3475,6 +3493,23 @@
                 "уволила",
                 "уволило",
                 "уволили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "уволь",
+                "увольте"
               ]
             }
           ]
@@ -3720,11 +3755,11 @@
       "meanings": [
         {
           "en": "to get off, to step down",
-          "note": "Used as a perfective (single completed action) verb meaning 'to get off; (с ума) to go mad', paired with 'сходить'."
+          "note": ""
         },
         {
           "en": "сойти с ума = to go mad, to lose one's mind",
-          "note": "Used as a perfective (single completed action) verb meaning 'to get off; (с ума) to go mad', paired with 'сходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3815,11 +3850,11 @@
       "related": [
         {
           "word": "сходить",
-          "gloss": "to go"
+          "gloss": "to get off, go down (impf)"
         },
         {
-          "word": "подойти",
-          "gloss": "to come up"
+          "word": "сойти с ума",
+          "gloss": "to go mad"
         },
         {
           "word": "отойти",
@@ -3874,11 +3909,11 @@
       "meanings": [
         {
           "en": "star",
-          "note": "In the sky. Common feminine noun meaning 'star; celebrity' in everyday Russian."
+          "note": "In the sky."
         },
         {
           "en": "star, famous performer",
-          "note": "Common feminine noun meaning 'star; celebrity' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3950,8 +3985,12 @@
       ],
       "related": [
         {
-          "word": "звездный",
-          "gloss": "related to star (adj.)"
+          "word": "звёздный",
+          "gloss": "star (adj.), starry"
+        },
+        {
+          "word": "звёздочка",
+          "gloss": "little star; asterisk"
         }
       ]
     },
@@ -3965,11 +4004,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -4072,11 +4111,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -4143,11 +4182,11 @@
       "meanings": [
         {
           "en": "more",
-          "note": "Comparative of много. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of много."
         },
         {
           "en": "bigger",
-          "note": "Comparative of большой. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of большой."
         }
       ],
       "forms": null,
@@ -4268,11 +4307,11 @@
       "meanings": [
         {
           "en": "view, hit",
-          "note": "Of an online video. Common masculine noun meaning 'view (online); viewing' in everyday Russian."
+          "note": "Of an online video."
         },
         {
           "en": "viewing, screening",
-          "note": "Of a film or flat. Common masculine noun meaning 'view (online); viewing' in everyday Russian."
+          "note": "Of a film or flat."
         }
       ],
       "forms": {
@@ -4419,6 +4458,23 @@
                 "понимала",
                 "понимало",
                 "понимали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понимай",
+                "понимайте"
               ]
             }
           ]
@@ -4605,6 +4661,23 @@
                 "значила",
                 "значило",
                 "значили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "значь",
+                "значьте"
               ]
             }
           ]
@@ -4926,7 +4999,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5017,7 +5090,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5122,7 +5195,7 @@
       "meanings": [
         {
           "en": "to introduce (someone to someone)",
-          "note": "+ accusative + 'с' + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'знакомить'). Used as a perfective (single completed action) verb meaning 'to introduce', paired with 'знакомить'."
+          "note": "+ accusative + 'с' + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'знакомить')."
         }
       ],
       "forms": {
@@ -5487,7 +5560,6 @@
       "stress": "выходны́е",
       "pos": "noun",
       "gloss": "weekend, days off",
-      "gender": "m",
       "number": "pl",
       "meanings": [
         {
@@ -5578,7 +5650,7 @@
       "meanings": [
         {
           "en": "small table",
-          "note": "Derived masculine noun formed with a productive Slavic suffix, used in spoken Russian to mean 'small table'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5663,7 +5735,7 @@
       "meanings": [
         {
           "en": "busy",
-          "note": "Of a person: я занят = I'm busy. Agrees in gender, number, and case with the noun it modifies ('busy; occupied, taken')."
+          "note": "Of a person: я занят = I'm busy."
         },
         {
           "en": "occupied, taken",
@@ -5710,10 +5782,10 @@
           {
             "cells": [
               "accusative",
-              "занятый/занятого",
+              "занятый / занятого",
               "занятую",
               "занятое",
-              "занятые/занятых"
+              "занятые / занятых"
             ]
           },
           {
@@ -5768,11 +5840,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5824,6 +5896,23 @@
                 "видела",
                 "видело",
                 "видели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
               ]
             }
           ]
@@ -5914,7 +6003,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -6214,7 +6303,7 @@
       "meanings": [
         {
           "en": "famous, well-known",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('famous, well-known')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6257,10 +6346,10 @@
           {
             "cells": [
               "accusative",
-              "известный",
+              "известный / известного",
               "известную",
               "известное",
-              "известные"
+              "известные / известных"
             ]
           },
           {
@@ -6286,16 +6375,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Он самый известный человек в городе.",
-          "trans": "He is the most famous man in town."
-        },
-        {
-          "text": "Вы сами подумайте. Он самый известный человек в Синеозерске!",
-          "trans": "Think about it yourselves. He is the most famous man in Sineozersk!"
-        },
-        {
           "text": "Он самый известный человек в Синеозерске!",
           "trans": "He is the most famous man in Sineozersk!"
+        },
+        {
+          "text": "Я шеф-повар этого известного ресторана.",
+          "trans": "I am the head chef of this famous restaurant."
+        },
+        {
+          "text": "Она у нас очень известная певица.",
+          "trans": "She is a very famous singer here."
         }
       ],
       "related": [
@@ -6352,7 +6441,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -6407,6 +6496,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6439,7 +6545,7 @@
       "meanings": [
         {
           "en": "monetary bonus, prize, reward",
-          "note": "Common feminine noun meaning 'bonus, prize, reward' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {

@@ -80,9 +80,9 @@
           "t": "оценил",
           "lemma": "оценить",
           "pos": "verb",
-          "stress": "оце́нил",
-          "gloss": "to appreciate; to evaluate",
-          "gram": "verb оценил"
+          "stress": "оцени́л",
+          "gloss": "appreciated",
+          "gram": "past, masculine singular, perfective"
         },
         {
           "t": "твой",
@@ -105,7 +105,7 @@
           "lemma": "ход",
           "pos": "noun",
           "stress": null,
-          "gloss": "course, progress",
+          "gloss": "course; move",
           "gram": "accusative singular masculine"
         }
       ]
@@ -212,7 +212,7 @@
           "pos": "name",
           "stress": null,
           "gloss": "Timur",
-          "gram": "nominative / accusative"
+          "gram": "genitive"
         },
         {
           "t": "закажем?",
@@ -668,9 +668,9 @@
           "t": "оценил",
           "lemma": "оценить",
           "pos": "verb",
-          "stress": "оце́нил",
-          "gloss": "to appreciate; to evaluate",
-          "gram": "verb оценил"
+          "stress": "оцени́л",
+          "gloss": "appreciated",
+          "gram": "past, masculine singular, perfective"
         },
         {
           "t": "твой",
@@ -693,7 +693,7 @@
           "lemma": "ход",
           "pos": "noun",
           "stress": null,
-          "gloss": "course, progress",
+          "gloss": "course; move",
           "gram": "accusative singular masculine"
         }
       ]
@@ -800,7 +800,7 @@
           "pos": "name",
           "stress": null,
           "gloss": "Timur",
-          "gram": "nominative / accusative"
+          "gram": "genitive"
         },
         {
           "t": "закажем?",
@@ -1256,9 +1256,9 @@
           "t": "оценил",
           "lemma": "оценить",
           "pos": "verb",
-          "stress": "оце́нил",
-          "gloss": "to appreciate; to evaluate",
-          "gram": "verb оценил"
+          "stress": "оцени́л",
+          "gloss": "appreciated",
+          "gram": "past, masculine singular, perfective"
         },
         {
           "t": "твой",
@@ -1281,7 +1281,7 @@
           "lemma": "ход",
           "pos": "noun",
           "stress": null,
-          "gloss": "course, progress",
+          "gloss": "course; move",
           "gram": "accusative singular masculine"
         }
       ]
@@ -1388,7 +1388,7 @@
           "pos": "name",
           "stress": null,
           "gloss": "Timur",
-          "gram": "nominative / accusative"
+          "gram": "genitive"
         },
         {
           "t": "закажем?",
@@ -1949,7 +1949,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -1975,49 +1975,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2028,11 +1985,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2123,15 +2084,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2145,7 +2106,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -2236,11 +2197,11 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
@@ -2253,7 +2214,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -2407,29 +2367,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "доволен",
-                "довольна",
-                "довольно",
-                "довольны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Ну что, довольна?",
@@ -2461,11 +2399,15 @@
       "meanings": [
         {
           "en": "to take out, to pull out, to reach",
-          "note": "Used as a perfective (single completed action) verb meaning 'to take out, to get, to reach', paired with 'доставать'."
+          "note": ""
         },
         {
           "en": "to get hold of, to obtain",
-          "note": "Used as a perfective (single completed action) verb meaning 'to take out, to get, to reach', paired with 'доставать'."
+          "note": ""
+        },
+        {
+          "en": "to annoy, to drive crazy (colloquial)",
+          "note": "Как же ты меня достал! = I'm so sick of you!"
         }
       ],
       "forms": {
@@ -2541,8 +2483,8 @@
       ],
       "examples": [
         {
-          "text": "И ложкой глаз достану.",
-          "trans": "And take his eye out with a spoon."
+          "text": "Макс, достань мне рис с верхней полки.",
+          "trans": "Max, get me the rice from the top shelf."
         },
         {
           "text": "Он достал телефон из кармана.",
@@ -2550,7 +2492,7 @@
         },
         {
           "text": "Вы понимаете, что вы нас достали уже?",
-          "trans": "Do you understand that you've made us sick of you already?"
+          "trans": "Do you realise we're already sick of you?"
         }
       ],
       "related": [
@@ -2598,96 +2540,6 @@
         }
       ]
     },
-    "заказ": {
-      "lemma": "заказ",
-      "stress": "зака́з",
-      "pos": "noun",
-      "gloss": "order",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "order",
-          "note": "Declinable masculine noun meaning 'order', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
-        },
-        {
-          "en": "booking",
-          "note": "Secondary conversational sense ('booking') (commission or reservation) used in spoken Russian dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "заказ",
-              "заказы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "заказа",
-              "заказов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "заказу",
-              "заказам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "заказ",
-              "заказы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "заказом",
-              "заказами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "заказе",
-              "заказах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я делаю всё точно по вашему заказу.",
-          "trans": "I do everything exactly according to your order."
-        },
-        {
-          "text": "На кухне готовят этот заказ.",
-          "trans": "In the kitchen they are preparing this order."
-        },
-        {
-          "text": "Официант принял заказ.",
-          "trans": "The waiter took the order."
-        }
-      ],
-      "related": [
-        {
-          "word": "заказывать",
-          "gloss": "to order"
-        }
-      ]
-    },
     "заказать": {
       "lemma": "заказать",
       "stress": "заказа́ть",
@@ -2698,7 +2550,7 @@
       "meanings": [
         {
           "en": "to order (food, a taxi, goods)",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to order', paired with 'заказывать'."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'казать')."
         }
       ],
       "forms": {
@@ -2811,7 +2663,7 @@
       "meanings": [
         {
           "en": "to pay (someone for something)",
-          "note": "+ dative of person. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'платить'). Used as a perfective (single completed action) verb meaning 'to pay', paired with 'платить'."
+          "note": "+ dative of person. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'платить')."
         }
       ],
       "forms": {
@@ -2916,15 +2768,15 @@
     },
     "засудить": {
       "lemma": "засудить",
-      "stress": "засу́дить",
+      "stress": "засуди́ть",
       "pos": "verb",
-      "gloss": "sue",
+      "gloss": "to sue; to convict",
       "aspect": "pf",
       "pair": null,
       "meanings": [
         {
-          "en": "sue",
-          "note": "Used as a perfective (single completed action) verb meaning 'sue'."
+          "en": "to sue, to take to court; to convict",
+          "note": "Colloquial."
         }
       ],
       "forms": {
@@ -2979,6 +2831,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "засуди",
+                "засудите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2987,14 +2856,22 @@
           "trans": "Do you understand that I can sue you for this?"
         },
         {
-          "text": "Надо всё сделать и засудить вовремя.",
-          "trans": "We need to do everything and sue on time."
+          "text": "Ты что устроил? Нас же засудят.",
+          "trans": "What have you done? They'll sue us."
         }
       ],
       "related": [
         {
-          "word": "не засудить",
-          "gloss": "not to sue (negated infinitive)"
+          "word": "суд",
+          "gloss": "court"
+        },
+        {
+          "word": "судить",
+          "gloss": "to judge, to try"
+        },
+        {
+          "word": "подать в суд",
+          "gloss": "to sue"
         }
       ]
     },
@@ -3088,7 +2965,7 @@
       "meanings": [
         {
           "en": "someone, somebody",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'someone', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -3169,7 +3046,7 @@
       "meanings": [
         {
           "en": "to climb",
-          "note": "Лезть на дерево = to climb a tree. Used as an imperfective (ongoing/repeated action) verb meaning 'to climb; to push in, to barge in', paired with 'полезть'."
+          "note": "Лезть на дерево = to climb a tree."
         },
         {
           "en": "to push in, to barge in",
@@ -3276,44 +3153,6 @@
         }
       ]
     },
-    "может": {
-      "lemma": "может",
-      "stress": "мо́жет",
-      "pos": "adv",
-      "gloss": "maybe, perhaps",
-      "meanings": [
-        {
-          "en": "maybe, perhaps",
-          "note": "Short for может быть. Core Russian part meaning 'maybe, perhaps' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Может, завтра.",
-          "trans": "Maybe tomorrow."
-        },
-        {
-          "text": "Я думал, может, не примешь.",
-          "trans": "I thought maybe you wouldn't see me."
-        }
-      ],
-      "related": [
-        {
-          "word": "может быть",
-          "gloss": "maybe (full form)"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
-        }
-      ]
-    },
     "мочь": {
       "lemma": "мочь",
       "stress": "мочь",
@@ -3324,7 +3163,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3376,6 +3215,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3481,109 +3337,6 @@
         {
           "word": "нас",
           "gloss": "us (genitive/accusative/prepositional)"
-        }
-      ]
-    },
-    "наш": {
-      "lemma": "наш",
-      "stress": "наш",
-      "pos": "det",
-      "gloss": "our, ours",
-      "meanings": [
-        {
-          "en": "our, ours",
-          "note": "наш, наша, наше, наши; agrees with the noun"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "наш",
-              "наша",
-              "наше",
-              "наши"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "нашего",
-              "нашей",
-              "нашего",
-              "наших"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "нашему",
-              "нашей",
-              "нашему",
-              "нашим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "наш / нашего",
-              "нашу",
-              "наше",
-              "наши / наших"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "нашим",
-              "нашей",
-              "нашим",
-              "нашими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "нашем",
-              "нашей",
-              "нашем",
-              "наших"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я люблю наш город.",
-          "trans": "I love our town."
-        },
-        {
-          "text": "Это наша квартира.",
-          "trans": "This is our flat."
-        },
-        {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
-        }
-      ],
-      "related": [
-        {
-          "word": "мы",
-          "gloss": "we"
-        },
-        {
-          "word": "ваш",
-          "gloss": "your"
         }
       ]
     },
@@ -3727,7 +3480,7 @@
       "meanings": [
         {
           "en": "excellent",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('excellent')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3828,11 +3581,11 @@
       "meanings": [
         {
           "en": "to let go, to release",
-          "note": "A prisoner, a hand. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить'). Used as a perfective (single completed action) verb meaning 'to let go, to release', paired with 'отпускать'."
+          "note": "A prisoner, a hand. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить')."
         },
         {
           "en": "to let someone leave",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить'). Used as a perfective (single completed action) verb meaning 'to let go, to release', paired with 'отпускать'."
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить')."
         }
       ],
       "forms": {
@@ -3941,11 +3694,11 @@
       "meanings": [
         {
           "en": "to appreciate",
-          "note": "To value someone or something. Used as a perfective (single completed action) verb meaning 'to appreciate; to evaluate', paired with 'оценивать'."
+          "note": "To value someone or something."
         },
         {
           "en": "to evaluate",
-          "note": "To estimate value. Used as a perfective (single completed action) verb meaning 'to appreciate; to evaluate', paired with 'оценивать'."
+          "note": "To estimate value."
         }
       ],
       "forms": {
@@ -4026,21 +3779,21 @@
         },
         {
           "text": "Жалко только, что шеф этого не оценит.",
-          "trans": "Too bad only that the chef won't appreciate this."
+          "trans": "It's just a shame the chef won't appreciate it."
         },
         {
           "text": "Во сколько вы оценили мою работу?",
-          "trans": "At how much did you value my work?"
+          "trans": "How much did you value my work at?"
         }
       ],
       "related": [
         {
           "word": "оценивать",
-          "gloss": "to appreciate"
+          "gloss": "to evaluate (impf)"
         },
         {
           "word": "оценка",
-          "gloss": "evaluation"
+          "gloss": "assessment, rating"
         }
       ]
     },
@@ -4092,7 +3845,7 @@
       "meanings": [
         {
           "en": "to lose",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'терять'). Used as a perfective (single completed action) verb meaning 'to lose', paired with 'терять'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'терять')."
         }
       ],
       "forms": {
@@ -4147,6 +3900,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "потеряй",
+                "потеряйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4178,119 +3948,6 @@
         }
       ]
     },
-    "привезти": {
-      "lemma": "привезти",
-      "stress": "привезти́",
-      "pos": "verb",
-      "gloss": "to bring (by vehicle)",
-      "aspect": "pf",
-      "pair": "привозить",
-      "meanings": [
-        {
-          "en": "to bring",
-          "note": "from a trip, by car, train or plane"
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "привезу",
-              "привезём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "привезёшь",
-              "привезёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "привезёт",
-              "привезут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "привёз",
-                "привезла",
-                "привезло",
-                "привезли"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "привези",
-                "привезите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Папа привёз подарки.",
-          "trans": "Dad brought presents."
-        },
-        {
-          "text": "Что ты привёз?",
-          "trans": "What did you bring?"
-        },
-        {
-          "text": "Папа, а жвачку ты привёз?",
-          "trans": "Dad, did you bring any gum?"
-        }
-      ],
-      "related": [
-        {
-          "word": "привозить",
-          "gloss": "bring"
-        },
-        {
-          "word": "повезти",
-          "gloss": "to be lucky"
-        },
-        {
-          "word": "отвезти",
-          "gloss": "to drive"
-        }
-      ]
-    },
     "привет": {
       "lemma": "привет",
       "stress": "приве́т",
@@ -4299,7 +3956,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -4328,11 +3985,11 @@
       "meanings": [
         {
           "en": "right, just, directly",
-          "note": "Прямо так = just like that. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Прямо так = just like that."
         },
         {
           "en": "straight ahead",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4366,7 +4023,7 @@
       "meanings": [
         {
           "en": "five",
-          "note": "+ genitive plural: пять рублей. Core Russian num meaning 'five' in everyday speech."
+          "note": "+ genitive plural: пять рублей."
         }
       ],
       "forms": null,
@@ -4571,35 +4228,6 @@
         }
       ]
     },
-    "скоро": {
-      "lemma": "скоро",
-      "stress": "ско́ро",
-      "pos": "adv",
-      "gloss": "soon",
-      "meanings": [
-        {
-          "en": "soon",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я скоро вернусь.",
-          "trans": "I'll be back soon."
-        },
-        {
-          "text": "Скоро лето.",
-          "trans": "Summer is coming soon."
-        },
-        {
-          "text": "Так, не шумим. Я скоро вернусь.",
-          "trans": "Right, no noise. I'll be back soon."
-        }
-      ],
-      "related": []
-    },
     "слушать": {
       "lemma": "слушать",
       "stress": "слу́шать",
@@ -4610,7 +4238,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -4618,7 +4246,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -4758,7 +4386,7 @@
       "meanings": [
         {
           "en": "so much, so many",
-          "note": "+ genitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -4792,7 +4420,7 @@
       "meanings": [
         {
           "en": "strange, odd",
-          "note": "Как странно = how strange. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Как странно = how strange."
         }
       ],
       "forms": null,
@@ -4817,12 +4445,12 @@
           "gloss": "strange"
         },
         {
-          "word": "страна",
-          "gloss": "country"
+          "word": "странность",
+          "gloss": "oddity, quirk"
         },
         {
-          "word": "страница",
-          "gloss": "page"
+          "word": "удивительно",
+          "gloss": "surprisingly"
         }
       ]
     },
@@ -4838,7 +4466,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -4933,7 +4561,7 @@
       "meanings": [
         {
           "en": "cockroach",
-          "note": "Common masculine noun meaning 'cockroach' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5202,7 +4830,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -5371,7 +4999,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -5426,6 +5054,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5467,11 +5112,11 @@
       "meanings": [
         {
           "en": "to arrange, organize",
-          "note": "Transitive verb. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить'). Used as a perfective (single completed action) verb meaning 'to arrange, cause', paired with 'устраивать'."
+          "note": "Transitive verb. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить')."
         },
         {
           "en": "to cause",
-          "note": "A disturbance. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить'). Used as a perfective (single completed action) verb meaning 'to arrange, cause', paired with 'устраивать'."
+          "note": "A disturbance. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить')."
         }
       ],
       "forms": {
@@ -5562,15 +5207,15 @@
       "related": [
         {
           "word": "устраивать",
-          "gloss": "to organize"
+          "gloss": "to organize (impf)"
         },
         {
-          "word": "построить",
-          "gloss": "to build"
+          "word": "устроиться",
+          "gloss": "to get a job, settle in"
         },
         {
-          "word": "настроение",
-          "gloss": "mood"
+          "word": "скандал",
+          "gloss": "scene, row"
         }
       ]
     },
@@ -5587,7 +5232,7 @@
         },
         {
           "en": "move, turn (in a game); entrance/passage",
-          "note": "Common masculine noun meaning 'course, progress; move, turn' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5602,7 +5247,7 @@
             "cells": [
               "nominative",
               "ход",
-              "ходы"
+              "хода"
             ]
           },
           {
@@ -5623,7 +5268,7 @@
             "cells": [
               "accusative",
               "ход",
-              "ходы"
+              "хода"
             ]
           },
           {
@@ -5799,16 +5444,20 @@
       "lemma": "штука",
       "stress": "шту́ка",
       "pos": "noun",
-      "gloss": "thing; piece",
+      "gloss": "thing; piece; grand (1000 rubles)",
       "gender": "f",
       "meanings": [
         {
           "en": "thing, matter (colloquial)",
-          "note": "Common feminine noun meaning 'thing; piece' in everyday Russian."
+          "note": ""
         },
         {
           "en": "piece, item",
-          "note": "Common feminine noun meaning 'thing; piece' in everyday Russian."
+          "note": ""
+        },
+        {
+          "en": "a grand, a thousand (rubles)",
+          "note": "slang: пять штук = five grand"
         }
       ],
       "forms": {

@@ -151,8 +151,8 @@
           "lemma": "дорогой",
           "pos": "adj",
           "stress": "дорого́й",
-          "gloss": "dear",
-          "gram": "nominative singular, masculine, used in address"
+          "gloss": "expensive",
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "ресторан!",
@@ -565,10 +565,10 @@
         {
           "t": "Шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "сильно",
@@ -815,8 +815,8 @@
           "lemma": "дорогой",
           "pos": "adj",
           "stress": "дорого́й",
-          "gloss": "dear",
-          "gram": "nominative singular, masculine, used in address"
+          "gloss": "expensive",
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "ресторан!",
@@ -1229,10 +1229,10 @@
         {
           "t": "Шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "сильно",
@@ -1479,8 +1479,8 @@
           "lemma": "дорогой",
           "pos": "adj",
           "stress": "дорого́й",
-          "gloss": "dear",
-          "gram": "nominative singular, masculine, used in address"
+          "gloss": "expensive",
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "ресторан!",
@@ -1893,10 +1893,10 @@
         {
           "t": "Шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "сильно",
@@ -2061,7 +2061,7 @@
       "meanings": [
         {
           "en": "administrator, receptionist, manager",
-          "note": "At an office, hotel, or cemetery. Borrowed from Latin agent/instrument noun in '-tor' ('администратор'). Common masculine noun meaning 'administrator, manager, receptionist' in everyday Russian."
+          "note": "At an office, hotel, or cemetery."
         }
       ],
       "forms": {
@@ -2146,7 +2146,7 @@
       "meanings": [
         {
           "en": "carefully, neatly, gently",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2181,11 +2181,11 @@
       "meanings": [
         {
           "en": "appetite",
-          "note": "= Enjoy your meal!. Common masculine noun meaning 'appetite' in everyday Russian."
+          "note": ""
         },
         {
-          "en": "Приятного аппетита!",
-          "note": "= Enjoy your meal!. Common masculine noun meaning 'appetite' in everyday Russian."
+          "en": "Enjoy your meal!",
+          "note": "Приятного аппетита!"
         }
       ],
       "forms": {
@@ -2318,7 +2318,7 @@
       "meanings": [
         {
           "en": "to lead, to guide, to drive",
-          "note": "Unidirectional verb of motion. Used as an imperfective (ongoing/repeated action) verb meaning 'to lead, to conduct (вести себя = to behave)', paired with 'повести'."
+          "note": "Unidirectional verb of motion."
         },
         {
           "en": "вести себя: to behave, to conduct oneself",
@@ -2517,7 +2517,7 @@
       "meanings": [
         {
           "en": "to kick out, to drive out",
-          "note": "Expel someone from a place. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'гнать'). Used as a perfective (single completed action) verb meaning 'to kick out, to evict, to drive out', paired with 'выгонять'."
+          "note": "Expel someone from a place. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'гнать')."
         }
       ],
       "forms": {
@@ -2659,11 +2659,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2754,15 +2758,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2771,7 +2775,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -2856,7 +2859,7 @@
       "meanings": [
         {
           "en": "expensive",
-          "note": "to a loved one, and at the start of letters"
+          "note": ""
         },
         {
           "en": "dear",
@@ -2903,10 +2906,10 @@
           {
             "cells": [
               "accusative",
-              "дорогой/дорогого",
+              "дорогой / дорогого",
               "дорогую",
               "дорогое",
-              "дорогие/дорогих"
+              "дорогие / дорогих"
             ]
           },
           {
@@ -2929,29 +2932,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "дорог",
-                "дорога",
-                "дорого",
-                "дороги"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Это дорогая одежда.",
@@ -3059,7 +3040,7 @@
       "meanings": [
         {
           "en": "to pay (someone for something)",
-          "note": "+ dative of person. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'платить'). Used as a perfective (single completed action) verb meaning 'to pay', paired with 'платить'."
+          "note": "+ dative of person. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'платить')."
         }
       ],
       "forms": {
@@ -3201,12 +3182,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3261,6 +3240,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3280,17 +3276,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "именно": {
       "lemma": "именно",
@@ -3340,7 +3337,7 @@
       "meanings": [
         {
           "en": "to spoil, ruin",
-          "note": "Damage something or ruin relations. Prefix 'ис-' ('out from within') marks extraction or exhaustion (stem 'портить'). Used as a perfective (single completed action) verb meaning 'to spoil, ruin, damage', paired with 'портить'."
+          "note": "Damage something or ruin relations. Prefix 'ис-' ('out from within') marks extraction or exhaustion (stem 'портить')."
         }
       ],
       "forms": {
@@ -3444,11 +3441,11 @@
       "meanings": [
         {
           "en": "suit",
-          "note": "Business suit. Common masculine noun meaning 'suit; costume' in everyday Russian."
+          "note": "Business suit."
         },
         {
           "en": "costume, outfit",
-          "note": "For theatre or promotion. Common masculine noun meaning 'suit; costume' in everyday Russian."
+          "note": "For theatre or promotion."
         }
       ],
       "forms": {
@@ -3528,7 +3525,7 @@
       "meanings": [
         {
           "en": "extremely, exceptionally, to a high degree",
-          "note": "Adverb of degree. Core Russian adv meaning 'extremely, utterly' in everyday speech."
+          "note": "Adverb of degree."
         }
       ],
       "forms": null,
@@ -3613,10 +3610,10 @@
           {
             "cells": [
               "accusative",
-              "молодого",
+              "молодой / молодого",
               "молодую",
               "молодое",
-              "молодых"
+              "молодые / молодых"
             ]
           },
           {
@@ -3938,7 +3935,7 @@
       "meanings": [
         {
           "en": "inappropriate, out of place",
-          "note": "Qualitative or relational adjective formed with the productive '-н-' suffix, meaning 'inappropriate' and agreeing in gender, number, and case."
+          "note": ""
         }
       ],
       "forms": {
@@ -3981,10 +3978,10 @@
           {
             "cells": [
               "accusative",
-              "неуместный",
+              "неуместный / неуместного",
               "неуместную",
               "неуместное",
-              "неуместные"
+              "неуместные / неуместных"
             ]
           },
           {
@@ -4020,12 +4017,16 @@
       ],
       "related": [
         {
-          "word": "очень",
-          "gloss": "very"
+          "word": "уместный",
+          "gloss": "appropriate"
         },
         {
-          "word": "такой",
-          "gloss": "such"
+          "word": "неуместно",
+          "gloss": "inappropriately, out of place"
+        },
+        {
+          "word": "место",
+          "gloss": "place"
         }
       ]
     },
@@ -4037,7 +4038,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -4156,7 +4157,7 @@
       "meanings": [
         {
           "en": "lunch, dinner (midday)",
-          "note": "Перерыв на обед = lunch break. Common masculine noun meaning 'lunch, midday meal' in everyday Russian."
+          "note": "Перерыв на обед = lunch break."
         }
       ],
       "forms": {
@@ -4247,7 +4248,7 @@
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -4295,6 +4296,23 @@
                 "обещала",
                 "обещало",
                 "обещали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "обещай",
+                "обещайте"
               ]
             }
           ]
@@ -4450,7 +4468,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -4555,7 +4573,7 @@
       "meanings": [
         {
           "en": "to wish",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'желать'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to wish', forming an aspectual pair with 'желать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'желать')."
         }
       ],
       "forms": {
@@ -4693,7 +4711,7 @@
       "meanings": [
         {
           "en": "to get, to receive",
-          "note": "Used as a perfective (single completed action) verb meaning 'to get, to receive', paired with 'получать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4800,7 +4818,7 @@
       "meanings": [
         {
           "en": "after",
-          "note": "Preposition + genitive, or adverb. Core Russian prep meaning 'after' in everyday speech."
+          "note": "Preposition + genitive, or adverb."
         }
       ],
       "forms": null,
@@ -4940,7 +4958,7 @@
         },
         {
           "en": "wonderful!",
-          "note": "As a reply. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "As a reply."
         }
       ],
       "forms": null,
@@ -4974,7 +4992,7 @@
       "meanings": [
         {
           "en": "beautiful, wonderful",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('beautiful, wonderful')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5073,7 +5091,7 @@
       "meanings": [
         {
           "en": "decent, respectable",
-          "note": "Qualitative or relational adjective formed with the productive '-н-' suffix, meaning 'decent' and agreeing in gender, number, and case."
+          "note": ""
         }
       ],
       "forms": {
@@ -5116,10 +5134,10 @@
           {
             "cells": [
               "accusative",
-              "приличный",
+              "приличный / приличного",
               "приличную",
               "приличное",
-              "приличные"
+              "приличные / приличных"
             ]
           },
           {
@@ -5168,11 +5186,11 @@
       "meanings": [
         {
           "en": "pleasant, nice",
-          "note": "= Enjoy your meal!. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
+          "note": "Приятного аппетита! = Enjoy your meal!"
         },
         {
-          "en": "Приятного аппетита!",
-          "note": "= Enjoy your meal!. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
+          "en": "сделать приятное",
+          "note": "to do something nice (for someone)"
         }
       ],
       "forms": {
@@ -5241,29 +5259,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "приятен",
-                "приятна",
-                "приятно",
-                "приятны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Приятного аппетита!",
@@ -5297,7 +5293,7 @@
       "meanings": [
         {
           "en": "missing, lost",
-          "note": "Descriptive Russian adjective meaning 'missing', agreeing in gender, number, and case with the noun it modifies."
+          "note": ""
         }
       ],
       "forms": {
@@ -5379,12 +5375,12 @@
       ],
       "related": [
         {
-          "word": "очень",
-          "gloss": "very"
+          "word": "пропасть",
+          "gloss": "to go missing"
         },
         {
-          "word": "такой",
-          "gloss": "such"
+          "word": "пропажа",
+          "gloss": "missing thing"
         }
       ]
     },
@@ -5431,7 +5427,7 @@
       "meanings": [
         {
           "en": "to get angry, to become furious",
-          "note": "На + accusative = at someone. Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'озлиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to get angry, to lose one's temper', paired with 'злиться'."
+          "note": "на + accusative = at someone. Perfective of злиться."
         }
       ],
       "forms": {
@@ -5706,7 +5702,7 @@
       "meanings": [
         {
           "en": "very much, deeply, strongly",
-          "note": "Adverb of degree. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb of degree."
         }
       ],
       "forms": null,
@@ -5748,7 +5744,7 @@
         },
         {
           "en": "by accident, unintentionally",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5782,7 +5778,7 @@
       "meanings": [
         {
           "en": "completely, quite, utterly",
-          "note": "Совершенно верно = quite right. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Совершенно верно = quite right."
         }
       ],
       "forms": null,
@@ -5822,7 +5818,7 @@
       "meanings": [
         {
           "en": "to hide (something)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'прятать'). Used as a perfective (single completed action) verb meaning 'to hide', paired with 'прятать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6000,7 +5996,7 @@
         },
         {
           "en": "auction, market",
-          "note": "Common masculine noun meaning 'bargaining, trade, haggling' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6095,7 +6091,7 @@
       "meanings": [
         {
           "en": "truffle (mushroom / delicacy)",
-          "note": "Declinable masculine noun meaning 'truffle', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -6366,7 +6362,7 @@
         },
         {
           "en": "outside, outdoors",
-          "note": "на улице = out on the street / outside"
+          "note": ""
         }
       ],
       "forms": {
@@ -6583,10 +6579,10 @@
           {
             "cells": [
               "accusative",
-              "чужой",
+              "чужой / чужого",
               "чужую",
               "чужое",
-              "чужие"
+              "чужие / чужих"
             ]
           },
           {
@@ -6622,6 +6618,88 @@
         {
           "text": "Вы так и берёте чужое без спроса, да?",
           "trans": "So you just take other people's things without asking, yes?"
+        }
+      ],
+      "related": []
+    },
+    "шеф": {
+      "lemma": "шеф",
+      "stress": "шеф",
+      "pos": "noun",
+      "gloss": "boss, chief",
+      "gender": "m",
+      "animacy": "anim",
+      "meanings": [
+        {
+          "en": "boss, chief",
+          "note": "Informal. Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "шеф",
+              "шефы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "шефу",
+              "шефам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "шефом",
+              "шефами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "шефе",
+              "шефах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хитро придумано, шеф!",
+          "trans": "Cleverly thought out, boss!"
+        },
+        {
+          "text": "Шеф подписал приказ.",
+          "trans": "The boss signed the order."
+        },
+        {
+          "text": "Шеф на кухне.",
+          "trans": "The chef is in the kitchen."
         }
       ],
       "related": []

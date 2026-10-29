@@ -11,8 +11,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "опасный",
@@ -28,7 +28,7 @@
           "pos": "noun",
           "stress": "моме́нт",
           "gloss": "moment",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "сейчас",
@@ -113,7 +113,7 @@
           "lemma": "принять",
           "pos": "verb",
           "stress": "при́нял",
-          "gloss": "(you) received",
+          "gloss": "took (medicine)",
           "gram": "past, masculine singular, perfective"
         }
       ]
@@ -345,8 +345,8 @@
           "lemma": "команда",
           "pos": "noun",
           "stress": "кома́нды",
-          "gloss": "commands",
-          "gram": "inanimate, feminine, plural, accusative"
+          "gloss": "team; commands",
+          "gram": "genitive singular / accusative plural, feminine"
         },
         {
           "t": "появился",
@@ -548,7 +548,7 @@
           "pos": "det",
           "stress": "твоему́",
           "gloss": "your",
-          "gram": "neuter singular dative"
+          "gram": "dative singular, masculine/neuter"
         },
         {
           "t": "футболу,",
@@ -843,8 +843,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "опасный",
@@ -860,7 +860,7 @@
           "pos": "noun",
           "stress": "моме́нт",
           "gloss": "moment",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "сейчас",
@@ -945,7 +945,7 @@
           "lemma": "принять",
           "pos": "verb",
           "stress": "при́нял",
-          "gloss": "(you) received",
+          "gloss": "took (medicine)",
           "gram": "past, masculine singular, perfective"
         }
       ]
@@ -1177,8 +1177,8 @@
           "lemma": "команда",
           "pos": "noun",
           "stress": "кома́нды",
-          "gloss": "commands",
-          "gram": "inanimate, feminine, plural, accusative"
+          "gloss": "team; commands",
+          "gram": "genitive singular / accusative plural, feminine"
         },
         {
           "t": "появился",
@@ -1380,7 +1380,7 @@
           "pos": "det",
           "stress": "твоему́",
           "gloss": "your",
-          "gram": "neuter singular dative"
+          "gram": "dative singular, masculine/neuter"
         },
         {
           "t": "футболу,",
@@ -1675,8 +1675,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "опасный",
@@ -1692,7 +1692,7 @@
           "pos": "noun",
           "stress": "моме́нт",
           "gloss": "moment",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "сейчас",
@@ -1777,7 +1777,7 @@
           "lemma": "принять",
           "pos": "verb",
           "stress": "при́нял",
-          "gloss": "(you) received",
+          "gloss": "took (medicine)",
           "gram": "past, masculine singular, perfective"
         }
       ]
@@ -2009,8 +2009,8 @@
           "lemma": "команда",
           "pos": "noun",
           "stress": "кома́нды",
-          "gloss": "commands",
-          "gram": "inanimate, feminine, plural, accusative"
+          "gloss": "team; commands",
+          "gram": "genitive singular / accusative plural, feminine"
         },
         {
           "t": "появился",
@@ -2212,7 +2212,7 @@
           "pos": "det",
           "stress": "твоему́",
           "gloss": "your",
-          "gram": "neuter singular dative"
+          "gram": "dative singular, masculine/neuter"
         },
         {
           "t": "футболу,",
@@ -2560,13 +2560,19 @@
       "lemma": "болеть",
       "stress": "боле́ть",
       "pos": "verb",
-      "gloss": "to be ill",
-      "aspect": "impf",
-      "pair": "заболеть",
+      "gloss": "to be ill; to hurt; to root for",
       "meanings": [
         {
           "en": "to be ill, to be sick",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to be ill', paired with 'заболеть'."
+          "note": "болею, болеет"
+        },
+        {
+          "en": "to hurt, to ache",
+          "note": "3rd person only: болит, болят (у меня болит голова)"
+        },
+        {
+          "en": "to root for, to support (a team)",
+          "note": "болеть за + accusative"
         }
       ],
       "forms": {
@@ -2667,7 +2673,8 @@
           "word": "заболевание",
           "gloss": "disease"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "быть": {
       "lemma": "быть",
@@ -2946,11 +2953,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3002,6 +3009,23 @@
                 "видела",
                 "видело",
                 "видели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
               ]
             }
           ]
@@ -3084,7 +3108,7 @@
       "meanings": [
         {
           "en": "to lie, to tell lies",
-          "note": "Colloquial. Used as an imperfective (ongoing/repeated action) verb meaning 'to lie, to tell lies', paired with 'соврать'."
+          "note": "Colloquial."
         }
       ],
       "forms": {
@@ -3179,84 +3203,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вырвать": {
       "lemma": "вырвать",
       "stress": "вы́рвать",
@@ -3267,7 +3213,7 @@
       "meanings": [
         {
           "en": "to snatch, tear out",
-          "note": "+ из + genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'рвать'). Used as a perfective (single completed action) verb meaning 'to tear out, to snatch', paired with 'вырывать'."
+          "note": "+ из + genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'рвать')."
         }
       ],
       "forms": {
@@ -3379,7 +3325,7 @@
       "meanings": [
         {
           "en": "golf",
-          "note": "Common masculine noun meaning 'golf' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3438,25 +3384,21 @@
       "examples": [
         {
           "text": "Вообще, кстати, сколько в этот гольф играть?",
-          "trans": "In general, by the way, how long do you play this golf?"
+          "trans": "By the way, how long does a game of golf actually last?"
         },
         {
-          "text": "Это основной удар в нашем гольфе.",
-          "trans": "This is the basic stroke in our golf."
-        },
-        {
-          "text": "Это точно настоящий гольф?",
-          "trans": "Is this definitely real golf?"
+          "text": "Значит, на сегодня мы с гольфом закончили.",
+          "trans": "So we're done with golf for today."
         }
       ],
       "related": [
         {
-          "word": "без голь",
-          "gloss": "without golf"
+          "word": "клюшка",
+          "gloss": "(golf) club"
         },
         {
-          "word": "наш гольф",
-          "gloss": "our golf"
+          "word": "мяч",
+          "gloss": "ball"
         }
       ]
     },
@@ -3472,7 +3414,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3508,11 +3450,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3624,7 +3566,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3751,11 +3693,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3824,7 +3766,7 @@
       "meanings": [
         {
           "en": "to envy",
-          "note": "+ dative = someone or something. Used as an imperfective (ongoing/repeated action) verb meaning 'to envy, to be jealous of', paired with 'позавидовать'."
+          "note": "+ dative = someone or something."
         }
       ],
       "forms": {
@@ -3927,7 +3869,7 @@
       "meanings": [
         {
           "en": "considerably / much",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3935,21 +3877,21 @@
       "examples": [
         {
           "text": "Я вижу, что тебе уже значительно получше.",
-          "trans": "I see that you are already considerably better."
+          "trans": "I can see you're already a lot better."
         },
         {
-          "text": "Макс сказал это совершенно значительно и спокойно.",
-          "trans": "Max said this quite considerably and calmly."
+          "text": "Цены значительно выросли.",
+          "trans": "Prices have gone up considerably."
         }
       ],
       "related": [
         {
-          "word": "очень значительно",
-          "gloss": "very considerably"
+          "word": "значительный",
+          "gloss": "considerable, significant"
         },
         {
-          "word": "так значительно",
-          "gloss": "so considerably"
+          "word": "намного",
+          "gloss": "much, far"
         }
       ]
     },
@@ -4110,11 +4052,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -4194,12 +4136,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -4225,7 +4167,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -4333,11 +4275,11 @@
       "meanings": [
         {
           "en": "team",
-          "note": "Common feminine noun meaning 'team; command' in everyday Russian."
+          "note": ""
         },
         {
           "en": "command, order",
-          "note": "Common feminine noun meaning 'team; command' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4424,14 +4366,15 @@
       "pos": "noun",
       "gloss": "horse; knight (in chess)",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "horse, steed",
-          "note": "Common masculine noun meaning 'horse; knight (in chess)' in everyday Russian."
+          "note": ""
         },
         {
           "en": "knight (chess piece)",
-          "note": "Common masculine noun meaning 'horse; knight (in chess)' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4512,7 +4455,7 @@
       "meanings": [
         {
           "en": "medicine, drug, remedy",
-          "note": "Common neuter noun meaning 'medicine, medication' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4594,11 +4537,11 @@
       "meanings": [
         {
           "en": "to love",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         },
         {
           "en": "to like",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4682,8 +4625,8 @@
           "trans": "Do you like gum?"
         },
         {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
+          "text": "Ты любишь чужую жену!",
+          "trans": "You're in love with another man's wife!"
         }
       ],
       "related": [
@@ -4709,11 +4652,11 @@
       "meanings": [
         {
           "en": "less, fewer",
-          "note": "Comparative of мало. Core Russian adv meaning 'less, fewer, smaller' in everyday speech."
+          "note": "Comparative of мало."
         },
         {
           "en": "smaller",
-          "note": "Comparative of маленький. Core Russian adv meaning 'less, fewer, smaller' in everyday speech."
+          "note": "Comparative of маленький."
         }
       ],
       "forms": null,
@@ -4830,7 +4773,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4882,6 +4825,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -5096,11 +5056,11 @@
       "meanings": [
         {
           "en": "leg",
-          "note": "Russian uses one word for both. Common feminine noun meaning 'leg, foot' in everyday Russian."
+          "note": "Russian uses one word for both."
         },
         {
           "en": "foot",
-          "note": "Russian uses one word for both. Common feminine noun meaning 'leg, foot' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5303,7 +5263,7 @@
       "meanings": [
         {
           "en": "dangerous, hazardous",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('dangerous')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5346,10 +5306,10 @@
           {
             "cells": [
               "accusative",
-              "опасный",
+              "опасный / опасного",
               "опасную",
               "опасное",
-              "опасные"
+              "опасные / опасных"
             ]
           },
           {
@@ -5412,7 +5372,7 @@
       "meanings": [
         {
           "en": "to stay, to remain",
-          "note": "Остаётся у нас = stays with us. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to stay, to remain', paired with 'остаться'."
+          "note": "Остаётся у нас = stays with us."
         }
       ],
       "forms": {
@@ -5524,7 +5484,7 @@
       "meanings": [
         {
           "en": "penalty kick",
-          "note": "Common masculine noun meaning 'penalty kick' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5539,42 +5499,42 @@
             "cells": [
               "nominative",
               "пенальти",
-              "пенальтиы"
+              "пенальти"
             ]
           },
           {
             "cells": [
               "genitive",
-              "пенальтиа",
-              "пенальтиов"
+              "пенальти",
+              "пенальти"
             ]
           },
           {
             "cells": [
               "dative",
-              "пенальтиу",
-              "пенальтиам"
+              "пенальти",
+              "пенальти"
             ]
           },
           {
             "cells": [
               "accusative",
               "пенальти",
-              "пенальтиы"
+              "пенальти"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "пенальтиом",
-              "пенальтиами"
+              "пенальти",
+              "пенальти"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "пенальтие",
-              "пенальтиах"
+              "пенальти",
+              "пенальти"
             ]
           }
         ]
@@ -5583,21 +5543,21 @@
       "examples": [
         {
           "text": "Лена, ты что делаешь, это же решающий пенальти!",
-          "trans": "Lena, what are you doing, this is a decisive penalty kick!"
+          "trans": "Lena, what are you doing, this is the deciding penalty!"
         },
         {
-          "text": "На кухне ресторана всегда есть пенальти.",
-          "trans": "In the restaurant kitchen there is always penalty kick."
+          "text": "Давайте так, мы вам пробиваем пенальти и расходимся.",
+          "trans": "Let's do this: we take a penalty against you and go our separate ways."
         }
       ],
       "related": [
         {
-          "word": "без пенальт",
-          "gloss": "without penalty kick"
+          "word": "гол",
+          "gloss": "goal"
         },
         {
-          "word": "наш пенальти",
-          "gloss": "our penalty kick"
+          "word": "вратарь",
+          "gloss": "goalkeeper"
         }
       ]
     },
@@ -5610,7 +5570,7 @@
       "meanings": [
         {
           "en": "victory, triumph over opponent",
-          "note": "Common feminine noun meaning 'victory, triumph' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5672,8 +5632,8 @@
           "trans": "People applaud your victory!"
         },
         {
-          "text": "День великой Победы.",
-          "trans": "The day of great Victory."
+          "text": "День Победы.",
+          "trans": "Victory Day."
         },
         {
           "text": "Люди в городе аплодируют вашей победе!",
@@ -5681,153 +5641,6 @@
         }
       ],
       "related": []
-    },
-    "подождать": {
-      "lemma": "подождать",
-      "stress": "подожда́ть",
-      "pos": "verb",
-      "gloss": "to wait (a while)",
-      "aspect": "pf",
-      "pair": "ждать",
-      "meanings": [
-        {
-          "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "подожду",
-              "подождём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "подождёшь",
-              "подождёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "подождёт",
-              "подождут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "подождал",
-                "подождала",
-                "подождало",
-                "подождали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "подожди",
-                "подождите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Подожди, я сейчас.",
-          "trans": "Wait, I'll be right there."
-        },
-        {
-          "text": "Подождите минуту.",
-          "trans": "Wait a minute."
-        },
-        {
-          "text": "Подожди, Нин, ты не поняла. Это же стыдно!",
-          "trans": "Wait, Nina, you don't get it. It's shameful!"
-        }
-      ],
-      "related": [
-        {
-          "word": "ждать",
-          "gloss": "to wait"
-        }
-      ]
-    },
-    "пожалуйста": {
-      "lemma": "пожалуйста",
-      "stress": "пожа́луйста",
-      "pos": "part",
-      "gloss": "please; you're welcome",
-      "meanings": [
-        {
-          "en": "please",
-          "note": "Handing something over."
-        },
-        {
-          "en": "you're welcome",
-          "note": "Answer to thanks."
-        },
-        {
-          "en": "here you are",
-          "note": "Handing something over."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Кофе, пожалуйста.",
-          "trans": "A coffee, please."
-        },
-        {
-          "text": "Спасибо! — Пожалуйста.",
-          "trans": "Thank you! — You're welcome."
-        },
-        {
-          "text": "Проводите его, пожалуйста.",
-          "trans": "Please see him out."
-        }
-      ],
-      "related": [
-        {
-          "word": "пожалуй",
-          "gloss": "perhaps"
-        }
-      ]
     },
     "появиться": {
       "lemma": "появиться",
@@ -5839,7 +5652,7 @@
       "meanings": [
         {
           "en": "to appear, to show up, to turn up",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'явиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to appear, to show up', paired with 'появляться'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'явиться')."
         }
       ],
       "forms": {
@@ -5952,11 +5765,11 @@
       "meanings": [
         {
           "en": "to receive, to see (a visitor)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to receive, to see (a visitor); to accept', paired with 'принимать'."
+          "note": ""
         },
         {
           "en": "to accept, to take",
-          "note": "Used as a perfective (single completed action) verb meaning 'to receive, to see (a visitor); to accept', paired with 'принимать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6011,6 +5824,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "прими",
+                "примите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6052,7 +5882,7 @@
       "meanings": [
         {
           "en": "to pretend, feign",
-          "note": "Often + instrumental or что-clause. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to pretend, fake', paired with 'притвориться'."
+          "note": "Often + instrumental or что-clause."
         }
       ],
       "forms": {
@@ -6164,7 +5994,7 @@
       "meanings": [
         {
           "en": "for the sake of, for",
-          "note": "+ genitive. Core Russian prep meaning 'for the sake of' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -6193,7 +6023,7 @@
       "meanings": [
         {
           "en": "decisive, crucial",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('decisive, crucial')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6368,7 +6198,7 @@
       "meanings": [
         {
           "en": "very much, deeply, strongly",
-          "note": "Adverb of degree. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb of degree."
         }
       ],
       "forms": null,
@@ -6553,11 +6383,11 @@
       "meanings": [
         {
           "en": "to put up with, to bear",
-          "note": "Терпеть боль = to bear pain. Used as an imperfective (ongoing/repeated action) verb meaning 'to bear, to put up with; to hold on', paired with 'потерпеть'."
+          "note": "Терпеть боль = to bear pain."
         },
         {
           "en": "to hold on, to wait",
-          "note": "E.g. to wait for the toilet. Used as an imperfective (ongoing/repeated action) verb meaning 'to bear, to put up with; to hold on', paired with 'потерпеть'."
+          "note": "E.g. to wait for the toilet."
         }
       ],
       "forms": {
@@ -6637,10 +6467,6 @@
           "trans": "I can't hold on!"
         },
         {
-          "text": "Потерпи немного.",
-          "trans": "Hold on a little."
-        },
-        {
           "text": "Маленькие умеют терпеть, а взрослые нет, понял?",
           "trans": "Little ones can hold on, but grown-ups can't, got it?"
         }
@@ -6668,7 +6494,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -6837,7 +6663,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -6892,6 +6718,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6932,7 +6775,7 @@
       "meanings": [
         {
           "en": "blow, strike, hit",
-          "note": "Common masculine noun meaning 'blow, strike' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7000,8 +6843,16 @@
       ],
       "related": [
         {
-          "word": "приударять",
-          "gloss": "to flirt"
+          "word": "ударить",
+          "gloss": "to hit"
+        },
+        {
+          "word": "ударник",
+          "gloss": "drummer; shock worker"
+        },
+        {
+          "word": "удар током",
+          "gloss": "electric shock"
         }
       ]
     },
@@ -7043,7 +6894,7 @@
       "meanings": [
         {
           "en": "football, soccer",
-          "note": "Играть в футбол = to play football. Common masculine noun meaning 'football, soccer' in everyday Russian."
+          "note": "Играть в футбол = to play football."
         }
       ],
       "forms": {
@@ -7058,42 +6909,42 @@
             "cells": [
               "nominative",
               "футбол",
-              "-"
+              "футболы"
             ]
           },
           {
             "cells": [
               "genitive",
               "футбола",
-              "-"
+              "футболов"
             ]
           },
           {
             "cells": [
               "dative",
               "футболу",
-              "-"
+              "футболам"
             ]
           },
           {
             "cells": [
               "accusative",
               "футбол",
-              "-"
+              "футболы"
             ]
           },
           {
             "cells": [
               "instrumental",
               "футболом",
-              "-"
+              "футболами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "футболе",
-              "-"
+              "футболах"
             ]
           }
         ]
@@ -7132,7 +6983,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -7277,7 +7128,7 @@
       "meanings": [
         {
           "en": "honestly, frankly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -7407,10 +7258,11 @@
       "pos": "noun",
       "gloss": "chance",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "chance",
-          "note": "У меня есть шанс = I have a chance. From French 'chance' (favorable turn of the dice, from Late Latin 'cadentia')."
+          "note": "У меня есть шанс = I have a chance."
         }
       ],
       "forms": {

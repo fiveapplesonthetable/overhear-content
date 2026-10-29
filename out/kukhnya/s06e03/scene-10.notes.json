@@ -78,7 +78,7 @@
         },
         {
           "t": "несложно.",
-          "lemma": "несложный",
+          "lemma": "несложно",
           "pos": "adv",
           "stress": "несло́жно",
           "gloss": "not hard / easy",
@@ -294,7 +294,7 @@
           "t": "учится,",
           "lemma": "учиться",
           "pos": "verb",
-          "stress": "учи́тся",
+          "stress": "у́чится",
           "gloss": "to study, to be a student; to learn",
           "gram": "3rd person singular"
         },
@@ -349,8 +349,8 @@
           "lemma": "снять",
           "pos": "verb",
           "stress": "сня́ли",
-          "gloss": "fire, remove",
-          "gram": "past plural"
+          "gloss": "removed (from a post); filmed",
+          "gram": "past, plural, perfective"
         },
         {
           "t": "а",
@@ -471,16 +471,16 @@
           "lemma": "мотор",
           "pos": "noun",
           "stress": "мото́р",
-          "gloss": "rolling / motor",
+          "gloss": "rolling! (film set); motor",
           "gram": "nominative singular, masculine"
         },
         {
           "t": "идет,",
           "lemma": "идти",
           "pos": "verb",
-          "stress": "идёт",
-          "gloss": "go, walk",
-          "gram": "UNKNOWN"
+          "stress": "иде́т",
+          "gloss": "goes; suits (вам идёт = it suits you)",
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "поехали!",
@@ -614,7 +614,7 @@
         },
         {
           "t": "несложно.",
-          "lemma": "несложный",
+          "lemma": "несложно",
           "pos": "adv",
           "stress": "несло́жно",
           "gloss": "not hard / easy",
@@ -830,7 +830,7 @@
           "t": "учится,",
           "lemma": "учиться",
           "pos": "verb",
-          "stress": "учи́тся",
+          "stress": "у́чится",
           "gloss": "to study, to be a student; to learn",
           "gram": "3rd person singular"
         },
@@ -885,8 +885,8 @@
           "lemma": "снять",
           "pos": "verb",
           "stress": "сня́ли",
-          "gloss": "fire, remove",
-          "gram": "past plural"
+          "gloss": "removed (from a post); filmed",
+          "gram": "past, plural, perfective"
         },
         {
           "t": "а",
@@ -1007,16 +1007,16 @@
           "lemma": "мотор",
           "pos": "noun",
           "stress": "мото́р",
-          "gloss": "rolling / motor",
+          "gloss": "rolling! (film set); motor",
           "gram": "nominative singular, masculine"
         },
         {
           "t": "идет,",
           "lemma": "идти",
           "pos": "verb",
-          "stress": "идёт",
-          "gloss": "go, walk",
-          "gram": "UNKNOWN"
+          "stress": "иде́т",
+          "gloss": "goes; suits (вам идёт = it suits you)",
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "поехали!",
@@ -1150,7 +1150,7 @@
         },
         {
           "t": "несложно.",
-          "lemma": "несложный",
+          "lemma": "несложно",
           "pos": "adv",
           "stress": "несло́жно",
           "gloss": "not hard / easy",
@@ -1366,7 +1366,7 @@
           "t": "учится,",
           "lemma": "учиться",
           "pos": "verb",
-          "stress": "учи́тся",
+          "stress": "у́чится",
           "gloss": "to study, to be a student; to learn",
           "gram": "3rd person singular"
         },
@@ -1421,8 +1421,8 @@
           "lemma": "снять",
           "pos": "verb",
           "stress": "сня́ли",
-          "gloss": "fire, remove",
-          "gram": "past plural"
+          "gloss": "removed (from a post); filmed",
+          "gram": "past, plural, perfective"
         },
         {
           "t": "а",
@@ -1543,16 +1543,16 @@
           "lemma": "мотор",
           "pos": "noun",
           "stress": "мото́р",
-          "gloss": "rolling / motor",
+          "gloss": "rolling! (film set); motor",
           "gram": "nominative singular, masculine"
         },
         {
           "t": "идет,",
           "lemma": "идти",
           "pos": "verb",
-          "stress": "идёт",
-          "gloss": "go, walk",
-          "gram": "UNKNOWN"
+          "stress": "иде́т",
+          "gloss": "goes; suits (вам идёт = it suits you)",
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "поехали!",
@@ -2303,29 +2303,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "готов",
-                "готова",
-                "готово",
-                "готовы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я готов!",
@@ -2365,11 +2343,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2460,15 +2442,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2480,7 +2462,7 @@
       "meanings": [
         {
           "en": "nine",
-          "note": "Core Russian num meaning 'nine' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2519,7 +2501,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -2633,11 +2614,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2677,7 +2658,7 @@
       "meanings": [
         {
           "en": "to agree, to have an agreement",
-          "note": "+ с + instrumental. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to agree, to make a deal', paired with 'договориться'."
+          "note": "+ с + instrumental."
         }
       ],
       "forms": {
@@ -2768,15 +2749,15 @@
       "related": [
         {
           "word": "договориться",
-          "gloss": "to agree"
+          "gloss": "to agree (pf)"
         },
         {
           "word": "разговаривать",
           "gloss": "to talk"
         },
         {
-          "word": "наговаривать",
-          "gloss": "slander"
+          "word": "договор",
+          "gloss": "contract, agreement"
         }
       ]
     },
@@ -2789,7 +2770,7 @@
       "meanings": [
         {
           "en": "take",
-          "note": "Common masculine noun meaning 'take' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2861,12 +2842,12 @@
       ],
       "related": [
         {
-          "word": "без дубл",
-          "gloss": "without take"
+          "word": "съёмка",
+          "gloss": "shoot, filming"
         },
         {
-          "word": "наш дубль",
-          "gloss": "our take"
+          "word": "сцена",
+          "gloss": "scene"
         }
       ]
     },
@@ -2882,11 +2863,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2915,7 +2896,7 @@
       "meanings": [
         {
           "en": "what for, why",
-          "note": "Asks about the purpose. Core Russian adv meaning 'what for, why' in everyday speech."
+          "note": "Asks about the purpose."
         }
       ],
       "forms": null,
@@ -3059,7 +3040,7 @@
       "meanings": [
         {
           "en": "camera, video camera",
-          "note": "Device for recording video. Common feminine noun meaning 'camera, video camera' in everyday Russian."
+          "note": "Device for recording video."
         }
       ],
       "forms": {
@@ -3140,7 +3121,7 @@
       "meanings": [
         {
           "en": "boy",
-          "note": "A male child. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'boy' in everyday Russian."
+          "note": "A male child."
         },
         {
           "en": "boy!",
@@ -3223,14 +3204,18 @@
     },
     "мотор": {
       "lemma": "мотор",
-      "stress": "мо́тор",
+      "stress": "мото́р",
       "pos": "noun",
-      "gloss": "rolling / motor",
+      "gloss": "motor, engine; (film set) rolling!",
       "gender": "m",
       "meanings": [
         {
-          "en": "rolling / motor",
-          "note": "Common masculine noun meaning 'rolling / motor' in everyday Russian."
+          "en": "motor, engine",
+          "note": ""
+        },
+        {
+          "en": "rolling! (film set command)",
+          "note": "Камера, мотор! = Camera, rolling!"
         }
       ],
       "forms": {
@@ -3288,26 +3273,30 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Главное, чтобы за квартирой смотрели, пока он за границей.",
-          "trans": "The main thing is that you look after the apartment while he is abroad."
-        },
-        {
-          "text": "Сейчас посмотрим, кто испугался!",
-          "trans": "We will see right now who got scared!"
-        },
-        {
-          "text": "Камера, мотор идет, поехали!",
+          "text": "Камера, мотор идёт, поехали!",
           "trans": "Camera, rolling, let's go!"
+        },
+        {
+          "text": "Камера, мотор, дубль два, начали!",
+          "trans": "Camera, rolling, take two, action!"
+        },
+        {
+          "text": "У машины заглох мотор.",
+          "trans": "The car's engine stalled."
         }
       ],
       "related": [
         {
-          "word": "без мото",
-          "gloss": "without rolling"
+          "word": "двигатель",
+          "gloss": "engine"
         },
         {
-          "word": "наш мотор",
-          "gloss": "our rolling"
+          "word": "камера",
+          "gloss": "camera"
+        },
+        {
+          "word": "дубль",
+          "gloss": "take"
         }
       ]
     },
@@ -3540,15 +3529,15 @@
         }
       ]
     },
-    "несложный": {
-      "lemma": "несложный",
-      "stress": "несло́жный",
+    "несложно": {
+      "lemma": "несложно",
+      "stress": "несло́жно",
       "pos": "adv",
-      "gloss": "not hard / easy",
+      "gloss": "not hard, easy",
       "meanings": [
         {
-          "en": "not hard / easy",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'сложный')."
+          "en": "not difficult, easy (to do)",
+          "note": "Often predicative: Это было несложно."
         }
       ],
       "forms": null,
@@ -3556,21 +3545,25 @@
       "examples": [
         {
           "text": "Это было несложно.",
-          "trans": "That was not hard."
+          "trans": "That wasn't hard."
         },
         {
-          "text": "Костя сказал это совершенно несложный и спокойно.",
-          "trans": "Kostya said this quite not hard and calmly."
+          "text": "Приготовить этот соус совсем несложно.",
+          "trans": "Making this sauce is not hard at all."
         }
       ],
       "related": [
         {
-          "word": "очень несложный",
-          "gloss": "very not hard"
+          "word": "сложно",
+          "gloss": "difficult"
         },
         {
-          "word": "так несложный",
-          "gloss": "so not hard"
+          "word": "легко",
+          "gloss": "easy"
+        },
+        {
+          "word": "несложный",
+          "gloss": "simple, not difficult"
         }
       ]
     },
@@ -3703,7 +3696,7 @@
       "meanings": [
         {
           "en": "lunch, dinner (midday)",
-          "note": "Перерыв на обед = lunch break. Common masculine noun meaning 'lunch, midday meal' in everyday Russian."
+          "note": "Перерыв на обед = lunch break."
         }
       ],
       "forms": {
@@ -3969,7 +3962,7 @@
       "meanings": [
         {
           "en": "pistol, handgun",
-          "note": "Common masculine noun meaning 'pistol, handgun' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4056,7 +4049,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -4161,7 +4154,7 @@
       "meanings": [
         {
           "en": "to go, to set off (by car, bus, train)",
-          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to go (by vehicle), to set off', paired with 'ехать'."
+          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -4273,7 +4266,7 @@
       "meanings": [
         {
           "en": "disgrace",
-          "note": "Declinable masculine noun meaning 'disgrace', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -4342,7 +4335,11 @@
       "related": [
         {
           "word": "позорный",
-          "gloss": "disgrace"
+          "gloss": "shameful, disgraceful"
+        },
+        {
+          "word": "позорить",
+          "gloss": "to disgrace"
         }
       ]
     },
@@ -4387,7 +4384,7 @@
       "meanings": [
         {
           "en": "after",
-          "note": "Preposition + genitive, or adverb. Core Russian prep meaning 'after' in everyday speech."
+          "note": "Preposition + genitive, or adverb."
         }
       ],
       "forms": null,
@@ -4427,7 +4424,7 @@
       "meanings": [
         {
           "en": "to continue, to go on (with)",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'должать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to continue', paired with 'продолжить'."
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'должать')."
         }
       ],
       "forms": {
@@ -4536,7 +4533,7 @@
       "meanings": [
         {
           "en": "to continue, carry on",
-          "note": "A business, conversation, or work. Used as a perfective (single completed action) verb meaning 'to continue, to carry on', paired with 'продолжать'."
+          "note": "A business, conversation, or work."
         }
       ],
       "forms": {
@@ -4649,7 +4646,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4943,15 +4940,15 @@
       "meanings": [
         {
           "en": "to take off",
-          "note": "Clothes, a ring. Used as an imperfective (ongoing/repeated action) verb meaning 'to take off; to film; to rent', paired with 'снять'."
+          "note": "Clothes, a ring."
         },
         {
           "en": "to film, to photograph",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to take off; to film; to rent', paired with 'снять'."
+          "note": ""
         },
         {
           "en": "to rent",
-          "note": "Снимать квартиру. Used as an imperfective (ongoing/repeated action) verb meaning 'to take off; to film; to rent', paired with 'снять'."
+          "note": "Снимать квартиру."
         }
       ],
       "forms": {
@@ -5042,15 +5039,15 @@
       "related": [
         {
           "word": "снять",
-          "gloss": "to film"
+          "gloss": "to take off; to film; to rent (pf)"
         },
         {
-          "word": "принимать",
-          "gloss": "to receive"
+          "word": "съёмка",
+          "gloss": "filming, shoot"
         },
         {
-          "word": "заниматься",
-          "gloss": "to be busy with"
+          "word": "снимок",
+          "gloss": "photo, shot"
         }
       ]
     },
@@ -5064,15 +5061,15 @@
       "meanings": [
         {
           "en": "to film, to take a photo/video of",
-          "note": "Снять на телефон. Used as a perfective (single completed action) verb meaning 'to film, to photograph; to take off; to rent', paired with 'снимать'."
+          "note": "Снять на телефон."
         },
         {
           "en": "to take off, to remove",
-          "note": "Clothing. Used as a perfective (single completed action) verb meaning 'to film, to photograph; to take off; to rent', paired with 'снимать'."
+          "note": "Clothing."
         },
         {
           "en": "to rent",
-          "note": "A flat or room. Used as a perfective (single completed action) verb meaning 'to film, to photograph; to take off; to rent', paired with 'снимать'."
+          "note": "A flat or room."
         }
       ],
       "forms": {
@@ -5163,15 +5160,15 @@
       "related": [
         {
           "word": "снимать",
-          "gloss": "to take off"
+          "gloss": "to take off; to film (impf)"
         },
         {
-          "word": "понять",
-          "gloss": "to understand"
+          "word": "снимок",
+          "gloss": "photo, shot"
         },
         {
-          "word": "принять",
-          "gloss": "to receive"
+          "word": "съёмка",
+          "gloss": "filming"
         }
       ]
     },
@@ -5188,7 +5185,7 @@
         },
         {
           "en": "scene (in a play, film, or argument)",
-          "note": "Common feminine noun meaning 'stage; scene' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5339,7 +5336,7 @@
       "meanings": [
         {
           "en": "clever, smart, intelligent",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('clever, smart')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5382,10 +5379,10 @@
           {
             "cells": [
               "accusative",
-              "умный",
+              "умный / умного",
               "умную",
               "умное",
-              "умные"
+              "умные / умных"
             ]
           },
           {

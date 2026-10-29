@@ -44,7 +44,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         }
       ]
     },
@@ -89,8 +89,8 @@
           "lemma": "лошадь",
           "pos": "noun",
           "stress": "ло́шади",
-          "gloss": "from the horse",
-          "gram": "genitive / prepositional singular, feminine"
+          "gloss": "horse(s)",
+          "gram": "genitive singular (с лошади) / nominative plural"
         },
         {
           "t": "кусаются!",
@@ -243,7 +243,7 @@
           "lemma": "провериться",
           "pos": "verb",
           "stress": "прове́рюсь",
-          "gloss": "I will get checked",
+          "gloss": "I'll get tested",
           "gram": "1st person singular future"
         }
       ]
@@ -266,7 +266,7 @@
           "pos": "det",
           "stress": null,
           "gloss": "my",
-          "gram": "prepositional, neuter singular"
+          "gram": "prepositional singular, masculine / neuter"
         },
         {
           "t": "отеле",
@@ -432,11 +432,11 @@
         },
         {
           "t": "молодых.",
-          "lemma": "молодой",
-          "pos": "adj",
+          "lemma": "молодые",
+          "pos": "noun",
           "stress": "молоды́х",
-          "gloss": "young",
-          "gram": "nominative masculine singular"
+          "gloss": "the newlyweds",
+          "gram": "accusative plural"
         }
       ]
     },
@@ -481,8 +481,8 @@
           "lemma": "отменить",
           "pos": "verb",
           "stress": "отмени́ли",
-          "gloss": "to cancel",
-          "gram": "past tense, plural"
+          "gloss": "cancelled",
+          "gram": "past tense, plural, perfective"
         }
       ]
     },
@@ -620,7 +620,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         }
       ]
     },
@@ -665,8 +665,8 @@
           "lemma": "лошадь",
           "pos": "noun",
           "stress": "ло́шади",
-          "gloss": "from the horse",
-          "gram": "genitive / prepositional singular, feminine"
+          "gloss": "horse(s)",
+          "gram": "genitive singular (с лошади) / nominative plural"
         },
         {
           "t": "кусаются!",
@@ -819,7 +819,7 @@
           "lemma": "провериться",
           "pos": "verb",
           "stress": "прове́рюсь",
-          "gloss": "I will get checked",
+          "gloss": "I'll get tested",
           "gram": "1st person singular future"
         }
       ]
@@ -842,7 +842,7 @@
           "pos": "det",
           "stress": null,
           "gloss": "my",
-          "gram": "prepositional, neuter singular"
+          "gram": "prepositional singular, masculine / neuter"
         },
         {
           "t": "отеле",
@@ -1008,11 +1008,11 @@
         },
         {
           "t": "молодых.",
-          "lemma": "молодой",
-          "pos": "adj",
+          "lemma": "молодые",
+          "pos": "noun",
           "stress": "молоды́х",
-          "gloss": "young",
-          "gram": "nominative masculine singular"
+          "gloss": "the newlyweds",
+          "gram": "accusative plural"
         }
       ]
     },
@@ -1057,8 +1057,8 @@
           "lemma": "отменить",
           "pos": "verb",
           "stress": "отмени́ли",
-          "gloss": "to cancel",
-          "gram": "past tense, plural"
+          "gloss": "cancelled",
+          "gram": "past tense, plural, perfective"
         }
       ]
     },
@@ -1196,7 +1196,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "friend",
-          "gram": "nominative singular in address"
+          "gram": "nominative singular"
         }
       ]
     },
@@ -1241,8 +1241,8 @@
           "lemma": "лошадь",
           "pos": "noun",
           "stress": "ло́шади",
-          "gloss": "from the horse",
-          "gram": "genitive / prepositional singular, feminine"
+          "gloss": "horse(s)",
+          "gram": "genitive singular (с лошади) / nominative plural"
         },
         {
           "t": "кусаются!",
@@ -1395,7 +1395,7 @@
           "lemma": "провериться",
           "pos": "verb",
           "stress": "прове́рюсь",
-          "gloss": "I will get checked",
+          "gloss": "I'll get tested",
           "gram": "1st person singular future"
         }
       ]
@@ -1418,7 +1418,7 @@
           "pos": "det",
           "stress": null,
           "gloss": "my",
-          "gram": "prepositional, neuter singular"
+          "gram": "prepositional singular, masculine / neuter"
         },
         {
           "t": "отеле",
@@ -1584,11 +1584,11 @@
         },
         {
           "t": "молодых.",
-          "lemma": "молодой",
-          "pos": "adj",
+          "lemma": "молодые",
+          "pos": "noun",
           "stress": "молоды́х",
-          "gloss": "young",
-          "gram": "nominative masculine singular"
+          "gloss": "the newlyweds",
+          "gram": "accusative plural"
         }
       ]
     },
@@ -1633,8 +1633,8 @@
           "lemma": "отменить",
           "pos": "verb",
           "stress": "отмени́ли",
-          "gloss": "to cancel",
-          "gram": "past tense, plural"
+          "gloss": "cancelled",
+          "gram": "past tense, plural, perfective"
         }
       ]
     },
@@ -1756,14 +1756,18 @@
   "lexicon": {
     "бешенство": {
       "lemma": "бешенство",
-      "stress": "беше́нство",
+      "stress": "бе́шенство",
       "pos": "noun",
-      "gloss": "rabies",
+      "gloss": "rabies; rage, fury",
       "gender": "n",
       "meanings": [
         {
           "en": "rabies",
-          "note": "Common neuter noun meaning 'rabies' in everyday Russian."
+          "note": ""
+        },
+        {
+          "en": "rage, fury",
+          "note": "приводить в бешенство = to infuriate"
         }
       ],
       "forms": {
@@ -1822,33 +1826,37 @@
       "examples": [
         {
           "text": "Сначала я на бешенство проверюсь.",
-          "trans": "First I will get checked for rabies."
+          "trans": "First I'll get myself checked for rabies."
         },
         {
-          "text": "На кухне отеля всегда есть бешенство.",
-          "trans": "In the hotel kitchen there is always rabies."
+          "text": "Его это приводит в бешенство.",
+          "trans": "That drives him into a rage."
         }
       ],
       "related": [
         {
-          "word": "без бешенств",
-          "gloss": "without rabies"
+          "word": "бешеный",
+          "gloss": "mad, rabid"
         },
         {
-          "word": "наш бешенство",
-          "gloss": "our rabies"
+          "word": "бесить",
+          "gloss": "to infuriate"
         }
       ]
     },
     "бешеный": {
       "lemma": "бешеный",
-      "stress": "беше́ный",
+      "stress": "бе́шеный",
       "pos": "adj",
-      "gloss": "mad / rabid",
+      "gloss": "mad, rabid; furious",
       "meanings": [
         {
-          "en": "mad / rabid",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('mad / rabid')."
+          "en": "rabid, mad (of an animal)",
+          "note": ""
+        },
+        {
+          "en": "furious, frantic, crazy (speed, prices)",
+          "note": "бешеные деньги = crazy money"
         }
       ],
       "forms": {
@@ -1891,10 +1899,10 @@
           {
             "cells": [
               "accusative",
-              "бешеный",
+              "бешеный / бешеного",
               "бешеную",
               "бешеное",
-              "бешеные"
+              "бешеные / бешеных"
             ]
           },
           {
@@ -1920,22 +1928,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Сначала я на бешенство проверюсь.",
-          "trans": "First I will get checked for rabies."
+          "text": "В моём отеле бешеная лошадь!",
+          "trans": "There's a mad horse in my hotel!"
         },
         {
-          "text": "В моём отеле бешеная лошадь!",
-          "trans": "There is a mad horse in my hotel!"
+          "text": "Он ехал с бешеной скоростью.",
+          "trans": "He was driving at a crazy speed."
         }
       ],
       "related": [
         {
-          "word": "бешено",
-          "gloss": "madly (adverbial form)"
+          "word": "бешенство",
+          "gloss": "rabies; rage"
         },
         {
-          "word": "очень бешеный",
-          "gloss": "very mad"
+          "word": "бешено",
+          "gloss": "furiously"
+        },
+        {
+          "word": "бесить",
+          "gloss": "to infuriate"
         }
       ]
     },
@@ -1989,7 +2001,7 @@
       "meanings": [
         {
           "en": "after all, you know",
-          "note": "Adds a reason or an obvious truth. Core Russian part meaning 'after all, you know' in everyday speech."
+          "note": "Adds a reason or an obvious truth."
         }
       ],
       "forms": null,
@@ -2025,11 +2037,11 @@
       "meanings": [
         {
           "en": "to drink up, to have a drink of",
-          "note": "+ accusative or partitive genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить'). Used as a perfective (single completed action) verb meaning 'to drink (up); to have a drink', paired with 'пить'."
+          "note": "+ accusative or partitive genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить')."
         },
         {
           "en": "to have an alcoholic drink",
-          "note": "Used without an object. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить'). Used as a perfective (single completed action) verb meaning 'to drink (up); to have a drink', paired with 'пить'."
+          "note": "Used without an object. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить')."
         }
       ],
       "forms": {
@@ -2132,49 +2144,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2185,11 +2154,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2280,15 +2253,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2297,7 +2270,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -2382,11 +2354,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2424,7 +2396,7 @@
       "meanings": [
         {
           "en": "expensive",
-          "note": "to a loved one, and at the start of letters"
+          "note": ""
         },
         {
           "en": "dear",
@@ -2471,10 +2443,10 @@
           {
             "cells": [
               "accusative",
-              "дорогой/дорогого",
+              "дорогой / дорогого",
               "дорогую",
               "дорогое",
-              "дорогие/дорогих"
+              "дорогие / дорогих"
             ]
           },
           {
@@ -2497,29 +2469,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "дорог",
-                "дорога",
-                "дорого",
-                "дороги"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Это дорогая одежда.",
@@ -2550,7 +2500,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2635,11 +2585,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2715,11 +2665,11 @@
       "meanings": [
         {
           "en": "because of, on account of",
-          "note": "+ genitive. Core Russian prep meaning 'because of; from behind' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "from behind",
-          "note": "+ genitive. Core Russian prep meaning 'because of; from behind' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2757,7 +2707,7 @@
       "meanings": [
         {
           "en": "or",
-          "note": "Core Russian conj meaning 'or' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2796,7 +2746,7 @@
       "meanings": [
         {
           "en": "stable",
-          "note": "Common feminine noun meaning 'stable' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2818,7 +2768,7 @@
             "cells": [
               "genitive",
               "конюшни",
-              "конюшнь"
+              "конюшен"
             ]
           },
           {
@@ -2864,12 +2814,16 @@
       ],
       "related": [
         {
-          "word": "без конюшн",
-          "gloss": "without stable"
+          "word": "конь",
+          "gloss": "horse"
         },
         {
-          "word": "наш конюшня",
-          "gloss": "our stable"
+          "word": "лошадь",
+          "gloss": "horse"
+        },
+        {
+          "word": "конюх",
+          "gloss": "groom, stable hand"
         }
       ]
     },
@@ -2881,7 +2835,7 @@
       "meanings": [
         {
           "en": "beautiful, pretty, handsome",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('beautiful, pretty, handsome')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2924,10 +2878,10 @@
           {
             "cells": [
               "accusative",
-              "красивый",
+              "красивый / красивого",
               "красивую",
               "красивое",
-              "красивые"
+              "красивые / красивых"
             ]
           },
           {
@@ -2976,99 +2930,21 @@
         }
       ]
     },
-    "кто": {
-      "lemma": "кто",
-      "stress": "кто",
-      "pos": "pron",
-      "gloss": "who",
-      "meanings": [
-        {
-          "en": "who",
-          "note": "in the instrumental: 'кем ты работаешь?'"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "кто"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "кого"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "кому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "кого"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "кем"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "ком"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Кто ваши конкуренты?",
-          "trans": "Who are your rivals?"
-        },
-        {
-          "text": "Кто там?",
-          "trans": "Who's there?"
-        },
-        {
-          "text": "Аркадий Борисович, кто ваши конкуренты?",
-          "trans": "Arkady Borisovich, who are your rivals?"
-        }
-      ],
-      "related": [
-        {
-          "word": "кто-то",
-          "gloss": "someone"
-        },
-        {
-          "word": "никто",
-          "gloss": "nobody"
-        }
-      ]
-    },
     "кусаться": {
       "lemma": "кусаться",
       "stress": "куса́ться",
       "pos": "verb",
-      "gloss": "bites",
+      "gloss": "to bite (be a biter)",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "bites",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'bites'."
+          "en": "to bite, to be prone to biting",
+          "note": "собака кусается = the dog bites"
+        },
+        {
+          "en": "to bicker, go at each other",
+          "note": "colloquial"
         }
       ],
       "forms": {
@@ -3123,22 +2999,39 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "кусайся",
+                "кусайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и кусаться вовремя.",
-          "trans": "We need to do everything and bites on time."
+          "text": "Не бойся, мама не кусается.",
+          "trans": "Don't be afraid, Mum doesn't bite."
         },
         {
-          "text": "На нашей кухне все умеют кусаться.",
-          "trans": "In our kitchen everyone knows how to bites."
+          "text": "У тебя в номере лошади кусаются!",
+          "trans": "The horses in your room bite!"
         }
       ],
       "related": [
         {
-          "word": "не кусаться",
-          "gloss": "not to bites (negated infinitive)"
+          "word": "кусать",
+          "gloss": "to bite"
         }
       ]
     },
@@ -3152,7 +3045,7 @@
       "meanings": [
         {
           "en": "to fly, go flying",
-          "note": "Motion in one direction. Used as an imperfective (ongoing/repeated action) verb meaning 'to fly (in one direction)', paired with 'полететь'."
+          "note": "Motion in one direction."
         }
       ],
       "forms": {
@@ -3259,12 +3152,17 @@
       "lemma": "лошадь",
       "stress": "ло́шадь",
       "pos": "noun",
-      "gloss": "horses / horsepower",
-      "gender": "m",
+      "gloss": "horse; (colloquial) horsepower",
+      "gender": "f",
+      "animacy": "anim",
       "meanings": [
         {
-          "en": "horses / horsepower",
-          "note": "Common masculine noun meaning 'horses / horsepower' in everyday Russian."
+          "en": "horse",
+          "note": "работать как лошадь = to work like a horse"
+        },
+        {
+          "en": "(colloquial, plural) horsepower",
+          "note": "двести лошадей = 200 hp"
         }
       ],
       "forms": {
@@ -3300,14 +3198,14 @@
             "cells": [
               "accusative",
               "лошадь",
-              "лошади"
+              "лошадей"
             ]
           },
           {
             "cells": [
               "instrumental",
               "лошадью",
-              "лошадями"
+              "лошадьми"
             ]
           },
           {
@@ -3322,12 +3220,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Двести лошадей, отличный мотоцикл!",
-          "trans": "Two hundred horsepower, an excellent motorcycle!"
+          "text": "Макс, ты зачем вообще на лошадь залез?",
+          "trans": "Max, why did you even get on a horse?"
         },
         {
-          "text": "На кухне ресторана всегда есть лошадь.",
-          "trans": "In the restaurant kitchen there is always horses."
+          "text": "Ты только что сильно упал с лошади.",
+          "trans": "You just had a bad fall from a horse."
+        },
+        {
+          "text": "Двести лошадей, отличный мотоцикл!",
+          "trans": "Two hundred horsepower, a great motorbike!"
         }
       ],
       "related": []
@@ -3435,78 +3337,66 @@
         }
       ]
     },
-    "молодой": {
-      "lemma": "молодой",
-      "stress": "молодо́й",
-      "pos": "adj",
-      "gloss": "young",
+    "молодые": {
+      "lemma": "молодые",
+      "stress": "молоды́е",
+      "pos": "noun",
+      "gloss": "the newlyweds",
+      "number": "pl",
+      "animacy": "anim",
       "meanings": [
         {
-          "en": "young",
-          "note": "молодой человек = young man (polite address)"
+          "en": "the newlyweds",
+          "note": ""
         }
       ],
       "forms": {
         "title": "Declension",
         "columns": [
           "",
-          "m",
-          "f",
-          "n",
+          "sg",
           "pl"
         ],
         "rows": [
           {
             "cells": [
               "nominative",
-              "молодой",
-              "молодая",
-              "молодое",
+              "—",
               "молодые"
             ]
           },
           {
             "cells": [
               "genitive",
-              "молодого",
-              "молодой",
-              "молодого",
+              "—",
               "молодых"
             ]
           },
           {
             "cells": [
               "dative",
-              "молодому",
-              "молодой",
-              "молодому",
+              "—",
               "молодым"
             ]
           },
           {
             "cells": [
               "accusative",
-              "молодого",
-              "молодую",
-              "молодое",
+              "—",
               "молодых"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "молодым",
-              "молодой",
-              "молодым",
+              "—",
               "молодыми"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "молодом",
-              "молодой",
-              "молодом",
+              "—",
               "молодых"
             ]
           }
@@ -3515,26 +3405,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Молодой человек, как на тест-драйв записаться?",
-          "trans": "Young man, how do I sign up for a test drive?"
+          "text": "Друзья, давайте выпьем за молодых и за нашу победу!",
+          "trans": "Friends, let's drink to the newlyweds and to our victory!"
         },
         {
-          "text": "У них молодая семья.",
-          "trans": "They have a young family."
-        },
-        {
-          "text": "Молодой человек, а как на тест-драйв записаться?",
-          "trans": "Young man, how do I sign up for a test drive?"
+          "text": "Мы пьём за наших молодых.",
+          "trans": "We're drinking to our newlyweds."
         }
       ],
       "related": [
         {
-          "word": "молодец",
-          "gloss": "well done"
+          "word": "молодожёны",
+          "gloss": "newlyweds"
         },
         {
-          "word": "молодёжь",
-          "gloss": "youth"
+          "word": "свадьба",
+          "gloss": "wedding"
+        },
+        {
+          "word": "молодой",
+          "gloss": "young"
         }
       ]
     },
@@ -3812,7 +3702,7 @@
       "meanings": [
         {
           "en": "bad weather",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'погода'). Common feminine noun meaning 'bad weather' in everyday Russian."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'погода')."
         }
       ],
       "forms": {
@@ -3871,21 +3761,21 @@
       "examples": [
         {
           "text": "Самолёт не летит из-за непогоды.",
-          "trans": "The plane is not flying because of bad weather."
+          "trans": "The plane isn't flying because of bad weather."
         },
         {
-          "text": "На кухне отеля всегда есть непогода.",
-          "trans": "In the hotel kitchen there is always bad weather."
+          "text": "В непогоду лучше сидеть дома.",
+          "trans": "In bad weather it's better to stay home."
         }
       ],
       "related": [
         {
-          "word": "без непогод",
-          "gloss": "without bad weather"
+          "word": "погода",
+          "gloss": "weather"
         },
         {
-          "word": "наш непогода",
-          "gloss": "our bad weather"
+          "word": "буря",
+          "gloss": "storm"
         }
       ]
     },
@@ -3898,15 +3788,15 @@
       "meanings": [
         {
           "en": "number",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         },
         {
           "en": "phone number",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         },
         {
           "en": "hotel room",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4106,12 +3996,12 @@
       "lemma": "отель",
       "stress": "оте́ль",
       "pos": "noun",
-      "gloss": "of the hotel",
+      "gloss": "hotel",
       "gender": "m",
       "meanings": [
         {
-          "en": "of the hotel",
-          "note": "Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common masculine noun meaning 'of the hotel' in everyday Russian."
+          "en": "hotel",
+          "note": ""
         }
       ],
       "forms": {
@@ -4169,19 +4059,32 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это гематома, она и стала причиной потери памяти.",
-          "trans": "That is a hematoma, it became the cause of memory loss."
+          "text": "Наш отель должен удивить гостей.",
+          "trans": "Our hotel has to impress the guests."
         },
         {
-          "text": "Андрей, положи её к себе, а то и эту потеряю.",
-          "trans": "Andrey, put it in your pocket, or I will lose this one too."
+          "text": "В нашем отеле действует новая услуга.",
+          "trans": "Our hotel has a new service."
         },
         {
-          "text": "Я хотел бы просмотреть все документы по закупке продуктов.",
-          "trans": "I would like to review all the documents on food purchases."
+          "text": "Кто бы мог подумать, что буду управлять отелем?",
+          "trans": "Who'd have thought I'd be running a hotel?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "гостиница",
+          "gloss": "hotel"
+        },
+        {
+          "word": "номер",
+          "gloss": "hotel room"
+        },
+        {
+          "word": "постоялец",
+          "gloss": "hotel guest"
+        }
+      ]
     },
     "отменить": {
       "lemma": "отменить",
@@ -4193,7 +4096,7 @@
       "meanings": [
         {
           "en": "to cancel, to call off",
-          "note": "Used as a perfective (single completed action) verb meaning 'to cancel', paired with 'отменять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4284,7 +4187,11 @@
       "related": [
         {
           "word": "отменять",
-          "gloss": "cancels"
+          "gloss": "to cancel (impf)"
+        },
+        {
+          "word": "отмена",
+          "gloss": "cancellation"
         },
         {
           "word": "заменить",
@@ -4339,11 +4246,11 @@
       "meanings": [
         {
           "en": "pair, couple",
-          "note": "Common feminine noun meaning 'pair, couple, match' in everyday Russian."
+          "note": ""
         },
         {
           "en": "match (in a relationship: я не пара вам = I'm no match for you)",
-          "note": "Common feminine noun meaning 'pair, couple, match' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4425,7 +4332,7 @@
       "meanings": [
         {
           "en": "to drink",
-          "note": "Пить чай = to drink tea. Used as an imperfective (ongoing/repeated action) verb meaning 'to drink', paired with 'выпить'."
+          "note": "Пить чай = to drink tea."
         },
         {
           "en": "to drink (alcohol)",
@@ -4543,7 +4450,7 @@
       "meanings": [
         {
           "en": "to have a talk, to speak (with someone)",
-          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to have a talk', paired with 'говорить'."
+          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить')."
         }
       ],
       "forms": {
@@ -4655,7 +4562,7 @@
       "meanings": [
         {
           "en": "weather",
-          "note": "Common feminine noun meaning 'weather' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4713,26 +4620,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Рыжий, погоди.",
-          "trans": "Redhead, wait."
+          "text": "Ох, Елена Павловна, какая прекрасная погода!",
+          "trans": "Oh, Elena Pavlovna, what lovely weather!"
+        },
+        {
+          "text": "Погода там ужасная, сильный тайфун.",
+          "trans": "The weather there is awful, a strong typhoon."
         },
         {
           "text": "Ты так погоду смотрела?",
-          "trans": "Were you checking the weather like that?"
-        },
-        {
-          "text": "Умница! Пойдём поговорим.",
-          "trans": "Clever girl! Let's go talk."
+          "trans": "Is that how you checked the weather?"
         }
       ],
       "related": [
         {
-          "word": "без погод",
-          "gloss": "without weather"
+          "word": "прогноз погоды",
+          "gloss": "weather forecast"
         },
         {
-          "word": "наш погода",
-          "gloss": "our weather"
+          "word": "непогода",
+          "gloss": "bad weather"
         }
       ]
     },
@@ -4744,7 +4651,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -4778,130 +4685,17 @@
         }
       ]
     },
-    "привести": {
-      "lemma": "привести",
-      "stress": "привести́",
-      "pos": "verb",
-      "gloss": "to bring, to lead (someone somewhere)",
-      "aspect": "pf",
-      "pair": "приводить",
-      "meanings": [
-        {
-          "en": "to bring, lead (someone somewhere)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'вести'). Used as a perfective (single completed action) verb meaning 'to bring, to lead (someone somewhere)', paired with 'приводить'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "приведу",
-              "приведём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "приведёшь",
-              "приведёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "приведёт",
-              "приведут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "привёл",
-                "привела",
-                "привело",
-                "привели"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "приведи",
-                "приведите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Приведёте его завтра в больницу.",
-          "trans": "Bring him tomorrow to the hospital."
-        },
-        {
-          "text": "Отец привёл сына к врачу.",
-          "trans": "The father brought his son to the doctor."
-        },
-        {
-          "text": "Приведёте ребёнка с утра.",
-          "trans": "You will bring the child in the morning."
-        }
-      ],
-      "related": [
-        {
-          "word": "приводить",
-          "gloss": "to bring"
-        },
-        {
-          "word": "провести",
-          "gloss": "to spend"
-        },
-        {
-          "word": "перевести",
-          "gloss": "to transfer"
-        }
-      ]
-    },
     "провериться": {
       "lemma": "провериться",
-      "stress": "провери́ться",
+      "stress": "прове́риться",
       "pos": "verb",
-      "gloss": "I will get checked",
+      "gloss": "to get checked, get tested (medically)",
       "aspect": "pf",
-      "pair": null,
+      "pair": "проверяться",
       "meanings": [
         {
-          "en": "I will get checked",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'вериться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'I will get checked'."
+          "en": "to get oneself checked, have a medical test",
+          "note": "провериться на что = get tested for something"
         }
       ],
       "forms": {
@@ -4956,22 +4750,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "проверься",
+                "проверьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и провериться вовремя.",
-          "trans": "We need to do everything and I will get checked on time."
+          "text": "Сначала я на бешенство проверюсь.",
+          "trans": "First I'll get tested for rabies."
         },
         {
-          "text": "На нашей кухне все умеют провериться.",
-          "trans": "In our kitchen everyone knows how to I will get checked."
+          "text": "Тебе надо провериться у врача.",
+          "trans": "You need to get checked by a doctor."
         }
       ],
       "related": [
         {
-          "word": "не провериться",
-          "gloss": "not to I will get checked (negated infinitive)"
+          "word": "проверить",
+          "gloss": "to check"
+        },
+        {
+          "word": "проверка",
+          "gloss": "check, test"
         }
       ]
     },
@@ -5323,7 +5138,7 @@
       "meanings": [
         {
           "en": "strong, powerful (also used as a noun: the strong)",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('strong, powerful')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5366,10 +5181,10 @@
           {
             "cells": [
               "accusative",
-              "сильный",
+              "сильный / сильного",
               "сильную",
               "сильное",
-              "сильные"
+              "сильные / сильных"
             ]
           },
           {
@@ -5432,7 +5247,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5523,15 +5338,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -5568,50 +5383,16 @@
       ],
       "related": []
     },
-    "сюда": {
-      "lemma": "сюда",
-      "stress": "сюда́",
-      "pos": "adv",
-      "gloss": "here (to this place)",
-      "meanings": [
-        {
-          "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай сюда ключи.",
-          "trans": "Give me the keys."
-        },
-        {
-          "text": "Иди сюда!",
-          "trans": "Come here!"
-        },
-        {
-          "text": "На белом? Давай сюда ключи.",
-          "trans": "The white one? Give me the keys."
-        }
-      ],
-      "related": [
-        {
-          "word": "отсюда",
-          "gloss": "from here"
-        }
-      ]
-    },
     "тайфун": {
       "lemma": "тайфун",
-      "stress": "та́йфун",
+      "stress": "тайфу́н",
       "pos": "noun",
       "gloss": "typhoon",
       "gender": "m",
       "meanings": [
         {
           "en": "typhoon",
-          "note": "Common masculine noun meaning 'typhoon' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5673,18 +5454,18 @@
           "trans": "The weather there is terrible, a strong typhoon."
         },
         {
-          "text": "На кухне отеля всегда есть тайфун.",
-          "trans": "In the hotel kitchen there is always typhoon."
+          "text": "Рейс отменили из-за тайфуна.",
+          "trans": "The flight was cancelled because of the typhoon."
         }
       ],
       "related": [
         {
-          "word": "без тайфу",
-          "gloss": "without typhoon"
+          "word": "ураган",
+          "gloss": "hurricane"
         },
         {
-          "word": "наш тайфун",
-          "gloss": "our typhoon"
+          "word": "шторм",
+          "gloss": "storm"
         }
       ]
     },
@@ -5858,7 +5639,7 @@
       "meanings": [
         {
           "en": "horrible, terrible",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('horrible, terrible')."
+          "note": ""
         }
       ],
       "forms": {

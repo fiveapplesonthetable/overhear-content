@@ -77,7 +77,7 @@
         {
           "t": "спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -115,7 +115,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -196,7 +196,7 @@
           "pos": "det",
           "stress": "ва́шего",
           "gloss": "your",
-          "gram": "accusative singular, masculine animate"
+          "gram": "genitive / accusative singular, masculine"
         },
         {
           "t": "времени!",
@@ -535,7 +535,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         }
       ]
@@ -809,7 +809,7 @@
         {
           "t": "спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -874,7 +874,7 @@
           "pos": "det",
           "stress": "ва́шего",
           "gloss": "your",
-          "gram": "accusative singular, masculine animate"
+          "gram": "genitive / accusative singular, masculine"
         },
         {
           "t": "времени!",
@@ -1197,7 +1197,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         }
       ]
@@ -1455,7 +1455,7 @@
         {
           "t": "спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1493,7 +1493,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1574,7 +1574,7 @@
           "pos": "det",
           "stress": "ва́шего",
           "gloss": "your",
-          "gram": "accusative singular, masculine animate"
+          "gram": "genitive / accusative singular, masculine"
         },
         {
           "t": "времени!",
@@ -1913,7 +1913,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         }
       ]
@@ -2200,7 +2200,7 @@
       "meanings": [
         {
           "en": "carefully, neatly, gently",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2240,7 +2240,7 @@
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -2435,11 +2435,11 @@
       "meanings": [
         {
           "en": "to throw",
-          "note": "Бросать трубку = to hang up. Used as an imperfective (ongoing/repeated action) verb meaning 'to throw; to abandon', paired with 'бросить'."
+          "note": "бросать трубку = to hang up"
         },
         {
-          "en": "to leave, to abandon",
-          "note": "Бросать трубку = to hang up. Used as an imperfective (ongoing/repeated action) verb meaning 'to throw; to abandon', paired with 'бросить'."
+          "en": "to leave, to abandon; to quit",
+          "note": "бросать курить = to quit smoking"
         }
       ],
       "forms": {
@@ -2588,7 +2588,7 @@
       "meanings": [
         {
           "en": "your, yours",
-          "note": "Polite (вы) or plural. Core Russian det meaning 'your, yours (polite or plural)' in everyday speech."
+          "note": "Polite (вы) or plural."
         }
       ],
       "forms": {
@@ -2807,7 +2807,7 @@
       "meanings": [
         {
           "en": "time",
-          "note": "Проводить время = to spend time. Common neuter noun meaning 'time' in everyday Russian."
+          "note": "Проводить время = to spend time."
         }
       ],
       "forms": {
@@ -3005,11 +3005,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3100,15 +3104,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3122,11 +3126,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3243,11 +3247,11 @@
         },
         {
           "en": "here you are!",
-          "note": "imperative держи! when handing something over"
+          "note": ""
         },
         {
           "en": "catch!, grab (him)!",
-          "note": "Держи его!. Used as an imperfective (ongoing/repeated action) verb meaning 'to hold'."
+          "note": "Держи его!."
         }
       ],
       "forms": {
@@ -3467,11 +3471,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3511,11 +3515,11 @@
       "meanings": [
         {
           "en": "to come in",
-          "note": "Заходи! = come in!. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to come in, to drop in', paired with 'зайти'."
+          "note": "Заходи! = come in!. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'ходить')."
         },
         {
           "en": "to drop in",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to come in, to drop in', paired with 'зайти'."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'ходить')."
         }
       ],
       "forms": {
@@ -3802,7 +3806,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3854,6 +3858,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3970,7 +3991,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -4115,7 +4136,7 @@
       "meanings": [
         {
           "en": "to hug, to embrace each other",
-          "note": "Reciprocal reflexive verb. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to hug each other, to embrace', paired with 'обняться'."
+          "note": "Reciprocal reflexive verb."
         }
       ],
       "forms": {
@@ -4209,12 +4230,12 @@
           "gloss": "to hug each other"
         },
         {
-          "word": "принимать",
-          "gloss": "to receive"
+          "word": "обнимать",
+          "gloss": "to hug"
         },
         {
-          "word": "заниматься",
-          "gloss": "to be busy with"
+          "word": "объятия",
+          "gloss": "embrace"
         }
       ]
     },
@@ -4226,7 +4247,7 @@
       "meanings": [
         {
           "en": "huge, enormous, vast",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('huge, enormous')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4269,10 +4290,10 @@
           {
             "cells": [
               "accusative",
-              "огромный/огромного",
+              "огромный / огромного",
               "огромную",
               "огромное",
-              "огромные/огромных"
+              "огромные / огромных"
             ]
           },
           {
@@ -4506,7 +4527,7 @@
         },
         {
           "en": "to stay",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to remain, to be left', paired with 'оставаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4619,7 +4640,7 @@
       "meanings": [
         {
           "en": "to rest, relax, be on holiday",
-          "note": "Intransitive. Used as an imperfective (ongoing/repeated action) verb meaning 'to rest, relax', paired with 'отдохнуть'."
+          "note": "Intransitive."
         }
       ],
       "forms": {
@@ -4724,7 +4745,7 @@
       "meanings": [
         {
           "en": "to go, to set off (by car, bus, train)",
-          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to go (by vehicle), to set off', paired with 'ехать'."
+          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -4869,12 +4890,12 @@
       "pair": "слушать",
       "meanings": [
         {
-          "en": "to listen (a little, once)",
-          "note": "'Послушай!' / 'Послушайте!' = Listen! (to get attention)"
+          "en": "to listen (for a while), to listen to",
+          "note": "Perfective of слушать."
         },
         {
-          "en": "послушай",
-          "note": "Listen, look (to get attention). Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'слушать'). Used as a perfective (single completed action) verb meaning 'to listen (for a while)', paired with 'слушать'."
+          "en": "listen!, look! (послушай / послушайте)",
+          "note": "Used to get attention."
         }
       ],
       "forms": {
@@ -4987,7 +5008,7 @@
       "meanings": [
         {
           "en": "to spend, to use up",
-          "note": "Money, time, or effort. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'тратить'). Used as a perfective (single completed action) verb meaning 'to spend, to waste, to use up', paired with 'тратить'."
+          "note": "Money, time, or effort. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'тратить')."
         }
       ],
       "forms": {
@@ -5133,10 +5154,10 @@
           {
             "cells": [
               "accusative",
-              "прочий",
+              "прочий / прочего",
               "прочую",
               "прочее",
-              "прочие"
+              "прочие / прочих"
             ]
           },
           {
@@ -5227,10 +5248,10 @@
           {
             "cells": [
               "accusative",
-              "рентгеновский",
+              "рентгеновский / рентгеновского",
               "рентгеновскую",
               "рентгеновское",
-              "рентгеновские"
+              "рентгеновские / рентгеновских"
             ]
           },
           {
@@ -5313,7 +5334,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -5418,7 +5439,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -5535,7 +5556,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5626,15 +5647,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -5647,7 +5668,7 @@
       "meanings": [
         {
           "en": "photograph, shot, X-ray image",
-          "note": "Fleeting о in oblique forms. Common masculine noun meaning 'picture, photograph, X-ray image' in everyday Russian."
+          "note": "Fleeting о in oblique forms."
         }
       ],
       "forms": {
@@ -5729,11 +5750,11 @@
       "meanings": [
         {
           "en": "to get off, to step down",
-          "note": "Used as a perfective (single completed action) verb meaning 'to get off; (с ума) to go mad', paired with 'сходить'."
+          "note": ""
         },
         {
           "en": "сойти с ума = to go mad, to lose one's mind",
-          "note": "Used as a perfective (single completed action) verb meaning 'to get off; (с ума) to go mad', paired with 'сходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5824,11 +5845,11 @@
       "related": [
         {
           "word": "сходить",
-          "gloss": "to go"
+          "gloss": "to get off, go down (impf)"
         },
         {
-          "word": "подойти",
-          "gloss": "to come up"
+          "word": "сойти с ума",
+          "gloss": "to go mad"
         },
         {
           "word": "отойти",
@@ -5839,67 +5860,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -5925,11 +5894,11 @@
       "meanings": [
         {
           "en": "on purpose, deliberately",
-          "note": "Intentionally. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Intentionally."
         },
         {
           "en": "specially, specifically",
-          "note": "For a particular purpose. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "For a particular purpose."
         }
       ],
       "forms": null,
@@ -5967,7 +5936,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6009,7 +5978,7 @@
       "meanings": [
         {
           "en": "urgently, right away; predicative: it is urgent",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6043,7 +6012,7 @@
       "meanings": [
         {
           "en": "so much, so many",
-          "note": "+ genitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive."
         }
       ],
       "forms": null,

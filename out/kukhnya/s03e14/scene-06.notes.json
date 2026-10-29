@@ -205,7 +205,7 @@
           "lemma": "темнеть",
           "pos": "verb",
           "stress": "темне́ет",
-          "gloss": "gets dark",
+          "gloss": "is going dark",
           "gram": "3rd person singular present (imperfective)"
         },
         {
@@ -436,7 +436,7 @@
           "t": "Стасом",
           "lemma": "стас",
           "pos": "name",
-          "stress": null,
+          "stress": "ста́сом",
           "gloss": "with Stas",
           "gram": "instrumental singular, proper noun"
         },
@@ -575,8 +575,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "же",
@@ -853,7 +853,7 @@
           "lemma": "темнеть",
           "pos": "verb",
           "stress": "темне́ет",
-          "gloss": "gets dark",
+          "gloss": "is going dark",
           "gram": "3rd person singular present (imperfective)"
         },
         {
@@ -1084,7 +1084,7 @@
           "t": "Стасом",
           "lemma": "стас",
           "pos": "name",
-          "stress": null,
+          "stress": "ста́сом",
           "gloss": "with Stas",
           "gram": "instrumental singular, proper noun"
         },
@@ -1223,8 +1223,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "же",
@@ -1501,7 +1501,7 @@
           "lemma": "темнеть",
           "pos": "verb",
           "stress": "темне́ет",
-          "gloss": "gets dark",
+          "gloss": "is going dark",
           "gram": "3rd person singular present (imperfective)"
         },
         {
@@ -1732,7 +1732,7 @@
           "t": "Стасом",
           "lemma": "стас",
           "pos": "name",
-          "stress": null,
+          "stress": "ста́сом",
           "gloss": "with Stas",
           "gram": "instrumental singular, proper noun"
         },
@@ -1871,8 +1871,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "же",
@@ -1980,7 +1980,7 @@
       "meanings": [
         {
           "en": "to take",
-          "note": "Habitually or in general. Used as an imperfective (ongoing/repeated action) verb meaning 'to take', paired with 'взять'."
+          "note": "Habitually or in general."
         },
         {
           "en": "to take bribes",
@@ -2075,15 +2075,19 @@
       "related": [
         {
           "word": "взять",
-          "gloss": "to take"
+          "gloss": "to take (pf)"
         },
         {
           "word": "забрать",
-          "gloss": "to take back"
+          "gloss": "to take away, pick up"
         },
         {
-          "word": "убрать",
-          "gloss": "to remove"
+          "word": "брать трубку",
+          "gloss": "to answer the phone"
+        },
+        {
+          "word": "взятка",
+          "gloss": "bribe"
         }
       ]
     },
@@ -2434,84 +2438,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "всё-таки": {
       "lemma": "всё-таки",
       "stress": "всё-таки",
@@ -2633,11 +2559,11 @@
       "meanings": [
         {
           "en": "to go out, to come out",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to go out, to get out', paired with 'выйти'."
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ходить')."
         },
         {
           "en": "to get out (of prison, arrest)",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to go out, to get out', paired with 'выйти'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2916,11 +2842,11 @@
       "meanings": [
         {
           "en": "head",
-          "note": "An idiom for a big telling-off. Common feminine noun meaning 'head' in everyday Russian."
+          "note": ""
         },
         {
-          "en": "'голову оторвать' = to tear someone's head off",
-          "note": "An idiom for a big telling-off. Common feminine noun meaning 'head' in everyday Russian."
+          "en": "голову оторвать = to tear someone's head off",
+          "note": "an idiom for a big telling-off"
         }
       ],
       "forms": {
@@ -3000,7 +2926,7 @@
       "meanings": [
         {
           "en": "Good Lord!, oh God!",
-          "note": "Exclamation of surprise or dismay. Core Russian interj meaning 'Good Lord!' in everyday speech."
+          "note": "Exclamation of surprise or dismay."
         }
       ],
       "forms": null,
@@ -3042,7 +2968,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3072,12 +2998,13 @@
       "lemma": "давление",
       "stress": "давле́ние",
       "pos": "noun",
-      "gloss": "blood pressure",
+      "gloss": "pressure; blood pressure",
       "gender": "n",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "pressure, blood pressure",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'blood pressure' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3154,7 +3081,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -3239,11 +3165,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3281,7 +3207,7 @@
       "meanings": [
         {
           "en": "at home",
-          "note": "Location; compare домой = homeward. Core Russian adv meaning 'at home' in everyday speech."
+          "note": "Location; compare домой = homeward."
         }
       ],
       "forms": null,
@@ -3310,7 +3236,7 @@
       "meanings": [
         {
           "en": "home, homeward (direction)",
-          "note": "Contrast дома = at home. Core Russian adv meaning '(to) home, homeward' in everyday speech."
+          "note": "Contrast дома = at home."
         }
       ],
       "forms": null,
@@ -3341,11 +3267,15 @@
       "meanings": [
         {
           "en": "to take out, to pull out, to reach",
-          "note": "Used as a perfective (single completed action) verb meaning 'to take out, to get, to reach', paired with 'доставать'."
+          "note": ""
         },
         {
           "en": "to get hold of, to obtain",
-          "note": "Used as a perfective (single completed action) verb meaning 'to take out, to get, to reach', paired with 'доставать'."
+          "note": ""
+        },
+        {
+          "en": "to annoy, to drive crazy (colloquial)",
+          "note": "Как же ты меня достал! = I'm so sick of you!"
         }
       ],
       "forms": {
@@ -3421,8 +3351,8 @@
       ],
       "examples": [
         {
-          "text": "И ложкой глаз достану.",
-          "trans": "And take his eye out with a spoon."
+          "text": "Макс, достань мне рис с верхней полки.",
+          "trans": "Max, get me the rice from the top shelf."
         },
         {
           "text": "Он достал телефон из кармана.",
@@ -3430,7 +3360,7 @@
         },
         {
           "text": "Вы понимаете, что вы нас достали уже?",
-          "trans": "Do you understand that you've made us sick of you already?"
+          "trans": "Do you realise we're already sick of you?"
         }
       ],
       "related": [
@@ -3561,11 +3491,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3594,7 +3524,7 @@
       "meanings": [
         {
           "en": "pathetic, pitiful, miserable",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('pathetic, pitiful')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3637,10 +3567,10 @@
           {
             "cells": [
               "accusative",
-              "жалкий",
+              "жалкий / жалкого",
               "жалкую",
               "жалкое",
-              "жалкие"
+              "жалкие / жалких"
             ]
           },
           {
@@ -3691,11 +3621,11 @@
       "meanings": [
         {
           "en": "to wait (for)",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": "+ accusative."
         },
         {
           "en": "to expect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3911,7 +3841,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -4018,7 +3948,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -4157,44 +4087,6 @@
         }
       ]
     },
-    "может": {
-      "lemma": "может",
-      "stress": "мо́жет",
-      "pos": "adv",
-      "gloss": "maybe, perhaps",
-      "meanings": [
-        {
-          "en": "maybe, perhaps",
-          "note": "Short for может быть. Core Russian part meaning 'maybe, perhaps' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Может, завтра.",
-          "trans": "Maybe tomorrow."
-        },
-        {
-          "text": "Я думал, может, не примешь.",
-          "trans": "I thought maybe you wouldn't see me."
-        }
-      ],
-      "related": [
-        {
-          "word": "может быть",
-          "gloss": "maybe (full form)"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
-        }
-      ]
-    },
     "мочь": {
       "lemma": "мочь",
       "stress": "мочь",
@@ -4205,7 +4097,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4257,6 +4149,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -4402,13 +4311,13 @@
       "lemma": "отлежаться",
       "stress": "отлежа́ться",
       "pos": "verb",
-      "gloss": "will rest in bed",
+      "gloss": "to rest up in bed",
       "aspect": "pf",
       "pair": null,
       "meanings": [
         {
-          "en": "will rest in bed",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'лежаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'will rest in bed'."
+          "en": "to rest up, recover by lying down",
+          "note": ""
         }
       ],
       "forms": {
@@ -4422,22 +4331,22 @@
           {
             "cells": [
               "1st",
-              "отлежаюсь",
-              "отлежаемся"
+              "отлежусь",
+              "отлежимся"
             ]
           },
           {
             "cells": [
               "2nd",
-              "отлежаешься",
-              "отлежаетесь"
+              "отлежишься",
+              "отлежитесь"
             ]
           },
           {
             "cells": [
               "3rd",
-              "отлежается",
-              "отлежаются"
+              "отлежится",
+              "отлежатся"
             ]
           }
         ]
@@ -4463,22 +4372,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "отлежись",
+                "отлежитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и отлежаться вовремя.",
-          "trans": "We need to do everything and will rest in bed on time."
+          "text": "Давление, наверное, может, я дома отлежусь?",
+          "trans": "It's probably my blood pressure, maybe I'll rest up at home?"
         },
         {
-          "text": "На нашей кухне все умеют отлежаться.",
-          "trans": "In our kitchen everyone knows how to will rest in bed."
+          "text": "Я дома спокойно немного отлежалась.",
+          "trans": "I had a quiet rest in bed at home for a bit."
         }
       ],
       "related": [
         {
-          "word": "не отлежаться",
-          "gloss": "not to will rest in bed (negated infinitive)"
+          "word": "лежать",
+          "gloss": "to lie"
+        },
+        {
+          "word": "отдохнуть",
+          "gloss": "to rest"
         }
       ]
     },
@@ -4492,11 +4422,11 @@
       "meanings": [
         {
           "en": "to let go, to release",
-          "note": "An action in progress or repeated. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пускать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to let go, to release', paired with 'отпустить'."
+          "note": ""
         },
         {
-          "en": "to be letting go",
-          "note": "An action in progress or repeated. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пускать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to let go, to release', paired with 'отпустить'."
+          "en": "to let someone leave, to give leave",
+          "note": "Мама не отпускает меня гулять."
         }
       ],
       "forms": {
@@ -4686,7 +4616,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -4790,12 +4720,12 @@
       "pair": "слушать",
       "meanings": [
         {
-          "en": "to listen (a little, once)",
-          "note": "'Послушай!' / 'Послушайте!' = Listen! (to get attention)"
+          "en": "to listen (for a while), to listen to",
+          "note": "Perfective of слушать."
         },
         {
-          "en": "послушай",
-          "note": "Listen, look (to get attention). Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'слушать'). Used as a perfective (single completed action) verb meaning 'to listen (for a while)', paired with 'слушать'."
+          "en": "listen!, look! (послушай / послушайте)",
+          "note": "Used to get attention."
         }
       ],
       "forms": {
@@ -4908,7 +4838,7 @@
       "meanings": [
         {
           "en": "to quarrel, to have a fight",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ссориться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to quarrel, to fall out', paired with 'ссориться'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ссориться')."
         }
       ],
       "forms": {
@@ -4960,6 +4890,23 @@
                 "поссорилась",
                 "поссорилось",
                 "поссорились"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "поссорься",
+                "поссорьтесь"
               ]
             }
           ]
@@ -5148,11 +5095,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5224,8 +5171,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -5378,11 +5333,11 @@
       "meanings": [
         {
           "en": "how much, how many",
-          "note": "+ genitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive."
         },
         {
           "en": "what a lot of!",
-          "note": "In exclamations. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "In exclamations."
         }
       ],
       "forms": null,
@@ -5427,42 +5382,42 @@
             "cells": [
               "nominative",
               "совесть",
-              "—"
+              "совести"
             ]
           },
           {
             "cells": [
               "genitive",
               "совести",
-              "—"
+              "совестей"
             ]
           },
           {
             "cells": [
               "dative",
               "совести",
-              "—"
+              "совестям"
             ]
           },
           {
             "cells": [
               "accusative",
               "совесть",
-              "—"
+              "совести"
             ]
           },
           {
             "cells": [
               "instrumental",
               "совестью",
-              "—"
+              "совестями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "совести",
-              "—"
+              "совестях"
             ]
           }
         ]
@@ -5496,7 +5451,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -5584,15 +5539,15 @@
     },
     "темнеть": {
       "lemma": "темнеть",
-      "stress": "те́мнеть",
+      "stress": "темне́ть",
       "pos": "verb",
-      "gloss": "gets dark",
+      "gloss": "to grow dark",
       "aspect": "impf",
-      "pair": null,
+      "pair": "потемнеть",
       "meanings": [
         {
-          "en": "gets dark",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'gets dark'."
+          "en": "to grow dark, to darken",
+          "note": "в глазах темнеет = my vision is going dark."
         }
       ],
       "forms": {
@@ -5647,6 +5602,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "темней",
+                "темнейте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5655,18 +5627,22 @@
           "trans": "Lyova, my vision is going dark and my head is spinning."
         },
         {
-          "text": "Надо всё сделать и темнеть вовремя.",
-          "trans": "We need to do everything and gets dark on time."
+          "text": "Зимой рано темнеет.",
+          "trans": "It gets dark early in winter."
         }
       ],
       "related": [
         {
           "word": "потемнеть",
-          "gloss": "to gets dark (prefixed perfective)"
+          "gloss": "to darken (pf)"
         },
         {
-          "word": "не темнеть",
-          "gloss": "not to gets dark (negated infinitive)"
+          "word": "темнота",
+          "gloss": "darkness"
+        },
+        {
+          "word": "тёмный",
+          "gloss": "dark"
         }
       ]
     },
@@ -5934,7 +5910,7 @@
       "meanings": [
         {
           "en": "hey!",
-          "note": "To get someone's attention. Core Russian interj meaning 'hey' in everyday speech."
+          "note": "To get someone's attention."
         }
       ],
       "forms": null,

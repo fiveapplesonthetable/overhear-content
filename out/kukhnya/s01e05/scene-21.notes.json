@@ -110,14 +110,14 @@
           "t": "Федя,",
           "lemma": "федя",
           "pos": "name",
-          "stress": null,
+          "stress": "фе́дя",
           "gloss": "Fedya",
           "gram": "nominative masculine singular"
         },
         {
           "t": "спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -495,7 +495,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -700,14 +700,14 @@
           "t": "Федя,",
           "lemma": "федя",
           "pos": "name",
-          "stress": null,
+          "stress": "фе́дя",
           "gloss": "Fedya",
           "gram": "nominative masculine singular"
         },
         {
           "t": "спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1085,7 +1085,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1290,14 +1290,14 @@
           "t": "Федя,",
           "lemma": "федя",
           "pos": "name",
-          "stress": null,
+          "stress": "фе́дя",
           "gloss": "Fedya",
           "gram": "nominative masculine singular"
         },
         {
           "t": "спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1675,7 +1675,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1839,7 +1839,7 @@
       "meanings": [
         {
           "en": "dish",
-          "note": "Declinable neuter noun meaning 'dish', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "platter",
@@ -2079,7 +2079,7 @@
       "meanings": [
         {
           "en": "inhalation, breath in, inspiration",
-          "note": "Declinable masculine noun meaning 'inhalation', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -2147,12 +2147,12 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "выдох",
+          "gloss": "exhalation"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "дышать",
+          "gloss": "to breathe"
         }
       ]
     },
@@ -2203,7 +2203,7 @@
       "meanings": [
         {
           "en": "exhalation, breath out, expiration",
-          "note": "Declinable masculine noun meaning 'exhalation', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -2271,12 +2271,16 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "вдох",
+          "gloss": "inhalation, breath in"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "выдохнуть",
+          "gloss": "to breathe out"
+        },
+        {
+          "word": "дышать",
+          "gloss": "to breathe"
         }
       ]
     },
@@ -2394,8 +2398,8 @@
       "gloss": "deep, profound",
       "meanings": [
         {
-          "en": "deep (water, snow)",
-          "note": "глубокие извинения = deepest apologies"
+          "en": "deep (water, snow, sleep)",
+          "note": ""
         },
         {
           "en": "profound, deepest (feelings, apologies)",
@@ -2442,10 +2446,10 @@
           {
             "cells": [
               "accusative",
-              "глубокий/глубокого",
+              "глубокий / глубокого",
               "глубокую",
               "глубокое",
-              "глубокие/глубоких"
+              "глубокие / глубоких"
             ]
           },
           {
@@ -2503,11 +2507,11 @@
       "meanings": [
         {
           "en": "head",
-          "note": "An idiom for a big telling-off. Common feminine noun meaning 'head' in everyday Russian."
+          "note": ""
         },
         {
-          "en": "'голову оторвать' = to tear someone's head off",
-          "note": "An idiom for a big telling-off. Common feminine noun meaning 'head' in everyday Russian."
+          "en": "голову оторвать = to tear someone's head off",
+          "note": "an idiom for a big telling-off"
         }
       ],
       "forms": {
@@ -2689,11 +2693,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2784,15 +2792,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2806,11 +2814,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2919,10 +2927,11 @@
       "pos": "noun",
       "gloss": "order",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "order",
-          "note": "Declinable masculine noun meaning 'order', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "booking",
@@ -3012,7 +3021,7 @@
       "meanings": [
         {
           "en": "rush, chaos, time crunch (in kitchen or work)",
-          "note": "Declinable feminine noun meaning 'rush', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -3084,12 +3093,12 @@
       ],
       "related": [
         {
-          "word": "пара",
-          "gloss": "pair"
+          "word": "аврал",
+          "gloss": "rush job, all hands on deck"
         },
         {
-          "word": "парашют",
-          "gloss": "parachute"
+          "word": "суета",
+          "gloss": "bustle"
         }
       ]
     },
@@ -3103,7 +3112,7 @@
       "meanings": [
         {
           "en": "to remember, to memorise",
-          "note": "To fix something in memory. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'помнить'). Used as a perfective (single completed action) verb meaning 'to remember, to memorise', paired with 'запоминать'."
+          "note": "To fix something in memory. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'помнить')."
         }
       ],
       "forms": {
@@ -3536,7 +3545,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -3558,7 +3567,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -3570,7 +3583,7 @@
       "meanings": [
         {
           "en": "slow, leisurely, unhurried",
-          "note": "Qualitative or relational adjective formed with the productive '-н-' suffix, meaning 'slow' and agreeing in gender, number, and case."
+          "note": ""
         }
       ],
       "forms": {
@@ -3613,10 +3626,10 @@
           {
             "cells": [
               "accusative",
-              "медленный/медленного",
+              "медленный / медленного",
               "медленную",
               "медленное",
-              "медленные/медленных"
+              "медленные / медленных"
             ]
           },
           {
@@ -3670,7 +3683,7 @@
       "meanings": [
         {
           "en": "minute",
-          "note": "Common feminine noun meaning 'minute' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3939,7 +3952,7 @@
       "meanings": [
         {
           "en": "to begin, to start",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to begin, to start', paired with 'начать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4019,8 +4032,8 @@
           "trans": "When do I start?"
         },
         {
-          "text": "Урок начинается в девять.",
-          "trans": "The lesson starts at nine."
+          "text": "Ну что ты начинаешь?",
+          "trans": "Oh, don't start."
         },
         {
           "text": "Аркаш, ну что скажешь? Когда начинать?",
@@ -4084,7 +4097,7 @@
       "meanings": [
         {
           "en": "a little, a bit",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много')."
         }
       ],
       "forms": null,
@@ -4315,8 +4328,16 @@
       ],
       "related": [
         {
-          "word": "обновить",
-          "gloss": "to update"
+          "word": "новенький",
+          "gloss": "new guy"
+        },
+        {
+          "word": "новый",
+          "gloss": "new"
+        },
+        {
+          "word": "опытный",
+          "gloss": "experienced"
         }
       ]
     },
@@ -4330,7 +4351,7 @@
       "meanings": [
         {
           "en": "to step aside, to move back",
-          "note": "Perfective of отходить. Used as a perfective (single completed action) verb meaning 'to step back, to move away', paired with 'отходить'."
+          "note": "Perfective of отходить."
         }
       ],
       "forms": {
@@ -4439,6 +4460,7 @@
       "pos": "noun",
       "gloss": "queue, line; turn",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "queue, line",
@@ -4446,7 +4468,7 @@
         },
         {
           "en": "turn",
-          "note": "Моя очередь = it's my turn. Common feminine noun meaning 'queue, line; turn' in everyday Russian."
+          "note": "Моя очередь = it's my turn."
         }
       ],
       "forms": {
@@ -4536,15 +4558,15 @@
       "meanings": [
         {
           "en": "about, concerning",
-          "note": "In 'по поводу' + genitive. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "In 'по поводу' + genitive."
         },
         {
           "en": "along, around",
-          "note": "+ dative. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "+ dative."
         },
         {
           "en": "by (phone)",
-          "note": "'по телефону'. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "'по телефону'."
         }
       ],
       "forms": null,
@@ -4584,7 +4606,7 @@
       "meanings": [
         {
           "en": "to move over, shift slightly, make room",
-          "note": "Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to move over'. The reflexive suffix '-ся'/'-сь' makes the action intransitive, reciprocal, or directed at the subject."
+          "note": ""
         }
       ],
       "forms": {
@@ -4639,6 +4661,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "подвинься",
+                "подвиньтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4657,12 +4696,12 @@
       ],
       "related": [
         {
-          "word": "делать",
-          "gloss": "to do, make"
+          "word": "подвинуть",
+          "gloss": "to move, shift"
         },
         {
-          "word": "время",
-          "gloss": "time"
+          "word": "двигаться",
+          "gloss": "to move"
         }
       ]
     },
@@ -4793,6 +4832,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "получайся",
+                "получайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4830,7 +4886,7 @@
       "meanings": [
         {
           "en": "to help",
-          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь'). Used as a perfective (single completed action) verb meaning 'to help', paired with 'помогать'."
+          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь')."
         }
       ],
       "forms": {
@@ -4943,7 +4999,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -5047,11 +5103,7 @@
       "meanings": [
         {
           "en": "rule",
-          "note": "By the rules. Common neuter noun meaning 'rule' in everyday Russian."
-        },
-        {
-          "en": "по правилам",
-          "note": "By the rules. Common neuter noun meaning 'rule' in everyday Russian."
+          "note": "по правилам = by the rules"
         }
       ],
       "forms": {
@@ -5146,7 +5198,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -5300,7 +5352,7 @@
         },
         {
           "en": "piece of advice",
-          "note": "Common masculine noun meaning 'council; advice' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5388,67 +5440,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -5474,7 +5474,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5704,7 +5704,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -5792,8 +5792,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -5940,7 +5948,7 @@
       "meanings": [
         {
           "en": "to calm down",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to calm down', paired with 'успокаиваться'."
+          "note": ""
         }
       ],
       "forms": {

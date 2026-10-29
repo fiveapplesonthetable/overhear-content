@@ -325,10 +325,10 @@
         {
           "t": "Здравствуйте,",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "уважаемый",
@@ -381,7 +381,7 @@
           "lemma": "дорогой",
           "pos": "adj",
           "stress": "дорога́я",
-          "gloss": "expensive",
+          "gloss": "expensive; dear",
           "gram": "feminine singular, nominative"
         },
         {
@@ -504,7 +504,7 @@
           "pos": "verb",
           "stress": "зае́хать",
           "gloss": "drop by, stop in",
-          "gram": "nominative / accusative"
+          "gram": "infinitive, perfective"
         },
         {
           "t": "за",
@@ -925,10 +925,10 @@
         {
           "t": "Здравствуйте,",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "уважаемый",
@@ -981,7 +981,7 @@
           "lemma": "дорогой",
           "pos": "adj",
           "stress": "дорога́я",
-          "gloss": "expensive",
+          "gloss": "expensive; dear",
           "gram": "feminine singular, nominative"
         },
         {
@@ -1104,7 +1104,7 @@
           "pos": "verb",
           "stress": "зае́хать",
           "gloss": "drop by, stop in",
-          "gram": "nominative / accusative"
+          "gram": "infinitive, perfective"
         },
         {
           "t": "за",
@@ -1525,10 +1525,10 @@
         {
           "t": "Здравствуйте,",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         },
         {
           "t": "уважаемый",
@@ -1581,7 +1581,7 @@
           "lemma": "дорогой",
           "pos": "adj",
           "stress": "дорога́я",
-          "gloss": "expensive",
+          "gloss": "expensive; dear",
           "gram": "feminine singular, nominative"
         },
         {
@@ -1704,7 +1704,7 @@
           "pos": "verb",
           "stress": "зае́хать",
           "gloss": "drop by, stop in",
-          "gram": "nominative / accusative"
+          "gram": "infinitive, perfective"
         },
         {
           "t": "за",
@@ -1919,7 +1919,7 @@
         },
         {
           "en": "view",
-          "note": "иметь в виду = to mean, to have in mind"
+          "note": ""
         }
       ],
       "forms": {
@@ -1991,8 +1991,20 @@
       ],
       "related": [
         {
-          "word": "видный",
-          "gloss": "related to look (adj.)"
+          "word": "видеть",
+          "gloss": "to see"
+        },
+        {
+          "word": "иметь в виду",
+          "gloss": "to mean"
+        },
+        {
+          "word": "делать вид",
+          "gloss": "to pretend"
+        },
+        {
+          "word": "на вид",
+          "gloss": "in appearance"
         }
       ]
     },
@@ -2006,11 +2018,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2065,6 +2077,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2106,11 +2135,11 @@
       "meanings": [
         {
           "en": "to get up",
-          "note": "Out of bed or from the floor. Used as an imperfective (ongoing/repeated action) verb meaning 'to get up, to stand up', paired with 'встать'."
+          "note": "Out of bed or from the floor."
         },
         {
           "en": "to stand up",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to get up, to stand up', paired with 'встать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2218,11 +2247,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2401,7 +2430,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2427,49 +2456,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2480,11 +2466,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2575,15 +2565,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2596,7 +2586,7 @@
       "meanings": [
         {
           "en": "door",
-          "note": "Common feminine noun meaning 'door' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2676,11 +2666,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2718,7 +2708,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -2809,7 +2799,11 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "gloss": "good, kindness"
+        },
+        {
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
@@ -2823,7 +2817,7 @@
       "meanings": [
         {
           "en": "to agree, to have an agreement",
-          "note": "+ с + instrumental. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to agree, to make a deal', paired with 'договориться'."
+          "note": "+ с + instrumental."
         }
       ],
       "forms": {
@@ -2914,15 +2908,15 @@
       "related": [
         {
           "word": "договориться",
-          "gloss": "to agree"
+          "gloss": "to agree (pf)"
         },
         {
           "word": "разговаривать",
           "gloss": "to talk"
         },
         {
-          "word": "наговаривать",
-          "gloss": "slander"
+          "word": "договор",
+          "gloss": "contract, agreement"
         }
       ]
     },
@@ -2934,7 +2928,7 @@
       "meanings": [
         {
           "en": "expensive",
-          "note": "to a loved one, and at the start of letters"
+          "note": ""
         },
         {
           "en": "dear",
@@ -2981,10 +2975,10 @@
           {
             "cells": [
               "accusative",
-              "дорогой/дорогого",
+              "дорогой / дорогого",
               "дорогую",
               "дорогое",
-              "дорогие/дорогих"
+              "дорогие / дорогих"
             ]
           },
           {
@@ -3007,29 +3001,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "дорог",
-                "дорога",
-                "дорого",
-                "дороги"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Это дорогая одежда.",
@@ -3097,11 +3069,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3137,11 +3109,11 @@
       "pos": "verb",
       "gloss": "drop by, stop in",
       "aspect": "pf",
-      "pair": null,
+      "pair": "заезжать",
       "meanings": [
         {
           "en": "drop by, stop in",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'drop by, stop in'."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'ехать')."
         }
       ],
       "forms": {
@@ -3237,11 +3209,11 @@
       "meanings": [
         {
           "en": "to call, to phone",
-          "note": "+ dative of the person. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
+          "note": "+ dative of the person."
         },
         {
           "en": "to ring",
-          "note": "A bell or phone. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
+          "note": "A bell or phone."
         }
       ],
       "forms": {
@@ -3423,70 +3395,17 @@
     "здравствуйте": {
       "lemma": "здравствуйте",
       "stress": "здра́вствуйте",
-      "pos": "verb",
-      "gloss": "hello",
-      "aspect": "impf",
+      "pos": "interj",
+      "gloss": "hello (polite or to several people)",
       "pair": null,
       "meanings": [
         {
           "en": "hello",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'hello'."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "здравствуйю",
-              "здравствуйем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "здравствуйешь",
-              "здравствуйете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "здравствуйет",
-              "здравствуйют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "здравствуйл",
-                "здравствуйла",
-                "здравствуйло",
-                "здравствуйли"
-              ]
-            }
-          ]
-        }
-      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Здравствуйте! Как там в Венгрии?",
@@ -3648,7 +3567,7 @@
       "meanings": [
         {
           "en": "someone, somebody",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'someone', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -3866,42 +3785,42 @@
             "cells": [
               "nominative",
               "начальство",
-              "—"
+              "начальства"
             ]
           },
           {
             "cells": [
               "genitive",
               "начальства",
-              "—"
+              "начальств"
             ]
           },
           {
             "cells": [
               "dative",
               "начальству",
-              "—"
+              "начальствам"
             ]
           },
           {
             "cells": [
               "accusative",
               "начальство",
-              "—"
+              "начальства"
             ]
           },
           {
             "cells": [
               "instrumental",
               "начальством",
-              "—"
+              "начальствами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "начальстве",
-              "—"
+              "начальствах"
             ]
           }
         ]
@@ -4018,7 +3937,7 @@
       "meanings": [
         {
           "en": "to get dressed, to put on one's clothes",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to get dressed, to dress oneself', paired with 'одеться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4249,13 +4168,13 @@
       "lemma": "подвезти",
       "stress": "подвезти́",
       "pos": "verb",
-      "gloss": "give a ride",
+      "gloss": "to give a lift, to drive (someone)",
       "aspect": "pf",
-      "pair": null,
+      "pair": "подвозить",
       "meanings": [
         {
-          "en": "give a ride",
-          "note": "Prefix 'под-' ('under, up to') indicates approaching or supporting from below (stem 'везти'). Used as a perfective (single completed action) verb meaning 'give a ride'."
+          "en": "to give (someone) a lift",
+          "note": ""
         }
       ],
       "forms": {
@@ -4269,22 +4188,22 @@
           {
             "cells": [
               "1st",
-              "подвезю",
-              "подвезем"
+              "подвезу",
+              "подвезём"
             ]
           },
           {
             "cells": [
               "2nd",
-              "подвезешь",
-              "подвезете"
+              "подвезёшь",
+              "подвезёте"
             ]
           },
           {
             "cells": [
               "3rd",
-              "подвезет",
-              "подвезют"
+              "подвезёт",
+              "подвезут"
             ]
           }
         ]
@@ -4303,10 +4222,27 @@
             {
               "cells": [
                 "past",
-                "подвезл",
+                "подвёз",
                 "подвезла",
                 "подвезло",
                 "подвезли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "подвези",
+                "подвезите"
               ]
             }
           ]
@@ -4315,11 +4251,15 @@
       "examples": [
         {
           "text": "Я решил заехать за коллегой и подвезти на работу.",
-          "trans": "I decided to pick up my colleague and give her a ride to work."
+          "trans": "I decided to pick up my colleague and give her a lift to work."
         },
         {
-          "text": "Надо всё сделать и подвезти вовремя.",
-          "trans": "We need to do everything and give a ride on time."
+          "text": "Тогда садитесь, я вас подвезу.",
+          "trans": "Then get in, I'll give you a lift."
+        },
+        {
+          "text": "Спасибо, что подвезла.",
+          "trans": "Thanks for the lift."
         }
       ],
       "related": []
@@ -4332,7 +4272,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -4511,7 +4451,7 @@
         },
         {
           "en": "to solve",
-          "note": "Решить задачу. Used as a perfective (single completed action) verb meaning 'to decide; to solve', paired with 'решать'."
+          "note": "Решить задачу."
         }
       ],
       "forms": {
@@ -4662,11 +4602,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4738,8 +4678,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -4785,13 +4733,13 @@
       "lemma": "скрыться",
       "stress": "скры́ться",
       "pos": "verb",
-      "gloss": "hide / disappear",
+      "gloss": "to hide, disappear",
       "aspect": "pf",
-      "pair": null,
+      "pair": "скрываться",
       "meanings": [
         {
           "en": "hide / disappear",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'крыться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'hide / disappear'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'крыться')."
         }
       ],
       "forms": {
@@ -4805,22 +4753,22 @@
           {
             "cells": [
               "1st",
-              "скрыюсь",
-              "скрыемся"
+              "скроюсь",
+              "скроемся"
             ]
           },
           {
             "cells": [
               "2nd",
-              "скрыешься",
-              "скрыетесь"
+              "скроешься",
+              "скроетесь"
             ]
           },
           {
             "cells": [
               "3rd",
-              "скрыется",
-              "скрыются"
+              "скроется",
+              "скроются"
             ]
           }
         ]
@@ -4846,22 +4794,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "скройся",
+                "скройтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и скрыться вовремя.",
-          "trans": "We need to do everything and hide on time."
+          "text": "Пожалуйста, просто быстро скройся отсюда.",
+          "trans": "Please, just get out of here fast."
         },
         {
-          "text": "На нашей кухне все умеют скрыться.",
-          "trans": "In our kitchen everyone knows how to hide."
+          "text": "Вор успел скрыться.",
+          "trans": "The thief managed to get away."
         }
       ],
       "related": [
         {
-          "word": "не скрыться",
-          "gloss": "not to hide (negated infinitive)"
+          "word": "скрываться",
+          "gloss": "to hide (impf)"
+        },
+        {
+          "word": "скрыть",
+          "gloss": "to hide, conceal"
         }
       ]
     },
@@ -4877,7 +4846,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -5011,16 +4980,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Тише, дети спят!",
-          "trans": "Quiet, the children are asleep!"
-        },
-        {
           "text": "Здесь тихо.",
           "trans": "It's quiet here."
         },
         {
-          "text": "Тише!",
-          "trans": "Quiet!"
+          "text": "Почему на кухне так тихо?",
+          "trans": "Why is the kitchen so quiet?"
         }
       ],
       "related": [
@@ -5214,10 +5179,10 @@
           {
             "cells": [
               "accusative",
-              "уважаемый",
+              "уважаемый / уважаемого",
               "уважаемую",
               "уважаемое",
-              "уважаемые"
+              "уважаемые / уважаемых"
             ]
           },
           {
@@ -5271,7 +5236,7 @@
       "meanings": [
         {
           "en": "morning",
-          "note": "Утром = in the morning. Common neuter noun meaning 'morning' in everyday Russian."
+          "note": "Утром = in the morning."
         }
       ],
       "forms": {
@@ -5387,7 +5352,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5439,6 +5404,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -5575,7 +5557,7 @@
         },
         {
           "en": "in order to",
-          "note": "+ infinitive. Core Russian conj meaning 'so that, in order to' in everyday speech."
+          "note": "+ infinitive."
         }
       ],
       "forms": null,

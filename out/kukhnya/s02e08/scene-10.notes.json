@@ -109,7 +109,7 @@
         {
           "t": "спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -195,7 +195,7 @@
           "lemma": "узнать",
           "pos": "verb",
           "stress": "узна́ли",
-          "gloss": "found out, knew",
+          "gloss": "found out",
           "gram": "past, plural (formal), perfective"
         }
       ]
@@ -283,7 +283,7 @@
         {
           "t": "спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -635,7 +635,7 @@
         {
           "t": "спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -721,7 +721,7 @@
           "lemma": "узнать",
           "pos": "verb",
           "stress": "узна́ли",
-          "gloss": "found out, knew",
+          "gloss": "found out",
           "gram": "past, plural (formal), perfective"
         }
       ]
@@ -809,7 +809,7 @@
         {
           "t": "спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1161,7 +1161,7 @@
         {
           "t": "спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1247,7 +1247,7 @@
           "lemma": "узнать",
           "pos": "verb",
           "stress": "узна́ли",
-          "gloss": "found out, knew",
+          "gloss": "found out",
           "gram": "past, plural (formal), perfective"
         }
       ]
@@ -1335,7 +1335,7 @@
         {
           "t": "спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1689,11 +1689,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2066,11 +2066,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2108,7 +2108,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -2199,7 +2199,11 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "gloss": "good, kindness"
+        },
+        {
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
@@ -2215,11 +2219,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2248,11 +2252,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2434,8 +2438,6 @@
       "stress": "молча́ть",
       "pos": "verb",
       "gloss": "to be silent, to say nothing",
-      "aspect": "impf",
-      "pair": "замолчать",
       "meanings": [
         {
           "en": "to be silent, to keep quiet",
@@ -2540,7 +2542,8 @@
           "word": "молча",
           "gloss": "silently"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "мы": {
       "lemma": "мы",
@@ -2670,7 +2673,7 @@
       "meanings": [
         {
           "en": "fine, OK, normal",
-          "note": "Colloquial. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Colloquial."
         }
       ],
       "forms": null,
@@ -2752,11 +2755,11 @@
       "pos": "verb",
       "gloss": "to communicate, to talk with",
       "aspect": "impf",
-      "pair": null,
+      "pair": "пообщаться",
       "meanings": [
         {
           "en": "to communicate, to socialise, to have contact",
-          "note": "+ с + instrumental. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to communicate, to talk with'."
+          "note": "+ с + instrumental."
         }
       ],
       "forms": {
@@ -2854,7 +2857,7 @@
       "meanings": [
         {
           "en": "huge, enormous, vast",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('huge, enormous')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2897,10 +2900,10 @@
           {
             "cells": [
               "accusative",
-              "огромный/огромного",
+              "огромный / огромного",
               "огромную",
               "огромное",
-              "огромные/огромных"
+              "огромные / огромных"
             ]
           },
           {
@@ -3254,7 +3257,7 @@
       "meanings": [
         {
           "en": "to have a talk, to speak (with someone)",
-          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to have a talk', paired with 'говорить'."
+          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить')."
         }
       ],
       "forms": {
@@ -3365,7 +3368,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -3409,7 +3412,7 @@
       "meanings": [
         {
           "en": "to arrive, to come (by transport)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to arrive (by vehicle)', paired with 'приезжать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -3576,8 +3579,20 @@
       ],
       "related": [
         {
-          "word": "разный",
-          "gloss": "related to time (adj.)"
+          "word": "однажды",
+          "gloss": "once, one day"
+        },
+        {
+          "word": "как раз",
+          "gloss": "just right, exactly"
+        },
+        {
+          "word": "ни разу",
+          "gloss": "not once, never"
+        },
+        {
+          "word": "сразу",
+          "gloss": "at once"
         }
       ]
     },
@@ -3634,7 +3649,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -3725,82 +3740,30 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -4014,7 +3977,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4069,6 +4032,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4105,7 +4085,7 @@
       "meanings": [
         {
           "en": "flower",
-          "note": "Irregular plural цветы (flowers). Common masculine noun meaning 'flower' in everyday Russian."
+          "note": "Irregular plural цветы (flowers)."
         }
       ],
       "forms": {
@@ -4120,14 +4100,14 @@
             "cells": [
               "nominative",
               "цветок",
-              "цветы"
+              "цветки"
             ]
           },
           {
             "cells": [
               "genitive",
               "цветка",
-              "цветов"
+              "цветков"
             ]
           },
           {
@@ -4141,7 +4121,7 @@
             "cells": [
               "accusative",
               "цветок",
-              "цветы"
+              "цветки"
             ]
           },
           {

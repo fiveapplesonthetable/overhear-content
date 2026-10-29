@@ -333,8 +333,8 @@
           "lemma": "иметь",
           "pos": "verb",
           "stress": "име́ешь",
-          "gloss": "to have (formal, in set phrases)",
-          "gram": "2nd person singular"
+          "gloss": "have",
+          "gram": "2nd person singular present, imperfective"
         }
       ]
     },
@@ -867,8 +867,8 @@
           "lemma": "иметь",
           "pos": "verb",
           "stress": "име́ешь",
-          "gloss": "to have (formal, in set phrases)",
-          "gram": "2nd person singular"
+          "gloss": "have",
+          "gram": "2nd person singular present, imperfective"
         }
       ]
     },
@@ -1401,8 +1401,8 @@
           "lemma": "иметь",
           "pos": "verb",
           "stress": "име́ешь",
-          "gloss": "to have (formal, in set phrases)",
-          "gram": "2nd person singular"
+          "gloss": "have",
+          "gram": "2nd person singular present, imperfective"
         }
       ]
     },
@@ -2256,7 +2256,7 @@
       "meanings": [
         {
           "en": "that",
-          "note": "The one over there. Core Russian det meaning 'that' in everyday speech."
+          "note": "The one over there."
         },
         {
           "en": "that which, the thing",
@@ -2687,7 +2687,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2772,7 +2772,7 @@
       "meanings": [
         {
           "en": "many, many people (plural adjective/pronoun)",
-          "note": "Многие из вас = many of you. Agrees in gender, number, and case with the noun it modifies ('many (people)')."
+          "note": "Многие из вас = many of you."
         }
       ],
       "forms": {
@@ -2879,7 +2879,7 @@
       "meanings": [
         {
           "en": "often, frequently",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2909,7 +2909,7 @@
       "meanings": [
         {
           "en": "doubt, hesitation",
-          "note": "Появились сомнения = doubts arose. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'doubt' in everyday Russian."
+          "note": "Появились сомнения = doubts arose."
         }
       ],
       "forms": {
@@ -2994,7 +2994,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -3105,7 +3105,7 @@
         },
         {
           "en": "how much, to what degree",
-          "note": "Interrogative or relative. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Interrogative or relative."
         }
       ],
       "forms": null,
@@ -3126,8 +3126,12 @@
       ],
       "related": [
         {
-          "word": "несколько",
-          "gloss": "several"
+          "word": "сколько",
+          "gloss": "how much"
+        },
+        {
+          "word": "настолько",
+          "gloss": "so much, to such an extent"
         }
       ]
     },
@@ -3139,7 +3143,7 @@
       "meanings": [
         {
           "en": "expensive, expensively, dear",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3173,67 +3177,23 @@
       "meanings": [
         {
           "en": "that",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'that', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Здесь находится наш ресторан.",
-          "trans": "Our restaurant is located right here."
+          "text": "Ну, то, что ты говорил.",
+          "trans": "Well, what you were saying."
         },
         {
-          "text": "Мы теперь работаем в этом отеле.",
-          "trans": "We now work in this hotel."
+          "text": "Если проблема только в этом, то да.",
+          "trans": "If that's the only problem, then yes."
         },
         {
-          "text": "Чем отличается ресторан при отеле?",
-          "trans": "How does a hotel restaurant differ?"
+          "text": "А то мы уже начали беспокоиться.",
+          "trans": "Otherwise we were already starting to worry."
         }
       ],
       "related": []
@@ -3553,7 +3513,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -3608,6 +3568,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3645,7 +3622,7 @@
       "meanings": [
         {
           "en": "to lose",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'терять'). Used as a perfective (single completed action) verb meaning 'to lose', paired with 'терять'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'терять')."
         }
       ],
       "forms": {
@@ -3700,6 +3677,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "потеряй",
+                "потеряйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3741,7 +3735,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -3793,6 +3787,23 @@
                 "увиделась",
                 "увиделось",
                 "увиделись"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
               ]
             }
           ]

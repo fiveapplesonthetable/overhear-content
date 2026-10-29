@@ -130,11 +130,11 @@
         },
         {
           "t": "родители.",
-          "lemma": "родители",
+          "lemma": "родитель",
           "pos": "noun",
           "stress": "роди́тели",
           "gloss": "parents",
-          "gram": "plural vocative/nominative"
+          "gram": "nominative plural"
         }
       ]
     },
@@ -156,7 +156,7 @@
           "pos": "noun",
           "stress": "ули́тку",
           "gloss": "snail, escargot",
-          "gram": "accusative / dative singular"
+          "gram": "accusative singular"
         },
         {
           "t": "Родион",
@@ -248,7 +248,7 @@
           "pos": "noun",
           "stress": "ули́ток",
           "gloss": "snail, escargot",
-          "gram": "nominative / accusative"
+          "gram": "genitive / accusative plural"
         },
         {
           "t": "удался.",
@@ -640,11 +640,11 @@
         },
         {
           "t": "родители.",
-          "lemma": "родители",
+          "lemma": "родитель",
           "pos": "noun",
           "stress": "роди́тели",
           "gloss": "parents",
-          "gram": "plural vocative/nominative"
+          "gram": "nominative plural"
         }
       ]
     },
@@ -666,7 +666,7 @@
           "pos": "noun",
           "stress": "ули́тку",
           "gloss": "snail, escargot",
-          "gram": "accusative / dative singular"
+          "gram": "accusative singular"
         },
         {
           "t": "Родион",
@@ -758,7 +758,7 @@
           "pos": "noun",
           "stress": "ули́ток",
           "gloss": "snail, escargot",
-          "gram": "nominative / accusative"
+          "gram": "genitive / accusative plural"
         },
         {
           "t": "удался.",
@@ -1150,11 +1150,11 @@
         },
         {
           "t": "родители.",
-          "lemma": "родители",
+          "lemma": "родитель",
           "pos": "noun",
           "stress": "роди́тели",
           "gloss": "parents",
-          "gram": "plural vocative/nominative"
+          "gram": "nominative plural"
         }
       ]
     },
@@ -1176,7 +1176,7 @@
           "pos": "noun",
           "stress": "ули́тку",
           "gloss": "snail, escargot",
-          "gram": "accusative / dative singular"
+          "gram": "accusative singular"
         },
         {
           "t": "Родион",
@@ -1268,7 +1268,7 @@
           "pos": "noun",
           "stress": "ули́ток",
           "gloss": "snail, escargot",
-          "gram": "nominative / accusative"
+          "gram": "genitive / accusative plural"
         },
         {
           "t": "удался.",
@@ -1768,84 +1768,6 @@
       ],
       "related": []
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "да": {
       "lemma": "да",
       "stress": "да",
@@ -1858,7 +1780,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2042,29 +1964,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "доволен",
-                "довольна",
-                "довольно",
-                "довольны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Ну что, довольна?",
@@ -2134,11 +2034,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -2218,12 +2118,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -2251,7 +2151,7 @@
       "meanings": [
         {
           "en": "to fix, to correct, to put right",
-          "note": "Prefix 'ис-' ('out from within') marks extraction or exhaustion (stem 'править'). Used as a perfective (single completed action) verb meaning 'to fix, to correct', paired with 'исправлять'."
+          "note": "Prefix 'ис-' ('out from within') marks extraction or exhaustion (stem 'править')."
         }
       ],
       "forms": {
@@ -2362,11 +2262,11 @@
       "meanings": [
         {
           "en": "a lot, much, many",
-          "note": "+ genitive plural: много дел. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive plural: много дел."
         },
         {
           "en": "больше = more",
-          "note": "Comparative. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Comparative."
         }
       ],
       "forms": null,
@@ -2413,7 +2313,7 @@
         },
         {
           "en": "a fine young man",
-          "note": "Old-fashioned. Common masculine noun meaning 'well done; good person' in everyday Russian."
+          "note": "Old-fashioned."
         }
       ],
       "forms": {
@@ -2777,7 +2677,7 @@
       "meanings": [
         {
           "en": "to explain",
-          "note": "Used as a perfective (single completed action) verb meaning 'to explain', paired with 'объяснять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2966,7 +2866,7 @@
       "meanings": [
         {
           "en": "to pass on, to hand over, to give",
-          "note": "+ accusative and dative (кому). Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'дать'). Used as a perfective (single completed action) verb meaning 'to pass on, to hand over', paired with 'передавать'."
+          "note": "+ accusative and dative (кому). Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'дать')."
         }
       ],
       "forms": {
@@ -3167,6 +3067,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понимай",
+                "понимайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3200,7 +3117,7 @@
       "meanings": [
         {
           "en": "to ask (for a favour)",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'просить'). Used as a perfective (single completed action) verb meaning 'to ask (for), to request', paired with 'просить'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'просить')."
         }
       ],
       "forms": {
@@ -3294,8 +3211,12 @@
           "gloss": "to ask"
         },
         {
+          "word": "просьба",
+          "gloss": "request"
+        },
+        {
           "word": "спрос",
-          "gloss": "asking"
+          "gloss": "demand"
         }
       ]
     },
@@ -3446,16 +3367,17 @@
         }
       ]
     },
-    "родители": {
-      "lemma": "родители",
-      "stress": "роди́тели",
+    "родитель": {
+      "lemma": "родитель",
+      "stress": "роди́тель",
       "pos": "noun",
-      "gloss": "parents",
+      "gloss": "parent",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
-          "en": "parents (plural; singular родитель is formal)",
-          "note": "Common masculine noun meaning 'parents' in everyday Russian."
+          "en": "parent",
+          "note": "Usually plural: родители = parents."
         }
       ],
       "forms": {
@@ -3513,30 +3435,30 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Пожалуйста, родителям не говорите.",
-          "trans": "Please don't tell my parents."
+          "text": "Только, пожалуйста, родителям не говорите.",
+          "trans": "Just please don't tell my parents."
         },
         {
           "text": "Мои родители живут в деревне.",
           "trans": "My parents live in the country."
         },
         {
-          "text": "Я здесь работаю. Только, пожалуйста, родителям не говорите.",
-          "trans": "I work here. Just please don't tell my parents."
+          "text": "Возьмите свои работы и подарите родителям.",
+          "trans": "Take your work and give it to your parents."
         }
       ],
       "related": [
         {
-          "word": "родиться",
-          "gloss": "to be born"
+          "word": "родительский",
+          "gloss": "parental"
         },
         {
-          "word": "родина",
-          "gloss": "motherland"
+          "word": "родить",
+          "gloss": "to give birth"
         },
         {
-          "word": "зародить",
-          "gloss": "to engender"
+          "word": "родня",
+          "gloss": "kin"
         }
       ]
     },
@@ -3590,7 +3512,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -3713,7 +3635,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -3835,7 +3757,7 @@
       "meanings": [
         {
           "en": "to turn out well, to succeed, to manage (impersonal + dative)",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'даться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to succeed, to manage', paired with 'удаваться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'даться')."
         }
       ],
       "forms": {
@@ -3849,22 +3771,22 @@
           {
             "cells": [
               "1st",
-              "удаюсь",
-              "удаемся"
+              "удамся",
+              "удадимся"
             ]
           },
           {
             "cells": [
               "2nd",
-              "удаешься",
-              "удаетесь"
+              "удашься",
+              "удадитесь"
             ]
           },
           {
             "cells": [
               "3rd",
-              "удается",
-              "удаются"
+              "удастся",
+              "удадутся"
             ]
           }
         ]
@@ -3887,6 +3809,23 @@
                 "удалась",
                 "удалось",
                 "удались"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "удайся",
+                "удайтесь"
               ]
             }
           ]
@@ -3921,7 +3860,7 @@
       "meanings": [
         {
           "en": "please, do (softening or emphatic particle)",
-          "note": "Вы уж нас извините = do forgive us. Core Russian part meaning 'really, please (softening particle)' in everyday speech."
+          "note": "Вы уж нас извините = do forgive us."
         }
       ],
       "forms": null,
@@ -3989,7 +3928,7 @@
       "meanings": [
         {
           "en": "snail, escargot",
-          "note": "Common feminine noun meaning 'snail, escargot' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4011,7 +3950,7 @@
             "cells": [
               "genitive",
               "улитки",
-              "улитк"
+              "улиток"
             ]
           },
           {
@@ -4025,7 +3964,7 @@
             "cells": [
               "accusative",
               "улитку",
-              "улитки"
+              "улиток"
             ]
           },
           {
@@ -4067,11 +4006,11 @@
       "meanings": [
         {
           "en": "to arrange, organize",
-          "note": "Transitive verb. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить'). Used as a perfective (single completed action) verb meaning 'to arrange, cause', paired with 'устраивать'."
+          "note": "Transitive verb. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить')."
         },
         {
           "en": "to cause",
-          "note": "A disturbance. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить'). Used as a perfective (single completed action) verb meaning 'to arrange, cause', paired with 'устраивать'."
+          "note": "A disturbance. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить')."
         }
       ],
       "forms": {
@@ -4162,15 +4101,15 @@
       "related": [
         {
           "word": "устраивать",
-          "gloss": "to organize"
+          "gloss": "to organize (impf)"
         },
         {
-          "word": "построить",
-          "gloss": "to build"
+          "word": "устроиться",
+          "gloss": "to get a job, settle in"
         },
         {
-          "word": "настроение",
-          "gloss": "mood"
+          "word": "скандал",
+          "gloss": "scene, row"
         }
       ]
     },
@@ -4184,7 +4123,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4236,6 +4175,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -4370,7 +4326,7 @@
       "meanings": [
         {
           "en": "show, television program, performance",
-          "note": "Declinable neuter noun meaning 'show', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -4385,42 +4341,42 @@
             "cells": [
               "nominative",
               "шоу",
-              "—"
+              "шоу"
             ]
           },
           {
             "cells": [
               "genitive",
               "шоу",
-              "—"
+              "шоу"
             ]
           },
           {
             "cells": [
               "dative",
               "шоу",
-              "—"
+              "шоу"
             ]
           },
           {
             "cells": [
               "accusative",
               "шоу",
-              "—"
+              "шоу"
             ]
           },
           {
             "cells": [
               "instrumental",
               "шоу",
-              "—"
+              "шоу"
             ]
           },
           {
             "cells": [
               "prepositional",
               "шоу",
-              "—"
+              "шоу"
             ]
           }
         ]

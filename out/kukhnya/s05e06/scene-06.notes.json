@@ -195,8 +195,8 @@
           "lemma": "подумать",
           "pos": "verb",
           "stress": "поду́мал",
-          "gloss": "would think",
-          "gram": "past, masculine singular, perfective (with бы = conditional)"
+          "gloss": "thought",
+          "gram": "past masculine singular, perfective"
         },
         {
           "t": "мы",
@@ -348,7 +348,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "Dad",
-          "gram": "vocative, diminutive"
+          "gram": "colloquial vocative (truncated form of папа)"
         },
         {
           "t": "ты",
@@ -379,8 +379,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "зоопарк?",
@@ -715,8 +715,8 @@
           "lemma": "подумать",
           "pos": "verb",
           "stress": "поду́мал",
-          "gloss": "would think",
-          "gram": "past, masculine singular, perfective (with бы = conditional)"
+          "gloss": "thought",
+          "gram": "past masculine singular, perfective"
         },
         {
           "t": "мы",
@@ -868,7 +868,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "Dad",
-          "gram": "vocative, diminutive"
+          "gram": "colloquial vocative (truncated form of папа)"
         },
         {
           "t": "ты",
@@ -899,8 +899,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "зоопарк?",
@@ -1235,8 +1235,8 @@
           "lemma": "подумать",
           "pos": "verb",
           "stress": "поду́мал",
-          "gloss": "would think",
-          "gram": "past, masculine singular, perfective (with бы = conditional)"
+          "gloss": "thought",
+          "gram": "past masculine singular, perfective"
         },
         {
           "t": "мы",
@@ -1388,7 +1388,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "Dad",
-          "gram": "vocative, diminutive"
+          "gram": "colloquial vocative (truncated form of папа)"
         },
         {
           "t": "ты",
@@ -1419,8 +1419,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "зоопарк?",
@@ -1622,14 +1622,14 @@
     },
     "аспирин": {
       "lemma": "аспирин",
-      "stress": "аспи́рин",
+      "stress": "аспири́н",
       "pos": "noun",
       "gloss": "aspirin",
       "gender": "m",
       "meanings": [
         {
           "en": "aspirin",
-          "note": "Common masculine noun meaning 'aspirin' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1691,18 +1691,18 @@
           "trans": "Just try it: water and aspirin."
         },
         {
-          "text": "На кухне отеля всегда есть аспирин.",
-          "trans": "In the hotel kitchen there is always aspirin."
+          "text": "Выпей аспирин, голова пройдёт.",
+          "trans": "Take an aspirin and your headache will go away."
         }
       ],
       "related": [
         {
-          "word": "без аспири",
-          "gloss": "without aspirin"
+          "word": "таблетка",
+          "gloss": "pill, tablet"
         },
         {
-          "word": "наш аспирин",
-          "gloss": "our aspirin"
+          "word": "лекарство",
+          "gloss": "medicine"
         }
       ]
     },
@@ -1910,7 +1910,7 @@
       "meanings": [
         {
           "en": "to see each other, to meet",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to see each other', paired with 'увидеться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1965,6 +1965,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видься",
+                "видьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2008,7 +2025,7 @@
         },
         {
           "en": "deliciously",
-          "note": "Вкусно готовить = to cook well. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Вкусно готовить = to cook well."
         }
       ],
       "forms": null,
@@ -2047,7 +2064,7 @@
       "meanings": [
         {
           "en": "water",
-          "note": "Common feminine noun meaning 'water' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2119,86 +2136,12 @@
       ],
       "related": [
         {
+          "word": "водичка",
+          "gloss": "water (affectionate)"
+        },
+        {
           "word": "водный",
-          "gloss": "related to water (adj.)"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
+          "gloss": "water (adj.)"
         }
       ]
     },
@@ -2214,7 +2157,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2240,49 +2183,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2293,11 +2193,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2388,15 +2292,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2408,7 +2312,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -2499,7 +2403,11 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "gloss": "good, kindness"
+        },
+        {
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
@@ -2515,11 +2423,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2546,10 +2454,11 @@
       "pos": "noun",
       "gloss": "zoo",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "zoo",
-          "note": "Common masculine noun meaning 'zoo' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2608,11 +2517,11 @@
       "examples": [
         {
           "text": "Где, в зоопарк пришел?",
-          "trans": "Where did I just walk in, a zoo?"
+          "trans": "What is this, did I walk into a zoo?"
         },
         {
-          "text": "На нашей кухне уже есть новый зоопарк.",
-          "trans": "In our kitchen there is already a new zoo."
+          "text": "Однажды я пришла в зоопарк.",
+          "trans": "Once I went to the zoo."
         }
       ],
       "related": []
@@ -2663,7 +2572,7 @@
       "meanings": [
         {
           "en": "or",
-          "note": "Core Russian conj meaning 'or' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2701,7 +2610,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -2809,7 +2718,7 @@
       "meanings": [
         {
           "en": "cinema, movies",
-          "note": "Film theater or cinematic art. Common neuter noun meaning 'cinema, movies, film' in everyday Russian."
+          "note": "Film theater or cinematic art."
         }
       ],
       "forms": {
@@ -2824,42 +2733,42 @@
             "cells": [
               "nominative",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "genitive",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "dative",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "accusative",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "instrumental",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "prepositional",
               "кино",
-              "—"
+              "кино"
             ]
           }
         ]
@@ -2889,7 +2798,7 @@
       "meanings": [
         {
           "en": "where to",
-          "note": "For movement; где is for location. Core Russian adv meaning 'where (to)' in everyday speech."
+          "note": "For movement; где is for location."
         }
       ],
       "forms": null,
@@ -2931,7 +2840,7 @@
       "meanings": [
         {
           "en": "anywhere, somewhere (direction)",
-          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'anywhere'."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2975,7 +2884,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3027,6 +2936,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3344,7 +3270,7 @@
       "meanings": [
         {
           "en": "to think it over, to give it a thought",
-          "note": "Once, for a while. Used as a perfective (single completed action) verb meaning 'to think (it over)', paired with 'думать'."
+          "note": "Once, for a while."
         }
       ],
       "forms": {
@@ -3482,11 +3408,11 @@
       "meanings": [
         {
           "en": "to try, to have a go",
-          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         },
         {
           "en": "to taste",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         }
       ],
       "forms": {
@@ -3595,7 +3521,7 @@
       "meanings": [
         {
           "en": "to think up, to invent, to come up with",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'думать'). Used as a perfective (single completed action) verb meaning 'to think up, to come up with', paired with 'придумывать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'думать')."
         }
       ],
       "forms": {
@@ -3708,7 +3634,7 @@
       "meanings": [
         {
           "en": "to bring (carrying on foot)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести'). Used as a perfective (single completed action) verb meaning 'to bring (on foot)', paired with 'приносить'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести')."
         }
       ],
       "forms": {
@@ -3819,7 +3745,7 @@
       "meanings": [
         {
           "en": "rarely, seldom",
-          "note": "Manner or predicative adverb in '-о' derived from the corresponding adjective stem, used in everyday speech to mean 'rarely'."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3881,109 +3807,6 @@
         {
           "word": "без",
           "gloss": "without"
-        }
-      ]
-    },
-    "сам": {
-      "lemma": "сам",
-      "stress": "сам",
-      "pos": "pron",
-      "gloss": "oneself (myself, yourself...)",
-      "meanings": [
-        {
-          "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "сам",
-              "сама",
-              "само",
-              "сами"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "самого",
-              "самой",
-              "самого",
-              "самих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "самому",
-              "самой",
-              "самому",
-              "самим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "сам / самого",
-              "саму",
-              "само",
-              "сами / самих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "самим",
-              "самой",
-              "самим",
-              "самими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "самом",
-              "самой",
-              "самом",
-              "самих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я сама.",
-          "trans": "I'll do it myself."
-        },
-        {
-          "text": "Он сам знает.",
-          "trans": "He knows himself."
-        },
-        {
-          "text": "Я и сама хорошо проведу время.",
-          "trans": "I'll have a good time on my own."
-        }
-      ],
-      "related": [
-        {
-          "word": "себя",
-          "gloss": "oneself"
-        },
-        {
-          "word": "самый",
-          "gloss": "the very, most"
         }
       ]
     },
@@ -4069,44 +3892,6 @@
         }
       ]
     },
-    "сейчас": {
-      "lemma": "сейчас",
-      "stress": "сейча́с",
-      "pos": "adv",
-      "gloss": "now, right now",
-      "meanings": [
-        {
-          "en": "now",
-          "note": "'сейчас буду' = I'll be right there"
-        },
-        {
-          "en": "in a moment",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я сейчас в кабинете.",
-          "trans": "I'm in the office now."
-        },
-        {
-          "text": "Сейчас приду.",
-          "trans": "I'll be right there."
-        },
-        {
-          "text": "Конечно, помогу. Кто у вас сейчас начальник?",
-          "trans": "Of course I'll help. Who's your boss now?"
-        }
-      ],
-      "related": [
-        {
-          "word": "теперь",
-          "gloss": "now (after a change)"
-        }
-      ]
-    },
     "слышать": {
       "lemma": "слышать",
       "stress": "слы́шать",
@@ -4117,11 +3902,11 @@
       "meanings": [
         {
           "en": "to hear",
-          "note": "Слышать о + prepositional. Used as an imperfective (ongoing/repeated action) verb meaning 'to hear', paired with 'услышать'."
+          "note": "Слышать о + prepositional."
         },
         {
           "en": "to hear about",
-          "note": "Слышать о + prepositional. Used as an imperfective (ongoing/repeated action) verb meaning 'to hear', paired with 'услышать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4176,6 +3961,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "слышь",
+                "слышьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4204,12 +4006,10 @@
       "stress": "сходи́ть",
       "pos": "verb",
       "gloss": "to go (somewhere and come back)",
-      "aspect": "pf",
-      "pair": "ходить",
       "meanings": [
         {
           "en": "to go and come back, to pop over",
-          "note": "'Сходите!' = Go on, go and see. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ходить'). Used as a perfective (single completed action) verb meaning 'to go (somewhere and come back)', paired with 'ходить'."
+          "note": "perfective; сходите! = go on, go and see"
         }
       ],
       "forms": {
@@ -4310,7 +4110,8 @@
           "word": "заходить",
           "gloss": "to come in"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "тут": {
       "lemma": "тут",
@@ -4320,7 +4121,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -4432,102 +4233,6 @@
         }
       ]
     },
-    "увидеть": {
-      "lemma": "увидеть",
-      "stress": "уви́деть",
-      "pos": "verb",
-      "gloss": "to see",
-      "aspect": "pf",
-      "pair": "видеть",
-      "meanings": [
-        {
-          "en": "to see, to catch sight of",
-          "note": "Вот увидишь! = you'll see!. Prefix 'у-' marks departure, removal, or successful completion (stem 'видеть'). Used as a perfective (single completed action) verb meaning 'to see', paired with 'видеть'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "увижу",
-              "увидим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "увидишь",
-              "увидите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "увидит",
-              "увидят"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "увидел",
-                "увидела",
-                "увидело",
-                "увидели"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Вот увидишь!",
-          "trans": "You'll see!"
-        },
-        {
-          "text": "Я увидел папу.",
-          "trans": "I saw Dad."
-        },
-        {
-          "text": "И Нину свою ты больше не увидишь!",
-          "trans": "And you'll never see your Nina again!"
-        }
-      ],
-      "related": [
-        {
-          "word": "видеть",
-          "gloss": "to see"
-        },
-        {
-          "word": "свидетель",
-          "gloss": "witness"
-        },
-        {
-          "word": "видеться",
-          "gloss": "to see each other"
-        }
-      ]
-    },
     "удивить": {
       "lemma": "удивить",
       "stress": "удиви́ть",
@@ -4538,7 +4243,7 @@
       "meanings": [
         {
           "en": "to surprise, to amaze",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'дивить'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to surprise', forming an aspectual pair with 'удивлять'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'дивить')."
         }
       ],
       "forms": {
@@ -4650,7 +4355,7 @@
       "meanings": [
         {
           "en": "dinner, supper (evening meal)",
-          "note": "Common masculine noun meaning 'dinner, supper (evening meal)' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4736,7 +4441,7 @@
       "meanings": [
         {
           "en": "morning",
-          "note": "Утром = in the morning. Common neuter noun meaning 'morning' in everyday Russian."
+          "note": "Утром = in the morning."
         }
       ],
       "forms": {
@@ -4818,7 +4523,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4870,6 +4575,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -4942,7 +4664,7 @@
       "meanings": [
         {
           "en": "something, anything",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'anything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {

@@ -287,7 +287,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -319,8 +319,8 @@
           "lemma": "он",
           "pos": "pron",
           "stress": "нему́",
-          "gloss": "he",
-          "gram": "dative of он after preposition к"
+          "gloss": "him",
+          "gram": "3rd person masculine singular, dative (н- form after a preposition)"
         }
       ]
     },
@@ -341,7 +341,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -901,7 +901,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -933,8 +933,8 @@
           "lemma": "он",
           "pos": "pron",
           "stress": "нему́",
-          "gloss": "he",
-          "gram": "dative of он after preposition к"
+          "gloss": "him",
+          "gram": "3rd person masculine singular, dative (н- form after a preposition)"
         }
       ]
     },
@@ -955,7 +955,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1515,7 +1515,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1547,8 +1547,8 @@
           "lemma": "он",
           "pos": "pron",
           "stress": "нему́",
-          "gloss": "he",
-          "gram": "dative of он after preposition к"
+          "gloss": "him",
+          "gram": "3rd person masculine singular, dative (н- form after a preposition)"
         }
       ]
     },
@@ -1569,7 +1569,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1870,7 +1870,7 @@
       "meanings": [
         {
           "en": "notepad, notebook",
-          "note": "Common masculine noun meaning 'notepad, notebook' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1992,7 +1992,7 @@
       "meanings": [
         {
           "en": "carefully, attentively, closely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2210,7 +2210,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2246,7 +2246,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -2337,11 +2337,11 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
@@ -2357,7 +2357,7 @@
       "meanings": [
         {
           "en": "quite, rather",
-          "note": "Manner or predicative adverb in '-о' derived from the corresponding adjective stem, used in everyday speech to mean 'quite'."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2391,11 +2391,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2435,7 +2435,7 @@
       "meanings": [
         {
           "en": "to order",
-          "note": "Food, goods, or services. Used as an imperfective (ongoing/repeated action) verb meaning 'to order', paired with 'заказать'."
+          "note": "Food, goods, or services."
         }
       ],
       "forms": {
@@ -2628,12 +2628,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2688,6 +2686,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2707,17 +2722,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "изучать": {
       "lemma": "изучать",
@@ -2729,7 +2745,7 @@
       "meanings": [
         {
           "en": "to study, examine",
-          "note": "Used in Russian as an imperfective verb expressing ongoing, habitual, or repeated action meaning 'to study', forming an aspectual pair with 'изучить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2968,42 +2984,42 @@
             "cells": [
               "nominative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "genitive",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "dative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "accusative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "instrumental",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "prepositional",
               "меню",
-              "—"
+              "меню"
             ]
           }
         ]
@@ -3589,11 +3605,11 @@
       "meanings": [
         {
           "en": "to write",
-          "note": "In a lesson. Used as an imperfective (ongoing/repeated action) verb meaning 'to write', paired with 'написать'."
+          "note": "letters, books, reports"
         },
         {
-          "en": "to take notes",
-          "note": "In a lesson. Used as an imperfective (ongoing/repeated action) verb meaning 'to write', paired with 'написать'."
+          "en": "to paint (pictures)",
+          "note": "писать картины"
         }
       ],
       "forms": {
@@ -3706,11 +3722,11 @@
       "meanings": [
         {
           "en": "to come up to, to approach",
-          "note": "К + dative. Used as a perfective (single completed action) verb meaning 'to come up (to), to approach', paired with 'подходить'."
+          "note": "К + dative."
         },
         {
           "en": "to suit, to fit",
-          "note": "Used as a perfective (single completed action) verb meaning 'to come up (to), to approach', paired with 'подходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3790,10 +3806,6 @@
           "trans": "Come here to me!"
         },
         {
-          "text": "Не подходите к моему ребёнку!",
-          "trans": "Keep away from my child!"
-        },
-        {
           "text": "Нам не нужна ваша приставка! Ещё раз подойдёте к моему ребёнку — пожалеете!",
           "trans": "We don't need your console! Come near my child again and you'll be sorry!"
         }
@@ -3823,7 +3835,7 @@
       "meanings": [
         {
           "en": "to call, summon, invite",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звать'). Used as a perfective (single completed action) verb meaning 'to call, summon', paired with 'звать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звать')."
         }
       ],
       "forms": {
@@ -3903,12 +3915,12 @@
           "trans": "Uncle Arkady will fix everything and call you."
         },
         {
-          "text": "Позвать врача.",
-          "trans": "To call a doctor."
+          "text": "Я просил позвать сомелье, а не буфетчика!",
+          "trans": "I asked you to call the sommelier, not the barman!"
         },
         {
           "text": "Главное, чтобы она не позвала директора.",
-          "trans": "The main thing is that she does not call the director."
+          "trans": "The main thing is that she doesn't call the director."
         }
       ],
       "related": [
@@ -3967,7 +3979,7 @@
       "meanings": [
         {
           "en": "constantly, continuously, always",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4066,10 +4078,11 @@
       "pos": "noun",
       "gloss": "check, inspection, test",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "check, verification, test",
-          "note": "Common feminine noun meaning 'check, inspection, test' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4149,11 +4162,11 @@
       "meanings": [
         {
           "en": "right, just, directly",
-          "note": "Прямо так = just like that. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Прямо так = just like that."
         },
         {
           "en": "straight ahead",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4187,7 +4200,7 @@
       "meanings": [
         {
           "en": "fifth",
-          "note": "Descriptive Russian adjective meaning 'fifth', agreeing in gender, number, and case with the noun it modifies."
+          "note": ""
         }
       ],
       "forms": {
@@ -4615,7 +4628,7 @@
       "meanings": [
         {
           "en": "to happen",
-          "note": "Что случилось? = what happened?. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to happen', paired with 'случаться'."
+          "note": "Что случилось? = what happened?."
         }
       ],
       "forms": {
@@ -4670,6 +4683,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "случись",
+                "случитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4702,7 +4732,7 @@
       "meanings": [
         {
           "en": "small table",
-          "note": "Derived masculine noun formed with a productive Slavic suffix, used in spoken Russian to mean 'small table'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4894,7 +4924,7 @@
       "meanings": [
         {
           "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
+          "note": "Direction."
         }
       ],
       "forms": null,
@@ -4978,8 +5008,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },

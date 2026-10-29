@@ -73,8 +73,8 @@
           "lemma": "сорвать",
           "pos": "verb",
           "stress": "сорва́ли",
-          "gloss": "tore",
-          "gram": "past plural"
+          "gloss": "picked",
+          "gram": "past tense, plural, perfective"
         },
         {
           "t": "живые",
@@ -268,7 +268,7 @@
           "pos": "noun",
           "stress": "выходны́х",
           "gloss": "weekend",
-          "gram": "prepositional plural"
+          "gram": "plural (prepositional / genitive)"
         }
       ]
     },
@@ -783,8 +783,8 @@
           "lemma": "сорвать",
           "pos": "verb",
           "stress": "сорва́ли",
-          "gloss": "tore",
-          "gram": "past plural"
+          "gloss": "picked",
+          "gram": "past tense, plural, perfective"
         },
         {
           "t": "живые",
@@ -978,7 +978,7 @@
           "pos": "noun",
           "stress": "выходны́х",
           "gloss": "weekend",
-          "gram": "prepositional plural"
+          "gram": "plural (prepositional / genitive)"
         }
       ]
     },
@@ -1493,8 +1493,8 @@
           "lemma": "сорвать",
           "pos": "verb",
           "stress": "сорва́ли",
-          "gloss": "tore",
-          "gram": "past plural"
+          "gloss": "picked",
+          "gram": "past tense, plural, perfective"
         },
         {
           "t": "живые",
@@ -1688,7 +1688,7 @@
           "pos": "noun",
           "stress": "выходны́х",
           "gloss": "weekend",
-          "gram": "prepositional plural"
+          "gram": "plural (prepositional / genitive)"
         }
       ]
     },
@@ -2199,7 +2199,7 @@
       "meanings": [
         {
           "en": "without",
-          "note": "+ genitive. Core Russian prep meaning 'without' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2237,7 +2237,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2744,7 +2744,7 @@
       "meanings": [
         {
           "en": "together",
-          "note": "Core Russian adv meaning 'together' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2779,11 +2779,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2988,12 +2988,10 @@
       "stress": "грусти́ть",
       "pos": "verb",
       "gloss": "to be sad, grieve",
-      "aspect": "impf",
-      "pair": "погрустить",
       "meanings": [
         {
           "en": "to be sad, mourn, pine",
-          "note": "Intransitive. Used as an imperfective (ongoing/repeated action) verb meaning 'to be sad, grieve', paired with 'погрустить'."
+          "note": "Intransitive."
         }
       ],
       "forms": {
@@ -3094,7 +3092,8 @@
           "word": "грустно",
           "gloss": "sadly"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "давать": {
       "lemma": "давать",
@@ -3106,11 +3105,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3201,15 +3204,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3443,7 +3446,7 @@
       "meanings": [
         {
           "en": "living, alive",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('living, alive, live')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3486,10 +3489,10 @@
           {
             "cells": [
               "accusative",
-              "живой/живого",
+              "живой / живого",
               "живую",
               "живое",
-              "живые/живых"
+              "живые / живых"
             ]
           },
           {
@@ -3546,7 +3549,7 @@
       "meanings": [
         {
           "en": "what for, why",
-          "note": "Asks about the purpose. Core Russian adv meaning 'what for, why' in everyday speech."
+          "note": "Asks about the purpose."
         }
       ],
       "forms": null,
@@ -3581,11 +3584,11 @@
       "meanings": [
         {
           "en": "defence",
-          "note": "In court or sport. Common feminine noun meaning 'defence, protection' in everyday Russian."
+          "note": "In court or sport."
         },
         {
           "en": "protection",
-          "note": "Common feminine noun meaning 'defence, protection' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3670,7 +3673,7 @@
       "meanings": [
         {
           "en": "evil, wicked, hostile",
-          "note": "Having malicious intent. Agrees in gender, number, and case with the noun it modifies ('evil, wicked, angry')."
+          "note": "Having malicious intent."
         }
       ],
       "forms": {
@@ -3713,10 +3716,10 @@
           {
             "cells": [
               "accusative",
-              "злого",
+              "злой / злого",
               "злую",
               "злое",
-              "злых"
+              "злые / злых"
             ]
           },
           {
@@ -3757,11 +3760,15 @@
       "related": [
         {
           "word": "зло",
-          "gloss": "in a evil way (adv.)"
+          "gloss": "evil"
         },
         {
           "word": "злость",
-          "gloss": "quality of being evil"
+          "gloss": "anger, malice"
+        },
+        {
+          "word": "злиться",
+          "gloss": "to be angry"
         }
       ]
     },
@@ -3773,7 +3780,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -3881,7 +3888,7 @@
       "meanings": [
         {
           "en": "cinema, movies",
-          "note": "Film theater or cinematic art. Common neuter noun meaning 'cinema, movies, film' in everyday Russian."
+          "note": "Film theater or cinematic art."
         }
       ],
       "forms": {
@@ -3896,42 +3903,42 @@
             "cells": [
               "nominative",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "genitive",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "dative",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "accusative",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "instrumental",
               "кино",
-              "—"
+              "кино"
             ]
           },
           {
             "cells": [
               "prepositional",
               "кино",
-              "—"
+              "кино"
             ]
           }
         ]
@@ -3961,7 +3968,7 @@
       "meanings": [
         {
           "en": "beautiful, pretty, handsome",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('beautiful, pretty, handsome')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4004,10 +4011,10 @@
           {
             "cells": [
               "accusative",
-              "красивый",
+              "красивый / красивого",
               "красивую",
               "красивое",
-              "красивые"
+              "красивые / красивых"
             ]
           },
           {
@@ -4064,7 +4071,7 @@
       "meanings": [
         {
           "en": "anywhere, somewhere (direction)",
-          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'anywhere'."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4107,7 +4114,7 @@
       "meanings": [
         {
           "en": "forest, woods",
-          "note": "Locative в лесу after в/на. Common masculine noun meaning 'forest, woods' in everyday Russian."
+          "note": "Locative в лесу after в/на."
         }
       ],
       "forms": {
@@ -4282,7 +4289,7 @@
       "meanings": [
         {
           "en": "rally, demonstration",
-          "note": "A political gathering. Common masculine noun meaning 'rally, political meeting' in everyday Russian."
+          "note": "A political gathering."
         }
       ],
       "forms": {
@@ -4622,7 +4629,7 @@
       "meanings": [
         {
           "en": "excellent, great, perfectly",
-          "note": "Used as an exclamation of approval. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Used as an exclamation of approval."
         }
       ],
       "forms": null,
@@ -4658,7 +4665,7 @@
       "meanings": [
         {
           "en": "to go, to set off (by car, bus, train)",
-          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to go (by vehicle), to set off', paired with 'ехать'."
+          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -4767,11 +4774,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -4909,7 +4916,7 @@
       "meanings": [
         {
           "en": "to act, treat",
-          "note": "Behave in a certain manner. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ступать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to act, treat', paired with 'поступить'."
+          "note": "Behave in a certain manner. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ступать')."
         }
       ],
       "forms": {
@@ -5000,15 +5007,11 @@
       "related": [
         {
           "word": "поступить",
-          "gloss": "to enter"
+          "gloss": "to act; to get into (a university)"
         },
         {
-          "word": "выступать",
-          "gloss": "to speak"
-        },
-        {
-          "word": "наступить",
-          "gloss": "to come"
+          "word": "поступок",
+          "gloss": "deed, act"
         }
       ]
     },
@@ -5056,11 +5059,11 @@
       "meanings": [
         {
           "en": "to offer",
-          "note": "Used as a perfective (single completed action) verb meaning 'to offer, to suggest', paired with 'предлагать'."
+          "note": ""
         },
         {
           "en": "to suggest",
-          "note": "Used as a perfective (single completed action) verb meaning 'to offer, to suggest', paired with 'предлагать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5115,6 +5118,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "предложи",
+                "предложите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5134,11 +5154,11 @@
       "related": [
         {
           "word": "предлагать",
-          "gloss": "to suggest"
+          "gloss": "to offer (impf)"
         },
         {
-          "word": "заложить",
-          "gloss": "to lay"
+          "word": "предложение",
+          "gloss": "offer, proposal"
         }
       ]
     },
@@ -5150,7 +5170,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -5261,7 +5281,7 @@
       "meanings": [
         {
           "en": "for the sake of, for",
-          "note": "+ genitive. Core Russian prep meaning 'for the sake of' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -5331,11 +5351,11 @@
       "meanings": [
         {
           "en": "to disrupt, to ruin (a lesson or plan)",
-          "note": "Сорвать урок = to disrupt a class. Used as a perfective (single completed action) verb meaning 'to disrupt, to ruin; to tear off', paired with 'срывать'."
+          "note": "Сорвать урок = to disrupt a class."
         },
         {
           "en": "to pluck, to tear off",
-          "note": "Used as a perfective (single completed action) verb meaning 'to disrupt, to ruin; to tear off', paired with 'срывать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5448,7 +5468,7 @@
       "meanings": [
         {
           "en": "to save, to rescue from danger",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to save, to rescue', paired with 'спасти'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5552,12 +5572,10 @@
       "stress": "сходи́ть",
       "pos": "verb",
       "gloss": "to go (somewhere and come back)",
-      "aspect": "pf",
-      "pair": "ходить",
       "meanings": [
         {
           "en": "to go and come back, to pop over",
-          "note": "'Сходите!' = Go on, go and see. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ходить'). Used as a perfective (single completed action) verb meaning 'to go (somewhere and come back)', paired with 'ходить'."
+          "note": "perfective; сходите! = go on, go and see"
         }
       ],
       "forms": {
@@ -5658,7 +5676,8 @@
           "word": "заходить",
           "gloss": "to come in"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "так": {
       "lemma": "так",
@@ -5739,7 +5758,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5855,7 +5874,7 @@
       "meanings": [
         {
           "en": "pleasure, enjoyment",
-          "note": "Common neuter noun meaning 'pleasure' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5913,16 +5932,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Ходить в садик с удовольствием.",
-          "trans": "Go to daycare with pleasure."
+          "text": "Даже Лёша начал ходить в садик с удовольствием.",
+          "trans": "Even Lyosha has started going to nursery happily."
         },
         {
           "text": "С большим удовольствием!",
           "trans": "With great pleasure!"
         },
         {
-          "text": "Даже Лёша начал ходить в садик с удовольствием.",
-          "trans": "Even Lyosha started going to daycare with pleasure."
+          "text": "С вами работать одно удовольствие, Виктор Петрович!",
+          "trans": "It's a real pleasure working with you, Viktor Petrovich!"
         }
       ],
       "related": []
@@ -5935,7 +5954,7 @@
       "meanings": [
         {
           "en": "terrible, awful; terribly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6013,7 +6032,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -6068,6 +6087,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6104,7 +6140,7 @@
       "meanings": [
         {
           "en": "flower",
-          "note": "Irregular plural цветы (flowers). Common masculine noun meaning 'flower' in everyday Russian."
+          "note": "Irregular plural цветы (flowers)."
         }
       ],
       "forms": {
@@ -6119,14 +6155,14 @@
             "cells": [
               "nominative",
               "цветок",
-              "цветы"
+              "цветки"
             ]
           },
           {
             "cells": [
               "genitive",
               "цветка",
-              "цветов"
+              "цветков"
             ]
           },
           {
@@ -6140,7 +6176,7 @@
             "cells": [
               "accusative",
               "цветок",
-              "цветы"
+              "цветки"
             ]
           },
           {

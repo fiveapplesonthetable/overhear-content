@@ -382,7 +382,7 @@
           "pos": "adv",
           "stress": "возмути́тельно",
           "gloss": "outrageous",
-          "gram": "nominative / accusative"
+          "gram": "predicative adverb"
         }
       ]
     },
@@ -420,7 +420,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "жена",
@@ -958,7 +958,7 @@
           "pos": "adv",
           "stress": "возмути́тельно",
           "gloss": "outrageous",
-          "gram": "nominative / accusative"
+          "gram": "predicative adverb"
         }
       ]
     },
@@ -996,7 +996,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "жена",
@@ -1534,7 +1534,7 @@
           "pos": "adv",
           "stress": "возмути́тельно",
           "gloss": "outrageous",
-          "gram": "nominative / accusative"
+          "gram": "predicative adverb"
         }
       ]
     },
@@ -1572,7 +1572,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "жена",
@@ -1801,12 +1801,10 @@
       "stress": "беспоко́иться",
       "pos": "verb",
       "gloss": "to worry",
-      "aspect": "impf",
-      "pair": "забеспокоиться",
       "meanings": [
         {
           "en": "to worry, to be anxious",
-          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'покоиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry', paired with 'забеспокоиться'."
+          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'покоиться')."
         }
       ],
       "forms": {
@@ -1896,8 +1894,8 @@
       ],
       "related": [
         {
-          "word": "забеспокоиться",
-          "gloss": "to worry"
+          "word": "побеспокоиться",
+          "gloss": "to take care of, to see to"
         },
         {
           "word": "беспокоить",
@@ -1907,7 +1905,8 @@
           "word": "спокойный",
           "gloss": "calm"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "ваш": {
       "lemma": "ваш",
@@ -1917,7 +1916,7 @@
       "meanings": [
         {
           "en": "your, yours",
-          "note": "Polite (вы) or plural. Core Russian det meaning 'your, yours (polite or plural)' in everyday speech."
+          "note": "Polite (вы) or plural."
         }
       ],
       "forms": {
@@ -2131,11 +2130,15 @@
       "lemma": "возмутительно",
       "stress": "возмути́тельно",
       "pos": "adv",
-      "gloss": "outrageous",
+      "gloss": "outrageous; outrageously",
       "meanings": [
         {
-          "en": "outrageous",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "en": "it's outrageous",
+          "note": "predicative: Это возмутительно!"
+        },
+        {
+          "en": "outrageously",
+          "note": ""
         }
       ],
       "forms": null,
@@ -2156,16 +2159,16 @@
       ],
       "related": [
         {
-          "word": "невозможно",
-          "gloss": "impossible"
+          "word": "возмутительный",
+          "gloss": "outrageous"
         },
         {
-          "word": "возможность",
-          "gloss": "possibility"
+          "word": "возмущение",
+          "gloss": "outrage"
         },
         {
-          "word": "возможный",
-          "gloss": "possible"
+          "word": "безобразие",
+          "gloss": "disgrace"
         }
       ]
     },
@@ -2178,11 +2181,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2264,84 +2267,6 @@
         {
           "word": "встретить",
           "gloss": "to meet"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2600,11 +2525,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2644,7 +2569,7 @@
       "meanings": [
         {
           "en": "to agree, to have an agreement",
-          "note": "+ с + instrumental. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to agree, to make a deal', paired with 'договориться'."
+          "note": "+ с + instrumental."
         }
       ],
       "forms": {
@@ -2735,15 +2660,15 @@
       "related": [
         {
           "word": "договориться",
-          "gloss": "to agree"
+          "gloss": "to agree (pf)"
         },
         {
           "word": "разговаривать",
           "gloss": "to talk"
         },
         {
-          "word": "наговаривать",
-          "gloss": "slander"
+          "word": "договор",
+          "gloss": "contract, agreement"
         }
       ]
     },
@@ -2755,7 +2680,7 @@
       "meanings": [
         {
           "en": "home, homeward (direction)",
-          "note": "Contrast дома = at home. Core Russian adv meaning '(to) home, homeward' in everyday speech."
+          "note": "Contrast дома = at home."
         }
       ],
       "forms": null,
@@ -2785,7 +2710,7 @@
       "meanings": [
         {
           "en": "wife",
-          "note": "Common feminine noun meaning 'wife' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2866,13 +2791,13 @@
       "lemma": "замотаться",
       "stress": "замота́ться",
       "pos": "verb",
-      "gloss": "got caught up, swamped",
+      "gloss": "to be run off one's feet",
       "aspect": "pf",
       "pair": null,
       "meanings": [
         {
-          "en": "got caught up, swamped",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'мотаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'got caught up, swamped'."
+          "en": "to be run off one's feet, to get swamped (with things to do)",
+          "note": "Colloquial: прости, замотался = sorry, I've been swamped."
         }
       ],
       "forms": {
@@ -2927,22 +2852,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "замотайся",
+                "замотайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и замотаться вовремя.",
-          "trans": "We need to do everything and got caught up on time."
+          "text": "Лена, прости, я сегодня замотался.",
+          "trans": "Lena, sorry, I've been run off my feet today."
         },
         {
-          "text": "На нашей кухне все умеют замотаться.",
-          "trans": "In our kitchen everyone knows how to got caught up."
+          "text": "Ой, это я совсем замоталась.",
+          "trans": "Oh, I've just been so swamped."
         }
       ],
       "related": [
         {
-          "word": "не замотаться",
-          "gloss": "not to got caught up (negated infinitive)"
+          "word": "закрутиться",
+          "gloss": "to get caught up (in things)"
+        },
+        {
+          "word": "устать",
+          "gloss": "to get tired"
         }
       ]
     },
@@ -3066,8 +3012,8 @@
           "gloss": "inspection"
         },
         {
-          "word": "проинспектировать",
-          "gloss": "inspect"
+          "word": "инспектировать",
+          "gloss": "to inspect"
         }
       ]
     },
@@ -3108,12 +3054,16 @@
       "lemma": "коляска",
       "stress": "коля́ска",
       "pos": "noun",
-      "gloss": "wheelchair",
+      "gloss": "wheelchair; pram",
       "gender": "f",
       "meanings": [
         {
           "en": "wheelchair",
-          "note": "Common feminine noun meaning 'wheelchair' in everyday Russian."
+          "note": "инвалидная коляска"
+        },
+        {
+          "en": "pram, baby stroller",
+          "note": "детская коляска"
         }
       ],
       "forms": {
@@ -3135,7 +3085,7 @@
             "cells": [
               "genitive",
               "коляски",
-              "коляск"
+              "колясок"
             ]
           },
           {
@@ -3185,12 +3135,12 @@
       ],
       "related": [
         {
-          "word": "без коляск",
-          "gloss": "without wheelchair"
+          "word": "инвалидная коляска",
+          "gloss": "wheelchair"
         },
         {
-          "word": "наш коляска",
-          "gloss": "our wheelchair"
+          "word": "детская коляска",
+          "gloss": "pram"
         }
       ]
     },
@@ -3467,7 +3417,7 @@
       "meanings": [
         {
           "en": "fine, OK, normal",
-          "note": "Colloquial. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Colloquial."
         }
       ],
       "forms": null,
@@ -3619,111 +3569,6 @@
         }
       ]
     },
-    "подняться": {
-      "lemma": "подняться",
-      "stress": "подня́ться",
-      "pos": "verb",
-      "gloss": "to rise, to go up (temperature)",
-      "aspect": "pf",
-      "pair": "подниматься",
-      "meanings": [
-        {
-          "en": "to rise, to go up, to ascend",
-          "note": "Perfective reflexive verb. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to rise, to go up (temperature)', paired with 'подниматься'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "поднимусь",
-              "поднимемся"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "поднимешься",
-              "подниметесь"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "поднимется",
-              "поднимутся"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "поднялся",
-                "поднялась",
-                "поднялось",
-                "поднялись"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "поднимись",
-                "поднимитесь"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "У него поднялась температура.",
-          "trans": "His temperature went up."
-        },
-        {
-          "text": "Он поднялся на второй этаж.",
-          "trans": "He went up to the second floor."
-        },
-        {
-          "text": "У него поднялась высокая температура.",
-          "trans": "He developed a high temperature."
-        }
-      ],
-      "related": [
-        {
-          "word": "подниматься",
-          "gloss": "to go up"
-        }
-      ]
-    },
     "познакомиться": {
       "lemma": "познакомиться",
       "stress": "познако́миться",
@@ -3734,7 +3579,7 @@
       "meanings": [
         {
           "en": "to meet, to get acquainted (with)",
-          "note": "+ с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'знакомиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to meet, to get acquainted', paired with 'знакомиться'."
+          "note": "+ с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'знакомиться')."
         }
       ],
       "forms": {
@@ -3837,119 +3682,6 @@
         }
       ]
     },
-    "помочь": {
-      "lemma": "помочь",
-      "stress": "помо́чь",
-      "pos": "verb",
-      "gloss": "to help",
-      "aspect": "pf",
-      "pair": "помогать",
-      "meanings": [
-        {
-          "en": "to help",
-          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь'). Used as a perfective (single completed action) verb meaning 'to help', paired with 'помогать'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "помогу",
-              "поможем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "поможешь",
-              "поможете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "поможет",
-              "помогут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "помог",
-                "помогла",
-                "помогло",
-                "помогли"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "помоги",
-                "помогите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Конечно, помогу.",
-          "trans": "Of course I'll help."
-        },
-        {
-          "text": "Экскаваторщик — это не мой уровень. Может, поможешь?",
-          "trans": "Excavator driver isn't my level. Maybe you could help?"
-        }
-      ],
-      "related": [
-        {
-          "word": "помогать",
-          "gloss": "to help"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
-        },
-        {
-          "word": "смочь",
-          "gloss": "to be able"
-        }
-      ]
-    },
     "прекрасный": {
       "lemma": "прекрасный",
       "stress": "прекра́сный",
@@ -3958,7 +3690,7 @@
       "meanings": [
         {
           "en": "beautiful, wonderful",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('beautiful, wonderful')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4083,135 +3815,6 @@
         }
       ]
     },
-    "приятный": {
-      "lemma": "приятный",
-      "stress": "прия́тный",
-      "pos": "adj",
-      "gloss": "pleasant, nice",
-      "meanings": [
-        {
-          "en": "pleasant, nice",
-          "note": "= Enjoy your meal!. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
-        },
-        {
-          "en": "Приятного аппетита!",
-          "note": "= Enjoy your meal!. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "приятный",
-              "приятная",
-              "приятное",
-              "приятные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "приятного",
-              "приятной",
-              "приятного",
-              "приятных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "приятному",
-              "приятной",
-              "приятному",
-              "приятным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "приятный / приятного",
-              "приятную",
-              "приятное",
-              "приятные / приятных"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "приятным",
-              "приятной",
-              "приятным",
-              "приятными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "приятном",
-              "приятной",
-              "приятном",
-              "приятных"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "приятен",
-                "приятна",
-                "приятно",
-                "приятны"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Приятного аппетита!",
-          "trans": "Enjoy your meal!"
-        },
-        {
-          "text": "Он очень приятный человек.",
-          "trans": "He's a very nice person."
-        },
-        {
-          "text": "Хорошо! Приятного вечера.",
-          "trans": "Very well! Have a pleasant evening."
-        }
-      ],
-      "related": [
-        {
-          "word": "приятно",
-          "gloss": "in a pleasant way (adv.)"
-        },
-        {
-          "word": "приятность",
-          "gloss": "quality of being pleasant"
-        }
-      ]
-    },
     "произойти": {
       "lemma": "произойти",
       "stress": "произойти́",
@@ -4274,6 +3877,23 @@
                 "произошла",
                 "произошло",
                 "произошли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "произойди",
+                "произойдите"
               ]
             }
           ]
@@ -4523,99 +4143,20 @@
       ],
       "related": [
         {
-          "word": "разный",
-          "gloss": "related to time (adj.)"
-        }
-      ]
-    },
-    "ребята": {
-      "lemma": "ребята",
-      "stress": "ребя́та",
-      "pos": "noun",
-      "gloss": "guys, lads, kids (plural only)",
-      "gender": "m",
-      "number": "pl",
-      "meanings": [
-        {
-          "en": "guys, lads",
-          "note": "informal: a group of young men; ребята! = guys!"
+          "word": "однажды",
+          "gloss": "once, one day"
         },
         {
-          "en": "kids, children",
-          "note": "Colloquial plural of ребёнок. Common substantive noun meaning 'guys, lads, kids (plural only)' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "—",
-              "ребята"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "—",
-              "ребят"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "—",
-              "ребятам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "—",
-              "ребят"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "—",
-              "ребятами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "—",
-              "ребятах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ребята, вы где?",
-          "trans": "Guys, where are you?"
+          "word": "как раз",
+          "gloss": "just right, exactly"
         },
         {
-          "text": "Ребята с тобой поработают.",
-          "trans": "The boys will have a word with you."
+          "word": "ни разу",
+          "gloss": "not once, never"
         },
         {
-          "text": "Тогда ребята с тобой поработают. До свидания, Аркадий Борисович.",
-          "trans": "Then the boys will have a little word with you. Goodbye, Arkady Borisovich."
-        }
-      ],
-      "related": [
-        {
-          "word": "ребёнок",
-          "gloss": "child"
+          "word": "сразу",
+          "gloss": "at once"
         }
       ]
     },
@@ -4706,7 +4247,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4797,15 +4338,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -4819,11 +4360,11 @@
       "meanings": [
         {
           "en": "to intend, to plan, to be going to",
-          "note": "+ infinitive. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to intend, to be about to; to gather', paired with 'собраться'."
+          "note": "+ infinitive."
         },
         {
           "en": "to gather, to get ready",
-          "note": "Pack or assemble. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to intend, to be about to; to gather', paired with 'собраться'."
+          "note": "Pack or assemble."
         }
       ],
       "forms": {
@@ -4922,87 +4463,6 @@
         }
       ]
     },
-    "спасибо": {
-      "lemma": "спасибо",
-      "stress": "спаси́бо",
-      "pos": "noun",
-      "gloss": "thank you",
-      "gender": "n",
-      "meanings": [
-        {
-          "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Спасибо, папа!",
-          "trans": "Thanks, Dad!"
-        },
-        {
-          "text": "Спасибо за доверие!",
-          "trans": "Thank you for your trust!"
-        },
-        {
-          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
-          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
-        }
-      ],
-      "related": []
-    },
     "только": {
       "lemma": "только",
       "stress": "то́лько",
@@ -5032,8 +4492,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -5094,7 +4562,7 @@
       "meanings": [
         {
           "en": "to steal",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'красть'). Used as a perfective (single completed action) verb meaning 'to steal', paired with 'красть'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'красть')."
         }
       ],
       "forms": {

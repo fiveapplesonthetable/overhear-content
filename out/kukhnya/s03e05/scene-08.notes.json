@@ -58,7 +58,7 @@
           "pos": "adj",
           "stress": "пе́рвая",
           "gloss": "the first one",
-          "gram": "nominative singular, feminine (matching вакансия)"
+          "gram": "nominative singular, feminine"
         },
         {
           "t": "женщина,",
@@ -308,11 +308,11 @@
         },
         {
           "t": "удивлена,",
-          "lemma": "удивить",
-          "pos": "verb",
-          "stress": "удивле́на",
-          "gloss": "to surprise, to astonish",
-          "gram": "conjugated verb"
+          "lemma": "удивлённый",
+          "pos": "adj",
+          "stress": "удивлена́",
+          "gloss": "surprised",
+          "gram": "short form, feminine singular"
         },
         {
           "t": "что",
@@ -544,7 +544,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         },
         {
           "t": "схожу?",
@@ -658,7 +658,7 @@
           "pos": "adj",
           "stress": "пе́рвая",
           "gloss": "the first one",
-          "gram": "nominative singular, feminine (matching вакансия)"
+          "gram": "nominative singular, feminine"
         },
         {
           "t": "женщина,",
@@ -908,11 +908,11 @@
         },
         {
           "t": "удивлена,",
-          "lemma": "удивить",
-          "pos": "verb",
-          "stress": "удивле́на",
-          "gloss": "to surprise, to astonish",
-          "gram": "conjugated verb"
+          "lemma": "удивлённый",
+          "pos": "adj",
+          "stress": "удивлена́",
+          "gloss": "surprised",
+          "gram": "short form, feminine singular"
         },
         {
           "t": "что",
@@ -1144,7 +1144,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         },
         {
           "t": "схожу?",
@@ -1258,7 +1258,7 @@
           "pos": "adj",
           "stress": "пе́рвая",
           "gloss": "the first one",
-          "gram": "nominative singular, feminine (matching вакансия)"
+          "gram": "nominative singular, feminine"
         },
         {
           "t": "женщина,",
@@ -1508,11 +1508,11 @@
         },
         {
           "t": "удивлена,",
-          "lemma": "удивить",
-          "pos": "verb",
-          "stress": "удивле́на",
-          "gloss": "to surprise, to astonish",
-          "gram": "conjugated verb"
+          "lemma": "удивлённый",
+          "pos": "adj",
+          "stress": "удивлена́",
+          "gloss": "surprised",
+          "gram": "short form, feminine singular"
         },
         {
           "t": "что",
@@ -1744,7 +1744,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         },
         {
           "t": "схожу?",
@@ -1819,7 +1819,7 @@
           "lemma": "путь",
           "pos": "noun",
           "stress": "пути́",
-          "gloss": "travels",
+          "gloss": "journey, way",
           "gram": "masculine singular genitive"
         },
         {
@@ -1894,7 +1894,7 @@
       "meanings": [
         {
           "en": "to take",
-          "note": "Habitually or in general. Used as an imperfective (ongoing/repeated action) verb meaning 'to take', paired with 'взять'."
+          "note": "Habitually or in general."
         },
         {
           "en": "to take bribes",
@@ -1989,15 +1989,19 @@
       "related": [
         {
           "word": "взять",
-          "gloss": "to take"
+          "gloss": "to take (pf)"
         },
         {
           "word": "забрать",
-          "gloss": "to take back"
+          "gloss": "to take away, pick up"
         },
         {
-          "word": "убрать",
-          "gloss": "to remove"
+          "word": "брать трубку",
+          "gloss": "to answer the phone"
+        },
+        {
+          "word": "взятка",
+          "gloss": "bribe"
         }
       ]
     },
@@ -2172,7 +2176,7 @@
         },
         {
           "en": "to hire",
-          "note": "'взять на работу' = to give someone a job"
+          "note": ""
         }
       ],
       "forms": {
@@ -2356,87 +2360,6 @@
           "gloss": "you (genitive/accusative)"
         }
       ]
-    },
-    "еда": {
-      "lemma": "еда",
-      "stress": "еда́",
-      "pos": "noun",
-      "gloss": "food, meal",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "food, meal",
-          "note": "Singular only. Common feminine noun meaning 'food, meal' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "еда",
-              "еды"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "еды",
-              "ед"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "еде",
-              "едам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "еду",
-              "еды"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "едой",
-              "едами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "еде",
-              "едах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ой, плохая еда?",
-          "trans": "Oh, bad food?"
-        },
-        {
-          "text": "В этом ресторане всегда свежая еда.",
-          "trans": "There is always fresh food in this restaurant."
-        },
-        {
-          "text": "Ой, плохая еда? Живот болит?",
-          "trans": "Oh no, bad food? Does your stomach hurt?"
-        }
-      ],
-      "related": []
     },
     "ехать": {
       "lemma": "ехать",
@@ -2633,12 +2556,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2693,6 +2614,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2712,17 +2650,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "который": {
       "lemma": "который",
@@ -2735,72 +2674,7 @@
           "note": "joins a description to a noun; agrees with that noun in gender and number"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "который",
-              "которая",
-              "которое",
-              "которые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "которого",
-              "которой",
-              "которого",
-              "которых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "которому",
-              "которой",
-              "которому",
-              "которым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "который/которого",
-              "которую",
-              "которое",
-              "которые/которых"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "которым",
-              "которой",
-              "которым",
-              "которыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "котором",
-              "которой",
-              "котором",
-              "которых"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -2812,8 +2686,8 @@
           "trans": "Where is the book that was here?"
         },
         {
-          "text": "А что я за мэр такой, который держит своё слово?",
-          "trans": "And what kind of mayor would I be if I kept my word?"
+          "text": "Это секрет, который умрёт вместе со мной.",
+          "trans": "It's a secret that will die with me."
         }
       ],
       "related": [
@@ -2831,11 +2705,11 @@
       "meanings": [
         {
           "en": "may I?, can I?",
-          "note": "Asking permission. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Asking permission."
         },
         {
           "en": "it is possible",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2864,7 +2738,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3031,11 +2905,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -3178,7 +3052,7 @@
       "meanings": [
         {
           "en": "first",
-          "note": "С первого раза = the first time. Agrees in gender, number, and case with the noun it modifies ('first')."
+          "note": "С первого раза = the first time."
         }
       ],
       "forms": {
@@ -3274,7 +3148,7 @@
       "meanings": [
         {
           "en": "to go, to set off (by car, bus, train)",
-          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to go (by vehicle), to set off', paired with 'ехать'."
+          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -3387,7 +3261,7 @@
       "meanings": [
         {
           "en": "to congratulate, to wish happy ...",
-          "note": "Поздравляю! = congratulations!. Used as an imperfective (ongoing/repeated action) verb meaning 'to congratulate', paired with 'поздравить'."
+          "note": "Поздравляю! = congratulations!."
         }
       ],
       "forms": {
@@ -3498,7 +3372,7 @@
       "meanings": [
         {
           "en": "then, afterwards, later",
-          "note": "Core Russian adv meaning 'then, later, afterwards' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3625,7 +3499,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -3654,8 +3528,8 @@
       "gender": "m",
       "meanings": [
         {
-          "en": "path, track, route",
-          "note": "Arduous path. Common masculine noun meaning 'path, way, journey' in everyday Russian."
+          "en": "path, way, route, journey",
+          "note": "счастливого пути = have a good trip"
         }
       ],
       "forms": {
@@ -3714,11 +3588,11 @@
       "examples": [
         {
           "text": "Вот фильм: Тернистый путь.",
-          "trans": "Here is a movie: A Thorny Path."
+          "trans": "Here's a movie: The Thorny Path."
         },
         {
-          "text": "Давай, счастливого пути и хорошей дороги!",
-          "trans": "Go ahead, safe travels and have a good road!"
+          "text": "Да, конечно, счастливого пути, Вика.",
+          "trans": "Yes, of course, have a good trip, Vika."
         },
         {
           "text": "Ты сам выбрал этот страшный путь.",
@@ -3737,7 +3611,7 @@
       "meanings": [
         {
           "en": "to talk, to speak, to have a conversation",
-          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'говаривать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to talk, to speak'."
+          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'говаривать')."
         }
       ],
       "forms": {
@@ -3789,6 +3663,23 @@
                 "разговаривала",
                 "разговаривало",
                 "разговаривали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "разговаривай",
+                "разговаривайте"
               ]
             }
           ]
@@ -3977,7 +3868,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4016,12 +3907,10 @@
       "stress": "сходи́ть",
       "pos": "verb",
       "gloss": "to go (somewhere and come back)",
-      "aspect": "pf",
-      "pair": "ходить",
       "meanings": [
         {
           "en": "to go and come back, to pop over",
-          "note": "'Сходите!' = Go on, go and see. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ходить'). Used as a perfective (single completed action) verb meaning 'to go (somewhere and come back)', paired with 'ходить'."
+          "note": "perfective; сходите! = go on, go and see"
         }
       ],
       "forms": {
@@ -4122,7 +4011,8 @@
           "word": "заходить",
           "gloss": "to come in"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "счастливый": {
       "lemma": "счастливый",
@@ -4132,15 +4022,15 @@
       "meanings": [
         {
           "en": "happy",
-          "note": "Сч is pronounced like щ. Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": "Сч is pronounced like щ."
         },
         {
           "en": "lucky",
-          "note": "Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": ""
         },
         {
           "en": "happy (ending)",
-          "note": "Счастливый конец = happy ending. Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": "Счастливый конец = happy ending."
         }
       ],
       "forms": {
@@ -4209,29 +4099,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "счастлив",
-                "счастлива",
-                "счастливо",
-                "счастливы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я очень счастливый.",
@@ -4262,11 +4130,11 @@
       "meanings": [
         {
           "en": "telephone receiver; the phone",
-          "note": "Бросить трубку = to hang up. Common feminine noun meaning '(phone) receiver; tube' in everyday Russian."
+          "note": "Бросить трубку = to hang up."
         },
         {
           "en": "tube, pipe",
-          "note": "Common feminine noun meaning '(phone) receiver; tube' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4356,7 +4224,7 @@
       "meanings": [
         {
           "en": "toilet",
-          "note": "The room or the bowl. Common masculine noun meaning 'toilet' in everyday Russian."
+          "note": "The room or the bowl."
         }
       ],
       "forms": {
@@ -4519,119 +4387,6 @@
         }
       ]
     },
-    "удивить": {
-      "lemma": "удивить",
-      "stress": "удиви́ть",
-      "pos": "verb",
-      "gloss": "to surprise, to astonish",
-      "aspect": "pf",
-      "pair": "удивлять",
-      "meanings": [
-        {
-          "en": "to surprise, to amaze",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'дивить'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to surprise', forming an aspectual pair with 'удивлять'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "удивлю",
-              "удивим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "удивишь",
-              "удивите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "удивит",
-              "удивят"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "удивил",
-                "удивила",
-                "удивило",
-                "удивили"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "удиви",
-                "удивите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Шеф хочет удивить гостей ресторана.",
-          "trans": "The chef wants to surprise the restaurant guests."
-        },
-        {
-          "text": "Ты должен очень сильно удивить наших гостей.",
-          "trans": "You must greatly surprise our guests."
-        },
-        {
-          "text": "Сейчас я вас всех удивлю!",
-          "trans": "Now I will surprise you all!"
-        }
-      ],
-      "related": [
-        {
-          "word": "удивлять",
-          "gloss": "to surprise"
-        },
-        {
-          "word": "удивиться",
-          "gloss": "to be surprised"
-        },
-        {
-          "word": "удивительный",
-          "gloss": "surprising"
-        }
-      ]
-    },
     "удивлённый": {
       "lemma": "удивлённый",
       "stress": "удивлённый",
@@ -4640,7 +4395,7 @@
       "meanings": [
         {
           "en": "surprised, astonished, amazed",
-          "note": "Qualitative or relational adjective formed with the productive '-н-' suffix, meaning 'surprised' and agreeing in gender, number, and case."
+          "note": ""
         }
       ],
       "forms": {
@@ -4683,10 +4438,10 @@
           {
             "cells": [
               "accusative",
-              "удивлённый",
+              "удивлённый / удивлённого",
               "удивлённую",
               "удивлённое",
-              "удивлённые"
+              "удивлённые / удивлённых"
             ]
           },
           {
@@ -4737,7 +4492,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4792,6 +4547,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4827,7 +4599,7 @@
       "meanings": [
         {
           "en": "honestly, frankly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,

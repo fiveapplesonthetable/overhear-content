@@ -49,7 +49,7 @@
         {
           "t": "спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -465,7 +465,7 @@
         {
           "t": "спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -797,7 +797,7 @@
         {
           "t": "спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1213,7 +1213,7 @@
         {
           "t": "спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1545,7 +1545,7 @@
         {
           "t": "спасибо.",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1961,7 +1961,7 @@
         {
           "t": "спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -2252,35 +2252,35 @@
       "words": [
         {
           "t": "Ну,",
-          "gloss": "well",
-          "gram": "particle of impatience",
           "lemma": "ну",
           "pos": "part",
-          "stress": null
+          "stress": null,
+          "gloss": "well",
+          "gram": "particle of impatience"
         },
         {
           "t": "до",
-          "gloss": "until",
-          "gram": "preposition + genitive",
           "lemma": "до",
           "pos": "prep",
-          "stress": null
+          "stress": null,
+          "gloss": "until",
+          "gram": "preposition + genitive"
         },
         {
           "t": "вечера.",
-          "gloss": "evening",
-          "gram": "genitive singular, masculine",
           "lemma": "вечер",
           "pos": "noun",
-          "stress": "ве́чера"
+          "stress": "ве́чера",
+          "gloss": "evening",
+          "gram": "genitive singular, masculine"
         },
         {
           "t": "Пока!",
-          "gloss": "bye!",
-          "gram": "informal farewell interjection",
           "lemma": "пока",
           "pos": "adv",
-          "stress": "пока́"
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
         }
       ]
     }
@@ -2337,7 +2337,7 @@
       "meanings": [
         {
           "en": "ticket",
-          "note": "Document for entry or travel. Common masculine noun meaning 'ticket' in everyday Russian."
+          "note": "Document for entry or travel."
         }
       ],
       "forms": {
@@ -2423,7 +2423,7 @@
       "meanings": [
         {
           "en": "dish",
-          "note": "Declinable neuter noun meaning 'dish', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "platter",
@@ -2507,7 +2507,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2608,7 +2608,7 @@
       "meanings": [
         {
           "en": "borscht (traditional beet soup)",
-          "note": "Common masculine noun meaning 'borscht' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2680,12 +2680,16 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "щи",
+          "gloss": "cabbage soup"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "свёкла",
+          "gloss": "beetroot"
+        },
+        {
+          "word": "суп",
+          "gloss": "soup"
         }
       ]
     },
@@ -3201,7 +3205,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3286,11 +3290,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3559,7 +3563,7 @@
       "meanings": [
         {
           "en": "or",
-          "note": "Core Russian conj meaning 'or' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3631,7 +3635,7 @@
       "meanings": [
         {
           "en": "club, nightclub, community centre",
-          "note": "Спортивный клуб = sports club. Common substantive noun meaning 'club' in everyday Russian."
+          "note": "Спортивный клуб = sports club."
         }
       ],
       "forms": {
@@ -3704,7 +3708,11 @@
       "related": [
         {
           "word": "клубный",
-          "gloss": "related to club (adj.)"
+          "gloss": "club (adj.)"
+        },
+        {
+          "word": "ночной клуб",
+          "gloss": "nightclub"
         }
       ]
     },
@@ -3817,42 +3825,42 @@
             "cells": [
               "nominative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "genitive",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "dative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "accusative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "instrumental",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "prepositional",
               "меню",
-              "—"
+              "меню"
             ]
           }
         ]
@@ -3883,7 +3891,7 @@
       "meanings": [
         {
           "en": "peace",
-          "note": "The end of a quarrel or war. Common masculine noun meaning 'peace; world' in everyday Russian."
+          "note": "The end of a quarrel or war."
         },
         {
           "en": "world",
@@ -4201,11 +4209,11 @@
       "meanings": [
         {
           "en": "to call",
-          "note": "To name or address someone. Used as an imperfective (ongoing/repeated action) verb meaning 'to call; to name', paired with 'назвать'."
+          "note": "To name or address someone."
         },
         {
           "en": "to designate",
-          "note": "To assign a title. Used as an imperfective (ongoing/repeated action) verb meaning 'to call; to name', paired with 'назвать'."
+          "note": "To assign a title."
         }
       ],
       "forms": {
@@ -4296,15 +4304,19 @@
       "related": [
         {
           "word": "назвать",
-          "gloss": "to call"
+          "gloss": "to call, to name (pf)"
         },
         {
           "word": "называться",
           "gloss": "to be called"
         },
         {
-          "word": "вызывать",
-          "gloss": "to cause"
+          "word": "название",
+          "gloss": "name, title"
+        },
+        {
+          "word": "имя",
+          "gloss": "name"
         }
       ]
     },
@@ -4573,7 +4585,7 @@
       "meanings": [
         {
           "en": "pizza",
-          "note": "Food or pizza delivery place. Common feminine noun meaning 'pizza' in everyday Russian."
+          "note": "Food or pizza delivery place."
         }
       ],
       "forms": {
@@ -4655,7 +4667,7 @@
       "meanings": [
         {
           "en": "to give as a present",
-          "note": "Used as a perfective (single completed action) verb meaning 'to give (as a present)', paired with 'дарить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4760,7 +4772,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -4865,7 +4877,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -4968,7 +4980,7 @@
       "meanings": [
         {
           "en": "festive, holiday",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('festive, holiday')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5011,10 +5023,10 @@
           {
             "cells": [
               "accusative",
-              "праздничный",
+              "праздничный / праздничного",
               "праздничную",
               "праздничное",
-              "праздничные"
+              "праздничные / праздничных"
             ]
           },
           {
@@ -5040,16 +5052,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это праздничный.",
-          "trans": "This is festive, holiday."
-        },
-        {
           "text": "Шеф, праздничный десерт уже готов!",
-          "trans": "Chef, the festive dessert is already ready!"
+          "trans": "Chef, the festive dessert is ready!"
         },
         {
           "text": "Саша, всё готово к праздничному банкету?",
-          "trans": "Sasha, is everything ready for the festive banquet?"
+          "trans": "Sasha, is everything ready for the celebration banquet?"
         }
       ],
       "related": [
@@ -5069,7 +5077,7 @@
       "meanings": [
         {
           "en": "to think up, to invent, to come up with",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'думать'). Used as a perfective (single completed action) verb meaning 'to think up, to come up with', paired with 'придумывать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'думать')."
         }
       ],
       "forms": {
@@ -5327,7 +5335,7 @@
       "meanings": [
         {
           "en": "Russian",
-          "note": "Also a Russian man (as a noun). Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('Russian')."
+          "note": "Also a Russian man (as a noun)."
         }
       ],
       "forms": {
@@ -5403,10 +5411,6 @@
           "trans": "Samson, are you Russian?"
         },
         {
-          "text": "Я говорю по-русски.",
-          "trans": "I speak Russian."
-        },
-        {
           "text": "Русский. Православный. Не сидел.",
           "trans": "Russian. Orthodox. Never been in prison."
         }
@@ -5450,67 +5454,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -5536,7 +5488,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5579,7 +5531,7 @@
       "meanings": [
         {
           "en": "sushi",
-          "note": "Declinable neuter noun meaning 'sushi', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -5594,42 +5546,42 @@
             "cells": [
               "nominative",
               "суши",
-              "—"
+              "суши"
             ]
           },
           {
             "cells": [
               "genitive",
               "суши",
-              "—"
+              "суши"
             ]
           },
           {
             "cells": [
               "dative",
               "суши",
-              "—"
+              "суши"
             ]
           },
           {
             "cells": [
               "accusative",
               "суши",
-              "—"
+              "суши"
             ]
           },
           {
             "cells": [
               "instrumental",
               "суши",
-              "—"
+              "суши"
             ]
           },
           {
             "cells": [
               "prepositional",
               "суши",
-              "—"
+              "суши"
             ]
           }
         ]
@@ -5709,8 +5661,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -5722,11 +5682,11 @@
       "meanings": [
         {
           "en": "definitely, for sure",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "exactly, precisely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5760,7 +5720,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -5957,7 +5917,7 @@
       "meanings": [
         {
           "en": "dinner, supper (evening meal)",
-          "note": "Common masculine noun meaning 'dinner, supper (evening meal)' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6042,7 +6002,7 @@
       "meanings": [
         {
           "en": "French",
-          "note": "Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('French')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6448,7 +6408,7 @@
       "meanings": [
         {
           "en": "Japanese",
-          "note": "Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('Japanese')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6547,11 +6507,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6594,7 +6554,7 @@
         },
         {
           "en": "party, evening event",
-          "note": "E.g. a school evening. Common masculine noun meaning 'evening' in everyday Russian."
+          "note": "E.g. a school evening."
         }
       ],
       "forms": {

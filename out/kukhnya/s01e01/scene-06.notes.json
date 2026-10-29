@@ -55,10 +55,10 @@
         {
           "t": "Шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "идёт.",
@@ -603,10 +603,10 @@
         {
           "t": "Шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "идёт.",
@@ -1151,10 +1151,10 @@
         {
           "t": "Шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "идёт.",
@@ -1830,11 +1830,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -1911,11 +1911,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2008,7 +2008,7 @@
       "meanings": [
         {
           "en": "yesterday",
-          "note": "Core Russian adv meaning 'yesterday' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2046,7 +2046,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2082,11 +2082,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2197,11 +2197,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2239,11 +2239,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2283,7 +2283,7 @@
       "meanings": [
         {
           "en": "to anger, to irritate",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to anger, to irritate, to infuriate', paired with 'разозлить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2374,7 +2374,7 @@
       "related": [
         {
           "word": "разозлить",
-          "gloss": "to anger"
+          "gloss": "to make angry (pf)"
         },
         {
           "word": "злиться",
@@ -2382,7 +2382,7 @@
         },
         {
           "word": "позлить",
-          "gloss": "to anger"
+          "gloss": "to tease, to wind up a bit"
         }
       ]
     },
@@ -2394,7 +2394,7 @@
       "meanings": [
         {
           "en": "evil, wicked, hostile",
-          "note": "Having malicious intent. Agrees in gender, number, and case with the noun it modifies ('evil, wicked, angry')."
+          "note": "Having malicious intent."
         }
       ],
       "forms": {
@@ -2437,10 +2437,10 @@
           {
             "cells": [
               "accusative",
-              "злого",
+              "злой / злого",
               "злую",
               "злое",
-              "злых"
+              "злые / злых"
             ]
           },
           {
@@ -2481,11 +2481,15 @@
       "related": [
         {
           "word": "зло",
-          "gloss": "in a evil way (adv.)"
+          "gloss": "evil"
         },
         {
           "word": "злость",
-          "gloss": "quality of being evil"
+          "gloss": "anger, malice"
+        },
+        {
+          "word": "злиться",
+          "gloss": "to be angry"
         }
       ]
     },
@@ -2847,7 +2851,7 @@
         },
         {
           "en": "a fine young man",
-          "note": "Old-fashioned. Common masculine noun meaning 'well done; good person' in everyday Russian."
+          "note": "Old-fashioned."
         }
       ],
       "forms": {
@@ -2933,8 +2937,6 @@
       "stress": "молча́ть",
       "pos": "verb",
       "gloss": "to be silent, to say nothing",
-      "aspect": "impf",
-      "pair": "замолчать",
       "meanings": [
         {
           "en": "to be silent, to keep quiet",
@@ -3039,7 +3041,8 @@
           "word": "молча",
           "gloss": "silently"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "на": {
       "lemma": "на",
@@ -3387,7 +3390,7 @@
       "meanings": [
         {
           "en": "again",
-          "note": "Often with annoyance. Core Russian adv meaning 'again' in everyday speech."
+          "note": "Often with annoyance."
         }
       ],
       "forms": null,
@@ -3416,7 +3419,7 @@
       "meanings": [
         {
           "en": "careful, cautious",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('careful, cautious')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3459,10 +3462,10 @@
           {
             "cells": [
               "accusative",
-              "осторожный",
+              "осторожный / осторожного",
               "осторожную",
               "осторожное",
-              "осторожные"
+              "осторожные / осторожных"
             ]
           },
           {
@@ -3504,10 +3507,6 @@
         {
           "word": "осторожно",
           "gloss": "carefully"
-        },
-        {
-          "word": "состояние",
-          "gloss": "condition"
         },
         {
           "word": "осторожность",
@@ -3561,11 +3560,11 @@
       "meanings": [
         {
           "en": "in front of",
-          "note": "Takes the instrumental. Core Russian prep meaning 'in front of, before' in everyday speech."
+          "note": "Takes the instrumental."
         },
         {
           "en": "before (in time)",
-          "note": "Core Russian prep meaning 'in front of, before' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3594,11 +3593,11 @@
       "meanings": [
         {
           "en": "(it is) clear, understood",
-          "note": "Всё понятно = all clear. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Всё понятно = all clear."
         },
         {
           "en": "I see",
-          "note": "As a reply. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "As a reply."
         }
       ],
       "forms": null,
@@ -3781,7 +3780,7 @@
       "meanings": [
         {
           "en": "to lose (a match, contest, election)",
-          "note": "Opposite of выигрывать. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'игрывать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to lose (a game, election, bet)', paired with 'проиграть'."
+          "note": "Opposite of выигрывать. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'игрывать')."
         }
       ],
       "forms": {
@@ -4137,7 +4136,7 @@
         },
         {
           "en": "evenly, smoothly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4180,7 +4179,7 @@
       "meanings": [
         {
           "en": "rouble",
-          "note": "The Russian currency. Common masculine noun meaning 'rouble' in everyday Russian."
+          "note": "The Russian currency."
         }
       ],
       "forms": {
@@ -4376,11 +4375,11 @@
       "meanings": [
         {
           "en": "how much, how many",
-          "note": "+ genitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive."
         },
         {
           "en": "what a lot of!",
-          "note": "In exclamations. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "In exclamations."
         }
       ],
       "forms": null,
@@ -4411,7 +4410,7 @@
       "meanings": [
         {
           "en": "to happen",
-          "note": "Что случилось? = what happened?. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to happen', paired with 'случаться'."
+          "note": "Что случилось? = what happened?."
         }
       ],
       "forms": {
@@ -4463,6 +4462,23 @@
                 "случилась",
                 "случилось",
                 "случились"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "случись",
+                "случитесь"
               ]
             }
           ]
@@ -4654,7 +4670,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -4699,16 +4715,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Тише, дети спят!",
-          "trans": "Quiet, the children are asleep!"
-        },
-        {
           "text": "Здесь тихо.",
           "trans": "It's quiet here."
         },
         {
-          "text": "Тише!",
-          "trans": "Quiet!"
+          "text": "Почему на кухне так тихо?",
+          "trans": "Why is the kitchen so quiet?"
         }
       ],
       "related": [
@@ -4800,7 +4812,15 @@
       "related": [
         {
           "word": "тысячный",
-          "gloss": "related to thousand (adj.)"
+          "gloss": "thousandth"
+        },
+        {
+          "word": "миллион",
+          "gloss": "million"
+        },
+        {
+          "word": "сто",
+          "gloss": "hundred"
         }
       ]
     },
@@ -4813,7 +4833,7 @@
       "meanings": [
         {
           "en": "football, soccer",
-          "note": "Играть в футбол = to play football. Common masculine noun meaning 'football, soccer' in everyday Russian."
+          "note": "Играть в футбол = to play football."
         }
       ],
       "forms": {
@@ -4828,42 +4848,42 @@
             "cells": [
               "nominative",
               "футбол",
-              "-"
+              "футболы"
             ]
           },
           {
             "cells": [
               "genitive",
               "футбола",
-              "-"
+              "футболов"
             ]
           },
           {
             "cells": [
               "dative",
               "футболу",
-              "-"
+              "футболам"
             ]
           },
           {
             "cells": [
               "accusative",
               "футбол",
-              "-"
+              "футболы"
             ]
           },
           {
             "cells": [
               "instrumental",
               "футболом",
-              "-"
+              "футболами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "футболе",
-              "-"
+              "футболах"
             ]
           }
         ]
@@ -5074,16 +5094,20 @@
       "lemma": "штука",
       "stress": "шту́ка",
       "pos": "noun",
-      "gloss": "thing; piece",
+      "gloss": "thing; piece; grand (1000 rubles)",
       "gender": "f",
       "meanings": [
         {
           "en": "thing, matter (colloquial)",
-          "note": "Common feminine noun meaning 'thing; piece' in everyday Russian."
+          "note": ""
         },
         {
           "en": "piece, item",
-          "note": "Common feminine noun meaning 'thing; piece' in everyday Russian."
+          "note": ""
+        },
+        {
+          "en": "a grand, a thousand (rubles)",
+          "note": "slang: пять штук = five grand"
         }
       ],
       "forms": {

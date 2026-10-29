@@ -440,8 +440,8 @@
           "t": "провела",
           "lemma": "провести",
           "pos": "verb",
-          "stress": "прове́ла",
-          "gloss": "to spend (time); to lead",
+          "stress": "провела́",
+          "gloss": "spent",
           "gram": "past tense, feminine singular"
         },
         {
@@ -511,7 +511,7 @@
           "lemma": "питер",
           "pos": "noun",
           "stress": "пи́тер",
-          "gloss": "petersburg",
+          "gloss": "St. Petersburg (Piter)",
           "gram": "nominative / accusative"
         }
       ]
@@ -1008,8 +1008,8 @@
           "t": "провела",
           "lemma": "провести",
           "pos": "verb",
-          "stress": "прове́ла",
-          "gloss": "to spend (time); to lead",
+          "stress": "провела́",
+          "gloss": "spent",
           "gram": "past tense, feminine singular"
         },
         {
@@ -1079,7 +1079,7 @@
           "lemma": "питер",
           "pos": "noun",
           "stress": "пи́тер",
-          "gloss": "petersburg",
+          "gloss": "St. Petersburg (Piter)",
           "gram": "nominative / accusative"
         }
       ]
@@ -1576,8 +1576,8 @@
           "t": "провела",
           "lemma": "провести",
           "pos": "verb",
-          "stress": "прове́ла",
-          "gloss": "to spend (time); to lead",
+          "stress": "провела́",
+          "gloss": "spent",
           "gram": "past tense, feminine singular"
         },
         {
@@ -1647,7 +1647,7 @@
           "lemma": "питер",
           "pos": "noun",
           "stress": "пи́тер",
-          "gloss": "petersburg",
+          "gloss": "St. Petersburg (Piter)",
           "gram": "nominative / accusative"
         }
       ]
@@ -2075,7 +2075,7 @@
       "meanings": [
         {
           "en": "to lead, to guide, to drive",
-          "note": "Unidirectional verb of motion. Used as an imperfective (ongoing/repeated action) verb meaning 'to lead, to conduct (вести себя = to behave)', paired with 'повести'."
+          "note": "Unidirectional verb of motion."
         },
         {
           "en": "вести себя: to behave, to conduct oneself",
@@ -2220,84 +2220,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "выйти": {
       "lemma": "выйти",
       "stress": "вы́йти",
@@ -2308,11 +2230,11 @@
       "meanings": [
         {
           "en": "to go out, to leave",
-          "note": "Used as a perfective (single completed action) verb meaning 'to go out, to get out', paired with 'выходить'."
+          "note": ""
         },
         {
           "en": "to get out (be released)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to go out, to get out', paired with 'выходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2407,49 +2329,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2460,11 +2339,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2555,15 +2438,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2576,7 +2459,7 @@
       "meanings": [
         {
           "en": "courtyard, yard",
-          "note": "Во дворе = in the yard / outside. Common masculine noun meaning 'yard, courtyard' in everyday Russian."
+          "note": "Во дворе = in the yard / outside."
         }
       ],
       "forms": {
@@ -2747,7 +2630,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2785,11 +2668,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2829,11 +2712,11 @@
       "meanings": [
         {
           "en": "to come in",
-          "note": "Заходи! = come in!. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to come in, to drop in', paired with 'зайти'."
+          "note": "Заходи! = come in!. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'ходить')."
         },
         {
           "en": "to drop in",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to come in, to drop in', paired with 'зайти'."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'ходить')."
         }
       ],
       "forms": {
@@ -2938,14 +2821,15 @@
     },
     "зрелище": {
       "lemma": "зрелище",
-      "stress": "зрели́ще",
+      "stress": "зре́лище",
       "pos": "noun",
       "gloss": "sight / spectacle",
       "gender": "n",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "sight / spectacle",
-          "note": "Common neuter noun meaning 'sight / spectacle' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2960,42 +2844,42 @@
             "cells": [
               "nominative",
               "зрелище",
-              "зрелищя"
+              "зрелища"
             ]
           },
           {
             "cells": [
               "genitive",
-              "зрелищя",
-              "зрелищей"
+              "зрелища",
+              "зрелищ"
             ]
           },
           {
             "cells": [
               "dative",
-              "зрелищю",
-              "зрелищям"
+              "зрелищу",
+              "зрелищам"
             ]
           },
           {
             "cells": [
               "accusative",
               "зрелище",
-              "зрелищя"
+              "зрелища"
             ]
           },
           {
             "cells": [
               "instrumental",
               "зрелищем",
-              "зрелищями"
+              "зрелищами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "зрелище",
-              "зрелищях"
+              "зрелищах"
             ]
           }
         ]
@@ -3004,21 +2888,21 @@
       "examples": [
         {
           "text": "Зрелище тут не очень приятное.",
-          "trans": "The sight in here is not very pleasant."
+          "trans": "It's not a very pleasant sight in here."
         },
         {
-          "text": "На кухне отеля всегда есть зрелище.",
-          "trans": "In the hotel kitchen there is always sight."
+          "text": "Хлеба и зрелищ!",
+          "trans": "Bread and circuses!"
         }
       ],
       "related": [
         {
-          "word": "без зрелищ",
-          "gloss": "without sight"
+          "word": "зритель",
+          "gloss": "viewer, spectator"
         },
         {
-          "word": "наш зрелище",
-          "gloss": "our sight"
+          "word": "зрелищный",
+          "gloss": "spectacular"
         }
       ]
     },
@@ -3028,10 +2912,11 @@
       "pos": "noun",
       "gloss": "yogurt",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "yogurt",
-          "note": "Common masculine noun meaning 'yogurt' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3090,21 +2975,21 @@
       "examples": [
         {
           "text": "Утром я просроченный йогурт съел.",
-          "trans": "In the morning I ate expired yogurt."
+          "trans": "This morning I ate an expired yogurt."
         },
         {
-          "text": "На кухне отеля всегда есть йогурт.",
-          "trans": "In the hotel kitchen there is always yogurt."
+          "text": "На завтрак я ем йогурт с ягодами.",
+          "trans": "For breakfast I have yogurt with berries."
         }
       ],
       "related": [
         {
-          "word": "без йогур",
-          "gloss": "without yogurt"
+          "word": "кефир",
+          "gloss": "kefir"
         },
         {
-          "word": "наш йогурт",
-          "gloss": "our yogurt"
+          "word": "молочные продукты",
+          "gloss": "dairy products"
         }
       ]
     },
@@ -3112,12 +2997,17 @@
       "lemma": "лошадь",
       "stress": "ло́шадь",
       "pos": "noun",
-      "gloss": "horses / horsepower",
-      "gender": "m",
+      "gloss": "horse; (colloquial) horsepower",
+      "gender": "f",
+      "animacy": "anim",
       "meanings": [
         {
-          "en": "horses / horsepower",
-          "note": "Common masculine noun meaning 'horses / horsepower' in everyday Russian."
+          "en": "horse",
+          "note": "работать как лошадь = to work like a horse"
+        },
+        {
+          "en": "(colloquial, plural) horsepower",
+          "note": "двести лошадей = 200 hp"
         }
       ],
       "forms": {
@@ -3153,14 +3043,14 @@
             "cells": [
               "accusative",
               "лошадь",
-              "лошади"
+              "лошадей"
             ]
           },
           {
             "cells": [
               "instrumental",
               "лошадью",
-              "лошадями"
+              "лошадьми"
             ]
           },
           {
@@ -3175,12 +3065,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Двести лошадей, отличный мотоцикл!",
-          "trans": "Two hundred horsepower, an excellent motorcycle!"
+          "text": "Макс, ты зачем вообще на лошадь залез?",
+          "trans": "Max, why did you even get on a horse?"
         },
         {
-          "text": "На кухне ресторана всегда есть лошадь.",
-          "trans": "In the restaurant kitchen there is always horses."
+          "text": "Ты только что сильно упал с лошади.",
+          "trans": "You just had a bad fall from a horse."
+        },
+        {
+          "text": "Двести лошадей, отличный мотоцикл!",
+          "trans": "Two hundred horsepower, a great motorbike!"
         }
       ],
       "related": []
@@ -3420,14 +3314,14 @@
     },
     "ночлег": {
       "lemma": "ночлег",
-      "stress": "но́члег",
+      "stress": "ночле́г",
       "pos": "noun",
-      "gloss": "overnight stay",
+      "gloss": "place to stay the night, lodging",
       "gender": "m",
       "meanings": [
         {
-          "en": "overnight stay",
-          "note": "Common masculine noun meaning 'overnight stay' in everyday Russian."
+          "en": "lodging for the night, overnight stay",
+          "note": "на ночлег = for the night"
         }
       ],
       "forms": {
@@ -3486,21 +3380,21 @@
       "examples": [
         {
           "text": "Веду его сюда на ночлег.",
-          "trans": "I am leading him in here for the night."
+          "trans": "I'm bringing him here to spend the night."
         },
         {
-          "text": "На кухне отеля всегда есть ночлег.",
-          "trans": "In the hotel kitchen there is always overnight stay."
+          "text": "Нам нужно найти ночлег.",
+          "trans": "We need to find somewhere to stay the night."
         }
       ],
       "related": [
         {
-          "word": "без ночле",
-          "gloss": "without overnight stay"
+          "word": "ночевать",
+          "gloss": "to spend the night"
         },
         {
-          "word": "наш ночлег",
-          "gloss": "our overnight stay"
+          "word": "ночлежка",
+          "gloss": "flophouse"
         }
       ]
     },
@@ -3514,7 +3408,7 @@
       "meanings": [
         {
           "en": "to take offence, to get upset",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to take offence, to be hurt', paired with 'обидеться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3715,7 +3609,7 @@
       "meanings": [
         {
           "en": "again",
-          "note": "Often with annoyance. Core Russian adv meaning 'again' in everyday speech."
+          "note": "Often with annoyance."
         }
       ],
       "forms": null,
@@ -3746,11 +3640,11 @@
       "meanings": [
         {
           "en": "to leave (someone or something somewhere)",
-          "note": "Оставь мне кусок = save me a piece. Used as a perfective (single completed action) verb meaning 'to leave (behind)', paired with 'оставлять'."
+          "note": "Оставь мне кусок = save me a piece."
         },
         {
           "en": "to keep, to save",
-          "note": "Оставь мне кусок = save me a piece. Used as a perfective (single completed action) verb meaning 'to leave (behind)', paired with 'оставлять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3976,12 +3870,12 @@
       "lemma": "питер",
       "stress": "пи́тер",
       "pos": "noun",
-      "gloss": "petersburg",
+      "gloss": "Piter (colloquial for St. Petersburg)",
       "gender": "m",
       "meanings": [
         {
-          "en": "petersburg",
-          "note": "Declinable masculine noun meaning 'petersburg', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "en": "Piter, St. Petersburg (colloquial)",
+          "note": ""
         }
       ],
       "forms": {
@@ -4016,8 +3910,8 @@
           {
             "cells": [
               "accusative",
-              "питер",
-              "питеры"
+              "питера",
+              "питеров"
             ]
           },
           {
@@ -4060,7 +3954,7 @@
       "meanings": [
         {
           "en": "to have a talk, to speak (with someone)",
-          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to have a talk', paired with 'говорить'."
+          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить')."
         }
       ],
       "forms": {
@@ -4165,14 +4059,14 @@
     },
     "полдня": {
       "lemma": "полдня",
-      "stress": "по́лдня",
+      "stress": "полдня́",
       "pos": "noun",
       "gloss": "half a day",
       "gender": "f",
       "meanings": [
         {
           "en": "half a day",
-          "note": "Common feminine noun meaning 'half a day' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4187,42 +4081,42 @@
             "cells": [
               "nominative",
               "полдня",
-              "полдни"
+              "—"
             ]
           },
           {
             "cells": [
               "genitive",
-              "полдни",
-              "полднь"
+              "—",
+              "—"
             ]
           },
           {
             "cells": [
               "dative",
-              "полдне",
-              "полдням"
+              "—",
+              "—"
             ]
           },
           {
             "cells": [
               "accusative",
-              "полдню",
-              "полдни"
+              "полдня",
+              "—"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "полдней",
-              "полднями"
+              "—",
+              "—"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "полдне",
-              "полднях"
+              "—",
+              "—"
             ]
           }
         ]
@@ -4231,109 +4125,25 @@
       "examples": [
         {
           "text": "Второй пошел вон за полдня.",
-          "trans": "That is the second 'get out' in half a day."
+          "trans": "That's the second 'get out' in half a day."
         },
         {
-          "text": "На нашей кухне уже есть новая полдня.",
-          "trans": "In our kitchen there is already a new half a day."
+          "text": "Я полдня провела у отца.",
+          "trans": "I spent half the day at my father's."
+        },
+        {
+          "text": "Покатайся полдня в грузовике, устанешь.",
+          "trans": "Ride around in a truck for half a day, you'll get tired."
         }
       ],
       "related": [
         {
-          "word": "без полдн",
-          "gloss": "without half a day"
+          "word": "полдень",
+          "gloss": "noon"
         },
         {
-          "word": "наш полдня",
-          "gloss": "our half a day"
-        }
-      ]
-    },
-    "понимать": {
-      "lemma": "понимать",
-      "stress": "понима́ть",
-      "pos": "verb",
-      "gloss": "to understand",
-      "aspect": "impf",
-      "pair": "понять",
-      "meanings": [
-        {
-          "en": "to understand",
-          "note": "понимаешь? = you know? do you understand?"
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "понимаю",
-              "понимаем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "понимаешь",
-              "понимаете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "понимает",
-              "понимают"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "понимал",
-                "понимала",
-                "понимало",
-                "понимали"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Я понимаю.",
-          "trans": "I understand."
-        },
-        {
-          "text": "Я хочу на море, понимаешь?",
-          "trans": "I want to go to the sea, you know?"
-        },
-        {
-          "text": "Я хочу нормально жить! Я хочу биде, понимаешь?",
-          "trans": "I want to live like a normal person! I want a bidet, do you understand?"
-        }
-      ],
-      "related": [
-        {
-          "word": "понять",
-          "gloss": "to understand"
+          "word": "полгода",
+          "gloss": "half a year"
         }
       ]
     },
@@ -4347,7 +4157,7 @@
       "meanings": [
         {
           "en": "to be patient for a little while, to hold on",
-          "note": "Often imperative: потерпи!. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'терпеть'). Used as a perfective (single completed action) verb meaning 'to be patient for a while, to endure', paired with 'терпеть'."
+          "note": "Often imperative: потерпи!. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'терпеть')."
         }
       ],
       "forms": {
@@ -4458,7 +4268,7 @@
       "meanings": [
         {
           "en": "then, afterwards, later",
-          "note": "Core Russian adv meaning 'then, later, afterwards' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4479,44 +4289,6 @@
       ],
       "related": []
     },
-    "прекрасно": {
-      "lemma": "прекрасно",
-      "stress": "прекра́сно",
-      "pos": "adv",
-      "gloss": "perfectly, beautifully",
-      "meanings": [
-        {
-          "en": "perfectly, very well",
-          "note": "Я прекрасно понимаю = I understand perfectly"
-        },
-        {
-          "en": "wonderful!",
-          "note": "As a reply. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я прекрасно понимаю.",
-          "trans": "I understand perfectly."
-        },
-        {
-          "text": "Прекрасно! Спасибо.",
-          "trans": "Wonderful! Thank you."
-        },
-        {
-          "text": "Нет, лучше так: все говорят, а я делаю! Прекрасно.",
-          "trans": "No, better like this: everyone talks, while I do! Excellent."
-        }
-      ],
-      "related": [
-        {
-          "word": "прекрасный",
-          "gloss": "beautiful"
-        }
-      ]
-    },
     "приятный": {
       "lemma": "приятный",
       "stress": "прия́тный",
@@ -4525,11 +4297,11 @@
       "meanings": [
         {
           "en": "pleasant, nice",
-          "note": "= Enjoy your meal!. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
+          "note": "Приятного аппетита! = Enjoy your meal!"
         },
         {
-          "en": "Приятного аппетита!",
-          "note": "= Enjoy your meal!. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
+          "en": "сделать приятное",
+          "note": "to do something nice (for someone)"
         }
       ],
       "forms": {
@@ -4598,29 +4370,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "приятен",
-                "приятна",
-                "приятно",
-                "приятны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Приятного аппетита!",
@@ -4656,11 +4406,11 @@
       "meanings": [
         {
           "en": "to spend (time)",
-          "note": "Провести время. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'вести'). Used as a perfective (single completed action) verb meaning 'to spend (time); to lead', paired with 'проводить'."
+          "note": "Провести время. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'вести')."
         },
         {
           "en": "to lead, to take",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'вести'). Used as a perfective (single completed action) verb meaning 'to spend (time); to lead', paired with 'проводить'."
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'вести')."
         }
       ],
       "forms": {
@@ -4715,6 +4465,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "проведи",
+                "проведите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4748,13 +4515,13 @@
     },
     "просроченный": {
       "lemma": "просроченный",
-      "stress": "просроче́нный",
+      "stress": "просро́ченный",
       "pos": "adj",
       "gloss": "expired / past its date",
       "meanings": [
         {
           "en": "expired / past its date",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('expired / past its date')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4827,17 +4594,25 @@
       "examples": [
         {
           "text": "Рыба была просроченная, надо было её сразу выбросить.",
-          "trans": "The fish was expired, we should have thrown it out right away."
+          "trans": "The fish was past its date; it should have been thrown out right away."
         },
         {
-          "text": "Шеф говорит, что это очень просроченный выбор.",
-          "trans": "The chef says that this is a very expired choice."
+          "text": "Утром я просроченный йогурт съел.",
+          "trans": "This morning I ate an expired yogurt."
         }
       ],
       "related": [
         {
-          "word": "очень просроченный",
-          "gloss": "very expired"
+          "word": "срок годности",
+          "gloss": "shelf life, best-before date"
+        },
+        {
+          "word": "просрочить",
+          "gloss": "to let expire"
+        },
+        {
+          "word": "свежий",
+          "gloss": "fresh"
         }
       ]
     },
@@ -4850,7 +4625,7 @@
       "meanings": [
         {
           "en": "fish",
-          "note": "Animal or food. Common feminine noun meaning 'fish' in everyday Russian."
+          "note": "Animal or food."
         }
       ],
       "forms": {
@@ -5014,7 +4789,7 @@
       "meanings": [
         {
           "en": "to eat, to eat up",
-          "note": "A whole portion; completed action. Used as a perfective (single completed action) verb meaning 'to eat (up)', paired with 'есть'."
+          "note": "A whole portion; completed action."
         }
       ],
       "forms": {
@@ -5117,7 +4892,7 @@
       "meanings": [
         {
           "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
+          "note": "Direction."
         }
       ],
       "forms": null,
@@ -5151,7 +4926,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -5320,7 +5095,7 @@
       "meanings": [
         {
           "en": "to leave, to go away",
-          "note": "By car, train etc. Prefix 'у-' marks departure, removal, or successful completion (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to leave, to go away (by vehicle)', paired with 'уезжать'."
+          "note": "By car, train etc. Prefix 'у-' marks departure, removal, or successful completion (stem 'ехать')."
         }
       ],
       "forms": {
@@ -5414,7 +5189,7 @@
       "meanings": [
         {
           "en": "stubborn, obstinate",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('stubborn, obstinate')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5500,12 +5275,12 @@
       ],
       "related": [
         {
-          "word": "прямо",
-          "gloss": "straight"
+          "word": "упрямство",
+          "gloss": "stubbornness"
         },
         {
-          "word": "прямой",
-          "gloss": "straight"
+          "word": "упёртый",
+          "gloss": "stubborn (colloq.)"
         }
       ]
     },
@@ -5518,7 +5293,7 @@
       "meanings": [
         {
           "en": "morning",
-          "note": "Утром = in the morning. Common neuter noun meaning 'morning' in everyday Russian."
+          "note": "Утром = in the morning."
         }
       ],
       "forms": {
@@ -5632,7 +5407,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {

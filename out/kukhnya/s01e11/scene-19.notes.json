@@ -382,7 +382,7 @@
           "pos": "verb",
           "stress": "ходи́",
           "gloss": "go",
-          "gram": "conjugated verb"
+          "gram": "imperative singular, imperfective"
         },
         {
           "t": "туда.",
@@ -582,7 +582,7 @@
           "pos": "noun",
           "stress": "статью́",
           "gloss": "article",
-          "gram": "instrumental singular"
+          "gram": "accusative singular"
         }
       ]
     },
@@ -1028,7 +1028,7 @@
           "pos": "verb",
           "stress": "ходи́",
           "gloss": "go",
-          "gram": "conjugated verb"
+          "gram": "imperative singular, imperfective"
         },
         {
           "t": "туда.",
@@ -1228,7 +1228,7 @@
           "pos": "noun",
           "stress": "статью́",
           "gloss": "article",
-          "gram": "instrumental singular"
+          "gram": "accusative singular"
         }
       ]
     },
@@ -1674,7 +1674,7 @@
           "pos": "verb",
           "stress": "ходи́",
           "gloss": "go",
-          "gram": "conjugated verb"
+          "gram": "imperative singular, imperfective"
         },
         {
           "t": "туда.",
@@ -1874,7 +1874,7 @@
           "pos": "noun",
           "stress": "статью́",
           "gloss": "article",
-          "gram": "instrumental singular"
+          "gram": "accusative singular"
         }
       ]
     },
@@ -2224,10 +2224,10 @@
           {
             "cells": [
               "accusative",
-              "вчерашний",
+              "вчерашний / вчерашнего",
               "вчерашнюю",
               "вчерашнее",
-              "вчерашние"
+              "вчерашние / вчерашних"
             ]
           },
           {
@@ -2374,11 +2374,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2420,7 +2420,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2469,11 +2469,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2509,10 +2509,11 @@
       "pos": "noun",
       "gloss": "order",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "order",
-          "note": "Declinable masculine noun meaning 'order', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "booking",
@@ -2764,7 +2765,7 @@
       "meanings": [
         {
           "en": "critic, reviewer",
-          "note": "Common masculine noun meaning 'critic, reviewer' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2851,7 +2852,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2906,6 +2907,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2939,7 +2957,7 @@
       "meanings": [
         {
           "en": "to write (and finish)",
-          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'писать'). Used as a perfective (single completed action) verb meaning 'to write', paired with 'писать'."
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'писать')."
         }
       ],
       "forms": {
@@ -3222,11 +3240,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -3362,7 +3380,7 @@
       "meanings": [
         {
           "en": "constantly, continuously, always",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3432,7 +3450,7 @@
       "meanings": [
         {
           "en": "to pester, to bother, to harass (+ к + dat.)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ставать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to pester, to harass', paired with 'пристать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ставать')."
         }
       ],
       "forms": {
@@ -3625,7 +3643,7 @@
       "meanings": [
         {
           "en": "problematic, difficult",
-          "note": "Qualitative or relational adjective formed with the productive '-н-' suffix, meaning 'problematic' and agreeing in gender, number, and case."
+          "note": ""
         }
       ],
       "forms": {
@@ -3835,7 +3853,7 @@
         },
         {
           "en": "to understand, to figure out",
-          "note": "В + prepositional. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to sort out, to figure out', paired with 'разбираться'."
+          "note": "В + prepositional."
         }
       ],
       "forms": {
@@ -3942,7 +3960,7 @@
       "meanings": [
         {
           "en": "restaurant (attributive)",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('restaurant (attributive)')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4043,7 +4061,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -4194,7 +4212,7 @@
       "meanings": [
         {
           "en": "to happen",
-          "note": "Что случилось? = what happened?. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to happen', paired with 'случаться'."
+          "note": "Что случилось? = what happened?."
         }
       ],
       "forms": {
@@ -4249,6 +4267,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "случись",
+                "случитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4282,11 +4317,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -4390,7 +4425,7 @@
       "meanings": [
         {
           "en": "article, paper, essay",
-          "note": "Common feminine noun meaning 'article, paper' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4471,7 +4506,7 @@
       "meanings": [
         {
           "en": "small table",
-          "note": "Derived masculine noun formed with a productive Slavic suffix, used in spoken Russian to mean 'small table'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4562,7 +4597,7 @@
         },
         {
           "en": "freeze!",
-          "note": "the infinitive 'Стоять!' as a police order"
+          "note": ""
         }
       ],
       "forms": {
@@ -4665,7 +4700,7 @@
       "meanings": [
         {
           "en": "there, thither (towards that place)",
-          "note": "Directional adverb. Core Russian adv meaning 'there, thither (motion)' in everyday speech."
+          "note": "Directional adverb."
         }
       ],
       "forms": null,
@@ -4836,7 +4871,7 @@
       "meanings": [
         {
           "en": "horrible, terrible",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('horrible, terrible')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4937,7 +4972,7 @@
       "meanings": [
         {
           "en": "to be rude, behave boorishly",
-          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'to be rude'; conjugates for person and number in the present/future and agrees in gender in the past tense."
+          "note": ""
         }
       ],
       "forms": {
@@ -4989,6 +5024,23 @@
                 "хамила",
                 "хамило",
                 "хамили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хами",
+                "хамите"
               ]
             }
           ]

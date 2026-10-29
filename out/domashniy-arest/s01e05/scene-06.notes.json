@@ -479,7 +479,7 @@
           "lemma": "уйти",
           "pos": "verb",
           "stress": "уйди́",
-          "gloss": "go away, step inside",
+          "gloss": "go away",
           "gram": "2nd person singular imperative"
         }
       ]
@@ -615,8 +615,8 @@
           "lemma": "копейка",
           "pos": "noun",
           "stress": "копе́йки",
-          "gloss": "kopeck, penny",
-          "gram": "genitive singular, feminine"
+          "gloss": "kopeck(s), penny",
+          "gram": "genitive singular / accusative plural, feminine"
         },
         {
           "t": "от",
@@ -714,9 +714,9 @@
           "t": "смотрите?",
           "lemma": "смотреть",
           "pos": "verb",
-          "stress": "смотри́те",
-          "gloss": "look",
-          "gram": "imperative, plural, imperfective"
+          "stress": "смо́трите",
+          "gloss": "are looking",
+          "gram": "present, 2nd person plural, imperfective"
         }
       ]
     },
@@ -1297,7 +1297,7 @@
           "lemma": "уйти",
           "pos": "verb",
           "stress": "уйди́",
-          "gloss": "go away, step inside",
+          "gloss": "go away",
           "gram": "2nd person singular imperative"
         }
       ]
@@ -1439,8 +1439,8 @@
           "lemma": "копейка",
           "pos": "noun",
           "stress": "копе́йки",
-          "gloss": "kopeck, penny",
-          "gram": "genitive singular, feminine"
+          "gloss": "kopeck(s), penny",
+          "gram": "genitive singular / accusative plural, feminine"
         },
         {
           "t": "от",
@@ -1538,9 +1538,9 @@
           "t": "смотрите?",
           "lemma": "смотреть",
           "pos": "verb",
-          "stress": "смотри́те",
-          "gloss": "look",
-          "gram": "imperative, plural, imperfective"
+          "stress": "смо́трите",
+          "gloss": "are looking",
+          "gram": "present, 2nd person plural, imperfective"
         }
       ]
     },
@@ -2091,7 +2091,7 @@
           "lemma": "уйти",
           "pos": "verb",
           "stress": "уйди́",
-          "gloss": "go away, step inside",
+          "gloss": "go away",
           "gram": "2nd person singular imperative"
         }
       ]
@@ -2227,8 +2227,8 @@
           "lemma": "копейка",
           "pos": "noun",
           "stress": "копе́йки",
-          "gloss": "kopeck, penny",
-          "gram": "genitive singular, feminine"
+          "gloss": "kopeck(s), penny",
+          "gram": "genitive singular / accusative plural, feminine"
         },
         {
           "t": "от",
@@ -2326,9 +2326,9 @@
           "t": "смотрите?",
           "lemma": "смотреть",
           "pos": "verb",
-          "stress": "смотри́те",
-          "gloss": "look",
-          "gram": "imperative, plural, imperfective"
+          "stress": "смо́трите",
+          "gloss": "are looking",
+          "gram": "present, 2nd person plural, imperfective"
         }
       ]
     },
@@ -2470,7 +2470,7 @@
       "meanings": [
         {
           "en": "to take",
-          "note": "Habitually or in general. Used as an imperfective (ongoing/repeated action) verb meaning 'to take', paired with 'взять'."
+          "note": "Habitually or in general."
         },
         {
           "en": "to take bribes",
@@ -2565,15 +2565,19 @@
       "related": [
         {
           "word": "взять",
-          "gloss": "to take"
+          "gloss": "to take (pf)"
         },
         {
           "word": "забрать",
-          "gloss": "to take back"
+          "gloss": "to take away, pick up"
         },
         {
-          "word": "убрать",
-          "gloss": "to remove"
+          "word": "брать трубку",
+          "gloss": "to answer the phone"
+        },
+        {
+          "word": "взятка",
+          "gloss": "bribe"
         }
       ]
     },
@@ -2586,7 +2590,7 @@
       "meanings": [
         {
           "en": "letter, character",
-          "note": "Common feminine noun meaning 'letter (of the alphabet)' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2867,11 +2871,11 @@
       "meanings": [
         {
           "en": "to give back, to return",
-          "note": "+ accusative. Used as a perfective (single completed action) verb meaning 'to give back, to get back', paired with 'возвращать'."
+          "note": "+ accusative."
         },
         {
           "en": "to get back",
-          "note": "Money you spent. Used as a perfective (single completed action) verb meaning 'to give back, to get back', paired with 'возвращать'."
+          "note": "Money you spent."
         }
       ],
       "forms": {
@@ -2984,7 +2988,7 @@
       "meanings": [
         {
           "en": "to come back, to return",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to come back, to return', paired with 'возвращаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3138,10 +3142,10 @@
           {
             "cells": [
               "accusative",
-              "виноватый",
+              "виноватый / виноватого",
               "виноватую",
               "виноватое",
-              "виноватые"
+              "виноватые / виноватых"
             ]
           },
           {
@@ -3164,29 +3168,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "виноват",
-                "виновата",
-                "виновато",
-                "виноваты"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я знаю, что я виноват.",
@@ -3215,7 +3197,7 @@
         },
         {
           "en": "out!",
-          "note": "Вон отсюда! = get out of here!. Core Russian part meaning 'over there' in everyday speech."
+          "note": "Вон отсюда! = get out of here!."
         }
       ],
       "forms": null,
@@ -3249,11 +3231,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -3492,11 +3474,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3587,15 +3573,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3638,7 +3624,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -3723,7 +3708,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -3814,7 +3799,11 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "gloss": "good, kindness"
+        },
+        {
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
@@ -3907,7 +3896,7 @@
       "meanings": [
         {
           "en": "closed, shut",
-          "note": "Opposite of открытый. Agrees in gender, number, and case with the noun it modifies ('closed')."
+          "note": "Opposite of открытый."
         }
       ],
       "forms": {
@@ -3950,10 +3939,10 @@
           {
             "cells": [
               "accusative",
-              "закрытый",
+              "закрытый / закрытого",
               "закрытую",
               "закрытое",
-              "закрытые"
+              "закрытые / закрытых"
             ]
           },
           {
@@ -4015,11 +4004,11 @@
       "meanings": [
         {
           "en": "kopeck, one hundredth of a rouble",
-          "note": "Common feminine noun meaning 'kopeck' in everyday Russian."
+          "note": ""
         },
         {
           "en": "ни копейки = not a penny",
-          "note": "Common feminine noun meaning 'kopeck' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4100,7 +4089,7 @@
       "meanings": [
         {
           "en": "loan, bank credit",
-          "note": "Взять кредит = to take out a loan. Common masculine noun meaning 'loan, credit' in everyday Russian."
+          "note": "Взять кредит = to take out a loan."
         }
       ],
       "forms": {
@@ -4173,7 +4162,15 @@
       "related": [
         {
           "word": "кредитный",
-          "gloss": "related to loan (adj.)"
+          "gloss": "credit, loan (adj.)"
+        },
+        {
+          "word": "взять кредит",
+          "gloss": "to take out a loan"
+        },
+        {
+          "word": "долг",
+          "gloss": "debt"
         }
       ]
     },
@@ -4186,7 +4183,7 @@
       "meanings": [
         {
           "en": "medical treatment",
-          "note": "На лечение = for treatment. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning '(medical) treatment' in everyday Russian."
+          "note": "На лечение = for treatment."
         }
       ],
       "forms": {
@@ -4272,7 +4269,7 @@
       "meanings": [
         {
           "en": "boy",
-          "note": "A male child. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'boy' in everyday Russian."
+          "note": "A male child."
         },
         {
           "en": "boy!",
@@ -4403,7 +4400,7 @@
         },
         {
           "en": "shallow (of water/dishes)",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('small, fine, shallow, petty')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4446,10 +4443,10 @@
           {
             "cells": [
               "accusative",
-              "мелкий",
+              "мелкий / мелкого",
               "мелкую",
               "мелкое",
-              "мелкие"
+              "мелкие / мелких"
             ]
           },
           {
@@ -4590,7 +4587,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4642,6 +4639,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -4979,7 +4993,7 @@
         },
         {
           "en": "ни... ни = neither... nor",
-          "note": "Core Russian part meaning 'not a (single); neither... nor' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5060,11 +5074,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -5138,7 +5152,7 @@
       "meanings": [
         {
           "en": "to call, to phone",
-          "note": "+ dative: 'позвони мне' = call me. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звонить'). Used as a perfective (single completed action) verb meaning 'to call, to phone', paired with 'звонить'."
+          "note": "+ dative: 'позвони мне' = call me. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звонить')."
         }
       ],
       "forms": {
@@ -5247,11 +5261,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -5403,42 +5417,42 @@
             "cells": [
               "nominative",
               "полиция",
-              "—"
+              "полиции"
             ]
           },
           {
             "cells": [
               "genitive",
               "полиции",
-              "—"
+              "полиций"
             ]
           },
           {
             "cells": [
               "dative",
               "полиции",
-              "—"
+              "полициям"
             ]
           },
           {
             "cells": [
               "accusative",
               "полицию",
-              "—"
+              "полиции"
             ]
           },
           {
             "cells": [
               "instrumental",
               "полицией",
-              "—"
+              "полициями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "полиции",
-              "—"
+              "полициях"
             ]
           }
         ]
@@ -5470,7 +5484,7 @@
       "meanings": [
         {
           "en": "to get, to receive",
-          "note": "Used as a perfective (single completed action) verb meaning 'to get, to receive', paired with 'получать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5634,6 +5648,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понимай",
+                "понимайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5708,10 +5739,10 @@
           {
             "cells": [
               "accusative",
-              "прочий",
+              "прочий / прочего",
               "прочую",
               "прочее",
-              "прочие"
+              "прочие / прочих"
             ]
           },
           {
@@ -5870,8 +5901,20 @@
       ],
       "related": [
         {
-          "word": "разный",
-          "gloss": "related to time (adj.)"
+          "word": "однажды",
+          "gloss": "once, one day"
+        },
+        {
+          "word": "как раз",
+          "gloss": "just right, exactly"
+        },
+        {
+          "word": "ни разу",
+          "gloss": "not once, never"
+        },
+        {
+          "word": "сразу",
+          "gloss": "at once"
         }
       ]
     },
@@ -5884,7 +5927,7 @@
       "meanings": [
         {
           "en": "rouble",
-          "note": "The Russian currency. Common masculine noun meaning 'rouble' in everyday Russian."
+          "note": "The Russian currency."
         }
       ],
       "forms": {
@@ -5966,7 +6009,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -6117,11 +6160,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -6254,7 +6297,7 @@
       "meanings": [
         {
           "en": "son",
-          "note": "Common masculine noun meaning 'son' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6437,7 +6480,15 @@
       "related": [
         {
           "word": "тысячный",
-          "gloss": "related to thousand (adj.)"
+          "gloss": "thousandth"
+        },
+        {
+          "word": "миллион",
+          "gloss": "million"
+        },
+        {
+          "word": "сто",
+          "gloss": "hundred"
         }
       ]
     },
@@ -6455,7 +6506,7 @@
         },
         {
           "en": "to clean up, tidy a room",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to clear out, get lost; to tidy up', paired with 'убраться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6568,7 +6619,7 @@
       "meanings": [
         {
           "en": "to threaten, to pose a threat to",
-          "note": "+ dative: угрожать здоровью. Used as an imperfective (ongoing/repeated action) verb meaning 'to threaten', paired with 'пригрозить'."
+          "note": "+ dative: угрожать здоровью."
         }
       ],
       "forms": {
@@ -6702,7 +6753,7 @@
       "meanings": [
         {
           "en": "to leave on foot, go away",
-          "note": "Used as a perfective (single completed action) verb meaning 'to leave, go away', paired with 'уходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6806,7 +6857,7 @@
       "meanings": [
         {
           "en": "firm, company",
-          "note": "Common feminine noun meaning 'firm, company' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6893,7 +6944,7 @@
       "meanings": [
         {
           "en": "to read",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to read', paired with 'прочитать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6984,11 +7035,15 @@
       "related": [
         {
           "word": "прочитать",
-          "gloss": "to read"
+          "gloss": "to read (pf)"
         },
         {
-          "word": "вычитать",
-          "gloss": "to read"
+          "word": "почитать",
+          "gloss": "to read for a while"
+        },
+        {
+          "word": "читатель",
+          "gloss": "reader"
         }
       ]
     },

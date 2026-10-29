@@ -322,11 +322,11 @@
         },
         {
           "t": "родителей.",
-          "lemma": "родители",
+          "lemma": "родитель",
           "pos": "noun",
           "stress": "роди́телей",
           "gloss": "parents",
-          "gram": "genitive plural"
+          "gram": "genitive / accusative plural"
         }
       ]
     },
@@ -366,11 +366,11 @@
         },
         {
           "t": "родителей?",
-          "lemma": "родители",
+          "lemma": "родитель",
           "pos": "noun",
           "stress": "роди́телей",
           "gloss": "parents",
-          "gram": "genitive plural"
+          "gram": "genitive / accusative plural"
         }
       ]
     },
@@ -732,11 +732,11 @@
         },
         {
           "t": "родителей.",
-          "lemma": "родители",
+          "lemma": "родитель",
           "pos": "noun",
           "stress": "роди́телей",
           "gloss": "parents",
-          "gram": "genitive plural"
+          "gram": "genitive / accusative plural"
         }
       ]
     },
@@ -776,11 +776,11 @@
         },
         {
           "t": "родителей?",
-          "lemma": "родители",
+          "lemma": "родитель",
           "pos": "noun",
           "stress": "роди́телей",
           "gloss": "parents",
-          "gram": "genitive plural"
+          "gram": "genitive / accusative plural"
         }
       ]
     },
@@ -1142,11 +1142,11 @@
         },
         {
           "t": "родителей.",
-          "lemma": "родители",
+          "lemma": "родитель",
           "pos": "noun",
           "stress": "роди́телей",
           "gloss": "parents",
-          "gram": "genitive plural"
+          "gram": "genitive / accusative plural"
         }
       ]
     },
@@ -1186,11 +1186,11 @@
         },
         {
           "t": "родителей?",
-          "lemma": "родители",
+          "lemma": "родитель",
           "pos": "noun",
           "stress": "роди́телей",
           "gloss": "parents",
-          "gram": "genitive plural"
+          "gram": "genitive / accusative plural"
         }
       ]
     },
@@ -1367,29 +1367,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "готов",
-                "готова",
-                "готово",
-                "готовы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я готов!",
@@ -1429,11 +1407,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -1524,15 +1506,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -1544,7 +1526,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -1566,7 +1548,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -1581,7 +1567,7 @@
       "meanings": [
         {
           "en": "to have a talk, to speak (with someone)",
-          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to have a talk', paired with 'говорить'."
+          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить')."
         }
       ],
       "forms": {
@@ -1694,7 +1680,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -1822,100 +1808,6 @@
       ],
       "related": []
     },
-    "родители": {
-      "lemma": "родители",
-      "stress": "роди́тели",
-      "pos": "noun",
-      "gloss": "parents",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "parents (plural; singular родитель is formal)",
-          "note": "Common masculine noun meaning 'parents' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "родитель",
-              "родители"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "родителя",
-              "родителей"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "родителю",
-              "родителям"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "родителя",
-              "родителей"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "родителем",
-              "родителями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "родителе",
-              "родителях"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Пожалуйста, родителям не говорите.",
-          "trans": "Please don't tell my parents."
-        },
-        {
-          "text": "Мои родители живут в деревне.",
-          "trans": "My parents live in the country."
-        },
-        {
-          "text": "Я здесь работаю. Только, пожалуйста, родителям не говорите.",
-          "trans": "I work here. Just please don't tell my parents."
-        }
-      ],
-      "related": [
-        {
-          "word": "родиться",
-          "gloss": "to be born"
-        },
-        {
-          "word": "родина",
-          "gloss": "motherland"
-        },
-        {
-          "word": "зародить",
-          "gloss": "to engender"
-        }
-      ]
-    },
     "твой": {
       "lemma": "твой",
       "stress": "твой",
@@ -2027,7 +1919,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -2061,11 +1953,11 @@
       "meanings": [
         {
           "en": "definitely, for sure",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "exactly, precisely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2187,7 +2079,7 @@
       "meanings": [
         {
           "en": "to remember",
-          "note": "To keep in memory. Used as an imperfective (ongoing/repeated action) verb meaning 'to remember'."
+          "note": "To keep in memory."
         }
       ],
       "forms": {
@@ -2762,7 +2654,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2813,11 +2705,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3025,6 +2917,7 @@
       "pos": "noun",
       "gloss": "step, pace",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "step, pace, move",
@@ -3159,7 +3052,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -3251,10 +3144,11 @@
       "pos": "noun",
       "gloss": "feeling, sensation, impression",
       "gender": "n",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "feeling, sensation, impression",
-          "note": "Verbal action or result neuter noun formed with '-ение'/'-ание', meaning 'feeling' in conversational and formal Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3322,12 +3216,12 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "ощущать",
+          "gloss": "to feel"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "чувство",
+          "gloss": "feeling"
         }
       ]
     },
@@ -3429,11 +3323,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3614,7 +3508,6 @@
       "stress": "выходны́е",
       "pos": "noun",
       "gloss": "weekend, days off",
-      "gender": "m",
       "number": "pl",
       "meanings": [
         {
@@ -3706,7 +3599,7 @@
       "meanings": [
         {
           "en": "to call (someone over)",
-          "note": "Звать на помощь = to call for help. Used as an imperfective (ongoing/repeated action) verb meaning 'to call', paired with 'позвать'."
+          "note": "Звать на помощь = to call for help."
         },
         {
           "en": "to be called (a name)",
@@ -3825,7 +3718,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -4050,6 +3943,101 @@
         }
       ],
       "related": []
+    },
+    "родитель": {
+      "lemma": "родитель",
+      "stress": "роди́тель",
+      "pos": "noun",
+      "gloss": "parent",
+      "gender": "m",
+      "animacy": "anim",
+      "meanings": [
+        {
+          "en": "parent",
+          "note": "Usually plural: родители = parents."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "родитель",
+              "родители"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "родителя",
+              "родителей"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "родителю",
+              "родителям"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "родителя",
+              "родителей"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "родителем",
+              "родителями"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "родителе",
+              "родителях"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Только, пожалуйста, родителям не говорите.",
+          "trans": "Just please don't tell my parents."
+        },
+        {
+          "text": "Мои родители живут в деревне.",
+          "trans": "My parents live in the country."
+        },
+        {
+          "text": "Возьмите свои работы и подарите родителям.",
+          "trans": "Take your work and give it to your parents."
+        }
+      ],
+      "related": [
+        {
+          "word": "родительский",
+          "gloss": "parental"
+        },
+        {
+          "word": "родить",
+          "gloss": "to give birth"
+        },
+        {
+          "word": "родня",
+          "gloss": "kin"
+        }
+      ]
     }
   }
 }

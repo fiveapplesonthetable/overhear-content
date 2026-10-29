@@ -143,8 +143,8 @@
           "lemma": "уметь",
           "pos": "verb",
           "stress": "уме́ю",
-          "gloss": "to know how to, to be able to",
-          "gram": "verb present"
+          "gloss": "know how to, can",
+          "gram": "present, 1st person singular, imperfective"
         },
         {
           "t": "играть.",
@@ -273,7 +273,7 @@
           "lemma": "о",
           "pos": "prep",
           "stress": "о́бо",
-          "gloss": "about, for",
+          "gloss": "about",
           "gram": "takes prepositional"
         },
         {
@@ -289,7 +289,7 @@
           "lemma": "донести",
           "pos": "verb",
           "stress": "донесли́",
-          "gloss": "reported / snitched",
+          "gloss": "reported, told (on)",
           "gram": "plural past tense, perfective"
         }
       ]
@@ -719,8 +719,8 @@
           "lemma": "уметь",
           "pos": "verb",
           "stress": "уме́ю",
-          "gloss": "to know how to, to be able to",
-          "gram": "verb present"
+          "gloss": "know how to, can",
+          "gram": "present, 1st person singular, imperfective"
         },
         {
           "t": "играть.",
@@ -849,7 +849,7 @@
           "lemma": "о",
           "pos": "prep",
           "stress": "о́бо",
-          "gloss": "about, for",
+          "gloss": "about",
           "gram": "takes prepositional"
         },
         {
@@ -865,7 +865,7 @@
           "lemma": "донести",
           "pos": "verb",
           "stress": "донесли́",
-          "gloss": "reported / snitched",
+          "gloss": "reported, told (on)",
           "gram": "plural past tense, perfective"
         }
       ]
@@ -1295,8 +1295,8 @@
           "lemma": "уметь",
           "pos": "verb",
           "stress": "уме́ю",
-          "gloss": "to know how to, to be able to",
-          "gram": "verb present"
+          "gloss": "know how to, can",
+          "gram": "present, 1st person singular, imperfective"
         },
         {
           "t": "играть.",
@@ -1425,7 +1425,7 @@
           "lemma": "о",
           "pos": "prep",
           "stress": "о́бо",
-          "gloss": "about, for",
+          "gloss": "about",
           "gram": "takes prepositional"
         },
         {
@@ -1441,7 +1441,7 @@
           "lemma": "донести",
           "pos": "verb",
           "stress": "донесли́",
-          "gloss": "reported / snitched",
+          "gloss": "reported, told (on)",
           "gram": "plural past tense, perfective"
         }
       ]
@@ -1800,11 +1800,11 @@
       "meanings": [
         {
           "en": "more",
-          "note": "Comparative of много. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of много."
         },
         {
           "en": "bigger",
-          "note": "Comparative of большой. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of большой."
         }
       ],
       "forms": null,
@@ -1987,84 +1987,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "говорить": {
       "lemma": "говорить",
       "stress": "говори́ть",
@@ -2194,7 +2116,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2228,11 +2150,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2264,15 +2186,19 @@
     },
     "донести": {
       "lemma": "донести",
-      "stress": "доне́сти",
+      "stress": "донести́",
       "pos": "verb",
-      "gloss": "reported / snitched",
+      "gloss": "to carry (all the way); to inform on",
       "aspect": "pf",
-      "pair": null,
+      "pair": "доносить",
       "meanings": [
         {
-          "en": "reported / snitched",
-          "note": "Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'нести'). Used as a perfective (single completed action) verb meaning 'reported / snitched'."
+          "en": "to carry (as far as)",
+          "note": "до машины не донесу = I can't carry it to the car"
+        },
+        {
+          "en": "to inform on, to report (to the authorities)",
+          "note": "на кого-то; обо всём донесли = someone reported everything"
         }
       ],
       "forms": {
@@ -2286,22 +2212,22 @@
           {
             "cells": [
               "1st",
-              "донесю",
-              "донесем"
+              "донесу",
+              "донесём"
             ]
           },
           {
             "cells": [
               "2nd",
-              "донесешь",
-              "донесете"
+              "донесёшь",
+              "донесёте"
             ]
           },
           {
             "cells": [
               "3rd",
-              "донесет",
-              "донесют"
+              "донесёт",
+              "донесут"
             ]
           }
         ]
@@ -2320,10 +2246,27 @@
             {
               "cells": [
                 "past",
-                "донесл",
+                "донёс",
                 "донесла",
                 "донесло",
                 "донесли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "донеси",
+                "донесите"
               ]
             }
           ]
@@ -2332,17 +2275,25 @@
       "examples": [
         {
           "text": "Ей уже обо всём донесли.",
-          "trans": "Someone has already reported everything to her."
+          "trans": "Someone has already told her everything."
         },
         {
-          "text": "Надо всё сделать и донести вовремя.",
-          "trans": "We need to do everything and reported on time."
+          "text": "Помогите, пожалуйста, я всё до машины не донесу.",
+          "trans": "Please help, I can't carry all this to the car."
         }
       ],
       "related": [
         {
-          "word": "не донести",
-          "gloss": "not to reported (negated infinitive)"
+          "word": "нести",
+          "gloss": "to carry"
+        },
+        {
+          "word": "донос",
+          "gloss": "denunciation"
+        },
+        {
+          "word": "принести",
+          "gloss": "to bring"
         }
       ]
     },
@@ -2358,11 +2309,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2393,7 +2344,7 @@
       "meanings": [
         {
           "en": "to call (someone over)",
-          "note": "Звать на помощь = to call for help. Used as an imperfective (ongoing/repeated action) verb meaning 'to call', paired with 'позвать'."
+          "note": "Звать на помощь = to call for help."
         },
         {
           "en": "to be called (a name)",
@@ -2659,7 +2610,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -2681,7 +2632,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -2693,7 +2648,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -2719,90 +2674,6 @@
         }
       ]
     },
-    "много": {
-      "lemma": "много",
-      "stress": "мно́го",
-      "pos": "adv",
-      "gloss": "a lot, much, many",
-      "meanings": [
-        {
-          "en": "a lot, much, many",
-          "note": "+ genitive plural: много дел. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        },
-        {
-          "en": "больше = more",
-          "note": "Comparative. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Мы сделали много.",
-          "trans": "We've done a lot."
-        },
-        {
-          "text": "Слишком много дел.",
-          "trans": "Too much to do."
-        },
-        {
-          "text": "Мы сделали много, но надо сделать ещё больше.",
-          "trans": "We've done a lot, but we need to do even more."
-        }
-      ],
-      "related": [
-        {
-          "word": "немного",
-          "gloss": "a little"
-        },
-        {
-          "word": "многовато",
-          "gloss": "a bit too much"
-        },
-        {
-          "word": "намного",
-          "gloss": "much"
-        }
-      ]
-    },
-    "может": {
-      "lemma": "может",
-      "stress": "мо́жет",
-      "pos": "adv",
-      "gloss": "maybe, perhaps",
-      "meanings": [
-        {
-          "en": "maybe, perhaps",
-          "note": "Short for может быть. Core Russian part meaning 'maybe, perhaps' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Может, завтра.",
-          "trans": "Maybe tomorrow."
-        },
-        {
-          "text": "Я думал, может, не примешь.",
-          "trans": "I thought maybe you wouldn't see me."
-        }
-      ],
-      "related": [
-        {
-          "word": "может быть",
-          "gloss": "maybe (full form)"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
-        }
-      ]
-    },
     "мочь": {
       "lemma": "мочь",
       "stress": "мочь",
@@ -2813,7 +2684,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2865,6 +2736,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3307,12 +3195,12 @@
       "lemma": "отель",
       "stress": "оте́ль",
       "pos": "noun",
-      "gloss": "of the hotel",
+      "gloss": "hotel",
       "gender": "m",
       "meanings": [
         {
-          "en": "of the hotel",
-          "note": "Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common masculine noun meaning 'of the hotel' in everyday Russian."
+          "en": "hotel",
+          "note": ""
         }
       ],
       "forms": {
@@ -3370,19 +3258,32 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это гематома, она и стала причиной потери памяти.",
-          "trans": "That is a hematoma, it became the cause of memory loss."
+          "text": "Наш отель должен удивить гостей.",
+          "trans": "Our hotel has to impress the guests."
         },
         {
-          "text": "Андрей, положи её к себе, а то и эту потеряю.",
-          "trans": "Andrey, put it in your pocket, or I will lose this one too."
+          "text": "В нашем отеле действует новая услуга.",
+          "trans": "Our hotel has a new service."
         },
         {
-          "text": "Я хотел бы просмотреть все документы по закупке продуктов.",
-          "trans": "I would like to review all the documents on food purchases."
+          "text": "Кто бы мог подумать, что буду управлять отелем?",
+          "trans": "Who'd have thought I'd be running a hotel?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "гостиница",
+          "gloss": "hotel"
+        },
+        {
+          "word": "номер",
+          "gloss": "hotel room"
+        },
+        {
+          "word": "постоялец",
+          "gloss": "hotel guest"
+        }
+      ]
     },
     "очень": {
       "lemma": "очень",
@@ -3436,7 +3337,7 @@
         },
         {
           "en": "to take, to drive (someone somewhere)",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'везти'). Used as a perfective (single completed action) verb meaning 'to be lucky (impersonal); to take (by vehicle)', paired with 'везти'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'везти')."
         }
       ],
       "forms": {
@@ -3491,6 +3392,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "повези",
+                "повезите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3522,111 +3440,6 @@
         }
       ]
     },
-    "пойти": {
-      "lemma": "пойти",
-      "stress": "пойти́",
-      "pos": "verb",
-      "gloss": "to go (set off)",
-      "aspect": "pf",
-      "pair": "ходить",
-      "meanings": [
-        {
-          "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "пойду",
-              "пойдём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "пойдёшь",
-              "пойдёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "пойдёт",
-              "пойдут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "пошёл",
-                "пошла",
-                "пошло",
-                "пошли"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "пойди",
-                "пойдите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Можно я пойду?",
-          "trans": "May I go?"
-        },
-        {
-          "text": "Пойдём домой.",
-          "trans": "Let's go home."
-        },
-        {
-          "text": "А можно я пойду посмотрю?",
-          "trans": "Can I go and have a look?"
-        }
-      ],
-      "related": [
-        {
-          "word": "идти",
-          "gloss": "to go"
-        }
-      ]
-    },
     "понять": {
       "lemma": "понять",
       "stress": "поня́ть",
@@ -3637,7 +3450,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -3853,11 +3666,11 @@
       "meanings": [
         {
           "en": "nearby, close by",
-          "note": "Adverb. Core Russian adv meaning 'nearby, next to' in everyday speech."
+          "note": "Adverb."
         },
         {
           "en": "next to, beside",
-          "note": "Рядом с + instrumental. Core Russian adv meaning 'nearby, next to' in everyday speech."
+          "note": "Рядом с + instrumental."
         }
       ],
       "forms": null,
@@ -3878,8 +3691,16 @@
       ],
       "related": [
         {
-          "word": "порядок",
-          "gloss": "order"
+          "word": "около",
+          "gloss": "near, beside"
+        },
+        {
+          "word": "поблизости",
+          "gloss": "nearby"
+        },
+        {
+          "word": "рядом с",
+          "gloss": "next to (+ instr.)"
         }
       ]
     },
@@ -3891,7 +3712,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -3995,11 +3816,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4071,8 +3892,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -4244,7 +4073,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4335,103 +4164,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
-        }
-      ]
-    },
-    "случиться": {
-      "lemma": "случиться",
-      "stress": "случи́ться",
-      "pos": "verb",
-      "gloss": "to happen",
-      "aspect": "pf",
-      "pair": "случаться",
-      "meanings": [
-        {
-          "en": "to happen",
-          "note": "Что случилось? = what happened?. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to happen', paired with 'случаться'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "случусь",
-              "случимся"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "случишься",
-              "случитесь"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "случится",
-              "случатся"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "случился",
-                "случилась",
-                "случилось",
-                "случились"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Что случилось?",
-          "trans": "What happened?"
-        },
-        {
-          "text": "Ничего не случится.",
-          "trans": "Nothing will happen."
-        },
-        {
-          "text": "Марина, я вам обещаю: со стеной ничего не случится.",
-          "trans": "Marina, I promise you: nothing will happen to the wall."
-        }
-      ],
-      "related": [
-        {
-          "word": "случаться",
-          "gloss": "to happen"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -4653,106 +4394,6 @@
       ],
       "related": []
     },
-    "узнать": {
-      "lemma": "узнать",
-      "stress": "узна́ть",
-      "pos": "verb",
-      "gloss": "to recognise; to find out",
-      "aspect": "pf",
-      "pair": "узнавать",
-      "meanings": [
-        {
-          "en": "to recognise",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'знать'). Used as a perfective (single completed action) verb meaning 'to recognise; to find out', paired with 'узнавать'."
-        },
-        {
-          "en": "to find out, to learn",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'знать'). Used as a perfective (single completed action) verb meaning 'to recognise; to find out', paired with 'узнавать'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "узнаю",
-              "узнаем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "узнаешь",
-              "узнаете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "узнает",
-              "узнают"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "узнал",
-                "узнала",
-                "узнало",
-                "узнали"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ты меня узнал?",
-          "trans": "Did you recognise me?"
-        },
-        {
-          "text": "Я узнаю, где он.",
-          "trans": "I'll find out where he is."
-        },
-        {
-          "text": "Узнал. Спасибо, что принял меня.",
-          "trans": "You recognised me. Thanks for seeing me."
-        }
-      ],
-      "related": [
-        {
-          "word": "узнавать",
-          "gloss": "to recognise"
-        },
-        {
-          "word": "знать",
-          "gloss": "to know"
-        },
-        {
-          "word": "признаться",
-          "gloss": "to confess"
-        }
-      ]
-    },
     "уметь": {
       "lemma": "уметь",
       "stress": "уме́ть",
@@ -4850,7 +4491,7 @@
       "meanings": [
         {
           "en": "landlady, female owner, mistress of the house",
-          "note": "Common feminine noun meaning 'landlady, hostess, mistress of the house' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {

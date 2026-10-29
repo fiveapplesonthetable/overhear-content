@@ -119,8 +119,8 @@
           "lemma": "он",
           "pos": "pron",
           "stress": "нему́",
-          "gloss": "he",
-          "gram": "dative of он after preposition к"
+          "gloss": "him",
+          "gram": "3rd person masculine singular, dative (н- form after a preposition)"
         },
         {
           "t": "что-то",
@@ -312,7 +312,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "рядом",
@@ -642,7 +642,7 @@
           "pos": "noun",
           "stress": "кафе́",
           "gloss": "café",
-          "gram": "accusative singular, neuter (indeclinable)"
+          "gram": "neuter singular (indeclinable)"
         },
         {
           "t": "ещё",
@@ -749,8 +749,8 @@
           "lemma": "он",
           "pos": "pron",
           "stress": "нему́",
-          "gloss": "he",
-          "gram": "dative of он after preposition к"
+          "gloss": "him",
+          "gram": "3rd person masculine singular, dative (н- form after a preposition)"
         },
         {
           "t": "что-то",
@@ -910,7 +910,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "рядом",
@@ -1307,8 +1307,8 @@
           "lemma": "он",
           "pos": "pron",
           "stress": "нему́",
-          "gloss": "he",
-          "gram": "dative of он after preposition к"
+          "gloss": "him",
+          "gram": "3rd person masculine singular, dative (н- form after a preposition)"
         },
         {
           "t": "что-то",
@@ -1500,7 +1500,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "рядом",
@@ -1830,7 +1830,7 @@
           "pos": "noun",
           "stress": "кафе́",
           "gloss": "café",
-          "gram": "accusative singular, neuter (indeclinable)"
+          "gram": "neuter singular (indeclinable)"
         },
         {
           "t": "ещё",
@@ -2048,18 +2048,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Я исправлю свою вину.",
-          "trans": "I will make up for my fault."
+          "text": "Прости, я исправлю свою вину.",
+          "trans": "Forgive me, I'll make amends."
         },
         {
-          "text": "Прости, я исправлю свою вину.",
-          "trans": "Forgive me, I will make up for my fault."
+          "text": "Нельзя валить всю вину на одного человека!",
+          "trans": "You can't put all the blame on one person!"
         }
       ],
       "related": [
         {
-          "word": "винный",
-          "gloss": "related to fault (adj.)"
+          "word": "виноват",
+          "gloss": "guilty, to blame"
+        },
+        {
+          "word": "винить",
+          "gloss": "to blame"
+        },
+        {
+          "word": "обвинять",
+          "gloss": "to accuse"
         }
       ]
     },
@@ -2114,10 +2122,10 @@
           {
             "cells": [
               "accusative",
-              "виноватый",
+              "виноватый / виноватого",
               "виноватую",
               "виноватое",
-              "виноватые"
+              "виноватые / виноватых"
             ]
           },
           {
@@ -2140,29 +2148,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "виноват",
-                "виновата",
-                "виновато",
-                "виноваты"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я знаю, что я виноват.",
@@ -2188,11 +2174,11 @@
       "meanings": [
         {
           "en": "nonsense, silly thing (often plural: глупости)",
-          "note": "Что за глупости? = What nonsense?. Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'nonsense, foolishness' in everyday Russian."
+          "note": "Что за глупости? = What nonsense?."
         },
         {
           "en": "stupidity, foolishness",
-          "note": "Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'nonsense, foolishness' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2285,7 +2271,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2319,7 +2305,7 @@
       "meanings": [
         {
           "en": "even",
-          "note": "Core Russian part meaning 'even' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2462,7 +2448,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2511,7 +2497,7 @@
       "meanings": [
         {
           "en": "home, homeward (direction)",
-          "note": "Contrast дома = at home. Core Russian adv meaning '(to) home, homeward' in everyday speech."
+          "note": "Contrast дома = at home."
         }
       ],
       "forms": null,
@@ -2544,11 +2530,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2581,7 +2567,7 @@
         },
         {
           "en": "it is a pity",
-          "note": "Impersonal predicate. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Impersonal predicate."
         }
       ],
       "forms": null,
@@ -2615,11 +2601,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2657,7 +2643,7 @@
       "meanings": [
         {
           "en": "what for, why",
-          "note": "Asks about the purpose. Core Russian adv meaning 'what for, why' in everyday speech."
+          "note": "Asks about the purpose."
         }
       ],
       "forms": null,
@@ -2727,7 +2713,7 @@
       "meanings": [
         {
           "en": "to fix, to correct, to put right",
-          "note": "Prefix 'ис-' ('out from within') marks extraction or exhaustion (stem 'править'). Used as a perfective (single completed action) verb meaning 'to fix, to correct', paired with 'исправлять'."
+          "note": "Prefix 'ис-' ('out from within') marks extraction or exhaustion (stem 'править')."
         }
       ],
       "forms": {
@@ -2882,7 +2868,7 @@
         },
         {
           "en": "it seems, I think",
-          "note": "Кажется as a parenthetical word. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to seem', paired with 'показаться'."
+          "note": "Кажется as a parenthetical word."
         }
       ],
       "forms": {
@@ -2937,6 +2923,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "кажись",
+                "кажитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2956,15 +2959,15 @@
       "related": [
         {
           "word": "показаться",
-          "gloss": "to seem"
+          "gloss": "to seem (pf)"
         },
         {
-          "word": "сказать",
-          "gloss": "to say"
+          "word": "кажется",
+          "gloss": "it seems, I think"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "оказаться",
+          "gloss": "to turn out"
         }
       ]
     },
@@ -2992,42 +2995,42 @@
             "cells": [
               "nominative",
               "кафе",
-              "—"
+              "кафе"
             ]
           },
           {
             "cells": [
               "genitive",
               "кафе",
-              "—"
+              "кафе"
             ]
           },
           {
             "cells": [
               "dative",
               "кафе",
-              "—"
+              "кафе"
             ]
           },
           {
             "cells": [
               "accusative",
               "кафе",
-              "—"
+              "кафе"
             ]
           },
           {
             "cells": [
               "instrumental",
               "кафе",
-              "—"
+              "кафе"
             ]
           },
           {
             "cells": [
               "prepositional",
               "кафе",
-              "—"
+              "кафе"
             ]
           }
         ]
@@ -3057,7 +3060,7 @@
       "meanings": [
         {
           "en": "when",
-          "note": "Question word and conjunction. Core Russian adv meaning 'when' in everyday speech."
+          "note": "Question word and conjunction."
         }
       ],
       "forms": null,
@@ -3099,7 +3102,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -3184,10 +3187,10 @@
           {
             "cells": [
               "accusative",
-              "летний",
+              "летний / летнего",
               "летнюю",
               "летнее",
-              "летние"
+              "летние / летних"
             ]
           },
           {
@@ -3274,10 +3277,10 @@
           {
             "cells": [
               "accusative",
-              "молодого",
+              "молодой / молодого",
               "молодую",
               "молодое",
-              "молодых"
+              "молодые / молодых"
             ]
           },
           {
@@ -3416,7 +3419,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3530,7 +3533,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -3612,7 +3615,7 @@
       "meanings": [
         {
           "en": "to take offence, to get upset",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to take offence, to be hurt', paired with 'обидеться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3815,7 +3818,7 @@
       "meanings": [
         {
           "en": "to charm, to enchant",
-          "note": "Win someone over completely. Used as a perfective (single completed action) verb meaning 'to charm, to enchant, to captivate', paired with 'очаровывать'."
+          "note": "Win someone over completely."
         }
       ],
       "forms": {
@@ -4033,7 +4036,7 @@
       "meanings": [
         {
           "en": "to go, to set off (by car, bus, train)",
-          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to go (by vehicle), to set off', paired with 'ехать'."
+          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -4509,11 +4512,11 @@
       "meanings": [
         {
           "en": "nearby, close by",
-          "note": "Adverb. Core Russian adv meaning 'nearby, next to' in everyday speech."
+          "note": "Adverb."
         },
         {
           "en": "next to, beside",
-          "note": "Рядом с + instrumental. Core Russian adv meaning 'nearby, next to' in everyday speech."
+          "note": "Рядом с + instrumental."
         }
       ],
       "forms": null,
@@ -4534,8 +4537,16 @@
       ],
       "related": [
         {
-          "word": "порядок",
-          "gloss": "order"
+          "word": "около",
+          "gloss": "near, beside"
+        },
+        {
+          "word": "поблизости",
+          "gloss": "nearby"
+        },
+        {
+          "word": "рядом с",
+          "gloss": "next to (+ instr.)"
         }
       ]
     },
@@ -4651,7 +4662,7 @@
       "meanings": [
         {
           "en": "neighbour",
-          "note": "Next door, or in the same flat. Common masculine noun meaning 'neighbour' in everyday Russian."
+          "note": "Next door, or in the same flat."
         }
       ],
       "forms": {
@@ -4737,7 +4748,7 @@
       "meanings": [
         {
           "en": "old man",
-          "note": "Elderly man. Common masculine noun meaning 'old man' in everyday Russian."
+          "note": "Elderly man."
         }
       ],
       "forms": {
@@ -4809,12 +4820,16 @@
       ],
       "related": [
         {
-          "word": "старинный",
-          "gloss": "ancient"
+          "word": "старуха",
+          "gloss": "old woman"
         },
         {
           "word": "старичок",
-          "gloss": "old buddy"
+          "gloss": "little old man"
+        },
+        {
+          "word": "старость",
+          "gloss": "old age"
         }
       ]
     },
@@ -4830,7 +4845,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -5075,7 +5090,7 @@
         },
         {
           "en": "that's enough!",
-          "note": "Хватит!. Used as a perfective (single completed action) verb meaning 'to be enough', paired with 'хватать'."
+          "note": "Хватит!."
         }
       ],
       "forms": {
@@ -5130,6 +5145,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хвати",
+                "хватите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5149,15 +5181,15 @@
       "related": [
         {
           "word": "хватать",
-          "gloss": "to grab"
+          "gloss": "to be enough (impf); to grab"
         },
         {
-          "word": "схватить",
-          "gloss": "to grab"
+          "word": "хватит!",
+          "gloss": "that's enough!"
         },
         {
-          "word": "перехватить",
-          "gloss": "to intercept"
+          "word": "достаточно",
+          "gloss": "enough"
         }
       ]
     },
@@ -5259,77 +5291,33 @@
       "lemma": "что-то",
       "stress": "что́-то",
       "pos": "pron",
-      "gloss": "something; somehow",
+      "gloss": "something",
       "meanings": [
         {
           "en": "something",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'something; somehow', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": "instrumental чем-то: чем-то помочь = help with something"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "что-того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "что-тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "что-том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "что-том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "А что-то случилось?",
-          "trans": "Did something happen?"
+          "text": "Так может быть, тебе надо чем-то помочь?",
+          "trans": "So maybe you need help with something?"
         },
         {
-          "text": "Что-то случилось?",
-          "trans": "Has something happened?"
-        },
-        {
-          "text": "Что-то я устал.",
-          "trans": "Somehow I'm tired."
+          "text": "Могу я чем-то помочь?",
+          "trans": "Can I help with anything?"
         }
       ],
       "related": [
         {
-          "word": "что-нибудь",
-          "gloss": "something"
+          "word": "что",
+          "gloss": "what"
+        },
+        {
+          "word": "кто-то",
+          "gloss": "someone"
         }
       ]
     },
@@ -5398,6 +5386,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "чувствуй",
+                "чувствуйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5437,7 +5442,7 @@
       "meanings": [
         {
           "en": "lively, quick, enterprising",
-          "note": "Colloquial. Agrees in gender, number, and case with the noun it modifies ('lively, quick, sharp, nimble')."
+          "note": "Colloquial."
         }
       ],
       "forms": {
@@ -5480,10 +5485,10 @@
           {
             "cells": [
               "accusative",
-              "шустрый",
+              "шустрый / шустрого",
               "шуструю",
               "шустрое",
-              "шустрые"
+              "шустрые / шустрых"
             ]
           },
           {
@@ -5520,11 +5525,11 @@
       "related": [
         {
           "word": "шустро",
-          "gloss": "in a lively way (adv.)"
+          "gloss": "nimbly, quickly"
         },
         {
-          "word": "шустрость",
-          "gloss": "quality of being lively"
+          "word": "быстрый",
+          "gloss": "quick"
         }
       ]
     },

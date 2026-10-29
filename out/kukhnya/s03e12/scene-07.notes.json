@@ -127,8 +127,8 @@
           "lemma": "промыть",
           "pos": "verb",
           "stress": "промы́л",
-          "gloss": "washed / rinsed out",
-          "gram": "masculine singular, past"
+          "gloss": "rinsed, washed",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
@@ -273,7 +273,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -581,7 +581,7 @@
           "lemma": "перестирать",
           "pos": "verb",
           "stress": "перестира́ла",
-          "gloss": "washed everything",
+          "gloss": "washed (all)",
           "gram": "feminine singular, past"
         },
         {
@@ -719,8 +719,8 @@
           "lemma": "промыть",
           "pos": "verb",
           "stress": "промы́л",
-          "gloss": "washed / rinsed out",
-          "gram": "masculine singular, past"
+          "gloss": "rinsed, washed",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
@@ -865,7 +865,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1173,7 +1173,7 @@
           "lemma": "перестирать",
           "pos": "verb",
           "stress": "перестира́ла",
-          "gloss": "washed everything",
+          "gloss": "washed (all)",
           "gram": "feminine singular, past"
         },
         {
@@ -1311,8 +1311,8 @@
           "lemma": "промыть",
           "pos": "verb",
           "stress": "промы́л",
-          "gloss": "washed / rinsed out",
-          "gram": "masculine singular, past"
+          "gloss": "rinsed, washed",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
@@ -1457,7 +1457,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1765,7 +1765,7 @@
           "lemma": "перестирать",
           "pos": "verb",
           "stress": "перестира́ла",
-          "gloss": "washed everything",
+          "gloss": "washed (all)",
           "gram": "feminine singular, past"
         },
         {
@@ -1812,11 +1812,11 @@
       "meanings": [
         {
           "en": "to bother, to disturb",
-          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'покоить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to bother, to disturb; to worry', paired with 'побеспокоить'."
+          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'покоить')."
         },
         {
           "en": "to worry (someone)",
-          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'покоить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to bother, to disturb; to worry', paired with 'побеспокоить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2195,11 +2195,11 @@
       "meanings": [
         {
           "en": "thing",
-          "note": "Plural 'вещи'. Common feminine noun meaning 'thing' in everyday Russian."
+          "note": "Plural 'вещи'."
         },
         {
           "en": "things, belongings",
-          "note": "Plural 'вещи'. Common feminine noun meaning 'thing' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2271,8 +2271,16 @@
       ],
       "related": [
         {
-          "word": "вещный",
-          "gloss": "related to thing (adj.)"
+          "word": "вещи",
+          "gloss": "things, belongings"
+        },
+        {
+          "word": "вещица",
+          "gloss": "little thing"
+        },
+        {
+          "word": "вещичка",
+          "gloss": "little thing, trinket"
         }
       ]
     },
@@ -2290,7 +2298,7 @@
         },
         {
           "en": "to hire",
-          "note": "'взять на работу' = to give someone a job"
+          "note": ""
         }
       ],
       "forms": {
@@ -2393,86 +2401,6 @@
         }
       ]
     },
-    "всегда": {
-      "lemma": "всегда",
-      "stress": "всегда́",
-      "pos": "adv",
-      "gloss": "always",
-      "meanings": [
-        {
-          "en": "always",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "У неё всегда так.",
-          "trans": "She's always like that."
-        },
-        {
-          "text": "Выход всегда есть.",
-          "trans": "There's always a way out."
-        },
-        {
-          "text": "Обиделась. У неё всегда так.",
-          "trans": "She's offended. She's always like that."
-        }
-      ],
-      "related": [
-        {
-          "word": "всего",
-          "gloss": "only"
-        },
-        {
-          "word": "навсегда",
-          "gloss": "forever"
-        }
-      ]
-    },
-    "всего": {
-      "lemma": "всего",
-      "stress": "всего́",
-      "pos": "adv",
-      "gloss": "only, in total",
-      "meanings": [
-        {
-          "en": "only, merely",
-          "note": "With numbers: всего восемь лет. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        },
-        {
-          "en": "in all, in total",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Дадут всего восемь лет.",
-          "trans": "They will give only eight years."
-        },
-        {
-          "text": "Всего хорошего!",
-          "trans": "All the best!"
-        },
-        {
-          "text": "Предлагаю чистосердечное признание. Дадут всего восемь лет.",
-          "trans": "I suggest a full confession. They'll give you only eight years."
-        }
-      ],
-      "related": [
-        {
-          "word": "всегда",
-          "gloss": "always"
-        },
-        {
-          "word": "навсегда",
-          "gloss": "forever"
-        }
-      ]
-    },
     "встреча": {
       "lemma": "встреча",
       "stress": "встре́ча",
@@ -2482,11 +2410,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2568,84 +2496,6 @@
         {
           "word": "встретить",
           "gloss": "to meet"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2762,7 +2612,7 @@
             "cells": [
               "genitive",
               "года",
-              "лет"
+              "годов"
             ]
           },
           {
@@ -2789,7 +2639,7 @@
           {
             "cells": [
               "prepositional",
-              "годе (в году)",
+              "годе",
               "годах"
             ]
           }
@@ -2812,49 +2662,6 @@
       ],
       "related": []
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2865,11 +2672,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2960,15 +2771,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3061,11 +2872,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3099,13 +2910,17 @@
       "lemma": "жечь",
       "stress": "жечь",
       "pos": "verb",
-      "gloss": "burns / stings",
+      "gloss": "to burn",
       "aspect": "impf",
-      "pair": null,
+      "pair": "сжечь",
       "meanings": [
         {
-          "en": "burns / stings",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'burns / stings'."
+          "en": "to burn",
+          "note": ""
+        },
+        {
+          "en": "to sting, to smart",
+          "note": "жжёт = it stings"
         }
       ],
       "forms": {
@@ -3119,22 +2934,22 @@
           {
             "cells": [
               "1st",
-              "жею",
-              "жеем"
+              "жгу",
+              "жжём"
             ]
           },
           {
             "cells": [
               "2nd",
-              "жеешь",
-              "жеете"
+              "жжёшь",
+              "жжёте"
             ]
           },
           {
             "cells": [
               "3rd",
-              "жеет",
-              "жеют"
+              "жжёт",
+              "жгут"
             ]
           }
         ]
@@ -3153,10 +2968,27 @@
             {
               "cells": [
                 "past",
-                "жел",
-                "жела",
-                "жело",
-                "жели"
+                "жёг",
+                "жгла",
+                "жгло",
+                "жгли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "жги",
+                "жгите"
               ]
             }
           ]
@@ -3164,22 +2996,22 @@
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и жечь вовремя.",
-          "trans": "We need to do everything and burns on time."
+          "text": "Очень сильно жжёт!",
+          "trans": "It stings really badly!"
         },
         {
-          "text": "На нашей кухне все умеют жечь.",
-          "trans": "In our kitchen everyone knows how to burns."
+          "text": "Ничего особенного не происходит, жжём твоё меню!",
+          "trans": "Nothing special going on, we're just burning your menu!"
         }
       ],
       "related": [
         {
-          "word": "пожечь",
-          "gloss": "to burns (prefixed perfective)"
+          "word": "сжечь",
+          "gloss": "to burn (up) (pf)"
         },
         {
-          "word": "не жечь",
-          "gloss": "not to burns (negated infinitive)"
+          "word": "ожог",
+          "gloss": "burn (injury)"
         }
       ]
     },
@@ -3317,14 +3149,14 @@
     },
     "коньячок": {
       "lemma": "коньячок",
-      "stress": "конья́чок",
+      "stress": "коньячо́к",
       "pos": "noun",
       "gloss": "a little cognac",
       "gender": "m",
       "meanings": [
         {
           "en": "a little cognac",
-          "note": "Formed with a diminutive/expressive Slavic suffix adding warmth or small scale. Common masculine noun meaning 'a little cognac' in everyday Russian."
+          "note": "Formed with a diminutive/expressive Slavic suffix adding warmth or small scale."
         }
       ],
       "forms": {
@@ -3339,42 +3171,42 @@
             "cells": [
               "nominative",
               "коньячок",
-              "коньячоки"
+              "коньячки"
             ]
           },
           {
             "cells": [
               "genitive",
-              "коньячока",
-              "коньячоков"
+              "коньячка",
+              "коньячков"
             ]
           },
           {
             "cells": [
               "dative",
-              "коньячоку",
-              "коньячокам"
+              "коньячку",
+              "коньячкам"
             ]
           },
           {
             "cells": [
               "accusative",
               "коньячок",
-              "коньячоки"
+              "коньячки"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "коньячоком",
-              "коньячоками"
+              "коньячком",
+              "коньячками"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "коньячоке",
-              "коньячоках"
+              "коньячке",
+              "коньячках"
             ]
           }
         ]
@@ -3382,22 +3214,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Поговорю с ним с коньячком.",
-          "trans": "I will talk to him over a little cognac."
+          "text": "Поговорю с ним под коньячок.",
+          "trans": "I'll have a chat with him over a little cognac."
         },
         {
-          "text": "На кухне ресторана всегда есть коньячок.",
-          "trans": "In the restaurant kitchen there is always a little cognac."
+          "text": "Поговорю с ним с коньячком.",
+          "trans": "I'll talk to him over a drop of cognac."
         }
       ],
       "related": [
         {
-          "word": "без коньячо",
-          "gloss": "without a little cognac"
+          "word": "коньяк",
+          "gloss": "cognac"
         },
         {
-          "word": "наш коньячок",
-          "gloss": "our a little cognac"
+          "word": "рюмочка",
+          "gloss": "a little glass (of spirits)"
         }
       ]
     },
@@ -3411,7 +3243,7 @@
       "meanings": [
         {
           "en": "lemon",
-          "note": "Declinable masculine noun meaning 'lemon', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -3512,7 +3344,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -3547,7 +3379,7 @@
       "meanings": [
         {
           "en": "method, approach",
-          "note": "Common masculine noun meaning 'method, way' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4059,7 +3891,7 @@
       "meanings": [
         {
           "en": "to stay, to remain",
-          "note": "Остаётся у нас = stays with us. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to stay, to remain', paired with 'остаться'."
+          "note": "Остаётся у нас = stays with us."
         }
       ],
       "forms": {
@@ -4209,11 +4041,11 @@
       "meanings": [
         {
           "en": "pair, couple",
-          "note": "Common feminine noun meaning 'pair, couple, match' in everyday Russian."
+          "note": ""
         },
         {
           "en": "match (in a relationship: я не пара вам = I'm no match for you)",
-          "note": "Common feminine noun meaning 'pair, couple, match' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4392,15 +4224,19 @@
     },
     "перестирать": {
       "lemma": "перестирать",
-      "stress": "перести́рать",
+      "stress": "перестира́ть",
       "pos": "verb",
-      "gloss": "washed everything",
+      "gloss": "to wash (everything); to rewash",
       "aspect": "pf",
-      "pair": null,
+      "pair": "перестирывать",
       "meanings": [
         {
-          "en": "washed everything",
-          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'стирать'). Used as a perfective (single completed action) verb meaning 'washed everything'."
+          "en": "to wash (a lot of things, all of something)",
+          "note": "пере- here = all of a set"
+        },
+        {
+          "en": "to wash again, rewash",
+          "note": "пере- = redo"
         }
       ],
       "forms": {
@@ -4455,22 +4291,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "перестирай",
+                "перестирайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Макс, я собрала все твои вещи, перестирала, погладила.",
-          "trans": "Max, I packed all your things, washed and ironed them."
+          "trans": "Max, I gathered up all your things, washed and ironed them."
         },
         {
-          "text": "Надо всё сделать и перестирать вовремя.",
-          "trans": "We need to do everything and washed everything on time."
+          "text": "Лёва, вставай, мне твою кровать перестирать надо.",
+          "trans": "Lyova, get up, I need to wash your bedding."
         }
       ],
       "related": [
         {
-          "word": "не перестирать",
-          "gloss": "not to washed everything (negated infinitive)"
+          "word": "стирать",
+          "gloss": "to wash (clothes)"
+        },
+        {
+          "word": "стирка",
+          "gloss": "laundry"
         }
       ]
     },
@@ -4478,13 +4335,17 @@
       "lemma": "погладить",
       "stress": "погла́дить",
       "pos": "verb",
-      "gloss": "to stroke, to caress, to pet",
+      "gloss": "to stroke, to pet; to iron",
       "aspect": "pf",
       "pair": "гладить",
       "meanings": [
         {
           "en": "to stroke, to pet, to caress",
-          "note": "Pass hand gently over. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'гладить'). Used as a perfective (single completed action) verb meaning 'to stroke, to caress, to pet', paired with 'гладить'."
+          "note": ""
+        },
+        {
+          "en": "to iron",
+          "note": "погладить бельё / рубашку"
         }
       ],
       "forms": {
@@ -4586,7 +4447,7 @@
       "meanings": [
         {
           "en": "to have a talk, to speak (with someone)",
-          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to have a talk', paired with 'говорить'."
+          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить')."
         }
       ],
       "forms": {
@@ -4691,15 +4552,15 @@
     },
     "промыть": {
       "lemma": "промыть",
-      "stress": "про́мыть",
+      "stress": "промы́ть",
       "pos": "verb",
-      "gloss": "washed / rinsed out",
+      "gloss": "to rinse, wash out",
       "aspect": "pf",
-      "pair": null,
+      "pair": "промывать",
       "meanings": [
         {
-          "en": "washed / rinsed out",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'мыть'). Used as a perfective (single completed action) verb meaning 'washed / rinsed out'."
+          "en": "to rinse, wash out (thoroughly)",
+          "note": "+ acc."
         }
       ],
       "forms": {
@@ -4713,22 +4574,22 @@
           {
             "cells": [
               "1st",
-              "промыю",
-              "промыем"
+              "промою",
+              "промоем"
             ]
           },
           {
             "cells": [
               "2nd",
-              "промыешь",
-              "промыете"
+              "промоешь",
+              "промоете"
             ]
           },
           {
             "cells": [
               "3rd",
-              "промыет",
-              "промыют"
+              "промоет",
+              "промоют"
             ]
           }
         ]
@@ -4754,22 +4615,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "промой",
+                "промойте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Я уже всё хорошо промыл.",
-          "trans": "I already washed everything out well."
+          "trans": "I've already rinsed everything well."
         },
         {
-          "text": "Надо всё сделать и промыть вовремя.",
-          "trans": "We need to do everything and washed on time."
+          "text": "Надо промыть рану водой.",
+          "trans": "The wound needs to be rinsed with water."
         }
       ],
       "related": [
         {
-          "word": "не промыть",
-          "gloss": "not to washed (negated infinitive)"
+          "word": "промывать",
+          "gloss": "to rinse (impf)"
+        },
+        {
+          "word": "мыть",
+          "gloss": "to wash"
         }
       ]
     },
@@ -4934,7 +4816,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -5037,7 +4919,7 @@
       "meanings": [
         {
           "en": "very much, deeply, strongly",
-          "note": "Adverb of degree. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb of degree."
         }
       ],
       "forms": null,
@@ -5075,11 +4957,11 @@
       "meanings": [
         {
           "en": "how much, how many",
-          "note": "+ genitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive."
         },
         {
           "en": "what a lot of!",
-          "note": "In exclamations. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "In exclamations."
         }
       ],
       "forms": null,
@@ -5110,11 +4992,11 @@
       "meanings": [
         {
           "en": "to collect, to put together",
-          "note": "Money, things, people. Used as a perfective (single completed action) verb meaning 'to collect, to gather', paired with 'собирать'."
+          "note": "Money, things, people."
         },
         {
           "en": "to pack",
-          "note": "'собрать вещи' = to pack. Used as a perfective (single completed action) verb meaning 'to collect, to gather', paired with 'собирать'."
+          "note": "'собрать вещи' = to pack."
         }
       ],
       "forms": {
@@ -5205,11 +5087,15 @@
       "related": [
         {
           "word": "собирать",
-          "gloss": "to collect"
+          "gloss": "to collect (impf)"
         },
         {
-          "word": "отобрать",
-          "gloss": "to take away"
+          "word": "собрание",
+          "gloss": "meeting"
+        },
+        {
+          "word": "собраться",
+          "gloss": "to get ready, gather"
         }
       ]
     },
@@ -5222,7 +5108,7 @@
       "meanings": [
         {
           "en": "salt",
-          "note": "Culinary seasoning. Common feminine noun meaning 'salt' in everyday Russian."
+          "note": "Culinary seasoning."
         }
       ],
       "forms": {
@@ -5302,11 +5188,11 @@
       "meanings": [
         {
           "en": "terrible, scary",
-          "note": "'ничего страшного'. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('terrible, scary')."
+          "note": ""
         },
         {
           "en": "nothing serious",
-          "note": "'ничего страшного'. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('terrible, scary')."
+          "note": "in 'ничего страшного'"
         }
       ],
       "forms": {
@@ -5509,7 +5395,7 @@
       "meanings": [
         {
           "en": "tequila",
-          "note": "Common feminine noun meaning 'tequila' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5568,21 +5454,21 @@
       "examples": [
         {
           "text": "Лучше текилу возьми и лимон.",
-          "trans": "Better take tequila and a lemon."
+          "trans": "Better grab tequila and a lemon."
         },
         {
-          "text": "На кухне ресторана всегда есть текила.",
-          "trans": "In the restaurant kitchen there is always tequila."
+          "text": "Видел я вчера, как у вас после текилы было.",
+          "trans": "I saw what happened with you yesterday after the tequila."
         }
       ],
       "related": [
         {
-          "word": "без текил",
-          "gloss": "without tequila"
+          "word": "водка",
+          "gloss": "vodka"
         },
         {
-          "word": "наш текила",
-          "gloss": "our tequila"
+          "word": "лайм",
+          "gloss": "lime"
         }
       ]
     },
@@ -5594,7 +5480,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -5837,7 +5723,7 @@
         },
         {
           "en": "through, across",
-          "note": "Core Russian prep meaning 'in (time); through' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,

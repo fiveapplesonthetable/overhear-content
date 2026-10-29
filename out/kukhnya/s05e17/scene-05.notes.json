@@ -96,8 +96,8 @@
           "t": "выслушать.",
           "lemma": "выслушать",
           "pos": "verb",
-          "stress": "выслу́шать",
-          "gloss": "to listen to, hear out",
+          "stress": "вы́слушать",
+          "gloss": "to hear out",
           "gram": "infinitive"
         }
       ]
@@ -242,9 +242,9 @@
           "t": "угнал.",
           "lemma": "угнать",
           "pos": "verb",
-          "stress": "у́гнал",
-          "gloss": "to flip (slang) / steal",
-          "gram": "past tense, masculine singular"
+          "stress": "угна́л",
+          "gloss": "stole (a car)",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
@@ -366,7 +366,7 @@
           "pos": "noun",
           "stress": "та́чки",
           "gloss": "car, wheelbarrow",
-          "gram": "genitive singular / nominative plural, feminine"
+          "gram": "accusative plural, feminine"
         },
         {
           "t": "на",
@@ -426,7 +426,7 @@
           "t": "приработок.",
           "lemma": "приработок",
           "pos": "noun",
-          "stress": "прира́боток",
+          "stress": "при́работок",
           "gloss": "side job",
           "gram": "nominative singular, masculine"
         }
@@ -680,8 +680,8 @@
           "t": "выслушать.",
           "lemma": "выслушать",
           "pos": "verb",
-          "stress": "выслу́шать",
-          "gloss": "to listen to, hear out",
+          "stress": "вы́слушать",
+          "gloss": "to hear out",
           "gram": "infinitive"
         }
       ]
@@ -826,9 +826,9 @@
           "t": "угнал.",
           "lemma": "угнать",
           "pos": "verb",
-          "stress": "у́гнал",
-          "gloss": "to flip (slang) / steal",
-          "gram": "past tense, masculine singular"
+          "stress": "угна́л",
+          "gloss": "stole (a car)",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
@@ -950,7 +950,7 @@
           "pos": "noun",
           "stress": "та́чки",
           "gloss": "car, wheelbarrow",
-          "gram": "genitive singular / nominative plural, feminine"
+          "gram": "accusative plural, feminine"
         },
         {
           "t": "на",
@@ -1010,7 +1010,7 @@
           "t": "приработок.",
           "lemma": "приработок",
           "pos": "noun",
-          "stress": "прира́боток",
+          "stress": "при́работок",
           "gloss": "side job",
           "gram": "nominative singular, masculine"
         }
@@ -1264,8 +1264,8 @@
           "t": "выслушать.",
           "lemma": "выслушать",
           "pos": "verb",
-          "stress": "выслу́шать",
-          "gloss": "to listen to, hear out",
+          "stress": "вы́слушать",
+          "gloss": "to hear out",
           "gram": "infinitive"
         }
       ]
@@ -1410,9 +1410,9 @@
           "t": "угнал.",
           "lemma": "угнать",
           "pos": "verb",
-          "stress": "у́гнал",
-          "gloss": "to flip (slang) / steal",
-          "gram": "past tense, masculine singular"
+          "stress": "угна́л",
+          "gloss": "stole (a car)",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
@@ -1534,7 +1534,7 @@
           "pos": "noun",
           "stress": "та́чки",
           "gloss": "car, wheelbarrow",
-          "gram": "genitive singular / nominative plural, feminine"
+          "gram": "accusative plural, feminine"
         },
         {
           "t": "на",
@@ -1594,7 +1594,7 @@
           "t": "приработок.",
           "lemma": "приработок",
           "pos": "noun",
-          "stress": "прира́боток",
+          "stress": "при́работок",
           "gloss": "side job",
           "gram": "nominative singular, masculine"
         }
@@ -1771,7 +1771,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -2139,11 +2139,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2198,6 +2198,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2231,15 +2248,20 @@
     },
     "владеть": {
       "lemma": "владеть",
-      "stress": "вла́деть",
+      "stress": "владе́ть",
       "pos": "verb",
-      "gloss": "own",
+      "gloss": "to own, to possess",
       "aspect": "impf",
       "pair": null,
+      "governs": "+ instrumental",
       "meanings": [
         {
-          "en": "own",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'own'."
+          "en": "to own, to possess",
+          "note": "+ instrumental: владеть рестораном"
+        },
+        {
+          "en": "to have command of (a skill, language)",
+          "note": "владеть английским = to speak English well"
         }
       ],
       "forms": {
@@ -2294,22 +2316,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "владей",
+                "владейте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Не у всех мамы отелями владеют.",
-          "trans": "Not everyone's mother owns a hotel."
+          "trans": "Not everyone's mum owns hotels."
         },
         {
-          "text": "Надо всё сделать и владеть вовремя.",
-          "trans": "We need to do everything and own on time."
+          "text": "Он владеет тремя ресторанами.",
+          "trans": "He owns three restaurants."
         }
       ],
       "related": [
         {
-          "word": "не владеть",
-          "gloss": "not to own (negated infinitive)"
+          "word": "владелец",
+          "gloss": "owner"
+        },
+        {
+          "word": "завладеть",
+          "gloss": "to seize, take possession of"
         }
       ]
     },
@@ -2321,11 +2364,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2364,7 +2407,7 @@
       "meanings": [
         {
           "en": "time",
-          "note": "Проводить время = to spend time. Common neuter noun meaning 'time' in everyday Russian."
+          "note": "Проводить время = to spend time."
         }
       ],
       "forms": {
@@ -2449,7 +2492,7 @@
       "meanings": [
         {
           "en": "yesterday",
-          "note": "Core Russian adv meaning 'yesterday' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2567,7 +2610,7 @@
       "meanings": [
         {
           "en": "to hear out, listen attentively to",
-          "note": "Listen until the end. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'слушать'). Used as a perfective (single completed action) verb meaning 'to listen to, hear out', paired with 'выслушивать'."
+          "note": "Listen until the end. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'слушать')."
         }
       ],
       "forms": {
@@ -2795,7 +2838,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -2886,7 +2929,11 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "gloss": "good, kindness"
+        },
+        {
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
@@ -2902,7 +2949,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2951,7 +2998,7 @@
       "meanings": [
         {
           "en": "expensive",
-          "note": "to a loved one, and at the start of letters"
+          "note": ""
         },
         {
           "en": "dear",
@@ -2998,10 +3045,10 @@
           {
             "cells": [
               "accusative",
-              "дорогой/дорогого",
+              "дорогой / дорогого",
               "дорогую",
               "дорогое",
-              "дорогие/дорогих"
+              "дорогие / дорогих"
             ]
           },
           {
@@ -3024,29 +3071,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "дорог",
-                "дорога",
-                "дорого",
-                "дороги"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Это дорогая одежда.",
@@ -3074,10 +3099,11 @@
       "pos": "noun",
       "gloss": "order",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "order",
-          "note": "Declinable masculine noun meaning 'order', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "booking",
@@ -3168,11 +3194,11 @@
       "meanings": [
         {
           "en": "to sound",
-          "note": "To produce sound; to seem. Used as an imperfective (ongoing/repeated action) verb meaning 'to sound; to ring out', paired with 'прозвучать'."
+          "note": "To produce sound; to seem."
         },
         {
           "en": "to ring",
-          "note": "To be heard. Used as an imperfective (ongoing/repeated action) verb meaning 'to sound; to ring out', paired with 'прозвучать'."
+          "note": "To be heard."
         }
       ],
       "forms": {
@@ -3272,12 +3298,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3332,6 +3356,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3351,17 +3392,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "ладно": {
       "lemma": "ладно",
@@ -3371,7 +3413,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -3393,7 +3435,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -3487,11 +3533,11 @@
       "meanings": [
         {
           "en": "car",
-          "note": "Common feminine noun meaning 'car; machine' in everyday Russian."
+          "note": ""
         },
         {
           "en": "machine",
-          "note": "Common feminine noun meaning 'car; machine' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3700,7 +3746,7 @@
       "meanings": [
         {
           "en": "to explain",
-          "note": "Used as a perfective (single completed action) verb meaning 'to explain', paired with 'объяснять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3897,12 +3943,12 @@
       "lemma": "отель",
       "stress": "оте́ль",
       "pos": "noun",
-      "gloss": "of the hotel",
+      "gloss": "hotel",
       "gender": "m",
       "meanings": [
         {
-          "en": "of the hotel",
-          "note": "Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common masculine noun meaning 'of the hotel' in everyday Russian."
+          "en": "hotel",
+          "note": ""
         }
       ],
       "forms": {
@@ -3960,19 +4006,32 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это гематома, она и стала причиной потери памяти.",
-          "trans": "That is a hematoma, it became the cause of memory loss."
+          "text": "Наш отель должен удивить гостей.",
+          "trans": "Our hotel has to impress the guests."
         },
         {
-          "text": "Андрей, положи её к себе, а то и эту потеряю.",
-          "trans": "Andrey, put it in your pocket, or I will lose this one too."
+          "text": "В нашем отеле действует новая услуга.",
+          "trans": "Our hotel has a new service."
         },
         {
-          "text": "Я хотел бы просмотреть все документы по закупке продуктов.",
-          "trans": "I would like to review all the documents on food purchases."
+          "text": "Кто бы мог подумать, что буду управлять отелем?",
+          "trans": "Who'd have thought I'd be running a hotel?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "гостиница",
+          "gloss": "hotel"
+        },
+        {
+          "word": "номер",
+          "gloss": "hotel room"
+        },
+        {
+          "word": "постоялец",
+          "gloss": "hotel guest"
+        }
+      ]
     },
     "очень": {
       "lemma": "очень",
@@ -4022,7 +4081,7 @@
       "meanings": [
         {
           "en": "to search for a while, to look around",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'искать'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to look for', forming an aspectual pair with 'искать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'искать')."
         }
       ],
       "forms": {
@@ -4125,7 +4184,7 @@
       "meanings": [
         {
           "en": "last, final",
-          "note": "Последний раз = for the last time. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('last, final')."
+          "note": "Последний раз = for the last time."
         }
       ],
       "forms": {
@@ -4168,10 +4227,10 @@
           {
             "cells": [
               "accusative",
-              "последний",
+              "последний / последнего",
               "последнюю",
               "последнее",
-              "последние"
+              "последние / последних"
             ]
           },
           {
@@ -4213,14 +4272,14 @@
     },
     "приработок": {
       "lemma": "приработок",
-      "stress": "прирабо́ток",
+      "stress": "при́работок",
       "pos": "noun",
-      "gloss": "side job",
+      "gloss": "side income, extra earnings",
       "gender": "m",
       "meanings": [
         {
-          "en": "side job",
-          "note": "Common masculine noun meaning 'side job' in everyday Russian."
+          "en": "side income, extra earnings, side job",
+          "note": ""
         }
       ],
       "forms": {
@@ -4235,42 +4294,42 @@
             "cells": [
               "nominative",
               "приработок",
-              "приработоки"
+              "приработки"
             ]
           },
           {
             "cells": [
               "genitive",
-              "приработока",
-              "приработоков"
+              "приработка",
+              "приработков"
             ]
           },
           {
             "cells": [
               "dative",
-              "приработоку",
-              "приработокам"
+              "приработку",
+              "приработкам"
             ]
           },
           {
             "cells": [
               "accusative",
               "приработок",
-              "приработоки"
+              "приработки"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "приработоком",
-              "приработоками"
+              "приработком",
+              "приработками"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "приработоке",
-              "приработоках"
+              "приработке",
+              "приработках"
             ]
           }
         ]
@@ -4279,21 +4338,21 @@
       "examples": [
         {
           "text": "Вот такой у меня приработок.",
-          "trans": "That is the kind of side job I have."
+          "trans": "That's my side income."
         },
         {
-          "text": "На кухне отеля всегда есть приработок.",
-          "trans": "In the hotel kitchen there is always side job."
+          "text": "Летом у него есть небольшой приработок.",
+          "trans": "In summer he has a small side income."
         }
       ],
       "related": [
         {
-          "word": "без приработо",
-          "gloss": "without side job"
+          "word": "подработка",
+          "gloss": "side job"
         },
         {
-          "word": "наш приработок",
-          "gloss": "our side job"
+          "word": "зарплата",
+          "gloss": "salary"
         }
       ]
     },
@@ -4340,7 +4399,7 @@
       "meanings": [
         {
           "en": "to sit down",
-          "note": "Садитесь = sit down (polite). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to sit down', paired with 'сесть'."
+          "note": "Садитесь = sit down (polite)."
         }
       ],
       "forms": {
@@ -4443,7 +4502,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -4540,15 +4599,15 @@
     },
     "сблизиться": {
       "lemma": "сблизиться",
-      "stress": "сблизи́ться",
+      "stress": "сбли́зиться",
       "pos": "verb",
-      "gloss": "grew closer",
+      "gloss": "to grow close, become closer",
       "aspect": "pf",
-      "pair": null,
+      "pair": "сближаться",
       "meanings": [
         {
-          "en": "grew closer",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'grew closer'."
+          "en": "to grow close, become closer",
+          "note": ""
         }
       ],
       "forms": {
@@ -4603,22 +4662,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "сблизься",
+                "сблизьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и сблизиться вовремя.",
-          "trans": "We need to do everything and grew closer on time."
+          "text": "Вы в последнее время сблизились.",
+          "trans": "You two have grown close lately."
         },
         {
-          "text": "На нашей кухне все умеют сблизиться.",
-          "trans": "In our kitchen everyone knows how to grew closer."
+          "text": "Я обязательно помогу вам двоим сблизиться.",
+          "trans": "I'll definitely help you two get closer."
         }
       ],
       "related": [
         {
-          "word": "не сблизиться",
-          "gloss": "not to grew closer (negated infinitive)"
+          "word": "близкий",
+          "gloss": "close"
+        },
+        {
+          "word": "сближение",
+          "gloss": "getting closer"
         }
       ]
     },
@@ -4672,7 +4752,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -4767,7 +4847,7 @@
       "meanings": [
         {
           "en": "car, wheels, wheelbarrow",
-          "note": "Slang/colloquial for automobile. Common feminine noun meaning 'car, wheelbarrow' in everyday Russian."
+          "note": "Slang/colloquial for automobile."
         }
       ],
       "forms": {
@@ -4972,13 +5052,13 @@
       "lemma": "угнать",
       "stress": "угна́ть",
       "pos": "verb",
-      "gloss": "to flip (slang) / steal",
+      "gloss": "to steal (a vehicle), to hijack",
       "aspect": "pf",
-      "pair": null,
+      "pair": "угонять",
       "meanings": [
         {
-          "en": "to flip (slang) / steal",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'гнать'). Used as a perfective (single completed action) verb meaning 'to flip (slang) / steal'."
+          "en": "to steal (a car), to hijack",
+          "note": "Used of vehicles: угнать машину."
         }
       ],
       "forms": {
@@ -5033,34 +5113,51 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "угони",
+                "угоните"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Шеф-повар угонит.",
-          "trans": "The chef is going to flip."
+          "text": "Извини, у меня дорогую машину угнали.",
+          "trans": "Sorry, my expensive car got stolen."
         },
         {
           "text": "Ночью со стоянки у клуба кто-то пытался угнать дорогую машину.",
-          "trans": "At night someone tried to steal an expensive car from the club parking lot."
+          "trans": "At night someone tried to steal an expensive car from the club car park."
         },
         {
           "text": "Воры не смогли угнать автомобиль из-за громкой сигнализации.",
-          "trans": "The thieves could not steal the car because of the loud alarm."
+          "trans": "The thieves couldn't steal the car because of the loud alarm."
         }
       ],
       "related": [
         {
+          "word": "угонять",
+          "gloss": "to steal (cars) (impf)"
+        },
+        {
+          "word": "угон",
+          "gloss": "car theft"
+        },
+        {
           "word": "гнать",
-          "gloss": "to chase away"
-        },
-        {
-          "word": "догнать",
-          "gloss": "to catch up with"
-        },
-        {
-          "word": "прогнать",
-          "gloss": "to chase away"
+          "gloss": "to drive, to chase"
         }
       ]
     },
@@ -5068,17 +5165,17 @@
       "lemma": "угонять",
       "stress": "угоня́ть",
       "pos": "verb",
-      "gloss": "I steal (cars)",
-      "aspect": "pf",
-      "pair": null,
+      "gloss": "to steal (cars)",
+      "aspect": "impf",
+      "pair": "угнать",
       "meanings": [
         {
-          "en": "I steal (cars)",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'гонять'). Used as a perfective (single completed action) verb meaning 'I steal (cars)'."
+          "en": "to steal (cars), to hijack",
+          "note": "Prefix 'у-' marks removal (stem 'гонять')."
         }
       ],
       "forms": {
-        "title": "Future",
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -5129,6 +5226,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "угоняй",
+                "угоняйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5145,7 +5259,16 @@
           "trans": "Usually I steal it and hand it over to the client."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "угнать",
+          "gloss": "to steal (a car) (pf)"
+        },
+        {
+          "word": "угон",
+          "gloss": "car theft"
+        }
+      ]
     },
     "утро": {
       "lemma": "утро",
@@ -5156,7 +5279,7 @@
       "meanings": [
         {
           "en": "morning",
-          "note": "Утром = in the morning. Common neuter noun meaning 'morning' in everyday Russian."
+          "note": "Утром = in the morning."
         }
       ],
       "forms": {
@@ -5236,7 +5359,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5442,7 +5565,7 @@
       "meanings": [
         {
           "en": "honestly, frankly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,

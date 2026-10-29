@@ -58,7 +58,7 @@
           "pos": "verb",
           "stress": "просну́ться",
           "gloss": "wake up",
-          "gram": "UNKNOWN"
+          "gram": "infinitive, perfective"
         },
         {
           "t": "раньше?",
@@ -115,9 +115,9 @@
         {
           "t": "и",
           "lemma": "и",
-          "pos": "conj",
+          "pos": "part",
           "stress": null,
-          "gloss": "even",
+          "gloss": "maybe even, perhaps",
           "gram": "particle"
         },
         {
@@ -216,7 +216,7 @@
           "pos": "verb",
           "stress": "просну́ться",
           "gloss": "wake up",
-          "gram": "UNKNOWN"
+          "gram": "infinitive, perfective"
         },
         {
           "t": "раньше?",
@@ -273,9 +273,9 @@
         {
           "t": "и",
           "lemma": "и",
-          "pos": "conj",
+          "pos": "part",
           "stress": null,
-          "gloss": "even",
+          "gloss": "maybe even, perhaps",
           "gram": "particle"
         },
         {
@@ -374,7 +374,7 @@
           "pos": "verb",
           "stress": "просну́ться",
           "gloss": "wake up",
-          "gram": "UNKNOWN"
+          "gram": "infinitive, perfective"
         },
         {
           "t": "раньше?",
@@ -431,9 +431,9 @@
         {
           "t": "и",
           "lemma": "и",
-          "pos": "conj",
+          "pos": "part",
           "stress": null,
-          "gloss": "even",
+          "gloss": "maybe even, perhaps",
           "gram": "particle"
         },
         {
@@ -508,11 +508,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -547,12 +547,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -607,6 +605,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -626,17 +641,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "не": {
       "lemma": "не",
@@ -684,7 +700,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -766,7 +782,7 @@
       "meanings": [
         {
           "en": "wake up",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'wake up'."
+          "note": ""
         }
       ],
       "forms": {
@@ -821,6 +837,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "проснись",
+                "проснитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -856,7 +889,7 @@
       "meanings": [
         {
           "en": "earlier, before, formerly",
-          "note": "Comparative of рано. Core Russian adv meaning 'earlier, previously, used to' in everyday speech."
+          "note": "Comparative of рано."
         }
       ],
       "forms": null,
@@ -891,11 +924,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -990,7 +1023,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -1042,6 +1075,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -1230,11 +1280,11 @@
       "meanings": [
         {
           "en": "to cost",
-          "note": "Сколько стоит? = how much is it?. Used as an imperfective (ongoing/repeated action) verb meaning 'to cost; to be worth'."
+          "note": "Сколько стоит? = how much is it?."
         },
         {
           "en": "to be worth",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to cost; to be worth'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1286,6 +1336,23 @@
                 "стоила",
                 "стоило",
                 "стоили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "стой",
+                "стойте"
               ]
             }
           ]

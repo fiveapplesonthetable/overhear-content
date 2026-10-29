@@ -64,8 +64,8 @@
           "t": "создал",
           "lemma": "создать",
           "pos": "verb",
-          "stress": "со́здал",
-          "gloss": "to create, establish",
+          "stress": "созда́л",
+          "gloss": "created",
           "gram": "past tense, masculine singular"
         },
         {
@@ -134,9 +134,9 @@
           "t": "рассказываю?",
           "lemma": "рассказывать",
           "pos": "verb",
-          "stress": "рассказыва́ю",
-          "gloss": "to tell, to talk about",
-          "gram": "1st person singular"
+          "stress": "расска́зываю",
+          "gloss": "tell",
+          "gram": "1st person singular present, imperfective"
         }
       ]
     },
@@ -624,8 +624,8 @@
           "t": "создал",
           "lemma": "создать",
           "pos": "verb",
-          "stress": "со́здал",
-          "gloss": "to create, establish",
+          "stress": "созда́л",
+          "gloss": "created",
           "gram": "past tense, masculine singular"
         },
         {
@@ -694,9 +694,9 @@
           "t": "рассказываю?",
           "lemma": "рассказывать",
           "pos": "verb",
-          "stress": "рассказыва́ю",
-          "gloss": "to tell, to talk about",
-          "gram": "1st person singular"
+          "stress": "расска́зываю",
+          "gloss": "tell",
+          "gram": "1st person singular present, imperfective"
         }
       ]
     },
@@ -1184,8 +1184,8 @@
           "t": "создал",
           "lemma": "создать",
           "pos": "verb",
-          "stress": "со́здал",
-          "gloss": "to create, establish",
+          "stress": "созда́л",
+          "gloss": "created",
           "gram": "past tense, masculine singular"
         },
         {
@@ -1254,9 +1254,9 @@
           "t": "рассказываю?",
           "lemma": "рассказывать",
           "pos": "verb",
-          "stress": "рассказыва́ю",
-          "gloss": "to tell, to talk about",
-          "gram": "1st person singular"
+          "stress": "расска́зываю",
+          "gloss": "tell",
+          "gram": "1st person singular present, imperfective"
         }
       ]
     },
@@ -1757,10 +1757,10 @@
           {
             "cells": [
               "accusative",
-              "авторский",
+              "авторский / авторского",
               "авторскую",
               "авторское",
-              "авторские"
+              "авторские / авторских"
             ]
           },
           {
@@ -1800,119 +1800,6 @@
       ],
       "related": []
     },
-    "болеть": {
-      "lemma": "болеть",
-      "stress": "боле́ть",
-      "pos": "verb",
-      "gloss": "to be ill",
-      "aspect": "impf",
-      "pair": "заболеть",
-      "meanings": [
-        {
-          "en": "to be ill, to be sick",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to be ill', paired with 'заболеть'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "болею",
-              "болеем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "болеешь",
-              "болеете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "болеет",
-              "болеют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "болел",
-                "болела",
-                "болело",
-                "болели"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "болей",
-                "болейте"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Мама болеет.",
-          "trans": "My mother is ill."
-        },
-        {
-          "text": "У тебя сын болеет.",
-          "trans": "Your son is ill."
-        },
-        {
-          "text": "Я этого не хочу. Но вспомни, у тебя сын болеет.",
-          "trans": "I don't want that. But remember, your son is ill."
-        }
-      ],
-      "related": [
-        {
-          "word": "заболеть",
-          "gloss": "to fall ill"
-        },
-        {
-          "word": "болезнь",
-          "gloss": "illness"
-        },
-        {
-          "word": "заболевание",
-          "gloss": "disease"
-        }
-      ]
-    },
     "боль": {
       "lemma": "боль",
       "stress": "боль",
@@ -1922,7 +1809,7 @@
       "meanings": [
         {
           "en": "pain, ache",
-          "note": "3rd-declension feminine noun. Common feminine noun meaning 'pain, ache' in everyday Russian."
+          "note": "3rd-declension feminine noun."
         }
       ],
       "forms": {
@@ -2123,11 +2010,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2209,84 +2096,6 @@
         {
           "word": "встретить",
           "gloss": "to meet"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2565,7 +2374,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2680,11 +2489,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2761,11 +2570,11 @@
       "meanings": [
         {
           "en": "star",
-          "note": "In the sky. Common feminine noun meaning 'star; celebrity' in everyday Russian."
+          "note": "In the sky."
         },
         {
           "en": "star, famous performer",
-          "note": "Common feminine noun meaning 'star; celebrity' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2837,8 +2646,12 @@
       ],
       "related": [
         {
-          "word": "звездный",
-          "gloss": "related to star (adj.)"
+          "word": "звёздный",
+          "gloss": "star (adj.), starry"
+        },
+        {
+          "word": "звёздочка",
+          "gloss": "little star; asterisk"
         }
       ]
     },
@@ -2889,11 +2702,11 @@
       "meanings": [
         {
           "en": "because of, on account of",
-          "note": "+ genitive. Core Russian prep meaning 'because of; from behind' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "from behind",
-          "note": "+ genitive. Core Russian prep meaning 'because of; from behind' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3025,7 +2838,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -3165,42 +2978,42 @@
             "cells": [
               "nominative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "genitive",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "dative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "accusative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "instrumental",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "prepositional",
               "меню",
-              "—"
+              "меню"
             ]
           }
         ]
@@ -3230,11 +3043,11 @@
       "meanings": [
         {
           "en": "a lot, much, many",
-          "note": "+ genitive plural: много дел. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive plural: много дел."
         },
         {
           "en": "больше = more",
-          "note": "Comparative. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Comparative."
         }
       ],
       "forms": null,
@@ -3384,7 +3197,7 @@
         },
         {
           "en": "a fine young man",
-          "note": "Old-fashioned. Common masculine noun meaning 'well done; good person' in everyday Russian."
+          "note": "Old-fashioned."
         }
       ],
       "forms": {
@@ -3721,91 +3534,6 @@
         }
       ]
     },
-    "нога": {
-      "lemma": "нога",
-      "stress": "нога́",
-      "pos": "noun",
-      "gloss": "leg, foot",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "leg",
-          "note": "Russian uses one word for both. Common feminine noun meaning 'leg, foot' in everyday Russian."
-        },
-        {
-          "en": "foot",
-          "note": "Russian uses one word for both. Common feminine noun meaning 'leg, foot' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "нога",
-              "ноги"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "ноги",
-              "ног"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "ноге",
-              "ногам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "ногу",
-              "ноги"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "ногой",
-              "ногами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "ноге",
-              "ногах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Правая нога.",
-          "trans": "The right foot."
-        },
-        {
-          "text": "У меня болит нога.",
-          "trans": "My leg hurts."
-        },
-        {
-          "text": "Заходите. Поставьте, пожалуйста, правую ногу на кровать.",
-          "trans": "Come in. Please put your right foot on the bed."
-        }
-      ],
-      "related": []
-    },
     "нужный": {
       "lemma": "нужный",
       "stress": "ну́жный",
@@ -3883,29 +3611,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Мне ещё работа нужна.",
@@ -4035,7 +3741,7 @@
       "meanings": [
         {
           "en": "to open",
-          "note": "A door, a window. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'крыть'). Used as a perfective (single completed action) verb meaning 'to open', paired with 'открывать'."
+          "note": "A door, a window. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'крыть')."
         }
       ],
       "forms": {
@@ -4241,6 +3947,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понимай",
+                "понимайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4347,7 +4070,7 @@
         },
         {
           "en": "wonderful!",
-          "note": "As a reply. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "As a reply."
         }
       ],
       "forms": null,
@@ -4827,7 +4550,7 @@
         },
         {
           "en": "to solve",
-          "note": "Решить задачу. Used as a perfective (single completed action) verb meaning 'to decide; to solve', paired with 'решать'."
+          "note": "Решить задачу."
         }
       ],
       "forms": {
@@ -4929,143 +4652,6 @@
           "gloss": "to be resolved"
         }
       ]
-    },
-    "с": {
-      "lemma": "с",
-      "stress": "с",
-      "pos": "prep",
-      "gloss": "with",
-      "governs": "+ instrumental",
-      "meanings": [
-        {
-          "en": "with",
-          "note": "+ instrumental; со before some consonant clusters: со всеми"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Поделись со всеми.",
-          "trans": "Share with everyone."
-        },
-        {
-          "text": "Я с папой.",
-          "trans": "I'm with Dad."
-        },
-        {
-          "text": "Со всеми поделись поровну, понял?",
-          "trans": "Share it all equally with everyone, understand?"
-        }
-      ],
-      "related": [
-        {
-          "word": "со",
-          "gloss": "with, from"
-        },
-        {
-          "word": "без",
-          "gloss": "without"
-        }
-      ]
-    },
-    "самый": {
-      "lemma": "самый",
-      "stress": "са́мый",
-      "pos": "adj",
-      "gloss": "the most; the very",
-      "meanings": [
-        {
-          "en": "the most",
-          "note": "forms the superlative: самый главный = the most important"
-        },
-        {
-          "en": "the very",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('the most; the very')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "самый",
-              "самая",
-              "самое",
-              "самые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "самого",
-              "самой",
-              "самого",
-              "самых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "самому",
-              "самой",
-              "самому",
-              "самым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "самый / самого",
-              "самую",
-              "самое",
-              "самые / самых"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "самым",
-              "самой",
-              "самым",
-              "самыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "самом",
-              "самой",
-              "самом",
-              "самых"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Самое главное — это народ.",
-          "trans": "The most important thing is the people."
-        },
-        {
-          "text": "Это самый большой город.",
-          "trans": "It's the biggest town."
-        },
-        {
-          "text": "Знаешь, что самое главное?",
-          "trans": "Do you know the main thing?"
-        }
-      ],
-      "related": []
     },
     "свой": {
       "lemma": "свой",
@@ -5212,7 +4798,7 @@
       "meanings": [
         {
           "en": "very much, deeply, strongly",
-          "note": "Adverb of degree. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb of degree."
         }
       ],
       "forms": null,
@@ -5250,7 +4836,7 @@
       "meanings": [
         {
           "en": "strong, powerful (also used as a noun: the strong)",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('strong, powerful')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5293,10 +4879,10 @@
           {
             "cells": [
               "accusative",
-              "сильный",
+              "сильный / сильного",
               "сильную",
               "сильное",
-              "сильные"
+              "сильные / сильных"
             ]
           },
           {
@@ -5355,7 +4941,7 @@
       "meanings": [
         {
           "en": "to create, establish, build",
-          "note": "Bring into existence. Used as a perfective (single completed action) verb meaning 'to create, establish', paired with 'создавать'."
+          "note": "Bring into existence."
         }
       ],
       "forms": {
@@ -5499,15 +5085,15 @@
     },
     "уставать": {
       "lemma": "уставать",
-      "stress": "уста́вать",
+      "stress": "устава́ть",
       "pos": "verb",
-      "gloss": "gets tired",
+      "gloss": "to get tired",
       "aspect": "impf",
-      "pair": null,
+      "pair": "устать",
       "meanings": [
         {
-          "en": "gets tired",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'gets tired'."
+          "en": "to get tired, tire",
+          "note": "Imperfective of устать; present устаю, устаёшь."
         }
       ],
       "forms": {
@@ -5521,22 +5107,22 @@
           {
             "cells": [
               "1st",
-              "уставаю",
-              "уставаем"
+              "устаю",
+              "устаём"
             ]
           },
           {
             "cells": [
               "2nd",
-              "уставаешь",
-              "уставаете"
+              "устаёшь",
+              "устаёте"
             ]
           },
           {
             "cells": [
               "3rd",
-              "уставает",
-              "уставают"
+              "устаёт",
+              "устают"
             ]
           }
         ]
@@ -5562,22 +5148,47 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "уставай",
+                "уставайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и уставать вовремя.",
-          "trans": "We need to do everything and gets tired on time."
+          "text": "Но он очень сильно устаёт.",
+          "trans": "But he gets very tired."
         },
         {
-          "text": "На нашей кухне все умеют уставать.",
-          "trans": "In our kitchen everyone knows how to gets tired."
+          "text": "Да, устаю, очень много работы.",
+          "trans": "Yes, I get tired, there's a lot of work."
         }
       ],
       "related": [
         {
-          "word": "не уставать",
-          "gloss": "not to gets tired (negated infinitive)"
+          "word": "устать",
+          "gloss": "to get tired (pf)"
+        },
+        {
+          "word": "усталость",
+          "gloss": "fatigue"
+        },
+        {
+          "word": "усталый",
+          "gloss": "tired"
         }
       ]
     },
@@ -5590,7 +5201,7 @@
       "meanings": [
         {
           "en": "fatigue",
-          "note": "Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'fatigue' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5652,101 +5263,20 @@
           "trans": "Because of fatigue Viktor has severe pains."
         },
         {
-          "text": "На кухне отеля всегда есть усталость.",
-          "trans": "In the hotel kitchen there is always fatigue."
+          "text": "К вечеру я чувствую сильную усталость.",
+          "trans": "By evening I feel very tired."
         }
       ],
       "related": [
         {
-          "word": "без усталост",
-          "gloss": "without fatigue"
+          "word": "устать",
+          "gloss": "to get tired"
         },
         {
-          "word": "наш усталость",
-          "gloss": "our fatigue"
+          "word": "усталый",
+          "gloss": "tired"
         }
       ]
-    },
-    "утро": {
-      "lemma": "утро",
-      "stress": "у́тро",
-      "pos": "noun",
-      "gloss": "morning",
-      "gender": "n",
-      "meanings": [
-        {
-          "en": "morning",
-          "note": "Утром = in the morning. Common neuter noun meaning 'morning' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "утро",
-              "утра"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "утра",
-              "утр"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "утру",
-              "утрам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "утро",
-              "утра"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "утром",
-              "утрами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "утре",
-              "утрах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Доброе утро!",
-          "trans": "Good morning!"
-        },
-        {
-          "text": "Какое хорошее утро!",
-          "trans": "What a lovely morning!"
-        },
-        {
-          "text": "Какое хорошее утро! Лидия Алексеевна, чашку кофе, пожалуйста.",
-          "trans": "What a lovely morning! Lidia Alekseyevna, a cup of coffee, please."
-        }
-      ],
-      "related": []
     },
     "это": {
       "lemma": "это",

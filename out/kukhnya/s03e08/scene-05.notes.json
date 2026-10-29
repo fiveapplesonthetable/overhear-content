@@ -32,7 +32,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -43,8 +43,8 @@
           "lemma": "наливать",
           "pos": "verb",
           "stress": "налива́й",
-          "gloss": "to pour (a drink)",
-          "gram": "conjugated verb"
+          "gloss": "pour",
+          "gram": "imperative, 2nd person singular, imperfective"
         }
       ]
     },
@@ -297,8 +297,8 @@
           "lemma": "наливать",
           "pos": "verb",
           "stress": "налива́й",
-          "gloss": "to pour (a drink)",
-          "gram": "conjugated verb"
+          "gloss": "pour",
+          "gram": "imperative, 2nd person singular, imperfective"
         }
       ]
     },
@@ -414,7 +414,7 @@
           "pos": "noun",
           "stress": "пе́чень",
           "gloss": "liver",
-          "gram": "noun liver"
+          "gram": "nominative / accusative singular, feminine"
         },
         {
           "t": "будет",
@@ -591,7 +591,7 @@
           "lemma": "принятый",
           "pos": "adj",
           "stress": "при́нято",
-          "gloss": "accepted, copy that",
+          "gloss": "accepted; customary",
           "gram": "short neuter singular participle"
         }
       ]
@@ -680,7 +680,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -691,8 +691,8 @@
           "lemma": "наливать",
           "pos": "verb",
           "stress": "налива́й",
-          "gloss": "to pour (a drink)",
-          "gram": "conjugated verb"
+          "gloss": "pour",
+          "gram": "imperative, 2nd person singular, imperfective"
         }
       ]
     },
@@ -945,8 +945,8 @@
           "lemma": "наливать",
           "pos": "verb",
           "stress": "налива́й",
-          "gloss": "to pour (a drink)",
-          "gram": "conjugated verb"
+          "gloss": "pour",
+          "gram": "imperative, 2nd person singular, imperfective"
         }
       ]
     },
@@ -1062,7 +1062,7 @@
           "pos": "noun",
           "stress": "пе́чень",
           "gloss": "liver",
-          "gram": "noun liver"
+          "gram": "nominative / accusative singular, feminine"
         },
         {
           "t": "будет",
@@ -1239,7 +1239,7 @@
           "lemma": "принятый",
           "pos": "adj",
           "stress": "при́нято",
-          "gloss": "accepted, copy that",
+          "gloss": "accepted; customary",
           "gram": "short neuter singular participle"
         }
       ]
@@ -1328,7 +1328,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -1339,8 +1339,8 @@
           "lemma": "наливать",
           "pos": "verb",
           "stress": "налива́й",
-          "gloss": "to pour (a drink)",
-          "gram": "conjugated verb"
+          "gloss": "pour",
+          "gram": "imperative, 2nd person singular, imperfective"
         }
       ]
     },
@@ -1593,8 +1593,8 @@
           "lemma": "наливать",
           "pos": "verb",
           "stress": "налива́й",
-          "gloss": "to pour (a drink)",
-          "gram": "conjugated verb"
+          "gloss": "pour",
+          "gram": "imperative, 2nd person singular, imperfective"
         }
       ]
     },
@@ -1710,7 +1710,7 @@
           "pos": "noun",
           "stress": "пе́чень",
           "gloss": "liver",
-          "gram": "noun liver"
+          "gram": "nominative / accusative singular, feminine"
         },
         {
           "t": "будет",
@@ -1887,7 +1887,7 @@
           "lemma": "принятый",
           "pos": "adj",
           "stress": "при́нято",
-          "gloss": "accepted, copy that",
+          "gloss": "accepted; customary",
           "gram": "short neuter singular participle"
         }
       ]
@@ -2206,7 +2206,7 @@
       "meanings": [
         {
           "en": "after all, you know",
-          "note": "Adds a reason or an obvious truth. Core Russian part meaning 'after all, you know' in everyday speech."
+          "note": "Adds a reason or an obvious truth."
         }
       ],
       "forms": null,
@@ -2351,13 +2351,13 @@
       "lemma": "возвращать",
       "stress": "возвраща́ть",
       "pos": "verb",
-      "gloss": "to father",
+      "gloss": "to return, to give back, to bring back",
       "aspect": "impf",
-      "pair": null,
+      "pair": "вернуть",
       "meanings": [
         {
-          "en": "to father",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to father'."
+          "en": "to return, to give back, to bring back",
+          "note": "возвращать долг = to pay back a debt"
         }
       ],
       "forms": {
@@ -2412,19 +2412,49 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "возвращай",
+                "возвращайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Нет, спасибо, отца возвращать не надо.",
-          "trans": "No, thank you, there is no need to bring her father back."
+          "trans": "No, thanks, there's no need to bring Dad back."
         },
         {
           "text": "Я возвращаю в ресторан старое меню.",
-          "trans": "I am bringing the old menu back to the restaurant."
+          "trans": "I'm bringing the old menu back to the restaurant."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "вернуть",
+          "gloss": "to return, give back (pf)"
+        },
+        {
+          "word": "возвращаться",
+          "gloss": "to come back"
+        },
+        {
+          "word": "возврат",
+          "gloss": "return"
+        }
+      ]
     },
     "возвращаться": {
       "lemma": "возвращаться",
@@ -2536,84 +2566,6 @@
         {
           "word": "возврат",
           "gloss": "return"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2805,11 +2757,11 @@
       "meanings": [
         {
           "en": "to go out, to leave",
-          "note": "Used as a perfective (single completed action) verb meaning 'to go out, to get out', paired with 'выходить'."
+          "note": ""
         },
         {
           "en": "to get out (be released)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to go out, to get out', paired with 'выходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2904,49 +2856,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2957,11 +2866,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3052,15 +2965,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3346,7 +3259,7 @@
         },
         {
           "en": "big, hefty",
-          "note": "Colloquial. Agrees in gender, number, and case with the noun it modifies ('healthy, well; huge (colloq.)')."
+          "note": "Colloquial."
         }
       ],
       "forms": {
@@ -3389,10 +3302,10 @@
           {
             "cells": [
               "accusative",
-              "здоровый",
+              "здоровый / здорового",
               "здоровую",
               "здоровое",
-              "здоровые"
+              "здоровые / здоровых"
             ]
           },
           {
@@ -3681,7 +3594,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -3703,7 +3616,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -3715,7 +3632,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -3749,11 +3666,11 @@
       "meanings": [
         {
           "en": "favourite, best-liked",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('favourite, beloved')."
+          "note": ""
         },
         {
           "en": "beloved, darling",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('favourite, beloved')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3796,10 +3713,10 @@
           {
             "cells": [
               "accusative",
-              "любимый/любимого",
+              "любимый / любимого",
               "любимую",
               "любимое",
-              "любимые/любимых"
+              "любимые / любимых"
             ]
           },
           {
@@ -4099,7 +4016,7 @@
       "meanings": [
         {
           "en": "to begin, to start",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to begin, to start', paired with 'начать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4179,8 +4096,8 @@
           "trans": "When do I start?"
         },
         {
-          "text": "Урок начинается в девять.",
-          "trans": "The lesson starts at nine."
+          "text": "Ну что ты начинаешь?",
+          "trans": "Oh, don't start."
         },
         {
           "text": "Аркаш, ну что скажешь? Когда начинать?",
@@ -4426,7 +4343,7 @@
       "meanings": [
         {
           "en": "draw, tie (sports score)",
-          "note": "Common feminine noun meaning 'draw, tie' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4494,12 +4411,16 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "выиграть",
+          "gloss": "to win"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "проиграть",
+          "gloss": "to lose"
+        },
+        {
+          "word": "счёт",
+          "gloss": "score"
         }
       ]
     },
@@ -4554,7 +4475,7 @@
       "meanings": [
         {
           "en": "liver",
-          "note": "Organ or food. Common feminine noun meaning 'liver' in everyday Russian."
+          "note": "Organ or food."
         }
       ],
       "forms": {
@@ -4569,42 +4490,42 @@
             "cells": [
               "nominative",
               "печень",
-              "—"
+              "печени"
             ]
           },
           {
             "cells": [
               "genitive",
               "печени",
-              "—"
+              "печеней"
             ]
           },
           {
             "cells": [
               "dative",
               "печени",
-              "—"
+              "печеням"
             ]
           },
           {
             "cells": [
               "accusative",
               "печень",
-              "—"
+              "печени"
             ]
           },
           {
             "cells": [
               "instrumental",
               "печенью",
-              "—"
+              "печенями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "печени",
-              "—"
+              "печенях"
             ]
           }
         ]
@@ -4668,7 +4589,7 @@
       "meanings": [
         {
           "en": "principle, tenet",
-          "note": "Common masculine noun meaning 'principle' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4745,11 +4666,15 @@
       "lemma": "принятый",
       "stress": "при́нятый",
       "pos": "adj",
-      "gloss": "accepted, copy that",
+      "gloss": "accepted; customary",
       "meanings": [
         {
-          "en": "accepted, copy that",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('accepted, copy that')."
+          "en": "accepted, received",
+          "note": "Принято! = Got it! / Copy that!"
+        },
+        {
+          "en": "customary, usual",
+          "note": "у нас принято = it's customary here"
         }
       ],
       "forms": {
@@ -4792,10 +4717,10 @@
           {
             "cells": [
               "accusative",
-              "принятый",
+              "принятый / принятого",
               "принятую",
               "принятое",
-              "принятые"
+              "принятые / принятых"
             ]
           },
           {
@@ -4821,18 +4746,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Заказ принят!",
-          "trans": "Order received!"
+          "text": "Всё, договорились, твоё условие принято.",
+          "trans": "OK, deal, your condition is accepted."
         },
         {
-          "text": "Шеф говорит, что это очень принятый выбор.",
-          "trans": "The chef says that this is a very accepted choice."
+          "text": "У нас принято ходить в юбках.",
+          "trans": "Here it's customary to wear skirts."
         }
       ],
       "related": [
         {
-          "word": "принято",
-          "gloss": "acceptedly (adverbial form)"
+          "word": "принять",
+          "gloss": "to accept"
+        },
+        {
+          "word": "не принято",
+          "gloss": "it's not done"
         }
       ]
     },
@@ -4997,7 +4926,7 @@
       "meanings": [
         {
           "en": "for the sake of, for",
-          "note": "+ genitive. Core Russian prep meaning 'for the sake of' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -5227,35 +5156,6 @@
       ],
       "related": []
     },
-    "скоро": {
-      "lemma": "скоро",
-      "stress": "ско́ро",
-      "pos": "adv",
-      "gloss": "soon",
-      "meanings": [
-        {
-          "en": "soon",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я скоро вернусь.",
-          "trans": "I'll be back soon."
-        },
-        {
-          "text": "Скоро лето.",
-          "trans": "Summer is coming soon."
-        },
-        {
-          "text": "Так, не шумим. Я скоро вернусь.",
-          "trans": "Right, no noise. I'll be back soon."
-        }
-      ],
-      "related": []
-    },
     "слышать": {
       "lemma": "слышать",
       "stress": "слы́шать",
@@ -5266,11 +5166,11 @@
       "meanings": [
         {
           "en": "to hear",
-          "note": "Слышать о + prepositional. Used as an imperfective (ongoing/repeated action) verb meaning 'to hear', paired with 'услышать'."
+          "note": "Слышать о + prepositional."
         },
         {
           "en": "to hear about",
-          "note": "Слышать о + prepositional. Used as an imperfective (ongoing/repeated action) verb meaning 'to hear', paired with 'услышать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5322,6 +5222,23 @@
                 "слышала",
                 "слышало",
                 "слышали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "слышь",
+                "слышьте"
               ]
             }
           ]
@@ -5551,8 +5468,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -5700,58 +5625,7 @@
           "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "увы",
-              "увыы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "увыа",
-              "увыов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "увыу",
-              "увыам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "увы",
-              "увыы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "увыом",
-              "увыами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "увые",
-              "увыах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -5759,8 +5633,8 @@
           "trans": "Alas, there are no pills for old age."
         },
         {
-          "text": "Увы, ах, надо идти.",
-          "trans": "Alas and alack, I have to go."
+          "text": "Увы, тут уже ничего не поделаешь.",
+          "trans": "Alas, nothing can be done about it now."
         }
       ],
       "related": []
@@ -5774,11 +5648,11 @@
       "meanings": [
         {
           "en": "condition, living conditions",
-          "note": "Often plural: условия. Common neuter noun meaning 'condition' in everyday Russian."
+          "note": "Often plural: условия."
         },
         {
           "en": "term, stipulation",
-          "note": "Of an agreement. Common neuter noun meaning 'condition' in everyday Russian."
+          "note": "Of an agreement."
         }
       ],
       "forms": {
@@ -5865,7 +5739,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5917,6 +5791,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

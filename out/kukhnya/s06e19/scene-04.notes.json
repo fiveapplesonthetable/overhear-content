@@ -1756,7 +1756,7 @@
       "meanings": [
         {
           "en": "two together, as a couple",
-          "note": "Мы вдвоём = the two of us. Core Russian adv meaning 'the two of us, together (two)' in everyday speech."
+          "note": "Мы вдвоём = the two of us."
         }
       ],
       "forms": null,
@@ -1902,11 +1902,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1961,6 +1961,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -1992,91 +2009,13 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "выбирать": {
       "lemma": "выбирать",
       "stress": "выбира́ть",
       "pos": "verb",
       "gloss": "to choose, select, pick",
       "aspect": "impf",
-      "pair": null,
+      "pair": "выбрать",
       "meanings": [
         {
           "en": "to choose, select, pick",
@@ -2135,6 +2074,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "выбирай",
+                "выбирайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2153,133 +2109,16 @@
       ],
       "related": [
         {
-          "word": "убирать",
-          "gloss": "to clean up"
+          "word": "выбрать",
+          "gloss": "to choose (pf)"
         },
         {
-          "word": "забирать",
-          "gloss": "to take"
+          "word": "выбор",
+          "gloss": "choice"
         },
         {
-          "word": "убираться",
-          "gloss": "to clear out"
-        }
-      ]
-    },
-    "говорить": {
-      "lemma": "говорить",
-      "stress": "говори́ть",
-      "pos": "verb",
-      "gloss": "to speak, to say, to talk",
-      "aspect": "impf",
-      "pair": "сказать",
-      "meanings": [
-        {
-          "en": "to say, to tell",
-          "note": "Я тебе говорю = I'm telling you. Used as an imperfective (ongoing/repeated action) verb meaning 'to speak, to say, to talk', paired with 'сказать'."
-        },
-        {
-          "en": "to speak, to talk",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to speak, to say, to talk', paired with 'сказать'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "говорю",
-              "говорим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "говоришь",
-              "говорите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "говорит",
-              "говорят"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "говорил",
-                "говорила",
-                "говорило",
-                "говорили"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "говори",
-                "говорите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Это то, что ты говорил.",
-          "trans": "That's what you said."
-        },
-        {
-          "text": "Я говорю по-русски.",
-          "trans": "I speak Russian."
-        },
-        {
-          "text": "Ну, то, что ты говорил.",
-          "trans": "Well, the thing you said."
-        }
-      ],
-      "related": [
-        {
-          "word": "сказать",
-          "gloss": "to say"
-        },
-        {
-          "word": "договориться",
-          "gloss": "to agree"
-        },
-        {
-          "word": "поговорить",
-          "gloss": "to have a talk"
+          "word": "выборы",
+          "gloss": "election"
         }
       ]
     },
@@ -2295,7 +2134,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2321,49 +2160,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2374,11 +2170,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2469,15 +2269,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2489,11 +2289,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2535,11 +2335,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2607,11 +2407,11 @@
       "meanings": [
         {
           "en": "fiancé, bridegroom",
-          "note": "Man engaged or about to be married. Common masculine noun meaning 'bridegroom, fiancé, suitor, boyfriend' in everyday Russian."
+          "note": "Man engaged or about to be married."
         },
         {
           "en": "suitor, boyfriend",
-          "note": "Colloquial or ironic. Common masculine noun meaning 'bridegroom, fiancé, suitor, boyfriend' in everyday Russian."
+          "note": "Colloquial or ironic."
         }
       ],
       "forms": {
@@ -2697,7 +2497,7 @@
       "meanings": [
         {
           "en": "life",
-          "note": "Common feminine noun meaning 'life' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2848,7 +2648,7 @@
       "meanings": [
         {
           "en": "where to",
-          "note": "For movement; где is for location. Core Russian adv meaning 'where (to)' in everyday speech."
+          "note": "For movement; где is for location."
         }
       ],
       "forms": null,
@@ -2890,11 +2690,11 @@
       "meanings": [
         {
           "en": "may I?, can I?",
-          "note": "Asking permission. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Asking permission."
         },
         {
           "en": "it is possible",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3322,48 +3122,6 @@
       ],
       "related": []
     },
-    "нет": {
-      "lemma": "нет",
-      "stress": "нет",
-      "pos": "part",
-      "gloss": "no; there isn't",
-      "meanings": [
-        {
-          "en": "no",
-          "note": "+ genitive: 'у нас нет выбора' = we have no choice"
-        },
-        {
-          "en": "there isn't",
-          "note": "+ genitive. Core Russian part meaning 'no; there isn't' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Нет, это моё.",
-          "trans": "No, it's mine."
-        },
-        {
-          "text": "Нет? Ладно.",
-          "trans": "No? All right."
-        },
-        {
-          "text": "Нет. Это моё.",
-          "trans": "No. That's mine."
-        }
-      ],
-      "related": [
-        {
-          "word": "не",
-          "gloss": "not"
-        },
-        {
-          "word": "да",
-          "gloss": "yes"
-        }
-      ]
-    },
     "обижаться": {
       "lemma": "обижаться",
       "stress": "обижа́ться",
@@ -3374,7 +3132,7 @@
       "meanings": [
         {
           "en": "to take offence, to get upset",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to take offence, to be hurt', paired with 'обидеться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3631,7 +3389,7 @@
       "meanings": [
         {
           "en": "to have a talk, to speak (with someone)",
-          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to have a talk', paired with 'говорить'."
+          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить')."
         }
       ],
       "forms": {
@@ -3744,7 +3502,7 @@
       "meanings": [
         {
           "en": "to go, to set off (by car, bus, train)",
-          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to go (by vehicle), to set off', paired with 'ехать'."
+          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -3982,7 +3740,7 @@
       "meanings": [
         {
           "en": "to ask (for a favour)",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'просить'). Used as a perfective (single completed action) verb meaning 'to ask (for), to request', paired with 'просить'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'просить')."
         }
       ],
       "forms": {
@@ -4076,8 +3834,12 @@
           "gloss": "to ask"
         },
         {
+          "word": "просьба",
+          "gloss": "request"
+        },
+        {
           "word": "спрос",
-          "gloss": "asking"
+          "gloss": "demand"
         }
       ]
     },
@@ -4194,7 +3956,7 @@
       "meanings": [
         {
           "en": "last, previous, past",
-          "note": "В прошлый раз = last time. Agrees in gender, number, and case with the noun it modifies ('last, past, previous')."
+          "note": "В прошлый раз = last time."
         }
       ],
       "forms": {
@@ -4237,10 +3999,10 @@
           {
             "cells": [
               "accusative",
-              "прошлый",
+              "прошлый / прошлого",
               "прошлую",
               "прошлое",
-              "прошлые"
+              "прошлые / прошлых"
             ]
           },
           {
@@ -4280,8 +4042,16 @@
       ],
       "related": [
         {
-          "word": "прошло",
-          "gloss": "in a last way (adv.)"
+          "word": "прошлое",
+          "gloss": "the past"
+        },
+        {
+          "word": "прошедший",
+          "gloss": "past, bygone"
+        },
+        {
+          "word": "в прошлый раз",
+          "gloss": "last time"
         }
       ]
     },
@@ -4413,7 +4183,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -4517,7 +4287,7 @@
       "meanings": [
         {
           "en": "wedding, marriage ceremony",
-          "note": "Marriage celebration. Common feminine noun meaning 'wedding' in everyday Russian."
+          "note": "Marriage celebration."
         }
       ],
       "forms": {
@@ -4575,8 +4345,8 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Посмотри фильм Свадьба по скайпу.",
-          "trans": "Watch the movie Wedding on Skype."
+          "text": "Мы обязательно сыграем большую свадьбу!",
+          "trans": "We'll definitely have a big wedding!"
         },
         {
           "text": "Макс, зачем ты соврал про нашу будущую свадьбу?",
@@ -4598,11 +4368,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4674,8 +4444,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -4751,40 +4529,6 @@
         }
       ]
     },
-    "серьёзно": {
-      "lemma": "серьёзно",
-      "stress": "серьёзно",
-      "pos": "adv",
-      "gloss": "seriously",
-      "meanings": [
-        {
-          "en": "seriously",
-          "note": "Серьёзно? = really?. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ты серьёзно?",
-          "trans": "Are you serious?"
-        },
-        {
-          "text": "Я серьёзно.",
-          "trans": "I mean it."
-        },
-        {
-          "text": "Да ладно, что, серьёзно?",
-          "trans": "No way, what, seriously?"
-        }
-      ],
-      "related": [
-        {
-          "word": "серьёзный",
-          "gloss": "serious"
-        }
-      ]
-    },
     "сначала": {
       "lemma": "сначала",
       "stress": "снача́ла",
@@ -4826,7 +4570,7 @@
       "meanings": [
         {
           "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
+          "note": "Direction."
         }
       ],
       "forms": null,
@@ -5024,7 +4768,7 @@
       "meanings": [
         {
           "en": "to leave, to go away",
-          "note": "By car, train etc. Prefix 'у-' marks departure, removal, or successful completion (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to leave, to go away (by vehicle)', paired with 'уезжать'."
+          "note": "By car, train etc. Prefix 'у-' marks departure, removal, or successful completion (stem 'ехать')."
         }
       ],
       "forms": {
@@ -5149,7 +4893,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5201,6 +4945,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

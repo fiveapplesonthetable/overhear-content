@@ -27,7 +27,7 @@
           "lemma": "ночь",
           "pos": "noun",
           "stress": "но́чью",
-          "gloss": "night",
+          "gloss": "at night",
           "gram": "ins.f.sg"
         },
         {
@@ -328,7 +328,7 @@
           "pos": "adj",
           "stress": "ре́дкие",
           "gloss": "rare, scarce, unusual",
-          "gram": "nom pl"
+          "gram": "nominative / accusative plural"
         },
         {
           "t": "животные",
@@ -472,9 +472,9 @@
           "t": "пойдут",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "по́йдут",
-          "gloss": "to go (set off)",
-          "gram": "3rd person plural"
+          "stress": "пойду́т",
+          "gloss": "will go",
+          "gram": "3rd person plural future, perfective"
         },
         {
           "t": "на",
@@ -497,8 +497,8 @@
           "lemma": "животное",
           "pos": "noun",
           "stress": "живо́тных",
-          "gloss": "animal",
-          "gram": "acc.n.pl"
+          "gloss": "animals",
+          "gram": "accusative plural (animate), neuter"
         }
       ]
     },
@@ -596,8 +596,8 @@
           "t": "благотворительный",
           "lemma": "благотворительный",
           "pos": "adj",
-          "stress": "благотворите́льный",
-          "gloss": "buffet",
+          "stress": "благотвори́тельный",
+          "gloss": "charity",
           "gram": "nominative masculine singular"
         },
         {
@@ -727,7 +727,7 @@
           "lemma": "ночь",
           "pos": "noun",
           "stress": "но́чью",
-          "gloss": "night",
+          "gloss": "at night",
           "gram": "ins.f.sg"
         },
         {
@@ -1028,7 +1028,7 @@
           "pos": "adj",
           "stress": "ре́дкие",
           "gloss": "rare, scarce, unusual",
-          "gram": "nom pl"
+          "gram": "nominative / accusative plural"
         },
         {
           "t": "животные",
@@ -1172,9 +1172,9 @@
           "t": "пойдут",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "по́йдут",
-          "gloss": "to go (set off)",
-          "gram": "3rd person plural"
+          "stress": "пойду́т",
+          "gloss": "will go",
+          "gram": "3rd person plural future, perfective"
         },
         {
           "t": "на",
@@ -1197,8 +1197,8 @@
           "lemma": "животное",
           "pos": "noun",
           "stress": "живо́тных",
-          "gloss": "animal",
-          "gram": "acc.n.pl"
+          "gloss": "animals",
+          "gram": "accusative plural (animate), neuter"
         }
       ]
     },
@@ -1296,8 +1296,8 @@
           "t": "благотворительный",
           "lemma": "благотворительный",
           "pos": "adj",
-          "stress": "благотворите́льный",
-          "gloss": "buffet",
+          "stress": "благотвори́тельный",
+          "gloss": "charity",
           "gram": "nominative masculine singular"
         },
         {
@@ -1427,7 +1427,7 @@
           "lemma": "ночь",
           "pos": "noun",
           "stress": "но́чью",
-          "gloss": "night",
+          "gloss": "at night",
           "gram": "ins.f.sg"
         },
         {
@@ -1728,7 +1728,7 @@
           "pos": "adj",
           "stress": "ре́дкие",
           "gloss": "rare, scarce, unusual",
-          "gram": "nom pl"
+          "gram": "nominative / accusative plural"
         },
         {
           "t": "животные",
@@ -1872,9 +1872,9 @@
           "t": "пойдут",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "по́йдут",
-          "gloss": "to go (set off)",
-          "gram": "3rd person plural"
+          "stress": "пойду́т",
+          "gloss": "will go",
+          "gram": "3rd person plural future, perfective"
         },
         {
           "t": "на",
@@ -1897,8 +1897,8 @@
           "lemma": "животное",
           "pos": "noun",
           "stress": "живо́тных",
-          "gloss": "animal",
-          "gram": "acc.n.pl"
+          "gloss": "animals",
+          "gram": "accusative plural (animate), neuter"
         }
       ]
     },
@@ -1996,8 +1996,8 @@
           "t": "благотворительный",
           "lemma": "благотворительный",
           "pos": "adj",
-          "stress": "благотворите́льный",
-          "gloss": "buffet",
+          "stress": "благотвори́тельный",
+          "gloss": "charity",
           "gram": "nominative masculine singular"
         },
         {
@@ -2170,13 +2170,13 @@
     },
     "благотворительный": {
       "lemma": "благотворительный",
-      "stress": "благотворите́льный",
+      "stress": "благотвори́тельный",
       "pos": "adj",
-      "gloss": "buffet",
+      "gloss": "charity, charitable",
       "meanings": [
         {
-          "en": "buffet",
-          "note": "Descriptive Russian adjective meaning 'buffet', agreeing in gender, number, and case with the noun it modifies."
+          "en": "charity, charitable",
+          "note": "благотворительный вечер = charity evening"
         }
       ],
       "forms": {
@@ -2219,10 +2219,10 @@
           {
             "cells": [
               "accusative",
-              "благотворительный",
+              "благотворительный / благотворительного",
               "благотворительную",
               "благотворительное",
-              "благотворительные"
+              "благотворительные / благотворительных"
             ]
           },
           {
@@ -2258,42 +2258,8 @@
       ],
       "related": [
         {
-          "word": "благотворительно",
-          "gloss": "buffet"
-        }
-      ]
-    },
-    "блестяще": {
-      "lemma": "блестяще",
-      "stress": "блестя́ще",
-      "pos": "adv",
-      "gloss": "brilliantly",
-      "meanings": [
-        {
-          "en": "brilliantly",
-          "note": "High-frequency Russian conversational adverb meaning 'brilliantly', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я проведу этот вечер просто блестяще!",
-          "trans": "I will host this evening simply brilliantly!"
-        },
-        {
-          "text": "Костя сказал это совершенно блестяще и спокойно.",
-          "trans": "Kostya said this quite brilliantly and calmly."
-        }
-      ],
-      "related": [
-        {
-          "word": "очень блестяще",
-          "gloss": "very brilliantly"
-        },
-        {
-          "word": "так блестяще",
-          "gloss": "so brilliantly"
+          "word": "благотворительность",
+          "gloss": "charity"
         }
       ]
     },
@@ -2577,7 +2543,7 @@
         },
         {
           "en": "party, evening event",
-          "note": "E.g. a school evening. Common masculine noun meaning 'evening' in everyday Russian."
+          "note": "E.g. a school evening."
         }
       ],
       "forms": {
@@ -2670,11 +2636,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2704,84 +2670,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вчера": {
       "lemma": "вчера",
       "stress": "вчера́",
@@ -2790,7 +2678,7 @@
       "meanings": [
         {
           "en": "yesterday",
-          "note": "Core Russian adv meaning 'yesterday' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2898,49 +2786,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2951,11 +2796,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3046,15 +2895,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3063,7 +2912,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -3149,7 +2997,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -3187,11 +3035,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3233,7 +3081,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3321,7 +3169,7 @@
       "meanings": [
         {
           "en": "animal, creature",
-          "note": "Animate neuter noun. Common neuter noun meaning 'animal' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3393,12 +3241,12 @@
       ],
       "related": [
         {
-          "word": "живо",
-          "gloss": "quickly"
+          "word": "живой",
+          "gloss": "alive, living"
         },
         {
-          "word": "живой",
-          "gloss": "living"
+          "word": "зверь",
+          "gloss": "beast, wild animal"
         }
       ]
     },
@@ -3505,12 +3353,29 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "избавься",
+                "избавьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Ты хотел избавиться от моей жены?",
-          "trans": "Did you want to get rid of my wife."
+          "trans": "Did you want to get rid of my wife?"
         },
         {
           "text": "Нам нужно срочно избавиться от этого старого дивана.",
@@ -3646,11 +3511,11 @@
       "meanings": [
         {
           "en": "little cat, kitten",
-          "note": "Diminutive of кот. Formed with a diminutive/expressive Slavic suffix adding warmth or small scale. Common masculine noun meaning 'kitten; honey, baby' in everyday Russian."
+          "note": "Diminutive of кот. Formed with a diminutive/expressive Slavic suffix adding warmth or small scale."
         },
         {
           "en": "kitten, baby, honey",
-          "note": "Affectionate pet name for a man. Formed with a diminutive/expressive Slavic suffix adding warmth or small scale. Common masculine noun meaning 'kitten; honey, baby' in everyday Russian."
+          "note": "Affectionate pet name for a man. Formed with a diminutive/expressive Slavic suffix adding warmth or small scale."
         }
       ],
       "forms": {
@@ -3722,8 +3587,16 @@
       ],
       "related": [
         {
-          "word": "скотина",
-          "gloss": "brute"
+          "word": "кот",
+          "gloss": "tomcat"
+        },
+        {
+          "word": "котёнок",
+          "gloss": "kitten"
+        },
+        {
+          "word": "зайка",
+          "gloss": "bunny (pet name)"
         }
       ]
     },
@@ -3735,7 +3608,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -3769,7 +3642,7 @@
       "meanings": [
         {
           "en": "any",
-          "note": "В любой момент = at any moment. Agrees in gender, number, and case with the noun it modifies ('any')."
+          "note": "В любой момент = at any moment."
         }
       ],
       "forms": {
@@ -3864,7 +3737,7 @@
       "meanings": [
         {
           "en": "event",
-          "note": "Common neuter noun meaning 'event' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3938,13 +3811,13 @@
     },
     "морской": {
       "lemma": "морской",
-      "stress": "мо́рской",
+      "stress": "морско́й",
       "pos": "adj",
-      "gloss": "sea / marine",
+      "gloss": "sea, marine",
       "meanings": [
         {
-          "en": "sea / marine",
-          "note": "Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('sea / marine')."
+          "en": "sea, marine",
+          "note": "морской котик = fur seal; морской ёж = sea urchin"
         }
       ],
       "forms": {
@@ -3987,10 +3860,10 @@
           {
             "cells": [
               "accusative",
-              "морской",
+              "морской / морского",
               "морскую",
               "морское",
-              "морские"
+              "морские / морских"
             ]
           },
           {
@@ -4030,8 +3903,20 @@
       ],
       "related": [
         {
-          "word": "очень морской",
-          "gloss": "very sea"
+          "word": "море",
+          "gloss": "sea"
+        },
+        {
+          "word": "морепродукты",
+          "gloss": "seafood"
+        },
+        {
+          "word": "морской ёж",
+          "gloss": "sea urchin"
+        },
+        {
+          "word": "морские гребешки",
+          "gloss": "scallops"
         }
       ]
     },
@@ -4646,11 +4531,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -4727,7 +4612,7 @@
       "meanings": [
         {
           "en": "cook, chef",
-          "note": "Irregular plural повара. Common masculine noun meaning 'cook, chef' in everyday Russian."
+          "note": "Irregular plural повара."
         }
       ],
       "forms": {
@@ -4805,11 +4690,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -4906,15 +4791,16 @@
     },
     "присутствовать": {
       "lemma": "присутствовать",
-      "stress": "присутство́вать",
+      "stress": "прису́тствовать",
       "pos": "verb",
       "gloss": "to be present / attend",
       "aspect": "impf",
       "pair": null,
+      "governs": "на + prep.",
       "meanings": [
         {
           "en": "to be present / attend",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to be present / attend'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4969,6 +4855,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "присутствуй",
+                "присутствуйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4977,118 +4880,18 @@
           "trans": "They will be present at the event."
         },
         {
-          "text": "Надо всё сделать и присутствовать вовремя.",
-          "trans": "We need to do everything and to be present on time."
+          "text": "Я хочу присутствовать на собрании.",
+          "trans": "I want to attend the meeting."
         }
       ],
       "related": [
         {
-          "word": "поприсутствовать",
-          "gloss": "to to be present (prefixed perfective)"
+          "word": "присутствие",
+          "gloss": "presence"
         },
         {
-          "word": "не присутствовать",
-          "gloss": "not to to be present (negated infinitive)"
-        }
-      ]
-    },
-    "провести": {
-      "lemma": "провести",
-      "stress": "провести́",
-      "pos": "verb",
-      "gloss": "to spend (time); to lead",
-      "aspect": "pf",
-      "pair": "проводить",
-      "meanings": [
-        {
-          "en": "to spend (time)",
-          "note": "Провести время. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'вести'). Used as a perfective (single completed action) verb meaning 'to spend (time); to lead', paired with 'проводить'."
-        },
-        {
-          "en": "to lead, to take",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'вести'). Used as a perfective (single completed action) verb meaning 'to spend (time); to lead', paired with 'проводить'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "проведу",
-              "проведём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "проведёшь",
-              "проведёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "проведёт",
-              "проведут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "провёл",
-                "провела",
-                "провело",
-                "провели"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Я хорошо проведу время.",
-          "trans": "I'll have a good time."
-        },
-        {
-          "text": "Мы провели вечер дома.",
-          "trans": "We spent the evening at home."
-        },
-        {
-          "text": "Я и сама хорошо проведу время.",
-          "trans": "I'll have a good time on my own."
-        }
-      ],
-      "related": [
-        {
-          "word": "проводить",
-          "gloss": "to see off"
-        },
-        {
-          "word": "перевести",
-          "gloss": "to transfer"
-        },
-        {
-          "word": "вести",
-          "gloss": "to lead"
+          "word": "отсутствовать",
+          "gloss": "to be absent"
         }
       ]
     },
@@ -5106,7 +4909,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5201,39 +5004,6 @@
         }
       ]
     },
-    "просто": {
-      "lemma": "просто",
-      "stress": "про́сто",
-      "pos": "adv",
-      "gloss": "just, simply",
-      "meanings": [
-        {
-          "en": "just, simply",
-          "note": "'это просто' = it's easy. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        },
-        {
-          "en": "easy",
-          "note": "Это просто = it's easy. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я просто устал.",
-          "trans": "I'm just tired."
-        },
-        {
-          "text": "Это просто.",
-          "trans": "It's easy."
-        },
-        {
-          "text": "Мы просто не хотели вас беспокоить. Всё отменим!",
-          "trans": "We just didn't want to bother you. We'll cancel it all!"
-        }
-      ],
-      "related": []
-    },
     "прямо": {
       "lemma": "прямо",
       "stress": "пря́мо",
@@ -5242,11 +5012,11 @@
       "meanings": [
         {
           "en": "right, just, directly",
-          "note": "Прямо так = just like that. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Прямо так = just like that."
         },
         {
           "en": "straight ahead",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5280,7 +5050,7 @@
       "meanings": [
         {
           "en": "rare, uncommon",
-          "note": "Not occurring often. Agrees in gender, number, and case with the noun it modifies ('rare, scarce, unusual')."
+          "note": "Not occurring often."
         }
       ],
       "forms": {
@@ -5323,10 +5093,10 @@
           {
             "cells": [
               "accusative",
-              "редкий",
+              "редкий / редкого",
               "редкую",
               "редкое",
-              "редкие"
+              "редкие / редких"
             ]
           },
           {
@@ -5440,6 +5210,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "родись",
+                "родитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5481,7 +5268,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -5632,7 +5419,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -5723,15 +5510,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -5745,7 +5532,7 @@
       "meanings": [
         {
           "en": "to collect, to raise",
-          "note": "Money, signatures, or documents. Used as an imperfective (ongoing/repeated action) verb meaning 'to collect, to gather, to pack', paired with 'собрать'."
+          "note": "Money, signatures, or documents."
         },
         {
           "en": "to pack, to assemble",
@@ -5850,14 +5637,15 @@
     },
     "спасение": {
       "lemma": "спасение",
-      "stress": "спасени́е",
+      "stress": "спасе́ние",
       "pos": "noun",
       "gloss": "rescue / saving",
       "gender": "n",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "rescue / saving",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'rescue / saving' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5919,18 +5707,18 @@
           "trans": "All the money will go toward saving the animals."
         },
         {
-          "text": "На кухне отеля всегда есть спасение.",
-          "trans": "In the hotel kitchen there is always rescue."
+          "text": "Спасибо тебе огромное, папа, за спасение сына!",
+          "trans": "Thank you so much, Dad, for saving your son!"
         }
       ],
       "related": [
         {
-          "word": "без спасени",
-          "gloss": "without rescue"
+          "word": "спасти",
+          "gloss": "to save"
         },
         {
-          "word": "наш спасение",
-          "gloss": "our rescue"
+          "word": "спаситель",
+          "gloss": "savior"
         }
       ]
     },
@@ -5942,7 +5730,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5985,7 +5773,7 @@
       "meanings": [
         {
           "en": "way, method, means of doing something",
-          "note": "Common masculine noun meaning 'way, method, means' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6095,8 +5883,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -6272,7 +6068,7 @@
       "meanings": [
         {
           "en": "to beg, to implore",
-          "note": "Умоляю вас = I'm begging you. Used as an imperfective (ongoing/repeated action) verb meaning 'to beg, to implore', paired with 'умолить'."
+          "note": "Умоляю вас = I'm begging you."
         }
       ],
       "forms": {
@@ -6377,7 +6173,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -6429,6 +6225,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -6640,105 +6453,6 @@
         {
           "word": "этот",
           "gloss": "this (before a noun)"
-        }
-      ]
-    },
-    "этот": {
-      "lemma": "этот",
-      "stress": "э́тот",
-      "pos": "det",
-      "gloss": "this",
-      "meanings": [
-        {
-          "en": "this",
-          "note": "alone: 'я этого не хочу' = I don't want that"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "этот",
-              "эта",
-              "это",
-              "эти"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "этого",
-              "этой",
-              "этого",
-              "этих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "этому",
-              "этой",
-              "этому",
-              "этим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "этот / этого",
-              "эту",
-              "это",
-              "эти / этих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "этим",
-              "этой",
-              "этим",
-              "этими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "этом",
-              "этой",
-              "этом",
-              "этих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Этот дом.",
-          "trans": "This house."
-        },
-        {
-          "text": "Меня тошнит от этой коммуналки.",
-          "trans": "I'm sick of this communal flat."
-        },
-        {
-          "text": "Меня уже тошнит от этой коммуналки! У нас труба уже неделю течёт.",
-          "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
-        }
-      ],
-      "related": [
-        {
-          "word": "это",
-          "gloss": "this is, it"
         }
       ]
     },

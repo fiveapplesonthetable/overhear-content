@@ -58,7 +58,7 @@
           "pos": "det",
           "stress": "ва́шем",
           "gloss": "your",
-          "gram": "determiner"
+          "gram": "prepositional singular, masculine / neuter"
         },
         {
           "t": "ресторане",
@@ -499,7 +499,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -592,7 +592,7 @@
           "pos": "det",
           "stress": "ва́шем",
           "gloss": "your",
-          "gram": "determiner"
+          "gram": "prepositional singular, masculine / neuter"
         },
         {
           "t": "ресторане",
@@ -1033,7 +1033,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1126,7 +1126,7 @@
           "pos": "det",
           "stress": "ва́шем",
           "gloss": "your",
-          "gram": "determiner"
+          "gram": "prepositional singular, masculine / neuter"
         },
         {
           "t": "ресторане",
@@ -1567,7 +1567,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1628,7 +1628,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -1725,6 +1725,7 @@
       "pos": "noun",
       "gloss": "boss",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "boss",
@@ -1763,8 +1764,8 @@
           {
             "cells": [
               "accusative",
-              "босс",
-              "боссы"
+              "босса",
+              "боссов"
             ]
           },
           {
@@ -1796,12 +1797,12 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "шеф",
+          "gloss": "chef; boss"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "начальник",
+          "gloss": "boss, superior"
         }
       ]
     },
@@ -2007,7 +2008,7 @@
       "meanings": [
         {
           "en": "your, yours",
-          "note": "Polite (вы) or plural. Core Russian det meaning 'your, yours (polite or plural)' in everyday speech."
+          "note": "Polite (вы) or plural."
         }
       ],
       "forms": {
@@ -2225,7 +2226,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2260,7 +2261,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2298,11 +2299,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2378,7 +2379,7 @@
       "meanings": [
         {
           "en": "busy",
-          "note": "Of a person: я занят = I'm busy. Agrees in gender, number, and case with the noun it modifies ('busy; occupied, taken')."
+          "note": "Of a person: я занят = I'm busy."
         },
         {
           "en": "occupied, taken",
@@ -2425,10 +2426,10 @@
           {
             "cells": [
               "accusative",
-              "занятый/занятого",
+              "занятый / занятого",
               "занятую",
               "занятое",
-              "занятые/занятых"
+              "занятые / занятых"
             ]
           },
           {
@@ -2604,7 +2605,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -2626,7 +2627,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -2638,7 +2643,7 @@
       "meanings": [
         {
           "en": "any",
-          "note": "В любой момент = at any moment. Agrees in gender, number, and case with the noun it modifies ('any')."
+          "note": "В любой момент = at any moment."
         }
       ],
       "forms": {
@@ -2837,7 +2842,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2889,6 +2894,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3165,7 +3187,7 @@
       "meanings": [
         {
           "en": "to help",
-          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь'). Used as a perfective (single completed action) verb meaning 'to help', paired with 'помогать'."
+          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мочь')."
         }
       ],
       "forms": {
@@ -3278,7 +3300,7 @@
       "meanings": [
         {
           "en": "to think up, to invent, to come up with",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'думать'). Used as a perfective (single completed action) verb meaning 'to think up, to come up with', paired with 'придумывать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'думать')."
         }
       ],
       "forms": {
@@ -3574,11 +3596,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3650,8 +3672,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -3664,7 +3694,7 @@
       "meanings": [
         {
           "en": "regret",
-          "note": "К сожалению = unfortunately. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'regret, pity' in everyday Russian."
+          "note": "К сожалению = unfortunately."
         }
       ],
       "forms": {
@@ -3744,67 +3774,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -3830,11 +3808,11 @@
       "meanings": [
         {
           "en": "terrible, scary",
-          "note": "'ничего страшного'. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('terrible, scary')."
+          "note": ""
         },
         {
           "en": "nothing serious",
-          "note": "'ничего страшного'. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('terrible, scary')."
+          "note": "in 'ничего страшного'"
         }
       ],
       "forms": {
@@ -3933,7 +3911,7 @@
       "meanings": [
         {
           "en": "that",
-          "note": "The one over there. Core Russian det meaning 'that' in everyday speech."
+          "note": "The one over there."
         },
         {
           "en": "that which, the thing",
@@ -4040,7 +4018,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -4123,7 +4101,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -4178,6 +4156,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4213,13 +4208,13 @@
       "lemma": "ужинать",
       "stress": "у́жинать",
       "pos": "verb",
-      "gloss": "to dine",
+      "gloss": "to have dinner",
       "aspect": "impf",
-      "pair": null,
+      "pair": "поужинать",
       "meanings": [
         {
-          "en": "to dine",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to dine'."
+          "en": "to have dinner, to have supper",
+          "note": ""
         }
       ],
       "forms": {
@@ -4271,6 +4266,23 @@
                 "ужинала",
                 "ужинало",
                 "ужинали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "ужинай",
+                "ужинайте"
               ]
             }
           ]
@@ -4433,100 +4445,6 @@
         }
       ]
     },
-    "что": {
-      "lemma": "что",
-      "stress": "что",
-      "pos": "pron",
-      "gloss": "what",
-      "meanings": [
-        {
-          "en": "what",
-          "note": "Question word. Core Russian pron meaning 'what' in everyday speech."
-        },
-        {
-          "en": "that",
-          "note": "Conjunction. Core Russian pron meaning 'what' in everyday speech."
-        },
-        {
-          "en": "ну что? = well?",
-          "note": "Core Russian pron meaning 'what' in everyday speech."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "что"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "чего"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "чему"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "что"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "чем"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "чём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Что это?",
-          "trans": "What's this?"
-        },
-        {
-          "text": "Смотри, что у меня есть.",
-          "trans": "Look what I've got."
-        },
-        {
-          "text": "Привет! Смотри, что у меня есть.",
-          "trans": "Hi! Look what I've got."
-        }
-      ],
-      "related": [
-        {
-          "word": "что-то",
-          "gloss": "something"
-        },
-        {
-          "word": "ничто",
-          "gloss": "nothing"
-        },
-        {
-          "word": "потому что",
-          "gloss": "because"
-        }
-      ]
-    },
     "что-нибудь": {
       "lemma": "что-нибудь",
       "stress": "что́-нибудь",
@@ -4535,7 +4453,7 @@
       "meanings": [
         {
           "en": "something, anything",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'anything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -4609,77 +4527,33 @@
       "lemma": "что-то",
       "stress": "что́-то",
       "pos": "pron",
-      "gloss": "something; somehow",
+      "gloss": "something",
       "meanings": [
         {
           "en": "something",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'something; somehow', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": "instrumental чем-то: чем-то помочь = help with something"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "что-того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "что-тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "что-том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "что-том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "А что-то случилось?",
-          "trans": "Did something happen?"
+          "text": "Так может быть, тебе надо чем-то помочь?",
+          "trans": "So maybe you need help with something?"
         },
         {
-          "text": "Что-то случилось?",
-          "trans": "Has something happened?"
-        },
-        {
-          "text": "Что-то я устал.",
-          "trans": "Somehow I'm tired."
+          "text": "Могу я чем-то помочь?",
+          "trans": "Can I help with anything?"
         }
       ],
       "related": [
         {
-          "word": "что-нибудь",
-          "gloss": "something"
+          "word": "что",
+          "gloss": "what"
+        },
+        {
+          "word": "кто-то",
+          "gloss": "someone"
         }
       ]
     },

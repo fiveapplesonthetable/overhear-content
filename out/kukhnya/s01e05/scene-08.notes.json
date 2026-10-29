@@ -49,7 +49,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -172,7 +172,7 @@
           "pos": "noun",
           "stress": "форе́ль",
           "gloss": "trout",
-          "gram": "feminine singular nominative"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "с",
@@ -222,11 +222,11 @@
         },
         {
           "t": "выпотроши",
-          "lemma": "выпотроши",
-          "pos": "noun",
+          "lemma": "выпотрошить",
+          "pos": "verb",
           "stress": "вы́потроши",
-          "gloss": "выпотроши",
-          "gram": "noun"
+          "gloss": "gut",
+          "gram": "imperative, 2nd person singular"
         },
         {
           "t": "свежую",
@@ -270,9 +270,9 @@
           "t": "удали",
           "lemma": "удалить",
           "pos": "verb",
-          "stress": "уда́ли",
-          "gloss": "to delete, to remove",
-          "gram": "past tense, plural"
+          "stress": "удали́",
+          "gloss": "remove",
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "хребет.",
@@ -492,7 +492,7 @@
           "t": "Воронежа.",
           "lemma": "воронеж",
           "pos": "name",
-          "stress": null,
+          "stress": "воро́нежа",
           "gloss": "Voronezh",
           "gram": "masculine singular genitive"
         }
@@ -545,7 +545,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -668,7 +668,7 @@
           "pos": "noun",
           "stress": "форе́ль",
           "gloss": "trout",
-          "gram": "feminine singular nominative"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "с",
@@ -718,11 +718,11 @@
         },
         {
           "t": "выпотроши",
-          "lemma": "выпотроши",
-          "pos": "noun",
+          "lemma": "выпотрошить",
+          "pos": "verb",
           "stress": "вы́потроши",
-          "gloss": "выпотроши",
-          "gram": "noun"
+          "gloss": "gut",
+          "gram": "imperative, 2nd person singular"
         },
         {
           "t": "свежую",
@@ -766,9 +766,9 @@
           "t": "удали",
           "lemma": "удалить",
           "pos": "verb",
-          "stress": "уда́ли",
-          "gloss": "to delete, to remove",
-          "gram": "past tense, plural"
+          "stress": "удали́",
+          "gloss": "remove",
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "хребет.",
@@ -988,7 +988,7 @@
           "t": "Воронежа.",
           "lemma": "воронеж",
           "pos": "name",
-          "stress": null,
+          "stress": "воро́нежа",
           "gloss": "Voronezh",
           "gram": "masculine singular genitive"
         }
@@ -1041,7 +1041,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1164,7 +1164,7 @@
           "pos": "noun",
           "stress": "форе́ль",
           "gloss": "trout",
-          "gram": "feminine singular nominative"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "с",
@@ -1214,11 +1214,11 @@
         },
         {
           "t": "выпотроши",
-          "lemma": "выпотроши",
-          "pos": "noun",
+          "lemma": "выпотрошить",
+          "pos": "verb",
           "stress": "вы́потроши",
-          "gloss": "выпотроши",
-          "gram": "noun"
+          "gloss": "gut",
+          "gram": "imperative, 2nd person singular"
         },
         {
           "t": "свежую",
@@ -1262,9 +1262,9 @@
           "t": "удали",
           "lemma": "удалить",
           "pos": "verb",
-          "stress": "уда́ли",
-          "gloss": "to delete, to remove",
-          "gram": "past tense, plural"
+          "stress": "удали́",
+          "gloss": "remove",
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "хребет.",
@@ -1484,7 +1484,7 @@
           "t": "Воронежа.",
           "lemma": "воронеж",
           "pos": "name",
-          "stress": null,
+          "stress": "воро́нежа",
           "gloss": "Voronezh",
           "gram": "masculine singular genitive"
         }
@@ -1564,7 +1564,7 @@
       "meanings": [
         {
           "en": "carefully, neatly, gently",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1937,20 +1937,22 @@
         }
       ]
     },
-    "выпотроши": {
-      "lemma": "выпотроши",
-      "stress": "вы́потроши",
-      "pos": "noun",
-      "gloss": "выпотроши",
+    "выпотрошить": {
+      "lemma": "выпотрошить",
+      "stress": "вы́потрошить",
+      "pos": "verb",
+      "gloss": "to gut (fish, poultry)",
+      "aspect": "pf",
+      "pair": "потрошить",
       "gender": "m",
       "meanings": [
         {
-          "en": "выпотроши",
+          "en": "to gut, to clean (fish, poultry)",
           "note": ""
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -1959,60 +1961,87 @@
         "rows": [
           {
             "cells": [
-              "nominative",
-              "выпотроши",
-              "выпотроши"
+              "1st",
+              "выпотрошу",
+              "выпотрошим"
             ]
           },
           {
             "cells": [
-              "genitive",
-              "выпотроши",
-              "выпотроши"
+              "2nd",
+              "выпотрошишь",
+              "выпотрошите"
             ]
           },
           {
             "cells": [
-              "dative",
-              "выпотроши",
-              "выпотроши"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "выпотроши",
-              "выпотроши"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "выпотроши",
-              "выпотроши"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "выпотроши",
-              "выпотроши"
+              "3rd",
+              "выпотрошит",
+              "выпотрошат"
             ]
           }
         ]
       },
-      "moreForms": [],
-      "examples": [
+      "moreForms": [
         {
-          "text": "Это выпотроши.",
-          "trans": "It is выпотроши."
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "выпотрошил",
+                "выпотрошила",
+                "выпотрошило",
+                "выпотрошили"
+              ]
+            }
+          ]
         },
         {
-          "text": "Вот выпотроши.",
-          "trans": "Here is выпотроши."
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "выпотроши",
+                "выпотрошите"
+              ]
+            }
+          ]
         }
       ],
-      "related": []
+      "examples": [
+        {
+          "text": "Для начала выпотроши свежую рыбу.",
+          "trans": "First, gut the fresh fish."
+        },
+        {
+          "text": "Рыбу нужно выпотрошить и промыть.",
+          "trans": "The fish needs to be gutted and rinsed."
+        }
+      ],
+      "related": [
+        {
+          "word": "потрошить",
+          "gloss": "to gut"
+        },
+        {
+          "word": "рыба",
+          "gloss": "fish"
+        }
+      ]
     },
     "готовить": {
       "lemma": "готовить",
@@ -2126,7 +2155,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2161,7 +2190,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2199,11 +2228,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2234,18 +2263,20 @@
       ]
     },
     "жюльен": {
+      "lemma": "жюльен",
+      "stress": "жюлье́н",
+      "pos": "noun",
+      "gloss": "julienne (baked dish)",
+      "gender": "m",
       "animacy": "inan",
-      "examples": [
+      "meanings": [
         {
-          "text": "Приготовь вкусный жюльен.",
-          "trans": "Cook a delicious julienne."
-        },
-        {
-          "text": "И фаршируй рыбу жюльеном с лимоном.",
-          "trans": "And stuff the fish with julienne and lemon."
+          "en": "julienne",
+          "note": "baked dish of mushrooms, cheese, and cream"
         }
       ],
       "forms": {
+        "title": "Declension",
         "columns": [
           "",
           "sg",
@@ -2294,31 +2325,29 @@
               "жюльенах"
             ]
           }
-        ],
-        "title": "Declension"
+        ]
       },
-      "gender": "m",
-      "gloss": "julienne (baked dish)",
-      "lemma": "жюльен",
-      "meanings": [
-        {
-          "en": "julienne",
-          "note": "baked dish of mushrooms, cheese, and cream"
-        }
-      ],
       "moreForms": [],
-      "pos": "noun",
-      "related": [
+      "examples": [
         {
-          "gloss": "matter, business",
-          "word": "дело"
+          "text": "Приготовь вкусный жюльен.",
+          "trans": "Cook a delicious julienne."
         },
         {
-          "gloss": "place",
-          "word": "место"
+          "text": "И фаршируй рыбу жюльеном с лимоном.",
+          "trans": "And stuff the fish with julienne and lemon."
         }
       ],
-      "stress": "жюлье́н"
+      "related": [
+        {
+          "word": "жульен",
+          "gloss": "julienne (variant spelling)"
+        },
+        {
+          "word": "грибы",
+          "gloss": "mushrooms"
+        }
+      ]
     },
     "звонить": {
       "lemma": "звонить",
@@ -2330,11 +2359,11 @@
       "meanings": [
         {
           "en": "to call, to phone",
-          "note": "+ dative of the person. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
+          "note": "+ dative of the person."
         },
         {
           "en": "to ring",
-          "note": "A bell or phone. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
+          "note": "A bell or phone."
         }
       ],
       "forms": {
@@ -2442,12 +2471,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2502,6 +2529,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2521,17 +2565,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -2782,7 +2827,7 @@
       "meanings": [
         {
           "en": "mommy, mum",
-          "note": "Declinable feminine noun meaning 'mommy', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -2850,12 +2895,12 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "мама",
+          "gloss": "mum"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "мамочка",
+          "gloss": "mummy"
         }
       ]
     },
@@ -2868,7 +2913,7 @@
       "meanings": [
         {
           "en": "beginning, start",
-          "note": "Common neuter noun meaning 'beginning' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2991,15 +3036,15 @@
       "meanings": [
         {
           "en": "number",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         },
         {
           "en": "phone number",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         },
         {
           "en": "hotel room",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3302,7 +3347,7 @@
       "meanings": [
         {
           "en": "to call back",
-          "note": "On the phone. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'звонить'). Used as a perfective (single completed action) verb meaning 'to call back', paired with 'перезванивать'."
+          "note": "On the phone. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'звонить')."
         }
       ],
       "forms": {
@@ -3440,7 +3485,7 @@
       "meanings": [
         {
           "en": "to put, to place, to lay down",
-          "note": "+ в/на + accusative. Used as a perfective (single completed action) verb meaning 'to put, to lay down', paired with 'класть'."
+          "note": "+ в/на + accusative."
         }
       ],
       "forms": {
@@ -3531,11 +3576,15 @@
       "related": [
         {
           "word": "класть",
-          "gloss": "to put"
+          "gloss": "to put (impf)"
         },
         {
-          "word": "предложить",
-          "gloss": "to offer"
+          "word": "выложить",
+          "gloss": "to lay out"
+        },
+        {
+          "word": "отложить",
+          "gloss": "to put aside, to postpone"
         }
       ]
     },
@@ -3549,7 +3598,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -3686,7 +3735,7 @@
       "meanings": [
         {
           "en": "then, afterwards, later",
-          "note": "Core Russian adv meaning 'then, later, afterwards' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3716,7 +3765,7 @@
       "meanings": [
         {
           "en": "fish",
-          "note": "Animal or food. Common feminine noun meaning 'fish' in everyday Russian."
+          "note": "Animal or food."
         }
       ],
       "forms": {
@@ -3844,7 +3893,7 @@
       "meanings": [
         {
           "en": "fresh",
-          "note": "Food, air, news. Agrees in gender, number, and case with the noun it modifies ('fresh')."
+          "note": "Food, air, news."
         }
       ],
       "forms": {
@@ -3887,10 +3936,10 @@
           {
             "cells": [
               "accusative",
-              "свежий",
+              "свежий / свежего",
               "свежую",
               "свежее",
-              "свежие"
+              "свежие / свежих"
             ]
           },
           {
@@ -3943,7 +3992,7 @@
       "meanings": [
         {
           "en": "speedy, quick",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('speedy, quick')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3986,10 +4035,10 @@
           {
             "cells": [
               "accusative",
-              "скорый",
+              "скорый / скорого",
               "скорую",
               "скорое",
-              "скорые"
+              "скорые / скорых"
             ]
           },
           {
@@ -4015,22 +4064,30 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Макс Лавров? Привет, давай скорее обнимемся!",
-          "trans": "Max Lavrov? Hi, let's hug right away!"
+          "text": "Ну всё, до скорого!",
+          "trans": "Right, see you soon!"
         },
         {
-          "text": "Ладно, иди готовь скорее своего дорогого короля!",
-          "trans": "Fine, go prepare your expensive king right away!"
+          "text": "Готово, сообщение ушло, теперь ждём скорого возвращения!",
+          "trans": "Done, the message is sent, now we wait for a quick return!"
         },
         {
-          "text": "Гуля, подойди скорее сюда, у меня важное поручение.",
-          "trans": "Gulya, come over here quickly, I have an important errand."
+          "text": "Всего доброго, до скорой встречи!",
+          "trans": "All the best, see you soon!"
         }
       ],
       "related": [
         {
           "word": "скоро",
-          "gloss": "speedyly (adverbial form)"
+          "gloss": "soon"
+        },
+        {
+          "word": "скорее",
+          "gloss": "quicker; rather"
+        },
+        {
+          "word": "скорость",
+          "gloss": "speed"
         }
       ]
     },
@@ -4233,11 +4290,11 @@
       "meanings": [
         {
           "en": "to delete (a file, an app)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to delete, to remove', paired with 'удалять'."
+          "note": ""
         },
         {
           "en": "to remove",
-          "note": "Used as a perfective (single completed action) verb meaning 'to delete, to remove', paired with 'удалять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4341,7 +4398,7 @@
       "meanings": [
         {
           "en": "fillet",
-          "note": "Declinable neuter noun meaning 'fillet', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "tenderloin",
@@ -4360,42 +4417,42 @@
             "cells": [
               "nominative",
               "филе",
-              "—"
+              "филе"
             ]
           },
           {
             "cells": [
               "genitive",
               "филе",
-              "—"
+              "филе"
             ]
           },
           {
             "cells": [
               "dative",
               "филе",
-              "—"
+              "филе"
             ]
           },
           {
             "cells": [
               "accusative",
               "филе",
-              "—"
+              "филе"
             ]
           },
           {
             "cells": [
               "instrumental",
               "филе",
-              "—"
+              "филе"
             ]
           },
           {
             "cells": [
               "prepositional",
               "филе",
-              "—"
+              "филе"
             ]
           }
         ]
@@ -4414,17 +4471,19 @@
       "related": []
     },
     "форель": {
-      "examples": [
+      "lemma": "форель",
+      "stress": "форе́ль",
+      "pos": "noun",
+      "gloss": "trout",
+      "gender": "f",
+      "meanings": [
         {
-          "text": "Мы готовим форель.",
-          "trans": "We are preparing trout."
-        },
-        {
-          "text": "Форель с жульеном? Понял, мамуля.",
-          "trans": "Trout with julienne? Understood, Mommy."
+          "en": "trout",
+          "note": ""
         }
       ],
       "forms": {
+        "title": "Declension",
         "columns": [
           "",
           "sg",
@@ -4456,7 +4515,7 @@
             "cells": [
               "accusative",
               "форель",
-              "форели"
+              "форелей"
             ]
           },
           {
@@ -4473,31 +4532,33 @@
               "форелях"
             ]
           }
-        ],
-        "title": "Declension"
+        ]
       },
-      "gender": "f",
-      "gloss": "trout",
-      "lemma": "форель",
-      "meanings": [
-        {
-          "en": "trout",
-          "note": "Declinable feminine noun meaning 'trout', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
-        }
-      ],
       "moreForms": [],
-      "pos": "noun",
-      "related": [
+      "examples": [
         {
-          "gloss": "matter, business",
-          "word": "дело"
+          "text": "Мы готовим форель.",
+          "trans": "We are cooking trout."
         },
         {
-          "gloss": "place",
-          "word": "место"
+          "text": "Будешь готовить форель с обычным жюльеном.",
+          "trans": "You'll cook the trout with an ordinary julienne."
+        },
+        {
+          "text": "Сейчас свежую форель привезли, пойду принимать.",
+          "trans": "Fresh trout has just been delivered, I'll go take it in."
         }
       ],
-      "stress": "форе́ль"
+      "related": [
+        {
+          "word": "лосось",
+          "gloss": "salmon"
+        },
+        {
+          "word": "рыба",
+          "gloss": "fish"
+        }
+      ]
     },
     "холодильник": {
       "lemma": "холодильник",
@@ -4508,7 +4569,7 @@
       "meanings": [
         {
           "en": "fridge, refrigerator",
-          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'fridge' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4594,7 +4655,7 @@
       "meanings": [
         {
           "en": "backbone, spine of a fish or animal",
-          "note": "Declinable masculine noun meaning 'spine', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -4662,12 +4723,12 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "позвоночник",
+          "gloss": "spine"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "кость",
+          "gloss": "bone"
         }
       ]
     },

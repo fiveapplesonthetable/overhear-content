@@ -138,7 +138,7 @@
           "t": "Пошел",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "пошёл",
+          "stress": "поше́л",
           "gloss": "go, off you go",
           "gram": "colloquial past masculine used as command"
         },
@@ -231,7 +231,7 @@
           "lemma": "парень",
           "pos": "noun",
           "stress": "па́рень",
-          "gloss": "boyfriend",
+          "gloss": "guy; boyfriend",
           "gram": "nominative singular, masculine"
         }
       ]
@@ -418,7 +418,7 @@
           "t": "твое",
           "lemma": "твой",
           "pos": "det",
-          "stress": "твоё",
+          "stress": "твое́",
           "gloss": "your",
           "gram": "neuter singular nominative possessive pronoun"
         },
@@ -568,7 +568,7 @@
           "t": "Пошел",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "пошёл",
+          "stress": "поше́л",
           "gloss": "go, off you go",
           "gram": "colloquial past masculine used as command"
         },
@@ -661,7 +661,7 @@
           "lemma": "парень",
           "pos": "noun",
           "stress": "па́рень",
-          "gloss": "boyfriend",
+          "gloss": "guy; boyfriend",
           "gram": "nominative singular, masculine"
         }
       ]
@@ -848,7 +848,7 @@
           "t": "твое",
           "lemma": "твой",
           "pos": "det",
-          "stress": "твоё",
+          "stress": "твое́",
           "gloss": "your",
           "gram": "neuter singular nominative possessive pronoun"
         },
@@ -998,7 +998,7 @@
           "t": "Пошел",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "пошёл",
+          "stress": "поше́л",
           "gloss": "go, off you go",
           "gram": "colloquial past masculine used as command"
         },
@@ -1091,7 +1091,7 @@
           "lemma": "парень",
           "pos": "noun",
           "stress": "па́рень",
-          "gloss": "boyfriend",
+          "gloss": "guy; boyfriend",
           "gram": "nominative singular, masculine"
         }
       ]
@@ -1278,7 +1278,7 @@
           "t": "твое",
           "lemma": "твой",
           "pos": "det",
-          "stress": "твоё",
+          "stress": "твое́",
           "gloss": "your",
           "gram": "neuter singular nominative possessive pronoun"
         },
@@ -1309,7 +1309,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -1486,7 +1486,7 @@
         },
         {
           "en": "party, evening event",
-          "note": "E.g. a school evening. Common masculine noun meaning 'evening' in everyday Russian."
+          "note": "E.g. a school evening."
         }
       ],
       "forms": {
@@ -1581,11 +1581,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1640,6 +1640,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -1683,7 +1700,7 @@
         },
         {
           "en": "out!",
-          "note": "Вон отсюда! = get out of here!. Core Russian part meaning 'over there' in everyday speech."
+          "note": "Вон отсюда! = get out of here!."
         }
       ],
       "forms": null,
@@ -1719,7 +1736,7 @@
       "meanings": [
         {
           "en": "to lie, to tell lies",
-          "note": "Colloquial. Used as an imperfective (ongoing/repeated action) verb meaning 'to lie, to tell lies', paired with 'соврать'."
+          "note": "Colloquial."
         }
       ],
       "forms": {
@@ -1998,7 +2015,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -2089,7 +2106,11 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "gloss": "good, kindness"
+        },
+        {
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
@@ -2225,7 +2246,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -2406,49 +2427,6 @@
         }
       ]
     },
-    "над": {
-      "lemma": "над",
-      "stress": "над",
-      "pos": "prep",
-      "gloss": "over, above; at",
-      "governs": "+ instrumental",
-      "meanings": [
-        {
-          "en": "over, above",
-          "note": "+ instrumental. Core Russian prep meaning 'over, above; at' in everyday speech."
-        },
-        {
-          "en": "at (laugh at)",
-          "note": "смеяться над = to laugh at; form надо before мной"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Лампа над столом.",
-          "trans": "The lamp is above the table."
-        },
-        {
-          "text": "Не смейся надо мной.",
-          "trans": "Don't laugh at me."
-        },
-        {
-          "text": "За поведение? Вы смеётесь надо мной?",
-          "trans": "For my conduct? Are you laughing at me?"
-        }
-      ],
-      "related": [
-        {
-          "word": "под",
-          "gloss": "under"
-        },
-        {
-          "word": "на",
-          "gloss": "on"
-        }
-      ]
-    },
     "надо": {
       "lemma": "надо",
       "stress": "на́до",
@@ -2457,7 +2435,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -2752,11 +2730,11 @@
       "meanings": [
         {
           "en": "guy, young man",
-          "note": "Informal. Common masculine noun meaning 'guy, lad; boyfriend' in everyday Russian."
+          "note": "Informal."
         },
         {
           "en": "boyfriend",
-          "note": "Мой парень = my boyfriend. Common masculine noun meaning 'guy, lad; boyfriend' in everyday Russian."
+          "note": "Мой парень = my boyfriend."
         }
       ],
       "forms": {
@@ -2838,11 +2816,11 @@
       "meanings": [
         {
           "en": "to worry, to be anxious",
-          "note": "Intransitive or за + accusative. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry, to fret; to go through', paired with 'пережить'."
+          "note": "Intransitive or за + accusative. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать')."
         },
         {
           "en": "to experience, to live through",
-          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry, to fret; to go through', paired with 'пережить'."
+          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать')."
         }
       ],
       "forms": {
@@ -2952,7 +2930,7 @@
       "meanings": [
         {
           "en": "to have a talk, to speak (with someone)",
-          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to have a talk', paired with 'говорить'."
+          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить')."
         }
       ],
       "forms": {
@@ -3061,11 +3039,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -3170,11 +3148,11 @@
       "meanings": [
         {
           "en": "to try, to have a go",
-          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         },
         {
           "en": "to taste",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         }
       ],
       "forms": {
@@ -3283,7 +3261,7 @@
       "meanings": [
         {
           "en": "to warn, caution",
-          "note": "Кого о чём. Prefix 'пред-' ('before, fore-') indicates anticipation or prior position (stem 'упредить'). Used as a perfective (single completed action) verb meaning 'to warn, notify in advance', paired with 'предупреждать'."
+          "note": "Кого о чём. Prefix 'пред-' ('before, fore-') indicates anticipation or prior position (stem 'упредить')."
         }
       ],
       "forms": {
@@ -3434,7 +3412,7 @@
         },
         {
           "en": "to pass, to go through",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to go through; to come in', paired with 'пройти'."
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'ходить')."
         }
       ],
       "forms": {
@@ -3973,7 +3951,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -4093,7 +4071,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4198,7 +4176,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4253,6 +4231,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4277,100 +4272,6 @@
         {
           "word": "хотеться",
           "gloss": "to feel like"
-        }
-      ]
-    },
-    "что": {
-      "lemma": "что",
-      "stress": "что",
-      "pos": "pron",
-      "gloss": "what",
-      "meanings": [
-        {
-          "en": "what",
-          "note": "Question word. Core Russian pron meaning 'what' in everyday speech."
-        },
-        {
-          "en": "that",
-          "note": "Conjunction. Core Russian pron meaning 'what' in everyday speech."
-        },
-        {
-          "en": "ну что? = well?",
-          "note": "Core Russian pron meaning 'what' in everyday speech."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "что"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "чего"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "чему"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "что"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "чем"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "чём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Что это?",
-          "trans": "What's this?"
-        },
-        {
-          "text": "Смотри, что у меня есть.",
-          "trans": "Look what I've got."
-        },
-        {
-          "text": "Привет! Смотри, что у меня есть.",
-          "trans": "Hi! Look what I've got."
-        }
-      ],
-      "related": [
-        {
-          "word": "что-то",
-          "gloss": "something"
-        },
-        {
-          "word": "ничто",
-          "gloss": "nothing"
-        },
-        {
-          "word": "потому что",
-          "gloss": "because"
         }
       ]
     },

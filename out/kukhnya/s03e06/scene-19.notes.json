@@ -560,7 +560,7 @@
           "pos": "pron",
           "stress": "таки́х",
           "gloss": "such, that kind of",
-          "gram": "accusative plural animate"
+          "gram": "genitive / accusative plural"
         },
         {
           "t": "чувств.",
@@ -1192,7 +1192,7 @@
           "pos": "pron",
           "stress": "таки́х",
           "gloss": "such, that kind of",
-          "gram": "accusative plural animate"
+          "gram": "genitive / accusative plural"
         },
         {
           "t": "чувств.",
@@ -1824,7 +1824,7 @@
           "pos": "pron",
           "stress": "таки́х",
           "gloss": "such, that kind of",
-          "gram": "accusative plural animate"
+          "gram": "genitive / accusative plural"
         },
         {
           "t": "чувств.",
@@ -2158,7 +2158,7 @@
       "meanings": [
         {
           "en": "after all, you know",
-          "note": "Adds a reason or an obvious truth. Core Russian part meaning 'after all, you know' in everyday speech."
+          "note": "Adds a reason or an obvious truth."
         }
       ],
       "forms": null,
@@ -2307,7 +2307,7 @@
       "meanings": [
         {
           "en": "cheerful, joyful",
-          "note": "In good spirits, lively. Agrees in gender, number, and case with the noun it modifies ('cheerful, merry, fun')."
+          "note": "In good spirits, lively."
         }
       ],
       "forms": {
@@ -2350,10 +2350,10 @@
           {
             "cells": [
               "accusative",
-              "весёлый",
+              "весёлый / весёлого",
               "весёлую",
               "весёлое",
-              "весёлые"
+              "весёлые / весёлых"
             ]
           },
           {
@@ -2393,8 +2393,16 @@
       ],
       "related": [
         {
-          "word": "весёло",
-          "gloss": "in a cheerful way (adv.)"
+          "word": "весело",
+          "gloss": "cheerfully; it's fun"
+        },
+        {
+          "word": "веселье",
+          "gloss": "fun, merriment"
+        },
+        {
+          "word": "веселиться",
+          "gloss": "to have fun"
         }
       ]
     },
@@ -2449,10 +2457,10 @@
           {
             "cells": [
               "accusative",
-              "виноватый",
+              "виноватый / виноватого",
               "виноватую",
               "виноватое",
-              "виноватые"
+              "виноватые / виноватых"
             ]
           },
           {
@@ -2475,29 +2483,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "виноват",
-                "виновата",
-                "виновато",
-                "виноваты"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я знаю, что я виноват.",
@@ -2514,95 +2500,21 @@
       ],
       "related": []
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вылететь": {
       "lemma": "вылететь",
-      "stress": "выле́теть",
+      "stress": "вы́лететь",
       "pos": "verb",
-      "gloss": "will fly out, get kicked out",
+      "gloss": "to fly out; to get kicked out",
       "aspect": "pf",
-      "pair": null,
+      "pair": "вылетать",
       "meanings": [
         {
-          "en": "will fly out, get kicked out",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'лететь'). Used as a perfective (single completed action) verb meaning 'will fly out, get kicked out'."
+          "en": "to fly out, to take off",
+          "note": ""
+        },
+        {
+          "en": "to be kicked out, to get fired",
+          "note": "colloquial: вылететь с работы / из Москвы"
         }
       ],
       "forms": {
@@ -2616,22 +2528,22 @@
           {
             "cells": [
               "1st",
-              "вылетею",
-              "вылетеем"
+              "вылечу",
+              "вылетим"
             ]
           },
           {
             "cells": [
               "2nd",
-              "вылетеешь",
-              "вылетеете"
+              "вылетишь",
+              "вылетите"
             ]
           },
           {
             "cells": [
               "3rd",
-              "вылетеет",
-              "вылетеют"
+              "вылетит",
+              "вылетят"
             ]
           }
         ]
@@ -2657,22 +2569,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "вылети",
+                "вылетите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и вылететь вовремя.",
-          "trans": "We need to do everything and will fly out on time."
+          "text": "Он вылетит отсюда, как пробка.",
+          "trans": "He'll fly out of here like a cork."
         },
         {
-          "text": "На нашей кухне все умеют вылететь.",
-          "trans": "In our kitchen everyone knows how to will fly out."
+          "text": "Ты у меня из Москвы вылетишь!",
+          "trans": "I'll have you kicked out of Moscow!"
         }
       ],
       "related": [
         {
-          "word": "не вылететь",
-          "gloss": "not to will fly out (negated infinitive)"
+          "word": "вылетать",
+          "gloss": "to fly out (impf)"
+        },
+        {
+          "word": "улететь",
+          "gloss": "to fly away"
         }
       ]
     },
@@ -2688,7 +2621,7 @@
         },
         {
           "en": "long ago",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2719,11 +2652,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2916,7 +2849,7 @@
       "meanings": [
         {
           "en": "life",
-          "note": "Common feminine noun meaning 'life' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2998,7 +2931,7 @@
       "meanings": [
         {
           "en": "to experience, feel (feelings, emotions, difficulties)",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to experience, feel', paired with 'испытать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3216,11 +3149,11 @@
       "meanings": [
         {
           "en": "a lot, much, many",
-          "note": "+ genitive plural: много дел. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive plural: много дел."
         },
         {
           "en": "больше = more",
-          "note": "Comparative. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Comparative."
         }
       ],
       "forms": null,
@@ -3344,7 +3277,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3420,7 +3353,7 @@
         },
         {
           "en": "ни... ни = neither... nor",
-          "note": "Core Russian part meaning 'not a (single); neither... nor' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3882,7 +3815,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -4044,7 +3977,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4172,83 +4105,6 @@
       ],
       "related": []
     },
-    "прошлое": {
-      "lemma": "прошлое",
-      "stress": "про́шлое",
-      "pos": "noun",
-      "gloss": "past",
-      "gender": "n",
-      "meanings": [
-        {
-          "en": "the past",
-          "note": "Time that has gone by. Common neuter noun meaning 'past' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "прошлое",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "прошлого",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "прошлому",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "прошлое",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "прошлым",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "прошлом",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Вы ревнуете меня к прошлому?",
-          "trans": "Are you jealous of my past?"
-        },
-        {
-          "text": "То есть операция прошла хорошо?",
-          "trans": "So the operation went well?"
-        }
-      ],
-      "related": []
-    },
     "прошлый": {
       "lemma": "прошлый",
       "stress": "про́шлый",
@@ -4257,7 +4113,7 @@
       "meanings": [
         {
           "en": "last, previous, past",
-          "note": "В прошлый раз = last time. Agrees in gender, number, and case with the noun it modifies ('last, past, previous')."
+          "note": "В прошлый раз = last time."
         }
       ],
       "forms": {
@@ -4300,10 +4156,10 @@
           {
             "cells": [
               "accusative",
-              "прошлый",
+              "прошлый / прошлого",
               "прошлую",
               "прошлое",
-              "прошлые"
+              "прошлые / прошлых"
             ]
           },
           {
@@ -4343,8 +4199,16 @@
       ],
       "related": [
         {
-          "word": "прошло",
-          "gloss": "in a last way (adv.)"
+          "word": "прошлое",
+          "gloss": "the past"
+        },
+        {
+          "word": "прошедший",
+          "gloss": "past, bygone"
+        },
+        {
+          "word": "в прошлый раз",
+          "gloss": "last time"
         }
       ]
     },
@@ -4356,7 +4220,7 @@
       "meanings": [
         {
           "en": "earlier, before, formerly",
-          "note": "Comparative of рано. Core Russian adv meaning 'earlier, previously, used to' in everyday speech."
+          "note": "Comparative of рано."
         }
       ],
       "forms": null,
@@ -4392,7 +4256,7 @@
       "meanings": [
         {
           "en": "to break up, part ways",
-          "note": "+ с + instrumental. Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'статься'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to break up, to part', paired with 'расставаться'."
+          "note": "+ с + instrumental. Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'статься')."
         }
       ],
       "forms": {
@@ -4576,7 +4440,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -4867,7 +4731,7 @@
       "meanings": [
         {
           "en": "to calm down",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to calm down', paired with 'успокаиваться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4980,11 +4844,11 @@
       "meanings": [
         {
           "en": "to arrange, organize",
-          "note": "Transitive verb. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить'). Used as a perfective (single completed action) verb meaning 'to arrange, cause', paired with 'устраивать'."
+          "note": "Transitive verb. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить')."
         },
         {
           "en": "to cause",
-          "note": "A disturbance. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить'). Used as a perfective (single completed action) verb meaning 'to arrange, cause', paired with 'устраивать'."
+          "note": "A disturbance. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить')."
         }
       ],
       "forms": {
@@ -5075,15 +4939,15 @@
       "related": [
         {
           "word": "устраивать",
-          "gloss": "to organize"
+          "gloss": "to organize (impf)"
         },
         {
-          "word": "построить",
-          "gloss": "to build"
+          "word": "устроиться",
+          "gloss": "to get a job, settle in"
         },
         {
-          "word": "настроение",
-          "gloss": "mood"
+          "word": "скандал",
+          "gloss": "scene, row"
         }
       ]
     },
@@ -5097,7 +4961,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5149,6 +5013,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -5279,10 +5160,11 @@
       "pos": "noun",
       "gloss": "feeling, emotion, sense",
       "gender": "n",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "feeling, emotion, romantic affection",
-          "note": "Common neuter noun meaning 'feeling, emotion, sense' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {

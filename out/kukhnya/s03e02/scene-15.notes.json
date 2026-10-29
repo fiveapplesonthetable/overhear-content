@@ -130,7 +130,7 @@
           "t": "Олег",
           "lemma": "олег",
           "pos": "name",
-          "stress": null,
+          "stress": "оле́г",
           "gloss": "Oleg",
           "gram": "nominative singular"
         },
@@ -140,7 +140,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "тысячи",
@@ -498,7 +498,7 @@
           "t": "Олег",
           "lemma": "олег",
           "pos": "name",
-          "stress": null,
+          "stress": "оле́г",
           "gloss": "Oleg",
           "gram": "nominative singular"
         },
@@ -508,7 +508,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "тысячи",
@@ -866,7 +866,7 @@
           "t": "Олег",
           "lemma": "олег",
           "pos": "name",
-          "stress": null,
+          "stress": "оле́г",
           "gloss": "Oleg",
           "gram": "nominative singular"
         },
@@ -876,7 +876,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "тысячи",
@@ -1238,7 +1238,7 @@
       "meanings": [
         {
           "en": "attention, notice",
-          "note": "Внимание! = Attention!. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'attention' in everyday Russian."
+          "note": "Внимание! = Attention!."
         }
       ],
       "forms": {
@@ -1253,42 +1253,42 @@
             "cells": [
               "nominative",
               "внимание",
-              "—"
+              "внимания"
             ]
           },
           {
             "cells": [
               "genitive",
               "внимания",
-              "—"
+              "вниманий"
             ]
           },
           {
             "cells": [
               "dative",
               "вниманию",
-              "—"
+              "вниманиям"
             ]
           },
           {
             "cells": [
               "accusative",
               "внимание",
-              "—"
+              "внимания"
             ]
           },
           {
             "cells": [
               "instrumental",
               "вниманием",
-              "—"
+              "вниманиями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "внимании",
-              "—"
+              "вниманиях"
             ]
           }
         ]
@@ -1367,11 +1367,11 @@
       "meanings": [
         {
           "en": "to go out, to come out",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to go out, to get out', paired with 'выйти'."
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ходить')."
         },
         {
           "en": "to get out (of prison, arrest)",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to go out, to get out', paired with 'выйти'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1486,7 +1486,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -1520,7 +1520,7 @@
       "meanings": [
         {
           "en": "two hundred (number 200)",
-          "note": "Core Russian num meaning 'two hundred' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1549,7 +1549,7 @@
       "meanings": [
         {
           "en": "nine",
-          "note": "Core Russian num meaning 'nine' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1591,7 +1591,7 @@
       "meanings": [
         {
           "en": "nine hundred",
-          "note": "High-frequency Russian cardinal or ordinal numeral meaning 'nine hundred', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1599,21 +1599,21 @@
       "examples": [
         {
           "text": "Макс — восемь тысяч девятьсот пятьдесят.",
-          "trans": "Max — eight thousand nine hundred fifty."
+          "trans": "Max: eight thousand nine hundred and fifty."
         },
         {
-          "text": "Макс сказал это совершенно девятьсот и спокойно.",
-          "trans": "Max said this quite nine hundred and calmly."
+          "text": "Это стоит девятьсот рублей.",
+          "trans": "This costs nine hundred rubles."
         }
       ],
       "related": [
         {
-          "word": "вот девятьсот",
-          "gloss": "right here (nine hundred)"
+          "word": "девять",
+          "gloss": "nine"
         },
         {
-          "word": "именно девятьсот",
-          "gloss": "precisely nine hundred"
+          "word": "сто",
+          "gloss": "hundred"
         }
       ]
     },
@@ -1625,11 +1625,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1667,7 +1667,7 @@
       "meanings": [
         {
           "en": "home, homeward (direction)",
-          "note": "Contrast дома = at home. Core Russian adv meaning '(to) home, homeward' in everyday speech."
+          "note": "Contrast дома = at home."
         }
       ],
       "forms": null,
@@ -1684,43 +1684,6 @@
         {
           "text": "Так, мы идём к слепым. А ты иди домой и делай уроки.",
           "trans": "Right, we're going to the blind people. And you go home and do your homework."
-        }
-      ],
-      "related": []
-    },
-    "ещё": {
-      "lemma": "ещё",
-      "stress": "ещё",
-      "pos": "adv",
-      "gloss": "more; still; yet",
-      "meanings": [
-        {
-          "en": "more, some more",
-          "note": "in threats: ты ещё увидишь = you'll see"
-        },
-        {
-          "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
-        },
-        {
-          "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "У тебя есть ещё.",
-          "trans": "You've still got some."
-        },
-        {
-          "text": "Ты ещё пожалеешь!",
-          "trans": "You'll be sorry!"
-        },
-        {
-          "text": "У тебя же есть ещё. Дай хоть одну.",
-          "trans": "But you've still got some. Give me just one."
         }
       ],
       "related": []
@@ -1776,7 +1739,7 @@
         },
         {
           "en": "a fine young man",
-          "note": "Old-fashioned. Common masculine noun meaning 'well done; good person' in everyday Russian."
+          "note": "Old-fashioned."
         }
       ],
       "forms": {
@@ -1985,7 +1948,7 @@
       "meanings": [
         {
           "en": "to go, to set off (by car, bus, train)",
-          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to go (by vehicle), to set off', paired with 'ехать'."
+          "note": "Мы поедем = We'll be off. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -2094,10 +2057,11 @@
       "pos": "noun",
       "gloss": "limit",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "limit",
-          "note": "Common masculine noun meaning 'limit' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2155,26 +2119,30 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Потому что я предала свои принципы.",
-          "trans": "Because I betrayed my principles."
+          "text": "Но это не предел.",
+          "trans": "But that's not the limit."
         },
         {
-          "text": "Если я предала принципы, значит, я и тебя могу предать.",
-          "trans": "If I betrayed my principles, that means I could betray you too."
+          "text": "Да, это ещё не предел.",
+          "trans": "Yes, and that's not the limit yet."
         },
         {
-          "text": "Представляешь, у них три су-шефа.",
-          "trans": "Can you imagine, they have three sous-chefs."
+          "text": "Всему есть предел!",
+          "trans": "There's a limit to everything!"
         }
       ],
       "related": [
         {
-          "word": "без преде",
-          "gloss": "without limit"
+          "word": "предельно",
+          "gloss": "extremely"
         },
         {
-          "word": "наш предел",
-          "gloss": "our limit"
+          "word": "граница",
+          "gloss": "border, limit"
+        },
+        {
+          "word": "беспредел",
+          "gloss": "lawlessness"
         }
       ]
     },
@@ -2186,7 +2154,7 @@
       "meanings": [
         {
           "en": "five",
-          "note": "+ genitive plural: пять рублей. Core Russian num meaning 'five' in everyday speech."
+          "note": "+ genitive plural: пять рублей."
         }
       ],
       "forms": null,
@@ -2263,7 +2231,7 @@
       "meanings": [
         {
           "en": "result, outcome",
-          "note": "Common masculine noun meaning 'result' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2364,8 +2332,12 @@
       ],
       "related": [
         {
-          "word": "не семьсот",
-          "gloss": "negated / contrasted form (seven hundred)"
+          "word": "семь",
+          "gloss": "seven"
+        },
+        {
+          "word": "сто",
+          "gloss": "hundred"
         }
       ]
     },
@@ -2388,16 +2360,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Тише, дети спят!",
-          "trans": "Quiet, the children are asleep!"
-        },
-        {
           "text": "Здесь тихо.",
           "trans": "It's quiet here."
         },
         {
-          "text": "Тише!",
-          "trans": "Quiet!"
+          "text": "Почему на кухне так тихо?",
+          "trans": "Why is the kitchen so quiet?"
         }
       ],
       "related": [
@@ -2415,7 +2383,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -2518,7 +2486,15 @@
       "related": [
         {
           "word": "тысячный",
-          "gloss": "related to thousand (adj.)"
+          "gloss": "thousandth"
+        },
+        {
+          "word": "миллион",
+          "gloss": "million"
+        },
+        {
+          "word": "сто",
+          "gloss": "hundred"
         }
       ]
     },
@@ -2530,7 +2506,7 @@
       "meanings": [
         {
           "en": "fourteen",
-          "note": "High-frequency Russian cardinal or ordinal numeral meaning 'fourteen', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2538,21 +2514,21 @@
       "examples": [
         {
           "text": "Настя Фомина — четырнадцать тысяч!",
-          "trans": "Nastya Fomina — fourteen thousand!"
+          "trans": "Nastya Fomina: fourteen thousand!"
         },
         {
-          "text": "Макс сказал это совершенно четырнадцать и спокойно.",
-          "trans": "Max said this quite fourteen and calmly."
+          "text": "Ему уже четырнадцать лет.",
+          "trans": "He is already fourteen."
         }
       ],
       "related": [
         {
-          "word": "вот четырнадцать",
-          "gloss": "right here (fourteen)"
+          "word": "четырнадцатый",
+          "gloss": "fourteenth"
         },
         {
-          "word": "именно четырнадцать",
-          "gloss": "precisely fourteen"
+          "word": "четыре",
+          "gloss": "four"
         }
       ]
     },

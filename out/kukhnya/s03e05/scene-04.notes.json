@@ -104,7 +104,7 @@
           "pos": "noun",
           "stress": "мя́со",
           "gloss": "meat",
-          "gram": "noun n acc"
+          "gram": "neuter singular, nominative / accusative"
         },
         {
           "t": "дел?",
@@ -126,7 +126,7 @@
           "pos": "noun",
           "stress": "мя́со",
           "gloss": "meat",
-          "gram": "noun n acc"
+          "gram": "neuter singular, nominative / accusative"
         },
         {
           "t": "лежит",
@@ -178,9 +178,9 @@
           "t": "сплошной",
           "lemma": "сплошной",
           "pos": "adj",
-          "stress": "спло́шной",
+          "stress": "сплошно́й",
           "gloss": "continuous, solid",
-          "gram": "oblique feminine singular / masculine nominative"
+          "gram": "masculine nominative / accusative singular"
         },
         {
           "t": "карман.",
@@ -456,7 +456,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "thing",
-          "gram": "f inan acc sg"
+          "gram": "nominative/accusative singular, feminine"
         }
       ]
     },
@@ -616,7 +616,7 @@
           "pos": "noun",
           "stress": "мя́со",
           "gloss": "meat",
-          "gram": "noun n acc"
+          "gram": "neuter singular, nominative / accusative"
         },
         {
           "t": "дел?",
@@ -638,7 +638,7 @@
           "pos": "noun",
           "stress": "мя́со",
           "gloss": "meat",
-          "gram": "noun n acc"
+          "gram": "neuter singular, nominative / accusative"
         },
         {
           "t": "лежит",
@@ -690,9 +690,9 @@
           "t": "сплошной",
           "lemma": "сплошной",
           "pos": "adj",
-          "stress": "спло́шной",
+          "stress": "сплошно́й",
           "gloss": "continuous, solid",
-          "gram": "oblique feminine singular / masculine nominative"
+          "gram": "masculine nominative / accusative singular"
         },
         {
           "t": "карман.",
@@ -968,7 +968,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "thing",
-          "gram": "f inan acc sg"
+          "gram": "nominative/accusative singular, feminine"
         }
       ]
     },
@@ -1128,7 +1128,7 @@
           "pos": "noun",
           "stress": "мя́со",
           "gloss": "meat",
-          "gram": "noun n acc"
+          "gram": "neuter singular, nominative / accusative"
         },
         {
           "t": "дел?",
@@ -1150,7 +1150,7 @@
           "pos": "noun",
           "stress": "мя́со",
           "gloss": "meat",
-          "gram": "noun n acc"
+          "gram": "neuter singular, nominative / accusative"
         },
         {
           "t": "лежит",
@@ -1202,9 +1202,9 @@
           "t": "сплошной",
           "lemma": "сплошной",
           "pos": "adj",
-          "stress": "спло́шной",
+          "stress": "сплошно́й",
           "gloss": "continuous, solid",
-          "gram": "oblique feminine singular / masculine nominative"
+          "gram": "masculine nominative / accusative singular"
         },
         {
           "t": "карман.",
@@ -1480,7 +1480,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "thing",
-          "gram": "f inan acc sg"
+          "gram": "nominative/accusative singular, feminine"
         }
       ]
     },
@@ -1555,7 +1555,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -1571,7 +1571,7 @@
       "meanings": [
         {
           "en": "bottle",
-          "note": "Glass or plastic container. Common feminine noun meaning 'bottle' in everyday Russian."
+          "note": "Glass or plastic container."
         }
       ],
       "forms": {
@@ -1767,11 +1767,11 @@
       "meanings": [
         {
           "en": "thing",
-          "note": "Plural 'вещи'. Common feminine noun meaning 'thing' in everyday Russian."
+          "note": "Plural 'вещи'."
         },
         {
           "en": "things, belongings",
-          "note": "Plural 'вещи'. Common feminine noun meaning 'thing' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1843,8 +1843,16 @@
       ],
       "related": [
         {
-          "word": "вещный",
-          "gloss": "related to thing (adj.)"
+          "word": "вещи",
+          "gloss": "things, belongings"
+        },
+        {
+          "word": "вещица",
+          "gloss": "little thing"
+        },
+        {
+          "word": "вещичка",
+          "gloss": "little thing, trinket"
         }
       ]
     },
@@ -1858,11 +1866,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1917,6 +1925,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -1956,7 +1981,7 @@
       "meanings": [
         {
           "en": "down, downstairs",
-          "note": "Direction. Core Russian adv meaning 'down, downstairs' in everyday speech."
+          "note": "Direction."
         }
       ],
       "forms": null,
@@ -1990,11 +2015,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2036,7 +2061,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2165,7 +2190,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2207,11 +2232,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2351,7 +2376,7 @@
       "meanings": [
         {
           "en": "pocket",
-          "note": "Common masculine noun meaning 'pocket' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2431,7 +2456,7 @@
       "meanings": [
         {
           "en": "where to",
-          "note": "For movement; где is for location. Core Russian adv meaning 'where (to)' in everyday speech."
+          "note": "For movement; где is for location."
         }
       ],
       "forms": null,
@@ -2473,7 +2498,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -2495,7 +2520,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -2504,12 +2533,10 @@
       "stress": "лежа́ть",
       "pos": "verb",
       "gloss": "to lie, to be lying down",
-      "aspect": "impf",
-      "pair": "полежать",
       "meanings": [
         {
           "en": "to lie, to be lying",
-          "note": "+ на / в + prepositional. Used as an imperfective (ongoing/repeated action) verb meaning 'to lie, to be lying down', paired with 'полежать'."
+          "note": "+ на / в + prepositional."
         }
       ],
       "forms": {
@@ -2602,7 +2629,8 @@
           "word": "полежать",
           "gloss": "to lie for a while"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "масло": {
       "lemma": "масло",
@@ -2613,7 +2641,7 @@
       "meanings": [
         {
           "en": "butter, oil",
-          "note": "Declinable neuter noun meaning 'butter', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -2684,44 +2712,6 @@
         }
       ],
       "related": []
-    },
-    "может": {
-      "lemma": "может",
-      "stress": "мо́жет",
-      "pos": "adv",
-      "gloss": "maybe, perhaps",
-      "meanings": [
-        {
-          "en": "maybe, perhaps",
-          "note": "Short for может быть. Core Russian part meaning 'maybe, perhaps' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Может, завтра.",
-          "trans": "Maybe tomorrow."
-        },
-        {
-          "text": "Я думал, может, не примешь.",
-          "trans": "I thought maybe you wouldn't see me."
-        }
-      ],
-      "related": [
-        {
-          "word": "может быть",
-          "gloss": "maybe (full form)"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
-        }
-      ]
     },
     "мой": {
       "lemma": "мой",
@@ -2836,7 +2826,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2891,6 +2881,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2923,7 +2930,7 @@
       "meanings": [
         {
           "en": "meat",
-          "note": "Culinary. Common neuter noun meaning 'meat' in everyday Russian."
+          "note": "Culinary."
         }
       ],
       "forms": {
@@ -2938,42 +2945,42 @@
             "cells": [
               "nominative",
               "мясо",
-              "мяса"
+              "—"
             ]
           },
           {
             "cells": [
               "genitive",
               "мяса",
-              "мяс"
+              "—"
             ]
           },
           {
             "cells": [
               "dative",
               "мясу",
-              "мясам"
+              "—"
             ]
           },
           {
             "cells": [
               "accusative",
               "мясо",
-              "мяса"
+              "—"
             ]
           },
           {
             "cells": [
               "instrumental",
               "мясом",
-              "мясами"
+              "—"
             ]
           },
           {
             "cells": [
               "prepositional",
               "мясе",
-              "мясах"
+              "—"
             ]
           }
         ]
@@ -3046,7 +3053,7 @@
       "meanings": [
         {
           "en": "incredibly, exceptionally",
-          "note": "Manner or predicative adverb in '-о' derived from the corresponding adjective stem, used in everyday speech to mean 'incredibly'."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3084,7 +3091,7 @@
       "meanings": [
         {
           "en": "indispensable",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'заменимый'). Agrees in gender, number, and case with the noun it modifies ('indispensable')."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'заменимый')."
         }
       ],
       "forms": {
@@ -3127,10 +3134,10 @@
           {
             "cells": [
               "accusative",
-              "незаменимый",
+              "незаменимый / незаменимого",
               "незаменимую",
               "незаменимое",
-              "незаменимые"
+              "незаменимые / незаменимых"
             ]
           },
           {
@@ -3160,18 +3167,18 @@
           "trans": "Listen, this is an indispensable thing."
         },
         {
-          "text": "Шеф говорит, что это очень незаменимый выбор.",
-          "trans": "The chef says that this is a very indispensable choice."
+          "text": "Незаменимых людей нет.",
+          "trans": "Nobody is irreplaceable."
         }
       ],
       "related": [
         {
-          "word": "незаменимо",
-          "gloss": "indispensablely (adverbial form)"
+          "word": "заменить",
+          "gloss": "to replace"
         },
         {
-          "word": "очень незаменимый",
-          "gloss": "very indispensable"
+          "word": "замена",
+          "gloss": "replacement"
         }
       ]
     },
@@ -3184,11 +3191,11 @@
       "meanings": [
         {
           "en": "leg",
-          "note": "Russian uses one word for both. Common feminine noun meaning 'leg, foot' in everyday Russian."
+          "note": "Russian uses one word for both."
         },
         {
           "en": "foot",
-          "note": "Russian uses one word for both. Common feminine noun meaning 'leg, foot' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3268,67 +3275,23 @@
       "meanings": [
         {
           "en": "it",
-          "note": "For neuter nouns. Core Russian pron meaning 'it' in everyday speech."
+          "note": "For neuter nouns."
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "оно"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "его (него)"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "ему (нему)"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "его (него)"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "им (ним)"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "нём"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Вот оно!",
-          "trans": "There it is!"
+          "text": "Вот оно! Самсон, ты будешь новым мэром.",
+          "trans": "That's it! Samson, you'll be the new mayor."
         },
         {
-          "text": "Заявление? Он его написал.",
-          "trans": "The statement? He wrote it."
+          "text": "Ага! Вот оно в чём дело.",
+          "trans": "Aha! So that's what it's about."
         },
         {
-          "text": "А зачем? Я сам сделал так, чтобы он его написал.",
-          "trans": "And why would I? I'm the one who made him write it."
+          "text": "Спа захотела? Вот оно, твоё королевство!",
+          "trans": "Wanted a spa? There it is, your kingdom!"
         }
       ],
       "related": [
@@ -3342,44 +3305,6 @@
         }
       ]
     },
-    "очень": {
-      "lemma": "очень",
-      "stress": "о́чень",
-      "pos": "adv",
-      "gloss": "very, very much",
-      "meanings": [
-        {
-          "en": "very",
-          "note": "With verbs: очень люблю. Core Russian adv meaning 'very, very much' in everyday speech."
-        },
-        {
-          "en": "very much",
-          "note": "With verbs: очень люблю. Core Russian adv meaning 'very, very much' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я очень люблю наш город.",
-          "trans": "I love our town very much."
-        },
-        {
-          "text": "Это очень трудно.",
-          "trans": "It's very hard."
-        },
-        {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
-        }
-      ],
-      "related": [
-        {
-          "word": "совсем",
-          "gloss": "intensified / related adverb (very)"
-        }
-      ]
-    },
     "падать": {
       "lemma": "падать",
       "stress": "па́дать",
@@ -3390,7 +3315,7 @@
       "meanings": [
         {
           "en": "to fall, to drop",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to fall', paired with 'упасть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3481,11 +3406,11 @@
       "related": [
         {
           "word": "упасть",
-          "gloss": "to fall"
+          "gloss": "to fall (pf)"
         },
         {
-          "word": "нападающий",
-          "gloss": "forward"
+          "word": "падение",
+          "gloss": "fall"
         }
       ]
     },
@@ -3499,7 +3424,7 @@
       "meanings": [
         {
           "en": "to mix up, to confuse",
-          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'путать'). Used as a perfective (single completed action) verb meaning 'to mix up, to confuse', paired with 'путать'."
+          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'путать')."
         }
       ],
       "forms": {
@@ -3608,7 +3533,7 @@
       "meanings": [
         {
           "en": "to tie, to attach with a cord or rope",
-          "note": "+ accusative + к + dative. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'вязать'). Used as a perfective (single completed action) verb meaning 'to tie (to), to fasten', paired with 'привязывать'."
+          "note": "+ accusative + к + dative. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'вязать')."
         }
       ],
       "forms": {
@@ -3752,11 +3677,11 @@
       "meanings": [
         {
           "en": "right, just, directly",
-          "note": "Прямо так = just like that. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Прямо так = just like that."
         },
         {
           "en": "straight ahead",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3906,7 +3831,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -4019,7 +3944,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -4027,7 +3952,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -4130,44 +4055,6 @@
         }
       ]
     },
-    "смешно": {
-      "lemma": "смешно",
-      "stress": "смешно́",
-      "pos": "adv",
-      "gloss": "funny; it's funny",
-      "meanings": [
-        {
-          "en": "funny, it's funny",
-          "note": "Тебе смешно = you find it funny. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        },
-        {
-          "en": "ridiculous",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Тебе смешно?",
-          "trans": "Do you find it funny?"
-        },
-        {
-          "text": "Это очень смешно.",
-          "trans": "That's very funny."
-        },
-        {
-          "text": "Как глупо и смешно.",
-          "trans": "How stupid and ridiculous."
-        }
-      ],
-      "related": [
-        {
-          "word": "смешной",
-          "gloss": "funny"
-        }
-      ]
-    },
     "снять": {
       "lemma": "снять",
       "stress": "снять",
@@ -4178,15 +4065,15 @@
       "meanings": [
         {
           "en": "to film, to take a photo/video of",
-          "note": "Снять на телефон. Used as a perfective (single completed action) verb meaning 'to film, to photograph; to take off; to rent', paired with 'снимать'."
+          "note": "Снять на телефон."
         },
         {
           "en": "to take off, to remove",
-          "note": "Clothing. Used as a perfective (single completed action) verb meaning 'to film, to photograph; to take off; to rent', paired with 'снимать'."
+          "note": "Clothing."
         },
         {
           "en": "to rent",
-          "note": "A flat or room. Used as a perfective (single completed action) verb meaning 'to film, to photograph; to take off; to rent', paired with 'снимать'."
+          "note": "A flat or room."
         }
       ],
       "forms": {
@@ -4277,15 +4164,15 @@
       "related": [
         {
           "word": "снимать",
-          "gloss": "to take off"
+          "gloss": "to take off; to film (impf)"
         },
         {
-          "word": "понять",
-          "gloss": "to understand"
+          "word": "снимок",
+          "gloss": "photo, shot"
         },
         {
-          "word": "принять",
-          "gloss": "to receive"
+          "word": "съёмка",
+          "gloss": "filming"
         }
       ]
     },
@@ -4297,7 +4184,7 @@
       "meanings": [
         {
           "en": "continuous, solid, total, nothing but",
-          "note": "Qualitative or relational adjective formed with the productive '-н-' suffix, meaning 'continuous' and agreeing in gender, number, and case."
+          "note": ""
         }
       ],
       "forms": {
@@ -4340,10 +4227,10 @@
           {
             "cells": [
               "accusative",
-              "сплошной/сплошного",
+              "сплошной / сплошного",
               "сплошную",
               "сплошное",
-              "сплошные/сплошных"
+              "сплошные / сплошных"
             ]
           },
           {
@@ -4391,7 +4278,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4561,7 +4448,7 @@
       "meanings": [
         {
           "en": "please, do (softening or emphatic particle)",
-          "note": "Вы уж нас извините = do forgive us. Core Russian part meaning 'really, please (softening particle)' in everyday speech."
+          "note": "Вы уж нас извините = do forgive us."
         }
       ],
       "forms": null,
@@ -4595,12 +4482,12 @@
       "lemma": "устройство",
       "stress": "устро́йство",
       "pos": "noun",
-      "gloss": "device",
+      "gloss": "device; structure",
       "gender": "n",
       "meanings": [
         {
           "en": "device",
-          "note": "Common neuter noun meaning 'device' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4659,21 +4546,21 @@
       "examples": [
         {
           "text": "Ты ещё моё устройство не видел.",
-          "trans": "You have not seen my device yet."
+          "trans": "You haven't seen my device yet."
         },
         {
           "text": "Это устройство для масла.",
-          "trans": "This is a device for oil."
+          "trans": "This is a gadget for butter."
         }
       ],
       "related": [
         {
-          "word": "без устройств",
-          "gloss": "without device"
+          "word": "устроить",
+          "gloss": "to arrange"
         },
         {
-          "word": "наш устройство",
-          "gloss": "our device"
+          "word": "прибор",
+          "gloss": "device, instrument"
         }
       ]
     },
@@ -4685,7 +4572,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4879,12 +4766,11 @@
       "stress": "штаны́",
       "pos": "noun",
       "gloss": "pants, trousers",
-      "gender": "m",
       "number": "pl",
       "meanings": [
         {
           "en": "pants, trousers",
-          "note": "Pluralia tantum. Common masculine noun meaning 'pants, trousers' in everyday Russian."
+          "note": "Pluralia tantum."
         }
       ],
       "forms": {
@@ -4898,43 +4784,43 @@
           {
             "cells": [
               "nominative",
-              "штаны",
-              "штаныы"
+              "—",
+              "штаны"
             ]
           },
           {
             "cells": [
               "genitive",
-              "штаныа",
-              "штаныов"
+              "—",
+              "штанов"
             ]
           },
           {
             "cells": [
               "dative",
-              "штаныу",
-              "штаныам"
+              "—",
+              "штанам"
             ]
           },
           {
             "cells": [
               "accusative",
-              "штаны",
-              "штаныы"
+              "—",
+              "штаны"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "штаныом",
-              "штаныами"
+              "—",
+              "штанами"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "штаные",
-              "штаныах"
+              "—",
+              "штанах"
             ]
           }
         ]

@@ -50,7 +50,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "мама.",
@@ -95,7 +95,7 @@
           "lemma": "парень",
           "pos": "noun",
           "stress": "па́рень",
-          "gloss": "boyfriend",
+          "gloss": "guy; boyfriend",
           "gram": "nominative singular, masculine"
         },
         {
@@ -447,8 +447,8 @@
           "lemma": "под",
           "pos": "prep",
           "stress": null,
-          "gloss": "to",
-          "gram": "preposition + accusative"
+          "gloss": "under",
+          "gram": "preposition + instrumental / accusative"
         },
         {
           "t": "моей",
@@ -456,7 +456,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "крышей.",
@@ -592,7 +592,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "мама.",
@@ -637,7 +637,7 @@
           "lemma": "парень",
           "pos": "noun",
           "stress": "па́рень",
-          "gloss": "boyfriend",
+          "gloss": "guy; boyfriend",
           "gram": "nominative singular, masculine"
         },
         {
@@ -989,8 +989,8 @@
           "lemma": "под",
           "pos": "prep",
           "stress": null,
-          "gloss": "to",
-          "gram": "preposition + accusative"
+          "gloss": "under",
+          "gram": "preposition + instrumental / accusative"
         },
         {
           "t": "моей",
@@ -998,7 +998,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "крышей.",
@@ -1134,7 +1134,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "мама.",
@@ -1179,7 +1179,7 @@
           "lemma": "парень",
           "pos": "noun",
           "stress": "па́рень",
-          "gloss": "boyfriend",
+          "gloss": "guy; boyfriend",
           "gram": "nominative singular, masculine"
         },
         {
@@ -1531,8 +1531,8 @@
           "lemma": "под",
           "pos": "prep",
           "stress": null,
-          "gloss": "to",
-          "gram": "preposition + accusative"
+          "gloss": "under",
+          "gram": "preposition + instrumental / accusative"
         },
         {
           "t": "моей",
@@ -1540,7 +1540,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "oblique singular, feminine (genitive / dative / instrumental / prepositional)"
         },
         {
           "t": "крышей.",
@@ -1698,29 +1698,37 @@
       "lemma": "близко",
       "stress": "бли́зко",
       "pos": "adv",
-      "gloss": "closely, near",
+      "gloss": "close, near, nearby",
       "meanings": [
         {
-          "en": "closely, near",
-          "note": "In close contact or proximity. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "en": "close, near, nearby",
+          "note": "до ресторана близко = the restaurant is close"
+        },
+        {
+          "en": "closely (of relations)",
+          "note": ""
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Я близко общаюсь с их информатором.",
-          "trans": "I am in close contact with their informant."
+          "text": "Метро за углом, до ресторана близко.",
+          "trans": "The metro is around the corner, the restaurant is close."
         },
         {
-          "text": "Костя, подойди поближе к ним.",
-          "trans": "Kostya, get closer to them."
+          "text": "Я близко общаюсь с их информатором.",
+          "trans": "I'm in close contact with their informant."
         }
       ],
       "related": [
         {
           "word": "близкий",
-          "gloss": "close"
+          "gloss": "close, near"
+        },
+        {
+          "word": "поближе",
+          "gloss": "a bit closer"
         }
       ]
     },
@@ -1734,7 +1742,7 @@
       "meanings": [
         {
           "en": "to be afraid of",
-          "note": "+ genitive: 'бояться собак'. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to be afraid (of), to fear'."
+          "note": "+ genitive: 'бояться собак'."
         }
       ],
       "forms": {
@@ -1986,7 +1994,7 @@
       "meanings": [
         {
           "en": "to see each other, to meet",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to see each other', paired with 'увидеться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2041,6 +2049,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видься",
+                "видьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2072,87 +2097,6 @@
         }
       ]
     },
-    "воздух": {
-      "lemma": "воздух",
-      "stress": "во́здух",
-      "pos": "noun",
-      "gloss": "air; outdoors",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "air",
-          "note": "the invisible gas substance of atmosphere"
-        },
-        {
-          "en": "open air",
-          "note": "Outdoor environment. Common masculine noun meaning 'air; outdoors' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "воздух",
-              "воздухи"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "воздуха",
-              "воздухов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "воздуху",
-              "воздухам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "воздух",
-              "воздухи"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "воздухом",
-              "воздухами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "воздухе",
-              "воздухах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Успокойся, пойдём на свежий воздух сейчас.",
-          "trans": "Calm down, let us go outside into fresh air now."
-        },
-        {
-          "text": "Я просто стою и дышу воздухом.",
-          "trans": "I am just standing and breathing air."
-        }
-      ],
-      "related": []
-    },
     "встреча": {
       "lemma": "встреча",
       "stress": "встре́ча",
@@ -2162,11 +2106,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2333,115 +2277,6 @@
         }
       ]
     },
-    "выйти": {
-      "lemma": "выйти",
-      "stress": "вы́йти",
-      "pos": "verb",
-      "gloss": "to go out, to get out",
-      "aspect": "pf",
-      "pair": "выходить",
-      "meanings": [
-        {
-          "en": "to go out, to leave",
-          "note": "Used as a perfective (single completed action) verb meaning 'to go out, to get out', paired with 'выходить'."
-        },
-        {
-          "en": "to get out (be released)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to go out, to get out', paired with 'выходить'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "выйду",
-              "выйдем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "выйдешь",
-              "выйдете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "выйдет",
-              "выйдут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "вышел",
-                "вышла",
-                "вышло",
-                "вышли"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "выйди",
-                "выйдите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Я выйду отсюда через две недели.",
-          "trans": "I'll be out of here in two weeks."
-        },
-        {
-          "text": "Он вышел из дома.",
-          "trans": "He left the house."
-        },
-        {
-          "text": "Я выйду отсюда через две недели. Я решу все ваши проблемы.",
-          "trans": "I'll be out of here in two weeks. I'll solve all your problems."
-        }
-      ],
-      "related": [
-        {
-          "word": "выходить",
-          "gloss": "to go out"
-        }
-      ]
-    },
     "да": {
       "lemma": "да",
       "stress": "да",
@@ -2454,7 +2289,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2488,11 +2323,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2537,7 +2372,7 @@
         },
         {
           "en": "to study, to train",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to be busy with, to do', paired with 'заняться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2592,6 +2427,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "занимайся",
+                "занимайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2611,15 +2463,15 @@
       "related": [
         {
           "word": "заняться",
-          "gloss": "to attend to"
+          "gloss": "to take up, to attend to (pf)"
         },
         {
-          "word": "принимать",
-          "gloss": "to receive"
+          "word": "занятие",
+          "gloss": "class; activity"
         },
         {
-          "word": "понимать",
-          "gloss": "to understand"
+          "word": "занятый",
+          "gloss": "busy"
         }
       ]
     },
@@ -2662,12 +2514,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2722,6 +2572,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2741,17 +2608,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "значит": {
       "lemma": "значит",
@@ -2956,11 +2824,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -3040,12 +2908,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -3110,7 +2978,7 @@
       "meanings": [
         {
           "en": "roof",
-          "note": "Common feminine noun meaning 'roof' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3182,13 +3050,17 @@
       "lemma": "кусаться",
       "stress": "куса́ться",
       "pos": "verb",
-      "gloss": "bites",
+      "gloss": "to bite (be a biter)",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "bites",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'bites'."
+          "en": "to bite, to be prone to biting",
+          "note": "собака кусается = the dog bites"
+        },
+        {
+          "en": "to bicker, go at each other",
+          "note": "colloquial"
         }
       ],
       "forms": {
@@ -3243,22 +3115,39 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "кусайся",
+                "кусайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и кусаться вовремя.",
-          "trans": "We need to do everything and bites on time."
+          "text": "Не бойся, мама не кусается.",
+          "trans": "Don't be afraid, Mum doesn't bite."
         },
         {
-          "text": "На нашей кухне все умеют кусаться.",
-          "trans": "In our kitchen everyone knows how to bites."
+          "text": "У тебя в номере лошади кусаются!",
+          "trans": "The horses in your room bite!"
         }
       ],
       "related": [
         {
-          "word": "не кусаться",
-          "gloss": "not to bites (negated infinitive)"
+          "word": "кусать",
+          "gloss": "to bite"
         }
       ]
     },
@@ -3660,7 +3549,7 @@
       "meanings": [
         {
           "en": "to familiarize oneself with, review (documents)",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an verbal verb meaning 'to familiarize oneself, examine, review'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3698,6 +3587,7 @@
         {
           "title": "Past",
           "columns": [
+            "",
             "m",
             "f",
             "n",
@@ -3706,10 +3596,28 @@
           "rows": [
             {
               "cells": [
+                "past",
                 "ознакомился",
                 "ознакомилась",
                 "ознакомилось",
                 "ознакомились"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "ознакомься",
+                "ознакомьтесь"
               ]
             }
           ]
@@ -3727,8 +3635,12 @@
       ],
       "related": [
         {
-          "word": "обозначиться",
-          "gloss": "to make a move"
+          "word": "знакомиться",
+          "gloss": "to get acquainted"
+        },
+        {
+          "word": "ознакомление",
+          "gloss": "familiarization"
         }
       ]
     },
@@ -3779,11 +3691,11 @@
       "meanings": [
         {
           "en": "guy, young man",
-          "note": "Informal. Common masculine noun meaning 'guy, lad; boyfriend' in everyday Russian."
+          "note": "Informal."
         },
         {
           "en": "boyfriend",
-          "note": "Мой парень = my boyfriend. Common masculine noun meaning 'guy, lad; boyfriend' in everyday Russian."
+          "note": "Мой парень = my boyfriend."
         }
       ],
       "forms": {
@@ -3855,40 +3767,6 @@
       ],
       "related": []
     },
-    "поближе": {
-      "lemma": "поближе",
-      "stress": "побли́же",
-      "pos": "adv",
-      "gloss": "closer",
-      "meanings": [
-        {
-          "en": "closer",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Подойди поближе.",
-          "trans": "Come closer."
-        },
-        {
-          "text": "Подойди, пожалуйста, поближе к раздаче и посмотри на соус.",
-          "trans": "Please come closer to the pass and look at the sauce."
-        },
-        {
-          "text": "Гости попросили пересадить их за столик поближе к окну.",
-          "trans": "The guests asked to move them to a table closer to the window."
-        }
-      ],
-      "related": [
-        {
-          "word": "ближний",
-          "gloss": "near"
-        }
-      ]
-    },
     "повар": {
       "lemma": "повар",
       "stress": "по́вар",
@@ -3898,7 +3776,7 @@
       "meanings": [
         {
           "en": "cook, chef",
-          "note": "Irregular plural повара. Common masculine noun meaning 'cook, chef' in everyday Russian."
+          "note": "Irregular plural повара."
         }
       ],
       "forms": {
@@ -3979,15 +3857,15 @@
       "meanings": [
         {
           "en": "under, below",
-          "note": "+ instrumental (where). Core Russian prep meaning 'under' in everyday speech."
+          "note": "+ instrumental (where)."
         },
         {
           "en": "under (towards)",
-          "note": "+ accusative (where to). Core Russian prep meaning 'under' in everyday speech."
+          "note": "+ accusative (where to)."
         },
         {
           "en": "on (someone's responsibility)",
-          "note": "Под мою ответственность. Core Russian prep meaning 'under' in everyday speech."
+          "note": "Под мою ответственность."
         }
       ],
       "forms": null,
@@ -4025,7 +3903,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -4090,135 +3968,6 @@
         {
           "word": "приятный",
           "gloss": "pleasant (adjective)"
-        }
-      ]
-    },
-    "приятный": {
-      "lemma": "приятный",
-      "stress": "прия́тный",
-      "pos": "adj",
-      "gloss": "pleasant, nice",
-      "meanings": [
-        {
-          "en": "pleasant, nice",
-          "note": "= Enjoy your meal!. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
-        },
-        {
-          "en": "Приятного аппетита!",
-          "note": "= Enjoy your meal!. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "приятный",
-              "приятная",
-              "приятное",
-              "приятные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "приятного",
-              "приятной",
-              "приятного",
-              "приятных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "приятному",
-              "приятной",
-              "приятному",
-              "приятным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "приятный / приятного",
-              "приятную",
-              "приятное",
-              "приятные / приятных"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "приятным",
-              "приятной",
-              "приятным",
-              "приятными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "приятном",
-              "приятной",
-              "приятном",
-              "приятных"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "приятен",
-                "приятна",
-                "приятно",
-                "приятны"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Приятного аппетита!",
-          "trans": "Enjoy your meal!"
-        },
-        {
-          "text": "Он очень приятный человек.",
-          "trans": "He's a very nice person."
-        },
-        {
-          "text": "Хорошо! Приятного вечера.",
-          "trans": "Very well! Have a pleasant evening."
-        }
-      ],
-      "related": [
-        {
-          "word": "приятно",
-          "gloss": "in a pleasant way (adv.)"
-        },
-        {
-          "word": "приятность",
-          "gloss": "quality of being pleasant"
         }
       ]
     },
@@ -4336,40 +4085,6 @@
         }
       ]
     },
-    "срочно": {
-      "lemma": "срочно",
-      "stress": "сро́чно",
-      "pos": "adv",
-      "gloss": "urgently, it is urgent",
-      "meanings": [
-        {
-          "en": "urgently, right away; predicative: it is urgent",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Павел Юрьевич, это срочно!",
-          "trans": "Pavel Yuryevich, this is urgent!"
-        },
-        {
-          "text": "Мне нужно срочно позвонить.",
-          "trans": "I need to make a phone call urgently."
-        },
-        {
-          "text": "Павел Юрьевич, это срочно! Я должна вам сказать.",
-          "trans": "Pavel Yuryevich, this is urgent! I must tell you."
-        }
-      ],
-      "related": [
-        {
-          "word": "срочный",
-          "gloss": "urgent"
-        }
-      ]
-    },
     "теперь": {
       "lemma": "теперь",
       "stress": "тепе́рь",
@@ -4378,7 +4093,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -4530,7 +4245,7 @@
       "meanings": [
         {
           "en": "often, frequently",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,

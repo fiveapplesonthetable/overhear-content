@@ -128,7 +128,7 @@
           "pos": "adj",
           "stress": "пе́рвая",
           "gloss": "the first one",
-          "gram": "nominative singular, feminine (matching вакансия)"
+          "gram": "nominative singular, feminine"
         },
         {
           "t": "подсказка",
@@ -548,7 +548,7 @@
           "pos": "noun",
           "stress": "по́вара",
           "gloss": "cook",
-          "gram": "masculine singular, accusative"
+          "gram": "masculine singular, genitive"
         }
       ]
     },
@@ -824,7 +824,7 @@
           "pos": "adj",
           "stress": "пе́рвая",
           "gloss": "the first one",
-          "gram": "nominative singular, feminine (matching вакансия)"
+          "gram": "nominative singular, feminine"
         },
         {
           "t": "подсказка",
@@ -1244,7 +1244,7 @@
           "pos": "noun",
           "stress": "по́вара",
           "gloss": "cook",
-          "gram": "masculine singular, accusative"
+          "gram": "masculine singular, genitive"
         }
       ]
     },
@@ -1520,7 +1520,7 @@
           "pos": "adj",
           "stress": "пе́рвая",
           "gloss": "the first one",
-          "gram": "nominative singular, feminine (matching вакансия)"
+          "gram": "nominative singular, feminine"
         },
         {
           "t": "подсказка",
@@ -1940,7 +1940,7 @@
           "pos": "noun",
           "stress": "по́вара",
           "gloss": "cook",
-          "gram": "masculine singular, accusative"
+          "gram": "masculine singular, genitive"
         }
       ]
     },
@@ -2164,7 +2164,7 @@
       "meanings": [
         {
           "en": "absolutely, completely, totally",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2198,11 +2198,11 @@
       "meanings": [
         {
           "en": "more",
-          "note": "Comparative of много. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of много."
         },
         {
           "en": "bigger",
-          "note": "Comparative of большой. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of большой."
         }
       ],
       "forms": null,
@@ -2238,7 +2238,7 @@
       "meanings": [
         {
           "en": "to boil, to cook, to brew",
-          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'to boil', forming an aspectual pair with 'сварить'; conjugates for person and number in the present/future and agrees in gender in the past tense."
+          "note": ""
         }
       ],
       "forms": {
@@ -2450,15 +2450,15 @@
     },
     "взбодрить": {
       "lemma": "взбодрить",
-      "stress": "взбо́дрить",
+      "stress": "взбодри́ть",
       "pos": "verb",
-      "gloss": "will perk up",
+      "gloss": "to perk up, to invigorate",
       "aspect": "pf",
-      "pair": null,
+      "pair": "взбадривать",
       "meanings": [
         {
-          "en": "will perk up",
-          "note": "Prefix 'вз-' ('up') marks upward or sudden onset of action (stem 'бодрить'). Used as a perfective (single completed action) verb meaning 'will perk up'."
+          "en": "to perk (someone) up, to invigorate",
+          "note": ""
         }
       ],
       "forms": {
@@ -2513,6 +2513,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "взбодри",
+                "взбодрите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2521,14 +2538,18 @@
           "trans": "The first clue will perk you up early in the morning."
         },
         {
-          "text": "А что случилось, решила утром взбодриться?",
-          "trans": "What happened, did you decide to perk up this morning?"
+          "text": "Крепкий кофе меня взбодрил.",
+          "trans": "The strong coffee perked me up."
         }
       ],
       "related": [
         {
-          "word": "не взбодрить",
-          "gloss": "not to will perk up (negated infinitive)"
+          "word": "взбодриться",
+          "gloss": "to perk up, to cheer up"
+        },
+        {
+          "word": "бодрый",
+          "gloss": "cheerful, energetic"
         }
       ]
     },
@@ -2542,11 +2563,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2601,6 +2622,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2642,7 +2680,7 @@
       "meanings": [
         {
           "en": "to worry, to be nervous",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2734,84 +2772,6 @@
         {
           "word": "волновать",
           "gloss": "to worry"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2937,7 +2897,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -3022,11 +2981,11 @@
       "meanings": [
         {
           "en": "children's",
-          "note": "For or belonging to children. Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('children's, childish')."
+          "note": "For or belonging to children. Agrees in gender, number, and case with the noun it modifies ('children's, childish')."
         },
         {
           "en": "childish, babyish",
-          "note": "Детский лепет = baby talk. Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('children's, childish')."
+          "note": "Детский лепет = baby talk. Agrees in gender, number, and case with the noun it modifies ('children's, childish')."
         }
       ],
       "forms": {
@@ -3069,10 +3028,10 @@
           {
             "cells": [
               "accusative",
-              "детский",
+              "детский / детского",
               "детскую",
               "детское",
-              "детские"
+              "детские / детских"
             ]
           },
           {
@@ -3125,11 +3084,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3252,11 +3211,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3319,13 +3278,13 @@
       "lemma": "зарабатывать",
       "stress": "зараба́тывать",
       "pos": "verb",
-      "gloss": "to earn money",
+      "gloss": "to earn (money)",
       "aspect": "impf",
-      "pair": null,
+      "pair": "заработать",
       "meanings": [
         {
           "en": "to earn money",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to earn money'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3380,19 +3339,53 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "зарабатывай",
+                "зарабатывайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Шеф, а какая разница, кто будет зарабатывать?",
-          "trans": "Chef, what difference does it make who earns money?"
+          "trans": "Chef, what difference does it make who earns the money?"
         },
         {
-          "text": "Надо всё сделать и зарабатывать вовремя.",
-          "trans": "We need to do everything and to earn money on time."
+          "text": "А Гуля тоже хорошо зарабатывает.",
+          "trans": "And Gulya earns well too."
+        },
+        {
+          "text": "Он начнёт зарабатывать и съедет.",
+          "trans": "He'll start earning and move out."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "заработать",
+          "gloss": "to earn (pf)"
+        },
+        {
+          "word": "зарплата",
+          "gloss": "salary"
+        },
+        {
+          "word": "заработок",
+          "gloss": "earnings"
+        }
+      ]
     },
     "зарплата": {
       "lemma": "зарплата",
@@ -3598,7 +3591,7 @@
       "meanings": [
         {
           "en": "armchair, easy chair",
-          "note": "Comfortable seat. Common neuter noun meaning 'armchair, chair' in everyday Russian."
+          "note": "Comfortable seat."
         }
       ],
       "forms": {
@@ -3670,8 +3663,16 @@
       ],
       "related": [
         {
-          "word": "крестоносец",
-          "gloss": "Crusader"
+          "word": "стул",
+          "gloss": "chair"
+        },
+        {
+          "word": "диван",
+          "gloss": "sofa"
+        },
+        {
+          "word": "детское кресло",
+          "gloss": "child car seat"
         }
       ]
     },
@@ -3685,7 +3686,7 @@
       "meanings": [
         {
           "en": "to buy",
-          "note": "Used as a perfective (single completed action) verb meaning 'to buy', paired with 'покупать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3788,7 +3789,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -3810,53 +3811,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
-        }
-      ]
-    },
-    "много": {
-      "lemma": "много",
-      "stress": "мно́го",
-      "pos": "adv",
-      "gloss": "a lot, much, many",
-      "meanings": [
-        {
-          "en": "a lot, much, many",
-          "note": "+ genitive plural: много дел. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "gloss": "well-made, shapely"
         },
         {
-          "en": "больше = more",
-          "note": "Comparative. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Мы сделали много.",
-          "trans": "We've done a lot."
-        },
-        {
-          "text": "Слишком много дел.",
-          "trans": "Too much to do."
-        },
-        {
-          "text": "Мы сделали много, но надо сделать ещё больше.",
-          "trans": "We've done a lot, but we need to do even more."
-        }
-      ],
-      "related": [
-        {
-          "word": "немного",
-          "gloss": "a little"
-        },
-        {
-          "word": "многовато",
-          "gloss": "a bit too much"
-        },
-        {
-          "word": "намного",
-          "gloss": "much"
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -4015,7 +3974,7 @@
       "meanings": [
         {
           "en": "to find",
-          "note": "Used as a perfective (single completed action) verb meaning 'to find', paired with 'находить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4306,29 +4265,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Мне ещё работа нужна.",
@@ -4362,7 +4299,7 @@
       "meanings": [
         {
           "en": "first",
-          "note": "С первого раза = the first time. Agrees in gender, number, and case with the noun it modifies ('first')."
+          "note": "С первого раза = the first time."
         }
       ],
       "forms": {
@@ -4457,7 +4394,7 @@
       "meanings": [
         {
           "en": "cook, chef",
-          "note": "Irregular plural повара. Common masculine noun meaning 'cook, chef' in everyday Russian."
+          "note": "Irregular plural повара."
         }
       ],
       "forms": {
@@ -4533,12 +4470,12 @@
       "lemma": "подгузник",
       "stress": "подгу́зник",
       "pos": "noun",
-      "gloss": "diapers",
+      "gloss": "nappy, diaper",
       "gender": "m",
       "meanings": [
         {
-          "en": "diapers",
-          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'diapers' in everyday Russian."
+          "en": "nappy, diaper",
+          "note": ""
         }
       ],
       "forms": {
@@ -4597,21 +4534,21 @@
       "examples": [
         {
           "text": "Так, нужны подгузники, присыпка и детское кресло.",
-          "trans": "Okay, we need diapers, baby powder, and a car seat."
+          "trans": "Right, we need nappies, baby powder and a car seat."
         },
         {
-          "text": "На кухне отеля всегда есть подгузник.",
-          "trans": "In the hotel kitchen there is always diapers."
+          "text": "Пора поменять малышу подгузник.",
+          "trans": "It's time to change the baby's nappy."
         }
       ],
       "related": [
         {
-          "word": "без подгузни",
-          "gloss": "without diapers"
+          "word": "пелёнка",
+          "gloss": "swaddling cloth"
         },
         {
-          "word": "наш подгузник",
-          "gloss": "our diapers"
+          "word": "присыпка",
+          "gloss": "baby powder"
         }
       ]
     },
@@ -4619,12 +4556,12 @@
       "lemma": "подсказка",
       "stress": "подска́зка",
       "pos": "noun",
-      "gloss": "clues",
+      "gloss": "hint, clue",
       "gender": "f",
       "meanings": [
         {
-          "en": "clues",
-          "note": "Common feminine noun meaning 'clues' in everyday Russian."
+          "en": "hint, clue, prompt",
+          "note": ""
         }
       ],
       "forms": {
@@ -4646,7 +4583,7 @@
             "cells": [
               "genitive",
               "подсказки",
-              "подсказк"
+              "подсказок"
             ]
           },
           {
@@ -4690,11 +4627,20 @@
           "trans": "The first clue will perk you up early in the morning."
         },
         {
-          "text": "Тут написано, следующую подсказку кормит Сеня.",
-          "trans": "It says here that Senya feeds the next clue."
+          "text": "Наша судьба всегда оставляет нам подсказки.",
+          "trans": "Fate always leaves us clues."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "подсказать",
+          "gloss": "to prompt, give a hint"
+        },
+        {
+          "word": "намёк",
+          "gloss": "hint"
+        }
+      ]
     },
     "подумать": {
       "lemma": "подумать",
@@ -4706,7 +4652,7 @@
       "meanings": [
         {
           "en": "to think it over, to give it a thought",
-          "note": "Once, for a while. Used as a perfective (single completed action) verb meaning 'to think (it over)', paired with 'думать'."
+          "note": "Once, for a while."
         }
       ],
       "forms": {
@@ -4811,7 +4757,7 @@
       "meanings": [
         {
           "en": "to buy",
-          "note": "Habitually or in progress. Used as an imperfective (ongoing/repeated action) verb meaning 'to buy', paired with 'купить'."
+          "note": "Habitually or in progress."
         }
       ],
       "forms": {
@@ -4920,7 +4866,7 @@
       "meanings": [
         {
           "en": "to get, to receive",
-          "note": "Used as a perfective (single completed action) verb meaning 'to get, to receive', paired with 'получать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5028,7 +4974,7 @@
       "meanings": [
         {
           "en": "pay raise",
-          "note": "Common feminine noun meaning 'pay raise' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5050,7 +4996,7 @@
             "cells": [
               "genitive",
               "прибавки",
-              "прибавк"
+              "прибавок"
             ]
           },
           {
@@ -5090,18 +5036,18 @@
           "trans": "Then think about how to get a raise."
         },
         {
-          "text": "На кухне отеля всегда есть прибавка.",
-          "trans": "In the hotel kitchen there is always pay raise."
+          "text": "Шеф обещал всем прибавку к зарплате.",
+          "trans": "The chef promised everyone a pay raise."
         }
       ],
       "related": [
         {
-          "word": "без прибавк",
-          "gloss": "without pay raise"
+          "word": "зарплата",
+          "gloss": "salary"
         },
         {
-          "word": "наш прибавка",
-          "gloss": "our pay raise"
+          "word": "прибавить",
+          "gloss": "to add"
         }
       ]
     },
@@ -5114,7 +5060,7 @@
       "meanings": [
         {
           "en": "baby powder",
-          "note": "Common feminine noun meaning 'baby powder' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5136,7 +5082,7 @@
             "cells": [
               "genitive",
               "присыпки",
-              "присыпк"
+              "присыпок"
             ]
           },
           {
@@ -5173,21 +5119,21 @@
       "examples": [
         {
           "text": "Так, нужны подгузники, присыпка и детское кресло.",
-          "trans": "Okay, we need diapers, baby powder, and a car seat."
+          "trans": "OK, we need diapers, baby powder and a car seat."
         },
         {
-          "text": "На кухне отеля всегда есть присыпка.",
-          "trans": "In the hotel kitchen there is always baby powder."
+          "text": "Для торта нужна сладкая присыпка.",
+          "trans": "The cake needs a sweet topping."
         }
       ],
       "related": [
         {
-          "word": "без присыпк",
-          "gloss": "without baby powder"
+          "word": "подгузник",
+          "gloss": "diaper"
         },
         {
-          "word": "наш присыпка",
-          "gloss": "our baby powder"
+          "word": "посыпать",
+          "gloss": "to sprinkle"
         }
       ]
     },
@@ -5199,7 +5145,7 @@
       "meanings": [
         {
           "en": "early, prematurely",
-          "note": "Рано умер = died young / too early. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Рано умер = died young / too early."
         }
       ],
       "forms": null,
@@ -5229,7 +5175,7 @@
       "meanings": [
         {
           "en": "child",
-          "note": "Plural: дети. Common masculine noun meaning 'child' in everyday Russian."
+          "note": "Plural: дети."
         }
       ],
       "forms": {
@@ -5382,11 +5328,11 @@
       "meanings": [
         {
           "en": "how much, how many",
-          "note": "+ genitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive."
         },
         {
           "en": "what a lot of!",
-          "note": "In exclamations. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "In exclamations."
         }
       ],
       "forms": null,
@@ -5411,13 +5357,17 @@
       "lemma": "следовать",
       "stress": "сле́довать",
       "pos": "verb",
-      "gloss": "ought to, should have",
+      "gloss": "to follow; (следует) ought to",
       "aspect": "impf",
-      "pair": null,
+      "pair": "последовать",
       "meanings": [
         {
-          "en": "ought to, should have",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'ought to, should have'."
+          "en": "to follow (a person, advice, a recipe)",
+          "note": "следовать за + instr.; следовать + dative = follow (rules, advice)"
+        },
+        {
+          "en": "ought to, should",
+          "note": "impersonal: тебе следует + infinitive; как следует = properly"
         }
       ],
       "forms": {
@@ -5472,6 +5422,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "следуй",
+                "следуйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5486,12 +5453,16 @@
       ],
       "related": [
         {
-          "word": "следователь",
-          "gloss": "investigator"
+          "word": "последовать",
+          "gloss": "to follow (pf)"
         },
         {
-          "word": "следом",
-          "gloss": "right behind"
+          "word": "следующий",
+          "gloss": "next"
+        },
+        {
+          "word": "как следует",
+          "gloss": "properly"
         }
       ]
     },
@@ -5505,11 +5476,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -5604,54 +5575,20 @@
         }
       ]
     },
-    "смотря": {
-      "lemma": "смотря",
-      "stress": "смо́тря",
-      "pos": "adv",
-      "gloss": "depending on",
-      "meanings": [
-        {
-          "en": "depending on",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ну, это смотря что именно варить.",
-          "trans": "Well, that depends on what exactly you cook."
-        },
-        {
-          "text": "Ладно, посмотрим, что будет дальше.",
-          "trans": "Alright, let's see what happens next."
-        },
-        {
-          "text": "Посмотри, какую машину мне недавно подогнали.",
-          "trans": "Look what kind of car they gave me recently."
-        }
-      ],
-      "related": [
-        {
-          "word": "очень смотря",
-          "gloss": "very depending on"
-        },
-        {
-          "word": "так смотря",
-          "gloss": "so depending on"
-        }
-      ]
-    },
     "содержание": {
       "lemma": "содержание",
-      "stress": "содержани́е",
+      "stress": "содержа́ние",
       "pos": "noun",
-      "gloss": "upkeep",
+      "gloss": "upkeep, support; content",
       "gender": "n",
       "meanings": [
         {
-          "en": "upkeep",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'upkeep' in everyday Russian."
+          "en": "upkeep, maintenance, (financial) support",
+          "note": "содержание ребёнка = child support"
+        },
+        {
+          "en": "content, contents",
+          "note": ""
         }
       ],
       "forms": {
@@ -5710,35 +5647,39 @@
       "examples": [
         {
           "text": "Костя, сколько денег уходит на содержание ребёнка?",
-          "trans": "Kostya, how much money goes into supporting a child?"
+          "trans": "Kostya, how much money goes on supporting a child?"
         },
         {
-          "text": "На кухне отеля всегда есть содержание.",
-          "trans": "In the hotel kitchen there is always upkeep."
+          "text": "Мне нравится содержание этой книги.",
+          "trans": "I like the content of this book."
         }
       ],
       "related": [
         {
-          "word": "без содержани",
-          "gloss": "without upkeep"
+          "word": "содержать",
+          "gloss": "to support, to keep"
         },
         {
-          "word": "наш содержание",
-          "gloss": "our upkeep"
+          "word": "содержаться",
+          "gloss": "to be contained"
         }
       ]
     },
     "содержать": {
       "lemma": "содержать",
-      "stress": "соде́ржать",
+      "stress": "содержа́ть",
       "pos": "verb",
-      "gloss": "to support financially",
+      "gloss": "to support (financially); to contain",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "to support financially",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to support financially'."
+          "en": "to support financially, to keep",
+          "note": ""
+        },
+        {
+          "en": "to contain",
+          "note": ""
         }
       ],
       "forms": {
@@ -5752,22 +5693,22 @@
           {
             "cells": [
               "1st",
-              "содержаю",
-              "содержаем"
+              "содержу",
+              "содержим"
             ]
           },
           {
             "cells": [
               "2nd",
-              "содержаешь",
-              "содержаете"
+              "содержишь",
+              "содержите"
             ]
           },
           {
             "cells": [
               "3rd",
-              "содержает",
-              "содержают"
+              "содержит",
+              "содержат"
             ]
           }
         ]
@@ -5793,22 +5734,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "содержи",
+                "содержите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Костя, сколько денег уходит на содержание ребёнка?",
-          "trans": "Kostya, how much money goes into supporting a child?"
+          "text": "И как содержать дочку на зарплату повара?",
+          "trans": "And how am I supposed to support a daughter on a cook's salary?"
         },
         {
-          "text": "И как содержать дочку на зарплату повара?",
-          "trans": "And how do I support a daughter on a cook's salary?"
+          "text": "Этот сыр содержит много соли.",
+          "trans": "This cheese contains a lot of salt."
         }
       ],
       "related": [
         {
-          "word": "не содержать",
-          "gloss": "not to to support financially (negated infinitive)"
+          "word": "содержание",
+          "gloss": "upkeep; content"
+        },
+        {
+          "word": "содержаться",
+          "gloss": "to be contained"
         }
       ]
     },
@@ -5820,7 +5782,7 @@
       "meanings": [
         {
           "en": "urgently, right away; predicative: it is urgent",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6016,7 +5978,7 @@
       "meanings": [
         {
           "en": "morning",
-          "note": "Утром = in the morning. Common neuter noun meaning 'morning' in everyday Russian."
+          "note": "Утром = in the morning."
         }
       ],
       "forms": {
@@ -6098,7 +6060,7 @@
       "meanings": [
         {
           "en": "to leave, to go away (on foot)",
-          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to leave, to go away', paired with 'уйти'."
+          "note": "Уходи! = Go away!. Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить')."
         }
       ],
       "forms": {
@@ -6211,7 +6173,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -6266,6 +6228,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -6301,7 +6280,7 @@
       "meanings": [
         {
           "en": "honestly, frankly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6434,7 +6413,7 @@
       "meanings": [
         {
           "en": "little hat",
-          "note": "Common feminine noun meaning 'little hat' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6456,7 +6435,7 @@
             "cells": [
               "genitive",
               "шляпки",
-              "шляпк"
+              "шляпок"
             ]
           },
           {
@@ -6502,12 +6481,8 @@
       ],
       "related": [
         {
-          "word": "без шляпк",
-          "gloss": "without little hat"
-        },
-        {
-          "word": "наш шляпка",
-          "gloss": "our little hat"
+          "word": "шляпа",
+          "gloss": "hat"
         }
       ]
     },

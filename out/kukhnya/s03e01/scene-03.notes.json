@@ -28,7 +28,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "тысячи.",
@@ -50,7 +50,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "тысячи?",
@@ -250,7 +250,7 @@
           "pos": "noun",
           "stress": "отноше́ния",
           "gloss": "relations, relationship",
-          "gram": "neuter plural, accusative"
+          "gram": "neuter plural, nominative/accusative"
         }
       ]
     },
@@ -361,7 +361,7 @@
           "lemma": "пинаться",
           "pos": "verb",
           "stress": "пина́ется",
-          "gloss": "kicks",
+          "gloss": "is kicking",
           "gram": "present tense, 3rd person singular, imperfective"
         }
       ]
@@ -484,7 +484,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "тысячи.",
@@ -506,7 +506,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "тысячи?",
@@ -706,7 +706,7 @@
           "pos": "noun",
           "stress": "отноше́ния",
           "gloss": "relations, relationship",
-          "gram": "neuter plural, accusative"
+          "gram": "neuter plural, nominative/accusative"
         }
       ]
     },
@@ -817,7 +817,7 @@
           "lemma": "пинаться",
           "pos": "verb",
           "stress": "пина́ется",
-          "gloss": "kicks",
+          "gloss": "is kicking",
           "gram": "present tense, 3rd person singular, imperfective"
         }
       ]
@@ -940,7 +940,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "тысячи.",
@@ -962,7 +962,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "тысячи?",
@@ -1162,7 +1162,7 @@
           "pos": "noun",
           "stress": "отноше́ния",
           "gloss": "relations, relationship",
-          "gram": "neuter plural, accusative"
+          "gram": "neuter plural, nominative/accusative"
         }
       ]
     },
@@ -1273,7 +1273,7 @@
           "lemma": "пинаться",
           "pos": "verb",
           "stress": "пина́ется",
-          "gloss": "kicks",
+          "gloss": "is kicking",
           "gram": "present tense, 3rd person singular, imperfective"
         }
       ]
@@ -1450,7 +1450,7 @@
         },
         {
           "en": "to hire",
-          "note": "'взять на работу' = to give someone a job"
+          "note": ""
         }
       ],
       "forms": {
@@ -1591,49 +1591,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -1644,11 +1601,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -1739,15 +1700,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -1759,11 +1720,11 @@
       "meanings": [
         {
           "en": "business (adj.)",
-          "note": "About a person. Agrees in gender, number, and case with the noun it modifies ('business; businesslike')."
+          "note": "About a person."
         },
         {
           "en": "businesslike, practical",
-          "note": "About a person. Agrees in gender, number, and case with the noun it modifies ('business; businesslike')."
+          "note": ""
         }
       ],
       "forms": {
@@ -1995,7 +1956,7 @@
         },
         {
           "en": "it seems, I think",
-          "note": "Кажется as a parenthetical word. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to seem', paired with 'показаться'."
+          "note": "Кажется as a parenthetical word."
         }
       ],
       "forms": {
@@ -2050,6 +2011,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "кажись",
+                "кажитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2069,15 +2047,15 @@
       "related": [
         {
           "word": "показаться",
-          "gloss": "to seem"
+          "gloss": "to seem (pf)"
         },
         {
-          "word": "сказать",
-          "gloss": "to say"
+          "word": "кажется",
+          "gloss": "it seems, I think"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "оказаться",
+          "gloss": "to turn out"
         }
       ]
     },
@@ -2118,12 +2096,12 @@
       "lemma": "кафешка",
       "stress": "кафе́шка",
       "pos": "noun",
-      "gloss": "little cafe",
+      "gloss": "café (colloquial)",
       "gender": "f",
       "meanings": [
         {
-          "en": "little cafe",
-          "note": "Common feminine noun meaning 'little cafe' in everyday Russian."
+          "en": "café, little café (colloquial)",
+          "note": ""
         }
       ],
       "forms": {
@@ -2145,7 +2123,7 @@
             "cells": [
               "genitive",
               "кафешки",
-              "кафешк"
+              "кафешек"
             ]
           },
           {
@@ -2182,59 +2160,17 @@
       "examples": [
         {
           "text": "Мы с тобой в кафешку сходим?",
-          "trans": "Shall you and I go to a little cafe?"
+          "trans": "Shall we go to a café, you and me?"
         },
         {
-          "text": "На кухне ресторана всегда есть кафешка.",
-          "trans": "In the restaurant kitchen there is always little cafe."
+          "text": "За углом есть хорошая кафешка.",
+          "trans": "There's a nice little café around the corner."
         }
       ],
       "related": [
         {
-          "word": "без кафешк",
-          "gloss": "without little cafe"
-        },
-        {
-          "word": "наш кафешка",
-          "gloss": "our little cafe"
-        }
-      ]
-    },
-    "может": {
-      "lemma": "может",
-      "stress": "мо́жет",
-      "pos": "adv",
-      "gloss": "maybe, perhaps",
-      "meanings": [
-        {
-          "en": "maybe, perhaps",
-          "note": "Short for может быть. Core Russian part meaning 'maybe, perhaps' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Может, завтра.",
-          "trans": "Maybe tomorrow."
-        },
-        {
-          "text": "Я думал, может, не примешь.",
-          "trans": "I thought maybe you wouldn't see me."
-        }
-      ],
-      "related": [
-        {
-          "word": "может быть",
-          "gloss": "maybe (full form)"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
+          "word": "кафе",
+          "gloss": "café"
         }
       ]
     },
@@ -2248,7 +2184,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2300,6 +2236,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -2665,11 +2618,11 @@
       "meanings": [
         {
           "en": "relationship, relations (in plural отношения)",
-          "note": "Between people or groups. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'attitude, relation; (pl.) relationship' in everyday Russian."
+          "note": "Between people or groups."
         },
         {
           "en": "attitude, treatment",
-          "note": "Towards someone or something. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'attitude, relation; (pl.) relationship' in everyday Russian."
+          "note": "Towards someone or something."
         }
       ],
       "forms": {
@@ -2745,13 +2698,13 @@
       "lemma": "пинаться",
       "stress": "пина́ться",
       "pos": "verb",
-      "gloss": "kicks",
+      "gloss": "to kick (about)",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "kicks",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'kicks'."
+          "en": "to kick (about), lash out with one's feet",
+          "note": "of a baby in the womb, a horse"
         }
       ],
       "forms": {
@@ -2806,6 +2759,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "пинайся",
+                "пинайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2814,14 +2784,18 @@
           "trans": "How can he be kicking?"
         },
         {
-          "text": "Надо всё сделать и пинаться вовремя.",
-          "trans": "We need to do everything and kicks on time."
+          "text": "Кажется, пинается.",
+          "trans": "I think it's kicking."
         }
       ],
       "related": [
         {
-          "word": "не пинаться",
-          "gloss": "not to kicks (negated infinitive)"
+          "word": "пинать",
+          "gloss": "to kick"
+        },
+        {
+          "word": "пинок",
+          "gloss": "kick"
         }
       ]
     },
@@ -2833,11 +2807,11 @@
       "meanings": [
         {
           "en": "(it is) clear, understood",
-          "note": "Всё понятно = all clear. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Всё понятно = all clear."
         },
         {
           "en": "I see",
-          "note": "As a reply. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "As a reply."
         }
       ],
       "forms": null,
@@ -2871,7 +2845,7 @@
       "meanings": [
         {
           "en": "after",
-          "note": "Preposition + genitive, or adverb. Core Russian prep meaning 'after' in everyday speech."
+          "note": "Preposition + genitive, or adverb."
         }
       ],
       "forms": null,
@@ -2909,7 +2883,7 @@
       "meanings": [
         {
           "en": "five",
-          "note": "+ genitive plural: пять рублей. Core Russian num meaning 'five' in everyday speech."
+          "note": "+ genitive plural: пять рублей."
         }
       ],
       "forms": null,
@@ -2948,7 +2922,7 @@
       "meanings": [
         {
           "en": "height, size",
-          "note": "Common masculine noun meaning 'height, size' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2963,7 +2937,7 @@
             "cells": [
               "nominative",
               "рост",
-              "росты"
+              "роста"
             ]
           },
           {
@@ -2984,7 +2958,7 @@
             "cells": [
               "accusative",
               "рост",
-              "росты"
+              "роста"
             ]
           },
           {
@@ -3010,12 +2984,8 @@
           "trans": "He is only eight centimeters tall right now."
         },
         {
-          "text": "Витя, я тебя просил найти человека!",
-          "trans": "Vitya, I asked you to find a person!"
-        },
-        {
-          "text": "У меня к вам ещё один вопрос.",
-          "trans": "I have one more question for you."
+          "text": "Ещё и быстрый рост у тебя намечается.",
+          "trans": "And rapid growth is on the horizon for you too."
         }
       ],
       "related": []
@@ -3061,14 +3031,14 @@
     },
     "сантиметр": {
       "lemma": "сантиметр",
-      "stress": "санти́метр",
+      "stress": "сантиме́тр",
       "pos": "noun",
-      "gloss": "centimeters",
+      "gloss": "centimeter",
       "gender": "m",
       "meanings": [
         {
-          "en": "centimeters",
-          "note": "Common masculine noun meaning 'centimeters' in everyday Russian."
+          "en": "centimeter",
+          "note": ""
         }
       ],
       "forms": {
@@ -3127,21 +3097,21 @@
       "examples": [
         {
           "text": "У него сейчас рост восемь сантиметров.",
-          "trans": "He is only eight centimeters tall right now."
+          "trans": "Right now he's only eight centimeters tall."
         },
         {
-          "text": "На кухне ресторана всегда есть сантиметр.",
-          "trans": "In the restaurant kitchen there is always centimeters."
+          "text": "Коридор у вас должен быть на пять сантиметров шире.",
+          "trans": "Your corridor should be five centimeters wider."
         }
       ],
       "related": [
         {
-          "word": "без сантимет",
-          "gloss": "without centimeters"
+          "word": "метр",
+          "gloss": "meter"
         },
         {
-          "word": "наш сантиметр",
-          "gloss": "our centimeters"
+          "word": "миллиметр",
+          "gloss": "millimeter"
         }
       ]
     },
@@ -3274,12 +3244,10 @@
       "stress": "сходи́ть",
       "pos": "verb",
       "gloss": "to go (somewhere and come back)",
-      "aspect": "pf",
-      "pair": "ходить",
       "meanings": [
         {
           "en": "to go and come back, to pop over",
-          "note": "'Сходите!' = Go on, go and see. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ходить'). Used as a perfective (single completed action) verb meaning 'to go (somewhere and come back)', paired with 'ходить'."
+          "note": "perfective; сходите! = go on, go and see"
         }
       ],
       "forms": {
@@ -3380,7 +3348,8 @@
           "word": "заходить",
           "gloss": "to come in"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "так": {
       "lemma": "так",
@@ -3432,67 +3401,23 @@
       "meanings": [
         {
           "en": "that",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'that', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Здесь находится наш ресторан.",
-          "trans": "Our restaurant is located right here."
+          "text": "Ну, то, что ты говорил.",
+          "trans": "Well, what you were saying."
         },
         {
-          "text": "Мы теперь работаем в этом отеле.",
-          "trans": "We now work in this hotel."
+          "text": "Если проблема только в этом, то да.",
+          "trans": "If that's the only problem, then yes."
         },
         {
-          "text": "Чем отличается ресторан при отеле?",
-          "trans": "How does a hotel restaurant differ?"
+          "text": "А то мы уже начали беспокоиться.",
+          "trans": "Otherwise we were already starting to worry."
         }
       ],
       "related": []
@@ -3505,7 +3430,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -3694,7 +3619,15 @@
       "related": [
         {
           "word": "тысячный",
-          "gloss": "related to thousand (adj.)"
+          "gloss": "thousandth"
+        },
+        {
+          "word": "миллион",
+          "gloss": "million"
+        },
+        {
+          "word": "сто",
+          "gloss": "hundred"
         }
       ]
     },
@@ -3755,11 +3688,11 @@
       "meanings": [
         {
           "en": "to clean up, to tidy",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to clean up, to tidy', paired with 'убрать'."
+          "note": ""
         },
         {
           "en": "to put away",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to clean up, to tidy', paired with 'убрать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3814,6 +3747,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "убирай",
+                "убирайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3853,7 +3803,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4052,7 +4002,7 @@
       "meanings": [
         {
           "en": "fine, penalty",
-          "note": "Declinable masculine noun meaning 'fine', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {

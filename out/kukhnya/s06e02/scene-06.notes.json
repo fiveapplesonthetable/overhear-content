@@ -24,11 +24,11 @@
         },
         {
           "t": "голубя",
-          "lemma": "голубя",
+          "lemma": "голубь",
           "pos": "noun",
           "stress": "го́лубя",
           "gloss": "pigeon",
-          "gram": "nominative / accusative"
+          "gram": "genitive / animate accusative singular, masculine"
         },
         {
           "t": "с",
@@ -180,7 +180,7 @@
           "pos": "adj",
           "stress": "но́вого",
           "gloss": "new (что нового = what's new)",
-          "gram": "genitive singular, neuter"
+          "gram": "genitive / accusative singular, masculine-neuter"
         },
         {
           "t": "Денис?",
@@ -536,11 +536,11 @@
         },
         {
           "t": "голубя",
-          "lemma": "голубя",
+          "lemma": "голубь",
           "pos": "noun",
           "stress": "го́лубя",
           "gloss": "pigeon",
-          "gram": "nominative / accusative"
+          "gram": "genitive / animate accusative singular, masculine"
         },
         {
           "t": "с",
@@ -692,7 +692,7 @@
           "pos": "adj",
           "stress": "но́вого",
           "gloss": "new (что нового = what's new)",
-          "gram": "genitive singular, neuter"
+          "gram": "genitive / accusative singular, masculine-neuter"
         },
         {
           "t": "Денис?",
@@ -1048,11 +1048,11 @@
         },
         {
           "t": "голубя",
-          "lemma": "голубя",
+          "lemma": "голубь",
           "pos": "noun",
           "stress": "го́лубя",
           "gloss": "pigeon",
-          "gram": "nominative / accusative"
+          "gram": "genitive / animate accusative singular, masculine"
         },
         {
           "t": "с",
@@ -1204,7 +1204,7 @@
           "pos": "adj",
           "stress": "но́вого",
           "gloss": "new (что нового = what's new)",
-          "gram": "genitive singular, neuter"
+          "gram": "genitive / accusative singular, masculine-neuter"
         },
         {
           "t": "Денис?",
@@ -1604,92 +1604,6 @@
         }
       ]
     },
-    "алкоголь": {
-      "lemma": "алкоголь",
-      "stress": "алкого́ль",
-      "pos": "noun",
-      "gloss": "alcohol",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "alcohol, alcoholic drinks",
-          "note": "Common masculine noun meaning 'alcohol' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "алкоголь",
-              "алкоголи"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "алкоголя",
-              "алкоголей"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "алкоголю",
-              "алкоголям"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "алкоголь",
-              "алкоголи"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "алкоголем",
-              "алкоголями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "алкоголе",
-              "алкоголях"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Вы что, пить алкоголь собрались?",
-          "trans": "Are you planning to drink alcohol?"
-        },
-        {
-          "text": "А если он откажется от алкоголя?",
-          "trans": "And what if he refuses alcohol?"
-        },
-        {
-          "text": "Вы хотите добавить алкоголь в еду?",
-          "trans": "Do you want to add alcohol to food?"
-        }
-      ],
-      "related": [
-        {
-          "word": "алкоголик",
-          "gloss": "alcoholic"
-        }
-      ]
-    },
     "брать": {
       "lemma": "брать",
       "stress": "брать",
@@ -1700,7 +1614,7 @@
       "meanings": [
         {
           "en": "to take",
-          "note": "Habitually or in general. Used as an imperfective (ongoing/repeated action) verb meaning 'to take', paired with 'взять'."
+          "note": "Habitually or in general."
         },
         {
           "en": "to take bribes",
@@ -1795,15 +1709,19 @@
       "related": [
         {
           "word": "взять",
-          "gloss": "to take"
+          "gloss": "to take (pf)"
         },
         {
           "word": "забрать",
-          "gloss": "to take back"
+          "gloss": "to take away, pick up"
         },
         {
-          "word": "убрать",
-          "gloss": "to remove"
+          "word": "брать трубку",
+          "gloss": "to answer the phone"
+        },
+        {
+          "word": "взятка",
+          "gloss": "bribe"
         }
       ]
     },
@@ -2168,7 +2086,7 @@
       "meanings": [
         {
           "en": "to throw out, to toss out",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to throw out', paired with 'выбросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2259,15 +2177,15 @@
       "related": [
         {
           "word": "выбросить",
-          "gloss": "to throw out"
+          "gloss": "to throw out (pf)"
         },
         {
-          "word": "браслет",
-          "gloss": "bracelet"
+          "word": "бросать",
+          "gloss": "to throw"
         },
         {
           "word": "разбрасываться",
-          "gloss": "squander"
+          "gloss": "to squander"
         }
       ]
     },
@@ -2281,11 +2199,11 @@
       "meanings": [
         {
           "en": "to drink up, to have a drink of",
-          "note": "+ accusative or partitive genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить'). Used as a perfective (single completed action) verb meaning 'to drink (up); to have a drink', paired with 'пить'."
+          "note": "+ accusative or partitive genitive. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить')."
         },
         {
           "en": "to have an alcoholic drink",
-          "note": "Used without an object. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить'). Used as a perfective (single completed action) verb meaning 'to drink (up); to have a drink', paired with 'пить'."
+          "note": "Used without an object. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'пить')."
         }
       ],
       "forms": {
@@ -2392,12 +2310,13 @@
       "lemma": "голубь",
       "stress": "го́лубь",
       "pos": "noun",
-      "gloss": "hands",
+      "gloss": "pigeon, dove",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
-          "en": "hands",
-          "note": "Declinable masculine noun meaning 'hands', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "en": "pigeon, dove",
+          "note": "on the menu: squab"
         }
       ],
       "forms": {
@@ -2432,8 +2351,8 @@
           {
             "cells": [
               "accusative",
-              "голубь",
-              "голуби"
+              "голубя",
+              "голубей"
             ]
           },
           {
@@ -2460,95 +2379,23 @@
         },
         {
           "text": "Так, друзья, где мой голубь по-дижонски?",
-          "trans": "All right, folks, where is my Dijon squab?"
+          "trans": "Right, friends, where's my Dijon squab?"
         },
         {
-          "text": "Откуда под крышкой взялся этот живой голубь?",
-          "trans": "Where did that live pigeon under the cover come from?"
+          "text": "Вот свежие каштаны и голуби для шефа.",
+          "trans": "Here are fresh chestnuts and pigeons for the chef."
         }
       ],
-      "related": []
-    },
-    "голубя": {
-      "lemma": "голубя",
-      "stress": "го́лубя",
-      "pos": "noun",
-      "gloss": "restaurant",
-      "gender": "f",
-      "meanings": [
+      "related": [
         {
-          "en": "restaurant",
-          "note": "Declinable feminine noun meaning 'restaurant', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "голубя",
-              "голуби"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "голуби",
-              "голубь"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "голубе",
-              "голубям"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "голубю",
-              "голуби"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "голубей",
-              "голубями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "голубе",
-              "голубях"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Разве в нашем ресторане гости едят голубей?",
-          "trans": "Do guests really eat pigeons in our restaurant?"
+          "word": "голубка",
+          "gloss": "dove (female)"
         },
         {
-          "text": "Нет, только не трогай этих дорогих голубей!",
-          "trans": "No, just do not touch those expensive pigeons!"
-        },
-        {
-          "text": "Пожалуйста, отдай мне хотя бы одного голубя!",
-          "trans": "Please give me back at least one pigeon!"
+          "word": "голубиный",
+          "gloss": "pigeon's, dove's"
         }
-      ],
-      "related": []
+      ]
     },
     "дикий": {
       "lemma": "дикий",
@@ -2558,11 +2405,11 @@
       "meanings": [
         {
           "en": "wild",
-          "note": "Untamed. Agrees in gender, number, and case with the noun it modifies ('wild, terrible')."
+          "note": "Untamed."
         },
         {
           "en": "terrible, intense, excruciating",
-          "note": "Colloquial intensifier. Agrees in gender, number, and case with the noun it modifies ('wild, terrible')."
+          "note": "Colloquial intensifier."
         }
       ],
       "forms": {
@@ -2605,10 +2452,10 @@
           {
             "cells": [
               "accusative",
-              "дикий",
+              "дикий / дикого",
               "дикую",
               "дикое",
-              "дикие"
+              "дикие / диких"
             ]
           },
           {
@@ -2635,25 +2482,25 @@
       "examples": [
         {
           "text": "Были дикие боли.",
-          "trans": "There was terrible pain."
+          "trans": "The pain was terrible."
         },
         {
           "text": "В лесу живут дикие звери.",
           "trans": "Wild animals live in the forest."
         },
         {
-          "text": "Я хочу извиниться за вчерашнее. Просто отошёл наркоз, и были дикие боли.",
-          "trans": "I want to apologise for yesterday. The anaesthesia just wore off, and I had wild pain."
+          "text": "У меня с утра дикое похмелье!",
+          "trans": "I've had a terrible hangover since this morning!"
         }
       ],
       "related": [
         {
           "word": "дико",
-          "gloss": "in a wild way (adv.)"
+          "gloss": "wildly, terribly"
         },
         {
           "word": "дикость",
-          "gloss": "quality of being wild"
+          "gloss": "wildness, savagery"
         }
       ]
     },
@@ -2665,11 +2512,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2707,7 +2554,7 @@
       "meanings": [
         {
           "en": "expensive, expensively, dear",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2745,11 +2592,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2960,7 +2807,7 @@
       "meanings": [
         {
           "en": "sweet, candy, bonbon",
-          "note": "Common feminine noun meaning 'sweet, piece of candy' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3032,109 +2879,6 @@
       ],
       "related": []
     },
-    "лучший": {
-      "lemma": "лучший",
-      "stress": "лу́чший",
-      "pos": "adj",
-      "gloss": "best; better",
-      "meanings": [
-        {
-          "en": "the best",
-          "note": "лучший в мире = the best in the world"
-        },
-        {
-          "en": "better",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('best; better')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "лучший",
-              "лучшая",
-              "лучшее",
-              "лучшие"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "лучшего",
-              "лучшей",
-              "лучшего",
-              "лучших"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "лучшему",
-              "лучшей",
-              "лучшему",
-              "лучшим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "лучший / лучшего",
-              "лучшую",
-              "лучшее",
-              "лучшие / лучших"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "лучшим",
-              "лучшей",
-              "лучшим",
-              "лучшими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "лучшем",
-              "лучшей",
-              "лучшем",
-              "лучших"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Это лучший день!",
-          "trans": "This is the best day!"
-        },
-        {
-          "text": "Ты мой лучший друг.",
-          "trans": "You're my best friend."
-        },
-        {
-          "text": "Ты мне даёшь пятьсот рублей, а я выхожу и покупаю тебе лучшую приставку в мире.",
-          "trans": "You give me five hundred roubles, and I get out and buy you the best console in the world."
-        }
-      ],
-      "related": [
-        {
-          "word": "лучше",
-          "gloss": "better"
-        }
-      ]
-    },
     "мочь": {
       "lemma": "мочь",
       "stress": "мочь",
@@ -3145,7 +2889,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3200,6 +2944,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3225,15 +2986,19 @@
     },
     "мучиться": {
       "lemma": "мучиться",
-      "stress": "мучи́ться",
+      "stress": "му́читься",
       "pos": "verb",
-      "gloss": "are torturing yourselves / struggling",
+      "gloss": "to suffer, to struggle",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "are torturing yourselves / struggling",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'are torturing yourselves / struggling'."
+          "en": "to suffer, to be tormented",
+          "note": ""
+        },
+        {
+          "en": "to struggle, to agonize over something",
+          "note": "colloquial: долго мучиться с чем-то"
         }
       ],
       "forms": {
@@ -3288,26 +3053,51 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "мучься",
+                "мучьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и мучиться вовремя.",
-          "trans": "We need to do everything and are torturing yourselves on time."
+          "text": "Сеня, ну чего ты так долго мучаешься?",
+          "trans": "Senya, why are you struggling for so long?"
         },
         {
-          "text": "На нашей кухне все умеют мучиться.",
-          "trans": "In our kitchen everyone knows how to are torturing yourselves."
+          "text": "У него стресс, а мучаюсь я.",
+          "trans": "He's the one stressed, and I'm the one suffering."
+        },
+        {
+          "text": "Что вы тут мучаетесь, друзья?",
+          "trans": "Why are you struggling here, friends?"
         }
       ],
       "related": [
         {
-          "word": "помучиться",
-          "gloss": "to are torturing yourselves (prefixed perfective)"
+          "word": "мучить",
+          "gloss": "to torment"
         },
         {
-          "word": "не мучиться",
-          "gloss": "not to are torturing yourselves (negated infinitive)"
+          "word": "помучиться",
+          "gloss": "to suffer for a while"
+        },
+        {
+          "word": "мука",
+          "gloss": "torment"
         }
       ]
     },
@@ -3485,11 +3275,11 @@
       "meanings": [
         {
           "en": "normal, ordinary",
-          "note": "Colloquial. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('normal')."
+          "note": "Colloquial."
         },
         {
           "en": "decent, OK",
-          "note": "Colloquial. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('normal')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3714,7 +3504,7 @@
     },
     "поблизости": {
       "lemma": "поблизости",
-      "stress": "поблизо́сти",
+      "stress": "побли́зости",
       "pos": "adv",
       "gloss": "nearby",
       "meanings": [
@@ -3731,18 +3521,18 @@
           "trans": "There is another maternity hospital nearby."
         },
         {
-          "text": "Костя сказал это совершенно поблизости и спокойно.",
-          "trans": "Kostya said this quite nearby and calmly."
+          "text": "Нормальный ресторан поблизости есть?",
+          "trans": "Is there a decent restaurant nearby?"
         }
       ],
       "related": [
         {
-          "word": "очень поблизости",
-          "gloss": "very nearby"
+          "word": "близко",
+          "gloss": "close, near"
         },
         {
-          "word": "так поблизости",
-          "gloss": "so nearby"
+          "word": "рядом",
+          "gloss": "nearby, next to"
         }
       ]
     },
@@ -3757,7 +3547,7 @@
       "meanings": [
         {
           "en": "to have a talk, to speak (with someone)",
-          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to have a talk', paired with 'говорить'."
+          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить')."
         }
       ],
       "forms": {
@@ -3870,7 +3660,7 @@
       "meanings": [
         {
           "en": "to make up, to make peace",
-          "note": "Помириться с кем + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мириться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to make up, to reconcile', paired with 'мириться'."
+          "note": "Помириться с кем + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мириться')."
         }
       ],
       "forms": {
@@ -3979,11 +3769,11 @@
       "meanings": [
         {
           "en": "to try, to have a go",
-          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         },
         {
           "en": "to taste",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         }
       ],
       "forms": {
@@ -4197,8 +3987,20 @@
       ],
       "related": [
         {
-          "word": "разный",
-          "gloss": "related to time (adj.)"
+          "word": "однажды",
+          "gloss": "once, one day"
+        },
+        {
+          "word": "как раз",
+          "gloss": "just right, exactly"
+        },
+        {
+          "word": "ни разу",
+          "gloss": "not once, never"
+        },
+        {
+          "word": "сразу",
+          "gloss": "at once"
         }
       ]
     },
@@ -4212,7 +4014,7 @@
       "meanings": [
         {
           "en": "to relax, to calm down",
-          "note": "Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'слабиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to relax', paired with 'расслабляться'."
+          "note": "Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'слабиться')."
         }
       ],
       "forms": {
@@ -4323,7 +4125,7 @@
       "meanings": [
         {
           "en": "rare, uncommon",
-          "note": "Not occurring often. Agrees in gender, number, and case with the noun it modifies ('rare, scarce, unusual')."
+          "note": "Not occurring often."
         }
       ],
       "forms": {
@@ -4366,10 +4168,10 @@
           {
             "cells": [
               "accusative",
-              "редкий",
+              "редкий / редкого",
               "редкую",
               "редкое",
-              "редкие"
+              "редкие / редких"
             ]
           },
           {
@@ -4587,7 +4389,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -4595,7 +4397,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -4698,92 +4500,6 @@
         }
       ]
     },
-    "союзник": {
-      "lemma": "союзник",
-      "stress": "сою́зник",
-      "pos": "noun",
-      "gloss": "ally",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "ally",
-          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'ally' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "союзник",
-              "союзники"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "союзника",
-              "союзников"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "союзнику",
-              "союзникам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "союзник",
-              "союзники"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "союзником",
-              "союзниками"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "союзнике",
-              "союзниках"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Лучший союзник — алкоголь.",
-          "trans": "A man's best ally is alcohol."
-        },
-        {
-          "text": "На кухне отеля всегда есть союзник.",
-          "trans": "In the hotel kitchen there is always ally."
-        }
-      ],
-      "related": [
-        {
-          "word": "без союзни",
-          "gloss": "without ally"
-        },
-        {
-          "word": "наш союзник",
-          "gloss": "our ally"
-        }
-      ]
-    },
     "так": {
       "lemma": "так",
       "stress": "так",
@@ -4835,11 +4551,11 @@
       "meanings": [
         {
           "en": "telephone receiver; the phone",
-          "note": "Бросить трубку = to hang up. Common feminine noun meaning '(phone) receiver; tube' in everyday Russian."
+          "note": "Бросить трубку = to hang up."
         },
         {
           "en": "tube, pipe",
-          "note": "Common feminine noun meaning '(phone) receiver; tube' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5015,7 +4731,7 @@
       "meanings": [
         {
           "en": "fillet",
-          "note": "Declinable neuter noun meaning 'fillet', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "tenderloin",
@@ -5034,42 +4750,42 @@
             "cells": [
               "nominative",
               "филе",
-              "—"
+              "филе"
             ]
           },
           {
             "cells": [
               "genitive",
               "филе",
-              "—"
+              "филе"
             ]
           },
           {
             "cells": [
               "dative",
               "филе",
-              "—"
+              "филе"
             ]
           },
           {
             "cells": [
               "accusative",
               "филе",
-              "—"
+              "филе"
             ]
           },
           {
             "cells": [
               "instrumental",
               "филе",
-              "—"
+              "филе"
             ]
           },
           {
             "cells": [
               "prepositional",
               "филе",
-              "—"
+              "филе"
             ]
           }
         ]
@@ -5097,7 +4813,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5152,6 +4868,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5188,7 +4921,7 @@
       "meanings": [
         {
           "en": "flower",
-          "note": "Irregular plural цветы (flowers). Common masculine noun meaning 'flower' in everyday Russian."
+          "note": "Irregular plural цветы (flowers)."
         }
       ],
       "forms": {
@@ -5203,14 +4936,14 @@
             "cells": [
               "nominative",
               "цветок",
-              "цветы"
+              "цветки"
             ]
           },
           {
             "cells": [
               "genitive",
               "цветка",
-              "цветов"
+              "цветков"
             ]
           },
           {
@@ -5224,7 +4957,7 @@
             "cells": [
               "accusative",
               "цветок",
-              "цветы"
+              "цветки"
             ]
           },
           {

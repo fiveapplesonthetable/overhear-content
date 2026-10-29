@@ -143,8 +143,8 @@
           "lemma": "пройти",
           "pos": "verb",
           "stress": "прошли́",
-          "gloss": "to go through, to pass; to come along",
-          "gram": "past pl"
+          "gloss": "passed, went through",
+          "gram": "past, plural, perfective"
         }
       ]
     },
@@ -335,8 +335,8 @@
           "lemma": "собираться",
           "pos": "verb",
           "stress": "собира́етесь",
-          "gloss": "to intend, to be about to; to gather",
-          "gram": "2nd person plural / imperative"
+          "gloss": "are going to, plan",
+          "gram": "present, 2nd person plural, imperfective"
         }
       ]
     },
@@ -465,7 +465,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -719,8 +719,8 @@
           "lemma": "пройти",
           "pos": "verb",
           "stress": "прошли́",
-          "gloss": "to go through, to pass; to come along",
-          "gram": "past pl"
+          "gloss": "passed, went through",
+          "gram": "past, plural, perfective"
         }
       ]
     },
@@ -911,8 +911,8 @@
           "lemma": "собираться",
           "pos": "verb",
           "stress": "собира́етесь",
-          "gloss": "to intend, to be about to; to gather",
-          "gram": "2nd person plural / imperative"
+          "gloss": "are going to, plan",
+          "gram": "present, 2nd person plural, imperfective"
         }
       ]
     },
@@ -1041,7 +1041,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1295,8 +1295,8 @@
           "lemma": "пройти",
           "pos": "verb",
           "stress": "прошли́",
-          "gloss": "to go through, to pass; to come along",
-          "gram": "past pl"
+          "gloss": "passed, went through",
+          "gram": "past, plural, perfective"
         }
       ]
     },
@@ -1487,8 +1487,8 @@
           "lemma": "собираться",
           "pos": "verb",
           "stress": "собира́етесь",
-          "gloss": "to intend, to be about to; to gather",
-          "gram": "2nd person plural / imperative"
+          "gloss": "are going to, plan",
+          "gram": "present, 2nd person plural, imperfective"
         }
       ]
     },
@@ -1617,7 +1617,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1991,84 +1991,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вы": {
       "lemma": "вы",
       "stress": "вы",
@@ -2161,11 +2083,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2359,7 +2281,7 @@
       "meanings": [
         {
           "en": "to agree, to have an agreement",
-          "note": "+ с + instrumental. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to agree, to make a deal', paired with 'договориться'."
+          "note": "+ с + instrumental."
         }
       ],
       "forms": {
@@ -2450,15 +2372,15 @@
       "related": [
         {
           "word": "договориться",
-          "gloss": "to agree"
+          "gloss": "to agree (pf)"
         },
         {
           "word": "разговаривать",
           "gloss": "to talk"
         },
         {
-          "word": "наговаривать",
-          "gloss": "slander"
+          "word": "договор",
+          "gloss": "contract, agreement"
         }
       ]
     },
@@ -2617,13 +2539,13 @@
       "lemma": "задохнуться",
       "stress": "задохну́ться",
       "pos": "verb",
-      "gloss": "will suffocate",
+      "gloss": "to suffocate, to choke",
       "aspect": "pf",
-      "pair": null,
+      "pair": "задыхаться",
       "meanings": [
         {
-          "en": "will suffocate",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'will suffocate'."
+          "en": "to suffocate, to choke; to be out of breath",
+          "note": "задохнуться от дыма = to choke on smoke"
         }
       ],
       "forms": {
@@ -2638,20 +2560,20 @@
             "cells": [
               "1st",
               "задохнусь",
-              "задохнемся"
+              "задохнёмся"
             ]
           },
           {
             "cells": [
               "2nd",
-              "задохнешься",
-              "задохнетесь"
+              "задохнёшься",
+              "задохнётесь"
             ]
           },
           {
             "cells": [
               "3rd",
-              "задохнется",
+              "задохнётся",
               "задохнутся"
             ]
           }
@@ -2678,22 +2600,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "задохнись",
+                "задохнитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и задохнуться вовремя.",
-          "trans": "We need to do everything and will suffocate on time."
+          "text": "Подождите, он же так задохнётся!",
+          "trans": "Wait, he'll suffocate like that!"
         },
         {
-          "text": "На нашей кухне все умеют задохнуться.",
-          "trans": "In our kitchen everyone knows how to will suffocate."
+          "text": "Откройте окно, тут можно задохнуться.",
+          "trans": "Open the window, you could suffocate in here."
         }
       ],
       "related": [
         {
-          "word": "не задохнуться",
-          "gloss": "not to will suffocate (negated infinitive)"
+          "word": "задыхаться",
+          "gloss": "to suffocate, to gasp (impf)"
+        },
+        {
+          "word": "дышать",
+          "gloss": "to breathe"
         }
       ]
     },
@@ -2707,7 +2650,7 @@
       "meanings": [
         {
           "en": "to earn, to deserve, to merit",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'служить'). Used as a perfective (single completed action) verb meaning 'to earn, to deserve', paired with 'заслуживать'."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'служить')."
         }
       ],
       "forms": {
@@ -2798,15 +2741,15 @@
       "related": [
         {
           "word": "заслуживать",
-          "gloss": "to deserve"
+          "gloss": "to deserve (impf)"
         },
         {
-          "word": "послужной",
-          "gloss": "service"
+          "word": "заслуга",
+          "gloss": "merit"
         },
         {
-          "word": "обслужить",
-          "gloss": "to serve"
+          "word": "заслуженный",
+          "gloss": "well-deserved"
         }
       ]
     },
@@ -2819,11 +2762,11 @@
       "meanings": [
         {
           "en": "star",
-          "note": "In the sky. Common feminine noun meaning 'star; celebrity' in everyday Russian."
+          "note": "In the sky."
         },
         {
           "en": "star, famous performer",
-          "note": "Common feminine noun meaning 'star; celebrity' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2895,8 +2838,12 @@
       ],
       "related": [
         {
-          "word": "звездный",
-          "gloss": "related to star (adj.)"
+          "word": "звёздный",
+          "gloss": "star (adj.), starry"
+        },
+        {
+          "word": "звёздочка",
+          "gloss": "little star; asterisk"
         }
       ]
     },
@@ -2910,7 +2857,7 @@
       "meanings": [
         {
           "en": "inspection, audit board",
-          "note": "International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'inspection' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2999,7 +2946,7 @@
       "meanings": [
         {
           "en": "somehow, kind of, a bit",
-          "note": "Indefinite adverb. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Indefinite adverb."
         }
       ],
       "forms": null,
@@ -3181,7 +3128,7 @@
       "meanings": [
         {
           "en": "wrongly, incorrectly",
-          "note": "In a mistaken or improper manner. Negative prefix 'не-' ('un-, non-, not') (stem 'правильно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "In a mistaken or improper manner. Negative prefix 'не-' ('un-, non-, not') (stem 'правильно')."
         }
       ],
       "forms": null,
@@ -3223,7 +3170,7 @@
       "meanings": [
         {
           "en": "in no way",
-          "note": "Никак не могу = I just can't. Core Russian adv meaning 'in no way, not at all' in everyday speech."
+          "note": "Никак не могу = I just can't."
         }
       ],
       "forms": null,
@@ -3288,44 +3235,6 @@
         {
           "word": "ладно",
           "gloss": "alright"
-        }
-      ]
-    },
-    "оба": {
-      "lemma": "оба",
-      "stress": "о́ба",
-      "pos": "num",
-      "gloss": "both",
-      "meanings": [
-        {
-          "en": "both (masculine and neuter; feminine обе)",
-          "note": "Core Russian num meaning 'both' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Вы сейчас отсюда оба уходите.",
-          "trans": "You both leave here right now."
-        },
-        {
-          "text": "Живо сюда, быстро, оба!",
-          "trans": "Get over here right now, quickly, both of you!"
-        },
-        {
-          "text": "Вы сейчас отсюда оба уходите. И больше сюда не возвращаетесь. Ясно?",
-          "trans": "You both leave here right now. And you never come back here again. Clear?"
-        }
-      ],
-      "related": [
-        {
-          "word": "двое",
-          "gloss": "two (together)"
-        },
-        {
-          "word": "два",
-          "gloss": "two"
         }
       ]
     },
@@ -3420,119 +3329,6 @@
         {
           "word": "его",
           "gloss": "his, him"
-        }
-      ]
-    },
-    "отпустить": {
-      "lemma": "отпустить",
-      "stress": "отпусти́ть",
-      "pos": "verb",
-      "gloss": "to let go, to release",
-      "aspect": "pf",
-      "pair": "отпускать",
-      "meanings": [
-        {
-          "en": "to let go, to release",
-          "note": "A prisoner, a hand. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить'). Used as a perfective (single completed action) verb meaning 'to let go, to release', paired with 'отпускать'."
-        },
-        {
-          "en": "to let someone leave",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить'). Used as a perfective (single completed action) verb meaning 'to let go, to release', paired with 'отпускать'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "отпущу",
-              "отпустим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "отпустишь",
-              "отпустите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "отпустит",
-              "отпустят"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "отпустил",
-                "отпустила",
-                "отпустило",
-                "отпустили"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "отпусти",
-                "отпустите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Отпустить немедленно!",
-          "trans": "Release him immediately!"
-        },
-        {
-          "text": "Отпусти меня домой.",
-          "trans": "Let me go home."
-        },
-        {
-          "text": "Какая взятка? Отпустить немедленно!",
-          "trans": "What bribe? Release him immediately!"
-        }
-      ],
-      "related": [
-        {
-          "word": "отпускать",
-          "gloss": "to let go"
-        },
-        {
-          "word": "пустить",
-          "gloss": "to let go"
         }
       ]
     },
@@ -3659,7 +3455,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -3778,42 +3574,42 @@
             "cells": [
               "nominative",
               "полиция",
-              "—"
+              "полиции"
             ]
           },
           {
             "cells": [
               "genitive",
               "полиции",
-              "—"
+              "полиций"
             ]
           },
           {
             "cells": [
               "dative",
               "полиции",
-              "—"
+              "полициям"
             ]
           },
           {
             "cells": [
               "accusative",
               "полицию",
-              "—"
+              "полиции"
             ]
           },
           {
             "cells": [
               "instrumental",
               "полицией",
-              "—"
+              "полициями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "полиции",
-              "—"
+              "полициях"
             ]
           }
         ]
@@ -3845,7 +3641,7 @@
       "meanings": [
         {
           "en": "to lose",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'терять'). Used as a perfective (single completed action) verb meaning 'to lose', paired with 'терять'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'терять')."
         }
       ],
       "forms": {
@@ -3897,6 +3693,23 @@
                 "потеряла",
                 "потеряло",
                 "потеряли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "потеряй",
+                "потеряйте"
               ]
             }
           ]
@@ -4135,7 +3948,7 @@
         },
         {
           "text": "Потом пройдёт.",
-          "trans": "Then it passes."
+          "trans": "It'll pass later."
         }
       ],
       "related": [
@@ -4225,7 +4038,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -4366,11 +4179,11 @@
       "meanings": [
         {
           "en": "how much, how many",
-          "note": "+ genitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive."
         },
         {
           "en": "what a lot of!",
-          "note": "In exclamations. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "In exclamations."
         }
       ],
       "forms": null,
@@ -4401,11 +4214,11 @@
       "meanings": [
         {
           "en": "to intend, to plan, to be going to",
-          "note": "+ infinitive. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to intend, to be about to; to gather', paired with 'собраться'."
+          "note": "+ infinitive."
         },
         {
           "en": "to gather, to get ready",
-          "note": "Pack or assemble. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to intend, to be about to; to gather', paired with 'собраться'."
+          "note": "Pack or assemble."
         }
       ],
       "forms": {
@@ -4516,7 +4329,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4541,13 +4354,13 @@
       "lemma": "сообщить",
       "stress": "сообщи́ть",
       "pos": "verb",
-      "gloss": "inform / report",
+      "gloss": "to inform, to report, to tell",
       "aspect": "pf",
-      "pair": null,
+      "pair": "сообщать",
       "meanings": [
         {
-          "en": "inform / report",
-          "note": "Used as a perfective (single completed action) verb meaning 'inform / report'."
+          "en": "to inform, to report, to tell (кому о чём)",
+          "note": ""
         }
       ],
       "forms": {
@@ -4602,19 +4415,45 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "сообщи",
+                "сообщите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Кстати, должна тебе кое-что сообщить.",
-          "trans": "By the way, I must inform you of something."
+          "trans": "By the way, there's something I need to tell you."
         },
         {
-          "text": "Надо всё сделать и сообщить вовремя.",
-          "trans": "We need to do everything and inform on time."
+          "text": "Я сейчас в полицию сообщу!",
+          "trans": "I'm going to report this to the police right now!"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "сообщать",
+          "gloss": "to inform (impf)"
+        },
+        {
+          "word": "сообщение",
+          "gloss": "message"
+        }
+      ]
     },
     "стоять": {
       "lemma": "стоять",
@@ -4630,7 +4469,7 @@
         },
         {
           "en": "freeze!",
-          "note": "the infinitive 'Стоять!' as a police order"
+          "note": ""
         }
       ],
       "forms": {
@@ -4733,7 +4572,7 @@
       "meanings": [
         {
           "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
+          "note": "Direction."
         }
       ],
       "forms": null,
@@ -5008,7 +4847,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {

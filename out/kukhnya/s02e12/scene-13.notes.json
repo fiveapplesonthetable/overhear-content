@@ -104,7 +104,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         },
         {
           "t": "отойду?",
@@ -338,14 +338,14 @@
           "pos": "adj",
           "stress": "восьмо́й",
           "gloss": "eighth",
-          "gram": "oblique feminine singular / masculine nominative"
+          "gram": "masculine nominative singular"
         },
         {
           "t": "по",
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -384,7 +384,7 @@
           "pos": "noun",
           "stress": "банке́т",
           "gloss": "banquet",
-          "gram": "masculine singular nominative"
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -420,9 +420,9 @@
           "t": "торопятся.",
           "lemma": "торопиться",
           "pos": "verb",
-          "stress": "торопя́тся",
-          "gloss": "to be in a hurry, to hurry",
-          "gram": "3rd person plural"
+          "stress": "торо́пятся",
+          "gloss": "are in a hurry",
+          "gram": "3rd person plural present, imperfective"
         }
       ]
     },
@@ -558,7 +558,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         },
         {
           "t": "отойду?",
@@ -792,14 +792,14 @@
           "pos": "adj",
           "stress": "восьмо́й",
           "gloss": "eighth",
-          "gram": "oblique feminine singular / masculine nominative"
+          "gram": "masculine nominative singular"
         },
         {
           "t": "по",
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -838,7 +838,7 @@
           "pos": "noun",
           "stress": "банке́т",
           "gloss": "banquet",
-          "gram": "masculine singular nominative"
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -874,9 +874,9 @@
           "t": "торопятся.",
           "lemma": "торопиться",
           "pos": "verb",
-          "stress": "торопя́тся",
-          "gloss": "to be in a hurry, to hurry",
-          "gram": "3rd person plural"
+          "stress": "торо́пятся",
+          "gloss": "are in a hurry",
+          "gram": "3rd person plural present, imperfective"
         }
       ]
     },
@@ -1012,7 +1012,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         },
         {
           "t": "отойду?",
@@ -1246,14 +1246,14 @@
           "pos": "adj",
           "stress": "восьмо́й",
           "gloss": "eighth",
-          "gram": "oblique feminine singular / masculine nominative"
+          "gram": "masculine nominative singular"
         },
         {
           "t": "по",
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1292,7 +1292,7 @@
           "pos": "noun",
           "stress": "банке́т",
           "gloss": "banquet",
-          "gram": "masculine singular nominative"
+          "gram": "nominative / accusative singular, masculine"
         }
       ]
     },
@@ -1328,9 +1328,9 @@
           "t": "торопятся.",
           "lemma": "торопиться",
           "pos": "verb",
-          "stress": "торопя́тся",
-          "gloss": "to be in a hurry, to hurry",
-          "gram": "3rd person plural"
+          "stress": "торо́пятся",
+          "gloss": "are in a hurry",
+          "gram": "3rd person plural present, imperfective"
         }
       ]
     },
@@ -1477,7 +1477,7 @@
       "meanings": [
         {
           "en": "first-aid kit, medicine box",
-          "note": "Medical emergency supplies. Common feminine noun meaning 'first-aid kit, medicine chest' in everyday Russian."
+          "note": "Medical emergency supplies."
         }
       ],
       "forms": {
@@ -1636,16 +1636,16 @@
       ],
       "related": [
         {
-          "word": "банк",
-          "gloss": "bank"
+          "word": "банкетный",
+          "gloss": "banquet (adj.)"
         },
         {
-          "word": "банкомат",
-          "gloss": "ATM"
+          "word": "праздник",
+          "gloss": "celebration"
         },
         {
-          "word": "банка",
-          "gloss": "jar"
+          "word": "корпоратив",
+          "gloss": "office party"
         }
       ]
     },
@@ -1658,7 +1658,7 @@
       "meanings": [
         {
           "en": "dish",
-          "note": "Declinable neuter noun meaning 'dish', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "platter",
@@ -1937,7 +1937,7 @@
       "meanings": [
         {
           "en": "eighth (ordinal numeral/adjective)",
-          "note": "Две тысячи восьмого года = of 2008. Agrees in gender, number, and case with the noun it modifies ('eighth')."
+          "note": "Две тысячи восьмого года = of 2008."
         }
       ],
       "forms": {
@@ -1980,10 +1980,10 @@
           {
             "cells": [
               "accusative",
-              "восьмой / -ого",
+              "восьмой / восьмого",
               "восьмую",
               "восьмое",
-              "восьмые / -ых"
+              "восьмые / восьмых"
             ]
           },
           {
@@ -2018,84 +2018,6 @@
         }
       ],
       "related": []
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
     },
     "вы": {
       "lemma": "вы",
@@ -2236,42 +2158,42 @@
             "cells": [
               "nominative",
               "готовность",
-              "—"
+              "готовности"
             ]
           },
           {
             "cells": [
               "genitive",
               "готовности",
-              "—"
+              "готовностей"
             ]
           },
           {
             "cells": [
               "dative",
               "готовности",
-              "—"
+              "готовностям"
             ]
           },
           {
             "cells": [
               "accusative",
               "готовность",
-              "—"
+              "готовности"
             ]
           },
           {
             "cells": [
               "instrumental",
               "готовностью",
-              "—"
+              "готовностями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "готовности",
-              "—"
+              "готовностях"
             ]
           }
         ]
@@ -2391,11 +2313,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2435,7 +2357,7 @@
       "meanings": [
         {
           "en": "to call (someone over)",
-          "note": "Звать на помощь = to call for help. Used as an imperfective (ongoing/repeated action) verb meaning 'to call', paired with 'позвать'."
+          "note": "Звать на помощь = to call for help."
         },
         {
           "en": "to be called (a name)",
@@ -2588,11 +2510,11 @@
       "meanings": [
         {
           "en": "may I?, can I?",
-          "note": "Asking permission. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Asking permission."
         },
         {
           "en": "it is possible",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2961,29 +2883,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Мне ещё работа нужна.",
@@ -3019,7 +2919,7 @@
       "meanings": [
         {
           "en": "to carry, deliver something to a place",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'нести'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to carry to', forming an aspectual pair with 'относить'."
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'нести')."
         }
       ],
       "forms": {
@@ -3132,7 +3032,7 @@
       "meanings": [
         {
           "en": "to step aside, to move back",
-          "note": "Perfective of отходить. Used as a perfective (single completed action) verb meaning 'to step back, to move away', paired with 'отходить'."
+          "note": "Perfective of отходить."
         }
       ],
       "forms": {
@@ -3350,14 +3250,15 @@
       "pos": "noun",
       "gloss": "finger; toe",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "finger",
-          "note": "Палец на ноге. Common masculine noun meaning 'finger; toe' in everyday Russian."
+          "note": ""
         },
         {
           "en": "toe",
-          "note": "Палец на ноге. Common masculine noun meaning 'finger; toe' in everyday Russian."
+          "note": "палец на ноге"
         }
       ],
       "forms": {
@@ -3438,15 +3339,15 @@
       "meanings": [
         {
           "en": "about, concerning",
-          "note": "In 'по поводу' + genitive. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "In 'по поводу' + genitive."
         },
         {
           "en": "along, around",
-          "note": "+ dative. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "+ dative."
         },
         {
           "en": "by (phone)",
-          "note": "'по телефону'. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "'по телефону'."
         }
       ],
       "forms": null,
@@ -3485,7 +3386,7 @@
       "meanings": [
         {
           "en": "help, assistance",
-          "note": "Common feminine noun meaning 'help' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3500,42 +3401,42 @@
             "cells": [
               "nominative",
               "помощь",
-              "—"
+              "помощи"
             ]
           },
           {
             "cells": [
               "genitive",
               "помощи",
-              "—"
+              "помощей"
             ]
           },
           {
             "cells": [
               "dative",
               "помощи",
-              "—"
+              "помощам"
             ]
           },
           {
             "cells": [
               "accusative",
               "помощь",
-              "—"
+              "помощи"
             ]
           },
           {
             "cells": [
               "instrumental",
               "помощью",
-              "—"
+              "помощами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "помощи",
-              "—"
+              "помощах"
             ]
           }
         ]
@@ -3567,7 +3468,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -3678,7 +3579,7 @@
       "meanings": [
         {
           "en": "seventh (ordinal number)",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('seventh')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3750,16 +3651,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это седьмой.",
-          "trans": "This is seventh."
-        },
-        {
           "text": "Седьмой столик заказал салат с трюфелями.",
           "trans": "Table seven ordered a salad with truffles."
         },
         {
           "text": "Смотри, женщина за седьмым столиком!",
-          "trans": "Look, the woman at the seventh table!"
+          "trans": "Look, the woman at table seven!"
+        },
+        {
+          "text": "Нагиев уже седьмой стакан виски заказал!",
+          "trans": "Nagiev has already ordered his seventh glass of whisky!"
         }
       ],
       "related": []
@@ -3773,7 +3674,7 @@
       "meanings": [
         {
           "en": "warehouse, storehouse",
-          "note": "Building for goods storage. Common masculine noun meaning 'warehouse, storage' in everyday Russian."
+          "note": "Building for goods storage."
         }
       ],
       "forms": {
@@ -3840,21 +3741,17 @@
         },
         {
           "text": "Ищи на складе и быстрее крутись!",
-          "trans": "Search in the storage and hustle faster!"
+          "trans": "Look in the storeroom and get a move on!"
         }
       ],
       "related": [
         {
-          "word": "кладбище",
-          "gloss": "cemetery"
+          "word": "складской",
+          "gloss": "warehouse (adj)"
         },
         {
-          "word": "накладка",
-          "gloss": "mix-up"
-        },
-        {
-          "word": "докладывать",
-          "gloss": "to report"
+          "word": "кладовая",
+          "gloss": "pantry, storeroom"
         }
       ]
     },
@@ -3866,7 +3763,7 @@
       "meanings": [
         {
           "en": "urgently, right away; predicative: it is urgent",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3901,7 +3798,7 @@
       "meanings": [
         {
           "en": "small table",
-          "note": "Derived masculine noun formed with a productive Slavic suffix, used in spoken Russian to mean 'small table'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4030,7 +3927,7 @@
       "meanings": [
         {
           "en": "to be in a hurry, to rush",
-          "note": "Не торопись = Don't rush. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to be in a hurry, to hurry', paired with 'поторопиться'."
+          "note": "Не торопись = Don't rush."
         }
       ],
       "forms": {
@@ -4138,7 +4035,7 @@
       "meanings": [
         {
           "en": "toilet",
-          "note": "The room or the bowl. Common masculine noun meaning 'toilet' in everyday Russian."
+          "note": "The room or the bowl."
         }
       ],
       "forms": {
@@ -4271,7 +4168,7 @@
       "meanings": [
         {
           "en": "dinner, supper (evening meal)",
-          "note": "Common masculine noun meaning 'dinner, supper (evening meal)' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4356,7 +4253,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4459,7 +4356,7 @@
       "meanings": [
         {
           "en": "a little, slightly",
-          "note": "Чуть-чуть = a tiny bit. Core Russian adv meaning 'a little; nearly' in everyday speech."
+          "note": "Чуть-чуть = a tiny bit."
         },
         {
           "en": "nearly, almost",

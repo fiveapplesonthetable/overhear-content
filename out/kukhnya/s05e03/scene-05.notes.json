@@ -282,7 +282,7 @@
           "pos": "adj",
           "stress": "друго́й",
           "gloss": "other",
-          "gram": "feminine singular, genitive"
+          "gram": "masculine nominative/accusative singular or feminine oblique singular"
         },
         {
           "t": "город.",
@@ -449,7 +449,7 @@
           "lemma": "такой",
           "pos": "pron",
           "stress": "така́я",
-          "gloss": "one like her, such a one",
+          "gloss": "such, so",
           "gram": "nominative singular, feminine"
         },
         {
@@ -880,7 +880,7 @@
           "pos": "adj",
           "stress": "друго́й",
           "gloss": "other",
-          "gram": "feminine singular, genitive"
+          "gram": "masculine nominative/accusative singular or feminine oblique singular"
         },
         {
           "t": "город.",
@@ -1047,7 +1047,7 @@
           "lemma": "такой",
           "pos": "pron",
           "stress": "така́я",
-          "gloss": "one like her, such a one",
+          "gloss": "such, so",
           "gram": "nominative singular, feminine"
         },
         {
@@ -1478,7 +1478,7 @@
           "pos": "adj",
           "stress": "друго́й",
           "gloss": "other",
-          "gram": "feminine singular, genitive"
+          "gram": "masculine nominative/accusative singular or feminine oblique singular"
         },
         {
           "t": "город.",
@@ -1645,7 +1645,7 @@
           "lemma": "такой",
           "pos": "pron",
           "stress": "така́я",
-          "gloss": "one like her, such a one",
+          "gloss": "such, so",
           "gram": "nominative singular, feminine"
         },
         {
@@ -1813,7 +1813,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -2171,88 +2171,6 @@
         }
       ]
     },
-    "вы": {
-      "lemma": "вы",
-      "stress": "вы",
-      "pos": "pron",
-      "gloss": "you (polite or plural)",
-      "meanings": [
-        {
-          "en": "you",
-          "note": "polite to one person, or to several people"
-        },
-        {
-          "en": "other forms: вас (gen/acc), вам (dat), вами (instr), вас (prep)",
-          "note": "Case forms. Core Russian pron meaning 'you (polite or plural)' in everyday speech."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "вы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "вас"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "вам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "вас"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "вами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "вас"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Как вы все знаете...",
-          "trans": "As you all know..."
-        },
-        {
-          "text": "Губернатор вас поддерживает?",
-          "trans": "Does the governor support you?"
-        },
-        {
-          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
-          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
-        }
-      ],
-      "related": [
-        {
-          "word": "вас",
-          "gloss": "you (genitive/accusative)"
-        }
-      ]
-    },
     "город": {
       "lemma": "город",
       "stress": "го́род",
@@ -2262,7 +2180,7 @@
       "meanings": [
         {
           "en": "town, city",
-          "note": "Common masculine noun meaning 'town, city' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2349,11 +2267,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2444,15 +2366,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2498,7 +2420,7 @@
       "meanings": [
         {
           "en": "tactful, delicate, considerate",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('tactful, delicate')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2541,10 +2463,10 @@
           {
             "cells": [
               "accusative",
-              "деликатный/деликатного",
+              "деликатный / деликатного",
               "деликатную",
               "деликатное",
-              "деликатные/деликатных"
+              "деликатные / деликатных"
             ]
           },
           {
@@ -2584,8 +2506,12 @@
       ],
       "related": [
         {
-          "word": "выделить",
-          "gloss": "to allocate"
+          "word": "деликатность",
+          "gloss": "tact, delicacy"
+        },
+        {
+          "word": "тактичный",
+          "gloss": "tactful"
         }
       ]
     },
@@ -2670,88 +2596,6 @@
       ],
       "related": []
     },
-    "деньги": {
-      "lemma": "деньги",
-      "stress": "де́ньги",
-      "pos": "noun",
-      "gloss": "money",
-      "gender": "f",
-      "number": "pl",
-      "meanings": [
-        {
-          "en": "money",
-          "note": "plural only: there is no singular in everyday use"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "—",
-              "деньги"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "—",
-              "денег"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "—",
-              "деньгам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "—",
-              "деньги"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "—",
-              "деньгами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "—",
-              "деньгах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "У меня нет денег.",
-          "trans": "I have no money."
-        },
-        {
-          "text": "Деньги на столе.",
-          "trans": "The money is on the table."
-        },
-        {
-          "text": "Жвачку? Денег не хватило.",
-          "trans": "Gum? I didn't have enough money."
-        }
-      ],
-      "related": []
-    },
     "должен": {
       "lemma": "должен",
       "stress": "до́лжен",
@@ -2764,7 +2608,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2920,11 +2764,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2944,48 +2788,6 @@
         }
       ],
       "related": []
-    },
-    "за": {
-      "lemma": "за",
-      "stress": "за",
-      "pos": "prep",
-      "gloss": "for; behind",
-      "meanings": [
-        {
-          "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
-        },
-        {
-          "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Спасибо за доверие!",
-          "trans": "Thank you for your trust!"
-        },
-        {
-          "text": "Спасибо за подарок.",
-          "trans": "Thanks for the present."
-        },
-        {
-          "text": "За что?",
-          "trans": "What for?"
-        }
-      ],
-      "related": [
-        {
-          "word": "из-за",
-          "gloss": "because of, from behind"
-        },
-        {
-          "word": "под",
-          "gloss": "under"
-        }
-      ]
     },
     "из": {
       "lemma": "из",
@@ -3036,7 +2838,7 @@
       "meanings": [
         {
           "en": "to disappear, to vanish",
-          "note": "Used as a perfective (single completed action) verb meaning 'to disappear, to vanish', paired with 'исчезать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3091,6 +2893,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "исчезни",
+                "исчезните"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3114,111 +2933,6 @@
         }
       ]
     },
-    "купить": {
-      "lemma": "купить",
-      "stress": "купи́ть",
-      "pos": "verb",
-      "gloss": "to buy",
-      "aspect": "pf",
-      "pair": "покупать",
-      "meanings": [
-        {
-          "en": "to buy",
-          "note": "Used as a perfective (single completed action) verb meaning 'to buy', paired with 'покупать'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "куплю",
-              "купим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "купишь",
-              "купите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "купит",
-              "купят"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "купил",
-                "купила",
-                "купило",
-                "купили"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "купи",
-                "купите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Я купил герметик.",
-          "trans": "I've bought sealant."
-        },
-        {
-          "text": "Купи хлеб, пожалуйста.",
-          "trans": "Buy some bread, please."
-        },
-        {
-          "text": "Юле бы дублёнку купили, Славику бы ноутбук.",
-          "trans": "We could have bought Yulia a sheepskin coat, and Slavik a laptop."
-        }
-      ],
-      "related": [
-        {
-          "word": "покупать",
-          "gloss": "to buy"
-        }
-      ]
-    },
     "ладно": {
       "lemma": "ладно",
       "stress": "ла́дно",
@@ -3227,7 +2941,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -3249,7 +2963,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -3261,7 +2979,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -3377,7 +3095,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3658,12 +3376,12 @@
       "lemma": "отель",
       "stress": "оте́ль",
       "pos": "noun",
-      "gloss": "of the hotel",
+      "gloss": "hotel",
       "gender": "m",
       "meanings": [
         {
-          "en": "of the hotel",
-          "note": "Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common masculine noun meaning 'of the hotel' in everyday Russian."
+          "en": "hotel",
+          "note": ""
         }
       ],
       "forms": {
@@ -3721,19 +3439,32 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это гематома, она и стала причиной потери памяти.",
-          "trans": "That is a hematoma, it became the cause of memory loss."
+          "text": "Наш отель должен удивить гостей.",
+          "trans": "Our hotel has to impress the guests."
         },
         {
-          "text": "Андрей, положи её к себе, а то и эту потеряю.",
-          "trans": "Andrey, put it in your pocket, or I will lose this one too."
+          "text": "В нашем отеле действует новая услуга.",
+          "trans": "Our hotel has a new service."
         },
         {
-          "text": "Я хотел бы просмотреть все документы по закупке продуктов.",
-          "trans": "I would like to review all the documents on food purchases."
+          "text": "Кто бы мог подумать, что буду управлять отелем?",
+          "trans": "Who'd have thought I'd be running a hotel?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "гостиница",
+          "gloss": "hotel"
+        },
+        {
+          "word": "номер",
+          "gloss": "hotel room"
+        },
+        {
+          "word": "постоялец",
+          "gloss": "hotel guest"
+        }
+      ]
     },
     "поговорить": {
       "lemma": "поговорить",
@@ -3746,7 +3477,7 @@
       "meanings": [
         {
           "en": "to have a talk, to speak (with someone)",
-          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to have a talk', paired with 'говорить'."
+          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить')."
         }
       ],
       "forms": {
@@ -3855,11 +3586,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -3964,7 +3695,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -4273,7 +4004,7 @@
         },
         {
           "en": "to solve",
-          "note": "Решить задачу. Used as a perfective (single completed action) verb meaning 'to decide; to solve', paired with 'решать'."
+          "note": "Решить задачу."
         }
       ],
       "forms": {
@@ -4449,98 +4180,6 @@
         }
       ]
     },
-    "смочь": {
-      "lemma": "смочь",
-      "stress": "смочь",
-      "pos": "verb",
-      "gloss": "to be able, to manage",
-      "aspect": "pf",
-      "pair": "мочь",
-      "meanings": [
-        {
-          "en": "to be able to, to manage to",
-          "note": "Perfective of мочь. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'мочь'). Used as a perfective (single completed action) verb meaning 'to be able, to manage', paired with 'мочь'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "смогу",
-              "сможем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "сможешь",
-              "сможете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "сможет",
-              "смогут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "смог",
-                "смогла",
-                "смогло",
-                "смогли"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Мы приехали сразу, как смогли.",
-          "trans": "We came as soon as we could."
-        },
-        {
-          "text": "Ты сможешь прийти завтра утром?",
-          "trans": "Will you be able to come tomorrow morning?"
-        },
-        {
-          "text": "Я думаю, что у меня есть мужчина. Он сможет меня защитить.",
-          "trans": "I think that I have a man. He will be able to protect me."
-        }
-      ],
-      "related": [
-        {
-          "word": "мочь",
-          "gloss": "can"
-        },
-        {
-          "word": "помочь",
-          "gloss": "to help"
-        }
-      ]
-    },
     "совсем": {
       "lemma": "совсем",
       "stress": "совсе́м",
@@ -4553,7 +4192,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4584,11 +4223,11 @@
       "meanings": [
         {
           "en": "to get off, to step down",
-          "note": "Used as a perfective (single completed action) verb meaning 'to get off; (с ума) to go mad', paired with 'сходить'."
+          "note": ""
         },
         {
           "en": "сойти с ума = to go mad, to lose one's mind",
-          "note": "Used as a perfective (single completed action) verb meaning 'to get off; (с ума) to go mad', paired with 'сходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4679,11 +4318,11 @@
       "related": [
         {
           "word": "сходить",
-          "gloss": "to go"
+          "gloss": "to get off, go down (impf)"
         },
         {
-          "word": "подойти",
-          "gloss": "to come up"
+          "word": "сойти с ума",
+          "gloss": "to go mad"
         },
         {
           "word": "отойти",
@@ -4700,7 +4339,7 @@
       "meanings": [
         {
           "en": "sum, amount of money",
-          "note": "Common feminine noun meaning 'sum, amount' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4784,7 +4423,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -4911,7 +4550,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4942,7 +4581,7 @@
       "meanings": [
         {
           "en": "to be in a hurry, to rush",
-          "note": "Не торопись = Don't rush. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to be in a hurry, to hurry', paired with 'поторопиться'."
+          "note": "Не торопись = Don't rush."
         }
       ],
       "forms": {
@@ -5209,99 +4848,17 @@
       "related": [
         {
           "word": "тысячный",
-          "gloss": "related to thousand (adj.)"
-        }
-      ]
-    },
-    "уволенный": {
-      "lemma": "уволенный",
-      "stress": "уво́ленный",
-      "pos": "adj",
-      "gloss": "fired, dismissed",
-      "meanings": [
-        {
-          "en": "fired, dismissed",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('fired, dismissed')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "уволенный",
-              "уволенная",
-              "уволенное",
-              "уволенные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "уволенного",
-              "уволенной",
-              "уволенного",
-              "уволенных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "уволенному",
-              "уволенной",
-              "уволенному",
-              "уволенным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "уволенный",
-              "уволенную",
-              "уволенное",
-              "уволенные"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "уволенным",
-              "уволенной",
-              "уволенным",
-              "уволенными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "уволенном",
-              "уволенной",
-              "уволенном",
-              "уволенных"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Вы все уволены.",
-          "trans": "You are all fired."
+          "gloss": "thousandth"
         },
         {
-          "text": "Ты не уволена, я просто пошутила.",
-          "trans": "You are not fired, I was simply joking."
+          "word": "миллион",
+          "gloss": "million"
+        },
+        {
+          "word": "сто",
+          "gloss": "hundred"
         }
-      ],
-      "related": []
+      ]
     },
     "уволить": {
       "lemma": "уволить",
@@ -5313,7 +4870,7 @@
       "meanings": [
         {
           "en": "to fire, to sack",
-          "note": "Уволен = fired (short participle). Used as a perfective (single completed action) verb meaning 'to fire, to dismiss', paired with 'увольнять'."
+          "note": "Уволен = fired (short participle)."
         }
       ],
       "forms": {
@@ -5368,6 +4925,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "уволь",
+                "увольте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5405,7 +4979,7 @@
       "meanings": [
         {
           "en": "to leave, go away, depart (by transport)",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to leave, to go away (by vehicle)', paired with 'уехать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5496,15 +5070,15 @@
       "related": [
         {
           "word": "уехать",
-          "gloss": "to leave"
+          "gloss": "to leave (pf)"
         },
         {
           "word": "приезжать",
-          "gloss": "to come"
+          "gloss": "to arrive"
         },
         {
           "word": "заезжать",
-          "gloss": "to move in"
+          "gloss": "to drop in, to call by"
         }
       ]
     },
@@ -5604,11 +5178,11 @@
       "meanings": [
         {
           "en": "to arrange, organize",
-          "note": "Transitive verb. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить'). Used as a perfective (single completed action) verb meaning 'to arrange, cause', paired with 'устраивать'."
+          "note": "Transitive verb. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить')."
         },
         {
           "en": "to cause",
-          "note": "A disturbance. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить'). Used as a perfective (single completed action) verb meaning 'to arrange, cause', paired with 'устраивать'."
+          "note": "A disturbance. Prefix 'у-' marks departure, removal, or successful completion (stem 'строить')."
         }
       ],
       "forms": {
@@ -5699,15 +5273,15 @@
       "related": [
         {
           "word": "устраивать",
-          "gloss": "to organize"
+          "gloss": "to organize (impf)"
         },
         {
-          "word": "построить",
-          "gloss": "to build"
+          "word": "устроиться",
+          "gloss": "to get a job, settle in"
         },
         {
-          "word": "настроение",
-          "gloss": "mood"
+          "word": "скандал",
+          "gloss": "scene, row"
         }
       ]
     },
@@ -5719,7 +5293,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6146,105 +5720,6 @@
         {
           "word": "этот",
           "gloss": "this (before a noun)"
-        }
-      ]
-    },
-    "этот": {
-      "lemma": "этот",
-      "stress": "э́тот",
-      "pos": "det",
-      "gloss": "this",
-      "meanings": [
-        {
-          "en": "this",
-          "note": "alone: 'я этого не хочу' = I don't want that"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "этот",
-              "эта",
-              "это",
-              "эти"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "этого",
-              "этой",
-              "этого",
-              "этих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "этому",
-              "этой",
-              "этому",
-              "этим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "этот / этого",
-              "эту",
-              "это",
-              "эти / этих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "этим",
-              "этой",
-              "этим",
-              "этими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "этом",
-              "этой",
-              "этом",
-              "этих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Этот дом.",
-          "trans": "This house."
-        },
-        {
-          "text": "Меня тошнит от этой коммуналки.",
-          "trans": "I'm sick of this communal flat."
-        },
-        {
-          "text": "Меня уже тошнит от этой коммуналки! У нас труба уже неделю течёт.",
-          "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
-        }
-      ],
-      "related": [
-        {
-          "word": "это",
-          "gloss": "this is, it"
         }
       ]
     },

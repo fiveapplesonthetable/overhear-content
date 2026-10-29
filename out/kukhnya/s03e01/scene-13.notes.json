@@ -183,10 +183,10 @@
         {
           "t": "шеф!",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -328,7 +328,7 @@
           "t": "Федя,",
           "lemma": "федя",
           "pos": "name",
-          "stress": null,
+          "stress": "фе́дя",
           "gloss": "Fedya",
           "gram": "nominative masculine singular"
         },
@@ -591,10 +591,10 @@
         {
           "t": "шеф!",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -736,7 +736,7 @@
           "t": "Федя,",
           "lemma": "федя",
           "pos": "name",
-          "stress": null,
+          "stress": "фе́дя",
           "gloss": "Fedya",
           "gram": "nominative masculine singular"
         },
@@ -999,10 +999,10 @@
         {
           "t": "шеф!",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -1144,7 +1144,7 @@
           "t": "Федя,",
           "lemma": "федя",
           "pos": "name",
-          "stress": null,
+          "stress": "фе́дя",
           "gloss": "Fedya",
           "gram": "nominative masculine singular"
         },
@@ -1260,7 +1260,7 @@
       "meanings": [
         {
           "en": "to loaf around, be idle",
-          "note": "Privative prefix 'без-' ('without, -less') (stem 'дельничать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to loaf around, be idle'."
+          "note": "From бездельник (без + дело)."
         }
       ],
       "forms": {
@@ -1315,26 +1315,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "бездельничай",
+                "бездельничайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Вы не должны стоять и бездельничать.",
-          "trans": "You must not stand around and loaf."
+          "trans": "You shouldn't be standing around doing nothing."
         },
         {
-          "text": "Надо всё сделать и бездельничать вовремя.",
-          "trans": "We need to do everything and to loaf around on time."
+          "text": "Хватит бездельничать, пора работать!",
+          "trans": "Stop loafing around, it's time to work!"
         }
       ],
       "related": [
         {
-          "word": "побездельничать",
-          "gloss": "to to loaf around (prefixed perfective)"
+          "word": "бездельник",
+          "gloss": "idler, slacker"
         },
         {
-          "word": "не бездельничать",
-          "gloss": "not to to loaf around (negated infinitive)"
+          "word": "лениться",
+          "gloss": "to be lazy"
         }
       ]
     },
@@ -1469,7 +1486,7 @@
         },
         {
           "en": "forward!, let's go!",
-          "note": "As a command. Core Russian adv meaning 'forward, ahead' in everyday speech."
+          "note": "As a command."
         }
       ],
       "forms": null,
@@ -1511,7 +1528,7 @@
         },
         {
           "en": "everyone",
-          "note": "Всем = to everyone (dative). Core Russian pron meaning 'all; everyone' in everyday speech."
+          "note": "Всем = to everyone (dative)."
         }
       ],
       "forms": null,
@@ -1534,10 +1551,6 @@
         {
           "word": "весь",
           "gloss": "all, whole"
-        },
-        {
-          "word": "всё",
-          "gloss": "everything"
         }
       ]
     },
@@ -1633,7 +1646,7 @@
       "meanings": [
         {
           "en": "grill (cooking apparatus)",
-          "note": "Common masculine noun meaning 'grill' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1701,12 +1714,12 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "жарить",
+          "gloss": "to fry, roast"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "мангал",
+          "gloss": "barbecue grill"
         }
       ]
     },
@@ -1722,7 +1735,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -1757,7 +1770,7 @@
       "meanings": [
         {
           "en": "for (the benefit of)",
-          "note": "+ genitive. Core Russian prep meaning 'for' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -1795,11 +1808,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1841,7 +1854,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -1926,10 +1939,11 @@
       "pos": "noun",
       "gloss": "order",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "order",
-          "note": "Declinable masculine noun meaning 'order', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "booking",
@@ -2090,7 +2104,7 @@
       "meanings": [
         {
           "en": "rabbit",
-          "note": "Common masculine noun meaning 'rabbit' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2125,8 +2139,8 @@
           {
             "cells": [
               "accusative",
-              "кролик",
-              "кролики"
+              "кролика",
+              "кроликов"
             ]
           },
           {
@@ -2166,7 +2180,7 @@
       "meanings": [
         {
           "en": "milk-fed, dairy",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('milk-fed, dairy')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2209,10 +2223,10 @@
           {
             "cells": [
               "accusative",
-              "молочный",
+              "молочный / молочного",
               "молочную",
               "молочное",
-              "молочные"
+              "молочные / молочных"
             ]
           },
           {
@@ -2248,12 +2262,16 @@
       ],
       "related": [
         {
-          "word": "молочно",
-          "gloss": "milk-fedly (adverbial form)"
+          "word": "молоко",
+          "gloss": "milk"
         },
         {
-          "word": "очень молочный",
-          "gloss": "very milk-fed"
+          "word": "молочные продукты",
+          "gloss": "dairy products"
+        },
+        {
+          "word": "молочный поросёнок",
+          "gloss": "suckling pig"
         }
       ]
     },
@@ -2391,7 +2409,7 @@
       "meanings": [
         {
           "en": "to be found, to turn up",
-          "note": "When something lost is found again. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to be found, to turn up', paired with 'находиться'."
+          "note": "When something lost is found again."
         }
       ],
       "forms": {
@@ -2468,15 +2486,15 @@
       "examples": [
         {
           "text": "Скажите спасибо, что собака нашлась.",
-          "trans": "Say thank you that the dog was found."
+          "trans": "Be grateful the dog turned up."
         },
         {
           "text": "Ключи нашлись!",
           "trans": "The keys turned up!"
         },
         {
-          "text": "Опоздал ты, Аркаша. Другие люди нашлись.",
-          "trans": "You're too late, Arkasha. Other people came along."
+          "text": "У нас для всех работа найдётся.",
+          "trans": "We'll find work for everyone."
         }
       ],
       "related": [
@@ -2574,7 +2592,7 @@
       "meanings": [
         {
           "en": "usually, typically",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2596,7 +2614,7 @@
       "related": [
         {
           "word": "обычный",
-          "gloss": "usually (adjective)"
+          "gloss": "usual, ordinary"
         }
       ]
     },
@@ -2608,7 +2626,7 @@
       "meanings": [
         {
           "en": "baked, roasted",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('baked, roasted')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2651,10 +2669,10 @@
           {
             "cells": [
               "accusative",
-              "печёный",
+              "печёный / печёного",
               "печёную",
               "печёное",
-              "печёные"
+              "печёные / печёных"
             ]
           },
           {
@@ -2684,18 +2702,18 @@
           "trans": "Baked plums with berries."
         },
         {
-          "text": "Шеф говорит, что это очень печёный выбор.",
-          "trans": "The chef says that this is a very baked choice."
+          "text": "Я люблю печёный картофель.",
+          "trans": "I love baked potatoes."
         }
       ],
       "related": [
         {
-          "word": "печёно",
-          "gloss": "bakedly (adverbial form)"
+          "word": "печь",
+          "gloss": "to bake"
         },
         {
-          "word": "очень печёный",
-          "gloss": "very baked"
+          "word": "выпечка",
+          "gloss": "baked goods"
         }
       ]
     },
@@ -2707,7 +2725,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -2749,11 +2767,11 @@
       "meanings": [
         {
           "en": "(it is) clear, understood",
-          "note": "Всё понятно = all clear. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Всё понятно = all clear."
         },
         {
           "en": "I see",
-          "note": "As a reply. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "As a reply."
         }
       ],
       "forms": null,
@@ -2879,14 +2897,14 @@
     },
     "розмарин": {
       "lemma": "розмарин",
-      "stress": "розма́рин",
+      "stress": "розмари́н",
       "pos": "noun",
       "gloss": "rosemary",
       "gender": "m",
       "meanings": [
         {
           "en": "rosemary",
-          "note": "Common masculine noun meaning 'rosemary' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2948,18 +2966,22 @@
           "trans": "Rabbit with rosemary."
         },
         {
-          "text": "На кухне ресторана всегда есть розмарин.",
-          "trans": "In the restaurant kitchen there is always rosemary."
+          "text": "Кролик, запечённый под миндальным соусом с розмарином и трюфелями.",
+          "trans": "Rabbit baked in almond sauce with rosemary and truffles."
         }
       ],
       "related": [
         {
-          "word": "без розмари",
-          "gloss": "without rosemary"
+          "word": "тимьян",
+          "gloss": "thyme"
         },
         {
-          "word": "наш розмарин",
-          "gloss": "our rosemary"
+          "word": "базилик",
+          "gloss": "basil"
+        },
+        {
+          "word": "специи",
+          "gloss": "spices"
         }
       ]
     },
@@ -3011,11 +3033,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3087,8 +3109,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -3101,7 +3131,7 @@
       "meanings": [
         {
           "en": "plum (fruit or tree)",
-          "note": "Common feminine noun meaning 'plum' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3169,16 +3199,12 @@
       ],
       "related": [
         {
-          "word": "наливать",
-          "gloss": "to pour"
+          "word": "сливовый",
+          "gloss": "plum (adj)"
         },
         {
-          "word": "сливать",
-          "gloss": "to dump"
-        },
-        {
-          "word": "обливаться",
-          "gloss": "to pour over oneself"
+          "word": "чернослив",
+          "gloss": "prunes"
         }
       ]
     },
@@ -3196,7 +3222,7 @@
         },
         {
           "en": "freeze!",
-          "note": "the infinitive 'Стоять!' as a police order"
+          "note": ""
         }
       ],
       "forms": {
@@ -3507,6 +3533,88 @@
         }
       ]
     },
+    "шеф": {
+      "lemma": "шеф",
+      "stress": "шеф",
+      "pos": "noun",
+      "gloss": "boss, chief",
+      "gender": "m",
+      "animacy": "anim",
+      "meanings": [
+        {
+          "en": "boss, chief",
+          "note": "Informal. Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "шеф",
+              "шефы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "шефу",
+              "шефам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "шефом",
+              "шефами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "шефе",
+              "шефах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хитро придумано, шеф!",
+          "trans": "Cleverly thought out, boss!"
+        },
+        {
+          "text": "Шеф подписал приказ.",
+          "trans": "The boss signed the order."
+        },
+        {
+          "text": "Шеф на кухне.",
+          "trans": "The chef is in the kitchen."
+        }
+      ],
+      "related": []
+    },
     "ягнёнок": {
       "lemma": "ягнёнок",
       "stress": "ягнёнок",
@@ -3517,7 +3625,7 @@
       "meanings": [
         {
           "en": "lamb, young sheep",
-          "note": "Formed with a diminutive/expressive Slavic suffix adding warmth or small scale. Common masculine noun meaning 'lamb' in everyday Russian."
+          "note": "suffix -ёнок marks a young animal (котёнок, телёнок); plural ягнята"
         }
       ],
       "forms": {
@@ -3598,7 +3706,7 @@
       "meanings": [
         {
           "en": "berry",
-          "note": "Usually plural ягоды = berries. Common feminine noun meaning 'berry' in everyday Russian."
+          "note": "Usually plural ягоды = berries."
         }
       ],
       "forms": {

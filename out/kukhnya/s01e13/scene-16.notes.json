@@ -251,7 +251,7 @@
           "lemma": "ночь",
           "pos": "noun",
           "stress": "но́чью",
-          "gloss": "night",
+          "gloss": "at night",
           "gram": "ins.f.sg"
         },
         {
@@ -376,7 +376,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "часа.",
@@ -961,7 +961,7 @@
           "lemma": "ночь",
           "pos": "noun",
           "stress": "но́чью",
-          "gloss": "night",
+          "gloss": "at night",
           "gram": "ins.f.sg"
         },
         {
@@ -1086,7 +1086,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "часа.",
@@ -1671,7 +1671,7 @@
           "lemma": "ночь",
           "pos": "noun",
           "stress": "но́чью",
-          "gloss": "night",
+          "gloss": "at night",
           "gram": "ins.f.sg"
         },
         {
@@ -1796,7 +1796,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "часа.",
@@ -2255,6 +2255,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "воспользуйся",
+                "воспользуйтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2273,12 +2290,8 @@
           "gloss": "to use"
         },
         {
-          "word": "воспитывать",
-          "gloss": "to bring up"
-        },
-        {
-          "word": "воспитание",
-          "gloss": "upbringing"
+          "word": "польза",
+          "gloss": "benefit, use"
         }
       ]
     },
@@ -2320,11 +2333,11 @@
       "meanings": [
         {
           "en": "nonsense, silly thing (often plural: глупости)",
-          "note": "Что за глупости? = What nonsense?. Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'nonsense, foolishness' in everyday Russian."
+          "note": "Что за глупости? = What nonsense?."
         },
         {
           "en": "stupidity, foolishness",
-          "note": "Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'nonsense, foolishness' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2530,7 +2543,7 @@
       "meanings": [
         {
           "en": "home, homeward (direction)",
-          "note": "Contrast дома = at home. Core Russian adv meaning '(to) home, homeward' in everyday speech."
+          "note": "Contrast дома = at home."
         }
       ],
       "forms": null,
@@ -2561,7 +2574,7 @@
       "meanings": [
         {
           "en": "to take away, to pick up",
-          "note": "забрать заявление = to withdraw a statement"
+          "note": "забрать детей из школы = to pick the kids up from school"
         },
         {
           "en": "to withdraw",
@@ -2733,6 +2746,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "затащи",
+                "затащите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2846,7 +2876,7 @@
       "meanings": [
         {
           "en": "club, nightclub, community centre",
-          "note": "Спортивный клуб = sports club. Common substantive noun meaning 'club' in everyday Russian."
+          "note": "Спортивный клуб = sports club."
         }
       ],
       "forms": {
@@ -2919,7 +2949,11 @@
       "related": [
         {
           "word": "клубный",
-          "gloss": "related to club (adj.)"
+          "gloss": "club (adj.)"
+        },
+        {
+          "word": "ночной клуб",
+          "gloss": "nightclub"
         }
       ]
     },
@@ -2931,7 +2965,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -2970,12 +3004,10 @@
       "stress": "лежа́ть",
       "pos": "verb",
       "gloss": "to lie, to be lying down",
-      "aspect": "impf",
-      "pair": "полежать",
       "meanings": [
         {
           "en": "to lie, to be lying",
-          "note": "+ на / в + prepositional. Used as an imperfective (ongoing/repeated action) verb meaning 'to lie, to be lying down', paired with 'полежать'."
+          "note": "+ на / в + prepositional."
         }
       ],
       "forms": {
@@ -3068,7 +3100,8 @@
           "word": "полежать",
           "gloss": "to lie for a while"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "минутный": {
       "lemma": "минутный",
@@ -3121,10 +3154,10 @@
           {
             "cells": [
               "accusative",
-              "минутный",
+              "минутный / минутного",
               "минутную",
               "минутное",
-              "минутные"
+              "минутные / минутных"
             ]
           },
           {
@@ -3286,7 +3319,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3338,6 +3371,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3406,40 +3456,6 @@
         }
       ]
     },
-    "надо": {
-      "lemma": "надо",
-      "stress": "на́до",
-      "pos": "adv",
-      "gloss": "it is necessary",
-      "meanings": [
-        {
-          "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Надо его помыть.",
-          "trans": "It needs a wash."
-        },
-        {
-          "text": "Надо сделать ещё больше.",
-          "trans": "We need to do even more."
-        },
-        {
-          "text": "Надо его помыть!",
-          "trans": "It needs a wash!"
-        }
-      ],
-      "related": [
-        {
-          "word": "понадобиться",
-          "gloss": "to be needed"
-        }
-      ]
-    },
     "находиться": {
       "lemma": "находиться",
       "stress": "находи́ться",
@@ -3450,7 +3466,7 @@
       "meanings": [
         {
           "en": "to be located, to be situated",
-          "note": "Imperfective reflexive verb. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'ходиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to be located, to be found', paired with 'найтись'."
+          "note": "Imperfective reflexive verb. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'ходиться')."
         }
       ],
       "forms": {
@@ -3540,16 +3556,16 @@
       ],
       "related": [
         {
-          "word": "найтись",
-          "gloss": "to be found"
+          "word": "находить",
+          "gloss": "to find"
         },
         {
-          "word": "приходить",
-          "gloss": "to come"
+          "word": "местонахождение",
+          "gloss": "location, whereabouts"
         },
         {
-          "word": "заходить",
-          "gloss": "to come in"
+          "word": "располагаться",
+          "gloss": "to be situated"
         }
       ]
     },
@@ -3600,7 +3616,7 @@
       "meanings": [
         {
           "en": "trouble, nuisance, problem",
-          "note": "Большие неприятности = big trouble. Negative prefix 'не-' ('un-, non-, not') (stem 'приятность'). Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'trouble, nuisance, unpleasantness' in everyday Russian."
+          "note": "Большие неприятности = big trouble. Negative prefix 'не-' ('un-, non-, not') (stem 'приятность')."
         }
       ],
       "forms": {
@@ -3886,7 +3902,7 @@
       "meanings": [
         {
           "en": "again",
-          "note": "Often with annoyance. Core Russian adv meaning 'again' in everyday speech."
+          "note": "Often with annoyance."
         }
       ],
       "forms": null,
@@ -3916,11 +3932,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -4032,7 +4048,7 @@
       "meanings": [
         {
           "en": "to cry, to weep",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to cry, to weep', paired with 'заплакать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4141,7 +4157,7 @@
       "meanings": [
         {
           "en": "to call, to phone",
-          "note": "+ dative: 'позвони мне' = call me. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звонить'). Used as a perfective (single completed action) verb meaning 'to call, to phone', paired with 'звонить'."
+          "note": "+ dative: 'позвони мне' = call me. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звонить')."
         }
       ],
       "forms": {
@@ -4277,88 +4293,6 @@
       ],
       "related": []
     },
-    "постель": {
-      "lemma": "постель",
-      "stress": "посте́ль",
-      "pos": "noun",
-      "gloss": "bed, bedding",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "bed, bedding",
-          "note": "furniture or place prepared for sleeping"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "постель",
-              "постели"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "постели",
-              "постелей"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "постели",
-              "постелям"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "постель",
-              "постели"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "постелью",
-              "постелями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "постели",
-              "постелях"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Она легла в постель.",
-          "trans": "She lay down in bed."
-        },
-        {
-          "text": "Ты опять затащил меня в постель?",
-          "trans": "Did you drag me into bed again?"
-        }
-      ],
-      "related": [
-        {
-          "word": "постельный",
-          "gloss": "bed"
-        }
-      ]
-    },
     "правда": {
       "lemma": "правда",
       "stress": "пра́вда",
@@ -4467,7 +4401,7 @@
       "meanings": [
         {
           "en": "to bring (carrying on foot)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести'). Used as a perfective (single completed action) verb meaning 'to bring (on foot)', paired with 'приносить'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести')."
         }
       ],
       "forms": {
@@ -4584,7 +4518,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4720,7 +4654,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -4819,13 +4753,17 @@
       "lemma": "связать",
       "stress": "связа́ть",
       "pos": "verb",
-      "gloss": "to tie up, to bind",
+      "gloss": "to tie up, bind; to knit",
       "aspect": "pf",
       "pair": "связывать",
       "meanings": [
         {
-          "en": "to tie up, to bind",
-          "note": "to fasten together with cords or rope"
+          "en": "to tie up, bind",
+          "note": ""
+        },
+        {
+          "en": "to knit",
+          "note": "связать платок = to knit a shawl"
         }
       ],
       "forms": {
@@ -4839,22 +4777,22 @@
           {
             "cells": [
               "1st",
-              "связаю",
-              "связаем"
+              "свяжу",
+              "свяжем"
             ]
           },
           {
             "cells": [
               "2nd",
-              "связаешь",
-              "связаете"
+              "свяжешь",
+              "свяжете"
             ]
           },
           {
             "cells": [
               "3rd",
-              "связает",
-              "связают"
+              "свяжет",
+              "свяжут"
             ]
           }
         ]
@@ -4877,6 +4815,23 @@
                 "связала",
                 "связало",
                 "связали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "свяжи",
+                "свяжите"
               ]
             }
           ]
@@ -4917,7 +4872,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -5029,7 +4984,7 @@
       "meanings": [
         {
           "en": "weakness, soft spot",
-          "note": "3rd-declension feminine noun in -ь. Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'weakness' in everyday Russian."
+          "note": "3rd-declension feminine noun in -ь."
         }
       ],
       "forms": {
@@ -5124,7 +5079,7 @@
         },
         {
           "en": "to laugh at (над + instrumental)",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to laugh', paired with 'засмеяться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5229,7 +5184,7 @@
       "meanings": [
         {
           "en": "to save, to rescue",
-          "note": "+ accusative. Used as a perfective (single completed action) verb meaning 'to save, to rescue', paired with 'спасать'."
+          "note": "+ accusative."
         }
       ],
       "forms": {
@@ -5332,7 +5287,7 @@
       "meanings": [
         {
           "en": "urgently, right away; predicative: it is urgent",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5367,7 +5322,7 @@
       "meanings": [
         {
           "en": "chair",
-          "note": "Irregular plural стулья. Common masculine noun meaning 'chair' in everyday Russian."
+          "note": "Irregular plural стулья."
         }
       ],
       "forms": {
@@ -5426,7 +5381,7 @@
       "examples": [
         {
           "text": "Я вот стулья взял!",
-          "trans": "I brought chairs right here!"
+          "trans": "I brought chairs, look!"
         },
         {
           "text": "Поставь стул к столу.",
@@ -5434,7 +5389,7 @@
         },
         {
           "text": "А зачем нам бревно? Я вот стулья взял!",
-          "trans": "And why do we need a log? I brought folding chairs right here!"
+          "trans": "Why do we need a log? I brought chairs, look!"
         }
       ],
       "related": []
@@ -5447,7 +5402,7 @@
       "meanings": [
         {
           "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
+          "note": "Direction."
         }
       ],
       "forms": null,
@@ -5485,7 +5440,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -5715,7 +5670,7 @@
       "meanings": [
         {
           "en": "that",
-          "note": "The one over there. Core Russian det meaning 'that' in everyday speech."
+          "note": "The one over there."
         },
         {
           "en": "that which, the thing",
@@ -5822,7 +5777,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -5852,11 +5807,11 @@
       "meanings": [
         {
           "en": "telephone receiver; the phone",
-          "note": "Бросить трубку = to hang up. Common feminine noun meaning '(phone) receiver; tube' in everyday Russian."
+          "note": "Бросить трубку = to hang up."
         },
         {
           "en": "tube, pipe",
-          "note": "Common feminine noun meaning '(phone) receiver; tube' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6033,7 +5988,7 @@
       "meanings": [
         {
           "en": "to leave on foot, go away",
-          "note": "Used as a perfective (single completed action) verb meaning 'to leave, go away', paired with 'уходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6485,6 +6440,23 @@
       ]
     },
     "над": {
+      "lemma": "над",
+      "stress": "над",
+      "pos": "prep",
+      "gloss": "over, above; at",
+      "governs": "+ instrumental",
+      "meanings": [
+        {
+          "en": "over, above",
+          "note": "+ instrumental."
+        },
+        {
+          "en": "at (laugh at)",
+          "note": "смеяться над = to laugh at; form надо before мной"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Лампа над столом.",
@@ -6499,33 +6471,16 @@
           "trans": "For my conduct? Are you laughing at me?"
         }
       ],
-      "forms": null,
-      "gloss": "over, above; at",
-      "governs": "+ instrumental",
-      "lemma": "над",
-      "meanings": [
-        {
-          "en": "over, above",
-          "note": "+ instrumental. Core Russian prep meaning 'over, above; at' in everyday speech."
-        },
-        {
-          "en": "at (laugh at)",
-          "note": "смеяться над = to laugh at; form надо before мной"
-        }
-      ],
-      "moreForms": [],
-      "pos": "prep",
       "related": [
         {
-          "gloss": "under",
-          "word": "под"
+          "word": "под",
+          "gloss": "under"
         },
         {
-          "gloss": "on",
-          "word": "на"
+          "word": "на",
+          "gloss": "on"
         }
-      ],
-      "stress": "над"
+      ]
     }
   }
 }

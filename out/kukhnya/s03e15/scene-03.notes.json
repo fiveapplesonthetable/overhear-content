@@ -43,8 +43,8 @@
           "lemma": "проснуться",
           "pos": "verb",
           "stress": "просну́лся",
-          "gloss": "wake up",
-          "gram": "UNKNOWN"
+          "gloss": "woke up",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
@@ -281,10 +281,10 @@
         {
           "t": "пригласительные",
           "lemma": "пригласительный",
-          "pos": "noun",
+          "pos": "adj",
           "stress": "пригласи́тельные",
-          "gloss": "wedding invitations",
-          "gram": "nominative / accusative plural"
+          "gloss": "invitations",
+          "gram": "accusative plural (substantivized adjective)"
         },
         {
           "t": "доклеить.",
@@ -414,9 +414,9 @@
           "t": "общаемся.",
           "lemma": "общаться",
           "pos": "verb",
-          "stress": "общае́мся",
-          "gloss": "to communicate, to talk with",
-          "gram": "1st person plural"
+          "stress": "обща́емся",
+          "gloss": "are on speaking terms, talk",
+          "gram": "1st person plural present, imperfective"
         }
       ]
     },
@@ -608,9 +608,9 @@
           "t": "крутым,",
           "lemma": "крутой",
           "pos": "adj",
-          "stress": "кру́тым",
+          "stress": "круты́м",
           "gloss": "cool, tough; steep",
-          "gram": "instrumental singular / dative plural"
+          "gram": "instrumental singular, masculine"
         },
         {
           "t": "как",
@@ -827,8 +827,8 @@
           "lemma": "проснуться",
           "pos": "verb",
           "stress": "просну́лся",
-          "gloss": "wake up",
-          "gram": "UNKNOWN"
+          "gloss": "woke up",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
@@ -1065,10 +1065,10 @@
         {
           "t": "пригласительные",
           "lemma": "пригласительный",
-          "pos": "noun",
+          "pos": "adj",
           "stress": "пригласи́тельные",
-          "gloss": "wedding invitations",
-          "gram": "nominative / accusative plural"
+          "gloss": "invitations",
+          "gram": "accusative plural (substantivized adjective)"
         },
         {
           "t": "доклеить.",
@@ -1198,9 +1198,9 @@
           "t": "общаемся.",
           "lemma": "общаться",
           "pos": "verb",
-          "stress": "общае́мся",
-          "gloss": "to communicate, to talk with",
-          "gram": "1st person plural"
+          "stress": "обща́емся",
+          "gloss": "are on speaking terms, talk",
+          "gram": "1st person plural present, imperfective"
         }
       ]
     },
@@ -1392,9 +1392,9 @@
           "t": "крутым,",
           "lemma": "крутой",
           "pos": "adj",
-          "stress": "кру́тым",
+          "stress": "круты́м",
           "gloss": "cool, tough; steep",
-          "gram": "instrumental singular / dative plural"
+          "gram": "instrumental singular, masculine"
         },
         {
           "t": "как",
@@ -1611,8 +1611,8 @@
           "lemma": "проснуться",
           "pos": "verb",
           "stress": "просну́лся",
-          "gloss": "wake up",
-          "gram": "UNKNOWN"
+          "gloss": "woke up",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
@@ -1849,10 +1849,10 @@
         {
           "t": "пригласительные",
           "lemma": "пригласительный",
-          "pos": "noun",
+          "pos": "adj",
           "stress": "пригласи́тельные",
-          "gloss": "wedding invitations",
-          "gram": "nominative / accusative plural"
+          "gloss": "invitations",
+          "gram": "accusative plural (substantivized adjective)"
         },
         {
           "t": "доклеить.",
@@ -1982,9 +1982,9 @@
           "t": "общаемся.",
           "lemma": "общаться",
           "pos": "verb",
-          "stress": "общае́мся",
-          "gloss": "to communicate, to talk with",
-          "gram": "1st person plural"
+          "stress": "обща́емся",
+          "gloss": "are on speaking terms, talk",
+          "gram": "1st person plural present, imperfective"
         }
       ]
     },
@@ -2176,9 +2176,9 @@
           "t": "крутым,",
           "lemma": "крутой",
           "pos": "adj",
-          "stress": "кру́тым",
+          "stress": "круты́м",
           "gloss": "cool, tough; steep",
-          "gram": "instrumental singular / dative plural"
+          "gram": "instrumental singular, masculine"
         },
         {
           "t": "как",
@@ -2586,7 +2586,7 @@
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -2637,6 +2637,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "гарантируй",
+                "гарантируйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2651,8 +2668,12 @@
       ],
       "related": [
         {
-          "word": "гараж",
-          "gloss": "garage"
+          "word": "гарантия",
+          "gloss": "guarantee"
+        },
+        {
+          "word": "обещать",
+          "gloss": "to promise"
         }
       ]
     },
@@ -2687,7 +2708,7 @@
             "cells": [
               "genitive",
               "года",
-              "лет"
+              "годов"
             ]
           },
           {
@@ -2714,7 +2735,7 @@
           {
             "cells": [
               "prepositional",
-              "годе (в году)",
+              "годе",
               "годах"
             ]
           }
@@ -2749,7 +2770,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2862,11 +2883,11 @@
       "pos": "verb",
       "gloss": "to finish gluing",
       "aspect": "pf",
-      "pair": null,
+      "pair": "доклеивать",
       "meanings": [
         {
           "en": "to finish gluing",
-          "note": "Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'клеить'). Used as a perfective (single completed action) verb meaning 'to finish gluing'."
+          "note": "Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'клеить')."
         }
       ],
       "forms": {
@@ -2921,22 +2942,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "доклей",
+                "доклейте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Костя, я просила тебя цветочки на пригласительные доклеить.",
-          "trans": "Kostya, I asked you to finish gluing little flowers on the invitations."
+          "trans": "Kostya, I asked you to finish gluing the little flowers onto the invitations."
         },
         {
-          "text": "Надо всё сделать и доклеить вовремя.",
-          "trans": "We need to do everything and to finish gluing on time."
+          "text": "Осталось только доклеить обои.",
+          "trans": "All that's left is to finish putting up the wallpaper."
         }
       ],
       "related": [
         {
-          "word": "не доклеить",
-          "gloss": "not to to finish gluing (negated infinitive)"
+          "word": "клеить",
+          "gloss": "to glue"
+        },
+        {
+          "word": "приклеить",
+          "gloss": "to stick on"
         }
       ]
     },
@@ -2948,7 +2990,7 @@
       "meanings": [
         {
           "en": "expensive",
-          "note": "to a loved one, and at the start of letters"
+          "note": ""
         },
         {
           "en": "dear",
@@ -2995,10 +3037,10 @@
           {
             "cells": [
               "accusative",
-              "дорогой/дорогого",
+              "дорогой / дорогого",
               "дорогую",
               "дорогое",
-              "дорогие/дорогих"
+              "дорогие / дорогих"
             ]
           },
           {
@@ -3021,29 +3063,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "дорог",
-                "дорога",
-                "дорого",
-                "дороги"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Это дорогая одежда.",
@@ -3074,7 +3094,7 @@
       "meanings": [
         {
           "en": "friend",
-          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3588,7 +3608,7 @@
       "meanings": [
         {
           "en": "to buy",
-          "note": "Used as a perfective (single completed action) verb meaning 'to buy', paired with 'покупать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3691,11 +3711,11 @@
       "meanings": [
         {
           "en": "may I?, can I?",
-          "note": "Asking permission. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Asking permission."
         },
         {
           "en": "it is possible",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3869,16 +3889,16 @@
       ],
       "related": [
         {
-          "word": "конечно",
-          "gloss": "of course"
+          "word": "наконец-то",
+          "gloss": "at last!"
         },
         {
           "word": "конец",
           "gloss": "end"
         },
         {
-          "word": "наконец-то",
-          "gloss": "at last"
+          "word": "в конце концов",
+          "gloss": "in the end, after all"
         }
       ]
     },
@@ -4025,13 +4045,13 @@
     },
     "недорогой": {
       "lemma": "недорогой",
-      "stress": "недоро́гой",
+      "stress": "недорого́й",
       "pos": "adj",
       "gloss": "inexpensive / affordable",
       "meanings": [
         {
           "en": "inexpensive / affordable",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'дорогой'). Agrees in gender, number, and case with the noun it modifies ('inexpensive / affordable')."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'дорогой')."
         }
       ],
       "forms": {
@@ -4074,10 +4094,10 @@
           {
             "cells": [
               "accusative",
-              "недорогой",
+              "недорогой / недорогого",
               "недорогую",
               "недорогое",
-              "недорогие"
+              "недорогие / недорогих"
             ]
           },
           {
@@ -4104,21 +4124,25 @@
       "examples": [
         {
           "text": "Я тебе гарантирую, у нас будет самая недорогая свадьба!",
-          "trans": "I guarantee you, we will have the finest inexpensive wedding!"
+          "trans": "I guarantee you, we'll have the cheapest wedding ever!"
         },
         {
-          "text": "Шеф говорит, что это очень недорогой выбор.",
-          "trans": "The chef says that this is a very inexpensive choice."
+          "text": "Мы нашли недорогой отель у моря.",
+          "trans": "We found an inexpensive hotel by the sea."
         }
       ],
       "related": [
         {
-          "word": "недорого",
-          "gloss": "inexpensively (adverbial form)"
+          "word": "дорогой",
+          "gloss": "expensive"
         },
         {
-          "word": "очень недорогой",
-          "gloss": "very inexpensive"
+          "word": "недорого",
+          "gloss": "inexpensively"
+        },
+        {
+          "word": "дешёвый",
+          "gloss": "cheap"
         }
       ]
     },
@@ -4208,11 +4232,11 @@
       "pos": "verb",
       "gloss": "to communicate, to talk with",
       "aspect": "impf",
-      "pair": null,
+      "pair": "пообщаться",
       "meanings": [
         {
           "en": "to communicate, to socialise, to have contact",
-          "note": "+ с + instrumental. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to communicate, to talk with'."
+          "note": "+ с + instrumental."
         }
       ],
       "forms": {
@@ -4310,7 +4334,7 @@
       "meanings": [
         {
           "en": "without fail, definitely, necessarily",
-          "note": "Firm promise or requirement. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Firm promise or requirement."
         }
       ],
       "forms": null,
@@ -4424,7 +4448,7 @@
       "meanings": [
         {
           "en": "again",
-          "note": "Often with annoyance. Core Russian adv meaning 'again' in everyday speech."
+          "note": "Often with annoyance."
         }
       ],
       "forms": null,
@@ -4454,7 +4478,7 @@
       "meanings": [
         {
           "en": "dress, frock",
-          "note": "Common neuter noun meaning 'dress, gown' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4544,7 +4568,7 @@
       "meanings": [
         {
           "en": "cook, chef",
-          "note": "Irregular plural повара. Common masculine noun meaning 'cook, chef' in everyday Russian."
+          "note": "Irregular plural повара."
         }
       ],
       "forms": {
@@ -4626,7 +4650,7 @@
       "meanings": [
         {
           "en": "to eat, to have something to eat",
-          "note": "Perfective of есть. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'есть'). Used as a perfective (single completed action) verb meaning 'to eat, to have a meal', paired with 'есть'."
+          "note": "Perfective of есть. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'есть')."
         }
       ],
       "forms": {
@@ -4733,7 +4757,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -4976,21 +5000,22 @@
     },
     "пригласительный": {
       "lemma": "пригласительный",
-      "stress": "пригласите́льный",
-      "pos": "noun",
-      "gloss": "wedding invitations",
-      "gender": "m",
+      "stress": "пригласи́тельный",
+      "pos": "adj",
+      "gloss": "invitation (card)",
       "meanings": [
         {
-          "en": "wedding invitations",
-          "note": "Common masculine noun meaning 'wedding invitations' in everyday Russian."
+          "en": "invitation (adj.); as a noun пригласительный = an invitation card",
+          "note": "пригласительный билет = invitation ticket"
         }
       ],
       "forms": {
         "title": "Declension",
         "columns": [
           "",
-          "sg",
+          "m",
+          "f",
+          "n",
           "pl"
         ],
         "rows": [
@@ -4998,42 +5023,54 @@
             "cells": [
               "nominative",
               "пригласительный",
-              "пригласительныи"
+              "пригласительная",
+              "пригласительное",
+              "пригласительные"
             ]
           },
           {
             "cells": [
               "genitive",
-              "пригласительныя",
-              "пригласительныев"
+              "пригласительного",
+              "пригласительной",
+              "пригласительного",
+              "пригласительных"
             ]
           },
           {
             "cells": [
               "dative",
-              "пригласительныю",
-              "пригласительныям"
+              "пригласительному",
+              "пригласительной",
+              "пригласительному",
+              "пригласительным"
             ]
           },
           {
             "cells": [
               "accusative",
-              "пригласительный",
-              "пригласительныи"
+              "пригласительный / пригласительного",
+              "пригласительную",
+              "пригласительное",
+              "пригласительные / пригласительных"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "пригласительныем",
-              "пригласительныями"
+              "пригласительным",
+              "пригласительной",
+              "пригласительным",
+              "пригласительными"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "пригласительные",
-              "пригласительныях"
+              "пригласительном",
+              "пригласительной",
+              "пригласительном",
+              "пригласительных"
             ]
           }
         ]
@@ -5042,21 +5079,21 @@
       "examples": [
         {
           "text": "Костя, я просила тебя цветочки на пригласительные доклеить.",
-          "trans": "Kostya, I asked you to finish gluing little flowers on the invitations."
+          "trans": "Kostya, I asked you to finish gluing the little flowers on the invitations."
         },
         {
-          "text": "На кухне ресторана всегда есть пригласительный.",
-          "trans": "In the restaurant kitchen there is always wedding invitations."
+          "text": "Лена, там ограниченное число пригласительных билетов.",
+          "trans": "Lena, there's a limited number of invitation tickets."
         }
       ],
       "related": [
         {
-          "word": "без пригласительны",
-          "gloss": "without wedding invitations"
+          "word": "приглашение",
+          "gloss": "invitation"
         },
         {
-          "word": "наш пригласительный",
-          "gloss": "our wedding invitations"
+          "word": "пригласить",
+          "gloss": "to invite"
         }
       ]
     },
@@ -5070,7 +5107,7 @@
       "meanings": [
         {
           "en": "to cook, to make (food), to prepare",
-          "note": "Takes accusative. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'готовить'). Used as a perfective (single completed action) verb meaning 'to prepare, to cook, to make', paired with 'готовить'."
+          "note": "Takes accusative. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'готовить')."
         }
       ],
       "forms": {
@@ -5207,135 +5244,6 @@
         }
       ]
     },
-    "приятный": {
-      "lemma": "приятный",
-      "stress": "прия́тный",
-      "pos": "adj",
-      "gloss": "pleasant, nice",
-      "meanings": [
-        {
-          "en": "pleasant, nice",
-          "note": "= Enjoy your meal!. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
-        },
-        {
-          "en": "Приятного аппетита!",
-          "note": "= Enjoy your meal!. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "приятный",
-              "приятная",
-              "приятное",
-              "приятные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "приятного",
-              "приятной",
-              "приятного",
-              "приятных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "приятному",
-              "приятной",
-              "приятному",
-              "приятным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "приятный / приятного",
-              "приятную",
-              "приятное",
-              "приятные / приятных"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "приятным",
-              "приятной",
-              "приятным",
-              "приятными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "приятном",
-              "приятной",
-              "приятном",
-              "приятных"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "приятен",
-                "приятна",
-                "приятно",
-                "приятны"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Приятного аппетита!",
-          "trans": "Enjoy your meal!"
-        },
-        {
-          "text": "Он очень приятный человек.",
-          "trans": "He's a very nice person."
-        },
-        {
-          "text": "Хорошо! Приятного вечера.",
-          "trans": "Very well! Have a pleasant evening."
-        }
-      ],
-      "related": [
-        {
-          "word": "приятно",
-          "gloss": "in a pleasant way (adv.)"
-        },
-        {
-          "word": "приятность",
-          "gloss": "quality of being pleasant"
-        }
-      ]
-    },
     "просить": {
       "lemma": "просить",
       "stress": "проси́ть",
@@ -5350,7 +5258,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5455,7 +5363,7 @@
       "meanings": [
         {
           "en": "wake up",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'wake up'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5507,6 +5415,23 @@
                 "проснулась",
                 "проснулось",
                 "проснулись"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "проснись",
+                "проснитесь"
               ]
             }
           ]
@@ -5665,7 +5590,7 @@
       "meanings": [
         {
           "en": "birth",
-          "note": "День рождения = birthday. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'birth' in everyday Russian."
+          "note": "День рождения = birthday."
         }
       ],
       "forms": {
@@ -5849,7 +5774,7 @@
       "meanings": [
         {
           "en": "wedding, marriage ceremony",
-          "note": "Marriage celebration. Common feminine noun meaning 'wedding' in everyday Russian."
+          "note": "Marriage celebration."
         }
       ],
       "forms": {
@@ -5907,8 +5832,8 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Посмотри фильм Свадьба по скайпу.",
-          "trans": "Watch the movie Wedding on Skype."
+          "text": "Мы обязательно сыграем большую свадьбу!",
+          "trans": "We'll definitely have a big wedding!"
         },
         {
           "text": "Макс, зачем ты соврал про нашу будущую свадьбу?",
@@ -6005,7 +5930,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -6318,7 +6243,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6423,7 +6348,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -6475,6 +6400,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -6693,7 +6635,7 @@
       "meanings": [
         {
           "en": "something, anything",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'anything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {

@@ -2453,7 +2453,7 @@
       "meanings": [
         {
           "en": "without",
-          "note": "+ genitive. Core Russian prep meaning 'without' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2800,7 +2800,7 @@
       "meanings": [
         {
           "en": "apparently, evidently",
-          "note": "Parenthetical adverb. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Parenthetical adverb."
         }
       ],
       "forms": null,
@@ -2822,7 +2822,15 @@
       "related": [
         {
           "word": "видимый",
-          "gloss": "apparently (adjective)"
+          "gloss": "visible"
+        },
+        {
+          "word": "видно",
+          "gloss": "one can see"
+        },
+        {
+          "word": "наверное",
+          "gloss": "probably"
         }
       ]
     },
@@ -2985,11 +2993,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -3028,7 +3036,7 @@
       "meanings": [
         {
           "en": "time",
-          "note": "Проводить время = to spend time. Common neuter noun meaning 'time' in everyday Russian."
+          "note": "Проводить время = to spend time."
         }
       ],
       "forms": {
@@ -3102,84 +3110,6 @@
         {
           "word": "временно",
           "gloss": "temporarily"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -3441,11 +3371,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3512,11 +3442,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -3628,11 +3558,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -3712,12 +3642,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -3800,6 +3730,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "изменись",
+                "изменитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3840,7 +3787,7 @@
       "meanings": [
         {
           "en": "given name, first name",
-          "note": "Common neuter noun meaning 'name' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3954,7 +3901,7 @@
       "meanings": [
         {
           "en": "kilogram, kilo",
-          "note": "Unit of weight. Common masculine noun meaning 'kilogram, kilo' in everyday Russian."
+          "note": "Unit of weight."
         }
       ],
       "forms": {
@@ -3976,7 +3923,7 @@
             "cells": [
               "genitive",
               "килограмма",
-              "килограммов"
+              "килограмм"
             ]
           },
           {
@@ -4034,7 +3981,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -4181,11 +4128,11 @@
       "meanings": [
         {
           "en": "to gather, collect, rack up (views, points)",
-          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'брать'). Used as a perfective (single completed action) verb meaning 'to gather, rack up (views/points); to dial', paired with 'набирать'."
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'брать')."
         },
         {
           "en": "to dial (a phone number)",
-          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'брать'). Used as a perfective (single completed action) verb meaning 'to gather, rack up (views/points); to dial', paired with 'набирать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4296,7 +4243,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -4421,6 +4368,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "научись",
+                "научитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4498,7 +4462,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -4584,7 +4548,7 @@
         },
         {
           "en": "to stay",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to remain, to be left', paired with 'оставаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4774,15 +4738,15 @@
       "examples": [
         {
           "text": "Ну, значит, ошиблась.",
-          "trans": "Well, I must have mistaken you for someone else."
+          "trans": "Well, then I was wrong."
         },
         {
           "text": "Извините, я ошибся.",
           "trans": "Sorry, I made a mistake."
         },
         {
-          "text": "Ну, значит, ошиблась. Всё.",
-          "trans": "Well, I must have mistaken you for someone else. That's all."
+          "text": "Если ты ошибёшься, я тебя сразу уволю.",
+          "trans": "If you make a mistake, I'll fire you on the spot."
         }
       ],
       "related": [
@@ -4810,7 +4774,7 @@
       "meanings": [
         {
           "en": "to remember",
-          "note": "To keep in memory. Used as an imperfective (ongoing/repeated action) verb meaning 'to remember'."
+          "note": "To keep in memory."
         }
       ],
       "forms": {
@@ -4947,11 +4911,11 @@
       "meanings": [
         {
           "en": "right, just, directly",
-          "note": "Прямо так = just like that. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Прямо так = just like that."
         },
         {
           "en": "straight ahead",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5241,7 +5205,7 @@
       "meanings": [
         {
           "en": "very much, deeply, strongly",
-          "note": "Adverb of degree. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb of degree."
         }
       ],
       "forms": null,
@@ -5280,11 +5244,11 @@
       "meanings": [
         {
           "en": "sense, meaning",
-          "note": "'В смысле?'. Common masculine noun meaning 'sense, meaning' in everyday Russian."
+          "note": "'В смысле?'."
         },
         {
           "en": "what do you mean?",
-          "note": "'В смысле?'. Common masculine noun meaning 'sense, meaning' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5369,15 +5333,15 @@
       "meanings": [
         {
           "en": "happy",
-          "note": "Сч is pronounced like щ. Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": "Сч is pronounced like щ."
         },
         {
           "en": "lucky",
-          "note": "Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": ""
         },
         {
           "en": "happy (ending)",
-          "note": "Счастливый конец = happy ending. Qualitative adjective formed with the productive suffix '-тельный'/'-ливый'. Agrees in gender, number, and case with the noun it modifies ('happy; lucky')."
+          "note": "Счастливый конец = happy ending."
         }
       ],
       "forms": {
@@ -5446,29 +5410,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "счастлив",
-                "счастлива",
-                "счастливо",
-                "счастливы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я очень счастливый.",
@@ -5498,7 +5440,7 @@
       "meanings": [
         {
           "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
+          "note": "Direction."
         }
       ],
       "forms": null,
@@ -5574,67 +5516,23 @@
       "meanings": [
         {
           "en": "that",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'that', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Здесь находится наш ресторан.",
-          "trans": "Our restaurant is located right here."
+          "text": "Ну, то, что ты говорил.",
+          "trans": "Well, what you were saying."
         },
         {
-          "text": "Мы теперь работаем в этом отеле.",
-          "trans": "We now work in this hotel."
+          "text": "Если проблема только в этом, то да.",
+          "trans": "If that's the only problem, then yes."
         },
         {
-          "text": "Чем отличается ресторан при отеле?",
-          "trans": "How does a hotel restaurant differ?"
+          "text": "А то мы уже начали беспокоиться.",
+          "trans": "Otherwise we were already starting to worry."
         }
       ],
       "related": []
@@ -5764,7 +5662,7 @@
       "meanings": [
         {
           "en": "to smile",
-          "note": "Кому = at someone (dative). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to smile', paired with 'улыбнуться'."
+          "note": "Кому = at someone (dative)."
         }
       ],
       "forms": {
@@ -5869,7 +5767,7 @@
       "meanings": [
         {
           "en": "to smile (once)",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to smile', paired with 'улыбаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5972,7 +5870,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6173,7 +6071,7 @@
         },
         {
           "en": "in order to",
-          "note": "+ infinitive. Core Russian conj meaning 'so that, in order to' in everyday speech."
+          "note": "+ infinitive."
         }
       ],
       "forms": null,

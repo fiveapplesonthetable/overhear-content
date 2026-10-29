@@ -322,7 +322,7 @@
           "pos": "adj",
           "stress": "здоро́вы",
           "gloss": "healthy; (colloq.) huge",
-          "gram": "nominative masculine singular"
+          "gram": "short form, plural"
         }
       ]
     },
@@ -395,8 +395,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "малышка",
@@ -736,7 +736,7 @@
           "pos": "adj",
           "stress": "здоро́вы",
           "gloss": "healthy; (colloq.) huge",
-          "gram": "nominative masculine singular"
+          "gram": "short form, plural"
         }
       ]
     },
@@ -809,8 +809,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "малышка",
@@ -1150,7 +1150,7 @@
           "pos": "adj",
           "stress": "здоро́вы",
           "gloss": "healthy; (colloq.) huge",
-          "gram": "nominative masculine singular"
+          "gram": "short form, plural"
         }
       ]
     },
@@ -1223,8 +1223,8 @@
           "lemma": "какой",
           "pos": "det",
           "stress": "како́й",
-          "gloss": "what a, how",
-          "gram": "nominative masculine singular, exclamation"
+          "gloss": "what, which; what a",
+          "gram": "nominative / accusative masculine singular"
         },
         {
           "t": "малышка",
@@ -1548,11 +1548,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1670,7 +1670,7 @@
         },
         {
           "en": "big, hefty",
-          "note": "Colloquial. Agrees in gender, number, and case with the noun it modifies ('healthy, well; huge (colloq.)')."
+          "note": "Colloquial."
         }
       ],
       "forms": {
@@ -1713,10 +1713,10 @@
           {
             "cells": [
               "accusative",
-              "здоровый",
+              "здоровый / здорового",
               "здоровую",
               "здоровое",
-              "здоровые"
+              "здоровые / здоровых"
             ]
           },
           {
@@ -1773,7 +1773,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -1880,7 +1880,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -1902,7 +1902,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -1915,7 +1919,7 @@
       "meanings": [
         {
           "en": "sweetheart, baby, little girl",
-          "note": "Endearment for a young woman. Common feminine noun meaning 'baby, little girl, sweetheart' in everyday Russian."
+          "note": "Endearment for a young woman."
         }
       ],
       "forms": {
@@ -2002,7 +2006,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2054,6 +2058,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -2130,7 +2151,7 @@
         },
         {
           "en": "ни... ни = neither... nor",
-          "note": "Core Russian part meaning 'not a (single); neither... nor' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2207,7 +2228,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -2312,7 +2333,7 @@
       "meanings": [
         {
           "en": "to happen",
-          "note": "Что случилось? = what happened?. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to happen', paired with 'случаться'."
+          "note": "Что случилось? = what happened?."
         }
       ],
       "forms": {
@@ -2367,6 +2388,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "случись",
+                "случитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2399,7 +2437,7 @@
       "meanings": [
         {
           "en": "back",
-          "note": "За спиной = behind one's back. Common feminine noun meaning 'back (body part)' in everyday Russian."
+          "note": "За спиной = behind one's back."
         }
       ],
       "forms": {
@@ -2485,7 +2523,7 @@
         },
         {
           "en": "freeze!",
-          "note": "the infinitive 'Стоять!' as a police order"
+          "note": ""
         }
       ],
       "forms": {
@@ -2588,7 +2626,7 @@
       "meanings": [
         {
           "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
+          "note": "Direction."
         }
       ],
       "forms": null,
@@ -2622,7 +2660,7 @@
       "meanings": [
         {
           "en": "there, thither (towards that place)",
-          "note": "Directional adverb. Core Russian adv meaning 'there, thither (motion)' in everyday speech."
+          "note": "Directional adverb."
         }
       ],
       "forms": null,
@@ -2660,7 +2698,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2962,7 +3000,7 @@
       "meanings": [
         {
           "en": "to move, stir (a limb, part of body)",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to move, stir, budge', paired with 'пошевелить'."
+          "note": ""
         }
       ],
       "forms": {

@@ -40,7 +40,7 @@
           "t": "съесть",
           "lemma": "съесть",
           "pos": "verb",
-          "stress": null,
+          "stress": "съе́сть",
           "gloss": "to eat (up)",
           "gram": "infinitive"
         },
@@ -358,7 +358,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "су-шефа.",
@@ -466,7 +466,7 @@
           "pos": "noun",
           "stress": "услу́гу",
           "gloss": "service, favor",
-          "gram": "accusative / dative singular"
+          "gram": "accusative singular"
         }
       ]
     },
@@ -477,10 +477,10 @@
         {
           "t": "Шеф!",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "Вас",
@@ -584,7 +584,7 @@
           "t": "съесть",
           "lemma": "съесть",
           "pos": "verb",
-          "stress": null,
+          "stress": "съе́сть",
           "gloss": "to eat (up)",
           "gram": "infinitive"
         },
@@ -902,7 +902,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "су-шефа.",
@@ -1010,7 +1010,7 @@
           "pos": "noun",
           "stress": "услу́гу",
           "gloss": "service, favor",
-          "gram": "accusative / dative singular"
+          "gram": "accusative singular"
         }
       ]
     },
@@ -1021,10 +1021,10 @@
         {
           "t": "Шеф!",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "Вас",
@@ -1128,7 +1128,7 @@
           "t": "съесть",
           "lemma": "съесть",
           "pos": "verb",
-          "stress": null,
+          "stress": "съе́сть",
           "gloss": "to eat (up)",
           "gram": "infinitive"
         },
@@ -1446,7 +1446,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "су-шефа.",
@@ -1554,7 +1554,7 @@
           "pos": "noun",
           "stress": "услу́гу",
           "gloss": "service, favor",
-          "gram": "accusative / dative singular"
+          "gram": "accusative singular"
         }
       ]
     },
@@ -1565,10 +1565,10 @@
         {
           "t": "Шеф!",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "Вас",
@@ -1667,7 +1667,7 @@
       "meanings": [
         {
           "en": "actor, performer",
-          "note": "Contains ё, no acute mark. Common masculine noun meaning 'actor' in everyday Russian."
+          "note": "Contains ё, no acute mark."
         }
       ],
       "forms": {
@@ -1747,7 +1747,7 @@
       "meanings": [
         {
           "en": "for free, free of charge",
-          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'платно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'платно')."
         }
       ],
       "forms": null,
@@ -1789,7 +1789,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2037,84 +2037,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вы": {
       "lemma": "вы",
       "stress": "вы",
@@ -2202,7 +2124,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -2287,11 +2208,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2329,11 +2250,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2679,11 +2600,11 @@
       "meanings": [
         {
           "en": "sorry, excuse me",
-          "note": "Imperative: извини / извините. Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "Imperative: извини / извините."
         },
         {
           "en": "to excuse, to forgive",
-          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'винить'). Used as a perfective (single completed action) verb meaning 'to excuse; (imperative) sorry, excuse me', paired with 'извинять'."
+          "note": "+ accusative (кого)."
         }
       ],
       "forms": {
@@ -2763,12 +2684,12 @@
           "trans": "Sorry, I'm in a hurry."
         },
         {
-          "text": "Извини, пожалуйста.",
-          "trans": "Sorry, please."
+          "text": "Извини, я не хотела обидеть.",
+          "trans": "Sorry, I didn't mean to offend you."
         },
         {
-          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
-          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, excuse me, there's someone here to see you."
         }
       ],
       "related": [
@@ -2925,11 +2846,15 @@
       "related": [
         {
           "word": "покушать",
+          "gloss": "to have something to eat"
+        },
+        {
+          "word": "есть",
           "gloss": "to eat"
         },
         {
-          "word": "накушаться",
-          "gloss": "to get drunk"
+          "word": "кушать подано",
+          "gloss": "dinner is served"
         }
       ]
     },
@@ -2937,11 +2862,11 @@
       "lemma": "медвежий",
       "stress": "медве́жий",
       "pos": "adj",
-      "gloss": "bear's (disservice)",
+      "gloss": "bear's; медвежья услуга = disservice",
       "meanings": [
         {
-          "en": "bear's (disservice)",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('bear's (disservice)')."
+          "en": "bear's, of a bear",
+          "note": "медвежья услуга = a disservice (well-meant help that harms)"
         }
       ],
       "forms": {
@@ -2958,54 +2883,54 @@
             "cells": [
               "nominative",
               "медвежий",
-              "медвежая",
-              "медвежее",
-              "медвежие"
+              "медвежья",
+              "медвежье",
+              "медвежьи"
             ]
           },
           {
             "cells": [
               "genitive",
-              "медвежего",
-              "медвежей",
-              "медвежего",
-              "медвежих"
+              "медвежьего",
+              "медвежьей",
+              "медвежьего",
+              "медвежьих"
             ]
           },
           {
             "cells": [
               "dative",
-              "медвежему",
-              "медвежей",
-              "медвежему",
-              "медвежим"
+              "медвежьему",
+              "медвежьей",
+              "медвежьему",
+              "медвежьим"
             ]
           },
           {
             "cells": [
               "accusative",
-              "медвежий",
-              "медвежую",
-              "медвежее",
-              "медвежие"
+              "медвежий / медвежьего",
+              "медвежью",
+              "медвежье",
+              "медвежьи / медвежьих"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "медвежим",
-              "медвежей",
-              "медвежим",
-              "медвежими"
+              "медвежьим",
+              "медвежьей",
+              "медвежьим",
+              "медвежьими"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "медвежем",
-              "медвежей",
-              "медвежем",
-              "медвежих"
+              "медвежьем",
+              "медвежьей",
+              "медвежьем",
+              "медвежьих"
             ]
           }
         ]
@@ -3014,17 +2939,21 @@
       "examples": [
         {
           "text": "Ты что хотел сказать? Нагиев оказал медвежью услугу.",
-          "trans": "What did you want to say? Nagiyev did us a disservice."
+          "trans": "What did you mean? Nagiyev did us a disservice."
         },
         {
-          "text": "Шеф говорит, что это очень медвежий выбор.",
-          "trans": "The chef says that this is a very bear's choice."
+          "text": "Это медвежья берлога.",
+          "trans": "This is a bear's den."
         }
       ],
       "related": [
         {
-          "word": "очень медвежий",
-          "gloss": "very bear's"
+          "word": "медведь",
+          "gloss": "bear"
+        },
+        {
+          "word": "медвежья услуга",
+          "gloss": "disservice"
         }
       ]
     },
@@ -3037,7 +2966,7 @@
       "meanings": [
         {
           "en": "month",
-          "note": "Уже месяц = for a month now. Common masculine noun meaning 'month' in everyday Russian."
+          "note": "Уже месяц = for a month now."
         }
       ],
       "forms": {
@@ -3119,7 +3048,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3171,6 +3100,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3399,15 +3345,15 @@
     },
     "оказать": {
       "lemma": "оказать",
-      "stress": "ока́зать",
+      "stress": "оказа́ть",
       "pos": "verb",
-      "gloss": "rendered, did",
+      "gloss": "to render, provide",
       "aspect": "pf",
-      "pair": null,
+      "pair": "оказывать",
       "meanings": [
         {
-          "en": "rendered, did",
-          "note": "Used as a perfective (single completed action) verb meaning 'rendered, did'."
+          "en": "to render, provide (help, a service, a welcome)",
+          "note": "оказать помощь / услугу / приём; медвежья услуга = a disservice"
         }
       ],
       "forms": {
@@ -3421,22 +3367,22 @@
           {
             "cells": [
               "1st",
-              "оказаю",
-              "оказаем"
+              "окажу",
+              "окажем"
             ]
           },
           {
             "cells": [
               "2nd",
-              "оказаешь",
-              "оказаете"
+              "окажешь",
+              "окажете"
             ]
           },
           {
             "cells": [
               "3rd",
-              "оказает",
-              "оказают"
+              "окажет",
+              "окажут"
             ]
           }
         ]
@@ -3462,22 +3408,47 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "окажи",
+                "окажите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Потом оказался инсульт.",
-          "trans": "Then it turned out to be a stroke."
+          "text": "Ты что хотел сказать? Нагиев оказал медвежью услугу.",
+          "trans": "What were you trying to say? Nagiyev did us a disservice."
         },
         {
-          "text": "Ты что хотел сказать? Нагиев оказал медвежью услугу.",
-          "trans": "What did you want to say? Nagiyev did us a disservice."
+          "text": "Тогда тем более нужно оказать хороший приём!",
+          "trans": "All the more reason to give them a good welcome!"
         }
       ],
       "related": [
         {
-          "word": "не оказать",
-          "gloss": "not to rendered (negated infinitive)"
+          "word": "оказывать",
+          "gloss": "to render (impf)"
+        },
+        {
+          "word": "помощь",
+          "gloss": "help"
+        },
+        {
+          "word": "услуга",
+          "gloss": "service, favour"
         }
       ]
     },
@@ -3489,11 +3460,11 @@
       "meanings": [
         {
           "en": "near, close to",
-          "note": "With genitive. Core Russian prep meaning 'near, about' in everyday speech."
+          "note": "With genitive."
         },
         {
           "en": "approximately",
-          "note": "With genitive. Core Russian prep meaning 'near, about' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3617,11 +3588,11 @@
       "meanings": [
         {
           "en": "(it is) clear, understood",
-          "note": "Всё понятно = all clear. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Всё понятно = all clear."
         },
         {
           "en": "I see",
-          "note": "As a reply. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "As a reply."
         }
       ],
       "forms": null,
@@ -3661,7 +3632,7 @@
         },
         {
           "en": "to introduce, present",
-          "note": "Someone or something. Used as an imperfective (ongoing/repeated action) verb meaning 'to imagine; to introduce, present', paired with 'представить'."
+          "note": "Someone or something."
         }
       ],
       "forms": {
@@ -3883,11 +3854,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3959,8 +3930,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -4012,7 +3991,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4103,29 +4082,29 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
     "су-шеф": {
       "lemma": "су-шеф",
-      "stress": "су́-шеф",
+      "stress": "су-ше́ф",
       "pos": "noun",
       "gloss": "sous-chef",
       "gender": "m",
       "animacy": "anim",
       "meanings": [
         {
-          "en": "second-in-command chef",
-          "note": "Common masculine noun meaning 'sous-chef' in everyday Russian."
+          "en": "sous-chef, the chef's second-in-command",
+          "note": ""
         }
       ],
       "forms": {
@@ -4207,7 +4186,7 @@
       "meanings": [
         {
           "en": "to eat, to eat up",
-          "note": "A whole portion; completed action. Used as a perfective (single completed action) verb meaning 'to eat (up)', paired with 'есть'."
+          "note": "A whole portion; completed action."
         }
       ],
       "forms": {
@@ -4396,7 +4375,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4425,7 +4404,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -4614,7 +4593,15 @@
       "related": [
         {
           "word": "тысячный",
-          "gloss": "related to thousand (adj.)"
+          "gloss": "thousandth"
+        },
+        {
+          "word": "миллион",
+          "gloss": "million"
+        },
+        {
+          "word": "сто",
+          "gloss": "hundred"
         }
       ]
     },
@@ -4703,7 +4690,7 @@
       "meanings": [
         {
           "en": "service, favor",
-          "note": "Common feminine noun meaning 'service, favor' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4785,7 +4772,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4837,6 +4824,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -5059,7 +5063,7 @@
       "meanings": [
         {
           "en": "a little, slightly",
-          "note": "Чуть-чуть = a tiny bit. Core Russian adv meaning 'a little; nearly' in everyday speech."
+          "note": "Чуть-чуть = a tiny bit."
         },
         {
           "en": "nearly, almost",
@@ -5088,6 +5092,88 @@
           "gloss": "a little bit"
         }
       ]
+    },
+    "шеф": {
+      "lemma": "шеф",
+      "stress": "шеф",
+      "pos": "noun",
+      "gloss": "boss, chief",
+      "gender": "m",
+      "animacy": "anim",
+      "meanings": [
+        {
+          "en": "boss, chief",
+          "note": "Informal. Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "шеф",
+              "шефы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "шефу",
+              "шефам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "шефом",
+              "шефами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "шефе",
+              "шефах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хитро придумано, шеф!",
+          "trans": "Cleverly thought out, boss!"
+        },
+        {
+          "text": "Шеф подписал приказ.",
+          "trans": "The boss signed the order."
+        },
+        {
+          "text": "Шеф на кухне.",
+          "trans": "The chef is in the kitchen."
+        }
+      ],
+      "related": []
     },
     "это": {
       "lemma": "это",

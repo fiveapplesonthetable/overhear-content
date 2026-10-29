@@ -1627,7 +1627,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -1727,10 +1727,10 @@
           {
             "cells": [
               "accusative",
-              "беременного",
+              "беременный / беременного",
               "беременную",
               "беременное",
-              "беременных"
+              "беременные / беременных"
             ]
           },
           {
@@ -1778,7 +1778,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2389,7 +2389,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2427,7 +2427,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2480,11 +2480,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2515,11 +2515,11 @@
       "meanings": [
         {
           "en": "to wait (for)",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": "+ accusative."
         },
         {
           "en": "to expect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2626,7 +2626,7 @@
       "meanings": [
         {
           "en": "noticeably, visibly",
-          "note": "Manner or predicative adverb in '-о' derived from the corresponding adjective stem, used in everyday speech to mean 'noticeably'."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2648,7 +2648,11 @@
       "related": [
         {
           "word": "заметный",
-          "gloss": "noticeably (adjective)"
+          "gloss": "noticeable"
+        },
+        {
+          "word": "незаметно",
+          "gloss": "unnoticeably"
         }
       ]
     },
@@ -2657,12 +2661,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2717,6 +2719,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2736,17 +2755,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "мы": {
       "lemma": "мы",
@@ -2838,7 +2858,7 @@
       "meanings": [
         {
           "en": "small, not large, modest",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'большой'). Agrees in gender, number, and case with the noun it modifies ('small, modest')."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'большой')."
         }
       ],
       "forms": {
@@ -2881,10 +2901,10 @@
           {
             "cells": [
               "accusative",
-              "небольшой",
+              "небольшой / небольшого",
               "небольшую",
               "небольшое",
-              "небольшие"
+              "небольшие / небольших"
             ]
           },
           {
@@ -3019,11 +3039,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -3195,22 +3215,26 @@
           "trans": "Now let's go through everything in order."
         },
         {
-          "text": "Всё в полном порядке.",
-          "trans": "Everything is in complete order."
+          "text": "Не бойся, всё в порядке!",
+          "trans": "Don't worry, everything's fine!"
         },
         {
-          "text": "Теперь давай всё по порядку. Скажи мне, сколько ты им должна?",
-          "trans": "Now let's go through everything in order. Tell me, how much do you owe them?"
+          "text": "Да, я наведу здесь железный порядок.",
+          "trans": "Yes, I'll establish iron order here."
         }
       ],
       "related": [
         {
-          "word": "рядом",
-          "gloss": "nearby"
+          "word": "в порядке",
+          "gloss": "fine, OK"
         },
         {
-          "word": "порядочность",
-          "gloss": "decency"
+          "word": "порядочный",
+          "gloss": "decent"
+        },
+        {
+          "word": "беспорядок",
+          "gloss": "mess, disorder"
         }
       ]
     },
@@ -3408,7 +3432,7 @@
       "meanings": [
         {
           "en": "to check, to test, to verify",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'верить'). Used as a perfective (single completed action) verb meaning 'to check, to test', paired with 'проверять'."
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'верить')."
         }
       ],
       "forms": {
@@ -3520,7 +3544,7 @@
       "meanings": [
         {
           "en": "child",
-          "note": "Plural: дети. Common masculine noun meaning 'child' in everyday Russian."
+          "note": "Plural: дети."
         }
       ],
       "forms": {
@@ -3668,11 +3692,11 @@
       "meanings": [
         {
           "en": "term (of office)",
-          "note": "Второй срок = a second term. Common masculine noun meaning 'term, period' in everyday Russian."
+          "note": "Второй срок = a second term."
         },
         {
           "en": "period, deadline",
-          "note": "Common masculine noun meaning 'term, period' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3752,7 +3776,7 @@
       "meanings": [
         {
           "en": "urgently, right away; predicative: it is urgent",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3790,7 +3814,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -3884,7 +3908,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4046,7 +4070,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {

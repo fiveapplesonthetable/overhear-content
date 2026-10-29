@@ -71,10 +71,10 @@
         {
           "t": "Шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "тут",
@@ -291,7 +291,7 @@
           "lemma": "поставить",
           "pos": "verb",
           "stress": "поста́вим",
-          "gloss": "will put on",
+          "gloss": "will put, install",
           "gram": "future, 1st person plural, perfective"
         },
         {
@@ -563,7 +563,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -863,10 +863,10 @@
         {
           "t": "Шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "тут",
@@ -1083,7 +1083,7 @@
           "lemma": "поставить",
           "pos": "verb",
           "stress": "поста́вим",
-          "gloss": "will put on",
+          "gloss": "will put, install",
           "gram": "future, 1st person plural, perfective"
         },
         {
@@ -1355,7 +1355,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1655,10 +1655,10 @@
         {
           "t": "Шеф",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         },
         {
           "t": "тут",
@@ -1875,7 +1875,7 @@
           "lemma": "поставить",
           "pos": "verb",
           "stress": "поста́вим",
-          "gloss": "will put on",
+          "gloss": "will put, install",
           "gram": "future, 1st person plural, perfective"
         },
         {
@@ -2147,7 +2147,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -2596,7 +2596,7 @@
       "meanings": [
         {
           "en": "cheerfully, merrily, in high spirits",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2636,7 +2636,7 @@
       "meanings": [
         {
           "en": "to worry, to be nervous",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2825,7 +2825,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2893,13 +2893,17 @@
       "lemma": "жечь",
       "stress": "жечь",
       "pos": "verb",
-      "gloss": "burns / stings",
+      "gloss": "to burn",
       "aspect": "impf",
-      "pair": null,
+      "pair": "сжечь",
       "meanings": [
         {
-          "en": "burns / stings",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'burns / stings'."
+          "en": "to burn",
+          "note": ""
+        },
+        {
+          "en": "to sting, to smart",
+          "note": "жжёт = it stings"
         }
       ],
       "forms": {
@@ -2913,22 +2917,22 @@
           {
             "cells": [
               "1st",
-              "жею",
-              "жеем"
+              "жгу",
+              "жжём"
             ]
           },
           {
             "cells": [
               "2nd",
-              "жеешь",
-              "жеете"
+              "жжёшь",
+              "жжёте"
             ]
           },
           {
             "cells": [
               "3rd",
-              "жеет",
-              "жеют"
+              "жжёт",
+              "жгут"
             ]
           }
         ]
@@ -2947,10 +2951,27 @@
             {
               "cells": [
                 "past",
-                "жел",
-                "жела",
-                "жело",
-                "жели"
+                "жёг",
+                "жгла",
+                "жгло",
+                "жгли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "жги",
+                "жгите"
               ]
             }
           ]
@@ -2958,22 +2979,22 @@
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и жечь вовремя.",
-          "trans": "We need to do everything and burns on time."
+          "text": "Очень сильно жжёт!",
+          "trans": "It stings really badly!"
         },
         {
-          "text": "На нашей кухне все умеют жечь.",
-          "trans": "In our kitchen everyone knows how to burns."
+          "text": "Ничего особенного не происходит, жжём твоё меню!",
+          "trans": "Nothing special going on, we're just burning your menu!"
         }
       ],
       "related": [
         {
-          "word": "пожечь",
-          "gloss": "to burns (prefixed perfective)"
+          "word": "сжечь",
+          "gloss": "to burn (up) (pf)"
         },
         {
-          "word": "не жечь",
-          "gloss": "not to burns (negated infinitive)"
+          "word": "ожог",
+          "gloss": "burn (injury)"
         }
       ]
     },
@@ -2987,7 +3008,7 @@
       "meanings": [
         {
           "en": "to defend, protect (country, family, rights)",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to defend, protect', paired with 'защитить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3165,10 +3186,11 @@
       "pos": "noun",
       "gloss": "bonfire",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "bonfire",
-          "note": "Common masculine noun meaning 'bonfire' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3183,42 +3205,42 @@
             "cells": [
               "nominative",
               "костёр",
-              "костёры"
+              "костры"
             ]
           },
           {
             "cells": [
               "genitive",
-              "костёра",
-              "костёров"
+              "костра",
+              "костров"
             ]
           },
           {
             "cells": [
               "dative",
-              "костёру",
-              "костёрам"
+              "костру",
+              "кострам"
             ]
           },
           {
             "cells": [
               "accusative",
               "костёр",
-              "костёры"
+              "костры"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "костёром",
-              "костёрами"
+              "костром",
+              "кострами"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "костёре",
-              "костёрах"
+              "костре",
+              "кострах"
             ]
           }
         ]
@@ -3226,26 +3248,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Костя, у меня сейчас огромная проблема.",
-          "trans": "Kostya, I have a huge problem right now."
+          "text": "И будем весело прыгать через этот костёр!",
+          "trans": "And we'll have fun jumping over this bonfire!"
         },
         {
-          "text": "Костя, а где мой готовый коктейль?",
-          "trans": "Kostya, where is my finished cocktail?"
-        },
-        {
-          "text": "Костя, что тут сложного? Всё очень сложно!",
-          "trans": "Kostya, what is hard about it? Everything is hard!"
+          "text": "Мы сидели у костра всю ночь.",
+          "trans": "We sat by the campfire all night."
         }
       ],
       "related": [
         {
-          "word": "без костё",
-          "gloss": "without bonfire"
+          "word": "огонь",
+          "gloss": "fire"
         },
         {
-          "word": "наш костёр",
-          "gloss": "our bonfire"
+          "word": "дрова",
+          "gloss": "firewood"
         }
       ]
     },
@@ -3358,42 +3376,42 @@
             "cells": [
               "nominative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "genitive",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "dative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "accusative",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "instrumental",
               "меню",
-              "—"
+              "меню"
             ]
           },
           {
             "cells": [
               "prepositional",
               "меню",
-              "—"
+              "меню"
             ]
           }
         ]
@@ -3503,7 +3521,7 @@
       "meanings": [
         {
           "en": "immediately, at once",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'медленно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'медленно')."
         }
       ],
       "forms": null,
@@ -3799,7 +3817,7 @@
       "meanings": [
         {
           "en": "fire, gunfire",
-          "note": "Shooting from weapons. Common masculine noun meaning 'fire, gunfire' in everyday Russian."
+          "note": "Shooting from weapons."
         }
       ],
       "forms": {
@@ -3978,7 +3996,7 @@
       "meanings": [
         {
           "en": "special, unusual, particular",
-          "note": "Standing out from others. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('special, particular')."
+          "note": "Standing out from others."
         }
       ],
       "forms": {
@@ -4021,10 +4039,10 @@
           {
             "cells": [
               "accusative",
-              "особенный",
+              "особенный / особенного",
               "особенную",
               "особенное",
-              "особенные"
+              "особенные / особенных"
             ]
           },
           {
@@ -4083,11 +4101,11 @@
       "pos": "verb",
       "gloss": "to fine, penalize",
       "aspect": "pf",
-      "pair": null,
+      "pair": "штрафовать",
       "meanings": [
         {
           "en": "to fine, penalize",
-          "note": "Russian perfective verb focusing on a single completed action or result meaning 'to fine'; conjugates for person and number in the present/future and agrees in gender in the past tense."
+          "note": ""
         }
       ],
       "forms": {
@@ -4142,6 +4160,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "оштрафуй",
+                "оштрафуйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4151,7 +4186,7 @@
         },
         {
           "text": "Если рыба останется, я вас оштрафую!",
-          "trans": "If fish remains, I will fine you!"
+          "trans": "If any fish is left over, I'll fine you!"
         },
         {
           "text": "Меня он оштрафовал.",
@@ -4168,11 +4203,11 @@
       "meanings": [
         {
           "en": "in front of",
-          "note": "Takes the instrumental. Core Russian prep meaning 'in front of, before' in everyday speech."
+          "note": "Takes the instrumental."
         },
         {
           "en": "before (in time)",
-          "note": "Core Russian prep meaning 'in front of, before' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4307,7 +4342,7 @@
       "meanings": [
         {
           "en": "stove, cooktop",
-          "note": "Declinable feminine noun meaning 'stove', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "slab",
@@ -4398,7 +4433,7 @@
       "meanings": [
         {
           "en": "to turn out, to work out",
-          "note": "Всё получилось = it all worked out. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to turn out, to work out', paired with 'получаться'."
+          "note": "Всё получилось = it all worked out."
         },
         {
           "en": "to come out of, to make",
@@ -4457,6 +4492,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "получись",
+                "получитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4494,11 +4546,11 @@
       "meanings": [
         {
           "en": "to put, to stand (something upright)",
-          "note": "Поставить защёлку = fit a latch. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ставить'). Used as a perfective (single completed action) verb meaning 'to put, to place (upright)', paired with 'ставить'."
+          "note": "Поставить защёлку = fit a latch. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ставить')."
         },
         {
           "en": "to install",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ставить'). Used as a perfective (single completed action) verb meaning 'to put, to place (upright)', paired with 'ставить'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ставить')."
         }
       ],
       "forms": {
@@ -4601,7 +4653,7 @@
       "meanings": [
         {
           "en": "constantly, continuously, always",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4675,7 +4727,7 @@
       "meanings": [
         {
           "en": "to stop, put an end to",
-          "note": "Прекрати! = Stop it!. Used as a perfective (single completed action) verb meaning 'to stop, quit', paired with 'прекращать'."
+          "note": "Прекрати! = Stop it!."
         }
       ],
       "forms": {
@@ -4835,6 +4887,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "происходи",
+                "происходите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4854,11 +4923,11 @@
       "related": [
         {
           "word": "произойти",
-          "gloss": "to happen"
+          "gloss": "to happen (pf)"
         },
         {
-          "word": "исходный",
-          "gloss": "initial"
+          "word": "происшествие",
+          "gloss": "incident"
         }
       ]
     },
@@ -4909,7 +4978,7 @@
         },
         {
           "en": "to hop in, to jump in (a car)",
-          "note": "colloquial imperative прыгай! = jump in!"
+          "note": ""
         }
       ],
       "forms": {
@@ -5016,11 +5085,11 @@
       "meanings": [
         {
           "en": "right, just, directly",
-          "note": "Прямо так = just like that. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Прямо так = just like that."
         },
         {
           "en": "straight ahead",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5054,7 +5123,7 @@
       "meanings": [
         {
           "en": "drunk, intoxicated",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('drunk')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5097,10 +5166,10 @@
           {
             "cells": [
               "accusative",
-              "пьяный/пьяного",
+              "пьяный / пьяного",
               "пьяную",
               "пьяное",
-              "пьяные/пьяных"
+              "пьяные / пьяных"
             ]
           },
           {
@@ -5159,7 +5228,7 @@
       "meanings": [
         {
           "en": "to get upset, feel distressed",
-          "note": "Не расстраивайся = don't be upset. Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'страиваться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to get upset, to worry', paired with 'расстроиться'."
+          "note": "Не расстраивайся = don't be upset. Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'страиваться')."
         }
       ],
       "forms": {
@@ -5250,11 +5319,11 @@
       "related": [
         {
           "word": "расстроиться",
-          "gloss": "to get upset"
+          "gloss": "to get upset (pf)"
         },
         {
-          "word": "устраивать",
-          "gloss": "to organize"
+          "word": "переживать",
+          "gloss": "to worry"
         }
       ]
     },
@@ -5266,7 +5335,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -5510,7 +5579,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -5679,7 +5748,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -5734,6 +5803,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5769,13 +5855,13 @@
       "lemma": "увольняться",
       "stress": "увольня́ться",
       "pos": "verb",
-      "gloss": "quit, resign",
+      "gloss": "to quit, to resign",
       "aspect": "impf",
-      "pair": null,
+      "pair": "уволиться",
       "meanings": [
         {
           "en": "quit, resign",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'quit, resign'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5830,6 +5916,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увольняйся",
+                "увольняйтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5865,7 +5968,7 @@
       "meanings": [
         {
           "en": "please, do (softening or emphatic particle)",
-          "note": "Вы уж нас извините = do forgive us. Core Russian part meaning 'really, please (softening particle)' in everyday speech."
+          "note": "Вы уж нас извините = do forgive us."
         }
       ],
       "forms": null,
@@ -5910,7 +6013,7 @@
         },
         {
           "en": "that's enough!",
-          "note": "Хватит!. Used as a perfective (single completed action) verb meaning 'to be enough', paired with 'хватать'."
+          "note": "Хватит!."
         }
       ],
       "forms": {
@@ -5965,6 +6068,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хвати",
+                "хватите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5984,15 +6104,15 @@
       "related": [
         {
           "word": "хватать",
-          "gloss": "to grab"
+          "gloss": "to be enough (impf); to grab"
         },
         {
-          "word": "схватить",
-          "gloss": "to grab"
+          "word": "хватит!",
+          "gloss": "that's enough!"
         },
         {
-          "word": "перехватить",
-          "gloss": "to intercept"
+          "word": "достаточно",
+          "gloss": "enough"
         }
       ]
     },
@@ -6006,7 +6126,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -6058,6 +6178,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -6187,7 +6324,7 @@
         },
         {
           "en": "through, across",
-          "note": "Core Russian prep meaning 'in (time); through' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6314,7 +6451,7 @@
         },
         {
           "en": "in order to",
-          "note": "+ infinitive. Core Russian conj meaning 'so that, in order to' in everyday speech."
+          "note": "+ infinitive."
         }
       ],
       "forms": null,
@@ -6344,6 +6481,88 @@
         }
       ]
     },
+    "шеф": {
+      "lemma": "шеф",
+      "stress": "шеф",
+      "pos": "noun",
+      "gloss": "boss, chief",
+      "gender": "m",
+      "animacy": "anim",
+      "meanings": [
+        {
+          "en": "boss, chief",
+          "note": "Informal. Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "шеф",
+              "шефы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "шефу",
+              "шефам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "шефом",
+              "шефами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "шефе",
+              "шефах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хитро придумано, шеф!",
+          "trans": "Cleverly thought out, boss!"
+        },
+        {
+          "text": "Шеф подписал приказ.",
+          "trans": "The boss signed the order."
+        },
+        {
+          "text": "Шеф на кухне.",
+          "trans": "The chef is in the kitchen."
+        }
+      ],
+      "related": []
+    },
     "шум": {
       "lemma": "шум",
       "stress": "шум",
@@ -6353,7 +6572,7 @@
       "meanings": [
         {
           "en": "noise",
-          "note": "Common substantive noun meaning 'noise' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6426,7 +6645,11 @@
       "related": [
         {
           "word": "шумный",
-          "gloss": "related to noise (adj.)"
+          "gloss": "noisy"
+        },
+        {
+          "word": "шуметь",
+          "gloss": "to make noise"
         }
       ]
     },

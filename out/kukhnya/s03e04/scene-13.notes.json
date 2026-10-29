@@ -168,7 +168,7 @@
           "pos": "noun",
           "stress": "го́стя",
           "gloss": "guest, visitor",
-          "gram": "acc.m.sg"
+          "gram": "genitive singular"
         }
       ]
     },
@@ -221,7 +221,7 @@
           "lemma": "уйти",
           "pos": "verb",
           "stress": "ушли́",
-          "gloss": "we have gone",
+          "gloss": "left, went away",
           "gram": "plural past (perfective)"
         }
       ]
@@ -728,7 +728,7 @@
           "pos": "noun",
           "stress": "го́стя",
           "gloss": "guest, visitor",
-          "gram": "acc.m.sg"
+          "gram": "genitive singular"
         }
       ]
     },
@@ -781,7 +781,7 @@
           "lemma": "уйти",
           "pos": "verb",
           "stress": "ушли́",
-          "gloss": "we have gone",
+          "gloss": "left, went away",
           "gram": "plural past (perfective)"
         }
       ]
@@ -1288,7 +1288,7 @@
           "pos": "noun",
           "stress": "го́стя",
           "gloss": "guest, visitor",
-          "gram": "acc.m.sg"
+          "gram": "genitive singular"
         }
       ]
     },
@@ -1341,7 +1341,7 @@
           "lemma": "уйти",
           "pos": "verb",
           "stress": "ушли́",
-          "gloss": "we have gone",
+          "gloss": "left, went away",
           "gram": "plural past (perfective)"
         }
       ]
@@ -1911,11 +1911,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1970,6 +1970,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2003,13 +2020,13 @@
     },
     "вкусненький": {
       "lemma": "вкусненький",
-      "stress": "вкусне́нький",
+      "stress": "вку́сненький",
       "pos": "adj",
-      "gloss": "something tasty",
+      "gloss": "tasty, yummy",
       "meanings": [
         {
-          "en": "something tasty",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('something tasty')."
+          "en": "tasty, yummy",
+          "note": "affectionate diminutive of вкусный; что-нибудь вкусненькое = something tasty"
         }
       ],
       "forms": {
@@ -2052,10 +2069,10 @@
           {
             "cells": [
               "accusative",
-              "вкусненький",
+              "вкусненький / вкусненького",
               "вкусненькую",
               "вкусненькое",
-              "вкусненькие"
+              "вкусненькие / вкусненьких"
             ]
           },
           {
@@ -2085,96 +2102,18 @@
           "trans": "Bring something else tasty."
         },
         {
-          "text": "Шеф говорит, что это очень вкусненький выбор.",
-          "trans": "The chef says that this is a very something tasty choice."
+          "text": "Мама испекла вкусненький пирог.",
+          "trans": "Mum baked a yummy pie."
         }
       ],
       "related": [
+        {
+          "word": "вкусный",
+          "gloss": "tasty"
+        },
         {
           "word": "вкусненько",
-          "gloss": "something tastyly (adverbial form)"
-        },
-        {
-          "word": "очень вкусненький",
-          "gloss": "very something tasty"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
+          "gloss": "nice and tasty"
         }
       ]
     },
@@ -2354,49 +2293,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -2407,11 +2303,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2502,15 +2402,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2522,11 +2422,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2568,11 +2468,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2641,7 +2541,7 @@
       "meanings": [
         {
           "en": "to close, shut down (of a venue)",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to close, shut'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2693,6 +2593,23 @@
                 "закрывалась",
                 "закрывалось",
                 "закрывались"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "закрывайся",
+                "закрывайтесь"
               ]
             }
           ]
@@ -2958,7 +2875,7 @@
       "meanings": [
         {
           "en": "march! off you go! (command)",
-          "note": "Core Russian interj meaning 'march! (military command: шагом марш! = forward march!)' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3051,7 +2968,15 @@
       "related": [
         {
           "word": "счёт",
-          "gloss": "account"
+          "gloss": "account, bill"
+        },
+        {
+          "word": "по поводу",
+          "gloss": "regarding"
+        },
+        {
+          "word": "о",
+          "gloss": "about"
         }
       ]
     },
@@ -3206,7 +3131,7 @@
       "meanings": [
         {
           "en": "to stay, to remain",
-          "note": "Остаётся у нас = stays with us. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to stay, to remain', paired with 'остаться'."
+          "note": "Остаётся у нас = stays with us."
         }
       ],
       "forms": {
@@ -3317,7 +3242,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -3359,7 +3284,7 @@
       "meanings": [
         {
           "en": "last, final",
-          "note": "Последний раз = for the last time. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('last, final')."
+          "note": "Последний раз = for the last time."
         }
       ],
       "forms": {
@@ -3402,10 +3327,10 @@
           {
             "cells": [
               "accusative",
-              "последний",
+              "последний / последнего",
               "последнюю",
               "последнее",
-              "последние"
+              "последние / последних"
             ]
           },
           {
@@ -3484,7 +3409,7 @@
       "meanings": [
         {
           "en": "to bring (carrying on foot)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести'). Used as a perfective (single completed action) verb meaning 'to bring (on foot)', paired with 'приносить'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести')."
         }
       ],
       "forms": {
@@ -3601,7 +3526,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3738,7 +3663,7 @@
       "meanings": [
         {
           "en": "conversation, talk, discussion",
-          "note": "Spoken exchange. Common masculine noun meaning 'conversation, talk' in everyday Russian."
+          "note": "Spoken exchange."
         }
       ],
       "forms": {
@@ -3797,15 +3722,15 @@
       "examples": [
         {
           "text": "Есть интересный разговор.",
-          "trans": "There's an interesting conversation."
+          "trans": "I've got something interesting to discuss."
         },
         {
           "text": "У нас с тобой серьёзный разговор.",
-          "trans": "You and I have a serious talk to have."
+          "trans": "You and I need to have a serious talk."
         },
         {
-          "text": "Есть интересный разговор. Всё хорошо, малыш.",
-          "trans": "There's an interesting conversation. Everything is fine, kid."
+          "text": "Разговор окончен, идите!",
+          "trans": "This conversation is over, go!"
         }
       ],
       "related": [
@@ -3871,11 +3796,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3947,8 +3872,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -4004,7 +3937,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4095,15 +4028,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -4232,7 +4165,7 @@
       "meanings": [
         {
           "en": "to leave on foot, go away",
-          "note": "Used as a perfective (single completed action) verb meaning 'to leave, go away', paired with 'уходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4337,7 +4270,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -4389,6 +4322,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -4521,7 +4471,7 @@
       "meanings": [
         {
           "en": "something, anything",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'anything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -4595,160 +4545,35 @@
       "lemma": "что-то",
       "stress": "что́-то",
       "pos": "pron",
-      "gloss": "something; somehow",
+      "gloss": "something",
       "meanings": [
         {
           "en": "something",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'something; somehow', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": "instrumental чем-то: чем-то помочь = help with something"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "что-того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "что-тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "что-том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "что-том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "А что-то случилось?",
-          "trans": "Did something happen?"
+          "text": "Так может быть, тебе надо чем-то помочь?",
+          "trans": "So maybe you need help with something?"
         },
         {
-          "text": "Что-то случилось?",
-          "trans": "Has something happened?"
-        },
-        {
-          "text": "Что-то я устал.",
-          "trans": "Somehow I'm tired."
+          "text": "Могу я чем-то помочь?",
+          "trans": "Can I help with anything?"
         }
       ],
       "related": [
         {
-          "word": "что-нибудь",
-          "gloss": "something"
+          "word": "что",
+          "gloss": "what"
+        },
+        {
+          "word": "кто-то",
+          "gloss": "someone"
         }
       ]
-    },
-    "шаг": {
-      "lemma": "шаг",
-      "stress": "шаг",
-      "pos": "noun",
-      "gloss": "step, pace",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "step, pace, move",
-          "note": "movement by foot or figurative action"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "шаг",
-              "шаги"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "шага",
-              "шагов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "шагу",
-              "шагам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "шаг",
-              "шаги"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "шагом",
-              "шагами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "шаге",
-              "шагах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Надо следить за каждым шагом соперника.",
-          "trans": "We must monitor every step of the rival."
-        },
-        {
-          "text": "Он сделал шаг вперёд.",
-          "trans": "He took a step forward."
-        },
-        {
-          "text": "Надо следить за каждым шагом кандидата.",
-          "trans": "We must monitor every step of the candidate."
-        }
-      ],
-      "related": []
     },
     "шагом": {
       "lemma": "шагом",
@@ -4779,8 +4604,16 @@
       ],
       "related": [
         {
-          "word": "очень шагом",
-          "gloss": "intensified / related adverb (at a walk)"
+          "word": "шаг",
+          "gloss": "step"
+        },
+        {
+          "word": "шагать",
+          "gloss": "to march"
+        },
+        {
+          "word": "шагом марш",
+          "gloss": "forward march"
         }
       ]
     },

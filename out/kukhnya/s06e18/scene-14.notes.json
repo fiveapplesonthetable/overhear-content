@@ -500,11 +500,11 @@
         },
         {
           "t": "возражения?",
-          "lemma": "возражения",
+          "lemma": "возражение",
           "pos": "noun",
-          "stress": "возражени́я",
-          "gloss": "any",
-          "gram": "nominative / accusative"
+          "stress": "возраже́ния",
+          "gloss": "objections",
+          "gram": "plural nominative"
         }
       ]
     },
@@ -1052,11 +1052,11 @@
         },
         {
           "t": "возражения?",
-          "lemma": "возражения",
+          "lemma": "возражение",
           "pos": "noun",
-          "stress": "возражени́я",
-          "gloss": "any",
-          "gram": "nominative / accusative"
+          "stress": "возраже́ния",
+          "gloss": "objections",
+          "gram": "plural nominative"
         }
       ]
     },
@@ -1604,11 +1604,11 @@
         },
         {
           "t": "возражения?",
-          "lemma": "возражения",
+          "lemma": "возражение",
           "pos": "noun",
-          "stress": "возражени́я",
-          "gloss": "any",
-          "gram": "nominative / accusative"
+          "stress": "возраже́ния",
+          "gloss": "objections",
+          "gram": "plural nominative"
         }
       ]
     },
@@ -1718,14 +1718,14 @@
     },
     "борьба": {
       "lemma": "борьба",
-      "stress": "бо́рьба",
+      "stress": "борьба́",
       "pos": "noun",
-      "gloss": "struggle / contest",
+      "gloss": "struggle, fight",
       "gender": "f",
       "meanings": [
         {
           "en": "struggle / contest",
-          "note": "Common feminine noun meaning 'struggle / contest' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1740,42 +1740,42 @@
             "cells": [
               "nominative",
               "борьба",
-              "борьбы"
+              "—"
             ]
           },
           {
             "cells": [
               "genitive",
               "борьбы",
-              "борьб"
+              "—"
             ]
           },
           {
             "cells": [
               "dative",
               "борьбе",
-              "борьбам"
+              "—"
             ]
           },
           {
             "cells": [
               "accusative",
               "борьбу",
-              "борьбы"
+              "—"
             ]
           },
           {
             "cells": [
               "instrumental",
               "борьбой",
-              "борьбами"
+              "—"
             ]
           },
           {
             "cells": [
               "prepositional",
               "борьбе",
-              "борьбах"
+              "—"
             ]
           }
         ]
@@ -1793,12 +1793,12 @@
       ],
       "related": [
         {
-          "word": "без борьб",
-          "gloss": "without struggle"
+          "word": "бороться",
+          "gloss": "to fight, struggle"
         },
         {
-          "word": "наш борьба",
-          "gloss": "our struggle"
+          "word": "борец",
+          "gloss": "fighter, wrestler"
         }
       ]
     },
@@ -1956,14 +1956,18 @@
     },
     "бюллетень": {
       "lemma": "бюллетень",
-      "stress": "бюлле́тень",
+      "stress": "бюллете́нь",
       "pos": "noun",
-      "gloss": "ballots",
+      "gloss": "ballot (paper); sick note",
       "gender": "m",
       "meanings": [
         {
-          "en": "ballots",
-          "note": "Common masculine noun meaning 'ballots' in everyday Russian."
+          "en": "ballot, ballot paper",
+          "note": "избирательный бюллетень"
+        },
+        {
+          "en": "sick note, sick leave (colloquial)",
+          "note": "быть на бюллетене = to be on sick leave"
         }
       ],
       "forms": {
@@ -2026,21 +2030,21 @@
         },
         {
           "text": "Взял бюллетень и пошёл проголосовал.",
-          "trans": "Take a ballot and go vote."
+          "trans": "Took a ballot and went and voted."
         },
         {
-          "text": "Можете забирать бюллетени на салат.",
-          "trans": "You can take the ballots for salad."
+          "text": "Каждый избиратель получает один бюллетень.",
+          "trans": "Each voter gets one ballot."
         }
       ],
       "related": [
         {
-          "word": "без бюллетен",
-          "gloss": "without ballots"
+          "word": "выборы",
+          "gloss": "elections"
         },
         {
-          "word": "наш бюллетень",
-          "gloss": "our ballots"
+          "word": "голосовать",
+          "gloss": "to vote"
         }
       ]
     },
@@ -2098,7 +2102,7 @@
         },
         {
           "en": "what if (in hypotheses)",
-          "note": "А вдруг... = what if. Core Russian adv meaning 'suddenly; all of a sudden' in everyday speech."
+          "note": "А вдруг... = what if."
         }
       ],
       "forms": null,
@@ -2119,131 +2123,17 @@
       ],
       "related": []
     },
-    "весь": {
-      "lemma": "весь",
-      "stress": "весь",
-      "pos": "det",
-      "gloss": "all, whole; everyone, everything",
-      "meanings": [
-        {
-          "en": "all, the whole",
-          "note": "The neuter form 'всё' used alone. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
-        },
-        {
-          "en": "everything",
-          "note": "Neuter всё. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
-        },
-        {
-          "en": "everyone",
-          "note": "Plural все. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "весь",
-              "вся",
-              "всё",
-              "все"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всего",
-              "всей",
-              "всего",
-              "всех"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всему",
-              "всей",
-              "всему",
-              "всем"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "весь / всего",
-              "всю",
-              "всё",
-              "все / всех"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всем",
-              "всей",
-              "всем",
-              "всеми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём",
-              "всей",
-              "всём",
-              "всех"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Всё нормально.",
-          "trans": "Everything's fine."
-        },
-        {
-          "text": "Как вы все знаете...",
-          "trans": "As you all know..."
-        },
-        {
-          "text": "Поделись со всеми.",
-          "trans": "Share with everyone."
-        }
-      ],
-      "related": [
-        {
-          "word": "всё",
-          "gloss": "everything"
-        },
-        {
-          "word": "все",
-          "gloss": "everyone"
-        },
-        {
-          "word": "всегда",
-          "gloss": "always"
-        }
-      ]
-    },
     "возражение": {
       "lemma": "возражение",
-      "stress": "возражени́е",
+      "stress": "возраже́ние",
       "pos": "noun",
-      "gloss": "objections",
+      "gloss": "objection",
       "gender": "n",
+      "animacy": "inan",
       "meanings": [
         {
-          "en": "objections",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'objections' in everyday Russian."
+          "en": "objection",
+          "note": ""
         }
       ],
       "forms": {
@@ -2301,94 +2191,8 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "У кого-нибудь есть сейчас возражения?",
-          "trans": "Does anyone have any objections right now?"
-        },
-        {
-          "text": "На кухне отеля всегда есть возражение.",
-          "trans": "In the hotel kitchen there is always objections."
-        }
-      ],
-      "related": [
-        {
-          "word": "без возражени",
-          "gloss": "without objections"
-        },
-        {
-          "word": "наш возражение",
-          "gloss": "our objections"
-        }
-      ]
-    },
-    "возражения": {
-      "lemma": "возражения",
-      "stress": "возражени́я",
-      "pos": "noun",
-      "gloss": "any",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "any",
-          "note": "Declinable feminine noun meaning 'any', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "возражения",
-              "возражении"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "возражении",
-              "возражений"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "возражении",
-              "возражениям"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "возражению",
-              "возражении"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "возраженией",
-              "возражениями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "возражении",
-              "возражениях"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
           "text": "Возражения есть? Ну, вот и славненько.",
-          "trans": "Are there any objections? Well, that is wonderful."
+          "trans": "Any objections? Well, that's just fine."
         },
         {
           "text": "У кого-нибудь есть сейчас возражения?",
@@ -2397,8 +2201,12 @@
       ],
       "related": [
         {
-          "word": "вместе",
-          "gloss": "together"
+          "word": "возражать",
+          "gloss": "to object"
+        },
+        {
+          "word": "без возражений",
+          "gloss": "without objection"
         }
       ]
     },
@@ -2495,11 +2303,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2533,13 +2341,12 @@
       "lemma": "выборы",
       "stress": "вы́боры",
       "pos": "noun",
-      "gloss": "election",
-      "gender": "m",
+      "gloss": "election(s)",
       "number": "pl",
       "meanings": [
         {
           "en": "election",
-          "note": "Plural only. Common substantive noun meaning 'election' in everyday Russian."
+          "note": "Plural only."
         }
       ],
       "forms": {
@@ -2613,14 +2420,14 @@
     },
     "голосование": {
       "lemma": "голосование",
-      "stress": "голосовани́е",
+      "stress": "голосова́ние",
       "pos": "noun",
       "gloss": "voting",
       "gender": "n",
       "meanings": [
         {
           "en": "voting",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'voting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2679,21 +2486,21 @@
       "examples": [
         {
           "text": "Но это же тайное голосование.",
-          "trans": "But this is a secret vote, after all."
+          "trans": "But this is a secret ballot."
         },
         {
-          "text": "На кухне отеля всегда есть голосование.",
-          "trans": "In the hotel kitchen there is always voting."
+          "text": "Голосование начнётся в восемь утра.",
+          "trans": "Voting starts at eight in the morning."
         }
       ],
       "related": [
         {
-          "word": "без голосовани",
-          "gloss": "without voting"
+          "word": "голосовать",
+          "gloss": "to vote"
         },
         {
-          "word": "наш голосование",
-          "gloss": "our voting"
+          "word": "выборы",
+          "gloss": "election"
         }
       ]
     },
@@ -2707,11 +2514,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2903,7 +2710,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -2994,101 +2801,11 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
-        }
-      ]
-    },
-    "доверие": {
-      "lemma": "доверие",
-      "stress": "дове́рие",
-      "pos": "noun",
-      "gloss": "trust",
-      "gender": "n",
-      "meanings": [
-        {
-          "en": "trust, confidence",
-          "note": "Common neuter noun meaning 'trust' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "доверие",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "доверия",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "доверию",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "доверие",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "доверием",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "доверии",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Спасибо за доверие!",
-          "trans": "Thank you for your trust!"
+          "gloss": "good, kindness"
         },
         {
-          "text": "Это вопрос доверия.",
-          "trans": "It's a question of trust."
-        },
-        {
-          "text": "Встреча подорвала доверие к Самсонову.",
-          "trans": "The meeting undermined trust in Samsonov."
-        }
-      ],
-      "related": [
-        {
-          "word": "верить",
-          "gloss": "to believe"
-        },
-        {
-          "word": "поверить",
-          "gloss": "to believe"
-        },
-        {
-          "word": "проверить",
-          "gloss": "to check"
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
@@ -3165,48 +2882,6 @@
         {
           "word": "тоже",
           "gloss": "also, too"
-        }
-      ]
-    },
-    "за": {
-      "lemma": "за",
-      "stress": "за",
-      "pos": "prep",
-      "gloss": "for; behind",
-      "meanings": [
-        {
-          "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
-        },
-        {
-          "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Спасибо за доверие!",
-          "trans": "Thank you for your trust!"
-        },
-        {
-          "text": "Спасибо за подарок.",
-          "trans": "Thanks for the present."
-        },
-        {
-          "text": "За что?",
-          "trans": "What for?"
-        }
-      ],
-      "related": [
-        {
-          "word": "из-за",
-          "gloss": "because of, from behind"
-        },
-        {
-          "word": "под",
-          "gloss": "under"
         }
       ]
     },
@@ -3628,44 +3303,6 @@
         }
       ]
     },
-    "может": {
-      "lemma": "может",
-      "stress": "мо́жет",
-      "pos": "adv",
-      "gloss": "maybe, perhaps",
-      "meanings": [
-        {
-          "en": "maybe, perhaps",
-          "note": "Short for может быть. Core Russian part meaning 'maybe, perhaps' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Может, завтра.",
-          "trans": "Maybe tomorrow."
-        },
-        {
-          "text": "Я думал, может, не примешь.",
-          "trans": "I thought maybe you wouldn't see me."
-        }
-      ],
-      "related": [
-        {
-          "word": "может быть",
-          "gloss": "maybe (full form)"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
-        }
-      ]
-    },
     "мочь": {
       "lemma": "мочь",
       "stress": "мочь",
@@ -3676,7 +3313,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3728,6 +3365,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3802,10 +3456,11 @@
       "pos": "noun",
       "gloss": "observer",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "observer",
-          "note": "Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common masculine noun meaning 'observer' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3840,8 +3495,8 @@
           {
             "cells": [
               "accusative",
-              "наблюдатель",
-              "наблюдатели"
+              "наблюдателя",
+              "наблюдателей"
             ]
           },
           {
@@ -3873,12 +3528,12 @@
       ],
       "related": [
         {
-          "word": "без наблюдател",
-          "gloss": "without observer"
+          "word": "наблюдать",
+          "gloss": "to observe"
         },
         {
-          "word": "наш наблюдатель",
-          "gloss": "our observer"
+          "word": "наблюдение",
+          "gloss": "observation"
         }
       ]
     },
@@ -3892,7 +3547,7 @@
       "meanings": [
         {
           "en": "to observe, watch, monitor",
-          "note": "Used as an verbal verb meaning 'to observe, watch'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3930,6 +3585,7 @@
         {
           "title": "Past",
           "columns": [
+            "",
             "m",
             "f",
             "n",
@@ -3938,10 +3594,28 @@
           "rows": [
             {
               "cells": [
+                "past",
                 "наблюдал",
                 "наблюдала",
                 "наблюдало",
                 "наблюдали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "наблюдай",
+                "наблюдайте"
               ]
             }
           ]
@@ -3960,15 +3634,15 @@
       "related": [
         {
           "word": "наблюдение",
-          "gloss": "surveillance"
+          "gloss": "surveillance, observation"
         },
         {
-          "word": "наблюдательный",
-          "gloss": "surveillance"
+          "word": "наблюдатель",
+          "gloss": "observer"
         },
         {
-          "word": "блюдо",
-          "gloss": "dish"
+          "word": "следить",
+          "gloss": "to watch, follow"
         }
       ]
     },
@@ -4115,13 +3789,13 @@
     },
     "независимый": {
       "lemma": "независимый",
-      "stress": "независи́мый",
+      "stress": "незави́симый",
       "pos": "adj",
       "gloss": "independent",
       "meanings": [
         {
           "en": "independent",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'зависимый'). Agrees in gender, number, and case with the noun it modifies ('independent')."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'зависимый')."
         }
       ],
       "forms": {
@@ -4164,10 +3838,10 @@
           {
             "cells": [
               "accusative",
-              "независимый",
+              "независимый / независимого",
               "независимую",
               "независимое",
-              "независимые"
+              "независимые / независимых"
             ]
           },
           {
@@ -4204,11 +3878,15 @@
       "related": [
         {
           "word": "независимо",
-          "gloss": "independently (adverbial form)"
+          "gloss": "independently"
         },
         {
-          "word": "очень независимый",
-          "gloss": "very independent"
+          "word": "независимость",
+          "gloss": "independence"
+        },
+        {
+          "word": "зависеть",
+          "gloss": "to depend"
         }
       ]
     },
@@ -4427,7 +4105,7 @@
       "meanings": [
         {
           "en": "excellent, great, perfectly",
-          "note": "Used as an exclamation of approval. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Used as an exclamation of approval."
         }
       ],
       "forms": null,
@@ -4511,7 +4189,7 @@
           {
             "cells": [
               "1st",
-              "—",
+              "побежу",
               "победим"
             ]
           },
@@ -4600,13 +4278,17 @@
       "lemma": "подводить",
       "stress": "подводи́ть",
       "pos": "verb",
-      "gloss": "we sum up",
+      "gloss": "to let down; to sum up",
       "aspect": "impf",
-      "pair": null,
+      "pair": "подвести",
       "meanings": [
         {
-          "en": "we sum up",
-          "note": "Prefix 'под-' ('under, up to') indicates approaching or supporting from below (stem 'водить'). Used as an imperfective (ongoing/repeated action) verb meaning 'we sum up'."
+          "en": "to let down, fail (someone)",
+          "note": ""
+        },
+        {
+          "en": "to sum up",
+          "note": "подводить итоги = to sum up"
         }
       ],
       "forms": {
@@ -4661,6 +4343,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "подводи",
+                "подводите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4669,8 +4368,12 @@
           "trans": "At the end of the day we sum things up."
         },
         {
-          "text": "Надо всё сделать и подводить вовремя.",
-          "trans": "We need to do everything and we sum up on time."
+          "text": "Свечи, вино и почки никогда не подводили!",
+          "trans": "Candles, wine and kidneys have never let anyone down!"
+        },
+        {
+          "text": "Как же вы так меня подводите, друзья?",
+          "trans": "How can you let me down like this, friends?"
         }
       ],
       "related": []
@@ -4685,7 +4388,7 @@
       "meanings": [
         {
           "en": "to call, summon, invite",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звать'). Used as a perfective (single completed action) verb meaning 'to call, summon', paired with 'звать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'звать')."
         }
       ],
       "forms": {
@@ -4765,12 +4468,12 @@
           "trans": "Uncle Arkady will fix everything and call you."
         },
         {
-          "text": "Позвать врача.",
-          "trans": "To call a doctor."
+          "text": "Я просил позвать сомелье, а не буфетчика!",
+          "trans": "I asked you to call the sommelier, not the barman!"
         },
         {
           "text": "Главное, чтобы она не позвала директора.",
-          "trans": "The main thing is that she does not call the director."
+          "trans": "The main thing is that she doesn't call the director."
         }
       ],
       "related": [
@@ -4796,11 +4499,11 @@
       "meanings": [
         {
           "en": "(it is) clear, understood",
-          "note": "Всё понятно = all clear. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Всё понятно = all clear."
         },
         {
           "en": "I see",
-          "note": "As a reply. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "As a reply."
         }
       ],
       "forms": null,
@@ -4920,22 +4623,22 @@
           "trans": "'Pensioner, does your knee hurt? Vote for Pavel Osipenko!'"
         },
         {
-          "text": "Проголосуй за Павла Осипенко!»",
-          "trans": "Vote for Pavel Osipenko!'"
+          "text": "Взял бюллетень и пошёл проголосовал.",
+          "trans": "He took a ballot and went and voted."
         }
       ],
       "related": [
         {
           "word": "голосовать",
-          "gloss": "to vote"
-        },
-        {
-          "word": "голова",
-          "gloss": "head"
+          "gloss": "to vote (impf)"
         },
         {
           "word": "голос",
-          "gloss": "voice"
+          "gloss": "voice; vote"
+        },
+        {
+          "word": "выборы",
+          "gloss": "election"
         }
       ]
     },
@@ -4948,7 +4651,7 @@
       "meanings": [
         {
           "en": "salad dish",
-          "note": "Common masculine noun meaning 'salad' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5143,10 +4846,10 @@
           {
             "cells": [
               "accusative",
-              "следующий/следующего",
+              "следующий / следующего",
               "следующую",
               "следующее",
-              "следующие/следующих"
+              "следующие / следующих"
             ]
           },
           {
@@ -5198,7 +4901,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5219,87 +4922,6 @@
       ],
       "related": []
     },
-    "спасибо": {
-      "lemma": "спасибо",
-      "stress": "спаси́бо",
-      "pos": "noun",
-      "gloss": "thank you",
-      "gender": "n",
-      "meanings": [
-        {
-          "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Спасибо, папа!",
-          "trans": "Thanks, Dad!"
-        },
-        {
-          "text": "Спасибо за доверие!",
-          "trans": "Thank you for your trust!"
-        },
-        {
-          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
-          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
-        }
-      ],
-      "related": []
-    },
     "сюда": {
       "lemma": "сюда",
       "stress": "сюда́",
@@ -5308,7 +4930,7 @@
       "meanings": [
         {
           "en": "here, this way",
-          "note": "Direction. Core Russian adv meaning 'here (to this place)' in everyday speech."
+          "note": "Direction."
         }
       ],
       "forms": null,
@@ -5342,7 +4964,7 @@
       "meanings": [
         {
           "en": "secret, clandestine, hidden",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('secret, hidden')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5385,10 +5007,10 @@
           {
             "cells": [
               "accusative",
-              "тайный/тайного",
+              "тайный / тайного",
               "тайную",
               "тайное",
-              "тайные/тайных"
+              "тайные / тайных"
             ]
           },
           {
@@ -5487,7 +5109,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -5656,7 +5278,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -5711,6 +5333,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5750,7 +5389,7 @@
       "meanings": [
         {
           "en": "honestly, frankly",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5788,7 +5427,7 @@
       "meanings": [
         {
           "en": "honest",
-          "note": "The т is not pronounced: [чесный]. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('honest')."
+          "note": "The т is not pronounced: [чесный]."
         }
       ],
       "forms": {
@@ -5857,29 +5496,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "честен",
-                "честна",
-                "честно",
-                "честны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Он честный человек.",

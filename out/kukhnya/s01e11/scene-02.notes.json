@@ -151,7 +151,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -464,11 +464,11 @@
         },
         {
           "t": "пускай",
-          "lemma": "пускай",
-          "pos": "part",
+          "lemma": "пускать",
+          "pos": "verb",
           "stress": "пуска́й",
-          "gloss": "let, may",
-          "gram": "particle"
+          "gloss": "don't let",
+          "gram": "imperative singular, imperfective"
         },
         {
           "t": "сегодня",
@@ -599,7 +599,7 @@
           "lemma": "парень",
           "pos": "noun",
           "stress": "па́рень",
-          "gloss": "boyfriend",
+          "gloss": "guy; boyfriend",
           "gram": "nominative singular, masculine"
         },
         {
@@ -885,7 +885,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1198,11 +1198,11 @@
         },
         {
           "t": "пускай",
-          "lemma": "пускай",
-          "pos": "part",
+          "lemma": "пускать",
+          "pos": "verb",
           "stress": "пуска́й",
-          "gloss": "let, may",
-          "gram": "particle"
+          "gloss": "don't let",
+          "gram": "imperative singular, imperfective"
         },
         {
           "t": "сегодня",
@@ -1333,7 +1333,7 @@
           "lemma": "парень",
           "pos": "noun",
           "stress": "па́рень",
-          "gloss": "boyfriend",
+          "gloss": "guy; boyfriend",
           "gram": "nominative singular, masculine"
         },
         {
@@ -1619,7 +1619,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1932,11 +1932,11 @@
         },
         {
           "t": "пускай",
-          "lemma": "пускай",
-          "pos": "part",
+          "lemma": "пускать",
+          "pos": "verb",
           "stress": "пуска́й",
-          "gloss": "let, may",
-          "gram": "particle"
+          "gloss": "don't let",
+          "gram": "imperative singular, imperfective"
         },
         {
           "t": "сегодня",
@@ -2067,7 +2067,7 @@
           "lemma": "парень",
           "pos": "noun",
           "stress": "па́рень",
-          "gloss": "boyfriend",
+          "gloss": "guy; boyfriend",
           "gram": "nominative singular, masculine"
         },
         {
@@ -2271,7 +2271,7 @@
       "meanings": [
         {
           "en": "dish",
-          "note": "Declinable neuter noun meaning 'dish', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "platter",
@@ -2748,7 +2748,7 @@
       "meanings": [
         {
           "en": "attention, notice",
-          "note": "Внимание! = Attention!. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'attention' in everyday Russian."
+          "note": "Внимание! = Attention!."
         }
       ],
       "forms": {
@@ -2763,42 +2763,42 @@
             "cells": [
               "nominative",
               "внимание",
-              "—"
+              "внимания"
             ]
           },
           {
             "cells": [
               "genitive",
               "внимания",
-              "—"
+              "вниманий"
             ]
           },
           {
             "cells": [
               "dative",
               "вниманию",
-              "—"
+              "вниманиям"
             ]
           },
           {
             "cells": [
               "accusative",
               "внимание",
-              "—"
+              "внимания"
             ]
           },
           {
             "cells": [
               "instrumental",
               "вниманием",
-              "—"
+              "вниманиями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "внимании",
-              "—"
+              "вниманиях"
             ]
           }
         ]
@@ -2841,7 +2841,7 @@
         },
         {
           "en": "everyone",
-          "note": "Всем = to everyone (dative). Core Russian pron meaning 'all; everyone' in everyday speech."
+          "note": "Всем = to everyone (dative)."
         }
       ],
       "forms": null,
@@ -2864,10 +2864,6 @@
         {
           "word": "весь",
           "gloss": "all, whole"
-        },
-        {
-          "word": "всё",
-          "gloss": "everything"
         }
       ]
     },
@@ -2881,7 +2877,7 @@
       "meanings": [
         {
           "en": "to look, appear (well, strange)",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'глядеть'). Used as an verbal verb meaning 'to look, appear'."
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'глядеть')."
         }
       ],
       "forms": {
@@ -2919,6 +2915,7 @@
         {
           "title": "Past",
           "columns": [
+            "",
             "m",
             "f",
             "n",
@@ -2927,10 +2924,28 @@
           "rows": [
             {
               "cells": [
+                "past",
                 "выглядел",
                 "выглядела",
                 "выглядело",
                 "выглядели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "выгляди",
+                "выглядите"
               ]
             }
           ]
@@ -3090,7 +3105,7 @@
       "meanings": [
         {
           "en": "hot (to the touch, of food/drink, not weather)",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('hot')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3133,10 +3148,10 @@
           {
             "cells": [
               "accusative",
-              "горячий/горячего",
+              "горячий / горячего",
               "горячую",
               "горячее",
-              "горячие/горячих"
+              "горячие / горячих"
             ]
           },
           {
@@ -3293,7 +3308,7 @@
       "meanings": [
         {
           "en": "dirty",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('dirty')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3400,7 +3415,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3447,10 +3462,11 @@
       "pos": "noun",
       "gloss": "order",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "order",
-          "note": "Declinable masculine noun meaning 'order', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "booking",
@@ -3541,11 +3557,11 @@
       "meanings": [
         {
           "en": "to call, to phone",
-          "note": "+ dative of the person. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
+          "note": "+ dative of the person."
         },
         {
           "en": "to ring",
-          "note": "A bell or phone. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
+          "note": "A bell or phone."
         }
       ],
       "forms": {
@@ -3653,12 +3669,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3713,6 +3727,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3732,17 +3763,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "значит": {
       "lemma": "значит",
@@ -3832,11 +3864,11 @@
       "lemma": "идеально",
       "stress": "идеа́льно",
       "pos": "adv",
-      "gloss": "ideally, perfectly",
+      "gloss": "perfectly",
       "meanings": [
         {
           "en": "ideally, perfectly",
-          "note": "Manner or predicative adverb in '-о' derived from the corresponding adjective stem, used in everyday speech to mean 'ideally'."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3844,15 +3876,15 @@
       "examples": [
         {
           "text": "Блюдо приготовлено идеально.",
-          "trans": "The dish is prepared ideally."
+          "trans": "The dish is cooked perfectly."
         },
         {
-          "text": "Всё должно быть идеально вкусно.",
-          "trans": "Everything must be ideally delicious."
+          "text": "Всё сделаем идеально, шеф!",
+          "trans": "We'll do everything perfectly, chef!"
         },
         {
           "text": "Кухня должна быть идеально чистой!",
-          "trans": "The kitchen must be ideally clean!"
+          "trans": "The kitchen must be spotlessly clean!"
         }
       ],
       "related": [
@@ -3886,42 +3918,42 @@
             "cells": [
               "nominative",
               "информация",
-              "—"
+              "информации"
             ]
           },
           {
             "cells": [
               "genitive",
               "информации",
-              "—"
+              "информаций"
             ]
           },
           {
             "cells": [
               "dative",
               "информации",
-              "—"
+              "информациям"
             ]
           },
           {
             "cells": [
               "accusative",
               "информацию",
-              "—"
+              "информации"
             ]
           },
           {
             "cells": [
               "instrumental",
               "информацией",
-              "—"
+              "информациями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "информации",
-              "—"
+              "информациях"
             ]
           }
         ]
@@ -4127,7 +4159,7 @@
       "meanings": [
         {
           "en": "critic, reviewer",
-          "note": "Common masculine noun meaning 'critic, reviewer' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4297,11 +4329,11 @@
       "meanings": [
         {
           "en": "a lot, much, many",
-          "note": "+ genitive plural: много дел. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive plural: много дел."
         },
         {
           "en": "больше = more",
-          "note": "Comparative. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Comparative."
         }
       ],
       "forms": null,
@@ -4427,7 +4459,7 @@
       "meanings": [
         {
           "en": "to wash (dishes, hands, floors)",
-          "note": "Clean with water. Used as an imperfective (ongoing/repeated action) verb meaning 'to wash', paired with 'помыть'."
+          "note": "Clean with water."
         }
       ],
       "forms": {
@@ -4578,11 +4610,11 @@
       "pos": "verb",
       "gloss": "to feed",
       "aspect": "pf",
-      "pair": null,
+      "pair": "кормить",
       "meanings": [
         {
           "en": "to feed, provide food for",
-          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'кормить'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to feed'."
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'кормить')."
         }
       ],
       "forms": {
@@ -4634,6 +4666,23 @@
                 "накормила",
                 "накормило",
                 "накормили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "накорми",
+                "накормите"
               ]
             }
           ]
@@ -4817,7 +4866,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -5065,29 +5114,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Мне ещё работа нужна.",
@@ -5122,7 +5149,7 @@
       "meanings": [
         {
           "en": "lunch, dinner (midday)",
-          "note": "Перерыв на обед = lunch break. Common masculine noun meaning 'lunch, midday meal' in everyday Russian."
+          "note": "Перерыв на обед = lunch break."
         }
       ],
       "forms": {
@@ -5302,11 +5329,11 @@
       "meanings": [
         {
           "en": "guy, young man",
-          "note": "Informal. Common masculine noun meaning 'guy, lad; boyfriend' in everyday Russian."
+          "note": "Informal."
         },
         {
           "en": "boyfriend",
-          "note": "Мой парень = my boyfriend. Common masculine noun meaning 'guy, lad; boyfriend' in everyday Russian."
+          "note": "Мой парень = my boyfriend."
         }
       ],
       "forms": {
@@ -5387,7 +5414,7 @@
       "meanings": [
         {
           "en": "cook, chef",
-          "note": "Irregular plural повара. Common masculine noun meaning 'cook, chef' in everyday Russian."
+          "note": "Irregular plural повара."
         }
       ],
       "forms": {
@@ -5666,22 +5693,26 @@
           "trans": "Now let's go through everything in order."
         },
         {
-          "text": "Всё в полном порядке.",
-          "trans": "Everything is in complete order."
+          "text": "Не бойся, всё в порядке!",
+          "trans": "Don't worry, everything's fine!"
         },
         {
-          "text": "Теперь давай всё по порядку. Скажи мне, сколько ты им должна?",
-          "trans": "Now let's go through everything in order. Tell me, how much do you owe them?"
+          "text": "Да, я наведу здесь железный порядок.",
+          "trans": "Yes, I'll establish iron order here."
         }
       ],
       "related": [
         {
-          "word": "рядом",
-          "gloss": "nearby"
+          "word": "в порядке",
+          "gloss": "fine, OK"
         },
         {
-          "word": "порядочность",
-          "gloss": "decency"
+          "word": "порядочный",
+          "gloss": "decent"
+        },
+        {
+          "word": "беспорядок",
+          "gloss": "mess, disorder"
         }
       ]
     },
@@ -5694,7 +5725,7 @@
       "meanings": [
         {
           "en": "dishes, plates and cups, tableware (collective singular)",
-          "note": "Мыть посуду = to wash the dishes. Common feminine noun meaning 'dishes, tableware, crockery' in everyday Russian."
+          "note": "Мыть посуду = to wash the dishes."
         }
       ],
       "forms": {
@@ -5709,42 +5740,42 @@
             "cells": [
               "nominative",
               "посуда",
-              "—"
+              "посуды"
             ]
           },
           {
             "cells": [
               "genitive",
               "посуды",
-              "—"
+              "посуд"
             ]
           },
           {
             "cells": [
               "dative",
               "посуде",
-              "—"
+              "посудам"
             ]
           },
           {
             "cells": [
               "accusative",
               "посуду",
-              "—"
+              "посуды"
             ]
           },
           {
             "cells": [
               "instrumental",
               "посудой",
-              "—"
+              "посудами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "посуде",
-              "—"
+              "посудах"
             ]
           }
         ]
@@ -5853,7 +5884,7 @@
       "meanings": [
         {
           "en": "to arrive, to come (by transport)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать'). Used as a perfective (single completed action) verb meaning 'to arrive (by vehicle)', paired with 'приезжать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ехать')."
         }
       ],
       "forms": {
@@ -5949,11 +5980,11 @@
       "meanings": [
         {
           "en": "to bring, to carry in",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'носить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to bring; to offer (apologies)', paired with 'принести'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'носить')."
         },
         {
           "en": "to offer (apologies: приносить извинения)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'носить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to bring; to offer (apologies)', paired with 'принести'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6142,45 +6173,116 @@
         }
       ]
     },
-    "пускай": {
-      "lemma": "пускай",
-      "stress": "пуска́й",
-      "pos": "part",
-      "gloss": "let, may (colloquial)",
+    "пускать": {
+      "lemma": "пускать",
+      "stress": "пуска́ть",
+      "pos": "verb",
+      "gloss": "to let in, to allow to go",
+      "aspect": "impf",
+      "pair": "пустить",
       "meanings": [
         {
-          "en": "let, may (synonym of пусть)",
-          "note": "imperative particle expressing permission or concession"
+          "en": "to let in, to allow to pass",
+          "note": "Не пускайте его = don't let him in."
         }
       ],
-      "forms": null,
-      "moreForms": [],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "пускаю",
+              "пускаем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "пускаешь",
+              "пускаете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "пускает",
+              "пускают"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "пускал",
+                "пускала",
+                "пускало",
+                "пускали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "пускай",
+                "пускайте"
+              ]
+            }
+          ]
+        }
+      ],
       "examples": [
         {
-          "text": "Пускай он больше не лезет в бутылку.",
-          "trans": "Let him stop being difficult."
+          "text": "Не пускайте его, пожалуйста!",
+          "trans": "Don't let him in, please!"
         },
         {
-          "text": "Пускай они приходят завтра утром.",
-          "trans": "Let them come tomorrow morning."
+          "text": "Охранник никого не пускает внутрь.",
+          "trans": "The guard doesn't let anyone inside."
         },
         {
-          "text": "Передай ему, пускай не лезет в бутылку.",
-          "trans": "Tell him not to be difficult."
+          "text": "Не пускайте его, пожалуйста! Это мой бывший парень.",
+          "trans": "Don't let him in, please! That's my ex-boyfriend."
         }
       ],
       "related": [
         {
-          "word": "спускаться",
-          "gloss": "to go down"
+          "word": "пустить",
+          "gloss": "to let (pf)"
+        },
+        {
+          "word": "впускать",
+          "gloss": "to let in"
         },
         {
           "word": "отпускать",
           "gloss": "to let go"
-        },
-        {
-          "word": "пускать",
-          "gloss": "to let in"
         }
       ]
     },
@@ -6306,7 +6408,7 @@
       "meanings": [
         {
           "en": "restaurant (attributive)",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('restaurant (attributive)')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6405,7 +6507,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -6548,7 +6650,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -6639,15 +6741,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -6659,7 +6761,7 @@
       "meanings": [
         {
           "en": "continuous, solid, total, nothing but",
-          "note": "Qualitative or relational adjective formed with the productive '-н-' suffix, meaning 'continuous' and agreeing in gender, number, and case."
+          "note": ""
         }
       ],
       "forms": {
@@ -6702,10 +6804,10 @@
           {
             "cells": [
               "accusative",
-              "сплошной/сплошного",
+              "сплошной / сплошного",
               "сплошную",
               "сплошное",
-              "сплошные/сплошных"
+              "сплошные / сплошных"
             ]
           },
           {
@@ -6774,8 +6876,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -6787,11 +6897,11 @@
       "meanings": [
         {
           "en": "definitely, for sure",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "exactly, precisely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6915,10 +7025,10 @@
           {
             "cells": [
               "accusative",
-              "уважаемый",
+              "уважаемый / уважаемого",
               "уважаемую",
               "уважаемое",
-              "уважаемые"
+              "уважаемые / уважаемых"
             ]
           },
           {
@@ -6972,7 +7082,7 @@
       "meanings": [
         {
           "en": "owner, host",
-          "note": "Declinable masculine noun meaning 'owner', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {

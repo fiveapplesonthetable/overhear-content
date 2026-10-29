@@ -97,8 +97,8 @@
           "lemma": "подарок",
           "pos": "noun",
           "stress": "пода́рок",
-          "gloss": "gift, voucher",
-          "gram": "nominative singular, masculine"
+          "gloss": "present, gift",
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "на",
@@ -221,8 +221,8 @@
           "lemma": "бросить",
           "pos": "verb",
           "stress": null,
-          "gloss": "drop it",
-          "gram": "conjugated verb"
+          "gloss": "drop it, quit",
+          "gram": "imperative, 2nd person singular"
         },
         {
           "t": "Мы",
@@ -324,7 +324,7 @@
           "pos": "det",
           "stress": "на́шем",
           "gloss": "our",
-          "gram": "prepositional singular, neuter"
+          "gram": "prepositional singular, masculine/neuter"
         },
         {
           "t": "ресторане.",
@@ -539,8 +539,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "очень",
@@ -909,8 +909,8 @@
           "lemma": "подарок",
           "pos": "noun",
           "stress": "пода́рок",
-          "gloss": "gift, voucher",
-          "gram": "nominative singular, masculine"
+          "gloss": "present, gift",
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "на",
@@ -1039,8 +1039,8 @@
           "lemma": "бросить",
           "pos": "verb",
           "stress": null,
-          "gloss": "drop it",
-          "gram": "conjugated verb"
+          "gloss": "drop it, quit",
+          "gram": "imperative, 2nd person singular"
         },
         {
           "t": "Мы",
@@ -1142,7 +1142,7 @@
           "pos": "det",
           "stress": "на́шем",
           "gloss": "our",
-          "gram": "prepositional singular, neuter"
+          "gram": "prepositional singular, masculine/neuter"
         },
         {
           "t": "ресторане.",
@@ -1357,8 +1357,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "очень",
@@ -1727,8 +1727,8 @@
           "lemma": "подарок",
           "pos": "noun",
           "stress": "пода́рок",
-          "gloss": "gift, voucher",
-          "gram": "nominative singular, masculine"
+          "gloss": "present, gift",
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "на",
@@ -1851,8 +1851,8 @@
           "lemma": "бросить",
           "pos": "verb",
           "stress": null,
-          "gloss": "drop it",
-          "gram": "conjugated verb"
+          "gloss": "drop it, quit",
+          "gram": "imperative, 2nd person singular"
         },
         {
           "t": "Мы",
@@ -1954,7 +1954,7 @@
           "pos": "det",
           "stress": "на́шем",
           "gloss": "our",
-          "gram": "prepositional singular, neuter"
+          "gram": "prepositional singular, masculine/neuter"
         },
         {
           "t": "ресторане.",
@@ -2169,8 +2169,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "очень",
@@ -2510,7 +2510,7 @@
       "meanings": [
         {
           "en": "big, large",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('big, large')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2611,11 +2611,11 @@
       "meanings": [
         {
           "en": "to throw",
-          "note": "Used as a perfective (single completed action) verb meaning 'to throw; to leave (someone)', paired with 'бросать'."
+          "note": ""
         },
         {
           "en": "to leave, to walk out on (someone)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to throw; to leave (someone)', paired with 'бросать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3036,7 +3036,7 @@
         },
         {
           "en": "party, evening event",
-          "note": "E.g. a school evening. Common masculine noun meaning 'evening' in everyday Russian."
+          "note": "E.g. a school evening."
         }
       ],
       "forms": {
@@ -3131,11 +3131,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3190,6 +3190,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3233,7 +3250,7 @@
         },
         {
           "en": "deliciously",
-          "note": "Вкусно готовить = to cook well. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Вкусно готовить = to cook well."
         }
       ],
       "forms": null,
@@ -3272,7 +3289,7 @@
       "meanings": [
         {
           "en": "water",
-          "note": "Common feminine noun meaning 'water' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3344,8 +3361,12 @@
       ],
       "related": [
         {
+          "word": "водичка",
+          "gloss": "water (affectionate)"
+        },
+        {
           "word": "водный",
-          "gloss": "related to water (adj.)"
+          "gloss": "water (adj.)"
         }
       ]
     },
@@ -3357,11 +3378,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -3388,84 +3409,6 @@
         {
           "word": "вот-вот",
           "gloss": "any moment now"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -3657,7 +3600,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3683,49 +3626,6 @@
         }
       ]
     },
-    "давай": {
-      "lemma": "давай",
-      "stress": "дава́й",
-      "pos": "part",
-      "gloss": "let's; come on",
-      "register": "informal",
-      "meanings": [
-        {
-          "en": "let's",
-          "note": "+ infinitive: давай убирать = let's clean up"
-        },
-        {
-          "en": "come on",
-          "note": "Core Russian part meaning 'let's; come on' in everyday speech."
-        },
-        {
-          "en": "bye, see you",
-          "note": "Casual goodbye. Core Russian part meaning 'let's; come on' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай убирать!",
-          "trans": "Let's clean up!"
-        },
-        {
-          "text": "Давай, пока!",
-          "trans": "See you, bye!"
-        },
-        {
-          "text": "Аркаша, давай убирать!",
-          "trans": "Arkasha, let's clean up!"
-        }
-      ],
-      "related": [
-        {
-          "word": "давать",
-          "gloss": "to give (the verb it comes from)"
-        }
-      ]
-    },
     "давать": {
       "lemma": "давать",
       "stress": "дава́ть",
@@ -3736,11 +3636,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -3831,15 +3735,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -3851,7 +3755,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -3942,7 +3846,11 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "gloss": "good, kindness"
+        },
+        {
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
@@ -3993,7 +3901,7 @@
       "meanings": [
         {
           "en": "life",
-          "note": "Common feminine noun meaning 'life' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4073,11 +3981,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -4117,7 +4025,7 @@
       "meanings": [
         {
           "en": "to forbid, to prohibit",
-          "note": "Запретить кому + infinitive. Used as a perfective (single completed action) verb meaning 'to forbid, to ban', paired with 'запрещать'."
+          "note": "Запретить кому + infinitive."
         }
       ],
       "forms": {
@@ -4262,7 +4170,7 @@
       "meanings": [
         {
           "en": "Italian",
-          "note": "Of or from Italy. Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('Italian')."
+          "note": "Of or from Italy."
         }
       ],
       "forms": {
@@ -4305,10 +4213,10 @@
           {
             "cells": [
               "accusative",
-              "итальянский/итальянского",
+              "итальянский / итальянского",
               "итальянскую",
               "итальянское",
-              "итальянские/итальянских"
+              "итальянские / итальянских"
             ]
           },
           {
@@ -4354,10 +4262,11 @@
       "pos": "noun",
       "gloss": "crab",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "crab",
-          "note": "Seafood. Common masculine noun meaning 'crab' in everyday Russian."
+          "note": "Seafood."
         }
       ],
       "forms": {
@@ -4437,7 +4346,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -4459,7 +4368,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -4475,7 +4388,7 @@
         },
         {
           "en": "better",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('best; better')."
+          "note": ""
         }
       ],
       "forms": {
@@ -4576,11 +4489,11 @@
       "meanings": [
         {
           "en": "to love",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         },
         {
           "en": "to like",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4664,8 +4577,8 @@
           "trans": "Do you like gum?"
         },
         {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
+          "text": "Ты любишь чужую жену!",
+          "trans": "You're in love with another man's wife!"
         }
       ],
       "related": [
@@ -4683,44 +4596,6 @@
         }
       ]
     },
-    "может": {
-      "lemma": "может",
-      "stress": "мо́жет",
-      "pos": "adv",
-      "gloss": "maybe, perhaps",
-      "meanings": [
-        {
-          "en": "maybe, perhaps",
-          "note": "Short for может быть. Core Russian part meaning 'maybe, perhaps' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Может, завтра.",
-          "trans": "Maybe tomorrow."
-        },
-        {
-          "text": "Я думал, может, не примешь.",
-          "trans": "I thought maybe you wouldn't see me."
-        }
-      ],
-      "related": [
-        {
-          "word": "может быть",
-          "gloss": "maybe (full form)"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
-        }
-      ]
-    },
     "мочь": {
       "lemma": "мочь",
       "stress": "мочь",
@@ -4731,7 +4606,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4783,6 +4658,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -4941,7 +4833,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -5481,7 +5373,7 @@
       "meanings": [
         {
           "en": "excellent, great, perfectly",
-          "note": "Used as an exclamation of approval. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Used as an exclamation of approval."
         }
       ],
       "forms": null,
@@ -5554,7 +5446,7 @@
       "meanings": [
         {
           "en": "dumpling (pelmeni)",
-          "note": "Usually plural: пельмени. Common masculine noun meaning 'dumpling, pelmeni' in everyday Russian."
+          "note": "Usually plural: пельмени."
         }
       ],
       "forms": {
@@ -5641,7 +5533,7 @@
       "meanings": [
         {
           "en": "to drink",
-          "note": "Пить чай = to drink tea. Used as an imperfective (ongoing/repeated action) verb meaning 'to drink', paired with 'выпить'."
+          "note": "Пить чай = to drink tea."
         },
         {
           "en": "to drink (alcohol)",
@@ -5757,7 +5649,7 @@
       "meanings": [
         {
           "en": "present, gift",
-          "note": "Common masculine noun meaning 'present, gift' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5839,7 +5731,7 @@
       "meanings": [
         {
           "en": "to eat, to have something to eat",
-          "note": "Perfective of есть. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'есть'). Used as a perfective (single completed action) verb meaning 'to eat, to have a meal', paired with 'есть'."
+          "note": "Perfective of есть. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'есть')."
         }
       ],
       "forms": {
@@ -5944,11 +5836,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -6084,7 +5976,7 @@
       "meanings": [
         {
           "en": "then, afterwards, later",
-          "note": "Core Russian adv meaning 'then, later, afterwards' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6113,11 +6005,11 @@
       "meanings": [
         {
           "en": "pleasant, nice",
-          "note": "= Enjoy your meal!. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
+          "note": "Приятного аппетита! = Enjoy your meal!"
         },
         {
-          "en": "Приятного аппетита!",
-          "note": "= Enjoy your meal!. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
+          "en": "сделать приятное",
+          "note": "to do something nice (for someone)"
         }
       ],
       "forms": {
@@ -6186,29 +6078,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "приятен",
-                "приятна",
-                "приятно",
-                "приятны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Приятного аппетита!",
@@ -6499,10 +6369,10 @@
           {
             "cells": [
               "accusative",
-              "розовый",
+              "розовый / розового",
               "розовую",
               "розовое",
-              "розовые"
+              "розовые / розовых"
             ]
           },
           {
@@ -6529,7 +6399,7 @@
       "examples": [
         {
           "text": "Вот наше лучшее розовое шампанское.",
-          "trans": "Here is our best pink champagne."
+          "trans": "Here is our best rosé champagne."
         },
         {
           "text": "На ней было красивое розовое платье.",
@@ -6537,17 +6407,21 @@
         },
         {
           "text": "Отлично! Давай розовое.",
-          "trans": "Great! Give us the pink one."
+          "trans": "Great! Let's have the rosé."
         }
       ],
       "related": [
         {
-          "word": "розово",
-          "gloss": "in a pink way (adv.)"
+          "word": "розоветь",
+          "gloss": "to turn pink"
         },
         {
-          "word": "розовость",
-          "gloss": "quality of being pink"
+          "word": "роза",
+          "gloss": "rose"
+        },
+        {
+          "word": "красный",
+          "gloss": "red"
         }
       ]
     },
@@ -6560,7 +6434,7 @@
       "meanings": [
         {
           "en": "fish",
-          "note": "Animal or food. Common feminine noun meaning 'fish' in everyday Russian."
+          "note": "Animal or food."
         }
       ],
       "forms": {
@@ -6747,7 +6621,7 @@
       "meanings": [
         {
           "en": "seven",
-          "note": "+ genitive plural: семь тысяч. Core Russian num meaning 'seven' in everyday speech."
+          "note": "+ genitive plural: семь тысяч."
         }
       ],
       "forms": null,
@@ -6776,11 +6650,11 @@
       "meanings": [
         {
           "en": "sweet, sugary",
-          "note": "Of food or drink. Agrees in gender, number, and case with the noun it modifies ('sweet')."
+          "note": "Of food or drink."
         },
         {
           "en": "sweet, darling",
-          "note": "Affectionate, to a child or pet. Agrees in gender, number, and case with the noun it modifies ('sweet')."
+          "note": "Affectionate, to a child or pet."
         }
       ],
       "forms": {
@@ -6823,10 +6697,10 @@
           {
             "cells": [
               "accusative",
-              "сладкий",
+              "сладкий / сладкого",
               "сладкую",
               "сладкое",
-              "сладкие"
+              "сладкие / сладких"
             ]
           },
           {
@@ -6881,7 +6755,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -6889,7 +6763,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -6997,12 +6871,10 @@
       "stress": "сходи́ть",
       "pos": "verb",
       "gloss": "to go (somewhere and come back)",
-      "aspect": "pf",
-      "pair": "ходить",
       "meanings": [
         {
           "en": "to go and come back, to pop over",
-          "note": "'Сходите!' = Go on, go and see. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ходить'). Used as a perfective (single completed action) verb meaning 'to go (somewhere and come back)', paired with 'ходить'."
+          "note": "perfective; сходите! = go on, go and see"
         }
       ],
       "forms": {
@@ -7103,7 +6975,8 @@
           "word": "заходить",
           "gloss": "to come in"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "там": {
       "lemma": "там",
@@ -7143,7 +7016,7 @@
       "meanings": [
         {
           "en": "plate, platter, bowl",
-          "note": "Tableware. Common feminine noun meaning 'plate, platter, dish' in everyday Russian."
+          "note": "Tableware."
         }
       ],
       "forms": {
@@ -7244,8 +7117,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -7257,7 +7138,7 @@
       "meanings": [
         {
           "en": "that",
-          "note": "The one over there. Core Russian det meaning 'that' in everyday speech."
+          "note": "The one over there."
         },
         {
           "en": "that which, the thing",
@@ -7438,7 +7319,15 @@
       "related": [
         {
           "word": "тысячный",
-          "gloss": "related to thousand (adj.)"
+          "gloss": "thousandth"
+        },
+        {
+          "word": "миллион",
+          "gloss": "million"
+        },
+        {
+          "word": "сто",
+          "gloss": "hundred"
         }
       ]
     },
@@ -7555,42 +7444,42 @@
             "cells": [
               "nominative",
               "шампанское",
-              "—"
+              "шампанские"
             ]
           },
           {
             "cells": [
               "genitive",
               "шампанского",
-              "—"
+              "шампанских"
             ]
           },
           {
             "cells": [
               "dative",
               "шампанскому",
-              "—"
+              "шампанским"
             ]
           },
           {
             "cells": [
               "accusative",
               "шампанское",
-              "—"
+              "шампанские"
             ]
           },
           {
             "cells": [
               "instrumental",
               "шампанским",
-              "—"
+              "шампанскими"
             ]
           },
           {
             "cells": [
               "prepositional",
               "шампанском",
-              "—"
+              "шампанских"
             ]
           }
         ]

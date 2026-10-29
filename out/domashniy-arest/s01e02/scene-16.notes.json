@@ -35,8 +35,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         }
       ]
     },
@@ -258,7 +258,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "дня.",
@@ -287,8 +287,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "надо,",
@@ -889,8 +889,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         }
       ]
     },
@@ -1118,7 +1118,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "дня.",
@@ -1147,8 +1147,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "надо,",
@@ -1767,8 +1767,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         }
       ]
     },
@@ -1990,7 +1990,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "дня.",
@@ -2019,8 +2019,8 @@
           "lemma": "они",
           "pos": "pron",
           "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "gloss": "them; their",
+          "gram": "3rd person plural, accusative / genitive; also possessive their"
         },
         {
           "t": "надо,",
@@ -2728,27 +2728,6 @@
               ]
             }
           ]
-        },
-        {
-          "title": "Short passive participle",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "арестован",
-                "арестована",
-                "арестовано",
-                "арестованы"
-              ]
-            }
-          ]
         }
       ],
       "examples": [
@@ -2872,7 +2851,7 @@
       "meanings": [
         {
           "en": "to take",
-          "note": "Habitually or in general. Used as an imperfective (ongoing/repeated action) verb meaning 'to take', paired with 'взять'."
+          "note": "Habitually or in general."
         },
         {
           "en": "to take bribes",
@@ -2967,15 +2946,19 @@
       "related": [
         {
           "word": "взять",
-          "gloss": "to take"
+          "gloss": "to take (pf)"
         },
         {
           "word": "забрать",
-          "gloss": "to take back"
+          "gloss": "to take away, pick up"
         },
         {
-          "word": "убрать",
-          "gloss": "to remove"
+          "word": "брать трубку",
+          "gloss": "to answer the phone"
+        },
+        {
+          "word": "взятка",
+          "gloss": "bribe"
         }
       ]
     },
@@ -3294,10 +3277,11 @@
       "pos": "noun",
       "gloss": "bribe-taker",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "bribe-taker",
-          "note": "An official who takes bribes. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'bribe-taker' in everyday Russian."
+          "note": "An official who takes bribes."
         }
       ],
       "forms": {
@@ -3388,7 +3372,7 @@
         },
         {
           "en": "to hire",
-          "note": "'взять на работу' = to give someone a job"
+          "note": ""
         }
       ],
       "forms": {
@@ -3491,90 +3475,13 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "генерал": {
       "lemma": "генерал",
       "stress": "генера́л",
       "pos": "noun",
       "gloss": "general",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "general",
@@ -3667,7 +3574,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3703,7 +3610,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -3794,11 +3701,11 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
@@ -3892,7 +3799,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -3982,7 +3888,7 @@
         },
         {
           "en": "problem",
-          "note": "In maths. Common feminine noun meaning 'task; problem' in everyday Russian."
+          "note": "In maths."
         }
       ],
       "forms": {
@@ -4054,16 +3960,16 @@
       ],
       "related": [
         {
-          "word": "удача",
-          "gloss": "luck"
+          "word": "задание",
+          "gloss": "task, assignment"
         },
         {
-          "word": "дача",
-          "gloss": "dacha"
+          "word": "решить задачу",
+          "gloss": "to solve a problem"
         },
         {
-          "word": "передача",
-          "gloss": "broadcast"
+          "word": "цель",
+          "gloss": "goal"
         }
       ]
     },
@@ -4075,11 +3981,11 @@
       "meanings": [
         {
           "en": "gold, golden",
-          "note": "Made of gold or gold-coloured. Agrees in gender, number, and case with the noun it modifies ('golden, gold')."
+          "note": "Made of gold or gold-coloured."
         },
         {
           "en": "precious, wonderful",
-          "note": "'золотые руки' = skilled hands. Agrees in gender, number, and case with the noun it modifies ('golden, gold')."
+          "note": "'золотые руки' = skilled hands."
         }
       ],
       "forms": {
@@ -4122,10 +4028,10 @@
           {
             "cells": [
               "accusative",
-              "золотой/золотого",
+              "золотой / золотого",
               "золотую",
               "золотое",
-              "золотые/золотых"
+              "золотые / золотых"
             ]
           },
           {
@@ -4289,104 +4195,6 @@
       ],
       "related": []
     },
-    "конец": {
-      "lemma": "конец",
-      "stress": "коне́ц",
-      "pos": "noun",
-      "gloss": "end",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "end",
-          "note": "the 'е' drops out in the other forms"
-        },
-        {
-          "en": "'Конец связи' = over and out",
-          "note": "Radio and phone phrase. Common masculine noun meaning 'end' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "конец",
-              "концы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "конца",
-              "концов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "концу",
-              "концам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "конец",
-              "концы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "концом",
-              "концами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "конце",
-              "концах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Это конец.",
-          "trans": "This is the end."
-        },
-        {
-          "text": "Конец связи.",
-          "trans": "Over and out."
-        },
-        {
-          "text": "В конце фильма все счастливы.",
-          "trans": "At the end of the film everyone is happy."
-        }
-      ],
-      "related": [
-        {
-          "word": "конечно",
-          "gloss": "of course"
-        },
-        {
-          "word": "наконец",
-          "gloss": "at last"
-        },
-        {
-          "word": "наконец-то",
-          "gloss": "at last"
-        }
-      ]
-    },
     "кто": {
       "lemma": "кто",
       "stress": "кто",
@@ -4516,7 +4324,7 @@
       "meanings": [
         {
           "en": "legend",
-          "note": "An old story. Common feminine noun meaning 'legend; cover story' in everyday Russian."
+          "note": "An old story."
         },
         {
           "en": "cover story",
@@ -4601,7 +4409,7 @@
       "meanings": [
         {
           "en": "lieutenant",
-          "note": "A junior officer's rank. Common masculine noun meaning 'lieutenant' in everyday Russian."
+          "note": "A junior officer's rank."
         }
       ],
       "forms": {
@@ -4681,7 +4489,7 @@
       "meanings": [
         {
           "en": "local",
-          "note": "Местные = locals, local people. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('local')."
+          "note": "Местные = locals, local people."
         }
       ],
       "forms": {
@@ -4979,7 +4787,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -5031,6 +4839,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -5145,6 +4970,7 @@
       "pos": "noun",
       "gloss": "mayor",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "mayor",
@@ -5218,7 +5044,16 @@
           "trans": "I've been working as mayor for four years now."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "мэрия",
+          "gloss": "town hall"
+        },
+        {
+          "word": "губернатор",
+          "gloss": "governor"
+        }
+      ]
     },
     "на": {
       "lemma": "на",
@@ -5270,7 +5105,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -5398,7 +5233,7 @@
       "meanings": [
         {
           "en": "to find",
-          "note": "Used as a perfective (single completed action) verb meaning 'to find', paired with 'находить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5684,7 +5519,7 @@
       "meanings": [
         {
           "en": "in no way",
-          "note": "Никак не могу = I just can't. Core Russian adv meaning 'in no way, not at all' in everyday speech."
+          "note": "Никак не могу = I just can't."
         }
       ],
       "forms": null,
@@ -5829,29 +5664,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Мне ещё работа нужна.",
@@ -6152,11 +5965,11 @@
       "meanings": [
         {
           "en": "operation",
-          "note": "Police or military. International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'operation' in everyday Russian."
+          "note": "Police or military."
         },
         {
           "en": "surgery",
-          "note": "In a hospital. International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'operation' in everyday Russian."
+          "note": "In a hospital."
         }
       ],
       "forms": {
@@ -6245,7 +6058,7 @@
       "meanings": [
         {
           "en": "excellent",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('excellent')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6345,7 +6158,7 @@
       "meanings": [
         {
           "en": "nephew",
-          "note": "A brother's or sister's son. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'nephew' in everyday Russian."
+          "note": "A brother's or sister's son."
         }
       ],
       "forms": {
@@ -6573,11 +6386,11 @@
       "meanings": [
         {
           "en": "(it is) clear, understood",
-          "note": "Всё понятно = all clear. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Всё понятно = all clear."
         },
         {
           "en": "I see",
-          "note": "As a reply. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "As a reply."
         }
       ],
       "forms": null,
@@ -6611,7 +6424,7 @@
       "meanings": [
         {
           "en": "then, afterwards, later",
-          "note": "Core Russian adv meaning 'then, later, afterwards' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6676,7 +6489,7 @@
       "meanings": [
         {
           "en": "to continue, to go on (with)",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'должать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to continue', paired with 'продолжить'."
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'должать')."
         }
       ],
       "forms": {
@@ -6898,7 +6711,7 @@
       "meanings": [
         {
           "en": "rouble",
-          "note": "The Russian currency. Common masculine noun meaning 'rouble' in everyday Russian."
+          "note": "The Russian currency."
         }
       ],
       "forms": {
@@ -7009,96 +6822,6 @@
         }
       ]
     },
-    "связь": {
-      "lemma": "связь",
-      "stress": "связь",
-      "pos": "noun",
-      "gloss": "connection, link",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "connection (phone, radio)",
-          "note": "'выйти на связь' = to get in touch. Common feminine noun meaning 'connection, link' in everyday Russian."
-        },
-        {
-          "en": "link, contacts",
-          "note": "Common feminine noun meaning 'connection, link' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "связь",
-              "связи"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "связи",
-              "связей"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "связи",
-              "связям"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "связь",
-              "связи"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "связью",
-              "связями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "связи",
-              "связях"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Связи нет.",
-          "trans": "There's no signal."
-        },
-        {
-          "text": "Конец связи.",
-          "trans": "Over and out."
-        },
-        {
-          "text": "Нет связи.",
-          "trans": "There's no signal."
-        }
-      ],
-      "related": [
-        {
-          "word": "связный",
-          "gloss": "related to connection (adj.)"
-        }
-      ]
-    },
     "секретный": {
       "lemma": "секретный",
       "stress": "секре́тный",
@@ -7107,7 +6830,7 @@
       "meanings": [
         {
           "en": "secret, classified",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('secret')."
+          "note": ""
         }
       ],
       "forms": {
@@ -7150,10 +6873,10 @@
           {
             "cells": [
               "accusative",
-              "секретный/секретного",
+              "секретный / секретного",
               "секретную",
               "секретное",
-              "секретные/секретных"
+              "секретные / секретных"
             ]
           },
           {
@@ -7208,11 +6931,11 @@
       "meanings": [
         {
           "en": "to collect, to put together",
-          "note": "Money, things, people. Used as a perfective (single completed action) verb meaning 'to collect, to gather', paired with 'собирать'."
+          "note": "Money, things, people."
         },
         {
           "en": "to pack",
-          "note": "'собрать вещи' = to pack. Used as a perfective (single completed action) verb meaning 'to collect, to gather', paired with 'собирать'."
+          "note": "'собрать вещи' = to pack."
         }
       ],
       "forms": {
@@ -7303,11 +7026,15 @@
       "related": [
         {
           "word": "собирать",
-          "gloss": "to collect"
+          "gloss": "to collect (impf)"
         },
         {
-          "word": "отобрать",
-          "gloss": "to take away"
+          "word": "собрание",
+          "gloss": "meeting"
+        },
+        {
+          "word": "собраться",
+          "gloss": "to get ready, gather"
         }
       ]
     },
@@ -7320,7 +7047,7 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "An official or business meeting. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting (at work)' in everyday Russian."
+          "note": "An official or business meeting."
         }
       ],
       "forms": {
@@ -7402,7 +7129,7 @@
       "meanings": [
         {
           "en": "to hide (something)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'прятать'). Used as a perfective (single completed action) verb meaning 'to hide', paired with 'прятать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -7514,7 +7241,7 @@
       "meanings": [
         {
           "en": "sum, amount of money",
-          "note": "Common feminine noun meaning 'sum, amount' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7636,7 +7363,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+          "note": "As opposed to before."
         }
       ],
       "forms": null,
@@ -7675,7 +7402,7 @@
         },
         {
           "en": "friend, mate",
-          "note": "Common masculine noun meaning 'comrade' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7755,7 +7482,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -7829,10 +7556,11 @@
       "pos": "noun",
       "gloss": "official, bureaucrat",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "official, civil servant",
-          "note": "Often with a hint of 'bureaucrat'. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'official, bureaucrat' in everyday Russian."
+          "note": "Often with a hint of 'bureaucrat'."
         }
       ],
       "forms": {
@@ -8098,11 +7826,11 @@
       "meanings": [
         {
           "en": "a billion",
-          "note": "Slang, short for 'миллиард'. Common masculine noun meaning 'a billion (slang); yard' in everyday Russian."
+          "note": "Slang, short for 'миллиард'."
         },
         {
           "en": "yard",
-          "note": "The unit of length. Common masculine noun meaning 'a billion (slang); yard' in everyday Russian."
+          "note": "The unit of length."
         }
       ],
       "forms": {
@@ -8165,11 +7893,11 @@
         },
         {
           "text": "Операция называется Золотой ярд.",
-          "trans": "The operation is called Golden Yard."
+          "trans": "The operation is called Golden Billion."
         },
         {
           "text": "Товарищ генерал, операция называется Золотой ярд.",
-          "trans": "Comrade General, the operation is called Golden Yard."
+          "trans": "Comrade General, the operation is called Golden Billion."
         }
       ],
       "related": [

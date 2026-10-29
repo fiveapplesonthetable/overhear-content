@@ -133,7 +133,7 @@
           "lemma": "попытаться",
           "pos": "verb",
           "stress": "попыта́лись",
-          "gloss": "to work",
+          "gloss": "tried",
           "gram": "past tense, plural"
         },
         {
@@ -178,7 +178,7 @@
           "t": "Сомнительный",
           "lemma": "сомнительный",
           "pos": "adj",
-          "stress": "сомните́льный",
+          "stress": "сомни́тельный",
           "gloss": "dubious",
           "gram": "nominative masculine singular"
         },
@@ -268,7 +268,7 @@
         },
         {
           "t": "скорее!",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -581,7 +581,7 @@
           "lemma": "попытаться",
           "pos": "verb",
           "stress": "попыта́лись",
-          "gloss": "to work",
+          "gloss": "tried",
           "gram": "past tense, plural"
         },
         {
@@ -626,7 +626,7 @@
           "t": "Сомнительный",
           "lemma": "сомнительный",
           "pos": "adj",
-          "stress": "сомните́льный",
+          "stress": "сомни́тельный",
           "gloss": "dubious",
           "gram": "nominative masculine singular"
         },
@@ -716,7 +716,7 @@
         },
         {
           "t": "скорее!",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -1029,7 +1029,7 @@
           "lemma": "попытаться",
           "pos": "verb",
           "stress": "попыта́лись",
-          "gloss": "to work",
+          "gloss": "tried",
           "gram": "past tense, plural"
         },
         {
@@ -1074,7 +1074,7 @@
           "t": "Сомнительный",
           "lemma": "сомнительный",
           "pos": "adj",
-          "stress": "сомните́льный",
+          "stress": "сомни́тельный",
           "gloss": "dubious",
           "gram": "nominative masculine singular"
         },
@@ -1164,7 +1164,7 @@
         },
         {
           "t": "скорее!",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -1362,83 +1362,6 @@
     }
   ],
   "lexicon": {
-    "анисимова": {
-      "lemma": "анисимова",
-      "stress": "анисимо́ва",
-      "pos": "noun",
-      "gloss": "child",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "child",
-          "note": "Declinable feminine noun meaning 'child', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "анисимова",
-              "анисимовы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "анисимовы",
-              "анисимов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "анисимове",
-              "анисимовам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "анисимову",
-              "анисимовы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "анисимовой",
-              "анисимовами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "анисимове",
-              "анисимовах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Это ребёнок Константина Анисимова.",
-          "trans": "This is Konstantin Anisimov's child."
-        },
-        {
-          "text": "Константин Анисимов?",
-          "trans": "Konstantin Anisimov?"
-        }
-      ],
-      "related": []
-    },
     "быть": {
       "lemma": "быть",
       "stress": "быть",
@@ -1714,11 +1637,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -1963,11 +1886,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -2058,15 +1985,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -2078,7 +2005,7 @@
       "meanings": [
         {
           "en": "expensive",
-          "note": "to a loved one, and at the start of letters"
+          "note": ""
         },
         {
           "en": "dear",
@@ -2125,10 +2052,10 @@
           {
             "cells": [
               "accusative",
-              "дорогой/дорогого",
+              "дорогой / дорогого",
               "дорогую",
               "дорогое",
-              "дорогие/дорогих"
+              "дорогие / дорогих"
             ]
           },
           {
@@ -2151,29 +2078,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "дорог",
-                "дорога",
-                "дорого",
-                "дороги"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Это дорогая одежда.",
@@ -2243,11 +2148,11 @@
       "meanings": [
         {
           "en": "to close, to shut",
-          "note": "'закрывать глаза на' + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to close, to shut', paired with 'закрыть'."
+          "note": "+ acc."
         },
         {
           "en": "to turn a blind eye",
-          "note": "'закрывать глаза на' + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to close, to shut', paired with 'закрыть'."
+          "note": "'закрывать глаза на' + accusative."
         }
       ],
       "forms": {
@@ -2360,11 +2265,11 @@
       "meanings": [
         {
           "en": "to come in",
-          "note": "Заходи! = come in!. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to come in, to drop in', paired with 'зайти'."
+          "note": "Заходи! = come in!. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'ходить')."
         },
         {
           "en": "to drop in",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'ходить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to come in, to drop in', paired with 'зайти'."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'ходить')."
         }
       ],
       "forms": {
@@ -2472,12 +2377,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2532,6 +2435,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2551,17 +2471,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "камера": {
       "lemma": "камера",
@@ -2572,7 +2493,7 @@
       "meanings": [
         {
           "en": "camera, video camera",
-          "note": "Device for recording video. Common feminine noun meaning 'camera, video camera' in everyday Russian."
+          "note": "Device for recording video."
         }
       ],
       "forms": {
@@ -2644,83 +2565,6 @@
       ],
       "related": []
     },
-    "константина": {
-      "lemma": "константина",
-      "stress": "константи́на",
-      "pos": "noun",
-      "gloss": "exact",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "exact",
-          "note": "Declinable feminine noun meaning 'exact', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "константина",
-              "константины"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "константины",
-              "константин"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "константине",
-              "константинам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "константину",
-              "константины"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "константиной",
-              "константинами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "константине",
-              "константинах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "А завтра купите Константину такую же бутылку.",
-          "trans": "And tomorrow buy Konstantin the exact same bottle."
-        },
-        {
-          "text": "Константин Анисимов?",
-          "trans": "Konstantin Anisimov?"
-        }
-      ],
-      "related": []
-    },
     "кричать": {
       "lemma": "кричать",
       "stress": "крича́ть",
@@ -2731,7 +2575,7 @@
       "meanings": [
         {
           "en": "to shout, to yell",
-          "note": "Кричать на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to shout', paired with 'крикнуть'."
+          "note": "Кричать на + accusative."
         }
       ],
       "forms": {
@@ -2815,8 +2659,8 @@
           "trans": "Why are you shouting?"
         },
         {
-          "text": "Не надо кричать. Хорошо, я буду сегодня.",
-          "trans": "There's no need to shout. All right, I'll be there tonight."
+          "text": "Что вы кричите на меня?",
+          "trans": "Why are you shouting at me?"
         }
       ],
       "related": [
@@ -2843,7 +2687,7 @@
       "meanings": [
         {
           "en": "boy",
-          "note": "A male child. Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'boy' in everyday Russian."
+          "note": "A male child."
         },
         {
           "en": "boy!",
@@ -3157,7 +3001,7 @@
       "meanings": [
         {
           "en": "to explain",
-          "note": "Used as a perfective (single completed action) verb meaning 'to explain', paired with 'объяснять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3266,7 +3110,7 @@
       "meanings": [
         {
           "en": "to stop, to pull over",
-          "note": "A car or person. Used as a perfective (single completed action) verb meaning 'to stop (something or someone)', paired with 'останавливать'."
+          "note": "A car or person."
         }
       ],
       "forms": {
@@ -3413,7 +3257,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -3516,7 +3360,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -3556,11 +3400,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -3665,7 +3509,7 @@
       "meanings": [
         {
           "en": "to turn out, to work out",
-          "note": "Всё получилось = it all worked out. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to turn out, to work out', paired with 'получаться'."
+          "note": "Всё получилось = it all worked out."
         },
         {
           "en": "to come out of, to make",
@@ -3724,6 +3568,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "получись",
+                "получитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3757,11 +3618,11 @@
       "pos": "verb",
       "gloss": "to try, attempt",
       "aspect": "pf",
-      "pair": null,
+      "pair": "пытаться",
       "meanings": [
         {
           "en": "to try, attempt",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пытаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to try, attempt'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пытаться')."
         }
       ],
       "forms": {
@@ -3816,26 +3677,47 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "попытайся",
+                "попытайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Попытаться вас убедить.",
-          "trans": "To try to convince you."
+          "text": "Может, пора перестать себя ненавидеть и попытаться что-то исправить?",
+          "trans": "Maybe it's time to stop hating yourself and try to fix something?"
         },
         {
-          "text": "Надо всё сделать и попытаться вовремя.",
-          "trans": "We need to do everything and to try on time."
+          "text": "Мы попытались, у нас не получилось.",
+          "trans": "We tried, it didn't work out."
         }
       ],
       "related": [
         {
           "word": "пытаться",
-          "gloss": "to to try (base verb)"
+          "gloss": "to try (impf)"
         },
         {
-          "word": "не попытаться",
-          "gloss": "not to to try (negated infinitive)"
+          "word": "попытка",
+          "gloss": "attempt"
+        },
+        {
+          "word": "пробовать",
+          "gloss": "to try"
         }
       ]
     },
@@ -3848,7 +3730,7 @@
       "meanings": [
         {
           "en": "child",
-          "note": "Plural: дети. Common masculine noun meaning 'child' in everyday Russian."
+          "note": "Plural: дети."
         }
       ],
       "forms": {
@@ -3991,44 +3873,15 @@
       ],
       "related": []
     },
-    "скоро": {
-      "lemma": "скоро",
-      "stress": "ско́ро",
-      "pos": "adv",
-      "gloss": "soon",
-      "meanings": [
-        {
-          "en": "soon",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я скоро вернусь.",
-          "trans": "I'll be back soon."
-        },
-        {
-          "text": "Скоро лето.",
-          "trans": "Summer is coming soon."
-        },
-        {
-          "text": "Так, не шумим. Я скоро вернусь.",
-          "trans": "Right, no noise. I'll be back soon."
-        }
-      ],
-      "related": []
-    },
     "сомнительный": {
       "lemma": "сомнительный",
-      "stress": "сомните́льный",
+      "stress": "сомни́тельный",
       "pos": "adj",
       "gloss": "dubious",
       "meanings": [
         {
           "en": "dubious",
-          "note": "Descriptive Russian adjective meaning 'dubious', agreeing in gender, number, and case with the noun it modifies."
+          "note": ""
         }
       ],
       "forms": {
@@ -4071,10 +3924,10 @@
           {
             "cells": [
               "accusative",
-              "сомнительный",
+              "сомнительный / сомнительного",
               "сомнительную",
               "сомнительное",
-              "сомнительные"
+              "сомнительные / сомнительных"
             ]
           },
           {
@@ -4111,7 +3964,11 @@
       "related": [
         {
           "word": "сомнительно",
-          "gloss": "dubious"
+          "gloss": "doubtful"
+        },
+        {
+          "word": "сомнение",
+          "gloss": "doubt"
         }
       ]
     },
@@ -4124,7 +3981,7 @@
       "meanings": [
         {
           "en": "way, method, means of doing something",
-          "note": "Common masculine noun meaning 'way, method, means' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4295,7 +4152,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -4350,6 +4207,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4391,7 +4265,7 @@
       "meanings": [
         {
           "en": "to calm down",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to calm down', paired with 'успокаиваться'."
+          "note": ""
         }
       ],
       "forms": {

@@ -109,7 +109,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -381,7 +381,7 @@
           "lemma": "громко",
           "pos": "adv",
           "stress": "гро́мко",
-          "gloss": "on speaker (lit. loudly)",
+          "gloss": "loudly",
           "gram": "adverb"
         },
         {
@@ -478,10 +478,10 @@
         },
         {
           "t": "вечно",
-          "lemma": "вечный",
-          "pos": "adj",
+          "lemma": "вечно",
+          "pos": "adv",
           "stress": "ве́чно",
-          "gloss": "always",
+          "gloss": "always, constantly",
           "gram": "adverb"
         },
         {
@@ -747,7 +747,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1019,7 +1019,7 @@
           "lemma": "громко",
           "pos": "adv",
           "stress": "гро́мко",
-          "gloss": "on speaker (lit. loudly)",
+          "gloss": "loudly",
           "gram": "adverb"
         },
         {
@@ -1116,10 +1116,10 @@
         },
         {
           "t": "вечно",
-          "lemma": "вечный",
-          "pos": "adj",
+          "lemma": "вечно",
+          "pos": "adv",
           "stress": "ве́чно",
-          "gloss": "always",
+          "gloss": "always, constantly",
           "gram": "adverb"
         },
         {
@@ -1385,7 +1385,7 @@
         {
           "t": "Спасибо,",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1657,7 +1657,7 @@
           "lemma": "громко",
           "pos": "adv",
           "stress": "гро́мко",
-          "gloss": "on speaker (lit. loudly)",
+          "gloss": "loudly",
           "gram": "adverb"
         },
         {
@@ -1754,10 +1754,10 @@
         },
         {
           "t": "вечно",
-          "lemma": "вечный",
-          "pos": "adj",
+          "lemma": "вечно",
+          "pos": "adv",
           "stress": "ве́чно",
-          "gloss": "always",
+          "gloss": "always, constantly",
           "gram": "adverb"
         },
         {
@@ -1982,7 +1982,7 @@
       "meanings": [
         {
           "en": "Bremen (of or from Bremen)",
-          "note": "Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('Bremen')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2344,7 +2344,7 @@
         },
         {
           "en": "party, evening event",
-          "note": "E.g. a school evening. Common masculine noun meaning 'evening' in everyday Russian."
+          "note": "E.g. a school evening."
         }
       ],
       "forms": {
@@ -2429,100 +2429,31 @@
         }
       ]
     },
-    "вечный": {
-      "lemma": "вечный",
-      "stress": "ве́чный",
-      "pos": "adj",
-      "gloss": "eternal, everlasting, perpetual",
+    "вечно": {
+      "lemma": "вечно",
+      "stress": "ве́чно",
+      "pos": "adv",
+      "gloss": "forever, constantly",
       "meanings": [
         {
-          "en": "eternal, everlasting",
-          "note": "Lasting forever. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('eternal, everlasting, perpetual')."
+          "en": "forever, eternally",
+          "note": ""
         },
         {
-          "en": "perpetual, constant",
-          "note": "Never-ending. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('eternal, everlasting, perpetual')."
+          "en": "constantly, always",
+          "note": "Secondary conversational sense ('constantly, always') (colloquial expression of annoyance) used in spoken Russian dialogue."
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "вечный",
-              "вечная",
-              "вечное",
-              "вечные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "вечного",
-              "вечной",
-              "вечного",
-              "вечных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "вечному",
-              "вечной",
-              "вечному",
-              "вечным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "вечный",
-              "вечную",
-              "вечное",
-              "вечные"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "вечным",
-              "вечной",
-              "вечным",
-              "вечными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "вечном",
-              "вечной",
-              "вечном",
-              "вечных"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Швейцария! Они вечные.",
-          "trans": "Switzerland! They'll last forever."
+          "text": "Нельзя вечно бояться.",
+          "trans": "You cannot be afraid forever."
         },
         {
-          "text": "Ничто не вечно под луной.",
-          "trans": "Nothing lasts forever under the moon."
-        },
-        {
-          "text": "Знаешь, что это за часы? Швейцария! Они вечные.",
-          "trans": "Do you know what kind of watch this is? Switzerland! It'll last forever."
+          "text": "Ты прав, нельзя вечно бояться.",
+          "trans": "You're right, one cannot be afraid forever."
         }
       ],
       "related": [
@@ -2531,8 +2462,8 @@
           "gloss": "eternity"
         },
         {
-          "word": "вечно",
-          "gloss": "forever"
+          "word": "вечный",
+          "gloss": "eternal"
         }
       ]
     },
@@ -2546,7 +2477,7 @@
       "meanings": [
         {
           "en": "to worry, to be nervous",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2691,7 +2622,7 @@
         },
         {
           "en": "everyone",
-          "note": "Всем = to everyone (dative). Core Russian pron meaning 'all; everyone' in everyday speech."
+          "note": "Всем = to everyone (dative)."
         }
       ],
       "forms": null,
@@ -2714,10 +2645,6 @@
         {
           "word": "весь",
           "gloss": "all, whole"
-        },
-        {
-          "word": "всё",
-          "gloss": "everything"
         }
       ]
     },
@@ -2756,84 +2683,6 @@
         {
           "word": "навсегда",
           "gloss": "forever"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2887,7 +2736,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3007,7 +2856,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -3050,11 +2899,11 @@
       "meanings": [
         {
           "en": "suit",
-          "note": "Business suit. Common masculine noun meaning 'suit; costume' in everyday Russian."
+          "note": "Business suit."
         },
         {
           "en": "costume, outfit",
-          "note": "For theatre or promotion. Common masculine noun meaning 'suit; costume' in everyday Russian."
+          "note": "For theatre or promotion."
         }
       ],
       "forms": {
@@ -3135,7 +2984,7 @@
       "meanings": [
         {
           "en": "cat, tomcat",
-          "note": "Кошка is the general / female word. Common masculine noun meaning 'cat (tomcat)' in everyday Russian."
+          "note": "Кошка is the general / female word."
         }
       ],
       "forms": {
@@ -3207,8 +3056,16 @@
       ],
       "related": [
         {
-          "word": "котный",
-          "gloss": "related to cat (adj.)"
+          "word": "кошка",
+          "gloss": "cat (female)"
+        },
+        {
+          "word": "котёнок",
+          "gloss": "kitten"
+        },
+        {
+          "word": "котик",
+          "gloss": "kitty; honey"
         }
       ]
     },
@@ -3218,10 +3075,11 @@
       "pos": "noun",
       "gloss": "beauty, beautiful woman",
       "gender": "f",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "beautiful woman, beauty",
-          "note": "Common feminine noun meaning 'beauty, beautiful woman' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3297,12 +3155,12 @@
           "gloss": "beauty"
         },
         {
-          "word": "украсть",
-          "gloss": "to steal"
-        },
-        {
           "word": "красивый",
           "gloss": "beautiful"
+        },
+        {
+          "word": "красавец",
+          "gloss": "handsome man"
         }
       ]
     },
@@ -3316,7 +3174,7 @@
       "meanings": [
         {
           "en": "to shout, to yell",
-          "note": "Кричать на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to shout', paired with 'крикнуть'."
+          "note": "Кричать на + accusative."
         }
       ],
       "forms": {
@@ -3400,8 +3258,8 @@
           "trans": "Why are you shouting?"
         },
         {
-          "text": "Не надо кричать. Хорошо, я буду сегодня.",
-          "trans": "There's no need to shout. All right, I'll be there tonight."
+          "text": "Что вы кричите на меня?",
+          "trans": "Why are you shouting at me?"
         }
       ],
       "related": [
@@ -3511,7 +3369,7 @@
       "meanings": [
         {
           "en": "to crow, to cock-a-doodle-doo",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to crow'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3563,6 +3421,23 @@
                 "кукарекала",
                 "кукарекало",
                 "кукарекали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "кукарекай",
+                "кукарекайте"
               ]
             }
           ]
@@ -3670,7 +3545,7 @@
       "meanings": [
         {
           "en": "musician",
-          "note": "Common masculine noun meaning 'musician' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3835,7 +3710,7 @@
       "meanings": [
         {
           "en": "to put on (an item of clothing)",
-          "note": "+ accusative. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'деть'). Used as a perfective (single completed action) verb meaning 'to put on (clothes)', paired with 'надевать'."
+          "note": "+ accusative. Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'деть')."
         }
       ],
       "forms": {
@@ -4046,7 +3921,7 @@
       "meanings": [
         {
           "en": "to begin, to start, to break out (intransitive)",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to begin, to start, to break out', paired with 'начинаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4098,6 +3973,23 @@
                 "началась",
                 "началось",
                 "начались"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "начнись",
+                "начнитесь"
               ]
             }
           ]
@@ -4277,7 +4169,7 @@
       "meanings": [
         {
           "en": "dissatisfied, displeased, unhappy",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'довольный'). Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('dissatisfied, unhappy')."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'довольный')."
         }
       ],
       "forms": {
@@ -4362,6 +4254,14 @@
         }
       ],
       "related": [
+        {
+          "word": "довольный",
+          "gloss": "pleased, satisfied"
+        },
+        {
+          "word": "недовольство",
+          "gloss": "discontent"
+        },
         {
           "word": "удовольствие",
           "gloss": "pleasure"
@@ -4512,6 +4412,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "нравься",
+                "нравьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4590,7 +4507,7 @@
       "meanings": [
         {
           "en": "donkey",
-          "note": "Common masculine noun meaning 'donkey' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4632,7 +4549,7 @@
           {
             "cells": [
               "instrumental",
-              "ослы",
+              "ослом",
               "ослами"
             ]
           },
@@ -4667,7 +4584,7 @@
       "meanings": [
         {
           "en": "song",
-          "note": "Common feminine noun meaning 'song' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4748,7 +4665,7 @@
       "meanings": [
         {
           "en": "rooster, cock",
-          "note": "Common masculine noun meaning 'rooster' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4859,11 +4776,11 @@
       "meanings": [
         {
           "en": "to try, to have a go",
-          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         },
         {
           "en": "to taste",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as a perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать')."
         }
       ],
       "forms": {
@@ -5006,11 +4923,11 @@
       "meanings": [
         {
           "en": "to suggest",
-          "note": "+ accusative + dative. Used as an imperfective (ongoing/repeated action) verb meaning 'to suggest, to offer', paired with 'предложить'."
+          "note": "+ accusative + dative."
         },
         {
           "en": "to offer",
-          "note": "+ accusative + dative. Used as an imperfective (ongoing/repeated action) verb meaning 'to suggest, to offer', paired with 'предложить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5152,7 +5069,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -5256,7 +5173,7 @@
       "meanings": [
         {
           "en": "amateur arts, amateur performance",
-          "note": "Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'amateur talent, amateur activity' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5356,67 +5273,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -5444,7 +5309,7 @@
       "meanings": [
         {
           "en": "to sing (a song, to completion)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'петь'). Used as a perfective (single completed action) verb meaning 'to sing', paired with 'петь'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'петь')."
         }
       ],
       "forms": {
@@ -5499,6 +5364,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "спой",
+                "спойте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5539,7 +5421,7 @@
         },
         {
           "en": "scene (in a play, film, or argument)",
-          "note": "Common feminine noun meaning 'stage; scene' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5673,8 +5555,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -5687,7 +5577,7 @@
       "meanings": [
         {
           "en": "troubadour, itinerant singer",
-          "note": "Common masculine noun meaning 'troubadour' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5953,7 +5843,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -6005,6 +5895,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

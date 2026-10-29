@@ -81,7 +81,7 @@
           "lemma": "о",
           "pos": "prep",
           "stress": "о́бо",
-          "gloss": "about, for",
+          "gloss": "about",
           "gram": "takes prepositional"
         },
         {
@@ -190,7 +190,7 @@
           "pos": "noun",
           "stress": "дете́й",
           "gloss": "children",
-          "gram": "plural, genitive (after 'двое')"
+          "gram": "genitive plural"
         }
       ]
     },
@@ -320,7 +320,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "был",
@@ -334,7 +334,7 @@
           "t": "один-один!",
           "lemma": "один-один",
           "pos": "phrase",
-          "stress": "оди́н-один",
+          "stress": "оди́н-оди́н",
           "gloss": "one-all",
           "gram": "score"
         }
@@ -495,7 +495,7 @@
           "lemma": "продавец",
           "pos": "noun",
           "stress": "продавцо́м",
-          "gloss": "clerk",
+          "gloss": "shop assistant",
           "gram": "masculine singular instrumental"
         },
         {
@@ -749,7 +749,7 @@
           "lemma": "о",
           "pos": "prep",
           "stress": "о́бо",
-          "gloss": "about, for",
+          "gloss": "about",
           "gram": "takes prepositional"
         },
         {
@@ -858,7 +858,7 @@
           "pos": "noun",
           "stress": "дете́й",
           "gloss": "children",
-          "gram": "plural, genitive (after 'двое')"
+          "gram": "genitive plural"
         }
       ]
     },
@@ -988,7 +988,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "был",
@@ -1002,7 +1002,7 @@
           "t": "один-один!",
           "lemma": "один-один",
           "pos": "phrase",
-          "stress": "оди́н-один",
+          "stress": "оди́н-оди́н",
           "gloss": "one-all",
           "gram": "score"
         }
@@ -1163,7 +1163,7 @@
           "lemma": "продавец",
           "pos": "noun",
           "stress": "продавцо́м",
-          "gloss": "clerk",
+          "gloss": "shop assistant",
           "gram": "masculine singular instrumental"
         },
         {
@@ -1417,7 +1417,7 @@
           "lemma": "о",
           "pos": "prep",
           "stress": "о́бо",
-          "gloss": "about, for",
+          "gloss": "about",
           "gram": "takes prepositional"
         },
         {
@@ -1526,7 +1526,7 @@
           "pos": "noun",
           "stress": "дете́й",
           "gloss": "children",
-          "gram": "plural, genitive (after 'двое')"
+          "gram": "genitive plural"
         }
       ]
     },
@@ -1656,7 +1656,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "counting, account",
-          "gram": "masculine accusative singular"
+          "gram": "nominative / accusative singular, masculine"
         },
         {
           "t": "был",
@@ -1670,7 +1670,7 @@
           "t": "один-один!",
           "lemma": "один-один",
           "pos": "phrase",
-          "stress": "оди́н-один",
+          "stress": "оди́н-оди́н",
           "gloss": "one-all",
           "gram": "score"
         }
@@ -1831,7 +1831,7 @@
           "lemma": "продавец",
           "pos": "noun",
           "stress": "продавцо́м",
-          "gloss": "clerk",
+          "gloss": "shop assistant",
           "gram": "masculine singular instrumental"
         },
         {
@@ -2182,7 +2182,7 @@
       "meanings": [
         {
           "en": "after all, you know",
-          "note": "Adds a reason or an obvious truth. Core Russian part meaning 'after all, you know' in everyday speech."
+          "note": "Adds a reason or an obvious truth."
         }
       ],
       "forms": null,
@@ -2371,11 +2371,11 @@
       "meanings": [
         {
           "en": "to give a speech, to speak in public",
-          "note": "On stage. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ступать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to speak (in public), to perform', paired with 'выступить'."
+          "note": "On stage. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ступать')."
         },
         {
           "en": "to perform",
-          "note": "On stage. Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'ступать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to speak (in public), to perform', paired with 'выступить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2430,6 +2430,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "выступай",
+                "выступайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2470,7 +2487,7 @@
       "meanings": [
         {
           "en": "performance, public appearance",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'performance, speech' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2542,16 +2559,16 @@
       ],
       "related": [
         {
-          "word": "поступить",
-          "gloss": "to enter"
-        },
-        {
           "word": "выступать",
-          "gloss": "to speak"
+          "gloss": "to perform"
         },
         {
-          "word": "наступить",
-          "gloss": "to come"
+          "word": "сцена",
+          "gloss": "stage"
+        },
+        {
+          "word": "концерт",
+          "gloss": "concert"
         }
       ]
     },
@@ -2564,11 +2581,11 @@
       "meanings": [
         {
           "en": "nonsense, silly thing (often plural: глупости)",
-          "note": "Что за глупости? = What nonsense?. Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'nonsense, foolishness' in everyday Russian."
+          "note": "Что за глупости? = What nonsense?."
         },
         {
           "en": "stupidity, foolishness",
-          "note": "Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'nonsense, foolishness' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2843,29 +2860,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "готов",
-                "готова",
-                "готово",
-                "готовы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я готов!",
@@ -3054,7 +3049,7 @@
       "meanings": [
         {
           "en": "living, alive",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('living, alive, live')."
+          "note": ""
         }
       ],
       "forms": {
@@ -3097,10 +3092,10 @@
           {
             "cells": [
               "accusative",
-              "живой/живого",
+              "живой / живого",
               "живую",
               "живое",
-              "живые/живых"
+              "живые / живых"
             ]
           },
           {
@@ -3159,7 +3154,7 @@
       "meanings": [
         {
           "en": "to end, to be over",
-          "note": "The thing that ends is the subject. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'кончиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to end, to be over', paired with 'заканчиваться'."
+          "note": "The thing that ends is the subject. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'кончиться')."
         },
         {
           "en": "to run out",
@@ -3218,6 +3213,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "закончись",
+                "закончитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3254,12 +3266,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -3314,6 +3324,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3333,17 +3360,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -3541,11 +3569,11 @@
       "meanings": [
         {
           "en": "to cheat on, to be unfaithful to",
-          "note": "+ dative (кому). Used as a perfective (single completed action) verb meaning 'to cheat on, to betray; to change', paired with 'изменять'."
+          "note": "+ dative (кому)."
         },
         {
           "en": "to change, to alter",
-          "note": "+ accusative (что). Used as a perfective (single completed action) verb meaning 'to cheat on, to betray; to change', paired with 'изменять'."
+          "note": "+ accusative (что)."
         }
       ],
       "forms": {
@@ -3776,7 +3804,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -3798,7 +3826,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -3888,44 +3920,6 @@
         }
       ]
     },
-    "может": {
-      "lemma": "может",
-      "stress": "мо́жет",
-      "pos": "adv",
-      "gloss": "maybe, perhaps",
-      "meanings": [
-        {
-          "en": "maybe, perhaps",
-          "note": "Short for может быть. Core Russian part meaning 'maybe, perhaps' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Может, поможешь?",
-          "trans": "Maybe you could help?"
-        },
-        {
-          "text": "Может, завтра.",
-          "trans": "Maybe tomorrow."
-        },
-        {
-          "text": "Я думал, может, не примешь.",
-          "trans": "I thought maybe you wouldn't see me."
-        }
-      ],
-      "related": [
-        {
-          "word": "может быть",
-          "gloss": "maybe (full form)"
-        },
-        {
-          "word": "мочь",
-          "gloss": "can"
-        }
-      ]
-    },
     "мочь": {
       "lemma": "мочь",
       "stress": "мочь",
@@ -3936,7 +3930,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3988,6 +3982,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -4306,13 +4317,13 @@
     },
     "один-один": {
       "lemma": "один-один",
-      "stress": "оди́н-один",
+      "stress": "оди́н-оди́н",
       "pos": "phrase",
       "gloss": "one-all",
       "meanings": [
         {
           "en": "one-all, one each",
-          "note": "A score; also 'we're even'. Core Russian phrase meaning 'one-all' in everyday speech."
+          "note": "A score; also 'we're even'."
         }
       ],
       "forms": null,
@@ -4337,12 +4348,12 @@
           "gloss": "one"
         },
         {
-          "word": "одинокий",
-          "gloss": "lonely"
+          "word": "ничья",
+          "gloss": "draw (tie)"
         },
         {
-          "word": "одинаковый",
-          "gloss": "the same"
+          "word": "счёт",
+          "gloss": "score"
         }
       ]
     },
@@ -4389,7 +4400,7 @@
       "meanings": [
         {
           "en": "to try hard, do one's best",
-          "note": "Followed by infinitive. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to try, make an effort', paired with 'стараться'."
+          "note": "Followed by infinitive."
         }
       ],
       "forms": {
@@ -4494,7 +4505,7 @@
       "meanings": [
         {
           "en": "to stop, put an end to",
-          "note": "Прекрати! = Stop it!. Used as a perfective (single completed action) verb meaning 'to stop, quit', paired with 'прекращать'."
+          "note": "Прекрати! = Stop it!."
         }
       ],
       "forms": {
@@ -4595,14 +4606,15 @@
       "pos": "noun",
       "gloss": "shop assistant, seller",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "shop assistant, sales assistant",
-          "note": "Common masculine noun meaning 'shop assistant, seller' in everyday Russian."
+          "note": ""
         },
         {
           "en": "seller",
-          "note": "Common masculine noun meaning 'shop assistant, seller' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4725,10 +4737,10 @@
           {
             "cells": [
               "accusative",
-              "продуктовый / -ого",
+              "продуктовый / продуктового",
               "продуктовую",
               "продуктовое",
-              "продуктовые / -ых"
+              "продуктовые / продуктовых"
             ]
           },
           {
@@ -4811,7 +4823,7 @@
       "meanings": [
         {
           "en": "for the sake of, for",
-          "note": "+ genitive. Core Russian prep meaning 'for the sake of' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -4841,7 +4853,7 @@
       "meanings": [
         {
           "en": "child",
-          "note": "Plural: дети. Common masculine noun meaning 'child' in everyday Russian."
+          "note": "Plural: дети."
         }
       ],
       "forms": {
@@ -4960,7 +4972,7 @@
       "meanings": [
         {
           "en": "seriously",
-          "note": "Серьёзно? = really?. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Серьёзно? = really?."
         }
       ],
       "forms": null,
@@ -4996,11 +5008,11 @@
       "meanings": [
         {
           "en": "to intend, plan, get ready to",
-          "note": "+ infinitive. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to get ready, plan to, gather', paired with 'собираться'."
+          "note": "+ infinitive."
         },
         {
           "en": "to gather, assemble",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to get ready, plan to, gather', paired with 'собираться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5111,7 +5123,7 @@
         },
         {
           "en": "not at all",
-          "note": "Совсем не."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5142,11 +5154,11 @@
       "meanings": [
         {
           "en": "to get off, to step down",
-          "note": "Used as a perfective (single completed action) verb meaning 'to get off; (с ума) to go mad', paired with 'сходить'."
+          "note": ""
         },
         {
           "en": "сойти с ума = to go mad, to lose one's mind",
-          "note": "Used as a perfective (single completed action) verb meaning 'to get off; (с ума) to go mad', paired with 'сходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5237,11 +5249,11 @@
       "related": [
         {
           "word": "сходить",
-          "gloss": "to go"
+          "gloss": "to get off, go down (impf)"
         },
         {
-          "word": "подойти",
-          "gloss": "to come up"
+          "word": "сойти с ума",
+          "gloss": "to go mad"
         },
         {
           "word": "отойти",
@@ -5258,11 +5270,11 @@
       "meanings": [
         {
           "en": "bank account",
-          "note": "Счёт в банке. Common masculine noun meaning 'account, bill, score' in everyday Russian."
+          "note": "Счёт в банке."
         },
         {
           "en": "bill, check",
-          "note": "In a restaurant. Common masculine noun meaning 'account, bill, score' in everyday Russian."
+          "note": "In a restaurant."
         }
       ],
       "forms": {
@@ -5284,14 +5296,14 @@
             "cells": [
               "genitive",
               "счёта",
-              "счетов"
+              "счётов"
             ]
           },
           {
             "cells": [
               "dative",
               "счёту",
-              "счетам"
+              "счётам"
             ]
           },
           {
@@ -5305,14 +5317,14 @@
             "cells": [
               "instrumental",
               "счётом",
-              "счетами"
+              "счётами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "счёте",
-              "счетах"
+              "счётах"
             ]
           }
         ]
@@ -5351,7 +5363,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -5478,7 +5490,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5914,7 +5926,7 @@
         },
         {
           "en": "in order to",
-          "note": "+ infinitive. Core Russian conj meaning 'so that, in order to' in everyday speech."
+          "note": "+ infinitive."
         }
       ],
       "forms": null,

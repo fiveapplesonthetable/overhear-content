@@ -66,7 +66,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "сумка!",
@@ -247,8 +247,8 @@
           "lemma": "быть",
           "pos": "verb",
           "stress": "бы́ли",
-          "gloss": "(there) be",
-          "gram": "past plural form after 'чтобы'"
+          "gloss": "were",
+          "gram": "past, plural"
         },
         {
           "t": "совершенно",
@@ -277,7 +277,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -349,7 +349,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -490,7 +490,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "сумка!",
@@ -671,8 +671,8 @@
           "lemma": "быть",
           "pos": "verb",
           "stress": "бы́ли",
-          "gloss": "(there) be",
-          "gram": "past plural form after 'чтобы'"
+          "gloss": "were",
+          "gram": "past, plural"
         },
         {
           "t": "совершенно",
@@ -701,7 +701,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -773,7 +773,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -914,7 +914,7 @@
           "pos": "det",
           "stress": "моя́",
           "gloss": "my",
-          "gram": "nominative feminine singular (agrees with машинка)"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "сумка!",
@@ -1095,8 +1095,8 @@
           "lemma": "быть",
           "pos": "verb",
           "stress": "бы́ли",
-          "gloss": "(there) be",
-          "gram": "past plural form after 'чтобы'"
+          "gloss": "were",
+          "gram": "past, plural"
         },
         {
           "t": "совершенно",
@@ -1125,7 +1125,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1197,7 +1197,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1300,14 +1300,14 @@
   "lexicon": {
     "бдительность": {
       "lemma": "бдительность",
-      "stress": "бдите́льность",
+      "stress": "бди́тельность",
       "pos": "noun",
       "gloss": "vigilance",
       "gender": "f",
       "meanings": [
         {
           "en": "vigilance",
-          "note": "Abstract feminine noun formed with the Slavic suffix '-ость' ('-ness, -ity') from the corresponding adjective. Common feminine noun meaning 'vigilance' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1369,18 +1369,18 @@
           "trans": "Thank you for your vigilance."
         },
         {
-          "text": "На кухне отеля всегда есть бдительность.",
-          "trans": "In the hotel kitchen there is always vigilance."
+          "text": "Не теряйте бдительность!",
+          "trans": "Don't let your guard down!"
         }
       ],
       "related": [
         {
-          "word": "без бдительност",
-          "gloss": "without vigilance"
+          "word": "бдительный",
+          "gloss": "vigilant"
         },
         {
-          "word": "наш бдительность",
-          "gloss": "our vigilance"
+          "word": "осторожность",
+          "gloss": "caution"
         }
       ]
     },
@@ -1580,10 +1580,11 @@
       "pos": "noun",
       "gloss": "thief",
       "gender": "f",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "thief",
-          "note": "Common feminine noun meaning 'thief' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1605,7 +1606,7 @@
             "cells": [
               "genitive",
               "воровки",
-              "воровк"
+              "воровок"
             ]
           },
           {
@@ -1619,7 +1620,7 @@
             "cells": [
               "accusative",
               "воровку",
-              "воровки"
+              "воровок"
             ]
           },
           {
@@ -1642,99 +1643,21 @@
       "examples": [
         {
           "text": "Она воровка!",
-          "trans": "She is a thief!"
+          "trans": "She's a thief!"
         },
         {
-          "text": "На кухне отеля всегда есть воровка.",
-          "trans": "In the hotel kitchen there is always thief."
+          "text": "Эта воровка украла мой кошелёк.",
+          "trans": "That thief stole my wallet."
         }
       ],
       "related": [
         {
-          "word": "без воровк",
-          "gloss": "without thief"
+          "word": "вор",
+          "gloss": "thief (male)"
         },
         {
-          "word": "наш воровка",
-          "gloss": "our thief"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
+          "word": "воровать",
+          "gloss": "to steal"
         }
       ]
     },
@@ -1828,11 +1751,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1870,11 +1793,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2100,7 +2023,7 @@
       "meanings": [
         {
           "en": "misunderstanding, mix-up",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'доразумение'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'misunderstanding' in everyday Russian."
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'доразумение')."
         }
       ],
       "forms": {
@@ -2182,7 +2105,7 @@
       "meanings": [
         {
           "en": "to explain",
-          "note": "Used as a perfective (single completed action) verb meaning 'to explain', paired with 'объяснять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2370,11 +2293,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "of",
-          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
+          "note": "Тошнит от = sick of."
         }
       ],
       "forms": null,
@@ -2414,11 +2337,11 @@
       "meanings": [
         {
           "en": "to give away, to hand over",
-          "note": "Отдать + dative of the person. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'дать'). Used as a perfective (single completed action) verb meaning 'to give (away), to hand over', paired with 'отдавать'."
+          "note": "Отдать + dative of the person. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'дать')."
         },
         {
           "en": "to give back",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'дать'). Used as a perfective (single completed action) verb meaning 'to give (away), to hand over', paired with 'отдавать'."
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'дать')."
         }
       ],
       "forms": {
@@ -2531,11 +2454,11 @@
       "meanings": [
         {
           "en": "to let go, to release",
-          "note": "A prisoner, a hand. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить'). Used as a perfective (single completed action) verb meaning 'to let go, to release', paired with 'отпускать'."
+          "note": "A prisoner, a hand. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить')."
         },
         {
           "en": "to let someone leave",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить'). Used as a perfective (single completed action) verb meaning 'to let go, to release', paired with 'отпускать'."
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить')."
         }
       ],
       "forms": {
@@ -2643,11 +2566,11 @@
       "meanings": [
         {
           "en": "security guards",
-          "note": "As a group. Common feminine noun meaning 'security, guards' in everyday Russian."
+          "note": "As a group."
         },
         {
           "en": "protection",
-          "note": "Common feminine noun meaning 'security, guards' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2662,42 +2585,42 @@
             "cells": [
               "nominative",
               "охрана",
-              "—"
+              "охраны"
             ]
           },
           {
             "cells": [
               "genitive",
               "охраны",
-              "—"
+              "охран"
             ]
           },
           {
             "cells": [
               "dative",
               "охране",
-              "—"
+              "охранам"
             ]
           },
           {
             "cells": [
               "accusative",
               "охрану",
-              "—"
+              "охраны"
             ]
           },
           {
             "cells": [
               "instrumental",
               "охраной",
-              "—"
+              "охранами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "охране",
-              "—"
+              "охранах"
             ]
           }
         ]
@@ -2736,11 +2659,11 @@
       "meanings": [
         {
           "en": "right (not left)",
-          "note": "Short form: ты прав = you're right. Agrees in gender, number, and case with the noun it modifies ('right (side)')."
+          "note": "Short form: ты прав = you're right."
         },
         {
           "en": "right, correct",
-          "note": "Short form: ты прав = you're right. Agrees in gender, number, and case with the noun it modifies ('right (side)')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2783,10 +2706,10 @@
           {
             "cells": [
               "accusative",
-              "правый/правого",
+              "правый / правого",
               "правую",
               "правое",
-              "правые/правых"
+              "правые / правых"
             ]
           },
           {
@@ -2904,6 +2827,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "происходи",
+                "происходите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2923,11 +2863,11 @@
       "related": [
         {
           "word": "произойти",
-          "gloss": "to happen"
+          "gloss": "to happen (pf)"
         },
         {
-          "word": "исходный",
-          "gloss": "initial"
+          "word": "происшествие",
+          "gloss": "incident"
         }
       ]
     },
@@ -2940,7 +2880,7 @@
       "meanings": [
         {
           "en": "hand, arm",
-          "note": "Жать руку = to shake hands. Common feminine noun meaning 'hand; arm' in everyday Russian."
+          "note": "Жать руку = to shake hands."
         }
       ],
       "forms": {
@@ -3012,44 +2952,6 @@
       ],
       "related": []
     },
-    "сейчас": {
-      "lemma": "сейчас",
-      "stress": "сейча́с",
-      "pos": "adv",
-      "gloss": "now, right now",
-      "meanings": [
-        {
-          "en": "now",
-          "note": "'сейчас буду' = I'll be right there"
-        },
-        {
-          "en": "in a moment",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я сейчас в кабинете.",
-          "trans": "I'm in the office now."
-        },
-        {
-          "text": "Сейчас приду.",
-          "trans": "I'll be right there."
-        },
-        {
-          "text": "Конечно, помогу. Кто у вас сейчас начальник?",
-          "trans": "Of course I'll help. Who's your boss now?"
-        }
-      ],
-      "related": [
-        {
-          "word": "теперь",
-          "gloss": "now (after a change)"
-        }
-      ]
-    },
     "случиться": {
       "lemma": "случиться",
       "stress": "случи́ться",
@@ -3060,7 +2962,7 @@
       "meanings": [
         {
           "en": "to happen",
-          "note": "Что случилось? = what happened?. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to happen', paired with 'случаться'."
+          "note": "Что случилось? = what happened?."
         }
       ],
       "forms": {
@@ -3115,6 +3017,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "случись",
+                "случитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3146,7 +3065,7 @@
       "meanings": [
         {
           "en": "completely, quite, utterly",
-          "note": "Совершенно верно = quite right. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Совершенно верно = quite right."
         }
       ],
       "forms": null,
@@ -3179,67 +3098,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -3271,7 +3138,7 @@
         },
         {
           "en": "freeze!",
-          "note": "the infinitive 'Стоять!' as a police order"
+          "note": ""
         }
       ],
       "forms": {
@@ -3375,7 +3242,7 @@
       "meanings": [
         {
           "en": "bag, handbag, tote",
-          "note": "For carrying things. Common feminine noun meaning 'bag, handbag' in everyday Russian."
+          "note": "For carrying things."
         }
       ],
       "forms": {
@@ -3501,7 +3368,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -3606,16 +3473,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Тише, дети спят!",
-          "trans": "Quiet, the children are asleep!"
-        },
-        {
           "text": "Здесь тихо.",
           "trans": "It's quiet here."
         },
         {
-          "text": "Тише!",
-          "trans": "Quiet!"
+          "text": "Почему на кухне так тихо?",
+          "trans": "Why is the kitchen so quiet?"
         }
       ],
       "related": [
@@ -3634,12 +3497,12 @@
       "pair": "убирать",
       "meanings": [
         {
-          "en": "to remove, to take away, to cut out",
-          "note": "A room. Prefix 'у-' marks departure, removal, or successful completion (stem 'брать'). Used as a perfective (single completed action) verb meaning 'to remove, to take away; to tidy up', paired with 'убирать'."
+          "en": "to remove, to take away, to put away",
+          "note": "Убери руки! = Hands off!"
         },
         {
           "en": "to clean up, to tidy",
-          "note": "A room. Prefix 'у-' marks departure, removal, or successful completion (stem 'брать'). Used as a perfective (single completed action) verb meaning 'to remove, to take away; to tidy up', paired with 'убирать'."
+          "note": "Of a room or place."
         }
       ],
       "forms": {

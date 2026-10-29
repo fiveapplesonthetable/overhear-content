@@ -433,7 +433,7 @@
         {
           "t": "и",
           "lemma": "и",
-          "pos": "conj",
+          "pos": "part",
           "stress": null,
           "gloss": "just, indeed",
           "gram": "emphatic particle"
@@ -879,7 +879,7 @@
         {
           "t": "и",
           "lemma": "и",
-          "pos": "conj",
+          "pos": "part",
           "stress": null,
           "gloss": "just, indeed",
           "gram": "emphatic particle"
@@ -1325,7 +1325,7 @@
         {
           "t": "и",
           "lemma": "и",
-          "pos": "conj",
+          "pos": "part",
           "stress": null,
           "gloss": "just, indeed",
           "gram": "emphatic particle"
@@ -1457,10 +1457,10 @@
           {
             "cells": [
               "accusative",
-              "благодарный",
+              "благодарный / благодарного",
               "благодарную",
               "благодарное",
-              "благодарные"
+              "благодарные / благодарных"
             ]
           },
           {
@@ -1483,29 +1483,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "благодарен",
-                "благодарна",
-                "благодарно",
-                "благодарны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я вам очень благодарен.",
@@ -1697,7 +1675,7 @@
       "meanings": [
         {
           "en": "to lead, to guide, to drive",
-          "note": "Unidirectional verb of motion. Used as an imperfective (ongoing/repeated action) verb meaning 'to lead, to conduct (вести себя = to behave)', paired with 'повести'."
+          "note": "Unidirectional verb of motion."
         },
         {
           "en": "вести себя: to behave, to conduct oneself",
@@ -1813,11 +1791,11 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": "In 'до встречи' = until we meet."
         },
         {
           "en": "see you",
-          "note": "In 'до встречи' = until we meet. Common feminine noun meaning 'meeting' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1912,11 +1890,11 @@
       "meanings": [
         {
           "en": "to date, go out with each other",
-          "note": "Мы встречаемся = we're dating. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to meet; to date, go out', paired with 'встретиться'."
+          "note": "Мы встречаемся = we're dating."
         },
         {
           "en": "to meet up, see each other",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to meet; to date, go out', paired with 'встретиться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2202,7 +2180,11 @@
       "related": [
         {
           "word": "подарить",
-          "gloss": "to give"
+          "gloss": "to give as a gift (pf)"
+        },
+        {
+          "word": "подарок",
+          "gloss": "present"
         }
       ]
     },
@@ -2214,11 +2196,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2256,7 +2238,7 @@
       "meanings": [
         {
           "en": "expensive",
-          "note": "to a loved one, and at the start of letters"
+          "note": ""
         },
         {
           "en": "dear",
@@ -2303,10 +2285,10 @@
           {
             "cells": [
               "accusative",
-              "дорогой/дорогого",
+              "дорогой / дорогого",
               "дорогую",
               "дорогое",
-              "дорогие/дорогих"
+              "дорогие / дорогих"
             ]
           },
           {
@@ -2329,29 +2311,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "дорог",
-                "дорога",
-                "дорого",
-                "дороги"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Это дорогая одежда.",
@@ -2381,11 +2341,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2681,7 +2641,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2733,6 +2693,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -2939,7 +2916,7 @@
       "meanings": [
         {
           "en": "present, gift",
-          "note": "Common masculine noun meaning 'present, gift' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3017,11 +2994,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -3197,8 +3174,20 @@
       ],
       "related": [
         {
-          "word": "разный",
-          "gloss": "related to time (adj.)"
+          "word": "однажды",
+          "gloss": "once, one day"
+        },
+        {
+          "word": "как раз",
+          "gloss": "just right, exactly"
+        },
+        {
+          "word": "ни разу",
+          "gloss": "not once, never"
+        },
+        {
+          "word": "сразу",
+          "gloss": "at once"
         }
       ]
     },
@@ -3211,7 +3200,7 @@
       "meanings": [
         {
           "en": "hand, arm",
-          "note": "Жать руку = to shake hands. Common feminine noun meaning 'hand; arm' in everyday Russian."
+          "note": "Жать руку = to shake hands."
         }
       ],
       "forms": {
@@ -3332,7 +3321,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -3525,11 +3514,11 @@
       "meanings": [
         {
           "en": "it's shameful",
-          "note": "Это стыдно. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Это стыдно."
         },
         {
           "en": "to be ashamed",
-          "note": "Мне стыдно = I'm ashamed. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Мне стыдно = I'm ashamed."
         }
       ],
       "forms": null,
@@ -3768,7 +3757,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -3820,6 +3809,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

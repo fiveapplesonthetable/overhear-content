@@ -379,7 +379,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -503,7 +503,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -527,7 +527,7 @@
           "lemma": "бродить",
           "pos": "verb",
           "stress": "броди́л",
-          "gloss": "wandered, roamed",
+          "gloss": "wandered",
           "gram": "past tense, masculine singular, imperfective"
         }
       ]
@@ -963,7 +963,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1087,7 +1087,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1111,7 +1111,7 @@
           "lemma": "бродить",
           "pos": "verb",
           "stress": "броди́л",
-          "gloss": "wandered, roamed",
+          "gloss": "wandered",
           "gram": "past tense, masculine singular, imperfective"
         }
       ]
@@ -1547,7 +1547,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1671,7 +1671,7 @@
           "lemma": "по",
           "pos": "prep",
           "stress": null,
-          "gloss": "according to",
+          "gloss": "about; along; by; according to",
           "gram": "preposition with dative"
         },
         {
@@ -1695,7 +1695,7 @@
           "lemma": "бродить",
           "pos": "verb",
           "stress": "броди́л",
-          "gloss": "wandered, roamed",
+          "gloss": "wandered",
           "gram": "past tense, masculine singular, imperfective"
         }
       ]
@@ -1814,15 +1814,15 @@
     },
     "бродить": {
       "lemma": "бродить",
-      "stress": "бро́дить",
+      "stress": "броди́ть",
       "pos": "verb",
-      "gloss": "wandered, roamed",
+      "gloss": "to wander, roam",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "wandered, roamed",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'wandered, roamed'."
+          "en": "to wander, roam",
+          "note": ""
         }
       ],
       "forms": {
@@ -1877,26 +1877,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "броди",
+                "бродите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "И одного не оставляйте, чтобы по отелю не бродил.",
-          "trans": "And do not leave him alone, so he does not wander around the hotel."
+          "trans": "And don't leave him alone, so he doesn't wander around the hotel."
         },
         {
-          "text": "Надо всё сделать и бродить вовремя.",
-          "trans": "We need to do everything and wandered on time."
+          "text": "Мы весь вечер бродили по городу.",
+          "trans": "We wandered around town all evening."
         }
       ],
       "related": [
         {
           "word": "побродить",
-          "gloss": "to wandered (prefixed perfective)"
+          "gloss": "to wander for a while"
         },
         {
-          "word": "не бродить",
-          "gloss": "not to wandered (negated infinitive)"
+          "word": "бродяга",
+          "gloss": "tramp"
         }
       ]
     },
@@ -2104,11 +2121,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2160,6 +2177,23 @@
                 "видела",
                 "видело",
                 "видели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
               ]
             }
           ]
@@ -2240,11 +2274,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -2282,7 +2316,7 @@
       "meanings": [
         {
           "en": "yesterday",
-          "note": "Core Russian adv meaning 'yesterday' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2400,7 +2434,7 @@
       "meanings": [
         {
           "en": "to look, appear (well, strange)",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'глядеть'). Used as an verbal verb meaning 'to look, appear'."
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'глядеть')."
         }
       ],
       "forms": {
@@ -2438,6 +2472,7 @@
         {
           "title": "Past",
           "columns": [
+            "",
             "m",
             "f",
             "n",
@@ -2446,10 +2481,28 @@
           "rows": [
             {
               "cells": [
+                "past",
                 "выглядел",
                 "выглядела",
                 "выглядело",
                 "выглядели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "выгляди",
+                "выглядите"
               ]
             }
           ]
@@ -2492,7 +2545,7 @@
       "meanings": [
         {
           "en": "somewhere (or other), anywhere",
-          "note": "Indefinite adverb of place. Core Russian adv meaning 'somewhere, anywhere' in everyday speech."
+          "note": "Indefinite adverb of place."
         }
       ],
       "forms": null,
@@ -2528,11 +2581,11 @@
       "meanings": [
         {
           "en": "to wait (for)",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": "+ accusative."
         },
         {
           "en": "to expect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2678,7 +2731,7 @@
       "meanings": [
         {
           "en": "club, nightclub, community centre",
-          "note": "Спортивный клуб = sports club. Common substantive noun meaning 'club' in everyday Russian."
+          "note": "Спортивный клуб = sports club."
         }
       ],
       "forms": {
@@ -2751,7 +2804,11 @@
       "related": [
         {
           "word": "клубный",
-          "gloss": "related to club (adj.)"
+          "gloss": "club (adj.)"
+        },
+        {
+          "word": "ночной клуб",
+          "gloss": "nightclub"
         }
       ]
     },
@@ -2845,7 +2902,7 @@
       "meanings": [
         {
           "en": "luxury suite",
-          "note": "Common masculine noun meaning 'luxury suite' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2907,8 +2964,8 @@
           "trans": "I can offer you a luxury suite."
         },
         {
-          "text": "На кухне отеля всегда есть люкс.",
-          "trans": "In the hotel kitchen there is always luxury suite."
+          "text": "Можешь в любое время останавливаться в люксе.",
+          "trans": "You can stay in the suite any time."
         }
       ],
       "related": []
@@ -2923,7 +2980,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2975,6 +3032,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3091,7 +3165,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3164,15 +3238,15 @@
       "meanings": [
         {
           "en": "number",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         },
         {
           "en": "phone number",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         },
         {
           "en": "hotel room",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3250,11 +3324,11 @@
       "pos": "verb",
       "gloss": "to communicate, to talk with",
       "aspect": "impf",
-      "pair": null,
+      "pair": "пообщаться",
       "meanings": [
         {
           "en": "to communicate, to socialise, to have contact",
-          "note": "+ с + instrumental. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to communicate, to talk with'."
+          "note": "+ с + instrumental."
         }
       ],
       "forms": {
@@ -3534,7 +3608,7 @@
       "meanings": [
         {
           "en": "to leave (behind or for someone)",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to leave, let someone keep', paired with 'оставить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3641,12 +3715,12 @@
       "lemma": "отель",
       "stress": "оте́ль",
       "pos": "noun",
-      "gloss": "of the hotel",
+      "gloss": "hotel",
       "gender": "m",
       "meanings": [
         {
-          "en": "of the hotel",
-          "note": "Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common masculine noun meaning 'of the hotel' in everyday Russian."
+          "en": "hotel",
+          "note": ""
         }
       ],
       "forms": {
@@ -3704,19 +3778,32 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это гематома, она и стала причиной потери памяти.",
-          "trans": "That is a hematoma, it became the cause of memory loss."
+          "text": "Наш отель должен удивить гостей.",
+          "trans": "Our hotel has to impress the guests."
         },
         {
-          "text": "Андрей, положи её к себе, а то и эту потеряю.",
-          "trans": "Andrey, put it in your pocket, or I will lose this one too."
+          "text": "В нашем отеле действует новая услуга.",
+          "trans": "Our hotel has a new service."
         },
         {
-          "text": "Я хотел бы просмотреть все документы по закупке продуктов.",
-          "trans": "I would like to review all the documents on food purchases."
+          "text": "Кто бы мог подумать, что буду управлять отелем?",
+          "trans": "Who'd have thought I'd be running a hotel?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "гостиница",
+          "gloss": "hotel"
+        },
+        {
+          "word": "номер",
+          "gloss": "hotel room"
+        },
+        {
+          "word": "постоялец",
+          "gloss": "hotel guest"
+        }
+      ]
     },
     "по": {
       "lemma": "по",
@@ -3727,15 +3814,15 @@
       "meanings": [
         {
           "en": "about, concerning",
-          "note": "In 'по поводу' + genitive. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "In 'по поводу' + genitive."
         },
         {
           "en": "along, around",
-          "note": "+ dative. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "+ dative."
         },
         {
           "en": "by (phone)",
-          "note": "'по телефону'. Core Russian prep meaning 'along; by; about' in everyday speech."
+          "note": "'по телефону'."
         }
       ],
       "forms": null,
@@ -3875,7 +3962,7 @@
       "meanings": [
         {
           "en": "disgrace",
-          "note": "Declinable masculine noun meaning 'disgrace', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -3944,7 +4031,11 @@
       "related": [
         {
           "word": "позорный",
-          "gloss": "disgrace"
+          "gloss": "shameful, disgraceful"
+        },
+        {
+          "word": "позорить",
+          "gloss": "to disgrace"
         }
       ]
     },
@@ -3958,7 +4049,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -4061,7 +4152,7 @@
       "meanings": [
         {
           "en": "delightful / lovely",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4069,21 +4160,25 @@
       "examples": [
         {
           "text": "Прелестно, пусть они сегодня землю едят.",
-          "trans": "Delightful, let them eat dirt today."
+          "trans": "Lovely, let them eat dirt today."
         },
         {
-          "text": "Макс сказал это совершенно прелестно и спокойно.",
-          "trans": "Max said this quite delightful and calmly."
+          "text": "Вы выглядите просто прелестно!",
+          "trans": "You look simply lovely!"
         }
       ],
       "related": [
         {
-          "word": "очень прелестно",
-          "gloss": "very delightful"
+          "word": "прелестный",
+          "gloss": "lovely, charming"
         },
         {
-          "word": "так прелестно",
-          "gloss": "so delightful"
+          "word": "прелесть",
+          "gloss": "charm"
+        },
+        {
+          "word": "чудесно",
+          "gloss": "wonderful"
         }
       ]
     },
@@ -4101,7 +4196,7 @@
         },
         {
           "en": "to lose (slang)",
-          "note": "Game or match. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'дуть'). Used as a perfective (single completed action) verb meaning 'to blow through; catch a chill/draft'."
+          "note": "Game or match. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'дуть')."
         }
       ],
       "forms": {
@@ -4139,6 +4234,7 @@
         {
           "title": "Past",
           "columns": [
+            "",
             "m",
             "f",
             "n",
@@ -4147,10 +4243,28 @@
           "rows": [
             {
               "cells": [
+                "past",
                 "продул",
                 "продула",
                 "продуло",
                 "продули"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "продуй",
+                "продуйте"
               ]
             }
           ]
@@ -4182,12 +4296,10 @@
       "stress": "проспа́ться",
       "pos": "verb",
       "gloss": "to sleep off (drunkenness), sober up",
-      "aspect": "pf",
-      "pair": "просыпаться",
       "meanings": [
         {
           "en": "to sleep off drunkenness, sober up through sleep",
-          "note": "Reflexive verb. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'спаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to sleep off (drunkenness), sober up', paired with 'просыпаться'."
+          "note": "Reflexive verb. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'спаться')."
         }
       ],
       "forms": {
@@ -4288,7 +4400,8 @@
           "word": "поспать",
           "gloss": "to sleep"
         }
-      ]
+      ],
+      "aspect": "pf"
     },
     "просто": {
       "lemma": "просто",
@@ -4325,15 +4438,16 @@
     },
     "психануть": {
       "lemma": "психануть",
-      "stress": "психа́нуть",
+      "stress": "психану́ть",
       "pos": "verb",
-      "gloss": "freaked out, lost his temper",
+      "gloss": "to snap, freak out",
       "aspect": "pf",
-      "pair": null,
+      "pair": "психовать",
+      "register": "colloquial",
       "meanings": [
         {
-          "en": "freaked out, lost his temper",
-          "note": "Used as a perfective (single completed action) verb meaning 'freaked out, lost his temper'."
+          "en": "to snap, freak out, lose one's temper",
+          "note": "colloquial"
         }
       ],
       "forms": {
@@ -4348,20 +4462,20 @@
             "cells": [
               "1st",
               "психану",
-              "психанем"
+              "психанём"
             ]
           },
           {
             "cells": [
               "2nd",
-              "психанешь",
-              "психанете"
+              "психанёшь",
+              "психанёте"
             ]
           },
           {
             "cells": [
               "3rd",
-              "психанет",
+              "психанёт",
               "психанут"
             ]
           }
@@ -4388,22 +4502,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "психани",
+                "психаните"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Вчера клуб продул, вот он и психанул.",
-          "trans": "Yesterday the club lost, so he freaked out."
+          "trans": "His club lost yesterday, so he snapped."
         },
         {
-          "text": "Надо всё сделать и психануть вовремя.",
-          "trans": "We need to do everything and freaked out on time."
+          "text": "Не психуй, я просто пошутил.",
+          "trans": "Don't freak out, I was just joking."
         }
       ],
       "related": [
         {
-          "word": "не психануть",
-          "gloss": "not to freaked out (negated infinitive)"
+          "word": "психовать",
+          "gloss": "to freak out (impf)"
+        },
+        {
+          "word": "псих",
+          "gloss": "psycho"
         }
       ]
     },
@@ -4415,11 +4550,11 @@
       "meanings": [
         {
           "en": "how much, how many",
-          "note": "+ genitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive."
         },
         {
           "en": "what a lot of!",
-          "note": "In exclamations. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "In exclamations."
         }
       ],
       "forms": null,
@@ -4450,7 +4585,7 @@
       "meanings": [
         {
           "en": "to hide (something)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'прятать'). Used as a perfective (single completed action) verb meaning 'to hide', paired with 'прятать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4668,8 +4803,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -4816,7 +4959,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -4871,6 +5014,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4911,7 +5071,7 @@
       "meanings": [
         {
           "en": "manager",
-          "note": "Common masculine noun meaning 'manager' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4970,11 +5130,11 @@
       "examples": [
         {
           "text": "Если лучший управляющий не справился, то никто не сможет.",
-          "trans": "If the best manager could not cope, then nobody can."
+          "trans": "If the best manager couldn't cope, nobody can."
         },
         {
-          "text": "На кухне ресторана всегда есть управляющий.",
-          "trans": "In the restaurant kitchen there is always manager."
+          "text": "Добрый вечер, позвольте представиться, я управляющий отеля Михаил.",
+          "trans": "Good evening, allow me to introduce myself: I'm Mikhail, the hotel manager."
         }
       ],
       "related": []
@@ -5094,7 +5254,7 @@
         },
         {
           "en": "in order to",
-          "note": "+ infinitive. Core Russian conj meaning 'so that, in order to' in everyday speech."
+          "note": "+ infinitive."
         }
       ],
       "forms": null,

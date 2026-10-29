@@ -187,8 +187,8 @@
           "lemma": "разволноваться",
           "pos": "verb",
           "stress": "разволнова́лся",
-          "gloss": "to get nervous, worked up",
-          "gram": "past tense, masculine singular"
+          "gloss": "got worked up",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
@@ -291,10 +291,10 @@
         {
           "t": "шеф.",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -322,7 +322,7 @@
           "t": "креветками",
           "lemma": "креветка",
           "pos": "noun",
-          "stress": "креветка́ми",
+          "stress": "креве́тками",
           "gloss": "shrimp, prawn",
           "gram": "instrumental plural"
         },
@@ -338,9 +338,9 @@
           "t": "руколой.",
           "lemma": "рукола",
           "pos": "noun",
-          "stress": "руко́лой",
+          "stress": "ру́колой",
           "gloss": "arugula, rocket",
-          "gram": "instrumental singular"
+          "gram": "instrumental singular, feminine"
         }
       ]
     },
@@ -665,8 +665,8 @@
           "lemma": "разволноваться",
           "pos": "verb",
           "stress": "разволнова́лся",
-          "gloss": "to get nervous, worked up",
-          "gram": "past tense, masculine singular"
+          "gloss": "got worked up",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
@@ -769,10 +769,10 @@
         {
           "t": "шеф.",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -800,7 +800,7 @@
           "t": "креветками",
           "lemma": "креветка",
           "pos": "noun",
-          "stress": "креветка́ми",
+          "stress": "креве́тками",
           "gloss": "shrimp, prawn",
           "gram": "instrumental plural"
         },
@@ -816,9 +816,9 @@
           "t": "руколой.",
           "lemma": "рукола",
           "pos": "noun",
-          "stress": "руко́лой",
+          "stress": "ру́колой",
           "gloss": "arugula, rocket",
-          "gram": "instrumental singular"
+          "gram": "instrumental singular, feminine"
         }
       ]
     },
@@ -1143,8 +1143,8 @@
           "lemma": "разволноваться",
           "pos": "verb",
           "stress": "разволнова́лся",
-          "gloss": "to get nervous, worked up",
-          "gram": "past tense, masculine singular"
+          "gloss": "got worked up",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
@@ -1247,10 +1247,10 @@
         {
           "t": "шеф.",
           "lemma": "шеф",
-          "pos": "name",
+          "pos": "noun",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "gloss": "chef, boss",
+          "gram": "nominative singular / form of address"
         }
       ]
     },
@@ -1278,7 +1278,7 @@
           "t": "креветками",
           "lemma": "креветка",
           "pos": "noun",
-          "stress": "креветка́ми",
+          "stress": "креве́тками",
           "gloss": "shrimp, prawn",
           "gram": "instrumental plural"
         },
@@ -1294,9 +1294,9 @@
           "t": "руколой.",
           "lemma": "рукола",
           "pos": "noun",
-          "stress": "руко́лой",
+          "stress": "ру́колой",
           "gloss": "arugula, rocket",
-          "gram": "instrumental singular"
+          "gram": "instrumental singular, feminine"
         }
       ]
     },
@@ -1507,12 +1507,10 @@
       "stress": "беспоко́иться",
       "pos": "verb",
       "gloss": "to worry",
-      "aspect": "impf",
-      "pair": "забеспокоиться",
       "meanings": [
         {
           "en": "to worry, to be anxious",
-          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'покоиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry', paired with 'забеспокоиться'."
+          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'покоиться')."
         }
       ],
       "forms": {
@@ -1602,8 +1600,8 @@
       ],
       "related": [
         {
-          "word": "забеспокоиться",
-          "gloss": "to worry"
+          "word": "побеспокоиться",
+          "gloss": "to take care of, to see to"
         },
         {
           "word": "беспокоить",
@@ -1613,7 +1611,8 @@
           "word": "спокойный",
           "gloss": "calm"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "в": {
       "lemma": "в",
@@ -1782,11 +1781,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1841,6 +1840,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -1882,7 +1898,7 @@
       "meanings": [
         {
           "en": "to worry, to be nervous",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1977,84 +1993,6 @@
         }
       ]
     },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
-        }
-      ]
-    },
     "вчера": {
       "lemma": "вчера",
       "stress": "вчера́",
@@ -2063,7 +2001,7 @@
       "meanings": [
         {
           "en": "yesterday",
-          "note": "Core Russian adv meaning 'yesterday' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2183,7 +2121,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2217,11 +2155,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2374,7 +2312,7 @@
       "meanings": [
         {
           "en": "shrimp, prawn",
-          "note": "Common feminine noun meaning 'shrimp, prawn' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2410,7 +2348,7 @@
             "cells": [
               "accusative",
               "креветку",
-              "креветки"
+              "креветок"
             ]
           },
           {
@@ -2494,7 +2432,7 @@
       "meanings": [
         {
           "en": "to hope, to count on",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to hope, to rely on', paired with 'понадеяться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2595,11 +2533,11 @@
       "pos": "verb",
       "gloss": "to hint, imply",
       "aspect": "impf",
-      "pair": null,
+      "pair": "намекнуть",
       "meanings": [
         {
           "en": "to hint, imply, insinuate",
-          "note": "Governs на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to hint, imply'."
+          "note": "Governs на + accusative."
         }
       ],
       "forms": {
@@ -2637,6 +2575,7 @@
         {
           "title": "Past",
           "columns": [
+            "",
             "m",
             "f",
             "n",
@@ -2645,10 +2584,28 @@
           "rows": [
             {
               "cells": [
+                "past",
                 "намекал",
                 "намекала",
                 "намекало",
                 "намекали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "намекай",
+                "намекайте"
               ]
             }
           ]
@@ -2754,7 +2711,7 @@
       "meanings": [
         {
           "en": "okay",
-          "note": "Expressive conversational Russian interjection or greeting ('okay') used directly in spoken exchanges."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2762,11 +2719,11 @@
       "examples": [
         {
           "text": "А я пойду принесу выпить, окей?",
-          "trans": "I will go grab us something to drink, okay?"
+          "trans": "I'll go get us something to drink, okay?"
         },
         {
-          "text": "Я уже всё решил. Одну треть на кладбище, две трети над океаном.",
-          "trans": "I've already sorted it all out. One third goes to the cemetery, two thirds over the ocean."
+          "text": "Передайте шеф-повару, пусть подаёт черепаховый суп, окей?",
+          "trans": "Tell the chef to serve the turtle soup, okay?"
         }
       ],
       "related": []
@@ -2800,8 +2757,12 @@
       ],
       "related": [
         {
-          "word": "очень позавчера",
-          "gloss": "intensified / related adverb (the day before yesterday)"
+          "word": "вчера",
+          "gloss": "yesterday"
+        },
+        {
+          "word": "послезавтра",
+          "gloss": "the day after tomorrow"
         }
       ]
     },
@@ -2815,7 +2776,7 @@
       "meanings": [
         {
           "en": "to get nervous, worked up",
-          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'волноваться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to get nervous, worked up'."
+          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'волноваться')."
         }
       ],
       "forms": {
@@ -2870,6 +2831,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "разволнуйся",
+                "разволнуйтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2878,14 +2856,18 @@
           "trans": "Why are you getting so worked up?"
         },
         {
-          "text": "На кухне никто не хочет разволноваться без причины.",
-          "trans": "In the kitchen nobody wants to get nervous without a reason."
+          "text": "Ты так разволновался из-за раковины?",
+          "trans": "You got so worked up over a sink?"
         }
       ],
       "related": [
         {
-          "word": "не разволноваться",
-          "gloss": "not to to get nervous (negated infinitive)"
+          "word": "волноваться",
+          "gloss": "to worry, be nervous"
+        },
+        {
+          "word": "волнение",
+          "gloss": "excitement, nerves"
         }
       ]
     },
@@ -2898,7 +2880,7 @@
       "meanings": [
         {
           "en": "arugula, rocket (culinary herb)",
-          "note": "Declinable feminine noun meaning 'arugula', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -2970,16 +2952,16 @@
       ],
       "related": [
         {
-          "word": "руководитель",
-          "gloss": "head"
+          "word": "салат",
+          "gloss": "salad; lettuce"
         },
         {
-          "word": "руководить",
-          "gloss": "to lead"
+          "word": "зелень",
+          "gloss": "greens, herbs"
         },
         {
-          "word": "руководство",
-          "gloss": "leadership"
+          "word": "шпинат",
+          "gloss": "spinach"
         }
       ]
     },
@@ -3031,7 +3013,7 @@
       "meanings": [
         {
           "en": "salad dish",
-          "note": "Common masculine noun meaning 'salad' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3146,11 +3128,11 @@
       "meanings": [
         {
           "en": "sense, meaning",
-          "note": "'В смысле?'. Common masculine noun meaning 'sense, meaning' in everyday Russian."
+          "note": "'В смысле?'."
         },
         {
           "en": "what do you mean?",
-          "note": "'В смысле?'. Common masculine noun meaning 'sense, meaning' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3310,7 +3292,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3474,7 +3456,7 @@
       "meanings": [
         {
           "en": "to see, to catch sight of",
-          "note": "Вот увидишь! = you'll see!. Prefix 'у-' marks departure, removal, or successful completion (stem 'видеть'). Used as a perfective (single completed action) verb meaning 'to see', paired with 'видеть'."
+          "note": "Вот увидишь! = you'll see!. Prefix 'у-' marks departure, removal, or successful completion (stem 'видеть')."
         }
       ],
       "forms": {
@@ -3526,6 +3508,23 @@
                 "увидела",
                 "увидело",
                 "увидели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидь",
+                "увидьте"
               ]
             }
           ]

@@ -10,7 +10,7 @@
           "t": "Иван,",
           "lemma": "иван",
           "pos": "name",
-          "stress": null,
+          "stress": "ива́н",
           "gloss": "Ivan",
           "gram": "first name, used as address"
         },
@@ -227,8 +227,8 @@
           "lemma": "ген",
           "pos": "noun",
           "stress": "ге́нах",
-          "gloss": "gene",
-          "gram": "noun prep pl"
+          "gloss": "genes",
+          "gram": "prepositional plural, masculine"
         },
         {
           "t": "живёт",
@@ -308,7 +308,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -365,8 +365,8 @@
           "lemma": "стрелять",
           "pos": "verb",
           "stress": "стреля́ет",
-          "gloss": "to shoot, to fire",
-          "gram": "verb present"
+          "gloss": "shoots, is shooting",
+          "gram": "3rd person singular present"
         },
         {
           "t": "в",
@@ -632,7 +632,7 @@
           "t": "Иван,",
           "lemma": "иван",
           "pos": "name",
-          "stress": null,
+          "stress": "ива́н",
           "gloss": "Ivan",
           "gram": "first name, used as address"
         },
@@ -849,8 +849,8 @@
           "lemma": "ген",
           "pos": "noun",
           "stress": "ге́нах",
-          "gloss": "gene",
-          "gram": "noun prep pl"
+          "gloss": "genes",
+          "gram": "prepositional plural, masculine"
         },
         {
           "t": "живёт",
@@ -930,7 +930,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -987,8 +987,8 @@
           "lemma": "стрелять",
           "pos": "verb",
           "stress": "стреля́ет",
-          "gloss": "to shoot, to fire",
-          "gram": "verb present"
+          "gloss": "shoots, is shooting",
+          "gram": "3rd person singular present"
         },
         {
           "t": "в",
@@ -1254,7 +1254,7 @@
           "t": "Иван,",
           "lemma": "иван",
           "pos": "name",
-          "stress": null,
+          "stress": "ива́н",
           "gloss": "Ivan",
           "gram": "first name, used as address"
         },
@@ -1471,8 +1471,8 @@
           "lemma": "ген",
           "pos": "noun",
           "stress": "ге́нах",
-          "gloss": "gene",
-          "gram": "noun prep pl"
+          "gloss": "genes",
+          "gram": "prepositional plural, masculine"
         },
         {
           "t": "живёт",
@@ -1552,7 +1552,7 @@
         },
         {
           "t": "скорее",
-          "lemma": "скоро",
+          "lemma": "скорее",
           "pos": "adv",
           "stress": "скоре́е",
           "gloss": "quickly, right away",
@@ -1609,8 +1609,8 @@
           "lemma": "стрелять",
           "pos": "verb",
           "stress": "стреля́ет",
-          "gloss": "to shoot, to fire",
-          "gram": "verb present"
+          "gloss": "shoots, is shooting",
+          "gram": "3rd person singular present"
         },
         {
           "t": "в",
@@ -1888,13 +1888,19 @@
       "lemma": "болеть",
       "stress": "боле́ть",
       "pos": "verb",
-      "gloss": "to be ill",
-      "aspect": "impf",
-      "pair": "заболеть",
+      "gloss": "to be ill; to hurt; to root for",
       "meanings": [
         {
           "en": "to be ill, to be sick",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to be ill', paired with 'заболеть'."
+          "note": "болею, болеет"
+        },
+        {
+          "en": "to hurt, to ache",
+          "note": "3rd person only: болит, болят (у меня болит голова)"
+        },
+        {
+          "en": "to root for, to support (a team)",
+          "note": "болеть за + accusative"
         }
       ],
       "forms": {
@@ -1995,7 +2001,8 @@
           "word": "заболевание",
           "gloss": "disease"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "в": {
       "lemma": "в",
@@ -2258,8 +2265,6 @@
       "stress": "вини́ть",
       "pos": "verb",
       "gloss": "to blame, to accuse",
-      "aspect": "impf",
-      "pair": "обвинить",
       "meanings": [
         {
           "en": "to blame, to hold responsible",
@@ -2353,10 +2358,19 @@
       ],
       "related": [
         {
-          "word": "обвинить",
-          "gloss": "to blame"
+          "word": "вина",
+          "gloss": "guilt, blame"
+        },
+        {
+          "word": "обвинять",
+          "gloss": "to accuse"
+        },
+        {
+          "word": "виноват",
+          "gloss": "guilty"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "внук": {
       "lemma": "внук",
@@ -2483,10 +2497,11 @@
       "pos": "noun",
       "gloss": "gene",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "gene, hereditary unit",
-          "note": "Masculine inanimate noun. Common masculine noun meaning 'gene' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2554,8 +2569,12 @@
       ],
       "related": [
         {
-          "word": "генный",
-          "gloss": "related to gene (adj.)"
+          "word": "генетика",
+          "gloss": "genetics"
+        },
+        {
+          "word": "наследственность",
+          "gloss": "heredity"
         }
       ]
     },
@@ -2568,11 +2587,11 @@
       "meanings": [
         {
           "en": "head",
-          "note": "An idiom for a big telling-off. Common feminine noun meaning 'head' in everyday Russian."
+          "note": ""
         },
         {
-          "en": "'голову оторвать' = to tear someone's head off",
-          "note": "An idiom for a big telling-off. Common feminine noun meaning 'head' in everyday Russian."
+          "en": "голову оторвать = to tear someone's head off",
+          "note": "an idiom for a big telling-off"
         }
       ],
       "forms": {
@@ -2650,6 +2669,7 @@
       "pos": "noun",
       "gloss": "lip",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "lip, part of mouth",
@@ -2725,8 +2745,12 @@
       ],
       "related": [
         {
-          "word": "губный",
-          "gloss": "related to lip (adj.)"
+          "word": "губная помада",
+          "gloss": "lipstick"
+        },
+        {
+          "word": "поджать губы",
+          "gloss": "to purse one's lips"
         }
       ]
     },
@@ -2735,12 +2759,11 @@
       "stress": "деба́ты",
       "pos": "noun",
       "gloss": "debate",
-      "gender": "m",
       "number": "pl",
       "meanings": [
         {
           "en": "debate, discussion",
-          "note": "Plural only noun. Common plural-only noun meaning 'debate' in everyday Russian."
+          "note": "Plural only noun."
         }
       ],
       "forms": {
@@ -2820,7 +2843,7 @@
       "meanings": [
         {
           "en": "at home",
-          "note": "Location; compare домой = homeward. Core Russian adv meaning 'at home' in everyday speech."
+          "note": "Location; compare домой = homeward."
         }
       ],
       "forms": null,
@@ -2851,7 +2874,7 @@
       "meanings": [
         {
           "en": "to live",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to live'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2906,6 +2929,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "живи",
+                "живите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2925,7 +2965,7 @@
       "related": [
         {
           "word": "житься",
-          "gloss": "to live"
+          "gloss": "to get on, for life to go (impersonal)"
         },
         {
           "word": "дожить",
@@ -2933,7 +2973,7 @@
         },
         {
           "word": "пережить",
-          "gloss": "to survive"
+          "gloss": "to survive, to live through"
         }
       ]
     },
@@ -2977,6 +3017,7 @@
       "pos": "noun",
       "gloss": "evil; harm",
       "gender": "n",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "evil",
@@ -2984,7 +3025,7 @@
         },
         {
           "en": "harm",
-          "note": "Делать зло = to do harm. Common neuter noun meaning 'evil; harm' in everyday Russian."
+          "note": "Делать зло = to do harm."
         }
       ],
       "forms": {
@@ -2999,42 +3040,42 @@
             "cells": [
               "nominative",
               "зло",
-              "—"
+              "зла"
             ]
           },
           {
             "cells": [
               "genitive",
               "зла",
-              "—"
+              "зол"
             ]
           },
           {
             "cells": [
               "dative",
               "злу",
-              "—"
+              "злам"
             ]
           },
           {
             "cells": [
               "accusative",
               "зло",
-              "—"
+              "зла"
             ]
           },
           {
             "cells": [
               "instrumental",
               "злом",
-              "—"
+              "злами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "зле",
-              "—"
+              "злах"
             ]
           }
         ]
@@ -3212,7 +3253,7 @@
       "meanings": [
         {
           "en": "crocodile, large reptile",
-          "note": "Masculine animate noun. Common masculine noun meaning 'crocodile' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3271,7 +3312,7 @@
       "examples": [
         {
           "text": "Здесь в снегу сидят крокодилы!",
-          "trans": "Here in the snow sit crocodiles!"
+          "trans": "There are crocodiles sitting here in the snow!"
         },
         {
           "text": "В реке живёт крокодил.",
@@ -3380,7 +3421,7 @@
       "meanings": [
         {
           "en": "forest, woods",
-          "note": "Locative в лесу after в/на. Common masculine noun meaning 'forest, woods' in everyday Russian."
+          "note": "Locative в лесу after в/на."
         }
       ],
       "forms": {
@@ -3644,7 +3685,7 @@
       "meanings": [
         {
           "en": "untruth; it's not true",
-          "note": "Это неправда! = That's not true!. Negative prefix 'не-' ('un-, non-, not') (stem 'правда'). Common feminine noun meaning 'untruth, lie' in everyday Russian."
+          "note": "Это неправда! = That's not true!. Negative prefix 'не-' ('un-, non-, not') (stem 'правда')."
         }
       ],
       "forms": {
@@ -3659,42 +3700,42 @@
             "cells": [
               "nominative",
               "неправда",
-              "—"
+              "неправды"
             ]
           },
           {
             "cells": [
               "genitive",
               "неправды",
-              "—"
+              "неправд"
             ]
           },
           {
             "cells": [
               "dative",
               "неправде",
-              "—"
+              "неправдам"
             ]
           },
           {
             "cells": [
               "accusative",
               "неправду",
-              "—"
+              "неправды"
             ]
           },
           {
             "cells": [
               "instrumental",
               "неправдой",
-              "—"
+              "неправдами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "неправде",
-              "—"
+              "неправдах"
             ]
           }
         ]
@@ -3716,16 +3757,16 @@
       ],
       "related": [
         {
-          "word": "правильно",
-          "gloss": "right"
+          "word": "правда",
+          "gloss": "truth; true"
         },
         {
-          "word": "правый",
-          "gloss": "right"
+          "word": "ложь",
+          "gloss": "lie"
         },
         {
-          "word": "правило",
-          "gloss": "rule"
+          "word": "враньё",
+          "gloss": "lies (colloquial)"
         }
       ]
     },
@@ -3779,7 +3820,7 @@
       "meanings": [
         {
           "en": "nobody, no one",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'nobody', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -3939,11 +3980,11 @@
       "meanings": [
         {
           "en": "to leave (someone or something somewhere)",
-          "note": "Оставь мне кусок = save me a piece. Used as a perfective (single completed action) verb meaning 'to leave (behind)', paired with 'оставлять'."
+          "note": "Оставь мне кусок = save me a piece."
         },
         {
           "en": "to keep, to save",
-          "note": "Оставь мне кусок = save me a piece. Used as a perfective (single completed action) verb meaning 'to leave (behind)', paired with 'оставлять'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4056,7 +4097,7 @@
       "meanings": [
         {
           "en": "to pass on, to hand over, to give",
-          "note": "+ accusative and dative (кому). Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'дать'). Used as a perfective (single completed action) verb meaning 'to pass on, to hand over', paired with 'передавать'."
+          "note": "+ accusative and dative (кому). Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'дать')."
         }
       ],
       "forms": {
@@ -4270,11 +4311,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -4411,7 +4452,7 @@
       "meanings": [
         {
           "en": "peace, rest, quiet",
-          "note": "Оставить в покое = leave alone. Common masculine noun meaning 'peace, rest, quiet' in everyday Russian."
+          "note": "Оставить в покое = leave alone."
         }
       ],
       "forms": {
@@ -4426,42 +4467,42 @@
             "cells": [
               "nominative",
               "покой",
-              "—"
+              "покои"
             ]
           },
           {
             "cells": [
               "genitive",
               "покоя",
-              "—"
+              "покоев"
             ]
           },
           {
             "cells": [
               "dative",
               "покою",
-              "—"
+              "покоям"
             ]
           },
           {
             "cells": [
               "accusative",
               "покой",
-              "—"
+              "покои"
             ]
           },
           {
             "cells": [
               "instrumental",
               "покоем",
-              "—"
+              "покоями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "покое",
-              "—"
+              "покоях"
             ]
           }
         ]
@@ -4561,6 +4602,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понимай",
+                "понимайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4594,11 +4652,11 @@
       "meanings": [
         {
           "en": "to have a look, to take a look",
-          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         },
         {
           "en": "to watch (a film) through",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as a perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть')."
         }
       ],
       "forms": {
@@ -4707,10 +4765,11 @@
       "pos": "noun",
       "gloss": "traitor",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "traitor, betrayer",
-          "note": "Animate masculine noun in -тель. Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common masculine noun meaning 'traitor' in everyday Russian."
+          "note": "Animate masculine noun in -тель."
         }
       ],
       "forms": {
@@ -4838,10 +4897,10 @@
           {
             "cells": [
               "accusative",
-              "разбитый",
+              "разбитый / разбитого",
               "разбитую",
               "разбитое",
-              "разбитые"
+              "разбитые / разбитых"
             ]
           },
           {
@@ -5140,35 +5199,6 @@
       ],
       "related": []
     },
-    "скоро": {
-      "lemma": "скоро",
-      "stress": "ско́ро",
-      "pos": "adv",
-      "gloss": "soon",
-      "meanings": [
-        {
-          "en": "soon",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я скоро вернусь.",
-          "trans": "I'll be back soon."
-        },
-        {
-          "text": "Скоро лето.",
-          "trans": "Summer is coming soon."
-        },
-        {
-          "text": "Так, не шумим. Я скоро вернусь.",
-          "trans": "Right, no noise. I'll be back soon."
-        }
-      ],
-      "related": []
-    },
     "снег": {
       "lemma": "снег",
       "stress": "снег",
@@ -5178,7 +5208,7 @@
       "meanings": [
         {
           "en": "snow",
-          "note": "Locative в снегу after в/на. Common masculine noun meaning 'snow' in everyday Russian."
+          "note": "Locative в снегу after в/на."
         }
       ],
       "forms": {
@@ -5227,7 +5257,7 @@
           {
             "cells": [
               "prepositional",
-              "снегу",
+              "снеге",
               "снегах"
             ]
           }
@@ -5260,7 +5290,7 @@
       "meanings": [
         {
           "en": "to sleep, to be asleep",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to sleep', paired with 'поспать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5369,7 +5399,7 @@
         },
         {
           "en": "freeze!",
-          "note": "the infinitive 'Стоять!' as a police order"
+          "note": ""
         }
       ],
       "forms": {
@@ -5578,7 +5608,7 @@
       "meanings": [
         {
           "en": "studio, broadcast or recording room",
-          "note": "Common feminine noun meaning 'studio' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5658,7 +5688,7 @@
       "meanings": [
         {
           "en": "television, TV",
-          "note": "Relative adjective. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('television, TV')."
+          "note": "Relative adjective."
         }
       ],
       "forms": {
@@ -5701,10 +5731,10 @@
           {
             "cells": [
               "accusative",
-              "телевизионный",
+              "телевизионный / телевизионного",
               "телевизионную",
               "телевизионное",
-              "телевизионные"
+              "телевизионные / телевизионных"
             ]
           },
           {
@@ -5744,16 +5774,16 @@
       ],
       "related": [
         {
-          "word": "телефон",
-          "gloss": "telephone"
+          "word": "телевидение",
+          "gloss": "television"
         },
         {
           "word": "телевизор",
-          "gloss": "television set"
+          "gloss": "TV set"
         },
         {
-          "word": "телефончик",
-          "gloss": "little phone"
+          "word": "телевизионное шоу",
+          "gloss": "TV show"
         }
       ]
     },
@@ -5896,10 +5926,11 @@
       "pos": "noun",
       "gloss": "fascist",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "fascist, Nazi",
-          "note": "Masculine animate noun. Agent noun formed with the international suffix '-ист' denoting a specialist or adherent. Common masculine noun meaning 'fascist' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5980,7 +6011,7 @@
       "meanings": [
         {
           "en": "attic, top floor space under roof",
-          "note": "Masculine inanimate noun. Common masculine noun meaning 'attic, loft' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {

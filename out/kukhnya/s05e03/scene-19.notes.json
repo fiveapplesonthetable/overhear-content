@@ -90,7 +90,7 @@
           "pos": "adj",
           "stress": "ва́жном",
           "gloss": "important",
-          "gram": "nominative masculine singular"
+          "gram": "prepositional singular, masculine"
         },
         {
           "t": "задании.",
@@ -359,8 +359,8 @@
           "lemma": "наплевать",
           "pos": "verb",
           "stress": "наплева́ть",
-          "gloss": "don't care, spit on",
-          "gram": "infinitive, perfective"
+          "gloss": "(I) don't care",
+          "gram": "infinitive used predicatively (мне наплевать)"
         }
       ]
     },
@@ -543,8 +543,8 @@
           "lemma": "дать",
           "pos": "verb",
           "stress": null,
-          "gloss": "to give",
-          "gram": "conjugated verb"
+          "gloss": "will give",
+          "gram": "future, 2nd person singular, perfective"
         },
         {
           "t": "ему",
@@ -602,11 +602,11 @@
         },
         {
           "t": "Дениса",
-          "lemma": "дениса",
-          "pos": "noun",
+          "lemma": "денис",
+          "pos": "name",
           "stress": "дени́са",
-          "gloss": "denis",
-          "gram": "nominative / accusative"
+          "gloss": "Denis",
+          "gram": "genitive / accusative singular"
         },
         {
           "t": "сегодня",
@@ -876,7 +876,7 @@
           "pos": "adj",
           "stress": "ва́жном",
           "gloss": "important",
-          "gram": "nominative masculine singular"
+          "gram": "prepositional singular, masculine"
         },
         {
           "t": "задании.",
@@ -1145,8 +1145,8 @@
           "lemma": "наплевать",
           "pos": "verb",
           "stress": "наплева́ть",
-          "gloss": "don't care, spit on",
-          "gram": "infinitive, perfective"
+          "gloss": "(I) don't care",
+          "gram": "infinitive used predicatively (мне наплевать)"
         }
       ]
     },
@@ -1329,8 +1329,8 @@
           "lemma": "дать",
           "pos": "verb",
           "stress": null,
-          "gloss": "to give",
-          "gram": "conjugated verb"
+          "gloss": "will give",
+          "gram": "future, 2nd person singular, perfective"
         },
         {
           "t": "ему",
@@ -1388,11 +1388,11 @@
         },
         {
           "t": "Дениса",
-          "lemma": "дениса",
-          "pos": "noun",
+          "lemma": "денис",
+          "pos": "name",
           "stress": "дени́са",
-          "gloss": "denis",
-          "gram": "nominative / accusative"
+          "gloss": "Denis",
+          "gram": "genitive / accusative singular"
         },
         {
           "t": "сегодня",
@@ -1662,7 +1662,7 @@
           "pos": "adj",
           "stress": "ва́жном",
           "gloss": "important",
-          "gram": "nominative masculine singular"
+          "gram": "prepositional singular, masculine"
         },
         {
           "t": "задании.",
@@ -1931,8 +1931,8 @@
           "lemma": "наплевать",
           "pos": "verb",
           "stress": "наплева́ть",
-          "gloss": "don't care, spit on",
-          "gram": "infinitive, perfective"
+          "gloss": "(I) don't care",
+          "gram": "infinitive used predicatively (мне наплевать)"
         }
       ]
     },
@@ -2115,8 +2115,8 @@
           "lemma": "дать",
           "pos": "verb",
           "stress": null,
-          "gloss": "to give",
-          "gram": "conjugated verb"
+          "gloss": "will give",
+          "gram": "future, 2nd person singular, perfective"
         },
         {
           "t": "ему",
@@ -2174,11 +2174,11 @@
         },
         {
           "t": "Дениса",
-          "lemma": "дениса",
-          "pos": "noun",
+          "lemma": "денис",
+          "pos": "name",
           "stress": "дени́са",
-          "gloss": "denis",
-          "gram": "nominative / accusative"
+          "gloss": "Denis",
+          "gram": "genitive / accusative singular"
         },
         {
           "t": "сегодня",
@@ -2377,7 +2377,7 @@
           "lemma": "хороший",
           "pos": "adj",
           "stress": "хоро́шего",
-          "gloss": "good, the best",
+          "gloss": "good (всего хорошего = all the best)",
           "gram": "genitive neuter singular"
         }
       ]
@@ -2729,7 +2729,7 @@
       "meanings": [
         {
           "en": "to come back, to return",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to come back, to return', paired with 'возвращаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2961,7 +2961,7 @@
         },
         {
           "en": "to hire",
-          "note": "'взять на работу' = to give someone a job"
+          "note": ""
         }
       ],
       "forms": {
@@ -3074,11 +3074,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3133,6 +3133,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3161,84 +3178,6 @@
         {
           "word": "видеться",
           "gloss": "to see each other"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -3332,7 +3271,7 @@
       "meanings": [
         {
           "en": "somewhere",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3481,10 +3420,11 @@
       "pos": "noun",
       "gloss": "lady, woman",
       "gender": "f",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "lady, woman",
-          "note": "Declinable feminine noun meaning 'lady', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -3566,7 +3506,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -3657,94 +3597,17 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
           "gloss": "to sell"
         }
       ]
-    },
-    "дениса": {
-      "lemma": "дениса",
-      "stress": "дени́са",
-      "pos": "noun",
-      "gloss": "out",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "out",
-          "note": "Declinable feminine noun meaning 'out', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "дениса",
-              "денисы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "денисы",
-              "денис"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "денисе",
-              "денисам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "денису",
-              "денисы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "денисой",
-              "денисами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "денисе",
-              "денисах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "А у меня выходной. Я вот решил Денису помочь.",
-          "trans": "It is my day off. I decided to help Denis out."
-        },
-        {
-          "text": "А где Денис?",
-          "trans": "Where is Denis?"
-        }
-      ],
-      "related": []
     },
     "дозвониться": {
       "lemma": "дозвониться",
@@ -3756,7 +3619,7 @@
       "meanings": [
         {
           "en": "to reach someone by phone",
-          "note": "Successfully connect by telephone. Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'звониться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to get through (by phone)', paired with 'дозваниваться'."
+          "note": "Successfully connect by telephone. Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'звониться')."
         }
       ],
       "forms": {
@@ -3871,11 +3734,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -3943,7 +3806,7 @@
       "meanings": [
         {
           "en": "mission, assignment, task",
-          "note": "На задании = on a mission. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'mission, assignment, task' in everyday Russian."
+          "note": "На задании = on a mission."
         }
       ],
       "forms": {
@@ -4114,6 +3977,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "изменись",
+                "изменитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4257,7 +4137,7 @@
       "meanings": [
         {
           "en": "key",
-          "note": "For a door or a car. Common masculine noun meaning 'key' in everyday Russian."
+          "note": "For a door or a car."
         }
       ],
       "forms": {
@@ -4329,16 +4209,16 @@
       ],
       "related": [
         {
-          "word": "отключить",
-          "gloss": "to switch off"
+          "word": "ключик",
+          "gloss": "little key"
         },
         {
-          "word": "переключиться",
-          "gloss": "to switch over"
+          "word": "замок",
+          "gloss": "lock"
         },
         {
-          "word": "выключить",
-          "gloss": "to turn off"
+          "word": "связка ключей",
+          "gloss": "bunch of keys"
         }
       ]
     },
@@ -4351,7 +4231,7 @@
       "meanings": [
         {
           "en": "major (rank)",
-          "note": "Common masculine noun meaning 'major (military rank)' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4519,7 +4399,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -4571,6 +4451,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -4723,15 +4620,19 @@
     },
     "наплевать": {
       "lemma": "наплевать",
-      "stress": "напле́вать",
+      "stress": "наплева́ть",
       "pos": "verb",
-      "gloss": "don't care, spit on",
+      "gloss": "not to care; to spit on",
       "aspect": "pf",
       "pair": null,
       "meanings": [
         {
-          "en": "don't care, spit on",
-          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'плевать'). Used as a perfective (single completed action) verb meaning 'don't care, spit on'."
+          "en": "(someone) doesn't care, doesn't give a damn",
+          "note": "Predicative: мне наплевать (на + acc) = I don't care (about)."
+        },
+        {
+          "en": "to spit (on)",
+          "note": ""
         }
       ],
       "forms": {
@@ -4746,20 +4647,20 @@
             "cells": [
               "1st",
               "наплюю",
-              "наплюем"
+              "наплюём"
             ]
           },
           {
             "cells": [
               "2nd",
-              "наплюешь",
-              "наплюете"
+              "наплюёшь",
+              "наплюёте"
             ]
           },
           {
             "cells": [
               "3rd",
-              "наплюет",
+              "наплюёт",
               "наплюют"
             ]
           }
@@ -4786,22 +4687,43 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "наплюй",
+                "наплюйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Кристина, мне наплевать, лучший у тебя адвокат или не лучший.",
-          "trans": "Kristina, I don't care whether you have the best lawyer or not."
+          "trans": "Kristina, I don't care whether your lawyer is the best or not."
         },
         {
-          "text": "Надо всё сделать и наплевать вовремя.",
-          "trans": "We need to do everything and don't care on time."
+          "text": "Мне теперь на вас наплевать.",
+          "trans": "I don't care about you anymore."
         }
       ],
       "related": [
         {
-          "word": "не наплевать",
-          "gloss": "not to don't care (negated infinitive)"
+          "word": "плевать",
+          "gloss": "to spit; not to care"
+        },
+        {
+          "word": "всё равно",
+          "gloss": "it doesn't matter"
         }
       ]
     },
@@ -4893,7 +4815,7 @@
       "meanings": [
         {
           "en": "in no way",
-          "note": "Никак не могу = I just can't. Core Russian adv meaning 'in no way, not at all' in everyday speech."
+          "note": "Никак не могу = I just can't."
         }
       ],
       "forms": null,
@@ -4919,95 +4841,6 @@
         }
       ]
     },
-    "номер": {
-      "lemma": "номер",
-      "stress": "но́мер",
-      "pos": "noun",
-      "gloss": "number; phone number; hotel room",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "number",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
-        },
-        {
-          "en": "phone number",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
-        },
-        {
-          "en": "hotel room",
-          "note": "Common masculine noun meaning 'number; phone number; hotel room' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "номер",
-              "номера"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "номера",
-              "номеров"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "номеру",
-              "номерам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "номер",
-              "номера"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "номером",
-              "номерами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "номере",
-              "номерах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Диктуй номер.",
-          "trans": "Read me the number."
-        },
-        {
-          "text": "Какой у тебя номер?",
-          "trans": "What's your number?"
-        },
-        {
-          "text": "Не смейся. Диктуй номер.",
-          "trans": "Don't laugh. Read me the number."
-        }
-      ],
-      "related": []
-    },
     "нормально": {
       "lemma": "нормально",
       "stress": "норма́льно",
@@ -5016,7 +4849,7 @@
       "meanings": [
         {
           "en": "fine, OK, normal",
-          "note": "Colloquial. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Colloquial."
         }
       ],
       "forms": null,
@@ -5056,11 +4889,11 @@
       "pos": "verb",
       "gloss": "to communicate, to talk with",
       "aspect": "impf",
-      "pair": null,
+      "pair": "пообщаться",
       "meanings": [
         {
           "en": "to communicate, to socialise, to have contact",
-          "note": "+ с + instrumental. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to communicate, to talk with'."
+          "note": "+ с + instrumental."
         }
       ],
       "forms": {
@@ -5440,113 +5273,12 @@
       ],
       "related": [
         {
-          "word": "очень по-прежнему",
-          "gloss": "intensified / related adverb (still)"
-        }
-      ]
-    },
-    "пойти": {
-      "lemma": "пойти",
-      "stress": "пойти́",
-      "pos": "verb",
-      "gloss": "to go (set off)",
-      "aspect": "pf",
-      "pair": "ходить",
-      "meanings": [
-        {
-          "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "пойду",
-              "пойдём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "пойдёшь",
-              "пойдёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "пойдёт",
-              "пойдут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "пошёл",
-                "пошла",
-                "пошло",
-                "пошли"
-              ]
-            }
-          ]
+          "word": "прежний",
+          "gloss": "former, previous"
         },
         {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "пойди",
-                "пойдите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Можно я пойду?",
-          "trans": "May I go?"
-        },
-        {
-          "text": "Пойдём домой.",
-          "trans": "Let's go home."
-        },
-        {
-          "text": "А можно я пойду посмотрю?",
-          "trans": "Can I go and have a look?"
-        }
-      ],
-      "related": [
-        {
-          "word": "идти",
-          "gloss": "to go"
+          "word": "как раньше",
+          "gloss": "as before"
         }
       ]
     },
@@ -5621,22 +5353,26 @@
           "trans": "Now let's go through everything in order."
         },
         {
-          "text": "Всё в полном порядке.",
-          "trans": "Everything is in complete order."
+          "text": "Не бойся, всё в порядке!",
+          "trans": "Don't worry, everything's fine!"
         },
         {
-          "text": "Теперь давай всё по порядку. Скажи мне, сколько ты им должна?",
-          "trans": "Now let's go through everything in order. Tell me, how much do you owe them?"
+          "text": "Да, я наведу здесь железный порядок.",
+          "trans": "Yes, I'll establish iron order here."
         }
       ],
       "related": [
         {
-          "word": "рядом",
-          "gloss": "nearby"
+          "word": "в порядке",
+          "gloss": "fine, OK"
         },
         {
-          "word": "порядочность",
-          "gloss": "decency"
+          "word": "порядочный",
+          "gloss": "decent"
+        },
+        {
+          "word": "беспорядок",
+          "gloss": "mess, disorder"
         }
       ]
     },
@@ -5648,7 +5384,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -5668,157 +5404,6 @@
         }
       ],
       "related": []
-    },
-    "проверить": {
-      "lemma": "проверить",
-      "stress": "прове́рить",
-      "pos": "verb",
-      "gloss": "to check, to test",
-      "aspect": "pf",
-      "pair": "проверять",
-      "meanings": [
-        {
-          "en": "to check, to test, to verify",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'верить'). Used as a perfective (single completed action) verb meaning 'to check, to test', paired with 'проверять'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "проверю",
-              "проверим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "проверишь",
-              "проверите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "проверит",
-              "проверят"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "проверил",
-                "проверила",
-                "проверило",
-                "проверили"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "проверь",
-                "проверьте"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Паяльник проверь.",
-          "trans": "Check the soldering iron."
-        },
-        {
-          "text": "Сейчас всё проверим.",
-          "trans": "We'll check everything right now."
-        },
-        {
-          "text": "Вот с таким настроением и иди к Аникееву. Паяльник проверь.",
-          "trans": "Go to Anikeev in just that mood. Check the soldering iron."
-        }
-      ],
-      "related": [
-        {
-          "word": "проверять",
-          "gloss": "to check"
-        },
-        {
-          "word": "доверие",
-          "gloss": "trust"
-        },
-        {
-          "word": "верить",
-          "gloss": "to believe"
-        }
-      ]
-    },
-    "прямо": {
-      "lemma": "прямо",
-      "stress": "пря́мо",
-      "pos": "adv",
-      "gloss": "straight, right, just",
-      "meanings": [
-        {
-          "en": "right, just, directly",
-          "note": "Прямо так = just like that. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        },
-        {
-          "en": "straight ahead",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Прямо так, да?",
-          "trans": "Just like that?"
-        },
-        {
-          "text": "Идите прямо по этой улице.",
-          "trans": "Go straight along this street."
-        },
-        {
-          "text": "В смысле, Виктор Степанович? Прямо так, да?",
-          "trans": "What do you mean, Viktor Stepanovich? Just like that?"
-        }
-      ],
-      "related": [
-        {
-          "word": "прямой",
-          "gloss": "straight"
-        }
-      ]
     },
     "работа": {
       "lemma": "работа",
@@ -6322,7 +5907,7 @@
           {
             "cells": [
               "1st",
-              "—",
+              "убежу",
               "убедим"
             ]
           },
@@ -6399,15 +5984,15 @@
       "related": [
         {
           "word": "убеждать",
-          "gloss": "to convince"
+          "gloss": "to convince (impf)"
         },
         {
-          "word": "победить",
-          "gloss": "to win"
+          "word": "убедиться",
+          "gloss": "to make sure"
         },
         {
-          "word": "победитель",
-          "gloss": "winner"
+          "word": "убеждение",
+          "gloss": "conviction, belief"
         }
       ]
     },
@@ -6421,7 +6006,7 @@
       "meanings": [
         {
           "en": "to fire, to sack",
-          "note": "Уволен = fired (short participle). Used as a perfective (single completed action) verb meaning 'to fire, to dismiss', paired with 'увольнять'."
+          "note": "Уволен = fired (short participle)."
         }
       ],
       "forms": {
@@ -6473,6 +6058,23 @@
                 "уволила",
                 "уволило",
                 "уволили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "уволь",
+                "увольте"
               ]
             }
           ]
@@ -6542,7 +6144,7 @@
       "meanings": [
         {
           "en": "to leave on foot, go away",
-          "note": "Used as a perfective (single completed action) verb meaning 'to leave, go away', paired with 'уходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6645,7 +6247,7 @@
       "meanings": [
         {
           "en": "universal / master",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('universal / master')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6688,10 +6290,10 @@
           {
             "cells": [
               "accusative",
-              "универсальный",
+              "универсальный / универсального",
               "универсальную",
               "универсальное",
-              "универсальные"
+              "универсальные / универсальных"
             ]
           },
           {
@@ -6744,7 +6346,7 @@
       "meanings": [
         {
           "en": "good, nice, lovely",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6849,7 +6451,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -6901,6 +6503,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -7031,10 +6650,11 @@
       "pos": "noun",
       "gloss": "chance",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "chance",
-          "note": "У меня есть шанс = I have a chance. From French 'chance' (favorable turn of the dice, from Late Latin 'cadentia')."
+          "note": "У меня есть шанс = I have a chance."
         }
       ],
       "forms": {
@@ -7105,105 +6725,6 @@
         }
       ],
       "related": []
-    },
-    "этот": {
-      "lemma": "этот",
-      "stress": "э́тот",
-      "pos": "det",
-      "gloss": "this",
-      "meanings": [
-        {
-          "en": "this",
-          "note": "alone: 'я этого не хочу' = I don't want that"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "этот",
-              "эта",
-              "это",
-              "эти"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "этого",
-              "этой",
-              "этого",
-              "этих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "этому",
-              "этой",
-              "этому",
-              "этим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "этот / этого",
-              "эту",
-              "это",
-              "эти / этих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "этим",
-              "этой",
-              "этим",
-              "этими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "этом",
-              "этой",
-              "этом",
-              "этих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Этот дом.",
-          "trans": "This house."
-        },
-        {
-          "text": "Меня тошнит от этой коммуналки.",
-          "trans": "I'm sick of this communal flat."
-        },
-        {
-          "text": "Меня уже тошнит от этой коммуналки! У нас труба уже неделю течёт.",
-          "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
-        }
-      ],
-      "related": [
-        {
-          "word": "это",
-          "gloss": "this is, it"
-        }
-      ]
     },
     "я": {
       "lemma": "я",

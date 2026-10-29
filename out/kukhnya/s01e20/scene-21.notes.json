@@ -228,11 +228,11 @@
         },
         {
           "t": "мы.",
-          "gloss": "we",
-          "gram": "1st person plural, nominative",
           "lemma": "мы",
           "pos": "pron",
-          "stress": null
+          "stress": null,
+          "gloss": "we",
+          "gram": "1st person plural, nominative"
         }
       ]
     },
@@ -462,11 +462,11 @@
         },
         {
           "t": "мы.",
-          "gloss": "we",
-          "gram": "1st person plural, nominative",
           "lemma": "мы",
           "pos": "pron",
-          "stress": null
+          "stress": null,
+          "gloss": "we",
+          "gram": "1st person plural, nominative"
         }
       ]
     },
@@ -696,11 +696,11 @@
         },
         {
           "t": "мы.",
-          "gloss": "we",
-          "gram": "1st person plural, nominative",
           "lemma": "мы",
           "pos": "pron",
-          "stress": null
+          "stress": null,
+          "gloss": "we",
+          "gram": "1st person plural, nominative"
         }
       ]
     },
@@ -902,7 +902,7 @@
       "meanings": [
         {
           "en": "to live",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to live'."
+          "note": ""
         }
       ],
       "forms": {
@@ -957,6 +957,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "живи",
+                "живите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -976,7 +993,7 @@
       "related": [
         {
           "word": "житься",
-          "gloss": "to live"
+          "gloss": "to get on, for life to go (impersonal)"
         },
         {
           "word": "дожить",
@@ -984,7 +1001,7 @@
         },
         {
           "word": "пережить",
-          "gloss": "to survive"
+          "gloss": "to survive, to live through"
         }
       ]
     },
@@ -1287,11 +1304,11 @@
       "meanings": [
         {
           "en": "to love",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         },
         {
           "en": "to like",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1375,8 +1392,8 @@
           "trans": "Do you like gum?"
         },
         {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
+          "text": "Ты любишь чужую жену!",
+          "trans": "You're in love with another man's wife!"
         }
       ],
       "related": [
@@ -1404,7 +1421,7 @@
       "meanings": [
         {
           "en": "to quarrel, fall out, argue",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to quarrel, argue', paired with 'поссориться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1600,7 +1617,11 @@
       "related": [
         {
           "word": "подарить",
-          "gloss": "to give"
+          "gloss": "to give as a gift (pf)"
+        },
+        {
+          "word": "подарок",
+          "gloss": "present"
         }
       ]
     },
@@ -1613,7 +1634,7 @@
       "meanings": [
         {
           "en": "present, gift",
-          "note": "Common masculine noun meaning 'present, gift' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -1695,11 +1716,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -1815,11 +1836,11 @@
         },
         {
           "en": "sentence",
-          "note": "In grammar. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'offer, proposal; sentence' in everyday Russian."
+          "note": "In grammar."
         },
         {
           "en": "marriage proposal",
-          "note": "Сделать предложение. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'offer, proposal; sentence' in everyday Russian."
+          "note": "Сделать предложение."
         }
       ],
       "forms": {
@@ -1946,7 +1967,7 @@
       "meanings": [
         {
           "en": "often, frequently",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2010,12 +2031,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -2070,6 +2089,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2089,17 +2125,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "до": {
       "lemma": "до",
@@ -2109,11 +2146,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2151,7 +2188,7 @@
       "meanings": [
         {
           "en": "speedy, quick",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('speedy, quick')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2194,10 +2231,10 @@
           {
             "cells": [
               "accusative",
-              "скорый",
+              "скорый / скорого",
               "скорую",
               "скорое",
-              "скорые"
+              "скорые / скорых"
             ]
           },
           {
@@ -2223,22 +2260,30 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Макс Лавров? Привет, давай скорее обнимемся!",
-          "trans": "Max Lavrov? Hi, let's hug right away!"
+          "text": "Ну всё, до скорого!",
+          "trans": "Right, see you soon!"
         },
         {
-          "text": "Ладно, иди готовь скорее своего дорогого короля!",
-          "trans": "Fine, go prepare your expensive king right away!"
+          "text": "Готово, сообщение ушло, теперь ждём скорого возвращения!",
+          "trans": "Done, the message is sent, now we wait for a quick return!"
         },
         {
-          "text": "Гуля, подойди скорее сюда, у меня важное поручение.",
-          "trans": "Gulya, come over here quickly, I have an important errand."
+          "text": "Всего доброго, до скорой встречи!",
+          "trans": "All the best, see you soon!"
         }
       ],
       "related": [
         {
           "word": "скоро",
-          "gloss": "speedyly (adverbial form)"
+          "gloss": "soon"
+        },
+        {
+          "word": "скорее",
+          "gloss": "quicker; rather"
+        },
+        {
+          "word": "скорость",
+          "gloss": "speed"
         }
       ]
     }

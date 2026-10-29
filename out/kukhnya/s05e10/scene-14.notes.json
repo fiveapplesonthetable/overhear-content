@@ -447,7 +447,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -455,7 +455,7 @@
           "lemma": "заказать",
           "pos": "verb",
           "stress": "заказа́ла",
-          "gloss": "to order",
+          "gloss": "ordered",
           "gram": "past tense, feminine singular"
         }
       ]
@@ -935,7 +935,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -943,7 +943,7 @@
           "lemma": "заказать",
           "pos": "verb",
           "stress": "заказа́ла",
-          "gloss": "to order",
+          "gloss": "ordered",
           "gram": "past tense, feminine singular"
         }
       ]
@@ -1423,7 +1423,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1431,7 +1431,7 @@
           "lemma": "заказать",
           "pos": "verb",
           "stress": "заказа́ла",
-          "gloss": "to order",
+          "gloss": "ordered",
           "gram": "past tense, feminine singular"
         }
       ]
@@ -1495,12 +1495,10 @@
       "stress": "беспоко́иться",
       "pos": "verb",
       "gloss": "to worry",
-      "aspect": "impf",
-      "pair": "забеспокоиться",
       "meanings": [
         {
           "en": "to worry, to be anxious",
-          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'покоиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry', paired with 'забеспокоиться'."
+          "note": "Privative prefix 'бес-' ('without, -less', before voiceless consonants) (stem 'покоиться')."
         }
       ],
       "forms": {
@@ -1590,8 +1588,8 @@
       ],
       "related": [
         {
-          "word": "забеспокоиться",
-          "gloss": "to worry"
+          "word": "побеспокоиться",
+          "gloss": "to take care of, to see to"
         },
         {
           "word": "беспокоить",
@@ -1601,7 +1599,8 @@
           "word": "спокойный",
           "gloss": "calm"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "в": {
       "lemma": "в",
@@ -1653,7 +1652,7 @@
       "meanings": [
         {
           "en": "your, yours",
-          "note": "Polite (вы) or plural. Core Russian det meaning 'your, yours (polite or plural)' in everyday speech."
+          "note": "Polite (вы) or plural."
         }
       ],
       "forms": {
@@ -1907,29 +1906,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "готов",
-                "готова",
-                "готово",
-                "готовы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я готов!",
@@ -1971,7 +1948,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2007,11 +1984,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2203,11 +2180,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2245,7 +2222,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "About people. Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+          "note": "About people."
         },
         {
           "en": "good",
@@ -2336,7 +2313,11 @@
       "related": [
         {
           "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "gloss": "good, kindness"
+        },
+        {
+          "word": "доброта",
+          "gloss": "kindness"
         }
       ]
     },
@@ -2461,11 +2442,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2501,10 +2482,11 @@
       "pos": "noun",
       "gloss": "order",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "order",
-          "note": "Declinable masculine noun meaning 'order', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "booking",
@@ -2595,7 +2577,7 @@
       "meanings": [
         {
           "en": "to order (food, a taxi, goods)",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to order', paired with 'заказывать'."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'казать')."
         }
       ],
       "forms": {
@@ -2740,7 +2722,7 @@
       "meanings": [
         {
           "en": "cocktail, mixed drink",
-          "note": "Common masculine noun meaning 'cocktail' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2816,7 +2798,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -2852,14 +2834,14 @@
     },
     "молчание": {
       "lemma": "молчание",
-      "stress": "молчани́е",
+      "stress": "молча́ние",
       "pos": "noun",
       "gloss": "silence",
       "gender": "n",
       "meanings": [
         {
           "en": "silence",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'silence' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2917,22 +2899,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "На кухне отеля всегда есть молчание.",
-          "trans": "In the hotel kitchen there is always silence."
+          "text": "Спасибо тебе за молчание.",
+          "trans": "Thank you for keeping quiet."
         },
         {
-          "text": "Шеф сразу заметил, где молчание.",
-          "trans": "The chef immediately noticed where the silence was."
+          "text": "Сеня, держи эти деньги за молчание.",
+          "trans": "Senya, take this money to keep your mouth shut."
         }
       ],
       "related": [
         {
-          "word": "без молчани",
-          "gloss": "without silence"
+          "word": "молчать",
+          "gloss": "to be silent"
         },
         {
-          "word": "наш молчание",
-          "gloss": "our silence"
+          "word": "тишина",
+          "gloss": "silence, quiet"
+        },
+        {
+          "word": "молча",
+          "gloss": "silently"
         }
       ]
     },
@@ -3068,7 +3054,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -3385,7 +3371,7 @@
       "meanings": [
         {
           "en": "beach",
-          "note": "Common masculine noun meaning 'beach' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3444,21 +3430,21 @@
       "examples": [
         {
           "text": "Слышь, тридцать соток пляжа.",
-          "trans": "Listen, thirty acres of beach."
+          "trans": "Listen, thirty hundred-square-metre plots of beach."
         },
         {
-          "text": "На кухне отеля всегда есть пляж.",
-          "trans": "In the hotel kitchen there is always beach."
+          "text": "Мы весь день лежали на пляже.",
+          "trans": "We lay on the beach all day."
         }
       ],
       "related": [
         {
-          "word": "без пля",
-          "gloss": "without beach"
+          "word": "пляжный",
+          "gloss": "beach (adj)"
         },
         {
-          "word": "наш пляж",
-          "gloss": "our beach"
+          "word": "на пляже",
+          "gloss": "on the beach"
         }
       ]
     },
@@ -3472,7 +3458,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -3575,7 +3561,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -3633,42 +3619,42 @@
             "cells": [
               "nominative",
               "полиция",
-              "—"
+              "полиции"
             ]
           },
           {
             "cells": [
               "genitive",
               "полиции",
-              "—"
+              "полиций"
             ]
           },
           {
             "cells": [
               "dative",
               "полиции",
-              "—"
+              "полициям"
             ]
           },
           {
             "cells": [
               "accusative",
               "полицию",
-              "—"
+              "полиции"
             ]
           },
           {
             "cells": [
               "instrumental",
               "полицией",
-              "—"
+              "полициями"
             ]
           },
           {
             "cells": [
               "prepositional",
               "полиции",
-              "—"
+              "полициях"
             ]
           }
         ]
@@ -3700,7 +3686,7 @@
       "meanings": [
         {
           "en": "to understand, to get",
-          "note": "Понял? = got it?; понял = got it. Used as a perfective (single completed action) verb meaning 'to understand', paired with 'понимать'."
+          "note": "Понял? = got it?; понял = got it."
         }
       ],
       "forms": {
@@ -3801,10 +3787,11 @@
       "pos": "noun",
       "gloss": "check, inspection, test",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "check, verification, test",
-          "note": "Common feminine noun meaning 'check, inspection, test' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3886,7 +3873,7 @@
       "meanings": [
         {
           "en": "to get upset, distressed",
-          "note": "Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'строиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to get upset', paired with 'расстраиваться'."
+          "note": "Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'строиться')."
         }
       ],
       "forms": {
@@ -3966,22 +3953,22 @@
           "trans": "She got very upset."
         },
         {
-          "text": "Не расстраивайся по пустякам.",
-          "trans": "Don't get upset over trifles."
+          "text": "Только никому об этом не говори, шеф расстроится.",
+          "trans": "Just don't tell anyone about this, the chef will get upset."
         },
         {
           "text": "Он очень сильно удивился и расстроился.",
-          "trans": "He was very surprised and upset."
+          "trans": "He was very surprised and got upset."
         }
       ],
       "related": [
         {
           "word": "расстраиваться",
-          "gloss": "to get upset"
+          "gloss": "to get upset (impf)"
         },
         {
-          "word": "построить",
-          "gloss": "to build"
+          "word": "расстроить",
+          "gloss": "to upset"
         },
         {
           "word": "настроение",
@@ -4003,7 +3990,7 @@
         },
         {
           "en": "to solve",
-          "note": "Решить задачу. Used as a perfective (single completed action) verb meaning 'to decide; to solve', paired with 'решать'."
+          "note": "Решить задачу."
         }
       ],
       "forms": {
@@ -4115,11 +4102,11 @@
       "meanings": [
         {
           "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": "Literally 'until the meeting'."
         },
         {
           "en": "date (romantic)",
-          "note": "Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4191,8 +4178,16 @@
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "до свидания",
+          "gloss": "goodbye"
+        },
+        {
+          "word": "встреча",
+          "gloss": "meeting"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -4206,7 +4201,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as a perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать')."
         }
       ],
       "forms": {
@@ -4309,83 +4304,6 @@
         }
       ]
     },
-    "секс": {
-      "lemma": "секс",
-      "stress": "секс",
-      "pos": "noun",
-      "gloss": "sex",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "sex",
-          "note": "Declinable masculine noun meaning 'sex', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "секс",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "секса",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "сексу",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "секс",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "сексом",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "сексе",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Костя уверен, что в отношениях любовь гораздо важнее, чем просто секс.",
-          "trans": "Kostya is convinced that in a relationship love is much more important than just sex."
-        },
-        {
-          "text": "В баре подруги откровенно болтали про любовь, свидания и секс.",
-          "trans": "At the bar the friends chatted frankly about love, dates, and sex."
-        }
-      ],
-      "related": []
-    },
     "сильно": {
       "lemma": "сильно",
       "stress": "си́льно",
@@ -4394,7 +4312,7 @@
       "meanings": [
         {
           "en": "very much, deeply, strongly",
-          "note": "Adverb of degree. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Adverb of degree."
         }
       ],
       "forms": null,
@@ -4434,7 +4352,7 @@
       "meanings": [
         {
           "en": "to inform, to report, to announce (+ dat.)",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to inform, to report', paired with 'сообщить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4543,11 +4461,11 @@
       "meanings": [
         {
           "en": "to disrupt, to ruin (a lesson or plan)",
-          "note": "Сорвать урок = to disrupt a class. Used as a perfective (single completed action) verb meaning 'to disrupt, to ruin; to tear off', paired with 'срывать'."
+          "note": "Сорвать урок = to disrupt a class."
         },
         {
           "en": "to pluck, to tear off",
-          "note": "Used as a perfective (single completed action) verb meaning 'to disrupt, to ruin; to tear off', paired with 'срывать'."
+          "note": ""
         }
       ],
       "forms": {

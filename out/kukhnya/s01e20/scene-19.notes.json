@@ -109,10 +109,10 @@
         {
           "t": "Здравствуйте.",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         }
       ]
     },
@@ -445,7 +445,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -578,7 +578,7 @@
           "t": "исправили.",
           "lemma": "исправить",
           "pos": "verb",
-          "stress": "исправи́ли",
+          "stress": "испра́вили",
           "gloss": "fixed",
           "gram": "past, plural, perfective"
         }
@@ -601,8 +601,8 @@
           "lemma": "орать",
           "pos": "verb",
           "stress": "ори́",
-          "gloss": "to yell, to bellow",
-          "gram": "conjugated verb"
+          "gloss": "yell (don't yell)",
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "Вить,",
@@ -807,10 +807,10 @@
         {
           "t": "Здравствуйте.",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         }
       ]
     },
@@ -1143,7 +1143,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1276,7 +1276,7 @@
           "t": "исправили.",
           "lemma": "исправить",
           "pos": "verb",
-          "stress": "исправи́ли",
+          "stress": "испра́вили",
           "gloss": "fixed",
           "gram": "past, plural, perfective"
         }
@@ -1299,8 +1299,8 @@
           "lemma": "орать",
           "pos": "verb",
           "stress": "ори́",
-          "gloss": "to yell, to bellow",
-          "gram": "conjugated verb"
+          "gloss": "yell (don't yell)",
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "Вить,",
@@ -1505,10 +1505,10 @@
         {
           "t": "Здравствуйте.",
           "lemma": "здравствуйте",
-          "pos": "verb",
+          "pos": "interj",
           "stress": "здра́вствуйте",
           "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
+          "gram": "interjection, polite greeting; the first в is silent"
         }
       ]
     },
@@ -1841,7 +1841,7 @@
         {
           "t": "Спасибо",
           "lemma": "спасибо",
-          "pos": "noun",
+          "pos": "interj",
           "stress": "спаси́бо",
           "gloss": "thank you",
           "gram": "fixed expression"
@@ -1974,7 +1974,7 @@
           "t": "исправили.",
           "lemma": "исправить",
           "pos": "verb",
-          "stress": "исправи́ли",
+          "stress": "испра́вили",
           "gloss": "fixed",
           "gram": "past, plural, perfective"
         }
@@ -1997,8 +1997,8 @@
           "lemma": "орать",
           "pos": "verb",
           "stress": "ори́",
-          "gloss": "to yell, to bellow",
-          "gram": "conjugated verb"
+          "gloss": "yell (don't yell)",
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "Вить,",
@@ -2136,42 +2136,42 @@
             "cells": [
               "nominative",
               "бизнес",
-              "—"
+              "бизнесы"
             ]
           },
           {
             "cells": [
               "genitive",
               "бизнеса",
-              "—"
+              "бизнесов"
             ]
           },
           {
             "cells": [
               "dative",
               "бизнесу",
-              "—"
+              "бизнесам"
             ]
           },
           {
             "cells": [
               "accusative",
               "бизнес",
-              "—"
+              "бизнесы"
             ]
           },
           {
             "cells": [
               "instrumental",
               "бизнесом",
-              "—"
+              "бизнесами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "бизнесе",
-              "—"
+              "бизнесах"
             ]
           }
         ]
@@ -2198,26 +2198,27 @@
       "stress": "благодаря́",
       "pos": "prep",
       "gloss": "thanks to",
+      "governs": "dative",
       "meanings": [
         {
           "en": "thanks to",
-          "note": "Russian preposition meaning 'thanks to' that governs a specific oblique case on the following noun phrase."
+          "note": "takes the dative: благодаря тебе"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "И все благодаря тебе.",
-          "trans": "And it is all thanks to you."
+          "text": "И всё благодаря тебе.",
+          "trans": "And it's all thanks to you."
         },
         {
           "text": "Именно благодаря ей завоёвываем уважение.",
-          "trans": "It is what earns us respect."
+          "trans": "It's precisely thanks to it that we earn respect."
         },
         {
-          "text": "Но благодаря вам у нас все получилось. Спасибо вам за вас.",
-          "trans": "But thanks to you, we made it work. Thank you for being you."
+          "text": "Но благодаря вам у нас всё получилось.",
+          "trans": "But thanks to you, it all worked out."
         }
       ],
       "related": [
@@ -2710,11 +2711,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -2747,70 +2748,17 @@
     "здравствуйте": {
       "lemma": "здравствуйте",
       "stress": "здра́вствуйте",
-      "pos": "verb",
-      "gloss": "hello",
-      "aspect": "impf",
+      "pos": "interj",
+      "gloss": "hello (polite or to several people)",
       "pair": null,
       "meanings": [
         {
           "en": "hello",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'hello'."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "здравствуйю",
-              "здравствуйем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "здравствуйешь",
-              "здравствуйете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "здравствуйет",
-              "здравствуйют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "здравствуйл",
-                "здравствуйла",
-                "здравствуйло",
-                "здравствуйли"
-              ]
-            }
-          ]
-        }
-      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Здравствуйте! Как там в Венгрии?",
@@ -2850,7 +2798,7 @@
       "meanings": [
         {
           "en": "to fix, to correct, to put right",
-          "note": "Prefix 'ис-' ('out from within') marks extraction or exhaustion (stem 'править'). Used as a perfective (single completed action) verb meaning 'to fix, to correct', paired with 'исправлять'."
+          "note": "Prefix 'ис-' ('out from within') marks extraction or exhaustion (stem 'править')."
         }
       ],
       "forms": {
@@ -3072,12 +3020,16 @@
       "lemma": "курс",
       "stress": "курс",
       "pos": "noun",
-      "gloss": "course, regimen",
+      "gloss": "course; (в курсе) in the know",
       "gender": "m",
       "meanings": [
         {
-          "en": "course of medical treatment or study",
-          "note": "Masculine inanimate noun. Common masculine noun meaning 'course, regimen' in everyday Russian."
+          "en": "course (of treatment or study)",
+          "note": ""
+        },
+        {
+          "en": "в курсе = aware, in the know",
+          "note": "ввести в курс дела = bring up to speed"
         }
       ],
       "forms": {
@@ -3250,11 +3202,15 @@
       "related": [
         {
           "word": "покушать",
+          "gloss": "to have something to eat"
+        },
+        {
+          "word": "есть",
           "gloss": "to eat"
         },
         {
-          "word": "накушаться",
-          "gloss": "to get drunk"
+          "word": "кушать подано",
+          "gloss": "dinner is served"
         }
       ]
     },
@@ -3266,7 +3222,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -3302,7 +3258,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -3354,6 +3310,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -3721,12 +3694,10 @@
       "stress": "ора́ть",
       "pos": "verb",
       "gloss": "to yell, to bellow",
-      "aspect": "impf",
-      "pair": "заорать",
       "meanings": [
         {
           "en": "to yell, to shout loudly, to bellow",
-          "note": "Colloquial. Used as an imperfective (ongoing/repeated action) verb meaning 'to yell, to bellow', paired with 'заорать'."
+          "note": "Colloquial."
         }
       ],
       "forms": {
@@ -3819,7 +3790,8 @@
           "word": "заорать",
           "gloss": "to yell"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "очень": {
       "lemma": "очень",
@@ -3868,7 +3840,7 @@
       "meanings": [
         {
           "en": "period",
-          "note": "Common masculine noun meaning 'period' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3936,12 +3908,16 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "время",
+          "gloss": "time"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "этап",
+          "gloss": "stage"
+        },
+        {
+          "word": "срок",
+          "gloss": "term, period"
         }
       ]
     },
@@ -4180,15 +4156,15 @@
       "meanings": [
         {
           "en": "rise and shine!, wake up!",
-          "note": "The army wake-up call. Common masculine noun meaning 'getting up; rise; (as a call) rise and shine!' in everyday Russian."
+          "note": "The army wake-up call."
         },
         {
           "en": "getting up, rise",
-          "note": "Ранний подъём = an early start. Common masculine noun meaning 'getting up; rise; (as a call) rise and shine!' in everyday Russian."
+          "note": "Ранний подъём = an early start."
         },
         {
           "en": "climb, ascent",
-          "note": "Common masculine noun meaning 'getting up; rise; (as a call) rise and shine!' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4260,8 +4236,16 @@
       ],
       "related": [
         {
-          "word": "подъёмный",
-          "gloss": "related to getting up (adj.)"
+          "word": "подниматься",
+          "gloss": "to rise, go up"
+        },
+        {
+          "word": "вставать",
+          "gloss": "to get up"
+        },
+        {
+          "word": "подъёмник",
+          "gloss": "lift, hoist"
         }
       ]
     },
@@ -4275,7 +4259,7 @@
       "meanings": [
         {
           "en": "to turn out, to work out",
-          "note": "Всё получилось = it all worked out. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to turn out, to work out', paired with 'получаться'."
+          "note": "Всё получилось = it all worked out."
         },
         {
           "en": "to come out of, to make",
@@ -4334,6 +4318,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "получись",
+                "получитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4372,11 +4373,11 @@
       "meanings": [
         {
           "en": "to disturb, to interrupt",
-          "note": "Не помешал? = Am I interrupting?. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мешать'). Used as a perfective (single completed action) verb meaning 'to disturb, to interrupt; to hinder', paired with 'мешать'."
+          "note": "Не помешал? = Am I interrupting?. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мешать')."
         },
         {
           "en": "to get in the way, to prevent",
-          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мешать'). Used as a perfective (single completed action) verb meaning 'to disturb, to interrupt; to hinder', paired with 'мешать'."
+          "note": "+ dative. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'мешать')."
         }
       ],
       "forms": {
@@ -4431,6 +4432,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "помешай",
+                "помешайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4450,11 +4468,11 @@
       "related": [
         {
           "word": "мешать",
-          "gloss": "to be in the way"
+          "gloss": "to be in the way; to stir"
         },
         {
-          "word": "смешать",
-          "gloss": "mix"
+          "word": "помеха",
+          "gloss": "obstacle, hindrance"
         }
       ]
     },
@@ -4742,6 +4760,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "произойди",
+                "произойдите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4779,7 +4814,7 @@
         },
         {
           "en": "to beg",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to ask (for)', paired with 'попросить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4913,10 +4948,11 @@
       "pos": "noun",
       "gloss": "professional",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "professional, expert",
-          "note": "Common masculine noun meaning 'professional' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4988,12 +5024,16 @@
       ],
       "related": [
         {
-          "word": "профессор",
-          "gloss": "professor"
+          "word": "профессиональный",
+          "gloss": "professional (adj)"
         },
         {
           "word": "профессия",
           "gloss": "profession"
+        },
+        {
+          "word": "любитель",
+          "gloss": "amateur"
         }
       ]
     },
@@ -5130,7 +5170,7 @@
       "meanings": [
         {
           "en": "complicated, complex, difficult",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('complicated, difficult')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5221,7 +5261,11 @@
         },
         {
           "word": "сложно",
-          "gloss": "difficultly"
+          "gloss": "it's difficult"
+        },
+        {
+          "word": "простой",
+          "gloss": "simple"
         }
       ]
     },
@@ -5235,11 +5279,11 @@
       "meanings": [
         {
           "en": "to look (at)",
-          "note": "Смотреть на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "Смотреть на + accusative."
         },
         {
           "en": "to watch",
-          "note": "TV, a film. Used as an imperfective (ongoing/repeated action) verb meaning 'to look, to watch', paired with 'посмотреть'."
+          "note": "TV, a film."
         }
       ],
       "forms": {
@@ -5344,7 +5388,7 @@
       "meanings": [
         {
           "en": "to sympathize with, feel for",
-          "note": "+ dat. Used as an imperfective (ongoing/repeated action) verb meaning 'to sympathize, feel for', paired with 'посочувствовать'."
+          "note": "+ dat."
         }
       ],
       "forms": {
@@ -5442,67 +5486,15 @@
     "спасибо": {
       "lemma": "спасибо",
       "stress": "спаси́бо",
-      "pos": "noun",
+      "pos": "interj",
       "gloss": "thank you",
-      "gender": "n",
       "meanings": [
         {
           "en": "thank you",
-          "note": "Common neuter noun meaning 'thank you' in everyday Russian."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -5528,7 +5520,7 @@
       "meanings": [
         {
           "en": "that",
-          "note": "The one over there. Core Russian det meaning 'that' in everyday speech."
+          "note": "The one over there."
         },
         {
           "en": "that which, the thing",
@@ -5773,7 +5765,7 @@
         },
         {
           "en": "success",
-          "note": "Common feminine noun meaning 'luck' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5854,7 +5846,7 @@
       "meanings": [
         {
           "en": "owner, host",
-          "note": "Declinable masculine noun meaning 'owner', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {

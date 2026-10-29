@@ -28,7 +28,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "звезды.",
@@ -258,7 +258,7 @@
           "pos": "adj",
           "stress": "друго́й",
           "gloss": "other",
-          "gram": "feminine singular, genitive"
+          "gram": "masculine nominative/accusative singular or feminine oblique singular"
         },
         {
           "t": "стороны,",
@@ -318,7 +318,7 @@
           "t": "старается.",
           "lemma": "стараться",
           "pos": "verb",
-          "stress": "старае́тся",
+          "stress": "стара́ется",
           "gloss": "to try, to make an effort",
           "gram": "3rd person singular"
         }
@@ -415,7 +415,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -540,7 +540,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "звезды.",
@@ -770,7 +770,7 @@
           "pos": "adj",
           "stress": "друго́й",
           "gloss": "other",
-          "gram": "feminine singular, genitive"
+          "gram": "masculine nominative/accusative singular or feminine oblique singular"
         },
         {
           "t": "стороны,",
@@ -830,7 +830,7 @@
           "t": "старается.",
           "lemma": "стараться",
           "pos": "verb",
-          "stress": "старае́тся",
+          "stress": "стара́ется",
           "gloss": "to try, to make an effort",
           "gram": "3rd person singular"
         }
@@ -927,7 +927,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1052,7 +1052,7 @@
           "pos": "num",
           "stress": null,
           "gloss": "three",
-          "gram": "accusative"
+          "gram": "nominative/accusative"
         },
         {
           "t": "звезды.",
@@ -1282,7 +1282,7 @@
           "pos": "adj",
           "stress": "друго́й",
           "gloss": "other",
-          "gram": "feminine singular, genitive"
+          "gram": "masculine nominative/accusative singular or feminine oblique singular"
         },
         {
           "t": "стороны,",
@@ -1342,7 +1342,7 @@
           "t": "старается.",
           "lemma": "стараться",
           "pos": "verb",
-          "stress": "старае́тся",
+          "stress": "стара́ется",
           "gloss": "to try, to make an effort",
           "gram": "3rd person singular"
         }
@@ -1439,7 +1439,7 @@
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
+          "gloss": "she; it",
           "gram": "nominative, feminine"
         },
         {
@@ -1650,13 +1650,17 @@
       "lemma": "вводить",
       "stress": "вводи́ть",
       "pos": "verb",
-      "gloss": "introduce",
+      "gloss": "to introduce, bring in",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "introduce",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'introduce'."
+          "en": "to introduce, bring in (a rule, menu, offer)",
+          "note": ""
+        },
+        {
+          "en": "to put into (a state)",
+          "note": "вводить в транс = to put into a trance"
         }
       ],
       "forms": {
@@ -1711,19 +1715,41 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "вводи",
+                "вводите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "Мы не будем вводить это блюдо в меню.",
-          "trans": "We will not introduce this dish into the menu."
+          "trans": "We won't be putting this dish on the menu."
         },
         {
-          "text": "Надо всё сделать и вводить вовремя.",
-          "trans": "We need to do everything and introduce on time."
+          "text": "Ну так что, я ввожу акцию?",
+          "trans": "So, shall I launch the promotion?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "ввести",
+          "gloss": "to introduce (pf)"
+        }
+      ]
     },
     "вердикт": {
       "lemma": "вердикт",
@@ -1735,7 +1761,7 @@
       "meanings": [
         {
           "en": "verdict, decision",
-          "note": "Declinable masculine noun meaning 'verdict', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -2016,7 +2042,7 @@
         },
         {
           "en": "deliciously",
-          "note": "Вкусно готовить = to cook well. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Вкусно готовить = to cook well."
         }
       ],
       "forms": null,
@@ -2043,84 +2069,6 @@
         {
           "word": "вкусный",
           "gloss": "tasty"
-        }
-      ]
-    },
-    "всё": {
-      "lemma": "всё",
-      "stress": "всё",
-      "pos": "pron",
-      "gloss": "everything",
-      "meanings": [
-        {
-          "en": "everything, all",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всёго"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всёму"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "всё"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всём"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Давай, всё хорошо.",
-          "trans": "Come on, everything is fine."
-        },
-        {
-          "text": "Давай, всё.",
-          "trans": "Come on, that is all."
-        },
-        {
-          "text": "Я знаю всё в моём отеле.",
-          "trans": "I know everything in my hotel."
-        }
-      ],
-      "related": [
-        {
-          "word": "весь",
-          "gloss": "all, the whole"
         }
       ]
     },
@@ -2208,14 +2156,14 @@
     },
     "гипноз": {
       "lemma": "гипноз",
-      "stress": "ги́пноз",
+      "stress": "гипно́з",
       "pos": "noun",
       "gloss": "hypnosis",
       "gender": "m",
       "meanings": [
         {
           "en": "hypnosis",
-          "note": "Common masculine noun meaning 'hypnosis' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2273,26 +2221,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "В отеле возможно появление мошенника и гипнотизёра.",
-          "trans": "The appearance of a fraudster and hypnotist in the hotel is possible."
-        },
-        {
           "text": "Жертва находится под гипнозом.",
           "trans": "The victim is under hypnosis."
         },
         {
-          "text": "Гипнотизёр ещё в отеле!",
-          "trans": "The hypnotist is still in the hotel!"
+          "text": "Меня гипноз с детства не берёт.",
+          "trans": "Hypnosis hasn't worked on me since I was a kid."
         }
       ],
       "related": [
         {
-          "word": "без гипно",
-          "gloss": "without hypnosis"
+          "word": "гипнотизёр",
+          "gloss": "hypnotist"
         },
         {
-          "word": "наш гипноз",
-          "gloss": "our hypnosis"
+          "word": "гипнотизировать",
+          "gloss": "to hypnotize"
         }
       ]
     },
@@ -2305,7 +2249,7 @@
       "meanings": [
         {
           "en": "childhood",
-          "note": "Singular only. Common neuter noun meaning 'childhood' in everyday Russian."
+          "note": "Singular only."
         }
       ],
       "forms": {
@@ -2320,42 +2264,42 @@
             "cells": [
               "nominative",
               "детство",
-              "—"
+              "детства"
             ]
           },
           {
             "cells": [
               "genitive",
               "детства",
-              "—"
+              "детств"
             ]
           },
           {
             "cells": [
               "dative",
               "детству",
-              "—"
+              "детствам"
             ]
           },
           {
             "cells": [
               "accusative",
               "детство",
-              "—"
+              "детства"
             ]
           },
           {
             "cells": [
               "instrumental",
               "детством",
-              "—"
+              "детствами"
             ]
           },
           {
             "cells": [
               "prepositional",
               "детстве",
-              "—"
+              "детствах"
             ]
           }
         ]
@@ -2390,11 +2334,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2432,7 +2376,7 @@
       "meanings": [
         {
           "en": "for a long time",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2690,11 +2634,11 @@
         },
         {
           "en": "still, yet",
-          "note": "Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": ""
         },
         {
           "en": "even (with comparatives)",
-          "note": "Ещё больше = even more. Core Russian adv meaning 'more; still; yet' in everyday speech."
+          "note": "Ещё больше = even more."
         }
       ],
       "forms": null,
@@ -2762,11 +2706,11 @@
       "meanings": [
         {
           "en": "star",
-          "note": "In the sky. Common feminine noun meaning 'star; celebrity' in everyday Russian."
+          "note": "In the sky."
         },
         {
           "en": "star, famous performer",
-          "note": "Common feminine noun meaning 'star; celebrity' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2838,8 +2782,12 @@
       ],
       "related": [
         {
-          "word": "звездный",
-          "gloss": "related to star (adj.)"
+          "word": "звёздный",
+          "gloss": "star (adj.), starry"
+        },
+        {
+          "word": "звёздочка",
+          "gloss": "little star; asterisk"
         }
       ]
     },
@@ -2954,7 +2902,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -3070,7 +3018,11 @@
       "related": [
         {
           "word": "кошмарный",
-          "gloss": "related to nightmare (adj.)"
+          "gloss": "nightmarish, awful"
+        },
+        {
+          "word": "ужас",
+          "gloss": "horror"
         }
       ]
     },
@@ -3305,7 +3257,7 @@
       "meanings": [
         {
           "en": "fairly good, decent, satisfactory",
-          "note": "Lit. not bad. Negative prefix 'не-' ('un-, non-, not') (stem 'плохой'). Agrees in gender, number, and case with the noun it modifies ('not bad, decent, fairly good')."
+          "note": "Lit. not bad. Negative prefix 'не-' ('un-, non-, not') (stem 'плохой')."
         }
       ],
       "forms": {
@@ -3348,10 +3300,10 @@
           {
             "cells": [
               "accusative",
-              "неплохой",
+              "неплохой / неплохого",
               "неплохую",
               "неплохое",
-              "неплохие"
+              "неплохие / неплохих"
             ]
           },
           {
@@ -3698,12 +3650,12 @@
       "lemma": "отель",
       "stress": "оте́ль",
       "pos": "noun",
-      "gloss": "of the hotel",
+      "gloss": "hotel",
       "gender": "m",
       "meanings": [
         {
-          "en": "of the hotel",
-          "note": "Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common masculine noun meaning 'of the hotel' in everyday Russian."
+          "en": "hotel",
+          "note": ""
         }
       ],
       "forms": {
@@ -3761,19 +3713,32 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Это гематома, она и стала причиной потери памяти.",
-          "trans": "That is a hematoma, it became the cause of memory loss."
+          "text": "Наш отель должен удивить гостей.",
+          "trans": "Our hotel has to impress the guests."
         },
         {
-          "text": "Андрей, положи её к себе, а то и эту потеряю.",
-          "trans": "Andrey, put it in your pocket, or I will lose this one too."
+          "text": "В нашем отеле действует новая услуга.",
+          "trans": "Our hotel has a new service."
         },
         {
-          "text": "Я хотел бы просмотреть все документы по закупке продуктов.",
-          "trans": "I would like to review all the documents on food purchases."
+          "text": "Кто бы мог подумать, что буду управлять отелем?",
+          "trans": "Who'd have thought I'd be running a hotel?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "гостиница",
+          "gloss": "hotel"
+        },
+        {
+          "word": "номер",
+          "gloss": "hotel room"
+        },
+        {
+          "word": "постоялец",
+          "gloss": "hotel guest"
+        }
+      ]
     },
     "очень": {
       "lemma": "очень",
@@ -3823,7 +3788,7 @@
       "meanings": [
         {
           "en": "staff, personnel",
-          "note": "Common masculine noun meaning 'staff, personnel' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -3899,13 +3864,17 @@
       "lemma": "поддаваться",
       "stress": "поддава́ться",
       "pos": "verb",
-      "gloss": "respond to / yield to",
+      "gloss": "to give in, to yield (to); to let someone win",
       "aspect": "impf",
-      "pair": null,
+      "pair": "поддаться",
       "meanings": [
         {
-          "en": "respond to / yield to",
-          "note": "Prefix 'под-' ('under, up to') indicates approaching or supporting from below (stem 'даваться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'respond to / yield to'."
+          "en": "to yield, give in, respond (to)",
+          "note": "+ dative: поддаваться лечению/гипнозу = respond to treatment/hypnosis"
+        },
+        {
+          "en": "to let someone win (in a game)",
+          "note": "+ dative"
         }
       ],
       "forms": {
@@ -3919,22 +3888,22 @@
           {
             "cells": [
               "1st",
-              "поддаваюсь",
-              "поддаваемся"
+              "поддаюсь",
+              "поддаёмся"
             ]
           },
           {
             "cells": [
               "2nd",
-              "поддаваешься",
-              "поддаваетесь"
+              "поддаёшься",
+              "поддаётесь"
             ]
           },
           {
             "cells": [
               "3rd",
-              "поддавается",
-              "поддаваются"
+              "поддаётся",
+              "поддаются"
             ]
           }
         ]
@@ -3960,22 +3929,47 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "поддавайся",
+                "поддавайтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Надо всё сделать и поддаваться вовремя.",
-          "trans": "We need to do everything and respond to on time."
+          "text": "Ничего, Макс с детства не поддаётся гипнозу.",
+          "trans": "Don't worry, Max hasn't been susceptible to hypnosis since childhood."
         },
         {
-          "text": "На нашей кухне все умеют поддаваться.",
-          "trans": "In our kitchen everyone knows how to respond to."
+          "text": "Шеф, да я же вам поддавался!",
+          "trans": "Chef, I was letting you win!"
+        },
+        {
+          "text": "Или ты лечению не поддаёшься, или он плохой специалист.",
+          "trans": "Either you don't respond to treatment, or he's a bad specialist."
         }
       ],
       "related": [
         {
-          "word": "не поддаваться",
-          "gloss": "not to respond to (negated infinitive)"
+          "word": "поддаться",
+          "gloss": "to give in (pf)"
+        },
+        {
+          "word": "сдаваться",
+          "gloss": "to surrender"
         }
       ]
     },
@@ -4044,6 +4038,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "понравься",
+                "понравьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -4066,8 +4077,8 @@
           "gloss": "to be liked"
         },
         {
-          "word": "нравоучение",
-          "gloss": "moral lecture"
+          "word": "любить",
+          "gloss": "to love, to like"
         }
       ]
     },
@@ -4079,11 +4090,11 @@
       "meanings": [
         {
           "en": "(it is) clear, understood",
-          "note": "Всё понятно = all clear. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Всё понятно = all clear."
         },
         {
           "en": "I see",
-          "note": "As a reply. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "As a reply."
         }
       ],
       "forms": null,
@@ -4190,12 +4201,16 @@
       "lemma": "сервис",
       "stress": "се́рвис",
       "pos": "noun",
-      "gloss": "repair shop, service",
+      "gloss": "service; repair shop",
       "gender": "m",
       "meanings": [
         {
-          "en": "repair center, technical service",
-          "note": "Declinable masculine noun meaning 'repair shop', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "en": "service (in a restaurant, hotel)",
+          "note": ""
+        },
+        {
+          "en": "repair centre, service garage",
+          "note": ""
         }
       ],
       "forms": {
@@ -4344,29 +4359,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "согласен",
-                "согласна",
-                "согласно",
-                "согласны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я согласен.",
@@ -4406,7 +4399,7 @@
       "meanings": [
         {
           "en": "to try hard, to make an effort",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to try, to make an effort', paired with 'постараться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4599,7 +4592,7 @@
       "meanings": [
         {
           "en": "trance",
-          "note": "Common masculine noun meaning 'trance' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4657,26 +4650,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Подожди, это из центрального офиса.",
-          "trans": "Wait, this is from the central office."
-        },
-        {
-          "text": "Конечно, выживет! Там травмы не такие тяжёлые.",
-          "trans": "Of course he will survive! The injuries there are not so severe."
-        },
-        {
           "text": "Что-то он долго. Она его в транс вводит!",
-          "trans": "He is taking a long time. She is putting him into a trance!"
+          "trans": "He's taking a long time. She's putting him into a trance!"
+        },
+        {
+          "text": "Он был в трансе после новости.",
+          "trans": "He was in a daze after the news."
         }
       ],
       "related": [
         {
-          "word": "без тран",
-          "gloss": "without trance"
+          "word": "гипноз",
+          "gloss": "hypnosis"
         },
         {
-          "word": "наш транс",
-          "gloss": "our trance"
+          "word": "впасть в транс",
+          "gloss": "to fall into a trance"
         }
       ]
     },
@@ -4688,7 +4677,7 @@
       "meanings": [
         {
           "en": "three",
-          "note": "+ genitive singular: три дня. Core Russian num meaning 'three' in everyday speech."
+          "note": "+ genitive singular: три дня."
         }
       ],
       "forms": null,
@@ -4719,7 +4708,7 @@
       "meanings": [
         {
           "en": "whole",
-          "note": "The entire entity; in whole. Common neuter noun meaning 'whole' in everyday Russian."
+          "note": "The entire entity; in whole."
         }
       ],
       "forms": {
@@ -4787,16 +4776,12 @@
       ],
       "related": [
         {
-          "word": "поцеловать",
-          "gloss": "to kiss"
+          "word": "целый",
+          "gloss": "whole"
         },
         {
-          "word": "целовать",
-          "gloss": "to kiss"
-        },
-        {
-          "word": "поцеловаться",
-          "gloss": "to kiss"
+          "word": "в целом",
+          "gloss": "on the whole"
         }
       ]
     },
@@ -4898,77 +4883,33 @@
       "lemma": "что-то",
       "stress": "что́-то",
       "pos": "pron",
-      "gloss": "something; somehow",
+      "gloss": "something",
       "meanings": [
         {
           "en": "something",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'something; somehow', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": "instrumental чем-то: чем-то помочь = help with something"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "что-того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "что-тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "что-то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "что-том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "что-том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "А что-то случилось?",
-          "trans": "Did something happen?"
+          "text": "Так может быть, тебе надо чем-то помочь?",
+          "trans": "So maybe you need help with something?"
         },
         {
-          "text": "Что-то случилось?",
-          "trans": "Has something happened?"
-        },
-        {
-          "text": "Что-то я устал.",
-          "trans": "Somehow I'm tired."
+          "text": "Могу я чем-то помочь?",
+          "trans": "Can I help with anything?"
         }
       ],
       "related": [
         {
-          "word": "что-нибудь",
-          "gloss": "something"
+          "word": "что",
+          "gloss": "what"
+        },
+        {
+          "word": "кто-то",
+          "gloss": "someone"
         }
       ]
     },

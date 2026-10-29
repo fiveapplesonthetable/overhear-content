@@ -282,14 +282,14 @@
           "pos": "det",
           "stress": "на́шем",
           "gloss": "our",
-          "gram": "prepositional singular, neuter"
+          "gram": "prepositional singular, masculine/neuter"
         },
         {
           "t": "деле",
           "lemma": "дело",
           "pos": "noun",
           "stress": "де́ле",
-          "gloss": "case",
+          "gloss": "case; business (на самом деле = actually)",
           "gram": "prepositional singular, neuter"
         },
         {
@@ -822,7 +822,7 @@
           "t": "Олегович",
           "lemma": "олегович",
           "pos": "name",
-          "stress": null,
+          "stress": "оле́гович",
           "gloss": "Olegovich",
           "gram": "patronymic, nominative (address)"
         },
@@ -1184,14 +1184,14 @@
           "pos": "det",
           "stress": "на́шем",
           "gloss": "our",
-          "gram": "prepositional singular, neuter"
+          "gram": "prepositional singular, masculine/neuter"
         },
         {
           "t": "деле",
           "lemma": "дело",
           "pos": "noun",
           "stress": "де́ле",
-          "gloss": "case",
+          "gloss": "case; business (на самом деле = actually)",
           "gram": "prepositional singular, neuter"
         },
         {
@@ -1742,7 +1742,7 @@
           "t": "Олегович",
           "lemma": "олегович",
           "pos": "name",
-          "stress": null,
+          "stress": "оле́гович",
           "gloss": "Olegovich",
           "gram": "patronymic, nominative (address)"
         },
@@ -2098,14 +2098,14 @@
           "pos": "det",
           "stress": "на́шем",
           "gloss": "our",
-          "gram": "prepositional singular, neuter"
+          "gram": "prepositional singular, masculine/neuter"
         },
         {
           "t": "деле",
           "lemma": "дело",
           "pos": "noun",
           "stress": "де́ле",
-          "gloss": "case",
+          "gloss": "case; business (на самом деле = actually)",
           "gram": "prepositional singular, neuter"
         },
         {
@@ -2638,7 +2638,7 @@
           "t": "Олегович",
           "lemma": "олегович",
           "pos": "name",
-          "stress": null,
+          "stress": "оле́гович",
           "gloss": "Olegovich",
           "gram": "patronymic, nominative (address)"
         },
@@ -2781,7 +2781,7 @@
       "meanings": [
         {
           "en": "lawyer, defence counsel, advocate",
-          "note": "In court or legal advice. Common masculine noun meaning 'lawyer, defence counsel' in everyday Russian."
+          "note": "In court or legal advice."
         }
       ],
       "forms": {
@@ -3281,48 +3281,6 @@
         }
       ]
     },
-    "всего": {
-      "lemma": "всего",
-      "stress": "всего́",
-      "pos": "adv",
-      "gloss": "only, in total",
-      "meanings": [
-        {
-          "en": "only, merely",
-          "note": "With numbers: всего восемь лет. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        },
-        {
-          "en": "in all, in total",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Дадут всего восемь лет.",
-          "trans": "They will give only eight years."
-        },
-        {
-          "text": "Всего хорошего!",
-          "trans": "All the best!"
-        },
-        {
-          "text": "Предлагаю чистосердечное признание. Дадут всего восемь лет.",
-          "trans": "I suggest a full confession. They'll give you only eight years."
-        }
-      ],
-      "related": [
-        {
-          "word": "всегда",
-          "gloss": "always"
-        },
-        {
-          "word": "навсегда",
-          "gloss": "forever"
-        }
-      ]
-    },
     "вы": {
       "lemma": "вы",
       "stress": "вы",
@@ -3543,7 +3501,7 @@
             "cells": [
               "genitive",
               "года",
-              "лет"
+              "годов"
             ]
           },
           {
@@ -3570,7 +3528,7 @@
           {
             "cells": [
               "prepositional",
-              "годе (в году)",
+              "годе",
               "годах"
             ]
           }
@@ -3630,7 +3588,7 @@
       "meanings": [
         {
           "en": "city, urban, municipal",
-          "note": "Relating to a город. Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('city, town, municipal')."
+          "note": "Relating to a город."
         }
       ],
       "forms": {
@@ -3673,10 +3631,10 @@
           {
             "cells": [
               "accusative",
-              "городской",
+              "городской / городского",
               "городскую",
               "городское",
-              "городские"
+              "городские / городских"
             ]
           },
           {
@@ -3733,7 +3691,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -3769,7 +3727,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "Дай! = give (me)!. Used as a perfective (single completed action) verb meaning 'to give', paired with 'давать'."
+          "note": "Дай! = give (me)!."
         }
       ],
       "forms": {
@@ -3860,11 +3818,11 @@
       "related": [
         {
           "word": "давать",
-          "gloss": "to give"
+          "gloss": "to give (impf)"
         },
         {
           "word": "отдать",
-          "gloss": "to give"
+          "gloss": "to give back, hand over"
         },
         {
           "word": "продать",
@@ -3880,7 +3838,7 @@
       "meanings": [
         {
           "en": "twelve (12)",
-          "note": "Followed by genitive plural. Core Russian num meaning 'twelve' in everyday speech."
+          "note": "Followed by genitive plural."
         }
       ],
       "forms": null,
@@ -3911,11 +3869,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4121,11 +4079,11 @@
       "meanings": [
         {
           "en": "document, official paper",
-          "note": "In the plural. From Latin 'documentum' (lesson, proof, official paper, from 'docere')."
+          "note": "From Latin 'documentum'."
         },
         {
           "en": "ID, papers",
-          "note": "In the plural. From Latin 'documentum' (lesson, proof, official paper, from 'docere')."
+          "note": "In the plural: документы."
         }
       ],
       "forms": {
@@ -4243,11 +4201,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -4282,12 +4240,14 @@
       "stress": "заика́ться",
       "pos": "verb",
       "gloss": "to stutter, to stammer",
-      "aspect": "impf",
-      "pair": "заикнуться",
       "meanings": [
         {
           "en": "to stutter, to stammer",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'икаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to stutter, to stammer', paired with 'заикнуться'."
+          "note": "Related to заика (stutterer); not formed from икать."
+        },
+        {
+          "en": "(colloquial) to mention, to bring up",
+          "note": "и не заикайся об этом = don't even mention it"
         }
       ],
       "forms": {
@@ -4377,10 +4337,15 @@
       ],
       "related": [
         {
+          "word": "заика",
+          "gloss": "stutterer"
+        },
+        {
           "word": "заикнуться",
-          "gloss": "to stutter"
+          "gloss": "to mention, to hint at"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "защита": {
       "lemma": "защита",
@@ -4391,11 +4356,11 @@
       "meanings": [
         {
           "en": "defence",
-          "note": "In court or sport. Common feminine noun meaning 'defence, protection' in everyday Russian."
+          "note": "In court or sport."
         },
         {
           "en": "protection",
-          "note": "Common feminine noun meaning 'defence, protection' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4551,7 +4516,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+          "note": "In questions."
         },
         {
           "en": "what a, how",
@@ -4740,7 +4705,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -4762,7 +4727,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -4774,7 +4743,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -4808,15 +4777,15 @@
       "meanings": [
         {
           "en": "little, not much",
-          "note": "Это мало = That's not enough. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Это мало = That's not enough."
         },
         {
           "en": "not enough, too little",
-          "note": "Это мало = That's not enough. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         },
         {
           "en": "few, not many",
-          "note": "+ genitive: мало людей. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive: мало людей."
         }
       ],
       "forms": null,
@@ -4955,7 +4924,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -5007,6 +4976,23 @@
                 "могла",
                 "могло",
                 "могли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
               ]
             }
           ]
@@ -5075,49 +5061,6 @@
         }
       ]
     },
-    "над": {
-      "lemma": "над",
-      "stress": "над",
-      "pos": "prep",
-      "gloss": "over, above; at",
-      "governs": "+ instrumental",
-      "meanings": [
-        {
-          "en": "over, above",
-          "note": "+ instrumental. Core Russian prep meaning 'over, above; at' in everyday speech."
-        },
-        {
-          "en": "at (laugh at)",
-          "note": "смеяться над = to laugh at; form надо before мной"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Лампа над столом.",
-          "trans": "The lamp is above the table."
-        },
-        {
-          "text": "Не смейся надо мной.",
-          "trans": "Don't laugh at me."
-        },
-        {
-          "text": "За поведение? Вы смеётесь надо мной?",
-          "trans": "For my conduct? Are you laughing at me?"
-        }
-      ],
-      "related": [
-        {
-          "word": "под",
-          "gloss": "under"
-        },
-        {
-          "word": "на",
-          "gloss": "on"
-        }
-      ]
-    },
     "надо": {
       "lemma": "надо",
       "stress": "на́до",
@@ -5126,7 +5069,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -5160,7 +5103,7 @@
       "meanings": [
         {
           "en": "reliable, dependable",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('reliable')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5229,29 +5172,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "надёжен",
-                "надёжна",
-                "надёжно",
-                "надёжны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Она не очень надёжная.",
@@ -5283,7 +5204,7 @@
       "meanings": [
         {
           "en": "to find",
-          "note": "Used as a perfective (single completed action) verb meaning 'to find', paired with 'находить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5387,7 +5308,7 @@
       "meanings": [
         {
           "en": "violation, breach, error",
-          "note": "Of rules or procedure. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'violation, error' in everyday Russian."
+          "note": "Of rules or procedure."
         }
       ],
       "forms": {
@@ -5454,7 +5375,7 @@
         },
         {
           "text": "Свидетель обвинения надёжный. Нарушений я не нашёл.",
-          "trans": "The prosecution witness is reliable. I found no errors."
+          "trans": "The prosecution witness is reliable. I found no violations."
         }
       ],
       "related": []
@@ -5770,11 +5691,11 @@
       "meanings": [
         {
           "en": "accusation, charge",
-          "note": "In court. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'prosecution, accusation' in everyday Russian."
+          "note": "In court."
         },
         {
           "en": "the prosecution",
-          "note": "As a side in a trial. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'prosecution, accusation' in everyday Russian."
+          "note": "As a side in a trial."
         }
       ],
       "forms": {
@@ -5967,7 +5888,7 @@
       "meanings": [
         {
           "en": "bad",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('bad')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6043,8 +5964,8 @@
           "trans": "Bad weather."
         },
         {
-          "text": "Это не плохая работа.",
-          "trans": "It's not a bad job."
+          "text": "Тебе же предложили работу. Что, плохая работа?",
+          "trans": "You were offered a job. What, is it a bad job?"
         },
         {
           "text": "Я вчера ел маринованные грибы. Может, один гриб был плохой.",
@@ -6076,7 +5997,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -6184,7 +6105,7 @@
         },
         {
           "en": "subscription",
-          "note": "To a newspaper or channel. Common feminine noun meaning 'written undertaking; subscription' in everyday Russian."
+          "note": "To a newspaper or channel."
         }
       ],
       "forms": {
@@ -6264,7 +6185,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": "Handing something over."
+          "note": "Making a request."
         },
         {
           "en": "you're welcome",
@@ -6340,12 +6261,12 @@
       "pair": "слушать",
       "meanings": [
         {
-          "en": "to listen (a little, once)",
-          "note": "'Послушай!' / 'Послушайте!' = Listen! (to get attention)"
+          "en": "to listen (for a while), to listen to",
+          "note": "Perfective of слушать."
         },
         {
-          "en": "послушай",
-          "note": "Listen, look (to get attention). Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'слушать'). Used as a perfective (single completed action) verb meaning 'to listen (for a while)', paired with 'слушать'."
+          "en": "listen!, look! (послушай / послушайте)",
+          "note": "Used to get attention."
         }
       ],
       "forms": {
@@ -6458,11 +6379,11 @@
       "meanings": [
         {
           "en": "to suggest",
-          "note": "+ accusative + dative. Used as an imperfective (ongoing/repeated action) verb meaning 'to suggest, to offer', paired with 'предложить'."
+          "note": "+ accusative + dative."
         },
         {
           "en": "to offer",
-          "note": "+ accusative + dative. Used as an imperfective (ongoing/repeated action) verb meaning 'to suggest, to offer', paired with 'предложить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -6566,7 +6487,7 @@
       "meanings": [
         {
           "en": "chairman, presiding officer",
-          "note": "Of a court, committee, or board. Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common masculine noun meaning 'chairman, president' in everyday Russian."
+          "note": "Of a court, committee, or board."
         }
       ],
       "forms": {
@@ -6652,11 +6573,11 @@
       "meanings": [
         {
           "en": "confession, admission",
-          "note": "Of guilt or feelings. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'confession, admission' in everyday Russian."
+          "note": "Of guilt or feelings."
         },
         {
           "en": "recognition",
-          "note": "Of merit. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'confession, admission' in everyday Russian."
+          "note": "Of merit."
         }
       ],
       "forms": {
@@ -6852,7 +6773,7 @@
       "meanings": [
         {
           "en": "to talk, to speak, to have a conversation",
-          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'говаривать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to talk, to speak'."
+          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'говаривать')."
         }
       ],
       "forms": {
@@ -6904,6 +6825,23 @@
                 "разговаривала",
                 "разговаривало",
                 "разговаривали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "разговаривай",
+                "разговаривайте"
               ]
             }
           ]
@@ -6979,10 +6917,15 @@
       "pos": "noun",
       "gloss": "witness",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "witness",
-          "note": "Someone who saw what happened. Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common masculine noun meaning 'witness' in everyday Russian."
+          "note": "свидетель обвинения = prosecution witness"
+        },
+        {
+          "en": "witness at a wedding (best man)",
+          "note": "свидетель на свадьбе"
         }
       ],
       "forms": {
@@ -7077,7 +7020,7 @@
       "meanings": [
         {
           "en": "to sit down, to take a seat",
-          "note": "Used as a perfective (single completed action) verb meaning 'to sit down', paired with 'садиться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -7186,7 +7129,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -7277,15 +7220,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -7303,7 +7246,7 @@
         },
         {
           "en": "to laugh at (над + instrumental)",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to laugh', paired with 'засмеяться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -7408,7 +7351,7 @@
       "meanings": [
         {
           "en": "to agree, to consent",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to agree', paired with 'соглашаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -7520,7 +7463,7 @@
       "meanings": [
         {
           "en": "neighbour",
-          "note": "Next door, or in the same flat. Common masculine noun meaning 'neighbour' in everyday Russian."
+          "note": "Next door, or in the same flat."
         }
       ],
       "forms": {
@@ -7607,7 +7550,7 @@
       "meanings": [
         {
           "en": "to build",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to build', paired with 'построить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -7719,11 +7662,11 @@
       "meanings": [
         {
           "en": "court (of law)",
-          "note": "Common masculine noun meaning 'court' in everyday Russian."
+          "note": ""
         },
         {
           "en": "trial",
-          "note": "Common masculine noun meaning 'court' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -8061,7 +8004,7 @@
       "meanings": [
         {
           "en": "to leave on foot, go away",
-          "note": "Used as a perfective (single completed action) verb meaning 'to leave, go away', paired with 'уходить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -8165,7 +8108,7 @@
       "meanings": [
         {
           "en": "skill, ability, know-how",
-          "note": "Typically + infinitive. Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'skill, ability' in everyday Russian."
+          "note": "Typically + infinitive."
         }
       ],
       "forms": {
@@ -8237,12 +8180,12 @@
       ],
       "related": [
         {
-          "word": "отменить",
-          "gloss": "to cancel"
+          "word": "уметь",
+          "gloss": "to know how"
         },
         {
-          "word": "заменить",
-          "gloss": "to replace"
+          "word": "умелый",
+          "gloss": "skilful"
         }
       ]
     },
@@ -8331,10 +8274,10 @@
           {
             "cells": [
               "accusative",
-              "чистосердечный",
+              "чистосердечный / чистосердечного",
               "чистосердечную",
               "чистосердечное",
-              "чистосердечные"
+              "чистосердечные / чистосердечных"
             ]
           },
           {
@@ -8483,10 +8426,11 @@
       "pos": "noun",
       "gloss": "chance",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "chance",
-          "note": "У меня есть шанс = I have a chance. From French 'chance' (favorable turn of the dice, from Late Latin 'cadentia')."
+          "note": "У меня есть шанс = I have a chance."
         }
       ],
       "forms": {

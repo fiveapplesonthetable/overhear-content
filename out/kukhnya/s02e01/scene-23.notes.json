@@ -146,17 +146,17 @@
           "t": "Чайком",
           "lemma": "чаёк",
           "pos": "noun",
-          "stress": "ча́йком",
+          "stress": "чайко́м",
           "gloss": "tea (diminutive)",
-          "gram": "UNKNOWN"
+          "gram": "instrumental singular"
         },
         {
           "t": "балуемся,",
           "lemma": "баловаться",
           "pos": "verb",
-          "stress": "балуе́мся",
-          "gloss": "indulge, mess around",
-          "gram": "UNKNOWN"
+          "stress": "балу́емся",
+          "gloss": "are treating ourselves (to)",
+          "gram": "1st person plural present, imperfective"
         },
         {
           "t": "Виктор",
@@ -312,9 +312,9 @@
           "t": "повара",
           "lemma": "повар",
           "pos": "noun",
-          "stress": "по́вара",
-          "gloss": "cook",
-          "gram": "masculine singular, accusative"
+          "stress": "повара́",
+          "gloss": "cooks",
+          "gram": "nominative plural"
         },
         {
           "t": "всё",
@@ -398,7 +398,7 @@
           "pos": "adv",
           "stress": "возмути́тельно",
           "gloss": "outrageous",
-          "gram": "nominative / accusative"
+          "gram": "predicative adverb"
         }
       ]
     },
@@ -448,17 +448,17 @@
           "t": "Чайком",
           "lemma": "чаёк",
           "pos": "noun",
-          "stress": "ча́йком",
+          "stress": "чайко́м",
           "gloss": "tea (diminutive)",
-          "gram": "UNKNOWN"
+          "gram": "instrumental singular"
         },
         {
           "t": "балуемся,",
           "lemma": "баловаться",
           "pos": "verb",
-          "stress": "балуе́мся",
-          "gloss": "indulge, mess around",
-          "gram": "UNKNOWN"
+          "stress": "балу́емся",
+          "gloss": "are treating ourselves (to)",
+          "gram": "1st person plural present, imperfective"
         },
         {
           "t": "Виктор",
@@ -556,7 +556,7 @@
           "pos": "adv",
           "stress": "возмути́тельно",
           "gloss": "outrageous",
-          "gram": "nominative / accusative"
+          "gram": "predicative adverb"
         }
       ]
     },
@@ -704,17 +704,17 @@
           "t": "Чайком",
           "lemma": "чаёк",
           "pos": "noun",
-          "stress": "ча́йком",
+          "stress": "чайко́м",
           "gloss": "tea (diminutive)",
-          "gram": "UNKNOWN"
+          "gram": "instrumental singular"
         },
         {
           "t": "балуемся,",
           "lemma": "баловаться",
           "pos": "verb",
-          "stress": "балуе́мся",
-          "gloss": "indulge, mess around",
-          "gram": "UNKNOWN"
+          "stress": "балу́емся",
+          "gloss": "are treating ourselves (to)",
+          "gram": "1st person plural present, imperfective"
         },
         {
           "t": "Виктор",
@@ -870,9 +870,9 @@
           "t": "повара",
           "lemma": "повар",
           "pos": "noun",
-          "stress": "по́вара",
-          "gloss": "cook",
-          "gram": "masculine singular, accusative"
+          "stress": "повара́",
+          "gloss": "cooks",
+          "gram": "nominative plural"
         },
         {
           "t": "всё",
@@ -956,7 +956,7 @@
           "pos": "adv",
           "stress": "возмути́тельно",
           "gloss": "outrageous",
-          "gram": "nominative / accusative"
+          "gram": "predicative adverb"
         }
       ]
     },
@@ -1060,13 +1060,17 @@
       "lemma": "баловаться",
       "stress": "балова́ться",
       "pos": "verb",
-      "gloss": "indulge, mess around",
+      "gloss": "to play about, mess around; to treat oneself (to)",
       "aspect": "impf",
       "pair": null,
       "meanings": [
         {
-          "en": "indulge, mess around",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'indulge, mess around'."
+          "en": "to play about, mess around",
+          "note": ""
+        },
+        {
+          "en": "to treat oneself to, indulge in",
+          "note": "Чем: чайком балуемся = having a spot of tea."
         }
       ],
       "forms": {
@@ -1118,6 +1122,23 @@
                 "баловалась",
                 "баловалось",
                 "баловались"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "балуйся",
+                "балуйтесь"
               ]
             }
           ]
@@ -1362,11 +1383,15 @@
       "lemma": "возмутительно",
       "stress": "возмути́тельно",
       "pos": "adv",
-      "gloss": "outrageous",
+      "gloss": "outrageous; outrageously",
       "meanings": [
         {
-          "en": "outrageous",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "en": "it's outrageous",
+          "note": "predicative: Это возмутительно!"
+        },
+        {
+          "en": "outrageously",
+          "note": ""
         }
       ],
       "forms": null,
@@ -1387,16 +1412,16 @@
       ],
       "related": [
         {
-          "word": "невозможно",
-          "gloss": "impossible"
+          "word": "возмутительный",
+          "gloss": "outrageous"
         },
         {
-          "word": "возможность",
-          "gloss": "possibility"
+          "word": "возмущение",
+          "gloss": "outrage"
         },
         {
-          "word": "возможный",
-          "gloss": "possible"
+          "word": "безобразие",
+          "gloss": "disgrace"
         }
       ]
     },
@@ -1494,7 +1519,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -1532,7 +1557,7 @@
         },
         {
           "en": "owe",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('must, should; owe')."
+          "note": ""
         }
       ],
       "forms": {
@@ -1581,11 +1606,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "Спасибо за + accusative."
         },
         {
           "en": "behind",
-          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+          "note": "+ instrumental."
         }
       ],
       "forms": null,
@@ -1654,12 +1679,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -1714,6 +1737,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -1733,17 +1773,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "кричать": {
       "lemma": "кричать",
@@ -1755,7 +1796,7 @@
       "meanings": [
         {
           "en": "to shout, to yell",
-          "note": "Кричать на + accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to shout', paired with 'крикнуть'."
+          "note": "Кричать на + accusative."
         }
       ],
       "forms": {
@@ -1839,8 +1880,8 @@
           "trans": "Why are you shouting?"
         },
         {
-          "text": "Не надо кричать. Хорошо, я буду сегодня.",
-          "trans": "There's no need to shout. All right, I'll be there tonight."
+          "text": "Что вы кричите на меня?",
+          "trans": "Why are you shouting at me?"
         }
       ],
       "related": [
@@ -1953,11 +1994,11 @@
       "meanings": [
         {
           "en": "to love",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         },
         {
           "en": "to like",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2041,8 +2082,8 @@
           "trans": "Do you like gum?"
         },
         {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
+          "text": "Ты любишь чужую жену!",
+          "trans": "You're in love with another man's wife!"
         }
       ],
       "related": [
@@ -2421,7 +2462,7 @@
       "meanings": [
         {
           "en": "to rest, relax, be on holiday",
-          "note": "Intransitive. Used as an imperfective (ongoing/repeated action) verb meaning 'to rest, relax', paired with 'отдохнуть'."
+          "note": "Intransitive."
         }
       ],
       "forms": {
@@ -2563,7 +2604,7 @@
       "meanings": [
         {
           "en": "cook, chef",
-          "note": "Irregular plural повара. Common masculine noun meaning 'cook, chef' in everyday Russian."
+          "note": "Irregular plural повара."
         }
       ],
       "forms": {
@@ -2878,6 +2919,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "происходи",
+                "происходите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2897,11 +2955,11 @@
       "related": [
         {
           "word": "произойти",
-          "gloss": "to happen"
+          "gloss": "to happen (pf)"
         },
         {
-          "word": "исходный",
-          "gloss": "initial"
+          "word": "происшествие",
+          "gloss": "incident"
         }
       ]
     },
@@ -3342,7 +3400,7 @@
       "meanings": [
         {
           "en": "some tea",
-          "note": "Formed with a diminutive/expressive Slavic suffix adding warmth or small scale. Common masculine noun meaning 'some tea' in everyday Russian."
+          "note": "Formed with a diminutive/expressive Slavic suffix adding warmth or small scale."
         }
       ],
       "forms": {
@@ -3414,12 +3472,8 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
-        },
-        {
-          "word": "место",
-          "gloss": "place"
+          "word": "чай",
+          "gloss": "tea"
         }
       ]
     },

@@ -552,7 +552,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "нужны",
@@ -1246,7 +1246,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "нужны",
@@ -1940,7 +1940,7 @@
           "pos": "adv",
           "stress": "когда́",
           "gloss": "when",
-          "gram": "question word"
+          "gram": "question word / conjunction"
         },
         {
           "t": "нужны",
@@ -2090,27 +2090,27 @@
       "words": [
         {
           "t": "До",
-          "gloss": "until",
-          "gram": "preposition + genitive",
           "lemma": "до",
           "pos": "prep",
-          "stress": null
+          "stress": null,
+          "gloss": "until",
+          "gram": "preposition + genitive"
         },
         {
           "t": "завтра,",
-          "gloss": "tomorrow",
-          "gram": "adverb of time",
           "lemma": "завтра",
           "pos": "adv",
-          "stress": "за́втра"
+          "stress": "за́втра",
+          "gloss": "tomorrow",
+          "gram": "adverb of time"
         },
         {
           "t": "Виктор!",
-          "gloss": "Viktor",
-          "gram": "first name, used as address",
           "lemma": "виктор",
           "pos": "name",
-          "stress": null
+          "stress": null,
+          "gloss": "Viktor",
+          "gram": "first name, used as address"
         }
       ]
     }
@@ -2125,11 +2125,11 @@
       "meanings": [
         {
           "en": "appetite",
-          "note": "= Enjoy your meal!. Common masculine noun meaning 'appetite' in everyday Russian."
+          "note": ""
         },
         {
-          "en": "Приятного аппетита!",
-          "note": "= Enjoy your meal!. Common masculine noun meaning 'appetite' in everyday Russian."
+          "en": "Enjoy your meal!",
+          "note": "Приятного аппетита!"
         }
       ],
       "forms": {
@@ -2219,7 +2219,7 @@
       "meanings": [
         {
           "en": "dish",
-          "note": "Declinable neuter noun meaning 'dish', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         },
         {
           "en": "platter",
@@ -2305,11 +2305,11 @@
       "meanings": [
         {
           "en": "to give back, to return",
-          "note": "+ accusative. Used as a perfective (single completed action) verb meaning 'to give back, to get back', paired with 'возвращать'."
+          "note": "+ accusative."
         },
         {
           "en": "to get back",
-          "note": "Money you spent. Used as a perfective (single completed action) verb meaning 'to give back, to get back', paired with 'возвращать'."
+          "note": "Money you spent."
         }
       ],
       "forms": {
@@ -2456,10 +2456,11 @@
       "pos": "noun",
       "gloss": "goal",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "goal (in football/sports)",
-          "note": "Common masculine noun meaning 'goal' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2531,12 +2532,12 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "забить гол",
+          "gloss": "to score a goal"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "футбол",
+          "gloss": "football"
         }
       ]
     },
@@ -2639,7 +2640,6 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
-      "gender": "f",
       "number": "pl",
       "meanings": [
         {
@@ -2729,7 +2729,7 @@
         },
         {
           "en": "duty",
-          "note": "Common masculine noun meaning 'debt; duty' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2778,7 +2778,7 @@
           {
             "cells": [
               "prepositional",
-              "долге (в долгу)",
+              "долге",
               "долгах"
             ]
           }
@@ -2809,7 +2809,7 @@
       "meanings": [
         {
           "en": "expensive",
-          "note": "to a loved one, and at the start of letters"
+          "note": ""
         },
         {
           "en": "dear",
@@ -2856,10 +2856,10 @@
           {
             "cells": [
               "accusative",
-              "дорогой/дорогого",
+              "дорогой / дорогого",
               "дорогую",
               "дорогое",
-              "дорогие/дорогих"
+              "дорогие / дорогих"
             ]
           },
           {
@@ -2882,29 +2882,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "дорог",
-                "дорога",
-                "дорого",
-                "дороги"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Это дорогая одежда.",
@@ -2936,11 +2914,11 @@
       "meanings": [
         {
           "en": "to wait (for)",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": "+ accusative."
         },
         {
           "en": "to expect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3049,7 +3027,7 @@
       "meanings": [
         {
           "en": "to score (a goal), to strike, drive in",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'бить'). Used as a perfective (single completed action) verb meaning 'to score, hammer in', paired with 'забивать'."
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'бить')."
         }
       ],
       "forms": {
@@ -3104,6 +3082,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "забей",
+                "забейте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3117,7 +3112,7 @@
         },
         {
           "text": "Он не забил гол, при чём тут он?",
-          "trans": "He missed the goal, what has he to do with it?"
+          "trans": "He didn't score the goal, so what does it have to do with him?"
         }
       ],
       "related": [
@@ -3219,7 +3214,7 @@
       "meanings": [
         {
           "en": "or",
-          "note": "Core Russian conj meaning 'or' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3257,7 +3252,7 @@
       "meanings": [
         {
           "en": "when",
-          "note": "Question word and conjunction. Core Russian adv meaning 'when' in everyday speech."
+          "note": "Question word and conjunction."
         }
       ],
       "forms": null,
@@ -3412,7 +3407,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "Comparative of хорошо. Core Russian adv meaning 'better' in everyday speech."
+          "note": "Comparative of хорошо."
         }
       ],
       "forms": null,
@@ -3446,11 +3441,11 @@
       "meanings": [
         {
           "en": "a lot, much, many",
-          "note": "+ genitive plural: много дел. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "+ genitive plural: много дел."
         },
         {
           "en": "больше = more",
-          "note": "Comparative. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Comparative."
         }
       ],
       "forms": null,
@@ -3592,8 +3587,6 @@
       "stress": "молча́ть",
       "pos": "verb",
       "gloss": "to be silent, to say nothing",
-      "aspect": "impf",
-      "pair": "замолчать",
       "meanings": [
         {
           "en": "to be silent, to keep quiet",
@@ -3698,7 +3691,8 @@
           "word": "молча",
           "gloss": "silently"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "наш": {
       "lemma": "наш",
@@ -3920,7 +3914,20 @@
           "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "день",
+          "gloss": "day"
+        },
+        {
+          "word": "месяц",
+          "gloss": "month"
+        },
+        {
+          "word": "выходные",
+          "gloss": "weekend"
+        }
+      ]
     },
     "новый": {
       "lemma": "новый",
@@ -4098,29 +4105,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "нужен",
-                "нужна",
-                "нужно",
-                "нужны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Мне ещё работа нужна.",
@@ -4160,7 +4145,7 @@
         }
       ],
       "forms": {
-        "title": "Present",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -4208,6 +4193,23 @@
                 "обещала",
                 "обещало",
                 "обещали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "обещай",
+                "обещайте"
               ]
             }
           ]
@@ -4416,7 +4418,7 @@
       "meanings": [
         {
           "en": "first",
-          "note": "С первого раза = the first time. Agrees in gender, number, and case with the noun it modifies ('first')."
+          "note": "С первого раза = the first time."
         }
       ],
       "forms": {
@@ -4512,7 +4514,7 @@
       "meanings": [
         {
           "en": "to remember",
-          "note": "To keep in memory. Used as an imperfective (ongoing/repeated action) verb meaning 'to remember'."
+          "note": "To keep in memory."
         }
       ],
       "forms": {
@@ -4655,7 +4657,7 @@
       "meanings": [
         {
           "en": "to think up, to invent, to come up with",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'думать'). Used as a perfective (single completed action) verb meaning 'to think up, to come up with', paired with 'придумывать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'думать')."
         }
       ],
       "forms": {
@@ -4766,11 +4768,11 @@
       "meanings": [
         {
           "en": "pleasant, nice",
-          "note": "= Enjoy your meal!. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
+          "note": "Приятного аппетита! = Enjoy your meal!"
         },
         {
-          "en": "Приятного аппетита!",
-          "note": "= Enjoy your meal!. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
+          "en": "сделать приятное",
+          "note": "to do something nice (for someone)"
         }
       ],
       "forms": {
@@ -4839,29 +4841,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "приятен",
-                "приятна",
-                "приятно",
-                "приятны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Приятного аппетита!",
@@ -4895,11 +4875,11 @@
       "meanings": [
         {
           "en": "right, just, directly",
-          "note": "Прямо так = just like that. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Прямо так = just like that."
         },
         {
           "en": "straight ahead",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4934,7 +4914,7 @@
       "meanings": [
         {
           "en": "fish",
-          "note": "Animal or food. Common feminine noun meaning 'fish' in everyday Russian."
+          "note": "Animal or food."
         }
       ],
       "forms": {
@@ -5199,7 +5179,7 @@
       "meanings": [
         {
           "en": "seasonal (e.g. food, work)",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('seasonal')."
+          "note": ""
         }
       ],
       "forms": {
@@ -5242,10 +5222,10 @@
           {
             "cells": [
               "accusative",
-              "сезонный",
+              "сезонный / сезонного",
               "сезонную",
               "сезонное",
-              "сезонные"
+              "сезонные / сезонных"
             ]
           },
           {
@@ -5338,7 +5318,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -5346,7 +5326,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -5459,7 +5439,7 @@
       "meanings": [
         {
           "en": "to ask (a question, or someone: спросить у кого-то)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'просить'). Used as a perfective (single completed action) verb meaning 'to ask', paired with 'спрашивать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5669,7 +5649,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -5837,7 +5817,7 @@
       "meanings": [
         {
           "en": "footballer, soccer player",
-          "note": "Agent noun formed with the international suffix '-ист' denoting a specialist or adherent. Common masculine noun meaning 'footballer, soccer player' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5872,8 +5852,8 @@
           {
             "cells": [
               "accusative",
-              "футболист",
-              "футболисты"
+              "футболиста",
+              "футболистов"
             ]
           },
           {
@@ -5969,7 +5949,7 @@
         },
         {
           "en": "through, across",
-          "note": "Core Russian prep meaning 'in (time); through' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -6000,7 +5980,7 @@
       "meanings": [
         {
           "en": "number, date of the month",
-          "note": "Common neuter noun meaning 'number, date' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -6072,12 +6052,16 @@
       ],
       "related": [
         {
-          "word": "дело",
-          "gloss": "matter, business"
+          "word": "дата",
+          "gloss": "date"
         },
         {
-          "word": "место",
-          "gloss": "place"
+          "word": "номер",
+          "gloss": "number"
+        },
+        {
+          "word": "количество",
+          "gloss": "quantity"
         }
       ]
     },
@@ -6183,7 +6167,7 @@
       "meanings": [
         {
           "en": "something, anything",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'anything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
       "forms": {
@@ -6347,11 +6331,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,

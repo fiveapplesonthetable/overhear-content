@@ -133,8 +133,8 @@
           "lemma": "сердиться",
           "pos": "verb",
           "stress": "се́рдишься",
-          "gloss": "to be angry / mad",
-          "gram": "2sg present of сердиться (to be angry / mad)"
+          "gloss": "you are angry",
+          "gram": "2nd person singular, present"
         }
       ]
     },
@@ -163,8 +163,8 @@
           "lemma": "сердиться",
           "pos": "verb",
           "stress": "сержу́сь",
-          "gloss": "to be angry",
-          "gram": "1sg present of сердиться (note the д -> ж consonant mutation in 1sg)"
+          "gloss": "I am angry",
+          "gram": "1st person singular, present"
         },
         {
           "t": "Я",
@@ -445,8 +445,8 @@
           "lemma": "сердиться",
           "pos": "verb",
           "stress": "се́рдишься",
-          "gloss": "to be angry / mad",
-          "gram": "2sg present of сердиться (to be angry / mad)"
+          "gloss": "you are angry",
+          "gram": "2nd person singular, present"
         }
       ]
     },
@@ -475,8 +475,8 @@
           "lemma": "сердиться",
           "pos": "verb",
           "stress": "сержу́сь",
-          "gloss": "to be angry",
-          "gram": "1sg present of сердиться (note the д -> ж consonant mutation in 1sg)"
+          "gloss": "I am angry",
+          "gram": "1st person singular, present"
         },
         {
           "t": "Я",
@@ -757,8 +757,8 @@
           "lemma": "сердиться",
           "pos": "verb",
           "stress": "се́рдишься",
-          "gloss": "to be angry / mad",
-          "gram": "2sg present of сердиться (to be angry / mad)"
+          "gloss": "you are angry",
+          "gram": "2nd person singular, present"
         }
       ]
     },
@@ -787,8 +787,8 @@
           "lemma": "сердиться",
           "pos": "verb",
           "stress": "сержу́сь",
-          "gloss": "to be angry",
-          "gram": "1sg present of сердиться (note the д -> ж consonant mutation in 1sg)"
+          "gloss": "I am angry",
+          "gram": "1st person singular, present"
         },
         {
           "t": "Я",
@@ -964,7 +964,7 @@
       "meanings": [
         {
           "en": "to see each other, meet",
-          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться')."
         }
       ],
       "forms": {
@@ -1019,6 +1019,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "увидься",
+                "увидьтесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -1060,11 +1077,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -1155,15 +1176,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -1178,7 +1199,7 @@
       "meanings": [
         {
           "en": "to have a talk, to speak (with someone)",
-          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить'). Used as a perfective (single completed action) verb meaning 'to have a talk', paired with 'говорить'."
+          "note": "Поговорить с + instrumental. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'говорить')."
         }
       ],
       "forms": {
@@ -1451,7 +1472,7 @@
       "meanings": [
         {
           "en": "busy",
-          "note": "Of a person: я занят = I'm busy. Agrees in gender, number, and case with the noun it modifies ('busy; occupied, taken')."
+          "note": "Of a person: я занят = I'm busy."
         },
         {
           "en": "occupied, taken",
@@ -1498,10 +1519,10 @@
           {
             "cells": [
               "accusative",
-              "занятый/занятого",
+              "занятый / занятого",
               "занятую",
               "занятое",
-              "занятые/занятых"
+              "занятые / занятых"
             ]
           },
           {
@@ -1678,11 +1699,11 @@
       "meanings": [
         {
           "en": "more",
-          "note": "Comparative of много. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of много."
         },
         {
           "en": "bigger",
-          "note": "Comparative of большой. Core Russian adv meaning 'more' in everyday speech."
+          "note": "Comparative of большой."
         }
       ],
       "forms": null,
@@ -1756,7 +1777,7 @@
       "meanings": [
         {
           "en": "to be angry, to be cross",
-          "note": "На + accusative = at someone. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to be angry', paired with 'рассердиться'."
+          "note": "На + accusative = at someone."
         }
       ],
       "forms": {
@@ -1847,7 +1868,7 @@
       "related": [
         {
           "word": "рассердиться",
-          "gloss": "to be angry"
+          "gloss": "to get angry"
         },
         {
           "word": "сердито",
@@ -1902,7 +1923,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -1954,6 +1975,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -2114,7 +2152,7 @@
       "meanings": [
         {
           "en": "must, need to, it is necessary",
-          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Надо + infinitive."
         }
       ],
       "forms": null,
@@ -2148,7 +2186,7 @@
       "meanings": [
         {
           "en": "oh",
-          "note": "Surprise, fright or pain. Core Russian interj meaning 'oh' in everyday speech."
+          "note": "Surprise, fright or pain."
         }
       ],
       "forms": null,

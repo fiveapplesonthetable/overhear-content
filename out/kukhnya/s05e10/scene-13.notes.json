@@ -135,7 +135,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -212,7 +212,7 @@
           "pos": "adj",
           "stress": "необходи́ма",
           "gloss": "necessary, essential",
-          "gram": "nominative masculine singular"
+          "gram": "short feminine singular"
         },
         {
           "t": "госпитализация?",
@@ -264,7 +264,7 @@
           "pos": "adj",
           "stress": "о́бщем",
           "gloss": "(in) short, so",
-          "gram": "prepositional singular, neuter; в общем = basically, so"
+          "gram": "prepositional singular (в общем = basically, in short)"
         },
         {
           "t": "если",
@@ -334,7 +334,7 @@
           "pos": "noun",
           "stress": "тра́вмы",
           "gloss": "injury, trauma",
-          "gram": "UNKNOWN"
+          "gram": "genitive singular / nominative plural, feminine"
         },
         {
           "t": "не",
@@ -419,8 +419,8 @@
           "lemma": "серьёзный",
           "pos": "adj",
           "stress": null,
-          "gloss": "serious; important, influential",
-          "gram": "nominative masculine singular"
+          "gloss": "serious, high",
+          "gram": "prepositional singular, masculine"
         },
         {
           "t": "уровне.",
@@ -703,7 +703,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -780,7 +780,7 @@
           "pos": "adj",
           "stress": "необходи́ма",
           "gloss": "necessary, essential",
-          "gram": "nominative masculine singular"
+          "gram": "short feminine singular"
         },
         {
           "t": "госпитализация?",
@@ -832,7 +832,7 @@
           "pos": "adj",
           "stress": "о́бщем",
           "gloss": "(in) short, so",
-          "gram": "prepositional singular, neuter; в общем = basically, so"
+          "gram": "prepositional singular (в общем = basically, in short)"
         },
         {
           "t": "если",
@@ -902,7 +902,7 @@
           "pos": "noun",
           "stress": "тра́вмы",
           "gloss": "injury, trauma",
-          "gram": "UNKNOWN"
+          "gram": "genitive singular / nominative plural, feminine"
         },
         {
           "t": "не",
@@ -987,8 +987,8 @@
           "lemma": "серьёзный",
           "pos": "adj",
           "stress": null,
-          "gloss": "serious; important, influential",
-          "gram": "nominative masculine singular"
+          "gloss": "serious, high",
+          "gram": "prepositional singular, masculine"
         },
         {
           "t": "уровне.",
@@ -1271,7 +1271,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself, yourself, himself (emphatic)",
           "gram": "masculine singular nominative"
         },
         {
@@ -1348,7 +1348,7 @@
           "pos": "adj",
           "stress": "необходи́ма",
           "gloss": "necessary, essential",
-          "gram": "nominative masculine singular"
+          "gram": "short feminine singular"
         },
         {
           "t": "госпитализация?",
@@ -1400,7 +1400,7 @@
           "pos": "adj",
           "stress": "о́бщем",
           "gloss": "(in) short, so",
-          "gram": "prepositional singular, neuter; в общем = basically, so"
+          "gram": "prepositional singular (в общем = basically, in short)"
         },
         {
           "t": "если",
@@ -1470,7 +1470,7 @@
           "pos": "noun",
           "stress": "тра́вмы",
           "gloss": "injury, trauma",
-          "gram": "UNKNOWN"
+          "gram": "genitive singular / nominative plural, feminine"
         },
         {
           "t": "не",
@@ -1555,8 +1555,8 @@
           "lemma": "серьёзный",
           "pos": "adj",
           "stress": null,
-          "gloss": "serious; important, influential",
-          "gram": "nominative masculine singular"
+          "gloss": "serious, high",
+          "gram": "prepositional singular, masculine"
         },
         {
           "t": "уровне.",
@@ -1967,10 +1967,10 @@
           {
             "cells": [
               "accusative",
-              "виноватый",
+              "виноватый / виноватого",
               "виноватую",
               "виноватое",
-              "виноватые"
+              "виноватые / виноватых"
             ]
           },
           {
@@ -1993,29 +1993,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "виноват",
-                "виновата",
-                "виновато",
-                "виноваты"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Я знаю, что я виноват.",
@@ -2118,13 +2096,17 @@
       "lemma": "выжить",
       "stress": "вы́жить",
       "pos": "verb",
-      "gloss": "to attempt",
+      "gloss": "to survive",
       "aspect": "pf",
-      "pair": null,
+      "pair": "выживать",
       "meanings": [
         {
-          "en": "to attempt",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (root 'жить'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to attempt'."
+          "en": "to survive",
+          "note": ""
+        },
+        {
+          "en": "to drive out, to force out (someone)",
+          "note": "Colloquial: выжить кого-то из квартиры."
         }
       ],
       "forms": {
@@ -2138,22 +2120,22 @@
           {
             "cells": [
               "1st",
-              "выжу",
-              "выжим"
+              "выживу",
+              "выживем"
             ]
           },
           {
             "cells": [
               "2nd",
-              "выжишь",
-              "выжите"
+              "выживешь",
+              "выживете"
             ]
           },
           {
             "cells": [
               "3rd",
-              "выжит",
-              "выжат"
+              "выживет",
+              "выживут"
             ]
           }
         ]
@@ -2179,19 +2161,53 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "выживи",
+                "выживите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
           "text": "После покушения выжил.",
-          "trans": "After the assassination attempt, I survived."
+          "trans": "He survived the assassination attempt."
         },
         {
           "text": "В общем, если выживет, то хорошо.",
-          "trans": "In short, if he survives, then good."
+          "trans": "Basically, if he survives, good."
+        },
+        {
+          "text": "Если выживу, воровать продукты перестану!",
+          "trans": "If I survive, I'll stop stealing food!"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "выживать",
+          "gloss": "to survive (impf)"
+        },
+        {
+          "word": "выживание",
+          "gloss": "survival"
+        },
+        {
+          "word": "жить",
+          "gloss": "to live"
+        }
+      ]
     },
     "глаз": {
       "lemma": "глаз",
@@ -2281,14 +2297,14 @@
     },
     "госпитализация": {
       "lemma": "госпитализация",
-      "stress": "госпитализаци́я",
+      "stress": "госпитализа́ция",
       "pos": "noun",
       "gloss": "hospitalization",
       "gender": "f",
       "meanings": [
         {
           "en": "hospitalization",
-          "note": "International noun in '-ция' (from Latin '-tio'), feminine declension. Common feminine noun meaning 'hospitalization' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2347,21 +2363,21 @@
       "examples": [
         {
           "text": "Что, доктор? Необходима госпитализация?",
-          "trans": "What is it, doctor? Is hospitalization necessary?"
+          "trans": "What is it, doctor? Does she need to be hospitalized?"
         },
         {
-          "text": "На кухне отеля всегда есть госпитализация.",
-          "trans": "In the hotel kitchen there is always hospitalization."
+          "text": "После аварии ему потребовалась госпитализация.",
+          "trans": "After the accident he had to be hospitalized."
         }
       ],
       "related": [
         {
-          "word": "без госпитализаци",
-          "gloss": "without hospitalization"
+          "word": "больница",
+          "gloss": "hospital"
         },
         {
-          "word": "наш госпитализация",
-          "gloss": "our hospitalization"
+          "word": "госпитализировать",
+          "gloss": "to hospitalize"
         }
       ]
     },
@@ -2692,7 +2708,7 @@
       "meanings": [
         {
           "en": "of course",
-          "note": "Чн is pronounced шн. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Чн is pronounced шн."
         }
       ],
       "forms": null,
@@ -2735,7 +2751,7 @@
       "meanings": [
         {
           "en": "medicine",
-          "note": "Common feminine noun meaning 'medicine' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -2794,21 +2810,25 @@
       "examples": [
         {
           "text": "К тому же медицина сейчас на серьёзном уровне.",
-          "trans": "Besides, medicine is at a serious level now."
+          "trans": "Besides, medicine is at a serious level these days."
         },
         {
-          "text": "На кухне отеля всегда есть медицина.",
-          "trans": "In the hotel kitchen there is always medicine."
+          "text": "Он всю жизнь работает в медицине.",
+          "trans": "He has worked in medicine all his life."
         }
       ],
       "related": [
         {
-          "word": "без медицин",
-          "gloss": "without medicine"
+          "word": "медицинский",
+          "gloss": "medical"
         },
         {
-          "word": "наш медицина",
-          "gloss": "our medicine"
+          "word": "врач",
+          "gloss": "doctor"
+        },
+        {
+          "word": "лекарство",
+          "gloss": "medicine, drug"
         }
       ]
     },
@@ -3046,10 +3066,10 @@
           {
             "cells": [
               "accusative",
-              "необходимый",
+              "необходимый / необходимого",
               "необходимую",
               "необходимое",
-              "необходимые"
+              "необходимые / необходимых"
             ]
           },
           {
@@ -3072,29 +3092,7 @@
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "необходим",
-                "необходима",
-                "необходимо",
-                "необходимы"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Это вам сейчас необходимо.",
@@ -3120,7 +3118,7 @@
       "meanings": [
         {
           "en": "shared, common",
-          "note": "Общий туалет = a shared toilet. Agrees in gender, number, and case with the noun it modifies ('shared, common')."
+          "note": "Общий туалет = a shared toilet."
         }
       ],
       "forms": {
@@ -3206,8 +3204,16 @@
       ],
       "related": [
         {
-          "word": "приобщить",
-          "gloss": "to add"
+          "word": "в общем",
+          "gloss": "basically, in short"
+        },
+        {
+          "word": "общество",
+          "gloss": "society"
+        },
+        {
+          "word": "вместе",
+          "gloss": "together"
         }
       ]
     },
@@ -3315,7 +3321,7 @@
       "meanings": [
         {
           "en": "to carry, deliver something to a place",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'нести'). Used in Russian as a perfective verb focusing on a single completed action or result meaning 'to carry to', forming an aspectual pair with 'относить'."
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'нести')."
         }
       ],
       "forms": {
@@ -3428,11 +3434,11 @@
       "meanings": [
         {
           "en": "to worry, to be anxious",
-          "note": "Intransitive or за + accusative. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry, to fret; to go through', paired with 'пережить'."
+          "note": "Intransitive or за + accusative. Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать')."
         },
         {
           "en": "to experience, to live through",
-          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to worry, to fret; to go through', paired with 'пережить'."
+          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'живать')."
         }
       ],
       "forms": {
@@ -3535,12 +3541,12 @@
       "lemma": "перелом",
       "stress": "перело́м",
       "pos": "noun",
-      "gloss": "fractures / broken bones",
+      "gloss": "fracture, broken bone",
       "gender": "m",
       "meanings": [
         {
-          "en": "fractures / broken bones",
-          "note": "Common masculine noun meaning 'fractures / broken bones' in everyday Russian."
+          "en": "fracture, broken bone",
+          "note": "перелом ребра = a broken rib"
         }
       ],
       "forms": {
@@ -3602,11 +3608,20 @@
           "trans": "He has no fractures, which is actually amazing!"
         },
         {
-          "text": "На кухне ресторана всегда есть перелом.",
-          "trans": "In the restaurant kitchen there is always fractures."
+          "text": "У вас неполный перелом ребра.",
+          "trans": "You have a partial rib fracture."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "сломать",
+          "gloss": "to break"
+        },
+        {
+          "word": "переломать",
+          "gloss": "to break (many things)"
+        }
+      ]
     },
     "пока": {
       "lemma": "пока",
@@ -3647,11 +3662,11 @@
       "pos": "verb",
       "gloss": "to cover",
       "aspect": "pf",
-      "pair": null,
+      "pair": "прикрывать",
       "meanings": [
         {
           "en": "to cover",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'крыть'). Used as a perfective (single completed action) verb meaning 'to cover'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'крыть')."
         }
       ],
       "forms": {
@@ -3703,6 +3718,23 @@
                 "прикрыла",
                 "прикрыло",
                 "прикрыли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "прикрой",
+                "прикройте"
               ]
             }
           ]
@@ -3784,7 +3816,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
+          "note": "Сам, сама, само, сами."
         }
       ],
       "forms": {
@@ -3885,10 +3917,15 @@
       "pos": "noun",
       "gloss": "witness",
       "gender": "m",
+      "animacy": "anim",
       "meanings": [
         {
           "en": "witness",
-          "note": "Someone who saw what happened. Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common masculine noun meaning 'witness' in everyday Russian."
+          "note": "свидетель обвинения = prosecution witness"
+        },
+        {
+          "en": "witness at a wedding (best man)",
+          "note": "свидетель на свадьбе"
         }
       ],
       "forms": {
@@ -4019,11 +4056,11 @@
       "meanings": [
         {
           "en": "serious, earnest",
-          "note": "Серьёзный человек. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('serious; important, influential')."
+          "note": ""
         },
         {
           "en": "important, weighty, influential",
-          "note": "Серьёзный человек. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('serious; important, influential')."
+          "note": "серьёзный человек = an important man"
         }
       ],
       "forms": {
@@ -4066,10 +4103,10 @@
           {
             "cells": [
               "accusative",
-              "серьёзный",
+              "серьёзный / серьёзного",
               "серьёзную",
               "серьёзное",
-              "серьёзные"
+              "серьёзные / серьёзных"
             ]
           },
           {
@@ -4128,7 +4165,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -4219,15 +4256,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -4243,7 +4280,7 @@
         },
         {
           "en": "by accident, unintentionally",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -4279,7 +4316,7 @@
       "meanings": [
         {
           "en": "to sleep, to be asleep",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to sleep', paired with 'поспать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4378,13 +4415,17 @@
       "lemma": "спускать",
       "stress": "спуска́ть",
       "pos": "verb",
-      "gloss": "to lower, to take off (eyes)",
+      "gloss": "to lower, let down; (глаз не спускать) to keep one's eyes on",
       "aspect": "impf",
       "pair": "спустить",
       "meanings": [
         {
-          "en": "to lower, to take off (eyes)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'пускать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to lower, to take off (eyes)', paired with 'спустить'."
+          "en": "to lower, to let down",
+          "note": ""
+        },
+        {
+          "en": "not take one's eyes off",
+          "note": "глаз не спускать с + gen."
         }
       ],
       "forms": {
@@ -4460,12 +4501,12 @@
       ],
       "examples": [
         {
-          "text": "Глаз с нее не спускай.",
-          "trans": "Do not take your eyes off her."
+          "text": "Глаз с неё не спускай.",
+          "trans": "Don't take your eyes off her."
         },
         {
-          "text": "Да. Спускайтесь вниз, она там стоит.",
-          "trans": "Yes. Go downstairs, it's parked there."
+          "text": "Отлично, теперь спускай его вниз.",
+          "trans": "Great, now lower it down."
         }
       ],
       "related": [
@@ -4495,7 +4536,7 @@
         },
         {
           "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
+          "note": ""
         }
       ],
       "forms": {
@@ -4629,16 +4670,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Тише, дети спят!",
-          "trans": "Quiet, the children are asleep!"
-        },
-        {
           "text": "Здесь тихо.",
           "trans": "It's quiet here."
         },
         {
-          "text": "Тише!",
-          "trans": "Quiet!"
+          "text": "Почему на кухне так тихо?",
+          "trans": "Why is the kitchen so quiet?"
         }
       ],
       "related": [
@@ -4656,67 +4693,23 @@
       "meanings": [
         {
           "en": "that",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'that', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "того"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "то"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "том"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "том"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Здесь находится наш ресторан.",
-          "trans": "Our restaurant is located right here."
+          "text": "Ну, то, что ты говорил.",
+          "trans": "Well, what you were saying."
         },
         {
-          "text": "Мы теперь работаем в этом отеле.",
-          "trans": "We now work in this hotel."
+          "text": "Если проблема только в этом, то да.",
+          "trans": "If that's the only problem, then yes."
         },
         {
-          "text": "Чем отличается ресторан при отеле?",
-          "trans": "How does a hotel restaurant differ?"
+          "text": "А то мы уже начали беспокоиться.",
+          "trans": "Otherwise we were already starting to worry."
         }
       ],
       "related": []
@@ -4729,7 +4722,7 @@
       "meanings": [
         {
           "en": "that",
-          "note": "The one over there. Core Russian det meaning 'that' in everyday speech."
+          "note": "The one over there."
         },
         {
           "en": "that which, the thing",
@@ -4837,7 +4830,7 @@
       "meanings": [
         {
           "en": "injury, trauma",
-          "note": "Common feminine noun meaning 'injury, trauma' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4896,21 +4889,25 @@
       "examples": [
         {
           "text": "Какая причина вашей травмы?",
-          "trans": "What is the cause of your injury?"
+          "trans": "What caused your injury?"
         },
         {
-          "text": "А трава в мешках сгорела. Из-за вас!",
-          "trans": "And the herbs in the sacks burned. Because of you!"
+          "text": "Из-за травмы пришлось оставить профессию.",
+          "trans": "Because of an injury I had to give up the profession."
         }
       ],
       "related": [
         {
-          "word": "трава",
-          "gloss": "grass"
+          "word": "травмпункт",
+          "gloss": "emergency clinic for injuries"
         },
         {
-          "word": "травить",
-          "gloss": "to torment"
+          "word": "рана",
+          "gloss": "wound"
+        },
+        {
+          "word": "перелом",
+          "gloss": "fracture"
         }
       ]
     },
@@ -4926,7 +4923,7 @@
         },
         {
           "en": "hard, difficult, severe",
-          "note": "Тяжёлый день = a hard day. Agrees in gender, number, and case with the noun it modifies ('heavy; hard, difficult')."
+          "note": "Тяжёлый день = a hard day."
         }
       ],
       "forms": {
@@ -4969,10 +4966,10 @@
           {
             "cells": [
               "accusative",
-              "тяжёлый",
+              "тяжёлый / тяжёлого",
               "тяжёлую",
               "тяжёлое",
-              "тяжёлые"
+              "тяжёлые / тяжёлых"
             ]
           },
           {
@@ -5012,8 +5009,16 @@
       ],
       "related": [
         {
-          "word": "тяжёло",
-          "gloss": "in a heavy way (adv.)"
+          "word": "тяжело",
+          "gloss": "heavily; it's hard"
+        },
+        {
+          "word": "тяжесть",
+          "gloss": "weight, heaviness"
+        },
+        {
+          "word": "лёгкий",
+          "gloss": "light, easy"
         }
       ]
     },
@@ -5027,7 +5032,7 @@
       "meanings": [
         {
           "en": "to fall down, to drop",
-          "note": "Perfective of падать. Prefix 'у-' marks departure, removal, or successful completion (stem 'пасть'). Used as a perfective (single completed action) verb meaning 'to fall, to drop', paired with 'падать'."
+          "note": "Perfective of падать. Prefix 'у-' marks departure, removal, or successful completion (stem 'пасть')."
         }
       ],
       "forms": {
@@ -5131,7 +5136,7 @@
       "meanings": [
         {
           "en": "level",
-          "note": "Common masculine noun meaning 'level' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5213,7 +5218,7 @@
       "meanings": [
         {
           "en": "to calm down",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to calm down', paired with 'успокаиваться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5368,7 +5373,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -5420,6 +5425,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]

@@ -35,12 +35,12 @@
           "lemma": "подумать",
           "pos": "verb",
           "stress": "поду́мал",
-          "gloss": "would think",
-          "gram": "past, masculine singular, perfective (with бы = conditional)"
+          "gloss": "thought",
+          "gram": "past masculine singular, perfective"
         },
         {
           "t": "насчет",
-          "lemma": "насчет",
+          "lemma": "насчёт",
           "pos": "prep",
           "stress": "насче́т",
           "gloss": "about",
@@ -256,9 +256,9 @@
           "t": "популярнее",
           "lemma": "популярный",
           "pos": "adj",
-          "stress": "популярне́е",
-          "gloss": "popular",
-          "gram": "nominative / accusative neuter singular"
+          "stress": "популя́рнее",
+          "gloss": "more popular",
+          "gram": "comparative"
         },
         {
           "t": "в",
@@ -561,12 +561,12 @@
           "lemma": "подумать",
           "pos": "verb",
           "stress": "поду́мал",
-          "gloss": "would think",
-          "gram": "past, masculine singular, perfective (with бы = conditional)"
+          "gloss": "thought",
+          "gram": "past masculine singular, perfective"
         },
         {
           "t": "насчет",
-          "lemma": "насчет",
+          "lemma": "насчёт",
           "pos": "prep",
           "stress": "насче́т",
           "gloss": "about",
@@ -782,9 +782,9 @@
           "t": "популярнее",
           "lemma": "популярный",
           "pos": "adj",
-          "stress": "популярне́е",
-          "gloss": "popular",
-          "gram": "nominative / accusative neuter singular"
+          "stress": "популя́рнее",
+          "gloss": "more popular",
+          "gram": "comparative"
         },
         {
           "t": "в",
@@ -1087,12 +1087,12 @@
           "lemma": "подумать",
           "pos": "verb",
           "stress": "поду́мал",
-          "gloss": "would think",
-          "gram": "past, masculine singular, perfective (with бы = conditional)"
+          "gloss": "thought",
+          "gram": "past masculine singular, perfective"
         },
         {
           "t": "насчет",
-          "lemma": "насчет",
+          "lemma": "насчёт",
           "pos": "prep",
           "stress": "насче́т",
           "gloss": "about",
@@ -1308,9 +1308,9 @@
           "t": "популярнее",
           "lemma": "популярный",
           "pos": "adj",
-          "stress": "популярне́е",
-          "gloss": "popular",
-          "gram": "nominative / accusative neuter singular"
+          "stress": "популя́рнее",
+          "gloss": "more popular",
+          "gram": "comparative"
         },
         {
           "t": "в",
@@ -1655,11 +1655,11 @@
       "meanings": [
         {
           "en": "uh-huh, yeah",
-          "note": "Casual yes. Core Russian interj meaning 'uh-huh, yeah' in everyday speech."
+          "note": "Casual yes."
         },
         {
           "en": "yeah, right",
-          "note": "Said ironically. Core Russian interj meaning 'uh-huh, yeah' in everyday speech."
+          "note": "Said ironically."
         }
       ],
       "forms": null,
@@ -1933,7 +1933,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -1967,11 +1967,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": "+ genitive."
         },
         {
           "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2047,7 +2047,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -2069,7 +2069,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -2083,7 +2087,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive. Used as an imperfective (ongoing/repeated action) verb meaning 'can, to be able', paired with 'смочь'."
+          "note": "+ infinitive."
         }
       ],
       "forms": {
@@ -2138,6 +2142,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "моги",
+                "могите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2158,36 +2179,6 @@
         {
           "word": "может",
           "gloss": "maybe"
-        }
-      ]
-    },
-    "насчет": {
-      "lemma": "насчет",
-      "stress": "насче́т",
-      "pos": "prep",
-      "gloss": "about, regarding",
-      "meanings": [
-        {
-          "en": "about, regarding",
-          "note": ""
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Настя, ты передумала насчет вечера?",
-          "trans": "Nastya, did you change your mind about tonight?"
-        },
-        {
-          "text": "Стало быть, насчет вечера всё в силе?",
-          "trans": "So, is everything still on for tonight?"
-        }
-      ],
-      "related": [
-        {
-          "word": "насчёт",
-          "gloss": "about"
         }
       ]
     },
@@ -2221,7 +2212,15 @@
       "related": [
         {
           "word": "счёт",
-          "gloss": "account"
+          "gloss": "account, bill"
+        },
+        {
+          "word": "по поводу",
+          "gloss": "regarding"
+        },
+        {
+          "word": "о",
+          "gloss": "about"
         }
       ]
     },
@@ -2417,10 +2416,10 @@
           {
             "cells": [
               "accusative",
-              "неправый",
+              "неправый / неправого",
               "неправую",
               "неправое",
-              "неправые"
+              "неправые / неправых"
             ]
           },
           {
@@ -2483,7 +2482,7 @@
       "meanings": [
         {
           "en": "to think it over, to give it a thought",
-          "note": "Once, for a while. Used as a perfective (single completed action) verb meaning 'to think (it over)', paired with 'думать'."
+          "note": "Once, for a while."
         }
       ],
       "forms": {
@@ -2586,7 +2585,7 @@
       "meanings": [
         {
           "en": "popular",
-          "note": "Qualitative or relational adjective formed with the productive '-н-' suffix, meaning 'popular' and agreeing in gender, number, and case."
+          "note": ""
         }
       ],
       "forms": {
@@ -2681,11 +2680,11 @@
       "meanings": [
         {
           "en": "right (not left)",
-          "note": "Short form: ты прав = you're right. Agrees in gender, number, and case with the noun it modifies ('right (side)')."
+          "note": "Short form: ты прав = you're right."
         },
         {
           "en": "right, correct",
-          "note": "Short form: ты прав = you're right. Agrees in gender, number, and case with the noun it modifies ('right (side)')."
+          "note": ""
         }
       ],
       "forms": {
@@ -2728,10 +2727,10 @@
           {
             "cells": [
               "accusative",
-              "правый/правого",
+              "правый / правого",
               "правую",
               "правое",
-              "правые/правых"
+              "правые / правых"
             ]
           },
           {
@@ -2794,7 +2793,7 @@
       "meanings": [
         {
           "en": "to check, test, verify",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to check, test, verify', paired with 'проверить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -2902,7 +2901,7 @@
       "meanings": [
         {
           "en": "for the sake of, for",
-          "note": "+ genitive. Core Russian prep meaning 'for the sake of' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -2933,7 +2932,7 @@
       "meanings": [
         {
           "en": "to talk, to speak, to have a conversation",
-          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'говаривать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to talk, to speak'."
+          "note": "Prefix 'раз-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'говаривать')."
         }
       ],
       "forms": {
@@ -2985,6 +2984,23 @@
                 "разговаривала",
                 "разговаривало",
                 "разговаривали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "разговаривай",
+                "разговаривайте"
               ]
             }
           ]
@@ -3064,7 +3080,7 @@
       "meanings": [
         {
           "en": "to surrender, to give up",
-          "note": "Capitulate to an opponent. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'даться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to surrender, to give up', paired with 'сдаваться'."
+          "note": "Capitulate to an opponent. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'даться')."
         }
       ],
       "forms": {
@@ -3155,15 +3171,15 @@
       "related": [
         {
           "word": "сдаваться",
-          "gloss": "to give up"
+          "gloss": "to give up (impf)"
         },
         {
-          "word": "дать",
-          "gloss": "to give"
+          "word": "капитуляция",
+          "gloss": "surrender"
         },
         {
-          "word": "отдать",
-          "gloss": "to give"
+          "word": "зачем он мне сдался",
+          "gloss": "what do I need him for (colloquial)"
         }
       ]
     },
@@ -3177,7 +3193,7 @@
       "meanings": [
         {
           "en": "to listen",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "+ accusative."
         },
         {
           "en": "listen!",
@@ -3185,7 +3201,7 @@
         },
         {
           "en": "hello (on the phone)",
-          "note": "'Слушаю' = I'm listening. Used as an imperfective (ongoing/repeated action) verb meaning 'to listen', paired with 'послушать'."
+          "note": "'Слушаю' = I'm listening."
         }
       ],
       "forms": {
@@ -3298,7 +3314,7 @@
       "meanings": [
         {
           "en": "to agree, to consent",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to agree', paired with 'соглашаться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3501,7 +3517,7 @@
       "meanings": [
         {
           "en": "to argue, to disagree",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to argue, to dispute', paired with 'поспорить'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3646,7 +3662,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -3696,8 +3712,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -3709,7 +3733,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,

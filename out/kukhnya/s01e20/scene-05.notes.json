@@ -50,7 +50,7 @@
           "t": "кое-что",
           "lemma": "кое-что",
           "pos": "pron",
-          "stress": "ко́е-что",
+          "stress": "кое-что́",
           "gloss": "something, one more thing",
           "gram": "indefinite pronoun, accusative"
         },
@@ -204,7 +204,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         }
       ]
     },
@@ -354,7 +354,7 @@
           "t": "кое-что",
           "lemma": "кое-что",
           "pos": "pron",
-          "stress": "ко́е-что",
+          "stress": "кое-что́",
           "gloss": "something, one more thing",
           "gram": "indefinite pronoun, accusative"
         },
@@ -508,7 +508,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         }
       ]
     },
@@ -658,7 +658,7 @@
           "t": "кое-что",
           "lemma": "кое-что",
           "pos": "pron",
-          "stress": "ко́е-что",
+          "stress": "кое-что́",
           "gloss": "something, one more thing",
           "gram": "indefinite pronoun, accusative"
         },
@@ -812,7 +812,7 @@
           "pos": "noun",
           "stress": "туале́т",
           "gloss": "toilet",
-          "gram": "accusative singular, masculine"
+          "gram": "nominative/accusative singular, masculine"
         }
       ]
     },
@@ -1052,7 +1052,7 @@
       "meanings": [
         {
           "en": "urgently, right away; predicative: it is urgent",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -1087,7 +1087,7 @@
       "meanings": [
         {
           "en": "toilet",
-          "note": "The room or the bowl. Common masculine noun meaning 'toilet' in everyday Russian."
+          "note": "The room or the bowl."
         }
       ],
       "forms": {
@@ -1260,7 +1260,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -1312,6 +1312,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
@@ -1469,60 +1486,16 @@
     },
     "кое-что": {
       "lemma": "кое-что",
-      "stress": "ко́е-что",
+      "stress": "кое-что́",
       "pos": "pron",
       "gloss": "something",
       "meanings": [
         {
           "en": "something, one more thing (indefinite pronoun)",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'something', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "note": ""
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "Case",
-          "Form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "кое-что"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "кое-чтого"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "кое-чтому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "кое-что"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "кое-чтом"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "кое-чтом"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -1549,8 +1522,8 @@
       "pair": "обсуждать",
       "meanings": [
         {
-          "en": "to discuss, deliberate",
-          "note": "Talk over a matter. Prefix 'об-' ('around, about') marks encirclement or comprehensive action (stem 'судить'). Used as a perfective (single completed action) verb meaning 'to discuss', paired with 'обсуждать'."
+          "en": "to discuss, talk over",
+          "note": ""
         }
       ],
       "forms": {
@@ -1626,16 +1599,16 @@
       ],
       "examples": [
         {
-          "text": "Без лишних ушей обсудим твоё назначение.",
-          "trans": "Without extra ears we will discuss your appointment."
+          "text": "Заодно без лишних ушей обсудим твоё назначение.",
+          "trans": "And while we're at it, we'll discuss your appointment without anyone listening in."
         },
         {
           "text": "Партнёры подробно обсудили условия сделки.",
           "trans": "The partners discussed the terms of the deal in detail."
         },
         {
-          "text": "Заодно без лишних ушей обсудим твоё назначение.",
-          "trans": "At the same time without extra ears we will discuss your appointment."
+          "text": "Костя, подожди, давай спокойно всё обсудим.",
+          "trans": "Kostya, wait, let's talk it all over calmly."
         }
       ],
       "related": [
@@ -1881,7 +1854,7 @@
       "meanings": [
         {
           "en": "conversation, talk, discussion",
-          "note": "Spoken exchange. Common masculine noun meaning 'conversation, talk' in everyday Russian."
+          "note": "Spoken exchange."
         }
       ],
       "forms": {
@@ -1940,15 +1913,15 @@
       "examples": [
         {
           "text": "Есть интересный разговор.",
-          "trans": "There's an interesting conversation."
+          "trans": "I've got something interesting to discuss."
         },
         {
           "text": "У нас с тобой серьёзный разговор.",
-          "trans": "You and I have a serious talk to have."
+          "trans": "You and I need to have a serious talk."
         },
         {
-          "text": "Есть интересный разговор. Всё хорошо, малыш.",
-          "trans": "There's an interesting conversation. Everything is fine, kid."
+          "text": "Разговор окончен, идите!",
+          "trans": "This conversation is over, go!"
         }
       ],
       "related": [
@@ -1976,7 +1949,7 @@
       "meanings": [
         {
           "en": "to wait a little",
-          "note": "Подожди! = wait!. Used as a perfective (single completed action) verb meaning 'to wait (a while)', paired with 'ждать'."
+          "note": "Подожди! = wait!."
         }
       ],
       "forms": {
@@ -2085,7 +2058,7 @@
         },
         {
           "en": "it seems, I think",
-          "note": "Кажется as a parenthetical word. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to seem', paired with 'показаться'."
+          "note": "Кажется as a parenthetical word."
         }
       ],
       "forms": {
@@ -2140,6 +2113,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "кажись",
+                "кажитесь"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2159,15 +2149,15 @@
       "related": [
         {
           "word": "показаться",
-          "gloss": "to seem"
+          "gloss": "to seem (pf)"
         },
         {
-          "word": "сказать",
-          "gloss": "to say"
+          "word": "кажется",
+          "gloss": "it seems, I think"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "оказаться",
+          "gloss": "to turn out"
         }
       ]
     },
@@ -2227,10 +2217,6 @@
       "meanings": [
         {
           "en": "belly, tummy",
-          "note": "у меня болит живот = I have a stomach ache"
-        },
-        {
-          "en": "stomach",
           "note": "у меня болит живот = I have a stomach ache"
         }
       ],
@@ -2309,11 +2295,11 @@
       "pos": "verb",
       "gloss": "twist, double over",
       "aspect": "pf",
-      "pair": null,
+      "pair": "скручивать",
       "meanings": [
         {
           "en": "twist, double over",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'крутить'). Used as a perfective (single completed action) verb meaning 'twist, double over'."
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'крутить')."
         }
       ],
       "forms": {
@@ -2368,6 +2354,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "скрути",
+                "скрутите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -2386,16 +2389,12 @@
       ],
       "related": [
         {
-          "word": "крутой",
-          "gloss": "cool"
+          "word": "крутить",
+          "gloss": "to twist, turn"
         },
         {
-          "word": "накрутить",
-          "gloss": "to wind up"
-        },
-        {
-          "word": "круто",
-          "gloss": "cool"
+          "word": "скручивать",
+          "gloss": "to twist (impf)"
         }
       ]
     },
@@ -2407,11 +2406,11 @@
       "meanings": [
         {
           "en": "right, just, directly",
-          "note": "Прямо так = just like that. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Прямо так = just like that."
         },
         {
           "en": "straight ahead",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": ""
         }
       ],
       "forms": null,
@@ -2487,7 +2486,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -2559,7 +2558,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -2581,7 +2580,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     }

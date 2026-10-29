@@ -214,7 +214,7 @@
           "pos": "noun",
           "stress": "выходны́е",
           "gloss": "weekends",
-          "gram": "accusative plural"
+          "gram": "nominative / accusative plural"
         },
         {
           "t": "проведу",
@@ -478,7 +478,7 @@
           "pos": "noun",
           "stress": "дете́й",
           "gloss": "children",
-          "gram": "plural, genitive (after 'двое')"
+          "gram": "genitive plural"
         },
         {
           "t": "своих",
@@ -1007,7 +1007,7 @@
           "lemma": "палец",
           "pos": "noun",
           "stress": "па́льцем",
-          "gloss": "(your) finger",
+          "gloss": "finger",
           "gram": "instrumental singular, masculine"
         },
         {
@@ -1340,7 +1340,7 @@
           "pos": "noun",
           "stress": "выходны́е",
           "gloss": "weekends",
-          "gram": "accusative plural"
+          "gram": "nominative / accusative plural"
         },
         {
           "t": "проведу",
@@ -1604,7 +1604,7 @@
           "pos": "noun",
           "stress": "дете́й",
           "gloss": "children",
-          "gram": "plural, genitive (after 'двое')"
+          "gram": "genitive plural"
         },
         {
           "t": "своих",
@@ -2133,7 +2133,7 @@
           "lemma": "палец",
           "pos": "noun",
           "stress": "па́льцем",
-          "gloss": "(your) finger",
+          "gloss": "finger",
           "gram": "instrumental singular, masculine"
         },
         {
@@ -2466,7 +2466,7 @@
           "pos": "noun",
           "stress": "выходны́е",
           "gloss": "weekends",
-          "gram": "accusative plural"
+          "gram": "nominative / accusative plural"
         },
         {
           "t": "проведу",
@@ -2730,7 +2730,7 @@
           "pos": "noun",
           "stress": "дете́й",
           "gloss": "children",
-          "gram": "plural, genitive (after 'двое')"
+          "gram": "genitive plural"
         },
         {
           "t": "своих",
@@ -3259,7 +3259,7 @@
           "lemma": "палец",
           "pos": "noun",
           "stress": "па́льцем",
-          "gloss": "(your) finger",
+          "gloss": "finger",
           "gram": "instrumental singular, masculine"
         },
         {
@@ -3447,7 +3447,7 @@
       "meanings": [
         {
           "en": "without",
-          "note": "+ genitive. Core Russian prep meaning 'without' in everyday speech."
+          "note": "+ genitive."
         }
       ],
       "forms": null,
@@ -3487,7 +3487,7 @@
       "meanings": [
         {
           "en": "to take",
-          "note": "Habitually or in general. Used as an imperfective (ongoing/repeated action) verb meaning 'to take', paired with 'взять'."
+          "note": "Habitually or in general."
         },
         {
           "en": "to take bribes",
@@ -3582,15 +3582,19 @@
       "related": [
         {
           "word": "взять",
-          "gloss": "to take"
+          "gloss": "to take (pf)"
         },
         {
           "word": "забрать",
-          "gloss": "to take back"
+          "gloss": "to take away, pick up"
         },
         {
-          "word": "убрать",
-          "gloss": "to remove"
+          "word": "брать трубку",
+          "gloss": "to answer the phone"
+        },
+        {
+          "word": "взятка",
+          "gloss": "bribe"
         }
       ]
     },
@@ -3871,11 +3875,11 @@
       "meanings": [
         {
           "en": "to see",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": "Drawing attention."
         },
         {
           "en": "видишь? = see?",
-          "note": "Drawing attention. Used as an imperfective (ongoing/repeated action) verb meaning 'to see', paired with 'увидеть'."
+          "note": ""
         }
       ],
       "forms": {
@@ -3930,6 +3934,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "видь",
+                "видьте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -3969,11 +3990,11 @@
       "meanings": [
         {
           "en": "here is, there is",
-          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Pointing at something."
         },
         {
           "en": "вот увидишь! = you'll see!",
-          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+          "note": "Emphasis."
         }
       ],
       "forms": null,
@@ -4012,7 +4033,7 @@
       "meanings": [
         {
           "en": "time",
-          "note": "Проводить время = to spend time. Common neuter noun meaning 'time' in everyday Russian."
+          "note": "Проводить время = to spend time."
         }
       ],
       "forms": {
@@ -4132,7 +4153,6 @@
       "stress": "выходны́е",
       "pos": "noun",
       "gloss": "weekend, days off",
-      "gender": "m",
       "number": "pl",
       "meanings": [
         {
@@ -4223,7 +4243,7 @@
       "meanings": [
         {
           "en": "small, delicate, or high-pitched voice (diminutive of голос)",
-          "note": "Formed with a diminutive/expressive Slavic suffix adding warmth or small scale. Common masculine noun meaning 'small voice, delicate voice' in everyday Russian."
+          "note": "Formed with a diminutive/expressive Slavic suffix adding warmth or small scale."
         }
       ],
       "forms": {
@@ -4295,16 +4315,8 @@
       ],
       "related": [
         {
-          "word": "голова",
-          "gloss": "head"
-        },
-        {
           "word": "голос",
           "gloss": "voice"
-        },
-        {
-          "word": "уголовник",
-          "gloss": "criminal"
         }
       ]
     },
@@ -4320,7 +4332,7 @@
         },
         {
           "en": "да ну? = really?, oh yeah?",
-          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
+          "note": "Disbelief."
         }
       ],
       "forms": null,
@@ -4356,11 +4368,15 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "+ dative of person + accusative of thing"
+        },
+        {
+          "en": "to let, to allow",
+          "note": "+ infinitive: не даёт мне готовить"
         },
         {
           "en": "let's",
-          "note": "давай + 1st person plural or infinitive"
+          "note": "imperative давай/давайте + 1st person plural or infinitive"
         }
       ],
       "forms": {
@@ -4451,15 +4467,15 @@
       "related": [
         {
           "word": "дать",
-          "gloss": "to give"
+          "gloss": "to give (pf)"
         },
         {
           "word": "давай",
-          "gloss": "let's"
+          "gloss": "let's; come on"
         },
         {
           "word": "сдавать",
-          "gloss": "to take"
+          "gloss": "to hand in; to take (an exam)"
         }
       ]
     },
@@ -4473,11 +4489,11 @@
       "meanings": [
         {
           "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         },
         {
           "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -4702,7 +4718,7 @@
       "meanings": [
         {
           "en": "wife",
-          "note": "Common feminine noun meaning 'wife' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -4822,12 +4838,14 @@
       "stress": "заика́ться",
       "pos": "verb",
       "gloss": "to stutter, to stammer",
-      "aspect": "impf",
-      "pair": "заикнуться",
       "meanings": [
         {
           "en": "to stutter, to stammer",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'икаться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to stutter, to stammer', paired with 'заикнуться'."
+          "note": "Related to заика (stutterer); not formed from икать."
+        },
+        {
+          "en": "(colloquial) to mention, to bring up",
+          "note": "и не заикайся об этом = don't even mention it"
         }
       ],
       "forms": {
@@ -4917,10 +4935,15 @@
       ],
       "related": [
         {
+          "word": "заика",
+          "gloss": "stutterer"
+        },
+        {
           "word": "заикнуться",
-          "gloss": "to stutter"
+          "gloss": "to mention, to hint at"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "занятый": {
       "lemma": "занятый",
@@ -4930,7 +4953,7 @@
       "meanings": [
         {
           "en": "busy",
-          "note": "Of a person: я занят = I'm busy. Agrees in gender, number, and case with the noun it modifies ('busy; occupied, taken')."
+          "note": "Of a person: я занят = I'm busy."
         },
         {
           "en": "occupied, taken",
@@ -4977,10 +5000,10 @@
           {
             "cells": [
               "accusative",
-              "занятый/занятого",
+              "занятый / занятого",
               "занятую",
               "занятое",
-              "занятые/занятых"
+              "занятые / занятых"
             ]
           },
           {
@@ -5064,12 +5087,10 @@
       "stress": "знать",
       "pos": "verb",
       "gloss": "to know",
-      "aspect": "impf",
-      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
-          "note": "A fact or a person. Used as an imperfective (ongoing/repeated action) verb meaning 'to know'."
+          "note": "A fact or a person."
         }
       ],
       "forms": {
@@ -5124,6 +5145,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "знай",
+                "знайте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -5143,17 +5181,18 @@
       "related": [
         {
           "word": "узнать",
-          "gloss": "to recognise"
+          "gloss": "to find out; to recognise"
         },
         {
-          "word": "признаться",
-          "gloss": "to confess"
+          "word": "знание",
+          "gloss": "knowledge"
         },
         {
-          "word": "признательный",
-          "gloss": "grateful"
+          "word": "знакомый",
+          "gloss": "familiar; acquaintance"
         }
-      ]
+      ],
+      "aspect": "impf"
     },
     "и": {
       "lemma": "и",
@@ -5199,10 +5238,11 @@
       "pos": "noun",
       "gloss": "game, play",
       "gender": "f",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "game (board game, computer game, sport)",
-          "note": "Common feminine noun meaning 'game, play' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5556,11 +5596,15 @@
       "meanings": [
         {
           "en": "bank card",
-          "note": "На карту = onto a bank card. Common feminine noun meaning 'bank card; map; playing card' in everyday Russian."
+          "note": "На карту = onto a bank card."
         },
         {
           "en": "map",
-          "note": "Common feminine noun meaning 'bank card; map; playing card' in everyday Russian."
+          "note": ""
+        },
+        {
+          "en": "playing card",
+          "note": "играть в карты = to play cards"
         }
       ],
       "forms": {
@@ -5646,7 +5690,7 @@
       "meanings": [
         {
           "en": "sweet, candy, bonbon",
-          "note": "Common feminine noun meaning 'sweet, piece of candy' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -5728,7 +5772,7 @@
       "meanings": [
         {
           "en": "to buy",
-          "note": "Used as a perfective (single completed action) verb meaning 'to buy', paired with 'покупать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -5831,7 +5875,7 @@
       "meanings": [
         {
           "en": "all right, OK",
-          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+          "note": "Agreeing, often reluctantly."
         }
       ],
       "forms": null,
@@ -5853,7 +5897,11 @@
       "related": [
         {
           "word": "ладный",
-          "gloss": "all right (adjective)"
+          "gloss": "well-made, shapely"
+        },
+        {
+          "word": "ну ладно",
+          "gloss": "oh well, fine"
         }
       ]
     },
@@ -6163,7 +6211,7 @@
       "meanings": [
         {
           "en": "excellent",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('excellent')."
+          "note": ""
         }
       ],
       "forms": {
@@ -6260,14 +6308,15 @@
       "pos": "noun",
       "gloss": "finger; toe",
       "gender": "m",
+      "animacy": "inan",
       "meanings": [
         {
           "en": "finger",
-          "note": "Палец на ноге. Common masculine noun meaning 'finger; toe' in everyday Russian."
+          "note": ""
         },
         {
           "en": "toe",
-          "note": "Палец на ноге. Common masculine noun meaning 'finger; toe' in everyday Russian."
+          "note": "палец на ноге"
         }
       ],
       "forms": {
@@ -6383,7 +6432,7 @@
       "meanings": [
         {
           "en": "to play for a while, to have a go",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'играть'). Used as a perfective (single completed action) verb meaning 'to play for a while', paired with 'играть'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'играть')."
         }
       ],
       "forms": {
@@ -6492,11 +6541,11 @@
       "pos": "verb",
       "gloss": "to go (set off)",
       "aspect": "pf",
-      "pair": "ходить",
+      "pair": "идти",
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "On foot. Used as a perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
+          "note": "On foot."
         }
       ],
       "forms": {
@@ -6747,7 +6796,7 @@
       "meanings": [
         {
           "en": "to warn, caution",
-          "note": "Кого о чём. Prefix 'пред-' ('before, fore-') indicates anticipation or prior position (stem 'упредить'). Used as a perfective (single completed action) verb meaning 'to warn, notify in advance', paired with 'предупреждать'."
+          "note": "Кого о чём. Prefix 'пред-' ('before, fore-') indicates anticipation or prior position (stem 'упредить')."
         }
       ],
       "forms": {
@@ -6854,7 +6903,7 @@
       "meanings": [
         {
           "en": "hi, hello",
-          "note": "Informal: family and friends. Core Russian interj meaning 'hi' in everyday speech."
+          "note": "Informal: family and friends."
         }
       ],
       "forms": null,
@@ -6885,11 +6934,11 @@
       "meanings": [
         {
           "en": "to invite",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'гласить'). Used as a perfective (single completed action) verb meaning 'to invite, to call in', paired with 'приглашать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'гласить')."
         },
         {
           "en": "to call in (a witness, a guest)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'гласить'). Used as a perfective (single completed action) verb meaning 'to invite, to call in', paired with 'приглашать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -7099,7 +7148,7 @@
       "meanings": [
         {
           "en": "to bring (carrying on foot)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести'). Used as a perfective (single completed action) verb meaning 'to bring (on foot)', paired with 'приносить'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести')."
         }
       ],
       "forms": {
@@ -7212,11 +7261,11 @@
       "meanings": [
         {
           "en": "to spend (time)",
-          "note": "Провести время. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'вести'). Used as a perfective (single completed action) verb meaning 'to spend (time); to lead', paired with 'проводить'."
+          "note": "Провести время. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'вести')."
         },
         {
           "en": "to lead, to take",
-          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'вести'). Used as a perfective (single completed action) verb meaning 'to spend (time); to lead', paired with 'проводить'."
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'вести')."
         }
       ],
       "forms": {
@@ -7268,6 +7317,23 @@
                 "провела",
                 "провело",
                 "провели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "проведи",
+                "проведите"
               ]
             }
           ]
@@ -7484,6 +7550,23 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "происходи",
+                "происходите"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
@@ -7503,11 +7586,11 @@
       "related": [
         {
           "word": "произойти",
-          "gloss": "to happen"
+          "gloss": "to happen (pf)"
         },
         {
-          "word": "исходный",
-          "gloss": "initial"
+          "word": "происшествие",
+          "gloss": "incident"
         }
       ]
     },
@@ -7615,7 +7698,7 @@
       "meanings": [
         {
           "en": "child",
-          "note": "Plural: дети. Common masculine noun meaning 'child' in everyday Russian."
+          "note": "Plural: дети."
         }
       ],
       "forms": {
@@ -7876,7 +7959,7 @@
       "meanings": [
         {
           "en": "family",
-          "note": "Common feminine noun meaning 'family' in everyday Russian."
+          "note": ""
         }
       ],
       "forms": {
@@ -7962,7 +8045,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать')."
         }
       ],
       "forms": {
@@ -8053,15 +8136,15 @@
       "related": [
         {
           "word": "говорить",
-          "gloss": "to speak"
+          "gloss": "to speak, say"
         },
         {
-          "word": "наказать",
-          "gloss": "to punish"
+          "word": "рассказать",
+          "gloss": "to tell (a story)"
         },
         {
-          "word": "казаться",
-          "gloss": "to seem"
+          "word": "подсказать",
+          "gloss": "to prompt, suggest"
         }
       ]
     },
@@ -8154,7 +8237,7 @@
       "meanings": [
         {
           "en": "cheese, made of cheese",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('cheese, of cheese')."
+          "note": ""
         }
       ],
       "forms": {
@@ -8197,10 +8280,10 @@
           {
             "cells": [
               "accusative",
-              "сырный/сырного",
+              "сырный / сырного",
               "сырную",
               "сырное",
-              "сырные/сырных"
+              "сырные / сырных"
             ]
           },
           {
@@ -8240,8 +8323,12 @@
       ],
       "related": [
         {
-          "word": "сырно",
-          "gloss": "in a cheese way (adv.)"
+          "word": "сыр",
+          "gloss": "cheese"
+        },
+        {
+          "word": "сырный соус",
+          "gloss": "cheese sauce"
         }
       ]
     },
@@ -8253,7 +8340,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": ""
         }
       ],
       "forms": null,
@@ -8303,8 +8390,16 @@
       ],
       "related": [
         {
-          "word": "столько",
-          "gloss": "so much"
+          "word": "лишь",
+          "gloss": "only"
+        },
+        {
+          "word": "только что",
+          "gloss": "just now"
+        },
+        {
+          "word": "не только... но и",
+          "gloss": "not only... but also"
         }
       ]
     },
@@ -8316,7 +8411,7 @@
       "meanings": [
         {
           "en": "very thin, slender, high-pitched (of a voice)",
-          "note": "Diminutive of тонкий. Agrees in gender, number, and case with the noun it modifies ('very thin, slender, delicate')."
+          "note": "Diminutive of тонкий."
         }
       ],
       "forms": {
@@ -8359,10 +8454,10 @@
           {
             "cells": [
               "accusative",
-              "тоненький/тоненького",
+              "тоненький / тоненького",
               "тоненькую",
               "тоненькое",
-              "тоненькие/тоненьких"
+              "тоненькие / тоненьких"
             ]
           },
           {
@@ -8389,15 +8484,11 @@
       "examples": [
         {
           "text": "Он будет у меня заикаться тоненьким голоском!",
-          "trans": "He will stutter in a thin little voice before me!"
+          "trans": "I'll have him stuttering in a squeaky little voice!"
         },
         {
           "text": "Тоненькая ветка.",
           "trans": "A slender twig."
-        },
-        {
-          "text": "Он будет у меня заикаться тоненьким голоском! Я тебе всё сказал!",
-          "trans": "He will stutter in a thin little voice before me! I've told you everything!"
         }
       ],
       "related": [
@@ -8417,7 +8508,7 @@
       "meanings": [
         {
           "en": "to touch, lay a finger on (someone)",
-          "note": "Used as a perfective (single completed action) verb meaning 'to touch, lay a finger on', paired with 'трогать'."
+          "note": ""
         }
       ],
       "forms": {
@@ -8520,7 +8611,7 @@
       "meanings": [
         {
           "en": "there, thither (towards that place)",
-          "note": "Directional adverb. Core Russian adv meaning 'there, thither (motion)' in everyday speech."
+          "note": "Directional adverb."
         }
       ],
       "forms": null,
@@ -8558,7 +8649,7 @@
       "meanings": [
         {
           "en": "here",
-          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+          "note": "Colloquial, like здесь."
         }
       ],
       "forms": null,
@@ -8727,7 +8818,7 @@
       "meanings": [
         {
           "en": "to take away, drive someone/something away",
-          "note": "With accusative. Prefix 'у-' marks departure, removal, or successful completion (stem 'везти'). Used as a perfective (single completed action) verb meaning 'to take away (by vehicle), drive away', paired with 'увозить'."
+          "note": "With accusative. Prefix 'у-' marks departure, removal, or successful completion (stem 'везти')."
         }
       ],
       "forms": {
@@ -8840,7 +8931,7 @@
       "meanings": [
         {
           "en": "to calm down",
-          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to calm down', paired with 'успокаиваться'."
+          "note": ""
         }
       ],
       "forms": {
@@ -8952,7 +9043,7 @@
       "meanings": [
         {
           "en": "fondue (hot cheese or chocolate dish)",
-          "note": "Invariable neuter. Common neuter noun meaning 'fondue' in everyday Russian."
+          "note": "Invariable neuter."
         }
       ],
       "forms": {
@@ -9076,7 +9167,7 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+          "note": "+ infinitive or a noun."
         }
       ],
       "forms": {
@@ -9128,6 +9219,23 @@
                 "хотела",
                 "хотело",
                 "хотели"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "хоти",
+                "хотите"
               ]
             }
           ]
