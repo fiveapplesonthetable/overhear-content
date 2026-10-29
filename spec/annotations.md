@@ -59,6 +59,14 @@ Every row has as many cells as `columns`; the first cell is the row label; a non
 | fr | adj | `Forms`; `["","m","f"]`; sg, pl | |
 | fr | verb | `Present`; `["","sg","pl"]`; 1st, 2nd, 3rd (cells include the pronoun: "je parle") | `Passé composé`, `Imparfait`, `Futur` (same shape); optional `Imperative` |
 
+**Cells are complete, real forms.** Never a stem plus an ending (not `кто-того`, `одинго`, `управляющию`, `усыы`, and not `-ого` for
+"нервного"); write the whole word as it is spelled (`кого-то`, `одного`, `управляющему`, `усы`). A particle stays on the end of
+the word it joins: `кому-то`, `чем-нибудь`, `какого-нибудь`. The accusative follows animacy: for an inanimate noun it equals the
+nominative (`пол`, `полы`, `половник`), for an animate one the genitive (`труса`, `агентов`); a masculine or plural adjective
+that can go either way takes both, `нервный / нервного`. A substantivized adjective (`дежурный`, `бывшая`, `управляющий`) is declined
+like the adjective it is, not like a noun. Check each cell against a dictionary table; `pipeline/render/tools/audit_forms.py` does
+(Wiktionary's inflection tables) and `tools/fix_table_forms.py` repairs the known mistakes.
+
 Other words (adverbs, prepositions, particles, pronouns) have `forms: null`, `moreForms: []`.
 The validator checks table shape, that every used `lemma` has an entry, that ru nouns/adjs/verbs have `forms`, that
 `stress` carries the mark and that no stray U+0301 exists elsewhere. Linguistic correctness is on you: double check

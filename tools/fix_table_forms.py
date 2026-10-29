@@ -37,6 +37,9 @@ CELLS = {
                                                                      ("неумеху", "неумех"), ("неумехой", "неумехами"), ("неумехе", "неумехах")])
                 for n, f in zip(("sg", "pl"), forms)},
 }
+# the long list, found with the audit: tools/table_fixes.json {lemma, row, column, old, new}
+for _f in json.loads((Path(__file__).resolve().parent / "table_fixes.json").read_text(encoding="utf-8"))["fixes"]:
+    CELLS.setdefault(_f["lemma"], {})[(_f["row"], _f["column"])] = (_f["old"], _f["new"])
 STRESS = {"колледж": ("ко́лледж", "колле́дж")}      # lexicon stress and the stress of the notes' words with that lemma
 
 

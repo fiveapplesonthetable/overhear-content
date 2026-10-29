@@ -1,0 +1,1006 @@
+{
+ "_note": "Cells that are not real forms, with the form Wiktionary's inflection table gives for the slot (pipeline/render/tools/audit_forms.py). Applied by fix_table_forms.py only where the cell holds exactly `old`. Reviewed: substantivized adjectives written as nouns with stuck-on endings, plurals with a stuck-on ending (усыы), animacy of the accusative, genitive plurals cut short (мусорк). Left out as doubtful or correct as written: арт-директор, дорада, дурдом, катин, кореш, крокодилий, полмиллиона, полчаса, привидение, сельдь, фантазёрка, марс, горец.",
+ "fixes": [
+  {
+   "lemma": "агент",
+   "row": "accusative",
+   "column": "pl",
+   "old": "агенты",
+   "new": "агентов"
+  },
+  {
+   "lemma": "агент",
+   "row": "accusative",
+   "column": "sg",
+   "old": "агент",
+   "new": "агента"
+  },
+  {
+   "lemma": "барашек",
+   "row": "accusative",
+   "column": "pl",
+   "old": "барашки",
+   "new": "барашков"
+  },
+  {
+   "lemma": "барашек",
+   "row": "accusative",
+   "column": "sg",
+   "old": "барашек",
+   "new": "барашка"
+  },
+  {
+   "lemma": "безлактозный",
+   "row": "accusative",
+   "column": "pl",
+   "old": "безлактознымы",
+   "new": "безлактозные / безлактозных"
+  },
+  {
+   "lemma": "безлактозный",
+   "row": "dative",
+   "column": "pl",
+   "old": "безлактознымам",
+   "new": "безлактозным"
+  },
+  {
+   "lemma": "безлактозный",
+   "row": "genitive",
+   "column": "pl",
+   "old": "безлактознымов",
+   "new": "безлактозных"
+  },
+  {
+   "lemma": "безлактозный",
+   "row": "instrumental",
+   "column": "pl",
+   "old": "безлактознымами",
+   "new": "безлактозными"
+  },
+  {
+   "lemma": "безлактозный",
+   "row": "nominative",
+   "column": "pl",
+   "old": "безлактознымы",
+   "new": "безлактозные"
+  },
+  {
+   "lemma": "безлактозный",
+   "row": "prepositional",
+   "column": "pl",
+   "old": "безлактознымах",
+   "new": "безлактозных"
+  },
+  {
+   "lemma": "бывшая",
+   "row": "accusative",
+   "column": "pl",
+   "old": "бывшаи",
+   "new": "бывших"
+  },
+  {
+   "lemma": "бывшая",
+   "row": "accusative",
+   "column": "sg",
+   "old": "бывшаю",
+   "new": "бывшую"
+  },
+  {
+   "lemma": "бывшая",
+   "row": "dative",
+   "column": "pl",
+   "old": "бывшаям",
+   "new": "бывшим"
+  },
+  {
+   "lemma": "бывшая",
+   "row": "dative",
+   "column": "sg",
+   "old": "бывшае",
+   "new": "бывшей"
+  },
+  {
+   "lemma": "бывшая",
+   "row": "genitive",
+   "column": "pl",
+   "old": "бывшаь",
+   "new": "бывших"
+  },
+  {
+   "lemma": "бывшая",
+   "row": "genitive",
+   "column": "sg",
+   "old": "бывшаи",
+   "new": "бывшей"
+  },
+  {
+   "lemma": "бывшая",
+   "row": "instrumental",
+   "column": "pl",
+   "old": "бывшаями",
+   "new": "бывшими"
+  },
+  {
+   "lemma": "бывшая",
+   "row": "instrumental",
+   "column": "sg",
+   "old": "бывшаей",
+   "new": "бывшей"
+  },
+  {
+   "lemma": "бывшая",
+   "row": "nominative",
+   "column": "pl",
+   "old": "бывшаи",
+   "new": "бывшие"
+  },
+  {
+   "lemma": "бывшая",
+   "row": "prepositional",
+   "column": "pl",
+   "old": "бывшаях",
+   "new": "бывших"
+  },
+  {
+   "lemma": "бывшая",
+   "row": "prepositional",
+   "column": "sg",
+   "old": "бывшае",
+   "new": "бывшей"
+  },
+  {
+   "lemma": "ведущий",
+   "row": "accusative",
+   "column": "pl",
+   "old": "ведущие",
+   "new": "ведущих"
+  },
+  {
+   "lemma": "дежурный",
+   "row": "accusative",
+   "column": "pl",
+   "old": "дежурныи",
+   "new": "дежурных"
+  },
+  {
+   "lemma": "дежурный",
+   "row": "accusative",
+   "column": "sg",
+   "old": "дежурный",
+   "new": "дежурного"
+  },
+  {
+   "lemma": "дежурный",
+   "row": "dative",
+   "column": "pl",
+   "old": "дежурныям",
+   "new": "дежурным"
+  },
+  {
+   "lemma": "дежурный",
+   "row": "dative",
+   "column": "sg",
+   "old": "дежурныю",
+   "new": "дежурному"
+  },
+  {
+   "lemma": "дежурный",
+   "row": "genitive",
+   "column": "pl",
+   "old": "дежурныев",
+   "new": "дежурных"
+  },
+  {
+   "lemma": "дежурный",
+   "row": "genitive",
+   "column": "sg",
+   "old": "дежурныя",
+   "new": "дежурного"
+  },
+  {
+   "lemma": "дежурный",
+   "row": "instrumental",
+   "column": "pl",
+   "old": "дежурныями",
+   "new": "дежурными"
+  },
+  {
+   "lemma": "дежурный",
+   "row": "instrumental",
+   "column": "sg",
+   "old": "дежурныем",
+   "new": "дежурным"
+  },
+  {
+   "lemma": "дежурный",
+   "row": "nominative",
+   "column": "pl",
+   "old": "дежурныи",
+   "new": "дежурные"
+  },
+  {
+   "lemma": "дежурный",
+   "row": "prepositional",
+   "column": "pl",
+   "old": "дежурныях",
+   "new": "дежурных"
+  },
+  {
+   "lemma": "дежурный",
+   "row": "prepositional",
+   "column": "sg",
+   "old": "дежурные",
+   "new": "дежурном"
+  },
+  {
+   "lemma": "жабры",
+   "row": "accusative",
+   "column": "pl",
+   "old": "жабрыы",
+   "new": "жабры"
+  },
+  {
+   "lemma": "жабры",
+   "row": "dative",
+   "column": "pl",
+   "old": "жабрыам",
+   "new": "жабрам"
+  },
+  {
+   "lemma": "жабры",
+   "row": "genitive",
+   "column": "pl",
+   "old": "жабрыов",
+   "new": "жабр"
+  },
+  {
+   "lemma": "жабры",
+   "row": "instrumental",
+   "column": "pl",
+   "old": "жабрыами",
+   "new": "жабрами"
+  },
+  {
+   "lemma": "жабры",
+   "row": "nominative",
+   "column": "pl",
+   "old": "жабрыы",
+   "new": "жабры"
+  },
+  {
+   "lemma": "жабры",
+   "row": "prepositional",
+   "column": "pl",
+   "old": "жабрыах",
+   "new": "жабрах"
+  },
+  {
+   "lemma": "желающий",
+   "row": "accusative",
+   "column": "pl",
+   "old": "желающии",
+   "new": "желающих"
+  },
+  {
+   "lemma": "желающий",
+   "row": "accusative",
+   "column": "sg",
+   "old": "желающий",
+   "new": "желающего"
+  },
+  {
+   "lemma": "желающий",
+   "row": "dative",
+   "column": "pl",
+   "old": "желающиям",
+   "new": "желающим"
+  },
+  {
+   "lemma": "желающий",
+   "row": "dative",
+   "column": "sg",
+   "old": "желающию",
+   "new": "желающему"
+  },
+  {
+   "lemma": "желающий",
+   "row": "genitive",
+   "column": "pl",
+   "old": "желающиев",
+   "new": "желающих"
+  },
+  {
+   "lemma": "желающий",
+   "row": "genitive",
+   "column": "sg",
+   "old": "желающия",
+   "new": "желающего"
+  },
+  {
+   "lemma": "желающий",
+   "row": "instrumental",
+   "column": "pl",
+   "old": "желающиями",
+   "new": "желающими"
+  },
+  {
+   "lemma": "желающий",
+   "row": "instrumental",
+   "column": "sg",
+   "old": "желающием",
+   "new": "желающим"
+  },
+  {
+   "lemma": "желающий",
+   "row": "nominative",
+   "column": "pl",
+   "old": "желающии",
+   "new": "желающие"
+  },
+  {
+   "lemma": "желающий",
+   "row": "prepositional",
+   "column": "pl",
+   "old": "желающиях",
+   "new": "желающих"
+  },
+  {
+   "lemma": "желающий",
+   "row": "prepositional",
+   "column": "sg",
+   "old": "желающие",
+   "new": "желающем"
+  },
+  {
+   "lemma": "мигрант",
+   "row": "accusative",
+   "column": "pl",
+   "old": "мигранты",
+   "new": "мигрантов"
+  },
+  {
+   "lemma": "мигрант",
+   "row": "accusative",
+   "column": "sg",
+   "old": "мигрант",
+   "new": "мигранта"
+  },
+  {
+   "lemma": "мусорка",
+   "row": "genitive",
+   "column": "pl",
+   "old": "мусорк",
+   "new": "мусорок"
+  },
+  {
+   "lemma": "натура",
+   "row": "accusative",
+   "column": "pl",
+   "old": "натур",
+   "new": "натуры"
+  },
+  {
+   "lemma": "обезболивающее",
+   "row": "accusative",
+   "column": "pl",
+   "old": "обезболивающея",
+   "new": "обезболивающих"
+  },
+  {
+   "lemma": "обезболивающее",
+   "row": "dative",
+   "column": "pl",
+   "old": "обезболивающеям",
+   "new": "обезболивающим"
+  },
+  {
+   "lemma": "обезболивающее",
+   "row": "dative",
+   "column": "sg",
+   "old": "обезболивающею",
+   "new": "обезболивающему"
+  },
+  {
+   "lemma": "обезболивающее",
+   "row": "genitive",
+   "column": "pl",
+   "old": "обезболивающеей",
+   "new": "обезболивающих"
+  },
+  {
+   "lemma": "обезболивающее",
+   "row": "genitive",
+   "column": "sg",
+   "old": "обезболивающея",
+   "new": "обезболивающего"
+  },
+  {
+   "lemma": "обезболивающее",
+   "row": "instrumental",
+   "column": "pl",
+   "old": "обезболивающеями",
+   "new": "обезболивающими"
+  },
+  {
+   "lemma": "обезболивающее",
+   "row": "instrumental",
+   "column": "sg",
+   "old": "обезболивающеем",
+   "new": "обезболивающим"
+  },
+  {
+   "lemma": "обезболивающее",
+   "row": "nominative",
+   "column": "pl",
+   "old": "обезболивающея",
+   "new": "обезболивающие"
+  },
+  {
+   "lemma": "обезболивающее",
+   "row": "prepositional",
+   "column": "pl",
+   "old": "обезболивающеях",
+   "new": "обезболивающих"
+  },
+  {
+   "lemma": "обезболивающее",
+   "row": "prepositional",
+   "column": "sg",
+   "old": "обезболивающее",
+   "new": "обезболивающем"
+  },
+  {
+   "lemma": "подозреваемый",
+   "row": "accusative",
+   "column": "pl",
+   "old": "подозреваемыи",
+   "new": "подозреваемых"
+  },
+  {
+   "lemma": "подозреваемый",
+   "row": "accusative",
+   "column": "sg",
+   "old": "подозреваемый",
+   "new": "подозреваемого"
+  },
+  {
+   "lemma": "подозреваемый",
+   "row": "dative",
+   "column": "pl",
+   "old": "подозреваемыям",
+   "new": "подозреваемым"
+  },
+  {
+   "lemma": "подозреваемый",
+   "row": "dative",
+   "column": "sg",
+   "old": "подозреваемыю",
+   "new": "подозреваемому"
+  },
+  {
+   "lemma": "подозреваемый",
+   "row": "genitive",
+   "column": "pl",
+   "old": "подозреваемыев",
+   "new": "подозреваемых"
+  },
+  {
+   "lemma": "подозреваемый",
+   "row": "genitive",
+   "column": "sg",
+   "old": "подозреваемыя",
+   "new": "подозреваемого"
+  },
+  {
+   "lemma": "подозреваемый",
+   "row": "instrumental",
+   "column": "pl",
+   "old": "подозреваемыями",
+   "new": "подозреваемыми"
+  },
+  {
+   "lemma": "подозреваемый",
+   "row": "instrumental",
+   "column": "sg",
+   "old": "подозреваемыем",
+   "new": "подозреваемым"
+  },
+  {
+   "lemma": "подозреваемый",
+   "row": "nominative",
+   "column": "pl",
+   "old": "подозреваемыи",
+   "new": "подозреваемые"
+  },
+  {
+   "lemma": "подозреваемый",
+   "row": "prepositional",
+   "column": "pl",
+   "old": "подозреваемыях",
+   "new": "подозреваемых"
+  },
+  {
+   "lemma": "подозреваемый",
+   "row": "prepositional",
+   "column": "sg",
+   "old": "подозреваемые",
+   "new": "подозреваемом"
+  },
+  {
+   "lemma": "подчинённый",
+   "row": "accusative",
+   "column": "pl",
+   "old": "подчинённые",
+   "new": "подчинённых"
+  },
+  {
+   "lemma": "потерпевшая",
+   "row": "accusative",
+   "column": "pl",
+   "old": "потерпевшаи",
+   "new": "потерпевших"
+  },
+  {
+   "lemma": "потерпевшая",
+   "row": "accusative",
+   "column": "sg",
+   "old": "потерпевшаю",
+   "new": "потерпевшую"
+  },
+  {
+   "lemma": "потерпевшая",
+   "row": "dative",
+   "column": "pl",
+   "old": "потерпевшаям",
+   "new": "потерпевшим"
+  },
+  {
+   "lemma": "потерпевшая",
+   "row": "dative",
+   "column": "sg",
+   "old": "потерпевшае",
+   "new": "потерпевшей"
+  },
+  {
+   "lemma": "потерпевшая",
+   "row": "genitive",
+   "column": "pl",
+   "old": "потерпевшаь",
+   "new": "потерпевших"
+  },
+  {
+   "lemma": "потерпевшая",
+   "row": "genitive",
+   "column": "sg",
+   "old": "потерпевшаи",
+   "new": "потерпевшей"
+  },
+  {
+   "lemma": "потерпевшая",
+   "row": "instrumental",
+   "column": "pl",
+   "old": "потерпевшаями",
+   "new": "потерпевшими"
+  },
+  {
+   "lemma": "потерпевшая",
+   "row": "instrumental",
+   "column": "sg",
+   "old": "потерпевшаей",
+   "new": "потерпевшей"
+  },
+  {
+   "lemma": "потерпевшая",
+   "row": "nominative",
+   "column": "pl",
+   "old": "потерпевшаи",
+   "new": "потерпевшие"
+  },
+  {
+   "lemma": "потерпевшая",
+   "row": "prepositional",
+   "column": "pl",
+   "old": "потерпевшаях",
+   "new": "потерпевших"
+  },
+  {
+   "lemma": "потерпевшая",
+   "row": "prepositional",
+   "column": "sg",
+   "old": "потерпевшае",
+   "new": "потерпевшей"
+  },
+  {
+   "lemma": "похмелье",
+   "row": "genitive",
+   "column": "pl",
+   "old": "похмельей",
+   "new": "похмелий"
+  },
+  {
+   "lemma": "проверяющий",
+   "row": "accusative",
+   "column": "pl",
+   "old": "проверяющии",
+   "new": "проверяющие / проверяющих"
+  },
+  {
+   "lemma": "проверяющий",
+   "row": "dative",
+   "column": "pl",
+   "old": "проверяющиям",
+   "new": "проверяющим"
+  },
+  {
+   "lemma": "проверяющий",
+   "row": "genitive",
+   "column": "pl",
+   "old": "проверяющиев",
+   "new": "проверяющих"
+  },
+  {
+   "lemma": "проверяющий",
+   "row": "instrumental",
+   "column": "pl",
+   "old": "проверяющиями",
+   "new": "проверяющими"
+  },
+  {
+   "lemma": "проверяющий",
+   "row": "nominative",
+   "column": "pl",
+   "old": "проверяющии",
+   "new": "проверяющие"
+  },
+  {
+   "lemma": "проверяющий",
+   "row": "prepositional",
+   "column": "pl",
+   "old": "проверяющиях",
+   "new": "проверяющих"
+  },
+  {
+   "lemma": "проклятье",
+   "row": "genitive",
+   "column": "pl",
+   "old": "проклятьей",
+   "new": "проклятий"
+  },
+  {
+   "lemma": "руина",
+   "row": "accusative",
+   "column": "pl",
+   "old": "руин",
+   "new": "руины"
+  },
+  {
+   "lemma": "ручник",
+   "row": "accusative",
+   "column": "pl",
+   "old": "ручников",
+   "new": "ручники"
+  },
+  {
+   "lemma": "ручник",
+   "row": "accusative",
+   "column": "sg",
+   "old": "ручника",
+   "new": "ручник"
+  },
+  {
+   "lemma": "снотворное",
+   "row": "accusative",
+   "column": "pl",
+   "old": "снотворноя",
+   "new": "снотворные"
+  },
+  {
+   "lemma": "снотворное",
+   "row": "dative",
+   "column": "pl",
+   "old": "снотворноям",
+   "new": "снотворным"
+  },
+  {
+   "lemma": "снотворное",
+   "row": "dative",
+   "column": "sg",
+   "old": "снотворною",
+   "new": "снотворному"
+  },
+  {
+   "lemma": "снотворное",
+   "row": "genitive",
+   "column": "pl",
+   "old": "снотворноей",
+   "new": "снотворных"
+  },
+  {
+   "lemma": "снотворное",
+   "row": "genitive",
+   "column": "sg",
+   "old": "снотворноя",
+   "new": "снотворного"
+  },
+  {
+   "lemma": "снотворное",
+   "row": "instrumental",
+   "column": "pl",
+   "old": "снотворноями",
+   "new": "снотворными"
+  },
+  {
+   "lemma": "снотворное",
+   "row": "instrumental",
+   "column": "sg",
+   "old": "снотворноем",
+   "new": "снотворным"
+  },
+  {
+   "lemma": "снотворное",
+   "row": "nominative",
+   "column": "pl",
+   "old": "снотворноя",
+   "new": "снотворные"
+  },
+  {
+   "lemma": "снотворное",
+   "row": "prepositional",
+   "column": "pl",
+   "old": "снотворноях",
+   "new": "снотворных"
+  },
+  {
+   "lemma": "снотворное",
+   "row": "prepositional",
+   "column": "sg",
+   "old": "снотворное",
+   "new": "снотворном"
+  },
+  {
+   "lemma": "сопли",
+   "row": "accusative",
+   "column": "pl",
+   "old": "соплиы",
+   "new": "сопли"
+  },
+  {
+   "lemma": "сопли",
+   "row": "dative",
+   "column": "pl",
+   "old": "соплиам",
+   "new": "соплям"
+  },
+  {
+   "lemma": "сопли",
+   "row": "genitive",
+   "column": "pl",
+   "old": "соплиов",
+   "new": "соплей"
+  },
+  {
+   "lemma": "сопли",
+   "row": "instrumental",
+   "column": "pl",
+   "old": "соплиами",
+   "new": "соплями"
+  },
+  {
+   "lemma": "сопли",
+   "row": "nominative",
+   "column": "pl",
+   "old": "соплиы",
+   "new": "сопли"
+  },
+  {
+   "lemma": "сопли",
+   "row": "prepositional",
+   "column": "pl",
+   "old": "соплиах",
+   "new": "соплях"
+  },
+  {
+   "lemma": "стиралка",
+   "row": "genitive",
+   "column": "pl",
+   "old": "стиралк",
+   "new": "стиралок"
+  },
+  {
+   "lemma": "трус",
+   "row": "accusative",
+   "column": "pl",
+   "old": "трусы",
+   "new": "трусов"
+  },
+  {
+   "lemma": "трус",
+   "row": "accusative",
+   "column": "sg",
+   "old": "трус",
+   "new": "труса"
+  },
+  {
+   "lemma": "умничка",
+   "row": "accusative",
+   "column": "pl",
+   "old": "умнички",
+   "new": "умничек"
+  },
+  {
+   "lemma": "умничка",
+   "row": "genitive",
+   "column": "pl",
+   "old": "умничк",
+   "new": "умничек"
+  },
+  {
+   "lemma": "управляющий",
+   "row": "accusative",
+   "column": "pl",
+   "old": "управляющии",
+   "new": "управляющих"
+  },
+  {
+   "lemma": "управляющий",
+   "row": "accusative",
+   "column": "sg",
+   "old": "управляющий",
+   "new": "управляющего"
+  },
+  {
+   "lemma": "управляющий",
+   "row": "dative",
+   "column": "pl",
+   "old": "управляющиям",
+   "new": "управляющим"
+  },
+  {
+   "lemma": "управляющий",
+   "row": "dative",
+   "column": "sg",
+   "old": "управляющию",
+   "new": "управляющему"
+  },
+  {
+   "lemma": "управляющий",
+   "row": "genitive",
+   "column": "pl",
+   "old": "управляющиев",
+   "new": "управляющих"
+  },
+  {
+   "lemma": "управляющий",
+   "row": "genitive",
+   "column": "sg",
+   "old": "управляющия",
+   "new": "управляющего"
+  },
+  {
+   "lemma": "управляющий",
+   "row": "instrumental",
+   "column": "pl",
+   "old": "управляющиями",
+   "new": "управляющими"
+  },
+  {
+   "lemma": "управляющий",
+   "row": "instrumental",
+   "column": "sg",
+   "old": "управляющием",
+   "new": "управляющим"
+  },
+  {
+   "lemma": "управляющий",
+   "row": "nominative",
+   "column": "pl",
+   "old": "управляющии",
+   "new": "управляющие"
+  },
+  {
+   "lemma": "управляющий",
+   "row": "prepositional",
+   "column": "pl",
+   "old": "управляющиях",
+   "new": "управляющих"
+  },
+  {
+   "lemma": "управляющий",
+   "row": "prepositional",
+   "column": "sg",
+   "old": "управляющие",
+   "new": "управляющем"
+  },
+  {
+   "lemma": "усы",
+   "row": "accusative",
+   "column": "pl",
+   "old": "усыы",
+   "new": "усы"
+  },
+  {
+   "lemma": "усы",
+   "row": "dative",
+   "column": "pl",
+   "old": "усыам",
+   "new": "усам"
+  },
+  {
+   "lemma": "усы",
+   "row": "genitive",
+   "column": "pl",
+   "old": "усыов",
+   "new": "усов"
+  },
+  {
+   "lemma": "усы",
+   "row": "instrumental",
+   "column": "pl",
+   "old": "усыами",
+   "new": "усами"
+  },
+  {
+   "lemma": "усы",
+   "row": "nominative",
+   "column": "pl",
+   "old": "усыы",
+   "new": "усы"
+  },
+  {
+   "lemma": "усы",
+   "row": "prepositional",
+   "column": "pl",
+   "old": "усыах",
+   "new": "усах"
+  },
+  {
+   "lemma": "чудо",
+   "row": "accusative",
+   "column": "pl",
+   "old": "чуда",
+   "new": "чудеса"
+  },
+  {
+   "lemma": "чудо",
+   "row": "dative",
+   "column": "pl",
+   "old": "чудам",
+   "new": "чудесам"
+  },
+  {
+   "lemma": "чудо",
+   "row": "genitive",
+   "column": "pl",
+   "old": "чуд",
+   "new": "чудес"
+  },
+  {
+   "lemma": "чудо",
+   "row": "instrumental",
+   "column": "pl",
+   "old": "чудами",
+   "new": "чудесами"
+  },
+  {
+   "lemma": "чудо",
+   "row": "nominative",
+   "column": "pl",
+   "old": "чуда",
+   "new": "чудеса"
+  },
+  {
+   "lemma": "чудо",
+   "row": "prepositional",
+   "column": "pl",
+   "old": "чудах",
+   "new": "чудесах"
+  },
+  {
+   "lemma": "шкура",
+   "row": "accusative",
+   "column": "pl",
+   "old": "шкур",
+   "new": "шкуры"
+  }
+ ]
+}
