@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'As long as he doesn't freeze in there.' 'Tolko by' means 'if only' or 'as long as', for a worried wish. 'Zamyorz' comes from 'moroz', 'frost', so it is literally 'got frosted'.
 - 'Viktor Petrovich, would you be so kind.' 'Bud'te lyubezny' is literally 'be kind', said before a polite request. It's what a very formal person says, or someone being formal on purpose.
 - 'Open the fridge, please.' 'Otkroyte', 'open', ends in '-yte', the command ending for 'vy'. 'Pozhaluysta', 'please', also means 'you're welcome'.
-- 'I'm waiting, Viktor Petrovich.' 'Zhdu', 'I'm waiting', comes from 'zhdat', 'to wait'. The major puts the chef's name after it, which makes the polite words sound like pressure.
+- 'I'm waiting, Viktor Petrovich.' Short and cold: 'ya zhdu', I'm waiting, then the chef's first name and patronymic. That polite form of address makes the words sound like pressure.

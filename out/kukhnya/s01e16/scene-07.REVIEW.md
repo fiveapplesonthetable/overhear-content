@@ -27,12 +27,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Kostya, taste my pâté.' 'Poprobuy' is the 'ty' command of 'poprobovat', 'to try' or 'to taste'. Max and Kostya are friends, so it's 'ty' all the way.
-- 'Listen, is this even edible?' 'Sedobno', 'edible', comes from 'est', 'to eat'. 'Voobshche' here means 'even' or 'at all', and it adds the doubt.
+- 'Listen, is this even edible?' Casual 'slushay', listen, opens the question, the 'ty' command people use with friends. 'Voobshche' adds the doubt, 'even' or 'at all'.
 - 'Why are you looking like that?' 'Tak', 'so' or 'like that', points at the way he is looking. 'Smotrish' ends in '-sh', the ending for 'you' with a friend.
 - 'Because it looks strange.' Russian says 'looks strangely', 'vyglyadit stranno', with an '-o' word where English uses 'strange'.
-- 'The main thing is that it tastes good!' 'Glavnoe', 'the main thing', comes from 'glava', 'head'. 'Vkusno', 'tasty', comes from 'vkus', 'taste'.
+- 'The main thing is that it tastes good!' A handy pattern: 'glavnoe, chto...', the main thing is that. 'Vkusno' needs no 'it is' in front, because Russian drops 'to be' in the present.
 - 'Well, all right, I'll try it now.' 'Seychas' can mean 'right now' or 'in a moment', as here. 'Poprobuyu', 'I'll try', is the future: Kostya hasn't tasted yet.
-- 'So, how do you like it?' 'Kak tebe?' is literally 'how to you?', and it is the casual way to ask someone's opinion of food, a film or a new haircut.
+- 'So, how do you like it?' Just three words, and you can ask this about food, a film or a haircut. Literally 'how to you?', with 'tebe', the casual 'to you'.
 - 'Well, it's not bad.' 'Nichego', literally 'nothing', also means 'not bad' or 'okay'. 'Nichego tak' is a lukewarm, slightly reluctant 'it's all right'.
 - 'It would go with beer.' Russians drink 'pod pivo', literally 'under beer', when food is a snack for drinking. 'Poydyot', 'will go', here means 'will do'.
 - 'And is it like the chef's pâté?' 'Pokhozhe na', 'looks like', takes 'na', 'on'. 'Shefa', 'the chef's', is 'shef' plus '-a': Russian puts the owner after the thing, 'pâté of the chef'.

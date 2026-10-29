@@ -42,8 +42,8 @@ WALK = [
     (7, None, "'May I find out one thing?' 'Mozhno', 'it is possible', is the simplest way to ask permission: 'mozhno' plus the action, here 'uznat', 'to find out'."),
     (8, None, "'Why are you so interested in my restaurant?' Russian takes an interest 'toward' something, with 'k', and after 'k', 'moy restoran' becomes 'moemu restoranu'."),
     (9, None, "'We are fighting bad management.' 'Rukovodstvo', 'management', is built from 'ruka', 'hand', and 'vodit', 'to lead'. And you fight 'with' something in Russian: 'boremsya s'."),
-    (10, None, "'There was a call to my boss.' 'Zvonok', 'a call', comes from 'zvonit', 'to ring', and it is also the word for a doorbell or a school bell."),
-    (11, None, "'From the neighboring restaurant.' 'Sosedny', 'neighboring', comes from 'sosed', 'neighbor'. After 'iz', 'from', it becomes 'sosednego', which is said 'sosednevo'."),
+    (10, None, "'There was a call to my boss.' Notice 'byl', 'there was', is masculine to match 'zvonok', a call. 'Moemu nachalniku' carries the 'to' endings, telling you who got the call."),
+    (11, None, "'From the neighboring restaurant.' After 'iz', 'from', both words take the 'of' ending: 'sosednego restorana'. The 'g' in 'sosednego' is said like a 'v', 'sosednevo'."),
     (12, None, "'Everything is clear.' 'Ponyatno' is built on 'ponyat', 'to understand', so it is literally 'understandable'. It's the usual reply for 'I see' or 'got it'."),
     (13, None, "'Well then, until tomorrow.' 'Do zavtra', 'until tomorrow', is a set goodbye. Swap in another time and it still works, as in 'do vechera', 'until this evening'."),
 ]

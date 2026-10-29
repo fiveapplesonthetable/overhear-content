@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Chicken liver, fat, salt, pepper, onion.' 'Pechen', 'liver', is feminine, so 'kurinaya', 'chicken', ends in '-aya'. 'Salo' is salted pork fat, often eaten in thin slices on black bread.
 - 'In short, it's absolutely revolting.' 'V obshchem', literally 'in the general', means 'in short' or 'basically'. 'Gadost strashnaya' is literally 'a terrible nastiness'.
 - 'But mix it all together, and she likes it.' Russian says 'ey nravitsya', literally 'to her it is pleasing', so the food does the pleasing. 'Ey' means 'to her', and she is Eleonora Andreyevna.
-- 'Chef, are you kidding me?' 'Vy chto' is literally 'you what', and it turns the question into 'have you lost your mind?'. 'Izdevatsya' means 'to mock', a stronger word than 'to joke'.
+- 'Chef, are you kidding me?' That little 'vy chto' turns the question into disbelief, like 'are you out of your mind?'. 'Izdevaetes' is 'you're mocking me', stronger than joking, and still in polite 'vy'.
 - 'Why? You were building character.' 'Samovospityvalsya' joins 'samo-', 'self', to 'vospityvat', 'to bring up', so it means 'brought yourself up'. Barinov enjoys the long, pompous word.
 - 'By the way, it's a good pate.' 'Kstati' means 'by the way', written as one word. 'Khoroshiy', 'good', has the masculine ending to match 'pashtet'.
 - 'What did you put in it?' 'Dobavlyal' means 'were adding', from 'dobavlyat', 'to add'. The past tense shows gender but not person, so without 'ty' only the context tells you Barinov means Max.
@@ -41,7 +41,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hi there!' 'Zdorovo', with the stress on the last syllable, is a hearty 'hi' between friends. It comes from 'zdorov', 'healthy'.
 - 'So he let you go?' 'Otpustil' means 'let go' or 'released'. 'Tak', 'so', at the start asks for the end of the story.
 - 'Yep. They deported me.' 'Aga' is the casual 'yep'. 'Deportirovali', 'they deported', has no 'they': Russian uses a plural verb on its own when it does not matter exactly who did it.
-- 'I made a deal with the border guards.' 'Pogranichniki', 'border guards', comes from 'granitsa', 'border'. 'Dogovoritsya s' means 'to come to an arrangement with', and here it hints at a bribe.
+- 'I made a deal with the border guards.' Here 's' means 'with', and it puts the border guards into the 'with' ending, 'pogranichnikami'. 'Dogovorilsya', I came to an arrangement, is masculine past, and in this context it hints at a bribe.
 - 'They deleted me from the database.' 'Baza' is short for 'baza dannykh', 'database'. 'Iz bazy', 'from the database', has the '-y' ending after 'iz', 'from'.
 - 'Now I'm not Fedya, I'm Misha.' Russian needs no 'am': 'ya Misha' is literally 'I Misha'. 'Teper' means 'now', in the sense of 'from now on'.
 - 'Hi, Misha.' Barinov greets him with the same 'zdorovo' and the new name at once. Misha is the everyday short form of Mikhail.
