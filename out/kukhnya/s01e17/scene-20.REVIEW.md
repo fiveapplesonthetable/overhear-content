@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Why didn't you warn us?' "Pochemu" asks about the reason, unlike "zachem". "Predupredil" means "warned".
 - 'You'd never have come.' "By" turns "prishli", came, into "would have come". "Nikogda ne" means never.
 - 'You're my friends.' "Vy moi druzya" needs no "are".
-- 'I wanted us to celebrate my birthday together.' "Otmetit" is literally "to mark", and it's the usual word for celebrating an occasion.
+- 'I wanted us to celebrate my birthday together.' Russians 'mark' a birthday: 'otmetit'' literally means 'to mark', and it's the usual verb for celebrating an occasion. 'Khotel', I wanted, is masculine past, because Max is speaking.
 - 'You don't have to worry.' "Mozhete ne", you can not, is Russian for "you don't have to". "Volnovatsya" means to worry.
 - 'Thanks for a lovely evening.' "Prekrasnyy" means lovely or beautiful, and here it's pure sarcasm.
 - 'Bye.' Max's "poka" is the casual goodbye, said to all of them on his way out.

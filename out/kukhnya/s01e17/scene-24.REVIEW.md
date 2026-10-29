@@ -22,7 +22,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'But the hardest part is fixing what a lie leads to.' "Samoe slozhnoe" is "the hardest thing". "Lozh", a lie, becomes "lzhi" after "posledstviya", consequences: "consequences of a lie".
 - 'A lie gives birth to a new lie.' "Porozhdaet" means "breeds" or "gives rise to". "Lozh", a lie, looks the same whether it does the breeding or gets bred.
-- 'And there's no getting out of it.' "Vybratsya" is "to get yourself out", and "iz etogo" is "out of this". "Nevozmozhno" means impossible.
+- 'And there's no getting out of it.' No 'there is' and no 'it': the Russian just says 'and to get out of this impossible'. 'Vybratsya' ends in 'sya', so you are getting yourself out.
 - 'All you can do is believe in your own strength.' "Ostayotsya tolko" is literally "only remains". "Verit v" means "believe in", and "svoi sily" is "your own strength".
 - 'In yourself, the real you.' "Sebya" is "yourself" after "v". "Nastoyashchego", real, takes the same ending as "sebya" would need for a man.
 - 'If you start everything with a clean slate,' "S chistogo lista" is literally "from a clean sheet", the Russian fresh start.
