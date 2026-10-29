@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, I am betting on a CSKA victory!' Russians say the letters of the army club's initials, "tse-es-ka". They are Spartak's great rival. "Stavlyu" is "I bet", literally "I put".
 - 'Are you not joking? They are your enemies!' "Vragi" is "enemies", a strong word for rivals. The little "zhe" is the "after all" again. "Shutish" is "you joke".
 - 'I bet exactly one hundred thousand rubles!' "Rovno", "exactly", also means "level" or "even". "Sto tysyach rubley" is the same sum as the banquet cake. Barinov names it, and it is large.
-- 'Do you have that kind of money with you?' "U tebya est s soboy" is "at you there is with self", the Russian for "on you". "Takie dengi" is "such money", plural, as money always is.
+- 'Do you have that kind of money with you?' Possession works through "u tebya est", "at you there is". "S soboy", "with oneself", is how you say you are carrying something on you. "Dengi" is always plural, so "takie" is plural too.
 - 'Reserve the bet, I will bring cash soon.' "Zarezerviruy" is "reserve", a borrowed word with Russian bits on both ends. "Nalichnye" is "cash", from "nalichie", "being on hand". Barinov asks for credit.
 - 'All right, your bet is accepted at the office.' "Prinyata", "accepted", ends in -a because "stavka", "bet", is feminine. "Kontora" is an old word for an office, and here it's the betting shop.
 - 'Thank you, money right now matters more than anything to me.' "Vazhnee" is "vazhno", "important", with -ee: "more important". "Vazhnee vsego" is "more important than everything", with no "than" word, just the ending on "vsego".

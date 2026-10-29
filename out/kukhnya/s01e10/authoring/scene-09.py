@@ -45,5 +45,5 @@ WALK = [
     (10, None, '\'They have roster problems!\' "U nikh" is "at them", the same "at" pattern. "S sostavom" is "with the roster": "sostav", the line-up, takes -om after "s". The inside information is thin.'),
     (11, None, '\'Chef, football is pure lottery.\' Russian says "chistaya", "clean", for "pure", and "lotereya" is borrowed. There\'s no "is": just "football this pure lottery". Fedya is a realist.'),
     (12, None, '\'Do you not believe in our football?\' "Verish v" is "believe in", from the same family as "verny", "faithful". Barinov says "nash", "our", football, as if it belonged to the nation. It\'s patriotism.'),
-    (13, None, '\'I believe only in cash money!\' "Nalichnye", "cash", comes from "nalichie", "presence": the money that\'s actually there. "Tolko" is "only". The chef will have to find his stake elsewhere.'),
+    (13, None, '\'I believe only in cash money!\' Fedya answers with the verb Barinov just used, "verit v", "believe in", followed by what you believe in. "Nalichnye dengi" is money on hand, cash, and people often just say "nalichnye". The chef will have to find his stake elsewhere.'),
 ]

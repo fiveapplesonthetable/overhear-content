@@ -36,6 +36,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, it is better for us to wait a little with the wedding.' For "it is better for us", Russian says "nam luchshe", "to us better". "So svadboy" is "with the wedding": "svadba" becomes "svadboy". "Podozhdat" is "to wait a while".
 - 'Chef, will you help us sort this out calmly?' "Razobratsya" is "to sort out", from Barinov's "Ne nado nikomu zvonit, ya razberus" about the stove. "Pomozhete" is "will you help", polite.
 - 'The chef doesn't want to listen to our family arguments.' "Semeynye" is "family" as an adjective, from "semya". "Spory" are "arguments". Barinov has no time for them.
-- 'Viktor has an important football match starting now.' "U Viktora" is "at Viktor", the Russian for "Viktor has". "Nachinaetsya" is "begins", with -sya. "Futbolny match" is easy to hear.
+- 'Viktor has an important football match starting now.' "U Viktora" works like "u menya": "at Viktor" means "Viktor has", and "Viktor" takes -a after "u". "Nachinaetsya", "is beginning", ends in -sya because the match begins by itself.
 - 'Then we will sort everything out ourselves later.' The word "sami", "ourselves", puts the job back on the two of them. "Vo vsyom razberyomsya" is "in everything we will sort ourselves out", the same verb as before. "Pozzhe" is "later".
 - 'Go work, the wedding will definitely wait for now!' "Idi rabotay" is "go work", two commands with no "and". "Poka" here means "for now", the same word as "bye". "Podozhdyot" is "will wait".

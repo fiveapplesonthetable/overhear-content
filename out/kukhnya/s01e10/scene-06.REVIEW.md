@@ -36,7 +36,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Why do I need all of this right now?' "Zachem mne", "what for to me", is the Russian way to say "why do I need". "Vsyo eto" is "all this". He sounds like a man who doesn't want to grow up.
 - 'You are simply afraid of adult life.' "Boishsya", "you are afraid", ends in -sya, and what you fear takes the "of" ending: "zhizn" becomes "zhizni". "Vzrosly" is "grown-up".
 - 'I love freedom and adventures!' "Lyublyu", "I love", is from the same family as "lyubimy", "favourite". "Svoboda" becomes "svobodu", the thing he loves. A girlfriend is not on his list.
-- 'Vika is a mature and smart girl.' "Umnaya", "smart", comes from "um", "mind", like "umnitsa", "clever girl". "Vzroslaya" is the grown-up word again. Kostya sticks up for Vika.
+- 'Vika is a mature and smart girl.' There is no "is" in Russian here, just the name and the description. Both adjectives, "vzroslaya" and "umnaya", end in -aya to agree with a woman, and inside "umnaya" sits "um", "mind". Kostya sticks up for Vika.
 - 'She will not tolerate your nonsense.' "Terpet", "to tolerate", is in the same family as "terpenie", "patience". "Gluposti" is "foolishnesses", from "glupy", "foolish". "Ne budet" is "will not".
 - 'Exactly, she will start educating me.' "Vot imenno" is "exactly": "there you are" plus "precisely". "Vospityvat" covers bringing up a child, so Max feels she will treat him as a boy.
 - 'Then talk to her honestly.' "Chestno", "honestly", grows from "chestny", "honest". "Pogovori" is "talk" for a while, with po-. "S ney" is "with her".

@@ -30,12 +30,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Scientists say it is even healthier than black!' "Poleznee" is "more useful", "healthier", from "polezny". There is no word for "than": "chyornoy" takes the "of" ending instead. "Uchyonye" is "scientists".
 - 'Sorry, we could not get decent one in time.' "Dostat" is "to get hold of", something hard to find. "Normalnuyu" is "normal", here "decent". "Vovremya" is "in time", as in Senya's "Vsyo budet gotovo vovremya".
 - 'Therefore I decided to dye it a little.' To dye is "pokrasit", the kitchen's "krasit" with po-. "Poetomu" is "therefore", and "reshil" is "I decided".
-- 'If your scam surfaces, they will simply kill you!' "Vsplyvyot" is "floats up", the Russian for "comes out". "Ubyut" is "they will kill", with no one named, the verb of Senya's "Shef uvidit... i ubyot!".
+- 'If your scam surfaces, they will simply kill you!' A secret that "floats up" is "vsplyvyot", the Russian picture for something coming out. "Ubyut", "they'll kill", has no subject, the usual way to say "someone will". Senya said the singular, "ubyot", about the chef.
 - 'They will kill you and bury you in the woods.' "V lesu" is "in the woods", from "les", with a special ending -u. "Zakopayut" is "they will bury", literally "dig in".
 - 'I will not even weep at your grave.' Nagiyev says "dazhe ne budu plakat", "I will not even cry". "Na mogile", "at the grave", is literally "on the grave", from "mogila".
 - 'And if it does not surface, you are a real lucky guy.' "Vezunchik", "lucky guy", comes from the root of "povezlo", "got lucky", in the first scene: "Tebe povezlo, chto papa spit".
 - 'You will work an entire month without salary!' "Bez zarplaty" is "without salary"; "bez" is heard in Louis's "bez komochkov", "without lumps". "Zarplata" was in Nagiyev's "Ya tebe dve zarplaty uzhe vydal".
-- 'I am fining you two hundred thousand rubles.' "Shtrafuyu" is "I fine", from "shtraf", "a fine". Two hundred thousand, "dvesti tysyach", is what Timur asked for the caviar: "S tebya rovno dvesti tysyach rubley".
+- 'I am fining you two hundred thousand rubles.' From "shtraf", "a fine", comes the verb "shtrafovat", and "na" gives the amount: "na dvesti tysyach". It is the exact sum Timur asked for the caviar: "S tebya rovno dvesti tysyach rubley".
 - 'Seriously? On what will I live for a month?!' "Na chto" is "on what", meaning "on what money". "Zhit" is "to live", the root of "zhizn", "life". "Seryozno?" is "seriously?".
 - 'That is all, go to the kitchen and do not make me angry!' "Vsyo" here is "that's it". "Ne zli menya" is "don't anger me", from "zloy", "angry" or "wicked". "Idi na kukhnyu" is "go to the kitchen".
 - 'Yes, sir, Dmitry Vladimirovich.' "Slushayus" is "I am listening", with -sya, and means "yes, sir": the answer to an order. Barinov uses the owner's first name and father's name.

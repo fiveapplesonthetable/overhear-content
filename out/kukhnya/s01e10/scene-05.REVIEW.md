@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Aunt Vika said that she loves you.' Barinov keeps his daughter's way of saying it, "tyotya Vika". There's no "she" in the Russian, only "skazala, chto lyubit tebya", "said that loves you".
 - 'What? That simply cannot be!' After "ne", "eto" becomes "etogo": "etogo ne mozhet byt", a set phrase. And "mozhet byt" on its own means "maybe".
 - 'She herself confessed this to me.' "Sama" is "herself", and it gives the claim weight. "Priznalas", "confessed", ends in the woman's -las. "V etom" is "in this": Russians confess "in" something.
-- 'Chef, are you definitely not joking right now?' "Tochno" is "definitely", and "vy ne shutite" is the polite "you aren't joking". "Shutka" is a joke, and "shutit" is to joke.
+- 'Chef, are you definitely not joking right now?' Max keeps the polite "vy" with his boss: in "vy ne shutite", -ite is the polite ending. "Tochno" makes it "for sure", and "seychas" pins it to right now.

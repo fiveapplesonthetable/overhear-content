@@ -32,13 +32,13 @@ STORY = [
     ('max', 'Или шанс открыть в себе новые таланты.', 'Or a chance to discover new talents within oneself.', [(341, 'Или возможность проявить себя с другой стороны, открыть новые таланты.')], ''),
 ]
 WALK = [
-    (0, None, '\'Max, you definitely should not play poker.\' "Tebe ne stoit" is "it is not worth it to you", the Russian for "you shouldn\'t". "Stoit" also means "costs". "V poker" is "at poker", with "v".'),
+    (0, None, '\'Max, you definitely should not play poker.\' Word for word: "to you to play is not worth it". With "tebe", "ne stoit" is a gentle "you shouldn\'t", and on its own "stoit" also means "costs". Games take "v": "igrat v poker".'),
     (1, None, '\'You do not know how to bluff calmly at all.\' "Ne umeesh" is "you can\'t", in the sense of lacking the skill. "Spokoyno" is "calmly", as in Vika\'s "Obyasni mne spokoyno". "Blefovat" is "to bluff".'),
-    (2, None, '\'What was all this silly deception for anyway?\' "K chemu" is "to what", the Russian for "what for". "Obman" is "deception", from "obmanut", "to deceive". "Glupy" is "silly".'),
+    (2, None, '\'What was all this silly deception for anyway?\' Asking "k chemu", "to what", means asking what something is for. "Obman", "deception", goes with the verb "obmanut", "to deceive". "Voobshche" adds an exasperated "anyway".'),
     (3, None, '\'I just wanted to test your initial reaction.\' "Proverit" is "to test", Vika\'s word at the engagement: "Ty khotel proverit moyu smelost?". Now she admits she was the one testing. "Pervuyu reaktsiyu" is "first reaction".'),
     (4, None, '\'Why were you immediately frightened of adult responsibility?\' "Otvetstvennosti" appears in Max\'s "Ya ochen boyus takoy otvetstvennosti". "Ispugalsya" is "got scared", with -sya. "Vzrosloy" is "adult".'),
     (5, None, '\'I was not frightened, I was just not ready.\' "Ne byl gotov" is "was not ready", the short form "gotov" with "byl". "Ne ispugalsya" throws Vika\'s own verb back at her.'),
-    (6, None, '\'By the way, people do not joke about such things at all.\' "Mezhdu prochim" is "among other things", the Russian for "by the way". "Ne shutyat", "they don\'t joke", with no subject, means "people don\'t".'),
+    (6, None, '\'By the way, people do not joke about such things at all.\' A "they" verb with no "they" means people in general: "ne shutyat", "one doesn\'t joke". "Mezhdu prochim", "among other things", is the everyday "by the way". "Takimi veshchami" is in the instrumental case, the case for what you joke with.'),
     (7, None, '\'I have already come up with a name for our baby, you know.\' "Pridumal" is "made up", "came up with". "Imya" is "name". "Ved" adds "you know". "Dlya nashego rebyonka" is "for our child".'),
     (8, None, '\'Zhenya is a lovely name.\' "Prekrasnoe imya" is "a lovely name": "imya" is neuter, so "prekrasnoe" ends in -oe. The dash stands where English has "is". Zhenya is a short name for a boy or a girl.'),
     (9, None, '\'It will suit a boy and a girl perfectly.\' "Podoydyot" is "will suit", from the verb in the guest\'s "I svezhiy khleb otlichno podkhodit". "Ono" is "it", for the neuter "imya".'),

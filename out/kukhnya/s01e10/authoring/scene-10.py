@@ -40,7 +40,7 @@ WALK = [
     (5, None, '\'Chef, I need to work right now.\' "Mne nado", "to me it\'s necessary", is the casual "I have to". "Rabotat" is "to work". Kostya tries to leave politely, and the chef doesn\'t let him.'),
     (6, None, '\'Kostya, tell me, how are your affairs?\' "Skazhi" is "tell", said to one person. "Kak tvoi dela" is the casual "how are things", now with a motive behind it. Barinov is oiling the way.'),
     (7, None, '\'Fine, tips are good today.\' "Chaevye", "tips", grows out of "chay", "tea", so it\'s "tea money". "Normalno" is "fine". Kostya gives the answer a borrower likes best.'),
-    (8, None, '\'Really good? You are a wealthy man!\' "Bogaty" is "rich", and "chelovek" is the general word for a person. "Tochno khoroshie?" is "exactly good?". Barinov flatters, as he did with Fedya.'),
+    (8, None, '\'Really good? You are a wealthy man!\' Barinov picks up Kostya\'s own word, "khoroshie", and throws it back as a question with "tochno", "really?". Then "ty bogaty chelovek", with no verb for "are". Barinov flatters, as he did with Fedya.'),
     (9, None, '\'I just need to borrow a little.\' "Zanyat", "to borrow", is spelled like "zanyat", "busy", and they\'re related. To lend, Russians say "dat v dolg", "give into debt". Barinov says "nemnogo", but he means thousands.'),
     (10, None, '\'Chef, you want my tips?\' Kostya says "vy khotite", the polite "you want". There\'s no question word, only the voice rising at the end. "Moi chaevye" is "my tips".'),
     (11, None, '\'Only a couple of thousand until morning!\' "Vsego paru tysyach", "in all a pair of thousands", is "just a couple of thousand". "Do utra" is "until morning": after "do", "utro" becomes "utra".'),

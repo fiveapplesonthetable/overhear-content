@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What are you even thinking about during work?' "O chyom" is "about what". "Vo vremya raboty", literally "in the time of work", is "during work". "Voobshche" adds "even" or "at all".
 - 'I was simply thinking long about our complicated life.' "Slozhny", "complicated", is the word Vika used for the banquet, "slozhny banket". "Dolgo dumal" is "thought for a long time". "Zhizn" is "life".
 - 'The Chef will see this black smoke and kill us!' "Dym" is "smoke". Barinov said "ubyot", "will kill", about Tanya. "Uvidit" is "will see", from "videt".
-- 'I will quickly prepare a new fresh portion right now.' "Prigotovlyu" is "I will prepare", from "gotovit", "to cook". "Portsiyu" is borrowed and easy to catch. "Novuyu svezhuyu" is "new, fresh".
+- 'I will quickly prepare a new fresh portion right now.' Both adjectives, "novuyu svezhuyu", end in -uyu because "portsiya" is the object and becomes "portsiyu". "Prigotovlyu", "I will prepare", is a future built on "gotovit", "to cook", with pri- in front.
 - 'Hurry up quickly, the guests have been waiting for their order for a long time.' "Davno zhdut" is "have been waiting for a long time". "Davno" means "since long ago", and "dolgo" means "for a long stretch". "Speshi" is "hurry".
 - 'In five minutes the fine dish will be ready.' "Cherez pyat minut", literally "through five minutes", is "in five minutes". "Gotovo", "ready", has -o to match "blyudo", "dish".

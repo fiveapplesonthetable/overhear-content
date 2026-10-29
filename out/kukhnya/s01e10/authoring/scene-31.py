@@ -31,7 +31,7 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'Senya, are you sure about this idea?\' "Uveren v" is "sure in", so "v etoy idee", "in this idea". Barinov asked Timur the same thing about the caviar: "Ty tochno uveren?". Fedya is the cautious one.'),
-    (1, None, '\'Of course, this is a brilliant plan!\' "Genialny", "brilliant", comes from "geniy", "genius". "Plan" is the same as in English. Senya answers at once.'),
+    (1, None, '\'Of course, this is a brilliant plan!\' Senya used "geniy" for the chef in the last scene; "genialny" is its adjective, "brilliant". "Konechno", "of course", comes first and fast: Senya answers at once.'),
     (2, None, '\'But the caviar is completely yellow, like sand.\' "Zhe" adds "but look". "Zhyoltaya" is "yellow" and "pesok" is "sand". Pike caviar really is pale yellow, nothing like black.'),
     (3, None, '\'Now we will carefully dye it.\' "Pokrasim" is "we will dye" again, and "eyo", "it", stands for the caviar. "Akkuratno" is heard in Barinov\'s instruction, "medlenno i akkuratno".'),
     (4, None, '\'What dye will you paint it with?\' "Kakoy kraskoy" is "with what paint": "kraska" becomes "kraskoy". "Budesh krasit" is "will you dye". "Kraska" and "krasit" share a root. Fedya wants details.'),
@@ -40,6 +40,6 @@ WALK = [
     (7, None, '\'They will think that this is expensive caviar.\' "Podumayut" is "they will think". "Chto" here is "that", not "what". "Dorogaya ikra" is "expensive caviar". Senya states the plan in one sentence.'),
     (8, None, '\'Then let us quickly begin the work.\' "Togda" is "then". "Davay nachnyom", "let\'s begin", is how Barinov opened the dyeing. "Rabotu" is "work"; "rabota" ends in -u because it is what gets begun.'),
     (9, None, '\'Take the big spoon and stir.\' "Beri" is "take", the everyday partner of Timur\'s "vozmi lozhku". "Peremeshivay" is "stir": pere- adds "through and through", and the form says "keep going".'),
-    (10, None, '\'Look, the color is already starting to change.\' "Nachinaet menyatsya" is "starts to change", and "tsvet" is "colour". "Menyatsya" shares a root with Barinov\'s "izmenitsya" in his talk with Max: "tvoya zhizn silno izmenitsya".'),
+    (10, None, '\'Look, the color is already starting to change.\' Just as in English, "nachinaet" plus an infinitive means "starts to". "Menyatsya" ends in -sya: the colour changes by itself. Barinov used the same root with Max: "tvoya zhizn silno izmenitsya".'),
     (11, None, '\'Excellent, it is turning out like real sturgeon caviar!\' Real black caviar comes from the sturgeon, "osyotr", so "osetrovaya ikra". "Poluchaetsya" is the word Senya used for his "pike Easter". He is thrilled.'),
 ]

@@ -37,5 +37,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Now stir all the caviar well with a spoon.' "Pomeshay" is "give it a stir", from "meshat", the word Louis used for the chocolate: "Meshay ravnomerno". "Lozhkoy" is "with a spoon", from "lozhka".
 - 'Now it looks like expensive black caviar.' "Pokhozha na" is "looks like", literally "similar onto". After "na", "dorogaya chyornaya ikra" becomes "doroguyu chyornuyu ikru". "Dorogoy" means both "expensive" and "dear".
 - 'Not a single guest of the restaurant will notice anything.' "Ni odin gost", "nichego", "ne zametit": three negatives, and Russian needs all of them. Barinov said much the same about the cake: "chtoby gosti nichego ne zametili".
-- 'Chef, you are simply a culinary genius.' "Geniy" is "genius" and "kulinarny" is "culinary", both easy to recognise. "Prosto" is "simply". Senya flatters his boss.
+- 'Chef, you are simply a culinary genius.' You can hear the English in "kulinarny geniy", and the adjective comes first, as in English. Senya keeps the polite "vy", and there is no "are" at all.
 - 'No one must know this secret.' "Nikto ne dolzhen" is "nobody not must". "Dolzhen" also means "owe": Fedya told Barinov "Vy mne eshchyo pyat tysyach dolzhny", "you still owe me five thousand". "Znat" is "to know".

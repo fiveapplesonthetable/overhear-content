@@ -41,7 +41,7 @@ WALK = [
     (6, None, '\'Why do I need all of this right now?\' "Zachem mne", "what for to me", is the Russian way to say "why do I need". "Vsyo eto" is "all this". He sounds like a man who doesn\'t want to grow up.'),
     (7, None, '\'You are simply afraid of adult life.\' "Boishsya", "you are afraid", ends in -sya, and what you fear takes the "of" ending: "zhizn" becomes "zhizni". "Vzrosly" is "grown-up".'),
     (8, None, '\'I love freedom and adventures!\' "Lyublyu", "I love", is from the same family as "lyubimy", "favourite". "Svoboda" becomes "svobodu", the thing he loves. A girlfriend is not on his list.'),
-    (9, None, '\'Vika is a mature and smart girl.\' "Umnaya", "smart", comes from "um", "mind", like "umnitsa", "clever girl". "Vzroslaya" is the grown-up word again. Kostya sticks up for Vika.'),
+    (9, None, '\'Vika is a mature and smart girl.\' There is no "is" in Russian here, just the name and the description. Both adjectives, "vzroslaya" and "umnaya", end in -aya to agree with a woman, and inside "umnaya" sits "um", "mind". Kostya sticks up for Vika.'),
     (10, None, '\'She will not tolerate your nonsense.\' "Terpet", "to tolerate", is in the same family as "terpenie", "patience". "Gluposti" is "foolishnesses", from "glupy", "foolish". "Ne budet" is "will not".'),
     (11, None, '\'Exactly, she will start educating me.\' "Vot imenno" is "exactly": "there you are" plus "precisely". "Vospityvat" covers bringing up a child, so Max feels she will treat him as a boy.'),
     (12, None, '\'Then talk to her honestly.\' "Chestno", "honestly", grows from "chestny", "honest". "Pogovori" is "talk" for a while, with po-. "S ney" is "with her".'),
