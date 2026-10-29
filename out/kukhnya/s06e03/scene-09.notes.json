@@ -174,7 +174,7 @@
           "t": "своя",
           "lemma": "свой",
           "pos": "det",
-          "stress": "сво́я",
+          "stress": "своя́",
           "gloss": "one's own",
           "gram": "determiner"
         },
@@ -758,7 +758,7 @@
           "t": "своя",
           "lemma": "свой",
           "pos": "det",
-          "stress": "сво́я",
+          "stress": "своя́",
           "gloss": "one's own",
           "gram": "determiner"
         },
@@ -1342,7 +1342,7 @@
           "t": "своя",
           "lemma": "свой",
           "pos": "det",
-          "stress": "сво́я",
+          "stress": "своя́",
           "gloss": "one's own",
           "gram": "determiner"
         },
@@ -2458,10 +2458,6 @@
         {
           "word": "нет",
           "gloss": "no"
-        },
-        {
-          "word": "давай",
-          "gloss": "let's, come on"
         }
       ]
     },
@@ -2705,12 +2701,7 @@
           "trans": "Gum? I didn't have enough money."
         }
       ],
-      "related": [
-        {
-          "word": "день",
-          "gloss": "day"
-        }
-      ]
+      "related": []
     },
     "десять": {
       "lemma": "десять",
@@ -2739,12 +2730,7 @@
           "trans": "All right, stay there. I'll be there in ten minutes."
         }
       ],
-      "related": [
-        {
-          "word": "не десять",
-          "gloss": "negated / contrasted form (ten)"
-        }
-      ]
+      "related": []
     },
     "до": {
       "lemma": "до",
@@ -3749,10 +3735,6 @@
           "gloss": "for a long time"
         },
         {
-          "word": "долг",
-          "gloss": "debt"
-        },
-        {
           "word": "недолго",
           "gloss": "not for long"
         }
@@ -3768,7 +3750,7 @@
       "meanings": [
         {
           "en": "to begin, to start",
-          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'чинать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to begin, to start', paired with 'начать'."
+          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to begin, to start', paired with 'начать'."
         }
       ],
       "forms": {
@@ -3860,10 +3842,6 @@
         {
           "word": "начать",
           "gloss": "to begin"
-        },
-        {
-          "word": "причина",
-          "gloss": "reason"
         },
         {
           "word": "начинаться",
@@ -4129,16 +4107,7 @@
           "trans": "And afterwards we will celebrate our housewarming."
         }
       ],
-      "related": [
-        {
-          "word": "без новосель",
-          "gloss": "without housewarming"
-        },
-        {
-          "word": "наш новоселье",
-          "gloss": "our housewarming"
-        }
-      ]
+      "related": []
     },
     "ну": {
       "lemma": "ну",
@@ -4183,20 +4152,18 @@
       ]
     },
     "обыграть": {
-      "lemma": "обыграть",
-      "stress": "обы́грать",
-      "pos": "verb",
-      "gloss": "will beat / outplay",
-      "aspect": "impf",
-      "pair": null,
-      "meanings": [
+      "aspect": "pf",
+      "examples": [
         {
-          "en": "will beat / outplay",
-          "note": "Prefix 'об-' ('around, about') marks encirclement or comprehensive action (stem 'ыграть'). Used as an imperfective (ongoing/repeated action) verb meaning 'will beat / outplay'."
+          "text": "Я легко тебя обыграю!",
+          "trans": "I will easily beat you!"
+        },
+        {
+          "text": "Он обыграл меня в шахматы.",
+          "trans": "He beat me at chess."
         }
       ],
       "forms": {
-        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -4224,11 +4191,19 @@
               "обыграют"
             ]
           }
-        ]
+        ],
+        "title": "Future"
       },
+      "gloss": "to beat (in a game)",
+      "lemma": "обыграть",
+      "meanings": [
+        {
+          "en": "to beat (someone at a game)",
+          "note": "Takes the person beaten as a direct object: обыграть кого-то. Perfective (one completed win), paired with обыгрывать."
+        }
+      ],
       "moreForms": [
         {
-          "title": "Past",
           "columns": [
             "",
             "m",
@@ -4246,29 +4221,27 @@
                 "обыграли"
               ]
             }
-          ]
+          ],
+          "title": "Past"
         }
       ],
-      "examples": [
-        {
-          "text": "Ну что, доча, обыграем дядю Мишу?",
-          "trans": "Well then, daughter, shall we beat Uncle Misha?"
-        },
-        {
-          "text": "Надо всё сделать и обыграть вовремя.",
-          "trans": "We need to do everything and will beat on time."
-        }
-      ],
+      "pair": "обыгрывать",
+      "pos": "verb",
       "related": [
         {
-          "word": "пообыграть",
-          "gloss": "to will beat (prefixed perfective)"
+          "gloss": "to beat (imperfective)",
+          "word": "обыгрывать"
         },
         {
-          "word": "не обыграть",
-          "gloss": "not to will beat (negated infinitive)"
+          "gloss": "to win",
+          "word": "выиграть"
+        },
+        {
+          "gloss": "to play",
+          "word": "играть"
         }
-      ]
+      ],
+      "stress": "обыгра́ть"
     },
     "они": {
       "lemma": "они",
@@ -4409,7 +4382,7 @@
       "meanings": [
         {
           "en": "to refuse, decline (+ от or infinitive)",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'казываться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to refuse, decline', paired with 'отказаться'."
+          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to refuse, decline', paired with 'отказаться'."
         }
       ],
       "forms": {
@@ -4501,14 +4474,6 @@
         {
           "word": "отказаться",
           "gloss": "to refuse"
-        },
-        {
-          "word": "заказывать",
-          "gloss": "to order"
-        },
-        {
-          "word": "показывать",
-          "gloss": "to show"
         }
       ]
     },
@@ -4522,7 +4487,7 @@
       "meanings": [
         {
           "en": "to celebrate",
-          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'метить'). Used as an perfective (single completed action) verb meaning 'to celebrate, to note', paired with 'отмечать'."
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'метить'). Used as a perfective (single completed action) verb meaning 'to celebrate, to note', paired with 'отмечать'."
         }
       ],
       "forms": {
@@ -4631,7 +4596,7 @@
       "meanings": [
         {
           "en": "will keep track of",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'следить'). Used as an perfective (single completed action) verb meaning 'will keep track of'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'следить'). Used as a perfective (single completed action) verb meaning 'will keep track of'."
         }
       ],
       "forms": {
@@ -4719,7 +4684,7 @@
       "meanings": [
         {
           "en": "to compromise / give up",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ступиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an perfective (single completed action) verb meaning 'to compromise / give up'."
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ступиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as a perfective (single completed action) verb meaning 'to compromise / give up'."
         }
       ],
       "forms": {
@@ -4787,10 +4752,6 @@
         }
       ],
       "related": [
-        {
-          "word": "ступиться",
-          "gloss": "to to compromise (base verb)"
-        },
         {
           "word": "не поступиться",
           "gloss": "not to to compromise (negated infinitive)"
@@ -4917,7 +4878,7 @@
       "meanings": [
         {
           "en": "principle, tenet",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нцип'). Common masculine noun meaning 'principle' in everyday Russian."
+          "note": "Common masculine noun meaning 'principle' in everyday Russian."
         }
       ],
       "forms": {
@@ -5056,12 +5017,7 @@
           "trans": "Work, work. It's all for us."
         }
       ],
-      "related": [
-        {
-          "word": "радиатор",
-          "gloss": "radiator"
-        }
-      ]
+      "related": []
     },
     "район": {
       "lemma": "район",
@@ -5369,7 +5325,7 @@
       "meanings": [
         {
           "en": "to go and come back, to pop over",
-          "note": "'Сходите!' = Go on, go and see. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ходить'). Used as an perfective (single completed action) verb meaning 'to go (somewhere and come back)', paired with 'ходить'."
+          "note": "'Сходите!' = Go on, go and see. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ходить'). Used as a perfective (single completed action) verb meaning 'to go (somewhere and come back)', paired with 'ходить'."
         }
       ],
       "forms": {
@@ -5641,12 +5597,7 @@
           "trans": "I don't want that. But remember, your son is ill."
         }
       ],
-      "related": [
-        {
-          "word": "сынный",
-          "gloss": "related to son (adj.)"
-        }
-      ]
+      "related": []
     },
     "ты": {
       "lemma": "ты",
@@ -5881,10 +5832,6 @@
         {
           "word": "нехорошо",
           "gloss": "not nice"
-        },
-        {
-          "word": "похоронить",
-          "gloss": "to bury"
         }
       ]
     },

@@ -166,7 +166,7 @@
           "t": "платок",
           "lemma": "платок",
           "pos": "noun",
-          "stress": "пла́ток",
+          "stress": "плато́к",
           "gloss": "kitchen",
           "gram": "nominative / accusative"
         },
@@ -678,9 +678,9 @@
           "t": "враньё",
           "lemma": "враньё",
           "pos": "noun",
-          "stress": null,
-          "gloss": "never",
-          "gram": "nominative / accusative"
+          "stress": "враньё",
+          "gloss": "lies, lying",
+          "gram": "nominative"
         },
         {
           "t": "никогда",
@@ -788,7 +788,7 @@
           "t": "платок!",
           "lemma": "платок",
           "pos": "noun",
-          "stress": "пла́ток",
+          "stress": "плато́к",
           "gloss": "kitchen",
           "gram": "nominative / accusative"
         }
@@ -958,7 +958,7 @@
           "t": "платок",
           "lemma": "платок",
           "pos": "noun",
-          "stress": "пла́ток",
+          "stress": "плато́к",
           "gloss": "kitchen",
           "gram": "nominative / accusative"
         },
@@ -1470,9 +1470,9 @@
           "t": "враньё",
           "lemma": "враньё",
           "pos": "noun",
-          "stress": null,
-          "gloss": "never",
-          "gram": "nominative / accusative"
+          "stress": "враньё",
+          "gloss": "lies, lying",
+          "gram": "nominative"
         },
         {
           "t": "никогда",
@@ -1580,7 +1580,7 @@
           "t": "платок!",
           "lemma": "платок",
           "pos": "noun",
-          "stress": "пла́ток",
+          "stress": "плато́к",
           "gloss": "kitchen",
           "gram": "nominative / accusative"
         }
@@ -1750,7 +1750,7 @@
           "t": "платок",
           "lemma": "платок",
           "pos": "noun",
-          "stress": "пла́ток",
+          "stress": "плато́к",
           "gloss": "kitchen",
           "gram": "nominative / accusative"
         },
@@ -2262,9 +2262,9 @@
           "t": "враньё",
           "lemma": "враньё",
           "pos": "noun",
-          "stress": null,
-          "gloss": "never",
-          "gram": "nominative / accusative"
+          "stress": "враньё",
+          "gloss": "lies, lying",
+          "gram": "nominative"
         },
         {
           "t": "никогда",
@@ -2372,7 +2372,7 @@
           "t": "платок!",
           "lemma": "платок",
           "pos": "noun",
-          "stress": "пла́ток",
+          "stress": "плато́к",
           "gloss": "kitchen",
           "gram": "nominative / accusative"
         }
@@ -2799,62 +2799,55 @@
       "lemma": "враньё",
       "stress": "враньё",
       "pos": "noun",
-      "gloss": "never",
-      "gender": "m",
+      "gloss": "lies, lying (colloquial)",
+      "gender": "n",
       "meanings": [
         {
-          "en": "never",
-          "note": "Declinable masculine noun meaning 'never', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "en": "lies, lying",
+          "note": "Colloquial noun from врать 'to lie'. Neuter, like платье, and used only in the singular; the stress stays on the ending in every case (вранья, враньём)."
         }
       ],
       "forms": {
         "title": "Declension",
         "columns": [
           "",
-          "sg",
-          "pl"
+          "sg"
         ],
         "rows": [
           {
             "cells": [
               "nominative",
-              "враньё",
-              "враньёы"
+              "враньё"
             ]
           },
           {
             "cells": [
               "genitive",
-              "враньёа",
-              "враньёов"
+              "вранья"
             ]
           },
           {
             "cells": [
               "dative",
-              "враньёу",
-              "враньёам"
+              "вранью"
             ]
           },
           {
             "cells": [
               "accusative",
-              "враньё",
-              "враньёы"
+              "враньё"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "враньёом",
-              "враньёами"
+              "враньём"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "враньёе",
-              "враньёах"
+              "вранье"
             ]
           }
         ]
@@ -2862,18 +2855,26 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Твоё враньё никогда до добра не доводит!",
-          "trans": "Your lying never leads to anything good!"
+          "text": "Я просто устала от твоего вранья.",
+          "trans": "I am simply tired of your lying."
         },
         {
-          "text": "Айнура, скажи, а ты хорошо умеешь вязать?",
-          "trans": "Ainura, tell me, do you know how to knit well?"
+          "text": "Твоё враньё никогда до добра не доводит!",
+          "trans": "Your lying never leads to anything good!"
         }
       ],
       "related": [
         {
-          "word": "враньёный",
-          "gloss": "never"
+          "word": "врать",
+          "gloss": "to lie"
+        },
+        {
+          "word": "ложь",
+          "gloss": "lie, falsehood"
+        },
+        {
+          "word": "врун",
+          "gloss": "liar"
         }
       ]
     },
@@ -2979,14 +2980,6 @@
         {
           "word": "соврать",
           "gloss": "to tell a lie"
-        },
-        {
-          "word": "отвратительно",
-          "gloss": "disgustingly"
-        },
-        {
-          "word": "вратарь",
-          "gloss": "goalkeeper"
         }
       ]
     },
@@ -3751,7 +3744,7 @@
       "meanings": [
         {
           "en": "to buy",
-          "note": "Used as an perfective (single completed action) verb meaning 'to buy', paired with 'покупать'."
+          "note": "Used as a perfective (single completed action) verb meaning 'to buy', paired with 'покупать'."
         }
       ],
       "forms": {
@@ -3925,12 +3918,7 @@
           "trans": "Mum, what's a bidet?"
         }
       ],
-      "related": [
-        {
-          "word": "мамный",
-          "gloss": "related to mum (adj.)"
-        }
-      ]
+      "related": []
     },
     "мамин": {
       "lemma": "мамин",
@@ -3940,7 +3928,7 @@
       "meanings": [
         {
           "en": "needs",
-          "note": "Declinable masculine noun meaning 'needs', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+          "note": ""
         }
       ],
       "forms": {
@@ -4006,12 +3994,7 @@
           "trans": "Vika, how did you forget Mom's shawl at work?"
         }
       ],
-      "related": [
-        {
-          "word": "маминный",
-          "gloss": "needs"
-        }
-      ]
+      "related": []
     },
     "мы": {
       "lemma": "мы",
@@ -4126,10 +4109,6 @@
         {
           "word": "понадобиться",
           "gloss": "to be needed"
-        },
-        {
-          "word": "ненадолго",
-          "gloss": "for a short time"
         }
       ]
     },
@@ -4240,12 +4219,7 @@
           "trans": "No! Never!"
         }
       ],
-      "related": [
-        {
-          "word": "очень никогда",
-          "gloss": "intensified / related adverb (never)"
-        }
-      ]
+      "related": []
     },
     "нормально": {
       "lemma": "нормально",
@@ -4424,7 +4398,7 @@
       "meanings": [
         {
           "en": "without fail, definitely, necessarily",
-          "note": "Firm promise or requirement. Prefix 'об-' ('around, about') marks encirclement or comprehensive action (stem 'язательно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Firm promise or requirement. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
         }
       ],
       "forms": null,
@@ -4566,16 +4540,7 @@
           "trans": "She is not answering her phone."
         }
       ],
-      "related": [
-        {
-          "word": "вот она",
-          "gloss": "right here (to her)"
-        },
-        {
-          "word": "именно она",
-          "gloss": "precisely to her"
-        }
-      ]
+      "related": []
     },
     "опять": {
       "lemma": "опять",
@@ -4604,12 +4569,7 @@
           "trans": "Nina, don't listen. It's another trick."
         }
       ],
-      "related": [
-        {
-          "word": "очень опять",
-          "gloss": "intensified / related adverb (again)"
-        }
-      ]
+      "related": []
     },
     "переживать": {
       "lemma": "переживать",
@@ -4726,7 +4686,7 @@
     },
     "платок": {
       "lemma": "платок",
-      "stress": "пла́ток",
+      "stress": "плато́к",
       "pos": "noun",
       "gloss": "kitchen",
       "gender": "m",
@@ -4799,12 +4759,7 @@
           "trans": "Vitya, I do not understand you at all today."
         }
       ],
-      "related": [
-        {
-          "word": "платокный",
-          "gloss": "kitchen"
-        }
-      ]
+      "related": []
     },
     "последний": {
       "lemma": "последний",
@@ -4814,7 +4769,7 @@
       "meanings": [
         {
           "en": "last, final",
-          "note": "Последний раз = for the last time. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'следний'). Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('last, final')."
+          "note": "Последний раз = for the last time. Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('last, final')."
         }
       ],
       "forms": {
@@ -4898,20 +4853,7 @@
           "trans": "I'm asking for the last time. Where is the money?"
         }
       ],
-      "related": [
-        {
-          "word": "проследить",
-          "gloss": "to see to it"
-        },
-        {
-          "word": "наследие",
-          "gloss": "heritage"
-        },
-        {
-          "word": "расследование",
-          "gloss": "investigation"
-        }
-      ]
+      "related": []
     },
     "починить": {
       "lemma": "починить",
@@ -4923,7 +4865,7 @@
       "meanings": [
         {
           "en": "to fix, mend, repair",
-          "note": "+ acc. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'чинить'). Used as an perfective (single completed action) verb meaning 'to fix, repair', paired with 'чинить'."
+          "note": "+ acc. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'чинить'). Used as a perfective (single completed action) verb meaning 'to fix, repair', paired with 'чинить'."
         }
       ],
       "forms": {
@@ -5028,7 +4970,7 @@
       "meanings": [
         {
           "en": "to think up, to invent, to come up with",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'думать'). Used as an perfective (single completed action) verb meaning 'to think up, to come up with', paired with 'придумывать'."
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'думать'). Used as a perfective (single completed action) verb meaning 'to think up, to come up with', paired with 'придумывать'."
         }
       ],
       "forms": {
@@ -5162,20 +5104,7 @@
           "trans": "We just didn't want to bother you. We'll cancel it all!"
         }
       ],
-      "related": [
-        {
-          "word": "попросить",
-          "gloss": "to ask"
-        },
-        {
-          "word": "спрос",
-          "gloss": "asking"
-        },
-        {
-          "word": "спросить",
-          "gloss": "to ask"
-        }
-      ]
+      "related": []
     },
     "раз": {
       "lemma": "раз",
@@ -5591,7 +5520,7 @@
         },
         {
           "en": "in a moment",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ейчас')."
+          "note": ""
         }
       ],
       "forms": null,
@@ -5631,7 +5560,7 @@
         },
         {
           "en": "скажите = tell me / tell us",
-          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as an perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
+          "note": "Polite request. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'казать'). Used as a perfective (single completed action) verb meaning 'to say, to tell', paired with 'говорить'."
         }
       ],
       "forms": {
@@ -5809,12 +5738,7 @@
           "trans": "Oh my, and do you have knitting needles with you?"
         }
       ],
-      "related": [
-        {
-          "word": "спицыный",
-          "gloss": "work"
-        }
-      ]
+      "related": []
     },
     "срочно": {
       "lemma": "срочно",
@@ -5824,7 +5748,7 @@
       "meanings": [
         {
           "en": "urgently, right away; predicative: it is urgent",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'рочно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
         }
       ],
       "forms": null,
@@ -5946,16 +5870,7 @@
           "trans": "Pavel Yuryevich, what is this?"
         }
       ],
-      "related": [
-        {
-          "word": "тако",
-          "gloss": "in a such way (adv.)"
-        },
-        {
-          "word": "такость",
-          "gloss": "quality of being such"
-        }
-      ]
+      "related": []
     },
     "твой": {
       "lemma": "твой",
@@ -6310,16 +6225,7 @@
           "trans": "Take off his warm felt boots quickly."
         }
       ],
-      "related": [
-        {
-          "word": "тёпло",
-          "gloss": "in a warm way (adv.)"
-        },
-        {
-          "word": "тёплость",
-          "gloss": "quality of being warm"
-        }
-      ]
+      "related": []
     },
     "у": {
       "lemma": "у",
@@ -6378,7 +6284,7 @@
       "meanings": [
         {
           "en": "to know how to, can",
-          "note": "+ infinitive: a learned skill. Prefix 'у-' marks departure, removal, or successful completion (stem 'меть'). Used as an imperfective (ongoing/repeated action) verb meaning 'to know how to, to be able to', paired with 'суметь'."
+          "note": "+ infinitive: a learned skill. Used as an imperfective (ongoing/repeated action) verb meaning 'to know how to, to be able to', paired with 'суметь'."
         }
       ],
       "forms": {
@@ -6453,14 +6359,6 @@
         {
           "word": "суметь",
           "gloss": "to know how to"
-        },
-        {
-          "word": "неметь",
-          "gloss": "to go numb"
-        },
-        {
-          "word": "сметь",
-          "gloss": "to dare"
         }
       ]
     },
@@ -6564,10 +6462,6 @@
         {
           "word": "нехорошо",
           "gloss": "not nice"
-        },
-        {
-          "word": "похоронить",
-          "gloss": "to bury"
         }
       ]
     },
@@ -6610,10 +6504,6 @@
         {
           "word": "нехорошо",
           "gloss": "not nice"
-        },
-        {
-          "word": "похоронить",
-          "gloss": "to bury"
         }
       ]
     },
@@ -6786,14 +6676,6 @@
         {
           "word": "что-то",
           "gloss": "something"
-        },
-        {
-          "word": "вот что-нибудь",
-          "gloss": "right here (anything)"
-        },
-        {
-          "word": "именно что-нибудь",
-          "gloss": "precisely anything"
         }
       ]
     },
