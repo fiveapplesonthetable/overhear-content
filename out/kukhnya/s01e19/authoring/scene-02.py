@@ -7,7 +7,7 @@ SCENE = 2
 TITLE = 'Новые имена  (New names)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'artyom': 'Артём', 'barinov': 'Шеф', 'fedya': 'Федя'}
+LABELS = {'artyom': 'Артём', 'barinov': 'Шеф', 'cook': 'Повар'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "Meanwhile at Claude Monet, Barinov misses Senya and Fedya, the two cooks who were fired, and he won't learn the new cooks' names. Listen to it in Russian first, and just catch what you can."
@@ -23,11 +23,11 @@ STORY = [
     ('barinov', 'Мне плевать, кто ты.', 'I do not care who you are.', [(18, 'Сеню же уволили. А мне плевать, кто ты.')], ''),
     ('barinov', 'Сегодня ты Сеня.', 'Today you are Senya.', [(19, 'Сегодня ты Сеня.')], ''),
     ('barinov', 'Федя бы это быстро сделал.', 'Fedya would have done it fast.', [(21, 'Федя бы это за 10 секунд сделал.')], ''),
-    ('fedya', 'Я тоже Федя, шеф.', 'I am Fedya too, Chef.', [(22, 'Я, кстати, тоже Федя, шеф.')], ''),
+    ('cook', 'Я тоже Федя, шеф.', 'I am Fedya too, Chef.', [(22, 'Я, кстати, тоже Федя, шеф.')], ''),
     ('barinov', 'Нет, ты не Федя.', 'No, you are not Fedya.', [(23, 'Нет, ты не Федя.')], ''),
     ('barinov', 'Имя Федя заслужить надо.', 'You have to earn the name Fedya.', [(24, 'Имя Федя заслужить надо.')], ''),
     ('barinov', 'Теперь ты Артем.', 'Now you are Artyom.', [(25, 'Теперь ты Артем.')], ''),
-    ('fedya', 'Да, шеф.', 'Yes, Chef.', [(26, 'Да, шеф.')], ''),
+    ('cook', 'Да, шеф.', 'Yes, Chef.', [(26, 'Да, шеф.')], ''),
 ]
 WALK = [
     (0, None, "'Senya, is the sauce ready?' \"Gotov\", 'ready', has no ending because \"sous\", 'sauce', is a masculine word; a ready pizza would be \"gotova\". \"Sous\" itself comes from French."),
