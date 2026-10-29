@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You could say, quite a long time.' "Mozhno skazat", "it is possible to say", is "you could say". "Mozhno" is the opposite of "nelzya". "Dovolno davno" is "rather long ago".
 - 'What has he already managed to order?' "Uspel", "managed", means "had time to". It is the verb Lyova used in "my uspeem vsyo sdelat vovremya", "we will manage everything in time".
 - 'Nothing at all so far, only water.' "Poka", "so far", is the word that also means "bye". "Sovershenno nichego" is "completely nothing". "Vodu" is "voda", "water", as the thing he ordered.
-- 'He is writing something the whole time.' "Vsyo vremya" is "all the time". "Chto-to" is "chto", "what", with -to, so "something", just as "gde-to" is "somewhere".
+- 'He is writing something the whole time.' Add -to to a question word and it goes vague: "chto", "what", becomes "chto-to", "something", just as "gde" becomes "gde-to", "somewhere". "Vsyo vremya", "all the time", is the everyday "constantly".
 - 'Is he some famous writer?' "Izvestny", "famous", literally means "known". "Pisatel", "writer", is "one who writes", from "pisat", "to write". "On chto" is "what, is he".
 - 'But you were talking about that girl!' The little "zhe" is "but you know". "Pro tu devushku" is "about that girl". Nastya points out what the chef said earlier.
 - 'It turns out I have two critics now?' "Poluchaetsya", "it comes out", is the usual Russian for "it turns out". After "dva", "two", the word is "kritika", not "kritiki".

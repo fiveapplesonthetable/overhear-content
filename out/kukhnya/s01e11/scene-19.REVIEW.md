@@ -36,6 +36,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Kostya, stop! Do not go there.' After "ne", Russian prefers "khodit" to "idti" for "go", so it's "ne khodi". "Tuda" is "to there", and "stoy" is "stop!".
 - 'Why should I stand and watch?' "Dolzhen", "must", is the cousin of "dolg", "debt". "Stoyat i smotret" is "to stand and to watch". Kostya cannot see why he should stand still.
 - 'This man is an important restaurant critic.' The dash stands in for "is": "etot chelovek, vazhny kritik". "Vazhny" is "important". Nastya names the problem in one sentence.
-- 'And what can he do?' "Mozhet sdelat" is "can do", from "moch", "to be able". "I chto", "and what", makes it a challenge.
+- 'And what can he do?' Short and sharp. Putting "i chto", "and what", up front turns it into a shrug of a challenge, and "mozhet", "he can", needs a second verb, here "sdelat", "to do".
 - 'He can write a terrible article.' "Statya", "article", is feminine, so "uzhasnuyu" ends in -uyu. "Napisat" has na-, which makes "write" a finished job: "get written".
 - 'Make the order faster, I will go to the hall.' "Sdelay zakaz" is "make the order", here the drinks for her table. "Bystree", "faster", ends in -ee. "V zal" is "to the hall".

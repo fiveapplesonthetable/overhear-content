@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do you understand that the situation is very serious?' "Situatsiya" is the same word as in Kostya's "chrezvychaynaya situatsiya". "Seryoznaya", "serious", ends in -aya to match it. "Ty ponimaesh" is "do you understand".
 - 'I will not let our restaurant down, chef!' "Ne podvedu", "I won't let down", is the verb Vika used with Alisa: "ne podvedyosh?" It literally means "lead under".
 - 'Then work faster and do not talk too much!' "Lishnego" is "anything extra", so "don't chatter anything extra". It is the same word as Senya's "nikakikh lishnikh slov", "no more extra words".
-- 'And I will meet a new guest in the dining room.' "Vstrechu" is "I will meet", from "vstrecha", "a meeting". "Novogo gostya" is "a new guest", with -ogo because he is the one being met.
+- 'And I will meet a new guest in the dining room.' No "will" needed: "vstrechu" is a perfective verb, so this present-looking form already points to the future. "Novogo gostya" takes -ogo, the ending for a male person being met.

@@ -34,7 +34,7 @@ WALK = [
     (0, None, '\'Hello! How are things, bartender?\' The guest says "ty" to the bartender: "kak tvoi dela", "how your affairs". "Barmen" is "barman" in Russian letters. He has been drinking here before.'),
     (1, None, '\'Hello! How are you feeling today?\' Kostya answers politely, with "vy". Russian says "kak vy sebya chuvstvuete", "how you yourself feel", where "sebya" is "yourself".'),
     (2, None, '\'Ugh, today I feel worse than yesterday.\' "Khuzhe, chem vchera" is "worse than yesterday", with "chem" for "than". "Khuzhe" is an irregular form of "plokho", "bad". "Mne khuzhe" is "to me worse".'),
-    (3, None, '\'Did you happen to find my phone?\' "Sluchayno", "by chance", comes from "sluchay", "a case" or "chance". "Ty sluchayno ne nakhodil" is "did you by chance not find", a soft way to ask.'),
+    (3, None, '\'Did you happen to find my phone?\' Asking with "ne", "didn\'t you by chance find", makes the question softer, not negative. "Sluchayno", "by chance", is built on "sluchay", "a case" or "an occasion".'),
     (4, None, '\'Yes, I found it near the counter.\' "Stoyka", "counter", is related to "stoyat", "to stand". "Vozle stoyki" is "near the counter". "Nashyol" is "I found".'),
     (5, None, '\'Huge thanks for the help, friend!\' "Ogromnoe spasibo", "huge thanks", is the usual "thanks a lot". "Za pomoshch" is "for the help", and "drug" is "friend".'),
     (6, None, '\'Tell me honestly, did my girlfriend not call?\' "Devushka" is "girl" and also "girlfriend", so context decides. "Skazhi chestno" is "tell honestly". "Ne zvonila" is "didn\'t call".'),
