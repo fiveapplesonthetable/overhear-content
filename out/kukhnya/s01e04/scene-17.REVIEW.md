@@ -26,12 +26,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, I need to talk to you.' "Mne nado" is "to me it's needed". "S toboy" is "with you", from the familiar "ty".
+- 'Nastya, I need to talk to you.' Russian puts the person who needs in the "to" form: "mne nado", to me it's needed. "S toboy", with you, comes from "ty", so this is a friend talking.
 - 'Yes, Max, what did you want to discuss?' "O chyom ty khotel?" is "about what did you want?", with "to talk" left unsaid.
 - 'I have a good friend.' "U menya yest'" is "at me there is". "Odin", one, here means "a certain": a friend of mine.
 - 'And he really likes you very much.' "Ty yemu nravish'sya" is "you to him are pleasing". "Yemu", to him, names the one who does the liking.
 - 'A friend who likes me so much?' "Kotoromu" is "to whom", in the "to" form because of "nravlyus'". "Ya nravlyus'" is "I am pleasing".
-- 'Yes, he wants to ask you on a date.' "Priglasit'" is "to invite". "Na svidaniye" is "onto a date", with "na" for going to an event.
+- 'Yes, he wants to ask you on a date.' Going to an event takes "na", so a date is "na svidaniye", like "na rabotu", to work. "Tebya" is "you" as the one being invited.
 - 'I immediately understood everything perfectly!' "Ponyala" ends in -a for Nastya. "Srazu" is "at once".
 - 'Guys always say that about friends!' "Parni" is the plural of "paren'". "Pro druzey" is "about friends", with "drug" in an irregular plural.
 - 'Wait, you understood completely wrong.' "Nepravil'no" is "ne" plus "pravil'no", correctly. "Sovsem" is "completely".

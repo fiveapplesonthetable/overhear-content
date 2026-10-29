@@ -28,13 +28,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Chef, our newcomer stood out again.' "Otlichilsya" is "distinguished himself", said here with irony. "Otlichnyy", excellent, comes from the same root.
 - 'What did you do in the kitchen again?' "Natvoril" is "got up to mischief", with "tvorit'", to create, inside.
-- 'In the dining room the guest's tongue turned blue!' "U gostya yazyk" is "at the guest the tongue". "Stal sinim" is "became blue", with -im after "stal".
+- 'In the dining room the guest's tongue turned blue!' No "his" here: Russian says "u gostya yazyk", at the guest the tongue. After "stal", became, the colour takes the -im ending, "sinim".
 - 'Did you ruin the soup with food coloring?' "Pishchevym" is "food" as an adjective, from "pishcha". "Krasitelem" ends in -em for "with".
 - 'Chef, the soup turned out very delicious!' "Poluchilsya", turned out, is masculine for "sup". After it, "vkusnyy" becomes "vkusnym".
 - 'This is how you thank me for kindness!' "Blagodarish'" joins "blago", good, and "dar", gift. "Za dobrotu" is "for kindness".
 - 'I gave you a chance to become a good cook.' "Stat'" is "to become", and after it "khoroshiy povar" becomes "khoroshim povarom".
 - 'Please, listen to me for at least a minute.' "Vyslushayte" has "vy-", out: hear me out. "Khotya by minutu" is "at least a minute".
-- 'You have exactly two minutes!' "Rovno" is "exactly". "Dve" is "two" for feminine nouns, and after it "minuta" becomes "minuty".
+- 'You have exactly two minutes!' After "dve", two, the noun takes the "of" ending, so "minuta" becomes "minuty". It's "dve" and not "dva" because "minuta" is feminine.
 - 'Quickly pack all your things!' "Soberi" is "gather", Russian for packing. "Svoi veshchi" is "your own things".
 - 'Chef, I did not want to offend anyone.' "Nikogo" is "nobody" as the object, with "ne" too. "Obidet'" is from "obida", a hurt.
 - 'Leave here, you are fired from the restaurant!' "Ukhodi" is the command "leave". "Uvolen iz" is "fired from".

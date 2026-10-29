@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Lavrov, come here right now.' "Podoydi" is "come up", with "pod-", up to. The surname, "Lavrov", marks a serious talk.
-- 'Chef, can I already go to the kitchen?' "Mogu" is "I can", and "uzhe idti" is "already go".
+- 'Chef, can I already go to the kitchen?' Just like English "can go", "mogu", I can, is followed by a plain infinitive, "idti", to go on foot. "Uzhe", already, slips in between them.
 - 'Wait! Did you cook lunch for the cooks?' "Podozhdi" is the familiar "wait". "Dlya povarov" is "for the cooks", with -ov.
 - 'Yes, of course, I already made everything.' "Sdelal" is "did" or "made", with the man's -l. "Uzhe" is "already".
 - 'Is everything definitely ready? You aren't deceiving me?' "Tochno" is "for sure". "Obmanyvayesh'" is from "obman", a deception.
 - 'Well, almost cooked, very little is left.' "Pochti" is "almost". "Ostalos'", is left, takes the neuter -o because nothing named is the subject.
 - 'You are lying to my face again!' "Vryosh'" is the blunt everyday "you lie", from "vrat'". "V litso" is "into the face".
 - 'Chef, I never lie to you.' "Nikogda ne vru" is "never not lie", the double negative. "Vam" is the polite "to you".
-- 'The lie detector shows something completely different!' "Pokazyvayet" is "shows". "Sovsem drugoye" is "something else entirely", neuter for an unnamed thing.
+- 'The lie detector shows something completely different!' Literally, "the detector of lie": "lozh'", a lie, turns into "lzhi" in the "of" form. "Drugoye", other, is neuter because the thing it shows has no name.
 - 'This stupid machine simply broke.' "Slomalas'" is "broke", with -s' for breaking by itself and -a for "mashina".
 - 'Chef, you are like my own father to me.' "Rodnoy", one's own, is from "rod", kin. "Kak rodnoy otets" is "like a blood father".
-- 'Quickly run to the kitchen and feed people!' "Begi" is "run", and "kormi" is "feed", two commands joined by "i".
+- 'Quickly run to the kitchen and feed people!' Two ty commands back to back, "begi", run, and "kormi", feed. After "kormi", "lyudi", people, becomes "lyudey".
 - 'Understood, chef, I will do everything instantly.' "Slushayus'" is the soldier's "yes, sir", literally "I obey". "Momental'no" is "instantly", from "moment".

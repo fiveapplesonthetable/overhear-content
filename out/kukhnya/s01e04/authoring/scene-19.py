@@ -39,11 +39,11 @@ WALK = [
     (4, None, '\'What did you prepare for us today?\' "Nam", to us, does the job of "for us". "Prigotovil" is the man\'s "prepared".'),
     (5, None, '\'I cooked a special purée soup.\' "Svaril" is "varit\'", to boil, with "s-" for finished. "Sup-pyure" is a borrowed compound.'),
     (6, None, '\'A regular soup would be better.\' "By" is the little word for "would": "byl by luchshe", would be better.'),
-    (7, None, '\'You will all lick your fingers!\' "Pal\'chiki oblizhete" is "you\'ll lick your little fingers", the Russian for finger-licking good.'),
+    (7, None, '\'You will all lick your fingers!\' A cook\'s promise: "pal\'chiki oblizhete", you\'ll lick your little fingers, the Russian "finger-licking good". "Pal\'chiki" is the fond small form of "pal\'tsy", fingers.'),
     (8, None, '\'I hope this is edible.\' "Nadeyus\'", I hope, shares a root with "nadezhda", hope. "Mozhno yest\'" is "it\'s possible to eat", meaning edible.'),
     (9, None, '\'You have never tasted such a thing.\' "Nikogda ne probovali" doubles the negative. After it, "takoye" becomes the "of" form "takogo".'),
     (10, None, '\'The main thing is that it is tasty.\' "Chtoby" is "so that", and the verb after it goes into the past: "chtoby bylo vkusno".'),
     (11, None, '\'This is not that usual slop.\' "Mesivo", slop, is from "mesit\'", to knead. "Obychnoye", usual, is neuter to match.'),
-    (12, None, '\'Alright, bring it quickly to the table!\' "Nesi" is "carry", from "nesti". "Na stol" is "onto the table".'),
+    (12, None, '\'Alright, bring it quickly to the table!\' Carrying something while walking is "nesti", and "nesi" is its command to one person. "Na stol", onto the table, uses "na" for a surface.'),
     (13, None, '\'Now I will surprise you all!\' "Udivlyu", I\'ll surprise, has "divo", a marvel, at its root. "Vas vsekh" is "all of you".'),
 ]
