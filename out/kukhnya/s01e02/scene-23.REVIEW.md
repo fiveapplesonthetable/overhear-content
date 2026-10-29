@@ -21,7 +21,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Айнура | Убери его со стола, пока никто не видит. | Get it off the table while nobody is looking. | new | new |
 | 10 | Айнура | Пусть шеф сам найдёт свой нож. | Let the chef find his knife himself. | #247 00:18:31: Пусть он уже сам найдет. | verbatim |
 | 11 | Айнура | Спрячь его подальше отсюда, быстрее! | Hide it further away from here, quickly! | #247 00:18:31: Спрячь, спрячь. | verbatim |
-| 12 | Джинди | Хорошо, я сейчас всё уберу. | Alright, I will put everything away now. | #248 00:18:36: Ну | verbatim |
+| 12 | Джинди | Хорошо, я сейчас всё уберу. | Alright, I will put everything away now. | new | new |
 | 13 | Айнура | Только никому ничего не говори! | Just do not say anything to anyone! | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)

@@ -27,7 +27,7 @@ STORY = [
     ('ainura', 'Убери его со стола, пока никто не видит.', 'Get it off the table while nobody is looking.', [], ''),
     ('ainura', 'Пусть шеф сам найдёт свой нож.', 'Let the chef find his knife himself.', [(247, 'Пусть он уже сам найдет.')], ''),
     ('ainura', 'Спрячь его подальше отсюда, быстрее!', 'Hide it further away from here, quickly!', [(247, 'Спрячь, спрячь.')], ''),
-    ('jindi', 'Хорошо, я сейчас всё уберу.', 'Alright, I will put everything away now.', [(248, 'Ну')], ''),
+    ('jindi', 'Хорошо, я сейчас всё уберу.', 'Alright, I will put everything away now.', [], ''),
     ('ainura', 'Только никому ничего не говори!', 'Just do not say anything to anyone!', [], ''),
 ]
 WALK = [

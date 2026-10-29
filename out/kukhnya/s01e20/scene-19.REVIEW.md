@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Нагиев | Элеонора Андреевна, прошу. | Eleonora Andreyevna, please, have a seat. | #305 00:20:37: Андреевна<br>#306 00:20:43: Прошу | verbatim |
 | 2 | Шеф | Кушай, кушай, хозяин платит. | Eat up, eat up, the owner is paying. | #307 00:20:44: хозяин платит | verbatim |
-| 3 | Нагиев | О, смотри, кто пришёл. Здравствуйте. | Oh, look who's here. Hello. | #308 00:20:49: О, смотри, кто<br>#309 00:20:51: Здравствуйте | verbatim |
+| 3 | Шеф | О, смотри, кто пришёл. Здравствуйте. | Oh, look who's here. Hello. | #308 00:20:49: О, смотри, кто<br>#309 00:20:51: Здравствуйте | verbatim |
 | 4 | Элеонора | Не помешаю? | Am I interrupting? | #310 00:20:56: Не помешаю | verbatim |
 | 5 | Элеонора | Виктор Петрович, я в курсе того, что произошло. | Viktor Petrovich, I know what happened. | #311 00:21:04: Виктор Петрович, я в курсе того, что произошло | verbatim |
 | 6 | Элеонора | Я вам очень сочувствую. | I really feel for you. | #312 00:21:10: Я вам очень сочувствую | verbatim |
