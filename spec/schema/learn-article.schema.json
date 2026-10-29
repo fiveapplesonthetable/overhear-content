@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://overhear.invalid/schema/learn-article.v1.json",
   "title": "learn/<pair>/<id>.json",
-  "description": "A Learn article. Proposed in PLAN-overhaul 4.6; none authored yet.",
+  "description": "A Learn article. `seg` is the index of a line in the scene's script `segments` (the transcript line index). The publisher adds `seenIn`; `tags` are words (surface forms or lemmas) that make other lines count as 'seen in'.",
   "type": "object",
   "additionalProperties": false,
   "required": [
