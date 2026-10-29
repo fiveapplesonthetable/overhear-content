@@ -27,7 +27,7 @@ STORY = [
 WALK = [
     (0, None, '\'But the hardest part is fixing what a lie leads to.\' "Samoe slozhnoe" is "the hardest thing". "Lozh", a lie, becomes "lzhi" after "posledstviya", consequences: "consequences of a lie".'),
     (1, None, '\'A lie gives birth to a new lie.\' "Porozhdaet" means "breeds" or "gives rise to". "Lozh", a lie, looks the same whether it does the breeding or gets bred.'),
-    (2, None, '\'And there\'s no getting out of it.\' "Vybratsya" is "to get yourself out", and "iz etogo" is "out of this". "Nevozmozhno" means impossible.'),
+    (2, None, "'And there's no getting out of it.' No 'there is' and no 'it': the Russian just says 'and to get out of this impossible'. 'Vybratsya' ends in 'sya', so you are getting yourself out."),
     (3, None, '\'All you can do is believe in your own strength.\' "Ostayotsya tolko" is literally "only remains". "Verit v" means "believe in", and "svoi sily" is "your own strength".'),
     (4, None, '\'In yourself, the real you.\' "Sebya" is "yourself" after "v". "Nastoyashchego", real, takes the same ending as "sebya" would need for a man.'),
     (5, None, '\'If you start everything with a clean slate,\' "S chistogo lista" is literally "from a clean sheet", the Russian fresh start.'),
