@@ -33,7 +33,7 @@ STORY = [
 WALK = [
     (0, None, "'Nastya, please stop torturing me.' 'Muchit' is a strong word, 'to torment', for a girlfriend who isn't talking to him. 'Perestan' is the order 'stop', and the next action follows in its basic form."),
     (1, None, "'And why are you angry with me?' 'Serdishsya' ends in 'sya', so it's something like 'you anger yourself'. 'Na menya' is 'at me', since Russians are angry 'at' people, not 'with' them."),
-    (2, None, "'You and I argued over a trifle.' 'My s toboy' is literally 'we with you', and it means 'you and I'. 'Posporili' is 'had an argument', and 'iz-za pustyaka' is 'over a trifle'."),
+    (2, None, "'You and I argued over a trifle.' Where English says 'you and I', Russian says 'my s toboy', 'we with you'. 'Iz-za' gives the cause, so 'iz-za pustyaka' is 'because of a trifle', and 'posporili' is 'we argued'."),
     (3, None, "'For me this question was important.' Russian says 'was' out loud only in the past, and here it is. In the present the same sentence would drop it."),
     (4, None, "'You yourself wanted to argue a bit yesterday.' 'Sama khotela' is 'you yourself wanted', with 'a' endings because Kostya is talking to a woman. 'Vchera' is 'yesterday'."),
     (5, None, "'But I did not want such a foolish offense.' 'Obida' means 'hurt feelings' or 'a grievance'. 'Takoy glupoy' is 'such a foolish', both with the 'oy' ending that matches 'obidy' after 'not want'. 'Ne khotela' is 'did not want', with the 'a' of a woman speaking."),

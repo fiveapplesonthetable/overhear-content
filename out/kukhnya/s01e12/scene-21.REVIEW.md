@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The neighboring restaurant is burning right now!' 'Sosedniy' is 'neighbouring', from 'sosed', neighbour. 'Gorit' is 'is burning', and Russian uses the plain present for something going on right now.
 - 'Are you sure that this is a real fire?' 'Uveren' is 'sure', with a man's bare ending. 'Pozhar' is a fire as a disaster, a building on fire, while 'ogon' is just flame. Fedya switches to 'pozhar' to ask if it's the serious kind.
 - 'Of course, look at this black smoke.' 'Posmotri na' is 'look at', with 'na' doing the job of 'at'. 'Chyornyy dym' is 'black smoke', and both are masculine.
-- 'People are running out of the building onto the street.' 'Vybegayut' is 'they run out', from 'vy', 'out', and 'begat', 'run'. 'Na ulitsu' is 'onto the street', and the 'u' ending shows direction.
+- 'People are running out of the building onto the street.' Prefixes do the work here: 'vy-' means 'out', so 'vybegayut' is 'they run out'. Then 'na ulitsu', 'onto the street', ends in -u because that's where they're heading.
 - 'We urgently need to tell the boss about this.' 'Nam nado' is literally 'to us it's needed', so the people who need it are in the 'to' form, 'nam'. 'Shefu' is 'to the chef', with the same 'to' ending, 'u'.
 - 'Yes, he must know about this fire.' 'Pro' is a casual 'about', while Senya used the neutral 'ob' a line ago. 'Dolzhen' is 'must', and 'znat', to know, follows in its basic form.
 - 'Drop the cigarette and let's go inside faster.' 'Poshli' looks like 'they went', but in speech it's an invitation, 'let's go'. Say it to friends. 'Brosay' is an order, and it can mean 'drop' or 'throw'.

@@ -30,10 +30,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Why did you remove the kitchen wall?' The 'vy' here is plural, Vika and her people. On their own, these two say ty to each other. 'Ubrali' is 'removed', and 'stenu' is the wall as the thing removed.
 - 'Guests want to see the work of the best cooks.' 'Khotyat' is 'they want' and goes with 'videt', 'to see', as in English. 'Luchshikh' is 'of the best', and 'povarov' is 'of cooks'.
 - 'This is not a kitchen, but a foolish circus!' A tiny 'a' carries the 'but' in 'not this, but that'. 'Duratskiy', foolish, is built on 'durak', fool.
-- 'All our guests love this beautiful hall.' 'Vse' is 'all', 'nashi' is 'our', and 'lyubyat' is 'they love'. 'Krasivy' means 'beautiful', the same word as 'handsome' for people.
+- 'All our guests love this beautiful hall.' One word, two uses: 'krasivy' is 'beautiful' for a room and 'handsome' for a man. All three of 'vse nashi gosti' are plural, and 'lyubyat' is the 'they' form of 'lyubit', 'to love'.
 - 'They look at me like at a fish!' 'Kak na rybu' is literally 'like at a fish', and Russian keeps the 'at' in front of the fish. 'Rybu' is how 'ryba' looks when it's the thing being looked at.
 - 'The guests are still in shock from shouting.' 'Do sikh por' is literally 'until these times', which is how Russians say 'still'. 'Ot krika' is 'from the shout': ot takes the 'of' ending, so krik becomes krika.
 - 'I am a great chef, not a fish!' 'Velikiy' means 'great' in the sense of 'grand', not just 'big'. 'A ne' is 'and not'.
-- 'Then behave calmly in front of people.' 'Vedi sebya' is literally 'lead yourself', and it means 'behave'. 'Pered' is 'in front of', and 'lyudmi' is how 'people' changes after it.
+- 'Then behave calmly in front of people.' To behave, Russian says 'vesti sebya', literally 'to lead oneself', and 'vedi sebya' is the command. After 'pered', 'in front of', the word 'lyudi' changes to 'lyudmi'.
 - 'I will not tolerate this new circus!' 'Ne poterplyu' is the future, 'I will not put up with it'. 'Tsirk' is a masculine thing, not a person, so as the object it keeps its plain shape: etot novyy tsirk.
 - 'Get used to it, this is a modern and beautiful restaurant.' 'Privykay' is the ty order of 'get used'. 'Restoran' is masculine, so both describing words end in 'yy': sovremennyy i krasivyy.

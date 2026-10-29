@@ -32,7 +32,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Vitya, look at this advertising leaflet!' 'Vitya' is the short, familiar form of Viktor. 'Reklamny' is just 'reklama', 'advert', with a new ending, and 'buklet' is 'booklet' with a Russian accent."),
-    (1, None, "'What kind of strange word is Arcobaleno?' 'Chto eto za' is literally 'what this for', and it's the everyday way to ask 'what kind of'. 'Strannoe slovo', 'strange word': slovo is neuter, so 'strange' ends in 'oe'."),
+    (1, None, "'What kind of strange word is Arcobaleno?' Barinov uses a handy frame: 'chto eto za' plus a noun asks 'what kind of ... is this?', though word for word it's 'what this for'. 'Slovo' is neuter, so 'strange' ends in -oe: 'strannoe slovo'."),
     (2, None, "'What is that anyway, a rare kidney disease?' 'Vobshche' means 'in general' and 'at all', and Russians put it everywhere. 'Bolezn', illness, is feminine, so 'rare' is 'redkaya'. 'Pochek', 'of kidneys', is a plural of pochka, 'kidney'."),
     (3, None, "'Arcobaleno means rainbow in Italian, Vitya.' 'Znachit' means 'means', and it's also a filler like 'so' in speech. 'In Italian' is one word: 'po' at the front and 'ski' at the back make 'in that language'."),
     (4, None, "'I will not go to their cafe!' 'Ikh' means 'their' and never changes, whatever it describes. 'Cafe' doesn't change either."),
