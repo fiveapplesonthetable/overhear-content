@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Well, everything is simply excellent!' "Nu chto" is "well then", a way to sum up. "Vsyo prosto otlichno" is "everything is simply excellent". The guest is satisfied.
 - 'In our restaurant it cannot be any other way.' "Inache i byt ne mozhet" is "otherwise cannot even be", a fixed phrase. "V nashem restorane" is "in our restaurant". Barinov enjoys the praise.
 - 'Waiter, what is the score in the match now?' "Schyot" is "score", from Senya's promise to watch it: "sledit za schyotom". "V matche" is "in the match".
-- 'The score there is three-three now, our guys tied it up!' "Otygralis" is "won it back", the Russian for "equalised": "igrat" with ot- and -sya. "Nashi", "ours", means "our team".
+- 'The score there is three-three now, our guys tied it up!' Fans say "nashi", "ours", for "our team". "Otygralis" is "igrat", "to play", with ot- and -sya: playing your way back level. "Schyot" means the score here, and also a bill.
 - 'They had not tied it up like that for twenty years in a row.' In a row is "podryad". "Dvadtsat let" is "twenty years", with "let" after the number. The guest is amazed.
 - 'And today they suddenly scored three quick goals!' "Vdrug" is "suddenly", heard in Fedya's "A vdrug shef uvidit". "Zabili gol" is "hammered in a goal", how Russians say "scored".
 - 'Did Spartak really let victory slip away in the end again?!' "Neuzheli" is "can it really be", as in Max's "Neuzheli shef — tvoy blizkiy rodstvennik?". "Upustil" is "let slip", as if victory had fallen from his hands.

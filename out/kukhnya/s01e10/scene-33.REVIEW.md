@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Maybe we will name him Zhenya?' "Zhenya" is short for both Evgeny and Evgeniya, so it fits a boy or a girl. "Nazovyom" is "we will name", the verb in Barinov's "Nazovi tochnuyu tsenu". "Mozhet" is "maybe".
 - 'It will be a handsome name — Evgeny Maksimovich!' A first name plus the father's name, like Dmitry Vladimirovich, is the polite form of address. "Maksimovich" is "son of Maksim". "Krasivoe imya" is "beautiful name".
 - 'And if a girl is born, we will name her Evgeniya.' "Roditsya" is "will be born", with -sya on the end. "Devochka" is "little girl". The girl's name, "Evgeniya", ends in -a.
-- 'Do you like this plan, darling?' "Tebe nravitsya" is "to you is pleasing", the Russian for "you like". "Dorogaya" is "dear" or "darling", the word Barinov used to Vika: "dorogaya Viktoriya".
+- 'Do you like this plan, darling?' Russian turns liking around: "tebe nravitsya plan", "to you the plan is pleasing", so the plan is the subject. "Dorogaya", "dear", is what Barinov called Vika: "dorogaya Viktoriya".

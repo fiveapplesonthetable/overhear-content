@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'She says that the matter is very important.' "Delo" is "matter" or "business", the word in "v chyom delo", "what's the matter". "Vazhnoe" ends in -oe to match it. Kostya is trying to persuade the chef without saying so.
 - 'I currently have absolutely no time.' It is "u menya net vremeni", "at me no of time". "Vremya" becomes "vremeni" after "net", an odd change worth learning. "Sovershenno" is "absolutely".
 - 'She is waiting for you near the main entrance.' "Zhdyot vas" is "waits you", with no "for". "Vkhod", "entrance", is "the going in", from "v", "in". "Vozle glavnogo vkhoda" changes both words after "vozle".
-- 'Let her come into my office.' "Pust zaydyot" is "let her drop in": "pust" is "let", and "zayti" means "drop in". "Ko mne" is "to me", to a person's place. "Kabinet" is an office.
+- 'Let her come into my office.' "Pust" plus a future verb gives "let her" or "let him", and "zaydyot" already tells you it is one person. "Ko mne", literally "to me", here means "to my place". A "kabinet" is a private office or study.
 - 'She asked you to come out for one minute.' "Na odnu minutu", "for one minute", uses "na" to say how long. "Vyyti", "come out", is the opposite of "voyti", "go in".
 - 'Fine, Kostya, I will come over myself now.' "Podoydu", "I will come over", means to come up to someone, with pod-. "Sam" is "myself". The easy "ladno" gives away that he is curious.
 - 'Thank you, chef, I will convey your words.' "Peredam", "I will convey", is "give across", the same word Barinov used to pass on messages to Tanya. Kostya says "vashi", the polite "your".

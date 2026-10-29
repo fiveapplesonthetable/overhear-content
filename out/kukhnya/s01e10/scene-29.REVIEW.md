@@ -28,9 +28,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Well, did you bring it?' 'Nu chto' is a quick 'well?'. 'Prinyos' is 'brought', the past of prinesti; it has no l at the end, unlike most past forms.
 - 'Here is the goods, as you ordered, chef.' "Tovar", "goods", is singular, so "vot tovar" is "here is the goods". "Kak vy zakazyvali" is "as you ordered", from "zakaz", "order".
-- 'Open the box and show me the caviar.' "Otkroy" is "open" and "pokazhi" is "show", both said to one person. "Otkroy" is from "otkryt", the opposite of "zakryt", "to close". "Pokazhi mne" is "show me".
+- 'Open the box and show me the caviar.' Two "ty" commands to Senya, "otkroy" and "pokazhi". "Korobka" becomes "korobku" as the thing being opened. "Otkryt", "to open", is the opposite of "zakryt", "to close".
 - 'This is excellent pike caviar, five kilograms.' "Shchuchya", "pike", is made from "shchuka", "a pike", and it describes the caviar. "Pyat kilogrammov" here has the full ending. "Otlichnaya" is "excellent".
-- 'The price is only two hundred rubles per kilogram.' "Vsego", "only", comes from "ves", "all", so it's "in all two hundred". "Za kilogramm" is "per kilogram", with "za". "Tsena" is "price".
+- 'The price is only two hundred rubles per kilogram.' Here "za" means "per", in exchange for: "za kilogramm". "Vsego" before a number makes it sound small, "only" or "all of". "Dvesti rubley" uses the "of" ending, as plurals do after big numbers.
 - 'This is indeed a very cheap price.' "Deshyovaya", "cheap", is the opposite of "dorogaya", "expensive". Barinov said "deystvitelno", "indeed", at the tasting, "deystvitelno ochen vkusnaya".
 - 'We saved the restaurant a lot of money.' "Sekonomili" is "saved", for money, from "ekonomiya". "Restoranu" is "for the restaurant": "restoran" adds -u. "Mnogo deneg" is "a lot of money".
 - 'But the color of this caviar is too yellow.' "Slishkom", "too", came up with the slow hotplate, "slishkom medlenno". "Tsvet" is "colour", and "zhyolty" is "yellow".

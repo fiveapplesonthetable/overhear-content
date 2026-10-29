@@ -41,7 +41,7 @@ WALK = [
     (7, None, '\'Yes, it is better for us to wait a little with the wedding.\' For "it is better for us", Russian says "nam luchshe", "to us better". "So svadboy" is "with the wedding": "svadba" becomes "svadboy". "Podozhdat" is "to wait a while".'),
     (8, None, '\'Chef, will you help us sort this out calmly?\' "Razobratsya" is "to sort out", from Barinov\'s "Ne nado nikomu zvonit, ya razberus" about the stove. "Pomozhete" is "will you help", polite.'),
     (9, None, '\'The chef doesn\'t want to listen to our family arguments.\' "Semeynye" is "family" as an adjective, from "semya". "Spory" are "arguments". Barinov has no time for them.'),
-    (10, None, '\'Viktor has an important football match starting now.\' "U Viktora" is "at Viktor", the Russian for "Viktor has". "Nachinaetsya" is "begins", with -sya. "Futbolny match" is easy to hear.'),
+    (10, None, '\'Viktor has an important football match starting now.\' "U Viktora" works like "u menya": "at Viktor" means "Viktor has", and "Viktor" takes -a after "u". "Nachinaetsya", "is beginning", ends in -sya because the match begins by itself.'),
     (11, None, '\'Then we will sort everything out ourselves later.\' The word "sami", "ourselves", puts the job back on the two of them. "Vo vsyom razberyomsya" is "in everything we will sort ourselves out", the same verb as before. "Pozzhe" is "later".'),
     (12, None, '\'Go work, the wedding will definitely wait for now!\' "Idi rabotay" is "go work", two commands with no "and". "Poka" here means "for now", the same word as "bye". "Podozhdyot" is "will wait".'),
 ]

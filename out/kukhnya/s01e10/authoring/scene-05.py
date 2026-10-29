@@ -43,5 +43,5 @@ WALK = [
     (9, None, '\'Aunt Vika said that she loves you.\' Barinov keeps his daughter\'s way of saying it, "tyotya Vika". There\'s no "she" in the Russian, only "skazala, chto lyubit tebya", "said that loves you".'),
     (10, None, '\'What? That simply cannot be!\' After "ne", "eto" becomes "etogo": "etogo ne mozhet byt", a set phrase. And "mozhet byt" on its own means "maybe".'),
     (11, None, '\'She herself confessed this to me.\' "Sama" is "herself", and it gives the claim weight. "Priznalas", "confessed", ends in the woman\'s -las. "V etom" is "in this": Russians confess "in" something.'),
-    (12, None, '\'Chef, are you definitely not joking right now?\' "Tochno" is "definitely", and "vy ne shutite" is the polite "you aren\'t joking". "Shutka" is a joke, and "shutit" is to joke.'),
+    (12, None, '\'Chef, are you definitely not joking right now?\' Max keeps the polite "vy" with his boss: in "vy ne shutite", -ite is the polite ending. "Tochno" makes it "for sure", and "seychas" pins it to right now.'),
 ]

@@ -28,8 +28,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Senya, come over here for a second.' "Podoydi" is "come up", po- plus the walking verb. "Syuda" is "to here". "Na sekundu" is "for a second".
 - 'What is it, Fedya? Is everything ready?' "Chto takoe?" is "what is it?", as in Max's "Chto takoe? Shef zhdyot na kukhne.". "Vsyo gotovo?" has only the rising voice to make it a question.
 - 'I think we did not finish dyeing it.' "Dokrasili" is "krasit" with do-, "to the end": "finished dyeing". With "ne" it means the job is not finished. "Mne kazhetsya" is "it seems to me".
-- 'Come on, it is completely black!' "Da bros" is "oh, drop it", the Russian for "come on". "Absolyutno" is "absolutely", easy to recognise. Senya waves the worry away.
-- 'What if Chef sees light caviar eggs?' "A vdrug" is "and suddenly", the Russian for "what if". One caviar egg is "ikrinka", from "ikra". "Svetlye" is "light".
+- 'Come on, it is completely black!' Since "brosit" means "to throw", "da bros" is "oh, drop it", a casual way to wave off a worry. "Ona" means "it" here because "ikra" is feminine, and so is "chyornaya".
+- 'What if Chef sees light caviar eggs?' Literally "and suddenly", "a vdrug" opens a worried "what if". "Ikrinki" are single grains of "ikra", caviar, and Fedya fears a few pale ones. "Uvidit" is "will see", one moment of noticing.
 - 'Nobody will notice anything suspicious.' "Nikto nichego ne zametit": three negatives again. "Podozritelnogo" is "suspicious", from the same root as Fedya's "zapodozrili", "suspected".
 - 'If the caviar did not look like the real thing,' "Esli by" is the unreal "if": the little "by" says "this isn't the case". "Pokhozha na nastoyashchuyu" is "similar to the real one".
 - 'you would not be tasting it yourself right now.' The "by" comes again: "ty by ne proboval", "you would not be tasting". "Sam" is "yourself". Senya's argument is that Fedya is eating it.

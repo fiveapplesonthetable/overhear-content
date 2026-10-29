@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, here is everything, just as we agreed.' "Kak my dogovorilis" is "as we agreed", from "dogovoritsya", "to come to an agreement", with -s on the end. "Vot vsyo" is "here's everything". Timur has delivered.
+- 'Chef, here is everything, just as we agreed.' Timur opens with "vot vsyo", "here's everything", the way you hand something over. "Dogovarivalis", "we agreed", ends in -s, the short form of -sya after a vowel: you agree with one another.
 - 'Did you bring the complete order of black caviar?' "Chyornoy ikry", "of black caviar", changes both words: "chyornaya ikra" becomes "chyornoy ikry". "Prinyos" is "you brought". Barinov says "ty" to the supplier.
 - 'Here are exactly five kilograms of prime caviar.' "Rovno", "exactly", is the word from Barinov's bet, "rovno sto tysyach". In speech, "pyat kilogramm" often drops the ending of "kilogrammov". "Samoy luchshey" is "the very best".
 - 'Are you definitely sure that it is fresh?' "Ikra" is feminine, so "it" is "ona", "she", and "fresh" is "svezhaya". "Tochno uveren" is "definitely sure", with "uveren" for a man.

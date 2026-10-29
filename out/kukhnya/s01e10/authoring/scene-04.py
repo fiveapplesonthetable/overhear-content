@@ -41,7 +41,7 @@ WALK = [
     (7, None, '\'No, we pay ten thousand rubles.\' "Platim" is "we pay", from the same family as "zaplatili", "paid", in the cake scene. After "desyat tysyach", "rubl" becomes "rubley".'),
     (8, None, '\'Then goodbye, or rather farewell!\' "Do svidaniya" is "until seeing", until we meet again. "Proshchayte" is a final farewell. So Barinov means he doesn\'t want to see her again, ever.'),
     (9, None, '\'Wait, Viktor, let us calmly discuss everything.\' "Podozhdite" and "davayte" both end in -te: the polite "wait" and "let\'s". "Obsudim" is "we will discuss". A television woman knows how to keep a man in the room.'),
-    (10, None, '\'You propose that I work on my day off.\' "Vykhodnoy den", "day off", comes from "vykhodit", "to go out". "Predlagaete" is "you propose", the polite form. Barinov lines up his objections like plates.'),
+    (10, None, '\'You propose that I work on my day off.\' Hidden inside "vykhodnoy den" is "vykhodit", "to go out": a day off is a day you get out. Notice "v moy vykhodnoy", with "v" for "on" a day. Barinov is already hunting for a reason to say no.'),
     (11, None, '\'This will make your restaurant very famous.\' "Izvestnym" is "famous", literally "known"; for the pastry chef it was "znamenity", which is stronger. "Sdelaet" is "will make". She changes tack, from his fee to the restaurant\'s name.'),
     (12, None, '\'I do not work for such ridiculous kopecks!\' A hundred "kopeyki" make a ruble, so it\'s what English calls peanuts. "Smeshnye", "ridiculous", is the word for "funny". "Za takie" is "for such".'),
 ]

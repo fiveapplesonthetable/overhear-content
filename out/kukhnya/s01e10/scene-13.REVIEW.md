@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And why did he start hiding now?' "Stal pryatatsya" is "became hiding", what Russians say for "started to hide". "Stal" is from "stat", the same as "stanet legche", "it will become easier".
 - 'He got scared of a wedding and little kids!' "Ispugalsya" is back with its -sya. After it, "svadba" becomes "svadby" and "deti" becomes "detey": being afraid of something takes the "of" ending.
 - 'Poor cowardly Maxik, got scared of kids.' "Maksik" is a pet form of Max, made by adding -ik. It can be loving or mocking, and here it is both. "Truslivy" is "cowardly", from "trus", "coward".
-- 'Thank you for not touching Nastya's shift!' "Spasibo, chto ne trogaesh" is "thank you that you don't touch". "Smenu Nasti" is "Nastya's shift": the name becomes "Nasti", which is the "of".
+- 'Thank you for not touching Nastya's shift!' Word for word, "thank you that you don't touch": Russian links the reason with "chto". In "smenu Nasti" the owner comes after the thing, and "Nastya" changes to "Nasti" to mean "Nastya's".

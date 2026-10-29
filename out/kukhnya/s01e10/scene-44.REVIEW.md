@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Chef, why are you shouting so loudly?' "Krichite" is "you shout", polite, from the verb in Fedya's "pochemu ty tak krichish?". "Tak gromko" is "so loudly". "Vy pochemu" puts "you" first.
 - 'Quickly get out of here and close the door!' "Uydi" is "go away", with u-, "off". "Otsyuda" is "from here". "Zakroy dver" was in Barinov's "Zakhodi v komnatu i zakroy dver", the opposite order.
-- 'I just brought clean chef aprons.' "Povarskie" is "cook's", from "povar", "cook". "Chistye" is "clean", the same word as "pure" in Vika's "chistuyu pravdu". "Fartuki" are "aprons".
+- 'I just brought clean chef aprons.' Notice "prinyos", "brought": a past tense with no -l at all, one of the irregular ones. "Povarskie" is the adjective from "povar", "cook", and "chistye" is the word in Vika's "chistuyu pravdu", "pure truth".
 - 'I do not need any aprons right now, runt!' "Nikakie... ne nuzhny" is "not any... needed", the double negative. "Oguzok" is Barinov's old nickname for Max, a cheap cut of beef.
 - 'Did Spartak really lose this match again?' "Neuzheli" is "can it really be", from Barinov's own question to the guests. "Proigral" is "lost". "Opyat" is "again".
 - 'They conceded a goal in the last minute!' "Propustili gol" is "let a goal through", football talk for "conceded". "Na posledney minute" is "in the last minute", with "na", "on".
