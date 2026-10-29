@@ -15,7 +15,7 @@ import hashlib, json, re, sys
 from pathlib import Path
 
 SCHEMA_DIR = Path(__file__).resolve().parents[1] / "spec" / "schema"
-SCHEMA_FILES = {"scenes": "scenes.schema.json", "script": "script.schema.json", "notes": "notes.schema.json", "cast": "cast.schema.json"}
+SCHEMA_FILES = {"scenes": "scenes.schema.json", "script": "script.schema.json", "notes": "notes.schema.json", "cast": "cast.schema.json", "learn": "learn-article.schema.json"}
 LENIENT_VERSION = [False]   # --script mode: examples/ predate the schema (and cannot be edited), so schema errors only warn
 LEX_SEEN = {}               # lang -> field -> lemma -> {value: scene file}; judged by check_lexicon (one lemma, one entry shape)
 LEX_FIELDS = ("pos", "gender", "aspect", "pair", "stress")
@@ -113,6 +113,33 @@ class Report:
 
     def err(self, where, msg): self.errors.append(f"{where}: {msg}")
     def warn(self, where, msg): self.warnings.append(f"{where}: {msg}")
+
+
+def check_learn(root, rep):
+    """learn/<pair>/<id>.json: schema, id = file name, pair = folder, related notes exist, every example is a target-language line of a
+    scene under out/ (sceneId <show>-sNNeNN-scene-NN, seg = index into that scene's script segments). Section ids are checked by the publisher
+    against the app's config/ui."""
+    root = Path(root)
+    lang = {"ru-en": "ru", "fr-en": "fr"}
+    for pdir in sorted(p for p in (root / "learn").glob("*") if p.is_dir()):
+        notes = {}
+        for f in sorted(pdir.glob("*.json")):
+            try: d = json.loads(f.read_text(encoding="utf-8"))
+            except ValueError as e: rep.err(str(f), f"not JSON ({e})"); continue
+            if check_schema(d, "learn", str(f), rep): notes[f.stem] = (f, d)
+        for name, (f, d) in notes.items():
+            if d["id"] != name: rep.err(str(f), f"id {d['id']!r} must equal the file name")
+            if d["pair"] != pdir.name: rep.err(str(f), f"pair {d['pair']!r} must equal the folder {pdir.name!r}")
+            for r in d["related"]:
+                if r == name or r not in notes: rep.err(str(f), f"related {r!r} is not another note of {pdir.name}")
+            for ex in d["examples"]:
+                m = re.fullmatch(r"([a-z-]+)-(s\d\d)(e\d\d)-scene-(\d\d)", ex["sceneId"])
+                sp = root / "out" / m[1] / (m[2] + m[3]) / f"scene-{m[4]}.json" if m else None
+                if not sp or not sp.exists(): rep.err(str(f), f"example scene {ex['sceneId']} does not exist"); continue
+                segs = json.loads(sp.read_text(encoding="utf-8"))["segments"]
+                if ex["seg"] >= len(segs): rep.err(str(f), f"example {ex['sceneId']}#{ex['seg']}: scene has {len(segs)} segments")
+                elif segs[ex["seg"]]["v"] == "narrator": rep.err(str(f), f"example {ex['sceneId']}#{ex['seg']} is a narrator line")
+                elif SHOWS.get(m[1]) != lang.get(pdir.name): rep.err(str(f), f"example {ex['sceneId']} is not a {pdir.name} show")
 
 
 # ---------------------------------------------------------------- subtitles
@@ -745,6 +772,7 @@ def main(argv):
     check_phrases(rep)
     check_lexicon(rep)
     check_art(rep)
+    if "--script" not in argv and base.name == "out" and (base.parent / "learn").is_dir(): check_learn(base.parent, rep)
     for x in rep.warnings[:LIST_CAP]: print("WARN ", x)
     if len(rep.warnings) > LIST_CAP: print(f"... {len(rep.warnings) - LIST_CAP} more warnings")
     for x in rep.errors[:None if show_all else LIST_CAP]: print("ERROR", x)

@@ -1,0 +1,108 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://overhear.invalid/schema/learn-article.v1.json",
+  "title": "learn/<pair>/<id>.json",
+  "description": "A Learn article. Proposed in PLAN-overhaul 4.6; none authored yet.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "id",
+    "pair",
+    "section",
+    "order",
+    "title",
+    "summary",
+    "body",
+    "related",
+    "examples",
+    "tags"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9-]*$"
+    },
+    "pair": {
+      "enum": [
+        "ru-en",
+        "fr-en"
+      ]
+    },
+    "section": {
+      "type": "string",
+      "minLength": 1
+    },
+    "order": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "title": {
+      "type": "object",
+      "minProperties": 1,
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      },
+      "propertyNames": {
+        "pattern": "^[a-z]{2}$"
+      }
+    },
+    "summary": {
+      "type": "object",
+      "minProperties": 1,
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      },
+      "propertyNames": {
+        "pattern": "^[a-z]{2}$"
+      }
+    },
+    "body": {
+      "type": "object",
+      "minProperties": 1,
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "markdown per UI language"
+    },
+    "related": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "examples": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "sceneId",
+          "seg"
+        ],
+        "properties": {
+          "sceneId": {
+            "type": "string",
+            "pattern": "^[a-z-]+-s\\d\\de\\d\\d-scene-\\d\\d$"
+          },
+          "seg": {
+            "type": "integer",
+            "minimum": 0
+          }
+        }
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}
