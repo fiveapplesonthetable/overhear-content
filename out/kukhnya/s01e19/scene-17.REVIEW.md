@@ -40,4 +40,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We have a serious relationship.' "U nas s ney", 'at us with her', is 'she and I have'. It's the same pattern as Vika's "u nas s toboy", now in Max's mouth.
 - 'Let your wife apologize to my girlfriend!' "Pust'", 'let', puts a demand on someone else. "Izvinitsya", 'apologize', is literally 'excuse oneself', hence the -sya.
 - 'Let's go home, my dear.' "Rodnaya", 'dear', literally means 'my own, kin'. You heard "rodnoy" for a waiter at the start of the episode.
-- 'Tomorrow we'll fly off to rest, okay?' "Poletim", 'we'll fly', comes from "letet'". "Otdykhat'", 'to rest', also covers going on holiday.
+- 'Tomorrow we'll fly off to rest, okay?' The 'po-' on 'poletim' marks setting off, the start of a flight. 'Otdykhat'', to rest, is also how Russians say 'to go on holiday'.

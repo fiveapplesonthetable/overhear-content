@@ -42,7 +42,7 @@ WALK = [
     (7, None, "'Who's she?' \"Kto takaya\" is literally 'who such', a slightly scornful 'who's she?'. \"Takaya\", 'such', is feminine because it's about a woman."),
     (8, None, "'Everyone knows her.' \"Eyo\", 'her', comes first to put the weight on her. \"Vse znayut\", 'all know', is the rest."),
     (9, None, "'I've got another ace up my sleeve.' \"Kozyr'\" is a trump card, borrowed from card games. \"Eshchyo odin\", 'one more', is literally 'still one'."),
-    (10, None, "'Book a table for the oligarch.' \"Zabroniruy\", 'book', comes from \"bron'\", 'reservation'. \"Stolik\" is the little table you book in restaurants."),
+    (10, None, "'Book a table for the oligarch.' A command in the 'ty' form: 'zabroniruy', book it, related to 'bron'', a reservation. After 'dlya' the name changes too: 'Prokhor Mikhaylov' becomes 'Prokhora Mikhaylova'."),
     (11, None, "'Will the oligarch dine with us?' \"Uzhinat'\", 'to have dinner', is built from \"uzhin\", 'dinner'. \"U nas\" here means 'at our place'."),
     (12, None, "'He will.' Russians often answer yes by repeating the key word, here \"budet\". It sounds sure of itself."),
     (13, None, "'Everyone definitely knows him.' \"Tochno\", 'definitely', also means 'exactly'. \"Ego\", 'him', comes first, just as \"eyo\" did a moment ago."),
