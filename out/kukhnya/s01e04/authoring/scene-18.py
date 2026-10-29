@@ -31,14 +31,14 @@ STORY = [
     ('elena', 'Вот и отлично, всего вам доброго!', 'Wonderful then, all the best to you!', [(263, 'Ну и хорошо')], ''),
 ]
 WALK = [
-    (0, None, '\'I have a very simple question for you.\' "U menya k vam vopros" is "at me to you a question". "Prostoy" is "simple", the adjective behind "prosto".'),
+    (0, None, '\'I have a very simple question for you.\' Word for word, "at me to you a quite simple question", with no verb "have" at all. Barinov says "k vam", the polite plural, keeping his rival at a distance.'),
     (1, None, '\'From one head chef to another?\' "Kak u shef-povara k shef-povaru" is "as at a head chef to a head chef", with -a for "at" and -u for "to".'),
     (2, None, '\'Which of my cooks came to see you?\' "Kto iz moikh povarov" is "who of my cooks". "Prikhodil", came, describes a trip there and back, which makes it a visit.'),
     (3, None, '\'I do not rat out my people, Viktor.\' "Sdavat\'" is to hand over, to the police or to an examiner. "Svoikh lyudey" is "my own people".'),
     (4, None, '\'He is my cook, not yours!\' "A ne vash" is "and not yours". The little "a" sets one claim against the other.'),
     (5, None, '\'He wants to work in a good kitchen.\' Russians work "na kukhne", on the kitchen. "Khoroshey" takes -ey to match.'),
     (6, None, '\'I have the best kitchen in this city!\' "Luchshaya", best, is feminine for "kukhnya". "V etom gorode" is "in this city".'),
-    (7, None, '\'Then why are your people looking for work?\' "Ishchut" is "they look for", from "iskat\'". "Vashi lyudi" is "your people".'),
+    (7, None, '\'Then why are your people looking for work?\' Elena throws back the very words Barinov used about newspapers, "ishchut rabotu", they look for work. "Vashi" is the polite "your" in the plural, to match "lyudi".'),
     (8, None, '\'I will definitely find out his name myself!\' "Obyazatel\'no" is "definitely". "Yego", his, never changes, and "uznayu" is "I\'ll find out".'),
     (9, None, '\'It is time for me to go to the kitchen.\' "Mne pora" is "to me it\'s time". "Na kukhnyu" takes -u for heading there.'),
     (10, None, '\'Will you find the way out yourself?\' "Vykhod", exit, is "vy-", out, plus "khod", a going. "Sami", yourself, is the polite plural of "sam".'),

@@ -38,7 +38,7 @@ WALK = [
     (5, None, '\'Do not worry, I know the exact recipe.\' "Ne volnuysya" is the familiar "don\'t worry". "Tochnyy retsept" is "exact recipe".'),
     (6, None, '\'First chop the onion and carrot finely.\' "Melko", finely, is from "melkiy", small. "Narezh\'" is "na-" plus "rezat\'", to cut: cut up.'),
     (7, None, '\'I will cut the vegetables into even pieces.\' "Rovnymi kusochkami" is "with even little pieces", with -ymi and -ami for "with".'),
-    (8, None, '\'Then add butter and warm cream.\' "Zatem" is "after that", and "dobav\'" is the command "add". "Maslo" covers both butter and oil.'),
+    (8, None, '\'Then add butter and warm cream.\' A command to one person: "dobav\'", add, from "dobavit\'". "Maslo" covers both butter and oil, and "slivki", cream, is always plural, which is why "tyoplye" ends in -ye.'),
     (9, None, '\'Everything will be ready on time, Senya.\' "Budet gotovo" is "will be ready", with -o to match "vsyo". "Vovremya" is "in time", written as one word.'),
     (10, None, '\'I will come and check your dish.\' "Pridu" and "proveryu" are single-word futures, I\'ll come and I\'ll check, with no "budu".'),
     (11, None, '\'You will be pleasantly surprised by this soup!\' "Udivlyon" is the man\'s short "surprised". "Etim supom" takes -im and -om for "by".'),

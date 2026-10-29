@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And from which restaurants are these people?' "Iz", out of, puts both words in the plural "of" form: "kakikh restoranov".
 - 'Some work in very respectable places.' "Dostoynykh", worthy, shares a root with "dostoinstvo", dignity. "Mestakh" is "mesta", places, with the plural "in" ending -akh.
 - 'Could someone really be leaving good restaurants?' "Neuzheli" opens a question of disbelief, like "can it really be?". "Iz khoroshikh restoranov" is "from good restaurants".
-- 'Maybe even from your restaurant.' "Mozhet byt'" is "may be", and "dazhe" is "even". "Vashego" keeps the polite "your", in the "of" form after "iz".
+- 'Maybe even from your restaurant.' Word for word, "may be, even out of your restaurant". Elena stays on polite "vy", so "your" is "vash", and after "iz" it takes the "of" ending: "vashego restorana".
 - 'I will eat my chef's hat if my cooks leave!' "S''yem", I will eat, is the irregular future of "s''yest'". "Kolpak" is the tall chef's hat, and "uydut" is "they will leave".
 - 'Then in advance I wish you bon appétit!' "Zaraneye" is "in advance". "Priyatnogo appetita" is in the "of" form because a wish usually takes it after "zhelayu", I wish.
 - 'My people are loyal to me to the end.' "Predany", devoted, and "predat'", to betray, both come from "hand over": you hand yourself to someone, or hand them to the enemy. "Do kontsa" is "to the end", from "konets".

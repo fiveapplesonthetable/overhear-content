@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'They will not take this guy anywhere anymore!' "Ne voz'mut" is "they won't take", with nobody named. "Nikuda" is "nowhere".
 - 'Viktor, we need to talk urgently.' Vika calls him "Viktor", without his father's name. "Nam nuzhno" is "to us it's needed".
 - 'I do not want to talk about this cook.' "Ob etom povare" is "about this cook", with "ob" before a vowel and -e on "povar".
-- 'Max did not go to that interview.' "Ne khodil" is "didn't go and come back". "Na to sobesedovaniye" is "to that interview".
+- 'Max did not go to that interview.' The verb "khodit'" means going there and back, so "ne khodil" says he never made the trip at all. "Sobesedovaniye", an interview, is built on "beseda", a conversation.
 - 'What are you saying right now?' "Chto ty takoye govorish'?" is "what such are you saying?", a surprised question.
 - 'It was I who went to the other restaurant.' "Eto ya" puts the spotlight on "I". "Khodila" ends in -la for a woman, and "chuzhoy" is "someone else's".
 - 'Max really is a very talented guy.' "Talantlivyy" is "talant" made into an adjective. "Deystvitel'no" is "really".

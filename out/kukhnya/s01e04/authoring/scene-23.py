@@ -45,5 +45,5 @@ WALK = [
     (10, None, '\'The main thing is do not worry because of the chef.\' "Ne perezhivay" is "don\'t fret", with "pere-" and "zhit\'", to live: to live through. "Iz-za" is "because of".'),
     (11, None, '\'Now you have me in the restaurant!\' "U tebya yest\' ya" is "at you there is me", the "have" pattern in full.'),
     (12, None, '\'Thank you for the support, you are a true friend.\' "Podderzhka" is "pod-", under, plus "derzhat\'", to hold. "Nastoyashchiy" is "real".'),
-    (13, None, '\'We will definitely come up with something!\' "Pridumayem" is "we\'ll think up", from "dumat\'". "Chto-nibud\'" is "something".'),
+    (13, None, '\'We will definitely come up with something!\' Put "pri-" on "dumat\'", to think, and you get "pridumat\'", to think up. Tacking "-nibud\'" onto "chto" gives "chto-nibud\'", something, anything at all.'),
 ]

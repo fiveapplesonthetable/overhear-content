@@ -34,7 +34,7 @@ WALK = [
     (0, None, '\'They will not take this guy anywhere anymore!\' "Ne voz\'mut" is "they won\'t take", with nobody named. "Nikuda" is "nowhere".'),
     (1, None, '\'Viktor, we need to talk urgently.\' Vika calls him "Viktor", without his father\'s name. "Nam nuzhno" is "to us it\'s needed".'),
     (2, None, '\'I do not want to talk about this cook.\' "Ob etom povare" is "about this cook", with "ob" before a vowel and -e on "povar".'),
-    (3, None, '\'Max did not go to that interview.\' "Ne khodil" is "didn\'t go and come back". "Na to sobesedovaniye" is "to that interview".'),
+    (3, None, '\'Max did not go to that interview.\' The verb "khodit\'" means going there and back, so "ne khodil" says he never made the trip at all. "Sobesedovaniye", an interview, is built on "beseda", a conversation.'),
     (4, None, '\'What are you saying right now?\' "Chto ty takoye govorish\'?" is "what such are you saying?", a surprised question.'),
     (5, None, '\'It was I who went to the other restaurant.\' "Eto ya" puts the spotlight on "I". "Khodila" ends in -la for a woman, and "chuzhoy" is "someone else\'s".'),
     (6, None, '\'Max really is a very talented guy.\' "Talantlivyy" is "talant" made into an adjective. "Deystvitel\'no" is "really".'),

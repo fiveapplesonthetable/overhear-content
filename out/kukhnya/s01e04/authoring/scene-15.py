@@ -32,16 +32,16 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'Lavrov, come here right now.\' "Podoydi" is "come up", with "pod-", up to. The surname, "Lavrov", marks a serious talk.'),
-    (1, None, '\'Chef, can I already go to the kitchen?\' "Mogu" is "I can", and "uzhe idti" is "already go".'),
+    (1, None, '\'Chef, can I already go to the kitchen?\' Just like English "can go", "mogu", I can, is followed by a plain infinitive, "idti", to go on foot. "Uzhe", already, slips in between them.'),
     (2, None, '\'Wait! Did you cook lunch for the cooks?\' "Podozhdi" is the familiar "wait". "Dlya povarov" is "for the cooks", with -ov.'),
     (3, None, '\'Yes, of course, I already made everything.\' "Sdelal" is "did" or "made", with the man\'s -l. "Uzhe" is "already".'),
     (4, None, '\'Is everything definitely ready? You aren\'t deceiving me?\' "Tochno" is "for sure". "Obmanyvayesh\'" is from "obman", a deception.'),
     (5, None, '\'Well, almost cooked, very little is left.\' "Pochti" is "almost". "Ostalos\'", is left, takes the neuter -o because nothing named is the subject.'),
     (6, None, '\'You are lying to my face again!\' "Vryosh\'" is the blunt everyday "you lie", from "vrat\'". "V litso" is "into the face".'),
     (7, None, '\'Chef, I never lie to you.\' "Nikogda ne vru" is "never not lie", the double negative. "Vam" is the polite "to you".'),
-    (8, None, '\'The lie detector shows something completely different!\' "Pokazyvayet" is "shows". "Sovsem drugoye" is "something else entirely", neuter for an unnamed thing.'),
+    (8, None, '\'The lie detector shows something completely different!\' Literally, "the detector of lie": "lozh\'", a lie, turns into "lzhi" in the "of" form. "Drugoye", other, is neuter because the thing it shows has no name.'),
     (9, None, '\'This stupid machine simply broke.\' "Slomalas\'" is "broke", with -s\' for breaking by itself and -a for "mashina".'),
     (10, None, '\'Chef, you are like my own father to me.\' "Rodnoy", one\'s own, is from "rod", kin. "Kak rodnoy otets" is "like a blood father".'),
-    (11, None, '\'Quickly run to the kitchen and feed people!\' "Begi" is "run", and "kormi" is "feed", two commands joined by "i".'),
+    (11, None, '\'Quickly run to the kitchen and feed people!\' Two ty commands back to back, "begi", run, and "kormi", feed. After "kormi", "lyudi", people, becomes "lyudey".'),
     (12, None, '\'Understood, chef, I will do everything instantly.\' "Slushayus\'" is the soldier\'s "yes, sir", literally "I obey". "Momental\'no" is "instantly", from "moment".'),
 ]

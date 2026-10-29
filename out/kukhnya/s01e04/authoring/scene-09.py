@@ -41,5 +41,5 @@ WALK = [
     (8, None, '\'Already starting to cook right now, Chef!\' "Nachinayu" is the plain present, "I start", which also covers "I\'m starting". "Pryamo seychas" is "right now".'),
     (9, None, '\'And watch this stove attentively!\' "Sledi za" is "follow behind", meaning keep an eye on. After "za", "plita" becomes "plitoy", and "eta" becomes "etoy".'),
     (10, None, '\'I will not step away from it anywhere!\' "Ot neyo" is "from her", since the stove is feminine, with an "n" added after "ot". "Otoydu" is "I\'ll step away", and "nikuda" doubles the negative.'),
-    (11, None, '\'We will see what kind of cook you are in practice.\' "Posmotrim" is "we\'ll see". "Na dele" is "in the deed", meaning in practice.'),
+    (11, None, '\'We will see what kind of cook you are in practice.\' One word does the work of "we will see": "posmotrim", with no word for "we" needed. "Na dele", literally "in the deed", means in practice, as opposed to in words.'),
 ]

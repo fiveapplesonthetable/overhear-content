@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do not worry, I know the exact recipe.' "Ne volnuysya" is the familiar "don't worry". "Tochnyy retsept" is "exact recipe".
 - 'First chop the onion and carrot finely.' "Melko", finely, is from "melkiy", small. "Narezh'" is "na-" plus "rezat'", to cut: cut up.
 - 'I will cut the vegetables into even pieces.' "Rovnymi kusochkami" is "with even little pieces", with -ymi and -ami for "with".
-- 'Then add butter and warm cream.' "Zatem" is "after that", and "dobav'" is the command "add". "Maslo" covers both butter and oil.
+- 'Then add butter and warm cream.' A command to one person: "dobav'", add, from "dobavit'". "Maslo" covers both butter and oil, and "slivki", cream, is always plural, which is why "tyoplye" ends in -ye.
 - 'Everything will be ready on time, Senya.' "Budet gotovo" is "will be ready", with -o to match "vsyo". "Vovremya" is "in time", written as one word.
 - 'I will come and check your dish.' "Pridu" and "proveryu" are single-word futures, I'll come and I'll check, with no "budu".
 - 'You will be pleasantly surprised by this soup!' "Udivlyon" is the man's short "surprised". "Etim supom" takes -im and -om for "by".
