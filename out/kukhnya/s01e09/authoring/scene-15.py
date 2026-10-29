@@ -39,7 +39,7 @@ WALK = [
     (5, None, '\'Did you make it for Aunt Vika?\' After "dlya", "for", both words change: "tyotya Vika" becomes "tyoti Viki". Alisa asks it as plain fact, and that is the problem.'),
     (6, None, '\'Why do you think about Aunt Vika?\' After "pro", "about", the endings change again, to "tyotyu Viku". Max tries to sound casual, and he does not manage it. He answers a question with a question.'),
     (7, None, '\'Papa always made tasty food for Mama.\' "Gotovil" is "cooked" with the man\'s -l. "Mame" is "to Mama", with no word for "for" needed. "Vkusnaya eda" is "tasty food". It\'s a sharp thing for a child to notice.'),
-    (8, None, '\'And what is this supposed to mean at all?\' "Dolzhno znachit" is "must mean": "dolzhno" is "must" or "supposed to". "Voobshche", "at all", is a filler Russians use when they\'re baffled.'),
+    (8, None, '\'And what is this supposed to mean at all?\' When Russians are baffled, they say "voobshche", at all, and Max does. "Dolzhno znachit" is "must mean"; "dolzhno" is neuter to match "eto", this.'),
     (9, None, '\'So Papa loves my Mama very much.\' "Znachit" is literally "means", and Russians use it as "so" when they draw a conclusion. "Silno lyubit" is "strongly loves". Alisa works it out like a detective.'),
     (10, None, '\'But Vika and I are just friends.\' Russian says "my s Vikoy", "we with Vika", for "Vika and I". "Druzya" is "friends", the plural of "drug". Max sounds a bit too quick.'),
     (11, None, '\'And Aunt Vika said that she loves you!\' "Skazala" has the woman\'s -la, because Vika is the one who said it. "Lyubit tebya" is "loves you". Alisa passes it on straight from the source.'),

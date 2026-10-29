@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Quiet everyone, I need complete silence!' "Mne nuzhna" is "to me needed", and "nuzhna" ends in -a to match "tishina", "silence". For a table it would be "nuzhen", for milk "nuzhno". Barinov shouts for quiet, which is a nice paradox.
-- 'Chef, we have already turned off all noisy equipment.' "Shumnye", "noisy", comes from "shum", "noise". "Vyklyuchili" is "turned off"; turning on is "vklyuchili", so only the front differs. Lyova reports it in short plain words.
+- 'Chef, we have already turned off all noisy equipment.' Only the front changes between off and on: "vyklyuchili", switched off, and "vklyuchili", switched on. "Shumnye", noisy, comes from "shum", noise. Lyova reports it in short plain words.
 - 'Be quiet, I demand absolute calm in the kitchen.' "Molchat" is the plain dictionary form, "to be silent", used as an order, and it sounds like a drill sergeant. "Trebuyu" is "I demand". He is not asking.
 - 'All the cooks fell silent and are standing in place.' "Zamolchali" is "molchat", "be silent", with za- in front, which marks the moment it starts: "went quiet". "Na meste" is "on the place", from "mesto".
 - 'Do not breathe, I want to hear every quiet sound.' "Ne dyshat" is another order in the dictionary form, with "ne" in front. "Kazhdy" is "every", and "zvuk" is "sound", easy to remember. The kitchen holds its breath.

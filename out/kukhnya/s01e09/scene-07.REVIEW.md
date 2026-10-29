@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I finally got Louis's knife back.' "Nakonets" is "finally". "Nozh Lui" is "knife of Louis": the owner comes after the thing, and a foreign name like Louis never changes its ending. "Zabral" is "took" with "za" in front, so "took away, got back".
+- 'Chef, I finally got Louis's knife back.' The owner comes after the thing: "nozh Lui", knife of Louis, and a foreign name like Louis never changes its ending. "Zabral" is "took" with "za-" in front, so took away, got back.
 - 'Where did you find it at all, Oguzok?' "Voobshche" means "in general" or "at all", the way English says "where on earth". Oguzok is Barinov's nickname for Max; it's the butcher's word for the rump, a cheap cut of beef.
 - 'Your daughter was playing with it in the kitchen!' "S nim" is "with it". "Im" becomes "nim" after "s": he, she, it and they all add an "n" after small words like this. The -la on "igrala" is the ending for a girl or woman.
 - 'Could she hurt herself or you?' "Mogla" is "could", with the -a ending of a girl. "Sebya" means "herself", and it is the same for everyone, he, she, or I. Barinov goes straight to the worry about Alisa.

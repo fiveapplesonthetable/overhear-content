@@ -42,6 +42,6 @@ WALK = [
     (8, None, '\'Put less Parmesan into this dish!\' "Kladite" ends in -te, so it\'s a command to several people, the whole kitchen at once. "Menshe" is "less", and "parmezana" has the "some of" ending after it.'),
     (9, None, '\'The sauce was ordered a whole half-hour ago.\' "Zakazali" is "they ordered", from "zakaz", the order. "Tselykh polchasa" is "a whole half-hour". And "ago" in Russian is "nazad", which means "back". Barinov is furious, and it shows.'),
     (10, None, '\'Move faster, the guests have been waiting long for the order.\' "Shevelites" is "move yourselves", with the -s on the end, and "bystree" is "faster". "Dolgo zhdut" is "long they wait". This is the chef\'s real language, short and loud.'),
-    (11, None, '\'Dad always commands so loudly.\' "Vsegda" is "always" and "gromko" is "loudly". "Komanduet" is almost the English "commands". Alisa just states it, as if it were the weather.'),
+    (11, None, '\'Dad always commands so loudly.\' An easy one: "komanduet" is close to the English "commands", with the usual -et for he or she. "Tak" before "gromko" makes it "so loudly". Alisa just states it, as if it were the weather.'),
     (12, None, '\'Your dad is the true master of the kitchen.\' "Khozyain" is "master", "owner" or "host", the person the place belongs to. "Nastoyashchy" is "real". Vika says it kindly, though the kitchen would say it another way.'),
 ]

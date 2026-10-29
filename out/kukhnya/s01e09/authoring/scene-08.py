@@ -31,15 +31,15 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'Vika, pour a little water, please.\' "Naley" is "pour", as a bare command. "Nemnogo vody" is "a little of water", with an ending that means "some of". And "pozhaluysta" is both "please" and "you\'re welcome". It\'s a very useful word.'),
-    (1, None, '\'Kostya will pour for you, and I have no time.\' "Tebe nalyot" is "to you will pour". "Mne nekogda" is "to me no-time", one little word where English needs three. Vika is busy, and she\'s quick about it.'),
+    (1, None, '\'Kostya will pour for you, and I have no time.\' Both halves use the "to" form: "tebe nalyot", will pour to you, and "mne nekogda", to me there\'s no time, one little word where English needs a whole clause.'),
     (2, None, '\'Wow, I did not know about your children!\' "Ogo" is the sound of surprise, like "wow". Max says "ya ne znal", with the man\'s -l. "Deti", "children", becomes "detyakh" after "o", "about": "o tvoikh detyakh".'),
     (3, None, '\'This is not my daughter, but my niece.\' "Ne ..., a ..." is "not this, but that", a pattern you can reuse anywhere. It\'s "moya", not "moy", because "doch" and "plemyannitsa", "niece", are both feminine words.'),
     (4, None, '\'She looks very much like you externally.\' Max says "pokhozha na tebya" again, the same words Alisa used in the office. "Vneshne" means "on the outside". This is a kind of compliment, and a nosy one.'),
     (5, None, '\'Her name is Alisa, and she is a good girl.\' Russian says "her they-call Alisa", "eyo zovut", with no "name" in it at all. You\'d say "menya zovut" for yourself. "Khoroshaya devochka" is "good little girl".'),
-    (6, None, '\'And why is she talking about our chef?\' "Pochemu" is "why", and "pro" is "about". After "pro", "nash shef" becomes "nashego shefa". Max can\'t see why a child cares about the chef.'),
+    (6, None, '\'And why is she talking about our chef?\' After "pro", about, "nash shef" becomes "nashego shefa". "Pro" is the everyday word; "o" is the more neutral one you\'d see in writing. Max can\'t see why a child cares about the chef.'),
     (7, None, '\'Because our chef is her own dad!\' "Potomu chto" is "because", which Vika also used with Barinov. "Rodnoy" means "own" in the family sense, from "rod", "kin", so this is her real father. Vika drops it in.'),
     (8, None, '\'Can it be that the chef is your close relative?\' "Neuzheli" is "can it be?" and carries real disbelief. "Rodstvennik" is a relative, from the same word for kin as "rodnoy". Max is stunned, and it shows in the one word.'),
     (9, None, '\'That is completely none of your business, Max!\' "Delo" is the "matter" or "business" from the earlier question "what\'s the matter". Here it is "not your matter".'),
-    (10, None, '\'Now I understand many strange things.\' "Teper" is "now", and "ponimayu" is "I understand". "Mnogie strannye veshchi" is "many strange things". The chef\'s moods finally make some sense to him.'),
+    (10, None, '\'Now I understand many strange things.\' Same order as English: now I understand many strange things. "Veshch", thing, is feminine, and its plural is "veshchi". The chef\'s moods finally make some sense to him.'),
     (11, None, '\'Go to the kitchen and work quietly!\' "Idi na kukhnyu" is "go to the kitchen", and the ending changes to show motion toward it. Earlier it was "na kukhne" for being there. "Molcha" is "without a word". Vika has had enough.'),
 ]

@@ -35,7 +35,7 @@ WALK = [
     (1, None, '\'Papa, this is just sweet chocolate.\' "Prosto" is "just" or "simply". "Sladky" is "sweet", and the sweet course is "sladkoe". She says it as if it were nothing, and that is exactly what scares him.'),
     (2, None, '\'My god, you cannot have chocolate!\' "Bozhe moy" uses "Bozhe", an old form of "Bog" kept just for calling out. "Tebe zhe nelzya" is "to you after all not allowed": the little "zhe" means "you know that".'),
     (3, None, '\'I ate only a small piece.\' "Syela" is "ate", with the girl\'s -la. "Kusochek" is the tiny version of "kusok", "piece", so it sounds like a nibble, not a bite. She knows how to make a thing sound small.'),
-    (4, None, '\'Who gave the child this chocolate?\' "Rebyonok" is "child"; "rebyonku" is "to the child", the one who received. "Dal" is "gave". Barinov wants someone to blame.'),
+    (4, None, '\'Who gave the child this chocolate?\' The child is the receiver, so "rebyonok" takes the "to" ending: "rebyonku". "Dal", gave, is the past of "dat". Barinov wants someone to blame.'),
     (5, None, '\'Nobody gave it, I took it myself.\' "Nikto ne daval" is "nobody not gave", two negatives, and that\'s correct. "Vzyala" is "took", with the girl\'s -la, and "sama" is "myself", also ending in -a for a girl.'),
     (6, None, '\'You will have a strong allergy starting now!\' "U tebya nachnyotsya" is "at you will begin", the same "u tebya" pattern. "Allergiya" is easy, and "silnaya", "strong", comes from "sila", "strength".'),
     (7, None, '\'Nothing hurts on me at all.\' It\'s "u menya nichego ne bolit", "at me nothing not hurts", with two negatives. Russians say "it hurts at me" where we say "I hurt". "Sovsem" is "at all".'),

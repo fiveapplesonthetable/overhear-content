@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Did you make it for Aunt Vika?' After "dlya", "for", both words change: "tyotya Vika" becomes "tyoti Viki". Alisa asks it as plain fact, and that is the problem.
 - 'Why do you think about Aunt Vika?' After "pro", "about", the endings change again, to "tyotyu Viku". Max tries to sound casual, and he does not manage it. He answers a question with a question.
 - 'Papa always made tasty food for Mama.' "Gotovil" is "cooked" with the man's -l. "Mame" is "to Mama", with no word for "for" needed. "Vkusnaya eda" is "tasty food". It's a sharp thing for a child to notice.
-- 'And what is this supposed to mean at all?' "Dolzhno znachit" is "must mean": "dolzhno" is "must" or "supposed to". "Voobshche", "at all", is a filler Russians use when they're baffled.
+- 'And what is this supposed to mean at all?' When Russians are baffled, they say "voobshche", at all, and Max does. "Dolzhno znachit" is "must mean"; "dolzhno" is neuter to match "eto", this.
 - 'So Papa loves my Mama very much.' "Znachit" is literally "means", and Russians use it as "so" when they draw a conclusion. "Silno lyubit" is "strongly loves". Alisa works it out like a detective.
 - 'But Vika and I are just friends.' Russian says "my s Vikoy", "we with Vika", for "Vika and I". "Druzya" is "friends", the plural of "drug". Max sounds a bit too quick.
 - 'And Aunt Vika said that she loves you!' "Skazala" has the woman's -la, because Vika is the one who said it. "Lyubit tebya" is "loves you". Alisa passes it on straight from the source.

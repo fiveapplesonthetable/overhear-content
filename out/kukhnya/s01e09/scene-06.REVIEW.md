@@ -34,8 +34,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'How much chocolate needs to be melted?' Russian says "how much of chocolate": after "skolko", "shokolad" becomes "shokolada". The Russian for melt, "razogret", is really "warm up", and in a kitchen that means melting.
 - 'And melt the chocolate in a water bath.' Russian calls it a "water banya". A banya is the Russian steam bath, a bathhouse, so a bain-marie is literally a little steam bath for the chocolate. It's a lovely picture.
 - 'All right, white or dark chocolate?' "Ili" is "or". Dark chocolate is "tyomny", plain "dark"; Russian doesn't call it black, "chorny", the way some languages do. Max knows to ask before he melts.
-- 'Only white, for the bank logo!' "Tolko" is "only". "Logotip banka" is "logo of bank": Russian has no little word for "of", so "bank" becomes "banka" and that ending does the job. "Dlya" is "for".
-- 'Oh, the phone is ringing, one second.' "Telefon zvonit" is "the phone rings". "Odnu sekundu" is "one second", the same as English "just a sec". He leaves Max with the bowl. This is where things start to go wrong.
+- 'Only white, for the bank logo!' There's no little word for "of" in "logotip banka", logo of bank; the -a on "banka" does the job. "Dlya", for, wants that same ending, so "logotip" becomes "logotipa".
+- 'Oh, the phone is ringing, one second.' Just as in English, the phone rings: "telefon zvonit". "Odnu sekundu" carries the object ending -u, like asking for one second. He leaves Max with the bowl.
 - 'Hello? No, right now I am in the kitchen.' "Allo" is what you say on the phone, and only on the phone. "Seychas ya na kukhne" repeats "on the kitchen" from the last scene. Louis speaks to a caller we never hear.
 - 'Louis, I finished whipping the cream.' "Zakonchil" ends in -l because Max is a man; a woman would say "zakonchila". "Krem" is the sweet cream here, and "vzbivat" is "to whip" or "to beat".
 - 'Oh, thank you, great job!' "Spasibo", "thank you", began as a short prayer, "God save". Louis moves from nagging to praise in one breath. "Otlichnaya rabota" is "excellent work", which any boss is glad to hear.

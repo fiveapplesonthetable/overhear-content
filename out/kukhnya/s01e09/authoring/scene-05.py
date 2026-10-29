@@ -41,9 +41,9 @@ WALK = [
     (6, None, '\'All right, what should we play?\' "Vo chto" is "into what", because Russian plays "into" a game: "igrat v". Before "chto" the little "v" grows an "o" and becomes "vo", which is easier to say.'),
     (7, None, '\'Let us play hide and seek!\' The game is called "pryatki", and it\'s always plural. It comes from the Russian for "hide". "Davay v pryatki" is as short as a game proposal can be.'),
     (8, None, '\'And who will hide?\' "Kto" is "who". The word "to hide" ends in -tsya, which means "hide oneself". Lyova asks seriously, as if the rules had been written down somewhere.'),
-    (9, None, '\'Of course, I will hide!\' "Ya budu pryatatsya" is "I will be hiding". "Budu" is "will be", the same trick as "will work". "Konechno" is the sh-sounding "of course" from before.'),
+    (9, None, '\'Of course, I will hide!\' A future built from "budu" plus a verb: "ya budu pryatatsya", I will be hiding, the same build as "budet rabotat" earlier. The "-sya" on the end means "oneself", to hide yourself.'),
     (10, None, '\'You are so tall, you cannot be hidden anywhere.\' Russian calls a tall person "dlinny", "long", so Lyova is "such a long one". "Nigde" is "nowhere", and it sits with "ne", "not". An insult only a child could get away with.'),
-    (11, None, '\'Close your eyes, count to a hundred.\' "Zakryvay glaza" is "close eyes", and "schitay do sta" is "count up to a hundred". "Sto", "a hundred", turns into "sta" after "do", "up to". The usual hide-and-seek rules in two short commands.'),
+    (11, None, '\'Close your eyes, count to a hundred.\' Two quick ty commands, "zakryvay" and "schitay", both ending in -ay. After "do", up to, "sto" changes to "sta". The usual hide-and-seek rules.'),
     (12, None, '\'One, two, three, four...\' Counting is "raz, dva, tri, chetyre". "Raz" is what you use when counting aloud, and it also means "once". Lyova actually starts counting, so the story moves on without him.'),
-    (13, None, '\'Count slowly, I am going to hide!\' "Medlenno" is "slowly", and "ya idu" is "I go" on foot. "Pryatatsya" is the hiding word from earlier. She has him counting while she runs off, as every child does.'),
+    (13, None, '\'Count slowly, I am going to hide!\' Like English, Russian can say "I go to hide": "ya idu pryatatsya", a verb of walking plus an infinitive. "Medlenno", slowly, comes from "medlenny", slow. She has him counting while she runs off, as every child does.'),
 ]
