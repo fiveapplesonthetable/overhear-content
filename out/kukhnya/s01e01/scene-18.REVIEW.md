@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I alone decide who works in my kitchen!' "Odin" is "one", and here "alone". "Komu rabotat'" is "to whom to work", the Russian for "who gets to work". "Na moyey kukhne" is "in my kitchen".
 - 'You will regret this strange and foolish decision.' "Pozhaleyete" is "you will regret", one word. "Resheniye" is "decision" and comes from "reshit'", to decide.
 - 'Oguzok, you are officially hired onto our restaurant staff!' "Oguzok" is a butcher's word for a cut of beef from the rump, and Barinov makes it his nickname for Max. "Shtat" is the staff list, so "v shtat" is "onto the staff".
-- 'You will work on a two-on, two-off schedule.' "Budesh' rabotat'" is "you will work". "Dva cherez dva" is "two through two", the Russian shorthand for two days on, two days off.
+- 'You will work on a two-on, two-off schedule.' "Dva cherez dva", literally "two through two", is everyday Russian shorthand for two days on, two days off. "Budesh' rabotat'" builds the future the long way, "you will" plus "to work", because it's an ongoing routine.
 - 'This is simply outrageous and completely unacceptable behavior!' "Nedopustimoye" is "ne" plus "dopustimoye", permissible. Both big describing words end in "-oye" because "povedeniye" is a neuter word.
 - 'And you can go command your waiters.' "Mozhete idti komandovat'" is three words in a row, "can go command", with no "to" between them. "Ofitsiantami" has the ending "-ami" that "komandovat'" calls for.
 - 'Create a wonderful atmosphere in the hall of our establishment!' "Sozdavayte" is the polite command "create". "Prekrasnaya", the word Max used for Vika at night, here becomes "prekrasnuyu" because the atmosphere is the thing being created.

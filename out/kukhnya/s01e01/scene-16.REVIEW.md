@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He only loudly shouted at the entire kitchen.' "Zakrichal" is "krichat'", to shout, with "za-" for "burst into". "Gromko" is "loudly", and "na vsyu kukhnyu" is "across the whole kitchen".
 - 'I see, he again is completely not listening to me.' "Slushayet" takes "menya" directly, with no "to". "Sovershenno" is "completely", and "opyat'" is "again".
 - 'The chef has been very angry since this morning.' "S samogo utra" is "from the very morning". "Serdityy", angry, comes from "serdtse", the heart.
-- 'We urgently need to update the list of our dishes.' "Obnovit'" is "to renew", from "novyy". "Nashikh blyud" is "of our dishes", with a plural "of" shape that loses the last vowel.
+- 'We urgently need to update the list of our dishes.' Russian says "to us it's needed": "nam nuzhno", with "nam" in the "to" form. "Obnovit'", to update, has "nov", new, in the middle, and in "nashikh blyud", of our dishes, "blyudo" loses its last vowel.
 - 'Guests in the dining room are already asking for new desserts.' "Sprashivayut" is "they ask", and here it's "ask for": Russian takes the desserts straight after the verb, with no "for". "V zale" is "in the hall", the dining room.
 - 'I will go myself right now and talk to him.' "Sama" is the feminine "sam", "myself" or "herself". "Poydu" and "pogovoryu" are two futures, one word each. "S nim" is "with him", and the "n" is added after "s".
 - 'Be very careful, the chef is in a bad mood.' "Bud'te" is the formal command "be". "Ostorozhny" ends in a plural "-y" because Sasha speaks to Vika as "vy". "V plokhom nastroyenii" is "in a bad mood".

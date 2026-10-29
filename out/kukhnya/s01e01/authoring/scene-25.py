@@ -34,7 +34,7 @@ STORY = [
 WALK = [
     (0, None, '\'Oguzok, are you still standing here?\' The chef uses his butcher\'s nickname for Max again. "Vsyo yeshchyo", literally "all still", is the everyday Russian for "still".'),
     (1, None, '\'Chef, please, do not humiliate me anymore.\' "Ne nado" is "not necessary", the Russian way to say "don\'t". "Unizhat\'" is "to humiliate", from "nizkiy", low: to make someone low.'),
-    (2, None, '\'Tomorrow morning come to work on time.\' "Zavtra utrom" is "tomorrow in the morning". "Prikhodi" is "come" for something that repeats. "Vovremya" is "on time".'),
+    (2, None, '\'Tomorrow morning come to work on time.\' Times of day work like adverbs: "utrom", in the morning, is just "utro" with an -om ending, so "zavtra utrom" is tomorrow morning. "Vovremya", on time, is written as one word; split in two, "vo vremya" means "during".'),
     (3, None, '\'Are you letting me stay to work in the restaurant?\' "Ostavlyayete" is "you leave", used for "you keep". Max says "vy" to his boss, and "menya" is "me".'),
     (4, None, '\'Chef, but why did you change your mind?\' "Peredumali" is "pere-", over, plus "dumat\'", to think: to think again. It ends in "-li" because Max says "vy".'),
     (5, None, '\'Do not ask foolish questions, or I\'ll change my mind!\' "A to" is "or else", literally "and that". "Peredumayu" is "I will change my mind", one word.'),
@@ -42,7 +42,7 @@ WALK = [
     (7, None, '\'I bet that he will run away on his own!\' "Posporil" is "I bet", the family of "posporim", "let\'s bet". "Sbezhit" is "will run away", from "bezhat\'", to run, and "sam" is "on his own".'),
     (8, None, '\'In a week this guy will leave on his own.\' "Cherez nedelyu" is "through a week", for "in a week". "Paren\'" is the casual "guy", and "uydyot" is "will leave".'),
     (9, None, '\'Every person has the right to a chance.\' "Imeyet pravo" is "has the right", using the formal "imet\'" for "have". "Pravo" also means "law".'),
-    (10, None, '\'To some, life itself gives a second chance.\' "Nekotorym" is "to some". "Sama zhizn\'" is "life itself", with "sama" the feminine of "sam". "Vtoroy" is "second".'),
+    (10, None, '\'To some, life itself gives a second chance.\' Who gets the chance comes first: "nekotorym", "to some", is in the "to" form, and the giver, "sama zhizn\'", life itself, follows. "Sama" is feminine because "zhizn\'" is a feminine word, even though it ends in a soft sign.'),
     (11, None, '\'I will definitely prove my culinary mastery.\' "Obyazatel\'no" is "definitely", from "obyazatel\'nyy", obligatory. "Masterstvo" has "master" inside it, as in "mastera".'),
     (12, None, '\'In short, our life is full of surprises.\' "V obshchem" is "in general", family of "obshchego" in "a lot in common". "Polna" is the feminine "full", to match "zhizn\'".'),
     (13, None, '\'And the main adventure is only just beginning!\' "Nachinayetsya", "is beginning", carries "-sya" because the adventure begins by itself, with nobody starting it. "Tol\'ko" with "yeshchyo" is "only just".'),

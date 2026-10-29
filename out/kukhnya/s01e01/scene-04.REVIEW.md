@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What, are you running away?' "Ubegayesh'" is "bezhat'", to run, with "u-" on the front for "away". "Ty chto" at the start is like "what, you...?", a little burst of disbelief.
 - 'Why running away?' Max throws her word back at her with one change. Hers ended in "-esh", "you", and his ends in "-yu", "I".
 - 'No, I'm just leaving.' "Prosto", "simply", is back, and it makes the sentence sound like a shrug. "Ukhozhu" uses the same "u-" for "away" as Vika's "run away", this time on foot.
-- 'Just like that? And that's all?' "Vot tak" is "like so", and "i vsyo" is "and everything". Put together, "i vsyo?" is how Russians say "and that's it?", a very handy reaction.
+- 'Just like that? And that's all?' Two tiny phrases do all the work. "I vsyo?", literally "and all?", is how Russians say "and that's it?", handy whenever something turns out simpler than expected. "Vot tak" is "like this", the way you'd say it while showing someone.
 - 'What about what was between us?' Word for word it's "and that what between us was". "Nami" is "us" in the form that comes after "between", and "bylo", "was", is the neuter one, because it refers to "that".
 - 'Thank you. It was fun.' "Prikol'no" is slang for fun or cool, from "prikol", a gag or a joke. It's exactly the wrong word to use after a night like this, and she hears it that way.
 - 'Fun, and that's it?' Vika picks up his slang word and hands it straight back. Repeating someone's word is the quickest way in any language to say you didn't like it.

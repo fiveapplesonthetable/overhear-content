@@ -29,11 +29,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Chef, I have an excellent idea.' "U menya yest'" is "at me there is", the full form of "I have". Earlier it was just "u menya dela", with "yest'" left out.
 - 'I can prepare my signature dish.' "Mogu" is "I can". "Firmennoye" comes from "firma", company, so a "firmennoye blyudo" is the house's own dish.
-- 'It is tender chicken in cream sauce.' "Nezhnaya" is "tender", and "kuritsa" is "chicken". "Slivochnyy" comes from "slivki", cream, and "v souse" is "in the sauce".
+- 'It is tender chicken in cream sauce.' Because "kuritsa", chicken, is feminine, "nezhnaya", tender, ends in -aya. "Slivochnyy" comes from "slivki", cream, and after "v" the sauce becomes "souse", "in the sauce".
 - 'A magnificent idea from an unknown person.' "Velikolepnaya" has "velikiy", great, inside it. "Neizvestnogo" is "ne" plus "izvestnyy", known, so "unknown". Praise this big from Barinov is a joke at Max's expense.
 - 'You came to my kitchen by accident.' "Sluchayno" comes from "sluchay", chance, which is also in "chto sluchilos'", "what happened". "Na moyu kukhnyu" is "to my kitchen".
 - 'Better keep peeling bananas!' "Luchshe" is "better", used as "you'd better". "Chisti" is the command "peel", from "chistyy", clean. "Dal'she" is "further", meaning "keep going".
-- 'Why peel off these stickers at all?' "Zachem" is "what for". "Snimat'" is "to take off", the everyday partner of "snimu" from the stove. "Nakleyki" are stickers, from "kleit'", to glue.
+- 'Why peel off these stickers at all?' "Zachem" asks "what for?", about purpose, where "pochemu" asks about the cause. "Snimat'" is "to take off", the everyday partner of "snimu" from the stove, and "nakleyki", stickers, come from "kleit'", to glue.
 - 'For ideal order in the universe.' "Poryadok" is "order", the word from "keep order on your table". "Vo vselennoy" is "in the universe": "v" becomes "vo" before a heavy cluster like "vs", just to make it sayable.
 - 'But I know how to prepare wonderful desserts.' "No" is the plain "but", different from "a". "Prekrasnyye deserty" is plural, so the describing word ends in "-ye".
 - 'All right, I will give you one chance.' "Dam" is "I will give", irregular and short. "Tebe" is "to you", the friendly form.
