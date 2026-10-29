@@ -39,7 +39,7 @@ WALK = [
     (6, None, '\'I am an excellent cook and finished culinary college.\' "Zakonchil", "finished", has "konets", the end, inside it. "Kulinarnyy kolledzh" sounds almost like English: "culinary college".'),
     (7, None, '\'All right, then go straight to our kitchen.\' "Idite" is the formal command "go". "Na nashu kukhnyu" ends in -u because he\'s going there; to be there it would be "na nashey kukhne".'),
     (8, None, '\'The head chef will decide whether you suit the restaurant.\' "Li" means "whether", and it comes right after the key word: "podkhodite li", "do you suit". "Reshit" is "will decide".'),
-    (9, None, '\'The owner of the restaurant sent me straight to the chef.\' "Otpravil" is "sent". "K shefu" is "to the chef": after "k", meaning "to a person", "shef" picks up an -u.'),
+    (9, None, '\'The owner of the restaurant sent me straight to the chef.\' Two endings carry this line. "Restorana", with -a, means "of the restaurant", and after "k", "to" a person, "shef" picks up an -u: "k shefu". "Pryamo", straight, is also how you say "straight ahead" when giving directions.'),
     (10, None, '\'The main thing now is to please the strict head chef.\' "Ponravit\'sya" is the same root as "mne nravitsya", "I like". It means "to please". "Strogomu" has the ending "-omu" that means "to".'),
     (11, None, '\'We shall see whether you know how to cook deliciously.\' "Posmotrim" is "we shall see", one word. "Umeyete" is "you know how to", for skills. "Vkusno" comes from "vkus", taste.'),
 ]

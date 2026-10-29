@@ -42,7 +42,7 @@ WALK = [
     (7, None, '\'Would you like to work in a good restaurant?\' "Khotite" is the formal "you want", right for an owner talking to a young cook he\'s only just met. "Porabotat\'" is "to work for a while": here the "po-" adds "a bit".'),
     (8, None, '\'Of course! That is my dream.\' "Konechno" is spelled with a "ch" but pronounced "koneshno". Remember that one. "Moya mechta" is "my dream". "Moya" is the feminine "my".'),
     (9, None, '\'You are welcome. I will be glad.\' "Milosti prosim" is a warm old phrase, literally "we ask for your kindness", and it means "welcome". "Budu rad" is "I will be glad", the future of "to be" plus "rad".'),
-    (10, None, '\'I am speaking completely seriously.\' "Sovershenno" is "completely", and "ser\'yozno" is "seriously". Nagiyev piles them up so there\'s no doubt that he means it.'),
+    (10, None, '\'I am speaking completely seriously.\' Nagiyev stacks two adverbs, "sovershenno", completely, and "ser\'yozno", seriously. Both end in -o, which is how many Russian adjectives become "-ly" words: "ser\'yoznyy", serious, turns into "ser\'yozno".'),
     (11, None, '\'In which restaurant?\' It\'s the same "v kakom restorane" as in the night-time talk, with "kakom" and "restorane" taking their endings after "v".'),
     (12, None, '\'Restaurant Claude Monet in Moscow.\' "V Moskve" is "in Moscow", and now the name takes -e after "v". When it meant "of Moscow" it ended in -y.'),
     (13, 'Спасибо огромное! Я обязательно приду.', '\'Thank you very much! I will definitely come.\' "Ogromnoye" means "huge", so "spasibo ogromnoye" is "huge thanks". "Pridu" is the future of "come", with no "will" in front.'),

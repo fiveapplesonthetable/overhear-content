@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Frankly speaking, your kitchen seems a bit basic to me.' "Chestno govorya" is literally "honestly speaking". "Mne kazhetsya" is "it seems to me". And "prostovataya" has "-ovat-", which adds "somewhat" to "prostaya", simple.
 - 'Our restaurant is one of the best in Moscow!' "Odin iz luchshikh" is "one of the best", literally "one from the best", with a plural ending on "best". The dash stands for "is".
 - 'Then I, perhaps, will agree to show my talent.' "Pozhaluy" is "perhaps", a softener you can drop into any sentence. "Soglashus'" is "I will agree", and "svoy" is "my own".
-- 'I will personally check these ridiculous words right now!' "Lichno" is "personally", from "lichnyy". "Proveryu" is "I will check", and "nelepyye" is "ridiculous", plural to match "slova", words.
+- 'I will personally check these ridiculous words right now!' Vika's "proveryu" is perfective, a job she'll finish, so it means "I will check". "Lichno" is "personally", and "nelepyye", ridiculous, has the plural ending to match "slova", words.

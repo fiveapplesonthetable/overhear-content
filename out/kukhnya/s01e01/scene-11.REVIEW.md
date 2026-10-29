@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But you are holding the menu upside down.' "Vverkh nogami" is literally "up with legs", "nogami" being "legs" with the ending "-ami", "with". So upside down is "legs up".
 - 'Really? I am studying the original design.' "Pravda?" is "truth?" once more. "Original'nyy dizayn" is borrowed from English, so you can follow Max's excuse even with no Russian.
 - 'Are you afraid of someone in the dining hall?' "Kogo-to" is "kogo", whom, plus "-to", which turns it into "someone". "Boites'", "you're afraid", wants that "kogo" form: afraid of whom.
-- 'Not at all, I am waiting for the restaurant owner.' "Vovse net" is "not at all". "Zhdu" is "I wait", and Russian says "I wait the owner", with no "for", just an -a on "khozyaina".
+- 'Not at all, I am waiting for the restaurant owner.' There's no "for" in the Russian: Max says "zhdu khozyaina", "I wait the owner", and the -a on "khozyaina" does the job. "Restorana" ends in -a too, meaning "of the restaurant". "Vovse net" is a strong "not at all".
 - 'The owner definitely is not standing behind this pillar.' Russian says a person "stands" somewhere, and doesn't just "be". "Tochno" is "exactly", here "definitely", and "za etoy kolonnoy" is "behind this pillar".
 - 'I understand, I am simply resting here.' "Ponimayu" is "I understand", the everyday present tense, where "ponyal" was "got it". "Otdykhayu", "I'm resting", comes from "otdykh", a rest or a holiday.
 - 'Please, do not block the walkway for the waiters.' "Pozhaluysta" is "please", and also "you're welcome". "Zagorazhivayte" ends in "-te", the polite-"you" ending, and "ofitsiantam" is "to the waiters".

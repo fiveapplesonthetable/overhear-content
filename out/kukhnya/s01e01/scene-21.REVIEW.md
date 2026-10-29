@@ -37,7 +37,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What will we bet about?' "O chyom" is "about what", as before. "My budem sporit'" is "we will bet", the future "will be" plus "to bet".
 - 'An ordinary person will like my hot dish.' "Obychnomu cheloveku" is "to an ordinary person", both words with the "to" ending, because the person is the one pleased. "Goryacheye" is "hot".
 - 'Good! You will prepare a dish for me.' "Dlya menya" is "for me". Where English has one "me", Russian has several forms, and this is the "for" one.
-- 'If I like it, you stay here.' "Yesli mne ponravitsya" is "if it pleases me". "Ostayosh'sya" is "you stay", in the present, which Russians use for firm promises.
+- 'If I like it, you stay here.' Russian turns liking around: "mne ponravitsya" is "it will please me", so the dish is the subject and Barinov is "to me". Then "ostayosh'sya", you stay, is in the present, which makes the promise sound settled.
 - 'If not, you will leave here forever.' "Navsegda" is "na" plus "vsegda", always: forever. "Otsyuda" is "from here", the partner of "syuda", "to here".
 - 'I agree to this bet!' A man says "soglasen", and a woman would say "soglasna". "Na etot spor" is "to this bet".
 - 'We will see what kind of cook you are!' "Posmotrim" is "we will see". "Kakoy iz tebya povar" is literally "what from you cook", Russian for "what kind of cook you'll turn out to be".

@@ -31,10 +31,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Too bad only that the chef won't appreciate this.' "Zhalko" says "what a pity" with no "it is". "Otsenit", "will appreciate", comes from "tsena", price.
 - 'We will see about that yet.' "My s toboy" is "we with you", for "you and I". "Eshchyo posmotrim" is "we'll yet see", a defiant "we'll see about that".
 - 'Why, he won't even taste it!' "Ne stanet probovat'" is "will not become to taste", Russian for "won't go so far as to taste". The opening "da" adds a "come on" feeling.
-- 'And if he tastes it, he won't like it.' "Yemu" is "to him". "Poprobuyet" is "will try", and "ne ponravitsya" is "won't be pleasing".
+- 'And if he tastes it, he won't like it.' Kostya uses the same liking pattern: "yemu", "to him", plus "ne ponravitsya", it won't please. "Poprobuyet", he'll try, needs no "he" in front, because the -et ending already says who.
 - 'I know our chef very well.' "Znayu" is "I know", for people and facts. "Nashego shefa" is "our chef", both words in the object shape.
 - 'Wait, we need a more objective opinion.' "Boleye" is "more", placed before a describing word: "boleye ob''yektivnaya". "Otsenka" is "opinion", from "otsenit'".
-- 'Let someone else taste it first.' "Pust'" is "let", and "kto-nibud' drugoy" is "someone else". "Snachala" is "first", or "at the beginning".
+- 'Let someone else taste it first.' Put "pust'" in front of a verb and you get "let him do it": "pust'... poprobuyet", let someone taste. "Kto-nibud'" is "someone, anyone", and adding "drugoy", other, gives "someone else".
 - 'How long must one wait for the hot dish?' "Skol'ko mozhno" is "how much is possible", Russian for "how long must we". "Zhdat'" takes the dish directly, with no "for".
 - 'One has to do everything herself in this kitchen.' "Prikhoditsya" is "it falls to one", from "prikhodit'", to come. "Samoy" is "herself", in the form for a woman.
 - 'I will carry it to the hall myself right now.' "Otnesu" is "I will carry away", with "ot-" where "prinesu" had "pri-". "V zal" has no ending because he's going to it.

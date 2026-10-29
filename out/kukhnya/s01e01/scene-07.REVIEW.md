@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Never use that cheap cognac!' "Nikogda ne" is "never not", a double negative, and Russian insists on it. "Ispol'zuy" is a short, sharp "use!", and "konyak" is just cognac.
 - 'Yes, Chef, I understood everything!' "Ponyal", "understood", is the past tense, and Russians use it where English says "got it". "Vsyo", "everything", is the same word as in "and that's all?".
 - 'You ruined the meat sauce with this.' "Isportil" is "you ruined". "Etim", "with this", needs no separate word for "with": the "-im" ending does it. And "myaso" becomes "myasa" after "dlya", "for".
-- 'I simply wanted to add a vivid aroma.' "Khotel" is "wanted", and "dobavit'" is "to add". "Yarkiy" means bright, the word you'd use for a bright colour, and here it's a bright, strong smell.
+- 'I simply wanted to add a vivid aroma.' With no -a on the end, "khotel", wanted, tells you a man is speaking, and the verb after it, "dobavit'", to add, stays in its dictionary form. "Yarkiy" is the word for a bright colour, borrowed here for a strong smell.
 - 'A real chef feels every taste of the dish.' "Nastoyashchiy" is "real", the word from "true love" in the night scene. "Vkus blyuda" is "the taste of the dish": "blyudo" swaps its -o for -a to mean "of the dish".
 - 'Forgive me, Chef, I will not do it anymore.' Max uses the formal "prostite", "forgive", with his boss. "Ya ne budu" is "I won't be", and Russians leave it at that: a bare "ne budu" means "I won't do it again".
 - 'Take a good bottle on the top shelf.' "Voz'mi" is "take", an irregular command people simply learn. "Verkhniy" is "top", from "verkh", the peak, and "polka" is "shelf", ending in -e after "na", "on".
@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And begin making this sauce anew!' "Nachni" is the command "begin". "Zanovo" is "anew", and you can hear "novyy", new, inside it.
 - 'I will do everything correctly right now.' "Sdelayu" is "I'll do", the form for getting a job finished rather than just working at it. "Pryamo seychas" is "straight now", this very second.
 - 'Watch carefully the temperature on the stove.' "Vnimatel'no", "carefully", comes from "vnimaniye", attention. "Smotri za" is "keep an eye on", and "plita", the stove, becomes "plite" after "na".
-- 'Yes, Chef, I remember your rules!' "Pomnyu" is "I remember", and "vashi pravila" is "your rules" in the polite form. "Pravila", rules, is family to "pravil'no", correctly, so correct means "by the rules".
+- 'Yes, Chef, I remember your rules!' Max says "vashi", the polite "your", because nobody says "ty" to the chef. "Pravila", rules, is family to "pravil'no", correctly: doing it right means doing it by the rules.

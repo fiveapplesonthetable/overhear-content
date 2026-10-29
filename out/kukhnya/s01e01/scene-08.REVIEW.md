@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The meat must become tender and juicy.' "Sochnyy", juicy, comes from "sok", juice. "Dolzhno" is "must", ending in -o because "myaso" is a neuter word. After "stat'", "become", the describing words take the endings "-im" and "-ym".
 - 'How much time does each piece need tenderizing?' "Skol'ko vremeni" is "how much time", and "vremya" turns into "vremeni" after "skol'ko". Max is asking a perfectly fair question.
 - 'Do not ask stupid questions, work faster!' "Zadavat' vopros" is "to set a question", the Russian way to say "ask". "Bystreye", "faster", is "bystro", quickly, with "-eye" for "more".
-- 'I do everything exactly according to your order.' "Tochno" is "exactly", and "po zakazu" is "according to the order". "Vashemu" is the formal "your", with the ending that goes after "po".
+- 'I do everything exactly according to your order.' After "po", "according to", both words take the ending -u: "vashemu zakazu". "Tochno", exactly, also works on its own as a firm "exactly!" or "for sure".
 - 'Keep watch over the order on your work table.' "Svoyom" means "your own", and Russian uses it whenever the owner is the one the sentence is about. "Rabochiy stol" is "work table", made of "rabota" and "stol".
 - 'I always have complete cleanliness here.' "U menya" is "at me" once more, with "zdes'" and "vsegda" in the middle. "Chistota", cleanliness, comes from "chistyy", clean.
 - 'Now the pieces are cut beautifully and neatly.' "Kusochki" are little pieces: "kusok", a piece, made small. "Narezany", "cut up", describes the result and never says who did the cutting.
