@@ -37,5 +37,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And our old friends remain by our side.' 'Druzya', friends, the irregular plural of 'drug', came up in the smoke-break scene too. 'Ostayutsya' is 'remain', and 'ryadom' is 'nearby', 'by your side'.
 - 'And sometimes we arrive back at the starting point.' 'Byvaet' is 'it happens', and a handy opener for 'sometimes it happens that'. 'Iskhodnaya tochka' is 'starting point'.
 - 'The main thing is not to lose faith and hope.' 'Terat' is 'to lose', and 'veru' and 'nadezhdu' are 'faith' and 'hope', both with 'u', the ending for a feminine word that's the object. 'Nadezhda' is also a girl's name.
-- 'The main thing is to believe in all changes.' 'Verit' is 'to believe', and 'in' is 'v'. Before 'vse' it grows to 'vo', because Russians avoid two 'v's and a 'vs' pile-up.
+- 'The main thing is to believe in all changes.' Little 'v', 'in', grows to 'vo' before 'vse', since 'v vse' would jam the consonants together. 'Verit v' is 'to believe in', and 'glavnoe' with a pause is a common way to start 'the main thing is'.
 - 'All changes in life lead to the better!' 'K luchshemu' is 'towards the better', with 'k', towards, and the 'emu' ending that goes with it. 'Vedut' is 'lead'.

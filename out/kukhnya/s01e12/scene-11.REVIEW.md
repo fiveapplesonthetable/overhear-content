@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'So, have all the waitstaff gathered here?' 'Tak' is the 'so' or 'right' that people use before an announcement. 'Sobralis' ends like 'sya' words do, so it's literally 'gathered themselves'.
 - 'Yes, everyone is listening to you very attentively.' 'Slushayut' is 'they listen', with no 'they' written. 'Vnimatelno' means 'attentively', from vnimanie, 'attention'.
 - 'Starting today we have a strict ban.' 'S segodnyashnego dnya' is literally 'from today's day'. 'U nas' is 'at us', and Russians use it for 'we have'. 'Zapret' is 'ban'.
-- 'What sort of ban in our restaurant?' 'Kakoy eshchyo' is literally 'what other', and it turns the question into a challenge: 'what ban now?'. 'V nashem restorane' is 'in our restaurant'.
+- 'What sort of ban in our restaurant?' On its own 'eshchyo' means 'more' or 'still', but after 'kakoy' it turns indignant: 'what ban now?'. In 'v nashem restorane' both words change for 'in': -em on 'our', -e on the restaurant.
 - 'Any personal relationships at work are forbidden.' 'Zapreshchenny' is related to 'zapret', ban, as 'forbidden' is to 'ban'. 'Lyubye' means 'any' and otnosheniya, 'relationships', is normally plural in this sense.
 - 'But why do we need such a new rule?' 'Zachem nam' is 'what for to us'. 'Pravilo', rule, is neuter, so both 'such' and 'new' end in 'oe': 'takoe novoe pravilo'.
 - 'Now the restaurant has very difficult times.' 'U restorana' is 'at the restaurant', so 'the restaurant has'. 'Slozhnoe vremya' is 'difficult time', and 'vremya' is neuter, so 'slozhnoe' ends in 'oe'.

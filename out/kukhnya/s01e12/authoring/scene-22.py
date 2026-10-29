@@ -36,7 +36,7 @@ WALK = [
     (2, None, "'Kostya, thank you so much for the help.' 'Ogromnoe' means 'huge', so 'huge thanks' is a warm 'thank you so much'. 'Za pomoshch' is 'for the help'."),
     (3, None, "'You are such a brave guy to me!' The phrase 'you at me' means 'in my eyes you are'. 'Smelyy paren' is 'brave guy', and 'paren' with 'moy', my, is how you say 'my boyfriend'."),
     (4, None, "'I simply helped the people go outside.' 'Pomog' is 'helped', and the people being helped take an ending: 'lyudi' becomes 'lyudyam'. 'Vyyti' is 'to go out'."),
-    (5, None, "'You are a real hero of our restaurant!' 'Nastoyashchiy geroy' is 'a real hero'. 'Nashego restorana' is 'of our restaurant', both words with the 'of' ending, 'ego' and 'a'."),
+    (5, None, "'You are a real hero of our restaurant!' Nastya picks 'nastoyashchiy', 'real', the same word Barinov used for the real palm trees. In 'nashego restorana' both words carry the 'of' endings, -ego and -a."),
     (6, None, "'They apologised to us there for the inconvenience.' Russian apologises 'pered', in front of, someone: 'pered nami', literally 'in front of us'. No 'they' is said. 'Neudobstva' is 'ne', not, plus 'udobstvo', convenience, here in the plural."),
     (7, None, "'The restaurant next door is closed for technical reasons.' 'Zakryt' is 'closed', in the short form with no ending, to match masculine 'restoran'. 'Po tekhnicheskim prichinam' is the standard notice-on-the-door way to say 'for technical reasons'."),
     (8, None, "'And where do we have dinner now?' 'Pouzhinat' is 'to have supper', from 'uzhin', supper. 'Gde zhe' is 'where, then'. 'Nam' is 'for us'."),

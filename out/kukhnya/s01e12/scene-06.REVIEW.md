@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Decided to personally check your main competitors?' 'Reshili' is the group form of the past again, so this is the polite 'you'. 'Lichno' means 'personally', in person.
 - 'I am not at all afraid of your restaurant.' 'Sovsem ne' means 'not at all'. After 'afraid', the thing feared gets an 'a' on the end, so 'restoran' turns into 'restorana'. 'Vashego' is the polite 'your'.
 - 'Then why are you looking at us?' 'Togda' means 'then', and it picks up what he has just said. 'You look' ends in 'ite', the polite 'you' form once more.
-- 'Why do you need real palm trees in the dining room?' 'Zachem vam' is literally 'what for to you', and it means 'why would you need'. 'V zale', 'in the hall', is the same phrase Barinov used for Vika's side of the restaurant.
+- 'Why do you need real palm trees in the dining room?' There's no verb at all: 'zachem vam', 'what for to you', is how you ask why someone needs a thing. 'Vam' is the polite 'you', since Barinov is speaking to Elena.
 - 'This creates a cozy Italian atmosphere.' 'Atmosfera' is feminine and it's the thing being created, so both describing words end in 'uyu': uyutnuyu italyanskuyu.
 - 'Palm trees will not help cook tasty food!' 'Ne pomogut' is 'will not help', in the group form that goes with 'palms'. 'Gotovit' covers both 'cook' and 'prepare', and 'eda' is food.
 - 'We will have the tastiest cuisine!' 'U nas budet' is 'at us will be', the way Russians say 'we will have'. 'Samaya' means 'the most', and it goes in front of 'tasty'. 'Kukhnya' means both kitchen and cuisine.

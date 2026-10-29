@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, why are you standing doing nothing?' 'Bez dela' is literally 'without business', and it's how you say 'idle'. 'Stoish' is 'you stand', and the 'stoy' you'll hear later is 'stand!' made from the same word.
+- 'Senya, why are you standing doing nothing?' To say 'idle', Russian says 'bez dela', 'without business', from 'delo', a job or matter. Barinov uses 'ty' with his cook, and 'stoish' is the ty form of 'stoyat', 'to stand'.
 - 'I am waiting for the needed spices for the meat.' Russian says 'I wait the spices', with no word for 'for' after 'wait'. 'Myasa' is 'of meat', and it picks up an 'a' after 'for'.
 - 'Are you waiting until a gnome sprinkles cinnamon?' 'Zhdyosh' is 'you wait', the same word as Senya's 'I wait'. 'Poka' here means 'until', and the gnome is Barinov's sarcastic picture of how slow Senya is.
 - 'Chef, I do everything quickly.' 'Vsyo' means 'everything', and it's one of the most common little words in Russian. 'Bystro' is 'quickly', and you'll hear it again in a moment.
